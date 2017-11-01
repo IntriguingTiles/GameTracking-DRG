@@ -1,0 +1,31 @@
+4 namespaces
+21 values
+
+Namespace Engine (1 keys)
+	ClientOutdated = "The match you are trying to join is running an incompatible version of the game.  Please try upgrading your game version."
+
+Namespace EPartyReservationResult (10 keys)
+	Accepted = "Accepted"
+	InvalidReservation = "Bad reservation request"
+	DuplicateReservation = "Duplicate reservation detected"
+	FullGame = "Game full"
+	ReservationNotFound = "No Reservation"
+	NoResponse = "No response"
+	DeniedResponse = "Not accepting connections"
+	ContainsExistingPlayers = "Party members already in session"
+	BannedResponse = "Player Banned"
+	GeneralError = "Unknown Error"
+
+Namespace K2Node (3 keys)
+	FlushLeaderboards = "Flush Leaderboards"
+	K2Node_LeaderboardFlush_Tooltip = "Flushes leaderboards for a session"
+	LeaderboardFlushCategory = "Online|Leaderboard"
+
+Namespace NetworkErrors (7 keys)
+	GenericBeaconConnectionFailed = "Beacon Connection Failed."
+	BeaconSpawnFailureError = "Join failure, Couldn't spawn beacon."
+	BeaconSpawnClientWorldPackageNameError = "Join failure, existing ClientWorldPackageName."
+	BeaconSpawnExistingActorError = "Join failure, existing beacon actor."
+	BeaconSpawnNetGUIDAckError2 = "Join failure, no actor at NetGUIDAck."
+	BeaconSpawnNetGUIDAckError1 = "Join failure, no host object at NetGUIDAck."
+	BeaconSpawnUnexpectedError = "Join failure, unexpected control message."
