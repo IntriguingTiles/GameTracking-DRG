@@ -207,6 +207,43 @@
 			}
 		},
 		{
+			"File": "../../../FSD/Plugins/MixerPlugin/Mixer.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1",
+				"FriendlyName": "Mixer",
+				"Description": "Interact with participants on the Mixer broadcasting service",
+				"Category": "Misc",
+				"CreatedBy": "Microsoft",
+				"CreatedByURL": "www.microsoft.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "MixerInteractivity",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "MixerInteractivityEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "MixerInteractivityBlueprintNodes",
+						"Type": "Developer",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin",
 			"Descriptor": 
 			{
@@ -604,65 +641,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Runtime/AndroidPermission/AndroidPermission.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "0.1",
-				"FriendlyName": "Android Runtime Permission",
-				"Description": "Support for Android Runtime Permission",
-				"Category": "Android",
-				"CreatedBy": "Google",
-				"CreatedByURL": "http://developers.google.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "AndroidPermission",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/AppleARKit/AppleARKit.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "0.1",
-				"FriendlyName": "Apple ARKit",
-				"Description": "Support for Apple's ARKit augmented reality system",
-				"Category": "Augmented Reality",
-				"CreatedBy": "",
-				"CreatedByURL": "",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "AppleARKit",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Mac",
-							"IOS",
-							"Win64"
-						]
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin",
 			"Descriptor": 
 			{
@@ -741,55 +719,6 @@
 						"Name": "ImmediatePhysicsEditor",
 						"Type": "Developer",
 						"LoadingPhase": "PreDefault"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/Oculus/OculusVR/OculusVR.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "OculusVR",
-				"Description": "Support for Oculus headsets and controllers",
-				"Category": "Virtual Reality",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"Modules": [
-					{
-						"Name": "OculusHMD",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Android"
-						]
-					},
-					{
-						"Name": "OculusInput",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Android"
-						]
-					},
-					{
-						"Name": "OculusEditor",
-						"Type": "Editor",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64"
-						]
 					}
 				]
 			}

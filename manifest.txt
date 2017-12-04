@@ -1,24 +1,90 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 2947703074754109569 / 11/01/2017 11:58:10
-Total number of files  : 779
-Total number of chunks : 1824
-Total bytes on disk    : 1112633663
-Total bytes compressed : 575283696
+Manifest ID / date     : 4045260073160956633 / 12/04/2017 10:40:02
+Total number of files  : 846
+Total number of chunks : 2071
+Total bytes on disk    : 1319410602
+Total bytes compressed : 664035808
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/CEF3
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/CEF3/Win64
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/CEF3/Win64/Resources
+       6003861      6 09860DA38FC611688C652ED45321EC4FC921A916     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef.pak
+        279905      1 E8388AB1706527241EC9FFD60A6438456BB2F7D6     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_100_percent.pak
+        386884      1 22719C8A2CE54C0AB25D3E738F10193C065601F9     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_200_percent.pak
+       3565138      4 E696BDF5C77BCEF7FAEFFC5F6ABDB7B6412722B8     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_extensions.pak
+       5183550      5 79D4DD194620AF3CC05C25E35658898C4D3AEDE6     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/devtools_resources.pak
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales
+        317735      1 4069667E38D4AD0AD321A73270D46BD5716ACF27     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/am.pak
+        314031      1 CC8E08E39756AFC2BCD8ADC302BC294C209698A9     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ar.pak
+        366595      1 93869EB340EC76808FBD699758C8BFB8584AEF71     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bg.pak
+        478939      1 5418BEC4B7ED85D5C329270DDE2B3C3209F8C51F     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bn.pak
+        228122      1 839139EEF50DA8D0EA4C9256C4AF1A8C4D272023     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ca.pak
+        231572      1 1E737803A1198F9A7D0B33190344B68C2535C648     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/cs.pak
+        207739      1 EC14F1BBDCAB73B9554EA170FA79B1DF93D25374     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/da.pak
+        226211      1 EA02B8388C8CAE94A6708CD0E1775FE8346D39E5     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/de.pak
+        402687      1 BB72EF57660979CD5463C0F93DF2193FA2B7B91D     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/el.pak
+        186958      1 C86A842B26B0E2782BDBE52CA1CAF9C28411A242     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-GB.pak
+        186991      1 38F551B8CEF2A71611715CF2E6C84084D04D2207     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-US.pak
+        224532      1 04E8C3D0F5F74E3BDA22635E1C3FA60D524CE8E8     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es-419.pak
+        228808      1 0004E5D291D01EB7A62FBCCB096FAF5DA252826E     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es.pak
+        202214      1 626D7F870A0FCA39F76108E8C5E890D658584CFF     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/et.pak
+        321134      1 C319AF2F999B9D1055778E5EB130ED78BA8E9EF5     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fa.pak
+        211980      1 C51CE55CFE799EB00A98F45E6B5C2C6228838B14     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fi.pak
+        232070      1 EED57448D5377A73D8DB885198655F9B83885C9A     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fil.pak
+        243625      1 A8CFC3B5209709265FF143A258D13D375F9CD571     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fr.pak
+        451818      1 D593DCDBD68C098AABE6F5450D06D22CCEA535F9     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/gu.pak
+        265463      1 E09D401A63BC336898B7630BAC005173F4880DF6     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/he.pak
+        460810      1 2583DD248EE4A8CD049D2C92CE380266776F5A7B     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hi.pak
+        217428      1 8AED07F7D91B555C6470A22D61F97EF5AB88B02D     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hr.pak
+        239083      1 F4D55EBF3427763EA64A0219C3F45DBB9A060477     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hu.pak
+        201977      1 497AC15EA718F731651FAF4E1BCF3BFBC8865728     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/id.pak
+        220397      1 5A05B94E3AEF757E2A7E66A7A5AF349EABB496BE     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/it.pak
+        270807      1 FB02E23300A8118499391A1216BD207BA56A8066     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ja.pak
+        519415      1 FF6CE9F9C053C34E4EC229CDF7EC98B706799DF4     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/kn.pak
+        230850      1 AA198AC1FA3F4AFD7C1B669E3816F52B43ED7B97     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ko.pak
+        234416      1 D934D481FA605A24CC4F75BF11725F7FECC885B7     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lt.pak
+        234204      1 7474505A170FE166F2A361D903DF403779EBF340     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lv.pak
+        567612      1 F0DAB2E081E4CB137E5943D4CB98CBD50B02B58D     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ml.pak
+        456368      1 438A7AFEDA7513FE7380B09B21C23C03D829ABB6     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/mr.pak
+        208619      1 85E632B94271CB0335B1562AC3DC94F549FEACC7     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ms.pak
+        205047      1 061EBE095829A7D2FC0850CA0CDB8EEFC49853CF     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nb.pak
+        215699      1 FB01977693511BB455C292ECCB3BED0D467E7594     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nl.pak
+        225555      1 AA99BA5945A5892D8C37C58405880C5F25B3BB9F     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pl.pak
+        221133      1 F62F0D98F8B1D7530413574A0FBC0F58E5F0A1F5     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-BR.pak
+        223472      1 FEA703826966E59009FDE62B38D613BFF23B75AF     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-PT.pak
+        229091      1 47E2FA3DBE1725252B78FCCFF6C58DA63300FF09     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ro.pak
+        351003      1 67F7A2FC2CB44CCB9405D836021297079C33F3C6     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ru.pak
+        237218      1 4AEBD597E3BEE8D4EE193B4E1BC5C976500DEF6A     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sk.pak
+        217919      1 90A7AC3A1505297173A3C3D1D4F4D6E0B433B4CB     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sl.pak
+        341731      1 A91D696972216126A4EA1818D4801EDC4EA62CB9     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sr.pak
+        206145      1 5FBE187ACF08532A74D628086E05A7B10E24677D     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sv.pak
+        209319      1 27284A302E4109D154BF64A1F927193235DC42F1     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sw.pak
+        527387      1 DB15C2209178576DD50ED5F4A8A71FED0333F668     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ta.pak
+        503299      1 AB43518329713F2D25D202F16850E016257AF59B     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/te.pak
+        438108      1 752AB6240AC4FE458CB5B4D026FA5D28AF4A55D4     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/th.pak
+        221774      1 BD63D0148FA0D23ED99F56B0606F89963580ABA6     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/tr.pak
+        358245      1 50369BEAE21528851A6135236376AAC267EE3755     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/uk.pak
+        254300      1 7FEF540F25F6D0DC951F58378D7A6CC8299C2A60     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/vi.pak
+        190714      1 C1A453F9544302360D20CBCE040A6A13E8816927     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-CN.pak
+        192079      1 948565177CEDA048E6D6A8A229B37E640DE37015     0 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-TW.pak
+        547840      1 31891613416D61551D04B603A77FD8776D316B7B     0 Engine/Binaries/ThirdParty/CEF3/Win64/chrome_elf.dll
+       2106216      3 98BE17E1D324790A5B206E1EA1CC4E64FBE21240     0 Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_43.dll
+       4488904      5 876EB1D947D9FDF00DA3F07CE1FA5499CB24F49D     0 Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll
+      10130560     10 FE532DF1DE6DD6F9971227B48F8856E07AE0883D     0 Engine/Binaries/ThirdParty/CEF3/Win64/icudtl.dat
+         92672      1 58D82865AB86A193F8F6FF1CBF7677525F6E217D     0 Engine/Binaries/ThirdParty/CEF3/Win64/libEGL.dll
+       3922432      4 CE2785277D60AA366E6FAF3C3318D5767A3D949E     0 Engine/Binaries/ThirdParty/CEF3/Win64/libGLESv2.dll
+      98275328     94 9B7827325D6FDC5B7FAF38FB60EE8BF6BD25D120     0 Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll
+        246209      1 1D5346516D5F1F7546D4400CA3EEA55022DDD9BD     0 Engine/Binaries/ThirdParty/CEF3/Win64/natives_blob.bin
+       1562112      2 2AF54C9BD47E1B31FB930C90379A74A082F357D4     0 Engine/Binaries/ThirdParty/CEF3/Win64/snapshot_blob.bin
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/NVIDIA
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64
          31744      1 5AA5B0CEB1139CAAD23632373BEAE1A4BE4921A8     0 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.dll
-             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Oculus
-             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Oculus/OVRPlugin
-             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin
-             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64
-       9620904     10 5D7F7454EBCCE29D20A7014A9BAB767F7E507434     0 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Ogg
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Ogg/Win64
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015
@@ -60,8 +126,9 @@ Total bytes compressed : 575283696
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Windows/DirectX/x64
          44752      1 669768620446F0AAC1A18EDA98CF6A8DECF1B8FC     0 Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/Win64
-      17630720     17 57FCEBDAB732002DAFAC0FCFCA144BA6D43CF825     0 Engine/Binaries/Win64/CrashReportClient.exe
-     103116800     99 C18472C060BD0F43B5B7FA1CEC269E2AE6F01C7D     0 Engine/Binaries/Win64/CrashReportClient.pdb
+      17630720     17 E3994275E04D007D458424E26609F60EB315E333     0 Engine/Binaries/Win64/CrashReportClient.exe
+     103116800     99 91F5815E0C33C4D241DEC499BD008223C84687A1     0 Engine/Binaries/Win64/CrashReportClient.pdb
+       3620864      4 14BCDCFABFE8D4A355928DB51C14FEE0EAC2DCC8     0 Engine/Binaries/Win64/UnrealCEFSubProcess.exe
              0      0 0000000000000000000000000000000000000000    64 Engine/Config
           1528      1 713DB11186795CD938CC518A02A8E9A4AE1BEE01     0 Engine/Config/controller.vdf
              0      0 0000000000000000000000000000000000000000    64 Engine/Content
@@ -839,17 +906,17 @@ Total bytes compressed : 575283696
            427      1 17282192AE35B107FCD5C9E15966665ACA698A6F     0 Engine/Shaders/StandaloneRenderer/OpenGL/SplashFragmentShader.glsl
            247      1 68F34555F22616D10AA8D1444B363E6959D7D96D     0 Engine/Shaders/StandaloneRenderer/OpenGL/SplashVertexShader.glsl
              0      0 0000000000000000000000000000000000000000    64 FSD
-        460288      1 C6328FDA9AEC18C67B697CCFAEC519E4FBFF7C7A     0 FSD.exe
+        460288      1 152D4F33052736AA9D677EB9BE2FC6AEE90FEE49     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      47094784     45 157A08A363273B32518358EE2DBCBFB0EA137C0E     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
-     344035328    330 CD2ACF3E008E7A5C78D85493AD0B3E0748783919     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
+      50148864     48 93AC886E67DC70CEB10074EB4E457FE63515A211     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+     356929536    341 701844D4D91447665AFE9E673CC6CD4ED46BD672     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Movies
       27031904     26 BB46F33933E896807791BED7DAE023ED2B841479     0 FSD/Content/Movies/StartupScreen720.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-     414423815    400 8BC0AB2002492A7A1E5F8FCF9B4141667D1BFDA5     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+     459294564    448 1024B36237A0366187F627BFE355F2918B3759C7     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
-          1060      1 D1FA05803D31516B28E877E77255C96EAA7AFF93     0 Manifest_DebugFiles_Win64.txt
-         63291      1 9D0FDF9BAEC8659C88AB401C025D0F17A3D50DF0     0 Manifest_NonUFSFiles_Win64.txt
+          1060      1 65016A3C870BEB13E75E228BA4088248C41ADF9F     0 Manifest_DebugFiles_Win64.txt
+         69174      1 A76B96E9A274E8E0E64C8D4824E65DE28145EE33     0 Manifest_NonUFSFiles_Win64.txt
