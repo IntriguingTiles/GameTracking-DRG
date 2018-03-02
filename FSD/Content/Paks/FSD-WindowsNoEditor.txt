@@ -1,4 +1,4 @@
-22998 files
+22990 files
 Engine/Config/Base.ini hash:C001EF0B380BB783ADBEA52EF1D9061882122499 size:33
 Engine/Config/BaseCompat.ini hash:BB2326259CBAA301AC494BBDC8CA6AC133997993 size:16732
 Engine/Config/BaseDeviceProfiles.ini hash:B37CA6D66A2A41CAAE6E03F8B6A0271BC5C1D933 size:21832
@@ -3626,14 +3626,14 @@ Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector
 Engine/Plugins/Runtime/ImmediatePhysics/ImmediatePhysics.uplugin hash:7448C07315B103BF0000395565DA5274F77A0A7E size:678
 Engine/Plugins/Runtime/RuntimePhysXCooking/RuntimePhysXCooking.uplugin hash:B5739E6A6611000779D98EB7ABC42E9FC7E3CB5D size:608
 Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin hash:3120B94A65BB627227F87A1ADDAE8D08D43D8231 size:679
-FSD/AssetRegistry.bin hash:F2EA1D0E50A4F3B1E9B76EE37D42D5F9A713BD6D size:4417024
+FSD/AssetRegistry.bin hash:8D39B2C16839DF816CFAD533A79B24A665023D99 size:4415134
 FSD/Config/DefaultEditor.ini hash:EABB02481B21971A841A3D152FA7A97BE6E51FE9 size:45476
 FSD/Config/DefaultEditorPerProjectUserSettings.ini hash:17EEBC6433D75B38B0E8EC2EC5E016DE4FAF27AA size:10442
 FSD/Config/DefaultEngine.ini hash:30F59E9AFD6A75FCA8EECF75D6E5EDBAC70DD272 size:35954
-FSD/Config/DefaultGame.ini hash:9869A4BC79D3307B83EA3B942F4D803186E32275 size:20860
+FSD/Config/DefaultGame.ini hash:464033B0265FEA5931F8AAE4BC839A772F9C5224 size:20860
 FSD/Config/DefaultGameplayTags.ini hash:8FB42E9461B5AA761625F7231A8EBD1888F9AEBC size:4285
 FSD/Config/DefaultGameUserSettings.ini hash:A2517BBC177BF4DBE3E1E08360E796BCE10B7F26 size:418
-FSD/Config/DefaultInput.ini hash:3B6C8B83D1DAB1197EB946879CFF25B718F58113 size:13675
+FSD/Config/DefaultInput.ini hash:B2CB7E016C1BAA47D7F5E57438A8750E190A37D6 size:13675
 FSD/Config/DefaultScalability.ini hash:F9618FCA3695123B5D2F5D70DE3BFF18EE75E869 size:158
 FSD/Config/Localization/Game_Compile.ini hash:C6C691185F016928B1AE0D0912C691830407C4D6 size:683
 FSD/Config/Localization/Game_Export.ini hash:BA30F15ED513983D37DD3BE7BB160615AA4ED6C1 size:830
@@ -3853,7 +3853,7 @@ FSD/Content/Art/_TestingGrounds/UItesting/BTN_SideBar_Big.uexp hash:6B78B401057A
 FSD/Content/Art/_TestingGrounds/UItesting/NewsTicker.uasset hash:D22C9F3B6016F859A4C5E2AA5C8C1C75E8EB295A size:14439
 FSD/Content/Art/_TestingGrounds/UItesting/NewsTicker.uexp hash:BE9F202104C6D4E46A6719B1AB2B0C6355571CC4 size:17044
 FSD/Content/Art/_TestingGrounds/UItesting/UI_Testing_MainMenu.uasset hash:23E882AD60BA879F7ED406E3DF130EDEFAA0621D size:76581
-FSD/Content/Art/_TestingGrounds/UItesting/UI_Testing_MainMenu.uexp hash:5A9099E49E8F332E817547E806E1374793DBC185 size:508225
+FSD/Content/Art/_TestingGrounds/UItesting/UI_Testing_MainMenu.uexp hash:0A517308CE2C34395A32579E9C26A82CB2E371E5 size:508225
 FSD/Content/Art/BaseMaterials/M_GenericLaserBeam.uasset hash:C29698DFA2644FA2B4F572FFE7B463A7D62635A8 size:2909
 FSD/Content/Art/BaseMaterials/M_GenericLaserBeam.uexp hash:A2984646FD0241339D0ADD81614EA44691C74A2F size:117427
 FSD/Content/Art/Carvers/Cube_1-1-1.uasset hash:8823A5C7B6434A090CC95FEDE440FFCAA30E8CDD size:2397
@@ -3953,7 +3953,7 @@ FSD/Content/Art/Cinematics/E3trailer2017/BP_E3trailer_AsteroidField.uexp hash:22
 FSD/Content/Art/Cinematics/E3trailer2017/E3trailer_CamShake.uasset hash:1E41444035958FE119C64895C530D615EB5D0BD7 size:1315
 FSD/Content/Art/Cinematics/E3trailer2017/E3trailer_CamShake.uexp hash:5E56B5028A74C6960E91C6616CD8CB0C3311E9EF size:835
 FSD/Content/Art/Cinematics/E3trailer2017/E3trailer_planetTesting.ubulk hash:70A0143313BB0511220F27C816CC300DFFF710DD size:286720
-FSD/Content/Art/Cinematics/E3trailer2017/E3trailer_planetTesting.uexp hash:3F96CDCD3B87F603AC906DF5435001B1560A4F91 size:2248830
+FSD/Content/Art/Cinematics/E3trailer2017/E3trailer_planetTesting.uexp hash:8B38480B4CF0FE67FCD3691A8362CF836A1E20F3 size:2248830
 FSD/Content/Art/Cinematics/E3trailer2017/E3trailer_planetTesting.umap hash:325B886BD77922317EB053F4EDA94E4259E87026 size:25113
 FSD/Content/Art/Cinematics/E3trailer2017/Hoxxes.uasset hash:DCF3F0F186389F35FD9AC8BD001D2AE86F476DB7 size:2422
 FSD/Content/Art/Cinematics/E3trailer2017/Hoxxes.uexp hash:87BE9428694043D2B09982A7957851DDB532E9FA size:11307511
@@ -5513,14 +5513,8 @@ FSD/Content/Art/Textures/T_Noise02.ubulk hash:3574267EDB832CF07AC6F83B96710E3401
 FSD/Content/Art/Textures/T_Noise02.uexp hash:2A325CD75089A59D43D2A8B929E3A9A3A8E1263E size:3271
 FSD/Content/Art/Textures/T_WhiteTile.uasset hash:51648A2EDC770095AA8D718C86EED3DD27143C75 size:706
 FSD/Content/Art/Textures/T_WhiteTile.uexp hash:B527569106878D9C8DA6AC32636B51DCAA6844F6 size:542
-FSD/Content/Art/UI/ControlLayouts/Controls_Controller_XBOX.uasset hash:5ECBF9F0E21A71FA34F7A087C3D10873B3952590 size:824
-FSD/Content/Art/UI/ControlLayouts/Controls_Controller_XBOX.uexp hash:12E114F88D103424D2BB0DABBBD3054A6F504A03 size:2796863
-FSD/Content/Art/UI/ControlLayouts/Controls_Keyboard_AZERTY.uasset hash:3EB63A256EAE8ED9D91602AE79EFFBC32B93FBA1 size:824
-FSD/Content/Art/UI/ControlLayouts/Controls_Keyboard_AZERTY.uexp hash:5CA46FB155E84A5870CD95E606FBB853B57FDABD size:2796863
 FSD/Content/Art/UI/ControlLayouts/Controls_Keyboard_QWERTY.uasset hash:93F906350C23D15CED3FDB62A72EEFD3C3B2B080 size:824
 FSD/Content/Art/UI/ControlLayouts/Controls_Keyboard_QWERTY.uexp hash:FD5D900ED389513D030778BDB3343EB51709264D size:2796863
-FSD/Content/Art/UI/ControlLayouts/Controls_Keyboard_QWERTZ.uasset hash:316758622CCEA1627816D15BCEB72475A805C5D3 size:824
-FSD/Content/Art/UI/ControlLayouts/Controls_Keyboard_QWERTZ.uexp hash:C8506B9E29B01856BBCF521342CC96B25474244A size:2796863
 FSD/Content/Art/UI/Crosshairs/Dot-01.uasset hash:5923D9E755AC758F76F6307942BE6E2DA8145393 size:873
 FSD/Content/Art/UI/Crosshairs/Dot-01.uexp hash:B831762E4C3A3670D25FEE4810A8A8D5EFCFACDA size:1398704
 FSD/Content/Art/UI/Crosshairs/HUD_Crosshair_Basic01.uasset hash:EAE9B4B75E01680D1D0F39689D315AD429FE484F size:891
@@ -19769,7 +19763,7 @@ FSD/Content/Maps/UILevels/CharSelectionSequence.uexp hash:A5DC0139002EFD196E6AC2
 FSD/Content/Maps/UILevels/LVL_CharacterSelection.uexp hash:91CCDAAD6508E16A7DBFD35D485ED969AB475258 size:11357
 FSD/Content/Maps/UILevels/LVL_CharacterSelection.umap hash:22D52DBCE228BFC12C26DE2B4F932297F85CACEC size:18884
 FSD/Content/Movies/Intro/DropPodLeavesSpaceRig_MediaPlayer.uasset hash:6B7604F204A3D61A54FD2F245C0800956F84FD42 size:737
-FSD/Content/Movies/Intro/DropPodLeavesSpaceRig_MediaPlayer.uexp hash:3AFED417605B8DD1A8A28F273AFE4F3966239144 size:107
+FSD/Content/Movies/Intro/DropPodLeavesSpaceRig_MediaPlayer.uexp hash:F439067D29D6477F80C8A107AB53FAA1D7E59950 size:107
 FSD/Content/Movies/Intro/DropPodLeavesSpaceRig_Video_Mat2.uasset hash:E1A3F384628DDF50EE2622747C7175533B6FC378 size:1441
 FSD/Content/Movies/Intro/DropPodLeavesSpaceRig_Video_Mat2.uexp hash:0E9741CA30A66BE672C2E715CC09AB3C2E30AEE1 size:465
 FSD/Content/Movies/Intro/DropPodLeavesSpaceRig_Video.uasset hash:A4F95B4F2B94333D1970FAF6AF97163176EC5947 size:638
@@ -21641,7 +21635,7 @@ FSD/Content/UI/Chat/HUD_Chat.uexp hash:4DE5B5C5956DF3CCF0A1429AE2446C48C026B80D 
 FSD/Content/UI/Chat/HUD_ChatLine.uasset hash:3B0A760392823F2139D0F1B66E532AB22924767A size:12878
 FSD/Content/UI/Chat/HUD_ChatLine.uexp hash:9E5D718BBC7F2301C0CBF0A2C624E6BFEFAFC3A3 size:7176
 FSD/Content/UI/Global_UI_Elements/GFX_Background03.uasset hash:8359D9689545B1D97A9F933F7739956BDD4FDA7F size:10977
-FSD/Content/UI/Global_UI_Elements/GFX_Background03.uexp hash:AD25A1DA97CE8740E643E1074F686613FACC4C7C size:23574
+FSD/Content/UI/Global_UI_Elements/GFX_Background03.uexp hash:C5EBA436596B8276E98AC63BBFE3A5304482E76C size:23574
 FSD/Content/UI/Global_UI_Elements/UI_AdvancedLabel.uasset hash:7751BF9D79232427EDD6561082F2C847181EB507 size:21876
 FSD/Content/UI/Global_UI_Elements/UI_AdvancedLabel.uexp hash:1C8556647A876E47FE07F5049AF8DF6275BAF751 size:8132
 FSD/Content/UI/Global_UI_Elements/UI_BlackOverlay.uasset hash:20C3CF675CC5C3EC3FE039C1EA43DEF63E00A96B size:3562
@@ -22154,12 +22148,12 @@ FSD/Content/UI/Menu_MissionSelectionMK3/WND_MisSel_MissionOptions.uasset hash:C8
 FSD/Content/UI/Menu_MissionSelectionMK3/WND_MisSel_MissionOptions.uexp hash:A74A6EEA267DC3E9076ADD912337D940DCE68F8C size:82729
 FSD/Content/UI/Menu_MissionStart/Screen_LoadLevel.uasset hash:1C7563F9A5DF8825BA596F89DBF6050006AADAE4 size:62234
 FSD/Content/UI/Menu_MissionStart/Screen_LoadLevel.uexp hash:E4EF736FA47EC999F96CD365F148B9B25294A38B size:60087
-FSD/Content/UI/Menu_Options/Menu_Options.uasset hash:62E06A7F41BD59D8F25DACCAE3A9E761C2EBA721 size:683297
-FSD/Content/UI/Menu_Options/Menu_Options.uexp hash:4004B3A56A279EB427A06281640FA188CF708E1F size:1825792
+FSD/Content/UI/Menu_Options/Menu_Options.uasset hash:28F4C394D4401FE59D24BBE847B465FCD73548CA size:676532
+FSD/Content/UI/Menu_Options/Menu_Options.uexp hash:E5FDED35E9C5AE774245CE4307AC0F305AC38699 size:1811210
 FSD/Content/UI/Menu_Options/Options_AllowMetric.uasset hash:742AAFDEC2E64AB28BA14D371E47258CC32E75E5 size:19578
 FSD/Content/UI/Menu_Options/Options_AllowMetric.uexp hash:BDCA990D52CE1D85D0CDE30E2BBC8BEDDF9C7FDB size:55852
-FSD/Content/UI/Menu_Options/Options_ControlLayout.uasset hash:CBE1A8B1CAC03BB8EE0DEE8BD54E6A3498FC1B62 size:37535
-FSD/Content/UI/Menu_Options/Options_ControlLayout.uexp hash:509A140DA7755BABBB6A138F77C55A044FD2CA67 size:31354
+FSD/Content/UI/Menu_Options/Options_ControlLayout.uasset hash:6D9BE34D1C8C81DE161CEB1F81197CCA30B35AAA size:28307
+FSD/Content/UI/Menu_Options/Options_ControlLayout.uexp hash:2CF768DF94321B6CDA843D28504918518E6D2729 size:27200
 FSD/Content/UI/Menu_Options/Options_Controller_AimAcceleration_Outer.uasset hash:EACC5A36012B2E7650B1A070885831BD36515E59 size:13554
 FSD/Content/UI/Menu_Options/Options_Controller_AimAcceleration_Outer.uexp hash:CC7361FFA6FE55BB899BD08DD6E2EAB9EC933631 size:7649
 FSD/Content/UI/Menu_Options/Options_Controller_AimDeadZone.uasset hash:415C52138687E9240EB9966484096B087EEEE07E size:13453
@@ -22174,8 +22168,8 @@ FSD/Content/UI/Menu_Options/Options_FullScreen_Resolutions.uasset hash:899A4E785
 FSD/Content/UI/Menu_Options/Options_FullScreen_Resolutions.uexp hash:A7D4E2D59765EDD2CC325AB081B1DDE9A062669C size:11120
 FSD/Content/UI/Menu_Options/Options_FullScreen_UWP.uasset hash:A06F31260C56BE55BA11A93F11DF930B2A789D4B size:14274
 FSD/Content/UI/Menu_Options/Options_FullScreen_UWP.uexp hash:BB32976DEE349880799F56AD6522502810FBB616 size:9217
-FSD/Content/UI/Menu_Options/Options_FullScreen.uasset hash:EF3D91B3C408504D1F2C539FDB5B8A06589203CD size:14402
-FSD/Content/UI/Menu_Options/Options_FullScreen.uexp hash:0F05EC6A8A7429ABC3FDB6449AF409F82636BDC0 size:9423
+FSD/Content/UI/Menu_Options/Options_FullScreen.uasset hash:63ED10FF70B4D2A1B32BB90C631BBF158ABD0B3F size:14378
+FSD/Content/UI/Menu_Options/Options_FullScreen.uexp hash:E232F024753E45086EE542F11B19C5D19449A01B size:9358
 FSD/Content/UI/Menu_Options/Options_GameServerName.uasset hash:02BB2E712B559075726A71ED16508D2485C90F27 size:11460
 FSD/Content/UI/Menu_Options/Options_GameServerName.uexp hash:8046EBF14D0D972F88EA3F4905BD5480CF20C760 size:5766
 FSD/Content/UI/Menu_Options/Options_GFX_MaxFPS.uasset hash:7F4AF11DA85C2931B63A528E13ACE0866B17BB90 size:27396
@@ -22186,8 +22180,6 @@ FSD/Content/UI/Menu_Options/Options_HoldToSprint.uasset hash:01E73314E6D5DB2D472
 FSD/Content/UI/Menu_Options/Options_HoldToSprint.uexp hash:39EFF1999838FEC0ECD07668C6436BA9FE946CC5 size:18923
 FSD/Content/UI/Menu_Options/Options_InvertMouseWheel.uasset hash:931620800CF4E7BC18FE6BDEE372E94CDC01F6ED size:19445
 FSD/Content/UI/Menu_Options/Options_InvertMouseWheel.uexp hash:A146705E8B34AA38D6E7230007D7FD204D9AB518 size:55889
-FSD/Content/UI/Menu_Options/Options_KeyboardLayout.uasset hash:9F23BF74AE81490E09B9CB59F667D282A22457A9 size:19186
-FSD/Content/UI/Menu_Options/Options_KeyboardLayout.uexp hash:1F4B99192ED1569595588F5BDB6D33599AB0FC92 size:10988
 FSD/Content/UI/Menu_Options/Options_Language.uasset hash:89248C84E81636C182DADB801D887AFDF93AA460 size:17119
 FSD/Content/UI/Menu_Options/Options_Language.uexp hash:5F84E92A54BAF7C9E8F0034516A72608BB4D9A98 size:9483
 FSD/Content/UI/Menu_Options/Options_MixerInteractivity.uasset hash:7B12FC13E48102B8B863E1BB6EEC4E5DAB7E551D size:18243
@@ -22222,12 +22214,12 @@ FSD/Content/UI/Menu_Options/Options_ShowSubtitles.uasset hash:5DCE7B077019AA3346
 FSD/Content/UI/Menu_Options/Options_ShowSubtitles.uexp hash:3FB71BFD61000609FF6472891208CDECA6D0A2F3 size:55831
 FSD/Content/UI/Menu_Options/Options_Tab_Audio.uasset hash:68AF52097A0271579A62CE7008DF3D103877CDED size:73953
 FSD/Content/UI/Menu_Options/Options_Tab_Audio.uexp hash:C9D61CE6A9B99D0DDC94C4A921EC322062079867 size:151884
-FSD/Content/UI/Menu_Options/Options_Tab_Controls.uasset hash:D25484F5AE83C343DE959FB2215164354DDA25E7 size:362171
-FSD/Content/UI/Menu_Options/Options_Tab_Controls.uexp hash:EFF7516E2D7EBAAFF6156321CEF606E161CE13BE size:951575
+FSD/Content/UI/Menu_Options/Options_Tab_Controls.uasset hash:035DCDC2F2A25EF3A040C647A192E1601E027BBB size:354047
+FSD/Content/UI/Menu_Options/Options_Tab_Controls.uexp hash:9650264900CA61D58068DAF77B7F34135D25EF38 size:936397
 FSD/Content/UI/Menu_Options/Options_Tab_Gameplay.uasset hash:6FAA022FDE8087662937D37EB68D3BD02FF01DFB size:121437
 FSD/Content/UI/Menu_Options/Options_Tab_Gameplay.uexp hash:C3A56D5E1DDF72F70396DDE5D0077F2AAC2DACF5 size:307367
-FSD/Content/UI/Menu_Options/Options_Tab_GFX.uasset hash:F485532F2D9A90B5BE98B8D318F84C16D0803710 size:127711
-FSD/Content/UI/Menu_Options/Options_Tab_GFX.uexp hash:E811CFB14A4644BBC301FC3C201FC178C942C69C size:253895
+FSD/Content/UI/Menu_Options/Options_Tab_GFX.uasset hash:F0DC84DDA76FD58C9B555FA2D8235393EABCF491 size:127495
+FSD/Content/UI/Menu_Options/Options_Tab_GFX.uexp hash:517A6266505B24335C6D2E576A3B29EBEE98E7EB size:253310
 FSD/Content/UI/Menu_Options/Options_Tab_UI.uasset hash:2CF92D89C280AAF277EA008E0770198F0EA7E649 size:61794
 FSD/Content/UI/Menu_Options/Options_Tab_UI.uexp hash:5E1D413CCCD4B5432B98B75CD8413DD2FB8D484E size:124236
 FSD/Content/UI/Menu_Options/Options_TutorialHints.uasset hash:C220B488DB67D73EC201DBB444083A3B934B259C size:26458
@@ -22991,8 +22983,8 @@ FSD/Content/WeaponsNTools/ZipLineGun/ZipLineGunUpgrade.uasset hash:E03916C9ADED4
 FSD/Content/WeaponsNTools/ZipLineGun/ZipLineGunUpgrade.uexp hash:3BC56652C3F6BC3C0865D82B850E198CE891A77F size:884
 FSD/Content/WeaponsNTools/ZipLineGun/ZipLineGunUpgradeTypes.uasset hash:0830E9EE72593E6363C13E3BC0FFE3FD444B6205 size:995
 FSD/Content/WeaponsNTools/ZipLineGun/ZipLineGunUpgradeTypes.uexp hash:A8A6B1CAE8D5BE4A5934A20821357D77708C5C55 size:338
-FSD/CookedIniVersion.txt hash:438BD848198879B287A366C88FCAC9E6BCC67325 size:869380
-FSD/DevelopmentAssetRegistry.bin hash:F0A6066B92E48C2081BE19BE487AF566A277E6C3 size:27480248
+FSD/CookedIniVersion.txt hash:0F1EC848F629F8F66CAE0BA4407464EE29820AF8 size:869380
+FSD/DevelopmentAssetRegistry.bin hash:3EA54C8F96F8A6BE24D6783849528A9975EC1082 size:27467626
 FSD/FSD.uproject hash:0584BBF4D616E9F40B5F5F746ACACB062A8CC2EC size:3166
 FSD/Plugins/FSD.upluginmanifest hash:72A154E577DC3798585710D43D4A298CD9E05666 size:22240
 FSD/Plugins/GoogleAnalytics/GoogleAnalytics.uplugin hash:176BF241420278CC90AA6F58DDD835C2AF641173 size:833
