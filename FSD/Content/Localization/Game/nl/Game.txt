@@ -1,7 +1,44 @@
 19 namespaces
-1676 values
+1673 values
 
-Namespace Global (2016 keys)
+Namespace Global (2014 keys)
+	390133F54945CBDDE52B8898E7814A7D = "
+First patch since the launch! Thanks for all the feedback so far.
+
+--- New Features ---
+- New reload for the Jury-rigged Boomstick
+- New soundFX (death splat sound, tutorial pop up sound, revive sound, ..)
+- Added "Give Us Feedback" button to Escape menu
+- Max FPS option
+- Added option to disable analytics
+- Added Keybindings to Options -> Control menu (yeah, it's 2018, and NOW we got key-bindings!)
+- Disable server list when already hosting
+- Only show Info Screen once per session
+- Added a new dance to perform at the Jukebox
+- Added first batch of new beards and hairstyles ( Beard System is under construction - some clipping will occur with some beards )
+
+--- Fixes & tweaks ---
+- Fix: Memorial Hall upgrade at Player Rank 5, 7 and 8
+- Fix: Grappling Hook intersects with poison clouds
+- Fix: Complexity and Duration on serverlist
+- Improved Friend Inviting on Steam
+- Sentry Gun fixes and tweaks
+- Fixed Mixer names on enemies being wrong if several people spawns enemies
+- Fix for Push to Talk 
+- Fix Glyphids playing run animation while not moving after being hit
+- Fixed various spelling errors and typos 
+- Fix for Game Server Name (should work now!)
+- Try to fix players are unmuted when someone else joins
+- Improved Crafting menu layout
+- Cabin Sign font should be more readable
+- Fix: Supply Pod leaves red squares when it goes down
+- Lots of crash fixes (thanks for the reports!)
+
+--- Localization ---
+- Updated all languages with latest from Crowdin community 
+- Note: since we are also adding new text, you will keep seeing some part of the game in English
+- Fixed some text in Space Rig not showing correct in Russian 
+- Note: we have several more languages that will be added in the next update  (Italian, Japanese, Croatian and Finnish) - they didn't make it in this time, sorry!"
 	1E1ADC13406ED5FA28EF4D97D3BECB48 = " +{bonus}%"
 	2559D78C40005E5221F26093CB976283 = " Verzamel {Collected} {Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " VERPLICHT"
@@ -999,7 +1036,6 @@ BERIJK"
 	7FDF82184386901A5EB3679C4B84055D = "Hou het bij elkaar, de Drop Pod is op zijn route."
 	38C61178401D04329556CEBDAACAE41B = "Hou die dingen van me af en ik hou het team in leven."
 	68B1AE544A5A62892ACEDFBAE508AB60 = "Kenneth Faigh"
-	7823525348054AFF8023759614883ECF = "Toetsenbordindeling"
 	85D437634433F8B99D05B683232CAE1D = "Toetsenbord en muis"
 	116899A540C11BC865ED8F84CA84DB4F = "Kick"
 	8D7543224DEA7BE037EEF2B39859943D = "Kick"
@@ -1401,7 +1437,6 @@ BERIJK"
 TOETREDING"
 	05328C4948C9440DCC4C3EB8943A1CED = "SNELLE JOIN"
 	BD487A274FFADBD7DDB7E0A36B06E0AE = "SNELLETOETREDING"
-	97E0A02A45035A3634CCCCB9595235F7 = "QWERTZ"
 	1B4D36A14FE355A830A0309621CCE8D6 = "Vierkante paddestoel"
 	9DD8F35040EF474824AABEB14F386DA3 = "Quad schimmel"
 	5955496342E4D68BBEE85390FBC75697 = "Quantriet"
@@ -1829,7 +1864,7 @@ de bemanningsleden van het spookschip"
 	3415CA6F42A3077063615085CD9DFA69 = "Wolfraam!"
 	5C2231EE417988E7BFBD9FB46A49FD5B = "Tunnel Start"
 	31EB54AF4A245D48E3A916BDCC6E7EF0 = "Geschuttorens en explosies... Je bent bij het juiste adres."
-	A77D4926491B8CDF61FF909C89BB6926 = "Tuteshnij (Oekraïens), Jakub Nechvátal (Czhech en Spaans), Nathan Friebe (Duits), Oliwier Masiukiewicz (Pools), EgorKaskader (Russisch), Mbgny (Zweeds), Pierre MILLOT (Frans), xsSplater (Russische), Till Kottmann (Duits), FireVuk (Hongaars), UA2hk) Traditioneel en vereenvoudigd Chinees), Yamila Castro (Spaans), Kispiricsi (Hongaars), Paladin (Russisch), Danniela Aragão (Portugees-Braziliaans), lc_freegold (Spaans) en nog veel meer..."
+	A77D4926491B8CDF61FF909C89BB6926 = "Tuteshnij (Ukranian), Jakub Nechvátal (Czhech and Spanish), Nathan Friebe (German), Oliwier Masiukiewicz (Polish), EgorKaskader (Russian), Mbgny (Swedish), Pierre MILLOT (French), xsSplater (Russian), Till Kottmann (German), FireVuk (Hungarian), UA2hk (Traditional and Simplified Chinese),  Yamila Castro (Spanish), Kispiricsi (Hungarian), Paladin (Russian), Danniela Aragão (Portuguese-Brazilian), lc_freegold (Spanish), Tomasz Bielenda (Polish), Luis Felipe Tejada de los Santos (Spanish-LatinAm), Otto-Emil Valentin (Finnish, Russian), Athila (Spanish, Spanish-LatinAm), classicarma (Japanese), TheBuildingDwarf (Dutch), keigin (Japanese), Sunny M (Croatian), Robin ten Wolde (Dutch), Victor Mayorga (Spanish-LatinAm), MuffinInACup (Croatian, Russian), Sirio Cilia (Italian) and many more..."
 	7F0904144B148B62466080888AC77BEF = "Type"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "UI"
 	B9B8DF3947F5817463C75E91163945B2 = "UI schaal"
@@ -1921,39 +1956,6 @@ de bemanningsleden van het spookschip"
 	7D3714CC4C0CAEB5C4709AB48B551CD7 = "We zijn rijk!"
 	4B5687F649A70D67781A13A3C167E696 = "We hebben een omgeving gevonden vol met Aquarqs en jij mag het allemaal terug brengen. Zoek naar blauw schijnende lichten en haal de Aquarq uit de muren. We hebben een gespecialiseerd zwaar hefwerktuig toegestuurd. We verwachten zware weerstand dus het hefwerktuig is zwaar bewapend. Blijf gefocussed - het gaat om de goederen."
 	13665D0E4DF4EC22BC92F0AA5DB0E879 = "Verzwakkingsveld"
-	390133F54945CBDDE52B8898E7814A7D = "Welkom bij de Alpha lanceren Update van diepe Rock Galactische! \r \r 
-
-We hebben gewerkt aan het spel voor bijna twee jaar nu en zijn we zeer trots om het uiteindelijk te presenteren aan u met onze Alpha lanceren Update, die een overvloed van nieuwe inhoud en functies bied sinds Update 5 & 6 bevat. 
-
-\r \r---belangrijke nieuwigheden---\r 
-- Totaal revisie van de UI, HUD & menu's (nog sommige tijdelijke aanduiding gfx in sommige menu's) de 
-- Nieuwe missie selectie kaart met procedureel gegenereerde missions\r 
-- Zeven enorm verschillende biomen met nieuwe mineralen en een heleboel nieuwe grotten materiaal
-- Meer typen en verschillende secundaire doelstellingen added\r 
-- Eerste-dag-op-het-werk begeleiding om de nieuwe mijnwerkers in te werken 
-- Invoering van Bosco, de al-in-een-Multi-functionele-drone, die u zullen helpen in Solo Mode
-- Werk Station waar u kunt ambachtelijke gereedschappen kan maken (Let op missie : tijdelijke aanduiding voor modellen!)
-
-
- \r \r---klasse evenwicht tweaks/functies---
- - ingenieur: Sentry geweren kan nu worden terug worden geroepen en bijgevuld worden met kogels
- - Scout: granaat dat de vijand doet verlammen 
- - Gunner : verlaagde munitie voor zipline gun
- - pikhouweel gebruiken in een gevecht is nu minder sterk
- - zuur Spitter Glyphid voor meer gevaar van veraf\r 
-- Overall aanpassingen aan het wapen stats en terugslag/accuracy
-
- \r---lol/ander tweaks/functies---\r 
-- Drop-Pod  knop op Molly aan het einde van de missie (wanneer de doelstelling is voltooid) 
- - storting mineralen op Drop-Pod, zodat hebzuchtig dwergen het goud kunnen verzamelen en kunnen vluchten
- - veel nieuwe dwerg stem lijnen en nieuwe Mission Control lines\r 
-- veel nieuwe muziektracks in te stellen van de mood\r 
-- geluidseffecten en deeltjes voor verschillende materialen en in het algemeen, een heleboel nieuwe deeltje en geluidseffecten added
-
- - veel prestaties en stabiliteit verbeteringen\r 
-- Controller installatie bijgewerkt en rumble opgelost\r 
-- Gedenk Plaats toegevoegd aan ruimte schip, vitrines  voor mensen van de  gesloten Alpha testers
- - Hints op het laden scherm"
 	72669582465623877CB088AA02B73251 = "Welkom bij het team!"
 	E41FECD749AC1F0A07DA2D855EB22AED = "Goed gedaan! Tweede Doel voltooid! "
 	7266AE9E44FFE4E6AC8577AFC8AB36D0 = "Goed gedaan, je hebt ze allemaal! Druk op de startknoppen om het mijnhoofd terug te sturen en we zullen de vlucht capsule sturen! "
@@ -2182,10 +2184,9 @@ Namespace Upgrades (18 keys)
 	8E4EB123492B488C25179A85D142758D = "Meer projectielen per schot"
 	1C7DDF3E4465488D724BD69039F25337 = "Herlaad minder vaak"
 
-Namespace Vanity (9 keys)
+Namespace Vanity (8 keys)
 	Armor = "Bepantsering"
 	Beard = "Baard"
-	BearColor = "Baard kleur"
 	3E7113764EF99981E7343E99CE60E68F = "Kopen"
 	936D387249B390C96765B2BE04A575BD = "Kopen"
 	Head = "Hoofd"

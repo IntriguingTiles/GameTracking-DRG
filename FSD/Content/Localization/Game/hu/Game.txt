@@ -1,7 +1,44 @@
 19 namespaces
-2159 values
+2155 values
 
-Namespace Global (2625 keys)
+Namespace Global (2622 keys)
+	390133F54945CBDDE52B8898E7814A7D = "
+First patch since the launch! Thanks for all the feedback so far.
+
+--- New Features ---
+- New reload for the Jury-rigged Boomstick
+- New soundFX (death splat sound, tutorial pop up sound, revive sound, ..)
+- Added "Give Us Feedback" button to Escape menu
+- Max FPS option
+- Added option to disable analytics
+- Added Keybindings to Options -> Control menu (yeah, it's 2018, and NOW we got key-bindings!)
+- Disable server list when already hosting
+- Only show Info Screen once per session
+- Added a new dance to perform at the Jukebox
+- Added first batch of new beards and hairstyles ( Beard System is under construction - some clipping will occur with some beards )
+
+--- Fixes & tweaks ---
+- Fix: Memorial Hall upgrade at Player Rank 5, 7 and 8
+- Fix: Grappling Hook intersects with poison clouds
+- Fix: Complexity and Duration on serverlist
+- Improved Friend Inviting on Steam
+- Sentry Gun fixes and tweaks
+- Fixed Mixer names on enemies being wrong if several people spawns enemies
+- Fix for Push to Talk 
+- Fix Glyphids playing run animation while not moving after being hit
+- Fixed various spelling errors and typos 
+- Fix for Game Server Name (should work now!)
+- Try to fix players are unmuted when someone else joins
+- Improved Crafting menu layout
+- Cabin Sign font should be more readable
+- Fix: Supply Pod leaves red squares when it goes down
+- Lots of crash fixes (thanks for the reports!)
+
+--- Localization ---
+- Updated all languages with latest from Crowdin community 
+- Note: since we are also adding new text, you will keep seeing some part of the game in English
+- Fixed some text in Space Rig not showing correct in Russian 
+- Note: we have several more languages that will be added in the next update  (Italian, Japanese, Croatian and Finnish) - they didn't make it in this time, sorry!"
 	2559D78C40005E5221F26093CB976283 = " Gyűjts össze {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " SZÜKSÉGES"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Hangtervező / Zenei Producer"
@@ -1270,7 +1307,6 @@ VISSZA!"
 	7FDF82184386901A5EB3679C4B84055D = "Tartsatok ki, a Leszállóegység úton van."
 	38C61178401D04329556CEBDAACAE41B = "Tartsátok távol tőlem a szarokat és én életben tartom a Csapatot."
 	68B1AE544A5A62892ACEDFBAE508AB60 = "Faigh Kenneth"
-	7823525348054AFF8023759614883ECF = "Billentyűzet Kiosztás"
 	85D437634433F8B99D05B683232CAE1D = "Billentyűzet és Egér"
 	116899A540C11BC865ED8F84CA84DB4F = "Rugás"
 	8D7543224DEA7BE037EEF2B39859943D = "Rugás"
@@ -1812,7 +1848,6 @@ CSATLAKOZÁS"
 	05328C4948C9440DCC4C3EB8943A1CED = "GYORS CSATLAKOZÁS"
 	BD487A274FFADBD7DDB7E0A36B06E0AE = "GYORS CSATLAKOZÁS"
 	E70B218D4B604143E5F936BF6B95A37D = "GYORS CSATLAKOZÁS"
-	97E0A02A45035A3634CCCCB9595235F7 = "QWERTZ"
 	1B4D36A14FE355A830A0309621CCE8D6 = "QuadGomba"
 	9DD8F35040EF474824AABEB14F386DA3 = "Quad Fungus"
 	5955496342E4D68BBEE85390FBC75697 = "Quantrite"
@@ -2385,7 +2420,7 @@ Remekül éreztük magunkat a játék eddigi fejlesztése során, és még köze
 	FA9DAF4A4E3AE83D87818690898222D2 = "Alagút Vége"
 	5C2231EE417988E7BFBD9FB46A49FD5B = "Alagút Kezdete"
 	31EB54AF4A245D48E3A916BDCC6E7EF0 = "Lőtornyok és robbanások... jó helyre jöttél."
-	A77D4926491B8CDF61FF909C89BB6926 = "Tuteshnij (ukrán), Jakub Nechvátal (cseh és spanyol), Nathan Friebe (német), Oliwier Masiukiewicz (lengyel), EgorKaskader (orosz), Mbgny (svéd), Pierre MILLOT (francia), xsSplater (orosz), Till Kottmann (német), FireVuk (magyar), UA2hk (hagyományos és egyszerűsített kínai),  Yamila Castro (spanyol), Kispiricsi (magyar), Paladin (orosz), Danniela Aragão (portugál-brazil), lc_freegold (spanyol) és még sokan mások..."
+	A77D4926491B8CDF61FF909C89BB6926 = "Tuteshnij (Ukranian), Jakub Nechvátal (Czhech and Spanish), Nathan Friebe (German), Oliwier Masiukiewicz (Polish), EgorKaskader (Russian), Mbgny (Swedish), Pierre MILLOT (French), xsSplater (Russian), Till Kottmann (German), FireVuk (Hungarian), UA2hk (Traditional and Simplified Chinese),  Yamila Castro (Spanish), Kispiricsi (Hungarian), Paladin (Russian), Danniela Aragão (Portuguese-Brazilian), lc_freegold (Spanish), Tomasz Bielenda (Polish), Luis Felipe Tejada de los Santos (Spanish-LatinAm), Otto-Emil Valentin (Finnish, Russian), Athila (Spanish, Spanish-LatinAm), classicarma (Japanese), TheBuildingDwarf (Dutch), keigin (Japanese), Sunny M (Croatian), Robin ten Wolde (Dutch), Victor Mayorga (Spanish-LatinAm), MuffinInACup (Croatian, Russian), Sirio Cilia (Italian) and many more..."
 	7F0904144B148B62466080888AC77BEF = "Típus"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "UI"
 	B9B8DF3947F5817463C75E91163945B2 = "UI Méretaránya"
@@ -2416,7 +2451,6 @@ Remekül éreztük magunkat a játék eddigi fejlesztése során, és még köze
 	C3D8F86F42EA1CEE1E1C2A99801F28EE = "Feloldás: Felderítő szint 10"
 	A83D2E5E45D1FCFE84BB6285E2716604 = "Feloldás: Felderítő szint 20"
 	790CD48846F0BE89F64B7CA517FFA956 = "Némítás megszüntetése"
-	FA4CB52C4B78A13BF059EBA9C5BBCD6E = "7. Frissítés: Alfa Indítása"
 	978665B8463E7589B1F9448B99EFA06E = "Fejlesztés"
 	564780DB4BC0B912BEC1FF90F5F944A7 = "Upgrade to Supporter Edition"
 	7DEDC3AC4676FAA5CFC2DF931E51AA84 = "Fejlesztések"
@@ -2500,37 +2534,6 @@ ROCK & STONE!"
 	13665D0E4DF4EC22BC92F0AA5DB0E879 = "Gyengítőmező"
 	EBA81F3D43CA217BF51B13A4D2F2BBE7 = "Üdvözöljük a Hoxxes bolygón, Bányász - reméljük egy A-osztályú játékot készítettünk. Ez lesz az első ugrásod a mélybe, és ennek garantálnia kéne, hogy megtanuld, hogyan is zajlanak itt a folyamatok. A feladatod: Találj meg és hozz vissza egy nagyobb darab Morkite-ot. A szerencse és a dicsőség vár már rád! Na kezdj neki!"
 	CA46EF6348F600262B35F2A04A53CA74 = "Üdvözlet a Hoxxes bolygón, Bányász! Ez lesz az első merülésed a föld alá, amiből lehetőséged lesz megtanulni az itteni munka fortélyait."
-	390133F54945CBDDE52B8898E7814A7D = "Üdvözlünk a Deep Rock Galactic Alpha Launch Frissítésében!
-
-Ezen a játékon már közel két éve dolgozunk és nagyon büszkék vagyunk, hogy végre bemutathajtuk az Alpha Launch Frissítést, ami hihetetlenül sok új tartalmat és funkciót hoz magával az 5-ös és 6-os Frissítés óta.
-
---- Legnagyobb új funkciók ---
-- Teljesen átjavított felhasználói felület, HUD és Menük (még van néhány helyen kitöltő grafika pár menüben)
-- Új Küldetést kiválasztó térkép véletlenszerűen megalkotott küldetésekkel
-- Hét teljesen különböző terület típus sok új ásvánnyal és barlangokkal
-- Több fajta küldetés és különféle mellék küldetések
-- Első nap a munkahelyen Oktatás, hogy segítsünk az új bányászoknak
-- Bemutatjuk Bosco-t, egy mindenrevaló drónt, aki segít az egyedül bányászóknak
-- Barkács Állomás, ahol kinézeti tárgyakat készíthetsz
-
---- Osztály kiegyenlítések és funkciók ---
-- Mérnök: az Őrtornyokat mostmár vissza tudod hívni és újratölteni őket lőszerrel
-- Felderítő: Gránát ami megbénítja az ellenségeket
-- Lövész: Kevesebb lőszer a drótkötél puskába
-- Csákányt használni harchoz mostmár nem olyan kifizetődő
-- Sav Köpő Glyphid, hogy mégtöbben tudjanak messziről fenyegetni
-- Összességében kijavított fegyver statisztikák és visszarugás/célzás
-
---- Egyéb kiegyenlítések és funkciók ---
-- Hívd a Kimenekítő Egységet Molly-n a küldetés végén (ha az összes feladat be van fejezve)
-- Add le az ásványokat a Kimenekítő Egységen, és ez által a kapzsi törpék tudnak aranyat gyűjteni menekülés közben
-- Sok új törp hangsor és Küldetés Központ szövegsor
-- Sok új zenei album, hogy jobban a megfelelő hangulatba zökkenj
-- Hanghatások és új részecskék különböző anyagoknak
-- Számos teljesítmény és stabilitás javítás
-- Vezérlő telepítés újítva és morajok kijavítva
-- Emlékszoba hozzáadva az állomáshoz, ami megmutatja az előző Zárt Alpha tesztelőket
-- Tippek a töltöképernyőn"
 	72669582465623877CB088AA02B73251 = "Üdvözlünk a csapatban!"
 	E41FECD749AC1F0A07DA2D855EB22AED = "Szép volt! Másodlagos cél teljesítve! "
 	8B6DABC642B3D44D3588279EF5AD6013 = "Szép munka, csapat. Közvetlen Dreadnought-fenyegetés elhárítva. Aktiváljátok a jeladót az Ö.SZ.V.É.R.-en és máris küldjük értetek a leszállóegységet."
@@ -2836,10 +2839,9 @@ Namespace Upgrades (18 keys)
 	8E4EB123492B488C25179A85D142758D = "Több lövedék egy lövéssel"
 	1C7DDF3E4465488D724BD69039F25337 = "Tölts ujra kevesebbszer"
 
-Namespace Vanity (9 keys)
+Namespace Vanity (8 keys)
 	Armor = "Páncél"
 	Beard = "Szakáll"
-	BearColor = "Szakáll Szín"
 	3E7113764EF99981E7343E99CE60E68F = "Vásárlás"
 	936D387249B390C96765B2BE04A575BD = "Vásárlás"
 	Head = "Fej"

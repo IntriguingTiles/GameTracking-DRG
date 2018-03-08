@@ -1,7 +1,44 @@
 19 namespaces
-2325 values
+2330 values
 
-Namespace Global (2941 keys)
+Namespace Global (3000 keys)
+	390133F54945CBDDE52B8898E7814A7D = "
+First patch since the launch! Thanks for all the feedback so far.
+
+--- New Features ---
+- New reload for the Jury-rigged Boomstick
+- New soundFX (death splat sound, tutorial pop up sound, revive sound, ..)
+- Added "Give Us Feedback" button to Escape menu
+- Max FPS option
+- Added option to disable analytics
+- Added Keybindings to Options -> Control menu (yeah, it's 2018, and NOW we got key-bindings!)
+- Disable server list when already hosting
+- Only show Info Screen once per session
+- Added a new dance to perform at the Jukebox
+- Added first batch of new beards and hairstyles ( Beard System is under construction - some clipping will occur with some beards )
+
+--- Fixes & tweaks ---
+- Fix: Memorial Hall upgrade at Player Rank 5, 7 and 8
+- Fix: Grappling Hook intersects with poison clouds
+- Fix: Complexity and Duration on serverlist
+- Improved Friend Inviting on Steam
+- Sentry Gun fixes and tweaks
+- Fixed Mixer names on enemies being wrong if several people spawns enemies
+- Fix for Push to Talk 
+- Fix Glyphids playing run animation while not moving after being hit
+- Fixed various spelling errors and typos 
+- Fix for Game Server Name (should work now!)
+- Try to fix players are unmuted when someone else joins
+- Improved Crafting menu layout
+- Cabin Sign font should be more readable
+- Fix: Supply Pod leaves red squares when it goes down
+- Lots of crash fixes (thanks for the reports!)
+
+--- Localization ---
+- Updated all languages with latest from Crowdin community 
+- Note: since we are also adding new text, you will keep seeing some part of the game in English
+- Fixed some text in Space Rig not showing correct in Russian 
+- Note: we have several more languages that will be added in the next update  (Italian, Japanese, Croatian and Finnish) - they didn't make it in this time, sorry!"
 	1E1ADC13406ED5FA28EF4D97D3BECB48 = " +{bonus}%"
 	C7A2859F450D8B339A4CE1876CAB0134 = " +{bonus}%"
 	2559D78C40005E5221F26093CB976283 = " Collect {Collected}/{Required} {Title}"
@@ -71,7 +108,10 @@ Namespace Global (2941 keys)
 	54B42BD34E7B086F2FD0A4B05BE8FB06 = "A Clean Shave"
 	628F94274CF7B9670987228A3F69CD94 = "A Support Drone is on the way!"
 	2D3B341E43269B3517DEE48ADE5C2BB7 = "A Swarm is heading your way! Load up!"
-	E8928FAE452F1DDE3F535D8E2C886ECF = "A classic display of subtle, raw power."
+	094DBF9240C1525A23E214A91AED7C79 = "A classic display of subtle, raw power."
+	30966C18430C82C1C2C0C98D63EF5D8B = "A classic display of subtle, raw power."
+	5DF2C5A14F5FF99B9995E89D244A10C3 = "A classic display of subtle, raw power."
+	DDF603154FAC6DB54AC70CA48A84728B = "A classic display of subtle, raw power."
 	10EBE9914309B112BED94D8ACB15BFE8 = "A custom revolver firing rounds so large it only holds 4 shots. More or less nothing can stand before a direct hit from one of these 26mm monstrosities."
 	A51AF99C49FC325E4128D4BB8F23F943 = "A dependable, hefty weapon. Usually not the first choice of proper dwarves, but the weight and satisfying boom makes it worthwhile."
 	86A03D794F56F55E13FFD190FE8F3031 = "A dwarf never dies!"
@@ -92,7 +132,6 @@ Namespace Global (2941 keys)
 	9B9AA6A7491F90B980C71C98DE2A59BB = "ALREADY ASSIGNED"
 	E977075D43332C7F328973A1C4FB8212 = "AMMO:"
 	27CC54C9443B31D4BA4E7BBE72A9AC40 = "APD"
-	6805E214446BA473E98E05B04CF61203 = "AZERTY"
 	6ED213DE4BB78447F8511AB44A682443 = "Abort Mission"
 	AEFBFF50450937B9A66EC5B2CA738B93 = "About time fat boy!"
 	56FA9DFE4D983C17EC66EB857A27401F = "Access provided!"
@@ -135,7 +174,10 @@ Namespace Global (2941 keys)
 	A13E31724B152BF53958568AC2187067 = "Ammunition Resource"
 	2C4A91E9492C6E9E0B9B26A55BDBE3B8 = "Among the deepest of our mining sites, the Magma Caves are a mellow 250-400 degrees and helpfully lit by the churning, molten innards of the planet. We advise that you do not touch anything not mandated by the mission objectives, as your employee insurance does not cover burns."
 	8E6B812B407B923700BEB8B780945CD5 = "Among the most spectacular sights on Hoxxes, the aptly-named Crystal Caves are truly a sight to behold. Massive crystals erupt from every surface, glittering and twinkling in the dark. Alas, the larger crystals are mostly worthless silicate, but abundant deposits of valuable minerals dot the caves too."
-	20D98B554B4A8E9675CCBDA1DA437A69 = "An absolutely majestic profile."
+	29D5FBF2442015B335E7A6AECFA87166 = "An absolutely majestic profile."
+	3B18C19548D132601FED55B99675B48F = "An absolutely majestic profile."
+	67D8EE0841E320C26FB213B16D34DB30 = "An absolutely majestic profile."
+	6FE363F44315E163F28D9D97B64794C6 = "An absolutely majestic profile."
 	20AAF4014565DAB702E236A3D5489BAE = "And it went boom!"
 	591225604B87D8991590D2B50710F2F1 = "And it went boom!"
 	4B3D6EA04E87B40FF27B4788D6315615 = "Announcement"
@@ -193,6 +235,7 @@ Namespace Global (2941 keys)
 	2F4C03C54E3AF88E76419EA4FE9397FB = "BACK"
 	90D2AF7042C15284FB4C3A91F0BF3C25 = "BACKnkjfdnkjnfskdnkfjskjfsdkfsdkjfsd"
 	FEF672644DDAAE2CEBF7BDB4036656A7 = "BIG HOLE"
+	4FB31F3448809142AFCC94BB01B011BE = "BINDS N' BEARDS!"
 	318DDDEC405F71D8934DF09B7EE2D831 = "BRIDGE"
 	E42716A645873C529455708D14B0E4DB = "BRIEFING
 TERMINAL"
@@ -284,7 +327,10 @@ TERMINAL"
 	251FA98341B86380F1B7FE815D790818 = "Builds faster"
 	84EFB56C4B7743BB0738C2B559DBD9B4 = "Builds faster"
 	180C5221413CB7FC1001EFB90C0618AA = "Built-in shock absorbers makes falling less painful."
-	0015E78F4B561F236079A3800E8EDA6D = "Bulbous Full Beard"
+	0187503E429D0D844DE504AD1153A970 = "Bulbous Full Beard"
+	4BA9E7AA43860D6AA495FF954DCEDFD7 = "Bulbous Full Beard"
+	A0E3B94940BCD0DA7277C3A354EE0563 = "Bulbous Full Beard"
+	D248460145F3994592B4F686F0331601 = "Bulbous Full Beard"
 	B9D6970042206F4F749478A6B724FAED = "Bullet Count"
 	69C22B4C4F84F95A1DD5E3AA29F22E42 = "Burning Duration"
 	75B06D68482BF52E8F07348C5BC465B0 = "Burning Duration"
@@ -336,6 +382,7 @@ TERMINAL"
 	FE21EA0942AE111E8B3E339806DA3B0A = "Can't carry anymore!"
 	384C1A53441F292B61B12EB3737B7979 = "Can't stand still to this!"
 	EEF4FDED4B944EF8956B3D83A814C75B = "Can't! Move!"
+	3448F78542BF4B6407109B96A5974DAE = "Cancel"
 	3B9ECFDD4FD0BFE1DE47FFA83667BDC2 = "Cancel"
 	514A80A544202DE8547BB48B8550DA9F = "Cancel"
 	78A7E25C4D99C09783D9CD9DCBD2BEA3 = "Cancel"
@@ -510,7 +557,10 @@ TERMINAL"
 	7E2C903B470E31C7B8F9AEA38B8FF621 = "Crystalline Caverns"
 	B610D6184BC05B285769B6A452AE6C01 = "Crystalline Caverns"
 	C3EEC4024EFCE25A3AB044B8A0B798D7 = "Crystalline Caverns"
-	126934884B6048435EE022870C643475 = "Curly Pointer"
+	549257164EA4E3BE4F9923B73561EE1B = "Curly Pointer"
+	5818CA7745E46C32C8160492D978BE8A = "Curly Pointer"
+	E4971917469E23D0CC7D9680458B89EB = "Curly Pointer"
+	E89073A147BA55948BDF659C8FCE48C5 = "Curly Pointer"
 	7CB18B134C8F85CF88A2D69C45F5F5CC = "Current Altitude"
 	C65407EE4F86189075643FAEA8F21203 = "Custom"
 	E1150D3044B5BD8E07C318BDDA70D3B9 = "CustomLabel"
@@ -606,7 +656,10 @@ WE'RE ON STEAM AND CLOSED ALPHA IS LIVE!"
 	302DF88F4ACC1279D5E27C9E5E33A693 = "Different than your old hair"
 	13988B1740B19CF9D4E06C9BEE4C65D5 = "Dig here!"
 	077161994CF326D89CA4E4933EDE7554 = "Digging is my middle name!"
-	A6CE53DD4BF66A5D3ABE0697B680D8A6 = "Dignified Elder"
+	813D47C84E49D71638A597A9A9439A6F = "Dignified Elder"
+	9EC5050E403463C4911FF9926E84EB4A = "Dignified Elder"
+	C068F9D64EEFF095FE6BA883CE2A5CCE = "Dignified Elder"
+	C5F9B8584A69ADE93CCDC084D2F82C56 = "Dignified Elder"
 	BBD4F67449CC32EAE379EFA32FB7EF30 = "Dirt!"
 	FC3A4F6246A058D1DBAB0684EA95C1EA = "Disband Team"
 	DE8796164D4F20895AD776899659985D = "Disco"
@@ -653,7 +706,10 @@ WE'RE ON STEAM AND CLOSED ALPHA IS LIVE!"
 	5D11775D4098373B80395E970421929F = "Drone is ordered!"
 	3E9CBD324005C70D4FE845896B38EEB2 = "Drone, get to work!"
 	2FBDF89B419048D332D18CBFD99C8CBE = "Drong"
-	44492BD0454E3208B2BB93AFAB1C16E6 = "Droopy Prospector"
+	1B5AA3414AD3A4B0FB3D81876D35C098 = "Droopy Prospector"
+	24485A4E421985E76D17858BA2FCCE8A = "Droopy Prospector"
+	72148A4A4AF5B94638C9A7B1A4C73FA1 = "Droopy Prospector"
+	F6A208864D928225C01DFEA662DDAD1D = "Droopy Prospector"
 	8EFD033E4AC4EB85EA44EC90EC3B4529 = "Drop Pod"
 	DCA79CE0412C30823EDD8ABAFAFD8593 = "Drop Pod Inbound!"
 	442EA9FA44713CF2001F33A907458DD9 = "Drop Pod arrived! Waiting for take off!"
@@ -742,7 +798,10 @@ WE'RE ON STEAM AND CLOSED ALPHA IS LIVE!"
 	EAA1E65C4B642258D88E18A5FA6A1564 = "Enter Server Name"
 	1F6B6E004C9DE2BBC1770DBC37CF0A3F = "Epic"
 	F46B0BEE4FB44FA72D0180A89D90B6A2 = "Epic"
-	87F4602641F851F14EAA6DA0CB1D9884 = "Epic Handlebar"
+	1F9D919445E98096C64538B5AA1276F8 = "Epic Handlebar"
+	7FBDABD949A12E8FFBA070B1AD413DE3 = "Epic Handlebar"
+	ABDFFB514B5C4AE6ABB23EA48CDB4124 = "Epic Handlebar"
+	F0DC10224BB84A5AC3AE03BEAC81210C = "Epic Handlebar"
 	67D48D6247F5A6C32B39E9BA79B9A147 = "Equatorial Biozone"
 	E5B256914AE6E1F791BB7197123B1B2B = "Escape Pod inbound! Stand clear!"
 	FA0571FE429E0A26C18BAD93FB120BDC = "Escaping"
@@ -851,7 +910,10 @@ RANGE"
 	10A9A869444F01F282E4D3BA1FA5B007 = "For fancy engineering"
 	687064B54B0A0E527267348509F7A91F = "For fancy engineering"
 	78A7BECA48E920EB182DD29A44144843 = "For fuck sake couldn't you just have waited a little bit longer! "
-	6595F1F147AC53D15B94568264A68AAC = "For sheer volume, this one is hard to beat."
+	141B84C74E20B4E46885739A879E660F = "For sheer volume, this one is hard to beat."
+	2D3E76BB4D454F7C27B1AEAD8E273DA5 = "For sheer volume, this one is hard to beat."
+	2DA8D91748C347B3C76D0EAF34FACECE = "For sheer volume, this one is hard to beat."
+	74C16CFD4A684BF7C9BDE0BC5D379042 = "For sheer volume, this one is hard to beat."
 	F5B7AFA34CDC1A92B2F5B29A15297216 = "For tactical drilling"
 	6060CC4C40509E819FF0D0902DAF0203 = "For tactical engeneering"
 	83BD5CD345EA58F8DC8DC99BE8EDBD4E = "For tactical shooting"
@@ -1308,7 +1370,10 @@ STAND BACK!"
 	10BC63654EB95F055E3EEC90CEFAEC06 = "It just jammed!"
 	22E4AF5B420D47F6910C608247FB56BE = "It looks better on you"
 	0A86F56941B5897FC4E013B955F7B962 = "It suits you"
-	D20414804264A61911FB9ABEF22B1ECF = "It takes a lot of effort to look this good."
+	0A2B36D74C76EABE1EB975949D5FABEC = "It takes a lot of effort to look this good."
+	24A6355C49EF808BC3D248AFA8AD9B1C = "It takes a lot of effort to look this good."
+	CF74A6D0489BCD7221B8FE9CE45E9F17 = "It takes a lot of effort to look this good."
+	D3D9EEC041FAEB70FFF71F87CE63E87A = "It takes a lot of effort to look this good."
 	E79DE8574BC6D761870D9C8AD2511104 = "It was this or beers!"
 	D3EB9A3B40B3D6BEDDA9FD851B87B446 = "It's ME, you arsewipe!"
 	78679F94495AD81F49D5179D59DDC42E = "It's a Glyphid Dreadnought! "
@@ -1379,10 +1444,11 @@ STAND BACK!"
 	38C61178401D04329556CEBDAACAE41B = "Keep them shites off me, and I'll keep the Team alive."
 	68B1AE544A5A62892ACEDFBAE508AB60 = "Kenneth Faigh"
 	76AE6DA0456ED2D59A9CBB902AD2D0F1 = "Key Bindings"
-	7823525348054AFF8023759614883ECF = "Keyboard Layout"
 	85D437634433F8B99D05B683232CAE1D = "Keyboard and Mouse"
 	116899A540C11BC865ED8F84CA84DB4F = "Kick"
+	7DDC24AB41A5E420ED2B048B9C5BDA96 = "Kick"
 	8D7543224DEA7BE037EEF2B39859943D = "Kick"
+	9285CEE44DC9551C368DED962BB30B8E = "Kick"
 	0AE59B9845A5EA01D2CDA491BF4A9D64 = "Kicked from ESC menu"
 	6E00C95D4D7428F51E5D15BA73DBA0C5 = "Kill it before somebody gets hurt!"
 	7021917C4F91EEA0B0D3E393F775BC62 = "Kill it!"
@@ -1610,8 +1676,14 @@ TUTORIAL"
 	6CA5C6A2467E95573471F59646E4CB73 = "Melon"
 	EB2EC9834533B9CCBABE99AE1E4BD0B5 = "Melon"
 	8F65DB8F4F72EB9D412C7BAF08ECDEE6 = "Message text Message text Message text"
-	0E72144C43E7DA17DD3361BD0E6587A0 = "Mighty Crest"
-	B243F5CE40EB0FF256A79EAF48BB131E = "Mighty Muttonchops"
+	38580E5841573C7CAC8B66B940C3366E = "Mighty Crest"
+	67737BFD47152FC16D956793A96BA6F2 = "Mighty Crest"
+	A7D3ABCC49813B79FE0773A773A1F453 = "Mighty Crest"
+	E7552D5D4813480F787B91850AD96F21 = "Mighty Crest"
+	5AA29B224C59CA30488EA2805E17B585 = "Mighty Muttonchops"
+	B439AE914A705D4D620C46A031E3BB13 = "Mighty Muttonchops"
+	BB5A7AF14F7C8E9DB50956A12BEB96A6 = "Mighty Muttonchops"
+	CBF250254793EF64FC127D99A3111E15 = "Mighty Muttonchops"
 	CCD4A85F4231C56E402568A26C45AB10 = "Mikhail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
 	67B7516B42F5585F57A881936E78D7B2 = "MinAngle"
@@ -1741,7 +1813,10 @@ TUTORIAL"
 	C6B9F94B428212D6BB558F9ACB9F51E4 = "None"
 	6DB7536F47654EBAB8DDA8ACCF2ED0E6 = "Normal"
 	74D13FE94A82AB044ED0218B4515D516 = "Normal"
-	BC17D03A4E2D431F69A566BBBD23E434 = "Not a beard in the traditional sense, but they do add a touch of class."
+	012E832C41B0C601DA207982AE16EFB5 = "Not a beard in the traditional sense, but they do add a touch of class."
+	B30D619444DA46EB7B132597EBBC0C4F = "Not a beard in the traditional sense, but they do add a touch of class."
+	E0AAE5E047E4F5D8FF5AE48A62617174 = "Not a beard in the traditional sense, but they do add a touch of class."
+	FFF6A5C348338F8DF715D0A4E2065506 = "Not a beard in the traditional sense, but they do add a touch of class."
 	01A3664546FF7F4D27F17A9A10067380 = "Not again!"
 	3114EE99451AE12A9B7CE0B9AB3807A4 = "Not that! "
 	537F78754C5AAE4F3B878F80942102D5 = "Nothing"
@@ -1982,8 +2057,6 @@ JOIN"
 	05328C4948C9440DCC4C3EB8943A1CED = "QUICK JOIN"
 	BD487A274FFADBD7DDB7E0A36B06E0AE = "QUICK JOIN"
 	E70B218D4B604143E5F936BF6B95A37D = "QUICK JOIN"
-	AE3A0AB749EBA38B66A8CCAF93BEBE0E = "QWERTY"
-	97E0A02A45035A3634CCCCB9595235F7 = "QWERTZ"
 	1B4D36A14FE355A830A0309621CCE8D6 = "Quad Fungus"
 	9DD8F35040EF474824AABEB14F386DA3 = "Quad Fungus"
 	0338C3054A70C29FD07535AE40EDB5B5 = "Quad Pickaxe"
@@ -2101,7 +2174,10 @@ JOIN"
 	65846BED4F5D4401577B5582A880E9D5 = "Rock takes less hits to be destroyed"
 	3097392A480FF6FC33183090584C401E = "Rock-Tree"
 	EFFB0AE5446CC7E2FDB62F9D6459AEA4 = "Rock-Tree"
-	F478B26541A780C7BDDC95BB46F89310 = "Rockabillly"
+	6E008D4E43EA1BF3BC4B89AAD5A8B9DF = "Rockabilly"
+	7011394446E202B27701AD9A180B42F3 = "Rockabilly"
+	95B441504C61497FB9CED89FFD5631AE = "Rockabilly"
+	ACBB47834BF736CCDC9848A4BAA68129 = "Rockabilly"
 	CA3490A84AEC6C21DFC5F0A358B2B30A = "Rockabilly"
 	C87130F148E43E29A47F00A47BBF60E3 = "Rocket Launcher"
 	8C01BDE343C6D9A3F2493D8088C05EC9 = "Rocket is ready!"
@@ -2309,6 +2385,9 @@ Character"
 	8A7F8D684869A4425BBE89B8596A3227 = "Something is hidden here!"
 	2FFEA1824EFBA9686A00F69564B75202 = "Sometimes you just got to ask yourself if it's really necessary to reinvent the wheel. Bottle, booze, rag, fire, throw - boom."
 	E8444C7745D778558F0E2EB4D6F20E94 = "Sophus Alf Agerbæk"
+	9C3F704343CF00AA96D7BDA208EA1E48 = "Sorry, I'd rather not say."
+	CF58E7A74A765670A1472A9B80EF950C = "Sorry, but you were AFK / harrassing the team"
+	5B37A7E644003126D80116AF94D90F72 = "Sorry, this was meant to be a private game."
 	7F97A3E04517768226AAAFAAE2116ECF = "Sound Effects Volume"
 	226C38A34C3C51E7FB86AA9A7D80EC5E = "SpaceRig"
 	BAF3FE9E45AB395112BD7689D4A50FDE = "Spawn Bosco"
@@ -2495,7 +2574,10 @@ As stated earlier, ALL the Closed-Alpha keys will be revoked before launch."
 	BDC555B04347B711E259F19A7EC00A5F = "The Resupply is here!"
 	DFEB060D4B7C0AFD5807DEBF30B14B43 = "The Salt Pits "
 	78928EBC43E2A77A5301029B10D91BA8 = "The Salt Pits of Hoxxes was once the location of a huge underground lake. It dried up billions of years ago and left huge crystallized deposits of red salt. Red salt - though worthless - tastes really good on Glyphid omelettes."
-	5672250E407A77199741AFA6B3C78253 = "The Swanson"
+	33B1565946D201DE6ABA13A14F4F75AE = "The Swanson"
+	714657794BFBC4A5FDE917A0D7985323 = "The Swanson"
+	717ED05D4FEF1CB3F374ADB72177E51A = "The Swanson"
+	C45060FA49CBC1014ECE4DB6FBD384FA = "The Swanson"
 	E001D8D245643280FD2903AB78B1611B = "The Tincan is surely hungry today!"
 	E555C20A4F820C47AFD4C78E9085ACD3 = "The Wave is almost over!"
 	552397DD45AE7FD8AEAE38AC2AD601CE = "The Wave is significantly diminished. Well done, Team."
@@ -2515,14 +2597,23 @@ We can’t wait, guys and gals. This is gonna be awesome. Welcome, one and all, 
 	F9E32EE84480FF62CF209B87551D6916 = "The light lasts longer"
 	1427F38744164A0EACBE5C9DF34C4A82 = "The memorial hall is where we Honor the fallen. Feel free to walk around and pay your respects."
 	39BD1CF440B83EBA505AF9852120B3A0 = "The mule has been called back to the droppod!"
-	F437851E4ADC26D1153518A2D4ECDDF6 = "The perfect look for monster slaying."
-	E8E11FBE49C2B369E6A9A7ADDD86742D = "The power of a full beard concentrated into a mighty moustache."
+	6A26F9D647B828C478B187A6F32C0097 = "The perfect look for monster slaying."
+	C49E21D54F90751C68D12A9512EDA163 = "The perfect look for monster slaying."
+	E27840C54B222B71D9DBD2A4E7657097 = "The perfect look for monster slaying."
+	E29EACEE48ECD65E0DC2D98621FCD1DB = "The perfect look for monster slaying."
+	25C57ED44FDC9E78042AD7A6E44BAE94 = "The power of a full beard concentrated into a mighty moustache."
+	4C18FAA74FA959B486D67DA3E57CCD59 = "The power of a full beard concentrated into a mighty moustache."
+	7EC587584D26169914A2D0B3470C4A02 = "The power of a full beard concentrated into a mighty moustache."
+	DE29EFFA418089F83D173690D7719FA1 = "The power of a full beard concentrated into a mighty moustache."
 	0B341780426D5E08CF8361A16B7DB179 = "The scanner just lit up like a christmas tree. We got a swarm incoming!"
 	D513566A466E768AE0768BAEA3C2EFA5 = "The seats in the Drop Pod are meant for employees only - not barrels."
 	C9717D60437F9175FCF297A5BB04B8C1 = "The stream of incoming enemies is practically eradicated, and you're still alive. Well done!"
 	A6A1B8604498416ED8688BA6230F6489 = "The swarm is upon you!"
 	3E074FA2442D9D266763E5A6D32F484D = "The tentacle got me!"
-	4C29BAD84DA2AFFF14EB51B0FF5868FB = "The true dwarf knows it's all about volume."
+	22B15A8C49225E1EF2B9AE94D582D32E = "The true dwarf knows it's all about volume."
+	5B81A6ED45A560B2F1C5B98C5313117F = "The true dwarf knows it's all about volume."
+	7DF47E8546C2468DCE738E859927E4C1 = "The true dwarf knows it's all about volume."
+	DA21541846B26A43CB422A910A7ED29F = "The true dwarf knows it's all about volume."
 	A3DC6A5F45B9ACD584FC288056CAFB68 = "The truth is out there. So's the gold."
 	01C95D8D4147ED46FF425495CFD6D616 = "The tunnel is blocked!"
 	7FCDBD5A43A489FB6214188362A7B755 = "The ultimate explorer's tool - this self-recharging grappling hook will get you out of any sticky situation, and onto any distant ledge. Handle with care - ending up dangling from the ceiling and then dropping 60 feet onto the floor is not covered by the employee insurance."
@@ -2636,7 +2727,7 @@ We can’t wait, guys and gals. This is gonna be awesome. Welcome, one and all, 
 	FA9DAF4A4E3AE83D87818690898222D2 = "Tunnel End"
 	5C2231EE417988E7BFBD9FB46A49FD5B = "Tunnel Start"
 	31EB54AF4A245D48E3A916BDCC6E7EF0 = "Turrets and explosions...you've come to the right place."
-	A77D4926491B8CDF61FF909C89BB6926 = "Tuteshnij (Ukranian), Jakub Nechvátal (Czhech and Spanish), Nathan Friebe (German), Oliwier Masiukiewicz (Polish), EgorKaskader (Russian), Mbgny (Swedish), Pierre MILLOT (French), xsSplater (Russian), Till Kottmann (German), FireVuk (Hungarian), UA2hk (Traditional and Simplified Chinese),  Yamila Castro (Spanish), Kispiricsi (Hungarian), Paladin (Russian), Danniela Aragão (Portuguese-Brazilian), lc_freegold (Spanish) and many more..."
+	A77D4926491B8CDF61FF909C89BB6926 = "Tuteshnij (Ukranian), Jakub Nechvátal (Czhech and Spanish), Nathan Friebe (German), Oliwier Masiukiewicz (Polish), EgorKaskader (Russian), Mbgny (Swedish), Pierre MILLOT (French), xsSplater (Russian), Till Kottmann (German), FireVuk (Hungarian), UA2hk (Traditional and Simplified Chinese),  Yamila Castro (Spanish), Kispiricsi (Hungarian), Paladin (Russian), Danniela Aragão (Portuguese-Brazilian), lc_freegold (Spanish), Tomasz Bielenda (Polish), Luis Felipe Tejada de los Santos (Spanish-LatinAm), Otto-Emil Valentin (Finnish, Russian), Athila (Spanish, Spanish-LatinAm), classicarma (Japanese), TheBuildingDwarf (Dutch), keigin (Japanese), Sunny M (Croatian), Robin ten Wolde (Dutch), Victor Mayorga (Spanish-LatinAm), MuffinInACup (Croatian, Russian), Sirio Cilia (Italian) and many more..."
 	9A61F70547193A0C3AD9AA8D08999655 = "Twice the weight, twice the fault points. But it does lend a certain something to your presence."
 	7F0904144B148B62466080888AC77BEF = "Type"
 	68D364CF4183DF3F945DD99F3F3A53B8 = "Type Contents Here"
@@ -2672,7 +2763,6 @@ GEAR"
 	C3D8F86F42EA1CEE1E1C2A99801F28EE = "Unlock: Scout level 10"
 	A83D2E5E45D1FCFE84BB6285E2716604 = "Unlock: Scout level 20"
 	790CD48846F0BE89F64B7CA517FFA956 = "Unmute"
-	FA4CB52C4B78A13BF059EBA9C5BBCD6E = "Update 7: Alpha Launch"
 	978665B8463E7589B1F9448B99EFA06E = "Upgrade"
 	29F34D0E4F0162F6723733A865EB0201 = "Upgrade Character (Rig Only)"
 	564780DB4BC0B912BEC1FF90F5F944A7 = "Upgrade to Supporter Edition"
@@ -2709,6 +2799,7 @@ ROCK & STONE!"
 	7C57DFE849609FE134CC1BB84F7ED479 = "WELCOME MINER!"
 	E1B7608043AB47336C87BB84CE767402 = "WELCOME TO DEEP ROCK GALACTIC!"
 	33DF81B24A8BC8351CB4B3A128E9B589 = "WELCOME TO THE OPEN ALPHA!"
+	5F3F01E44C0D88616BA716AB815E26BE = "WHAT IS YOUR REASON FOR KICKING?"
 	AD82789544CC8B154E20519D7CA28D65 = "WHERE IS THE M.U.L.E.?"
 	CB0BC3604776CE825AF4C58D936430BD = "WORK ENVIRONMENT"
 	212E40564B3783E9044B34BF7AA18568 = "WORK ENVIRONMENT:"
@@ -2765,37 +2856,6 @@ ROCK & STONE!"
 	13665D0E4DF4EC22BC92F0AA5DB0E879 = "Weakening Field"
 	EBA81F3D43CA217BF51B13A4D2F2BBE7 = "Welcome to planet Hoxxes, Miner - we hope you brought your A-game. This will be your first dive into the underground, and it should grant you a chance to learn the ins and outs of our operation here. Your objective: Locate and bring back a sizeable sample of Morkite. Fortune and glory awaits you! Now, Get to it!"
 	CA46EF6348F600262B35F2A04A53CA74 = "Welcome to planet Hoxxes, Miner! This will be your first dive into the underground, and it should grant you a chance to learn the ins and outs of our operation here."
-	390133F54945CBDDE52B8898E7814A7D = "Welcome to the Alpha Launch Update of Deep Rock Galactic!
-
-We have been working on the game for close to two years now and are extremely proud to finally present you with our Alpha Launch Update, that contains a plethora of new content and features since Update 5 & 6. 
-
---- Major new features ---
-- Total overhaul of the UI, HUD & Menus (still some placeholder gfx in some menus)
-- New Mission selection map with procedurally generated missions
-- Seven vastly different Biomes with new minerals and lots of new cave content
-- More mission types and various secondary objectives added
-- First-day-at-work Tutorial to help new miners get their bearings
-- Introducing Bosco, the all-purpose-drone, that will help you in Solo Mode
-- Crafting Station where you can craft vanity items (Note: placeholder models!)
-
---- Class Balance tweaks/features ---
-- Engineer: Sentry guns can now be recalled and refilled with ammo
-- Scout: Grenade that paralyses enemies
-- Gunner: Lowered ammo for zipline gun
-- Using Pickaxe in combat is now less overpowered
-- Acid Spitter Glyphid for more ranged threats
-- Overall tweaks to weapon stats and recoil/accuracy
-
---- Other/misc tweaks/features ---
-- Call Drop-Pod button on Molly to end the mission (when objective is fulfilled)
-- Deposit minerals on Drop-Pod, so greedy dwarves can collect gold while escaping
-- Lots of new dwarf voice lines and new Mission Control lines
-- Lots of new music tracks to set the mood
-- Sound effects and particles for different materials and in general, a lot of new particle and sound effects added
-- Many performance and stability improvements
-- Controller setup updated and rumble fixed
-- Memorial Hall added to Space Rig, showcases previous Closed Alpha testers
-- Hints on loading screen"
 	72669582465623877CB088AA02B73251 = "Welcome to the team!"
 	E41FECD749AC1F0A07DA2D855EB22AED = "Well done! Secondary objective completed! "
 	8B6DABC642B3D44D3588279EF5AD6013 = "Well done, team. Immediate Dreadnought threat eliminated. Activate the transponder on the MULE, and we'll send in an extraction pod to pick you up."
@@ -2840,7 +2900,10 @@ We have been working on the game for close to two years now and are extremely pr
 	EE7AAEB94E93C86232238B9B4138ECCB = "Work Instructions"
 	3C34D3184ABDDD0D1AF3CA9A2D2A443C = "Work you piece of shit!"
 	DBAE2C1B47A771EAFB09AFB735FB2BC3 = "Worthless, but fun to destroy!"
-	E05A8F644DC845E51F4BA5A01CA63E00 = "Worthy of the true King Under The Mountain."
+	19A6DFDB40796ECF7467198DF9C7220F = "Worthy of the true King Under The Mountain."
+	270E85454B0644D10025F7AFC81923BD = "Worthy of the true King Under The Mountain."
+	BEB73D95418773EDA3F61F8272964A2A = "Worthy of the true King Under The Mountain."
+	F7B60BBE487E9AF6060BBE92A9A861F2 = "Worthy of the true King Under The Mountain."
 	983F9B7847CFC6CEF329128DF715311F = "Would you like to host your own?"
 	6C68CD074F43A80D4601169F005F13FB = "XP EARNED:"
 	E785505044B9145971F7EBA0C8B099AC = "XXX"
@@ -2853,6 +2916,7 @@ We have been working on the game for close to two years now and are extremely pr
 	F8B2F2874C5FA1AE8D2DF3A1E774832D = "Xenofungus"
 	0E6583524F68E43B4276CFB7B32CDC44 = "XenyHazard³"
 	B8468E94499A87FA2B7066893D300173 = "YES!"
+	C73B22224119A155139950BC9B0B2C2B = "YOU ARE ABOUT TO KICK"
 	D151B0924C23F2203A8AEEB88248A9F7 = "Yeah"
 	3CBB4A1749FF26C045BEAF905D9B4D59 = "Yeah baby!"
 	E97EAB7942209FCEBCBF4C86F992B5D0 = "Yeah that's nice!"
@@ -2955,6 +3019,7 @@ We have been working on the game for close to two years now and are extremely pr
 	90DCC125477F00248BEE7EA0E36DFFD9 = "[OkMenu] Yes"
 	CD1EF3A449EC34324E9614A5310EEA74 = "[OkMenu] Yes"
 	720CC2394CABFA9A4A2BE385DFCAAC49 = "[Optional Objective]"
+	57C247FC4BD8DA77BBD905A3FEFF4129 = "[PlayerName]"
 	AF1246A44BB5BB19955982A4C7F64989 = "[Salute]"
 	116503804DD7B2053932DF8A013E92FE = "[SelectCharacter] Switch to Class"
 	AF30D96944D109CA061825B083DE6AFC = "[SelectCharacter] Switch to Class"
@@ -3171,13 +3236,17 @@ Namespace Upgrades (18 keys)
 	8E4EB123492B488C25179A85D142758D = "More projectiles per shot"
 	1C7DDF3E4465488D724BD69039F25337 = "Reload less frequently"
 
-Namespace Vanity (9 keys)
+Namespace Vanity (13 keys)
 	Armor = "Armor"
+	ArmorColor = "Armor Color"
 	Beard = "Beard"
-	BearColor = "Beard Color"
+	BeardColor = "Beard Color"
 	3E7113764EF99981E7343E99CE60E68F = "Buy"
 	936D387249B390C96765B2BE04A575BD = "Buy"
+	Hair = "Hair"
+	HairColor = "Hair Color"
 	Head = "Head"
+	Headwear = "Headwear"
 	A0A13FA44C1F0E7882CA6C85257E354A = "Locked"
 	5B1FC8364FF76D96D64D399DB48B5B48 = "Owned"
 	SkinColor = "Skin Color"
