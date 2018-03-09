@@ -1,44 +1,7 @@
 19 namespaces
-2274 values
+2266 values
 
-Namespace Global (2741 keys)
-	390133F54945CBDDE52B8898E7814A7D = "
-First patch since the launch! Thanks for all the feedback so far.
-
---- New Features ---
-- New reload for the Jury-rigged Boomstick
-- New soundFX (death splat sound, tutorial pop up sound, revive sound, ..)
-- Added "Give Us Feedback" button to Escape menu
-- Max FPS option
-- Added option to disable analytics
-- Added Keybindings to Options -> Control menu (yeah, it's 2018, and NOW we got key-bindings!)
-- Disable server list when already hosting
-- Only show Info Screen once per session
-- Added a new dance to perform at the Jukebox
-- Added first batch of new beards and hairstyles ( Beard System is under construction - some clipping will occur with some beards )
-
---- Fixes & tweaks ---
-- Fix: Memorial Hall upgrade at Player Rank 5, 7 and 8
-- Fix: Grappling Hook intersects with poison clouds
-- Fix: Complexity and Duration on serverlist
-- Improved Friend Inviting on Steam
-- Sentry Gun fixes and tweaks
-- Fixed Mixer names on enemies being wrong if several people spawns enemies
-- Fix for Push to Talk 
-- Fix Glyphids playing run animation while not moving after being hit
-- Fixed various spelling errors and typos 
-- Fix for Game Server Name (should work now!)
-- Try to fix players are unmuted when someone else joins
-- Improved Crafting menu layout
-- Cabin Sign font should be more readable
-- Fix: Supply Pod leaves red squares when it goes down
-- Lots of crash fixes (thanks for the reports!)
-
---- Localization ---
-- Updated all languages with latest from Crowdin community 
-- Note: since we are also adding new text, you will keep seeing some part of the game in English
-- Fixed some text in Space Rig not showing correct in Russian 
-- Note: we have several more languages that will be added in the next update  (Italian, Japanese, Croatian and Finnish) - they didn't make it in this time, sorry!"
+Namespace Global (2721 keys)
 	2559D78C40005E5221F26093CB976283 = " Recoger {Collected}/{Required}{Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESARIO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Diseñador de sonido / productor musical"
@@ -72,6 +35,66 @@ First patch since the launch! Thanks for all the feedback so far.
 	40BA2C6D48C0FFAD42755B8B530D8031 = "- Analizando -"
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "- Seleccione Misión en la Terminal de Misión -"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "-ANALIZADOR DE TERRENO MK2-"
+	390133F54945CBDDE52B8898E7814A7D = "---Update 9: Patch Notes---
+
+Mission End
+- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
+- Mission Failed now gives a 25% compensation reward based on minerals collected
+
+Co-op sessions
+- Getting kicked now results in Mission Failed, compensation based on contribution
+- Added a new flow and info for Kicking and getting Kicked
+- You can no longer Join a session after Drop Pod has been called
+- You can no longer Kick a player from a session after Drop Pod has been called
+- Tweaked text on Mission Map in regards to new public/ private flow
+- Reworded Server List filter to Show Open and Show Password Servers
+- Add Private Server checkbox in escape menu
+- Added indicator for a joining player to team view 
+
+Solo mode
+- Bosco should now save you from the cave leeches more consistently
+- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
+- Bosco now has friendly fire reduction 0.2 instead of 1
+- Bosco Deals 100 % more damage (doubled from 3 to 6)
+- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+
+Class Balance: Buffed the Driller’s tools
+- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
+- Flamethrower Range upped from 8.5m to 10 m
+- Power Drills: Fuel upped from 30 to 35
+- Increased walk speed while drilling with 10 %
+- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
+- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+
+Intro screen
+- Added patch notes (this text) to Intro screen
+- Text & Button for Steam group no longer shown when rewards have already been claimed
+
+Sound, Effects & Animations
+- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
+- New Spitballer sound and Maggot sound
+- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+
+Caves
+- More cave shapes added to the random generator.
+- More randomness on existing cave shapes.
+- New sticky web environmental hazard. Don't get caught!
+
+Localization
+- Added language selection to Intro screen
+- Croatian, Finnish, Italian and Japanese added
+- All languages updated (as usual new features lagging behind, will show English)
+- Updated community translator credits
+- Added missing characters for Polish language.
+- Some buttons with text did not correctly update after a new language was selected.  
+
+Misc Fixes
+- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
+- Key '5' is now available for custom key bindings
+- Fix Late Join crash if joining right when the level ends. 
+- Fixed: you can no longer edit the Hint text while loading! 
+- Maptool not updating correctly when terrian changes
+"
 	610A35A6460AE74E8D2B5B9D80081A9A = "... No es un arma si no pesa al menos 45 kilos."
 	BCBBDA65423104563FCC69AD9103A01A = "1 Tirolesa Extra"
 	B063C03941EB570D6F2145808469C99D = "10 segundos para el despegue."
@@ -312,14 +335,6 @@ INFORME"
 	409B3B9649E367F18A5734A9603A5582 = "COMBATE"
 	CCD5A42B4899395A8E979AAF6192E5A4 = "TRADUCCIONES DE LA COMUNIDAD"
 	7E414F4C4FF198C3F86B93AF103217E7 = "COMPLETADO"
-	115184C1478DA6E5093F638D2F126025 = "CONEXIÓN PERDIDA"
-	339CD83343B8B299B60CB68E1C18079D = "CONEXIÓN PERDIDA"
-	369552E142DEE13C222D7E857BBF6C5B = "CONEXIÓN PERDIDA"
-	8A3BAB01443074116B14B2BF55720D7E = "CONEXIÓN PERDIDA"
-	9B7343704B5102FBC8AB05B78A96C493 = "CONEXIÓN PERDIDA"
-	CA86CCE8468B339D6C9739A38970EEE7 = "CONEXIÓN PERDIDA"
-	CDD875F9417412B8292895AE266C9AEF = "CONEXIÓN PERDIDA"
-	E6A2E50D4C655AC748D388BFAF6A4C07 = "CONEXIÓN PERDIDA"
 	FA3D092E4B1FA4CCC5F1F3A87F894D32 = "CONEXIÓN PERDIDA"
 	3AC07A124BB671598064218A10F5ACE5 = "CREADORES DE CONTENIDO QUE PROMOCIONARON DRG DESDE EL INICIO"
 	EA72D0E84A9CF06B5573579F807E8A02 = "CUENTA REGRESIVA PARA LA MISIÓN:"
@@ -464,7 +479,6 @@ INFORME"
 	3FDC9E054A4217D6E632378A7A9E7419 = "Controles"
 	9D6287354D2C3F1F914A85B350FA8015 = "Controles"
 	A0D0BE4D4BAF6E000C07FEBFE6A9CA37 = "Controles"
-	C55C17E9436F1DE5466438950931C189 = "Controles"
 	C9B9FFE8481F725527979FAC745A67C8 = "Tiempo de Enfriamiento"
 	BC783B7C43B2746F78E59AAB216E4B24 = "Lengua de Coral"
 	25D9FFF548E361EB0B842F8185283F0D = "Ahem"
@@ -530,6 +544,7 @@ La suciedad bloquea la entrada del túnel!"
 	E7463CB8457274C844EC6E82D93634CC = "DRG: Hermandad. Desafío. Ganancia."
 	B022254E4A8509B5A4B60C88547933AD = "DRG: Juntos, forjamos el mañana."
 	659F86C14FC51F0A934A859EDA3ABAF2 = "DRG: ¡Juntos somos grandes!"
+	4FB31F3448809142AFCC94BB01B011BE = "DRILL YOU LATER!"
 	C5A231D144D11797B0F13D8D7CC5B55A = "TALADRADORA"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "TALADRADORA"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "ESTATUA DE TALADRADOR"
@@ -574,6 +589,7 @@ La suciedad bloquea la entrada del túnel!"
 	6685A8EE4C9860BA381D84BEA2518D8F = "Deepcore GK2"
 	17DFCFE2486582C5680A22A580E5AAC7 = "Panal Deeptora "
 	2974756F40C48748E76939B4171D036E = "Enjambre de Deeptora"
+	C55C17E9436F1DE5466438950931C189 = "Default Controls"
 	99DE4F374F07C18A3F1703807B3A46D2 = "Entregado por"
 	626E78DB479AF4BF55BFF3B129204EC2 = "Biozona densa"
 	567197FC47E2B7A939B55D90FA510CCB = "Depositar"
@@ -605,6 +621,7 @@ La suciedad bloquea la entrada del túnel!"
 	BBD4F67449CC32EAE379EFA32FB7EF30 = "¡Tierra!"
 	FC3A4F6246A058D1DBAB0684EA95C1EA = "Disolver equipo"
 	DE8796164D4F20895AD776899659985D = "Disco"
+	CC57820447C82D77BC12E9AF63BFCCEA = "Discord"
 	212F80DC4836C32745C4AEBB6E0F0680 = "Encuentra gemas ocultas"
 	D31245034EC4D8B85BA0BFA93133BE8D = "Desmantelada"
 	9CDEE149479CCC17F7E56F9BD417AA30 = "Desmantelamiento"
@@ -736,7 +753,6 @@ La suciedad bloquea la entrada del túnel!"
 	F46B0BEE4FB44FA72D0180A89D90B6A2 = "Épico"
 	67D48D6247F5A6C32B39E9BA79B9A147 = "Biozona Ecuatorial"
 	E5B256914AE6E1F791BB7197123B1B2B = "¡Capsula de escape entrante! ¡Aléjense!"
-	FA0571FE429E0A26C18BAD93FB120BDC = "Escapando"
 	35C67A644D89A777FBF3F6A0AB186201 = "Tiempo estimado"
 	5FDE6E4B4587A781262BF0984C90049E = "Cada vez que aumenta el nivel de un enano, ganas una marca de tablero. 
 Cuando haya acumulado 4 marcas de tablero tu rango de jugador aumenta."
@@ -777,8 +793,6 @@ DE TIRO"
 	769FEE4E40E3A5428C4D6C98F62C7168 = "SÍGUENOS EN STEAM"
 	EF40822D4C4C2E124CD74A857D383975 = "PARA ROCA Y PIEDRA"
 	B5DBA9204DA8107DDBDD649497C94F2E = "BOTÍN GRATIS PARA TODOS!"
-	B9E7D686405C5798DAA3DC89D54B3268 = "Fallo al unirse al servidor"
-	C51B507F4B3337BD5DD8579B61C8FD4C = "Fallo al unirse al servidor"
 	84BAB4AF4EB0A092E879AA8835F67DE1 = "Advertencia justa: Cualquier vandalismo o destrucción de la propiedad de la empresa se deducirá de su pago al final del mes."
 	8D3138AD4A84EBD51BD9C29677936836 = "¡Regresa a la Cápsula de transporte!"
 	BFCEF2A94E475E53611FE5938B057784 = "¡Regresa a la Cápsula de transporte!"
@@ -793,6 +807,7 @@ DE TIRO"
 	203BABDF4827E48676D56EA93EEDDBA4 = "Recarga más rápida"
 	28982CEF4EAD1DFB82EE8892B816D960 = "Recarga más rápida"
 	0723604A4E5B4B165B1F618B14E1D908 = "Favorecido por Scouts en todas las partes"
+	8021A8B441DBFDF85E3289898E222F58 = "Feedback"
 	B9AAF2AB45F343573C64B2802999CDB8 = "¡Me siento mucho mejor ahora!"
 	C90D261E4FB756830866F584E8471FB2 = "¡Me siento mucho mejor ahora!"
 	AFA9E8754385E1518A6E42A12525EBD7 = "¡Cerca hecha!"
@@ -859,7 +874,6 @@ DE TIRO"
 	BF45DCA846F2AD1C3F963A89F78A08B7 = "Fran Avilés"
 	15961D3B40DCAB1CBA4E05979A8C4563 = "¡Amigos! ¡AMIGOS!"
 	7C49DD0D4CF46237E1695295EC9FAC0D = "¡Fuego amigo!"
-	6546BBB44DF873E54C5F3CA94B5695AA = "¿Sólo amigos?"
 	04A39B58425C721A5799F58E46C981AE = "¡Mierda!"
 	BA7D07DE450F6F7EEF0489A263FA3140 = "Maldita pieza de..."
 	CE0DDF1640BB88B1626A2BA9B77135B3 = "Maldita pieza de..."
@@ -936,7 +950,6 @@ DE TIRO"
 	A9F73C994BF4BC81B638DDB1842E976F = "Dame más luz! ¡Justo ahí!"
 	4C8CAFB046526BB352E76B9451F52B79 = "¡Dame algo de azúcar!"
 	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "Danos tu opinion"
-	8021A8B441DBFDF85E3289898E222F58 = "Valóranos"
 	BA548C114C600F794B4452893B927F52 = "¡Me alegro de estar trabajando contigo!"
 	F5CD873D490CEA95217CA497B45AB6F2 = "Árbol Brillante"
 	8707365348F9DE561F41489C63A69173 = "Luz incandescente"
@@ -1100,8 +1113,7 @@ DE TIRO"
 	6693A0D548210CC3E058FCB3F793E55D = "Hollomita"
 	095814C04FBBD7AB43901DADD2B749C4 = "Hollomita recogida"
 	CDC237994EF10DAC827317AE01EDF4AB = "¡Espero que este día sea mejor que ayer!"
-	474D2304485CCA3E89CAE2B8EB06330F = "Anfitrión"
-	E5786B084D8B6AD6A43286B531238084 = "El anfitrión abandonó el juego"
+	474D2304485CCA3E89CAE2B8EB06330F = "Host: Public"
 	62725DDA48CFD7061B7D9BB69399C458 = "¡Hostil!"
 	23EB62414882D57DE5EA68A443DC70B3 = "¡Los hostiles regresan! ¡Acaba con ellos!"
 	0A7AAE4649D874E7B006FDA1D392F664 = "Enemigos matados por el equipo"
@@ -1319,7 +1331,6 @@ DE TIRO"
 	9A9B33DD4BAC13F3E1421C8C1EF74C91 = "¡Únete para reclamar tus 5.000 créditos!"
 	0A092B88401FDB6A51C415BEA78A6829 = "Únete a nuestro Discord"
 	8EDFA0B64D376829A679E9A83BDAE8DC = "Únete a nuestro Discord"
-	CC57820447C82D77BC12E9AF63BFCCEA = "Únete a nuestro Discord"
 	25AC47A54926568C5D9B47A55D1E3953 = "Jonas Møller"
 	64A4F35A418766479CC93B8B968DC41E = "Jonathan Marquis (Comandante)"
 	C07A78D54F5A8F8B4CC005AF95ABE2AE = "Jukebox"
@@ -1467,7 +1478,6 @@ TUTORIAL"
 	CBBD34D54848C33BF11B95ABDEA6900E = "¡Suciedad suelta por aquí!"
 	EF01094A4C724929456D668A7F41DD77 = "Escarabajo"
 	8CC378B1434DDB77A263478980DCAFFC = "¡Escarabajo aquí! "
-	618C9D4843227B60AC6B19836DF8FDCE = "Conexión con el servidor perdida"
 	597D27244B3BAB229FC8208E850EFA38 = "¡Alto y claro!"
 	3119AE484EBB537745ADC386AEF30CBB = "Bajo"
 	D80A11754E2F7AA6C46814B2207D1801 = "Bajo"
@@ -1635,7 +1645,6 @@ TUTORIAL"
 	B5579D114D14B30642D69EB3A40460E5 = "Mi arma está atascada!"
 	AD1F97B94B47152588BF8BBA31E63555 = "¡Mi arma está atascada!"
 	B523470642979373133EC488CA6A0CFA = "Estado de NAT"
-	A9A8DFFA419A4A131B7E0E85AD5B9910 = "ERROR DE RED"
 	747D9D66462A834F081A129492AD4C34 = "NUEVAS MISIONES EN"
 	478D8E8B45CE2F0A3B9CE594CCE0971A = "NO PAGO"
 	9097FF6D4D1B6DBA0B7716838E78C1DE = "SERVIDORES NO ENCONTRADOS"
@@ -1653,6 +1662,7 @@ TUTORIAL"
 	801BA77A4D781882A479418812A4C628 = "Nunca me he sentido mejor"
 	DBBA53E84F566413D90533A0C67236BB = "¡Nunca me he sentido mejor!"
 	C0027D1B4000EEFC8109E7BE2E3E58DA = "Nuevo Cabello"
+	09A5C4244C0CA7F04085C3B488B92795 = "Newsletter"
 	626CFD674A033F57719FD2852013AFF8 = "Próxima mejora:"
 	BAC61B4E47D79CF780A15EA41F65AD74 = "¡La próxima ronda la invito yo!"
 	BF5D4A09462C925CF7C2F59AD63A8017 = "La próxima vez vamos a un lugar bonito..."
@@ -1672,7 +1682,6 @@ TUTORIAL"
 	EC523EFB441155A8C1500FA11955B466 = "¡No queda más munición!"
 	75443F2441E939560E40F5BFA8C7A0FE = "Sin barba"
 	A1D753A34FD3599165954E90E96BDBD2 = "¡Sin barba!"
-	E69DEF1A41CBB8169ED49FBFE32A80A2 = "No hay lugares disponibles en el equipo"
 	41877C934449DDAFE44289B3D823CDB1 = "¡Sin combustible, sin taladros!"
 	E1CF7C354C6F4A95BE241A9BC520B025 = "¡Sin combustible, sin taladros!"
 	9A21FFA145712386CCB0BEA6390814B5 = "No se acercan más bestias. Cuida lo que queda y luego respira."
@@ -1751,6 +1760,7 @@ Pero bien hecho. :D
 	854C01D44A5E7EE81044B5907A100F89 = "Abrir mapa"
 	8E8C8DA14D3D2162A85247B46C7A2B72 = "Abrir mapa"
 	DFAF837A45849CFAFE010589D31D5162 = "NAT abierta"
+	7CF83C60466640DA9E14B2A20187AFEA = "Open Servers Only"
 	25FDE2DC47E6E00CD26E3C958625B882 = "Nombre opcional"
 	2E4A9A3B4CE8BBE6EBC80D9C802F13AC = "Opciones"
 	3F7C5E884ABE9C45B21F3FACD699A1AD = "Opciones"
@@ -1830,6 +1840,7 @@ Pero bien hecho. :D
 	6F044BB848EBDA1BC56FFDB90965B4FA = "Aviso: El campo de tiro está actualmente cerrado por mantenimiento. La gerencia recomienda a los empleados no entrenar con armas de fuego en otros lugares de la estación."
 	E82365B2495912F596DA23ABD0815AC7 = "Aviso: su Carga se puede personalizar y actualizar desde la terminal Seleccionar Clase en tu habitación personal."
 	5CDF4D02428CEFD5EEA1FBB669567A35 = "Trabajo pasable, minero. Te ajustarás bien a nuestras operaciones, y la gerencia estará encantada de que estaban en lo correcto al confiar en ti. Vuelve a la base y vamos a meterte en la palestra. Presiona el botón M.U.L.E. Para llamar una cápsula de escape."
+	41CD334F48E33C280CFABC8A78F9CC9C = "Password Servers Only"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "Pague su respeto, ¡cállate!"
 	3C9AEF9F46FF592951C327902D9C195C = "Melocotón"
 	6C66ABCC4C72BF374C05C38A865B60F3 = "Melocotón"
@@ -1903,11 +1914,9 @@ Pero bien hecho. :D
 	F9A3211F411439326CBD8EB4FDB6A533 = "Presiona [Use] para usar\n Presiona [Jump] para soltar"
 	A1FAC359403A1149F96076BDD450AF2E = "Objeto anterior"
 	3800EE604BF5CDFDDA766AAFD3F381FA = "Objetivo Principal"
-	41CD334F48E33C280CFABC8A78F9CC9C = "Sólo servidores privados"
 	43F85C6440C5BA5AA70A3A8AFE982DEA = "Procesando"
 	3C6CC485451598609ECABF9E446E9A93 = "Productor"
 	80F265644EC11DAC72EE8891872E567D = "Productor"
-	7CF83C60466640DA9E14B2A20187AFEA = "Sólo servidores públicos"
 	95275C9B475CA7865B7DD4B6232134A0 = "Pudo Shell"
 	C57604854765B85478765F89B9CD6126 = "¡Emocionado y listo para matar!"
 	23BE0CF7486C9A656DE76CB665A09476 = "¿Comprar esta mejora?"
@@ -2069,8 +2078,6 @@ MISIÓN"
 	F47383FC429EDA6085D2AAAA1D58B4CD = "SELECCIONA PERSONAJE"
 	6F039FB445C35711427CECB5B36B56FC = "TORRETA #{Index}"
 	2F0B95F842FBBAC40AF94BB03500DF97 = "TORRETA EN CAMINO:"
-	D34D31354A68C691205C53B2B8B8FDE0 = "SESIÓN CERRADA"
-	DF9C1BBF4AF00818A930D6BA5B6FB726 = "SESIÓN CERRADA"
 	2F0057A7463F40242E296DA1B2287BF0 = "CAMPO DE TIRO"
 	15ED2FE74FE0F17CAEC81092403BE334 = "GRITA POR ATENCIÓN!"
 	AC8F021C438EDD18B5698582BB809EF2 = "MODO INDIVIDUAL"
@@ -2156,7 +2163,6 @@ Personaje"
 	8F5F93304D1B4807EAFA42B8AEEEC13F = "Contraseña del servidor (opcional)"
 	9A962DC244171204F50B818A64CEF2DD = "Contraseña del servidor (opcional)"
 	D113572B49FEE703DA805F8F0CC3CE57 = "Contraseña del Servidor (opcional)"
-	90CDA0294EC7E6C6E57E6590F993F6AC = "La sesión ya no existe"
 	5E2AB5AE464F33A90DA5CEB929B3BAB6 = "Resolucion De Sombras"
 	8C541D974AF96E449878549C03964DBF = "Shallow Grotto"
 	B8647E1F4F26DB5BEE16CC99079BAD7E = "Borde Afilado"
@@ -2184,9 +2190,7 @@ Personaje"
 	3127F8A540D246D860D961AD1DBF602F = "Mostrar HUD"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Muestra a tus amigos lo que encontraste"
 	D0E809FE415757354E08C9A6C291E826 = "¡Mostrar tu gratitud o simplemente dile a tus compañeros lo impresionante que son!"
-	3990416746391BE3BE1D80B653AFE29D = "Inicio de sesión cambiado"
-	09A5C4244C0CA7F04085C3B488B92795 = "Subscríbete a nuestro Boletín de Noticias"
-	3B0C001148CAFD78108586B689269256 = "Cerró sesión"
+	ADFC64CD41433C1A817D5DB50257BE38 = "Sign up for our Steam Group below to join the Community and keep up to date with us as we continue expanding the game - and claim your free reward of 5.000 in-game Credits to give you a massive boost through your first days at work in the mines of Hoxxes IV!"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "¡Silencio por favor!"
 	82D5760A4D36C73A04E752BDC5DE965D = "Simple"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "Sitio 11 - Deep Shale"
@@ -2236,8 +2240,9 @@ Personaje"
 	8A7F8D684869A4425BBE89B8596A3227 = "¡Algo está escondido aquá!"
 	2FFEA1824EFBA9686A00F69564B75202 = "A veces tienes que preguntarte si es realmente necesario reinventar la rueda. Botella, alcohol, trapo, fuego, lanzar - boom."
 	E8444C7745D778558F0E2EB4D6F20E94 = "Sophus Alf Agerbæk"
+	9C3F704343CF00AA96D7BDA208EA1E48 = "Sorry, but I have my reasons."
+	CF58E7A74A765670A1472A9B80EF950C = "Sorry, but you were not responding."
 	7F97A3E04517768226AAAFAAE2116ECF = "Volumen De Efectos de Sonido"
-	226C38A34C3C51E7FB86AA9A7D80EC5E = "Anillo Espacial"
 	BAF3FE9E45AB395112BD7689D4A50FDE = "Spawn Bosco"
 	4C93435147CA874F0F30F4BBF8AB0CDA = "Spawner!"
 	8A269CD24D0ABAB7421B02BB86CC99A1 = "Gasta nitra para llamar un contenedor de suministros presionando [EquipResupply] "
@@ -2268,7 +2273,6 @@ Personaje"
 	B711164C4E1E14E68A3EE399990F3AA4 = "Objetivo estándar: cumpla con las cuotas de Morkita y regresa a casa seguro. De acuerdo con los escáneres, este sistema de cuevas en particular será excepcionalmente difícil de navegar. Mantenga su orientación en todo momento."
 	744CB1E2407EA5B7AA9A02A12E036895 = "Iniciar el procesamiento de minerales"
 	969223DA47B497E8B142FDB5A2075C54 = "Empezar una misión en la Terminal de Misión, para permitir invitar amigos"
-	EC8B303749FD6DA121395EB2376B2FB8 = "Comenzando"
 	2D636E344F707B36EB2B3AA8E516C68A = "Escondite"
 	59E6504B406478818178C89B73CA7111 = "Alijo"
 	2F1EB9744B4AD8AFE3833DA2F91CEBEF = "Estadísticas/ Información"
@@ -2356,11 +2360,6 @@ MISION"
 	952EB8C9499D63F798E85E9B5D419A45 = "Prueba de texto"
 	BAA651EF4F25A6259BDCABB053ECD92E = "Texto"
 	DDEA41514CD3F70125210DBA75E5A0E7 = "Resolución de la textura"
-	ADFC64CD41433C1A817D5DB50257BE38 = "¡Gracias por comprar DEEP ROCK GALACTIC y por participar en nuestro camino! 
-
-Únete a nuestro Grupo de Steam para participar en la Comunidad y mantenerte al día con nosotros a medida que continuamos expandiendo el juego - y reclama tu recompensa gratuita de 5.000 créditos en el juego para recibir un impulso masivo durante los primeros días en las minas de Hoxxes IV!
-
-Nos lo hemos pasado de maravilla desarrollando el juego hasta ahora, y aún no hemos terminado. Hoxxes IV ni siquiera ha mostrado sus verdaderos secretos todavía..."
 	B26C86DF47481AA729A47795827C4556 = "¡Gracias, hermano! ¡Eres un amigo verdadero!"
 	4095F3BE447055AC39FA91ACAB8CE3D5 = "¡Gracias por salvarme!"
 	728E3DDE465ED2B65773DA9EDB199393 = "Gracias a los esfuerzos de nuestros empleados, ahora estamos sirviendo Tortillas de Glífidos en el comedor!!"
@@ -2736,8 +2735,6 @@ EQUIPO"
 	76F1905045BC439BB3190487DCD2A6C9 = "¡Eres un hijo de puta feo!"
 	35D215D84E56BCDEACE563B29DC9C8A2 = "!¿Quieres más?!"
 	42912B4F4C62EEF642AB77811D0FF517 = "Ya has hecho todo esto antes: obtén el Morkite, colócalo en el MULE, tráelo de vuelta. Así de sencillo. Hazlo."
-	4AEECC354C11BD07EF7DC88C9EF038D8 = "Has sido baneado"
-	029998BE44B010C841A047BA8455C84B = "Has sido expulsado del juego"
 	71B72EFE48FD74037A588F9F7B7749C8 = "¡Te has unido! ¡Click para reclamar tus 10.000 créditos!"
 	8F4D89824206338FF0A6C8A644944815 = "¡Te has unido! Haga clic para reclamar sus 5.000 créditos!"
 	C8DEB9DB423364FDA87B2A9D2D292323 = "Tu inventario está lleno"
@@ -2793,17 +2790,19 @@ EQUIPO"
 	44F2D16748B303B3AF5DB48C96EF1897 = "es un Spitballer!"
 	301860DA48B90CD11DF217A9827A49D2 = "minado"
 	847D174B40E48D1D194D318D2E11977F = "Necesario"
+	5B37A7E644003126D80116AF94D90F72 = "this was meant to be a private game."
 	7BD55EB94DA3871F2D7F0E846B24C461 = "{0}  donó 80 Nitra!"
 	F354574840C59FBC38BA7AAB38B76F05 = "{0} te curó!"
 	EDDF00A14025884C10E0CF8FF51328F2 = "{0} invocó 3 Glyphid Praetorians"
 	2A28CAE6448EE9D6B7C4EEA91070071B = "{0} invocó un Acorazado Glífido!"
 	94F849C443D5C265BA3136A8C30EDD8E = "¡{0} generó un escarabajo!"
 	A55C637A41EA819F8F03F49291FEF98E = "{0} generó un grunt!"
-	06FA097444325B9586E76A93E5052FE1 = "{Minutos}:{Segundos}"
+	06FA097444325B9586E76A93E5052FE1 = "{Minutes}:{Seconds}"
 	F0ABB87F46441F18848ABF8CD0ECC9F9 = "{Text} ({Percentage}% Completo)"
 	688288124DAF4F9715A8629D81F87C35 = "{levelrequirement} requerido!"
 	805233C84F945EF9B40C2BB64C23AA08 = "{number} juegos activos"
 	B49D14D14182674FC077EEB3E53277F8 = "{Valor} FPS"
+	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Sorry, this was meant to be a private game.”"
 
 Namespace [/Script/FSD] (27 keys)
 	736F31C8400B0D301672149F62B3D0EA = "Minero autorizado"

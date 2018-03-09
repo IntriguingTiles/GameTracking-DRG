@@ -1,44 +1,7 @@
 19 namespaces
-2132 values
+2152 values
 
-Namespace Global (2803 keys)
-	390133F54945CBDDE52B8898E7814A7D = "
-First patch since the launch! Thanks for all the feedback so far.
-
---- New Features ---
-- New reload for the Jury-rigged Boomstick
-- New soundFX (death splat sound, tutorial pop up sound, revive sound, ..)
-- Added "Give Us Feedback" button to Escape menu
-- Max FPS option
-- Added option to disable analytics
-- Added Keybindings to Options -> Control menu (yeah, it's 2018, and NOW we got key-bindings!)
-- Disable server list when already hosting
-- Only show Info Screen once per session
-- Added a new dance to perform at the Jukebox
-- Added first batch of new beards and hairstyles ( Beard System is under construction - some clipping will occur with some beards )
-
---- Fixes & tweaks ---
-- Fix: Memorial Hall upgrade at Player Rank 5, 7 and 8
-- Fix: Grappling Hook intersects with poison clouds
-- Fix: Complexity and Duration on serverlist
-- Improved Friend Inviting on Steam
-- Sentry Gun fixes and tweaks
-- Fixed Mixer names on enemies being wrong if several people spawns enemies
-- Fix for Push to Talk 
-- Fix Glyphids playing run animation while not moving after being hit
-- Fixed various spelling errors and typos 
-- Fix for Game Server Name (should work now!)
-- Try to fix players are unmuted when someone else joins
-- Improved Crafting menu layout
-- Cabin Sign font should be more readable
-- Fix: Supply Pod leaves red squares when it goes down
-- Lots of crash fixes (thanks for the reports!)
-
---- Localization ---
-- Updated all languages with latest from Crowdin community 
-- Note: since we are also adding new text, you will keep seeing some part of the game in English
-- Fixed some text in Space Rig not showing correct in Russian 
-- Note: we have several more languages that will be added in the next update  (Italian, Japanese, Croatian and Finnish) - they didn't make it in this time, sorry!"
+Namespace Global (2863 keys)
 	1E1ADC13406ED5FA28EF4D97D3BECB48 = " ＋{bonus}％"
 	C7A2859F450D8B339A4CE1876CAB0134 = " ＋{bonus}％"
 	2559D78C40005E5221F26093CB976283 = " 收集 {Collected}／{Required} {Title}"
@@ -77,6 +40,66 @@ First patch since the launch! Thanks for all the feedback so far.
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "—在任務終端選擇任務—"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "—地形掃描器ＭＫ２—"
 	A6E1959D48EAE1DC279926A914C6C670 = "—{ItemCategory}—"
+	390133F54945CBDDE52B8898E7814A7D = "---Update 9: Patch Notes---
+
+Mission End
+- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
+- Mission Failed now gives a 25% compensation reward based on minerals collected
+
+Co-op sessions
+- Getting kicked now results in Mission Failed, compensation based on contribution
+- Added a new flow and info for Kicking and getting Kicked
+- You can no longer Join a session after Drop Pod has been called
+- You can no longer Kick a player from a session after Drop Pod has been called
+- Tweaked text on Mission Map in regards to new public/ private flow
+- Reworded Server List filter to Show Open and Show Password Servers
+- Add Private Server checkbox in escape menu
+- Added indicator for a joining player to team view 
+
+Solo mode
+- Bosco should now save you from the cave leeches more consistently
+- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
+- Bosco now has friendly fire reduction 0.2 instead of 1
+- Bosco Deals 100 % more damage (doubled from 3 to 6)
+- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+
+Class Balance: Buffed the Driller’s tools
+- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
+- Flamethrower Range upped from 8.5m to 10 m
+- Power Drills: Fuel upped from 30 to 35
+- Increased walk speed while drilling with 10 %
+- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
+- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+
+Intro screen
+- Added patch notes (this text) to Intro screen
+- Text & Button for Steam group no longer shown when rewards have already been claimed
+
+Sound, Effects & Animations
+- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
+- New Spitballer sound and Maggot sound
+- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+
+Caves
+- More cave shapes added to the random generator.
+- More randomness on existing cave shapes.
+- New sticky web environmental hazard. Don't get caught!
+
+Localization
+- Added language selection to Intro screen
+- Croatian, Finnish, Italian and Japanese added
+- All languages updated (as usual new features lagging behind, will show English)
+- Updated community translator credits
+- Added missing characters for Polish language.
+- Some buttons with text did not correctly update after a new language was selected.  
+
+Misc Fixes
+- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
+- Key '5' is now available for custom key bindings
+- Fix Late Join crash if joining right when the level ends. 
+- Fixed: you can no longer edit the Hint text while loading! 
+- Maptool not updating correctly when terrian changes
+"
 	610A35A6460AE74E8D2B5B9D80081A9A = "......無一百磅重量的就不是槍枝。"
 	BCBBDA65423104563FCC69AD9103A01A = "部署額外的１條滑索纜繩"
 	B063C03941EB570D6F2145808469C99D = "１０秒內升空。"
@@ -92,6 +115,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	54B42BD34E7B086F2FD0A4B05BE8FB06 = "無鬍子"
 	628F94274CF7B9670987228A3F69CD94 = "支援機械人在路上了！"
 	2D3B341E43269B3517DEE48ADE5C2BB7 = "蟲群正衝過來！上彈！"
+	094DBF9240C1525A23E214A91AED7C79 = "經典展現出奇妙的原始力量。"
+	30966C18430C82C1C2C0C98D63EF5D8B = "經典展現出奇妙的原始力量。"
+	5DF2C5A14F5FF99B9995E89D244A10C3 = "經典展現出奇妙的原始力量。"
+	DDF603154FAC6DB54AC70CA48A84728B = "經典展現出奇妙的原始力量。"
 	10EBE9914309B112BED94D8ACB15BFE8 = "轉輪僅有４個彈倉，特製的大口徑２６ｍｍ左輪手槍，保證一擊即倒。"
 	A51AF99C49FC325E4128D4BB8F23F943 = "矮人們不太喜歡這把沉實可靠的兵器，但是重量、火力有保證。"
 	86A03D794F56F55E13FFD190FE8F3031 = "矮人不死！"
@@ -151,6 +178,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	A13E31724B152BF53958568AC2187067 = "彈藥資源"
 	2C4A91E9492C6E9E0B9B26A55BDBE3B8 = "岩漿洞穴是最深的採礦地點，２５０—４００度星球內層的岩漿正在滾動著。我們不建議各位觸碰任務以外的東西，你們不享有燒傷保險。"
 	8E6B812B407B923700BEB8B780945CD5 = "水晶洞穴肯定是酷斯星上最壯觀的景色之一。黑暗中四周的晶體熠熠閃亮。仔細去看，林林總總值錢的礦物與大量無用的矽酸鹽混在一起。"
+	29D5FBF2442015B335E7A6AECFA87166 = "絕對顯赫的造型。"
+	3B18C19548D132601FED55B99675B48F = "絕對顯赫的造型。"
+	67D8EE0841E320C26FB213B16D34DB30 = "絕對顯赫的造型。"
+	6FE363F44315E163F28D9D97B64794C6 = "絕對顯赫的造型。"
 	20AAF4014565DAB702E236A3D5489BAE = "就這樣，隆～～！"
 	591225604B87D8991590D2B50710F2F1 = "就這樣，隆～～！"
 	4B3D6EA04E87B40FF27B4788D6315615 = "告示"
@@ -294,6 +325,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	251FA98341B86380F1B7FE815D790818 = "更快建立"
 	84EFB56C4B7743BB0738C2B559DBD9B4 = "更快建立"
 	180C5221413CB7FC1001EFB90C0618AA = "內置避震器減免墜落傷害。"
+	0187503E429D0D844DE504AD1153A970 = "球型絡腮鬍子"
+	4BA9E7AA43860D6AA495FF954DCEDFD7 = "球型絡腮鬍子"
+	A0E3B94940BCD0DA7277C3A354EE0563 = "球型絡腮鬍子"
+	D248460145F3994592B4F686F0331601 = "球型絡腮鬍子"
 	B9D6970042206F4F749478A6B724FAED = "子彈數量"
 	69C22B4C4F84F95A1DD5E3AA29F22E42 = "燃燒時間"
 	75B06D68482BF52E8F07348C5BC465B0 = "燃燒時間"
@@ -319,14 +354,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	409B3B9649E367F18A5734A9603A5582 = "戰鬥"
 	CCD5A42B4899395A8E979AAF6192E5A4 = "社群翻譯"
 	7E414F4C4FF198C3F86B93AF103217E7 = "完成"
-	115184C1478DA6E5093F638D2F126025 = "失去連線"
-	339CD83343B8B299B60CB68E1C18079D = "失去連線"
-	369552E142DEE13C222D7E857BBF6C5B = "失去連線"
-	8A3BAB01443074116B14B2BF55720D7E = "失去連線"
-	9B7343704B5102FBC8AB05B78A96C493 = "失去連線"
-	CA86CCE8468B339D6C9739A38970EEE7 = "失去連線"
-	CDD875F9417412B8292895AE266C9AEF = "失去連線"
-	E6A2E50D4C655AC748D388BFAF6A4C07 = "失去連線"
 	FA3D092E4B1FA4CCC5F1F3A87F894D32 = "失去連線"
 	3AC07A124BB671598064218A10F5ACE5 = "早期幫助創作《深岩銀河集團》的作家"
 	EA72D0E84A9CF06B5573579F807E8A02 = "任務倒數："
@@ -344,6 +371,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	FE21EA0942AE111E8B3E339806DA3B0A = "帶不了更多啦！"
 	384C1A53441F292B61B12EB3737B7979 = "受不了的誘惑！"
 	EEF4FDED4B944EF8956B3D83A814C75B = "不能動彈！"
+	3448F78542BF4B6407109B96A5974DAE = "取消"
 	3B9ECFDD4FD0BFE1DE47FFA83667BDC2 = "取消"
 	514A80A544202DE8547BB48B8550DA9F = "取消"
 	78A7E25C4D99C09783D9CD9DCBD2BEA3 = "取消"
@@ -472,7 +500,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	3FDC9E054A4217D6E632378A7A9E7419 = "手把"
 	9D6287354D2C3F1F914A85B350FA8015 = "控制台"
 	A0D0BE4D4BAF6E000C07FEBFE6A9CA37 = "控制台"
-	C55C17E9436F1DE5466438950931C189 = "控制台"
 	C9B9FFE8481F725527979FAC745A67C8 = "冷卻"
 	BC783B7C43B2746F78E59AAB216E4B24 = "吐舌珊瑚"
 	25D9FFF548E361EB0B842F8185283F0D = "咳咳"
@@ -518,6 +545,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	7E2C903B470E31C7B8F9AEA38B8FF621 = "水晶洞穴"
 	B610D6184BC05B285769B6A452AE6C01 = "水晶洞穴"
 	C3EEC4024EFCE25A3AB044B8A0B798D7 = "水晶洞穴"
+	549257164EA4E3BE4F9923B73561EE1B = "捲曲鬍子"
+	5818CA7745E46C32C8160492D978BE8A = "捲曲鬍子"
+	E4971917469E23D0CC7D9680458B89EB = "捲曲鬍子"
+	E89073A147BA55948BDF659C8FCE48C5 = "捲曲鬍子"
 	7CB18B134C8F85CF88A2D69C45F5F5CC = "現在深度"
 	C65407EE4F86189075643FAEA8F21203 = "自訂"
 	E1150D3044B5BD8E07C318BDDA70D3B9 = "自訂標籤"
@@ -538,6 +569,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	E7463CB8457274C844EC6E82D93634CC = "深岩銀河集團：「四海之內皆兄弟、挑戰、利潤。」"
 	B022254E4A8509B5A4B60C88547933AD = "深岩銀河集團：「一起為未來打拼。」"
 	659F86C14FC51F0A934A859EDA3ABAF2 = "深岩銀河集團：「團結一致， 昂首挺胸！」"
+	4FB31F3448809142AFCC94BB01B011BE = "DRILL YOU LATER!"
 	C5A231D144D11797B0F13D8D7CC5B55A = "鑽頭工"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "鑽頭工"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "鑽頭工雕像"
@@ -582,6 +614,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	6685A8EE4C9860BA381D84BEA2518D8F = "深核心ＧＫ２"
 	17DFCFE2486582C5680A22A580E5AAC7 = "雷鳴蜂巢 "
 	2974756F40C48748E76939B4171D036E = "雷鳴蜂群"
+	C55C17E9436F1DE5466438950931C189 = "Default Controls"
 	99DE4F374F07C18A3F1703807B3A46D2 = "交付者"
 	626E78DB479AF4BF55BFF3B129204EC2 = "茂密生態系"
 	567197FC47E2B7A939B55D90FA510CCB = "存礦"
@@ -610,9 +643,14 @@ First patch since the launch! Thanks for all the feedback so far.
 	302DF88F4ACC1279D5E27C9E5E33A693 = "跟你的舊髮型不同"
 	13988B1740B19CF9D4E06C9BEE4C65D5 = "挖這裡！"
 	077161994CF326D89CA4E4933EDE7554 = "開挖是我的中間名！"
+	813D47C84E49D71638A597A9A9439A6F = "祥瑞老人鬍子"
+	9EC5050E403463C4911FF9926E84EB4A = "祥瑞老人鬍子"
+	C068F9D64EEFF095FE6BA883CE2A5CCE = "祥瑞老人鬍子"
+	C5F9B8584A69ADE93CCDC084D2F82C56 = "祥瑞老人鬍子"
 	BBD4F67449CC32EAE379EFA32FB7EF30 = "泥土！"
 	FC3A4F6246A058D1DBAB0684EA95C1EA = "解散隊伍"
 	DE8796164D4F20895AD776899659985D = "迪斯可"
+	CC57820447C82D77BC12E9AF63BFCCEA = "Discord"
 	212F80DC4836C32745C4AEBB6E0F0680 = "尋找詭秘的寶石"
 	D31245034EC4D8B85BA0BFA93133BE8D = "拆除"
 	9CDEE149479CCC17F7E56F9BD417AA30 = "正在拆卸"
@@ -656,6 +694,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	5D11775D4098373B80395E970421929F = "已呼叫機械人！"
 	3E9CBD324005C70D4FE845896B38EEB2 = "機械人，開工吧！"
 	2FBDF89B419048D332D18CBFD99C8CBE = "Drong"
+	1B5AA3414AD3A4B0FB3D81876D35C098 = "礦工大鬍子"
+	24485A4E421985E76D17858BA2FCCE8A = "礦工大鬍子"
+	72148A4A4AF5B94638C9A7B1A4C73FA1 = "礦工大鬍子"
+	F6A208864D928225C01DFEA662DDAD1D = "礦工大鬍子"
 	8EFD033E4AC4EB85EA44EC90EC3B4529 = "空降艙"
 	DCA79CE0412C30823EDD8ABAFAFD8593 = "空降艙入站！"
 	442EA9FA44713CF2001F33A907458DD9 = "空降艙到了！等待回航！"
@@ -744,9 +786,12 @@ First patch since the launch! Thanks for all the feedback so far.
 	EAA1E65C4B642258D88E18A5FA6A1564 = "輸入伺服器名稱"
 	1F6B6E004C9DE2BBC1770DBC37CF0A3F = "史詩"
 	F46B0BEE4FB44FA72D0180A89D90B6A2 = "最好"
+	1F9D919445E98096C64538B5AA1276F8 = "史詩式八字鬍"
+	7FBDABD949A12E8FFBA070B1AD413DE3 = "史詩式八字鬍"
+	ABDFFB514B5C4AE6ABB23EA48CDB4124 = "史詩式八字鬍"
+	F0DC10224BB84A5AC3AE03BEAC81210C = "史詩式八字鬍"
 	67D48D6247F5A6C32B39E9BA79B9A147 = "赤道生態系"
 	E5B256914AE6E1F791BB7197123B1B2B = "逃生艙入站！閃開！"
-	FA0571FE429E0A26C18BAD93FB120BDC = "正在逃生"
 	35C67A644D89A777FBF3F6A0AB186201 = "預計時間"
 	5FDE6E4B4587A781262BF0984C90049E = "每次矮人升級取得１個連接號。
 每收集４個連接號，玩家升１階階級。"
@@ -787,8 +832,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	769FEE4E40E3A5428C4D6C98F62C7168 = "在ＳＴＥＡＭ追隨我們"
 	EF40822D4C4C2E124CD74A857D383975 = "為了岩石與石頭"
 	B5DBA9204DA8107DDBDD649497C94F2E = "免費的掠奪品！"
-	B9E7D686405C5798DAA3DC89D54B3268 = "叁加伺服器失敗"
-	C51B507F4B3337BD5DD8579B61C8FD4C = "叁加伺服器失敗"
 	84BAB4AF4EB0A092E879AA8835F67DE1 = "警告！「損毀集團的財產，月底扣掉你的人工。」"
 	8D3138AD4A84EBD51BD9C29677936836 = "退回去空降艙！"
 	BFCEF2A94E475E53611FE5938B057784 = "退回去空降艙！"
@@ -803,6 +846,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	203BABDF4827E48676D56EA93EEDDBA4 = "快速上彈"
 	28982CEF4EAD1DFB82EE8892B816D960 = "快速上彈"
 	0723604A4E5B4B165B1F618B14E1D908 = "每位偵察兵都喜愛這樣"
+	8021A8B441DBFDF85E3289898E222F58 = "Feedback"
 	B9AAF2AB45F343573C64B2802999CDB8 = "現在感覺好多了！"
 	C90D261E4FB756830866F584E8471FB2 = "現在感覺好多了！"
 	AFA9E8754385E1518A6E42A12525EBD7 = "圍欄好了！"
@@ -849,6 +893,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	10A9A869444F01F282E4D3BA1FA5B007 = "用於繁複的工程"
 	687064B54B0A0E527267348509F7A91F = "用於繁複的工程"
 	78A7BECA48E920EB182DD29A44144843 = "天呀，你就不能再待久一點！ "
+	141B84C74E20B4E46885739A879E660F = "無懈可擊的大鬍子。"
+	2D3E76BB4D454F7C27B1AEAD8E273DA5 = "無懈可擊的大鬍子。"
+	2DA8D91748C347B3C76D0EAF34FACECE = "無懈可擊的大鬍子。"
+	74C16CFD4A684BF7C9BDE0BC5D379042 = "無懈可擊的大鬍子。"
 	F5B7AFA34CDC1A92B2F5B29A15297216 = "用於戰術鑽孔"
 	6060CC4C40509E819FF0D0902DAF0203 = "用於戰術工程"
 	83BD5CD345EA58F8DC8DC99BE8EDBD4E = "用於戰術射擊"
@@ -873,7 +921,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	BF45DCA846F2AD1C3F963A89F78A08B7 = "Fran Avilés"
 	15961D3B40DCAB1CBA4E05979A8C4563 = "自己人！「自己人」！"
 	7C49DD0D4CF46237E1695295EC9FAC0D = "打中自己人！"
-	6546BBB44DF873E54C5F3CA94B5695AA = "只有朋友？"
 	04A39B58425C721A5799F58E46C981AE = "哇靠！"
 	BA7D07DE450F6F7EEF0489A263FA3140 = "真機車的……"
 	CE0DDF1640BB88B1626A2BA9B77135B3 = "真機車的……"
@@ -911,7 +958,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	DF8927014457DEB1A222759C3C2B74AA = "槍手"
 	E4CA328C4E57D2B2A07A2FBA12D6640F = "槍手"
 	AAA8193840982011FD259AB023A1D053 = "槍手雕像"
-	472AD10C4C5B5617538225A52DC8FFD2 = "水母銀河守護者 "
+	472AD10C4C5B5617538225A52DC8FFD2 = "銀河立方水母 "
 	0210DC9A43583272C34577AA706D12C2 = "遊戲設計"
 	1D17F0AC4E3E13374F78208C216F0B53 = "遊戲企劃"
 	A1D3105046216F6A6033439F4C89833B = "遊戲伺服器名稱"
@@ -949,8 +996,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	7620D7A64CDF6A7CD10221919EEADDA2 = "給我點光！"
 	A9F73C994BF4BC81B638DDB1842E976F = "給我點光！照亮那裡！"
 	4C8CAFB046526BB352E76B9451F52B79 = "分我一些紅糖！"
-	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "向我們反映意見。"
-	8021A8B441DBFDF85E3289898E222F58 = "向我們反映意見。"
+	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "向我們反映意見"
 	BA548C114C600F794B4452893B927F52 = "很高興與你工作！"
 	F5CD873D490CEA95217CA497B45AB6F2 = "熒光樹"
 	8707365348F9DE561F41489C63A69173 = "熒光植物"
@@ -1116,8 +1162,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	6693A0D548210CC3E058FCB3F793E55D = "容和石"
 	095814C04FBBD7AB43901DADD2B749C4 = "已收集「容和石」"
 	CDC237994EF10DAC827317AE01EDF4AB = "希望今天會更好！"
-	474D2304485CCA3E89CAE2B8EB06330F = "主機"
-	E5786B084D8B6AD6A43286B531238084 = "主機者離開遊戲"
+	474D2304485CCA3E89CAE2B8EB06330F = "Host: Public"
 	62725DDA48CFD7061B7D9BB69399C458 = "敵人！"
 	23EB62414882D57DE5EA68A443DC70B3 = "臭蟲想走！殺光它們！"
 	0A7AAE4649D874E7B006FDA1D392F664 = "隊友殺害敵人"
@@ -1299,6 +1344,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	10BC63654EB95F055E3EEC90CEFAEC06 = "卡彈了！"
 	22E4AF5B420D47F6910C608247FB56BE = "你穿起來好看"
 	0A86F56941B5897FC4E013B955F7B962 = "這適合你。"
+	0A2B36D74C76EABE1EB975949D5FABEC = "打理這鬍子很費勁。"
+	24A6355C49EF808BC3D248AFA8AD9B1C = "打理這鬍子很費勁。"
+	CF74A6D0489BCD7221B8FE9CE45E9F17 = "打理這鬍子很費勁。"
+	D3D9EEC041FAEB70FFF71F87CE63E87A = "打理這鬍子很費勁。"
 	E79DE8574BC6D761870D9C8AD2511104 = "這個或啤酒！"
 	D3EB9A3B40B3D6BEDDA9FD851B87B446 = "你打中我！低等人種！"
 	78679F94495AD81F49D5179D59DDC42E = "那是無畏刁蟲！ "
@@ -1339,7 +1388,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	9A9B33DD4BAC13F3E1421C8C1EF74C91 = "参加認領你的５０００金錢！"
 	0A092B88401FDB6A51C415BEA78A6829 = "到Discord參加我們"
 	8EDFA0B64D376829A679E9A83BDAE8DC = "到Discord參加我們"
-	CC57820447C82D77BC12E9AF63BFCCEA = "到Discord參加我們"
 	25AC47A54926568C5D9B47A55D1E3953 = "Jonas Møller"
 	64A4F35A418766479CC93B8B968DC41E = "Jonathan Marquis (Commander)"
 	C07A78D54F5A8F8B4CC005AF95ABE2AE = "播放機"
@@ -1367,7 +1415,9 @@ First patch since the launch! Thanks for all the feedback so far.
 	76AE6DA0456ED2D59A9CBB902AD2D0F1 = "按鍵綁定"
 	85D437634433F8B99D05B683232CAE1D = "鍵盤及滑鼠"
 	116899A540C11BC865ED8F84CA84DB4F = "踢出去"
+	7DDC24AB41A5E420ED2B048B9C5BDA96 = "踢出"
 	8D7543224DEA7BE037EEF2B39859943D = "踢出"
+	9285CEE44DC9551C368DED962BB30B8E = "踢出"
 	0AE59B9845A5EA01D2CDA491BF4A9D64 = "從ＥＳＣ功能表踢出"
 	6E00C95D4D7428F51E5D15BA73DBA0C5 = "有傷亡前幹掉它！"
 	7021917C4F91EEA0B0D3E393F775BC62 = "幹掉它！"
@@ -1392,6 +1442,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	C82E313A47FACD5D427F14A7CEBC56EA = "是否正在尋找特定合成的礦物？"
 	776EEDF74F5A67D8128954AA3C43A93F = "資源不足！"
 	E612E7A1483E43042EB651808C262332 = "語言"
+	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "大碼腰帶"
 	9E5515644E360F6FD5B604B5E5CB78DF = "大碼腰帶"
 	A58587444D096FC60CC81D9393CF222E = "大碼腰帶"
@@ -1487,7 +1538,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	CBBD34D54848C33BF11B95ABDEA6900E = "這裡泥土疏鬆！"
 	EF01094A4C724929456D668A7F41DD77 = "掠奪蟲"
 	8CC378B1434DDB77A263478980DCAFFC = "這裡有掠奪蟲！ "
-	618C9D4843227B60AC6B19836DF8FDCE = "與伺服器失去連線"
 	597D27244B3BAB229FC8208E850EFA38 = "要炸掉，清場！"
 	3119AE484EBB537745ADC386AEF30CBB = "低"
 	D80A11754E2F7AA6C46814B2207D1801 = "低"
@@ -1589,6 +1639,14 @@ First patch since the launch! Thanks for all the feedback so far.
 	6CA5C6A2467E95573471F59646E4CB73 = "西瓜色"
 	EB2EC9834533B9CCBABE99AE1E4BD0B5 = "西瓜色"
 	8F65DB8F4F72EB9D412C7BAF08ECDEE6 = "消息文本消息文本消息文本"
+	38580E5841573C7CAC8B66B940C3366E = "雄武的飛機頭"
+	67737BFD47152FC16D956793A96BA6F2 = "雄武的飛機頭"
+	A7D3ABCC49813B79FE0773A773A1F453 = "雄武的飛機頭"
+	E7552D5D4813480F787B91850AD96F21 = "雄武的飛機頭"
+	5AA29B224C59CA30488EA2805E17B585 = "雄武的羊排式鬍子"
+	B439AE914A705D4D620C46A031E3BB13 = "雄武的羊排式鬍子"
+	BB5A7AF14F7C8E9DB50956A12BEB96A6 = "雄武的羊排式鬍子"
+	CBF250254793EF64FC127D99A3111E15 = "雄武的羊排式鬍子"
 	CCD4A85F4231C56E402568A26C45AB10 = "Mikhail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
 	67B7516B42F5585F57A881936E78D7B2 = "最小角度"
@@ -1655,6 +1713,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	7FB6FA4941DDECB9210B079209D7B8F0 = "好多啦！"
 	CD169B8F4540D97173D1A180A5C920B4 = "多人遊戲的對談結束"
 	80DCF1564FE0AF32ACCD80B57941FEA6 = "多名矮人一起復活倒地的矮人，加速復活進度。"
+	EAB190A647BE3478A66B8FAAFB6A4C9E = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "蘑菇！"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "蘑菇！"
 	F7855C5E422A4EB627BE18A6DE59B1A9 = "音樂音量"
@@ -1666,7 +1725,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	B5579D114D14B30642D69EB3A40460E5 = "武器卡彈了！"
 	AD1F97B94B47152588BF8BBA31E63555 = "武器卡彈了！"
 	B523470642979373133EC488CA6A0CFA = "ＮＡＴ狀態"
-	A9A8DFFA419A4A131B7E0E85AD5B9910 = "網路錯誤"
 	747D9D66462A834F081A129492AD4C34 = "新的任務在"
 	478D8E8B45CE2F0A3B9CE594CCE0971A = "無獎勵"
 	9097FF6D4D1B6DBA0B7716838E78C1DE = "找不到伺服器"
@@ -1684,6 +1742,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	801BA77A4D781882A479418812A4C628 = "感到再好不過了"
 	DBBA53E84F566413D90533A0C67236BB = "感到再好不過了！"
 	C0027D1B4000EEFC8109E7BE2E3E58DA = "新髮型"
+	09A5C4244C0CA7F04085C3B488B92795 = "Newsletter"
 	626CFD674A033F57719FD2852013AFF8 = "下一項升級："
 	BAC61B4E47D79CF780A15EA41F65AD74 = "下次請喝！"
 	BF5D4A09462C925CF7C2F59AD63A8017 = "下次我們去某個好地方……"
@@ -1703,7 +1762,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	EC523EFB441155A8C1500FA11955B466 = "彈藥耗盡！"
 	75443F2441E939560E40F5BFA8C7A0FE = "無鬍子"
 	A1D753A34FD3599165954E90E96BDBD2 = "無鬍子！"
-	E69DEF1A41CBB8169ED49FBFE32A80A2 = "隊伍無空位"
 	41877C934449DDAFE44289B3D823CDB1 = "沒燃料，沒鑽頭！"
 	E1CF7C354C6F4A95BE241A9BC520B025 = "沒燃料，沒鑽頭！"
 	9A21FFA145712386CCB0BEA6390814B5 = "這波要停了，快手收拾蝦兵蟹將，然後喘口氣。"
@@ -1716,6 +1774,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	C6B9F94B428212D6BB558F9ACB9F51E4 = "沒有"
 	6DB7536F47654EBAB8DDA8ACCF2ED0E6 = "正常"
 	74D13FE94A82AB044ED0218B4515D516 = "正常"
+	012E832C41B0C601DA207982AE16EFB5 = "款式新穎，開創新的鬍子造型。"
+	B30D619444DA46EB7B132597EBBC0C4F = "款式新穎，開創新的鬍子造型。"
+	E0AAE5E047E4F5D8FF5AE48A62617174 = "款式新穎，開創新的鬍子造型。"
+	FFF6A5C348338F8DF715D0A4E2065506 = "款式新穎，開創新的鬍子造型。"
 	01A3664546FF7F4D27F17A9A10067380 = "別再來啦！"
 	3114EE99451AE12A9B7CE0B9AB3807A4 = "實在不是！ "
 	537F78754C5AAE4F3B878F80942102D5 = "無"
@@ -1782,6 +1844,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	854C01D44A5E7EE81044B5907A100F89 = "開啟地圖"
 	8E8C8DA14D3D2162A85247B46C7A2B72 = "開啟地圖"
 	DFAF837A45849CFAFE010589D31D5162 = "開啟ＮＡＴ"
+	7CF83C60466640DA9E14B2A20187AFEA = "Open Servers Only"
 	25FDE2DC47E6E00CD26E3C958625B882 = "選項名稱"
 	2E4A9A3B4CE8BBE6EBC80D9C802F13AC = "選項"
 	3F7C5E884ABE9C45B21F3FACD699A1AD = "選項"
@@ -1863,6 +1926,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	6F044BB848EBDA1BC56FFDB90965B4FA = "公共服務宣導：「靶場關閉維護。主管要求員工不要在太空站射擊」。"
 	E82365B2495912F596DA23ABD0815AC7 = "公共服務宣導：「可以在住處的選擇職業終端，升級或定製你的裝備。」"
 	5CDF4D02428CEFD5EEA1FBB669567A35 = "表現還行，礦工。主管好高興沒看錯你，期待你日後的表現。按下礦騾的按鈕呼叫逃生艙，送你返回基地並投入下一場任務。"
+	41CD334F48E33C280CFABC8A78F9CC9C = "Password Servers Only"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "給點尊重，保持安靜！"
 	3C9AEF9F46FF592951C327902D9C195C = "蜜桃色"
 	6C66ABCC4C72BF374C05C38A865B60F3 = "蜜桃色"
@@ -1936,11 +2000,9 @@ First patch since the launch! Thanks for all the feedback so far.
 	F9A3211F411439326CBD8EB4FDB6A533 = "按 [Use] 使用\n 按 [Jump] 掉下"
 	A1FAC359403A1149F96076BDD450AF2E = "上一件物品"
 	3800EE604BF5CDFDDA766AAFD3F381FA = "主要目標"
-	41CD334F48E33C280CFABC8A78F9CC9C = "只限私人伺服器"
 	43F85C6440C5BA5AA70A3A8AFE982DEA = "正在處理"
 	3C6CC485451598609ECABF9E446E9A93 = "製作人員"
 	80F265644EC11DAC72EE8891872E567D = "製作人員"
-	7CF83C60466640DA9E14B2A20187AFEA = "只限公共伺服器"
 	95275C9B475CA7865B7DD4B6232134A0 = "茂盛殼葉"
 	C57604854765B85478765F89B9CD6126 = "精神起來，準備好大開殺戒！"
 	23BE0CF7486C9A656DE76CB665A09476 = "確定要購買升級？"
@@ -2071,7 +2133,11 @@ First patch since the launch! Thanks for all the feedback so far.
 	65846BED4F5D4401577B5582A880E9D5 = "更易毀掉岩石"
 	3097392A480FF6FC33183090584C401E = "磐石樹"
 	EFFB0AE5446CC7E2FDB62F9D6459AEA4 = "磐石樹"
-	CA3490A84AEC6C21DFC5F0A358B2B30A = "貓王頭"
+	6E008D4E43EA1BF3BC4B89AAD5A8B9DF = "搖滾貓王頭"
+	7011394446E202B27701AD9A180B42F3 = "搖滾貓王頭"
+	95B441504C61497FB9CED89FFD5631AE = "搖滾貓王頭"
+	ACBB47834BF736CCDC9848A4BAA68129 = "搖滾貓王頭"
+	CA3490A84AEC6C21DFC5F0A358B2B30A = "搖滾貓王頭"
 	C87130F148E43E29A47F00A47BBF60E3 = "火箭筒"
 	8C01BDE343C6D9A3F2493D8088C05EC9 = "火箭準備好了！"
 	B5A0980B453847C0815F908798345B5F = "已呼叫火箭！"
@@ -2105,8 +2171,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	F47383FC429EDA6085D2AAAA1D58B4CD = "選擇角色"
 	6F039FB445C35711427CECB5B36B56FC = "步哨槍 #{Index}"
 	2F0B95F842FBBAC40AF94BB03500DF97 = "步哨槍入站："
-	D34D31354A68C691205C53B2B8B8FDE0 = "對談關閉"
-	DF9C1BBF4AF00818A930D6BA5B6FB726 = "對談關閉"
 	2F0057A7463F40242E296DA1B2287BF0 = "射程"
 	15ED2FE74FE0F17CAEC81092403BE334 = "大喊吸引別人注意！"
 	AC8F021C438EDD18B5698582BB809EF2 = "單人模式"
@@ -2193,7 +2257,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	8F5F93304D1B4807EAFA42B8AEEEC13F = "伺服器密碼（可選擇）"
 	9A962DC244171204F50B818A64CEF2DD = "伺服器密碼（可選擇）"
 	D113572B49FEE703DA805F8F0CC3CE57 = "伺服器密碼（可選擇）"
-	90CDA0294EC7E6C6E57E6590F993F6AC = "對談已不存在"
 	5E2AB5AE464F33A90DA5CEB929B3BAB6 = "陰影解析度"
 	8C541D974AF96E449878549C03964DBF = "淺層石洞"
 	B8647E1F4F26DB5BEE16CC99079BAD7E = "銳利的邊緣"
@@ -2222,9 +2285,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	3127F8A540D246D860D961AD1DBF602F = "顯示顯示器"
 	BEA156E64ECB2A82334E2C900D8A0582 = "讓隊友們知道你發現甚麼"
 	D0E809FE415757354E08C9A6C291E826 = "向隊友們表達感謝或他們真的太酷了！"
-	3990416746391BE3BE1D80B653AFE29D = "登入已更改"
-	09A5C4244C0CA7F04085C3B488B92795 = "註冊我們的通訊"
-	3B0C001148CAFD78108586B689269256 = "登出"
+	ADFC64CD41433C1A817D5DB50257BE38 = "Sign up for our Steam Group below to join the Community and keep up to date with us as we continue expanding the game - and claim your free reward of 5.000 in-game Credits to give you a massive boost through your first days at work in the mines of Hoxxes IV!"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "請安靜！"
 	82D5760A4D36C73A04E752BDC5DE965D = "簡單"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "地點１１—頁岩深層"
@@ -2275,8 +2336,9 @@ First patch since the launch! Thanks for all the feedback so far.
 	8A7F8D684869A4425BBE89B8596A3227 = "有東西藏在這裡！"
 	2FFEA1824EFBA9686A00F69564B75202 = "撫心自問，何必多此一舉？把酒飲掉，破布混著燃料，點火後拋出，問題迎刃而解。隆──"
 	E8444C7745D778558F0E2EB4D6F20E94 = "Sophus Alf Agerbæk"
+	9C3F704343CF00AA96D7BDA208EA1E48 = "Sorry, but I have my reasons."
+	CF58E7A74A765670A1472A9B80EF950C = "Sorry, but you were not responding."
 	7F97A3E04517768226AAAFAAE2116ECF = "聲音效果音量"
-	226C38A34C3C51E7FB86AA9A7D80EC5E = "太空鑽井"
 	BAF3FE9E45AB395112BD7689D4A50FDE = "生成博斯科"
 	4C93435147CA874F0F30F4BBF8AB0CDA = "有孵化點！"
 	8A269CD24D0ABAB7421B02BB86CC99A1 = "按 [EquipResupply] 消耗硝團呼叫補給艙。 "
@@ -2307,7 +2369,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	B711164C4E1E14E68A3EE399990F3AA4 = "標準目標—完成「墨菱石」配額並安全回家。根據掃描器，這一帶洞穴複雜導航困難，千萬別走失！"
 	744CB1E2407EA5B7AA9A02A12E036895 = "開始礦物處理"
 	969223DA47B497E8B142FDB5A2075C54 = "到「任務終端」開始任務，並邀請好友。"
-	EC8B303749FD6DA121395EB2376B2FB8 = "正在開始"
 	2D636E344F707B36EB2B3AA8E516C68A = "儲藏"
 	59E6504B406478818178C89B73CA7111 = "儲藏"
 	2F1EB9744B4AD8AFE3833DA2F91CEBEF = "統計／資訊"
@@ -2370,7 +2431,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	939943974F5DFB141EF3A68DFB08266B = "感謝你支持開發初期的《深岩銀河集團》。希望我們引以為榮的遊戲，雖然是售前版本，能夠為你帶來無窮樂趣。遊戲仍然有程式錯誤及穩定性問題，例如Xbox Live的聊天、多人遊戲的表現可能會不如人意。亦因為售前版本，微軟及發行商未提供售後服務。"
 	E0550F8045300AF2AFCAB09D70C74A6B = "感謝你支持開發初期的《深岩銀河集團》。希望我們引以為榮的遊戲，雖然是售前版本，能夠為你帶來無窮樂趣。遊戲仍然有程式錯誤及穩定性問題，例如Xbox Live的聊天、多人遊戲的表現可能會不如人意。亦因為售前版本，微軟及發行商未提供售後服務。"
 	41E2CF244D78C269B5C83D9401825CFC = "感謝你支持開發初期的《深岩銀河集團》。希望我們引以為榮的遊戲，能夠為你帶來無窮樂趣。請注意這是Alpha版本，遊戲仍然有程式錯誤—這可是打不死的「臭蟲」！最後，這是合作遊戲，請以禮待人。
-—「Ghost Ship Games」全體人員"
+—「Ghost Ship Games」全體人員敬上"
 	DF9152664C7BADD3A97A6F95722CFDAF = "雷射筆"
 	C3DFFC954DB100F679F0DE8E6158713D = "到
 空投港口"
@@ -2398,11 +2459,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	952EB8C9499D63F798E85E9B5D419A45 = "測試文本"
 	BAA651EF4F25A6259BDCABB053ECD92E = "文本"
 	DDEA41514CD3F70125210DBA75E5A0E7 = "材質解析度"
-	ADFC64CD41433C1A817D5DB50257BE38 = "感謝你購買《深岩銀河集團》，以下亦是旅程內容！
-
-在下方參加我們的ＳＴＥＡＭ社群—訂閱遊戲開發的訊息，認領５０００金錢幫助你渡過「在酷斯星ＩＶ的第１日」！
-
-我們開發遊戲一段時間，日後會繼續盡心盡力發展下去—「酷斯星ＩＶ」依舊是詭秘莫測。"
 	B26C86DF47481AA729A47795827C4556 = "謝謝，兄弟！你真夠朋友！"
 	4095F3BE447055AC39FA91ACAB8CE3D5 = "謝謝你救了我！"
 	728E3DDE465ED2B65773DA9EDB199393 = "感謝員工們的努力，飯堂現在供應刁蟲歐姆蛋！"
@@ -2444,6 +2500,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	BDC555B04347B711E259F19A7EC00A5F = "補給在此！"
 	DFEB060D4B7C0AFD5807DEBF30B14B43 = "鹽坑 "
 	78928EBC43E2A77A5301029B10D91BA8 = "曾經是地底大湖的酷斯星鹽坑，在千萬年前乾枯後留下數之不盡的紅鹽晶體。紅鹽—可不是雞肋，讓刁蟲歐姆蛋津津有味。"
+	33B1565946D201DE6ABA13A14F4F75AE = "史瓦生鬍子"
+	714657794BFBC4A5FDE917A0D7985323 = "史瓦生鬍子"
+	717ED05D4FEF1CB3F374ADB72177E51A = "史瓦生鬍子"
+	C45060FA49CBC1014ECE4DB6FBD384FA = "史瓦生鬍子"
 	E001D8D245643280FD2903AB78B1611B = "破鐵罐今天餓壞了！"
 	E555C20A4F820C47AFD4C78E9085ACD3 = "這一波快完了！"
 	552397DD45AE7FD8AEAE38AC2AD601CE = "這一波蟲死剩無幾。幹得漂亮，隊友們。"
@@ -2458,11 +2518,23 @@ First patch since the launch! Thanks for all the feedback so far.
 	F9E32EE84480FF62CF209B87551D6916 = "照明更久"
 	1427F38744164A0EACBE5C9DF34C4A82 = "紀念堂是緬懷罹難礦工的地方，請隨意參觀、悼念。"
 	39BD1CF440B83EBA505AF9852120B3A0 = "礦騾已呼叫空降艙過來！"
+	6A26F9D647B828C478B187A6F32C0097 = "完美的怪物殺手外觀。"
+	C49E21D54F90751C68D12A9512EDA163 = "完美的怪物殺手外觀。"
+	E27840C54B222B71D9DBD2A4E7657097 = "完美的怪物殺手外觀。"
+	E29EACEE48ECD65E0DC2D98621FCD1DB = "完美的怪物殺手外觀。"
+	25C57ED44FDC9E78042AD7A6E44BAE94 = "滿臉絡腮鬍子匯聚成雄武的八字鬍。"
+	4C18FAA74FA959B486D67DA3E57CCD59 = "滿臉絡腮鬍子匯聚成雄武的八字鬍。"
+	7EC587584D26169914A2D0B3470C4A02 = "滿臉絡腮鬍子匯聚成雄武的八字鬍。"
+	DE29EFFA418089F83D173690D7719FA1 = "滿臉絡腮鬍子匯聚成雄武的八字鬍。"
 	0B341780426D5E08CF8361A16B7DB179 = "掃描器亮得變聖誕樹。蟲群正在蜂擁而至！"
 	D513566A466E768AE0768BAEA3C2EFA5 = "空降艙的座位是給人坐，不是給油桶的。"
 	C9717D60437F9175FCF297A5BB04B8C1 = "徹底消滅敵人，你們還活著。幹得好！"
 	A6A1B8604498416ED8688BA6230F6489 = "蟲群逼近！"
 	3E074FA2442D9D266763E5A6D32F484D = "觸手抓到我了！"
+	22B15A8C49225E1EF2B9AE94D582D32E = "真正的矮人知道這就是厚度。"
+	5B81A6ED45A560B2F1C5B98C5313117F = "真正的矮人知道這就是厚度。"
+	7DF47E8546C2468DCE738E859927E4C1 = "真正的矮人知道這就是厚度。"
+	DA21541846B26A43CB422A910A7ED29F = "真正的矮人知道這就是厚度。"
 	A3DC6A5F45B9ACD584FC288056CAFB68 = "金子就是真相。"
 	01C95D8D4147ED46FF425495CFD6D616 = "地道被堵住了！"
 	7FCDBD5A43A489FB6214188362A7B755 = "探險家的終極工具—隨時間充填的抓勾，讓你脫險及遠距離飛躍。請小心使用，從６０英尺高天花板掉下來，不享有醫療保險。"
@@ -2576,8 +2648,8 @@ First patch since the launch! Thanks for all the feedback so far.
 	FA9DAF4A4E3AE83D87818690898222D2 = "地道盡頭"
 	5C2231EE417988E7BFBD9FB46A49FD5B = "地道起點"
 	31EB54AF4A245D48E3A916BDCC6E7EF0 = "砲塔及炸藥...…你找對人了。"
-	A77D4926491B8CDF61FF909C89BB6926 = "Tuteshnij (Ukranian), Jakub Nechvátal (Czhech and Spanish), Nathan Friebe (German), Oliwier Masiukiewicz (Polish), EgorKaskader (Russian), Mbgny (Swedish), Pierre MILLOT (French), xsSplater (Russian), Till Kottmann (German), FireVuk (Hungarian), UA2hk (Traditional and Simplified Chinese),  Yamila Castro (Spanish), Kispiricsi (Hungarian), Paladin (Russian), Danniela Aragão (Portuguese-Brazilian), lc_freegold (Spanish), Tomasz Bielenda (Polish), Luis Felipe Tejada de los Santos (Spanish-LatinAm), Otto-Emil Valentin (Finnish, Russian), Athila (Spanish, Spanish-LatinAm), classicarma (Japanese), TheBuildingDwarf (Dutch), keigin (Japanese), Sunny M (Croatian), Robin ten Wolde (Dutch), Victor Mayorga (Spanish-LatinAm), MuffinInACup (Croatian, Russian), Sirio Cilia (Italian) and many more..."
-	9A61F70547193A0C3AD9AA8D08999655 = "雙倍重量有雙倍機會，為屢次犯錯的矮人而存在。"
+	A77D4926491B8CDF61FF909C89BB6926 = "Tuteshnij (烏克蘭語), Jakub Nechvátal (捷克語及西班牙語), Nathan Friebe (德語), Oliwier Masiukiewicz (波蘭語), EgorKaskader (俄語), Mbgny (瑞典語), Pierre MILLOT (法語), xsSplater (俄語), Till Kottmann (德語), FireVuk (匈牙利語), UA2hk (繁體中文及簡體中文),  Yamila Castro (西班牙語), Kispiricsi (匈牙利語), Paladin (俄語), Danniela Aragão ((歐洲葡語及巴西葡語), lc_freegold (西班牙語), Tomasz Bielenda (波蘭語), Luis Felipe Tejada de los Santos (西班牙語及拉丁美洲西班牙語), Otto-Emil Valentin (芬蘭語及俄語), Athila (西班牙語及拉丁美洲西班牙語), classicarma (日語), TheBuildingDwarf (荷蘭語), keigin (日語), Sunny M (克羅埃西亞語), Robin ten Wolde (荷蘭語), Victor Mayorga (西班牙語及拉丁美洲西班牙語), MuffinInACup (克羅埃西亞語及俄語), Sirio Cilia (意大利語) 及更多人……"
+	9A61F70547193A0C3AD9AA8D08999655 = "雙倍重量有雙倍缺點。但是仍然為你提供一些保護。"
 	7F0904144B148B62466080888AC77BEF = "類型"
 	68D364CF4183DF3F945DD99F3F3A53B8 = "在此處輸入內容"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "使用者介面"
@@ -2646,6 +2718,7 @@ First patch since the launch! Thanks for all the feedback so far.
 岩石與石頭！"
 	7C57DFE849609FE134CC1BB84F7ED479 = "歡迎，礦工們！"
 	E1B7608043AB47336C87BB84CE767402 = "歡迎來到《深岩銀河集團》！"
+	5F3F01E44C0D88616BA716AB815E26BE = "被踢出遊戲的原因？"
 	AD82789544CC8B154E20519D7CA28D65 = "礦騾在哪裡？"
 	CB0BC3604776CE825AF4C58D936430BD = "工作環境"
 	212E40564B3783E9044B34BF7AA18568 = "工作環境："
@@ -2745,6 +2818,10 @@ First patch since the launch! Thanks for all the feedback so far.
 	EE7AAEB94E93C86232238B9B4138ECCB = "工作說明"
 	3C34D3184ABDDD0D1AF3CA9A2D2A443C = "鬼玩意又不動！"
 	DBAE2C1B47A771EAFB09AFB735FB2BC3 = "沒啥用的，但毀掉有樂趣！"
+	19A6DFDB40796ECF7467198DF9C7220F = "名副其實的山下之王典型特徵。"
+	270E85454B0644D10025F7AFC81923BD = "名副其實的山下之王典型特徵。"
+	BEB73D95418773EDA3F61F8272964A2A = "名副其實的山下之王典型特徵。"
+	F7B60BBE487E9AF6060BBE92A9A861F2 = "名副其實的山下之王典型特徵。"
 	983F9B7847CFC6CEF329128DF715311F = "確定要建立伺服器遊戲嗎？"
 	6C68CD074F43A80D4601169F005F13FB = "賺取經驗值："
 	200CDB03454FBFB06EEB4FA87041E671 = "外星菌類"
@@ -2755,6 +2832,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	F8B2F2874C5FA1AE8D2DF3A1E774832D = "外星菌類"
 	0E6583524F68E43B4276CFB7B32CDC44 = "XenyHazard³"
 	B8468E94499A87FA2B7066893D300173 = "是！"
+	C73B22224119A155139950BC9B0B2C2B = "你被踢出遊戲"
 	D151B0924C23F2203A8AEEB88248A9F7 = "是的"
 	3CBB4A1749FF26C045BEAF905D9B4D59 = "好的，寶貝！"
 	E97EAB7942209FCEBCBF4C86F992B5D0 = "這感覺很嗨！"
@@ -2786,8 +2864,6 @@ First patch since the launch! Thanks for all the feedback so far.
 	76F1905045BC439BB3190487DCD2A6C9 = "你這狗娘養的醜八怪！"
 	35D215D84E56BCDEACE563B29DC9C8A2 = "你還要嗎？"
 	42912B4F4C62EEF642AB77811D0FF517 = "跟往常一樣收集「墨菱石」，在礦騾存礦並帶回家。簡單？現在開工。"
-	4AEECC354C11BD07EF7DC88C9EF038D8 = "你已被停權。"
-	029998BE44B010C841A047BA8455C84B = "你已被踢出遊戲"
 	71B72EFE48FD74037A588F9F7B7749C8 = "已參加！按鍵去認領１００００金錢！"
 	8F4D89824206338FF0A6C8A644944815 = "已參加！按鍵去認領５０００金錢！"
 	C8DEB9DB423364FDA87B2A9D2D292323 = "你的物品欄已滿！"
@@ -2838,6 +2914,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	22F855924FF59E47DD62018DF1A99B22 = "[OkMenu] 搜尋"
 	90DCC125477F00248BEE7EA0E36DFFD9 = "[OkMenu] 是"
 	CD1EF3A449EC34324E9614A5310EEA74 = "[OkMenu] 是"
+	57C247FC4BD8DA77BBD905A3FEFF4129 = "[PlayerName]"
 	116503804DD7B2053932DF8A013E92FE = "[SelectCharacter] 轉換職業"
 	AF30D96944D109CA061825B083DE6AFC = "[SelectCharacter] 轉換職業"
 	84A642794D675810407F91B2A380BD40 = "〔升級名稱〕"
@@ -2850,6 +2927,7 @@ First patch since the launch! Thanks for all the feedback so far.
 	44F2D16748B303B3AF5DB48C96EF1897 = "那是瘟疫吐珠！"
 	301860DA48B90CD11DF217A9827A49D2 = "已採掘"
 	847D174B40E48D1D194D318D2E11977F = "需要"
+	5B37A7E644003126D80116AF94D90F72 = "this was meant to be a private game."
 	7BD55EB94DA3871F2D7F0E846B24C461 = "{0} 捐出８０硝團！"
 	F354574840C59FBC38BA7AAB38B76F05 = "{0} 治療自己！"
 	EDDF00A14025884C10E0CF8FF51328F2 = "{0} 生成３隻禁衛刁蟲"
@@ -2860,11 +2938,12 @@ First patch since the launch! Thanks for all the feedback so far.
 	F0ABB87F46441F18848ABF8CD0ECC9F9 = "{Text} ({Percentage}％完成)"
 	688288124DAF4F9715A8629D81F87C35 = "需要 {levelrequirement}！"
 	AC2C0B9746C87FC7F13985B4072CAB1D = "{line1}<br>{line2}"
-	805233C84F945EF9B40C2BB64C23AA08 = "{number} 遊戲動作"
+	805233C84F945EF9B40C2BB64C23AA08 = "{number} 場遊戲"
 	533EE6F94B160B14259FA38874DDC88D = "{text}："
 	B49D14D14182674FC077EEB3E53277F8 = "{value} ＦＰＳ"
 	842C4AFE4D8A01633BA906B37D033AA3 = "{value} {unit}"
 	C777823E4E0F7B660E07D993DFABC267 = "{value} {unit}"
+	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Sorry, this was meant to be a private game.”"
 
 Namespace [/Script/FSD] (27 keys)
 	736F31C8400B0D301672149F62B3D0EA = "合法礦工"
@@ -3025,12 +3104,17 @@ Namespace Upgrades (18 keys)
 	8E4EB123492B488C25179A85D142758D = "每發射出更多霰彈"
 	1C7DDF3E4465488D724BD69039F25337 = "減少上彈次數"
 
-Namespace Vanity (8 keys)
+Namespace Vanity (13 keys)
 	Armor = "裝甲"
+	ArmorColor = "裝甲顏色"
 	Beard = "鬍子"
+	BeardColor = "鬍子顏色"
 	3E7113764EF99981E7343E99CE60E68F = "購買"
 	936D387249B390C96765B2BE04A575BD = "購買"
+	Hair = "頭髮"
+	HairColor = "髮色"
 	Head = "頭部"
+	Headwear = "頭飾"
 	A0A13FA44C1F0E7882CA6C85257E354A = "未解鎖"
 	5B1FC8364FF76D96D64D399DB48B5B48 = "已擁有"
 	SkinColor = "膚色"
