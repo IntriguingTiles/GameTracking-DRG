@@ -1,7 +1,7 @@
 19 namespaces
-2259 values
+2262 values
 
-Namespace Global (2895 keys)
+Namespace Global (2898 keys)
 	2559D78C40005E5221F26093CB976283 = " Recueillir {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUIS"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -37,65 +37,65 @@ Namespace Global (2895 keys)
 	40BA2C6D48C0FFAD42755B8B530D8031 = "- Scan -"
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "- Sélectionnez la Mission au Terminal des missions -"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "- SCANNER DE TERRAIN MK II -"
-	390133F54945CBDDE52B8898E7814A7D = "---Update 9: Patch Notes---
+	390133F54945CBDDE52B8898E7814A7D = "---Mise à jour 9: Détails du patch---
 
-Mission End
-- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
-- Mission Failed now gives a 25% compensation reward based on minerals collected
+Fin de la mission
+- Le bonus de survie est doublé de 75 crédits à 150 crédits par joueur survivant.
+- Une mission échouée donne maintenant une compensation de 25% basée sur les minéraux collectés.
 
-Co-op sessions
-- Getting kicked now results in Mission Failed, compensation based on contribution
-- Added a new flow and info for Kicking and getting Kicked
-- You can no longer Join a session after Drop Pod has been called
-- You can no longer Kick a player from a session after Drop Pod has been called
-- Tweaked text on Mission Map in regards to new public/ private flow
-- Reworded Server List filter to Show Open and Show Password Servers
-- Add Private Server checkbox in escape menu
-- Added indicator for a joining player to team view 
+Sessions Co-op
+- Se faire expulser entraine maintenant une mission échouée, avec une compensation basée sur la contribution.
+- Ajout de nouvelles informations relatives à l'expulsion et à se faire expulser.
+- Il est maintenant impossible de rejoindre une session après que la capsule d'évacuation ait été appelée.
+- Il est maintenant impossible d'expulser un joueur d'une session après que la capsule d'évacuation ait été appelée.
+- Modification du texte sur la carte des missions selon le flux privé/public.
+- La liste des serveurs a été retravaillée pour afficher les serveurs ouverts et ceux avec mot de passe.
+- Ajout d'une option serveur privé dans le menu échappe.
+- Ajout d'un indicateur pour l'équipe quand un joueur rejoint la partie.
 
-Solo mode
-- Bosco should now save you from the cave leeches more consistently
-- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
-- Bosco now has friendly fire reduction 0.2 instead of 1
-- Bosco Deals 100 % more damage (doubled from 3 to 6)
-- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+Mode Solo
+- Bosco devrait à présent mieux vous sauver des sangsues de grottes.
+- Bosco a maintenant accès à de plus gros projecteurs. Quand il s'y met, vous pourrez bien mieux voir qu'auparavant :).
+- Bosco a maintenant une réduction du feu ami d'une valeur 0.2 au lieu de 1.
+- Bosco inflige deux fois plus de dégâts (doublé de 3 à 6).
+- Bosco a maintenant une accélération de 250% quand vous lui donnez un ordre. Augmente également son accélération de 300 à 550.
 
-Class Balance: Buffed the Driller’s tools
-- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
-- Flamethrower Range upped from 8.5m to 10 m
-- Power Drills: Fuel upped from 30 to 35
-- Increased walk speed while drilling with 10 %
-- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
-- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+Équilibrage des classes : Amélioration des outils du Foreur.
+- La capacité en carburant du lance-flammes est augmentée de 160 à 270 unités, et chaque réservoir contient 90 au lieu de 80 unités. Cela signifie que le lance-flammes a maintenant assez de carburant pour trois recharges complètes au lieu de deux, et chacune contient plus de carburant.
+- Portée du lance-flammes augmentée de 8.5m à 10 m.
+- Foreuses : Carburant augmenté de 30 à 35.
+- Augmentation de la vitesse de déplacement pendant le forage de 10 %.
+- Dégâts de mêlée avec les foreuses : vitesse d'attaque DOUBLÉE, et les dommages infligés ont été abaissés de 10 à 8 (pour compenser la vitesse d'attaque doublée).
+- Mise à jour des dégâts en mêlée des foreuses : 5 à 4 (pour compenser la vitesse d'attaque doublée).
 
-Intro screen
-- Added patch notes (this text) to Intro screen
-- Text & Button for Steam group no longer shown when rewards have already been claimed
+Écran d'introduction
+- Ajout des notes de mises à jour (ce texte) sur l'écran d'informations.
+- Le texte & le bouton du groupe Steam n'apparaissent plus quand la récompense à déjà été obtenue.
 
-Sound, Effects & Animations
-- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
-- New Spitballer sound and Maggot sound
-- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+Sons, Effets & Animations
+- Animation d'inactivité pour le pistolet et le revolver (se déclenche également quand on recharge avec le plein de munitions).
+- Nouveau son pour le crache-boule et la larve.
+- Modification de la fumée du lance-flammes pour du noir... Elle était blanche, et c'était une erreur... Maintenant elle en jette de nouveau !
 
-Caves
-- More cave shapes added to the random generator.
-- More randomness on existing cave shapes.
-- New sticky web environmental hazard. Don't get caught!
+Grottes
+- Plus de formes de grottes ajoutées à la génération aléatoire.
+- Plus d'aléas dans les formes existantes des grottes.
+- Nouveau danger environnemental : toile collante. Ne vous faîtes pas prendre !
 
-Localization
-- Added language selection to Intro screen
-- Croatian, Finnish, Italian and Japanese added
-- All languages updated (as usual new features lagging behind, will show English)
-- Updated community translator credits
-- Added missing characters for Polish language.
-- Some buttons with text did not correctly update after a new language was selected.  
+Localisation
+- Ajout de la sélection de la langue sur l'écran d'information.
+- Croate, Finnois, Italien et Japonnais ajoutés.
+- Mise à jour de toutes les langues (comme d'habitude les nouveaux ajouts qui sont en attente de traduction seront affichés en anglais)
+- Mises à jour des crédits avec les nouveaux traducteurs de la communauté.
+- Rajout des caractères de police manquants en Polonais.
+- Correction de certains boutons qui ne se mettaient pas à jour après un changement de langue.
 
-Misc Fixes
-- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
-- Key '5' is now available for custom key bindings
-- Fix Late Join crash if joining right when the level ends. 
-- Fixed: you can no longer edit the Hint text while loading! 
-- Maptool not updating correctly when terrian changes
+Mises à jour diverses
+-  Correction des accessoires esthétiques qui n'apparaissaient pas sur les nains dans les terminaux.
+- La touche '5' est maintenant modifiable dans la ré-assignation des touches.
+- Correction d'un plantage si on rejoignait la partie juste à la fin du niveau.
+- Correction du texte de l'écran de chargement, on ne peut plus l'éditer pendant le chargement ! 
+- Correction de la carte qui ne se mettait pas toujours à jour quand le terrain changeait.
 "
 	610A35A6460AE74E8D2B5B9D80081A9A = "... Un gun qui pèse moins de 50 kg, c'est pas un gun !"
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
@@ -1092,11 +1092,11 @@ DE TIR"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "MAINTENEZ [Laserpointer] POUR FAIRE APPARAÎTRE LE POINTEUR LASER"
 	565BE2CA4157D153FE965A8438508B5B = "MAINTENEZ [Laserpointer] POUR VISER, PUIS APPUYEZ SUR [Fire] POUR FAIRE INTERAGIR BOSCO"
 	74486D6942276263895A82B17BFF003E = "MAINTENEZ [Laserpointer] POUR VISER, PUIS APPUYEZ SUR [Fire] POUR FAIRE INTERAGIR BOSCO"
-	96A8E6A14FEFCD974370709BCCF5FA74 = "MAINTENEZ [Laserpointer] POUR VISER, PUIS APPUYEZ SUR [Fire] POUR PLACER UNE BALISE"
+	96A8E6A14FEFCD974370709BCCF5FA74 = "HOLD [Laserpointer] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	7C4704B14AAD52938BA369B2BF3D358B = "MAINTENEZ [Shout] POUR AFFICHER LE POINTEUR LASER"
 	C8D9A6484B38D1A68FDCA1A7ADC4D8E8 = "MAINTENEZ [Shout] POUR VISER, PUIS APPUYEZ SUR [Fire] POUR FAIRE INTERAGIR BOSCO"
 	F4DE0706460FD4BBF961D8BA2846ECE9 = "MAINTENEZ [Shout] POUR VISER, PUIS APPUYEZ SUR [Fire] POUR FAIRE INTERAGIR BOSCO"
-	119D95F84C45A60432C6B2AD12B9E156 = "MAINTENEZ [Shout] POUR VISER, PUIS APPUYEZ SUR [Fire] POUR PLACER UNE BALISE"
+	119D95F84C45A60432C6B2AD12B9E156 = "HOLD [Shout] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	E949901E4D390B0F929A60AD688B7FDE = "HÔTE SEULEMENT"
 	8EB05D1D4CAC8EA907FF9CB896638929 = "PARTIE PRIVÉ"
 	78AA4598413B0966965A5B81CD0CC24E = "PARTIE PUBLIQUE"
@@ -1125,6 +1125,100 @@ DE TIR"
 	8730107B4ADA8EC423D3D5838AAA73D0 = "De l'extraction minière bien bourrine ... y'a rien de mieux."
 	D3CEDD9D421BA88578276D96147F751E = "de l'or lourd !"
 	E9C145334D951620DCD4DBBD545322E2 = "HOOO OUI !"
+	FB030C5E408CAF6B057043A6929F5689 = "Hello Miners!
+
+Deep Rock Galactic has now been in the wild for 1 week. We have finished celebrating the awesome launch (yeah!) and are now hard at work getting new updates out and planning the future. Inside the game, we have a nice feedback button, and a big thanks to the thousands of you who have already taken advantage of this. It’s an extremely big help.
+The feedback tells us we are definitely on to something good here, but it’s equally clear we have some we also hot topics that need some immediate love. First iteration of Key Bindings went in through the previous patch, and this time we have focused on fixes for the Kick feature, tweaks to the Driller and fixing Bosco's inability to kill Cave Leeches. All of these and MANY more are in the new update. You can scroll down and see all the patch notes below. 
+
+--- Driller Buffs ---
+The Driller is probably the most unique class in Deep Rock Galactic, so we were sad to see our iconic drilldozer valued below the other three classes in usefulness. Therefore, we have tweaked both his Flamethrower and Drills. In the detailed patch notes below, you can see the exact stat changes, which might also give you some hints on how to better utilize the Driller.
+
+--- Payout on Mission Failed & Kicking ---
+Two issues pretty quickly started to show themselves: Dissatisfaction with the way we’ve handled a Mission Failed scenario in regards to payout, and the fact that players could be kicked from the team at any given time. We’ve worked out a first pass on a solution for both these, as listed below:
+
+Firstly, it used to be that failing a mission meant NO payout at all. Now, failing a mission will give you a compensation of 25% of the minerals stored in Molly at the time of the mission ending. 
+
+Secondly, getting Kicked from a team will result in a Mission Failed case, where you will receive compensation based on what was added to Molly since you joined that session. 
+
+It is now no longer possible to Join or being Kicked from a team once the Drop Pod has been called and the final countdown has begun. This is a test for now and we’ll monitor the outcome - and it’s a pretty easy fix, so we can quickly backpedal if needed.
+
+Also, it is extremely important to understand how Mission Complete works. You might think that the rewards are split out between survivors. They are not. We calculate the total and then each player in the session gets that same reward, regardless of the size of the team. On top of this, each surviving player adds a Survivor Bonus, which has been boosted also. “Leave No Dwarf Behind” should be the ethos here - the more players manage to get out alive, the greater the bonus for all involved!
+
+
+
+
+We have elected not to implement vote-kicking with this update, despite some players asking for it. It’s a fair bit of work to implement, and we are not completely convinced it is the way to go at this point. That said, there are good arguments both for and against this feature, and we will continue to monitor the situation. The same goes for a vote button on Molly. 
+
+--- Bosco ---
+Detailed in the patch notes below, Bosco has received a fairly significant buff, and his ability to kill Cave Leeches should have been improved. We write “should” since this issue will need further work to squash fully, but it should at least be a better experience all round now.
+
+--- Trading Cards ---
+This one is a bit embarrassing. Turns out you have to manually have to publish the Trading Cards when you launch a new game on Steam. Whoops. The good news is that they are implemented now and await harvesting!
+
+
+--- Roadmap ---
+Midweek, we had a big feedback meeting here at the Ghost Ship office. We’ve gathered all the feedback from you, the players, as well as feedback from the dev team and our partners. There are SO MANY cool things we can and will do to expand Deep Rock Galactic. Task for now is to choose which ones go in the game, and in which order, and we plan to reveal a greater and more comprehensive road map for the coming months over the next few weeks. 
+
+--- Patch Notes ---
+
+Mission End
+- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
+- Mission Failed now gives a 25% compensation reward based on minerals collected
+
+Co-op sessions
+- Getting kicked now results in Mission Failed, compensation based on contribution
+- Added a new flow and info for Kicking and getting Kicked
+- You can no longer Join a session after Drop Pod has been called
+- You can no longer Kick a player from a session after Drop Pod has been called
+- Tweaked text on Mission Map in regards to new public/ private flow
+- Reworded Server List filter to Show Open and Show Password Servers
+- Add Private Server checkbox in escape menu
+- Added indicator for a joining player to team view 
+
+Solo mode
+- Bosco should now save you from the cave leeches more consistently
+- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
+- Bosco now has friendly fire reduction 0.2 instead of 1
+- Bosco Deals 100 % more damage (doubled from 3 to 6)
+- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+
+Class Balance: Buffed the Driller’s tools
+- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
+- Flamethrower Range upped from 8.5m to 10 m
+- Power Drills: Fuel upped from 30 to 35
+- Increased walk speed while drilling with 10 %
+- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
+- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+
+Intro screen
+- Added patch notes (this text) to Intro screen
+- Text & Button for Steam group no longer shown when rewards have already been claimed
+
+Sound, Effects & Animations
+- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
+- New Spitballer sound and Maggot sound
+- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+
+Caves
+- More cave shapes added to the random generator.
+- More randomness on existing cave shapes.
+- New sticky web environmental hazard. Don't get caught!
+
+Localization
+- Added language selection to Intro screen
+- Croatian, Finnish, Italian and Japanese added
+- All languages updated (as usual new features lagging behind, will show English)
+- Updated community translator credits
+- Added missing characters for Polish language.
+- Some buttons with text did not correctly update after a new language was selected.  
+
+Misc Fixes
+- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
+- Key '5' is now available for custom key bindings
+- Fix Late Join crash if joining right when the level ends. 
+- Fixed: you can no longer edit the Hint text while loading! 
+- Maptool not updating correctly when terrian changes
+"
 	A443FA134FE39088BA757F8F84D0ADC9 = "Bonjour et au revoir !"
 	F5EAAC5340766A2A9FC2DF8B49239CB2 = "Bonjour et bienvenue !"
 	9123FB854DBBEB874DCDE2895775FB52 = "Salut !"
@@ -1411,7 +1505,7 @@ RECULEZ !"
 	3C117BFD4C41C3D2DC6565B241F1B301 = "Fusil à canon scié traffiqué"
 	08BFA3054CC84B0C1894C9816D5B3421 = "Cheveux seulement"
 	F31B75F548FC537AF855C688187CFC65 = "Des cheveux, ni plus ni moins"
-	668E416F46D9AF9A2F0C289C99C5579B = "Suivez simplement les balises clignotantes que la M.U.L.E. laisse derrière elle quand elle retourne à la capsule d'évacuation."
+	668E416F46D9AF9A2F0C289C99C5579B = "Just follow the blinking markers the M.U.L.E. leaves behind when it is returning to the Escape Pod."
 	2B0D29E9465FD20F7DE22C9BCBF00899 = "Dites-moi juste où tirer !"
 	6BF497F3455C1E2E0A86C4A891997F53 = "Dites-moi juste où tirer !"
 	C1CFE7224A1EF9B09DE599AADA0C25AD = "Mais prends tout ton temps, ma vieille ! J’ai toute la journée !"
@@ -1716,8 +1810,8 @@ DIDACTICIEL"
 	A16DABD64A7B24C75F47F99D995DEB8B = "Morkite trouvé !"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Le quota de morkite a été rempli ! Vous avez fait du bon boulot ! La balise de la M.U.L.E est prête à être activée."
 	313CA2134D73053B2711D3A5510C1E94 = "Du morkite !"
-	79C599094EB6D6E6E02200AFC58E0859 = "La plupart des ennemis ont des points faibles (sur lesquels vous pouvez tirer pour infliger plus de dégâts), alors que d'autres sont dotés d'exosquelettes (que vos balles ne pourront pas pénétrer). "
-	44A3445A484377F58C5D6BBC70FFECF8 = "Sensibilité de la souris"
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points where your bullets do more damage and some enemies have exoskeletons, where your bullets do no damage. "
+	44A3445A484377F58C5D6BBC70FFECF8 = "Mouse Sensitivity"
 	5553884E4B6E6F00ADC8F985F6F4219A = "On se bouge, les gars ! Cap sur la planète !"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "On se bouge !"
 	30D2A4894E6CF7E90329B7ACCA48A50A = "Dégagez ! Ça va sauter !"
@@ -1726,7 +1820,7 @@ DIDACTICIEL"
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "C'est bien mieux !"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "C'est mieux !"
 	CD169B8F4540D97173D1A180A5C920B4 = "Session Multijoueur Terminée"
-	80DCF1564FE0AF32ACCD80B57941FEA6 = "Réanimer un coéquipier est plus rapide lorsque plusieurs Nains s'y collent."
+	80DCF1564FE0AF32ACCD80B57941FEA6 = "Multiple dwarves working together can revive a downed dwarf faster than one."
 	8F3B09024FA15B01CDF7FC924324A846 = "Muscari Angustifolia"
 	EAB190A647BE3478A66B8FAAFB6A4C9E = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "Champignon !"
@@ -1898,7 +1992,7 @@ But well done. :D
 	C79595634378DAEEAB740BB8AF143D3B = "RÉGION PLANÉTAIRE "
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "RÉGION PLANÉTAIRE :"
 	C21850D74844EA192C1FCEBA601C6261 = "RÉGION PLANÉTAIRE :"
-	6837936E4EFB82CBEF489FAD5C73FE96 = "ATTENTION! Vous ne gagnerez pas une meilleur récompense en expulsant les autres joueurs! Au contraire, vous perdrez leur bonus de survie!"
+	6837936E4EFB82CBEF489FAD5C73FE96 = "PLEASE NOTE! You do not earn a bigger mission reward by kicking players! Actually you will loose the survival bonus from this player!"
 	E4DEE1334E397283E5AADFA084AE3366 = "VEUILLEZ REBRANCHER LA MANETTE"
 	2276DA03429396713203CBAC6EF3C810 = "CAPSULE EN APPROCHE"
 	0E40CA4047102A62E43D82B23E361885 = "AFFICHE"
@@ -1907,18 +2001,18 @@ But well done. :D
 	F3155C474EF53C36803B23875CCECF17 = "APPUYEZ SUR N'IMPORTE QUELLE TOUCHE POUR CONTINUER"
 	A7FA5FB342C218181CDE8DADE821FD8F = "APPUYEZ SUR N'IMPORTE QUELLE TOUCHE POUR QUITTER"
 	680CF46F443D5BB1D62DEDB346CB9C4C = "APPUYEZ SUR [CallDonkey] POUR APPELER LA M.U.L.E."
-	B8CCFBD24E3F27F250DB4698E51549C7 = "APPUYER DEUX FOIS SUR [Equip4] POUR SÉLECTIONNER LA CAPSULE DE RAVITAILLEMENT ET APPUYEZ SUR [Fire] POUR EN DEMANDER LE DÉPLOIEMENT"
-	DA66CA3141162C3AF0D384B1DFD8A248 = "APPUYER DEUX FOIS SUR [Equip4] POUR SÉLECTIONNER LA CAPSULE DE RAVITAILLEMENT ET APPUYEZ SUR [Fire] POUR EN DEMANDER LE DÉPLOIEMENT"
-	726A354D42D77EA0A34584944346937A = "APPUYER DEUX FOIS SUR [Equip5] POUR SÉLECTIONNER LA CAPSULE DE RAVITAILLEMENT ET APPUYEZ SUR [Fire] POUR EN DEMANDER LE DÉPLOIEMENT"
-	9AD2FB414E12C8D2E3781DB47856BF5C = "APPUYER DEUX FOIS SUR [Equip5] POUR SÉLECTIONNER LA CAPSULE DE RAVITAILLEMENT ET APPUYEZ SUR [Fire] POUR EN DEMANDER LE DÉPLOIEMENT"
+	B8CCFBD24E3F27F250DB4698E51549C7 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	DA66CA3141162C3AF0D384B1DFD8A248 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	726A354D42D77EA0A34584944346937A = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	9AD2FB414E12C8D2E3781DB47856BF5C = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
 	E501CABD480DE511EC843F83B6B411FB = "APPUYEZ SUR [Fire] POUR DEMANDER LE DÉPLOIEMENT"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "APPUYEZ SUR [Flare] POUR LANCER UNE FUSÉE"
 	E66F2965440023B51A13E5B5253ED0BC = "APPUYEZ SUR [Jump] POUR CONTINUER"
 	FD12F4A94EC35363633682B3B98ECBAE = "APPUYEZ SUR [Jump] POUR QUITTER"
 	54252A9A47A6776CFE924B93B30F5B44 = "APPUYEZ SUR [Salute] POUR SALUER"
-	0E6FDF684AF461D269E215A191289E87 = "APPUYEZ SUR [Shout] POUR ATTIRER L'ATTENTION"
-	3E8D5A1F49894E7918B4F0B70CB2D74F = "APPUYEZ SUR [Shout] POUR ATTIRER L'ATTENTION"
-	7619D8004800B2FB339A57AD814FA511 = "APPUYEZ SUR [Shout] POUR APPELER BOSCO"
+	0E6FDF684AF461D269E215A191289E87 = "PRESS [Shout] TO CALL FOR ATTENTION"
+	3E8D5A1F49894E7918B4F0B70CB2D74F = "PRESS [Shout] TO CALL FOR ATTENTION"
+	7619D8004800B2FB339A57AD814FA511 = "PRESS [Shout] TO CALL FOR BOSCO"
 	7FABFBA24AAC4686FB3FCC9420150CF7 = "PARTIE PRIVÉ"
 	E6CE771943558977A67F7296A448F6B3 = "PROGRAMMER"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "ANNONCE : Un lance-grenade a été retrouvé au beau milieu de la cantine. Soyez prudents ! Entre chaque mission, NE laissez PAS traîner vos armes lourdes ! Rangez-les en lieu sûr !"
@@ -2111,7 +2205,7 @@ RAPIDE"
 	4DBF5FCA46C226DAF720B49F54DF6805 = "Je recharge ! Couvrez-moi !"
 	C9DD9C3749680AF60B1F0EBA022F9A90 = "Je recharge ! Couvrez-moi !"
 	D0B9772242CFC839ABDD478D638A0415 = "N'oubliez pas de jeter un coup d'œil au plafond ! Il n'est pas impossible que des monstruosités à plusieurs pattes s'y dissimulent."
-	15C102484C0E9A6961FBC4A248F56025 = "Vous êtes équipé de fusées éclairantes et elles se rechargent non-stop, alors utilisez-les sans modération !"
+	15C102484C0E9A6961FBC4A248F56025 = "Remember to throw flares. They automatically recharge over time, so don't hang on to them!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "Vous avez une trouille bleue des sangsues souterraines ? Eh bien, sachez qu'elles n'ont pas peur de vous !"
 	046C7D9F4E22D85C44E58984A38E9634 = "Réinitialiser la progression"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "Réinitialiser la progression"
@@ -2309,7 +2403,7 @@ personnage"
 	075479CB45BF3835DE1846A51811C954 = "Afficher le compteur de FPS"
 	3127F8A540D246D860D961AD1DBF602F = "Afficher l'ATH"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Montrez à vos amis ce que vous avez trouvé"
-	D0E809FE415757354E08C9A6C291E826 = "Faites quelque chose pour témoigner votre gratitude, ou dites simplement à vos coéquipiers qu'ils sont géniaux !"
+	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammates how awesome they are!"
 	74B817F049005FEE695B2694908686FE = "Identifiant changé"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Suivez notre groupe Steam ci-dessous pour rejoindre la communauté et restez informé avec nous sur le développement du jeu - et réclamez votre récompense gratuite de 5,000 crédits de jeu pour vous donner un coup de pouce énorme à travers vos premiers jours de travail dans les mines de Hoxxes IV !"
 	C26B43B84BB1149261499DB1FBD9F2DB = "Déconnecté"
@@ -2366,7 +2460,7 @@ personnage"
 	1AF0128E488351B4A4C3B186BE5AF23D = "Désolé, mais j’ai mes raisons."
 	9C3F704343CF00AA96D7BDA208EA1E48 = "Désolé, mais j’ai mes raisons."
 	004AF67F43168EE9B52996893523320C = "Désolé, mais vous ne répondait pas."
-	CF58E7A74A765670A1472A9B80EF950C = "Sorry, but you were not responding."
+	CF58E7A74A765670A1472A9B80EF950C = "Désolé, mais vous ne répondiez pas."
 	348545004DBDBA231C1011BC0AAA6951 = "Désolé, cette partie aurait dû être privée."
 	51FF329C4262F9EDE595F4A3B74C0FED = "Désolé, cette partie aurait dû être privée."
 	7F97A3E04517768226AAAFAAE2116ECF = "Volume des effets sonores"
@@ -2687,6 +2781,7 @@ DES MISSION"
 	68D364CF4183DF3F945DD99F3F3A53B8 = "Inscrivez le contenu ici"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "INTERFACE UTILISATEUR"
 	B9B8DF3947F5817463C75E91163945B2 = "Échelle de l’interface"
+	F2ECABD148A393EEFDEC94AB4D90BF7C = "MISE A JOUR 9 : ON S'FORE PLUS TARD ! - 09.03.2018"
 	8BE53EE144A719AF73F42DA29EDC1A49 = "AMÉLIORER
 L’ÉQUIPEMENT"
 	57E6BB0F42206D722E6E1A866FC825D0 = "AMÉLIORER L'ÉQUIPEMENT"
@@ -2727,7 +2822,7 @@ L’ÉQUIPEMENT"
 	DCFBD7324089FC4A26DAED8105688BB3 = "Manteau arctique supérieur"
 	7032AA244E5FD6DEE82BE593FC832250 = "Utiliser"
 	4C00DDD243A216F0336201B7EB60440A = "Utilisez le pointeur Laser pour que Bosco extraie les minéraux et combatte des ennemis spécifiques."
-	32E67FE9406320B0C0226FA6475494C3 = "Utilisez votre pointeur laser afin de baliser les minerais, les ennemis et les points d’intérêt pour vos coéquipiers."
+	32E67FE9406320B0C0226FA6475494C3 = "Use your Laser Pointer to mark minerals, enemies, and Points of Interest for your fellow team mates."
 	88ED55324ED7EDDD65B8768C6514E5D9 = "Utgghhbabab !"
 	10DA06984D53C8868A318FBB76C3C514 = "MAGASIN COSMÉTIQUE"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "DOUBLAGE"
@@ -2739,7 +2834,7 @@ L’ÉQUIPEMENT"
 	67B818674B721E052DFEEF81146999D1 = "Très furtif"
 	68B709344A8627F954B1E2B3BAF3458D = "Très furtif"
 	809E655D4A757F85090DB4B6359A680D = "Accédez au terminal d'AMÉLIORATION DE L'ÉQUIPEMENT de la station et améliorez votre matériel à l'aide des crédits que vous avez gagnés à la sueur de votre front !"
-	7ED249D745DD40186CB8C884C4A686F8 = "Rendez-vous au MAGASIN COSMÉTIQUE pour dépenser vos crédits et matériaux d'artisanat afin d'obtenir des armures, des casques et des barbes."
+	7ED249D745DD40186CB8C884C4A686F8 = "Visit the VANITY SHOP to spend your credits and rare minerals to get new armors, headgear and beards."
 	2D2A6357468F84A1FE3FC982E155948C = "Chat vocal"
 	26B91DA946637579724DD58AA270B500 = "Volume de la voix"
 	3EB811FD4977F29355F8FC8BD33CD50A = "Vrghh"
@@ -2803,6 +2898,7 @@ ROCK & STONE !"
 	D8EBFFA1437113C21DCA369EA1BE0223 = "On vous envoie dans une zone souterraine située à des profondeurs vertigineuses, alors soyez sur vos gardes. Si vous vous aventurez encore plus bas, vous devriez trouver des filons très riches en or et en morkite. C'est en tout cas ce que le scanner nous indique. Faites le plein et revenez, les gars. "
 	F06A886F4C10AE421802E48843CB66EC = "Nous n'avons pas pu réaliser un scan complet de ce réseau de grottes, alors attendez-vous à un véritable petit labyrinthe. L'objectif n'est pas modifié pour autant : remplir vos quotas de morkite et revenir vivants."
 	4B5687F649A70D67781A13A3C167E696 = "Nous avons détecté une zone regorgeant d'aquarqs. Votre mission : exploiter la totalité de ces gisements. Pour les localiser, repérez une lumière bleuâtre et extrayez l'aquarq qui se trouve à l'intérieur des parois. Nous avons également déployé une plateforme lourde spécialisée. Comme vous devriez rencontrer une forte résistance, la plateforme a été équipée d’armes lourdes. Quoi qu'il en soit, ouvrez l'œil, et le bon... et rapportez-nous la marchandise."
+	1F5CC1074A3AF1E92463338FB14859CB = "Nous avons prit beaucoup de plaisir à développer le jeu jusqu'à présent et nous ne sommes loin d'en avoir terminé - Hoxxes IV n’a pas encore commencé à livrer ses véritables secrets..."
 	13665D0E4DF4EC22BC92F0AA5DB0E879 = "Champ d’affaiblissement"
 	EBA81F3D43CA217BF51B13A4D2F2BBE7 = "Cher mineur, bienvenue sur la planète Hoxxes ! Nous espérons que vous êtes en forme et prêt à faire des étincelles ! Profitez de votre première excursion souterraine pour apprendre les tenants et aboutissants de notre opération ici. Votre objectif : localiser un large échantillon de morkite et le rapatrier. Fortune et gloire vous attendent ! En route !"
 	CA46EF6348F600262B35F2A04A53CA74 = "Cher mineur, bienvenue sur la planète Hoxxes ! Profitez de votre première excursion souterraine pour apprendre les tenants et aboutissants de notre opération ici."

@@ -1,7 +1,7 @@
 19 namespaces
-2263 values
+2264 values
 
-Namespace Global (2885 keys)
+Namespace Global (2888 keys)
 	2559D78C40005E5221F26093CB976283 = " Raccogliere {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESSARIO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Designer Sonoro/ Produttore Musicale"
@@ -37,6 +37,62 @@ Namespace Global (2885 keys)
 	40BA2C6D48C0FFAD42755B8B530D8031 = "- Scannerizzando -"
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "- Selezionare la Missione al Terminale di Missione -"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "- SCANNER TERRENO MK2 -"
+	390133F54945CBDDE52B8898E7814A7D = "--- Aggiornamento 9: patch note---
+
+Fine Missione
+- Bonus Sopravvivenza è raddoppiato da 75 crediti a 150 crediti per giocatore sopravvissuto
+- Missione fallita adesso fornisce il 25% di compensazione basata sui minerali raccolti
+
+Sessione Cooperativa
+- Venire espulsi adesso risulta in Missione Fallita, compensazione basata sul contributo
+- Aggiunto un nuovo flusso e informazioni su Espellere e venire Espulsi
+- Non è più possibile aggiungersi ad una sessione dopo che la Capsula di Sbarco è stata chiamata
+- Non è più possibile espellere un giocatore dalla sessione dopo che la Capsula di Sbarco è stata chiamata
+- Testi modificati su Mappa Missione riguardo i nuovi flussi pubblici/privati
+- Riformulata Lista Server in Mostra Aperte e Mostra Server con Password
+- Aggiunta casella Server Privato nel Menù Esc
+- Aggiunto indicatore alla visione di squadra quando un giocatore si unisce
+
+Modalità Singolo
+- Bosco dovrebbe salvarti con più costanza dalle Sanguisughe di Caverna
+- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
+- Bosco adesso ha una riduzione del fuoco amico di 0.2 anziché di 1
+- Bosco infligge il 100% di danni (raddoppiati da 3 a 6)
+- Bosco riceve un potenziamento alla velocità del 250% quando gli ordini qualcosa. Inoltre aumenta la sua accelerazione da 300 a 550
+
+Bilanciamenti di Classe: potenziato l'equipaggiamento del Trivellatore
+- Capacità del Carburante Lanciafiamme aumentata da 160 a 270 unità, ogni contenitore  contiene 90 anziché 80 unità. Questo significa il  lanciafiamme adesso ha carburante per tre ricariche complete anziché due, e ogni ricarica contiene più carburante.
+- Raggio Lanciafiamme aumentato da 8.5 a 10 metri
+- Potenza Trivelle: Carburante aumentato da 30 a 35
+- Aumentata velocità di camminata durante la perforazione del 10%
+- Danno corpo a corpo con le trivelle: Velocità d'attacco RADDOPPIATA, mentre il danno di ogni attacco è stato ridotto da 10hp a 8 hp.
+(per compensare la doppia velocità d'attacco)
+- Potenziamenti danni corpo a corpo con la trivella: da 5 hp a 4 hp (per compensare la doppia velocità d'attacco)
+
+Schermata Intro
+- Aggiunta patch note (questo testo) alla Schermata Intro
+- Testo & Tasti per il gruppo Steam non vengono più mostrati quando le ricompense sono già state reclamate
+
+Suono, effetti & animazioni
+- Animazioni di inattività con Pistola e Revolver (attivate anche dalla ricarica con massime cartucce)
+- Nuovi suoni per lo Spitballer e la Larva
+- Torna il fumo nero per il lanciafiamme... era bianco, ed è stato un errore... Adesso è di nuovo fantastico!
+
+Cave
+- Nuove forme di cava aggiunte al generatore casuale
+- Aggiunti croato, finlandese, italiano e giapponese
+- Tutti le lingue aggiornate (come al solito, le nuove modifiche saranno mostrate in inglese)
+- Aggiornati i crediti dei traduttori della community
+- Aggiunti caratteri mancanti per la lingua polacca,
+- Alcuni tasti con testo non sono stati aggiornati correttamente dopo che una nuova lingua è stata selezionata.
+
+Misc Fix
+- Oggetti di vanità alle volte potrebbero non mostrarsi correttamente sui nani nei terminali.
+- Tasto '5' è adesso disponibile per l'associazione tasti personalizzata
+- Fixato il crash del Late Join se ci si unisce correttamente quando il livello termina.
+- Fixato: adesso non è più possibile editare Hint text durante il caricamente!
+- Strumento Mappa non si aggiorna correttamente quando il terreno cambia
+"
 	610A35A6460AE74E8D2B5B9D80081A9A = "...Non è un'arma se non pesa almeno 54 kili."
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
 	7CFB443C471CE28E2E8BFAAE8F278274 = "0"
@@ -154,7 +210,7 @@ Namespace Global (2885 keys)
 	EF0DD00E4D68095E714A7CAF8BC61802 = "Arrh dai! E ' arrivato molto tardi ieri!"
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "Direttore Artistico"
 	0CEC244D494D3CCCF7467583344FFE9A = "Come TRIVELLATORE, sarai equipaggiato con una TRIVELLA AL TITANIO. Il tuo compito è di liberare ogni tunnel ostruito dagli ostacoli presenti sul percorso della tua squadra, e in combattimento sei una forza su cui fare affidamento: le tue trivelle si sbarazzeranno in fretta della maggior parte dei nemici nelle corte distanze, e per gli scontri sulla lunga sei equipaggiato con un potente LANCIAFIAMME."
-	834C9F21492EE499B8B053A277AC48BD = "Come INGEGNERE, porti due oggetti essenziali per la sopravvivenza nelle grotte - la PISTOLA DI PIATTAFORME che crea piattaforme che possono essere scalate, e le TORRETTE AUTOMATICHE che sparano raffiche di fuoco di supporto - se riesci a piazzarle prima di morire. Potrai non essere il più duro tra i nani, ma il tuo FUCILE A POMPA DA COMBATTIMENTO e il devastante LANCIAGRANATE ti rendono un formidabile avversario."
+	834C9F21492EE499B8B053A277AC48BD = "Come INGEGNERE, porti due oggetti essenziali per la sopravvivenza nelle caverne - il CANNONE DA PIATTAFORMA che crea piattaforme che possono essere scalate, e le TORRETTE AUTOMATICHE che sparano raffiche di fuoco di supporto - se riesci a piazzarle prima di morire. Potrai non essere il più duro tra i nani, ma il tuo FUCILE A POMPA DA COMBATTIMENTO e il devastante LANCIAGRANATE ti rendono un formidabile avversario."
 	02AB081A4440D0A4C7D68FAB48949B85 = "Come ARTIGLIERE, la tua posizione è sul fronte di ogni battaglia, abbattendo gli alieni usando il tuo MINIGUN di alto calibro e il tuo potente REVOLVER. Inoltre sei equipaggiato con un LANCIA TELEFERICHE estremamente pratico, che permette all'intera squadra di attraversare facilmente qualsiasi abisso o ostacolo."
 	7126A37045DDA7A7DB06A48E18C99F16 = "Come ESPLORATORE, sei l'unico che può portare la potente PISTOLA LANCIARAZZI, e l'intera squadra tipende da te per la luce. Come avanguardia d'esplorazione, sei inoltre equipaggiato con un RAMPINO, che ti permette di arrivare ovunque. Ma, mentre trasporti un FUCILE D'ASSALTO e un FUCILE A CANNE MOZZE, dovresti stare comunque attento a non essere separato dal resto della squadra - le caverne non hanno simpatie per gli esploratori solitari."
 	B79C7DAB424898F959F380BC41B00C7D = "Come sali di livello sbloccherai le statue degli Eroi di DRG nella SALA COMMEMORATIVA. Vai là se vuoi avere un momento di calma! "
@@ -188,12 +244,12 @@ DI ISTRUZIONI"
 	02CC6E8A4B5D08B12FBF53AB38D7838F = "Badabum"
 	6F0917084169EB3836DE98AC09DB6011 = "Borse piene! Non puoi trasportare più nulla!"
 	A468A900444B9E1A695945814B9C3F40 = "Borse piene! Non puoi trasportare più nulla!"
-	20DD7FE8472B9E9299D36D928991E6B3 = "Miglior qualità prezzo se lo vuoi sapere!"
+	20DD7FE8472B9E9299D36D928991E6B3 = "Miglior qualità prezzo secondo me!"
 	94B3E16D4288D90D2A6A8E989B8ECEBF = "Segui il ritmo con la testa!"
 	905E8EC441C1759F31BF1D969927CA08 = "Lanciarazzi Banshee 250"
 	3BCF4C82412D8245811BB1A732DF0BB7 = "I barili son fatti per essere lasciati in pace, e non scagliati, calciati, tirati, o ad ogni modo mossi.  "
 	68C5E6794C164D06D156D4949EB0BF4B = "Bengala di Base"
-	685964224EC0FB9FEB9EE286CF2A4D8E = "Piccone di Base"
+	685964224EC0FB9FEB9EE286CF2A4D8E = "Piccone di base"
 	2223EE0D4985A95F10018887FEF4F431 = "Il bastardo mi ha preso!"
 	CB5F425341AB471F0B9AA6B9D64DA644 = "I bastardi mi hanno preso!"
 	2EBD5AB5461DBCF508E0CE877D006A37 = "Che sia un ostacolo o un avversario particolarmente coriaceo, la cara vecchia Carica Satchel solitamente fa il suo lavoro. Stai bene indietro prima di premere il grilletto."
@@ -230,7 +286,7 @@ DI ISTRUZIONI"
 	F1FAAA0C41B63298C27B87A70B09C9D4 = "Boom!"
 	F923992B4BDEC03445C7C4976CB8C682 = "Boom baby!"
 	1FD8809D480A77F13D00F3A620B6FCD7 = "Booyah!"
-	D2D51D284753BD8E018F26918D0ACCC1 = "Fenditura di Cenere Boreana"
+	D2D51D284753BD8E018F26918D0ACCC1 = "Fenditura di cenere boreana"
 	B55805B74AD51658258C84BB4307955F = "Nato per uccidere, baby!"
 	C651A15E445DF06CC4F6B782D1F52F81 = "Bosco - Cos'è quello?"
 	44621F164DBE535B328B90B9F4478643 = "Bosco è in arrivo!"
@@ -249,7 +305,7 @@ DI ISTRUZIONI"
 	F0F53AE9430AD821982800B6448D0DDA = "Rotto"
 	07277FBF4DF2B427A6D567AB995BBE3B = "Covata Nexus! Eliminate quella cosa!"
 	C4F7AEE9491C9A1ABB4B9B8896CCBE10 = "Insetto Bomba in arrivo!"
-	250D0036441F2417F49FA98008F5ACE3 = "Bomba Insetto ordinata!"
+	250D0036441F2417F49FA98008F5ACE3 = "Bomba per Insetti ordinata!"
 	3D7BB79A47CE926731B59BB2639D26D7 = "Insetto!"
 	01834E4E4AD0EDF2A7AC2D9D6C3EBA89 = "Allarme Insetto!"
 	16C1064F41321534DB3B3DB8AB14F058 = "Idioti!"
@@ -291,7 +347,7 @@ DI ISTRUZIONI"
 	3F0C9EF54B76216708530B9257D6584F = "MATERIALI RACCOLTI:"
 	409B3B9649E367F18A5734A9603A5582 = "COMBATTIMENTO"
 	CCD5A42B4899395A8E979AAF6192E5A4 = "TRADUZIONI COMMUNITY"
-	7E414F4C4FF198C3F86B93AF103217E7 = "COMPLETATO"
+	7E414F4C4FF198C3F86B93AF103217E7 = "COMPLETATA"
 	36406C1946B16048CA3139B8D47AF660 = "CONNESSIONE PERSA"
 	3D6E174142696818ED29D6804471583B = "CONNESSIONE PERSA"
 	401FE2484B056208D64FE898A736C2CB = "CONNESSIONE PERSA"
@@ -441,7 +497,7 @@ DI ISTRUZIONI"
 	9296EFE8485D4B49C81AC3B3D4BF1E65 = "Contatto! Abbiamo 4...aspettate, 6...no, 12...MOLTI alieni che si dirigono da voi!"
 	2787003343A42477CE143785034BC5D6 = "Continua"
 	4963D2AF4C072FA9544FE3A7D769FD00 = "Continua"
-	2B880903409AD8B31C4573AD7B3B2502 = "Continua in "
+	2B880903409AD8B31C4573AD7B3B2502 = "Continua tra "
 	3FDC9E054A4217D6E632378A7A9E7419 = "Controller"
 	9D6287354D2C3F1F914A85B350FA8015 = "Controlli"
 	A0D0BE4D4BAF6E000C07FEBFE6A9CA37 = "Controlli"
@@ -478,7 +534,7 @@ DI ISTRUZIONI"
 	4FAFFD9F48CCF2264D6F608A41F4D421 = "Crediti"
 	587387CE4AB7DBE3F90EEC98CE1D0E2D = "Crediti"
 	B30C12434A5F8E02A131E8A6D903A542 = "Crediti"
-	6D72FAF94418F9AF292CBE9ABDC6D17F = "I crediti sono stati ritirati. Lancio di rifornimento in arrivo."
+	6D72FAF94418F9AF292CBE9ABDC6D17F = "I crediti sono stati ritirati. Capsula di rifornimento in arrivo."
 	F86CEA9045E0447697A5129A19A9C6E0 = "Crediti alla Nostra Community"
 	A35FACD244DC0BA20F4A0BB551869C01 = "Croppa"
 	E09D4A064EC5A72BACAB8CA3276A1FC8 = "Croppa"
@@ -513,7 +569,7 @@ La terra blocca l'ingresso!"
 	B84032A74DBE9DF270DC7B9AB464C9F7 = "DISTANZA"
 	E7463CB8457274C844EC6E82D93634CC = "DRG: Fratellanza. Sfida. Profitto."
 	B022254E4A8509B5A4B60C88547933AD = "DRG: Insieme, Forgiamo il Domani."
-	659F86C14FC51F0A934A859EDA3ABAF2 = "DRG: Uniti Ci Eleviamo!"
+	659F86C14FC51F0A934A859EDA3ABAF2 = "DRG: Uniti, Siamo Alti!"
 	4FB31F3448809142AFCC94BB01B011BE = "TI BUCO DOPO!"
 	C5A231D144D11797B0F13D8D7CC5B55A = "TRIVELLATORE"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "TRIVELLATORE"
@@ -556,7 +612,7 @@ La terra blocca l'ingresso!"
 	051C312645286ABC96D7ECA7D82823E7 = "Deep Rock really need to provide better equipment!"
 	8482AFEF47A351EAF64E0D967161C2C6 = "Deep Rock necessita seriamente di investire in dell'equipaggiamento migliore!"
 	077FE1A24DF28D828BE8A195F172B555 = "Lanciagranate DeepCore 40mm"
-	6685A8EE4C9860BA381D84BEA2518D8F = "Deepcore GK2"
+	6685A8EE4C9860BA381D84BEA2518D8F = "Nucleo profondo gk2"
 	17DFCFE2486582C5680A22A580E5AAC7 = "Favo di Deeptora "
 	2974756F40C48748E76939B4171D036E = "Sciame Deeptora"
 	C55C17E9436F1DE5466438950931C189 = "Controlli di Default"
@@ -734,11 +790,11 @@ La terra blocca l'ingresso!"
 	7FBDABD949A12E8FFBA070B1AD413DE3 = "Manubrio Epico"
 	ABDFFB514B5C4AE6ABB23EA48CDB4124 = "Manubrio Epico"
 	F0DC10224BB84A5AC3AE03BEAC81210C = "Manubrio Epico"
-	67D48D6247F5A6C32B39E9BA79B9A147 = "Biozona Equatoriale"
+	67D48D6247F5A6C32B39E9BA79B9A147 = "Biozono equatoriale"
 	E5B256914AE6E1F791BB7197123B1B2B = "Capsula di Salvataggio in arrivo! Liberate la zona!"
 	35C67A644D89A777FBF3F6A0AB186201 = "Tempo Stimato"
-	5FDE6E4B4587A781262BF0984C90049E = "Ogni volta che il livello di un nano sale ottieni un segnalino. 
-Quando collezioni 4 segnalini il tuo rango giocatore incrementa."
+	5FDE6E4B4587A781262BF0984C90049E = "Ogni volta che un nano sale di livello ottieni un evidenza. 
+Quando collezioni 4 evidenze il tuo rango giocatore incrementa."
 	A51190624912F34F9628E7A7B19C1047 = "Tutti han bisogno di almeno uno di quelli!"
 	CBD59AC44C2076F565A1E886D676FC7B = "Tutti quanti! Posso avere la vostra attenzione?"
 	D62951114D9565B434339588C7C41CCD = "Eccellente. Capsula da Sbarco in arrivo."
@@ -943,7 +999,7 @@ DI FUOCO"
 	7620D7A64CDF6A7CD10221919EEADDA2 = "Dammi della luce!"
 	A9F73C994BF4BC81B638DDB1842E976F = "Dammi della luce! Propria qui!"
 	4C8CAFB046526BB352E76B9451F52B79 = "Datemi un po' di zucchero!"
-	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "Lascia una recensione"
+	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "Dateci un feedback"
 	BA548C114C600F794B4452893B927F52 = "E' un piacere lavorare con te!"
 	F5CD873D490CEA95217CA497B45AB6F2 = "Albero Luminescente"
 	8707365348F9DE561F41489C63A69173 = "Lumibrilla"
@@ -990,7 +1046,7 @@ DI FUOCO"
 	AA8CF5CF467D34193BB5D7BAE05373D1 = "Bel lavoro, obiettivo raggiunto. Chiamate la capsula da sbarco quando siete pronti ad andarvene."
 	F90A85664E36242BD60D7DB3C2F2F20E = "Bel lavoro, obiettivo raggiunto. Chiamate la capsula da sbarco quando siete pronti ad andarvene."
 	FC1C5E3147ED3C80EDC195B9AA4FDDB9 = "Bel lavoro, squadra. Siamo a metà strada. 5 Aquarq per finire."
-	5637A86B4A5DBF30D6064DB572CA2542 = "Bel lavoro, vi riportiamo indietro."
+	5637A86B4A5DBF30D6064DB572CA2542 = "Bel lavoro, vi tiriamo fuori."
 	FCB3B7DF4ACC95682B1BDFB0D2C0D429 = "Bel lavoro, vi tiriamo fuori."
 	60F3AB994A0BCD6BC747E1B766E5408F = "Bel lavoro. Obiettivo Completato! La Capsula di Salvataggio può essere chiamata via MULE! "
 	B41BD8B8452956E50A99F88CA674895B = "Bel lavoro. Obiettivo Completato! La Capsula di Salvataggio può essere chiamata via MULE! "
@@ -1028,11 +1084,11 @@ DI FUOCO"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "TENERE PREMUTO [Laserpointer] PER SOLLEVARE IL PUNTATORE LASER"
 	565BE2CA4157D153FE965A8438508B5B = "TIENI PREMUTO [Laserpointer] PER PUNTARE POI PREMI [Fire] PER FAR INTERAGIRE BOSCO"
 	74486D6942276263895A82B17BFF003E = "TIENI PREMUTO [Laserpointer] PER PUNTARE POI PREMI [Fire] PER FAR INTERAGIRE BOSCO"
-	96A8E6A14FEFCD974370709BCCF5FA74 = "TIENI PREMUTO [Laserpointer] PER PUNTARE, POI PREMI [Fire] PER METTERE UN SEGNALE"
+	96A8E6A14FEFCD974370709BCCF5FA74 = "HOLD [Laserpointer] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	7C4704B14AAD52938BA369B2BF3D358B = "TENERE PREMUTO [Shout] PER SOLLEVARE IL PUNTATORE LASER"
 	C8D9A6484B38D1A68FDCA1A7ADC4D8E8 = "TIENI PREMUTO [Shout] PER PUNTARE POI PREMI [Fire] PER FAR INTERAGIRE BOSCO"
 	F4DE0706460FD4BBF961D8BA2846ECE9 = "TIENI PREMUTO [Shout] PER PUNTARE POI PREMI [Fire] PER FAR INTERAGIRE BOSCO"
-	119D95F84C45A60432C6B2AD12B9E156 = "TIENI PREMUTO [Shout] PER PUNTARE, POI PREMI [Fire] PER METTERE UN SEGNALE"
+	119D95F84C45A60432C6B2AD12B9E156 = "HOLD [Shout] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	E949901E4D390B0F929A60AD688B7FDE = "SOLO HOST"
 	8EB05D1D4CAC8EA907FF9CB896638929 = "PARTITA PRIVATA"
 	78AA4598413B0966965A5B81CD0CC24E = "HOST GIOCO PUBBLICO"
@@ -1061,6 +1117,100 @@ DI FUOCO"
 	8730107B4ADA8EC423D3D5838AAA73D0 = "Lavoro duro scavare...non è cosa da tutti."
 	D3CEDD9D421BA88578276D96147F751E = "Oro pesante!"
 	E9C145334D951620DCD4DBBD545322E2 = "Diamine Sì!"
+	FB030C5E408CAF6B057043A6929F5689 = "Hello Miners!
+
+Deep Rock Galactic has now been in the wild for 1 week. We have finished celebrating the awesome launch (yeah!) and are now hard at work getting new updates out and planning the future. Inside the game, we have a nice feedback button, and a big thanks to the thousands of you who have already taken advantage of this. It’s an extremely big help.
+The feedback tells us we are definitely on to something good here, but it’s equally clear we have some we also hot topics that need some immediate love. First iteration of Key Bindings went in through the previous patch, and this time we have focused on fixes for the Kick feature, tweaks to the Driller and fixing Bosco's inability to kill Cave Leeches. All of these and MANY more are in the new update. You can scroll down and see all the patch notes below. 
+
+--- Driller Buffs ---
+The Driller is probably the most unique class in Deep Rock Galactic, so we were sad to see our iconic drilldozer valued below the other three classes in usefulness. Therefore, we have tweaked both his Flamethrower and Drills. In the detailed patch notes below, you can see the exact stat changes, which might also give you some hints on how to better utilize the Driller.
+
+--- Payout on Mission Failed & Kicking ---
+Two issues pretty quickly started to show themselves: Dissatisfaction with the way we’ve handled a Mission Failed scenario in regards to payout, and the fact that players could be kicked from the team at any given time. We’ve worked out a first pass on a solution for both these, as listed below:
+
+Firstly, it used to be that failing a mission meant NO payout at all. Now, failing a mission will give you a compensation of 25% of the minerals stored in Molly at the time of the mission ending. 
+
+Secondly, getting Kicked from a team will result in a Mission Failed case, where you will receive compensation based on what was added to Molly since you joined that session. 
+
+It is now no longer possible to Join or being Kicked from a team once the Drop Pod has been called and the final countdown has begun. This is a test for now and we’ll monitor the outcome - and it’s a pretty easy fix, so we can quickly backpedal if needed.
+
+Also, it is extremely important to understand how Mission Complete works. You might think that the rewards are split out between survivors. They are not. We calculate the total and then each player in the session gets that same reward, regardless of the size of the team. On top of this, each surviving player adds a Survivor Bonus, which has been boosted also. “Leave No Dwarf Behind” should be the ethos here - the more players manage to get out alive, the greater the bonus for all involved!
+
+
+
+
+We have elected not to implement vote-kicking with this update, despite some players asking for it. It’s a fair bit of work to implement, and we are not completely convinced it is the way to go at this point. That said, there are good arguments both for and against this feature, and we will continue to monitor the situation. The same goes for a vote button on Molly. 
+
+--- Bosco ---
+Detailed in the patch notes below, Bosco has received a fairly significant buff, and his ability to kill Cave Leeches should have been improved. We write “should” since this issue will need further work to squash fully, but it should at least be a better experience all round now.
+
+--- Trading Cards ---
+This one is a bit embarrassing. Turns out you have to manually have to publish the Trading Cards when you launch a new game on Steam. Whoops. The good news is that they are implemented now and await harvesting!
+
+
+--- Roadmap ---
+Midweek, we had a big feedback meeting here at the Ghost Ship office. We’ve gathered all the feedback from you, the players, as well as feedback from the dev team and our partners. There are SO MANY cool things we can and will do to expand Deep Rock Galactic. Task for now is to choose which ones go in the game, and in which order, and we plan to reveal a greater and more comprehensive road map for the coming months over the next few weeks. 
+
+--- Patch Notes ---
+
+Mission End
+- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
+- Mission Failed now gives a 25% compensation reward based on minerals collected
+
+Co-op sessions
+- Getting kicked now results in Mission Failed, compensation based on contribution
+- Added a new flow and info for Kicking and getting Kicked
+- You can no longer Join a session after Drop Pod has been called
+- You can no longer Kick a player from a session after Drop Pod has been called
+- Tweaked text on Mission Map in regards to new public/ private flow
+- Reworded Server List filter to Show Open and Show Password Servers
+- Add Private Server checkbox in escape menu
+- Added indicator for a joining player to team view 
+
+Solo mode
+- Bosco should now save you from the cave leeches more consistently
+- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
+- Bosco now has friendly fire reduction 0.2 instead of 1
+- Bosco Deals 100 % more damage (doubled from 3 to 6)
+- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+
+Class Balance: Buffed the Driller’s tools
+- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
+- Flamethrower Range upped from 8.5m to 10 m
+- Power Drills: Fuel upped from 30 to 35
+- Increased walk speed while drilling with 10 %
+- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
+- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+
+Intro screen
+- Added patch notes (this text) to Intro screen
+- Text & Button for Steam group no longer shown when rewards have already been claimed
+
+Sound, Effects & Animations
+- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
+- New Spitballer sound and Maggot sound
+- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+
+Caves
+- More cave shapes added to the random generator.
+- More randomness on existing cave shapes.
+- New sticky web environmental hazard. Don't get caught!
+
+Localization
+- Added language selection to Intro screen
+- Croatian, Finnish, Italian and Japanese added
+- All languages updated (as usual new features lagging behind, will show English)
+- Updated community translator credits
+- Added missing characters for Polish language.
+- Some buttons with text did not correctly update after a new language was selected.  
+
+Misc Fixes
+- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
+- Key '5' is now available for custom key bindings
+- Fix Late Join crash if joining right when the level ends. 
+- Fixed: you can no longer edit the Hint text while loading! 
+- Maptool not updating correctly when terrian changes
+"
 	A443FA134FE39088BA757F8F84D0ADC9 = "Salve e arrivederci!"
 	F5EAAC5340766A2A9FC2DF8B49239CB2 = "Ciao e benvenuto!"
 	9123FB854DBBEB874DCDE2895775FB52 = "Ciao!"
@@ -1101,7 +1251,7 @@ DI FUOCO"
 	2BFF3FB24C513ED65A19FD91B5E08C13 = "Tenere premuto [Mine] per usare la tua piccozza"
 	BCFE67FF42A1D718A84C3E8AF7B827B9 = "Tenere Premuto [Mine] per usare la piccozza. Cerca minerali da scavare."
 	AB713DA84A255DC0B9E69BB8F63D3767 = "Tenere Premuto [Shout]"
-	E152CE3C4651EBDFED9E7BBE22D38573 = "Tenere Premuto [Shout] per scannerizzare le grotte"
+	E152CE3C4651EBDFED9E7BBE22D38573 = "Tenere Premuto [Shout] per scannerizzare le caverne"
 	30E82465429260C1E4F47E992AB1701A = "Tenere Premuto [Use]"
 	B3D7FAF044B6E17B765BB597E44ACBEC = "Tenere Premuto [Use]"
 	167A44884732872F1940A7B3FB442490 = "Tenetevi forte, signore. Sciame in arrivo!"
@@ -1115,7 +1265,7 @@ DI FUOCO"
 	474D2304485CCA3E89CAE2B8EB06330F = "Host: Pubblico"
 	030F6AD844949B06D0A3DC823B4008AB = "HostPublic"
 	62725DDA48CFD7061B7D9BB69399C458 = "Ostile!"
-	23EB62414882D57DE5EA68A443DC70B3 = "Gli ostili stanno ripiegando! Finiteli!"
+	23EB62414882D57DE5EA68A443DC70B3 = "I nemici si ritirano! Finiteli!"
 	0A7AAE4649D874E7B006FDA1D392F664 = "Ostili uccisi dalla squadra"
 	3A35E91C4472DC693964859E4BA00EAE = "Ferro Hox"
 	BBF194A847793B8D61F65B981D311276 = "Ferro Hox"
@@ -1286,7 +1436,7 @@ STAI INDIETRO!"
 	C5AE7B8A425B17DBF00A31A5A26776D7 = "Fa quel che dice sulla confezione. Sparando una combinazione di elementi chimici altamente volatili alle pareti vicine, il risultato è una schiuma a rapida solidificazione che ricorda il cemento e che può sostenere diverse tonnellate di peso. Non ingerire!"
 	53B9E56447DBA24E7C08DD88A97DF370 = "Mi ha preso!"
 	49BBAD8643733BE12BA12099694922AB = "E' attaccato adesso!"
-	013AA61843DC55D04A16C7948EA8F7EB = "E' unito!"
+	013AA61843DC55D04A16C7948EA8F7EB = "E' attraccato!"
 	DDB1313F47BA603A2DD295AAD7C93627 = "E' bloccato!"
 	AA62C29E48FC83B65DF2B8897E3965C5 = "È pericoloso!"
 	9775925E43BA87488145D5BC7143D7C5 = "È giù!"
@@ -1303,7 +1453,7 @@ STAI INDIETRO!"
 	135AFD4741964E2312DA0F9005F475DC = "E' un Glyphid Corazzato! Trovate il punto debole!"
 	EBF4581A4908076BCF16C8946BEB2586 = "E' un insetto!"
 	53BE84C74EA9907C4188EEAC513A0487 = "È un bel cappello"
-	1458ADA94DBDBB79C749B0BDE33C08B1 = "L'importante è mettere in sicurezza le grotte, lo sai?"
+	1458ADA94DBDBB79C749B0BDE33C08B1 = "L'importante è mettere in sicurezza le caverne, lo sai?"
 	D3BC5E074C970B3353809481ADC023A1 = "Armata e pronta!"
 	0D7D45894E6018D74F0EAB983EF3979E = "E' stupendo che tu stia entrando nella nostra squadra!"
 	CCD372FB41EF89801ABD508BCE38210F = "E' pronto!"
@@ -1346,7 +1496,7 @@ STAI INDIETRO!"
 	3C117BFD4C41C3D2DC6565B241F1B301 = "Boomstick Raffazzonato"
 	08BFA3054CC84B0C1894C9816D5B3421 = "Solo Capelli"
 	F31B75F548FC537AF855C688187CFC65 = "Solo Capelli"
-	668E416F46D9AF9A2F0C289C99C5579B = "Dovete solo seguire i segnali intermittenti lasciati dietro dal M.U.L.E. quando ritorna alla Capsula di Salvataggio."
+	668E416F46D9AF9A2F0C289C99C5579B = "Just follow the blinking markers the M.U.L.E. leaves behind when it is returning to the Escape Pod."
 	2B0D29E9465FD20F7DE22C9BCBF00899 = "Mostrami solo dove sparare!"
 	6BF497F3455C1E2E0A86C4A891997F53 = "Mostrami solamente dove sparare!"
 	C1CFE7224A1EF9B09DE599AADA0C25AD = "Prenditi tempo carrétta! Ho tutto il giorno!  "
@@ -1370,7 +1520,7 @@ STAI INDIETRO!"
 	0AE59B9845A5EA01D2CDA491BF4A9D64 = "Cacciato dal menù ESC"
 	6E00C95D4D7428F51E5D15BA73DBA0C5 = "Uccidilo prima che qualcuno si faccia del male!"
 	7021917C4F91EEA0B0D3E393F775BC62 = "Uccidilo!"
-	6764BD0E4B0CDE95427ADDA87A96907A = "Uccidi l'Insetto Premio!"
+	6764BD0E4B0CDE95427ADDA87A96907A = "Uccidi l'insetto premio!"
 	32D1988E45EDA9277A9AC78D221F054A = "Uccidere {Current}/{Required} {Title}"
 	E65D053843FE9C602EAF15AF6765F5A1 = "Uccidere {count} Bersagli"
 	B6CE073A4D4A5EBA71B1E68BADEAF090 = "Killer Driller"
@@ -1580,8 +1730,8 @@ TUTORIAL"
 	5518A67C45ABF7776B55918D7759BA30 = "MaxDistance"
 	145345C7423F4E9A20637C964292DBAE = "Forse non moriremo dopotutto!"
 	F40A144645E1266C5FEEC7A29F68EBBC = "Io"
-	855ACA5B4AF56C3FE6754297D1E6F3B1 = "Medicina"
-	DD5AB6B44494246A3F653DAF5BE1683B = "Medicina"
+	855ACA5B4AF56C3FE6754297D1E6F3B1 = "Medio"
+	DD5AB6B44494246A3F653DAF5BE1683B = "Medio"
 	B761872244EF2533B38621AC95034AE4 = "Incontra il tuo creatore, schifoso!"
 	1D7EDA57493B29DAC50180955CC2AC52 = "Melone"
 	5FED025A4B103E46F7CE5B9A87966B89 = "Melone"
@@ -1602,7 +1752,7 @@ TUTORIAL"
 	E6CB82524A37D80CF610EF8CFDC88867 = "Scavare"
 	C974D1114477BC6FA7221985BA3B2309 = "Trivellare Dystrum"
 	32CE81B14918228D7CFF75A15562A74F = "Perforatrice"
-	0F26B4224813B5E4056F3B90E821BC11 = "Scavare Morkite"
+	0F26B4224813B5E4056F3B90E821BC11 = "Scava Morkite"
 	F1FB582C44694DCE9E034CA2BB4BAC27 = "Perforatrice lanciata. La capsula di salvataggio arriverà quando la perforatrice sarà al sicuro. Tenete duro."
 	6F33D46540B469187F686FA6185EE2FA = "Perforatrice lanciata. Stiamo rilevando una pesante attività nelle vostre vicinanze, perciò tenete duro fino all'arrivo della capsula di salvataggio."
 	0DEC79714D5A010A1B93F398EC66C794 = "La perforatrice sta rientrando. Capsula di salvataggio in arrivo. Aspettatevi una forte resistenza finchè non verremo a tirarvi su."
@@ -1621,7 +1771,7 @@ TUTORIAL"
 	87ED4E2C4334C3C6D6D835BE1FEFF8C0 = "Missione completa. Il Direttore parla di bonus."
 	6817C0064C5566961361409692CF4F60 = "Missione completa. Bel lavoro, squadra."
 	B4253B1E4AB8F953BCD51188009553B7 = "Missione attivata. Capsula da Sbarco in caricamento."
-	470547694BE786FA2F45049F27CD82A7 = "Missione selezionata e bloccata. Tempo di imbarcarsi sulla Capsula da Sbarco."
+	470547694BE786FA2F45049F27CD82A7 = "Missione selezionata e confermata. È l'ora di salire sulla Capsula da Sbarco."
 	0664EDEF406B5BF10A5D6AA8D196ED2A = "Missione selezionata. La vostra carrozza sta aspettando, gentiluomini. Muoversi."
 	3796F5BA47DABAC727A3869531B4D7D9 = "Mixer Login"
 	421A198642CC485C6E16ACB86B505CD2 = "Logout da Mixer"
@@ -1651,9 +1801,9 @@ TUTORIAL"
 	A16DABD64A7B24C75F47F99D995DEB8B = "Morkite trovata!"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Quota di Morkite raggiunta! Escavazione di prima classe, squadra! Bottone di fuga sul M.U.L.E. attivato."
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite!"
-	79C599094EB6D6E6E02200AFC58E0859 = "Molti nemici hanno punti deboli in cui i tuoi proiettili fanno più danno mentre alcuni nemici hanno esoscheletri sui quali i tuoi colpi non fanno danno. "
-	44A3445A484377F58C5D6BBC70FFECF8 = "Sensibilità Mouse"
-	5553884E4B6E6F00ADC8F985F6F4219A = "Muovetevi ragazzi! Stiamo andando sul pianeta!"
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points where your bullets do more damage and some enemies have exoskeletons, where your bullets do no damage. "
+	44A3445A484377F58C5D6BBC70FFECF8 = "Mouse Sensitivity"
+	5553884E4B6E6F00ADC8F985F6F4219A = "Muovetevi ragazzi! Ci dirigiamo sul pianeta!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "Muoversi!"
 	30D2A4894E6CF7E90329B7ACCA48A50A = "Spostatevi! Sta per esplodere!"
 	36521DCB44C9E9219679E1A4D3EA3BA7 = "Muoversi!"
@@ -1661,7 +1811,7 @@ TUTORIAL"
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "Molto meglio!"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "Molto meglio!"
 	CD169B8F4540D97173D1A180A5C920B4 = "Sessione Multiplayer Chiusa"
-	80DCF1564FE0AF32ACCD80B57941FEA6 = "Più nani che lavorano assieme possono resuscitare un nano caduto più velocemente che da soli."
+	80DCF1564FE0AF32ACCD80B57941FEA6 = "Multiple dwarves working together can revive a downed dwarf faster than one."
 	EAB190A647BE3478A66B8FAAFB6A4C9E = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "Fungo!"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "Fungo!"
@@ -1832,7 +1982,7 @@ Ma ben fatto. :D
 	C79595634378DAEEAB740BB8AF143D3B = "REGIONE PLANETARIA"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "REGIONE PLANETARIA:"
 	C21850D74844EA192C1FCEBA601C6261 = "REGIONE PLANETARIA:"
-	6837936E4EFB82CBEF489FAD5C73FE96 = "NOTA BENE! Non guadagni una ricompensa maggiore espellendo gli altri giocatori! Anzi, perdi il bonus di sopravvivenza per quei giocatori!"
+	6837936E4EFB82CBEF489FAD5C73FE96 = "PLEASE NOTE! You do not earn a bigger mission reward by kicking players! Actually you will loose the survival bonus from this player!"
 	E4DEE1334E397283E5AADFA084AE3366 = "RICOLLEGA IL CONTROLLER PER FAVORE"
 	2276DA03429396713203CBAC6EF3C810 = "CAPSULA IN ARRIVO"
 	0E40CA4047102A62E43D82B23E361885 = "POSTER"
@@ -1841,18 +1991,18 @@ Ma ben fatto. :D
 	F3155C474EF53C36803B23875CCECF17 = "PREMI QUALSIASI TASTO PER CONTINUARE"
 	A7FA5FB342C218181CDE8DADE821FD8F = "PREMI UN TASTO PER USCIRE"
 	680CF46F443D5BB1D62DEDB346CB9C4C = "PREMI [CallDonkey] PER CHIAMARE IL M.U.L.E."
-	B8CCFBD24E3F27F250DB4698E51549C7 = "PREMI [Equip4] DUE VOLTE PER PASSARE AL LANCIO DI RIFORNIMENTI E DOPO PREMI [Fire] PER RICHIEDERLO"
-	DA66CA3141162C3AF0D384B1DFD8A248 = "PREMI [Equip4] DUE VOLTE PER PASSARE AL LANCIO DI RIFORNIMENTI E DOPO PREMI [Fire] PER RICHIEDERLO"
-	726A354D42D77EA0A34584944346937A = "PREMI [Equip5] PER SELEZIONARE IL LANCIO DI RIFORNIMENTI E DOPO PREMI [Fire] PER RICHIEDERLO"
-	9AD2FB414E12C8D2E3781DB47856BF5C = "PREMI [Equip5] PER SELEZIONARE IL LANCIO DI RIFORNIMENTI E DOPO PREMI [Fire] PER RICHIEDERLO"
+	B8CCFBD24E3F27F250DB4698E51549C7 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	DA66CA3141162C3AF0D384B1DFD8A248 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	726A354D42D77EA0A34584944346937A = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	9AD2FB414E12C8D2E3781DB47856BF5C = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
 	E501CABD480DE511EC843F83B6B411FB = "PREMI [Fire] PER ORDINARE"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "PREMI [Flare] PER LANCIARE UN BENGALA"
 	E66F2965440023B51A13E5B5253ED0BC = "PREMI [Jump] PER CONTINUARE"
 	FD12F4A94EC35363633682B3B98ECBAE = "PREMI [Jump] PER USCIRE"
 	54252A9A47A6776CFE924B93B30F5B44 = "PREMI [Salute] PER SALUTARE"
-	0E6FDF684AF461D269E215A191289E87 = "PREMI [Shout] PER RICHIAMARE L'ATTENZIONE"
-	3E8D5A1F49894E7918B4F0B70CB2D74F = "PREMI [Shout] PER RICHIAMARE L'ATTENZIONE"
-	7619D8004800B2FB339A57AD814FA511 = "PREMI [Shout] PER CHIAMARE BOSCO"
+	0E6FDF684AF461D269E215A191289E87 = "PRESS [Shout] TO CALL FOR ATTENTION"
+	3E8D5A1F49894E7918B4F0B70CB2D74F = "PRESS [Shout] TO CALL FOR ATTENTION"
+	7619D8004800B2FB339A57AD814FA511 = "PRESS [Shout] TO CALL FOR BOSCO"
 	7FABFBA24AAC4686FB3FCC9420150CF7 = "PARTITA PRIVATA"
 	E6CE771943558977A67F7296A448F6B3 = "PROGRAMMATORE"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "Annuncio: E' stato trovato abbandonato nella sala da pranzo un lanciagranate. Per vostra sicurezza, vi preghiamo di stivare tutti gli armamenti pesanti tra una missione e l'altra."
@@ -1863,7 +2013,7 @@ Ma ben fatto. :D
 	C401038F442E3A8DE93A8D8C601443D3 = "Stai leggendo? Allora sei il tipo di giocatore che vogliamo nel gruppo dei "Regolari" su Discord! Iscriviti ora!"
 	4244CE9148B8905A6F7B8D87E8477672 = "Annuncio: La colazione è cancellata. Lo shuttle con la pancetta è in ritardo."
 	BC752D3842589EB58137D2B017CF5E33 = "Annuncio: Tirate lo sciacquone del bagno. Facciamo in modo che non riaccada l'Incidente."
-	999F07B549F88442E1491E814404F2FF = "Annuncio: L'igene è importante. Per favore, fate una doccia almeno ogni 30 cicli orbitali."
+	999F07B549F88442E1491E814404F2FF = "Annuncio: L'igiene è importante. Per favore, fate una doccia almeno ogni 30 cicli orbitali."
 	81BBB07C442CFF561D978D8518E85234 = "Annuncio: La Manutenzione desidera chiedere ai dipendenti di non tentare di entrare nel tubo di scarico sopra l'hangar."
 	79F55F3945D00CA3F38F98B8B2088EEC = "Annuncio: La Birra di Morkite è di nuovo immagazzinata nel Bar dell'Abisso!"
 	9568E44245A5C1B5E7D2DD9E254B0E13 = "Annuncio: Birra di Morkite! Ha ciò che un nano brama!"
@@ -1878,7 +2028,7 @@ Ma ben fatto. :D
 	746551A1442BB60C70887389306CBE97 = "Annuncio: Le unità M.U.L.E. non sono nè senzienti nè animali da compagnia. Chiamarli "Molly" non influenzerà la programmazione del MULE."
 	6F044BB848EBDA1BC56FFDB90965B4FA = "Annuncio: il poligono di tiro è attualmento chiuso per manutenzione. La Direzione ricorda ai dipendendi di non allenarsi a sparare da nessuna parte a bordo della stazione."
 	E82365B2495912F596DA23ABD0815AC7 = "Annuncio: Il tuo Equipaggiamento può essere personalizzato e migliorato dal terminale di Selezione Classe nei vostri alloggi privati."
-	5CDF4D02428CEFD5EEA1FBB669567A35 = "Lavoro accettabile, Minatore. Sarai un'ottima risorsa per le nostre operazioni, e la Direzione sarà contenta di sapere che la fiducia riposta in te era corretta. Ritorna alla base e ti butteremo nella mischia in maniera appropriata. Premi il bottone sul M.U.L.E. per chiamare la Capsula di Salvataggio."
+	5CDF4D02428CEFD5EEA1FBB669567A35 = "Lavoro accettabile, Minatore. Sarai un'ottima risorsa per le nostre operazioni, e la Direzione sarà contenta di sapere che la fiducia riposta in te era ben spesa. Torna alla base e ti butteremo nella mischia in maniera appropriata. Premi il bottone sul M.U.L.E. per richiedere una Capsula di Salvataggio."
 	41CD334F48E33C280CFABC8A78F9CC9C = "Server con Password"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "Presentate i vostri omaggi, - fate silenzio!"
 	3C9AEF9F46FF592951C327902D9C195C = "Pesca"
@@ -1917,7 +2067,7 @@ Ma ben fatto. :D
 	0DBC11CE48EB0479C8A7A99469A97850 = "Piattaforma!"
 	4B626AC0412D26C70065C1A6283D8E7D = "Piattaforma!"
 	A117C05E4D5A926CED2558BE893AEF7C = "Piattaforma!"
-	8A16CF354599757A1B94C39D6D2559EA = "Riproduci"
+	8A16CF354599757A1B94C39D6D2559EA = "Play"
 	741BD55D4E5B0C462C264AABB6B873A4 = "Giocatore"
 	785D9C5B457170C98F25A898CAD6F1F2 = "Nome Giocatore "
 	7146C8E64854C0DB498B70AF7625379C = "Grado del Giocatore troppo basso!"
@@ -1927,7 +2077,7 @@ Ma ben fatto. :D
 	1CB75EE6416B7F8686660C930A229145 = "Fate silenzio per favore. Mostrate un po' di rispetto."
 	839C93D647EF36AFF6B71FB403C3815E = "Per favore! Salvatemi!"
 	C4E20D2142F8751DF7FA3B96D7E6CABA = "Perfavore, Sparategli!"
-	4EEB6F2F41383E0F3E29D685EB0D6486 = "Punto di Estrazione"
+	4EEB6F2F41383E0F3E29D685EB0D6486 = "Estrazione su Punto"
 	E27A6F004216FCE63C417294415228D0 = "Spore Velenose di Fungo"
 	710E540A420D82802A5CCBBE5F3A2202 = "I gas velenosi non sono più una minaccia."
 	7F4E90704091594A25B822B1CF9E108E = "Esplodete quell'Insetto Premio!"
@@ -2044,7 +2194,7 @@ VELOCE"
 	4DBF5FCA46C226DAF720B49F54DF6805 = "Ricarico! Datemi copertura!"
 	C9DD9C3749680AF60B1F0EBA022F9A90 = "Ricarico! Datemi copertura!"
 	D0B9772242CFC839ABDD478D638A0415 = "Ricorda di guardare in alto! Potrebbero esserci degli schifosi insetti sul soffitto."
-	15C102484C0E9A6961FBC4A248F56025 = "Ricorda di lanciare i bengala. Si ricaricano automaticamente col tempo, quindi non farne scorta!"
+	15C102484C0E9A6961FBC4A248F56025 = "Remember to throw flares. They automatically recharge over time, so don't hang on to them!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "Ricorda, le sanguisughe di caverna non hanno paura di te come tu di loro!"
 	046C7D9F4E22D85C44E58984A38E9634 = "Resettare i Progressi"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "Resettare i Progressi"
@@ -2241,7 +2391,7 @@ Personaggio"
 	075479CB45BF3835DE1846A51811C954 = "Mostra contatore FPS"
 	3127F8A540D246D860D961AD1DBF602F = "Mostra HUD"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Mostra ai tuoi amici cosa hai trovato"
-	D0E809FE415757354E08C9A6C291E826 = "Mostra la tua graditudine o semplicemente dì ai tuoi compagni di squadra quanto siano fantastici!"
+	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammates how awesome they are!"
 	74B817F049005FEE695B2694908686FE = "Login Cambiato"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Registrati al nostro Gruppo Steam sotto per far parte della Community e tenerti aggiornato con noi mentre espandiamo il gioco - e reclama la tua ricompensa di 5.000 crediti in-game per dare una grossa spinta per i tuoi primi giorni di lavoro nelle miniere di Hoxxes IV!"
 	C26B43B84BB1149261499DB1FBD9F2DB = "Disconnesso"
@@ -2335,7 +2485,7 @@ Personaggio"
 	969223DA47B497E8B142FDB5A2075C54 = "Inizia una missione al Terminale di Missione, per abilitare gli iniviti agli amici"
 	8CB01FD7428A5102A341A7A96988E382 = "Iniziando"
 	2D636E344F707B36EB2B3AA8E516C68A = "Deposito"
-	59E6504B406478818178C89B73CA7111 = "Deposito"
+	59E6504B406478818178C89B73CA7111 = "Malloppo"
 	2F1EB9744B4AD8AFE3833DA2F91CEBEF = "Stat / Info"
 	AEC7363F4A6D0B5400F61FBCA5AD7EBF = "Stato"
 	17A16DC946BDED47290EB29361E74088 = "State lontani da qui!"
@@ -2409,7 +2559,7 @@ MISSIONE"
 	ED75CE1E40047A1B14DA27B4B2C53A0D = "Visore Tattico"
 	D381B989496ECB8C8C166E82CDA4E577 = "Prenditi cura di questo!"
 	F72D88994C1FB1AADD0142BE9C0913F4 = "Tiralo fuori!"
-	21DAE7D7486709617DC21592C24B4BD8 = "Eliminate quella Covata Nexus!"
+	21DAE7D7486709617DC21592C24B4BD8 = "Eliminate quel Nucleo dello Sciame!"
 	11BBF9744B95BBE028D58DB779AEF6B0 = "Prendi precauzioni!"
 	C73025114FA5E25D51527D8F4131047E = "Prendi questo!"
 	6E38FBD54B1E774F2B95EDBF000A5439 = "Le taniche sono vuote!"
@@ -2448,7 +2598,7 @@ MISSIONE"
 	D8D7931E443383A63C43E9A7E52AFB83 = "Che dolci! Voi ragazzi mi state aspettando!"
 	362ED30C4AD07307A35888A0D4A0A104 = "E' così che si fa! Capsula da Sbarco in arrivo."
 	6C62877A4FC28993EBB79B9B128E9E58 = "Trivella a secco!"
-	DAAF8154434410C6498B0A97F4217D11 = "Ha esaurito le trivelle!"
+	DAAF8154434410C6498B0A97F4217D11 = "Trivella a secco!"
 	726B7CAF4E7A8D37416D93BBE6CA4260 = "Questo è quanto! Sacca piena!"
 	776924444DAF224BA16FD3940D2E3709 = "Questo è quanto! Sacca piena!"
 	4B7D8EDB4A1421BCED59FD9DB543E2F1 = "Ecco! Ho finito i bengala!"
@@ -2464,7 +2614,7 @@ MISSIONE"
 	B5F88B614F4D23D9FBB2E794B71A7DB9 = "Il MULE è al sicuro! Deep Rock Galactic vi ringrazia per i vostri sforzi. Iniziata sequenza di lancio! "
 	0E54BD364754EE0DF46F99855A112A8B = "Il MULE è al sicuro! Iniziata sequenza di lancio! Deep Rock Galactic vi ringrazia per il vostro ottimo lavoro! La capsula di sbarco se ne andrà con o senza di voi!"
 	BDC555B04347B711E259F19A7EC00A5F = "Il Rifornimento è qui!"
-	DFEB060D4B7C0AFD5807DEBF30B14B43 = "Le Fosse di Sale "
+	DFEB060D4B7C0AFD5807DEBF30B14B43 = "Le fosse di sale "
 	78928EBC43E2A77A5301029B10D91BA8 = "Le Fosse Salate di Hoxxes una volta erano le dimore di un enorme lago sotterraneo. Si è asciugato miliardi di anni fa e ha lasciato al suo posto dei depositi enormi di sale rosso cristallizzato. Sale rosso - anche se privo di valore - che è molto gustoso sulle omelette di Glyphid."
 	33B1565946D201DE6ABA13A14F4F75AE = "La Swanson"
 	714657794BFBC4A5FDE917A0D7985323 = "La Swanson"
@@ -2619,6 +2769,7 @@ MISSIONE"
 	7F0904144B148B62466080888AC77BEF = "Tipo"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "UI"
 	B9B8DF3947F5817463C75E91163945B2 = "Dimensione IU"
+	F2ECABD148A393EEFDEC94AB4D90BF7C = "AGGIORNAMENTO 9: TRAPANIAMOCI PIÙ TARDI!  - 09.03.2018"
 	8BE53EE144A719AF73F42DA29EDC1A49 = "MIGLIORA
 ATTREZZATURA"
 	57E6BB0F42206D722E6E1A866FC825D0 = "MIGLIORA ATTREZZATURA"
@@ -2659,7 +2810,7 @@ ATTREZZATURA"
 	DCFBD7324089FC4A26DAED8105688BB3 = "Manto Artico Superiore"
 	7032AA244E5FD6DEE82BE593FC832250 = "Usa"
 	4C00DDD243A216F0336201B7EB60440A = "Usa il Puntatore Laser per fare in modo che Bosco scavi i minerali e attacchi specifici avversari."
-	32E67FE9406320B0C0226FA6475494C3 = "Usa il Puntatore Laser per segnalare minerali, nemici e Punti di Interesse per i membri dela tua squadra."
+	32E67FE9406320B0C0226FA6475494C3 = "Use your Laser Pointer to mark minerals, enemies, and Points of Interest for your fellow team mates."
 	88ED55324ED7EDDD65B8768C6514E5D9 = "Utgghhbabab!"
 	10DA06984D53C8868A318FBB76C3C514 = "NEGOZIO COSMETICO"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "VOCI"
@@ -2671,7 +2822,7 @@ ATTREZZATURA"
 	67B818674B721E052DFEEF81146999D1 = "Veramente furtivo"
 	68B709344A8627F954B1E2B3BAF3458D = "Veramente furtivo"
 	809E655D4A757F85090DB4B6359A680D = "Visita il terminal di MIGLIORAMENTE ATTREZZATURA della piattaforma spaziale e spendi i tuoi sudati crediti per migliorare il tuo equipaggiamento!"
-	7ED249D745DD40186CB8C884C4A686F8 = "Visita il NEGOZIO COSMETICO per spendere i crediti e i minerali rari per ottenere barbe, copricapi e nuove armature."
+	7ED249D745DD40186CB8C884C4A686F8 = "Visit the VANITY SHOP to spend your credits and rare minerals to get new armors, headgear and beards."
 	2D2A6357468F84A1FE3FC982E155948C = "Chat Vocale"
 	26B91DA946637579724DD58AA270B500 = "Volume Voce"
 	3EB811FD4977F29355F8FC8BD33CD50A = "Vrghh"

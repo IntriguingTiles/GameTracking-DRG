@@ -1,7 +1,7 @@
 19 namespaces
-2254 values
+2263 values
 
-Namespace Global (2870 keys)
+Namespace Global (2880 keys)
 	2559D78C40005E5221F26093CB976283 = " Samla in {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " KRÄVS"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -37,65 +37,65 @@ Namespace Global (2870 keys)
 	40BA2C6D48C0FFAD42755B8B530D8031 = "- Skannar -"
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "-Välj Uppdrag vid Uppdrags Terminalen-"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "-TERRÄNG SKANNER MK2-"
-	390133F54945CBDDE52B8898E7814A7D = "---Update 9: Patch Notes---
+	390133F54945CBDDE52B8898E7814A7D = "---Uppdatering 9: Ändringar---
 
-Mission End
-- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
-- Mission Failed now gives a 25% compensation reward based on minerals collected
+Uppdragsavslut
+- Överlevnadsbonusen är dubblad från 75 credits till 150 credits per överlevande spelare
+- Misslyckade uppdrag ger nu en 25% kompensations belöning baserat på hur mycket mineraler som är samlade
 
-Co-op sessions
-- Getting kicked now results in Mission Failed, compensation based on contribution
-- Added a new flow and info for Kicking and getting Kicked
-- You can no longer Join a session after Drop Pod has been called
-- You can no longer Kick a player from a session after Drop Pod has been called
-- Tweaked text on Mission Map in regards to new public/ private flow
-- Reworded Server List filter to Show Open and Show Password Servers
-- Add Private Server checkbox in escape menu
-- Added indicator for a joining player to team view 
+Co-op sessioner
+- Att bli utslängd resulterar nu i ett misslyckat uppdrag, kompensation baseras på hur mycket du gjort för laget
+- La till ett nytt flöde och info till när man slänger ut någon ur spelet eller blir utslängd själv
+- Du kan inte längre gå med i en session efter att Transportkapseln har blivit kallad på
+- Du kan inte heller slänga ut någon från en session efter att Transportkapseln har blivit kallad på
+- Justerade texten på Uppdragskartan för det nya offentliga/ private flödet
+- Reworded Server Listfiltret visar Offentliga servrar och Lösenordsskyddade servrar
+- La till Privat Server knapp i "Esc" menyn
+- La till en indikator för när en spelare anlsuter till lag vyn
 
-Solo mode
-- Bosco should now save you from the cave leeches more consistently
-- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
-- Bosco now has friendly fire reduction 0.2 instead of 1
-- Bosco Deals 100 % more damage (doubled from 3 to 6)
-- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+Solo läge
+- Bosco borde nu oftare rädda dig från grottiglarna
+- Bosco får nu hålla på med de stora lamporna. Han bara swishar förbi å sen är det ljusare än förut :)
+- Bosco har en minskning i friendly-fire från 1 till 0.2
+- Bosco skadar nu 100% mer (dubblat från 3 till 6)
+- Bosco får nu en 250% hastighetsökning när du beordrar honom att göra någonting. Det ökar också hans acceleration från 300 till 550
 
-Class Balance: Buffed the Driller’s tools
-- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
-- Flamethrower Range upped from 8.5m to 10 m
-- Power Drills: Fuel upped from 30 to 35
-- Increased walk speed while drilling with 10 %
-- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
-- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+Klass Balansering: Buffade borrarens verktyg
+- Eldkastarens bränslekapacitet har blivit större och håller nu från 160 till 270 enheter, och varje tank håller 90 istället för 80 enheter. Detta betyder att eldkastaren har nu bränsle för tre fulla omladdningar istället för två, och varje omladdning har mer bränsle.
+- Eldkastarens räckvidd ökad från 8,5 m till 10m
+- Kraftborrarna: Bränsle ökat från 30 till 35
+- Ökade gånghastigheten medans man borrar med 10%
+- Slåskadan med borrarna: Attackhastigheten har blivit dubblad medans skadan som ges från varje attack har sänkts från 10 hp till 8 hp. (För att kompensera för dubbel attackhastighet)
+- Uppgraderade borrarnas skada: Sänkt från 5 hp till 4 hp (för att kompensera för dubbel attackhastighet)
 
-Intro screen
-- Added patch notes (this text) to Intro screen
-- Text & Button for Steam group no longer shown when rewards have already been claimed
+Intro Skärm
+- La till ändringsloggen (denna text) till intro skärmen
+- Text & Knapp för Steam gruppen visas inte längre om belöningen har blivit tagen
 
-Sound, Effects & Animations
-- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
-- New Spitballer sound and Maggot sound
-- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+Ljud, Effekter & Animationer
+- Sysslolös animationer på Pistol och Revolver (också triggrad av Omladdning vid fullt ammo)
+- Nytt Spottbollar ljud och Maskljud
+- Ändrade eldkastarens rök tillbaka till svart... Den var vit, och det var ett misstag.. Nu ser den asgrym ut igen!
 
-Caves
-- More cave shapes added to the random generator.
-- More randomness on existing cave shapes.
-- New sticky web environmental hazard. Don't get caught!
+Grottor
+- Fler grottformer lades till i random generatorn.
+- Mer slumpmässighet på de nuvarande grottorna.
+- Nytt klibbigt spindelnät som en naturlig fara. Fastna inte!
 
-Localization
-- Added language selection to Intro screen
-- Croatian, Finnish, Italian and Japanese added
-- All languages updated (as usual new features lagging behind, will show English)
-- Updated community translator credits
-- Added missing characters for Polish language.
-- Some buttons with text did not correctly update after a new language was selected.  
+Lokalisering
+- La till språkval på intro skärmen
+- Kroatiska, Finska, Italienska och Japanska lades till
+- Alla språk uppdaterade (som vanligt som kommer oöversatta saker fortfarande visas på Engelska)
+- Uppdaterade gemenskapsöversättnings "creditsarna".
+- La till bokstäver som saknades från det Polska språket
+- Några knappar med text uppdaterades inte korrekt efter att ett nytt språk valdes.
 
-Misc Fixes
-- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
-- Key '5' is now available for custom key bindings
-- Fix Late Join crash if joining right when the level ends. 
-- Fixed: you can no longer edit the Hint text while loading! 
-- Maptool not updating correctly when terrian changes
+Övriga Fixar
+- Klädföremålen visades ibland inte korrekt på dvärgen i terminalen.
+- Knappen '5' är nu tillgänglig i de anpassade kontrollinställningarna
+- Fixade Sen Anslutning krash om man ansluter precis när banan tar slut.
+- Fixade så att man inte längre kan ändra på Ledtrådstexten medans spelet laddar
+-Kartan uppdateras inte korrekt när terrängen ändras
 "
 	610A35A6460AE74E8D2B5B9D80081A9A = "...Det är inte ett vapen om det inte väger mer än 100 pund."
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
@@ -121,7 +121,7 @@ Misc Fixes
 	A51AF99C49FC325E4128D4BB8F23F943 = "En pålitlig, rejäl vapen. Oftast inte det första valet av rediga dvärgar, men vikten och tillfredsställandet av ett boom gör det värt."
 	86A03D794F56F55E13FFD190FE8F3031 = "En dvärg dör aldrig!"
 	1D1DC6B34CA7252027F1308C86BBC410 = "Ett schysst headset"
-	480773904FD27F2E9379F09E955BE19C = "A powerful projectile launcher that shoots high-intensity, adhesive flares. The flares can attach to even the hardest material."
+	480773904FD27F2E9379F09E955BE19C = "Ett kraftfullt projektilgevär som skjuter riktigt starka, klistriga facklor. Dessa facklor kan fastna på t.o.m. de hårdaste materialen."
 	8D3766704F365EA7980CAB845A6D0848 = "En praktisk kompromiss"
 	F03E93AD4CD752D828C09F9814300F00 = "Ett sekundärt uppdrag har uppnåtts. En bonus kommer överföras till dina konton vid uppdragets slut."
 	A72EC7794D5F340CBDA4D8A29B20BA85 = "En liten, lätt halvautomatisk för små, lätta dvärgar. Mer dödligt än det verkar."
@@ -157,7 +157,7 @@ Misc Fixes
 	2F15FDAB410411F3DD4F8DB0F8EF1F50 = "Mörkrädd? Var inte det, du har mig."
 	AB720B0A418C85C6D5C63C91ACAA718E = "Sikt Acceleration"
 	8789350B4D1E22B62CE45F9EFB77C6AC = "Sikt Känslighet"
-	A2ACC65C4BD62728ECB2B487772A6F22 = "Är inte något hinder som jag inte kan klara!"
+	A2ACC65C4BD62728ECB2B487772A6F22 = "Finns inget hinder som jag inte kan klara av!"
 	AB387E9A4B520EEAEECF3FBF5A06A15E = "Luft Gejser"
 	4CAD157442019837A2C311AEAFED311C = "Alien ägg (Oidentifierat)"
 	0896812A4B8770DEF814CCB05720B44A = "Utomjordiska Växter"
@@ -258,7 +258,7 @@ TERMINAL"
 	2223EE0D4985A95F10018887FEF4F431 = "Kräken fick mig!"
 	CB5F425341AB471F0B9AA6B9D64DA644 = "Kräken fick mig!"
 	2EBD5AB5461DBCF508E0CE877D006A37 = "Är det ett hinder eller en riktigt tjockskallig motståndare så får oftast en fin liten sprängladdning jobbet gjort. Ha ett rejält avstånd från den innan du klickar på avtryckaren."
-	A053E21A49434406567922AEB7F4ABE6 = "Vara tyst och visa din respekt till de fallna!"
+	A053E21A49434406567922AEB7F4ABE6 = "Var tyst och visa din respekt till de fallna!"
 	AE51DFF144C0CA34C76638B6C3859053 = "Skägg"
 	75EE201A4C886BBBDDF9F993134F8124 = "Berggrund"
 	5BA9A3F24C95A6C30CE6119F7A2AC1A9 = "Stor svärm upptäcks. Förbered er."
@@ -572,7 +572,7 @@ Jord blockerar alltid en tunnel!"
 	E7463CB8457274C844EC6E82D93634CC = "DRG: Broderskap. Utmaning. Vinst."
 	B022254E4A8509B5A4B60C88547933AD = "DRG: Tillsammans smider vi morgondagen."
 	659F86C14FC51F0A934A859EDA3ABAF2 = "DRG: Tillsammans kan vi stå rakryggade!"
-	4FB31F3448809142AFCC94BB01B011BE = "DRILL YOU LATER!"
+	4FB31F3448809142AFCC94BB01B011BE = "BORRAR DIG SENARE!"
 	C5A231D144D11797B0F13D8D7CC5B55A = "BORRARE"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "BORRARE"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "BORRAR STATY"
@@ -633,7 +633,7 @@ Jord blockerar alltid en tunnel!"
 	27BD00D248928CF75219E3B91E7D62FF = "Förgör spottbollaren"
 	6D532B7A48E438DE0F326A893356AB5B = "Förstör skaparen!"
 	365B4EE849613390A5B79FA6B156A637 = "Detonations Paket"
-	A4FA00164668543073CC25B813BDAA2F = "Detonation Lyckad!"
+	A4FA00164668543073CC25B813BDAA2F = "Lyckad Detonation!"
 	70BED7904D1D033440D647BC04BC7D2A = "Detonation avrättades!"
 	A3A181DF4AA030A80D841C8240F2C598 = "Detonation avrättades!"
 	41D242CA429F2FF60FE943A761A436EA = "Diamanter!"
@@ -798,7 +798,7 @@ Jord blockerar alltid en tunnel!"
 	35C67A644D89A777FBF3F6A0AB186201 = "Beräknad tid"
 	5FDE6E4B4587A781262BF0984C90049E = "Varje gång en dvärg går upp i nivå så tjänar du ett poäng till din rank. 
 När du har samlat 4 poäng så ökar din spelar rank."
-	A51190624912F34F9628E7A7B19C1047 = "Alla behöver minst en av dom!"
+	A51190624912F34F9628E7A7B19C1047 = "Alla behöver minst en sån!"
 	CBD59AC44C2076F565A1E886D676FC7B = "Alla! Jag kan få lite uppmärksamhet!"
 	D62951114D9565B434339588C7C41CCD = "Utmärkt. Transport Kapseln inkommande."
 	5A1EAE5A4AD687C2C84AFFA2A4B75BA7 = "Exemplariskt arbete. Ni har uppnått era mål på rekordtid. Skicka iväg Borrhuvudet och vi skickar in Flyktburken."
@@ -807,6 +807,7 @@ När du har samlat 4 poäng så ökar din spelar rank."
 	14E9CFFA456B38B15AAD3C812FE0BA07 = "Avsluta och gå till Skrivbordet"
 	AA09D158453C1D6160A530B89F427E90 = "Avsluta och gå till Skrivbordet"
 	6B380AC14868B3F08D94A2B9E528804A = "Expanderar lättantändligt bränslekapacitet"
+	F98839FD4F3D2713E79C71AF54487839 = "Exploder_Presentation"
 	2760B4D24420248535423580CAF28CB6 = "Exploderande Växt"
 	6300ABC04493A303425600A49902DD69 = "Explosive Kärna"
 	7783085749CD0CDC322970917E01C05D = "Sprängämnen placerats!"
@@ -1086,11 +1087,11 @@ BANA"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "HÅLL [Laserpointer] FÖR ATT FÅ UPP LASERPEKAREN"
 	565BE2CA4157D153FE965A8438508B5B = "HÅLL [Laserpointer] FÖR ATT VÄLJA EN PUNKT TRYCK SEDAN PÅ [Fire] FÖR ATT GÖRA EN MARKERING"
 	74486D6942276263895A82B17BFF003E = "HÅLL [Laserpointer] FÖR ATT VÄLJA EN PUNKT TRYCK SEDAN PÅ [Fire] FÖR ATT GÖRA EN MARKERING"
-	96A8E6A14FEFCD974370709BCCF5FA74 = "HÅLL [Laserpointer] FÖR ATT VÄLJA EN PUNKT, SEDAN TRYCK PÅ [Fire] FÖR ATT GÖRA EN MARKERING"
+	96A8E6A14FEFCD974370709BCCF5FA74 = "HOLD [Laserpointer] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	7C4704B14AAD52938BA369B2BF3D358B = "HÅLL [Shout] FÖR ATT FÅ UPP LASERPEKAREN"
 	C8D9A6484B38D1A68FDCA1A7ADC4D8E8 = "HÅLL [Shout] FÖR ATT PEKA OCH TRYCK SEDAN [Fire] FÖR ATT FÅ BOSCO ATT INTERAGERA"
 	F4DE0706460FD4BBF961D8BA2846ECE9 = "HÅLL [Shout] FÖR ATT PEKA OCH TRYCK SEDAN [Fire] FÖR ATT FÅ BOSCO ATT INTERAGERA"
-	119D95F84C45A60432C6B2AD12B9E156 = "HÅLL [Shout] FÖR ATT VÄLJA EN PUNKT, SEDAN TRYCK PÅ [Fire] FÖR ATT GÖRA EN MARKERING"
+	119D95F84C45A60432C6B2AD12B9E156 = "HOLD [Shout] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	E949901E4D390B0F929A60AD688B7FDE = "ENBART VÄRDEN"
 	8EB05D1D4CAC8EA907FF9CB896638929 = "SKAPA PRIVAT SPEL"
 	78AA4598413B0966965A5B81CD0CC24E = "SKAPA OFFENTLIGT SPEL"
@@ -1119,6 +1120,100 @@ BANA"
 	8730107B4ADA8EC423D3D5838AAA73D0 = "Tung excavation'... är inte någon finare sak."
 	D3CEDD9D421BA88578276D96147F751E = "Tungt guld!"
 	E9C145334D951620DCD4DBBD545322E2 = "Hell yeah!"
+	FB030C5E408CAF6B057043A6929F5689 = "Hello Miners!
+
+Deep Rock Galactic has now been in the wild for 1 week. We have finished celebrating the awesome launch (yeah!) and are now hard at work getting new updates out and planning the future. Inside the game, we have a nice feedback button, and a big thanks to the thousands of you who have already taken advantage of this. It’s an extremely big help.
+The feedback tells us we are definitely on to something good here, but it’s equally clear we have some we also hot topics that need some immediate love. First iteration of Key Bindings went in through the previous patch, and this time we have focused on fixes for the Kick feature, tweaks to the Driller and fixing Bosco's inability to kill Cave Leeches. All of these and MANY more are in the new update. You can scroll down and see all the patch notes below. 
+
+--- Driller Buffs ---
+The Driller is probably the most unique class in Deep Rock Galactic, so we were sad to see our iconic drilldozer valued below the other three classes in usefulness. Therefore, we have tweaked both his Flamethrower and Drills. In the detailed patch notes below, you can see the exact stat changes, which might also give you some hints on how to better utilize the Driller.
+
+--- Payout on Mission Failed & Kicking ---
+Two issues pretty quickly started to show themselves: Dissatisfaction with the way we’ve handled a Mission Failed scenario in regards to payout, and the fact that players could be kicked from the team at any given time. We’ve worked out a first pass on a solution for both these, as listed below:
+
+Firstly, it used to be that failing a mission meant NO payout at all. Now, failing a mission will give you a compensation of 25% of the minerals stored in Molly at the time of the mission ending. 
+
+Secondly, getting Kicked from a team will result in a Mission Failed case, where you will receive compensation based on what was added to Molly since you joined that session. 
+
+It is now no longer possible to Join or being Kicked from a team once the Drop Pod has been called and the final countdown has begun. This is a test for now and we’ll monitor the outcome - and it’s a pretty easy fix, so we can quickly backpedal if needed.
+
+Also, it is extremely important to understand how Mission Complete works. You might think that the rewards are split out between survivors. They are not. We calculate the total and then each player in the session gets that same reward, regardless of the size of the team. On top of this, each surviving player adds a Survivor Bonus, which has been boosted also. “Leave No Dwarf Behind” should be the ethos here - the more players manage to get out alive, the greater the bonus for all involved!
+
+
+
+
+We have elected not to implement vote-kicking with this update, despite some players asking for it. It’s a fair bit of work to implement, and we are not completely convinced it is the way to go at this point. That said, there are good arguments both for and against this feature, and we will continue to monitor the situation. The same goes for a vote button on Molly. 
+
+--- Bosco ---
+Detailed in the patch notes below, Bosco has received a fairly significant buff, and his ability to kill Cave Leeches should have been improved. We write “should” since this issue will need further work to squash fully, but it should at least be a better experience all round now.
+
+--- Trading Cards ---
+This one is a bit embarrassing. Turns out you have to manually have to publish the Trading Cards when you launch a new game on Steam. Whoops. The good news is that they are implemented now and await harvesting!
+
+
+--- Roadmap ---
+Midweek, we had a big feedback meeting here at the Ghost Ship office. We’ve gathered all the feedback from you, the players, as well as feedback from the dev team and our partners. There are SO MANY cool things we can and will do to expand Deep Rock Galactic. Task for now is to choose which ones go in the game, and in which order, and we plan to reveal a greater and more comprehensive road map for the coming months over the next few weeks. 
+
+--- Patch Notes ---
+
+Mission End
+- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
+- Mission Failed now gives a 25% compensation reward based on minerals collected
+
+Co-op sessions
+- Getting kicked now results in Mission Failed, compensation based on contribution
+- Added a new flow and info for Kicking and getting Kicked
+- You can no longer Join a session after Drop Pod has been called
+- You can no longer Kick a player from a session after Drop Pod has been called
+- Tweaked text on Mission Map in regards to new public/ private flow
+- Reworded Server List filter to Show Open and Show Password Servers
+- Add Private Server checkbox in escape menu
+- Added indicator for a joining player to team view 
+
+Solo mode
+- Bosco should now save you from the cave leeches more consistently
+- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
+- Bosco now has friendly fire reduction 0.2 instead of 1
+- Bosco Deals 100 % more damage (doubled from 3 to 6)
+- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+
+Class Balance: Buffed the Driller’s tools
+- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
+- Flamethrower Range upped from 8.5m to 10 m
+- Power Drills: Fuel upped from 30 to 35
+- Increased walk speed while drilling with 10 %
+- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
+- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+
+Intro screen
+- Added patch notes (this text) to Intro screen
+- Text & Button for Steam group no longer shown when rewards have already been claimed
+
+Sound, Effects & Animations
+- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
+- New Spitballer sound and Maggot sound
+- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+
+Caves
+- More cave shapes added to the random generator.
+- More randomness on existing cave shapes.
+- New sticky web environmental hazard. Don't get caught!
+
+Localization
+- Added language selection to Intro screen
+- Croatian, Finnish, Italian and Japanese added
+- All languages updated (as usual new features lagging behind, will show English)
+- Updated community translator credits
+- Added missing characters for Polish language.
+- Some buttons with text did not correctly update after a new language was selected.  
+
+Misc Fixes
+- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
+- Key '5' is now available for custom key bindings
+- Fix Late Join crash if joining right when the level ends. 
+- Fixed: you can no longer edit the Hint text while loading! 
+- Maptool not updating correctly when terrian changes
+"
 	A443FA134FE39088BA757F8F84D0ADC9 = "Hejsan och Adjö!"
 	F5EAAC5340766A2A9FC2DF8B49239CB2 = "Hallå och välkommen!"
 	9123FB854DBBEB874DCDE2895775FB52 = "Hallå!"
@@ -1128,12 +1223,12 @@ BANA"
 	02F88C2D41AC58CB8E4F73941BA9DA59 = "Kom och hjälp mig era jävlar!"
 	95697E3E4805B9FB2F4D4392B5CB099C = "Hjälp! Jag är fast i taket!"
 	FD1F650140D5BC7C000D4391C6713062 = "Hjälp! Jag är fast!"
-	A215EC224F96CCFEC27AFAA41AEA8691 = "Hjälp! Vänligen Skynda!"
+	A215EC224F96CCFEC27AFAA41AEA8691 = "Hjälp! Snälla Skynda!"
 	F063232D46C6A3EF1825FF82DA8102C2 = "Hjälp! De har tagit mig!"
 	FAB7308549A0EB55B566ECB7EE71E6C6 = "Henrik Edwards"
 	5348E01E455759BA56C94A81BF6EAD17 = "Här kommer jag!"
 	5B9DBF5242786E6D2FDE8F8237449508 = "Här kommer det!"
-	9E009846470B35F90AD994B80622D8B2 = "Här går vi igen!"
+	9E009846470B35F90AD994B80622D8B2 = "Nu kör vi igen!"
 	3C3DFD4645EED523B98CDC9B5EFD2570 = "Nu kör vi!"
 	EFE4C0CD4894D5F63EE58C852EF22D50 = "Nu kör vi!"
 	0950F10E4B9516FF9FF0949EBDB442A7 = "Varsågod! En kula i nyllet!"
@@ -1196,7 +1291,7 @@ BANA"
 	6425493B4EF2C236F4FC19987541A529 = "Jag är har inte hela dagen! Dags att gå! "
 	44670620493E470D3343C18289458F1F = "Jag ropade för Molly!"
 	FC1B0AA34DA3A072307323B4AC89F218 = "Jag kallade på mulen!"
-	A55AC19B410B61E4EFB1E08B9F375236 = "Jag kan gå var som helst, när som helst."
+	A55AC19B410B61E4EFB1E08B9F375236 = "Jag kan ta mig var som helst, när som helst."
 	EF4773074F70EF1EBDEE5085ED0A53E6 = "Jag kan använda en hand här!"
 	06E72B7145794EFF694230B533A19B6D = "Jag kan inte bära mer!"
 	D1E0B9C245BA0F50DBBDCABB45D1CCDF = "Jag kan inte bära mer!"
@@ -1206,7 +1301,7 @@ BANA"
 	157FA088419D9C91E58C63AAD9DA8683 = "Jag käkar sten till frukost!"
 	635BE21B4BA5625303953DAAAA80400A = "Jag får lust att dansa!"
 	5AD0BC664981269E548F0EBE6E9B4A29 = "Jag känner mig levande!"
-	9F633AA6486350D51EE7BE8689F46805 = "Jag har hittat en guldådra!"
+	9F633AA6486350D51EE7BE8689F46805 = "Jag har hittat en guldåder!"
 	EAA746F24ED1C89162E1C3A592195165 = "Jag har hittat en guldåder!"
 	7A0C1BD34FB11C47B886188B71CC5756 = "Jag hittade ett byteskryp!"
 	3F47526F476E585DF1F0BA9D94D1C64D = "Här är en mask! Trampa inte på den!"
@@ -1215,7 +1310,7 @@ BANA"
 	F4B88F0940CFB0E723A6F3BAE5F7B252 = "Jag hittade diamanter!"
 	3F8FAE7D4E6FDF3B130490825D04A727 = "Jag hittade opaler!"
 	78500D324C23249897156D968789396D = "Jag hittade opaler!"
-	9F0EA30C47FA71BACF8F8494FC92AAD2 = "Jag har hittat morkite!"
+	9F0EA30C47FA71BACF8F8494FC92AAD2 = "Jag har hittat lite Morkite!"
 	C829562D42CE8409C45392B9878139A0 = "Jag hittade lite dystrum!"
 	4CC7C881415DD5A8E34CA7BD4AC6C1CF = "Jag har hittat rött socker!"
 	E86B532045D0F75C05BE0EAD8E0C11CE = "Jag har en Zipline redo här!"
@@ -1405,7 +1500,7 @@ HÅLL ER TILLBAKA!"
 	3C117BFD4C41C3D2DC6565B241F1B301 = "Nödriggat Hagelbrak"
 	08BFA3054CC84B0C1894C9816D5B3421 = "Bara Hår"
 	F31B75F548FC537AF855C688187CFC65 = "Bara Hår"
-	668E416F46D9AF9A2F0C289C99C5579B = "Följ bara de blinkande lamporna som M.U.L.E. lämnar bakom sig när ni ska tillbaka till Transportkapseln."
+	668E416F46D9AF9A2F0C289C99C5579B = "Just follow the blinking markers the M.U.L.E. leaves behind when it is returning to the Escape Pod."
 	2B0D29E9465FD20F7DE22C9BCBF00899 = "Visa mig bara var jag ska skjuta!"
 	6BF497F3455C1E2E0A86C4A891997F53 = "Visa mig bara var jag ska skjuta!"
 	C1CFE7224A1EF9B09DE599AADA0C25AD = "Ta bara din tid gammal dam! Jag har hela dagen!  "
@@ -1567,10 +1662,11 @@ HANDLEDNING"
 	AF650F2D4B082C329CA8C0840CCEE494 = "UPPDRAGS TYP"
 	F796BFE347F3BA01452206AC4872474B = "UPPDRAGS TYP"
 	5A97B93746FC4C376184DB8379F3A16E = "UPPDRAGS TYP:"
+	F3E4D5AD44025221613F32B9CA408A82 = "MIXER Interaktivitet"
 	300813E345F6E27BBD08D59F8912E033 = "Mk1 Borrdräkt - Black Crag"
 	5469681647091B9FEC981886E6D9E619 = "MK1 Borrdräkt - Standard"
 	3E79134E4413AB91E9168CB8FAEAAB74 = "Mk1 Borrnings kostym - White Knight"
-	A125816345481EA47D41B6B3D4C4B761 = "Mk1 Skytt kostym - Black Crag"
+	A125816345481EA47D41B6B3D4C4B761 = "MK1 Ingenjörsdräkt - Black Crag"
 	DE64E6584652E8E758B71D846C7C9658 = "MK1 Ingenjörsdräkt - Standard"
 	544528D74EA7ABE81BEA60B49D89DB2C = "MK1 Ingenjörsdräkt - White Knight"
 	74FF4F2740E9A017F9F21CADD1344A08 = "Mk1 Skytt kostym - Black Crag"
@@ -1615,7 +1711,7 @@ HANDLEDNING"
 	49C7FAD249FE20FAC73765B876BBE29F = "Magnite"
 	A37C1AE94F895FFB3C5698B9AE07AD71 = "Magnite"
 	DD9FFD334C6C1685E265D581F44E4E20 = "Få varje kula att räknas!"
-	A51EEEFB4420187B9DA5F1B52C0E3844 = "Gör en insättning!"
+	A51EEEFB4420187B9DA5F1B52C0E3844 = "Lastar av!"
 	EAF8D705460511DF6BD366B992833E71 = "Gör en insättning!"
 	59367B3E408977420445739971EEE004 = "Obligatorisk Uppdatering Tillgänglig"
 	733C15B24399675475D0C9A08A57F964 = "Karta"
@@ -1627,7 +1723,7 @@ HANDLEDNING"
 	6A867F3B4701238194FE0B8397953862 = "Massivt skägg"
 	70AB43634943CB562C3AADBA758D1F1D = "Massivt skägg"
 	73A1C87A4E7511F76747E5A98B997606 = "Massivt skägg"
-	A48D3EBB455A194C282A898E330A58DA = "Huvud Volum"
+	A48D3EBB455A194C282A898E330A58DA = "Huvud Volym"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "Matchning Misslyckades, försök igen."
 	3687A13B4D40D996CA1B6AACC84DE076 = "Matchning..."
 	CDDD25D9426F2657E84B4C8D95FCEF53 = "Maximum Ammunition"
@@ -1707,8 +1803,8 @@ HANDLEDNING"
 	A16DABD64A7B24C75F47F99D995DEB8B = "Morkite hittat!"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Morkite kvotan uppfylld! Det var första klass gruvdrift, team! Fly knappen på M.U.L.E. har aktiveras."
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite!"
-	79C599094EB6D6E6E02200AFC58E0859 = "De flesta fiender har svaga punkter där dina kulor göra mer skada och några fiender har exoskelett, där dina kulor inte gör någon skada. "
-	44A3445A484377F58C5D6BBC70FFECF8 = "Muskänslighet"
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points where your bullets do more damage and some enemies have exoskeletons, where your bullets do no damage. "
+	44A3445A484377F58C5D6BBC70FFECF8 = "Mouse Sensitivity"
 	5553884E4B6E6F00ADC8F985F6F4219A = "Rör på påkarna! Vi kommer ner på planeten strax!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "Framåt!"
 	30D2A4894E6CF7E90329B7ACCA48A50A = "Undan! Snart smäller det!"
@@ -1717,7 +1813,7 @@ HANDLEDNING"
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "Mycket bättre!"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "Mycket bättre!"
 	CD169B8F4540D97173D1A180A5C920B4 = "Flerspelarsession avslutad"
-	80DCF1564FE0AF32ACCD80B57941FEA6 = "Flera dvärgar som jobbar tillsammans kan rädda en skadad dvärg snabbare än en."
+	80DCF1564FE0AF32ACCD80B57941FEA6 = "Multiple dwarves working together can revive a downed dwarf faster than one."
 	8F3B09024FA15B01CDF7FC924324A846 = "Muscari Angustifolia"
 	EAB190A647BE3478A66B8FAAFB6A4C9E = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "Svamp!"
@@ -1799,6 +1895,7 @@ HANDLEDNING"
 	F86AB84447C9C6F900B626A385ED9459 = "Målet avklarat! Skicka Borrhuvudet när ni är klara."
 	30F0F03D4688BD978B57B1875B4DC848 = "Mål komplett! Tryck på knappen på MULE när ni är redo, och vi skickar transport kapseln för att hämta er."
 	8FA9AE9342767D5974DA5CADCCB22253 = "Mål komplett! Tryck på knappen på MULE när ni är redo, och vi skickar transport kapseln för att hämta er."
+	F4DDB320497C12A9535E318E7C0EDE2F = "Målet avklarat. Uppskjutningskontrollerna är aktiva och väntar på din signal. Nu tar ni er hem, gubbar."
 	188C8D0C4F4889FB92465E82CA64B562 = "Mål Material"
 	4BA4444640F78D6541AE3F9F84B0626C = "Mål Material"
 	4829ACDD410E23651DFFE886EF42BF50 = "Mål komplett, bra gjort! Återvänd-knappen på MULE har aktiverats! "
@@ -1883,6 +1980,7 @@ HANDLEDNING"
 	C79595634378DAEEAB740BB8AF143D3B = "PLANETÄR REGION"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "PLANETÄR REGION:"
 	C21850D74844EA192C1FCEBA601C6261 = "PLANETÄR REGION:"
+	6837936E4EFB82CBEF489FAD5C73FE96 = "PLEASE NOTE! You do not earn a bigger mission reward by kicking players! Actually you will loose the survival bonus from this player!"
 	E4DEE1334E397283E5AADFA084AE3366 = "VÄNLIGEN ÅTERANSLUT HANDKONTROLLEN"
 	2276DA03429396713203CBAC6EF3C810 = "KAPSEL ANLÄNDER"
 	0E40CA4047102A62E43D82B23E361885 = "AFFISCH"
@@ -1891,18 +1989,18 @@ HANDLEDNING"
 	F3155C474EF53C36803B23875CCECF17 = "TRYCK PÅ VALFRI TANGENT FÖR ATT FORTSÄTTA"
 	A7FA5FB342C218181CDE8DADE821FD8F = "TRYCK PÅ VALFRI TANGENT FÖR ATT AVSLUTA"
 	680CF46F443D5BB1D62DEDB346CB9C4C = "TRYCK PÅ [CallDonkey] FÖR ATT KALLA PÅ M.U.L.E."
-	B8CCFBD24E3F27F250DB4698E51549C7 = "TRYCK PÅ [Equip4] TVÅ GÅNGER FÖR ATT VÄLJA LEVERANS KAPSELN SEDAN TRYCK PÅ [Fire] FÖR ATT BESTÄLLA DEN"
-	DA66CA3141162C3AF0D384B1DFD8A248 = "TRYCK PÅ [Equip4] TVÅ GÅNGER FÖR ATT VÄLJA LEVERANS KAPSELN SEDAN TRYCK PÅ [Fire] FÖR ATT BESTÄLLA DEN"
-	726A354D42D77EA0A34584944346937A = "TRYCK PÅ [Equip5] FÖR ATT VÄLJA LEVERANS POD SEDAN TRYCK PÅ [Fire] FÖR ATT BESTÄLLA"
-	9AD2FB414E12C8D2E3781DB47856BF5C = "TRYCK PÅ [Equip5] FÖR ATT VÄLJA LEVERANS POD SEDAN TRYCK PÅ [Fire] ATT BESTÄLLA"
+	B8CCFBD24E3F27F250DB4698E51549C7 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	DA66CA3141162C3AF0D384B1DFD8A248 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	726A354D42D77EA0A34584944346937A = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	9AD2FB414E12C8D2E3781DB47856BF5C = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
 	E501CABD480DE511EC843F83B6B411FB = "TRYCK PÅ [Fire] FÖR ATT BESTÄLLA"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "TRYCK PÅ [Flare] ATT KASTA EN BLOSSA"
 	E66F2965440023B51A13E5B5253ED0BC = "TRYCK PÅ [Jump] FÖR ATT FORTSÄTTA"
 	FD12F4A94EC35363633682B3B98ECBAE = "TRYCK PÅ [Jump] för ATT AVSLUTA"
 	54252A9A47A6776CFE924B93B30F5B44 = "TRYCK PÅ [Salute] FÖR ATT GÖRA HONNÖR"
-	0E6FDF684AF461D269E215A191289E87 = "TRYCK PÅ [Shout] FÖR ATT FÅ UPPMÄRKSAMHET"
-	3E8D5A1F49894E7918B4F0B70CB2D74F = "TRYCK PÅ [Shout] FÖR ATT FÅ UPPMÄRKSAMHET"
-	7619D8004800B2FB339A57AD814FA511 = "TRYCK PÅ [Shout] FÖR ATT KALLA PÅ BOSCO"
+	0E6FDF684AF461D269E215A191289E87 = "PRESS [Shout] TO CALL FOR ATTENTION"
+	3E8D5A1F49894E7918B4F0B70CB2D74F = "PRESS [Shout] TO CALL FOR ATTENTION"
+	7619D8004800B2FB339A57AD814FA511 = "PRESS [Shout] TO CALL FOR BOSCO"
 	7FABFBA24AAC4686FB3FCC9420150CF7 = "PRIVAT SPEL"
 	E6CE771943558977A67F7296A448F6B3 = "PROGRAMMERARE"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "Offentligt Servicemeddelande: En granatkastare hittades glömd i matbaren. Håll er säkra - Stuva vänligen bort allt tungt artilleri mellan uppdrag."
@@ -1924,8 +2022,10 @@ HANDLEDNING"
 	944DAC5B4D73C8FBC0ED9AB87CC951EA = "OBS: Tack vare insatser från våra anställda, serverar vi nu Glyphid-omeletter i mässen!"
 	0E9CBE1C48990EA84D67079DB5B1B126 = "Personligt servicemeddelande: Månadens anställd initiativet kör igång igen! Kommer det vara du?"
 	BF335478440D95B87C4D7F9E7AEE9869 = "VMA: Toaletterna på plan 4 är fortsatt stängda för omfattande renovering. Stoppet ej löst ännu."
+	6B5B41CA4F09D9D92BAF04AC083B330B = "OBS: M.U.L.E. enheter är varken husdjur eller har känslor. Att kalla dem för "Molly" kommer inte att påverka M.U.L.E. enhetens programmering."
 	746551A1442BB60C70887389306CBE97 = "OBS: M.U.L.E. enheter är varken husdjur eller har känslor. Att kalla dem för "Molly" kommer inte att påverka M.U.L.E. enhetens programmering."
 	6F044BB848EBDA1BC56FFDB90965B4FA = "OBS: Skutbanan är för närvarande stängd för underhållning. Förvaltningen uppmanar anställda att inte skuta deras vapen någon annanstans på stationen."
+	E82365B2495912F596DA23ABD0815AC7 = "OBS! Din utrustning kan bli anpassad och uppgraderad från Välj Klass terminalen i ditt personliga rum."
 	5CDF4D02428CEFD5EEA1FBB669567A35 = "Godkänt arbete, gruvarbetare. Du kommer passa in i vår verksamher och Förvaltningen kommer all bli glada att de var rätt att sätta sin tro i er. Återgå till basen och låt oss få in dig i striden ordentligt. Tryck på knappen på M.U.L.E. för att tillkalla Transport Kapseln."
 	41CD334F48E33C280CFABC8A78F9CC9C = "Bara Lösenordsskyddade Servrar"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "Visa er respekt, - va tysta!"
@@ -2090,7 +2190,7 @@ ANSLUTNING"
 	4DBF5FCA46C226DAF720B49F54DF6805 = "Laddar om! Ge mig lite skydd!"
 	C9DD9C3749680AF60B1F0EBA022F9A90 = "Laddar om! Ge mig lite skydd!"
 	D0B9772242CFC839ABDD478D638A0415 = "Kom ihåg att titta upp! Det kanske gömmer sig otäcka kryp i taket."
-	15C102484C0E9A6961FBC4A248F56025 = "Kom ihåg att kasta bloss. Dom laddas automatiskt upp med tiden, så var inte rädd att slänga iväg dem!"
+	15C102484C0E9A6961FBC4A248F56025 = "Remember to throw flares. They automatically recharge over time, so don't hang on to them!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "Kom ihåg, Grottiglar är inte lika rädda för dig som du är för dom!"
 	046C7D9F4E22D85C44E58984A38E9634 = "Återställ Framsteg"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "Återställ Framsteg"
@@ -2286,7 +2386,7 @@ Karaktär"
 	075479CB45BF3835DE1846A51811C954 = "Visa FPS-mätare"
 	3127F8A540D246D860D961AD1DBF602F = "Visa HUD"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Visa dina vänner vad du har hittat"
-	D0E809FE415757354E08C9A6C291E826 = "Visa din tacksamhet eller bara berätta för dina lagkamrater hur grymma de är!"
+	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammates how awesome they are!"
 	74B817F049005FEE695B2694908686FE = "Inloggning ändrad"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Gå med i våran Steam Grupp nedan för att komma in i gemenskapen och hålla dig uppdaterad om vad som händer medans vi bygger på spelet. Du får även 5000 spel pengar för att snabbt komma igång i Hoxxes IV's gruvor utan problem!"
 	C26B43B84BB1149261499DB1FBD9F2DB = "Utloggad"
@@ -2375,6 +2475,7 @@ Karaktär"
 	507F184148C17071E06846B25243C401 = "Stå ut från mängden"
 	FCB2E3AD4AFF9458B5024CB10362971A = "Stå ut från mängden"
 	B18FDD574C07E200D510858741F49DC1 = "Standard Hjälm"
+	B711164C4E1E14E68A3EE399990F3AA4 = "Vanligt mål: Hämta den Morkite vi har bett er och kom hem säkert. Enligt skanningarna så ska just detta grottsystem vara exceptionellt svårt att navigera i. Håll koll på era riktningar hela tiden."
 	744CB1E2407EA5B7AA9A02A12E036895 = "Påbörja Resurs Processeringen"
 	969223DA47B497E8B142FDB5A2075C54 = "Starta ett uppdrag i Uppdragsterminalen för att kunna bjuda in vänner"
 	8CB01FD7428A5102A341A7A96988E382 = "Startar"
@@ -2383,7 +2484,7 @@ Karaktär"
 	2F1EB9744B4AD8AFE3833DA2F91CEBEF = "Stat / Info"
 	AEC7363F4A6D0B5400F61FBCA5AD7EBF = "Status"
 	17A16DC946BDED47290EB29361E74088 = "Håll dig borta härifrån!"
-	A06318034C476EC3D22507920215E7E7 = "Stanna vid min sida Bosco!"
+	A06318034C476EC3D22507920215E7E7 = "Håll dig vid mig, Bosco!"
 	951F76984316865F3E48A5BC4E3D729A = "Smygkeps"
 	9799C06943CA8A16AAC5B29ECF46051C = "Smygkeps"
 	C61C49CF485F7BD0C97206928B1EF1E6 = "Smygkeps"
@@ -2513,7 +2614,7 @@ DROP BAY"
 	E001D8D245643280FD2903AB78B1611B = "Plåtburken är verkligen hungrig idag!"
 	E555C20A4F820C47AFD4C78E9085ACD3 = "Vågen är nästan över!"
 	552397DD45AE7FD8AEAE38AC2AD601CE = "Vågen har minskat avsevärt. Bra jobbat, lag."
-	A14E3B244FE0E714FB89E79C77BCEC4D = "Ryggen är dess svaga punkt!"
+	A14E3B244FE0E714FB89E79C77BCEC4D = "Stjärten är dess svaga punkt!"
 	7683372A4E5F7599D19358AA3585152B = "Bestarna från Hoxxes är tuffa, men er trogna pistol är tuffare."
 	75C48C51486448C2459B1C8324C497E1 = "Den stiliga Scoutens val."
 	8C9D3C2245C2DCFC0B474DA982EB594A = "Den stiliga Scoutens val."
@@ -2541,7 +2642,7 @@ DROP BAY"
 	5B81A6ED45A560B2F1C5B98C5313117F = "En sann dvärg vet att det bara handlar om volymen."
 	7DF47E8546C2468DCE738E859927E4C1 = "En sann dvärg vet att det bara handlar om volymen."
 	DA21541846B26A43CB422A910A7ED29F = "En sann dvärg vet att det bara handlar om volymen."
-	A3DC6A5F45B9ACD584FC288056CAFB68 = "Sanningen finns där ute. Så är guldet."
+	A3DC6A5F45B9ACD584FC288056CAFB68 = "Sanningen finns där ute. Precis som guldet."
 	01C95D8D4147ED46FF425495CFD6D616 = "Tunneln är blockerad!"
 	7FCDBD5A43A489FB6214188362A7B755 = "Den ultimata upptäckares verktyg - denna själv-laddande krok kommer att få dig 
 ut ur vilken som helst klibbig situation, och till en avlägsen avsats. Omhändertas med omsorg - hamna dinglande från taket och sedan falla 60 fot ner till golvet täcks inte av anställd försäkringen."
@@ -2604,7 +2705,7 @@ ut ur vilken som helst klibbig situation, och till en avlägsen avsats. Omhände
 	92CA3E4B4E3514AB473B06B16336AA0A = "Dags för lite aktion!"
 	F21187F54C31DC48B3231193CECD4018 = "Dags att gräva!"
 	DEA5063F4DC950931F410980D9FE7B3B = "Dags att samla in lite guld!"
-	9F8B95494EDCF9BB83E751B9D761881D = "Dags att sätta in!"
+	9F8B95494EDCF9BB83E751B9D761881D = "Dags måste lasta av!"
 	9650409A417476B00510CCAA0F89EAF2 = "Dags att tjäna sitt levebröd!"
 	C43B09F2493507CFECF18B9CFD632BFA = "Dags att visa att ni förtjänar eran lön, laget. Vi har en underlig svärm på väg."
 	861FC69F4B44C5AAFB56E7AAD1D185A1 = "Dags att hitta Molly!"
@@ -2659,6 +2760,7 @@ ut ur vilken som helst klibbig situation, och till en avlägsen avsats. Omhände
 	7F0904144B148B62466080888AC77BEF = "Typ"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "UI"
 	B9B8DF3947F5817463C75E91163945B2 = "UI Skala"
+	F2ECABD148A393EEFDEC94AB4D90BF7C = "UPPDATERING 9: BORRAR DIG SENARE! - 09.03.2018"
 	8BE53EE144A719AF73F42DA29EDC1A49 = "UPPGRADERA
 UTRUSTNING"
 	57E6BB0F42206D722E6E1A866FC825D0 = "UPPGRADERA UTRUSTNING"
@@ -2699,7 +2801,7 @@ UTRUSTNING"
 	DCFBD7324089FC4A26DAED8105688BB3 = "Övre istäcket"
 	7032AA244E5FD6DEE82BE593FC832250 = "Använd"
 	4C00DDD243A216F0336201B7EB60440A = "Använd Laser pekaren för att få Bosco att gräva efter mineraler och bekämpa specifika fiender."
-	32E67FE9406320B0C0226FA6475494C3 = "Använd din Laserpekare för att markera mineraler, fiender och intressanta platser till dina lagkamrater."
+	32E67FE9406320B0C0226FA6475494C3 = "Use your Laser Pointer to mark minerals, enemies, and Points of Interest for your fellow team mates."
 	88ED55324ED7EDDD65B8768C6514E5D9 = "Utgghhbabab!"
 	10DA06984D53C8868A318FBB76C3C514 = "Utsmyckningsbutik"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "RÖSTSKÅDESPELARE"
@@ -2746,7 +2848,7 @@ ROCK & STONE!"
 	711A3FDA4C09674F7745048DEF8624FE = "Vi slåss - vi gräver"
 	1D85F7CE498C4CE081FED287A7288743 = "Vi måste skynda!"
 	2C3FF5484693F7168A68448B226FCE6A = "Vi måste skynda!"
-	A431E9BC433A5F375D4885A363D747C8 = "Slutligen fick vi det!"
+	A431E9BC433A5F375D4885A363D747C8 = "Äntligen fick vi den!"
 	4D541DAA4EF3C7ECC9056FABD975DFD7 = "Vi fick en Dreadnought!"
 	81A913ED41FE4DB2E4073EBE5265404C = "Vi fick en Dreadnought!"
 	298AB21943D33151B2CBF0871B682276 = "Vi fick en drone!"
@@ -2755,6 +2857,7 @@ ROCK & STONE!"
 	7454B0E24CA07FBCA20BFB8D239720BB = "Vi har sällskap!"
 	F28F18A6474590F3FA8938B3B0C5167A = "Vi har sällskap!"
 	30C953244901EBB2C8FB2EB6BC012525 = "Vi fick den!"
+	A73CCF4B469E12622BC945B6D797181E = "Vi har lokaliserat ett Glyphid näste. Dreadnought'arna går dit för att förpuppas, så erat huvudsakliga mål är att leta reda på deras kokonger och förstöra dom och deras invånare på vilket sätt ni än vill. Ta med rejält med ammunition - dom kan ta rätt mycket."
 	6484855946A450BF226BD394BB8D08D3 = "Vi måste förstöra detta!"
 	B7464C864288626EC5D36BB293D962F3 = "Vi måste gräva här!"
 	4C4C97004DD4131C0462DCB6BC1CD2FD = "Vi måste gräva detta området!"

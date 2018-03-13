@@ -1,7 +1,7 @@
 19 namespaces
-2152 values
+2180 values
 
-Namespace Global (2863 keys)
+Namespace Global (2914 keys)
 	1E1ADC13406ED5FA28EF4D97D3BECB48 = " ＋{bonus}％"
 	C7A2859F450D8B339A4CE1876CAB0134 = " ＋{bonus}％"
 	2559D78C40005E5221F26093CB976283 = " 收集 {Collected}／{Required} {Title}"
@@ -40,67 +40,67 @@ Namespace Global (2863 keys)
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "—在任務終端選擇任務—"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "—地形掃描器ＭＫ２—"
 	A6E1959D48EAE1DC279926A914C6C670 = "—{ItemCategory}—"
-	390133F54945CBDDE52B8898E7814A7D = "---Update 9: Patch Notes---
+	390133F54945CBDDE52B8898E7814A7D = "——更新９：修補程式說明——
 
-Mission End
-- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
-- Mission Failed now gives a 25% compensation reward based on minerals collected
+任務結束
+—每位生存者的生存獎勵ｘ２，由７５％增成１５０％；
+—任務失敗會取得「莫莉」身上的２５％礦物。
 
-Co-op sessions
-- Getting kicked now results in Mission Failed, compensation based on contribution
-- Added a new flow and info for Kicking and getting Kicked
-- You can no longer Join a session after Drop Pod has been called
-- You can no longer Kick a player from a session after Drop Pod has been called
-- Tweaked text on Mission Map in regards to new public/ private flow
-- Reworded Server List filter to Show Open and Show Password Servers
-- Add Private Server checkbox in escape menu
-- Added indicator for a joining player to team view 
+隊伍合作
+—被踢出的玩家等同任務失敗，取得自參加遊戲後「莫莉」身上的２５％礦物；
+—新增踢出玩家及被踢出的過程及訊息；
+—呼叫空降艙後，不再有玩家參加或踢出玩家；
+—調整任務地圖的說明，是公共的還是私人的；
+—重製伺服器清單的篩選，是公共的還是密碼的；
+—在ＥＳＣ功能表加入私人伺服器檢查；
+—在隊伍資料加入有玩家正在參加的圖示。
 
-Solo mode
-- Bosco should now save you from the cave leeches more consistently
-- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
-- Bosco now has friendly fire reduction 0.2 instead of 1
-- Bosco Deals 100 % more damage (doubled from 3 to 6)
-- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+單人模式
+—博斯科「應該」有能力殺死「洞穴螞蟥」；
+—博斯科提供更佳的照明；
+—博斯科的友軍傷害由１減成０﹒２；
+—博斯科的傷害ｘ２，由３增成６；
+—博斯科的速度ｘ２﹒５，加速由３００增成５５０。
 
-Class Balance: Buffed the Driller’s tools
-- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
-- Flamethrower Range upped from 8.5m to 10 m
-- Power Drills: Fuel upped from 30 to 35
-- Increased walk speed while drilling with 10 %
-- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
-- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+鑽頭工強化
+—「火焰噴射器」油缸由１６０增成２７０；油罐８０容量增成９０。鑽頭工現在可以完全充填３次燃料（過去２次）；
+—「火焰噴射器」射距由８﹒５增成１０公尺；
+—「強力鑽頭」油缸由３０增成３５；
+—鑽孔時移動速動提升１０％；
+—鑽頭白刃戰時，現在攻擊速度ｘ２，但是傷害由１０減成８（遊戲平衡）；
+—「強化強力鑽頭」升級，傷害由５減成４（遊戲平衡）。
 
-Intro screen
-- Added patch notes (this text) to Intro screen
-- Text & Button for Steam group no longer shown when rewards have already been claimed
+介紹畫面
+—新增本次更新內容；
+—加入ＳＴＥＡＭ社群認領金錢後，不再顯示「在ＳＴＥＡＭ追隨我們」按鈕。
 
-Sound, Effects & Animations
-- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
-- New Spitballer sound and Maggot sound
-- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+聲音、聲效、動畫
+—滿彈時再上彈會觸發手槍、左輪的動畫停止；
+—「瘟疫吐珠」及「蛆蟲」新聲音；
+—修補「火焰噴射器」白煙錯誤，改成「黑煙」（更酷的畫面效果！）。
 
-Caves
-- More cave shapes added to the random generator.
-- More randomness on existing cave shapes.
-- New sticky web environmental hazard. Don't get caught!
+洞穴
+—隨機生成更多的洞穴形狀；
+—洞穴環境的蜘蛛網現在會造成傷害，不要再觸碰！
 
-Localization
-- Added language selection to Intro screen
-- Croatian, Finnish, Italian and Japanese added
-- All languages updated (as usual new features lagging behind, will show English)
-- Updated community translator credits
-- Added missing characters for Polish language.
-- Some buttons with text did not correctly update after a new language was selected.  
+本地化
+—在遊戲啟動右下方加入語言選擇；
+—加入「意大利語」、「日語」、「克羅埃西亞語」及「芬蘭語」；
+—更新所有翻譯（新內容先以英語出現）；
+—更新社群翻譯名單；
+—新增缺失的波蘭語字體；
+—選擇新的語言後，部分按鈕未能正確顯示字體。 
 
-Misc Fixes
-- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
-- Key '5' is now available for custom key bindings
-- Fix Late Join crash if joining right when the level ends. 
-- Fixed: you can no longer edit the Hint text while loading! 
-- Maptool not updating correctly when terrian changes
+其他修補
+—修補在終端未能正確預覽商店物品；
+—數字鍵「５」用於按鍵綁定；
+—修補遊戲結束時，玩家參加遊戲造成程式錯誤；
+—載入時玩家不再能夠編輯提示的內容； 
+—修補改變地型後，地圖工具無更新的問題。
 "
 	610A35A6460AE74E8D2B5B9D80081A9A = "......無一百磅重量的就不是槍枝。"
+	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "０"
+	7CFB443C471CE28E2E8BFAAE8F278274 = "０"
 	BCBBDA65423104563FCC69AD9103A01A = "部署額外的１條滑索纜繩"
 	B063C03941EB570D6F2145808469C99D = "１０秒內升空。"
 	99CD26B24BF6817DD1A4978034CA179D = "２０００發貧鈾彈…...噢耶……！"
@@ -115,10 +115,10 @@ Misc Fixes
 	54B42BD34E7B086F2FD0A4B05BE8FB06 = "無鬍子"
 	628F94274CF7B9670987228A3F69CD94 = "支援機械人在路上了！"
 	2D3B341E43269B3517DEE48ADE5C2BB7 = "蟲群正衝過來！上彈！"
-	094DBF9240C1525A23E214A91AED7C79 = "經典展現出奇妙的原始力量。"
-	30966C18430C82C1C2C0C98D63EF5D8B = "經典展現出奇妙的原始力量。"
-	5DF2C5A14F5FF99B9995E89D244A10C3 = "經典展現出奇妙的原始力量。"
-	DDF603154FAC6DB54AC70CA48A84728B = "經典展現出奇妙的原始力量。"
+	094DBF9240C1525A23E214A91AED7C79 = "經典展現出微妙的原始力量。"
+	30966C18430C82C1C2C0C98D63EF5D8B = "經典展現出微妙的原始力量。"
+	5DF2C5A14F5FF99B9995E89D244A10C3 = "經典展現出微妙的原始力量。"
+	DDF603154FAC6DB54AC70CA48A84728B = "經典展現出微妙的原始力量。"
 	10EBE9914309B112BED94D8ACB15BFE8 = "轉輪僅有４個彈倉，特製的大口徑２６ｍｍ左輪手槍，保證一擊即倒。"
 	A51AF99C49FC325E4128D4BB8F23F943 = "矮人們不太喜歡這把沉實可靠的兵器，但是重量、火力有保證。"
 	86A03D794F56F55E13FFD190FE8F3031 = "矮人不死！"
@@ -235,6 +235,7 @@ Misc Fixes
 	8D65B5C74686C2830625E8ADB997CA61 = "已呼叫自動步哨槍！"
 	4A5096184B9F803F71901A93EA7714A6 = "自動步哨槍到了！"
 	A66492B847D0BA4EC6FF29BEBEB9475E = "平均"
+	74C0D53A44D3E36B67A59EBDF0459DC3 = "啊！開火！"
 	2DB56F974E9BA0D59E5A10A174E0B2C1 = "返回"
 	2F4C03C54E3AF88E76419EA4FE9397FB = "返回"
 	FEF672644DDAAE2CEBF7BDB4036656A7 = "大窟窿"
@@ -253,7 +254,7 @@ Misc Fixes
 	20DD7FE8472B9E9299D36D928991E6B3 = "炸你個老祖宗啦！還有問題嗎？"
 	94B3E16D4288D90D2A6A8E989B8ECEBF = "搖頭一族！"
 	905E8EC441C1759F31BF1D969927CA08 = "報喪女妖２５０火箭筒"
-	3BCF4C82412D8245811BB1A732DF0BB7 = "摔、踢、拋、或任何移動，都改變不了油桶一生孤獨。  "
+	3BCF4C82412D8245811BB1A732DF0BB7 = "無誰你怎樣摔、踢、拋，油桶都不會成為你的「好基友」。  "
 	68C5E6794C164D06D156D4949EB0BF4B = "基本的照明"
 	685964224EC0FB9FEB9EE286CF2A4D8E = "基本的十字鎬"
 	2223EE0D4985A95F10018887FEF4F431 = "給混蛋逮個正著！"
@@ -270,7 +271,7 @@ Misc Fixes
 	548B876240D52D5A39CAD0B8A9AE3C12 = "蜂母石"
 	B8349BFE47BD0078012036919B32B95A = "蜂母石"
 	3AE8B56D4C992F07D5E08A9D95C4BD74 = "有點貴，但我真的需要！"
-	6E54EEC64A9558CBF2A1F99898181151 = "辛宝石"
+	6E54EEC64A9558CBF2A1F99898181151 = "辛寶石"
 	7A15A43745D793BD41B7BD84A4DCE600 = "辛寶石"
 	97FAB2914114DD91902C69842C238F83 = "必撲"
 	6A29790B42641C808C3979B2786C96DE = "Blitz, Ctop, Stumpt crew, PartiallyRoyal, Yogscast crew, Gray Still Plays, Galm, Dr_Horse, Rimas, Lirik, Koala, МИР MMO ИГР, Deluks gaming, PietSmiet crew, Draegast, Lega Play, Fox, BaronVonLetsPlay, Jacemachine Gaming, 1Tater, JaR Dev, Criken, NitroLukeDX, Starsnipe, KarmakutPlays, Shibby, GameKnight, 及更多人……"
@@ -351,14 +352,23 @@ Misc Fixes
 	47C96B3F473BD15099CEEA8D9010E031 = "職業名稱"
 	E5E0408B4B2E7E33D11B66A7A2B88DAE = "COFFEE STAIN PUBLISHING"
 	082A9714445A7627B4ED46AFFC732279 = "已收集的材料："
+	3F0C9EF54B76216708530B9257D6584F = "已收集的材料："
 	409B3B9649E367F18A5734A9603A5582 = "戰鬥"
 	CCD5A42B4899395A8E979AAF6192E5A4 = "社群翻譯"
 	7E414F4C4FF198C3F86B93AF103217E7 = "完成"
+	36406C1946B16048CA3139B8D47AF660 = "失去連線"
+	3D6E174142696818ED29D6804471583B = "失去連線"
+	401FE2484B056208D64FE898A736C2CB = "失去連線"
+	5D07197E454C6A470C7D078C873BF4A1 = "失去連線"
+	76EF0FF64161DE4B16A66D8E5A37164F = "失去連線"
+	9FFE3D4542965BA5393C45B90481D4BA = "失去連線"
+	B7E069AA4384D6FDD82FC9BB59274005 = "失去連線"
 	FA3D092E4B1FA4CCC5F1F3A87F894D32 = "失去連線"
 	3AC07A124BB671598064218A10F5ACE5 = "早期幫助創作《深岩銀河集團》的作家"
 	EA72D0E84A9CF06B5573579F807E8A02 = "任務倒數："
 	D2E25C4B4D281078D09B44B99C2F0A8D = "賺取金錢："
-	4DA615ED48FF4986039949B0A8527F2B = "ＣＲＳＰＲ火焰噴射器"
+	F1632FDA4C5A034E31010BB013C0DFC4 = "金錢："
+	4DA615ED48FF4986039949B0A8527F2B = "「ＣＲＳＰＲ」火焰噴射器"
 	676D53374AD5B06C0BACEBA35A63509C = "首席技術長"
 	01BD5F634DC2CC377BC28CA7D8E1204A = "呼叫礦騾"
 	25DF1B9D4BE3494E2654EC99317D8EA2 = "呼叫補給艙"
@@ -408,7 +418,7 @@ Misc Fixes
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "硝團塊"
 	EC7C73A0400EAEB5501D12863298DDC5 = "硝團塊"
 	CCAE4EA549842149659D608F55032565 = "職業等級"
-	051100FE440C58990CAA6495C6680DA4 = "古典的"
+	051100FE440C58990CAA6495C6680DA4 = "古典"
 	E6091D33453BC448874457AB90A51E39 = "正經一點，隊友們。別獻醜。"
 	4DC19E56415BB0537728FBBE378F9066 = "無鬍子"
 	F716C5E64596ABB20D4623AD0C6258BD = "無鬍子"
@@ -435,7 +445,7 @@ Misc Fixes
 	76FCC5D943C83F90DB0600AC997D164E = "收集"
 	75283B85401708901DA391B1A72325C0 = "戰鬥霰彈槍"
 	6F80AA9449DB3236766ABDB2954B99DC = "各就各位！蟲群來襲！"
-	EB6AB6CC4E948FE640E464BF0528DD6D = "齊心合力利用各種工具翻越困難的地形。 "
+	EB6AB6CC4E948FE640E464BF0528DD6D = "齊心合力利用各種工具翻山越嶺。 "
 	5DD83DC24C1A6802DBE6C09ED510D448 = "來吧！嘔心臭蟲！"
 	043DA4914C87D718652C5E9FB8B861D2 = "過來救我！"
 	357D550A435FB7A5B159A7B396B1AEB9 = "過來這裡！"
@@ -488,7 +498,7 @@ Misc Fixes
 	D6AA4B8B48A8BA2EBE0BDB86B32F9260 = "確定！自動步哨槍在路上了！"
 	0F13C20B4F9083C721219A9CF296A333 = "確定！泛光燈在路上了！"
 	ACF2B0F94601F9E37A15A59DF9D086D5 = "恭喜！歡迎新來的礦工跟「深岩銀河集團」簽約並上船。安頓後先熟悉環境，然後到「任務終端」選擇你第１次任務！集團期待你的表現！"
-	6D02EF2E403E6CDD6ADDEDA968AA4EC8 = "恭喜！做得不錯！真的……做得不錯！你把所有油桶送入發射井。現在你肯回去工作嗎？"
+	6D02EF2E403E6CDD6ADDEDA968AA4EC8 = "恭喜！做得不錯！真的……做得不錯！你把所有油桶踢進發射井。現在你肯回去工作嗎？"
 	25056F7F45562623F05E8CA1FEFF1876 = "建築工具"
 	B3DDAF704F511CE894B2DAA650390843 = "接敵！"
 	16F764B44257A1CC2A36208874889EA0 = "接敵！準備開火！"
@@ -512,7 +522,7 @@ Misc Fixes
 	5E7987864F9FBB04D7F2F786B39E4F65 = "差不多……可以的就呼叫補給艙！"
 	36D950354B55C7A663AC29A576FD5A04 = "你們這班懶鬼何時過來救我！"
 	19EEB58843D5EA78C02C928628A3CD21 = "拜托你爽手點！我們要走了！"
-	00F7658844723AD3AF0A93971355B290 = "鄉村的"
+	00F7658844723AD3AF0A93971355B290 = "鄉村"
 	1222990C4DA13F9D555CAA9841BB2986 = "合成的礦物"
 	27BC616B497CD00B577A44875CFB1A5D = "合成的礦物"
 	2CF3525C465EAD27E09E6DADD8E4F2A0 = "合成的材料"
@@ -569,7 +579,7 @@ Misc Fixes
 	E7463CB8457274C844EC6E82D93634CC = "深岩銀河集團：「四海之內皆兄弟、挑戰、利潤。」"
 	B022254E4A8509B5A4B60C88547933AD = "深岩銀河集團：「一起為未來打拼。」"
 	659F86C14FC51F0A934A859EDA3ABAF2 = "深岩銀河集團：「團結一致， 昂首挺胸！」"
-	4FB31F3448809142AFCC94BB01B011BE = "DRILL YOU LATER!"
+	4FB31F3448809142AFCC94BB01B011BE = "鑽得更爽！"
 	C5A231D144D11797B0F13D8D7CC5B55A = "鑽頭工"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "鑽頭工"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "鑽頭工雕像"
@@ -601,20 +611,20 @@ Misc Fixes
 	CBC92B804862BDDA7286BF98D6BFD825 = "黑暗，我來了！"
 	9205D30F4D3C1655949079BE2F972D3B = "黑暗？算甚麼。"
 	BB916A3E42610F781ABC2AB9ECDB8CF6 = "給予更多的傷害"
-	0000DDF9494AB4629FB4F2BD15F38096 = "給予敵人更多的傷害"
-	2EA177CD4A6D3565FA123F944EC2817A = "給予敵人更多的傷害"
-	632D19A34691605866581C85D69D4E9B = "給予敵人更多的傷害"
-	6473476D424C3375CEB17FB829944BEB = "給予敵人更多的傷害"
+	0000DDF9494AB4629FB4F2BD15F38096 = "對敵人造成更多的傷害"
+	2EA177CD4A6D3565FA123F944EC2817A = "對敵人造成更多的傷害"
+	632D19A34691605866581C85D69D4E9B = "對敵人造成更多的傷害"
+	6473476D424C3375CEB17FB829944BEB = "對敵人造成更多的傷害"
 	8C4C7C2640C44EF200DEE19B40323627 = "減少１秒冷卻時間"
 	91E193C545ED6A5C63F13595EE935618 = "深岩"
 	9E5DD4E242761E0B1389EE91FCB44936 = "深岩銀河集團"
 	051C312645286ABC96D7ECA7D82823E7 = "Deep Rock really need to provide better equipment!"
 	8482AFEF47A351EAF64E0D967161C2C6 = "集團真的需要投資在更好的裝備！"
-	077FE1A24DF28D828BE8A195F172B555 = "深核心４０ｍｍＰＧＬ"
-	6685A8EE4C9860BA381D84BEA2518D8F = "深核心ＧＫ２"
+	077FE1A24DF28D828BE8A195F172B555 = "「淵深」４０ｍｍ榴彈發射器"
+	6685A8EE4C9860BA381D84BEA2518D8F = "「淵深」ＧＫ２步槍"
 	17DFCFE2486582C5680A22A580E5AAC7 = "雷鳴蜂巢 "
 	2974756F40C48748E76939B4171D036E = "雷鳴蜂群"
-	C55C17E9436F1DE5466438950931C189 = "Default Controls"
+	C55C17E9436F1DE5466438950931C189 = "預設控制"
 	99DE4F374F07C18A3F1703807B3A46D2 = "交付者"
 	626E78DB479AF4BF55BFF3B129204EC2 = "茂密生態系"
 	567197FC47E2B7A939B55D90FA510CCB = "存礦"
@@ -643,10 +653,10 @@ Misc Fixes
 	302DF88F4ACC1279D5E27C9E5E33A693 = "跟你的舊髮型不同"
 	13988B1740B19CF9D4E06C9BEE4C65D5 = "挖這裡！"
 	077161994CF326D89CA4E4933EDE7554 = "開挖是我的中間名！"
-	813D47C84E49D71638A597A9A9439A6F = "祥瑞老人鬍子"
-	9EC5050E403463C4911FF9926E84EB4A = "祥瑞老人鬍子"
-	C068F9D64EEFF095FE6BA883CE2A5CCE = "祥瑞老人鬍子"
-	C5F9B8584A69ADE93CCDC084D2F82C56 = "祥瑞老人鬍子"
+	813D47C84E49D71638A597A9A9439A6F = "祥瑞老人鬍"
+	9EC5050E403463C4911FF9926E84EB4A = "祥瑞老人鬍"
+	C068F9D64EEFF095FE6BA883CE2A5CCE = "祥瑞老人鬍"
+	C5F9B8584A69ADE93CCDC084D2F82C56 = "祥瑞老人鬍"
 	BBD4F67449CC32EAE379EFA32FB7EF30 = "泥土！"
 	FC3A4F6246A058D1DBAB0684EA95C1EA = "解散隊伍"
 	DE8796164D4F20895AD776899659985D = "迪斯可"
@@ -820,6 +830,7 @@ Misc Fixes
 	77D6AB4F4929A856637FFDA7BE807942 = "額外的存礦"
 	C088566241D93197365D3CB2BBCD5F19 = "額外油箱"
 	55A2B3B34A5CBFF55F21B2BFE1AF75A9 = "提取"
+	6584B05343BE02F3606DED9BEB9D1384 = "提取"
 	BBEED5E543ABACB0517FC6AE86BC39C0 = "提取開始。做得好。"
 	FBC56EC14C9ED2DBD48FFB944EC978EA = "提取開始。做得好。"
 	4F15107A46521A2C5E256D92A9B43A0E = "失敗"
@@ -832,6 +843,8 @@ Misc Fixes
 	769FEE4E40E3A5428C4D6C98F62C7168 = "在ＳＴＥＡＭ追隨我們"
 	EF40822D4C4C2E124CD74A857D383975 = "為了岩石與石頭"
 	B5DBA9204DA8107DDBDD649497C94F2E = "免費的掠奪品！"
+	8F7BDD2D4C55CBDB1B128FB9532AB6A5 = "叁加伺服器失敗"
+	FAB52F0E4F03CAA4BEAD089D2337E961 = "叁加伺服器失敗"
 	84BAB4AF4EB0A092E879AA8835F67DE1 = "警告！「損毀集團的財產，月底扣掉你的人工。」"
 	8D3138AD4A84EBD51BD9C29677936836 = "退回去空降艙！"
 	BFCEF2A94E475E53611FE5938B057784 = "退回去空降艙！"
@@ -846,7 +859,7 @@ Misc Fixes
 	203BABDF4827E48676D56EA93EEDDBA4 = "快速上彈"
 	28982CEF4EAD1DFB82EE8892B816D960 = "快速上彈"
 	0723604A4E5B4B165B1F618B14E1D908 = "每位偵察兵都喜愛這樣"
-	8021A8B441DBFDF85E3289898E222F58 = "Feedback"
+	8021A8B441DBFDF85E3289898E222F58 = "反映意見"
 	B9AAF2AB45F343573C64B2802999CDB8 = "現在感覺好多了！"
 	C90D261E4FB756830866F584E8471FB2 = "現在感覺好多了！"
 	AFA9E8754385E1518A6E42A12525EBD7 = "圍欄好了！"
@@ -858,7 +871,7 @@ Misc Fixes
 	66A7BD9F4745F011CC23D4982F605BC2 = "開火"
 	CFEEE29E4450454E689DCD9A0A6AC6CF = "防火塗料"
 	16B75D65445DA07DFAAD58B15A5947C3 = "快要爆炸了！"
-	2748F68649BD5939601E609ED8081F88 = "快要爆炸了！勁爆的反應裝甲要噴出尖刺。"
+	2748F68649BD5939601E609ED8081F88 = "快要爆炸了！炫爆的反應裝甲會抵擋爆炸衝擊。"
 	E03F911D40D16AFB01608D8808387F2D = "開火！"
 	A97F97ED416C69DD8B6BC6980226AF6D = "第一！"
 	E3C6602E42CC055B2C40879C6F9F08B8 = "火燄不再是威脅，以後走入烈焰如履平地。"
@@ -930,7 +943,7 @@ Misc Fixes
 	99E810C44C040791CCF5D7BEDC7CE155 = "完整的伺服器清單"
 	251024574D3DDFB05907DFB0FD9FF410 = "全螢幕"
 	28739C1548A8358DA2F1C4AED59D93B2 = "全密封服裝"
-	06AE677E4BF6B4591091A2AA34A0CFAD = "零件輕量化方便攜帶的小玩意，射出強化鋼纜繩穿越地底深淵。"
+	06AE677E4BF6B4591091A2AA34A0CFAD = "零件輕量化方便攜帶的小玩意，射出強化鋼纜繩讓你穿越地底深淵。"
 	01D3F6A440C8DE9FC0DB30BEF0B0FDC7 = "菌類"
 	339AD2F342385E3987632E800FAA0A64 = "菌類"
 	3A3D01344A5686734F1249B1E674BBA5 = "菌類"
@@ -1079,14 +1092,16 @@ Misc Fixes
 	85CBFC614376B9DE1921B8890480C466 = "健康忠告"
 	D9B282FF4566C7FD71A0E1808B41F95E = "健康忠告！"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "按住 [Laserpointer] 拿出雷射筆"
-	565BE2CA4157D153FE965A8438508B5B = "按住 [Laserpointer] 指出方向，再按 [Fire] 讓博斯科互動。"
-	74486D6942276263895A82B17BFF003E = "按住 [Laserpointer] 指出方向，再按 [Fire] 讓博斯科互動。"
-	96A8E6A14FEFCD974370709BCCF5FA74 = "按住 [Laserpointer] 指著，再按 [Fire] 去標記。"
+	565BE2CA4157D153FE965A8438508B5B = "按住 [Laserpointer] 指出方向，再按 [Fire] 讓博斯科互動"
+	74486D6942276263895A82B17BFF003E = "按住 [Laserpointer] 指出方向，再按 [Fire] 讓博斯科互動"
+	96A8E6A14FEFCD974370709BCCF5FA74 = "HOLD [Laserpointer] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	7C4704B14AAD52938BA369B2BF3D358B = "按住 [Laserpointer] 拿出雷射筆"
-	C8D9A6484B38D1A68FDCA1A7ADC4D8E8 = "按住 [Shout] 指出方向，再按 [Fire] 讓博斯科互動。"
-	F4DE0706460FD4BBF961D8BA2846ECE9 = "按住 [Shout] 指出方向，再按 [Fire] 讓博斯科互動。"
-	119D95F84C45A60432C6B2AD12B9E156 = "按住 [Shout] 指著，再按 [Fire] 去標記。"
+	C8D9A6484B38D1A68FDCA1A7ADC4D8E8 = "按住 [Shout] 指出方向，再按 [Fire] 讓博斯科互動"
+	F4DE0706460FD4BBF961D8BA2846ECE9 = "按住 [Shout] 指出方向，再按 [Fire] 讓博斯科互動"
+	119D95F84C45A60432C6B2AD12B9E156 = "HOLD [Shout] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	E949901E4D390B0F929A60AD688B7FDE = "只有主機者"
+	8EB05D1D4CAC8EA907FF9CB896638929 = "創建私人遊戲"
+	78AA4598413B0966965A5B81CD0CC24E = "創建公共遊戲"
 	40DD0DBB4C7BECA793D472BB978E6BBE = "人力資源部門又找上門—「外星侵擾」問題。快拿炸藥下去解決！"
 	DD0BD2104576C82DD6D65EBBE14298AF = "髮色"
 	43853D14403E8C70DB9FB7BC01350C91 = "堅持下去，正在運送補給。"
@@ -1113,6 +1128,100 @@ Misc Fixes
 	8730107B4ADA8EC423D3D5838AAA73D0 = "不辭勞苦的挖掘......並不是容易的。"
 	D3CEDD9D421BA88578276D96147F751E = "好多黃金！"
 	E9C145334D951620DCD4DBBD545322E2 = "真嗨呀！"
+	FB030C5E408CAF6B057043A6929F5689 = "Hello Miners!
+
+Deep Rock Galactic has now been in the wild for 1 week. We have finished celebrating the awesome launch (yeah!) and are now hard at work getting new updates out and planning the future. Inside the game, we have a nice feedback button, and a big thanks to the thousands of you who have already taken advantage of this. It’s an extremely big help.
+The feedback tells us we are definitely on to something good here, but it’s equally clear we have some we also hot topics that need some immediate love. First iteration of Key Bindings went in through the previous patch, and this time we have focused on fixes for the Kick feature, tweaks to the Driller and fixing Bosco's inability to kill Cave Leeches. All of these and MANY more are in the new update. You can scroll down and see all the patch notes below. 
+
+--- Driller Buffs ---
+The Driller is probably the most unique class in Deep Rock Galactic, so we were sad to see our iconic drilldozer valued below the other three classes in usefulness. Therefore, we have tweaked both his Flamethrower and Drills. In the detailed patch notes below, you can see the exact stat changes, which might also give you some hints on how to better utilize the Driller.
+
+--- Payout on Mission Failed & Kicking ---
+Two issues pretty quickly started to show themselves: Dissatisfaction with the way we’ve handled a Mission Failed scenario in regards to payout, and the fact that players could be kicked from the team at any given time. We’ve worked out a first pass on a solution for both these, as listed below:
+
+Firstly, it used to be that failing a mission meant NO payout at all. Now, failing a mission will give you a compensation of 25% of the minerals stored in Molly at the time of the mission ending. 
+
+Secondly, getting Kicked from a team will result in a Mission Failed case, where you will receive compensation based on what was added to Molly since you joined that session. 
+
+It is now no longer possible to Join or being Kicked from a team once the Drop Pod has been called and the final countdown has begun. This is a test for now and we’ll monitor the outcome - and it’s a pretty easy fix, so we can quickly backpedal if needed.
+
+Also, it is extremely important to understand how Mission Complete works. You might think that the rewards are split out between survivors. They are not. We calculate the total and then each player in the session gets that same reward, regardless of the size of the team. On top of this, each surviving player adds a Survivor Bonus, which has been boosted also. “Leave No Dwarf Behind” should be the ethos here - the more players manage to get out alive, the greater the bonus for all involved!
+
+
+
+
+We have elected not to implement vote-kicking with this update, despite some players asking for it. It’s a fair bit of work to implement, and we are not completely convinced it is the way to go at this point. That said, there are good arguments both for and against this feature, and we will continue to monitor the situation. The same goes for a vote button on Molly. 
+
+--- Bosco ---
+Detailed in the patch notes below, Bosco has received a fairly significant buff, and his ability to kill Cave Leeches should have been improved. We write “should” since this issue will need further work to squash fully, but it should at least be a better experience all round now.
+
+--- Trading Cards ---
+This one is a bit embarrassing. Turns out you have to manually have to publish the Trading Cards when you launch a new game on Steam. Whoops. The good news is that they are implemented now and await harvesting!
+
+
+--- Roadmap ---
+Midweek, we had a big feedback meeting here at the Ghost Ship office. We’ve gathered all the feedback from you, the players, as well as feedback from the dev team and our partners. There are SO MANY cool things we can and will do to expand Deep Rock Galactic. Task for now is to choose which ones go in the game, and in which order, and we plan to reveal a greater and more comprehensive road map for the coming months over the next few weeks. 
+
+--- Patch Notes ---
+
+Mission End
+- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
+- Mission Failed now gives a 25% compensation reward based on minerals collected
+
+Co-op sessions
+- Getting kicked now results in Mission Failed, compensation based on contribution
+- Added a new flow and info for Kicking and getting Kicked
+- You can no longer Join a session after Drop Pod has been called
+- You can no longer Kick a player from a session after Drop Pod has been called
+- Tweaked text on Mission Map in regards to new public/ private flow
+- Reworded Server List filter to Show Open and Show Password Servers
+- Add Private Server checkbox in escape menu
+- Added indicator for a joining player to team view 
+
+Solo mode
+- Bosco should now save you from the cave leeches more consistently
+- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
+- Bosco now has friendly fire reduction 0.2 instead of 1
+- Bosco Deals 100 % more damage (doubled from 3 to 6)
+- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+
+Class Balance: Buffed the Driller’s tools
+- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
+- Flamethrower Range upped from 8.5m to 10 m
+- Power Drills: Fuel upped from 30 to 35
+- Increased walk speed while drilling with 10 %
+- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
+- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+
+Intro screen
+- Added patch notes (this text) to Intro screen
+- Text & Button for Steam group no longer shown when rewards have already been claimed
+
+Sound, Effects & Animations
+- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
+- New Spitballer sound and Maggot sound
+- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+
+Caves
+- More cave shapes added to the random generator.
+- More randomness on existing cave shapes.
+- New sticky web environmental hazard. Don't get caught!
+
+Localization
+- Added language selection to Intro screen
+- Croatian, Finnish, Italian and Japanese added
+- All languages updated (as usual new features lagging behind, will show English)
+- Updated community translator credits
+- Added missing characters for Polish language.
+- Some buttons with text did not correctly update after a new language was selected.  
+
+Misc Fixes
+- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
+- Key '5' is now available for custom key bindings
+- Fix Late Join crash if joining right when the level ends. 
+- Fixed: you can no longer edit the Hint text while loading! 
+- Maptool not updating correctly when terrian changes
+"
 	A443FA134FE39088BA757F8F84D0ADC9 = "一路好走！"
 	F5EAAC5340766A2A9FC2DF8B49239CB2 = "你好，歡迎你！"
 	9123FB854DBBEB874DCDE2895775FB52 = "你好！"
@@ -1162,7 +1271,10 @@ Misc Fixes
 	6693A0D548210CC3E058FCB3F793E55D = "容和石"
 	095814C04FBBD7AB43901DADD2B749C4 = "已收集「容和石」"
 	CDC237994EF10DAC827317AE01EDF4AB = "希望今天會更好！"
-	474D2304485CCA3E89CAE2B8EB06330F = "Host: Public"
+	2D3616864CCD114C352D768524620CCF = "主機者離開遊戲"
+	5DB06C2E4767C351EEDBF3AAD02CD0EC = "主機：私人"
+	474D2304485CCA3E89CAE2B8EB06330F = "主機：公共"
+	030F6AD844949B06D0A3DC823B4008AB = "公共主機"
 	62725DDA48CFD7061B7D9BB69399C458 = "敵人！"
 	23EB62414882D57DE5EA68A443DC70B3 = "臭蟲想走！殺光它們！"
 	0A7AAE4649D874E7B006FDA1D392F664 = "隊友殺害敵人"
@@ -1250,8 +1362,8 @@ Misc Fixes
 	2A005E294EBE2C1383E73CBB73B88016 = "我想這裡有東西！"
 	C9007DCF43C1EC5EDBF4B1B91C03A38D = "其實我認為我們會做到並活下來！"
 	D8C037AD4DDAE05980D54E9458D702AF = "其實我認為我們會做到並活下來！"
-	0C6E1883496F7D3B822D4C822A047A5F = "我想我們現在幹得不錯！"
-	693FFE684C6DD85FA8AF9E94C2ED77BF = "我想我們做到現在還可以！"
+	0C6E1883496F7D3B822D4C822A047A5F = "我想我們一直幹得不錯！"
+	693FFE684C6DD85FA8AF9E94C2ED77BF = "我想我們一直幹得不錯！"
 	3F64717B465EFCC21A22289A60B56ED5 = "我想我們在這裡挖下去！"
 	1961019847AAB94E9307BFA55595ABAA = "這次我會打破你的滿載記錄，看我的！"
 	AB90E1A944FE776447E0EAAF9CE9609F = "這次我會打破你的滿載記錄，看我的！"
@@ -1271,7 +1383,7 @@ Misc Fixes
 	1178BE9344DEDABCDDB56285A30B97C7 = "我需要更多的照明彈！"
 	BAFA483A49DA3751A31ED284B4B466B1 = "這一刻是我人生最爽翻的時候！"
 	CC6D66E443A7E42306752394CFDF0D93 = "我受傷了！需要幫助！"
-	92E9E08E4F208A16528C1B8E3748D9E2 = "我不是怪蟲！戇男！"
+	92E9E08E4F208A16528C1B8E3748D9E2 = "我不是臭蟲！戇男！"
 	61A820DA4C1B8A2A61FBE99A446BAD74 = "今天我不太舒服！但是誰在乎？ "
 	85C2E8D24E9D8AC41FAE34A61BBF6FAD = "你唬我啊？"
 	BECC94C2499FB98E8FE1548C8CC51647 = "打中友軍！大草包！"
@@ -1294,7 +1406,7 @@ Misc Fixes
 	05BEE58949E04E15BFDE44AE11299C1F = "妨嫌力場手榴彈"
 	A71F8B0A445CEE92B5253A8DD6AC0DE8 = "妨嫌力場手榴彈"
 	E72B700842BA160CB2F066808B1059E9 = "正在進行"
-	CE21EAD448E542501C1BA686FAB1D2ED = "敵襲
+	CE21EAD448E542501C1BA686FAB1D2ED = "入站
 退後！"
 	3F7FA694455640C3E8E6D0A8D21BDBAD = "確定、瞄準、消滅。過程就是這樣。"
 	BFF5840344B6CF54EC4B61AB1B1E69AF = "鑽不穿的，可能是易燃的。"
@@ -1308,7 +1420,7 @@ Misc Fixes
 	E8EBB0104790318338456D81EF37B8D5 = "改良的護盾生成器"
 	4DA0B11345F109DD53883E99D5F49000 = "敵襲！"
 	68C7E9E14BAA5165E29BCF90BF3E033D = "敵襲！隨機應變！"
-	856AD218490E543BD1858FBB55E5C7AF = "給予敵人更多的傷害"
+	856AD218490E543BD1858FBB55E5C7AF = "對敵人造成更多的傷害"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "增加最大載彈量"
 	0A45047A4242961A8B1EE8813757ACAD = "增加閃光彈的總數 "
 	6A0D79C041A5FF4C38627F8192868332 = "增加閃光彈的總數 "
@@ -1344,10 +1456,10 @@ Misc Fixes
 	10BC63654EB95F055E3EEC90CEFAEC06 = "卡彈了！"
 	22E4AF5B420D47F6910C608247FB56BE = "你穿起來好看"
 	0A86F56941B5897FC4E013B955F7B962 = "這適合你。"
-	0A2B36D74C76EABE1EB975949D5FABEC = "打理這鬍子很費勁。"
-	24A6355C49EF808BC3D248AFA8AD9B1C = "打理這鬍子很費勁。"
-	CF74A6D0489BCD7221B8FE9CE45E9F17 = "打理這鬍子很費勁。"
-	D3D9EEC041FAEB70FFF71F87CE63E87A = "打理這鬍子很費勁。"
+	0A2B36D74C76EABE1EB975949D5FABEC = "打理這把好鬍子很費勁。"
+	24A6355C49EF808BC3D248AFA8AD9B1C = "打理這把好鬍子很費勁。"
+	CF74A6D0489BCD7221B8FE9CE45E9F17 = "打理這把好鬍子很費勁。"
+	D3D9EEC041FAEB70FFF71F87CE63E87A = "打理這把好鬍子很費勁。"
 	E79DE8574BC6D761870D9C8AD2511104 = "這個或啤酒！"
 	D3EB9A3B40B3D6BEDDA9FD851B87B446 = "你打中我！低等人種！"
 	78679F94495AD81F49D5179D59DDC42E = "那是無畏刁蟲！ "
@@ -1397,7 +1509,7 @@ Misc Fixes
 	3C117BFD4C41C3D2DC6565B241F1B301 = "我話事勁爆棒"
 	08BFA3054CC84B0C1894C9816D5B3421 = "髮型"
 	F31B75F548FC537AF855C688187CFC65 = "髮型"
-	668E416F46D9AF9A2F0C289C99C5579B = "逃生時，跟著礦騾身後的閃亮路線回到逃生艙。"
+	668E416F46D9AF9A2F0C289C99C5579B = "Just follow the blinking markers the M.U.L.E. leaves behind when it is returning to the Escape Pod."
 	2B0D29E9465FD20F7DE22C9BCBF00899 = "指出要射擊的方向！"
 	6BF497F3455C1E2E0A86C4A891997F53 = "指出要射擊的方向！"
 	C1CFE7224A1EF9B09DE599AADA0C25AD = "老太太爽吧！我有一整天時間陪你！  "
@@ -1538,6 +1650,7 @@ Misc Fixes
 	CBBD34D54848C33BF11B95ABDEA6900E = "這裡泥土疏鬆！"
 	EF01094A4C724929456D668A7F41DD77 = "掠奪蟲"
 	8CC378B1434DDB77A263478980DCAFFC = "這裡有掠奪蟲！ "
+	38A352D84AF190E753529A81D7FD5211 = "與伺服器失去連線"
 	597D27244B3BAB229FC8208E850EFA38 = "要炸掉，清場！"
 	3119AE484EBB537745ADC386AEF30CBB = "低"
 	D80A11754E2F7AA6C46814B2207D1801 = "低"
@@ -1568,13 +1681,13 @@ Misc Fixes
 	A125816345481EA47D41B6B3D4C4B761 = "ＭＫ１工程師服裝—黑巖"
 	DE64E6584652E8E758B71D846C7C9658 = "ＭＫ１工程師服裝—標準"
 	544528D74EA7ABE81BEA60B49D89DB2C = "ＭＫ１工程師服裝—白騎士"
-	74FF4F2740E9A017F9F21CADD1344A08 = "ＭＫ１槍手服裝—黑峭"
+	74FF4F2740E9A017F9F21CADD1344A08 = "ＭＫ１槍手服裝—黑巖"
 	3C6AD2D24D4B92D3FC282EAA7B9B4AC2 = "ＭＫ１槍手服裝—標準"
 	B160777F4EFE34EB4D4FE6B895A06F29 = "ＭＫ１槍手服裝—白騎士"
-	C53D1011443DAF058512C48F88CBDB74 = "ＭＫ１偵察兵服裝—黑峭"
+	C53D1011443DAF058512C48F88CBDB74 = "ＭＫ１偵察兵服裝—黑巖"
 	AB19E37C4FC171FAB3F594A548ABBCDF = "ＭＫ１偵察兵服裝—標準"
 	5D9B175D4D1E46C41A869D845CB30C81 = "ＭＫ１偵察兵服裝—白騎士"
-	A95C734348FB02DF27DBD09199CEDEDE = "ＭＫ２鑽頭工服裝—黑峭"
+	A95C734348FB02DF27DBD09199CEDEDE = "ＭＫ２鑽頭工服裝—黑巖"
 	68FD46F14AC85B06BF06CB8D31AE7ED4 = "ＭＫ２鑽頭工服裝—貼金"
 	558DC1D54A52E148753A24A5D6A7F456 = "ＭＫ２鑽頭工服裝—標準"
 	80AAC60145E8E234F26385844B3FB831 = "ＭＫ２鑽頭工服裝—白騎士"
@@ -1639,14 +1752,14 @@ Misc Fixes
 	6CA5C6A2467E95573471F59646E4CB73 = "西瓜色"
 	EB2EC9834533B9CCBABE99AE1E4BD0B5 = "西瓜色"
 	8F65DB8F4F72EB9D412C7BAF08ECDEE6 = "消息文本消息文本消息文本"
-	38580E5841573C7CAC8B66B940C3366E = "雄武的飛機頭"
-	67737BFD47152FC16D956793A96BA6F2 = "雄武的飛機頭"
-	A7D3ABCC49813B79FE0773A773A1F453 = "雄武的飛機頭"
-	E7552D5D4813480F787B91850AD96F21 = "雄武的飛機頭"
-	5AA29B224C59CA30488EA2805E17B585 = "雄武的羊排式鬍子"
-	B439AE914A705D4D620C46A031E3BB13 = "雄武的羊排式鬍子"
-	BB5A7AF14F7C8E9DB50956A12BEB96A6 = "雄武的羊排式鬍子"
-	CBF250254793EF64FC127D99A3111E15 = "雄武的羊排式鬍子"
+	38580E5841573C7CAC8B66B940C3366E = "威武的飛機頭"
+	67737BFD47152FC16D956793A96BA6F2 = "威武的飛機頭"
+	A7D3ABCC49813B79FE0773A773A1F453 = "威武的飛機頭"
+	E7552D5D4813480F787B91850AD96F21 = "威武的飛機頭"
+	5AA29B224C59CA30488EA2805E17B585 = "威武的羊排式鬍子"
+	B439AE914A705D4D620C46A031E3BB13 = "威武的羊排式鬍子"
+	BB5A7AF14F7C8E9DB50956A12BEB96A6 = "威武的羊排式鬍子"
+	CBF250254793EF64FC127D99A3111E15 = "威武的羊排式鬍子"
 	CCD4A85F4231C56E402568A26C45AB10 = "Mikhail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
 	67B7516B42F5585F57A881936E78D7B2 = "最小角度"
@@ -1702,8 +1815,8 @@ Misc Fixes
 	A16DABD64A7B24C75F47F99D995DEB8B = "發現墨菱石！"
 	28A2FF2947395FEF10C2FD91AAA7121B = "完成墨菱石的配額！好傢伙，挖得不錯！礦騾的逃生按鈕已啟用。"
 	313CA2134D73053B2711D3A5510C1E94 = "墨菱石！"
-	79C599094EB6D6E6E02200AFC58E0859 = "子彈打中敵人的弱點，造成更多的傷害。部分敵人有防彈的外骨骼。 "
-	44A3445A484377F58C5D6BBC70FFECF8 = "滑鼠靈敏度"
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points where your bullets do more damage and some enemies have exoskeletons, where your bullets do no damage. "
+	44A3445A484377F58C5D6BBC70FFECF8 = "Mouse Sensitivity"
 	5553884E4B6E6F00ADC8F985F6F4219A = "降落吧！我們要到星球去！"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "快點！"
 	30D2A4894E6CF7E90329B7ACCA48A50A = "掉出去！快爆炸了！"
@@ -1712,7 +1825,7 @@ Misc Fixes
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "好多啦！"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "好多啦！"
 	CD169B8F4540D97173D1A180A5C920B4 = "多人遊戲的對談結束"
-	80DCF1564FE0AF32ACCD80B57941FEA6 = "多名矮人一起復活倒地的矮人，加速復活進度。"
+	80DCF1564FE0AF32ACCD80B57941FEA6 = "Multiple dwarves working together can revive a downed dwarf faster than one."
 	EAB190A647BE3478A66B8FAAFB6A4C9E = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "蘑菇！"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "蘑菇！"
@@ -1725,6 +1838,7 @@ Misc Fixes
 	B5579D114D14B30642D69EB3A40460E5 = "武器卡彈了！"
 	AD1F97B94B47152588BF8BBA31E63555 = "武器卡彈了！"
 	B523470642979373133EC488CA6A0CFA = "ＮＡＴ狀態"
+	35BD4D194B4272C41487D1846A99EBB4 = "網路錯誤"
 	747D9D66462A834F081A129492AD4C34 = "新的任務在"
 	478D8E8B45CE2F0A3B9CE594CCE0971A = "無獎勵"
 	9097FF6D4D1B6DBA0B7716838E78C1DE = "找不到伺服器"
@@ -1742,7 +1856,7 @@ Misc Fixes
 	801BA77A4D781882A479418812A4C628 = "感到再好不過了"
 	DBBA53E84F566413D90533A0C67236BB = "感到再好不過了！"
 	C0027D1B4000EEFC8109E7BE2E3E58DA = "新髮型"
-	09A5C4244C0CA7F04085C3B488B92795 = "Newsletter"
+	09A5C4244C0CA7F04085C3B488B92795 = "通訊"
 	626CFD674A033F57719FD2852013AFF8 = "下一項升級："
 	BAC61B4E47D79CF780A15EA41F65AD74 = "下次請喝！"
 	BF5D4A09462C925CF7C2F59AD63A8017 = "下次我們去某個好地方……"
@@ -1762,6 +1876,7 @@ Misc Fixes
 	EC523EFB441155A8C1500FA11955B466 = "彈藥耗盡！"
 	75443F2441E939560E40F5BFA8C7A0FE = "無鬍子"
 	A1D753A34FD3599165954E90E96BDBD2 = "無鬍子！"
+	2523E0C64BEB833930ADC7AA662D50A0 = "隊伍無空位"
 	41877C934449DDAFE44289B3D823CDB1 = "沒燃料，沒鑽頭！"
 	E1CF7C354C6F4A95BE241A9BC520B025 = "沒燃料，沒鑽頭！"
 	9A21FFA145712386CCB0BEA6390814B5 = "這波要停了，快手收拾蝦兵蟹將，然後喘口氣。"
@@ -1774,10 +1889,10 @@ Misc Fixes
 	C6B9F94B428212D6BB558F9ACB9F51E4 = "沒有"
 	6DB7536F47654EBAB8DDA8ACCF2ED0E6 = "正常"
 	74D13FE94A82AB044ED0218B4515D516 = "正常"
-	012E832C41B0C601DA207982AE16EFB5 = "款式新穎，開創新的鬍子造型。"
-	B30D619444DA46EB7B132597EBBC0C4F = "款式新穎，開創新的鬍子造型。"
-	E0AAE5E047E4F5D8FF5AE48A62617174 = "款式新穎，開創新的鬍子造型。"
-	FFF6A5C348338F8DF715D0A4E2065506 = "款式新穎，開創新的鬍子造型。"
+	012E832C41B0C601DA207982AE16EFB5 = "嶄新典雅的鬍子造型。"
+	B30D619444DA46EB7B132597EBBC0C4F = "嶄新典雅的鬍子造型。"
+	E0AAE5E047E4F5D8FF5AE48A62617174 = "嶄新典雅的鬍子造型。"
+	FFF6A5C348338F8DF715D0A4E2065506 = "嶄新典雅的鬍子造型。"
 	01A3664546FF7F4D27F17A9A10067380 = "別再來啦！"
 	3114EE99451AE12A9B7CE0B9AB3807A4 = "實在不是！ "
 	537F78754C5AAE4F3B878F80942102D5 = "無"
@@ -1844,7 +1959,7 @@ Misc Fixes
 	854C01D44A5E7EE81044B5907A100F89 = "開啟地圖"
 	8E8C8DA14D3D2162A85247B46C7A2B72 = "開啟地圖"
 	DFAF837A45849CFAFE010589D31D5162 = "開啟ＮＡＴ"
-	7CF83C60466640DA9E14B2A20187AFEA = "Open Servers Only"
+	7CF83C60466640DA9E14B2A20187AFEA = "只限公共伺服器"
 	25FDE2DC47E6E00CD26E3C958625B882 = "選項名稱"
 	2E4A9A3B4CE8BBE6EBC80D9C802F13AC = "選項"
 	3F7C5E884ABE9C45B21F3FACD699A1AD = "選項"
@@ -1877,10 +1992,11 @@ Misc Fixes
 	DFE12000403EE5FAFD841F8CC5DE3FED = "超載的護盾生成器"
 	F129EB49433E0C25095A30A70B69721D = "超載的護盾生成器"
 	BBF3B4054F29E874B222A2B140CE9C2C = "請參觀紀念堂。 "
-	A7A2C9074DD5E8B2297F81A5C71F4E08 = "設置標記"
+	A7A2C9074DD5E8B2297F81A5C71F4E08 = "做標記"
 	C79595634378DAEEAB740BB8AF143D3B = "行星區域"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "行星區域："
 	C21850D74844EA192C1FCEBA601C6261 = "行星區域："
+	6837936E4EFB82CBEF489FAD5C73FE96 = "PLEASE NOTE! You do not earn a bigger mission reward by kicking players! Actually you will loose the survival bonus from this player!"
 	E4DEE1334E397283E5AADFA084AE3366 = "請重新連接手把。"
 	2276DA03429396713203CBAC6EF3C810 = "艙正降落"
 	0E40CA4047102A62E43D82B23E361885 = "海報"
@@ -1889,18 +2005,19 @@ Misc Fixes
 	F3155C474EF53C36803B23875CCECF17 = "按任何鍵繼續"
 	A7FA5FB342C218181CDE8DADE821FD8F = "請按任意鍵離開遊戲"
 	680CF46F443D5BB1D62DEDB346CB9C4C = "按 [CallDonkey] 呼叫礦騾"
-	B8CCFBD24E3F27F250DB4698E51549C7 = "按 [Equip4] ２次觸發補給艙，再按 [Fire] 呼叫。"
-	DA66CA3141162C3AF0D384B1DFD8A248 = "按 [Equip4] ２次觸發補給艙，再按 [Fire] 呼叫。"
-	726A354D42D77EA0A34584944346937A = "按 [Equip5] 選擇補給艙，再按 [Fire] 呼叫。"
-	9AD2FB414E12C8D2E3781DB47856BF5C = "按 [Equip5] 選擇補給艙，再按 [Fire] 呼叫。"
+	B8CCFBD24E3F27F250DB4698E51549C7 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	DA66CA3141162C3AF0D384B1DFD8A248 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	726A354D42D77EA0A34584944346937A = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	9AD2FB414E12C8D2E3781DB47856BF5C = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
 	E501CABD480DE511EC843F83B6B411FB = "按 [Fire] 呼叫"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "按 [Flare] 拋出照明彈"
 	E66F2965440023B51A13E5B5253ED0BC = "接 [Jump] 繼續"
 	FD12F4A94EC35363633682B3B98ECBAE = "按 [Jump] 離開"
 	54252A9A47A6776CFE924B93B30F5B44 = "按 [Salute] 致敬"
-	0E6FDF684AF461D269E215A191289E87 = "按 [Shout] 呼叫隊友注意"
-	3E8D5A1F49894E7918B4F0B70CB2D74F = "按 [Shout] 呼叫隊友注意"
-	7619D8004800B2FB339A57AD814FA511 = "按 [Shout] 呼叫博斯科"
+	0E6FDF684AF461D269E215A191289E87 = "PRESS [Shout] TO CALL FOR ATTENTION"
+	3E8D5A1F49894E7918B4F0B70CB2D74F = "PRESS [Shout] TO CALL FOR ATTENTION"
+	7619D8004800B2FB339A57AD814FA511 = "PRESS [Shout] TO CALL FOR BOSCO"
+	7FABFBA24AAC4686FB3FCC9420150CF7 = "私人遊戲"
 	E6CE771943558977A67F7296A448F6B3 = "程式設計"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "公共服務宣導：「有人在飯堂遺留一挺榴彈發射器。為保安全──任務前後各位在指定地點把武器收好。」"
 	2F9328D54501F01017A1E6AC1B58ACDF = "公共服務宣導：「登上太空鑽井後，一律收好所有武器！」"
@@ -1926,7 +2043,7 @@ Misc Fixes
 	6F044BB848EBDA1BC56FFDB90965B4FA = "公共服務宣導：「靶場關閉維護。主管要求員工不要在太空站射擊」。"
 	E82365B2495912F596DA23ABD0815AC7 = "公共服務宣導：「可以在住處的選擇職業終端，升級或定製你的裝備。」"
 	5CDF4D02428CEFD5EEA1FBB669567A35 = "表現還行，礦工。主管好高興沒看錯你，期待你日後的表現。按下礦騾的按鈕呼叫逃生艙，送你返回基地並投入下一場任務。"
-	41CD334F48E33C280CFABC8A78F9CC9C = "Password Servers Only"
+	41CD334F48E33C280CFABC8A78F9CC9C = "只限密碼伺服器"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "給點尊重，保持安靜！"
 	3C9AEF9F46FF592951C327902D9C195C = "蜜桃色"
 	6C66ABCC4C72BF374C05C38A865B60F3 = "蜜桃色"
@@ -1989,8 +2106,8 @@ Misc Fixes
 	B31A771248E413FBECD44DA7A3E0B9EE = "為你的性命而戰鬥，一大群蟲群來襲中。"
 	932E844E4238F39243CE0B93B498843C = "有殺無賠！"
 	B7E443B5443DB868F2BB19B9657CD007 = "按 [CallDonkey] 呼叫礦騾並存礦"
-	E5BD76D84BBA65B4D28B5DB025BE45B7 = "按 [Equip3] 裝備導航工具，用來克服有挑戰性的地形。"
-	16AFC2F7450AF8BC80DA149DC8FE1C11 = "按 [Fire] 設置標記"
+	E5BD76D84BBA65B4D28B5DB025BE45B7 = "按 [Equip3] 裝備導航工具，去克服挑戰性的地形"
+	16AFC2F7450AF8BC80DA149DC8FE1C11 = "按 [Fire] 做標記"
 	81E0BC0744111153025DBF8501E34FFA = "按 [Flare] 拋出照明彈"
 	83817D27458B1FD38B91E891A62BDD13 = "按 [Flare] 拋出照明彈"
 	AC0E91D64CFD044FB8D3788B0971644D = "按 [Flare] 拋出照明彈"
@@ -2026,6 +2143,7 @@ Misc Fixes
 	01F83FC04B82BB89A8CB63946E838CF8 = "請安靜。"
 	7394E13A440D1AD36D1BD0A93B0B3889 = "達到配額５０％。做得好。"
 	2A2B3DB84873DA07F70D46B46916BD4B = "為了完成配額及目標！我們去吧，小夥子！"
+	9EE38B9D46DD39FBD59AC7AE9F84737E = "原因是："
 	FA7DB98E41EC94BC0A461EBC2ADEE21B = "回收：按住 "
 	7822F6C2423DCCE0F1129F9B71B42C38 = "在這裡重新補給！"
 	0FE71808418CA41B8F7470A3F80533D1 = "區域描述"
@@ -2051,6 +2169,7 @@ Misc Fixes
 	654D08654C3F79C50F3A87A9875A2D6C = "準備好離開！"
 	0F6DF48340A35842A22D4B8A99757AB4 = "準備射擊！"
 	83453A584BD9EE142C0FBEBB4DACFF39 = "準備好！"
+	4148504943DF17CE763B44855C9F67BD = "原因是："
 	10374DF344DA1706BD000F85A1661507 = "最近有員工死後無被刻上紀念碑。但是我們充分尊敬他們！"
 	3264FFDE445370F8768DCDBD53D8B233 = "正在記錄……"
 	48D4ECE1430DFF12D4AE8FB2B67B808A = "復原遺跡"
@@ -2090,7 +2209,7 @@ Misc Fixes
 	4DBF5FCA46C226DAF720B49F54DF6805 = "正在上彈！掩護我！"
 	C9DD9C3749680AF60B1F0EBA022F9A90 = "正在上彈！掩護我！"
 	D0B9772242CFC839ABDD478D638A0415 = "記得抬頭看看！可能有煩人的蟲子藏在天花板上。"
-	15C102484C0E9A6961FBC4A248F56025 = "記著拋出照明彈。數量隨著時間增加，不用珍惜！"
+	15C102484C0E9A6961FBC4A248F56025 = "Remember to throw flares. They automatically recharge over time, so don't hang on to them!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "記著，洞穴螞蟥不怕你因為他們要定你！"
 	046C7D9F4E22D85C44E58984A38E9634 = "重設進度"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "重設進度"
@@ -2155,6 +2274,7 @@ Misc Fixes
 	9EE00D54476E2E4A4AEA949ABABEDE81 = "奔跑"
 	9155BEB943E16F9739FF949CDC4DD55F = "快找掩護！"
 	E630A3AE4EDF03AC2C0A4F9512ADF753 = "快找掩護！"
+	A866075F4233F31CCC2BEBA04AA4B769 = "糟糕！彈藥耗盡！收集硝團去呼叫補給艙取得彈藥！ "
 	FC685B0444600C2F88CDCAAAA3A930DE = "糟糕！彈藥耗盡！收集硝團去呼叫補給艙取得彈藥！ "
 	579F864343092779B68C77935DFE241A = "生銹頭盔"
 	4DCE8CB74A35F162148F5B9836ECD474 = "向隊友致敬！"
@@ -2171,6 +2291,8 @@ Misc Fixes
 	F47383FC429EDA6085D2AAAA1D58B4CD = "選擇角色"
 	6F039FB445C35711427CECB5B36B56FC = "步哨槍 #{Index}"
 	2F0B95F842FBBAC40AF94BB03500DF97 = "步哨槍入站："
+	9AA03BF64A9DFD6473829AB12E8D2991 = "對談關閉"
+	EF5B780949E9346B4D571484C03C7277 = "對談關閉"
 	2F0057A7463F40242E296DA1B2287BF0 = "射程"
 	15ED2FE74FE0F17CAEC81092403BE334 = "大喊吸引別人注意！"
 	AC8F021C438EDD18B5698582BB809EF2 = "單人模式"
@@ -2257,6 +2379,7 @@ Misc Fixes
 	8F5F93304D1B4807EAFA42B8AEEEC13F = "伺服器密碼（可選擇）"
 	9A962DC244171204F50B818A64CEF2DD = "伺服器密碼（可選擇）"
 	D113572B49FEE703DA805F8F0CC3CE57 = "伺服器密碼（可選擇）"
+	7432770249C4159DEE3ADC8F0B110BF8 = "對談已不存在"
 	5E2AB5AE464F33A90DA5CEB929B3BAB6 = "陰影解析度"
 	8C541D974AF96E449878549C03964DBF = "淺層石洞"
 	B8647E1F4F26DB5BEE16CC99079BAD7E = "銳利的邊緣"
@@ -2284,8 +2407,10 @@ Misc Fixes
 	075479CB45BF3835DE1846A51811C954 = "顯示ＦＰＳ數值"
 	3127F8A540D246D860D961AD1DBF602F = "顯示顯示器"
 	BEA156E64ECB2A82334E2C900D8A0582 = "讓隊友們知道你發現甚麼"
-	D0E809FE415757354E08C9A6C291E826 = "向隊友們表達感謝或他們真的太酷了！"
-	ADFC64CD41433C1A817D5DB50257BE38 = "Sign up for our Steam Group below to join the Community and keep up to date with us as we continue expanding the game - and claim your free reward of 5.000 in-game Credits to give you a massive boost through your first days at work in the mines of Hoxxes IV!"
+	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammates how awesome they are!"
+	74B817F049005FEE695B2694908686FE = "登入已更改"
+	ADFC64CD41433C1A817D5DB50257BE38 = "在下方參加我們的ＳＴＥＡＭ社群—訂閱遊戲開發的訊息，認領５０００金錢幫助你渡過「在酷斯星ＩＶ的第１日」！"
+	C26B43B84BB1149261499DB1FBD9F2DB = "登出"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "請安靜！"
 	82D5760A4D36C73A04E752BDC5DE965D = "簡單"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "地點１１—頁岩深層"
@@ -2336,12 +2461,17 @@ Misc Fixes
 	8A7F8D684869A4425BBE89B8596A3227 = "有東西藏在這裡！"
 	2FFEA1824EFBA9686A00F69564B75202 = "撫心自問，何必多此一舉？把酒飲掉，破布混著燃料，點火後拋出，問題迎刃而解。隆──"
 	E8444C7745D778558F0E2EB4D6F20E94 = "Sophus Alf Agerbæk"
-	9C3F704343CF00AA96D7BDA208EA1E48 = "Sorry, but I have my reasons."
-	CF58E7A74A765670A1472A9B80EF950C = "Sorry, but you were not responding."
+	1AF0128E488351B4A4C3B186BE5AF23D = "抱歉，我自有理由。"
+	9C3F704343CF00AA96D7BDA208EA1E48 = "抱歉，我自有理由。"
+	004AF67F43168EE9B52996893523320C = "抱歉，你無反應。"
+	CF58E7A74A765670A1472A9B80EF950C = "抱歉，你無反應。"
+	348545004DBDBA231C1011BC0AAA6951 = "抱歉，這是私人遊戲。"
+	51FF329C4262F9EDE595F4A3B74C0FED = "抱歉，這是私人遊戲。"
 	7F97A3E04517768226AAAFAAE2116ECF = "聲音效果音量"
+	D804053C4FD3B3C39CFE99945552FA13 = "太空鑽井"
 	BAF3FE9E45AB395112BD7689D4A50FDE = "生成博斯科"
 	4C93435147CA874F0F30F4BBF8AB0CDA = "有孵化點！"
-	8A269CD24D0ABAB7421B02BB86CC99A1 = "按 [EquipResupply] 消耗硝團呼叫補給艙。 "
+	8A269CD24D0ABAB7421B02BB86CC99A1 = "按 [EquipResupply] 消耗硝團呼叫補給艙 "
 	F11A713D400638403770249F8CC0CB00 = "瘟疫吐珠"
 	F232A240408E4D918179AB84B060017D = "瘟疫吐珠物"
 	13A1417949FA05E27FFD9E87633E7D3F = "鐘乳石"
@@ -2369,6 +2499,7 @@ Misc Fixes
 	B711164C4E1E14E68A3EE399990F3AA4 = "標準目標—完成「墨菱石」配額並安全回家。根據掃描器，這一帶洞穴複雜導航困難，千萬別走失！"
 	744CB1E2407EA5B7AA9A02A12E036895 = "開始礦物處理"
 	969223DA47B497E8B142FDB5A2075C54 = "到「任務終端」開始任務，並邀請好友。"
+	8CB01FD7428A5102A341A7A96988E382 = "正在開始"
 	2D636E344F707B36EB2B3AA8E516C68A = "儲藏"
 	59E6504B406478818178C89B73CA7111 = "儲藏"
 	2F1EB9744B4AD8AFE3833DA2F91CEBEF = "統計／資訊"
@@ -2381,7 +2512,7 @@ Misc Fixes
 	1C291F4B466A2680FACF3D9ABADEC242 = "蒸汽噴泉"
 	3AD42C1446AC9AC09F909182C4250534 = "已參加ＳＴＥＡＭ群組！"
 	146A9A7B478F2EC962FEC8A68698FA7F = "滾到一邊去，懦夫！"
-	A5CDF1C2473B168BBAFB30BFD6732708 = "團結一致並幫助你的矮人同伴。擅自離隊倒地者，同伴有可能找不到及復活。"
+	A5CDF1C2473B168BBAFB30BFD6732708 = "團結一致幫助你的矮人隊友。擅自離隊倒地者，同伴有可能找不到及復活。"
 	3AF5A23D4AB7110E16C71DA34E72A4DA = "粘性火焰"
 	135F5425439DC193033DEB9273FB39CA = "黏性手榴彈"
 	C8E891A74DB23ECA9B89E3B454C39336 = "停止"
@@ -2459,6 +2590,7 @@ Misc Fixes
 	952EB8C9499D63F798E85E9B5D419A45 = "測試文本"
 	BAA651EF4F25A6259BDCABB053ECD92E = "文本"
 	DDEA41514CD3F70125210DBA75E5A0E7 = "材質解析度"
+	5CE46EAA420AA488674B78B4459C2D29 = "感謝你購買《深岩銀河集團》，以下亦是旅程內容！"
 	B26C86DF47481AA729A47795827C4556 = "謝謝，兄弟！你真夠朋友！"
 	4095F3BE447055AC39FA91ACAB8CE3D5 = "謝謝你救了我！"
 	728E3DDE465ED2B65773DA9EDB199393 = "感謝員工們的努力，飯堂現在供應刁蟲歐姆蛋！"
@@ -2480,7 +2612,7 @@ Misc Fixes
 	DE2AA5024D8AD4F8441CA39DDBD1A759 = "讓我教訓你！"
 	A122C57040CE8EAC5F41C884FDF4E2C5 = "滑溜溜的屎，活該！"
 	D8D7931E443383A63C43E9A7E52AFB83 = "真可爱！你们正在等我！"
-	362ED30C4AD07307A35888A0D4A0A104 = "你知道怎樣做。空降艙在路上了。"
+	362ED30C4AD07307A35888A0D4A0A104 = "你們做得不錯。空降艙在路上了。"
 	6C62877A4FC28993EBB79B9B128E9E58 = "鑽頭需要給油！"
 	DAAF8154434410C6498B0A97F4217D11 = "鑽頭需要給油！"
 	726B7CAF4E7A8D37416D93BBE6CA4260 = "就這樣，我的背包滿了！"
@@ -2522,19 +2654,19 @@ Misc Fixes
 	C49E21D54F90751C68D12A9512EDA163 = "完美的怪物殺手外觀。"
 	E27840C54B222B71D9DBD2A4E7657097 = "完美的怪物殺手外觀。"
 	E29EACEE48ECD65E0DC2D98621FCD1DB = "完美的怪物殺手外觀。"
-	25C57ED44FDC9E78042AD7A6E44BAE94 = "滿臉絡腮鬍子匯聚成雄武的八字鬍。"
-	4C18FAA74FA959B486D67DA3E57CCD59 = "滿臉絡腮鬍子匯聚成雄武的八字鬍。"
-	7EC587584D26169914A2D0B3470C4A02 = "滿臉絡腮鬍子匯聚成雄武的八字鬍。"
-	DE29EFFA418089F83D173690D7719FA1 = "滿臉絡腮鬍子匯聚成雄武的八字鬍。"
+	25C57ED44FDC9E78042AD7A6E44BAE94 = "滿臉絡腮鬍子匯聚成絕世非凡八字鬍。"
+	4C18FAA74FA959B486D67DA3E57CCD59 = "滿臉絡腮鬍子匯聚成絕世非凡八字鬍。"
+	7EC587584D26169914A2D0B3470C4A02 = "滿臉絡腮鬍子匯聚成絕世非凡八字鬍。"
+	DE29EFFA418089F83D173690D7719FA1 = "滿臉絡腮鬍子匯聚成絕世非凡八字鬍。"
 	0B341780426D5E08CF8361A16B7DB179 = "掃描器亮得變聖誕樹。蟲群正在蜂擁而至！"
 	D513566A466E768AE0768BAEA3C2EFA5 = "空降艙的座位是給人坐，不是給油桶的。"
 	C9717D60437F9175FCF297A5BB04B8C1 = "徹底消滅敵人，你們還活著。幹得好！"
 	A6A1B8604498416ED8688BA6230F6489 = "蟲群逼近！"
 	3E074FA2442D9D266763E5A6D32F484D = "觸手抓到我了！"
-	22B15A8C49225E1EF2B9AE94D582D32E = "真正的矮人知道這就是厚度。"
-	5B81A6ED45A560B2F1C5B98C5313117F = "真正的矮人知道這就是厚度。"
-	7DF47E8546C2468DCE738E859927E4C1 = "真正的矮人知道這就是厚度。"
-	DA21541846B26A43CB422A910A7ED29F = "真正的矮人知道這就是厚度。"
+	22B15A8C49225E1EF2B9AE94D582D32E = "真正的矮人都知道這就是品味。"
+	5B81A6ED45A560B2F1C5B98C5313117F = "真正的矮人都知道這就是品味。"
+	7DF47E8546C2468DCE738E859927E4C1 = "真正的矮人都知道這就是品味。"
+	DA21541846B26A43CB422A910A7ED29F = "真正的矮人都知道這就是品味。"
 	A3DC6A5F45B9ACD584FC288056CAFB68 = "金子就是真相。"
 	01C95D8D4147ED46FF425495CFD6D616 = "地道被堵住了！"
 	7FCDBD5A43A489FB6214188362A7B755 = "探險家的終極工具—隨時間充填的抓勾，讓你脫險及遠距離飛躍。請小心使用，從６０英尺高天花板掉下來，不享有醫療保險。"
@@ -2580,7 +2712,7 @@ Misc Fixes
 	83C31E034D66F92866EBA89E2DDA6FB5 = "這看起來奇怪！"
 	434FA3FE40C240EE6D04ECB7B7FA3A84 = "為卡爾報仇！"
 	A167A6EE4D919373CA6301A532ED504C = "相比上一次，這裡不算是鬼地方。"
-	89601AF4450AAC66805D679767A6A4BE = "此區經年累月吹著強風，地底形成連綿數十里的乾旱地道。四周乾裂的岩壁印證這裡是星球上最乾旱的地區之一。由於水源珍惜，這裡的野生動物兇殘無比，專門獵殺有水分的獵物。"
+	89601AF4450AAC66805D679767A6A4BE = "此區經年累月吹著強風，地底形成連綿數十里的乾旱地道。四周乾裂的岩壁印證這裡是星球上最乾旱的地區之一。由於水源珍貴，這裡的野生動物兇殘無比，專門獵殺有水分的獵物。"
 	63A4AAA44E09B42D9C89D9935D2B9D11 = "這鬼玩意太危险！"
 	DD5C1B154405725F18A31C8A5458309D = "這邊！"
 	A165F5D043EDAC78664E9F8E95655C04 = "這會攔住它們！"
@@ -2654,6 +2786,7 @@ Misc Fixes
 	68D364CF4183DF3F945DD99F3F3A53B8 = "在此處輸入內容"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "使用者介面"
 	B9B8DF3947F5817463C75E91163945B2 = "使用者介面比例"
+	F2ECABD148A393EEFDEC94AB4D90BF7C = "更新９：鑽得更爽！—２０１８年３月９日"
 	8BE53EE144A719AF73F42DA29EDC1A49 = "升級
 裝備"
 	57E6BB0F42206D722E6E1A866FC825D0 = "升級裝備"
@@ -2694,7 +2827,7 @@ Misc Fixes
 	DCFBD7324089FC4A26DAED8105688BB3 = "淺層極地地幔"
 	7032AA244E5FD6DEE82BE593FC832250 = "使用"
 	4C00DDD243A216F0336201B7EB60440A = "使用雷射筆指令博斯科挖掘及與指定的敵人戰鬥。"
-	32E67FE9406320B0C0226FA6475494C3 = "利用雷射筆標記礦物、敵人，引起隊友們的注意。"
+	32E67FE9406320B0C0226FA6475494C3 = "Use your Laser Pointer to mark minerals, enemies, and Points of Interest for your fellow team mates."
 	88ED55324ED7EDDD65B8768C6514E5D9 = "嗚～～吧～～吧！"
 	10DA06984D53C8868A318FBB76C3C514 = "時裝商店"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "配音"
@@ -2706,7 +2839,7 @@ Misc Fixes
 	67B818674B721E052DFEEF81146999D1 = "非常隱匿"
 	68B709344A8627F954B1E2B3BAF3458D = "非常隱匿"
 	809E655D4A757F85090DB4B6359A680D = "在太空鑽井的合成站，花費血汗錢升級你的裝備吧！"
-	7ED249D745DD40186CB8C884C4A686F8 = "到時裝商店消費金錢及寶石，購入新的裝甲、帽子及鬍子。"
+	7ED249D745DD40186CB8C884C4A686F8 = "Visit the VANITY SHOP to spend your credits and rare minerals to get new armors, headgear and beards."
 	2D2A6357468F84A1FE3FC982E155948C = "語音聊天"
 	26B91DA946637579724DD58AA270B500 = "語音音量"
 	3EB811FD4977F29355F8FC8BD33CD50A = "咿～～嚏～～"
@@ -2771,6 +2904,7 @@ Misc Fixes
 	D8EBFFA1437113C21DCA369EA1BE0223 = "我們要把你送進深淵，你隨機應變。掃描器回報大量的「墨菱石」及「黃金礦脈」。礦工們，把礦物帶回來！ "
 	F06A886F4C10AE421802E48843CB66EC = "我們無法精確讀取此迷宮洞穴的資料。但是目標不變，礦工們要完成「墨菱石」的配額並活著運礦回來。"
 	4B5687F649A70D67781A13A3C167E696 = "我們偵測到這區下方富藏「水痕碑石」，礦工們是時候開工，尋找、採掘牆上「閃亮的藍光礦物」並帶回家。預期蟲群會發瘋亡命打過來，今次我們提供重武裝的特殊鑽頭。記著！現在下去挖礦不是「臭蟲無雙」。"
+	1F5CC1074A3AF1E92463338FB14859CB = "我們開發遊戲一段時間，日後會繼續盡心盡力發展下去—「酷斯星ＩＶ」依舊是詭秘莫測。"
 	13665D0E4DF4EC22BC92F0AA5DB0E879 = "衰弱力場"
 	EBA81F3D43CA217BF51B13A4D2F2BBE7 = "礦工，歡迎來到酷斯星！我們希望你已購買Alpha版本遊戲。這將是你首次進入地底，讓你了解我們所有行動過程。你的目標—尋找、採掘及帶回一定數量的「墨菱石」。前路充滿財富及榮耀，快去把握！"
 	CA46EF6348F600262B35F2A04A53CA74 = "礦工，歡迎來到酷斯星！這將是你首次進入地底，讓你了解我們所有行動過程。"
@@ -2781,7 +2915,7 @@ Misc Fixes
 	A6DC4FDD42DF64AF4E18ADBE9FD21B04 = "見鬼啦！我以為你早就掛了！"
 	BD94BDD545A4585DED8B8EACD9A82AC2 = "真是「生死有命，富貴在天！」"
 	D72361B848B681335B468FA103723978 = "真是「生死有命，富貴在天！」"
-	11A2D5994BCF87434F4236AC58FA511D = "因為回報實在太大，把員工送到這裡，我們略感抱歉。歡迎來到爛到極點的「菌類沼澤」！四周滿布粘液、黴菌、帶刺昆蟲、蘑菇、臭泥巴及腐蝕性青苔。 "
+	11A2D5994BCF87434F4236AC58FA511D = "因為回報實在太高，把員工送到這裡，我們略感抱歉。歡迎來到爛到極點的「菌類沼澤」！四周滿布粘液、黴菌、帶刺昆蟲、蘑菇、臭泥巴及腐蝕性青苔。 "
 	278D71A84C55A70D99457BA0B3FF78AD = "還等甚麼！一起上吧！"
 	6171A26D4DFEFDBFA308A0BC1B543B44 = "這是甚麽？"
 	36B4B9B740FE963F08F76E821E700B17 = "頭盔內該有的東西！"
@@ -2818,12 +2952,13 @@ Misc Fixes
 	EE7AAEB94E93C86232238B9B4138ECCB = "工作說明"
 	3C34D3184ABDDD0D1AF3CA9A2D2A443C = "鬼玩意又不動！"
 	DBAE2C1B47A771EAFB09AFB735FB2BC3 = "沒啥用的，但毀掉有樂趣！"
-	19A6DFDB40796ECF7467198DF9C7220F = "名副其實的山下之王典型特徵。"
-	270E85454B0644D10025F7AFC81923BD = "名副其實的山下之王典型特徵。"
-	BEB73D95418773EDA3F61F8272964A2A = "名副其實的山下之王典型特徵。"
-	F7B60BBE487E9AF6060BBE92A9A861F2 = "名副其實的山下之王典型特徵。"
+	19A6DFDB40796ECF7467198DF9C7220F = "不愧是山下之王。"
+	270E85454B0644D10025F7AFC81923BD = "不愧是山下之王。"
+	BEB73D95418773EDA3F61F8272964A2A = "不愧是山下之王。"
+	F7B60BBE487E9AF6060BBE92A9A861F2 = "不愧是山下之王。"
 	983F9B7847CFC6CEF329128DF715311F = "確定要建立伺服器遊戲嗎？"
 	6C68CD074F43A80D4601169F005F13FB = "賺取經驗值："
+	DB37AE6549921FCBA0AF8CA1B7B77100 = "經驗："
 	200CDB03454FBFB06EEB4FA87041E671 = "外星菌類"
 	30FA668E450BFCB8B530CBB92F152431 = "外星菌類"
 	771EF8AC4CA047D22E304DA5620B2FC4 = "外星菌類"
@@ -2833,6 +2968,8 @@ Misc Fixes
 	0E6583524F68E43B4276CFB7B32CDC44 = "XenyHazard³"
 	B8468E94499A87FA2B7066893D300173 = "是！"
 	C73B22224119A155139950BC9B0B2C2B = "你被踢出遊戲"
+	FAC81A9B4EAF1B9E93CA829FEDDAA889 = "你被踢出隊伍。"
+	7DAB192F4CBCC4D12778E1831C328F25 = "你的份額"
 	D151B0924C23F2203A8AEEB88248A9F7 = "是的"
 	3CBB4A1749FF26C045BEAF905D9B4D59 = "好的，寶貝！"
 	E97EAB7942209FCEBCBF4C86F992B5D0 = "這感覺很嗨！"
@@ -2857,13 +2994,19 @@ Misc Fixes
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "最好是你們當礦工的實力，強過當舞蹈家。"
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "你讀不懂標語嗎？好的，讓我幫你，「保持安靜」！"
 	78D2755C4861A355ED50D3AD1A7F8D85 = "我對你的努力鼓掌，但你無法帶著油桶去執行任務。"
+	26B7F8284A283072236CC8AAE9D04C56 = "你被踢出遊戲。"
+	7589FE60454A9D2BD29BC6BA2CE886A7 = "你被踢出遊戲。"
+	EA6B14AB4DC910892F48F396AFD08B17 = "你被踢出遊戲。"
 	7385AADD42A9E20A78773E92E52A22E5 = "你不是鐘點工，識趣的快去開工！"
+	8771EC024183E2E67E167B93FBD8696A = "你取得自參加遊戲後「莫莉」身上的２５％礦物。
+這等同任務失敗的獎勵。"
 	2C2116CF45A3A253EFA883B5144761FF = "你不應該這樣做的。這是怎麼回事？O_O"
 	2161E24842AF7A087271D893471F6192 = "這坨滑溜溜的屎！"
 	4A76A72540171A04DFFE4F828708785E = "把霰彈槍在中間斷成兩截，你就獲得一枝「大型手槍」。這可以打翻滿載西瓜的十八輪大貨車，絕對是經典重現。"
 	76F1905045BC439BB3190487DCD2A6C9 = "你這狗娘養的醜八怪！"
 	35D215D84E56BCDEACE563B29DC9C8A2 = "你還要嗎？"
 	42912B4F4C62EEF642AB77811D0FF517 = "跟往常一樣收集「墨菱石」，在礦騾存礦並帶回家。簡單？現在開工。"
+	C5C889464B05842C864B54BA097A4D34 = "你已被停權。"
 	71B72EFE48FD74037A588F9F7B7749C8 = "已參加！按鍵去認領１００００金錢！"
 	8F4D89824206338FF0A6C8A644944815 = "已參加！按鍵去認領５０００金錢！"
 	C8DEB9DB423364FDA87B2A9D2D292323 = "你的物品欄已滿！"
@@ -2927,7 +3070,7 @@ Misc Fixes
 	44F2D16748B303B3AF5DB48C96EF1897 = "那是瘟疫吐珠！"
 	301860DA48B90CD11DF217A9827A49D2 = "已採掘"
 	847D174B40E48D1D194D318D2E11977F = "需要"
-	5B37A7E644003126D80116AF94D90F72 = "this was meant to be a private game."
+	5B37A7E644003126D80116AF94D90F72 = "這是私人遊戲。"
 	7BD55EB94DA3871F2D7F0E846B24C461 = "{0} 捐出８０硝團！"
 	F354574840C59FBC38BA7AAB38B76F05 = "{0} 治療自己！"
 	EDDF00A14025884C10E0CF8FF51328F2 = "{0} 生成３隻禁衛刁蟲"
@@ -2943,7 +3086,7 @@ Misc Fixes
 	B49D14D14182674FC077EEB3E53277F8 = "{value} ＦＰＳ"
 	842C4AFE4D8A01633BA906B37D033AA3 = "{value} {unit}"
 	C777823E4E0F7B660E07D993DFABC267 = "{value} {unit}"
-	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Sorry, this was meant to be a private game.”"
+	5CDE33454C9AA5FC2E78D59DE06A7D0B = "「抱歉，這是私人遊戲。」"
 
 Namespace [/Script/FSD] (27 keys)
 	736F31C8400B0D301672149F62B3D0EA = "合法礦工"
@@ -3081,7 +3224,7 @@ Namespace UI (24 keys)
 
 Namespace Units (3 keys)
 	Meters_Unit = "公尺"
-	Meters_Full = "米"
+	Meters_Full = "公尺"
 	Ping_Miliseconds = "毫秒"
 
 Namespace Upgrades (18 keys)

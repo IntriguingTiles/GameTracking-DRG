@@ -40,65 +40,65 @@ Namespace Global (2916 keys)
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "- Vælg Mission ved Mission Terminal -"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "- TERRÆN SCANNER MK2 -"
 	A6E1959D48EAE1DC279926A914C6C670 = "- {ItemCategory} -"
-	390133F54945CBDDE52B8898E7814A7D = "---Update 9: Patch Notes---
+	390133F54945CBDDE52B8898E7814A7D = "---Opdatering 9: Patch Noter---
+ \r 
+Mission Ende
+- Overlevelses Bonussen er blevet fordoblet fra 75 kreditter til 150 kreditter pr overlevende spiller
+- Mislykkede Missioner giver nu en kompensations belønning på 25% baseret på mineraler indsamlet
 
-Mission End
-- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
-- Mission Failed now gives a 25% compensation reward based on minerals collected
+Samarbejde Sessioner
+- At blive sparket resultater nu i Missionen Mislykkedes, kompensation baseret på bidrag
+- Tilføjet et nyt flow og info for at smide ud og at blive smidt ud
+- Du kan ikke længere Deltage i en session efter Transporten er blevet tilkaldt
+- Du kan ikke længere smide en spiller ud fra en session efter Transporten er blevet tilkaldt
+- Justerede tekst på Mission kortet med hensyn til nye offentlige / private flow
+- Ændrede server liste filtre til at Vise Åbne servere og Vise Adgangskode Servere
+- Tilføj Privat Server afkrydsningsfelt i escape menu
+- Tilføjet en indikator til en tilsluttene spiller på holdvisning
+\r 
+Solo tilstand
+- Bosco bør nu redde dig fra hule igler mere regelmæssigt
+- Bosco får nu også lov til at lege med de store lys. Han siger woosh og så kan du se meget mere end før:)\r 
+- Bosco har egenbeskydning reduktion 0,2 i stedet for 1
+- Bosco gør 100% mere skade (fordoblet fra 3 til 6)
+- Bosco får nu en 250% hastigheds boost, når du bestiller ham. Vi har også øget hans acceleration fra 300 til 550
 
-Co-op sessions
-- Getting kicked now results in Mission Failed, compensation based on contribution
-- Added a new flow and info for Kicking and getting Kicked
-- You can no longer Join a session after Drop Pod has been called
-- You can no longer Kick a player from a session after Drop Pod has been called
-- Tweaked text on Mission Map in regards to new public/ private flow
-- Reworded Server List filter to Show Open and Show Password Servers
-- Add Private Server checkbox in escape menu
-- Added indicator for a joining player to team view 
-
-Solo mode
-- Bosco should now save you from the cave leeches more consistently
-- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
-- Bosco now has friendly fire reduction 0.2 instead of 1
-- Bosco Deals 100 % more damage (doubled from 3 to 6)
-- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
-
-Class Balance: Buffed the Driller’s tools
-- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
-- Flamethrower Range upped from 8.5m to 10 m
-- Power Drills: Fuel upped from 30 to 35
-- Increased walk speed while drilling with 10 %
-- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
-- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
-
-Intro screen
-- Added patch notes (this text) to Intro screen
-- Text & Button for Steam group no longer shown when rewards have already been claimed
-
-Sound, Effects & Animations
-- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
-- New Spitballer sound and Maggot sound
-- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
-
-Caves
-- More cave shapes added to the random generator.
-- More randomness on existing cave shapes.
-- New sticky web environmental hazard. Don't get caught!
+Klasse Balance: Buffede Borerens redskaber
+- Flammekasterns brændstof kapacitet er blevet forøget fra 160 til 270 enheder, og hver beholder rummer 90 i stedet for 80 enheder. Det betyder, at flammekasteren nu har brændstof til tre fulde genladninger i stedet for to, og hver genladning holder mere brændstof.
+- Flammekasterns Rækkevidde forhøjet fra 8,5 m til 10 m\r 
+- Boremaskinens: Brændstof forhøjet fra 30 til 35
+- Øget gå hastighed, samtidig med boring med 10 %
+- Nærkamps skade med Boremaskine: Angreb hastighed er blevet fordoblet, mens skade af hvert angreb er blevet sænket fra 10 hp til 8 hp. (for at kompensere for dobbelt angreb hastighed) 
+- Opgrader Nærkamps Boremaskine Skade: 5 hp til 4 hp (for at kompensere for dobbelt angreb hastighed)
+\r 
+Intro skærm\r 
+- Tilføjet patch noter (denne tekst) til Intro skærm
+- Tekst & Knap til Steam gruppe ikke længere vist når belønninger allerede er blevet gjort krav på
+\r 
+lyd, Effekter & Animationer
+- Inaktiv animationer på Pistol og Revolver (også udløst af Genladning på fuld ammunition)
+- Ny Spitballer lyd og maddike lyd
+- ændret flammekaster røg tilbage til black... Det var hvide, og det var en fejltagelse... Nu det ser awesome igen!
+\r 
+Caves\r 
+- mere hule figurer føjes til random generator.
+- flere tilfældighed på eksisterende hule figurer.\r 
+- nye sticky web-miljørisiko. Bliv ikke fanget! 
 
 Localization
-- Added language selection to Intro screen
-- Croatian, Finnish, Italian and Japanese added
-- All languages updated (as usual new features lagging behind, will show English)
-- Updated community translator credits
-- Added missing characters for Polish language.
-- Some buttons with text did not correctly update after a new language was selected.  
+- tilføjet sprogvalg til Intro screen
+- kroatisk, finsk, italiensk og japansk added
+- alle sprog opdateret (som sædvanlig nye funktioner halter bagefter, vil vise engelsk) 
+- opdateret Fællesskabet oversætter credits
+- Tilføjede manglende tegn for polske sprog.
+- nogle knapper med tekst ikke korrekt opdateret efter et nyt sprog blev valgt.
 
 Misc Fixes
-- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
-- Key '5' is now available for custom key bindings
-- Fix Late Join crash if joining right when the level ends. 
-- Fixed: you can no longer edit the Hint text while loading! 
-- Maptool not updating correctly when terrian changes
+- forfængelighed elementer ville nogle gange ikke vises korrekt på dværge i terminaler. 
+- nøglen '5' er nu tilgængelig for brugerdefinerede nøgle bindings
+- Fix sent Deltag crash hvis slutter sig til højre når niveauet slutter.
+- fast: du kan ikke længere redigere tiptekst under indlæsning!
+- Maptool ikke ajourfører korrekt når terræn changes
 "
 	610A35A6460AE74E8D2B5B9D80081A9A = "... Det er ikke et våben, hvis det ikke vejer mindst 45 kg."
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
@@ -584,7 +584,7 @@ Jord blokerer tunnel indgange!"
 	4FB31F3448809142AFCC94BB01B011BE = "BORE DIG SENERE!"
 	C5A231D144D11797B0F13D8D7CC5B55A = "DRILLER"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "DRILLER"
-	CCE2D24841AF8EBBE4EFB698BC23F582 = "DRILLER STATUE"
+	CCE2D24841AF8EBBE4EFB698BC23F582 = "BOREMESTER STATUE"
 	0E8980524B030DC3BE2A8CB569D18156 = "Skade"
 	4B75716E4B545D6172594F8C5B1D6CE5 = "Skade"
 	C04C09BC48E99FF9257FA0AE546DDBA1 = "Skade"
@@ -959,7 +959,7 @@ RÆKKEVIDDE"
 	B75EF0174A3AD49AC62BA2BDC2DA9A2C = "FÅ EKSTRA AMMUNITION"
 	BDE91C1943D8679F17E677AECD8ED96F = "FÅ EKSTRA AMMUNITION"
 	D8F426E643E1EDDCE9AD8395A9200CA9 = "KÆMPE STATUE"
-	3F96D95A4C722E8F039807AE864DD95A = "GYLDEN DRILLER STATUE"
+	3F96D95A4C722E8F039807AE864DD95A = "GYLDEN BOREMESTER STATUE"
 	C7267BC844DE8DC2C3AE30B18CCB5530 = "GYLDEN ENGINEER STATUE"
 	B6BB02A24AE572D8770B3DB90CB3255B = "GYLDNE GIGANTE STATUER"
 	4BC4E7A24DC57C12BDC40C9562867DCF = "GYLDEN GUNNER STATUE"
@@ -1097,18 +1097,18 @@ RÆKKEVIDDE"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "HOLD [Laserpointer] FPR AT FÅ LASERPOINTEREN OP"
 	565BE2CA4157D153FE965A8438508B5B = "HOLD [Laserpointer] FOR AT AFGIVE ET PUNKT OG DEREFTER TRYK PÅ [Fire] FOR AT FÅ BOSCO TIL AT INTERAGERE"
 	74486D6942276263895A82B17BFF003E = "HOLD [Laserpointer] FOR AT AFGIVE ET PUNKT OG DEREFTER TRYK PÅ [Fire] FOR AT FÅ BOSCO TIL AT INTERAGERE"
-	96A8E6A14FEFCD974370709BCCF5FA74 = "HOLD [Laserpointer] FOR AT PEGE DEREFTER TRYK PÅ [Fire] FOR AT MARKERE"
+	96A8E6A14FEFCD974370709BCCF5FA74 = "HOLD [Laserpointer] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	7C4704B14AAD52938BA369B2BF3D358B = "HOLD [Shout] FOR AT FÅ LASERPOINTEREN OP"
 	C8D9A6484B38D1A68FDCA1A7ADC4D8E8 = "HOLD [Shout] FOR AT AFGIVE ET PUNKT OG TRYK DEREFTER PÅ [Fire] FOR AT FÅ BOSCO TIL AT INTERAGERE"
 	F4DE0706460FD4BBF961D8BA2846ECE9 = "HOLD [Shout] FOR AT AFGIVE ET PUNKT OG DEREFTER TRYK PÅ [Fire] FOR AT FÅ BOSCO TIL AT INTERAGERE"
-	119D95F84C45A60432C6B2AD12B9E156 = "HOLD [Shout] FOR AT PEGE OG DEREFTER TRYK PÅ [Fire] FOR AT MARKERE"
+	119D95F84C45A60432C6B2AD12B9E156 = "HOLD [Shout] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	E949901E4D390B0F929A60AD688B7FDE = "KUN FOR VÆRTEN"
 	8EB05D1D4CAC8EA907FF9CB896638929 = "LAV PRIVAT SPIL"
 	78AA4598413B0966965A5B81CD0CC24E = "LAV OFFENTLIG SPIL"
 	40DD0DBB4C7BECA793D472BB978E6BBE = "HR er efter vores røve igen. "Alien angreb" kalder de det. Håndter det. Medbring sprængstoffer!"
 	DD0BD2104576C82DD6D65EBBE14298AF = "Hårfarver"
 	43853D14403E8C70DB9FB7BC01350C91 = "Hold ud, forsyninger er på vej."
-	631B26D74487C6C769C74BACAA22F99A = "Hold ud, I har næsten klaret angrebsbølgen. Udryd hvad de er tilbage."
+	631B26D74487C6C769C74BACAA22F99A = "Hold ud, I har næsten klaret angrebs bølgen. Udryd dem der er tilbage."
 	D234CB9A4CB33E35859A008D44C30B07 = "Risiko 1"
 	B4B917114A84B4B7F995BDBC8A2F9676 = "Risiko 1 - Lav Risiko"
 	9D37E9CA45B017DD9BD1B983E9BC4536 = "Risiko 2"
@@ -1127,7 +1127,7 @@ RÆKKEVIDDE"
 	CC7C238A4C745321D6FD99B6D3400893 = "Hoved Tekst"
 	82E225E84CCF00B3B3FB4FA32576387A = "Hovedbeklædning"
 	2C9023514249CB55C0B533BB531092E2 = "Headset"
-	D548CF454D1EBCA33D4F6380FA13D2E8 = "Tunge Boremaskine Dragt"
+	D548CF454D1EBCA33D4F6380FA13D2E8 = "Tung Bore Dragt"
 	8730107B4ADA8EC423D3D5838AAA73D0 = "Der findes intet bedre end svære udgravning opgaver."
 	D3CEDD9D421BA88578276D96147F751E = "Tungt guld!"
 	E9C145334D951620DCD4DBBD545322E2 = "Fandeme ja!"
@@ -1419,7 +1419,7 @@ TRÆD TIL SIDE!"
 	3C117BFD4C41C3D2DC6565B241F1B301 = "Jury-Rigged Boomstick"
 	08BFA3054CC84B0C1894C9816D5B3421 = "Bare Hår"
 	F31B75F548FC537AF855C688187CFC65 = "Bare Hår"
-	668E416F46D9AF9A2F0C289C99C5579B = "Bare følg de blinkende markører fra M.U.L.E.'en, som den efterlader når den vender tilbage til Flugt Kapselen."
+	668E416F46D9AF9A2F0C289C99C5579B = "Just follow the blinking markers the M.U.L.E. leaves behind when it is returning to the Escape Pod."
 	2B0D29E9465FD20F7DE22C9BCBF00899 = "Bare vis mig, hvor jeg skal skyde!"
 	6BF497F3455C1E2E0A86C4A891997F53 = "Bare vis mig, hvor jeg skal skyde!"
 	C1CFE7224A1EF9B09DE599AADA0C25AD = "Bare tage din tid, din gamle søde dame! Jeg har hele dagen!"
@@ -1725,8 +1725,8 @@ TUTORIAL"
 	A16DABD64A7B24C75F47F99D995DEB8B = "Morkite fundet!"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Morkite kvote opnået! Det var førsteklasse minedrift, team! Tilbagekaldeses-knappen på M.U.L.E.'en er aktiveret."
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite!"
-	79C599094EB6D6E6E02200AFC58E0859 = "De fleste fjender har svage punkter hvor dine skud gør mere skade og nogle fjender har exoskeletter, hvor dine skud ikke gør skade. "
-	44A3445A484377F58C5D6BBC70FFECF8 = "Musfølsomhed"
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points where your bullets do more damage and some enemies have exoskeletons, where your bullets do no damage. "
+	44A3445A484377F58C5D6BBC70FFECF8 = "Mouse Sensitivity"
 	5553884E4B6E6F00ADC8F985F6F4219A = "Slap af gutter! Vi ankommer snart til planeten!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "Fart på!"
 	30D2A4894E6CF7E90329B7ACCA48A50A = "Flyt den! Den er ved at sprænge!"
@@ -1735,7 +1735,7 @@ TUTORIAL"
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "Meget bedre!"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "Meget bedre!"
 	CD169B8F4540D97173D1A180A5C920B4 = "Multiplayer Session Endte"
-	80DCF1564FE0AF32ACCD80B57941FEA6 = "Flere dværge som arbejder sammen kan genoplive en nedskudt dværg hurtigere end en."
+	80DCF1564FE0AF32ACCD80B57941FEA6 = "Multiple dwarves working together can revive a downed dwarf faster than one."
 	EAB190A647BE3478A66B8FAAFB6A4C9E = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "Svamp!"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "Svamp!"
@@ -1906,7 +1906,7 @@ Men godt gået. :D
 	C79595634378DAEEAB740BB8AF143D3B = "PLANETARISK REGION"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "PLANETARISKE REGION:"
 	C21850D74844EA192C1FCEBA601C6261 = "PLANETARISK REGION:"
-	6837936E4EFB82CBEF489FAD5C73FE96 = "BEMÆRK VENLIGST! Du får ikke en større missions belønning ved at smide andre spillere ud! Faktisk mister du overlevelses bonussen fra spilleren!"
+	6837936E4EFB82CBEF489FAD5C73FE96 = "PLEASE NOTE! You do not earn a bigger mission reward by kicking players! Actually you will loose the survival bonus from this player!"
 	E4DEE1334E397283E5AADFA084AE3366 = "TILSLUT VENLIGST CONTROLLEREN IGEN"
 	2276DA03429396713203CBAC6EF3C810 = "KAPSEL ANKOMMER"
 	0E40CA4047102A62E43D82B23E361885 = "PLAKAT"
@@ -1915,18 +1915,18 @@ Men godt gået. :D
 	F3155C474EF53C36803B23875CCECF17 = "TRYK PÅ EN TAST FOR AT FORTSÆTTE"
 	A7FA5FB342C218181CDE8DADE821FD8F = "TRYK PÅ EN TAST FOR AT AFSLUTTE"
 	680CF46F443D5BB1D62DEDB346CB9C4C = "TRYK PÅ [CallDonkey] FOR AT KALDE PÅ M.U.L.E.'EN"
-	B8CCFBD24E3F27F250DB4698E51549C7 = "TRYK PÅ [Equip4] FOR AT VÆLGE FORSYNINGSKAPSEL OG DEREFTER TRYK PÅ [Fire] FOR AT BESTILLE DEN"
-	DA66CA3141162C3AF0D384B1DFD8A248 = "TRYK PÅ [Equip4] FOR AT VÆLGE FORSYNINGSKAPSEL OG DEREFTER TRYK PÅ [Fire] FOR AT BESTILLE DEN"
-	726A354D42D77EA0A34584944346937A = "TRYK PÅ [Equip5] FOR AT VÆLGE FORSYNINGSKAPSEL OG DEREFTER TRYK PÅ [Fire] FOR AT BESTILLE DEN"
-	9AD2FB414E12C8D2E3781DB47856BF5C = "TRYK PÅ [Equip5] FOR AT VÆLGE FORSYNINGSKAPSEL OG DEREFTER TRYK PÅ [Fire] FOR AT BESTILLE DEN"
+	B8CCFBD24E3F27F250DB4698E51549C7 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	DA66CA3141162C3AF0D384B1DFD8A248 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	726A354D42D77EA0A34584944346937A = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	9AD2FB414E12C8D2E3781DB47856BF5C = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
 	E501CABD480DE511EC843F83B6B411FB = "TRYK PÅ [Fire] FOR AT BESTILLE"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "TRYK PÅ [Flare] FOR AT KASTE EN FLARE"
 	E66F2965440023B51A13E5B5253ED0BC = "TRYK PÅ [Jump] FOR AT FORSÆTTE"
 	FD12F4A94EC35363633682B3B98ECBAE = "TRYK PÅ [Jump] FOR AT AFSLUTTE"
 	54252A9A47A6776CFE924B93B30F5B44 = "TRYK PÅ [Salute] FOR AT SALUTERE"
-	0E6FDF684AF461D269E215A191289E87 = "TRYK PÅ [Shout] FOR AT FÅ OPMÆRKSOMHED"
-	3E8D5A1F49894E7918B4F0B70CB2D74F = "TRYK PÅ [Shout] FOR AT FÅ OPMÆRKSOMHED"
-	7619D8004800B2FB339A57AD814FA511 = "TRYK PÅ [Shout] FOR AT KALDE PÅ BOSCO"
+	0E6FDF684AF461D269E215A191289E87 = "PRESS [Shout] TO CALL FOR ATTENTION"
+	3E8D5A1F49894E7918B4F0B70CB2D74F = "PRESS [Shout] TO CALL FOR ATTENTION"
+	7619D8004800B2FB339A57AD814FA511 = "PRESS [Shout] TO CALL FOR BOSCO"
 	7FABFBA24AAC4686FB3FCC9420150CF7 = "PRIVAT SPIL"
 	E6CE771943558977A67F7296A448F6B3 = "PROGRAMMØR"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "Offentlig servicemeddelelse! Der er fundet en efterladt granatkaster i messen. Af sikkerhedshensyn bedes våbenmateriel gemt væk mellem missionerne."
@@ -2119,7 +2119,7 @@ TILSLUTNING"
 	4DBF5FCA46C226DAF720B49F54DF6805 = "Genlader! Prøv at dæk mig!"
 	C9DD9C3749680AF60B1F0EBA022F9A90 = "Genlader! Prøv at dæk mig!"
 	D0B9772242CFC839ABDD478D638A0415 = "Husk at kigge op! Der kan være grimme kryb der gemmer sig lige over dig."
-	15C102484C0E9A6961FBC4A248F56025 = "Husk at kaste med nødblus. De genoplader automatisk med tiden, så spar ikke på dem!"
+	15C102484C0E9A6961FBC4A248F56025 = "Remember to throw flares. They automatically recharge over time, so don't hang on to them!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "Husk at Cave Leeches ikke er lige så bange for dig, som du er for dem!"
 	046C7D9F4E22D85C44E58984A38E9634 = "Nulstil Fremskridt"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "Nulstil Fremskridt"
@@ -2316,9 +2316,9 @@ Karakter"
 	075479CB45BF3835DE1846A51811C954 = "Vis BIS Tæller"
 	3127F8A540D246D860D961AD1DBF602F = "Vis HUD"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Vis dine venner hvad du har fundet"
-	D0E809FE415757354E08C9A6C291E826 = "Vis din taknemmelighed eller simpelthen bare fortæl dine holdkammerater hvordan fantastiske de er!"
+	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammates how awesome they are!"
 	74B817F049005FEE695B2694908686FE = "Log ind ændret"
-	ADFC64CD41433C1A817D5DB50257BE38 = "Deltag i vores Steam gruppe nedenunder for at deltage i Fællesskabet og hold dig opdateret med os, da vi fortsat udvider spillet - og gør krav på din belønning på 5.000 spil Kreditter til at give dig et enormt skub igennem dine første dage på arbejde i minerne på Hoxxes IV!"
+	ADFC64CD41433C1A817D5DB50257BE38 = "Deltag i vores Steam gruppe nedenunder for at deltage i Fællesskabet og hold dig opdateret med os, da vi fortsat udvider spillet - og gør krav på din belønning på 5.000 spil Kreditter til at give dig et enormt boost igennem dine første dage på arbejde i minerne på Hoxxes IV!"
 	C26B43B84BB1149261499DB1FBD9F2DB = "Logget ud"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "Stille Tak!"
 	82D5760A4D36C73A04E752BDC5DE965D = "Simpelt"
@@ -2707,8 +2707,8 @@ UDSTYR"
 	52E5E97D469E82156B90CC8C25548F3F = "Udgravende"
 	2639BDA74F3ACD0974675696C0A860D1 = "Uidentificeret objekt"
 	1CCE93164BD93498123304A5E8C9BE39 = "Uidentificeret objekt"
-	703DF5044CEA9A043B03E9ADB140DAF8 = "Frigør: Driller level 10"
-	28B90E074116D68D54B362B93DA7DCF6 = "Lås op for: Boreren niveau 20"
+	703DF5044CEA9A043B03E9ADB140DAF8 = "Lås op for: Boremesterniveau 10"
+	28B90E074116D68D54B362B93DA7DCF6 = "Lås op for: boremester niveau 20"
 	A3EADF3A4BC64F4A04FE4AB882C1376D = "Lås op for: Teknikker niveau 10"
 	9F2B445A4BE43F77267AC2A9F37671C8 = "Lås op for: Teknikker niveau 20"
 	D2CA04484BB9D7BBEE6E4EBFE4D67FE5 = "Lås op for: Skytte niveau 10"
@@ -2737,7 +2737,7 @@ UDSTYR"
 	DCFBD7324089FC4A26DAED8105688BB3 = "Øvre Arktiske Kappe"
 	7032AA244E5FD6DEE82BE593FC832250 = "Brug"
 	4C00DDD243A216F0336201B7EB60440A = "Brug Laserpointeren for at få Bosco til at mine mineraler og/eller bekæmpe bestemte fjender."
-	32E67FE9406320B0C0226FA6475494C3 = "Brug din laserpen til at markere mineraler, fjender, og punkter af undring til dine holdkammerater."
+	32E67FE9406320B0C0226FA6475494C3 = "Use your Laser Pointer to mark minerals, enemies, and Points of Interest for your fellow team mates."
 	88ED55324ED7EDDD65B8768C6514E5D9 = "Utgghhbabab!"
 	10DA06984D53C8868A318FBB76C3C514 = "FORFÆNGELIGHEDS BUTIK"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "STEMME SKUESPIL"
@@ -2749,7 +2749,7 @@ UDSTYR"
 	67B818674B721E052DFEEF81146999D1 = "Meget snigende"
 	68B709344A8627F954B1E2B3BAF3458D = "Meget snigende"
 	809E655D4A757F85090DB4B6359A680D = "Besøg OPGRADER UDSTYR terminalen på Rum Stationen og brug dine hårdt tjente kreditter på at opgradere dit udstyr!"
-	7ED249D745DD40186CB8C884C4A686F8 = "Besøg FORFÆNGELIGHEDS BUTIKKEN for at bruge din kreditter og sjældne mineraler til at få nye rustninger, hovedbeklædning og skæg."
+	7ED249D745DD40186CB8C884C4A686F8 = "Visit the VANITY SHOP to spend your credits and rare minerals to get new armors, headgear and beards."
 	2D2A6357468F84A1FE3FC982E155948C = "Stemme Chat"
 	26B91DA946637579724DD58AA270B500 = "Stemme Lydstyrke"
 	3EB811FD4977F29355F8FC8BD33CD50A = "Vrghh"

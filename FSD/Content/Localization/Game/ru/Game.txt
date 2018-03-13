@@ -1,7 +1,7 @@
 19 namespaces
-2335 values
+2338 values
 
-Namespace Global (3015 keys)
+Namespace Global (3021 keys)
 	1E1ADC13406ED5FA28EF4D97D3BECB48 = "+{bonus}%"
 	C7A2859F450D8B339A4CE1876CAB0134 = " +{bonus}%"
 	2559D78C40005E5221F26093CB976283 = " {Title}: собрано {Collected}/{Required}"
@@ -101,6 +101,8 @@ Namespace Global (3015 keys)
 -Некорректное обновление карты при изменениях окружения
 "
 	610A35A6460AE74E8D2B5B9D80081A9A = "...Всё, что весит меньше 50 килограмм, не имеет права считаться оружием."
+	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
+	7CFB443C471CE28E2E8BFAAE8F278274 = "1"
 	24275AA04B9E3A6802EB17AD93E436DA = "00:00"
 	81660656462336F51DE46984E9ADB2ED = "00:00"
 	7B2076844D80C85AAB1B9AA6253FB39C = "00:{mm}::{ss}"
@@ -120,6 +122,7 @@ Namespace Global (3015 keys)
 	C4074DC14285A41787355CA8FC85F54B = "3... 2... 1... Курс на орбиту."
 	0838C2284D6C18474F43F399A23E5E63 = "42"
 	0D64808D4847E68080B0E696BA1C1B66 = "5.000 кредитов получено!"
+	8A86FBA942812BB1C9A9528364981C49 = "534534534"
 	C5837C0E4FEA824B3B62749063D03F98 = "8"
 	1C40AD8D4C07159650EA09B9CADCBADA = "99999 / 99999"
 	D03FB873468821CB45B5E8AC1169142C = ":"
@@ -1126,11 +1129,11 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "УДЕРЖИВАЙТЕ [Laserpointer], ЧТОБЫ ИСПОЛЬЗОВАТЬ ЛАЗЕРНЫЙ УКАЗАТЕЛЬ"
 	565BE2CA4157D153FE965A8438508B5B = "УДЕРЖИВАЙТЕ [Laserpointer], ЧТОБЫ УКАЗАТЬ НА ТОЧКУ, ЗАТЕМ НАЖМИТЕ [Fire], ЧТОБЫ ОТДАТЬ БОСКО ПРИКАЗ"
 	74486D6942276263895A82B17BFF003E = "УДЕРЖИВАЙТЕ [Laserpointer], ЧТОБЫ УКАЗАТЬ НА ТОЧКУ, ЗАТЕМ НАЖМИТЕ [Fire], ЧТОБЫ ОТДАТЬ БОСКО ПРИКАЗ"
-	96A8E6A14FEFCD974370709BCCF5FA74 = "УДЕРЖИВАЙТЕ [Laserpointer], ЧТОБЫ УКАЗАТЬ НА ТОЧКУ, ЗАТЕМ НАЖМИТЕ [Fire], ЧТОБЫ ПОСТАВИТЬ МЕТКУ"
+	96A8E6A14FEFCD974370709BCCF5FA74 = "HOLD [Laserpointer] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	7C4704B14AAD52938BA369B2BF3D358B = "УДЕРЖИВАЙТЕ [Shout], ЧТОБЫ ИСПОЛЬЗОВАТЬ ЛАЗЕРНЫЙ УКАЗАТЕЛЬ"
 	C8D9A6484B38D1A68FDCA1A7ADC4D8E8 = "УДЕРЖИВАЙТЕ [Shout], ЧТОБЫ УКАЗАТЬ НА ТОЧКУ, ЗАТЕМ НАЖМИТЕ [Fire], ЧТОБЫ ОТДАТЬ БОСКО ПРИКАЗ"
 	F4DE0706460FD4BBF961D8BA2846ECE9 = "УДЕРЖИВАЙТЕ [Shout], ЧТОБЫ УКАЗАТЬ НА ТОЧКУ, ЗАТЕМ НАЖМИТЕ [Fire], ЧТОБЫ ОТДАТЬ БОСКО ПРИКАЗ"
-	119D95F84C45A60432C6B2AD12B9E156 = "УДЕРЖИВАЙТЕ [Shout], ЧТОБЫ УКАЗАТЬ НА ТОЧКУ, ЗАТЕМ НАЖМИТЕ [Fire], ЧТОБЫ ПОСТАВИТЬ МЕТКУ"
+	119D95F84C45A60432C6B2AD12B9E156 = "HOLD [Shout] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	E949901E4D390B0F929A60AD688B7FDE = "ТОЛЬКО ХОСТ"
 	8EB05D1D4CAC8EA907FF9CB896638929 = "СОЗДАТЬ ЧАСТНУЮ КОМНАТУ"
 	78AA4598413B0966965A5B81CD0CC24E = "СОЗДАТЬ ПУБЛИЧНУЮ ИГРУ"
@@ -1161,100 +1164,99 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	8730107B4ADA8EC423D3D5838AAA73D0 = "Масштабные раскопки... красота!"
 	D3CEDD9D421BA88578276D96147F751E = "Много золота!"
 	E9C145334D951620DCD4DBBD545322E2 = "Да, чёрт возьми!"
-	FB030C5E408CAF6B057043A6929F5689 = "Здравствуйте, шахтеры!
+	FB030C5E408CAF6B057043A6929F5689 = "Hello Miners!
 
-Deep Rock Galactic вот уже неделю, как вышла в мир. Мы закончили праздновать отличный запуск (Да!) и вернулись к работе по выпуску новых обновлений и планированию на будущее. В игре есть кнопка обратной связи, и мы очень благодарны тысячам людей, уже использовавшим ее. Это - огромное подспорье в работе.
-Отзывы говорят нам, что мы делаем многое правильно, но в то же время есть важные проблемы, требующие немедленного решения. Первая версия системы привязки клавиш была выпущена в предыдущем патче, поэтому сейчас мы дорабатываем систему исключения игроков, перебалансируем Бурильщика и учим Боско атаковать пещерных пиявок. Все это и МНОГОЕ другое - в новом обновлении. Подробности об изменениях ниже.
+Deep Rock Galactic has now been in the wild for 1 week. We have finished celebrating the awesome launch (yeah!) and are now hard at work getting new updates out and planning the future. Inside the game, we have a nice feedback button, and a big thanks to the thousands of you who have already taken advantage of this. It’s an extremely big help.
+The feedback tells us we are definitely on to something good here, but it’s equally clear we have some we also hot topics that need some immediate love. First iteration of Key Bindings went in through the previous patch, and this time we have focused on fixes for the Kick feature, tweaks to the Driller and fixing Bosco's inability to kill Cave Leeches. All of these and MANY more are in the new update. You can scroll down and see all the patch notes below. 
 
---- Улучшения Бурильщика ---
-Бурильщик - пожалуй, самый уникальный класс в игре, и нам грустно видеть нашего любимого рудокопа ценимым ниже всех других классов. Поэтому мы внесли изменения в его огнемет и буры. В подробных изменениях ниже вы сможете увидеть точные цифры, которые, возможно, заодно подкинут вам пару идей о том, как за него лучше играть.
+--- Driller Buffs ---
+The Driller is probably the most unique class in Deep Rock Galactic, so we were sad to see our iconic drilldozer valued below the other three classes in usefulness. Therefore, we have tweaked both his Flamethrower and Drills. In the detailed patch notes below, you can see the exact stat changes, which might also give you some hints on how to better utilize the Driller.
 
---- Выплаты за проваленные миссии и исключение ---
-Очень быстро проявились две проблемы: неудовлетворение механикой выплат за проваленные миссии, а также то, что игроков можно было исключать из миссии в любое время. Мы предприняли первые попытки решить эти проблемы, а именно:
+--- Payout on Mission Failed & Kicking ---
+Two issues pretty quickly started to show themselves: Dissatisfaction with the way we’ve handled a Mission Failed scenario in regards to payout, and the fact that players could be kicked from the team at any given time. We’ve worked out a first pass on a solution for both these, as listed below:
 
-Во-первых, провал миссии означал полное отсутствие выплат. Теперь же вы получите компенсацию в 25% от того, что было собрано в Молли на момент окончания миссии.
+Firstly, it used to be that failing a mission meant NO payout at all. Now, failing a mission will give you a compensation of 25% of the minerals stored in Molly at the time of the mission ending. 
 
-Во-вторых, исключение из миссии приведет к засчитыванию ее проваленной, и вы получите компенсацию, основанную на том, что было собрано в Молли с момента вашего присоединения до исключения.
+Secondly, getting Kicked from a team will result in a Mission Failed case, where you will receive compensation based on what was added to Molly since you joined that session. 
 
-Присоединиться к миссии или выгонять игроков после запуска таймера эвакуации больше нельзя. На настоящий момент это тестируется, и мы будем внимательно следить за результатами, а в случае необходимости - легко сможем отменить эти изменения.
+It is now no longer possible to Join or being Kicked from a team once the Drop Pod has been called and the final countdown has begun. This is a test for now and we’ll monitor the outcome - and it’s a pretty easy fix, so we can quickly backpedal if needed.
 
-Также очень важно понимать. что приводит к успеху миссии. Вам может показаться, что награда распределяется только среди выживших. Это не так. Мы вычисляем общее значение, и каждый игрок получает одинаковую награду, вне зависимости от размеров команды. Однако каждый выживший игрок добавит бонус за выживание. который также был увеличен. "Дворфов не бросать!" - вот в чем должна быть суть, ведь чем больше игроков выживет. тем выше награда!
-
-
+Also, it is extremely important to understand how Mission Complete works. You might think that the rewards are split out between survivors. They are not. We calculate the total and then each player in the session gets that same reward, regardless of the size of the team. On top of this, each surviving player adds a Survivor Bonus, which has been boosted also. “Leave No Dwarf Behind” should be the ethos here - the more players manage to get out alive, the greater the bonus for all involved!
 
 
-Мы решили не применять механику изгнания игроков по голосованию в этом обновлении, хотя некоторые игроки об этом просили. Для ее введения понадобится немало работы, а мы пока не уверены, что это - лучший выход. Есть неплохие аргументы как за, так и против подобной механики, и мы продолжаем наблюдать за ситуацией. То же самое относится и к кнопке голосования на Молли.
-
---- Боско ---
-Как сказано в заметках ниже, Боско был серьезно усилен, и его способность убивать пещерных пиявок должна значительно увеличиться. Должна, поскольку до конца мы проблему еще не решили, но по крайней мере теперь играть должно стать приятнее.
-
---- Коллекционные карточки ---
-Вот с ними получилось неудобно. Оказывается, их нужно публиковать вручную при запуске игры на платформу Steam. Упс. Хорошие новости в том, что теперь мы их ввели и они вас ждут!
 
 
---- Планы ---
-В середине недели у нас в студии было большое совещание по отзывам. Мы собрали все отзывы игроков, разработчиков и наших партнеров. Мы можем и сделаем множество крутых вещей, чтобы углубить и развить Dttp Rock Galactic. Сейчас вопрос в том, что именно из них вводить, и в каком порядке, но мы планируем выпустить более внятный план на ближайшие месяцы через несколько недель.
+We have elected not to implement vote-kicking with this update, despite some players asking for it. It’s a fair bit of work to implement, and we are not completely convinced it is the way to go at this point. That said, there are good arguments both for and against this feature, and we will continue to monitor the situation. The same goes for a vote button on Molly. 
 
---- Заметки об обновлении ---
+--- Bosco ---
+Detailed in the patch notes below, Bosco has received a fairly significant buff, and his ability to kill Cave Leeches should have been improved. We write “should” since this issue will need further work to squash fully, but it should at least be a better experience all round now.
+
+--- Trading Cards ---
+This one is a bit embarrassing. Turns out you have to manually have to publish the Trading Cards when you launch a new game on Steam. Whoops. The good news is that they are implemented now and await harvesting!
 
 
-Окончание миссии
--Бонус за выживание удвоен с 75 до 150 кредитов за игрока
--Провал миссии дает 25% компенсацию от собранных минералов
+--- Roadmap ---
+Midweek, we had a big feedback meeting here at the Ghost Ship office. We’ve gathered all the feedback from you, the players, as well as feedback from the dev team and our partners. There are SO MANY cool things we can and will do to expand Deep Rock Galactic. Task for now is to choose which ones go in the game, and in which order, and we plan to reveal a greater and more comprehensive road map for the coming months over the next few weeks. 
 
-Кооперативные игры
--Изгнание из сессии теперь приводит к засчитыванию провала миссии, а компенсация рассчитывается на основе вашего вклада
--Добавлены новые требования к изгнанию и информацию, почему вас выгнали
--К играм больше нельзя присоединиться после вызова эвакуации
--Игроков больше нельзя выгонять после начала эвакуации
--Изменен текст на Карте миссий в соответствии с новой системой публичных/приватных игр
--Фильтр серверов доработан для показа открытых и запароленных игр
--В меню добавлен флажок для создания приватных игр
--Команде добавлено оповещение о подключающемся игроке
+--- Patch Notes ---
 
-Одиночный режим
--Боско теперь должен чаще спасать вас от пещерных пиявок
--Боско теперь тоже может поиграть со светом. Вжух - и вы можете видеть намного больше, чем раньше :)
--Боско наносит урон от дружественного огня с коэффициентом 0,2 вместо 1
--Боско наносит в да раза больше урона (6 вместо 3)
--Боско получает ускорение в 250% при получении приказа. Еще это увеличивает его разгон с 300 до 550
+Mission End
+- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
+- Mission Failed now gives a 25% compensation reward based on minerals collected
 
-Баланс классов: усилены инструменты бурильщика
--Емкость баков огнемета увеличена со 160 до 270 единиц, а каждый бак теперь содержит не 80, а 90 единиц топлива. Это значит, что у огнемета теперь три полных перезарядки. а не две, и в каждой больше топлива.
--Дальность действия огнемета увеличена с 8,5 до 10 метров
--Буры: количество топлива увеличено со 30 до 35
--Скорость перемещения при бурении увеличена на 10%
--Ближний бой с бурами: скорость атаки УДВОЕНА, но урон за атаку снижен с 10 до 8 единиц (чтобы скомпенсировать двойную скорость атаки)
--Улучшение урона буров в ближнем бою: с 5 до 4 единиц здоровья (чтобы скомпенсировать двойную скорость атаки)
+Co-op sessions
+- Getting kicked now results in Mission Failed, compensation based on contribution
+- Added a new flow and info for Kicking and getting Kicked
+- You can no longer Join a session after Drop Pod has been called
+- You can no longer Kick a player from a session after Drop Pod has been called
+- Tweaked text on Mission Map in regards to new public/ private flow
+- Reworded Server List filter to Show Open and Show Password Servers
+- Add Private Server checkbox in escape menu
+- Added indicator for a joining player to team view 
 
-Начальный экран
--Добавлены новости обновлений (вот этот текст)
--Кнопка и текст про группу Steam больше не показываются после получения награды
+Solo mode
+- Bosco should now save you from the cave leeches more consistently
+- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
+- Bosco now has friendly fire reduction 0.2 instead of 1
+- Bosco Deals 100 % more damage (doubled from 3 to 6)
+- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
 
-Звуки, эффекты и анимация
--Анимации ожидания для пистолета и револьвера (также запускаются перезарядкой при полном магазине)
--Новые звуки для шароплюя и личинки
--Вернули черный дым от огнемета. Он в результате ошибки был белым... Теперь он снова выглядит круто!
+Class Balance: Buffed the Driller’s tools
+- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
+- Flamethrower Range upped from 8.5m to 10 m
+- Power Drills: Fuel upped from 30 to 35
+- Increased walk speed while drilling with 10 %
+- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
+- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
 
-Пещеры
--Добавили больше вариантов пещер в генератор.
--Большая изменчивость у ранее введенных пещер.
--Новая опасность окружения - паутина. Не попадитесь!
+Intro screen
+- Added patch notes (this text) to Intro screen
+- Text & Button for Steam group no longer shown when rewards have already been claimed
 
-Локализация
--Добавили выбор языков на вступительный экран
--Добавлены хорватский, финский, итальянский и японский
--Обновлены все языки (как всегда, новые вещи остались позади и показываются на английском)
--Обновлен список переводчиков сообщества в титрах
--В польский добавлены отсутствовавшие символы.
--Некоторые текстовые кнопки не обновлялись при смене языка. 
+Sound, Effects & Animations
+- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
+- New Spitballer sound and Maggot sound
+- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
 
-Общие изменения
--некоторые украшения неверно отображались в терминале
--кнопка "5" теперь доступна для переназначения
--Исправлен вылет при попытке присоединиться к игре, когда она только закончилась
--Исправлено: текст подсказок при загрузке больше изменять нельзя!
--Некорректное обновление карты при изменениях окружения
+Caves
+- More cave shapes added to the random generator.
+- More randomness on existing cave shapes.
+- New sticky web environmental hazard. Don't get caught!
+
+Localization
+- Added language selection to Intro screen
+- Croatian, Finnish, Italian and Japanese added
+- All languages updated (as usual new features lagging behind, will show English)
+- Updated community translator credits
+- Added missing characters for Polish language.
+- Some buttons with text did not correctly update after a new language was selected.  
+
+Misc Fixes
+- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
+- Key '5' is now available for custom key bindings
+- Fix Late Join crash if joining right when the level ends. 
+- Fixed: you can no longer edit the Hint text while loading! 
+- Maptool not updating correctly when terrian changes
 "
 	A443FA134FE39088BA757F8F84D0ADC9 = "Привет и пока!"
 	F5EAAC5340766A2A9FC2DF8B49239CB2 = "Здравствуйте и добро пожаловать!"
@@ -1307,7 +1309,8 @@ Deep Rock Galactic вот уже неделю, как вышла в мир. Мы
 	750188DB451F33ED142F4D9022000EC4 = "Домой"
 	CDC237994EF10DAC827317AE01EDF4AB = "Надеюсь, сегодня будет лучше, чем вчера!"
 	2D3616864CCD114C352D768524620CCF = "Хост покинул игру"
-	474D2304485CCA3E89CAE2B8EB06330F = "Host: Public"
+	5DB06C2E4767C351EEDBF3AAD02CD0EC = "Частная игра"
+	474D2304485CCA3E89CAE2B8EB06330F = "Публичная игра"
 	62725DDA48CFD7061B7D9BB69399C458 = "Враг!"
 	23EB62414882D57DE5EA68A443DC70B3 = "Противник отступает! Добиваем гадов!"
 	0A7AAE4649D874E7B006FDA1D392F664 = "Противников убито командой"
@@ -1547,7 +1550,7 @@ Deep Rock Galactic вот уже неделю, как вышла в мир. Мы
 	3C117BFD4C41C3D2DC6565B241F1B301 = "Самодельная «бум-палка»"
 	08BFA3054CC84B0C1894C9816D5B3421 = "Просто волосы"
 	F31B75F548FC537AF855C688187CFC65 = "Просто волосы"
-	668E416F46D9AF9A2F0C289C99C5579B = "Просто следуйте за сигнальными маркерами, которые МУЛ оставляет по пути к спасательной капсуле."
+	668E416F46D9AF9A2F0C289C99C5579B = "Just follow the blinking markers the M.U.L.E. leaves behind when it is returning to the Escape Pod."
 	2B0D29E9465FD20F7DE22C9BCBF00899 = "Просто покажите мне, куда стрелять!"
 	6BF497F3455C1E2E0A86C4A891997F53 = "Просто покажите мне, куда стрелять!"
 	C1CFE7224A1EF9B09DE599AADA0C25AD = "Можешь не торопиться, старушка! У меня ведь куча времени!  "
@@ -1858,8 +1861,8 @@ Deep Rock Galactic вот уже неделю, как вышла в мир. Мы
 	A16DABD64A7B24C75F47F99D995DEB8B = "Нашел моркит!"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Норма по моркиту выполнена! Просто образцовая смена, команда! Кнопка эвакуации на МУЛЕ активирована."
 	313CA2134D73053B2711D3A5510C1E94 = "Моркит!"
-	79C599094EB6D6E6E02200AFC58E0859 = "У многих противников есть слабые места. Попадание в эти места наносит больше урона. У других врагов есть экзоскелет, попадая в который, пули не наносят урона вовсе. "
-	44A3445A484377F58C5D6BBC70FFECF8 = "Чувствительность мыши"
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points where your bullets do more damage and some enemies have exoskeletons, where your bullets do no damage. "
+	44A3445A484377F58C5D6BBC70FFECF8 = "Mouse Sensitivity"
 	5553884E4B6E6F00ADC8F985F6F4219A = "Двигайтесь, парни! Мы спускаемся на поверхность!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "Идём уже!"
 	30D2A4894E6CF7E90329B7ACCA48A50A = "Берегись, сейчас рванет!"
@@ -1868,7 +1871,7 @@ Deep Rock Galactic вот уже неделю, как вышла в мир. Мы
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "Так намного лучше!"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "Намного лучше!"
 	CD169B8F4540D97173D1A180A5C920B4 = "Сессия Закончена"
-	80DCF1564FE0AF32ACCD80B57941FEA6 = "Несколько дворфов, работающих сообща, быстрее вернут раненного дворфа в строй."
+	80DCF1564FE0AF32ACCD80B57941FEA6 = "Multiple dwarves working together can revive a downed dwarf faster than one."
 	8F3B09024FA15B01CDF7FC924324A846 = "Мускарин узколистный"
 	EAB190A647BE3478A66B8FAAFB6A4C9E = "Мускарин узколистный"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "Гриб!"
@@ -2040,7 +2043,7 @@ But well done. :D
 	C79595634378DAEEAB740BB8AF143D3B = "РЕГИОН ПЛАНЕТЫ"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "РЕГИОН ПЛАНЕТЫ:"
 	C21850D74844EA192C1FCEBA601C6261 = "РЕГИОН ПЛАНЕТЫ:"
-	6837936E4EFB82CBEF489FAD5C73FE96 = "ВНИМАНИЕ! Вы не заработаете больше, выгоняя игроков! Более того, вы еще и потеряете награду за выживание этих игроков!"
+	6837936E4EFB82CBEF489FAD5C73FE96 = "PLEASE NOTE! You do not earn a bigger mission reward by kicking players! Actually you will loose the survival bonus from this player!"
 	E4DEE1334E397283E5AADFA084AE3366 = "ПОЖАЛУЙСТА, ПЕРЕПОДКЛЮЧИТЕ КОНТРОЛЛЕР"
 	2276DA03429396713203CBAC6EF3C810 = "КАПСУЛА ПРИБЫВАЕТ"
 	0E40CA4047102A62E43D82B23E361885 = "ПЛАКАТ"
@@ -2049,18 +2052,18 @@ But well done. :D
 	F3155C474EF53C36803B23875CCECF17 = "НАЖМИТЕ ЛЮБУЮ КЛАВИШУ, ЧТОБЫ ПРОДОЛЖИТЬ"
 	A7FA5FB342C218181CDE8DADE821FD8F = "НАЖМИТЕ ЛЮБУЮ КЛАВИШУ, ЧТОБЫ ВЫЙТИ"
 	680CF46F443D5BB1D62DEDB346CB9C4C = "НАЖМИТЕ [CallDonkey], ЧТОБЫ ПОЗВАТЬ МУЛА"
-	B8CCFBD24E3F27F250DB4698E51549C7 = "НАЖМИТЕ [Equip4] ДВАЖДЫ, ЧТОБЫ ВЫБРАТЬ КАПСУЛУ СНАБЖЕНИЯ, ЗАТЕМ [Fire], ЧТОБЫ ЗАКАЗАТЬ ЕЕ"
-	DA66CA3141162C3AF0D384B1DFD8A248 = "НАЖМИТЕ [Equip4] ДВАЖДЫ, ЧТОБЫ ВЫБРАТЬ КАПСУЛУ СНАБЖЕНИЯ, ПОТОМ НАЖМИТЕ [Fire], ЧТОБЫ ЗАКАЗАТЬ ЕЕ"
-	726A354D42D77EA0A34584944346937A = "НАЖМИТЕ [Equip5], ЧТОБЫ ВЫБРАТЬ КАПСУЛУ СНАБЖЕНИЯ, А ПОТОМ [Fire], ЧТОБЫ ЗАКАЗАТЬ ЕЕ"
-	9AD2FB414E12C8D2E3781DB47856BF5C = "НАЖМИТЕ [Equip5], ЧТОБЫ ВЫБРАТЬ КАПСУЛУ СНАБЖЕНИЯ, А ПОТОМ [Fire], ЧТОБЫ ЗАКАЗАТЬ ЕЕ"
+	B8CCFBD24E3F27F250DB4698E51549C7 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	DA66CA3141162C3AF0D384B1DFD8A248 = "PRESS [Equip4] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	726A354D42D77EA0A34584944346937A = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	9AD2FB414E12C8D2E3781DB47856BF5C = "PRESS [Equip5] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
 	E501CABD480DE511EC843F83B6B411FB = "НАЖМИТЕ [Fire], ЧТОБЫ ЗАКАЗАТЬ"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "НАЖМИТЕ [Flare], ЧТОБЫ БРОСИТЬ ФАЛЬШФЕЙЕР"
 	E66F2965440023B51A13E5B5253ED0BC = "НАЖМИТЕ [Jump], ЧТОБЫ ПРОДОЛЖИТЬ"
 	FD12F4A94EC35363633682B3B98ECBAE = "НАЖМИТЕ [Jump], ЧТОБЫ ВЫЙТИ"
 	54252A9A47A6776CFE924B93B30F5B44 = "НАЖМИТЕ [Salute] И ПОПРИВЕТСТВУЙТЕ КОМАНДУ"
-	0E6FDF684AF461D269E215A191289E87 = "НАЖМИТЕ [Shout], ЧТОБЫ ПРИВЛЕЧЬ ВНИМАНИЕ"
-	3E8D5A1F49894E7918B4F0B70CB2D74F = "НАЖМИТЕ [Shout], ЧТОБЫ ПРИВЛЕЧЬ ВНИМАНИЕ"
-	7619D8004800B2FB339A57AD814FA511 = "НАЖМИТЕ [Shout], ЧТОБЫ ПОЗВАТЬ БОСКО"
+	0E6FDF684AF461D269E215A191289E87 = "PRESS [Shout] TO CALL FOR ATTENTION"
+	3E8D5A1F49894E7918B4F0B70CB2D74F = "PRESS [Shout] TO CALL FOR ATTENTION"
+	7619D8004800B2FB339A57AD814FA511 = "PRESS [Shout] TO CALL FOR BOSCO"
 	7FABFBA24AAC4686FB3FCC9420150CF7 = "ЧАСТНАЯ КОМНАТА"
 	E6CE771943558977A67F7296A448F6B3 = "ПРОГРАММИСТ"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "Объявление: в столовой был найден брошенный гранатомет. Соблюдайте технику безопасности! Между миссиями тяжелое вооружение должно храниться в сейфе."
@@ -2255,7 +2258,7 @@ But well done. :D
 	4DBF5FCA46C226DAF720B49F54DF6805 = "Перезаряжаюсь, прикройте!"
 	C9DD9C3749680AF60B1F0EBA022F9A90 = "Перезаряжаюсь, прикройте меня!"
 	D0B9772242CFC839ABDD478D638A0415 = "Не забывайте поглядывать наверх! На потолке могут прятаться всякие жуки."
-	15C102484C0E9A6961FBC4A248F56025 = "Не забывайте бросать факелы. Они восстанавливаются со временем, так что не надо экономить!"
+	15C102484C0E9A6961FBC4A248F56025 = "Remember to throw flares. They automatically recharge over time, so don't hang on to them!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "Помните, пещерные пиявки боятся вас гораздо меньше, чем вы их!"
 	046C7D9F4E22D85C44E58984A38E9634 = "Сбросить прогресс"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "Сбросить прогресс"
@@ -2455,7 +2458,7 @@ But well done. :D
 	075479CB45BF3835DE1846A51811C954 = "Показать счетчик FPS"
 	3127F8A540D246D860D961AD1DBF602F = "Показать интерфейс"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Покажите друзьям, что вы обнаружили"
-	D0E809FE415757354E08C9A6C291E826 = "Выразите благодарность. Или просто скажите товарищам, какие они потрясающие!"
+	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammates how awesome they are!"
 	74B817F049005FEE695B2694908686FE = "Вход в систему изменен"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Подпишись на нашу группу в Steam, чтобы присоединиться в сообществу игроков и всегда быть в курсе того, как развивается игра, а также получи в качестве награды 5000 внутреигровых кредитов, которые очень сильно помогут тебе в первые дни работы в шахтах Хокссеса IV!"
 	C26B43B84BB1149261499DB1FBD9F2DB = "Вы вышли"
@@ -2901,7 +2904,7 @@ We  can’’t waait,  guyss andd galls. TThis  is ggonnaa be  awessome.. Wellco
 	DCFBD7324089FC4A26DAED8105688BB3 = "Верхняя арктическая мантия"
 	7032AA244E5FD6DEE82BE593FC832250 = "Использовать"
 	4C00DDD243A216F0336201B7EB60440A = "Используйте лазерный указатель, чтобы приказать Боско добывать минералы или атаковать определенного врага."
-	32E67FE9406320B0C0226FA6475494C3 = "Используйте лазерный указатель, чтобы сообщать команде о минералах, врагах и просто интересных находках."
+	32E67FE9406320B0C0226FA6475494C3 = "Use your Laser Pointer to mark minerals, enemies, and Points of Interest for your fellow team mates."
 	88ED55324ED7EDDD65B8768C6514E5D9 = "Утгх-хба-баб!"
 	10DA06984D53C8868A318FBB76C3C514 = "МАГАЗИН УКРАШЕНИЙ"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "ОЗВУЧКА"
@@ -2913,7 +2916,7 @@ We  can’’t waait,  guyss andd galls. TThis  is ggonnaa be  awessome.. Wellco
 	67B818674B721E052DFEEF81146999D1 = "Сама скрытность"
 	68B709344A8627F954B1E2B3BAF3458D = "Сама скрытность"
 	809E655D4A757F85090DB4B6359A680D = "Посетите терминал «УЛУЧШЕНИЕ СНАРЯЖЕНИЯ» на станции — потратьте честно заработанные кредиты на снаряжение получше!"
-	7ED249D745DD40186CB8C884C4A686F8 = "Посетите МАГАЗИН УКРАШЕНИЙ, чтобы потратить свои кредиты и редкие минералы на новую броню, головные уборы и бороду."
+	7ED249D745DD40186CB8C884C4A686F8 = "Visit the VANITY SHOP to spend your credits and rare minerals to get new armors, headgear and beards."
 	2D2A6357468F84A1FE3FC982E155948C = "Голосовой чат"
 	26B91DA946637579724DD58AA270B500 = "Громкость голоса"
 	3EB811FD4977F29355F8FC8BD33CD50A = "Вр-ргх-х!"
@@ -3161,6 +3164,8 @@ We  can’’t waait,  guyss andd galls. TThis  is ggonnaa be  awessome.. Wellco
 	BA57259648A0E24914B76BB01638575A = "[UNKNOWN]"
 	84A642794D675810407F91B2A380BD40 = "[UPGRADE NAME]"
 	F8EAE16E4F7BE7C1EC17B0ABF5ABB6A3 = "asd"
+	8B2149564AD35C1FF62E0CACBB0A0D3C = "gfdgfdgfd"
+	C90938654584A3EB0B1E6791A21050FD = "gfdgfdgfd"
 	8EC1C09C4F501D353009BC8C76F43239 = "заказывает капсулу снабжения!"
 	D12EA8F6413DEC0338403682DB15C0FA = "Хр-рм-м!"
 	E4BB53BC45BCF0949E4F16912BAD82E3 = "https://discord.gg/DRG"
