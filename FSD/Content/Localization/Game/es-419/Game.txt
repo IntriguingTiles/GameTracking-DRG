@@ -1,7 +1,7 @@
-19 namespaces
-2271 values
+22 namespaces
+2270 values
 
-Namespace Global (2729 keys)
+Namespace Global (2723 keys)
 	2559D78C40005E5221F26093CB976283 = " Recoger {Collected}/{Required}{Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESARIO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Diseñador de sonido / productor musical"
@@ -35,66 +35,6 @@ Namespace Global (2729 keys)
 	40BA2C6D48C0FFAD42755B8B530D8031 = "- Analizando -"
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "- Seleccione Misión en la Terminal de Misión -"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "-ANALIZADOR DE TERRENO MK2-"
-	390133F54945CBDDE52B8898E7814A7D = "---Update 9: Patch Notes---
-
-Mission End
-- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
-- Mission Failed now gives a 25% compensation reward based on minerals collected
-
-Co-op sessions
-- Getting kicked now results in Mission Failed, compensation based on contribution
-- Added a new flow and info for Kicking and getting Kicked
-- You can no longer Join a session after Drop Pod has been called
-- You can no longer Kick a player from a session after Drop Pod has been called
-- Tweaked text on Mission Map in regards to new public/ private flow
-- Reworded Server List filter to Show Open and Show Password Servers
-- Add Private Server checkbox in escape menu
-- Added indicator for a joining player to team view 
-
-Solo mode
-- Bosco should now save you from the cave leeches more consistently
-- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
-- Bosco now has friendly fire reduction 0.2 instead of 1
-- Bosco Deals 100 % more damage (doubled from 3 to 6)
-- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
-
-Class Balance: Buffed the Driller’s tools
-- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
-- Flamethrower Range upped from 8.5m to 10 m
-- Power Drills: Fuel upped from 30 to 35
-- Increased walk speed while drilling with 10 %
-- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
-- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
-
-Intro screen
-- Added patch notes (this text) to Intro screen
-- Text & Button for Steam group no longer shown when rewards have already been claimed
-
-Sound, Effects & Animations
-- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
-- New Spitballer sound and Maggot sound
-- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
-
-Caves
-- More cave shapes added to the random generator.
-- More randomness on existing cave shapes.
-- New sticky web environmental hazard. Don't get caught!
-
-Localization
-- Added language selection to Intro screen
-- Croatian, Finnish, Italian and Japanese added
-- All languages updated (as usual new features lagging behind, will show English)
-- Updated community translator credits
-- Added missing characters for Polish language.
-- Some buttons with text did not correctly update after a new language was selected.  
-
-Misc Fixes
-- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
-- Key '5' is now available for custom key bindings
-- Fix Late Join crash if joining right when the level ends. 
-- Fixed: you can no longer edit the Hint text while loading! 
-- Maptool not updating correctly when terrian changes
-"
 	610A35A6460AE74E8D2B5B9D80081A9A = "... No es un arma si no pesa al menos 45 kilos."
 	BCBBDA65423104563FCC69AD9103A01A = "1 Tirolesa Extra"
 	B063C03941EB570D6F2145808469C99D = "10 segundos para el despegue."
@@ -115,7 +55,6 @@ Misc Fixes
 	480773904FD27F2E9379F09E955BE19C = "Un poderoso lanzador de proyectiles que dispara bengalas adhesivas de alta intensidad. Las bengalas se pueden adherir incluso al material más duro."
 	8D3766704F365EA7980CAB845A6D0848 = "Un compromiso práctico"
 	F03E93AD4CD752D828C09F9814300F00 = "Se ha logrado un objetivo secundario. La bonificación se transferirá a sus cuentas al completar la misión."
-	A72EC7794D5F340CBDA4D8A29B20BA85 = "Una pequeña, ligera semiautomática para enanos pequeños y livianos. Más mortal de lo que parece."
 	BD60E51B4D6FF4B88175E4AF1B8800D9 = "Un núcleo de magnesio sólido se agregó a la llamarada, aumentando cuánto tiempo se puede quemar"
 	AA2A27EE494F708441CAEE8E848BA862 = "Una granada de fragmentación estándar, excepto que está llena de pegamento resistente al aire en lugar de metralla. Imagínate."
 	73F3774A48A4448BB90A72A2F5FA7B50 = "Una granada estándar de fragmentación altamente explosiva."
@@ -145,6 +84,7 @@ Misc Fixes
 	646C5ACC4A28804AB62A87A064D26A99 = "Activo"
 	3FE923C74735ACF961DD6BAEF5800D96 = "Añadir oro"
 	435C08644ECE9E795BA0DD8D03AFCDBA = "Añadir Nitra"
+	6E1AA863449C034582E61F80989D054D = "Advanced cooling system means less overheating! "Short, controlled bursts" are for pansies anyway. You can no longer cook lunchmeats directly on the barrels, sadly."
 	2F15FDAB410411F3DD4F8DB0F8EF1F50 = "¿Temes a la oscuridad? No temas, me tienes a mi."
 	AB720B0A418C85C6D5C63C91ACAA718E = "Acceleracion de Apuntado"
 	8789350B4D1E22B62CE45F9EFB77C6AC = "Sensibilidad para Apuntar"
@@ -163,6 +103,7 @@ Misc Fixes
 	31E9D98F4B9782DD94935786AE25EF3E = "Permíteme... iluminar la situación. Je je je...!"
 	32599FD848D3FB5C7AE606B4DE552614 = "Bien, equipo: esta vez irán por huevos - huevos alienígenas. No puedes equivocarte, son grandes y brillan. Consigue los huevos, guárdalos en Molly y vuelve con vida."
 	13F23518479F333BF2B7049DED38A20F = "Munición"
+	5D159735400F3AD3D86F59972F8A86B5 = "Ammo Bandolier"
 	1CB313AD4E447638C4FAFABA352B5A0F = "¡Munición recogida!"
 	A13E31724B152BF53958568AC2187067 = "Recursos para Municiones"
 	2C4A91E9492C6E9E0B9B26A55BDBE3B8 = "Entre los más profundos de nuestros sitios de minería, las Cuevas de Magma tienen unos melosos 250-400 grados y amablemente iluminadas por las batidas y fundidas entraňas del planeta. Aconsejamos que no toquen nada que no sea impuesto por los objetivos de la misión, ya que su seguro de empleado no cubre quemaduras."
@@ -214,7 +155,6 @@ Misc Fixes
 	8015F3714EB2E10EB807D58155205E1B = "¡Ataca!"
 	5C5674C0403DF35ABAE6339A309F7B15 = "¡Atención!"
 	38DC434948EAD1A675E5A99554B19C69 = "Audio"
-	2961588F4B2ED6A1E26A76945F6CAAD3 = "Pistola Automatica"
 	D6CA29BE4A2BBE960830C5B5F8912DD2 = "Centinela Automático"
 	8E9526BE4430238DFE180CBD8C7BFEF3 = "¡Una torreta ha sido pedida y viene en camino!"
 	9A7702554B1357270874E2BD029DC56C = "¡La torreta viene en camino!"
@@ -398,7 +338,6 @@ INFORME"
 	2840FE284F006002F9C598897D261B2C = "Limpio y sencillo"
 	2D9C5CBE4668091C5E0D00B7C49C3891 = "¡Haz click para unirte al grupo de Steam!"
 	FDA005934F3D906787D37A8B7CBEFD27 = "¡Haz click para unirte al grupo de Steam!"
-	173968504E80683C6A266D819A2E8FBF = "Tamaño del cargador"
 	7F765FDA440F32545B0F8283AD6274CC = "Tamaño del cargador"
 	AF07B5B04CC58C50479418899E1C0BDD = "Cerrar"
 	A5249714428DC19ECC87E9822D877AD2 = "Cody Barnes (Dwarfurious)"
@@ -547,7 +486,6 @@ La suciedad bloquea la entrada del túnel!"
 	E7463CB8457274C844EC6E82D93634CC = "DRG: Hermandad. Desafío. Ganancia."
 	B022254E4A8509B5A4B60C88547933AD = "DRG: Juntos, forjamos el mañana."
 	659F86C14FC51F0A934A859EDA3ABAF2 = "DRG: ¡Juntos somos grandes!"
-	4FB31F3448809142AFCC94BB01B011BE = "DRILL YOU LATER!"
 	C5A231D144D11797B0F13D8D7CC5B55A = "TALADRADORA"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "TALADRADORA"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "ESTATUA DE TALADRADOR"
@@ -805,7 +743,6 @@ DE TIRO"
 	A8464FDC48B600862605F2A7EDEBEC0D = "Movimiento rápido"
 	4C92C70E46863CA7E8881DBAA3AAC7E6 = "Recarga más rápida"
 	6E96871040D678AF9A191EA0B778AD4D = "Recarga más rápida"
-	6E1AA863449C034582E61F80989D054D = "Enfriamiento más rápido"
 	EBB44BE24CFA9DA8770678A81FD9B25A = "Enfriamiento más rápido para los taladros cuando no está en acción"
 	203BABDF4827E48676D56EA93EEDDBA4 = "Recarga más rápida"
 	28982CEF4EAD1DFB82EE8892B816D960 = "Recarga más rápida"
@@ -1035,13 +972,13 @@ DE TIRO"
 	85CBFC614376B9DE1921B8890480C466 = "¡CONSEJO DE SALUD!"
 	D9B282FF4566C7FD71A0E1808B41F95E = "¡CONSEJO DE SALUD!"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "MANTENGA [Laserpointer] PARA APARECER EL PUNTERO LÁSER"
+	96A8E6A14FEFCD974370709BCCF5FA74 = "HOLD [Laserpointer] TO POINT THEN PRESS [Fire] TO MAKE A MARK"
 	565BE2CA4157D153FE965A8438508B5B = "MANTÉN [Laserpointer] PARA SEÑALAR LUEGO PRESIONA [Fire] PARA HACER UNA MARCA"
 	74486D6942276263895A82B17BFF003E = "MANTÉN [Laserpointer] PARA SEÑALAR, LUEGO PRESIONA [Fire] PARA HACER INTERACTUAR A BOSCO"
-	96A8E6A14FEFCD974370709BCCF5FA74 = "MANTÉN [Laserpointer] PARA SEÑALAR, LUEGO PRESIONA [Fire] PARA MARCAR"
 	7C4704B14AAD52938BA369B2BF3D358B = "MANTENGA [Shout] PARA SACAR EL PUNTERO LÁSER"
+	119D95F84C45A60432C6B2AD12B9E156 = "HOLD [Shout] TO POINT THEN PRESS [Fire] TO MAKE A MARK"
 	C8D9A6484B38D1A68FDCA1A7ADC4D8E8 = "MANTÉN [Shout] PARA SEÑALAR, LUEGO PRESIONA [Fire] PARA HACER INTERACTUAR A BOSCO"
 	F4DE0706460FD4BBF961D8BA2846ECE9 = "MANTÉN [Shout] PARA SEÑALAR, LUEGO PRESIONA [Fire] PARA HACER INTERACTUAR A BOSCO"
-	119D95F84C45A60432C6B2AD12B9E156 = "MANTEN [Shout] PARA SEÑALAR, LUEGO PULSE [Fire] PARA HACER UNA MARCA"
 	E949901E4D390B0F929A60AD688B7FDE = "SÓLO PARA EL ANFITRIÓN"
 	40DD0DBB4C7BECA793D472BB978E6BBE = "El HR está en nuestros culos nuevamente. "Infestación de alienígenas", lo llaman. Trata con él. Trae explosivos!"
 	DD0BD2104576C82DD6D65EBBE14298AF = "Colores de Cabello"
@@ -1251,6 +1188,7 @@ DE TIRO"
 ¡UN PASO ATRÁS!"
 	3F7FA694455640C3E8E6D0A8D21BDBAD = "Identificar, objetivo, exterminar. Así es como se hace."
 	BFF5840344B6CF54EC4B61AB1B1E69AF = "¡Si no es perforable, es probablemente inflamable."
+	80DCF1564FE0AF32ACCD80B57941FEA6 = "If multiple dwarves revives a downed dwarf, they get him on his feet a lot faster."
 	E48FFBA04C58162ADAE29F82AFFCA26C = "Si el M.U.L.E. ha regresado a la cápsula de escape y todavía quieres depositar minerales, puedes hacerlo en el lado de la cápsula de escape."
 	7762816C4C6962EA5FD33EA302EB26C5 = "Si 'gritas', Bosco abortará su tarea actual y acudirá a ti."
 	07E9341B4715E109B5E3A6A4E627F90B = "Si ves una pared brillante con escombros especiales, ¡cava ahí! Puede que haya tesoros escondidos dentro."
@@ -1262,7 +1200,6 @@ DE TIRO"
 	4DA0B11345F109DD53883E99D5F49000 = "¡Están viniendo!"
 	68C7E9E14BAA5165E29BCF90BF3E033D = "¡Entrando! Ahúmalos si los tienes!"
 	856AD218490E543BD1858FBB55E5C7AF = "Aumenta el daño infligido a los enemigos"
-	9CDC3BB840BF2AAAD82E36A827F9A84B = "Aumenta la munición máxima"
 	0A45047A4242961A8B1EE8813757ACAD = "Aumentar la cantidad total de bengalas "
 	6A0D79C041A5FF4C38627F8192868332 = "Aumenta la cantidad total de bengalas "
 	90AA845242CCE865EE7BDDBF808B9C86 = "Aumenta la cantidad total de bengalas "
@@ -1344,7 +1281,7 @@ DE TIRO"
 	3C117BFD4C41C3D2DC6565B241F1B301 = "Jury-rigged Boomstick"
 	08BFA3054CC84B0C1894C9816D5B3421 = "Sólo cabello"
 	F31B75F548FC537AF855C688187CFC65 = "Sólo cabello"
-	668E416F46D9AF9A2F0C289C99C5579B = "Sólo sigue los marcadores intermitentes del M.U.L.E. cuando regresas a la cápsula de escape."
+	668E416F46D9AF9A2F0C289C99C5579B = "Just follow the blinking flares the M.U.L.E. leaves behind when it is returning to the Escape Pod."
 	2B0D29E9465FD20F7DE22C9BCBF00899 = "¡Simplemente muéstrame donde debo disparar!"
 	6BF497F3455C1E2E0A86C4A891997F53 = "¡Sólo muéstrame donde debo disparar!"
 	C1CFE7224A1EF9B09DE599AADA0C25AD = "¡Tómate tu tiempo abuelita! ¡Tengo todo el día!  "
@@ -1460,6 +1397,7 @@ TUTORIAL"
 	67D20112428A2B8C4F125A850164B99E = "Haciendo honor a su nombre, esta bestia de arma nunca falla en satisfacer. Sostiene cuatro tiros de gran dispersión para entregar muerte de forma rápida."
 	7D84E7834E215BFA4EC25887D1CB1973 = "Cargando..."
 	A9E95DCB4E3F18B5DFFA9AB6B1390E3C = "Cargando..."
+	473DBB0F4100CC8B98C3D5A10C4A8702 = "Local"
 	34B308784C01C313AE5597AE94A62A21 = "¡Estamos listos!"
 	66E3E7D947F72A05A557B38645726B9C = "¡Estamos listos!"
 	A47A6C80436BDC2364B126AC5C596848 = "Largo"
@@ -1513,7 +1451,7 @@ TUTORIAL"
 	B160777F4EFE34EB4D4FE6B895A06F29 = "MK1 Traje de armero - caballero blanco"
 	C53D1011443DAF058512C48F88CBDB74 = "MK1 Traje de explorador - cangrejo negro"
 	AB19E37C4FC171FAB3F594A548ABBCDF = "MK1 Traje de explorador - standar"
-	5D9B175D4D1E46C41A869D845CB30C81 = "MK1 Scout Suit - WhiteKnight"
+	5D9B175D4D1E46C41A869D845CB30C81 = "MK1 Scout Suit - White Knight"
 	A95C734348FB02DF27DBD09199CEDEDE = "MK2 Traje de taladrador - Cangrejo negro"
 	80AAC60145E8E234F26385844B3FB831 = "MK2 Traje de excavador - caballero blanco"
 	FB1AE5DD445DAA56BFFB1AA3D4B89A97 = "MK2 Traje de ingeniero - Cangrejo negro"
@@ -1523,7 +1461,7 @@ TUTORIAL"
 	B917237840B02F2C3E676CBD6512B116 = "MK2 Traje de armero - Standar"
 	15F6ACEB476702A1A24AEA9562FA5F4B = "MK2 Traje de armero - Caballero blanco"
 	039521FA41D64077F93FE58087E7EE3A = "MK2 Traje de explorador - cangrejo negro"
-	6A8E9CD84441B873021AD79C98675604 = "MK2 Traje de explorador - caballero blanco"
+	6A8E9CD84441B873021AD79C98675604 = "MK2 Scout Suit - White Knight"
 	137C1D66401339A9B79739BD304651E2 = "MODERADOR"
 	C382CD114CDAEF8EC279118336523B8B = "MODERADOR"
 	DC8D0D634672228A49E7A28C7D5B4F78 = "MODERADOR"
@@ -1613,9 +1551,7 @@ TUTORIAL"
 	8217E5D24BD83F9F41A9E7B13EA39973 = "Más Daño"
 	8459276A46896A576AB45285535C0D1E = "Más Daño"
 	A56E5AAD47020EB58D7DC0B0155543C7 = "Más Daño"
-	5D159735400F3AD3D86F59972F8A86B5 = "Más munición"
 	687C211F46A00A43AB75BA93F16985A4 = "Más munición"
-	BB27929A46D5EBFCE76041BEAE725B22 = "Más balas en cada cargador"
 	868031B44D72434150443CB0A99633B0 = "¡Más munición está en camino!"
 	57631DAB4FE1B7FA6606CC88227D49B1 = "Más efectivo contra los enemigos"
 	CA1E9FD94322401B668878922B954B6E = "Más efectivo contra los enemigos"
@@ -1627,8 +1563,7 @@ TUTORIAL"
 	A16DABD64A7B24C75F47F99D995DEB8B = "¡Morkite encontrado!"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Quota de Morkite completada! Eso era minería de primera clase, equipo! Botón de escape en la M.U.L.E está activado."
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite!"
-	79C599094EB6D6E6E02200AFC58E0859 = "La mayoría de los enemigos tienen puntos débiles donde tus balas hacen más daño y algunos enemigos tienen exoesqueletos, donde tus balas no hacen daño. "
-	44A3445A484377F58C5D6BBC70FFECF8 = "Sensibilidad del ratón"
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points where your bullets do more damage and some enemies have exoskeltons, where your bullets do no damage. "
 	5553884E4B6E6F00ADC8F985F6F4219A = "¡Prepárense, gente! ¡Nos acercamos al planeta!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "¡Muévanse!"
 	30D2A4894E6CF7E90329B7ACCA48A50A = "¡Muévete! ¡Va a explotar!"
@@ -1637,7 +1572,6 @@ TUTORIAL"
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "¡Mucho mejor!"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "¡Mucho mejor!"
 	CD169B8F4540D97173D1A180A5C920B4 = "Sesion de multijugador acabada "
-	80DCF1564FE0AF32ACCD80B57941FEA6 = "Varios enanos trabajando juntos pueden revivir a un enano derribado más rápido que uno."
 	EAB190A647BE3478A66B8FAAFB6A4C9E = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "¡Seta!"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "¡Seta!"
@@ -1767,6 +1701,7 @@ Pero bien hecho. :D
 	8E8C8DA14D3D2162A85247B46C7A2B72 = "Abrir mapa"
 	DFAF837A45849CFAFE010589D31D5162 = "NAT abierta"
 	7CF83C60466640DA9E14B2A20187AFEA = "Open Servers Only"
+	173968504E80683C6A266D819A2E8FBF = "Optimized Ammo Drum"
 	25FDE2DC47E6E00CD26E3C958625B882 = "Nombre opcional"
 	2E4A9A3B4CE8BBE6EBC80D9C802F13AC = "Opciones"
 	3F7C5E884ABE9C45B21F3FACD699A1AD = "Opciones"
@@ -1803,6 +1738,7 @@ Pero bien hecho. :D
 	C79595634378DAEEAB740BB8AF143D3B = "REGIÓN PLANETARIA"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "REGIÓN PLANETARIA:"
 	C21850D74844EA192C1FCEBA601C6261 = "REGIÓN PLANETARIA:"
+	6837936E4EFB82CBEF489FAD5C73FE96 = "PLEASE NOTE! You do not earn a bigger mission reward by kicking players! Actually you will lose the survival bonus from this player!"
 	E4DEE1334E397283E5AADFA084AE3366 = "POR FAVOR VUELVE A CONECTAR EL MANDO"
 	2276DA03429396713203CBAC6EF3C810 = "CÁPSULA LLEGANDO"
 	0E40CA4047102A62E43D82B23E361885 = "CARTEL"
@@ -1811,18 +1747,15 @@ Pero bien hecho. :D
 	F3155C474EF53C36803B23875CCECF17 = "PRESIONA CUALQUIER BOTÓN PARA CONTINUAR"
 	A7FA5FB342C218181CDE8DADE821FD8F = "PRESIONA CUALQUIER TECLA PARA SALIR"
 	680CF46F443D5BB1D62DEDB346CB9C4C = "PRESIONE [CallDonkey] PARA LLAMAR AL M.U.L.E."
-	B8CCFBD24E3F27F250DB4698E51549C7 = "PRESIONE [Equip4] DOS VECES PARA SELECCIONAR CÁPSULA DE REABASTECIMIENTO, LUEGO PRESIONE [Fire] PARA ORDENARLO"
-	DA66CA3141162C3AF0D384B1DFD8A248 = "PRESIONA [Equip4] DOS VECES PARA SELECCIONAR LA CAPSULA DE REABASTECIMIENTO Y LUEGO PRESIONA [Fire] PARA PEDIRLO"
-	726A354D42D77EA0A34584944346937A = "PRESIONE [Equip5] PARA SELECCIONAR CÁPSULA DE SUMINISTRO LUEGO PRESIONE [Fire] PARA ORDENARLO"
-	9AD2FB414E12C8D2E3781DB47856BF5C = "PRESIONE [Equip5] PARA SELECCIONAR CÁPSULA DE SUMINISTRO LUEGO PRESIONE [Fire] PARA PEDIRLO"
+	726A354D42D77EA0A34584944346937A = "PRESS [EquipResupply] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	9AD2FB414E12C8D2E3781DB47856BF5C = "PRESS [EquipResupply] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	B8CCFBD24E3F27F250DB4698E51549C7 = "PRESS [EquipResupply] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	DA66CA3141162C3AF0D384B1DFD8A248 = "PRESS [EquipResupply] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
 	E501CABD480DE511EC843F83B6B411FB = "PRESIONA [Fire] PARA ORDENAR"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "APRETA [Flare] PARA LANZAR UNA BENGALA"
 	E66F2965440023B51A13E5B5253ED0BC = "PRESIONA [Jump] PARA CONTINUAR"
 	FD12F4A94EC35363633682B3B98ECBAE = "PRESIONA [Jump] PARA SALIR"
 	54252A9A47A6776CFE924B93B30F5B44 = "PRESIONA [Salute] PARA SALUDAR"
-	0E6FDF684AF461D269E215A191289E87 = "PRESIONA [Shout] PARA LLAMAR LA ATENCIÓN"
-	3E8D5A1F49894E7918B4F0B70CB2D74F = "PRESIONA [Shout] PARA LLAMAR LA ATENCIÓN"
-	7619D8004800B2FB339A57AD814FA511 = "PRESIONA [Shout] PARA LLAMAR A BOSCO"
 	E6CE771943558977A67F7296A448F6B3 = "PROGRAMADOR"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "PSA: Un lanzador de granadas fue encontrado abandonado en el comedor. Mantened la seguridad - por favor, guarden toda la artillería pesada entre misiones."
 	2F9328D54501F01017A1E6AC1B58ACDF = "PSA: Todas las armas de fuego deben permanecer enfundadas o estibadas en todo momento a bordo de el anillo espacial."
@@ -1867,7 +1800,6 @@ Pero bien hecho. :D
 	4644D2FA4D1BE051B241B896053FDB4C = "Cristal Rosa"
 	6F74A43C47DF738B85E92E91EC833A23 = "Cristal Rosa"
 	BEC47AB74DD4EC72E8067C80E4B2F771 = "Cristal Rosa"
-	64B3998D4B293E3960E24F94A147EEF2 = "Pistola"
 	EEE9054145679A578C6F91B277E91D88 = "¡Colocando una barrera!"
 	089042534597A544D11EE4A3E24E817E = "¡Colocando una torreta!"
 	3A0B2D874CE1C813031ECDAE4A8DB307 = "¡Colocando una torreta!"
@@ -2009,7 +1941,7 @@ RÁPIDO"
 	4DBF5FCA46C226DAF720B49F54DF6805 = "Recargando! Necesito cobertura!"
 	C9DD9C3749680AF60B1F0EBA022F9A90 = "Recargando! Necesito cobertura!"
 	D0B9772242CFC839ABDD478D638A0415 = "¡Recuerda ver arriba! Puede haber desagradables bichos escondidos en el techo¡."
-	15C102484C0E9A6961FBC4A248F56025 = "No te olvides de tirar bengalas. ¡Se recargan con el tiempo, no las guardes!"
+	15C102484C0E9A6961FBC4A248F56025 = "Remember to throw flares. They are recharging over time, so don't save them!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "¡Recuerda, la sanguijuelas de cuevas no te tienen miedo como tu a ellas!"
 	046C7D9F4E22D85C44E58984A38E9634 = "Reiniciar progreso"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "Reiniciar Progreso"
@@ -2195,7 +2127,7 @@ Personaje"
 	075479CB45BF3835DE1846A51811C954 = "Mostrar contador de FPS"
 	3127F8A540D246D860D961AD1DBF602F = "Mostrar HUD"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Muestra a tus amigos lo que encontraste"
-	D0E809FE415757354E08C9A6C291E826 = "¡Mostrar tu gratitud o simplemente dile a tus compañeros lo impresionante que son!"
+	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammate how awesome they are!"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Sign up for our Steam Group below to join the Community and keep up to date with us as we continue expanding the game - and claim your free reward of 5.000 in-game Credits to give you a massive boost through your first days at work in the mines of Hoxxes IV!"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "¡Silencio por favor!"
 	82D5760A4D36C73A04E752BDC5DE965D = "Simple"
@@ -2304,11 +2236,11 @@ Personaje"
 	1B8395E5452CDDC4D27EE3A70A790E58 = "Explosiones más fuertes causan más daño"
 	774B8BAF416E053F8A1F2CA1DF938738 = "Explosiones más fuertes causan más daño"
 	950A42504F9FA4B21E07E682B097AD10 = "Explosiones más fuertes causan más daño"
-	9D70C6CB44D3AD8B7299E5BAAF3490B5 = "Subata 120"
 	C086D4174E9B15BF0A19F48247CD8DB8 = "Subtítulos"
 	88E79D4D44DC163227E537BBBBB740C8 = "¡Chúpate esta, monstruo de la naturaleza!"
 	B85430EB48ED72FB419E5F8C019B725B = "¡Vistete! ¡Vámonos!"
 	D755FD5748AAC914FDEB49B6EFE241C1 = "Super Escopeta"
+	BB27929A46D5EBFCE76041BEAE725B22 = "Superior dwarven engineering means you can cram more bullets into your gun before having to reload!"
 	5C21530C4D54C67AD029EAAA237EE6D6 = "¡Los suministros están en camino!"
 	940F632343E7EFE3D74180BF5EBAA632 = "Baliza para la capsula de transporte"
 	2CCEDC5548992642BEBA02BE2A07752F = "Cápsula de Suministros"
@@ -2332,6 +2264,9 @@ Personaje"
 	F270249D4B98E5158146E9A617A36D3D = "Cambiar de clase"
 	679A42A9498FC32808218091A5F67ECD = "Søren Lundgaard"
 	AAA07AF748B48874C4A60D8398BBEDA9 = "T menos ## segundos"
+	0E6FDF684AF461D269E215A191289E87 = "TAP [Shout] TO CALL FOR ATTENTION"
+	3E8D5A1F49894E7918B4F0B70CB2D74F = "TAP [Shout] TO CALL FOR ATTENTION"
+	7619D8004800B2FB339A57AD814FA511 = "TAP [Shout] TO CALL FOR BOSCO"
 	68EBCF464FB26B5D037B20866623BC7A = "DEPOSITO DE EQUIPO"
 	AE66380E409563A1BF5CAE973528CEFC = "¡EL TRABAJO EN EQUIPO ES CLAVE!"
 	365C77A54A278546EDE12CA8FCE40FB6 = "EL TRABAJO EN EQUIPO ES IMPORTANTE"
@@ -2542,8 +2477,6 @@ MISION"
 	7F0904144B148B62466080888AC77BEF = "Tipo"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "Interfaz del Usuario"
 	B9B8DF3947F5817463C75E91163945B2 = "Escala de interfaz"
-	8BE53EE144A719AF73F42DA29EDC1A49 = "MEJORAR
-EQUIPO"
 	57E6BB0F42206D722E6E1A866FC825D0 = "MEJORAR EQUIPO"
 	154D798349596E65C508169C1B0BD295 = "MEJORA TU EQUIPAMIENTO"
 	EF7F3BF4405DAFECAB50EC9E099F4532 = "Ugh. Asqueroso."
@@ -2582,17 +2515,17 @@ EQUIPO"
 	DCFBD7324089FC4A26DAED8105688BB3 = "Manto superior ártico"
 	7032AA244E5FD6DEE82BE593FC832250 = "Usalo"
 	4C00DDD243A216F0336201B7EB60440A = "Utiliza el puntero láser para que Bosco cave minerales y luche contra enemigos específicos."
-	32E67FE9406320B0C0226FA6475494C3 = "Utilice su puntero láser para marcar minerales, enemigos y puntos de interés para tus compañeros de equipo."
 	88ED55324ED7EDDD65B8768C6514E5D9 = "Utgghhbabab!"
 	10DA06984D53C8868A318FBB76C3C514 = "TIENDA DE VANIDAD"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "ACTUACIÓN DE VOZ"
 	DC82A7B24ED62593B64A1BA3193D9A5B = "VSync"
 	1ACEB567461C75D400D5D0905E6AD03B = "¡Vaporízalo!"
+	44A3445A484377F58C5D6BBC70FFECF8 = "Vertical Mouse Sensitivity"
 	DA486CC0432841353D021396815673FD = "Mucha Cadera"
 	5566E67A476CF5E36272B7A7E36CF03C = "Muy progresivo"
 	10246BE04BE7FFC4ED29AD8489174AB2 = "Muy sigiloso"
 	809E655D4A757F85090DB4B6359A680D = "Visita el terminal MEJORAR EQUIPO en el Spacerig y gasta tus créditos ganados en la actualización de tu equipo!"
-	7ED249D745DD40186CB8C884C4A686F8 = "Visite el VANITY SHOP para gastar tus créditos y minerales raros para obtener nuevas armaduras, artículos como sombreros y barbas."
+	7ED249D745DD40186CB8C884C4A686F8 = "Visit the VANITY SHOP to spend your credits and crafting minerals to get new armors, headgear and beards."
 	2D2A6357468F84A1FE3FC982E155948C = "Chat de voz"
 	26B91DA946637579724DD58AA270B500 = "Volumen de voz"
 	3EB811FD4977F29355F8FC8BD33CD50A = "Vrghh"
@@ -2682,7 +2615,6 @@ EQUIPO"
 	B90152A2422A4306E02BBDA32F198DBF = "Gorra blanca"
 	391EC00944D3E9F1AD627180DF91198D = "Cristal Blanco"
 	585A63DF428AC5458BA9ECABF851181D = "Cristal Blanco"
-	679D52774DDE234ECFC0F081E7792DA0 = "Cristal Blanco"
 	7836F1FE4B8B8C5CCC24A9AA151FA9FB = "Cristal Blanco"
 	8477E9AC4C56F7E01878C198BB597BBA = "Cristal Blanco"
 	BE37800847F77A849948B7B32CC3EF57 = "Cristal Blanco"
@@ -2734,6 +2666,8 @@ EQUIPO"
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "¡Estás entrando ilegalmente! Por favor, da la vuelta y haz algo de trabajo!"
 	B7D2007C461E925E99F54AAFE707165D = "¡Estás traspasando esta área está fuera de límite para los mineros regulares!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "Ustedes, chicos, mejor sean mejores mineros que bailarines."
+	9CDC3BB840BF2AAAD82E36A827F9A84B = "You can carry more ammo with you into battle."
+	32E67FE9406320B0C0226FA6475494C3 = "You can point at things with your Laser Pointer and draw your team mates attention to points of interest."
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "Usted no puede leer los signos? Bueno..... Déjame ayudarte... ¡QUÉDATE QUIETO!"
 	78D2755C4861A355ED50D3AD1A7F8D85 = "No puedes llevar barriles contigo en misiones, pero aplaudo tu esfuerzo."
 	7385AADD42A9E20A78773E92E52A22E5 = "Ya sabes... No te pagan por hora. ¡Ponte a trabajar!"
@@ -2869,13 +2803,72 @@ Namespace Gear (7 keys)
 Namespace Inventory (1 keys)
 	Full = "Lleno"
 
-Namespace Items (2 keys)
+Namespace Items (1 keys)
 	7EA2987C49C7CA9A837625B21EDD39F4 = "Rifle de Asalto"
-	64B3998D4B293E3960E24F94A147EEF2 = "Pistola"
+
+Namespace MaterialExpression (0 keys)
 
 Namespace Missions (2 keys)
 	DB0C3F174ADE70EAA2D7758958E08DAB = "Objetivos completados, ¡la cápsula de transporte puede ser pedida en el M.U.L.E!"
 	5C6519E64746AF02D48A7DB05E363C41 = "Objetivo completo. La capsula de minería se puede pedir en el M.U.L.E"
+
+Namespace PatchNotes (1 keys)
+	Update_10 = "Hi Miners, 
+
+We have another update here with both some important fixes and a bit of new content. Along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 
+
+--- PATCH NOTES ---
+
+COMMUNITY REQUESTED FIXES
+- Fixed several issues with mouse sensitivity. Sensitivity was not the same in Space Rig and in a Mission, they are now the same. Sensitivity had different values for horizontal and vertical, they can now be set in option.
+- Steam Region search option. 
+- Disconnecting controller no longer disables mouse and keyboards
+- Test fix for primary monitor (somewhat untested!)
+- Fixed Grappling hook infinite life bug
+
+CAVE CONTENT
+- First implementation of different tunnels for every planetary region
+- Added crystal spikes than can drop from the ceiling in Salt Pits
+- Sticky Goo added to Fungus Bogs
+
+MISSION MAP
+- New icons for Complexity and Length. It should now be more obvious that Complexity is a serious difficulty increase.
+- Complexity icons now shown above Mission icons
+- Mission payout directly show below Mission icons
+
+WEAPON VIEWMODELS
+- Changed viewmodel FOV for 100 to 90
+- First person view of Weapons are now less stretched 
+- Reduced overall clipping issues
+
+SCOUT TWEAKS
+- Sawed off Shotgun shoots 15 pellets dealing 6 damage each - increased to 10 damage each 
+- Sawed off Shotgun Max ammo 30 bullets - decreased to 16
+- Sawed off Shotgun Max Ammo Upgrade - decreased from +10 to +8 
+
+ANIMATION, SOUNDS & EFFECTS
+- Driller Pistol Reload Animations
+- Driller Pistol and Scout Shotgun are now considered reloaded when it fits the animation, not when the animation ends. This will be implemented on other weapons when they get their own reloads. (Sound update missing)
+- Fixed console background anims on clients
+- Laser Pointer gfx update
+- Background removed from Interact popups
+- Damage Overlay gfx updated
+
+LOCALIZATION
+- Added more space between text lines on terminals (for accented languages)
+- Updated all languages from Crowdin
+
+MINOR FIXES
+- Server list defaults to not show password servers
+- Asteroids no longer smooth shaded on loading screen!!!
+- Controller Right stick is now used as mouse scroll wheel
+- Remove Steam Friend test when inviting friends. Private sessions should handle it better now and it was preventing clients inviting friends that were not friends with the server.
+- Fixed Molly not being Golden in Memorial Hall when unlocked
+- Make Molly and the large spiders prefer to walk on floor
+- Fixed Weapon crash
+- Enemies are no longer "staggered" by physical damage (Melee)
+- Fixed updated Ammo and Clip size was not applied when you first spawned into the mission
+- Changed Item scale in first person so that they clip less with other objects."
 
 Namespace Progression (6 keys)
 	ClassLevel = "Nivel de la Clase"
@@ -2945,6 +2938,8 @@ Namespace UI (24 keys)
 	Close_Controller = "[CloseMenu] Cerrar"
 	No_Controller = "[CloseMenu] No"
 	Yes_Controller = "[OkMenu] Sí"
+
+Namespace UMG (0 keys)
 
 Namespace Units (3 keys)
 	Meters_Unit = "m"

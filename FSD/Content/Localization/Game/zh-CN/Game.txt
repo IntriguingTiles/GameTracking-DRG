@@ -1,7 +1,7 @@
-19 namespaces
-2160 values
+22 namespaces
+2171 values
 
-Namespace Global (2794 keys)
+Namespace Global (2801 keys)
 	1E1ADC13406ED5FA28EF4D97D3BECB48 = " ＋{bonus}％"
 	C7A2859F450D8B339A4CE1876CAB0134 = " ＋{bonus}％"
 	2559D78C40005E5221F26093CB976283 = " 收集 {Collected}／{Required} {Title}"
@@ -40,70 +40,12 @@ Namespace Global (2794 keys)
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "— 在任务终端选择任务 —"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "— MK2 地形扫描仪 —"
 	A6E1959D48EAE1DC279926A914C6C670 = "— {ItemCategory} —"
-	390133F54945CBDDE52B8898E7814A7D = "---Update 9: Patch Notes---
-
-Mission End
-- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
-- Mission Failed now gives a 25% compensation reward based on minerals collected
-
-Co-op sessions
-- Getting kicked now results in Mission Failed, compensation based on contribution
-- Added a new flow and info for Kicking and getting Kicked
-- You can no longer Join a session after Drop Pod has been called
-- You can no longer Kick a player from a session after Drop Pod has been called
-- Tweaked text on Mission Map in regards to new public/ private flow
-- Reworded Server List filter to Show Open and Show Password Servers
-- Add Private Server checkbox in escape menu
-- Added indicator for a joining player to team view 
-
-Solo mode
-- Bosco should now save you from the cave leeches more consistently
-- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
-- Bosco now has friendly fire reduction 0.2 instead of 1
-- Bosco Deals 100 % more damage (doubled from 3 to 6)
-- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
-
-Class Balance: Buffed the Driller’s tools
-- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
-- Flamethrower Range upped from 8.5m to 10 m
-- Power Drills: Fuel upped from 30 to 35
-- Increased walk speed while drilling with 10 %
-- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
-- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
-
-Intro screen
-- Added patch notes (this text) to Intro screen
-- Text & Button for Steam group no longer shown when rewards have already been claimed
-
-Sound, Effects & Animations
-- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
-- New Spitballer sound and Maggot sound
-- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
-
-Caves
-- More cave shapes added to the random generator.
-- More randomness on existing cave shapes.
-- New sticky web environmental hazard. Don't get caught!
-
-Localization
-- Added language selection to Intro screen
-- Croatian, Finnish, Italian and Japanese added
-- All languages updated (as usual new features lagging behind, will show English)
-- Updated community translator credits
-- Added missing characters for Polish language.
-- Some buttons with text did not correctly update after a new language was selected.  
-
-Misc Fixes
-- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
-- Key '5' is now available for custom key bindings
-- Fix Late Join crash if joining right when the level ends. 
-- Fixed: you can no longer edit the Hint text while loading! 
-- Maptool not updating correctly when terrian changes
-"
 	610A35A6460AE74E8D2B5B9D80081A9A = "...…没一百斤就不算枪。"
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
 	BCBBDA65423104563FCC69AD9103A01A = "额外１条滑索缆绳"
 	B063C03941EB570D6F2145808469C99D = "10 秒后升空。"
+	3AF5A3DD408DF5776A33D68EC5E9C8AC = "1234"
+	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
 	99CD26B24BF6817DD1A4978034CA179D = "2000 发贫铀弹…...哦耶…...！"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
 	C4074DC14285A41787355CA8FC85F54B = "3...2...1...前往轨道。"
@@ -116,6 +58,7 @@ Misc Fixes
 	54B42BD34E7B086F2FD0A4B05BE8FB06 = "无胡须"
 	628F94274CF7B9670987228A3F69CD94 = "支援机器人正在路上！"
 	2D3B341E43269B3517DEE48ADE5C2BB7 = "有虫群正往这边冲过来！快上弹！"
+	094DBF9240C1525A23E214A91AED7C79 = "一种微妙的原始力量的经典展示。"
 	10EBE9914309B112BED94D8ACB15BFE8 = "特制的大口径 26 毫米左轮手枪，弹匣虽然只能容纳 4 发子弹，但是差不多没有任何东西可以扛得住其正面一击。"
 	A51AF99C49FC325E4128D4BB8F23F943 = "一件沉实可靠的兵器，通常不是矮人的第一选择，但是重量、火力有保证。"
 	86A03D794F56F55E13FFD190FE8F3031 = "矮人是打不死的！"
@@ -123,7 +66,6 @@ Misc Fixes
 	480773904FD27F2E9379F09E955BE19C = "一种威力强大的发射器，可发射黏性强光照明弹，照明弹可粘在最硬的物质上。"
 	8D3766704F365EA7980CAB845A6D0848 = "这个长度适合干活"
 	F03E93AD4CD752D828C09F9814300F00 = "次要目标达成。奖励将在任务结束后打入你的帐户。"
-	A72EC7794D5F340CBDA4D8A29B20BA85 = "轻巧的半自动小手枪，威力不容小觑，适合小矮人使用。"
 	BD60E51B4D6FF4B88175E4AF1B8800D9 = "照明弹添加了一个坚实的镁芯，可延长燃烧时间"
 	AA2A27EE494F708441CAEE8E848BA862 = "标准的破片手雷，只是里面填充的不是弹片，而是工业用气密型强力黏胶。想想看吧。"
 	73F3774A48A4448BB90A72A2F5FA7B50 = "标准的高爆破片手雷。"
@@ -153,6 +95,7 @@ Misc Fixes
 	646C5ACC4A28804AB62A87A064D26A99 = "激活"
 	3FE923C74735ACF961DD6BAEF5800D96 = "增加黄金"
 	435C08644ECE9E795BA0DD8D03AFCDBA = "添加硝石"
+	6E1AA863449C034582E61F80989D054D = "Advanced cooling system means less overheating! "Short, controlled bursts" are for pansies anyway. You can no longer cook lunchmeats directly on the barrels, sadly."
 	2F15FDAB410411F3DD4F8DB0F8EF1F50 = "怕黑？不用怕，有我呢。"
 	AB720B0A418C85C6D5C63C91ACAA718E = "瞄准加速度"
 	8789350B4D1E22B62CE45F9EFB77C6AC = "瞄准灵敏度"
@@ -171,6 +114,7 @@ Misc Fixes
 	31E9D98F4B9782DD94935786AE25EF3E = "让我来...…照亮人生。呵呵呵...…!"
 	32599FD848D3FB5C7AE606B4DE552614 = "好了，伙计们！这次的任务是寻找外星虫蛋。那些虫蛋又大又亮，一眼就看出来。找到蛋，然后用莫利装起来，都要活着回来哈。"
 	13F23518479F333BF2B7049DED38A20F = "弹药"
+	5D159735400F3AD3D86F59972F8A86B5 = "Ammo Bandolier"
 	1CB313AD4E447638C4FAFABA352B5A0F = "取得弹药！"
 	A13E31724B152BF53958568AC2187067 = "弹药资源"
 	2C4A91E9492C6E9E0B9B26A55BDBE3B8 = "岩浆洞穴是我们最深的矿区之一，由于处于星球的心脏位置，整个洞穴翻腾着 250-400 度的岩浆。我们建议各位不要触摸任务目标物以外的任何东西，因为你们的医保可没有覆盖烧伤。"
@@ -221,7 +165,6 @@ Misc Fixes
 	8015F3714EB2E10EB807D58155205E1B = "攻击！"
 	5C5674C0403DF35ABAE6339A309F7B15 = "注意！"
 	38DC434948EAD1A675E5A99554B19C69 = "音频"
-	2961588F4B2ED6A1E26A76945F6CAAD3 = "自动手枪"
 	D6CA29BE4A2BBE960830C5B5F8912DD2 = "自动哨戒炮"
 	8E9526BE4430238DFE180CBD8C7BFEF3 = "呼叫的自动哨戒炮在途中！"
 	9A7702554B1357270874E2BD029DC56C = "自动哨戒炮正在路上！"
@@ -318,6 +261,7 @@ Misc Fixes
 	251FA98341B86380F1B7FE815D790818 = "更快搭建"
 	84EFB56C4B7743BB0738C2B559DBD9B4 = "更快搭建"
 	180C5221413CB7FC1001EFB90C0618AA = "内置减震器，可减少坠落伤害。"
+	0187503E429D0D844DE504AD1153A970 = "络腮胡"
 	B9D6970042206F4F749478A6B724FAED = "子弹数量"
 	69C22B4C4F84F95A1DD5E3AA29F22E42 = "燃烧时间"
 	75B06D68482BF52E8F07348C5BC465B0 = "燃烧时间"
@@ -407,7 +351,6 @@ Misc Fixes
 	2840FE284F006002F9C598897D261B2C = "清爽简单"
 	2D9C5CBE4668091C5E0D00B7C49C3891 = "点击以加入 Steam 群组！"
 	FDA005934F3D906787D37A8B7CBEFD27 = "点击以加入 Steam 群组！"
-	173968504E80683C6A266D819A2E8FBF = "弹匣容量"
 	7F765FDA440F32545B0F8283AD6274CC = "弹匣容量"
 	AF07B5B04CC58C50479418899E1C0BDD = "关闭"
 	A5249714428DC19ECC87E9822D877AD2 = "Cody Barnes (Dwarfurious)"
@@ -537,6 +480,7 @@ Misc Fixes
 	7E2C903B470E31C7B8F9AEA38B8FF621 = "水晶洞穴"
 	B610D6184BC05B285769B6A452AE6C01 = "水晶洞穴"
 	C3EEC4024EFCE25A3AB044B8A0B798D7 = "水晶洞穴"
+	5818CA7745E46C32C8160492D978BE8A = "弯弯曲曲的指针"
 	7CB18B134C8F85CF88A2D69C45F5F5CC = "当前海拔"
 	C65407EE4F86189075643FAEA8F21203 = "自定义"
 	E1150D3044B5BD8E07C318BDDA70D3B9 = "自定义标签"
@@ -557,7 +501,6 @@ Misc Fixes
 	E7463CB8457274C844EC6E82D93634CC = "深岩银河集团：四海之内皆兄弟，共迎挑战，一起发财。"
 	B022254E4A8509B5A4B60C88547933AD = "深岩银河集团：团结一致，共同创造美好的明天。"
 	659F86C14FC51F0A934A859EDA3ABAF2 = "深岩银河集团：“团结就是力量！”"
-	4FB31F3448809142AFCC94BB01B011BE = "DRILL YOU LATER!"
 	C5A231D144D11797B0F13D8D7CC5B55A = "钻机手"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "钻机手"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "钻机手雕像"
@@ -817,7 +760,6 @@ Misc Fixes
 	A8464FDC48B600862605F2A7EDEBEC0D = "快速移动"
 	4C92C70E46863CA7E8881DBAA3AAC7E6 = "快速装弹"
 	6E96871040D678AF9A191EA0B778AD4D = "快速装弹"
-	6E1AA863449C034582E61F80989D054D = "冷却更快"
 	EBB44BE24CFA9DA8770678A81FD9B25A = "在不操作的时候钻头冷却更快"
 	203BABDF4827E48676D56EA93EEDDBA4 = "快速装弹"
 	28982CEF4EAD1DFB82EE8892B816D960 = "快速装弹"
@@ -893,6 +835,7 @@ Misc Fixes
 	BF45DCA846F2AD1C3F963A89F78A08B7 = "Fran Avilés"
 	15961D3B40DCAB1CBA4E05979A8C4563 = "自己人！自己人！"
 	7C49DD0D4CF46237E1695295EC9FAC0D = "误伤友军！"
+	54D812DD4FFEBBAC1D12EC978074AD8A = "仅好友"
 	04A39B58425C721A5799F58E46C981AE = "我靠！"
 	BA7D07DE450F6F7EEF0489A263FA3140 = "他妈的……"
 	CE0DDF1640BB88B1626A2BA9B77135B3 = "他妈的……"
@@ -1051,13 +994,13 @@ Misc Fixes
 	85CBFC614376B9DE1921B8890480C466 = "健康忠告！"
 	D9B282FF4566C7FD71A0E1808B41F95E = "健康忠告！"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "按住 [Laserpointer] 拿出激光笔"
+	96A8E6A14FEFCD974370709BCCF5FA74 = "HOLD [Laserpointer] TO POINT THEN PRESS [Fire] TO MAKE A MARK"
 	565BE2CA4157D153FE965A8438508B5B = "按住 [Laserpointer] 指出方向，再按 [Fire] 让博斯科互动。"
 	74486D6942276263895A82B17BFF003E = "按住 [Laserpointer] 指出方向，再按 [Fire] 让博斯科互动。"
-	96A8E6A14FEFCD974370709BCCF5FA74 = "按住 [Laserpointer] 来指向，再按 [Fire] 进行标记。"
 	7C4704B14AAD52938BA369B2BF3D358B = "按住 [Laserpointer] 拿出激光笔"
+	119D95F84C45A60432C6B2AD12B9E156 = "按住 [Shout] 来指向目标再按 [Fire] 来标记"
 	C8D9A6484B38D1A68FDCA1A7ADC4D8E8 = "按住 [Shout] 指出方向，再按 [Fire] 与博斯科互动。"
 	F4DE0706460FD4BBF961D8BA2846ECE9 = "按住 [Shout] 指出方向，再按 [Fire] 与博斯科互动。"
-	119D95F84C45A60432C6B2AD12B9E156 = "HOLD [Shout] TO POINT, THEN PRESS [Fire] TO SET A MARKER"
 	E949901E4D390B0F929A60AD688B7FDE = "仅限主机"
 	40DD0DBB4C7BECA793D472BB978E6BBE = "人力资源部门又找上门：“有异虫侵扰”。快带上炸药去干掉它们吧！"
 	DD0BD2104576C82DD6D65EBBE14298AF = "头发颜色"
@@ -1271,6 +1214,7 @@ Misc Fixes
 后退！"
 	3F7FA694455640C3E8E6D0A8D21BDBAD = "确认、瞄准、消灭，就是这么简单。"
 	BFF5840344B6CF54EC4B61AB1B1E69AF = "钻不穿的，可能就是易燃的。"
+	80DCF1564FE0AF32ACCD80B57941FEA6 = "If multiple dwarves revives a downed dwarf, they get him on his feet a lot faster."
 	E48FFBA04C58162ADAE29F82AFFCA26C = "矿骡返回逃生舱后，如果你还想存矿，你可以存在逃生舱的旁侧。"
 	7762816C4C6962EA5FD33EA302EB26C5 = "只要你“呼叫”，博斯科就会放下手上的工作来找你。"
 	07E9341B4715E109B5E3A6A4E627F90B = "如果看见岩壁上有熠熠闪亮的碎片，就赶紧去挖！说不定埋有宝藏。"
@@ -1282,7 +1226,6 @@ Misc Fixes
 	4DA0B11345F109DD53883E99D5F49000 = "敌袭！"
 	68C7E9E14BAA5165E29BCF90BF3E033D = "敌袭！格杀勿论！"
 	856AD218490E543BD1858FBB55E5C7AF = "提高对敌人造成的伤害值"
-	9CDC3BB840BF2AAAD82E36A827F9A84B = "增加最大载弹量"
 	0A45047A4242961A8B1EE8813757ACAD = "增加照明弹的总量"
 	6A0D79C041A5FF4C38627F8192868332 = "增加照明弹的总量"
 	90AA845242CCE865EE7BDDBF808B9C86 = "增加照明弹的总数 "
@@ -1366,7 +1309,7 @@ Misc Fixes
 	3C117BFD4C41C3D2DC6565B241F1B301 = "应急狙击炮"
 	08BFA3054CC84B0C1894C9816D5B3421 = "发型"
 	F31B75F548FC537AF855C688187CFC65 = "发型"
-	668E416F46D9AF9A2F0C289C99C5579B = "返回逃生舱时，只需要跟着矿骡留下的闪亮路线就行。"
+	668E416F46D9AF9A2F0C289C99C5579B = "Just follow the blinking flares the M.U.L.E. leaves behind when it is returning to the Escape Pod."
 	2B0D29E9465FD20F7DE22C9BCBF00899 = "只需要告诉我朝哪开枪就行！"
 	6BF497F3455C1E2E0A86C4A891997F53 = "只需要告诉我朝哪开枪就行！"
 	C1CFE7224A1EF9B09DE599AADA0C25AD = "老婆婆，不着急，您慢慢来！我时间多着呢！  "
@@ -1483,6 +1426,9 @@ Misc Fixes
 	67D20112428A2B8C4F125A850164B99E = "这把枪枪如其名，贪得无厌，弹匣容纳 4 颗子弹，其连珠炮般的射击可造成大面积致命性伤害。"
 	7D84E7834E215BFA4EC25887D1CB1973 = "加载中……"
 	A9E95DCB4E3F18B5DFFA9AB6B1390E3C = "加载中……"
+	0CC8411B41D22BCC06F543922E3867AB = "本地"
+	473DBB0F4100CC8B98C3D5A10C4A8702 = "本地"
+	045D54AA4686BDC54425E7A3D339EDF0 = "锁定垂直灵敏度"
 	34B308784C01C313AE5597AE94A62A21 = "子弹上膛！"
 	66E3E7D947F72A05A557B38645726B9C = "子弹上膛！"
 	A47A6C80436BDC2364B126AC5C596848 = "长"
@@ -1505,6 +1451,7 @@ Misc Fixes
 	CBBD34D54848C33BF11B95ABDEA6900E = "这里土松！"
 	EF01094A4C724929456D668A7F41DD77 = "掠夺虫"
 	8CC378B1434DDB77A263478980DCAFFC = "这里有掠夺虫！ "
+	38A352D84AF190E753529A81D7FD5211 = "失去与服务器的连接"
 	597D27244B3BAB229FC8208E850EFA38 = "清晰响亮！"
 	3119AE484EBB537745ADC386AEF30CBB = "低"
 	D80A11754E2F7AA6C46814B2207D1801 = "低"
@@ -1540,7 +1487,7 @@ Misc Fixes
 	B160777F4EFE34EB4D4FE6B895A06F29 = "MK1 枪手服：白色骑士"
 	C53D1011443DAF058512C48F88CBDB74 = "MK1 侦察服：黑岩"
 	AB19E37C4FC171FAB3F594A548ABBCDF = "MK1 侦察服：标准"
-	5D9B175D4D1E46C41A869D845CB30C81 = "MK1 侦察服：白色骑士"
+	5D9B175D4D1E46C41A869D845CB30C81 = "MK1 Scout Suit - White Knight"
 	A95C734348FB02DF27DBD09199CEDEDE = "MK2 钻机服：黑岩"
 	68FD46F14AC85B06BF06CB8D31AE7ED4 = "MK2 钻机服：镀金"
 	558DC1D54A52E148753A24A5D6A7F456 = "MK2 钻机服：标准"
@@ -1556,7 +1503,7 @@ Misc Fixes
 	039521FA41D64077F93FE58087E7EE3A = "MK2 侦察服：黑岩"
 	65951FC44F68E338FFF179A5B9C342B8 = "MK2 侦察服：镀金"
 	67DBB65C4E4BBF3BE8703790F4C45F6C = "MK2 侦察服：标准"
-	6A8E9CD84441B873021AD79C98675604 = "MK2 侦察服：白色骑士"
+	6A8E9CD84441B873021AD79C98675604 = "MK2 Scout Suit - White Knight"
 	137C1D66401339A9B79739BD304651E2 = "版主"
 	C382CD114CDAEF8EC279118336523B8B = "版主"
 	DC8D0D634672228A49E7A28C7D5B4F78 = "版主"
@@ -1647,9 +1594,7 @@ Misc Fixes
 	8217E5D24BD83F9F41A9E7B13EA39973 = "更多伤害"
 	8459276A46896A576AB45285535C0D1E = "更多伤害"
 	A56E5AAD47020EB58D7DC0B0155543C7 = "更多伤害"
-	5D159735400F3AD3D86F59972F8A86B5 = "更多弹药"
 	687C211F46A00A43AB75BA93F16985A4 = "更多弹药"
-	BB27929A46D5EBFCE76041BEAE725B22 = "每个弹匣可容纳更多弹药"
 	868031B44D72434150443CB0A99633B0 = "更多弹药正在途中！"
 	57631DAB4FE1B7FA6606CC88227D49B1 = "更有效对抗敌人"
 	CA1E9FD94322401B668878922B954B6E = "更有效对抗敌人"
@@ -1661,8 +1606,7 @@ Misc Fixes
 	A16DABD64A7B24C75F47F99D995DEB8B = "发现墨菱石！"
 	28A2FF2947395FEF10C2FD91AAA7121B = "墨菱石目标已达成！各位干得漂亮！矿骡的“逃生”按钮已激活。"
 	313CA2134D73053B2711D3A5510C1E94 = "墨菱石！"
-	79C599094EB6D6E6E02200AFC58E0859 = "大多数敌人都有各自的弱点，子弹打中弱点可造成更多伤害。而部分敌人长有外骨骼，子弹对这些部位造成不了任何伤害。 "
-	44A3445A484377F58C5D6BBC70FFECF8 = "鼠标灵敏度"
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points where your bullets do more damage and some enemies have exoskeltons, where your bullets do no damage. "
 	5553884E4B6E6F00ADC8F985F6F4219A = "快点吧，伙计们！我们要翱翔星际了！"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "快点！"
 	30D2A4894E6CF7E90329B7ACCA48A50A = "快走开！快要爆炸了！"
@@ -1671,7 +1615,6 @@ Misc Fixes
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "好多啦！"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "好多啦！"
 	CD169B8F4540D97173D1A180A5C920B4 = "多人会话已关闭"
-	80DCF1564FE0AF32ACCD80B57941FEA6 = "多名矮人一起复活倒地的矮人，可加快复活进度。"
 	EAB190A647BE3478A66B8FAAFB6A4C9E = "麝香兰属熏衣草"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "蘑菇！"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "蘑菇！"
@@ -1702,7 +1645,7 @@ Misc Fixes
 	801BA77A4D781882A479418812A4C628 = "从未感觉这么好过"
 	DBBA53E84F566413D90533A0C67236BB = "从未感觉这么好过！"
 	C0027D1B4000EEFC8109E7BE2E3E58DA = "新发型"
-	09A5C4244C0CA7F04085C3B488B92795 = "Newsletter"
+	09A5C4244C0CA7F04085C3B488B92795 = "讯息"
 	626CFD674A033F57719FD2852013AFF8 = "下次升级："
 	BAC61B4E47D79CF780A15EA41F65AD74 = "下次请你喝酒！"
 	BF5D4A09462C925CF7C2F59AD63A8017 = "下次我们去某个好地方……"
@@ -1735,6 +1678,7 @@ Misc Fixes
 	6DB7536F47654EBAB8DDA8ACCF2ED0E6 = "中"
 	74D13FE94A82AB044ED0218B4515D516 = "正常"
 	01A3664546FF7F4D27F17A9A10067380 = "别闹了！"
+	2F60E2EB4E61C6C9A001BFAE3249368E = "并没有那么远"
 	3114EE99451AE12A9B7CE0B9AB3807A4 = "不怎么好听！ "
 	537F78754C5AAE4F3B878F80942102D5 = "无"
 	AE79CBE141F468CDBC1C949D60597851 = "无"
@@ -1797,10 +1741,12 @@ Misc Fixes
 	3F59503242ACE4AEEAABBC88DB19FFC6 = "猫眼石！"
 	61BB27AB46310A029B6F1BB4CAA5BCDC = "猫眼石！"
 	6492F1E04D85BF277DB55C84F677D85F = "猫眼石！"
+	32A74656415DA53555531CAEF4291A21 = "打开"
 	854C01D44A5E7EE81044B5907A100F89 = "打开地图"
 	8E8C8DA14D3D2162A85247B46C7A2B72 = "打开地图"
 	DFAF837A45849CFAFE010589D31D5162 = "开放的网址解析"
 	7CF83C60466640DA9E14B2A20187AFEA = "Open Servers Only"
+	173968504E80683C6A266D819A2E8FBF = "Optimized Ammo Drum"
 	25FDE2DC47E6E00CD26E3C958625B882 = "选项名称"
 	2E4A9A3B4CE8BBE6EBC80D9C802F13AC = "选项"
 	3F7C5E884ABE9C45B21F3FACD699A1AD = "选项"
@@ -1837,6 +1783,7 @@ Misc Fixes
 	C79595634378DAEEAB740BB8AF143D3B = "行星区域"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "行星区域："
 	C21850D74844EA192C1FCEBA601C6261 = "行星区域："
+	6837936E4EFB82CBEF489FAD5C73FE96 = "PLEASE NOTE! You do not earn a bigger mission reward by kicking players! Actually you will lose the survival bonus from this player!"
 	E4DEE1334E397283E5AADFA084AE3366 = "请重新连接手柄"
 	2276DA03429396713203CBAC6EF3C810 = "舱正降落"
 	0E40CA4047102A62E43D82B23E361885 = "海报"
@@ -1845,18 +1792,15 @@ Misc Fixes
 	F3155C474EF53C36803B23875CCECF17 = "按任何键继续"
 	A7FA5FB342C218181CDE8DADE821FD8F = "按任意键退出"
 	680CF46F443D5BB1D62DEDB346CB9C4C = "按 [CallDonkey] 呼叫矿骡。"
-	B8CCFBD24E3F27F250DB4698E51549C7 = "按 [Equip4] 两次可触发补给舱，再按 [Fire] 呼叫它。"
-	DA66CA3141162C3AF0D384B1DFD8A248 = "按 [Equip4] 两次可触发补给舱，再按 [Fire] 呼叫它。"
-	726A354D42D77EA0A34584944346937A = "按 [Equip5] 选择补给舱，再按 [Fire] 呼叫它。"
-	9AD2FB414E12C8D2E3781DB47856BF5C = "按 [Equip5] 选择补给舱，再按 [Fire] 呼叫它。"
+	726A354D42D77EA0A34584944346937A = "PRESS [EquipResupply] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	9AD2FB414E12C8D2E3781DB47856BF5C = "PRESS [EquipResupply] TO SELECT SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	B8CCFBD24E3F27F250DB4698E51549C7 = "PRESS [EquipResupply] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
+	DA66CA3141162C3AF0D384B1DFD8A248 = "PRESS [EquipResupply] TWICE TO TOOGLE TO SUPPLY POD THEN PRESS [Fire] TO ORDER IT"
 	E501CABD480DE511EC843F83B6B411FB = "按 [Fire] 呼叫"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "按 [Flare] 投掷照明弹"
 	E66F2965440023B51A13E5B5253ED0BC = "按 [Jump] 继续"
 	FD12F4A94EC35363633682B3B98ECBAE = "按 [Jump] 退出"
 	54252A9A47A6776CFE924B93B30F5B44 = "按 [Salute] 致敬"
-	0E6FDF684AF461D269E215A191289E87 = "PRESS [Shout] TO CALL FOR ATTENTION"
-	3E8D5A1F49894E7918B4F0B70CB2D74F = "按 [Shout] 呼叫队友注意"
-	7619D8004800B2FB339A57AD814FA511 = "按 [Shout] 呼叫博斯科"
 	E6CE771943558977A67F7296A448F6B3 = "程序员"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "公共服务通告：有人在饭堂留下一挺榴弹发射器。为了确保安全，没任务的时候把所有重型军械收起来。"
 	2F9328D54501F01017A1E6AC1B58ACDF = "公共服务通告：“登上太空钻台后，所有武器统统收好！”"
@@ -1903,7 +1847,6 @@ Misc Fixes
 	4644D2FA4D1BE051B241B896053FDB4C = "粉色水晶"
 	6F74A43C47DF738B85E92E91EC833A23 = "粉色水晶"
 	BEC47AB74DD4EC72E8067C80E4B2F771 = "粉色水晶"
-	64B3998D4B293E3960E24F94A147EEF2 = "手枪"
 	EEE9054145679A578C6F91B277E91D88 = "正在放置路障！"
 	089042534597A544D11EE4A3E24E817E = "正在放置哨戒炮！"
 	3A0B2D874CE1C813031ECDAE4A8DB307 = "正在放置哨戒炮！"
@@ -2047,7 +1990,7 @@ Misc Fixes
 	4DBF5FCA46C226DAF720B49F54DF6805 = "装弹中！掩护我一下！"
 	C9DD9C3749680AF60B1F0EBA022F9A90 = "装弹中！掩护我一下！"
 	D0B9772242CFC839ABDD478D638A0415 = "记得抬头看看！可能有烦人的虫子藏在洞顶上。"
-	15C102484C0E9A6961FBC4A248F56025 = "记着投掷照明弹。它们的数量会随着时间的推移会恢复，所以不要舍不得用！"
+	15C102484C0E9A6961FBC4A248F56025 = "Remember to throw flares. They are recharging over time, so don't save them!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "记着，洞穴水蛭不怕你是因为你怕他们！"
 	046C7D9F4E22D85C44E58984A38E9634 = "重置进度"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "重置进度"
@@ -2237,7 +2180,7 @@ Misc Fixes
 	075479CB45BF3835DE1846A51811C954 = "显示帧率"
 	3127F8A540D246D860D961AD1DBF602F = "显示 HUD"
 	BEA156E64ECB2A82334E2C900D8A0582 = "让伙计们知道你发现了什么"
-	D0E809FE415757354E08C9A6C291E826 = "向队友们表示感谢，或者直接跟他们说他们有多棒！"
+	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammate how awesome they are!"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Sign up for our Steam Group below to join the Community and keep up to date with us as we continue expanding the game - and claim your free reward of 5.000 in-game Credits to give you a massive boost through your first days at work in the mines of Hoxxes IV!"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "请安静！"
 	82D5760A4D36C73A04E752BDC5DE965D = "简单"
@@ -2349,11 +2292,11 @@ Misc Fixes
 	1B8395E5452CDDC4D27EE3A70A790E58 = "更强的爆炸造成更多伤害"
 	774B8BAF416E053F8A1F2CA1DF938738 = "更强的爆炸造成更多伤害"
 	950A42504F9FA4B21E07E682B097AD10 = "更强的爆炸造成更多伤害"
-	9D70C6CB44D3AD8B7299E5BAAF3490B5 = "Subata 120 手枪"
 	C086D4174E9B15BF0A19F48247CD8DB8 = "字幕"
 	88E79D4D44DC163227E537BBBBB740C8 = "让你爽个够，死怪物！"
 	B85430EB48ED72FB419E5F8C019B725B = "穿好防护服！准备大干一场！"
 	D755FD5748AAC914FDEB49B6EFE241C1 = "超级霰弹枪"
+	BB27929A46D5EBFCE76041BEAE725B22 = "Superior dwarven engineering means you can cram more bullets into your gun before having to reload!"
 	5C21530C4D54C67AD029EAAA237EE6D6 = "补给在路上了！"
 	940F632343E7EFE3D74180BF5EBAA632 = "补给舱航标"
 	2CCEDC5548992642BEBA02BE2A07752F = "补给舱"
@@ -2377,6 +2320,9 @@ Misc Fixes
 	F270249D4B98E5158146E9A617A36D3D = "切换职业"
 	679A42A9498FC32808218091A5F67ECD = "Søren Lundgaard"
 	AAA07AF748B48874C4A60D8398BBEDA9 = "倒数计： ## 秒"
+	0E6FDF684AF461D269E215A191289E87 = "按下 [Shout] 呼叫队友注意"
+	3E8D5A1F49894E7918B4F0B70CB2D74F = "TAP [Shout] TO CALL FOR ATTENTION"
+	7619D8004800B2FB339A57AD814FA511 = "TAP [Shout] TO CALL FOR BOSCO"
 	68EBCF464FB26B5D037B20866623BC7A = "队伍存矿点"
 	AE66380E409563A1BF5CAE973528CEFC = "队伍合作是关键！"
 	365C77A54A278546EDE12CA8FCE40FB6 = "队伍合作很重要"
@@ -2593,8 +2539,6 @@ Misc Fixes
 	68D364CF4183DF3F945DD99F3F3A53B8 = "在此处输入内容"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "用户界面"
 	B9B8DF3947F5817463C75E91163945B2 = "用户界面比例"
-	8BE53EE144A719AF73F42DA29EDC1A49 = "升级
-装备"
 	57E6BB0F42206D722E6E1A866FC825D0 = "升级装备"
 	154D798349596E65C508169C1B0BD295 = "升级你的装备"
 	EF7F3BF4405DAFECAB50EC9E099F4532 = "呃，真呕心。"
@@ -2623,6 +2567,7 @@ Misc Fixes
 	C3D8F86F42EA1CEE1E1C2A99801F28EE = "解锁：侦察兵 10 级"
 	A83D2E5E45D1FCFE84BB6285E2716604 = "解锁：侦察兵 20 级"
 	790CD48846F0BE89F64B7CA517FFA956 = "取消静音"
+	0EB38662449FB7A32E603E85AB1114E0 = "不稳定晶体"
 	978665B8463E7589B1F9448B99EFA06E = "升级"
 	564780DB4BC0B912BEC1FF90F5F944A7 = "强化版升级"
 	7DEDC3AC4676FAA5CFC2DF931E51AA84 = "升级"
@@ -2633,19 +2578,19 @@ Misc Fixes
 	DCFBD7324089FC4A26DAED8105688BB3 = "浅层极地地幔"
 	7032AA244E5FD6DEE82BE593FC832250 = "使用"
 	4C00DDD243A216F0336201B7EB60440A = "使用激光笔指挥博斯科挖掘矿石或对抗特定的敌人。"
-	32E67FE9406320B0C0226FA6475494C3 = "利用激光笔标记矿石、敌人以及兴趣点，从而引起队友的注意。"
 	88ED55324ED7EDDD65B8768C6514E5D9 = "呜──吧──吧！"
 	10DA06984D53C8868A318FBB76C3C514 = "时装商店"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "配音"
 	DC82A7B24ED62593B64A1BA3193D9A5B = "垂直同步"
 	1ACEB567461C75D400D5D0905E6AD03B = "烤死它！"
+	44A3445A484377F58C5D6BBC70FFECF8 = "Vertical Mouse Sensitivity"
 	DA486CC0432841353D021396815673FD = "非常时髦"
 	5566E67A476CF5E36272B7A7E36CF03C = "文明进步的结果"
 	10246BE04BE7FFC4ED29AD8489174AB2 = "非常隐秘"
 	67B818674B721E052DFEEF81146999D1 = "非常隐秘"
 	68B709344A8627F954B1E2B3BAF3458D = "非常隐秘"
 	809E655D4A757F85090DB4B6359A680D = "前往太空钻台的“装备升级”终端，使用辛苦赚的代币升级你的装备吧！"
-	7ED249D745DD40186CB8C884C4A686F8 = "前往时装商店，使用代币和稀有矿石购买新的铠甲、帽子及胡须。"
+	7ED249D745DD40186CB8C884C4A686F8 = "Visit the VANITY SHOP to spend your credits and crafting minerals to get new armors, headgear and beards."
 	2D2A6357468F84A1FE3FC982E155948C = "语音聊天"
 	26B91DA946637579724DD58AA270B500 = "语音音量"
 	3EB811FD4977F29355F8FC8BD33CD50A = "咿──嚏──"
@@ -2736,7 +2681,6 @@ Misc Fixes
 	B90152A2422A4306E02BBDA32F198DBF = "白帽"
 	391EC00944D3E9F1AD627180DF91198D = "白色水晶"
 	585A63DF428AC5458BA9ECABF851181D = "白色水晶"
-	679D52774DDE234ECFC0F081E7792DA0 = "白色水晶"
 	7836F1FE4B8B8C5CCC24A9AA151FA9FB = "白色水晶"
 	8477E9AC4C56F7E01878C198BB597BBA = "白色水晶"
 	BE37800847F77A849948B7B32CC3EF57 = "白色水晶"
@@ -2755,6 +2699,7 @@ Misc Fixes
 	2D9533C146672835367E2D8EDC69C7C6 = "作业环境"
 	EE7AAEB94E93C86232238B9B4138ECCB = "作业指南"
 	3C34D3184ABDDD0D1AF3CA9A2D2A443C = "破烂儿又不动了！"
+	1C718FA74134FD29EF70B99619B602C7 = "世界"
 	DBAE2C1B47A771EAFB09AFB735FB2BC3 = "一文不值，不过破坏起来也好玩！"
 	983F9B7847CFC6CEF329128DF715311F = "确认要创建自己的服务器吗？"
 	6C68CD074F43A80D4601169F005F13FB = "所赚经验值："
@@ -2788,6 +2733,8 @@ Misc Fixes
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "你擅闯重地！赶紧回去干活吧！"
 	B7D2007C461E925E99F54AAFE707165D = "你擅闯重地！这地方不对外开放！"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "你们最好挖矿的实力强过跳舞本领。"
+	9CDC3BB840BF2AAAD82E36A827F9A84B = "You can carry more ammo with you into battle."
+	32E67FE9406320B0C0226FA6475494C3 = "You can point at things with your Laser Pointer and draw your team mates attention to points of interest."
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "你看不到标语吗？好吧……我读给你听……保持安静！"
 	78D2755C4861A355ED50D3AD1A7F8D85 = "我很欣赏你的干劲，但你不可能带着油桶去执行任务。"
 	7385AADD42A9E20A78773E92E52A22E5 = "你要知道，你是计件不是计时的。时趣的快去干活！"
@@ -2874,7 +2821,7 @@ Misc Fixes
 	B49D14D14182674FC077EEB3E53277F8 = "{value} 帧率"
 	842C4AFE4D8A01633BA906B37D033AA3 = "{value} {unit}"
 	C777823E4E0F7B660E07D993DFABC267 = "{value} {unit}"
-	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Sorry, this was meant to be a private game.”"
+	5CDE33454C9AA5FC2E78D59DE06A7D0B = "对不起，这表示它是一个私人游戏。"
 
 Namespace [/Script/FSD] (27 keys)
 	736F31C8400B0D301672149F62B3D0EA = "合格矿工"
@@ -2933,13 +2880,72 @@ Namespace Gear (7 keys)
 Namespace Inventory (1 keys)
 	Full = "已满"
 
-Namespace Items (2 keys)
+Namespace Items (1 keys)
 	7EA2987C49C7CA9A837625B21EDD39F4 = "突击步枪"
-	64B3998D4B293E3960E24F94A147EEF2 = "手枪"
+
+Namespace MaterialExpression (0 keys)
 
 Namespace Missions (2 keys)
 	DB0C3F174ADE70EAA2D7758958E08DAB = "目标完成。在矿骡上可以呼叫空降舱！"
 	5C6519E64746AF02D48A7DB05E363C41 = "目标达成！可在矿骡上呼叫采矿舱！"
+
+Namespace PatchNotes (1 keys)
+	Update_10 = "Hi Miners, 
+
+We have another update here with both some important fixes and a bit of new content. Along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 
+
+--- PATCH NOTES ---
+
+COMMUNITY REQUESTED FIXES
+- Fixed several issues with mouse sensitivity. Sensitivity was not the same in Space Rig and in a Mission, they are now the same. Sensitivity had different values for horizontal and vertical, they can now be set in option.
+- Steam Region search option. 
+- Disconnecting controller no longer disables mouse and keyboards
+- Test fix for primary monitor (somewhat untested!)
+- Fixed Grappling hook infinite life bug
+
+CAVE CONTENT
+- First implementation of different tunnels for every planetary region
+- Added crystal spikes than can drop from the ceiling in Salt Pits
+- Sticky Goo added to Fungus Bogs
+
+MISSION MAP
+- New icons for Complexity and Length. It should now be more obvious that Complexity is a serious difficulty increase.
+- Complexity icons now shown above Mission icons
+- Mission payout directly show below Mission icons
+
+WEAPON VIEWMODELS
+- Changed viewmodel FOV for 100 to 90
+- First person view of Weapons are now less stretched 
+- Reduced overall clipping issues
+
+SCOUT TWEAKS
+- Sawed off Shotgun shoots 15 pellets dealing 6 damage each - increased to 10 damage each 
+- Sawed off Shotgun Max ammo 30 bullets - decreased to 16
+- Sawed off Shotgun Max Ammo Upgrade - decreased from +10 to +8 
+
+ANIMATION, SOUNDS & EFFECTS
+- Driller Pistol Reload Animations
+- Driller Pistol and Scout Shotgun are now considered reloaded when it fits the animation, not when the animation ends. This will be implemented on other weapons when they get their own reloads. (Sound update missing)
+- Fixed console background anims on clients
+- Laser Pointer gfx update
+- Background removed from Interact popups
+- Damage Overlay gfx updated
+
+LOCALIZATION
+- Added more space between text lines on terminals (for accented languages)
+- Updated all languages from Crowdin
+
+MINOR FIXES
+- Server list defaults to not show password servers
+- Asteroids no longer smooth shaded on loading screen!!!
+- Controller Right stick is now used as mouse scroll wheel
+- Remove Steam Friend test when inviting friends. Private sessions should handle it better now and it was preventing clients inviting friends that were not friends with the server.
+- Fixed Molly not being Golden in Memorial Hall when unlocked
+- Make Molly and the large spiders prefer to walk on floor
+- Fixed Weapon crash
+- Enemies are no longer "staggered" by physical damage (Melee)
+- Fixed updated Ammo and Clip size was not applied when you first spawned into the mission
+- Changed Item scale in first person so that they clip less with other objects."
 
 Namespace Progression (6 keys)
 	ClassLevel = "职业等级"
@@ -3009,6 +3015,8 @@ Namespace UI (24 keys)
 	Close_Controller = "[CloseMenu] 关闭"
 	No_Controller = "[CloseMenu] 否"
 	Yes_Controller = "[OkMenu] 是"
+
+Namespace UMG (0 keys)
 
 Namespace Units (3 keys)
 	Meters_Unit = "米"
