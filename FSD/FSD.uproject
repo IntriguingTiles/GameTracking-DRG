@@ -5,6 +5,11 @@
 	"Description": "",
 	"Modules": [
 		{
+			"Name": "FSDEngine",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		},
+		{
 			"Name": "FSD",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
@@ -171,10 +176,10 @@
 			"Name": "KDevelopSourceCodeAccess",
 			"Enabled": false
 		},
-    {
-      "Name": "OculusVR",
-      "Enabled": false
-    },
+		{
+			"Name": "OculusVR",
+			"Enabled": false
+		},
 		{
 			"Name": "GoogleAnalytics",
 			"Enabled": true,

@@ -1,7 +1,7 @@
 22 namespaces
-2391 values
+2407 values
 
-Namespace Global (3044 keys)
+Namespace Global (3068 keys)
 	1E1ADC13406ED5FA28EF4D97D3BECB48 = " +{bonus}%"
 	C7A2859F450D8B339A4CE1876CAB0134 = " +{bonus}%"
 	2559D78C40005E5221F26093CB976283 = " Collect {Collected}/{Required} {Title}"
@@ -29,6 +29,7 @@ Namespace Global (3044 keys)
 	432B2F5F4E1BE02385DA2E8E0FAD1CBC = ""Yes, You Can!""
 	64EC61C944E03B358AF914AE7EDB71B2 = ""Yes, You Can!""
 	757542D044AE5468809922ADDD77C794 = "+20%"
+	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
 	78DFA13846CB82653B1E9FB81E88F2F2 = "- BAY EMPTY -"
 	8BE6B127423859AEED1AE1834524940A = "- BAY EMPTY -"
 	BB94DE9543476E1F28A7CDA3E115EC27 = "- EMPTY -"
@@ -43,6 +44,9 @@ Namespace Global (3044 keys)
 	610A35A6460AE74E8D2B5B9D80081A9A = "...It ain't a gun if it don't weigh at least 100 pounds."
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
 	7CFB443C471CE28E2E8BFAAE8F278274 = "0"
+	98DA5AFC476EB0257867C78AB7F8BDF2 = "0"
+	C24C3A3F469A92FA5387558D958A2783 = "0"
+	F43D2D88431C48E65D1E41A2D999D89A = "0"
 	24275AA04B9E3A6802EB17AD93E436DA = "00:00"
 	81660656462336F51DE46984E9ADB2ED = "00:00"
 	7B2076844D80C85AAB1B9AA6253FB39C = "00:{mm}:{ss}"
@@ -109,6 +113,7 @@ Namespace Global (3044 keys)
 	110187364451A692C0CAB39BE0C191CD = "Action time!"
 	0276A46F4D5DDA64411F348C644A1437 = "Activate Terminal"
 	1D53C74D4C2B35AA0E89699FFB2BBE9E = "Activate Terminal"
+	3371CE2844906ECC5EC89BB5938C5A28 = "Activate Terminal"
 	3FEF03C74429EAD810F6EE9FE2248A2D = "Activate Terminal"
 	4D2D1DE742FF1BC89D17198742A12781 = "Activate Terminal"
 	ADAFA15F43DBBC9111A21596441AD1E4 = "Activate Terminal"
@@ -142,6 +147,7 @@ Namespace Global (3044 keys)
 	A13E31724B152BF53958568AC2187067 = "Ammunition Resource"
 	2C4A91E9492C6E9E0B9B26A55BDBE3B8 = "Among the deepest of our mining sites, the Magma Caves are a mellow 250-400 degrees and helpfully lit by the churning, molten innards of the planet. We advise that you do not touch anything not mandated by the mission objectives, as your employee insurance does not cover burns."
 	8E6B812B407B923700BEB8B780945CD5 = "Among the most spectacular sights on Hoxxes, the aptly-named Crystal Caves are truly a sight to behold. Massive crystals erupt from every surface, glittering and twinkling in the dark. Alas, the larger crystals are mostly worthless silicate, but abundant deposits of valuable minerals dot the caves too."
+	A5294F27463D370F8DD5298C44AF4D16 = "Among the most spectacular sights on Hoxxes, the aptly-named Crystal Caves are truly a sight to behold. Massive crystals erupt from every surface, glittering and twinkling in the dark. Alas, the larger crystals are mostly worthless silicate, but abundant deposits of valuable minerals dot the caves too."
 	29D5FBF2442015B335E7A6AECFA87166 = "An absolutely majestic profile."
 	3B18C19548D132601FED55B99675B48F = "An absolutely majestic profile."
 	67D8EE0841E320C26FB213B16D34DB30 = "An absolutely majestic profile."
@@ -209,6 +215,8 @@ TERMINAL"
 	177504BB476C21A5500B4D9880FE49D3 = "BURRRP!"
 	5396483949BB22B6B752C09B168D2B1D = "BUTTONTEXT"
 	FF2C016F485C5710880A7D830ADDE311 = "BUTTONTEXT"
+	1596F21140AD5A864B8555A54A5E1700 = "BUY"
+	8573115C47B7D06F415366B6CDCEB4CC = "BUY"
 	32D1DD734BA49FE1E0B0C1B5C631B2C2 = "Back"
 	3AD65F774C5AACD2210435A6559D47F9 = "Back"
 	438893FB45ABDF244FBB0DB4BAC91FCA = "Back"
@@ -318,6 +326,7 @@ TERMINAL"
 	E38A00AB4C7911097E8E57855DDB2946 = "CHANGE LOOKS"
 	9FFDAD124B9969657EDCDCB44E626837 = "CHEATS"
 	6F02005F4FB0502AF4B3B79F594D57D1 = "CHEE-TR 69"
+	AA1B3D24461665D2DE736AB39C4BD728 = "CLASS 01"
 	47C96B3F473BD15099CEEA8D9010E031 = "CLASS NAME"
 	E5E0408B4B2E7E33D11B66A7A2B88DAE = "COFFEE STAIN PUBLISHING"
 	082A9714445A7627B4ED46AFFC732279 = "COLLECTED MATERIALS:"
@@ -365,6 +374,7 @@ TERMINAL"
 	E1A6AA0446022A84AAE2F89A034CBB62 = "Carries more grenades"
 	60E56D8C41802B36F71AE98A54A14C6D = "Carries more platforms"
 	7194939B4A338E33C4ED3086A9CE35FC = "Cave Coral"
+	B0A0D03D4B1E4A727A73AA8CD2173125 = "Cave Jelly"
 	FABD8AA7478F53C1C7268CA2475E1A4B = "Cave Leech"
 	C70972C94DD6117C962D73A247E2933E = "Cave Urchin"
 	A6F013A946E7DC4CD01268B5331575FD = "Cave Vine"
@@ -385,13 +395,14 @@ TERMINAL"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Chunk of Nitra"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "Chunk of Nitra"
 	EC7C73A0400EAEB5501D12863298DDC5 = "Chunk of Nitra"
-	DAA1EA37491C92351DEF7F91E54B51C0 = "Class 01"
 	CCAE4EA549842149659D608F55032565 = "Class Level"
 	051100FE440C58990CAA6495C6680DA4 = "Classical"
 	E6091D33453BC448874457AB90A51E39 = "Classy moves, team. Now quit it."
 	4DC19E56415BB0537728FBBE378F9066 = "Clean Shave"
 	F716C5E64596ABB20D4623AD0C6258BD = "Clean Shave"
 	2840FE284F006002F9C598897D261B2C = "Clean and simple"
+	01F5BABE413FACFF9BD51285D21AE723 = "Clear"
+	EE5D4562468D5D1911898E8397A5C57F = "Clear"
 	2D9C5CBE4668091C5E0D00B7C49C3891 = "Click to join the Steam Group!"
 	FDA005934F3D906787D37A8B7CBEFD27 = "Click to join the Steam Group!"
 	7F765FDA440F32545B0F8283AD6274CC = "Clip Size"
@@ -522,6 +533,7 @@ TERMINAL"
 	7905E37140411F564C0125A36C089FDF = "Crystal"
 	A21039324191EEE4E167A0A871591CEC = "Crystal"
 	7E2C903B470E31C7B8F9AEA38B8FF621 = "Crystalline Caverns"
+	80D28714487FE284DA6B7ABDE9B0879C = "Crystalline Caverns"
 	B610D6184BC05B285769B6A452AE6C01 = "Crystalline Caverns"
 	C3EEC4024EFCE25A3AB044B8A0B798D7 = "Crystalline Caverns"
 	549257164EA4E3BE4F9923B73561EE1B = "Curly Pointer"
@@ -583,7 +595,6 @@ WE'RE ON STEAM AND CLOSED ALPHA IS LIVE!"
 	53523FB045C3F3159F36B19DA4729D08 = "Danniela Goes de Aragão"
 	CBC92B804862BDDA7286BF98D6BFD825 = "Darkness, here I come!"
 	9205D30F4D3C1655949079BE2F972D3B = "Darkness? Ain't nothin'."
-	7EA1C7CF4DF103EA936CC3B2B194D9FC = "Dart Fly"
 	BB916A3E42610F781ABC2AB9ECDB8CF6 = "Deals more damage"
 	0000DDF9494AB4629FB4F2BD15F38096 = "Deals more damage to the enemies"
 	2EA177CD4A6D3565FA123F944EC2817A = "Deals more damage to the enemies"
@@ -749,7 +760,7 @@ WE'RE ON STEAM AND CLOSED ALPHA IS LIVE!"
 	C6A2DCC14762D181A80E5EBEA55447BF = "Egg! I found an egg!"
 	5953F6C644ED3307B5A2E0ADBC7822D8 = "Egg-collection time, Team. Alien eggs. The company wants them - don't ask why. Find them, stow them in Molly, and return. Simple."
 	E140E52543DAAB23265CB78D36A8FDAC = "Ejector Cactus"
-	5F4816E244082BE1463714B285BF19BD = "Electrocrystal"
+	D563FF9245CED634ECD769ACC09FE20C = "Electrocrystal"
 	BAA3D81347FC18A43AF779A445EC7AF0 = "Elementary."
 	1BBA6A92410AA32B9E70CCA81912F970 = "Elevator Plant"
 	28446666412ED13D695913AC371C5625 = "Eliminate Targets:"
@@ -923,12 +934,12 @@ RANGE"
 	251024574D3DDFB05907DFB0FD9FF410 = "Fullscreen"
 	28739C1548A8358DA2F1C4AED59D93B2 = "Fully Sealed Suit"
 	06AE677E4BF6B4591091A2AA34A0CFAD = "Fully portable and constructed from lightweight components, this handy gadget will fire a steel-reinforced tether across any chasm you might happen upon in the depths."
-	01D3F6A440C8DE9FC0DB30BEF0B0FDC7 = "Fungus"
-	339AD2F342385E3987632E800FAA0A64 = "Fungus"
-	3A3D01344A5686734F1249B1E674BBA5 = "Fungus"
-	934F67D84BF74FC466F3F3B6F10B7C50 = "Fungus"
+	20BF533149B545C499A58681CFB88D4B = "Fungus"
+	492179A0450C3FB2A487B584FEBF5F00 = "Fungus"
+	4F80BE014C51F079BB4FFCA66CEAF0F6 = "Fungus"
+	AE9DEB31409A552EEDEF50962C0262C6 = "Fungus"
+	B0E0DC6C46F48F0587231AA691F364A9 = "Fungus"
 	F44833C44B830641D50293B455C4829D = "Fungus"
-	FBD5A6BD407254DDD4EB9F984021A299 = "Fungus"
 	ABDAA425488574199450C799ECE19E14 = "Fungus Bogs"
 	3218229442E175A3D8B3E6903818E10D = "GEM!"
 	178132E04F1251CBF786328BA329F2AD = "GEM! I found a GEM!"
@@ -952,7 +963,6 @@ RANGE"
 	DF8927014457DEB1A222759C3C2B74AA = "GUNNER"
 	E4CA328C4E57D2B2A07A2FBA12D6640F = "GUNNER"
 	AAA8193840982011FD259AB023A1D053 = "GUNNER STATUE"
-	472AD10C4C5B5617538225A52DC8FFD2 = "Galaxian Box Jelly "
 	0210DC9A43583272C34577AA706D12C2 = "Game Designer"
 	1D17F0AC4E3E13374F78208C216F0B53 = "Game Director"
 	A1D3105046216F6A6033439F4C89833B = "Game Server Name"
@@ -1008,6 +1018,7 @@ RANGE"
 	FA8F44C946CD7ABC7358039A193E66E7 = "Glyphid Praetorian"
 	7264F5314B7568C009316EAA26625514 = "Glyphid Spawn"
 	F7464ADE4437E5B3F6902DB072133523 = "Glyphid Swarmer"
+	B8D8E4D846F02E721C4AC4A0B19118A4 = "Glyphid Tunnel"
 	EBE02D2E41935D99B0636AA8053E5CB5 = "Glyphid Warrior"
 	1CF279344F67E8BC574EF5981DA77522 = "Glyphid Webspitter"
 	EF2539364E0BBD773683F5BD0E0107D2 = "Go Bosco!"
@@ -1188,7 +1199,7 @@ RANGE"
 	BAD2E7A64BE9CAC7F83BE9A4E2BC9A36 = "Hurry up! I ain't getting younger you know! "
 	3305C68D4E9BAA729DD29A8258303F74 = "Hurry up! I'm getting bored!"
 	34F864224E98E6022A7CA29F883C8065 = "Hurry up! I'm not getting any younger!"
-	7496556240A349365A4F8098ED4DC3CA = "Hydra"
+	71EA6BC04E6EFF169EA6EFB1FD1597D8 = "Hydra Head"
 	7B01BA6D4E2177EDAE58A9A9B75A22B9 = "I actually think we are gonna make it!"
 	BF78433640226D2E6D6271A32C72C134 = "I actually think we are gonna make it!"
 	6425493B4EF2C236F4FC19987541A529 = "I ain't got all day! Let's leave! "
@@ -1390,8 +1401,6 @@ STAND BACK!"
 	0BBDBEAE4A91E8F0C1F5E5A4E6110111 = "Javier O'Neill"
 	BAFA3FCA46C3E9459AED4697074FC28B = "Jazz"
 	40DFEAA44DEC90E6E8D61A958C3BC744 = "Jelly Breeder"
-	8D19A5614D1AD600127DE5BCDC151709 = "Jelly Parasite"
-	E96F5A884AE1ABEE84C55891C44A7961 = "Jelly Spike Slinger"
 	15409AD14F1F57BFCB433E85F95B2D9F = "Job well done! Button on the MULE is activated. Bring it all home, Team!"
 	3ACAE4AF402D8F62564994983E525DE5 = "Job well done! Button on the MULE is activated. Bring it all home, Team!"
 	31C533DB404DD19B8EA67B8B445B4F3B = "Johan Hagelqvist"
@@ -1456,8 +1465,8 @@ TUTORIAL"
 	C82E313A47FACD5D427F14A7CEBC56EA = "LOOKING FOR A SPECIFIC CRAFTING MINERAL?"
 	776EEDF74F5A67D8128954AA3C43A93F = "Lack of Resources!"
 	E612E7A1483E43042EB651808C262332 = "Language"
+	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
-	957878E6464858254AC3C7A119D8AE79 = "Lapeirousia Serrulata"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Larger Belt"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Larger Belt"
 	A58587444D096FC60CC81D9393CF222E = "Larger Belt"
@@ -1566,6 +1575,8 @@ TUTORIAL"
 	739783CC49AE38F6F1AE6D963CF9D972 = "M.U.L.E. STATUE"
 	DBF84CCA408EFEF59E11CA97B1FE5298 = "MEMORIAL HALL"
 	A8635D3A4197B12C9171ECACB3DCC6E1 = "MINERAL NAME"
+	71A231B84DA0316C33DBA8BF81F457B0 = "MINERAL TRADE"
+	F20834A84EB11A83D39535968304825F = "MINERAL TRADE"
 	C6FE061C4FEE6E56D58A089C06243FC7 = "MINERALS INSIDE WALLS"
 	7EA800674ADAB0AF09B87FAD83F5F71B = "MISSING RESOURCE"
 	425FE5044989D63327E09A9305357CBE = "MISSION"
@@ -1615,6 +1626,7 @@ TUTORIAL"
 	DC8D0D634672228A49E7A28C7D5B4F78 = "MODERATOR"
 	E1E6FC3E499E0E8617D98690D63948C5 = "MODERATOR"
 	EA807C684450BB19B921639A3BA5D580 = "MODERATORS"
+	7EA1C7CF4DF103EA936CC3B2B194D9FC = "Mactera Spawn"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	92D1A8F24554B279ACF95C9CAD4F7399 = "Maggot"
 	E0E051F74E00F5C9A4CC2680847DF607 = "Maggot"
@@ -1669,6 +1681,7 @@ TUTORIAL"
 	B439AE914A705D4D620C46A031E3BB13 = "Mighty Muttonchops"
 	BB5A7AF14F7C8E9DB50956A12BEB96A6 = "Mighty Muttonchops"
 	CBF250254793EF64FC127D99A3111E15 = "Mighty Muttonchops"
+	1BBF1D704700F016CBDEBCAC891B049B = "Mike Biome"
 	CCD4A85F4231C56E402568A26C45AB10 = "Mikhail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
 	67B7516B42F5585F57A881936E78D7B2 = "MinAngle"
@@ -1731,8 +1744,8 @@ TUTORIAL"
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "Much better!"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "Much better!"
 	CD169B8F4540D97173D1A180A5C920B4 = "Multiplayer Session Ended"
+	363F35F64355EAC74E3A0F9F7476EE46 = "Muscari Angustifolia"
 	8F3B09024FA15B01CDF7FC924324A846 = "Muscari Angustifolia"
-	EAB190A647BE3478A66B8FAAFB6A4C9E = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "Mushroom!"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "Mushroom!"
 	F7855C5E422A4EB627BE18A6DE59B1A9 = "Music Volume"
@@ -1948,6 +1961,7 @@ But well done. :D
 	E82365B2495912F596DA23ABD0815AC7 = "PSA: Your Loadout can be customized and upgraded from the Select Class terminal in your personal quarters."
 	617EA2B64AE6115A7ECDEAA8D6E7B814 = "Packs a bigger punch! Exellent for making swiss cheese out of bugs."
 	5CDF4D02428CEFD5EEA1FBB669567A35 = "Passable work, Miner. You will be a good fit for our operations, and Management will be pleased that they were correct in putting their faith in you. Return to base and let's get you into the fray properly. Press button on the M.U.L.E. to call in the Escape Pod."
+	CF99434643CB9020EDC0C0A6F69FED05 = "Password Protected"
 	720CEB6E486DBF742DE3F9A974925C73 = "Pathfinder debug"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "Pay your Respect, - be quiet!"
 	3C9AEF9F46FF592951C327902D9C195C = "Peach"
@@ -1988,6 +2002,7 @@ But well done. :D
 	8A16CF354599757A1B94C39D6D2559EA = "Play"
 	741BD55D4E5B0C462C264AABB6B873A4 = "Player"
 	35F188344DABAC671C11C8937ADF71BB = "Player 01"
+	659071834649C5D60598A9945927B447 = "Player Data"
 	785D9C5B457170C98F25A898CAD6F1F2 = "Player Name "
 	7146C8E64854C0DB498B70AF7625379C = "Player Rank too low!"
 	A5890AD147109BDA322CC680CCACE44D = "PlayerName"
@@ -2023,7 +2038,6 @@ But well done. :D
 	F9A3211F411439326CBD8EB4FDB6A533 = "Press [Use] to use\n Press [Jump] to drop"
 	A1FAC359403A1149F96076BDD450AF2E = "Previous Item"
 	3800EE604BF5CDFDDA766AAFD3F381FA = "Primary Objective"
-	CF99434643CB9020EDC0C0A6F69FED05 = "Private"
 	43F85C6440C5BA5AA70A3A8AFE982DEA = "Processing"
 	3C6CC485451598609ECABF9E446E9A93 = "Producer"
 	80F265644EC11DAC72EE8891872E567D = "Producer"
@@ -2198,6 +2212,8 @@ JOIN"
 MISSION"
 	E4FF77EE44E9499E1857ACB4159113A2 = "SELECT CHARACTER"
 	F47383FC429EDA6085D2AAAA1D58B4CD = "SELECT CHARACTER"
+	AD59DBD9475E6D4731A8D09CF3B6E873 = "SELL"
+	BA1752E340D755EDB91AEB807BF8E6FB = "SELL"
 	6F039FB445C35711427CECB5B36B56FC = "SENTRY #{Index}"
 	2F0B95F842FBBAC40AF94BB03500DF97 = "SENTRY INBOUND:"
 	36406C1946B16048CA3139B8D47AF660 = "SESSION CLOSED"
@@ -2214,7 +2230,7 @@ MISSION"
 	BFA73B7040990E638C65498EF041323D = "STAND BACK!"
 	E77AB10F45500C89D53903854839845C = "STATUS"
 	CB0732E24CC6D2BE0BF832B76408D80B = "STEAM PROFILE ADDED"
-	98F9140146D6D8632E2761BF1601A27E = "SUPPLY DROP"
+	5FC0F6924D087A16F27B18AAED4BA1C8 = "SUPPLY DROP"
 	9BD4EB3E451653B82526479AED69BE96 = "SUPPLY DROP"
 	6043CCEC494174813635F0ACE85D4188 = "SUPPLY POD"
 	4C1078084199AD9AEBE69E956297150B = "SURVIVOR"
@@ -2387,6 +2403,7 @@ Character"
 	9E8C76B04813D0B0AAA63B863B1E9C0C = "Spawn Preatorian Pack"
 	4C93435147CA874F0F30F4BBF8AB0CDA = "Spawner!"
 	8A269CD24D0ABAB7421B02BB86CC99A1 = "Spend nitra to call in  a supply pod  by pressing [EquipResupply] "
+	7496556240A349365A4F8098ED4DC3CA = "Spiked Hydra"
 	F11A713D400638403770249F8CC0CB00 = "Spitball Infector"
 	F232A240408E4D918179AB84B060017D = "Spitball Infector Projectile"
 	13A1417949FA05E27FFD9E87633E7D3F = "Stalactite"
@@ -2487,6 +2504,7 @@ Character"
 - The Ghost Ship Crew"
 	DF9152664C7BADD3A97A6F95722CFDAF = "THE LASER POINTER"
 	F2D6EA3F47F4966988542E87C6C8191B = "THE PUBLIC CLOSED-ALPHA HAS ENDED!"
+	8EB5D5DE4B6B42A91E824D914C0F55B1 = "THis is a test biome"
 	C3DFFC954DB100F679F0DE8E6158713D = "TO
 DROP BAY"
 	A8B865704D489530B5D6579507DAF192 = "TO
@@ -2494,6 +2512,8 @@ MISSON
 SELECT"
 	FB611A7543CBE11CFFD5C7B8250146F7 = "TO HAB 15"
 	A508A0234EF76C0366B3B1AAE040C430 = "TOP HANGAR"
+	00CE953A4F1F61501826299288BB7B83 = "TOTAL COST:"
+	7B02BB8F42863DC60748039091E0540A = "TOTAL VALUE:"
 	B6DEF6A14352DAE8B7E6409DE15338B2 = "Tactical Visor"
 	DDB1A5D7496B97C4740BF28975FB0A2C = "Tactical Visor"
 	ED75CE1E40047A1B14DA27B4B2C53A0D = "Tactical Visor"
@@ -2685,6 +2705,8 @@ We can’t wait, guys and gals. This is gonna be awesome. Welcome, one and all, 
 	DACB7960499B22A9FE7FF1AA094554B3 = "To cover your head"
 	406AA8F2428166CBA11C4A802034CD9B = "To our fallen heroes - We salute you!"
 	EBA3C8014BEF7482D90B4E912EAFEB29 = "Today will be my lucky day!"
+	02DF1B6741D74758CCB5999B97E7EBE6 = "Toggle HUD"
+	8858CDBF4BD864F504F7219952F28B9F = "Toggle HUD"
 	488FC27F40A06DA3D001DF8593D87FFC = "Toggle Headlight"
 	D9A0B9E34C2D88B66E2D42BCBEBE7F12 = "Toggle Headlight"
 	5CCE958B406EDA840A52C3AEF05D5DCC = "Tool tip"
@@ -2696,6 +2718,7 @@ We can’t wait, guys and gals. This is gonna be awesome. Welcome, one and all, 
 	C47168754A2ADB3AEC0AE19EF9A846C8 = "Top of the line."
 	D2E6A1284252B81E4925DF9BD34C3959 = "Top of the line."
 	FB96757D46514C5F563332BC441E9522 = "Top of the line."
+	BDA09B7249BD8E9278B5C0877A05233C = "Torn off Glyphid Leg"
 	2A5779CF4D7679CB2F0B20ABDCA9C27C = "Total Hazard Bonus : +{bonus}%"
 	2FB75F1C4956DD369CEF22B5F31878BA = "Tourist"
 	B2A25D10450C13A270C675B3B80591B1 = "Tourist"
@@ -2777,6 +2800,7 @@ We can’t wait, guys and gals. This is gonna be awesome. Welcome, one and all, 
 	10246BE04BE7FFC4ED29AD8489174AB2 = "Very stealthy"
 	67B818674B721E052DFEEF81146999D1 = "Very stealthy"
 	68B709344A8627F954B1E2B3BAF3458D = "Very stealthy"
+	DAA1EA37491C92351DEF7F91E54B51C0 = "Viewing"
 	809E655D4A757F85090DB4B6359A680D = "Visit the UPGRADE GEAR terminal in the Spacerig and spend your hard earned credits on upgrading your equipment!"
 	7ED249D745DD40186CB8C884C4A686F8 = "Visit the VANITY SHOP to spend your credits and crafting minerals to get new armors, headgear and beards."
 	2D2A6357468F84A1FE3FC982E155948C = "Voice Chat"
@@ -3032,7 +3056,7 @@ This is equal to a failed mission."
 	F8EAE16E4F7BE7C1EC17B0ABF5ABB6A3 = "asd"
 	8B2149564AD35C1FF62E0CACBB0A0D3C = "gfdgfdgfd"
 	C90938654584A3EB0B1E6791A21050FD = "gfdgfdgfd"
-	8EC1C09C4F501D353009BC8C76F43239 = "has ordered a resupply pod!"
+	57FC7CA44CED73E8D8E44589B217CE12 = "has ordered a resupply pod!"
 	D12EA8F6413DEC0338403682DB15C0FA = "hrmm "
 	E4BB53BC45BCF0949E4F16912BAD82E3 = "https://discord.gg/DRG"
 	44F2D16748B303B3AF5DB48C96EF1897 = "it's a Spitballer!"
@@ -3161,9 +3185,10 @@ Namespace Missions (2 keys)
 	DB0C3F174ADE70EAA2D7758958E08DAB = "Objectives Complete, Drop Pod can be called in on the M.U.L.E!"
 	5C6519E64746AF02D48A7DB05E363C41 = "Objectives Complete, Mining pod can now be called on the M.U.L.E"
 
-Namespace PatchNotes (9 keys)
+Namespace PatchNotes (12 keys)
 	Update_11_ShortTitle = "DEAD AND GUN"
 	Update_9_ShortTitle = "DRILL YOU LATER!"
+	Update_12_ShortTitle = "FLIES N' FINANCE"
 	Update_9 = "Hello Miners!
 
 Deep Rock Galactic has now been in the wild for 1 week. We have finished celebrating the awesome launch (yeah!) and are now hard at work getting new updates out. Inside the game, we have a nice feedback button, and a big thanks to the thousands of you who have already taken advantage of this. It’s an extremely big help. Below, you can read about the update.
@@ -3255,6 +3280,111 @@ Misc Fixes
 - Fixed: you can no longer edit the Hint text while loading! 
 - Maptool not updating correctly when terrian changes
 "
+	Update_12 = "Hey Miners!
+
+It’s patch time again, and we have a bunch of cool new stuff for you! Tweaks, bug fixes, and the first new enemy! Also, along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 
+
+--- PATCH NOTES ---
+
+COMMUNITY REQUESTED FIXES
+-----------------------------------------------------
+
+BOSCO JOINS YOU IF YOU START A HOSTED GAME ALONE
+A very popular request from the community has been for Bosco to accompany you when you start hosting a game. This way you can start mining with Bosco assisting you, while you wait for your friends or strangers to join your game. We have done a rough first implementation with no bells and whistles, and it works like this:
+- Bosco joins you when you start hosting a public/ private game and head in alone.
+- When the first a player joins your game, Bosco will self-destruct for that game session.
+
+WANT NICE CLEAN SCREEN SHOTS? 
+Some of you have been requesting been able to take nice clean screenshot and we actually also need that feature! Now you can Hold [H] to toggle the HUD on/off. 
+
+
+NEW STUFF
+-----------------------------------------------------
+
+NEW ENEMY: SAY HELLO TO THE MACTERA SPAWN! 
+The Mactera Spawn is our first proper flying enemy. It will attack from a distance using its vomit attack. Smack that Fly!
+
+CAVE LEECH LETS YOU GO “GENTLY” WHEN IT DIES! 
+Previously, when a dwarf was dropped from a dying Cave Leech, he might drop for a long distance, mysteriously taking no fall damage, which was as designed but seemed weird. Now the Cave Leech slackens its’ tongue and lowers you down more gently, making it seem more realistic that you don’t take fall damage.
+
+DESTRUCTIBLE ARMOR ON GLYPHIDS!
+Direct enough firepower to those pesky armor plates to shoot them off and expose the soft underbits underneath!
+
+NEW PASSIVE CREATURE: IS IT A PLANE? IS IT A BIRD? NO IT‘S A FLYING JELLYFISH! 
+The Dense Biozone region of Hoxxes is now inhabited by large, passive, flying jellies.
+
+MINERAL MARKET TERMINAL 
+In the Mineral Market Terminal you can trade your credits for crafting materials, but be advised that materials are priced fairly exorbitantly. You can also sell your precious crafting materials for credits, but again don’t expect a fair price. Deep Rock Galactic are always trying to maximize their income even if it comes from its workers! 
+
+REVOLVER RELOAD ANIMATION
+The Gunner’s Revolver now has a proper reload animation - as well as a cool gunslinger move when you try the reload while it’s fully reloaded.  
+
+FLASHLIGHT NERF 
+Range on the dwarves’ flashlights has been tweaked down from 12.50m to 11.00m, making them a bit weaker.
+
+PATHFINDER IMPROVEMENTS
+Enemies are now less likely to go straight through thin cave walls.
+
+...And tons of minor stuff, mostly bug-fixes behind the scenes, but also small visual upgrades. For full overview see the patch notes below.
+
+CHANGELIST
+-----------------------------------------------------
+13552 tweaked sound for drop pod drills on spacerig
+13553 Red Sugar is more Redder
+13554 Added Developer Tags
+13555 Fix carriable scaling after picking up in first person
+13564 Decreased maggot crawl volume
+13565 cave leech audio tweak
+13566 cave leech audio tweak again agian
+13570 Revolver reload
+13576 Tweaked Sound on electric crystal
+13578 Affliction overlay now does a quick fade in
+13582 Death Cam overlay tweaked
+13595 Droppod audio tweak - Not as loud in space rig
+13596 shotgun audio tweak
+13598 Spawn effects when enemies come out of the ground now work on clients
+13602 Added ground light and gunlight seperation + added a backlighting making dead cam look better.  
+13608 Fixed - Your own vanity would not show as equipped to you on missions or in the spacerig.
+13624 Changed the first person weapon lighting, and submitted at shitload of material tweaks to match it..
+13629 Try to fix players spawning on top of each other
+13631 Try to fix delay on collectibles again!
+13634 Hooked up armor & health bar in player down hud
+13638 Added Resources to serverlist display
+13642 Added Third Person Character Turning (WIP)
+13647 Fixed electric crystals making death noises and particles when removed during generation
+13648 Submitted a lot of particle optimizations, to improve performance in Fungus
+13649 Fixed sentry gun reload audio not networked correctly & outline being always on
+13662 Tweaked hit indicator coloring
+13665 Increased sticky flame life time
+13668 Fewer Electrocrystals, smaller damage radius, longer pauses between connections
+Fixed flamethrower first person particle effect being too small
+13686 Mineral distribution changed, Gold and Nitra are more evenly spreadout throughout the cave
+13694 Trading Terminal
+13698 Improved headshots on spiders
+13710 Made tentacle lower player to ground on death
+13715 Glyphids now only stagger when hit by weapons
+13716 Dont play death particle on headshot
+13720 Fixing cave leech acidentally 'reviving' dead dwarf
+13722 Pathfinder improvements. Less going through terrain.
+13723 added audio cue to swarmer tunnel spawn
+13734 Passive Jellies added to Dense biozone
+13738 Changes to tunnel settings - Less small tunnels in some regions
+13756 bettersound on radioactive glowing crystals
+13759 Small tweak to revolvers accuracy. 
+13767 Improved laserpointer performance when checking against terrain
+13768 Bosco now spawns if you start a game alone and dissapears if someone joins
+13784 Swarmer tunnels with new material, sound, particles
+13809 Fix enemy healthbar initial state for weakpoint indicator
+13811 [PATCH] Shoulderlights tweaked down from 12.50m to 11.00m reach making them a bit weaker.
+13814 Added correct name to torn off glyphid legs
+Added Shooter leg, instead of reusing spitter leg.
+13817 Changed lighting on the electric plants, and optimized the particles a bit. New flamethrower fire.
+Added ignition effect for when enemies catch on fire.
+Added Weakpoint Kill Particle for the flyer shooter
+13824 [PATCH NOTES] Players will fall from the zip-line if they take sufficient damage
+13837 PATCH: Hold H to toggle HUD on/off
+13838 PATCH: Glyphid Dreadnought area attack now does full damage in the entire area (There was a falloff before)
+"
 	Update_11 = "Hi Miners, 
 
 We have another update for you with some cool new features, some tweaks and some bug fixes. Along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 
@@ -3285,11 +3415,8 @@ TEAM CAMS LET YOU STAY IN THE ACTION
 ELECTRO CRYSTALS
 Deadly Electro Crystals have been added to Crystal Caverns. Don’t get too close - they pack a punch!
 
-BUG HOLES
-You can now encounter small Glyphid holes in the walls - Sometimes Glyphid swarmers will pour out of them so watch them carefully! They are found in all biomes.
-
-TRAVERSAL TOOLS PROHIBITED IN DROP POD  
-Platforms and zip lines can not spawn/ attach to drop pod anymore. We get it... some off you had fun filling up the Drop Pod with platforms, but Management reminds you that Platform Concrete is notoriously hard to clean out!
+PLATFORMS PROHIBITED IN DROP POD  
+Platforms (and Supply Pods) can not spawn/ attach to drop pod anymore. We get it... some off you had fun filling up the Drop Pod with platforms, but Management reminds you that Platform Concrete is notoriously hard to clean out!
 
 GRAVITY RECALIBRATION
 A temptingly tantalizing button called “Gravity Recalibration” has been activated on the Space Rig. Management will likely frown on employees abusing it - but it’s so big and red...
@@ -3409,6 +3536,7 @@ MINOR FIXES
 	Update_10_ShortTitle = "TUNNEL VISION?"
 	Update_10_Header = "UPDATE 10: TUNNEL VISION?  -  16.03.2018"
 	Update_11_Header = "UPDATE 11: DEAD AND GUN  -  03.23.2018"
+	Update_12_Header = "UPDATE 12: FLIES N' FINANCE - 13.04.2018"
 	Update_9_Header = "UPDATE 9: DRILL YOU LATER!  -  09.03.2018"
 
 Namespace Progression (6 keys)
