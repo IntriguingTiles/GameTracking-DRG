@@ -1,7 +1,7 @@
 22 namespaces
-2403 values
+2399 values
 
-Namespace Global (2924 keys)
+Namespace Global (2920 keys)
 	1E1ADC13406ED5FA28EF4D97D3BECB48 = " +{bonus}%"
 	C7A2859F450D8B339A4CE1876CAB0134 = " +{bonus}%"
 	2559D78C40005E5221F26093CB976283 = " Indsamle {Collected}/{Required} {Title}"
@@ -29,6 +29,7 @@ Namespace Global (2924 keys)
 	432B2F5F4E1BE02385DA2E8E0FAD1CBC = ""Ja, du kan!""
 	64EC61C944E03B358AF914AE7EDB71B2 = ""Jo, Du Kan!""
 	757542D044AE5468809922ADDD77C794 = "+20%"
+	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
 	78DFA13846CB82653B1E9FB81E88F2F2 = "- LASTRUM TOM -"
 	8BE6B127423859AEED1AE1834524940A = "-BAY TOM-"
 	BB94DE9543476E1F28A7CDA3E115EC27 = "- TOMT -"
@@ -43,6 +44,9 @@ Namespace Global (2924 keys)
 	610A35A6460AE74E8D2B5B9D80081A9A = "... Det er ikke et våben, hvis det ikke vejer mindst 45 kg."
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
 	7CFB443C471CE28E2E8BFAAE8F278274 = "0"
+	98DA5AFC476EB0257867C78AB7F8BDF2 = "0"
+	C24C3A3F469A92FA5387558D958A2783 = "0"
+	F43D2D88431C48E65D1E41A2D999D89A = "0"
 	BCBBDA65423104563FCC69AD9103A01A = "1 ekstra svævebane at sætte op"
 	B063C03941EB570D6F2145808469C99D = "10 sekunder til start."
 	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
@@ -187,6 +191,8 @@ Namespace Global (2924 keys)
 	E42716A645873C529455708D14B0E4DB = "BRIEFING\r 
 TERMINAL"
 	177504BB476C21A5500B4D9880FE49D3 = "BØVS!"
+	1596F21140AD5A864B8555A54A5E1700 = "KØB"
+	8573115C47B7D06F415366B6CDCEB4CC = "KØB"
 	32D1DD734BA49FE1E0B0C1B5C631B2C2 = "Tilbage"
 	3AD65F774C5AACD2210435A6559D47F9 = "Tilbage"
 	438893FB45ABDF244FBB0DB4BAC91FCA = "Tilbage"
@@ -275,7 +281,6 @@ TERMINAL"
 	4BA9E7AA43860D6AA495FF954DCEDFD7 = "Knoldformet Fuld Skæg"
 	A0E3B94940BCD0DA7277C3A354EE0563 = "Knoldformet Fuld Skæg"
 	D248460145F3994592B4F686F0331601 = "Knoldformet Fuld Skæg"
-	B9D6970042206F4F749478A6B724FAED = "Antal Skud"
 	69C22B4C4F84F95A1DD5E3AA29F22E42 = "Brændnings varighed"
 	75B06D68482BF52E8F07348C5BC465B0 = "Brændnings varighed"
 	D2A7F1E24600FDCF3339B7B2E8BC48BF = "Brændnings varighed"
@@ -294,6 +299,7 @@ TERMINAL"
 	E38A00AB4C7911097E8E57855DDB2946 = "SKIFT UDSEENDE"
 	9FFDAD124B9969657EDCDCB44E626837 = "CHEATS"
 	6F02005F4FB0502AF4B3B79F594D57D1 = "CHEE-TR 69"
+	AA1B3D24461665D2DE736AB39C4BD728 = "KLASSE 01"
 	47C96B3F473BD15099CEEA8D9010E031 = "KLASSENAVN"
 	E5E0408B4B2E7E33D11B66A7A2B88DAE = "COFFEE STAIN PUBLISHING"
 	082A9714445A7627B4ED46AFFC732279 = "MATERIALER INDSAMLET:"
@@ -367,9 +373,9 @@ TERMINAL"
 	4DC19E56415BB0537728FBBE378F9066 = "Ren barbering"
 	F716C5E64596ABB20D4623AD0C6258BD = "Ren Barbering"
 	2840FE284F006002F9C598897D261B2C = "Rent og enkelt"
+	EE5D4562468D5D1911898E8397A5C57F = "Klar"
 	2D9C5CBE4668091C5E0D00B7C49C3891 = "Klik for at deltage i Steam Gruppen!"
 	FDA005934F3D906787D37A8B7CBEFD27 = "Klik for at deltage i Steam gruppen!"
-	7F765FDA440F32545B0F8283AD6274CC = "Magasin Størrelse"
 	0CC8411B41D22BCC06F543922E3867AB = "I Nærheden"
 	AF07B5B04CC58C50479418899E1C0BDD = "Luk"
 	A5249714428DC19ECC87E9822D877AD2 = "Cody Barnes (Dwarfurious)"
@@ -410,7 +416,6 @@ TERMINAL"
 	538D46A04B66F6D1E7E2678864683079 = "Almindelig klippesten"
 	547521E44678DA8C92F16ABC159796BF = "Almindelig klippesten"
 	5DBF09F44E5AC83834843388AC5C973C = "Almindelig klippesten"
-	629D7E784EA8B3DAD98FDA83D9294ED2 = "Almindelig klippesten"
 	67C9B87C4370F9C2634894916035392C = "Almindelig klippesten"
 	6F3F8DDE41F5166A4FD65D9678216B56 = "Almindelig klippesten"
 	6FFB731642F60FAF9644FF8F3AE7E932 = "Almindelig klippesten"
@@ -530,7 +535,6 @@ Jord blokerer tunnel indgange!"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "BOREMESTER STATUE"
 	0E8980524B030DC3BE2A8CB569D18156 = "Skade"
 	4B75716E4B545D6172594F8C5B1D6CE5 = "Skade"
-	C04C09BC48E99FF9257FA0AE546DDBA1 = "Skade"
 	028BB5DC42B546CF810327A70515B5FF = "Ødelæggelses Radius"
 	14D7018545E85BC413D6AABF4365FBC6 = "Ødelæggelses radius"
 	8558D885453FCB187A76F4B3F31FB5A7 = "Beskadigelse Radius"
@@ -705,7 +709,6 @@ Jord blokerer tunnel indgange!"
 	B8BFF73A49084C7C76A799B7053FAE77 = "EXIT ZONE"
 	7D492C69476154C13DFDD59E087CF898 = "UDVIND {Name}: {Current}/{Total}"
 	5FB1DE214CAC78EB32A958ABB9B0D20E = "UDVINDING"
-	B9BC34BC4BCFFF27A6A5C3ABBE7986C2 = "UDVINDING"
 	D9BC1D24420CD760300B8B9144A54A8D = "EKSTRAKTION"
 	549595484CBC60678D58B3ABD575C24B = "Eahh "
 	2D0D0F2C49874BC4C64011B6A247DFFF = "Spis det!"
@@ -759,7 +762,6 @@ Når du har opnået 4 point, stiger du en en rank på din spiller."
 	AA09D158453C1D6160A530B89F427E90 = "Afslut til skrivebordet"
 	5D159735400F3AD3D86F59972F8A86B5 = "Udvidet Tromlemagasin"
 	6B380AC14868B3F08D94A2B9E528804A = "Udvider brændbar brændstofkapacitet"
-	F98839FD4F3D2713E79C71AF54487839 = "Exploder_Presentation"
 	2760B4D24420248535423580CAF28CB6 = "Eksploderende plante"
 	6300ABC04493A303425600A49902DD69 = "Eksplosiv Spore"
 	7783085749CD0CDC322970917E01C05D = "Sprængstoffer placeret!"
@@ -1343,7 +1345,6 @@ TRÆD TIL SIDE!"
 	DA6CD285435A2812DC63AABEC8CA191D = "Blokeret!"
 	0BBDBEAE4A91E8F0C1F5E5A4E6110111 = "Javier O'Neill"
 	BAFA3FCA46C3E9459AED4697074FC28B = "Jazz"
-	40DFEAA44DEC90E6E8D61A958C3BC744 = "Gele Opdrætter"
 	15409AD14F1F57BFCB433E85F95B2D9F = "Godt arbejde! Knappen på MULE'en er aktiveret. Bring sagerne hjem, Hold!"
 	3ACAE4AF402D8F62564994983E525DE5 = "Godt arbejde! Knappen på MULE'en er aktiveret. Bring det hele hjem, Team!"
 	1F05D8E6411C92B6EBF1DFB2C44D0CAD = "Deltag"
@@ -1560,7 +1561,6 @@ TUTORIAL"
 	DC8D0D634672228A49E7A28C7D5B4F78 = "MODERATOR"
 	E1E6FC3E499E0E8617D98690D63948C5 = "MODERATOR"
 	EA807C684450BB19B921639A3BA5D580 = "MODERATORER"
-	7EA1C7CF4DF103EA936CC3B2B194D9FC = "Mactera Spawn"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	92D1A8F24554B279ACF95C9CAD4F7399 = "Maddike"
 	E0E051F74E00F5C9A4CC2680847DF607 = "Maddike"
@@ -1591,7 +1591,6 @@ TUTORIAL"
 	A48D3EBB455A194C282A898E330A58DA = "Master Volume"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "Matchmaking mislykkedes, prøv igen."
 	3687A13B4D40D996CA1B6AACC84DE076 = "Matchmaking..."
-	CDDD25D9426F2657E84B4C8D95FCEF53 = "Maks. Ammunition"
 	DF399CD3486B65EDAE4558AFEF735D28 = "Maks BIS"
 	AA14CEC64F683044A398FDBB91F67F6B = "Maks.Vinkel"
 	5518A67C45ABF7776B55918D7759BA30 = "Maks.Distance"
@@ -1631,7 +1630,6 @@ TUTORIAL"
 	333E88AA4B19BCCF7FF7E49BCA64DB03 = "Udvind {amount} Dystrum"
 	F0DC4CC047EB3DFD5905B0BDDACF150C = "Min {amount} Morkite"
 	510563CF4FE28E5D628FF686B553A0DA = "Min {amount} Morkite"
-	4975B71C4E3EE93F52D9228C8B1ACA4A = "Boredhoved er retuneres. Transportkapslen ankommer!"
 	DB7AF605434CFF87704E799DE6090780 = "Mineral skorsten"
 	B5208C1E4B96924DB09BAD8D1515F5AB = "Mineraler, minet af teamet"
 	7CCBAD3442225360D935F3A4271837AF = "Mine-ekspedition"
@@ -1756,7 +1754,6 @@ Men godt gået. :D
 	D60AE5CF42BBB7EB7838199D44BE8482 = "ONLINE SPIL IKKE TILGÆNGELIG"
 	70F228D44EE1158D61FFB993465D99BD = "BESTIL FORSYNINGSKAPSEL"
 	28BDEA754E00DAB67B30D8A00784EBEE = "Opgave"
-	F86AB84447C9C6F900B626A385ED9459 = "Mål opnået! Afsend borehoved når du er klar."
 	30F0F03D4688BD978B57B1875B4DC848 = "Mål Opnået! Tryk på knappen på MULE'en når du er klar, og så sender vi en transport for at få dig ud."
 	8FA9AE9342767D5974DA5CADCCB22253 = "Mål opnået! Tryk på knappen på M.U.L.E.'en når I er klar, og så sender vi en transportkapsel for at få jer ud."
 	F4DDB320497C12A9535E318E7C0EDE2F = "Mål Opnået. Kontrolpanelet er aktiv og afventer dit input. Lad os få den hjem, hold."
@@ -1848,7 +1845,6 @@ Men godt gået. :D
 	C21850D74844EA192C1FCEBA601C6261 = "PLANETARISK REGION:"
 	6837936E4EFB82CBEF489FAD5C73FE96 = "BEMÆRK VENLIGST! Du får ikke en større missions belønning ved at smide andre spillere ud! Faktisk mister du overlevelses bonussen fra spilleren!"
 	E4DEE1334E397283E5AADFA084AE3366 = "TILSLUT VENLIGST CONTROLLEREN IGEN"
-	2276DA03429396713203CBAC6EF3C810 = "KAPSEL ANKOMMER"
 	0E40CA4047102A62E43D82B23E361885 = "PLAKAT"
 	D1CDE0984D2C81BD03B35B84DB64027D = "PLAKAT"
 	D87C8C21404AB445120EC381D254B634 = "FORETRUKNE REGION"
@@ -1999,6 +1995,7 @@ TILSLUTNING"
 	0FE71808418CA41B8F7470A3F80533D1 = "Områdebeskrivelse"
 	8E2BFC4D452CD139DBAA57BAB20FFD6C = "NULSTIL TUTORIALS"
 	AF59C94D4E5CE3AAB9FABC8590789489 = "OMVENDT"
+	DFBA5ECB4414B8146C621180A9226E46 = "Radioactive Crystal"
 	74E5EC9E41E8D7D602DDF498D493DB72 = "Radioaktiv Udelukkelse Zone"
 	A478CE6842D86EAFA59868AE4A091345 = "Radioaktivt affald"
 	E8E563994BBAB78F1E39FFABE439C2DA = "Radioaktiv Affald"
@@ -2120,7 +2117,6 @@ TILSLUTNING"
 	48AB0B2E4BF3240CA45FDCBE18A89EDF = "Smuld"
 	66564E964F5134AEE0F4BEB683F1AAA1 = "Smuld"
 	781F2A06415CF90817B82098AE6ABFAA = "Smuld"
-	ECB7E1BC4DC1B4D4B34AB28D834E1E0F = "Brokker"
 	9EE00D54476E2E4A4AEA949ABABEDE81 = "Løb"
 	9155BEB943E16F9739FF949CDC4DD55F = "Løb i dækning!"
 	E630A3AE4EDF03AC2C0A4F9512ADF753 = "Løb i dækning!"
@@ -2139,6 +2135,8 @@ TILSLUTNING"
 MISSION"
 	E4FF77EE44E9499E1857ACB4159113A2 = "VÆLG KARAKTER"
 	F47383FC429EDA6085D2AAAA1D58B4CD = "VÆLG KARAKTER"
+	AD59DBD9475E6D4731A8D09CF3B6E873 = "SÆLG"
+	BA1752E340D755EDB91AEB807BF8E6FB = "SÆLG"
 	6F039FB445C35711427CECB5B36B56FC = "VAGTKANON #{Index}"
 	2F0B95F842FBBAC40AF94BB03500DF97 = "INDGÅENDE VAGTKANON:"
 	36406C1946B16048CA3139B8D47AF660 = "SESSION LUKKET"
@@ -2264,7 +2262,6 @@ Karakter"
 	82D5760A4D36C73A04E752BDC5DE965D = "Simpelt"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "Site 11 - Deep Shale"
 	DAFCD54541C22C0CE8FBFC9C2ADFE44E = "Placering 11 - Dyb Skifer"
-	72BE9A1D4C5FA58562C9839EF479D40E = "Placering 45 - Basalt Hav"
 	0666476F42480867E51E348406F16D69 = "Hud"
 	11AB23744072A594A2106FB32DFAFA2E = "Hud"
 	15F8342C4FEDC45EBCEE179F5F940D57 = "Hud"
@@ -2578,7 +2575,7 @@ VALG"
 	63D174AA4086E244ECA611817586DC6B = "Dette vil holde dem væk!"
 	9024F5B74651406739D99D8095B6F248 = "Thomas Storm"
 	742AC94A4F68D2838AA7959A118EEB3A = "Tim Badylak"
-	046C55154DA845FBEBEA959063E7C228 = "Tid"
+	2D9533C146672835367E2D8EDC69C7C6 = "Time"
 	2D5154A7402080FBE46F28A46443B13F = "Tids Søgning"
 	7D3ECC6941A5B9B36579C3B532AFE83F = "Tid til en kold en, når dette er ovre."
 	3A4704F1477EBE6619327BA19F734466 = "Hold, det er tid til skadedyrs bekæmpelse. Vi har opfanget Dreadnought pupper på vores scannerer, og I skal udrydde dem inden de bliver til noget værre. Mit bud: Brug masser af ammunition - da de kan tage nogle slag."
@@ -2791,7 +2788,6 @@ ROCK & STONE!"
 	7836F1FE4B8B8C5CCC24A9AA151FA9FB = "Hvid krystal"
 	8477E9AC4C56F7E01878C198BB597BBA = "Hvid krystal"
 	BE37800847F77A849948B7B32CC3EF57 = "Hvid krystal"
-	DFBA5ECB4414B8146C621180A9226E46 = "Hvid krystal"
 	449B0AA04FA1D71AE03EB3A11F39E4B1 = "Hvidguld!"
 	0FD8D3BD4E96FEF6335F66BC8F2FE4C3 = "Hvem end opfandt udtrykket "Bang for the Buck" må have haft denne dejlige ting i tankerne. Billig, pålidelig og fuldstændig tilintetgørende."
 	91A6A22644FA4273BCE8BBB26DEE7552 = "Hvem der end sagde, at planteliv skal bruge sollys for at leve, har klartnok ikke besøgt Hoxxes."
@@ -2803,7 +2799,7 @@ ROCK & STONE!"
 	DC3DAC6E45E49D057EBE2FAC57ACDEB3 = "Kom med mig!"
 	8941EAA24DC82A068BE7DBAD6E53E720 = "Undrende mig hvad for noget slam de servere i kantinen i aften!"
 	F1C565E647C016DEA126A18D066A8A88 = "Undrende mig hvad for noget slam de servere i kantinen i aften!"
-	2D9533C146672835367E2D8EDC69C7C6 = "Arbejdsmiljø"
+	046C55154DA845FBEBEA959063E7C228 = "Work Environment"
 	EE7AAEB94E93C86232238B9B4138ECCB = "Arbejdsinstruktioner"
 	3C34D3184ABDDD0D1AF3CA9A2D2A443C = "Funger nu dit stykke lort!"
 	1ED618214CBD7F469D5637843605F30A = "Verden"
@@ -2939,10 +2935,10 @@ Dette er lig med en mislykket mission."
 	D801614348379559ECD4BA832619D5B2 = "{IntValue}"
 	06FA097444325B9586E76A93E5052FE1 = "{Minutes}:{Seconds}"
 	F0ABB87F46441F18848ABF8CD0ECC9F9 = "{Text} ({Percentage}% Gennemført)"
+	B49D14D14182674FC077EEB3E53277F8 = "{Value} FPS"
 	688288124DAF4F9715A8629D81F87C35 = "{levelrequirement} kræves!"
 	AC2C0B9746C87FC7F13985B4072CAB1D = "{line1} <br>{line2}"
 	533EE6F94B160B14259FA38874DDC88D = "{text}:"
-	B49D14D14182674FC077EEB3E53277F8 = "{value} BIS"
 	842C4AFE4D8A01633BA906B37D033AA3 = "{value} {unit}"
 	C777823E4E0F7B660E07D993DFABC267 = "{value} {unit}"
 	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Beklager, det var meningen at det skulle være et privat spil.”"
@@ -3024,11 +3020,9 @@ Namespace MaterialExpression (14 keys)
 	VectorOps = "Vektorfunktioner"
 	Vectors = "Vektor"
 
-Namespace Missions (2 keys)
-	DB0C3F174ADE70EAA2D7758958E08DAB = "Målene Opnået. Transporten kan nu blive tilkaldt via M.U.L.E.'en!"
-	5C6519E64746AF02D48A7DB05E363C41 = "Målene Opnået. Mine Kapslen kan nu blive tilkaldt via M.U.L.E.'en"
+Namespace Missions (0 keys)
 
-Namespace PatchNotes (9 keys)
+Namespace PatchNotes (10 keys)
 	Update_11_ShortTitle = "DØD OG VÅBEN"
 	Update_9_ShortTitle = "BORE DIG SENERE!"
 	Update_9 = "Hello Miners!
@@ -3122,6 +3116,121 @@ Misc Fixes
 - Fixed: you can no longer edit the Hint text while loading! 
 - Maptool not updating correctly when terrian changes
 "
+	Update_12 = "Hey Miners!
+
+It’s patch time again, and we have a bunch of cool new stuff for you! Tweaks, bug fixes, and the first new enemy! Also, along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 
+
+--- PATCH NOTES ---
+
+COMMUNITY REQUESTED FIXES
+-----------------------------------------------------
+
+BOSCO JOINS YOU IF YOU START A HOSTED GAME ALONE
+A very popular request from the community has been for Bosco to accompany you when you start hosting a game. This way you can start mining with Bosco assisting you, while you wait for your friends or strangers to join your game. We have done a rough first implementation with no bells and whistles, and it works like this:
+- Bosco joins you when you start hosting a public/ private game and head in alone.
+- When the first a player joins your game, Bosco will self-destruct for that game session.
+
+JADIZ BUFF
+Jadiz has been one of the hardest crafting materials to collect and we have buffed it. Jadiz will now spawn a bit more often in Crystalline Caverns Region and we have changed the value range of it from 7-18 to 10-18. 
+
+WANT NICE CLEAN SCREEN SHOTS? 
+Some of you have been requesting been able to take nice clean screenshot and we actually also need that feature! Now you can Hold [H] to toggle the HUD on/off. 
+
+
+NEW STUFF
+-----------------------------------------------------
+
+NEW ENEMY: SAY HELLO TO THE MACTERA SPAWN! 
+The Mactera Spawn is our first proper flying enemy. It will attack from a distance using its vomit attack. Smack that Fly!
+
+SWARMER TUNNELS 
+You can now come across strangely looking small tunnels coming out of the walls. Glyphid Swarmers live here! They are very territorial and will aggressively defend their nest! A simple advice: Avoid them!  
+
+CAVE LEECH LETS YOU GO “GENTLY” WHEN IT DIES! 
+Previously, when a dwarf was dropped from a dying Cave Leech, he might drop for a long distance, mysteriously taking no fall damage, which was as designed but seemed weird. Now the Cave Leech slackens its’ tongue and lowers you down more gently, making it seem more realistic that you don’t take fall damage.
+
+DESTRUCTIBLE ARMOR ON GLYPHIDS!
+Direct enough firepower to those pesky armor plates to shoot them off and expose the soft underbits underneath!
+
+NEW PASSIVE CREATURE: IS IT A PLANE? IS IT A BIRD? NO IT‘S A FLYING JELLYFISH! 
+The Dense Biozone region of Hoxxes is now inhabited by large, passive, flying jellies.
+
+MINERAL TRADE TERMINAL 
+In the Mineral Trade Terminal you can trade your credits for crafting materials, but be advised that materials are priced fairly exorbitantly. You can also sell your precious crafting materials for credits, but again don’t expect a fair price. Deep Rock Galactic are always trying to maximize their income even if it comes from its workers! 
+
+REVOLVER RELOAD ANIMATION
+The Gunner’s Revolver now has a proper reload animation - as well as a cool gunslinger move when you try the reload while it’s fully reloaded.  
+
+FLASHLIGHT NERF 
+Range on the dwarves’ flashlights has been tweaked down from 12.50m to 11.00m, making them a bit weaker.
+
+PATHFINDER IMPROVEMENTS
+Enemies are now less likely to go straight through thin cave walls.
+
+M.U.L.E. SAFETY FIX
+If for some reason the MULE does not find its way back to the Escape Pod, the doors will still open 15 seconds before countdown runs out.  
+
+...And tons of minor stuff, mostly bug-fixes behind the scenes, but also small visual upgrades. For full overview see the patch notes below.
+
+CHANGELIST
+-----------------------------------------------------
+- Tweaked sound for drop pod drills on spacerig
+- Red Sugar is more Redder
+-  Added Developer Tags
+- Fix carriable scaling after picking up in first person
+- Decreased maggot crawl volume
+- Cave leech audio tweak
+- Cave leech audio tweak again agian
+- Revolver reload
+- Tweaked Sound on electric crystal
+- Affliction overlay now does a quick fade in
+- Death Cam overlay tweaked
+- Droppod audio tweak - Not as loud in space rig
+- Shotgun audio tweak
+- Spawn effects when enemies come out of the ground now work on clients
+- Added ground light and gunlight seperation + added a backlighting making dead cam look better.  
+- Fixed - Your own vanity would not show as equipped to you on missions or in the spacerig.
+- Changed the first person weapon lighting, and submitted at shitload of material tweaks to match it..
+- Try to fix players spawning on top of each other
+- Try to fix delay on collectibles again!
+- Hooked up armor & health bar in player down hud
+- Added Resources to serverlist display
+- Added Third Person Character Turning (WIP)
+- Fixed electric crystals making death noises and particles when removed during generation
+- Submitted a lot of particle optimizations, to improve performance in Fungus
+- Fixed sentry gun reload audio not networked correctly & outline being always on
+- Tweaked hit indicator coloring
+- Increased sticky flame life time
+- Fewer Electrocrystals, smaller damage radius, longer pauses between connections
+- Fixed flamethrower first person particle effect being too small
+- Mineral distribution changed, Gold and Nitra are more evenly spreadout throughout the cave
+- Trading Terminal
+- Improved headshots on spiders
+- Made tentacle lower player to ground on death
+- Glyphids now only stagger when hit by weapons
+- Don’t play death particle on headshot
+- Fixing cave leech acidentally 'reviving' dead dwarf
+- Pathfinder improvements. Less going through terrain.
+- Added audio cue to swarmer tunnel spawn
+- Passive Jellies added to Dense biozone
+- Changes to tunnel settings - Less small tunnels in some regions
+- Bettersound on radioactive glowing crystals
+- Small tweak to revolvers accuracy. 
+- Improved laserpointer performance when checking against terrain
+- Bosco now spawns if you start a game alone and dissapears if someone joins
+- Swarmer tunnels with new material, sound, particles
+- Fix enemy healthbar initial state for weakpoint indicator
+- Shoulderlights tweaked down from 12.50m to 11.00m reach making them a bit weaker.
+- Added correct name to torn off glyphid legs
+- Added Shooter leg, instead of reusing spitter leg.
+- Changed lighting on the electric plants, and optimized the particles a bit. New flamethrower fire.
+- Added ignition effect for when enemies catch on fire.
+- Added Weakpoint Kill Particle for the flyer shooter
+- Players will fall from the zip-line if they take sufficient damage
+- Hold H to toggle HUD on/off
+- Glyphid Dreadnought area attack now does full damage in the entire area (There was a falloff before)
+- Tweaked Jadiz amount - Fixed bug where Jadiz spawning only had a value 2 to it having a 2 to 3 range + Changed value range from 7 to 18 to 10 to 18
+- Decreased loot from loot bug: chunks was 15-30 now is 15-25 and chunk value was 1-4 now is 1-3"
 	Update_11 = "Hi Miners, 
 
 We have another update for you with some cool new features, some tweaks and some bug fixes. Along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 

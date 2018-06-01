@@ -1,7 +1,7 @@
 22 namespaces
-2319 values
+2331 values
 
-Namespace Global (2902 keys)
+Namespace Global (2924 keys)
 	2559D78C40005E5221F26093CB976283 = " Samla in {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " KRÄVS"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -27,6 +27,7 @@ Namespace Global (2902 keys)
 	432B2F5F4E1BE02385DA2E8E0FAD1CBC = "”Ja, du kan!”"
 	64EC61C944E03B358AF914AE7EDB71B2 = ""Jo, det kan du!""
 	757542D044AE5468809922ADDD77C794 = "+20%"
+	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
 	78DFA13846CB82653B1E9FB81E88F2F2 = "-VIK TOM-"
 	8BE6B127423859AEED1AE1834524940A = "-VIK TOM-"
 	BB94DE9543476E1F28A7CDA3E115EC27 = "- TOM -"
@@ -40,6 +41,9 @@ Namespace Global (2902 keys)
 	610A35A6460AE74E8D2B5B9D80081A9A = "...Det är inte ett vapen om det inte väger mer än 100 pund."
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
 	7CFB443C471CE28E2E8BFAAE8F278274 = "0"
+	98DA5AFC476EB0257867C78AB7F8BDF2 = "0"
+	C24C3A3F469A92FA5387558D958A2783 = "0"
+	F43D2D88431C48E65D1E41A2D999D89A = "0"
 	BCBBDA65423104563FCC69AD9103A01A = "1 extra linbana att montera"
 	B063C03941EB570D6F2145808469C99D = "10 sekunder till start."
 	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
@@ -90,6 +94,7 @@ Namespace Global (2902 keys)
 	110187364451A692C0CAB39BE0C191CD = "Dags för action!"
 	0276A46F4D5DDA64411F348C644A1437 = "Aktivera terminal"
 	1D53C74D4C2B35AA0E89699FFB2BBE9E = "Aktivera terminal"
+	3371CE2844906ECC5EC89BB5938C5A28 = "Aktivera Terminal"
 	3FEF03C74429EAD810F6EE9FE2248A2D = "Aktivera Terminal"
 	4D2D1DE742FF1BC89D17198742A12781 = "Aktivera terminal"
 	ADAFA15F43DBBC9111A21596441AD1E4 = "Aktivera terminal"
@@ -184,6 +189,8 @@ Namespace Global (2902 keys)
 	E42716A645873C529455708D14B0E4DB = "INFORMERINGS
 TERMINAL"
 	177504BB476C21A5500B4D9880FE49D3 = "RAAAAP!"
+	1596F21140AD5A864B8555A54A5E1700 = "KÖP"
+	8573115C47B7D06F415366B6CDCEB4CC = "KÖP"
 	32D1DD734BA49FE1E0B0C1B5C631B2C2 = "Tillbaka"
 	3AD65F774C5AACD2210435A6559D47F9 = "Tillbaka"
 	438893FB45ABDF244FBB0DB4BAC91FCA = "Tillbaka"
@@ -271,7 +278,6 @@ TERMINAL"
 	4BA9E7AA43860D6AA495FF954DCEDFD7 = "Lökformat Fullt Skägg"
 	A0E3B94940BCD0DA7277C3A354EE0563 = "Lökformat Fullt Skägg"
 	D248460145F3994592B4F686F0331601 = "Lökformat Fullt Skägg"
-	B9D6970042206F4F749478A6B724FAED = "Antal skott"
 	69C22B4C4F84F95A1DD5E3AA29F22E42 = "Glöd varaktighet"
 	75B06D68482BF52E8F07348C5BC465B0 = "Glöd varaktighet"
 	D2A7F1E24600FDCF3339B7B2E8BC48BF = "Glöd varaktighet"
@@ -290,6 +296,7 @@ TERMINAL"
 	E38A00AB4C7911097E8E57855DDB2946 = "ÄNDRA UTSEENDE"
 	9FFDAD124B9969657EDCDCB44E626837 = "FUSK"
 	6F02005F4FB0502AF4B3B79F594D57D1 = "CHEE-TR 69"
+	AA1B3D24461665D2DE736AB39C4BD728 = "KLASS 01"
 	47C96B3F473BD15099CEEA8D9010E031 = "KLASSNAMN"
 	E5E0408B4B2E7E33D11B66A7A2B88DAE = "COFFEE STAIN PUBLISHING"
 	082A9714445A7627B4ED46AFFC732279 = "INSAMLADE MATERIAL:"
@@ -337,6 +344,7 @@ TERMINAL"
 	E1A6AA0446022A84AAE2F89A034CBB62 = "Bär mer granater"
 	60E56D8C41802B36F71AE98A54A14C6D = "Bär mera plattformar"
 	7194939B4A338E33C4ED3086A9CE35FC = "Korall Grotta"
+	B0A0D03D4B1E4A727A73AA8CD2173125 = "Grottmanet"
 	FABD8AA7478F53C1C7268CA2475E1A4B = "Grott Igel"
 	C70972C94DD6117C962D73A247E2933E = "Grottsjöborre"
 	A6F013A946E7DC4CD01268B5331575FD = "Grott Slingerväxt"
@@ -363,9 +371,10 @@ TERMINAL"
 	4DC19E56415BB0537728FBBE378F9066 = "Renrakad"
 	F716C5E64596ABB20D4623AD0C6258BD = "Renrakad"
 	2840FE284F006002F9C598897D261B2C = "Rent och enkelt"
+	01F5BABE413FACFF9BD51285D21AE723 = "Rensa"
+	EE5D4562468D5D1911898E8397A5C57F = "Rensa"
 	2D9C5CBE4668091C5E0D00B7C49C3891 = "Klicka för att gå med i Steam-Gruppen!"
 	FDA005934F3D906787D37A8B7CBEFD27 = "Klicka för att gå med i Steam-gruppen!"
-	7F765FDA440F32545B0F8283AD6274CC = "Magasinsstorlek"
 	0CC8411B41D22BCC06F543922E3867AB = "Stäng"
 	AF07B5B04CC58C50479418899E1C0BDD = "Stäng"
 	A5249714428DC19ECC87E9822D877AD2 = "Cody Barnes (Dwarfurious)"
@@ -406,7 +415,6 @@ TERMINAL"
 	538D46A04B66F6D1E7E2678864683079 = "Vanlig sten"
 	547521E44678DA8C92F16ABC159796BF = "Vanlig sten"
 	5DBF09F44E5AC83834843388AC5C973C = "Vanlig sten"
-	629D7E784EA8B3DAD98FDA83D9294ED2 = "Vanlig sten"
 	67C9B87C4370F9C2634894916035392C = "Vanlig sten"
 	6F3F8DDE41F5166A4FD65D9678216B56 = "Vanlig sten"
 	6FFB731642F60FAF9644FF8F3AE7E932 = "Vanlig sten"
@@ -492,6 +500,7 @@ TERMINAL"
 	7905E37140411F564C0125A36C089FDF = "Kristall"
 	A21039324191EEE4E167A0A871591CEC = "Kristall"
 	7E2C903B470E31C7B8F9AEA38B8FF621 = "Kristalline Grottorna"
+	80D28714487FE284DA6B7ABDE9B0879C = "Kristall Grottorna"
 	B610D6184BC05B285769B6A452AE6C01 = "Kristallgrottor"
 	C3EEC4024EFCE25A3AB044B8A0B798D7 = "Kristalline Grottorna"
 	549257164EA4E3BE4F9923B73561EE1B = "Krullig Klass"
@@ -523,7 +532,6 @@ Jord blockerar alltid en tunnel!"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "BORRAR STATY"
 	0E8980524B030DC3BE2A8CB569D18156 = "Skada"
 	4B75716E4B545D6172594F8C5B1D6CE5 = "Skada"
-	C04C09BC48E99FF9257FA0AE546DDBA1 = "Skada"
 	028BB5DC42B546CF810327A70515B5FF = "Skaderadie"
 	14D7018545E85BC413D6AABF4365FBC6 = "Skaderadie"
 	8558D885453FCB187A76F4B3F31FB5A7 = "Skaderadie"
@@ -698,7 +706,6 @@ Jord blockerar alltid en tunnel!"
 	B8BFF73A49084C7C76A799B7053FAE77 = "UTGÅNGSZON"
 	7D492C69476154C13DFDD59E087CF898 = "EXTRAHERA {Name}: {Current}/{Total}"
 	5FB1DE214CAC78EB32A958ABB9B0D20E = "UTVINNING"
-	B9BC34BC4BCFFF27A6A5C3ABBE7986C2 = "UTVINNING"
 	D9BC1D24420CD760300B8B9144A54A8D = "UTVINNING"
 	549595484CBC60678D58B3ABD575C24B = "Eahh "
 	2D0D0F2C49874BC4C64011B6A247DFFF = "Ät detta!"
@@ -713,6 +720,7 @@ Jord blockerar alltid en tunnel!"
 	C6A2DCC14762D181A80E5EBEA55447BF = "Ägg! Jag hittade ett ägg!"
 	5953F6C644ED3307B5A2E0ADBC7822D8 = "Ägg-samlings dags, laget. Alien ägg. Företaget vill ha dem - fråga inte varför. Hitta dem, förvara dem i Molly och återvänd. Lätt som en plätt."
 	E140E52543DAAB23265CB78D36A8FDAC = "Katapultkaktus"
+	D563FF9245CED634ECD769ACC09FE20C = "Electrokristall"
 	BAA3D81347FC18A43AF779A445EC7AF0 = "Elementärt."
 	1BBA6A92410AA32B9E70CCA81912F970 = "Hiss växt"
 	28446666412ED13D695913AC371C5625 = "Eliminera mål:"
@@ -752,7 +760,6 @@ När du har samlat 4 poäng så ökar din spelar rank."
 	AA09D158453C1D6160A530B89F427E90 = "Avsluta och gå till Skrivbordet"
 	5D159735400F3AD3D86F59972F8A86B5 = "Utökad Ammonutions Trumma"
 	6B380AC14868B3F08D94A2B9E528804A = "Expanderar lättantändligt bränslekapacitet"
-	F98839FD4F3D2713E79C71AF54487839 = "Exploder_Presentation"
 	2760B4D24420248535423580CAF28CB6 = "Exploderande Växt"
 	6300ABC04493A303425600A49902DD69 = "Explosive Kärna"
 	7783085749CD0CDC322970917E01C05D = "Sprängämnen placerats!"
@@ -883,6 +890,11 @@ BANA"
 	251024574D3DDFB05907DFB0FD9FF410 = "Helskärm"
 	28739C1548A8358DA2F1C4AED59D93B2 = "Helt förseglad dräkt"
 	06AE677E4BF6B4591091A2AA34A0CFAD = "Fullt bärbar och konstruerad av lätta material, denna denna händiga pryl kan skjuta ett stål-förstärkt tjuder över vilken klyfta du än stöter på i djupen."
+	20BF533149B545C499A58681CFB88D4B = "Svamp"
+	492179A0450C3FB2A487B584FEBF5F00 = "Svamp"
+	4F80BE014C51F079BB4FFCA66CEAF0F6 = "Svamp"
+	AE9DEB31409A552EEDEF50962C0262C6 = "Svamp"
+	B0E0DC6C46F48F0587231AA691F364A9 = "Svamp"
 	F44833C44B830641D50293B455C4829D = "Svamp"
 	ABDAA425488574199450C799ECE19E14 = "Svampträsk"
 	3218229442E175A3D8B3E6903818E10D = "ÄDELSTEN!"
@@ -960,6 +972,7 @@ BANA"
 	FA8F44C946CD7ABC7358039A193E66E7 = "Glyphid Praetorian"
 	7264F5314B7568C009316EAA26625514 = "Glyphid Spawn"
 	F7464ADE4437E5B3F6902DB072133523 = "Glyphid Svärmare"
+	B8D8E4D846F02E721C4AC4A0B19118A4 = "Glyphid Tunnel"
 	EBE02D2E41935D99B0636AA8053E5CB5 = "Glyphid Krigare"
 	1CF279344F67E8BC574EF5981DA77522 = "Glyphid nätspottare"
 	EF2539364E0BBD773683F5BD0E0107D2 = "Gå Bosco!"
@@ -1039,7 +1052,7 @@ BANA"
 	78AA4598413B0966965A5B81CD0CC24E = "SKAPA OFFENTLIGT SPEL"
 	40DD0DBB4C7BECA793D472BB978E6BBE = "HR är på oss igen. ”Alien angrepp”, de kallar det. Finns inget vi kan göra än att gilla läget. ta med sprängämnen!"
 	DD0BD2104576C82DD6D65EBBE14298AF = "Hårfärg"
-	7A60C40348544FBA9F7161894D45F2FD = "Hair Trigger"
+	7A60C40348544FBA9F7161894D45F2FD = "Avtryckare"
 	43853D14403E8C70DB9FB7BC01350C91 = "Håll ut, leveransen är på väg."
 	631B26D74487C6C769C74BACAA22F99A = "Håll ut, vi har nästan tagit hand om vågen. Skicka allt som är kvar."
 	D234CB9A4CB33E35859A008D44C30B07 = "Risk 1"
@@ -1136,6 +1149,7 @@ BANA"
 	BAD2E7A64BE9CAC7F83BE9A4E2BC9A36 = "Skynda på! Jag blir inte yngre vet du!"
 	3305C68D4E9BAA729DD29A8258303F74 = "Skynda på! Jag blir uttråkad!"
 	34F864224E98E6022A7CA29F883C8065 = "Skynda dig! Jag blir inte yngre!"
+	71EA6BC04E6EFF169EA6EFB1FD1597D8 = "Hydra Huvud"
 	7B01BA6D4E2177EDAE58A9A9B75A22B9 = "Jag tror faktiskt att vi kommer klara det!"
 	BF78433640226D2E6D6271A32C72C134 = "Jag tror faktiskt att vi kommer klara det!"
 	6425493B4EF2C236F4FC19987541A529 = "Jag är har inte hela dagen! Dags att gå! "
@@ -1263,7 +1277,7 @@ HÅLL ER TILLBAKA!"
 	4DA0B11345F109DD53883E99D5F49000 = "Inkommande!"
 	68C7E9E14BAA5165E29BCF90BF3E033D = "Inkommande! Slakta dem om ni får chansen!"
 	856AD218490E543BD1858FBB55E5C7AF = "Öka skada mot fiender"
-	0A45047A4242961A8B1EE8813757ACAD = "Öka den totala mängden facklor "
+	0A45047A4242961A8B1EE8813757ACAD = "Öka den totala mängden facklor du bär "
 	6A0D79C041A5FF4C38627F8192868332 = "Öka den totala mängden bloss "
 	90AA845242CCE865EE7BDDBF808B9C86 = "Öka den totala mängden bloss "
 	F9FABC2C41F96ADFC27AEEB9598C7413 = "Öka den totala mängden bloss "
@@ -1297,7 +1311,7 @@ HÅLL ER TILLBAKA!"
 	9775925E43BA87488145D5BC7143D7C5 = "Den är nere!"
 	10BC63654EB95F055E3EEC90CEFAEC06 = "Den har fastnat!"
 	22E4AF5B420D47F6910C608247FB56BE = "Det ser bättre ut på dig"
-	0A86F56941B5897FC4E013B955F7B962 = "Det passar dig"
+	0A86F56941B5897FC4E013B955F7B962 = "Det klär dig"
 	0A2B36D74C76EABE1EB975949D5FABEC = "Det krävs mycket arbete för att vara såhär stilig."
 	24A6355C49EF808BC3D248AFA8AD9B1C = "Det krävs mycket arbete för att se vara såhär stilig."
 	CF74A6D0489BCD7221B8FE9CE45E9F17 = "Det krävs mycket arbete för att vara såhär stilig."
@@ -1332,7 +1346,6 @@ HÅLL ER TILLBAKA!"
 	DA6CD285435A2812DC63AABEC8CA191D = "Blockerad!"
 	0BBDBEAE4A91E8F0C1F5E5A4E6110111 = "Javier O'Neill"
 	BAFA3FCA46C3E9459AED4697074FC28B = "Jazz"
-	40DFEAA44DEC90E6E8D61A958C3BC744 = "Gelé uppfödare"
 	15409AD14F1F57BFCB433E85F95B2D9F = "Väl utfört arbete! Knappen på MULE enheten är aktiverad. Ta med allt hem, Team!"
 	3ACAE4AF402D8F62564994983E525DE5 = "Väl utfört arbete! Knappen på MULE enheten är aktiverad. Ta med allt hem, Team!"
 	1F05D8E6411C92B6EBF1DFB2C44D0CAD = "Anslut"
@@ -1393,6 +1406,7 @@ HANDLEDNING"
 	C82E313A47FACD5D427F14A7CEBC56EA = "LETAR DU EFTER EN SPECIFIK TILLVERKNINGSMINERAL?"
 	776EEDF74F5A67D8128954AA3C43A93F = "Brist på Resurser!"
 	E612E7A1483E43042EB651808C262332 = "Språk"
+	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Större Bälte"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Större bälte"
@@ -1499,6 +1513,8 @@ HANDLEDNING"
 	739783CC49AE38F6F1AE6D963CF9D972 = "M.U.L.E. STATY"
 	DBF84CCA408EFEF59E11CA97B1FE5298 = "MINNESHALL"
 	A8635D3A4197B12C9171ECACB3DCC6E1 = "MINERAL NAMN"
+	71A231B84DA0316C33DBA8BF81F457B0 = "MINERAL HANDEL"
+	F20834A84EB11A83D39535968304825F = "MINERAL HANDEL"
 	C6FE061C4FEE6E56D58A089C06243FC7 = "MINERALER INNE I VÄGGARNA"
 	7EA800674ADAB0AF09B87FAD83F5F71B = "SAKNAD RESURS"
 	425FE5044989D63327E09A9305357CBE = "UPPDRAG"
@@ -1548,7 +1564,6 @@ HANDLEDNING"
 	DC8D0D634672228A49E7A28C7D5B4F78 = "MODERATOR"
 	E1E6FC3E499E0E8617D98690D63948C5 = "MODERATOR"
 	EA807C684450BB19B921639A3BA5D580 = "MODERATORER"
-	7EA1C7CF4DF103EA936CC3B2B194D9FC = "Mactera Spawn"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	92D1A8F24554B279ACF95C9CAD4F7399 = "Mask"
 	E0E051F74E00F5C9A4CC2680847DF607 = "Mask"
@@ -1579,7 +1594,6 @@ HANDLEDNING"
 	A48D3EBB455A194C282A898E330A58DA = "Huvud Volym"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "Matchning Misslyckades, försök igen."
 	3687A13B4D40D996CA1B6AACC84DE076 = "Matchning..."
-	CDDD25D9426F2657E84B4C8D95FCEF53 = "Maximum Ammunition"
 	DF399CD3486B65EDAE4558AFEF735D28 = "Max FPS"
 	AA14CEC64F683044A398FDBB91F67F6B = "MaxVinkel"
 	5518A67C45ABF7776B55918D7759BA30 = "MaxDistans"
@@ -1603,6 +1617,7 @@ HANDLEDNING"
 	B439AE914A705D4D620C46A031E3BB13 = "Mäktiga Fågelkotletter"
 	BB5A7AF14F7C8E9DB50956A12BEB96A6 = "Mäktiga Fågelkotletter"
 	CBF250254793EF64FC127D99A3111E15 = "Mäktiga Fågelkotletter"
+	1BBF1D704700F016CBDEBCAC891B049B = "Mike Biome"
 	CCD4A85F4231C56E402568A26C45AB10 = "Mikhail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
 	67B7516B42F5585F57A881936E78D7B2 = "MinstaVinkel"
@@ -1619,7 +1634,6 @@ HANDLEDNING"
 	333E88AA4B19BCCF7FF7E49BCA64DB03 = "Gräv {amount} Dystrum"
 	F0DC4CC047EB3DFD5905B0BDDACF150C = "Utvinn {amount} morkite"
 	510563CF4FE28E5D628FF686B553A0DA = "Utvinn {amount} hollomite"
-	4975B71C4E3EE93F52D9228C8B1ACA4A = "Borrhuvud återvänt. Transportkapsel på väg!"
 	DB7AF605434CFF87704E799DE6090780 = "Mineral skorsten"
 	B5208C1E4B96924DB09BAD8D1515F5AB = "Mineraler grävda av laget"
 	7CCBAD3442225360D935F3A4271837AF = "Gruvexpedition"
@@ -1665,6 +1679,7 @@ HANDLEDNING"
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "Mycket bättre!"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "Mycket bättre!"
 	CD169B8F4540D97173D1A180A5C920B4 = "Flerspelarsession avslutad"
+	363F35F64355EAC74E3A0F9F7476EE46 = "Muscari Angustifolia"
 	8F3B09024FA15B01CDF7FC924324A846 = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "Svamp!"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "Svamp!"
@@ -1742,7 +1757,6 @@ HANDLEDNING"
 	D60AE5CF42BBB7EB7838199D44BE8482 = "ONLINE-SPEL INTE TILLGÄNGLIGA"
 	70F228D44EE1158D61FFB993465D99BD = "BESTÄLL LEVERANSKAPSEL"
 	28BDEA754E00DAB67B30D8A00784EBEE = "Mål"
-	F86AB84447C9C6F900B626A385ED9459 = "Målet avklarat! Skicka Borrhuvudet när ni är klara."
 	30F0F03D4688BD978B57B1875B4DC848 = "Mål komplett! Tryck på knappen på MULE när ni är redo, och vi skickar transport kapseln för att hämta er."
 	8FA9AE9342767D5974DA5CADCCB22253 = "Mål komplett! Tryck på knappen på MULE när ni är redo, och vi skickar transport kapseln för att hämta er."
 	F4DDB320497C12A9535E318E7C0EDE2F = "Målet avklarat. Uppskjutningskontrollerna är aktiva och väntar på din signal. Nu tar ni er hem, gubbar."
@@ -1834,7 +1848,6 @@ HANDLEDNING"
 	C21850D74844EA192C1FCEBA601C6261 = "PLANETÄR REGION:"
 	6837936E4EFB82CBEF489FAD5C73FE96 = "OBSERVERA! Du får inte ett större uppdragsbelöning av sparkar spelare! Du kommer faktiskt att förlora överlevnadsbonusen från denna spelare!"
 	E4DEE1334E397283E5AADFA084AE3366 = "VÄNLIGEN ÅTERANSLUT HANDKONTROLLEN"
-	2276DA03429396713203CBAC6EF3C810 = "KAPSEL ANLÄNDER"
 	0E40CA4047102A62E43D82B23E361885 = "AFFISCH"
 	D1CDE0984D2C81BD03B35B84DB64027D = "AFFISCH"
 	D87C8C21404AB445120EC381D254B634 = "FÖREDRAGEN REGION"
@@ -1877,7 +1890,7 @@ HANDLEDNING"
 	E82365B2495912F596DA23ABD0815AC7 = "OBS! Din utrustning kan bli anpassad och uppgraderad från Välj Klass terminalen i ditt personliga rum."
 	617EA2B64AE6115A7ECDEAA8D6E7B814 = "Brakar på rejält! Perfekt för att göra schweizisk ost av kryp."
 	5CDF4D02428CEFD5EEA1FBB669567A35 = "Godkänt arbete, gruvarbetare. Du kommer passa in i vår verksamher och Förvaltningen kommer all bli glada att de var rätt att sätta sin tro i er. Återgå till basen och låt oss få in dig i striden ordentligt. Tryck på knappen på M.U.L.E. för att tillkalla Transport Kapseln."
-	CF99434643CB9020EDC0C0A6F69FED05 = "Password Protected"
+	CF99434643CB9020EDC0C0A6F69FED05 = "Lösenord Skyddat"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "Visa er respekt, - va tysta!"
 	3C9AEF9F46FF592951C327902D9C195C = "Persika"
 	6C66ABCC4C72BF374C05C38A865B60F3 = "Persika"
@@ -1917,6 +1930,7 @@ HANDLEDNING"
 	8A16CF354599757A1B94C39D6D2559EA = "Spela"
 	741BD55D4E5B0C462C264AABB6B873A4 = "Spelare"
 	35F188344DABAC671C11C8937ADF71BB = "Spelare 01"
+	659071834649C5D60598A9945927B447 = "Spelardata"
 	785D9C5B457170C98F25A898CAD6F1F2 = "Spelar Namn "
 	7146C8E64854C0DB498B70AF7625379C = "Spelar Rank för låg!"
 	A5890AD147109BDA322CC680CCACE44D = "SpelarNamn"
@@ -1985,6 +1999,7 @@ ANSLUTNING"
 	0FE71808418CA41B8F7470A3F80533D1 = "REGIONSBESKRIVNING"
 	8E2BFC4D452CD139DBAA57BAB20FFD6C = "ÅTERSTÄLL HJÄLPLEDNING"
 	AF59C94D4E5CE3AAB9FABC8590789489 = "OMVÄND"
+	DFBA5ECB4414B8146C621180A9226E46 = "Radioactive Crystal"
 	74E5EC9E41E8D7D602DDF498D493DB72 = "Radioaktiv Varnings Zon"
 	A478CE6842D86EAFA59868AE4A091345 = "Radioaktivt Avfall"
 	E8E563994BBAB78F1E39FFABE439C2DA = "Radioaktivt Avfall"
@@ -2106,7 +2121,6 @@ ANSLUTNING"
 	48AB0B2E4BF3240CA45FDCBE18A89EDF = "Spillror"
 	66564E964F5134AEE0F4BEB683F1AAA1 = "Spillror"
 	781F2A06415CF90817B82098AE6ABFAA = "Spillror"
-	ECB7E1BC4DC1B4D4B34AB28D834E1E0F = "Spillror"
 	9EE00D54476E2E4A4AEA949ABABEDE81 = "Spring"
 	9155BEB943E16F9739FF949CDC4DD55F = "Spring för skydd!"
 	E630A3AE4EDF03AC2C0A4F9512ADF753 = "Spring för skydd!"
@@ -2125,6 +2139,8 @@ ANSLUTNING"
 UPPDRAG"
 	E4FF77EE44E9499E1857ACB4159113A2 = "VÄLJ KARAKTÄR"
 	F47383FC429EDA6085D2AAAA1D58B4CD = "VÄLJ KARAKTÄR"
+	AD59DBD9475E6D4731A8D09CF3B6E873 = "SÄLJ"
+	BA1752E340D755EDB91AEB807BF8E6FB = "SÄLJ"
 	6F039FB445C35711427CECB5B36B56FC = "Vaktgevär"
 	2F0B95F842FBBAC40AF94BB03500DF97 = "INKOMMANDE VAKTTORN:"
 	36406C1946B16048CA3139B8D47AF660 = "SESSIONEN STÄNGDES"
@@ -2139,6 +2155,7 @@ UPPDRAG"
 	BFA73B7040990E638C65498EF041323D = "STÅ TILLBAKA!"
 	E77AB10F45500C89D53903854839845C = "STATUS"
 	CB0732E24CC6D2BE0BF832B76408D80B = "STEAM PROFIL TILLLAGT"
+	5FC0F6924D087A16F27B18AAED4BA1C8 = "LEVERANS KAPSEL"
 	9BD4EB3E451653B82526479AED69BE96 = "LEVERANS KAPSEL"
 	6043CCEC494174813635F0ACE85D4188 = "LEVERANS KAPSEL"
 	4C1078084199AD9AEBE69E956297150B = "ÖVERLEVARE"
@@ -2230,7 +2247,6 @@ Karaktär"
 	58AC8A9A45BA55D3C35BDE943B784D25 = "Skjut Nexusen!"
 	A31D7948485019C22049AD9BD29AD0A3 = "Skjut Nexusen!"
 	1E61227D4921C781B633208B7B2B6C34 = "Skjut för att döda!"
-	0CACA5114E231B50844272B679E6995B = "Skytte_Presentation"
 	366E341A45F49A6965B83F9A46C50CE6 = "Kort"
 	ACAAF8DD4D96A5D43179CBA2D672C6CD = "Kort skägg"
 	CC904F494B056833A3B4B091F2BFA919 = "Kort skägg"
@@ -2250,7 +2266,6 @@ Karaktär"
 	82D5760A4D36C73A04E752BDC5DE965D = "Enkel"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "Plats 11 - Deep Shale"
 	DAFCD54541C22C0CE8FBFC9C2ADFE44E = "Plats 11 - Deep Shale"
-	72BE9A1D4C5FA58562C9839EF479D40E = "Plats 45 - Basalt Havet"
 	0666476F42480867E51E348406F16D69 = "Utseende"
 	11AB23744072A594A2106FB32DFAFA2E = "Hud"
 	15F8342C4FEDC45EBCEE179F5F940D57 = "Skin"
@@ -2307,7 +2322,7 @@ Karaktär"
 	BAF3FE9E45AB395112BD7689D4A50FDE = "Skapa Bosco"
 	4C93435147CA874F0F30F4BBF8AB0CDA = "Skapare!"
 	8A269CD24D0ABAB7421B02BB86CC99A1 = "Spendera nitra på att kalla på en leveranskapsel genom att klicka på [EquipResupply] "
-	7496556240A349365A4F8098ED4DC3CA = "Spiked Hydra"
+	7496556240A349365A4F8098ED4DC3CA = "Taggad Hydra"
 	F11A713D400638403770249F8CC0CB00 = "Spottboll Infekterare"
 	F232A240408E4D918179AB84B060017D = "Spottboll Infekterarprojektil"
 	13A1417949FA05E27FFD9E87633E7D3F = "Stalaktit"
@@ -2404,10 +2419,13 @@ Karaktär"
 	E0550F8045300AF2AFCAB09D70C74A6B = "TACK för stöded till den tidiga utveckling av DEEP ROCK GALACTIC. Vi är oerhört stolta över spelet och hoppas du kommer att njuta av det, men kom ihåg att detta är en förutgivning version. Här kommer du möta buggar och stabilitetsproblem. Detta innebär att vissa delar av spelet, inklusive Xbox Live-funktioner (som chatt och flerspelare), kanske inte fungerar som förväntat (eller kanske inte fungerar alls). Eftersom detta är en förutgivnings spel, begår inte Microsoft och utgivaren kundsupport för spelet."
 	41E2CF244D78C269B5C83D9401825CFC = "TACK för stödet till tidig utveckling av DEEP ROCK GALACTIC. Vi är oerhört stolta över spelet och hoppas du kommer att njuta av det, men kom ihåg att detta är en ALPHA-status och du kommer att stöta på BUGGAR. Slutligen, vänligen VA TREVLIG mot varandra. Detta är ett SAMARBETS spel efter allt. \r - The Ghost Ship Crew"
 	DF9152664C7BADD3A97A6F95722CFDAF = "LASERPEKAREN"
+	8EB5D5DE4B6B42A91E824D914C0F55B1 = "Detta är en test biom"
 	C3DFFC954DB100F679F0DE8E6158713D = "TILL
 DROP BAY"
 	A8B865704D489530B5D6579507DAF192 = "TILL\r UPPDRAG\r VÄLJ"
 	A508A0234EF76C0366B3B1AAE040C430 = "ÖVERSTA HANGAREN"
+	00CE953A4F1F61501826299288BB7B83 = "TOTAL KOSTNAD:"
+	7B02BB8F42863DC60748039091E0540A = "TOTALA VÄRDET:"
 	B6DEF6A14352DAE8B7E6409DE15338B2 = "Taktiskt visir"
 	DDB1A5D7496B97C4740BF28975FB0A2C = "Taktiskt visir"
 	ED75CE1E40047A1B14DA27B4B2C53A0D = "Taktiskt Visir"
@@ -2561,7 +2579,7 @@ ut ur vilken som helst klibbig situation, och till en avlägsen avsats. Omhände
 	63D174AA4086E244ECA611817586DC6B = "Detta kommer hålla dom tillbaka!"
 	9024F5B74651406739D99D8095B6F248 = "Thomas Storm"
 	742AC94A4F68D2838AA7959A118EEB3A = "Tim Badylak"
-	046C55154DA845FBEBEA959063E7C228 = "Tid"
+	2D9533C146672835367E2D8EDC69C7C6 = "Time"
 	2D5154A7402080FBE46F28A46443B13F = "Tid Söker"
 	7D3ECC6941A5B9B36579C3B532AFE83F = "Dags för en kall en när detta är gjort."
 	3A4704F1477EBE6619327BA19F734466 = "Tid för en runda av Pest Kontroll, team. Vi har Dreadnought Kokonger på vår radar, och ni ska förinta dem innan de kan förvandlas till nånting ännu värre. Mitt råd: Ta med massor av ammunition - de kan ta en snyting."
@@ -2585,6 +2603,8 @@ ut ur vilken som helst klibbig situation, och till en avlägsen avsats. Omhände
 	DACB7960499B22A9FE7FF1AA094554B3 = "För att skydda huvudet"
 	406AA8F2428166CBA11C4A802034CD9B = "Till våra fallna hjältar - Vi saluterar er!"
 	EBA3C8014BEF7482D90B4E912EAFEB29 = "Idag kommer blir min lyckodag!"
+	02DF1B6741D74758CCB5999B97E7EBE6 = "Växla Heads-Up-Display"
+	8858CDBF4BD864F504F7219952F28B9F = "Växla Heads-Up-Display"
 	488FC27F40A06DA3D001DF8593D87FFC = "Tänd/Släck Strålkastare"
 	D9A0B9E34C2D88B66E2D42BCBEBE7F12 = "Tänd/Släck Strålkastare"
 	5CCE958B406EDA840A52C3AEF05D5DCC = "Verktygstips"
@@ -2596,6 +2616,7 @@ ut ur vilken som helst klibbig situation, och till en avlägsen avsats. Omhände
 	C47168754A2ADB3AEC0AE19EF9A846C8 = "Toppklass."
 	D2E6A1284252B81E4925DF9BD34C3959 = "Toppklass."
 	FB96757D46514C5F563332BC441E9522 = "Toppklass."
+	BDA09B7249BD8E9278B5C0877A05233C = "Avslitet Glyphidben"
 	2A5779CF4D7679CB2F0B20ABDCA9C27C = "Totala Risk Bonus : +{bonus}%"
 	2FB75F1C4956DD369CEF22B5F31878BA = "Turist"
 	B2A25D10450C13A270C675B3B80591B1 = "Turist"
@@ -2675,7 +2696,7 @@ ut ur vilken som helst klibbig situation, och till en avlägsen avsats. Omhände
 	10246BE04BE7FFC4ED29AD8489174AB2 = "Väldigt smygande"
 	67B818674B721E052DFEEF81146999D1 = "Väldigt smygig"
 	68B709344A8627F954B1E2B3BAF3458D = "Väldigt smygig"
-	DAA1EA37491C92351DEF7F91E54B51C0 = "Viewing"
+	DAA1EA37491C92351DEF7F91E54B51C0 = "Observerar"
 	809E655D4A757F85090DB4B6359A680D = "Kika förbi UPGRADERA UTRUSTNING i Spacerig och spendera alla dina krediter som du jobbat så hårt för på att uppgradera din utrustning!"
 	7ED249D745DD40186CB8C884C4A686F8 = "Besök VANITY SHOP för att spendera dina krediter och mineraler för att skapa nya rustningar, huvudbonader och skägg."
 	2D2A6357468F84A1FE3FC982E155948C = "Röstchatt"
@@ -2739,6 +2760,7 @@ ROCK & STONE!"
 	7D3714CC4C0CAEB5C4709AB48B551CD7 = "Vi är rika!"
 	E063598B46B97B889D2AC089B0DF851C = "Vi skickar in transportkapseln! Mot landningsplatsen!"
 	D8EBFFA1437113C21DCA369EA1BE0223 = "Vi skickar in er djupt, så var på er vakt. Våra skannrar visar väldigt rika ådror av Morkite och Guld längre ner. Få med er det, grabbar. "
+	F06A886F4C10AE421802E48843CB66EC = "Vi har inte kunnat få en tydlig läsning på detta grottsystemet, så var förberedd på något av en labyrint. Målet är dock oförändrat: Möt eran kvot av Morkite och kom tillbaka med livet i behåll."
 	4B5687F649A70D67781A13A3C167E696 = "Vi har upptäckt ett område som är fyllt med Aquarqs och ni får äran att hämta tillbaka dem. Leta efter ett glimrande blått ljus och utvinn Aquarq'en från väggarna. Vi har skickat ner en specialiserad borrhuvud. Vi förväntar oss kraftigt motstånd, så borrhuvudet har utrustats men tunga vapen, men var fokuserade - det handlar om varorna."
 	1F5CC1074A3AF1E92463338FB14859CB = "Vi har haft det skitkul att utveckla spelet hittills, och vi är absolut inte klar ännu - Hoxxes IV har ännu inte börjat ge upp hennes verkliga hemligheter ännu..."
 	13665D0E4DF4EC22BC92F0AA5DB0E879 = "Försvagande Fält"
@@ -2771,7 +2793,6 @@ ROCK & STONE!"
 	7836F1FE4B8B8C5CCC24A9AA151FA9FB = "Vit kristall"
 	8477E9AC4C56F7E01878C198BB597BBA = "Vit kristall"
 	BE37800847F77A849948B7B32CC3EF57 = "Vit kristall"
-	DFBA5ECB4414B8146C621180A9226E46 = "Vit kristall"
 	449B0AA04FA1D71AE03EB3A11F39E4B1 = "Vitt guld!"
 	0FD8D3BD4E96FEF6335F66BC8F2FE4C3 = "Den som kom på uttrycket ”Pang för Pengarna” måste ha tänkt på den här härliga saken. Billig, pålitlig och helt förödande."
 	91A6A22644FA4273BCE8BBB26DEE7552 = "Den som sa att växtlighet behöver tillgång till solljus har uppenbarligen inte gått till Hoxxes. Den här regionen är full av det som bäst kan beskrivas som en underjordisk regnskog - massor av vridande, (för det mesta köttätande) växtlighet, som producerar hela mikrokosmer av liv långt inne i jordskorpan av planeten. Gå varsamt."
@@ -2783,7 +2804,7 @@ ROCK & STONE!"
 	DC3DAC6E45E49D057EBE2FAC57ACDEB3 = "Kom med mig!"
 	8941EAA24DC82A068BE7DBAD6E53E720 = "Undrar vilken sörja de serverar i bamban ikväll!"
 	F1C565E647C016DEA126A18D066A8A88 = "Undrar vilken sörja de serverar i bamban ikväll!"
-	2D9533C146672835367E2D8EDC69C7C6 = "Arbetsmiljö"
+	046C55154DA845FBEBEA959063E7C228 = "Work Environment"
 	EE7AAEB94E93C86232238B9B4138ECCB = "Arbetsinstruktioner"
 	3C34D3184ABDDD0D1AF3CA9A2D2A443C = "Funka din skithög!"
 	1ED618214CBD7F469D5637843605F30A = "Värld"
@@ -2900,6 +2921,7 @@ Detta är lika mycket som ett misslyckats uppdrag."
 	F8EAE16E4F7BE7C1EC17B0ABF5ABB6A3 = "asd"
 	8B2149564AD35C1FF62E0CACBB0A0D3C = "gfdgfdgfd"
 	C90938654584A3EB0B1E6791A21050FD = "gfdgfdgfd"
+	57FC7CA44CED73E8D8E44589B217CE12 = "har beställt en leveranskapsel!"
 	D12EA8F6413DEC0338403682DB15C0FA = "hrmm "
 	E4BB53BC45BCF0949E4F16912BAD82E3 = "https://discord.gg/DRG"
 	44F2D16748B303B3AF5DB48C96EF1897 = "det är en spottbollare!"
@@ -2914,8 +2936,8 @@ Detta är lika mycket som ett misslyckats uppdrag."
 	A55C637A41EA819F8F03F49291FEF98E = "{0} skapade en Grunt!"
 	06FA097444325B9586E76A93E5052FE1 = "{Minutes}:{Seconds}"
 	F0ABB87F46441F18848ABF8CD0ECC9F9 = "{Text} ({Percentage}% Färdigt)"
+	B49D14D14182674FC077EEB3E53277F8 = "{Value} FPS"
 	688288124DAF4F9715A8629D81F87C35 = "{levelrequirement} krävs!"
-	B49D14D14182674FC077EEB3E53277F8 = "FPS"
 	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Tyvärr, det var tänkt att detta skulle vara ett privat spel.”"
 
 Namespace [/Script/FSD] (27 keys)
@@ -2995,13 +3017,126 @@ Namespace MaterialExpression (14 keys)
 	VectorOps = "Vektorfunktioner"
 	Vectors = "Vektorer"
 
-Namespace Missions (2 keys)
-	DB0C3F174ADE70EAA2D7758958E08DAB = "Målet avklarat, Transportkapseln kan nu kallas in genom M.U.L.E!"
-	5C6519E64746AF02D48A7DB05E363C41 = "Målet avklarat, borrhuvudet kan nu kallas in genom M.U.L.E"
+Namespace Missions (0 keys)
 
-Namespace PatchNotes (7 keys)
+Namespace PatchNotes (8 keys)
 	Update_11_ShortTitle = "DÖD OCH VAPEN"
 	Update_9_ShortTitle = "BORRAR DIG SENARE!"
+	Update_12 = "Hey Miners!
+
+It’s patch time again, and we have a bunch of cool new stuff for you! Tweaks, bug fixes, and the first new enemy! Also, along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 
+
+--- PATCH NOTES ---
+
+COMMUNITY REQUESTED FIXES
+-----------------------------------------------------
+
+BOSCO JOINS YOU IF YOU START A HOSTED GAME ALONE
+A very popular request from the community has been for Bosco to accompany you when you start hosting a game. This way you can start mining with Bosco assisting you, while you wait for your friends or strangers to join your game. We have done a rough first implementation with no bells and whistles, and it works like this:
+- Bosco joins you when you start hosting a public/ private game and head in alone.
+- When the first a player joins your game, Bosco will self-destruct for that game session.
+
+JADIZ BUFF
+Jadiz has been one of the hardest crafting materials to collect and we have buffed it. Jadiz will now spawn a bit more often in Crystalline Caverns Region and we have changed the value range of it from 7-18 to 10-18. 
+
+WANT NICE CLEAN SCREEN SHOTS? 
+Some of you have been requesting been able to take nice clean screenshot and we actually also need that feature! Now you can Hold [H] to toggle the HUD on/off. 
+
+
+NEW STUFF
+-----------------------------------------------------
+
+NEW ENEMY: SAY HELLO TO THE MACTERA SPAWN! 
+The Mactera Spawn is our first proper flying enemy. It will attack from a distance using its vomit attack. Smack that Fly!
+
+SWARMER TUNNELS 
+You can now come across strangely looking small tunnels coming out of the walls. Glyphid Swarmers live here! They are very territorial and will aggressively defend their nest! A simple advice: Avoid them!  
+
+CAVE LEECH LETS YOU GO “GENTLY” WHEN IT DIES! 
+Previously, when a dwarf was dropped from a dying Cave Leech, he might drop for a long distance, mysteriously taking no fall damage, which was as designed but seemed weird. Now the Cave Leech slackens its’ tongue and lowers you down more gently, making it seem more realistic that you don’t take fall damage.
+
+DESTRUCTIBLE ARMOR ON GLYPHIDS!
+Direct enough firepower to those pesky armor plates to shoot them off and expose the soft underbits underneath!
+
+NEW PASSIVE CREATURE: IS IT A PLANE? IS IT A BIRD? NO IT‘S A FLYING JELLYFISH! 
+The Dense Biozone region of Hoxxes is now inhabited by large, passive, flying jellies.
+
+MINERAL TRADE TERMINAL 
+In the Mineral Trade Terminal you can trade your credits for crafting materials, but be advised that materials are priced fairly exorbitantly. You can also sell your precious crafting materials for credits, but again don’t expect a fair price. Deep Rock Galactic are always trying to maximize their income even if it comes from its workers! 
+
+REVOLVER RELOAD ANIMATION
+The Gunner’s Revolver now has a proper reload animation - as well as a cool gunslinger move when you try the reload while it’s fully reloaded.  
+
+FLASHLIGHT NERF 
+Range on the dwarves’ flashlights has been tweaked down from 12.50m to 11.00m, making them a bit weaker.
+
+PATHFINDER IMPROVEMENTS
+Enemies are now less likely to go straight through thin cave walls.
+
+M.U.L.E. SAFETY FIX
+If for some reason the MULE does not find its way back to the Escape Pod, the doors will still open 15 seconds before countdown runs out.  
+
+...And tons of minor stuff, mostly bug-fixes behind the scenes, but also small visual upgrades. For full overview see the patch notes below.
+
+CHANGELIST
+-----------------------------------------------------
+- Tweaked sound for drop pod drills on spacerig
+- Red Sugar is more Redder
+-  Added Developer Tags
+- Fix carriable scaling after picking up in first person
+- Decreased maggot crawl volume
+- Cave leech audio tweak
+- Cave leech audio tweak again agian
+- Revolver reload
+- Tweaked Sound on electric crystal
+- Affliction overlay now does a quick fade in
+- Death Cam overlay tweaked
+- Droppod audio tweak - Not as loud in space rig
+- Shotgun audio tweak
+- Spawn effects when enemies come out of the ground now work on clients
+- Added ground light and gunlight seperation + added a backlighting making dead cam look better.  
+- Fixed - Your own vanity would not show as equipped to you on missions or in the spacerig.
+- Changed the first person weapon lighting, and submitted at shitload of material tweaks to match it..
+- Try to fix players spawning on top of each other
+- Try to fix delay on collectibles again!
+- Hooked up armor & health bar in player down hud
+- Added Resources to serverlist display
+- Added Third Person Character Turning (WIP)
+- Fixed electric crystals making death noises and particles when removed during generation
+- Submitted a lot of particle optimizations, to improve performance in Fungus
+- Fixed sentry gun reload audio not networked correctly & outline being always on
+- Tweaked hit indicator coloring
+- Increased sticky flame life time
+- Fewer Electrocrystals, smaller damage radius, longer pauses between connections
+- Fixed flamethrower first person particle effect being too small
+- Mineral distribution changed, Gold and Nitra are more evenly spreadout throughout the cave
+- Trading Terminal
+- Improved headshots on spiders
+- Made tentacle lower player to ground on death
+- Glyphids now only stagger when hit by weapons
+- Don’t play death particle on headshot
+- Fixing cave leech acidentally 'reviving' dead dwarf
+- Pathfinder improvements. Less going through terrain.
+- Added audio cue to swarmer tunnel spawn
+- Passive Jellies added to Dense biozone
+- Changes to tunnel settings - Less small tunnels in some regions
+- Bettersound on radioactive glowing crystals
+- Small tweak to revolvers accuracy. 
+- Improved laserpointer performance when checking against terrain
+- Bosco now spawns if you start a game alone and dissapears if someone joins
+- Swarmer tunnels with new material, sound, particles
+- Fix enemy healthbar initial state for weakpoint indicator
+- Shoulderlights tweaked down from 12.50m to 11.00m reach making them a bit weaker.
+- Added correct name to torn off glyphid legs
+- Added Shooter leg, instead of reusing spitter leg.
+- Changed lighting on the electric plants, and optimized the particles a bit. New flamethrower fire.
+- Added ignition effect for when enemies catch on fire.
+- Added Weakpoint Kill Particle for the flyer shooter
+- Players will fall from the zip-line if they take sufficient damage
+- Hold H to toggle HUD on/off
+- Glyphid Dreadnought area attack now does full damage in the entire area (There was a falloff before)
+- Tweaked Jadiz amount - Fixed bug where Jadiz spawning only had a value 2 to it having a 2 to 3 range + Changed value range from 7 to 18 to 10 to 18
+- Decreased loot from loot bug: chunks was 15-30 now is 15-25 and chunk value was 1-4 now is 1-3"
 	Update_11 = "Hi Miners, 
 
 We have another update for you with some cool new features, some tweaks and some bug fixes. Along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 

@@ -1,7 +1,7 @@
-481 namespaces
-4110 values
+484 namespaces
+4158 values
 
-Namespace Global (737 keys)
+Namespace Global (742 keys)
 	4B0118694F87069CBD082CB627E7F3E2 = "++"
 	CEC5F3244730518F161FB19868120ABA = "++"
 	6291952E43BA00D62F01B4BCE87DB3D0 = "-"
@@ -60,6 +60,7 @@ Namespace Global (737 keys)
 	CameraImperfectionsSF = "Camera Imperfections"
 	CameraInterpolationSF = "Camera Interpolation"
 	CameraSafeFramesSF = "Camera Safe Frames"
+	CapsuleShadows = "Capsule Shadows"
 	0C14D6C446FADB5F786268801335AA9E = "Capture"
 	31C9DD714D3B49A60EF40D94123C4B91 = "Capture"
 	49FD59F9463463E04660F1B5B83CA8E6 = "Capture"
@@ -290,6 +291,7 @@ Namespace Global (737 keys)
 	B79EB6CB41ECA56A3E3DE9917B55A663 = "Landscape"
 	LandscapeSF = "Landscape"
 	LargeVerticesSF = "Large Vertices"
+	27313F9A464426BB4A2191A3F161FDA8 = "Layers"
 	LensFlaresSF = "Lens Flares"
 	78BA211347671F164A0DEEB2E70813AA = "LensFlares"
 	LevelColorationSF = "Level Coloration"
@@ -422,11 +424,11 @@ Namespace Global (737 keys)
 	D92C9CDE4FFDA147183F769AE8C78BC6 = "Override settings"
 	EF65BA1F4EBC688BC75A5198BBB6AE69 = "Override settings"
 	Paper2DSpritesSF = "Paper 2D Sprites"
+	ParticlesSF = "Particle Sprites"
 	29BB5D824EE25B49BEDFDDA325FDF8BC = "Particle System Frame Dump"
 	48B016CD42C6D9FC6AC945A6BE21A52E = "Particles"
 	632086B94646B2A13EDC4983CC767756 = "Particles"
 	7B184F2B42CFFD3401B030A3E1A16296 = "Particles"
-	ParticlesSF = "Particles Sprite"
 	CollisionPawn = "Pawn"
 	0F02C4AD435384045CA7FF8C37680BD6 = "Physics Ground"
 	11111E0C4ADB5C1C40C7D69159630B2B = "Physics Ground"
@@ -480,6 +482,7 @@ Namespace Global (737 keys)
 	F70A83064A955F986662ADAD6752F010 = "Procedurals"
 	PropertyColorationSF = "Property Coloration"
 	QuadOverdrawSF = "Quad Overdraw"
+	RayTracedDistanceFieldShadows = "Ray Traced Distance Field Shadows"
 	ReflectionEnvironmentSF = "Reflection Environment"
 	9F1E79E34A80164D5AB90FB5C0769832 = "Reflections"
 	AE4B977949471C5637DDB88F42DCFD66 = "Reflections"
@@ -599,7 +602,9 @@ Namespace Global (737 keys)
 	SkyLightingSF = "Sky Lighting"
 	SnapSF = "Snap"
 	SpecularSF = "Specular"
+	91FCC0B74E5A1274353F6EAC70C5FBD0 = "SpeedTree"
 	B45E504A4C01E6DB56C526A995A8A61A = "SpeedTree"
+	E08EB63C4A0DCC7BE8904595E47CFEF0 = "SpeedTree"
 	SplinesSF = "Splines"
 	SpotLightsSF = "Spot Lights"
 	StaticMeshesSF = "Static Meshes"
@@ -767,7 +772,7 @@ Namespace AndroidLicenseDialog (2 keys)
 	AndroidLicenseAgreement_Agree = "Agree"
 	AndroidLicenseAgreement_Cancel = "Cancel"
 
-Namespace AndroidRuntimeSettings (68 keys)
+Namespace AndroidRuntimeSettings (70 keys)
 	RDOCRunText1 = "1. In Tools -> Options -> Android, set the path to your adb executable."
 	RDOCRunText2 = "2. Start the Remote Server using Tools -> Start Android Remote Server."
 	RDOCRunText3 = "3. Check your device screen and 'Allow' RenderDocCmd to access files on your device."
@@ -834,6 +839,7 @@ Additionally, we no longer use SigningConfig.xml, the settings are now set in th
 	LaunchImageInfo = "Launch Image Info"
 	LaunchImage_Landscape = "Launch Landscape"
 	LaunchImage_Portrait = "Launch Portrait"
+	SDKConfigMessage = "Leave these fields blank to use global Android SDK project settings. Changing these settings will only affect this project."
 	SettingsIcon_MDPI = "MDPI Icon"
 	MaliGraphicsDebuggerInfo = "Mali Graphics Debugger Info"
 	MaliGraphicsDebuggerPage = "Mali Graphics Debugger home page"
@@ -853,6 +859,7 @@ Additionally, we no longer use SigningConfig.xml, the settings are now set in th
 	RDOCInstallText = "Run the following command from a host command line from the android/apk/32 directory located in the installation directory of the RenderDoc tool, to install the RenderDocCmd application on your device."
 	MGDInstallText = "Run the following command from a host command line from the target/unrooted directory located in the installation directory of the MGD tool, to install the MGD Daemon application on your device."
 	MGDIRunText1 = "Run the following command from your host to establish a tunnel between your PC and the MGD Daemon. This needs to be done each time you connect your device by USB."
+	SDKConfigInfo = "SDK Config Info"
 	SigningHyperlink = "Signing Hyperlink"
 	LaunchImageInfoMessage = "The <RichTextBlock.TextHighlight>Download Background</> image is used as the background for OBB downloading.  The <RichTextBlock.TextHighlight>Launch Portrait</> image is used as a splash screen for applications with Portrait, Reverse Portrait, Sensor Portrait, Sensor, or Full Sensor orientation.  The <RichTextBlock.TextHighlight>Launch Landscape</> image is used as a splash screen for applications with Landscape, Sensor Landscape, Reverse Landscape, Sensor, or Full Sensor orientation.
 
@@ -867,6 +874,13 @@ The launch images will be scaled to fit the device in the active orientation. Ad
 
 Namespace AnimInstance (1 keys)
 	AnimInstance_SlotNode = "SLOTNODE: '{0}' in animation instance class {1} already exists. Remove duplicates from the animation graph for this class."
+
+Namespace AnimNode_SequencePlayer (1 keys)
+	AdditiveMismatchWarning = "Trying to play a non-additive animation '{0}' into a pose that is expected to be additive in anim instance '{1}'"
+
+Namespace AnimNotify (2 keys)
+	ParticleSystem_ShouldNotLoop = "Particle system {0} used in anim notify for asset {1} is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify)."
+	Sound_ShouldNotLoop = "Sound {0} used in anim notify for asset {1} is set to looping, but the slot is a one-shot (it won't be played to avoid leaking an instance per notify)."
 
 Namespace AnimNotifyState_Trail (4 keys)
 	NoneFirstSocket = "{0}: Must set First Socket Name."
@@ -991,7 +1005,7 @@ Please see Output Log for details."
 	MigratePackages_NonContentFolder = "{0} does not appear to be a game Content folder. Migrated content will only work properly if placed in a Content folder. Would you like to place your content here anyway?"
 	MigratePackages_PackageMissing = "{0} does not exist on disk."
 
-Namespace AssetTypeActions (233 keys)
+Namespace AssetTypeActions (242 keys)
 	DataTable_MissingRowStructListEntry = "* {0} (Row Structure: {1})"
 	AssetTypeActions_AimOffset = "Aim Offset"
 	AssetTypeActions_AimOffset1D = "Aim Offset 1D"
@@ -1042,11 +1056,14 @@ Namespace AssetTypeActions (233 keys)
 	PhysAsset_Create = "Create"
 	AnimSequence_NewAnimComposite = "Create AnimComposite"
 	AnimSequence_NewAnimMontage = "Create AnimMontage"
+	Material_NewMBI = "Create Blend Instance"
 	Class_NewDerivedBlueprintClassLabel_CreateFrom = "Create Blueprint class based on {0}"
 	Class_NewDerivedCppClassLabel_CreateFrom = "Create C++ class derived from {0}"
 	AnimMontage_CreateChildMontageTooltip = "Create Child Animation Montage and remap to another animation assets."
 	Blueprint_NewDerivedBlueprint = "Create Child Blueprint Class"
 	AnimMontage_CreateChildMontage = "Create Child Montage"
+	Material_NewMFI = "Create Function Instance"
+	Material_NewMLI = "Create Layer Instance"
 	Texture_CreateMaterial = "Create Material"
 	Material_NewMIC = "Create Material Instance"
 	AnimSequence_NewPoseAsset = "Create PoseAsset"
@@ -1067,6 +1084,7 @@ Namespace AssetTypeActions (233 keys)
 	Texture_CreateMaterialTooltip = "Creates a new material using this texture."
 	SkeletalMesh_NewSkeletonTooltip = "Creates a new skeleton for each of the selected meshes."
 	Texture2D_CreateSlateBrushToolTip = "Creates a new slate brush using this texture."
+	Material_NewMFITooltip = "Creates a parameterized function using this function as a base."
 	Material_NewMICTooltip = "Creates a parameterized material using this material as a base."
 	TextureRenderTarget_CreateStaticTooltip = "Creates a static texture from the selected render targets."
 	AnimSequence_NewAnimCompositeTooltip = "Creates an AnimComposite using the selected anim sequence."
@@ -1116,7 +1134,7 @@ Would you like to regenerate the skeleton from this mesh?
 	Redirector_FindTarget = "Find Target"
 	Redirector_FixUpTooltip = "Finds referencers to selected redirectors and resaves them if possible, then deletes any redirectors that had all their referencers fixed."
 	Redirector_FindTargetTooltip = "Finds the asset that this redirector targets in the asset tree."
-	MaterialInstanceConstant_FindParentTooltip = "Finds the material this instance is based on in the content browser."
+	MaterialInstanceConstant_FindParentTooltip = "Finds the function this instance is based on in the content browser."
 	MaterialFunction_FindMaterialsTooltip = "Finds the materials that reference this material function in the content browser."
 	AnimSequenceBase_FindSkeletonTooltip = "Finds the skeleton for the selected assets in the content browser."
 	AnimBlueprint_FindSkeletonTooltip = "Finds the skeleton used by the selected Anim Blueprints in the content browser."
@@ -1141,8 +1159,13 @@ Would you like to regenerate the skeleton from this mesh?
 	RemapSkeleton_LoadPackage = "Loading Packages"
 	AssetTypeActions_Material = "Material"
 	AssetTypeActions_MaterialFunction = "Material Function"
+	FAssetTypeActions_MaterialFunctionInstance = "Material Function Instance"
 	AssetTypeActions_MaterialInstanceConstant = "Material Instance"
 	AssetTypeActions_MaterialInterface = "Material Interface"
+	AssetTypeActions_MaterialFunctionMaterialLayer = "Material Layer"
+	AssetTypeActions_MaterialFunctionMaterialLayerBlend = "Material Layer Blend"
+	AssetTypeActions_MaterialFunctionMaterialLayerBlendInstance = "Material Layer Blend Instance"
+	AssetTypeActions_MaterialFunctionMaterialLayerInstance = "Material Layer Instance"
 	AssetTypeActions_MaterialParameterCollection = "Material Parameter Collection"
 	AssetTypeActions_InterpData = "Matinee Data"
 	MergeSkeletonDlgTitle = "Merge Bones"
@@ -1526,12 +1549,6 @@ Namespace CompressionMemorySummary (2 keys)
 	BeginCompressingTaskMessage = "Compressing animations"
 	CompressingTaskStatusMessageFormat = "Compressing {AnimSequenceName} ({ProgressNumerator}/{ProgressDenominator})"
 
-Namespace Console (1 keys)
-	ConsoleLabel = "Console"
-
-Namespace ConsoleInputBox (1 keys)
-	TypeInConsoleHint = "Enter console command"
-
 Namespace ConstraintComponent (5 keys)
 	BadBoneNameToConstraint = "Couldn't find bone {0} for ConstraintComponent {1}."
 	BadBoneNameToConstraint2 = "Couldn't find bone {0} for ConstraintComponent {1}."
@@ -1568,11 +1585,10 @@ Namespace Contexts (6 keys)
 Namespace Controller (1 keys)
 	ControllerPossessAuthorityOnly = "Possess function should only be used by the network authority for {0}"
 
-Namespace Core (66 keys)
+Namespace Core (67 keys)
 	OverwriteReadOnly = "'{0}' is marked read-only.  Would you like to try to force overwriting it?"
 	FirstCmdArgMustBeGameName = "'{0}' must exist and contain a DefaultEngine.ini."
 	BadProperty = "'{Message}': Bad or missing property '{PropertyName}' when trying to call {FunctionName}"
-	ReplaceNotFullyLoaded_f = "Attempting to replace an object that hasn't been fully loaded: {0} (Outer={1}, Flags={2})"
 	SavePackageNoMap = "Attempting to save a map asset '{0}' that does not contain a map object"
 	LinkedToObjectsInOtherMap_FindCulpritQ = "Can't save {FileName}: Graph is linked to object(s) in external map.
 External Object(s):
@@ -1627,6 +1643,7 @@ Try to find the chain of references to that object (may take some time)?"
 	MismatchedGameNames = "The name of the .uproject file ('{0}') must match the name of the project passed in the command line ('{1}')."
 	Transform = "Translation: {T} Rotation: {R} Scale: {S}"
 	True = "True"
+	SymbolsInTitleMemory2 = "Turn "Profiling Mode" on in Dev Home or Xbox One Manager to fix this."
 	Vector3_CompactZeroVector = "V(0)"
 	Vector3_CompactX = "V(X={X})"
 	Vector3_CompactXY = "V(X={X}, Y={Y})"
@@ -1636,6 +1653,7 @@ Try to find the chain of references to that object (may take some time)?"
 	Vector3_CompactYZ = "V(Y={Y}, Z={Z})"
 	Vector3_CompactZ = "V(Z={Z})"
 	VerifyPackage_Scope = "Verifying '{0}'"
+	SymbolsInTitleMemory = "WARNING: Symbols for crash callstacks are using up title memory!"
 	Vector2 = "X={X} Y={Y}"
 	Vector3 = "X={X} Y={Y} Z={Z}"
 	Yes = "Yes"
@@ -1818,6 +1836,7 @@ Namespace EndUserSettings (7 keys)
 
 Namespace Engine (32 keys)
 	BuildingCompressedAudioTaskStatus = "Building compressed audio format {AudioFormat} wave {SoundNodeName}..."
+	UpdateReflectionCaptures = "Building reflection captures for {0}"
 	BuildingStaticMeshStatus = "Building static mesh {StaticMeshName}..."
 	BuildTextureStatus = "Building textures: {TextureName} ({TextureFormatName}, {TextureResolutionX}X{TextureResolutionY})"
 	ChangingPreviewRenderingLevelMessage = "Changing Preview Rendering Level"
@@ -1863,7 +1882,6 @@ Make sure to save the package and distribute to everyone using this material."
 	UnknownScaleCompressionFormat = "Unknown or unsupported Scale compression format ({0})"
 	UnknownRotationCompressionFormat = "Unknown or unsupported rotation compression format ({0})"
 	UnknownTranslationCompressionFormat = "Unknown or unsupported translation compression format ({0})"
-	BeginReflectionCapturesTask = "Updating Reflection Captures..."
 	ConnectionFailed = "Your connection to the host has been lost."
 
 Namespace Engine.BufferVisualizationMaterials (21 keys)
@@ -1957,7 +1975,7 @@ Limit to {AngleValue} angle both sides on {ArcDirection}"
 	SimpleGridDescriptionWithProjection = "{Description}, {ProjectionDescription}"
 	GeometryBriefDescription = "{ExtentDescription} {ProjectionTraceDesc} on {Channel}"
 
-Namespace ErrorChecking (17 keys)
+Namespace ErrorChecking (18 keys)
 	MapCheck_Message_DuplicateLevelInfo = "Duplicate level info"
 	MapCheck_Message_LightComponentNull = "Light actor has NULL LightComponent property - please delete!"
 	MapCheck_Message_RebuildLighting = "Maps need lighting rebuilt"
@@ -1975,6 +1993,7 @@ Namespace ErrorChecking (17 keys)
 	MapCheck_Message_ActorIsObselete_Abstract = "{ActorName} : Obsolete and must be removed! (Class is abstract)"
 	MapCheck_Message_ActorIsObselete_Deprecated = "{ActorName} : Obsolete and must be removed! (Class is deprecated)"
 	MapCheck_Message_StaticPhysNone = "{ActorName} : Static object with bSimulatePhysics set to true"
+	IsDataValid_Failed_CheckForErrors = "{ActorName} is not valid. See the MapCheck log messages for details."
 
 Namespace Events (5 keys)
 	AnalogInput = "AnalogInput Key({0})"
@@ -2068,6 +2087,10 @@ Namespace FAndroid_DXTTargetPlatformModule (2 keys)
 	Android_DXT = "Android (DXT)"
 	Android_DXT_ShortName = "DXT"
 
+Namespace FAndroid_ETC1aTargetPlatformModule (2 keys)
+	Android_ETC1a = "Android (ETC1a)"
+	Android_ETC1a_ShortName = "ETC1a"
+
 Namespace FAndroid_ETC1TargetPlatformModule (2 keys)
 	Android_ETC1 = "Android (ETC1)"
 	Android_ETC1_ShortName = "ETC1"
@@ -2116,9 +2139,6 @@ Namespace FastXml (15 keys)
 	UserAbortedOnComment = "User aborted the parsing process"
 	UserAbortedOnElement = "User aborted the parsing process"
 	UserAbortedOnFile = "User cancelled processing of this file"
-
-Namespace FCurveHandle (1 keys)
-	CurveFunction_Error = "Unrecognized curve easing function type [%i] for FCurveHandle"
 
 Namespace FDeviceManagerModule (2 keys)
 	DeviceManagerTabTitle = "Device Manager"
@@ -2344,7 +2364,8 @@ Namespace HTML5TargetSettings (1 keys)
 Namespace HUD (1 keys)
 	PIE_Warning_Message_CanvasCallOutsideOfDrawCanvas = "Canvas Draw functions may only be called during the handling of the DrawHUD event"
 
-Namespace ImageComparer (5 keys)
+Namespace ImageComparer (6 keys)
+	DifferentImageSizes = "Image comparison failed as sizes do not match, {WidthA}x{HeightA} vs {WidthB}x{HeightB}"
 	ErrorReadingRawDataA = "Unable decompress ImageA"
 	PNGWrapperMissing = "Unable locate the PNG Image Processor"
 	ErrorParsingImageA = "Unable to parse image"
@@ -2590,7 +2611,7 @@ Namespace Internationalization (2 keys)
 	InvariantCultureDisplayName = "Invariant Language (Invariant Country)"
 	ComputerMemoryFormatting = "{Number} {Unit}"
 
-Namespace IOSTargetSettings (81 keys)
+Namespace IOSTargetSettings (90 keys)
 	IOSUpgradeInfoMessage = "<RichTextBlock.TextHighlight>Note to users from 4.6 or earlier</>: We now <RichTextBlock.TextHighlight>GENERATE</> an Info.plist when building, so if you have customized your .plist file, you will need to put all of your changes into the below settings. Note that we don't touch the .plist file that is in your project directory, so you can use it as reference."
 	CertificateMessage = "<RichTextBlock.TextHighlight>Note</>: If no certificate is selected then the one in green will be used to sign the IPA."
 	ProvisionMessage = "<RichTextBlock.TextHighlight>Note</>: If no provision is selected the one in green will be used to provision the IPA."
@@ -2609,6 +2630,8 @@ Namespace IOSTargetSettings (81 keys)
 	ProvisionListFileColumnHeader = "File"
 	GLES2Deprecation = "GLES2 will no longer be supported in 4.17."
 	GenerateSSHKey = "Generate SSH Key"
+	IOSTeamIDLabel = "IOS Team ID"
+	IOSTeamID = "IOSTeamID"
 	NameContainsInvalidCharacters = "Identifier may only contain the characters 0-9, A-Z, a-z, period, hyphen, or [PROJECT_NAME]"
 	ImportCertificate = "Import Certificate"
 	ImportCertificateDialogTitle = "Import Certificate"
@@ -2632,6 +2655,8 @@ Namespace IOSTargetSettings (81 keys)
 	LaunchImage_iPhone6Plus_Portrait = "Launch iPhone 6 Plus in Portrait"
 	LaunchImage_iPhone6_Landscape = "Launch iPhone 6 in Landscape"
 	LaunchImage_iPhone6 = "Launch iPhone 6 in Portrait"
+	LaunchImage_iPhoneX_Landscape = "Launch iPhone X in Landscape"
+	LaunchImage_iPhoneX_Portrait = "Launch iPhone X in Portrait"
 	AppIcon_Marketing = "Marketing Icon"
 	CertificateViewerNoValidProvisions = "No Certificates Found.  Please Import a Certificate."
 	ProvisionViewerNoValidProvisions = "No Provisions Found. Please Import a Provision."
@@ -2643,6 +2668,7 @@ Namespace IOSTargetSettings (81 keys)
 	RSyncUserNameLabel = "RSync User Name"
 	RemoteBuildingGroupName = "Remote Build Options"
 	RemoteServerNameLabel = "Remote Server Name"
+	SpotlightIcon_Retina_HD_iOS7 = "Retina HD iOS7 Spotlight Icon"
 	SpotlightIcon_Retina_iOS7 = "Retina iOS7 Spotlight Icon"
 	CertificateListStatusColumnHeader = "Status"
 	ProvisionListStatusColumnHeader = "Status"
@@ -2666,7 +2692,11 @@ Namespace IOSTargetSettings (81 keys)
 	AppIcon_iPad_iOS6 = "iPad iOS6 App Icon"
 	SpotlightIcon_iPad_iOS6 = "iPad iOS6 Spotlight Icon"
 	AppIcon_iPad_iOS7 = "iPad iOS7 App Icon"
+	NotificationIcon_iPhone = "iPhone Notification Icon"
 	AppIcon_iPhoneRetina_iOS8 = "iPhone Plus Retina iOS8 App Icon"
+	NotificationIcon_iPhoneRetina_HD = "iPhone Retina HD Notification Icon"
+	SettingsIcon_iPhoneRetina_HD = "iPhone Retina HD Settings Icon"
+	NotificationIcon_iPhoneRetina = "iPhone Retina Notification Icon"
 	SettingsIcon_iPhoneRetina = "iPhone Retina Settings Icon"
 	AppIcon_iPhoneRetina_iOS6 = "iPhone Retina iOS6 App Icon"
 	AppIcon_iPhoneRetina_iOS7 = "iPhone Retina iOS7 App Icon"
@@ -2756,8 +2786,7 @@ Namespace LatentActionManager (2 keys)
 Namespace Launch (1 keys)
 	Error_ResolutionTooLow = "The current resolution is too low to run this game."
 
-Namespace LaunchEngineLoop (2 keys)
-	RequiresNonoptionalCPUFeatures = "Error: This application requires a CPU that supports the specific instruction set(s)"
+Namespace LaunchEngineLoop (1 keys)
 	RequiresGamePrefix = "Error: UE4Editor does not append 'Game' to the passed in game name.
 You must use the full name.
 You specified '{0}', use '{0}Game'."
@@ -2971,6 +3000,10 @@ Namespace MaterialExpressions (6 keys)
 	CamRelativeWorldPositonExcludingOffsetsText = "Camera Relative World Position (Excluding Material Offsets)"
 	Error_CircularFunctionDependency = "Can't use that material function as it would cause a circular dependency."
 
+Namespace MaterialLayersFunctions (2 keys)
+	Background = "Background"
+	LayerPrefix = "Layer {0}"
+
 Namespace MaterialParameterCollectionTrack (3 keys)
 	InvalidParameterText = "Invalid parameter name or type applied in sequence"
 	OnText = "on"
@@ -3012,7 +3045,7 @@ Namespace MeshUtils (13 keys)
 	ActorNameSingular = ""{0}""
 	ActorNamePlural = "Actors"
 	AutomaticMeshReductionPlugin = "Automatic"
-	AvailableReductionPluginsMenuSection = "Available Plugins"
+	AutomaticProxyLODMeshReductionPlugin = "Automatic"
 	ConvertToStaticMeshPickName = "Choose New StaticMesh Location"
 	ConvertSelectedActorsToStaticMeshTooltip = "Convert the selected actor's meshes to a new Static Mesh asset. Supports static and skeletal meshes."
 	ConvertSelectedActorsToStaticMeshText = "Convert {0} To Static Mesh"
@@ -3057,10 +3090,11 @@ Namespace MessageLog (12 keys)
 	AggregateMessagesFormatter = "{PreviousMessage}{NewMessage}
 "
 
-Namespace MetalRHI (3 keys)
+Namespace MetalRHI (4 keys)
 	ShaderDebugAuthFail = "Could not access directory required for debugging optimised Metal shaders. Falling back to slower runtime compilation of shaders for debugging."
 	ShaderPlatformUnavailableTitle = "Shader Platform Unavailable"
 	ShaderPlatformUnavailable = "Shader platform: {ShaderPlatform} was not cooked! Please enable this shader platform in the project's target settings."
+	ShaderVersionUnsupported = "The current OS version does not support {Version} required by the project. You must upgrade to {RequiredOS} to run this project."
 
 Namespace MiscSwitchMessages (13 keys)
 	Connected = "Connected"
@@ -3185,7 +3219,7 @@ Namespace NativeCodeGenerationTool (16 keys)
 Unconverted Dependencies, that require a warpper struct:
 "
 	ClassName = "Class Name"
-	CppNotSaved = "Cpp file wasn't saved. Check log for details. %s
+	CppNotSavedFmt = "Cpp file wasn't saved. Check log for details. {0}
 "
 	Dependencies = "Dependencies"
 	ConvertedDependencies = "Detected Dependencies:
@@ -3195,7 +3229,7 @@ Unconverted Dependencies, that require a warpper struct:
 	GeneratingCppFiles = "Generating C++ files.."
 	HeaderDirectory = "Header Directory"
 	HeaderPath = "Header Path"
-	HeaderNotSaved = "Header file wasn't saved. Check log for details. %s
+	HeaderNotSavedFmt = "Header file wasn't saved. Check log for details. {0}
 "
 	InvalidBlueprint = "Invalid Blueprint
 "
@@ -3216,6 +3250,10 @@ Namespace NetworkErrors (6 keys)
 	NETDISCONNECTMSG = "NETDISCONNECT MSG"
 	ClientReliableBufferOverflow = "Outgoing reliable buffer overflow"
 	GenericPendingConnectionFailed = "Pending Connection Failed."
+
+Namespace OpenGLDrv (2 keys)
+	CannotDetermineGraphicsDriversVendorTitle = "Cannot determine driver vendor."
+	CannotDetermineGraphicsDriversVendor = "Unknown graphics drivers '{0}' by '{1}' are installed on this system. You may experience visual artifacts and other problems."
 
 Namespace OutputLog (6 keys)
 	UnknownTargetDevice = "<Unknown device>"
@@ -3249,12 +3287,13 @@ Namespace PlatformAudio (3 keys)
 	Reverb = "Choose which audio plugin should be used for reverb. If your desired reverb plugin isn't found in the drop down menu, ensure that it is enabled on the Plugins panel."
 	Spatialization = "Choose which audio plugin should be used for spatialization. If your desired spatialization isn't found in the drop down menu, ensure that it is enabled on the Plugins panel."
 
-Namespace PlatformInfo (29 keys)
+Namespace PlatformInfo (30 keys)
 	Android = "Android"
 	Android_ASTC = "Android (ASTC)"
 	Android_ATC = "Android (ATC)"
 	Android_DXT = "Android (DXT)"
 	Android_ETC1 = "Android (ETC1)"
+	Android_ETC1a = "Android (ETC1a)"
 	Android_ETC2 = "Android (ETC2)"
 	Android_Multi = "Android (Multi)"
 	Android_PVRTC = "Android (PVRTC)"
@@ -3416,8 +3455,10 @@ Namespace RealtimeProfileLineGraph (4 keys)
 Namespace RealtimeProfiler (1 keys)
 	WindowTitle = "Realtime Profiler"
 
-Namespace Renderer (19 keys)
+Namespace Renderer (21 keys)
 	LinuxInsufficientDriversText = "Cannot create OpenGL context. Check that the drivers and hardware support at least OpenGL 4.3 (or re-run with -opengl3)"
+	LinuxCannotCreatePlatformWindow = "Cannot create OpenGL-enabled SDL window. SDL error: '{0}'."
+	LinuxCannotCreatePlatformWindowTitle = "Cannot create SDL window."
 	DFAODisabled = "Distance Field AO is disabled through scalability"
 	LinuxInsufficientDriversTitle = "Insufficient drivers or hardware"
 	MobileDynamicCSMDistFieldShadows = "MOBILE CSM+STATIC REQUIRES DISTANCE FIELD SHADOWS ENABLED FOR PROJECT"
@@ -3557,13 +3598,17 @@ Namespace SCollisionAnalyzer (20 keys)
 Namespace SComboBox (1 keys)
 	ContentWarning = "No Content Provided"
 
-Namespace ScreenshotComparison (5 keys)
+Namespace ScreenshotComparison (9 keys)
+	AddAllNewReports = "Add All New Reports"
+	AddAllNewReportsTooltip = "Adds all new screenshots contained in the reports."
 	DeleteAllReports = "Delete All Reports"
 	DeleteAllReportsTooltip = "Deletes all the current reports.  Reports are not removed unless the user resolves them, 
 so if you just want to reset the state of the reports, clear them here and then re-run the tests."
 	ColumnHeader_Delta = "Local | Global Delta"
 	ColumnHeader_Name = "Name"
 	ColumnHeader_Preview = "Preview"
+	ReplaceAllReports = "Replace All Reports"
+	ReplaceAllReportsTooltip = "Replaces all screenshots containing a different result in the reports."
 
 Namespace ScriptCore (20 keys)
 	AccessNoneNoContext = "Accessed None"
@@ -3895,6 +3940,10 @@ Namespace SFilterWidget (8 keys)
 	EnableAllTooltip = "Enable all categories"
 	UseVerbosity = "Use: {0}"
 
+Namespace ShaderCompiler (2 keys)
+	LaunchingShaderCompileWorkerFailedTitle = "Unable to launch ShaderCompileWorker."
+	LaunchingShaderCompileWorkerFailed = "Unable to launch {0} - make sure you built ShaderCompileWorker."
+
 Namespace ShaderCompilingManager (4 keys)
 	CompilingGlobalShaderStatus = "Compiling global shaders..."
 	CompilingShadersStatus = "Compiling shaders..."
@@ -3906,11 +3955,11 @@ Namespace ShaderFormatsPropertyDetails (20 keys)
 	D3DES31 = "Direct3D (ES3.1, Mobile Preview)"
 	D3DSM4 = "Direct3D 10 (SM4)"
 	D3DSM5 = "Direct3D 11+ (SM5)"
-	MetalES2 = "Mac Metal (ES2, Mobile Preview)"
-	MetalES3.1 = "Mac Metal (ES3.1, Mobile Preview)"
-	MetalSM4 = "Mac Metal 1.0 (SM4, OS X El Capitan 10.11.4 or later)"
-	MetalMRTMac = "Mac Metal 1.1+ (SM5 MRT Preview, OS X El Capitan 10.11.5 or later)"
-	MetalSM5 = "Mac Metal 1.1+ (SM5, OS X El Capitan 10.11.5 or later)"
+	MetalSM5 = "Mac Metal Desktop Renderer with Tessellation (SM5, Metal 1.2+, macOS Sierra 10.12.6 or later)"
+	MetalSM5_NOTESS = "Mac Metal Desktop Renderer without Tessellation (SM5, Metal 1.2+, macOS Sierra 10.12.6 or later)"
+	MetalES3.1 = "Mac Metal High-End Mobile Preview (ES3.1)"
+	MetalES2 = "Mac Metal Low-End Mobile Preview (ES2)"
+	MetalMRTMac = "Mac Metal iOS/tvOS Desktop Renderer Preview (SM5)"
 	OpenGLES2PC = "OpenGL (ES2, Mobile Preview)"
 	OpenGLES31PC = "OpenGL (ES3.1, Mobile Preview)"
 	OpenGL3 = "OpenGL 3 (SM4)"
@@ -3920,8 +3969,8 @@ Namespace ShaderFormatsPropertyDetails (20 keys)
 	VulkanES31 = "Vulkan (ES 3.1)"
 	VulkanSM4 = "Vulkan (SM4)"
 	VulkanSM5 = "Vulkan (SM5)"
-	Metal = "iOS/tvOS Metal 1.0 (ES 3.1)"
-	MetalMRT = "iOS/tvOS Metal 1.1+ (SM5, iOS/tvOS 9.0 or later)"
+	MetalMRT = "iOS/tvOS Metal Desktop Renderer (SM5, Metal 1.2+, iOS/tvOS 10.0 or later)"
+	Metal = "iOS/tvOS Metal Mobile Renderer (ES3.1, Metal 1.1+, iOS/tvOS 9.0 or later)"
 
 Namespace ShadowMap2D (1 keys)
 	BeginEncodingShadowMapsTask = "Encoding shadow-maps"
@@ -3962,7 +4011,7 @@ Namespace SkyLightComponent (1 keys)
 
 Namespace Slate (3 keys)
 	ExpandToolbar = "Click to expand toolbar"
-	FallbackFont = "DroidSansFallback"
+	LegacyFallbackFont = "DroidSansFallback"
 	SearchHint = "Search"
 
 Namespace SlateCore (1 keys)
@@ -4132,12 +4181,15 @@ Namespace SourceControlProgress (3 keys)
 	ContinueButtonLabel = "Continue"
 	LongTaskMessage = "Operation is taking a long time to complete. Click cancel to stop the current operation, you can try again later."
 
-Namespace SOutputLog (16 keys)
+Namespace SOutputLog (19 keys)
 	AddFilterToolTip = "Add an output log filter."
 	Categories = "Categories"
+	ConsoleCommandExecutorDisplayName = "Cmd"
+	ConsoleCommandExecutorHintText = "Enter Console Command"
 	ShowErrors = "Errors"
-	Category_Tooltip = "Filter the Output Log to show Category: %s"
+	ConsoleCommandExecutorDescription = "Execute Unreal Console Commands"
 	ShowAllCategories_Tooltip = "Filter the Output Log to show all categories"
+	Category_Tooltip = "Filter the Output Log to show category: {0}"
 	ShowErrors_Tooltip = "Filter the Output Log to show errors"
 	ShowMessages_Tooltip = "Filter the Output Log to show messages"
 	ShowWarnings_Tooltip = "Filter the Output Log to show warnings"
@@ -4669,13 +4721,15 @@ Namespace SRotatorInputBox (7 keys)
 	Yaw_ToolTip = "Yaw Value"
 	Yaw_Label = "Z"
 
-Namespace SScreenShotBrowser (8 keys)
+Namespace SScreenShotBrowser (10 keys)
 	AddAlternative = "Add As Alternative"
 	AddNew = "Add New!"
+	AddPlatformSpecificNew = "Add Platform-Specific New"
 	Difference = "Difference"
 	GroundTruth = "Ground Truth"
 	Incoming = "Incoming"
 	Replace = "Replace"
+	ShowDelta = "Show Delta"
 	Unknown = "Unknown Test, no metadata discovered."
 	LocalvGlobalDelta = "{0} | {1}"
 
@@ -4870,8 +4924,8 @@ Namespace STableViewTesting (33 keys)
 	UnsupprtedColumnText = "Unsupported Column: {0}"
 
 Namespace StaticMeshActor (4 keys)
-	MapCheck_Message_StaticMeshNull = "Static mesh actor has NULL StaticMesh property"
-	MapCheck_Message_StaticMeshComponent = "Static mesh actor has NULL StaticMeshComponent property - please delete"
+	MapCheck_Message_StaticMeshNull = "Static mesh actor {ActorName} has NULL StaticMesh property"
+	MapCheck_Message_StaticMeshComponent = "Static mesh actor {ActorName} has NULL StaticMeshComponent property - please delete"
 	MapCheck_Message_SameLocation = "{ActorName0} is in the same location as {ActorName1}"
 	MapCheck_Message_VertexColorsNotMatchOriginalMesh = "{ActorName} (LOD {LODIndex}) has hand-painted vertex colors that no longer match the original StaticMesh ({StaticMeshName})"
 
@@ -5691,9 +5745,9 @@ Namespace UMG (34 keys)
 	Panel = "Panel"
 	Primitive = "Primitive"
 	WidgetTreeVerify = "Property in widget template did not load correctly, {0}."
-	UMG WidgetBlueprint Library: SetInputMode_GameAndUI = "SetInputMode_GameAndUI expects a valid player controller as target"
-	UMG WidgetBlueprint Library: SetInputMode_GameOnly = "SetInputMode_GameOnly expects a valid player controller as target"
-	UMG WidgetBlueprint Library: SetInputMode_UIOnly = "SetInputMode_UIOnly expects a valid player controller as target"
+	UMG WidgetBlueprint Library: SetInputMode_GameAndUI = "SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target"
+	UMG WidgetBlueprint Library: SetInputMode_GameOnly = "SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target"
+	UMG WidgetBlueprint Library: SetInputMode_UIOnly = "SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target"
 	NativeWidgetHostText = "Slate Widget Host"
 	SpecialFX = "Special Effects"
 	TextBlockDefaultValue = "Text Block"
@@ -6033,7 +6087,7 @@ LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9."
 	SavingPackage_CompressingSourceArt = "Compressing source art for texture:  {0}"
 	SavingPackage_CompressingTexture = "Compressing texture:  {0}"
 	ConsoleHelpExported = "ConsoleHelp.html was saved as"
-	SplashScreen_CopyrightInfo = "Copyright © 1998-2017   Epic Games, Inc.   All rights reserved."
+	SplashScreen_CopyrightInfo = "Copyright © 1998-2018   Epic Games, Inc.   All rights reserved."
 	Error_CouldntLaunchPIEClient = "Couldn't Launch PIE Client: {0}"
 	Error_CouldntSpawnPlayer = "Couldn't spawn player: {0}"
 	Error_CouldntWriteToFile_F = "Couldn't write to file '{0}'. Maybe file is read-only?"
@@ -6117,8 +6171,9 @@ Namespace UnrealEditor (6 keys)
 	OutputLogTooltipText = "Open the Output Log tab."
 	OutputLogTab = "Output Log"
 
-Namespace UnrealEngine (10 keys)
+Namespace UnrealEngine (11 keys)
 	BlueprintInLevelHadCompileErrorMessage = "BLUEPRINT COMPILE ERROR"
+	UNSUPPORTEDDYNRES = "DYNAMIC RESOLUTION IS NOT SUPPORTED ON THIS PLATFORM"
 	MEMPROFILINGWARNINGLLM = "LLM enabled without Debug Memory enabled!"
 	Levelstreamingfrozen = "Level streaming frozen..."
 	NAMEDEVENTSENABLED = "NAMED EVENTS ENABLED"
@@ -6127,12 +6182,13 @@ Namespace UnrealEngine (10 keys)
 	GCPROFILINGWARNING = "PROFILING WITH GC VERIFY ON!"
 	PrepareMapChangeError = "PrepareMapChange had a bad level name! Check the log (tagged with PREPAREMAPCHANGE) for info"
 	OutOfTextureMemory = "RAN OUT OF TEXTURE MEMORY, EXPECT CORRUPTION AND GPU HANGS!"
-	MEMPROFILINGWARNING = "WARNING: Running with Debug Memory Enabled!"
+	LLMWARNING = "WARNING: Running with Debug Memory Enabled!"
 
-Namespace UObject (3 keys)
-	KilobytesSuffix = "Kb"
-	Size = "Size"
-	SizeTooltip = "The size of the asset in kilobytes"
+Namespace UObject (4 keys)
+	PrimaryAssetNameTooltip = "Logical name registered with the Asset Manager system"
+	PrimaryAssetName = "Primary Asset Name"
+	PrimaryAssetType = "Primary Asset Type"
+	PrimaryAssetTypeTooltip = "Type registered with the Asset Manager system"
 
 Namespace UObjectToolTips (5 keys)
 	CameraFilmbackSettings:SensorWidth = "Horizontal size of filmback or digital sensor, in mm."

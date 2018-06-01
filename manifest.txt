@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 148372000159853675 / 05/03/2018 14:29:24
-Total number of files  : 3054
-Total number of chunks : 4684
-Total bytes on disk    : 1750343420
-Total bytes compressed : 1075223600
+Manifest ID / date     : 4805523304442726794 / 06/01/2018 11:07:43
+Total number of files  : 3063
+Total number of chunks : 4646
+Total bytes on disk    : 1698059551
+Total bytes compressed : 1001701136
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -84,34 +84,34 @@ Total bytes compressed : 1075223600
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/NVIDIA
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64
-         31744      1 5AA5B0CEB1139CAAD23632373BEAE1A4BE4921A8     0 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.dll
+        116224      1 C91B14BD430E7D6460238C84CF19CEA5E47A8D32     0 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Ogg
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Ogg/Win64
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015
          49152      1 654144E0DDEDC26B0B3BE8E6562784ABAD1B471F     0 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll
-             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX
-             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX/Win64
-             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015
-       1220096      2 67578D95F3CBD2E5EB82B48A32B493F3AB762DB7     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Clothing_x64.dll
-       8097792      8 E4BF2E9C737A1F2165815DBDE254E9E30A845EE9     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Clothing_x64.pdb
-       2010624      2 F94E022DF466852B76204F1D899B3D7B1A53F815     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Destructible_x64.dll
-      11735040     12 60088E108460A988FD2F65E3D5CA09F1AE0355D2     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Destructible_x64.pdb
-       3329536      4 09416FFB8A9D13E6FA222FDD1FE49D25AEFDEF21     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Legacy_x64.dll
-      18821120     18 979819593C61FF65B04A62D8EE2F8FE387CD9708     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Legacy_x64.pdb
-       1044480      1 3EFCE1F85EF1F30412350DD8937A91EE1A212E5A     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/ApexFramework_x64.dll
-       7901184      8 A0B4EF49ECEAE952CD8493F57964D7B96A629C91     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/ApexFramework_x64.pdb
-        266240      1 0050FB70D1B690846E8CAFEB0E83FB0D6D734148     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/NvCloth_x64.dll
-       2478080      3 F35C380D764E05F1A022A8C27BB66F3AC723E4EB     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/NvCloth_x64.pdb
-       1596416      2 83B52B5F92D5978DF7B57C0309077374DCC1BE1E     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3Common_x64.dll
-       9768960     10 D7E066139F1EFE2384875D2BEDFDE22C5129C14B     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3Common_x64.pdb
-        245760      1 EA2F4881DF8DF2E86DD318F18CCDC26ACB229D41     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3Cooking_x64.dll
-       1937408      2 4E87F408AD124F45FFF9C470A377073D9D479C9B     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3Cooking_x64.pdb
-       2069504      2 A3430A32275C9F17FE61C362728647681B8CB93A     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3_x64.dll
-      17813504     17 D031A99DE2CB1349B92D5A238054C944DD6D282F     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3_x64.pdb
-         54784      1 2B8916BFF2384AC481409B9D93148E67F2C8DCC8     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxFoundation_x64.dll
-        946176      1 36634DC263080C6733BA1A6ED289CC76739C21F1     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxFoundation_x64.pdb
-        189440      1 0FE8EA0C3534713223397DA211A05F5B0EE01A41     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxPvdSDK_x64.dll
-       2519040      3 86869CB62238FF973FC80EE824E7FE5E3FE31053     0 Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxPvdSDK_x64.pdb
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX3
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX3/Win64
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015
+       1219584      2 116A092DFA0C258F9ECEAB45A08EE8BEAB4B84BB     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.dll
+       8097792      8 C872ADDC5DC34E8E8FE255C57DFCE0C6B45AB482     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.pdb
+       2010112      2 668FC68F7356D4A683FC8E5D2ADE3C3F5E5D41D4     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Destructible_x64.dll
+      11726848     12 7B621548646B52DFEFE95054E76FB6B23F848AEE     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Destructible_x64.pdb
+       3329536      4 7F527636553947417184D48EF2703B2B71EEF95E     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.dll
+      18804736     18 218819791EB3683C081EB4831A337B8B499F215A     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.pdb
+       1044480      1 D1D6486DE70EA3B39E440C4672FF8383B6967337     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.dll
+       7892992      8 E9D0C6227CBD080C46A4FB898DF9E4B34E2A5357     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.pdb
+        265728      1 FF1FBBCE72306EB3FE1914BB9A6D808689C89E48     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.dll
+       2453504      3 15CA40DE56910D68DE05B3F89C1B209E65C1A9FC     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.pdb
+       1597440      2 56BFB1DD25582BECFEEC964C8E309457CEEA2636     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll
+       9768960     10 A9497BD6587CF15999FCA48EBA24F740233F2EDD     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.pdb
+        245760      1 7CE42EA626979DFBC6B9DD3928F2D35CCC4E2D9A     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll
+       1937408      2 6F802955A64FF39A42B8367B303340F487302125     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.pdb
+       2068992      2 ADDFABCE2B70573C8659443BD5B3410B81F86B51     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll
+      17797120     17 A28C4E4C204A7CCE9DBC28A7784ADCEA52E59FD9     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.pdb
+         54784      1 34EFB58DEC78408EE7FCDE40083B9D967DB8F6EC     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll
+        937984      1 AC1B66BE8CA3EE3B7039A4D7F40FF9074F64CF95     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.pdb
+        189440      1 ADCCA6E9A547D1529037B550ED7BE84F37754C82     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll
+       2510848      3 73DED2ECE23C898B611A00F392DB6368038D80FB     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.pdb
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Steamworks
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Steamworks/Steamv139
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64
@@ -126,9 +126,9 @@ Total bytes compressed : 1075223600
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Windows/DirectX/x64
          44752      1 669768620446F0AAC1A18EDA98CF6A8DECF1B8FC     0 Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/Win64
-      17630720     17 DFE01A150D8903FA95F16914D8FD6F9F932AD8E4     0 Engine/Binaries/Win64/CrashReportClient.exe
-     103116800     99 AD261A145DE3C9F4EEEA2DA6CACC06102D9D3684     0 Engine/Binaries/Win64/CrashReportClient.pdb
-       3620864      4 14BCDCFABFE8D4A355928DB51C14FEE0EAC2DCC8     0 Engine/Binaries/Win64/UnrealCEFSubProcess.exe
+      17896448     18 5A7EE963601FF3AD744D60AE6340BABD22A8C344     0 Engine/Binaries/Win64/CrashReportClient.exe
+     104280064    100 C2CB79DD0681F2978188C5BEBD5B484464F3FA2C     0 Engine/Binaries/Win64/CrashReportClient.pdb
+       3693568      4 C2051E1573CCAA942FB4FF043386C989DF2DBF7E     0 Engine/Binaries/Win64/UnrealCEFSubProcess.exe
              0      0 0000000000000000000000000000000000000000    64 Engine/Config
           1528      1 713DB11186795CD938CC518A02A8E9A4AE1BEE01     0 Engine/Config/controller.vdf
              0      0 0000000000000000000000000000000000000000    64 Engine/Content
@@ -3007,12 +3007,16 @@ Total bytes compressed : 1075223600
            272      1 BB70D39DC1B426CAB353F2D7C97A24FA425009D5     0 Engine/Content/Slate/Fonts/DroidSans.tps
        3939852      4 C5E4F11E2F1D0B84E5F268A7EBFD28B54DC6BCDC     0 Engine/Content/Slate/Fonts/DroidSansFallback.ttf
          78296      1 4D3D8054231EC4E9BFC14A46AD4D60C575FBFEEC     0 Engine/Content/Slate/Fonts/DroidSansMono.ttf
-           770      1 70BD2AFFF3E23B75C98D4D0223D567EF279D750D     0 Engine/Content/Slate/Fonts/NanumGothic.tps
-       4343844      5 E51D07D5FC6E6E8E0F6C481BCAA41E082F059D47     0 Engine/Content/Slate/Fonts/NanumGothic.ttf
            811      1 4ED5537432A8BC728064C5832B279F42A6E6DF78     0 Engine/Content/Slate/Fonts/Noto.tps
         146548      1 02E530D7EC5B60BE4ECBF3AFA9C415359EE63F3F     0 Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf
+        164936      1 9EB4F9D1AACEB455483D15CE81FD6DCB1FBDB062     0 Engine/Content/Slate/Fonts/Roboto-Black.ttf
+        166320      1 67907AFDA4A0FC301E49F6BEFA402317840D413B     0 Engine/Content/Slate/Fonts/Roboto-BlackItalic.ttf
         163448      1 D313AB2C45756BF4E972647F5B2AD691AD250990     0 Engine/Content/Slate/Fonts/Roboto-Bold.ttf
-        162636      1 7D0421DE4E1398FB9087378A9CCC9297BDBC84B9     0 Engine/Content/Slate/Fonts/Roboto-Light.ttf
+        161308      1 55C1735E4085089E2EA3B03E9809FB933C3B5DB7     0 Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf
+        163584      1 4D713416816079267467F0ABF05E9491A58B7544     0 Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf
+        165864      1 9CFD661F459C98F17D3C88191D9DF87B960C2AE6     0 Engine/Content/Slate/Fonts/Roboto-BoldItalic.ttf
+        160736      1 2A5AD885C7E58322832E6E651156FFC131E27F2E     0 Engine/Content/Slate/Fonts/Roboto-Italic.ttf
+        170420      1 73A2BB2D6E591A90FFB4ED118A3989FB17B54C7B     0 Engine/Content/Slate/Fonts/Roboto-Light.ttf
         158604      1 A18DCBF99C8D2325C2FBF22A64E8CC28A0CF4D3B     0 Engine/Content/Slate/Fonts/Roboto-Regular.ttf
            691      1 5B9B34391750115B341998A2593F1042FB3D55C6     0 Engine/Content/Slate/Fonts/Roboto.tps
              0      0 0000000000000000000000000000000000000000    64 Engine/Content/Slate/Icons
@@ -3025,8 +3029,22 @@ Total bytes compressed : 1075223600
          35572      1 83ED4488DE197FC63A24E0D386A0332FBF97D645     0 Engine/Content/Slate/Icons/Edit/icon_Edit_Delete_16x.png
           3683      1 01B067F63939CC8C119D01DB8334B2FB34B60E24     0 Engine/Content/Slate/Icons/Edit/icon_Edit_Duplicate_16x.png
          35278      1 E335AB2CA5C754C5B6DA52B4063AB0D58ECA2389     0 Engine/Content/Slate/Icons/Edit/icon_Edit_Paste_16x.png
+         39544      1 17148A8F83C9FFAB5C10AC0233CEF1C167D90822     0 Engine/Content/Slate/Icons/Edit/icon_Edit_Rename_16x.png
           2823      1 16B2E2B3484710719136D46EFC16C0C5B4F19CF2     0 Engine/Content/Slate/Icons/Empty_14x.png
           3061      1 E568FF89BEB162721E44EBFB73AA9CF39C1AFDE8     0 Engine/Content/Slate/Icons/NextIcon.png
+             0      0 0000000000000000000000000000000000000000    64 Engine/Content/Slate/Icons/PIEWindow
+          3850      1 4D33D151D9BCC75DA28949790DA465878853C97B     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_025x_Hovered.png
+          3580      1 F756DDE00E54D7171E19DB02B29158F2D884C936     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_025x_Normal.png
+          3531      1 516FAA232D943E05DBE1829CB06674F009F598E4     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_025x_Pressed.png
+          3884      1 7FD3701748C58B8ACB6501F6FE7703BBB86834C7     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_05x_Hovered.png
+          3478      1 7552CFAE9163C28094FB35798A6F7E2BEC57D74E     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_05x_Normal.png
+          3549      1 AB39D2EE7D2C82657256965FFDB099ED59FB9C62     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_05x_Pressed.png
+          3632      1 98AA4C7C4F2B1740FA673F993814FA282A342B46     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_1x_Hovered.png
+          3336      1 D002CFED1EFEFD7A03AE0366A1900C9E7A1ABB0C     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_1x_Normal.png
+          3321      1 03EDF4683A326A69F5C44D20DED5A48139EE3A48     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_1x_Pressed.png
+          4329      1 FDF62B95728D41B7028361CCA8F7BD3F4F859861     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_Screen_Rotation_Hovered.png
+          4238      1 3FD889B68D41FF6F822FB9FB3A8FF1B765BFD20F     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_Screen_Rotation_Normal.png
+          4225      1 CDDE4CFBB6FC4AD5F441FD10E5F580FFB96D3A17     0 Engine/Content/Slate/Icons/PIEWindow/WindowButton_Screen_Rotation_Pressed.png
           2854      1 B6BC425375675CCC9887A2522EA3E13B8EE48578     0 Engine/Content/Slate/Icons/PlusSymbol_12x.png
           5568      1 8BF7153196EC12803F1461E11519EB6DCCE3DA3A     0 Engine/Content/Slate/Icons/TrashCan.png
           3447      1 92C2E9E0161FCDCD9C6237A7CC7B73B49864CA42     0 Engine/Content/Slate/Icons/TrashCan_Small.png
@@ -3070,11 +3088,6 @@ Total bytes compressed : 1075223600
           3282      1 E0B83BFB134ECFCEDBCDBABE6AB807AF275F4FF5     0 Engine/Content/Slate/Testing/BrushWireframe.png
          37370      1 A5E4E27C471AD90DBC241A7C7FF322764FD3CB05     0 Engine/Content/Slate/Testing/DefaultPawn_16px.png
           2791      1 53A6AA1F9D327C0909154731B6361F2548E13074     0 Engine/Content/Slate/Testing/FlatColorSquare.png
-             0      0 0000000000000000000000000000000000000000    64 Engine/Content/Slate/Testing/Fonts
-        166320      1 67907AFDA4A0FC301E49F6BEFA402317840D413B     0 Engine/Content/Slate/Testing/Fonts/Roboto-BlackItalic.ttf
-        165864      1 9CFD661F459C98F17D3C88191D9DF87B960C2AE6     0 Engine/Content/Slate/Testing/Fonts/Roboto-BoldItalic.ttf
-        160736      1 2A5AD885C7E58322832E6E651156FFC131E27F2E     0 Engine/Content/Slate/Testing/Fonts/Roboto-Italic.ttf
-           427      1 1125EEF024BF4DD78B801E4E8073CB11DB538840     0 Engine/Content/Slate/Testing/Fonts/Roboto.tps
           1155      1 76D70EBB130AEF1232D606B9504823022BB9ACAC     0 Engine/Content/Slate/Testing/GammaReference.png
            303      1 FDF13717A1DA6D22CF012E8DEF1D2C49C1D58A98     0 Engine/Content/Slate/Testing/Hyperlink.png
           3487      1 A2C963B78B38A4DF2ED7DC0E86BFB24B3F130F12     0 Engine/Content/Slate/Testing/Lit.png
@@ -3093,38 +3106,34 @@ Total bytes compressed : 1075223600
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Config
-           241      1 DB61932F48044C6F72602833442AE3FC1F1314C3     0 Engine/Programs/CrashReportClient/Config/DefaultEngine.ini
+           383      1 37A940BCCB8AB4D678B517EE483EECFA030E7944     0 Engine/Programs/CrashReportClient/Config/DefaultEngine.ini
              0      0 0000000000000000000000000000000000000000    64 Engine/Shaders
              0      0 0000000000000000000000000000000000000000    64 Engine/Shaders/StandaloneRenderer
              0      0 0000000000000000000000000000000000000000    64 Engine/Shaders/StandaloneRenderer/D3D
-          1991      1 CE78735B8F9F6D3FC1CCDD1FC9020D198FE60F17     0 Engine/Shaders/StandaloneRenderer/D3D/GammaCorrectionCommon.hlsl
-           717      1 BBBA69D9BED2FEE1574AF887A0E8D7555419271C     0 Engine/Shaders/StandaloneRenderer/D3D/SlateDefaultVertexShader.hlsl
-          4949      1 AB72352C7413814AFC04D35BDA1A290FC60249B3     0 Engine/Shaders/StandaloneRenderer/D3D/SlateElementPixelShader.hlsl
+          1991      1 34F4A6388FB7DB99CC1981F7A0ED4DC3747D5DB3     0 Engine/Shaders/StandaloneRenderer/D3D/GammaCorrectionCommon.hlsl
+           717      1 7EFDF78985851C581F9E2F6E61A02055ECAD5D72     0 Engine/Shaders/StandaloneRenderer/D3D/SlateDefaultVertexShader.hlsl
+          4949      1 F63B57EDF1EC4E759BB3E2F1BC0A82F06666E5DD     0 Engine/Shaders/StandaloneRenderer/D3D/SlateElementPixelShader.hlsl
              0      0 0000000000000000000000000000000000000000    64 Engine/Shaders/StandaloneRenderer/OpenGL
-          7049      1 5D3D0C6A936A3E86561E3016ADA86FE4752925B8     0 Engine/Shaders/StandaloneRenderer/OpenGL/SlateElementPixelShader.glsl
-          1089      1 E6362C44C815D70F570F62070566CC6DE5F43C0E     0 Engine/Shaders/StandaloneRenderer/OpenGL/SlateVertexShader.glsl
+          7049      1 800838B6C12CE387ED23AF7C96616B04E6E77202     0 Engine/Shaders/StandaloneRenderer/OpenGL/SlateElementPixelShader.glsl
+          1089      1 90FDC01760F162C7D91876E4FCB835103749E22A     0 Engine/Shaders/StandaloneRenderer/OpenGL/SlateVertexShader.glsl
            427      1 17282192AE35B107FCD5C9E15966665ACA698A6F     0 Engine/Shaders/StandaloneRenderer/OpenGL/SplashFragmentShader.glsl
            247      1 68F34555F22616D10AA8D1444B363E6959D7D96D     0 Engine/Shaders/StandaloneRenderer/OpenGL/SplashVertexShader.glsl
              0      0 0000000000000000000000000000000000000000    64 FSD
-        460288      1 152D4F33052736AA9D677EB9BE2FC6AEE90FEE49     0 FSD.exe
+        513024      1 7C8E267E4CF22C2F2BEC1FBBF6D1534BA940C7A1     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      51018752     49 0D17D7A495A43579201BF83425049C5FAC12D15C     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
-     361934848    348 26B288049E3A9C362BD0ACB594EF71DC3E7280EF     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
+      52674048     51 CAE6B66FE9792CE6BDCB66511C92A9961AE8F97C     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+     386215936    369 41E4635BB6D0BE71A099B7C90B22F111E27BEA43     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
        4327248      5 031766199999581C94CE46188777D3FBDA9E31D7     0 FSD/Binaries/Win64/dbgeng.dll
        1369936      2 EC3A7FD5861447D615968C51E507CD376A48BD6B     0 FSD/Binaries/Win64/dbghelp.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Movies
-      29381677     29 6161FD7C30F1399369569641409DD819801AD348     0 FSD/Content/Movies/DRG_Loading_1088p30.mp4
-      45975782     44 C22A204A02BAA55B6DB6B172AF7C584DE2666B49     0 FSD/Content/Movies/DRG_Loading_1632p30.mp4
       18910267     19 EA094CB99F368CE1FC950BE82245FC65A28C01A9     0 FSD/Content/Movies/DRG_Loading_720p30.mp4
-       8065659      8 6E67BC812782908B3714CE6944F56D73722094CC     0 FSD/Content/Movies/DRG_LogoIntro 1088p30.mp4
-      14238947     14 56A6D76142E90E65F1ADEDB7D1A7C84A4E5F451E     0 FSD/Content/Movies/DRG_LogoIntro 1632p30.mp4
        4873431      5 22A36E73E654D66B5D15792C3BCBD2493616BAE0     0 FSD/Content/Movies/DRG_LogoIntro 720p30.mp4
        6213158      6 C717D643FB5771128CC000BB83DC07998C8CEC36     0 FSD/Content/Movies/Ghost Ship Logo Animation and Coffe stain 1080.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-     763644160    746 A0167314F389E4E9A8C7B4DC8E8B6EAC1D6FA033     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+     785300025    769 224F8BA8D63108EDC8711E06FE71689AA58E424A     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
-          1060      1 2B20169F2AD0326A83A03662B45946146208F260     0 Manifest_DebugFiles_Win64.txt
-        255250      1 043D54EF850853E90E2A7C7F613DBE710B5776C4     0 Manifest_NonUFSFiles_Win64.txt
+          1070      1 AB59B23302F7A81C8EBF04E6C5433A12A0BBE0E5     0 Manifest_DebugFiles_Win64.txt
+        256201      1 DBCBF90ACD318AE8BDF76DB9BBFD4E82D41DC8DA     0 Manifest_NonUFSFiles_Win64.txt

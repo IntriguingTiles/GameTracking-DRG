@@ -1,7 +1,7 @@
-481 namespaces
-3040 values
+484 namespaces
+4191 values
 
-Namespace Global (588 keys)
+Namespace Global (742 keys)
 	4B0118694F87069CBD082CB627E7F3E2 = "++"
 	CEC5F3244730518F161FB19868120ABA = "++"
 	6291952E43BA00D62F01B4BCE87DB3D0 = "-"
@@ -9,9 +9,15 @@ Namespace Global (588 keys)
 	BB2636F041DA33311E5EFD9FF30BE8D4 = "--"
 	CA1CB2D04FF807BD499E9AADC720AE83 = "--"
 	0E0678C048929B3070A81EACD3C92DB9 = "--------------------------------------"
+	7126FEDF42DBCB91FA8535B1531894E9 = "3D Imposter Sprites"
 	DebugAISF = "AI调试"
 	128F428241C3AC1F9764EB9F733132DB = "AI测试"
 	VisualizeAdaptiveDOFSF = "自适应的景深"
+	09470CB644C923595D0F8F8DF9D6CCE1 = "Add 1 to the specified value then set it"
+	FE8722BF46673259CC2E27ABD40528CF = "Add 1.0 to the specified value then set it"
+	BEC4C274444C353315F85CBA0B05BECC = "Allows exec to pass through only 'n' times."
+	FED912BD4D41A7463FFD82BBE165BDE2 = "Allows for opening and closing a "gate" to control the execution flow."
+	FB19F4DC4B50C3CC96755DBA24440843 = "Alternates between A and B outputs, starting with A"
 	AmbientCubemapSF = "环境立方体贴图"
 	AmbientOcclusionSF = "环境遮挡"
 	AntiAliasingSF = "抗锯齿"
@@ -25,8 +31,26 @@ Namespace Global (588 keys)
 	BSPSplitSF = "BSP分割"
 	BSPTrianglesSF = "BSP三角形"
 	BillboardSpritesSF = "广告牌平面粒子"
+	274CA8AA4870986712B970B32D535D59 = "Blends"
+	36AA8CC04C5382458D54B08B3A4A3D21 = "Blends"
+	4B4E5977444D49E8E525B29D79F0E501 = "Blends"
+	4EE5613940A9361BE187778207A1599A = "Blends"
+	59D0AD774EF481FC07FFEB8E59DDCD10 = "Blends"
+	646E40634125D293B563E5B9840123D9 = "Blends"
+	78BE7BD3491BEA7A53AEA6B9CBF96E20 = "Blends"
+	93C26D7F477EA34D736231947FC50E68 = "Blends"
+	950FDF0E4DAD2B3C5BBD0C95B60E2C34 = "Blends"
+	9699E4684C04E13C8CF2FFAF8BF434E0 = "Blends"
+	9D1290ED46B33BE8704ED48F8CBE95E1 = "Blends"
+	C999276A4E2C3E3D5695AD8100824067 = "Blends"
+	D1BE7BAB4FBCE0127FBF5EB96FE72164 = "Blends"
+	D1F13B03467A7D48E71C06BAB1F73665 = "Blends"
+	E95B5AA54A4F8A1943E4FC98D92B230B = "Blends"
+	F068EA624D1D1142342ABDAFAFA02D82 = "Blends"
 	BloomSF = "光溢出"
 	VisualizeBloom = "光溢出"
+	BoneSF = "Bones"
+	E4F767214929FEEBE44A74A138B9A5EE = "Both Mesh rotation and Material Instance Interpolation"
 	BoundsSF = "边界"
 	BrushesSF = "画刷"
 	VisualizeBufferSF = "缓冲器可视化"
@@ -36,6 +60,7 @@ Namespace Global (588 keys)
 	CameraImperfectionsSF = "相机缺陷"
 	CameraInterpolationSF = "相机插值"
 	CameraSafeFramesSF = "相机安全帧"
+	CapsuleShadows = "Capsule Shadows"
 	0C14D6C446FADB5F786268801335AA9E = "捕获"
 	31C9DD714D3B49A60EF40D94123C4B91 = "捕获"
 	49FD59F9463463E04660F1B5B83CA8E6 = "捕获"
@@ -66,6 +91,10 @@ Namespace Global (588 keys)
 	EA42D7E945A5D659F36521A3FD11EC61 = "捕获设置"
 	CollisionWireFrame = "碰撞"
 	ColorGradingSF = "颜色分级"
+	2DDC9F6949EB39B12D8A81A0C35F8034 = "Compare one float to another and indicate if it is greater, less than or the same."
+	A159665C41D08B7534A21CB702F6A75B = "Compare one integer to another and indicate if it is greater, less than or the same."
+	749E0E00490CAE4CE91C798F7AA5E6EA = "ComplexMotion"
+	D6D58BE44D9BFB891142E7BCB5DBEA20 = "ComplexMotion"
 	CompositeEditorPrimitivesSF = "合成编辑器图元"
 	ConstraintsSF = "约束"
 	1835A69446FA56E73546C492D37449B1 = "坐标"
@@ -85,8 +114,10 @@ Namespace Global (588 keys)
 	E1F13CB249464E5CFEBE579B8B433571 = "坐标"
 	E21576A14999819D3C8DF8B45F365B82 = "坐标"
 	EA2078A24348B1B18DAF1A90693C6723 = "坐标"
+	SerializationOutOfBoundsErrorMessage = "Corrupt data found, please verify your installation."
 	CoverSF = "覆盖"
 	81FF884E42DC30CDF8366BA177C8DC6B = "立方体贴图"
+	F66C00A2423B11AF2A14C0AD7752171A = "Cubemaps"
 	FDBD85E44D8F4B44EB76F2A2BCBCAF41 = "立方体贴图"
 	163FD9944FDD5213B8E4B6A990420C95 = "调试"
 	53EF01214703F29A4F114492F3B38272 = "调试"
@@ -144,6 +175,7 @@ Namespace Global (588 keys)
 	9580F2F24D1C1AF378DE18B8E1E66DAF = "默认"
 	992893B24464363559083096B10DA6B6 = "默认"
 	9EB7389B42FAA4CACF3E528294A73DC8 = "默认"
+	A00F50AF424DB4B96C8F4F81DDB539CB = "Default"
 	A07DBCB4469CF67ED2CE98B11EB1DAE5 = "默认"
 	A112A5A943D63C6AE4671AAB718A2BAC = "默认"
 	A2191E4F46F89E76C4C3D5AF99328320 = "默认"
@@ -170,8 +202,13 @@ Namespace Global (588 keys)
 	FCC139744EA8BB6FA27CDA81503F48B2 = "默认"
 	FF21A4B64EBFEFBFFAE2E3BFCC4DFB7C = "默认"
 	DeferredLightingSF = "延迟光照"
+	443FADCA4B27D69617D7BF99789C7FCA = "Density"
+	92BFD2FA46D03B74604DD4A15A2BB02C = "Density"
+	3A0E523F4EADC43A931B54843B0F273D = "Depth"
+	E0E433E74779358D0588EFAF4CA95E4B = "Depth Map"
 	DepthOfFieldSF = "景深"
 	VisualizeDOFSF = "景深图层"
+	C2A2C43144F43B04AD0E6EBF3956A75A = "Determines if an object is valid"
 	DiffuseSF = "漫反射"
 	DirectLightingSF = "直接光照"
 	DirectionalLightsSF = "定向光源"
@@ -190,7 +227,10 @@ Namespace Global (588 keys)
 	DynamicShadowsSF = "动态阴影"
 	227AD9A34A6EEA54EE60E597F92EB0AA = "编辑器"
 	EditorSF = "编辑器"
+	F3549FC745490C9CBE98DFAD19235513 = "Executes LoopBody for each Index from StartIndex to StopIndex, inclusive"
+	E2CFA53D417FA9146446E48EC9DF7422 = "Executes LoopBody for each index FirstIndex to LastIndex, inclusive.  If execution goes in to break, the loop will exit without executing the remaining indices"
 	EyeAdaptationSF = "眼睛适应"
+	F784B96A4710148A9BA17B96DDF6E6FB = "Flipbook Mesh Animation"
 	0C241AE74EB7F5D2DBA6DBA3C2EECDDE = "翻页式/冒充者 组合器"
 	167F5F5641F47BFD70781092717E12B2 = "翻页式/冒充者 组合器"
 	252CA4C04525F6D81CC4C583A1306B8B = "翻页式/冒充者 组合器"
@@ -198,13 +238,33 @@ Namespace Global (588 keys)
 	6D07C2944893CE7959FD91A2DD5F08DF = "翻页式/冒充者 组合器"
 	B36750CA457DA8CFB8B4678CAE439DF9 = "翻页式/冒充者 组合器"
 	DD47FAA5496DC1117907C0990EC933E1 = "翻页式/冒充者 组合器"
+	9BE19DB84844CB89737DC8BD1F22AB6B = "Float"
+	4959A80645CBB3FCAE167F94FA2D55BC = "Float2"
+	8692ECA845CAB94AB146528BC9F6D28C = "Float3"
+	B4AA56C049665E817ADE32BF0ABE9C83 = "Float4"
 	FogSF = "雾"
 	CEEA90714D6C0FA766F1EBA8F71EE6FD = "植被"
 	InstancedFoliageSF = "植被"
+	FoliageOcclusionBoundsSF = "Foliage Occlusion Bounds"
+	7E8A374C4A36C41ECDDCFB9722E5CD01 = "Foliage Painter"
+	ForceFeedbackSF = "Force Feedback Radius"
+	1BF42FC9447506B860B501BB1E63AA31 = "Foreach"
+	097EFDF7453231EE414870AC0DD3DD5F = "Fortnite"
+	B36DABC94CC3A54012C30795D00DFA0A = "Full 3D Imposter"
 	GBufferHintsSF = "GBuffer提示（材质属性)"
 	GameSF = "游戏"
 	GameplayDebugSF = "游戏调试"
+	3F6CE58E4D5D39EF346AFAAAC08B6275 = "GetPostProcessSetting"
+	9FCF345A4DB411262AEAF79270E4B221 = "GetPostProcessSetting"
+	GlobalDistanceFieldSF = "Global DistanceField"
 	GlobalIlluminationSF = "全局光照"
+	244056804E0E9198BBD30F81BEBC1B43 = "Gradient"
+	6775ECF64CBD57F89949DEAF5012B53B = "Gradient"
+	AEE8239D4B29AECD47A4B48E705D71A3 = "Gradient"
+	CC72471C4F1C25B53E4A6B81F8330805 = "Gradient"
+	CF6F41B24A8F85CB3B0A7C8C085C6375 = "Gradient"
+	EB9B012D4B122A018134FA99DFD36EF2 = "Gradient"
+	F16900BB49F2B7C5EC80D29D71D5A483 = "Gradient"
 	GrainSF = "颗粒"
 	InstancedGrassSF = "草"
 	GridSF = "网格"
@@ -212,13 +272,28 @@ Namespace Global (588 keys)
 	HMDDistortionSF = "HMD变形"
 	HighResScreenshotMaskSF = "高分辨率屏幕截图蒙板"
 	HitProxiesSF = "点击代理"
+	11F618CF44D867D663DA4CAFD77935CA = "Image Adjustment"
+	1FEF8D4042E91A4D8DD3A9A61941D0E1 = "Image Adjustment"
+	201039E946865F331555CEBAE1BDBADD = "Image Adjustment"
+	55C06D71405503C5E38F2CBD58D67AD6 = "Image Adjustment"
+	6087D76746123060D5EEFEB22C23ABA4 = "Image Adjustment"
+	6D8BDE014490C546DF0BEBBDD21BADA0 = "Image Adjustment"
+	9A19AE1646B452B87A4ACCA6F3F02FBA = "Image Adjustment"
+	A9FF13984A9067B7BEE226A72330A947 = "Image Adjustment"
+	BD59C96F4DB71C4CF3A67689FC8C9C8F = "Image Adjustment"
+	C2AB29B448F1B045F71EFE94F89A0BB1 = "Image Adjustment"
+	C38CF5844B2D6BB5C3715DB030FC18B0 = "Image Adjustment"
+	E09AB09E481EFC0BAADB15B35CEE8D45 = "Image Adjustment"
+	E3AC53994905138E62988D85B02088CD = "Image Adjustment"
 	IndirectLightingCacheSF = "间接光照缓存"
 	InstancedStaticMeshesSF = "实例化的静态网格物体"
 	LODSF = "LOD父项"
 	B79EB6CB41ECA56A3E3DE9917B55A663 = "地貌"
 	LandscapeSF = "地貌"
 	LargeVerticesSF = "大顶点"
+	27313F9A464426BB4A2191A3F161FDA8 = "Layers"
 	LensFlaresSF = "镜头眩光"
+	78BA211347671F164A0DEEB2E70813AA = "LensFlares"
 	LevelColorationSF = "关卡着色"
 	LightComplexitySF = "光照复杂度"
 	VisualizeLightCullingSF = "光照剔除"
@@ -230,7 +305,18 @@ Namespace Global (588 keys)
 	LightShaftsSF = "光束"
 	5F4B74154524869C949B90BEE71C33C0 = "光照"
 	LightingSF = "光照"
+	0C43EBBC47943D3DE6852B9CE2277068 = "Lightmaps"
+	C984BBE846CD9680BAEB85BD22DD61AA = "Lightmaps 2-sided"
 	VisLogSF = "日志查看器"
+	1C26C5D8412A2271A61F2EB56CBDC16C = "MAXScripts"
+	2BC5EDE3483910385FDA5198F527FEF5 = "MAXScripts"
+	E9A5B40B46B165B2CB72E1A0A4577D4E = "MAXScripts"
+	F11F87C44150FFD9688B88870C8A12FB = "MAXScripts"
+	F3A3743A48171AC6351541811721BEDA = "MAXScripts"
+	MassPropertiesSF = "Mass Properties"
+	A1AADEE2403BB249292D9690FD14A40E = "Material"
+	1D9BDEB94BE844BEC3E8519C2BBDDA0E = "Material Instance Interpolation"
+	MaterialTextureScaleAccuracy = "Material Texture Scales Accuracy"
 	02B918C540E3F44726822AA7ABEA9801 = "材质图层混合"
 	0F7416BA4DA313D266094AA9A5DC5C5C = "材质图层混合"
 	15FED48845D6403E18F61E8C4302A3AE = "材质图层混合"
@@ -274,11 +360,13 @@ Namespace Global (588 keys)
 	0F549BF04C0C4BD15664168859388757 = "数学"
 	37FA3844423139388C1682A81C699757 = "数学"
 	3C6586194A8C5CB128D8ED9F18B4FA8B = "数学"
+	3F414AC44644546CCCF838BDD3B01480 = "Math"
 	5AC750824528ED91D348FDBDEDBA99C8 = "数学"
 	6021C4494F6DBD34FA1EB081EC49F874 = "数学"
 	690222054E91B3EF645B98BF2B1C0E9B = "数学"
 	791051A34D525E74D5C8118D70B7B97A = "数学"
 	7CC700834D3588E770E3559EAED0792E = "数学"
+	8962C81943A961BF29673A9337880828 = "Math"
 	8E0255CF43C1052825BB77949AE30086 = "数学"
 	9B171395460188BE04652B997D1340CD = "数学"
 	A1E0B6A64822D4AE9F04D69BAB30F276 = "数学"
@@ -290,6 +378,7 @@ Namespace Global (588 keys)
 	BF6E093745BFB7E630868A890DB7738D = "数学"
 	D5E66D1D44EBCE55D7B4F7A4D79FB4BF = "数学"
 	D9D0FD2D47983992DA10DDBA6D164765 = "数学"
+	E931D92342909DDE86CDD79EF1B29DFD = "Math"
 	F38740B9459E0D3AFBAFDDB5DD9E03B7 = "数学"
 	FD1A64124DEDA6EA2176858FB908D09E = "数学"
 	FF4FEC4944F64DF9DA970E945B42CAAB = "数学"
@@ -301,9 +390,12 @@ Namespace Global (588 keys)
 	7D5B289D406B33F136977BB185F6FDB0 = "数学|整型"
 	ADC4F012482FF27A2BBD5F93334B6118 = "数学|整型"
 	AFF858D74026E1FB7E49A28E1610F83E = "数学|整型"
+	MediaPlanesSF = "Media Planes"
 	MeshDistanceFieldsSF = "网格物体距离场"
 	MeshEdgesSF = "网格物体边缘"
+	MeshUVDensityAccuracy = "Mesh UV Densities Accuracy"
 	393CA268495A27CFD88657951101E012 = "其他"
+	D929CD1D42471C8E1BDCFB922F0F71B5 = "Misc"
 	DC9F695F443D20D117BC1A8CB89693C8 = "其他"
 	ModeWidgetsSF = "模式控件"
 	MotionBlurSF = "运动模糊"
@@ -311,11 +403,19 @@ Namespace Global (588 keys)
 	467B0C704891A78A2117E0A67541A0B4 = "移动目标"
 	731B82B44E3EC05F345A3893D994605E = "移动目标"
 	9E5C27F642EA6C729394E0A3D0B0EB72 = "移动目标"
+	9C5149274B51F4B7ED2DD3BE88C590AE = "Multiply the specifed value by -1 then set it"
+	6EE6A03540E69D129B731088E1097D6E = "Multiply the specifed value by -1.0 then set it"
 	NavigationSF = "导航"
 	35BA04ED4E86EF118661239BD1229791 = "网络"
 	73FE03B346FB5B0F68B8CEA50BA35379 = "网络"
+	560BE7304865964488909ABD8F4987CD = "Normals"
+	FF59241A44DC2711AD91D89CF2BAD52C = "Normals"
 	OnScreenDebugSF = "屏幕上进行调试"
+	4CE96BFB4046EAADB899A29F20B87F04 = "Opacity"
+	73C835F64FEC714BC36363B72F71446B = "Opacity"
 	VisualizeOutOfBoundsPixelsSF = "越界的像素"
+	OutputMaterialTextureScales = "Output Material Texture Scales"
+	A5AAE66B4192690AC57EEABBE72ABD46 = "Output fires only on the first time the node is hit, but can be reset"
 	OverrideDiffuseAndSpecularSF = "重载漫反射及高光"
 	4E64CDAF4D872FFF5B0F71A20EB1253E = "覆盖设置"
 	A9D096D54EF064C39E56449138CDB176 = "覆盖设置"
@@ -324,8 +424,11 @@ Namespace Global (588 keys)
 	D92C9CDE4FFDA147183F769AE8C78BC6 = "覆盖设置"
 	EF65BA1F4EBC688BC75A5198BBB6AE69 = "覆盖设置"
 	Paper2DSpritesSF = "纸张二维平面粒子"
+	ParticlesSF = "Particle Sprites"
 	29BB5D824EE25B49BEDFDDA325FDF8BC = "粒子系统帧转存"
-	ParticlesSF = "平面粒子"
+	48B016CD42C6D9FC6AC945A6BE21A52E = "Particles"
+	632086B94646B2A13EDC4983CC767756 = "Particles"
+	7B184F2B42CFFD3401B030A3E1A16296 = "Particles"
 	CollisionPawn = "Pawn"
 	0F02C4AD435384045CA7FF8C37680BD6 = "物理地面"
 	11111E0C4ADB5C1C40C7D69159630B2B = "物理地面"
@@ -353,19 +456,33 @@ Namespace Global (588 keys)
 	D7918F7D46399E013961DE91C6A8385F = "物理地面"
 	EDC8DB6E4ECF759D01FE5287345B661F = "物理地面"
 	F6B126044F8A0136511FC29401167BFE = "物理地面"
+	95E8C6404CB61F3B9EA309A13D215B92 = "Physics Ground - Tiling Physics Drop of Meshes"
 	PivotSF = "支点"
 	03ACE501443EF5D3BCCFB38F9DCD1C09 = "支点描画器"
 	B24BE4F84598257EDB407599B8F1828D = "支点描画器"
 	DA3966294AB2F8BAC66F45B3EA3CE771 = "支点描画器"
 	DD0999D5482C23BE1023ADB36A613DDC = "支点描画器"
 	FE656078493ABCC808C7E2BD0FAD18CA = "支点描画器"
+	0FC45AE8418296857B669883F706E5B9 = "Pivot Painter 2"
+	401D18754AAE9BA9CAEC46BAEA38F5EA = "Pivot Painter 2"
+	AEE7C87E42CA9CDF9AB7B39B96AAAB93 = "Pivot Painter 2"
+	E8139D1645A1EA17434355960D52F645 = "Pivot Painter 2"
 	PointLightsSF = "点光源"
 	PostProcessMaterialSF = "后期处理材质"
 	PostProcessingSF = "后期处理"
 	PrecomputedVisibilitySF = "预计算的可见性"
 	PrecomputedVisibilityCellsSF = "预计算的可见性单元"
 	PreviewShadowIndicatorSF = "预览阴影指示器"
+	PrimitiveDistanceAccuracy = "Primitive Distance Accuracy"
+	306226F248EEFB9E925D1C93FF28B700 = "Procedurals"
+	627915984635287FACDB4DA6327911E7 = "Procedurals"
+	B1287FBA45BD48C641309BB06B4B0265 = "Procedurals"
+	B6CF9D814B6E30B9818A26ADEA888C1E = "Procedurals"
+	E8963D294C7BAE8ECAED5399CE95952E = "Procedurals"
+	F70A83064A955F986662ADAD6752F010 = "Procedurals"
 	PropertyColorationSF = "属性着色"
+	QuadOverdrawSF = "Quad Overdraw"
+	RayTracedDistanceFieldShadows = "Ray Traced Distance Field Shadows"
 	ReflectionEnvironmentSF = "反射环境"
 	9F1E79E34A80164D5AB90FB5C0769832 = "反射"
 	AE4B977949471C5637DDB88F42DCFD66 = "反射"
@@ -452,16 +569,21 @@ Namespace Global (588 keys)
 	8B5FDCCB4D6D747E67639696462D7470 = "渲染未展开的网格物体"
 	C095AE7643AF1AB7B8C3319003B1C2F5 = "渲染未展开的网格物体"
 	D450C2B5488575A26BBA609A0E3059E5 = "渲染到贴图"
+	124CF3854582F58A12C20B9B6EE0B5F0 = "Repeatedly executes LoopBody as long as Condition is true"
+	RequiredTextureResolution = "Required Texture Resolution"
 	SceneColorFringeSF = "场景颜色边纹"
 	ScreenPercentageSF = "屏幕百分比"
 	ScreenSpaceAOSF = "屏幕空间环境遮挡"
+	ContactShadows = "Screen Space Contact Shadows"
 	ScreenSpaceReflectionsSF = "屏幕空间反射"
 	VisualizeSSR = "屏幕空间反射"
 	SelectionSF = "选择"
 	SelectionOutlineSF = "选中项轮廓"
 	VisualizeSenses = "感觉"
 	SeparateTranslucencySF = "单独的半透明"
+	SerializationOutOfBoundsErrorMessageCaption = "Serialization Error : Action Needed"
 	ShaderComplexitySF = "着色器复杂度"
+	ShaderComplexityWithQuadOverdraw = "Shader Complexity With Quad Overdraw"
 	10D7E7BF6E42F7DF4A617784841E14ED = "阴影"
 	22139E374A4DBCD9D2292C9EC73D78FB = "阴影"
 	26DC421647E1B6778C53409274D29088 = "阴影"
@@ -469,14 +591,20 @@ Namespace Global (588 keys)
 	499CBDB24F8F505195BF418CF491334C = "阴影"
 	7F12E373494466F5470F529FFAF9F1A3 = "阴影"
 	86A5EA3B4AC55F65C038CA95BABFADF0 = "阴影"
+	A555B34E4CEA0FB43A1E919FBAD74222 = "Shading"
 	C2359FE24B496D32B0E925A0B422E696 = "阴影"
 	D920688E4D83AA5A0C84E6A49C8AAE3A = "阴影"
+	VisualizeShadingModels = "Shading Models"
 	ShadowFrustumsSF = "阴影平截头体"
+	63EECF3A44D0CEC93620D9BC0A996A41 = "Simple Mesh rotation"
+	FE1A81CB403487D5E8D421A7DA164D6B = "Single Rotation Axis"
 	SkeletalMeshesSF = "骨架网格物体"
 	SkyLightingSF = "天空光照"
 	SnapSF = "对齐"
 	SpecularSF = "高光"
+	91FCC0B74E5A1274353F6EAC70C5FBD0 = "SpeedTree"
 	B45E504A4C01E6DB56C526A995A8A61A = "SpeedTree"
+	E08EB63C4A0DCC7BE8904595E47CFEF0 = "SpeedTree"
 	SplinesSF = "样条曲线"
 	SpotLightsSF = "聚光源"
 	StaticMeshesSF = "静态网格物体"
@@ -485,6 +613,8 @@ Namespace Global (588 keys)
 	StreamingBoundsSF = "动态加载的边界"
 	SubsurfaceScatteringSF = "次表面散射（屏幕空间）"
 	VisualizeSSSSF = "次表面散射（屏幕空间）"
+	D13FE00A41218CFFBFBE22A997B2B634 = "Subtract 1 from the specified value then set it"
+	F0FD0D544A2D33D51451D29C49449CC2 = "Subtract 1.0 from the specified value then set it"
 	TemporalAASF = "临时采样抗锯齿(而不是FXAA)"
 	TessellationSF = "多边形细分"
 	TestImageSF = "测试图片"
@@ -542,8 +672,11 @@ Namespace Global (588 keys)
 	F6F2E0084EA41CF56A6C619156A90663 = "贴图"
 	F8578DA04BB29ACE2806ACAE0CFACC81 = "贴图"
 	F98C893E431CD1C22DB39A85845074B1 = "贴图"
+	4CE0A31B41543A4EFC38F88D48CD7E9B = "Tiling Material from Hand Placed Meshes"
 	TonemapperSF = "色调映射器"
 	TranslucencySF = "半透明度"
+	02E62D034F381DAF61EC7BABB172B784 = "Unwrapped Mesh"
+	F075CAAB48EBDA2E198C72BE90EADC50 = "UserInterface"
 	A824D3BC4E8FDA956A0FB29E0E653805 = "工具"
 	232A9B204596DDDD456B83B012FD6E54 = "工具|数组"
 	3DC2A180498B479DBE72C1B4EFBF52E6 = "工具|数组"
@@ -554,7 +687,11 @@ Namespace Global (588 keys)
 	CE6C59CB4193312E74709F9C5B897D58 = "工具| 流程控制"
 	CF0ABD4848C258F68DCCF38DEF82443E = "工具| 流程控制"
 	F7780217469D94F308E0058B5A03590E = "工具| 流程控制"
+	534C650B479899336E1EDE9021C75164 = "Utility"
+	99143515473931A4B4FF0AA8692D42D0 = "Utility"
+	63C016954B6A6FC11908218B078CC2E6 = "VFX"
 	VectorFieldsSF = "向量场"
+	B8315BDB4196022AC71E0FBE0C61D2BC = "VectorOps"
 	410DCDE94BC8F751A8ACE08C997A850D = "向量"
 	4D840114441168F973C6CA9E88116CD9 = "向量"
 	D06A50BF4E0FE1EE1CF619A1790A80CD = "向量"
@@ -563,9 +700,14 @@ Namespace Global (588 keys)
 	VertexColorsSF = "顶点颜色"
 	VignetteSF = "虚光效果"
 	CollisionVisibility = "可见性"
+	VisualizeHLODColoration = "Visualize HLOD Coloration"
 	VisualizeLODColoration = "可视化LOD着色"
 	VolumeLightingSamplesSF = "体积光照样本"
 	VolumesSF = "体积"
+	VolumetricFogSF = "Volumetric Fog"
+	VisualizeVolumetricLightmapSF = "Volumetric Lightmap"
+	VolumetricLightmapSF = "Volumetric Lightmap"
+	WidgetComponentsSF = "Widget Components"
 	WireframeSF = "线框"
 	07AC5EAB4015087F1F46BA9606EA2F52 = "世界坐标偏移"
 	0D1D4F774D85555220506E97541F2968 = "世界坐标偏移"
@@ -588,8 +730,20 @@ Namespace Global (588 keys)
 	D1E870A44DCA1912A2559EAEF67154FF = "世界位置偏移"
 	F77D86844212DF0D6A511F9719EFC2D6 = "世界位置偏移"
 	D415A0794A18AE466435139C64345DE6 = "世界位置偏移"
+	93064837490AF38E8F5FCEB26EF4D1E3 = "int"
+	D3837D3F402817C60823AFAEC330176D = "int2"
+	6B77B8A64134C68673B200B5CF4D0730 = "int3"
+	C572BED7494005D0651D748E02D6120E = "int4"
 	68A330824E2838BF7438F3889EC96A9B = "贴图"
 	BAFA93D74D7036383372569E020ED5DE = "贴图"
+	5202CC724E5215BDDF29A2A17BBFDCDF = "world position offset"
+	ECCBFADB4259ABF61F787A9A84156304 = "world position offset"
+	2777858542D91D9A1FF368BE63177BC4 = "{FocalLength}mm, {Aperture}, {FocusDistance} "
+	A5C7C0F0487AFB4EFC5A8C919BF7E5B1 = "{MasterName} - {Date} - {EngineVersion}"
+	9C87258A4690124B18D9DFB22090F6C6 = "{ShotFrame}"
+	1315AA8549C176794C0B95BD1A01F91C = "{ShotName}"
+	ED735C1B4684EADC24C5299582BEAAB9 = "{TranslationX} {TranslationY} {TranslationZ}, {RotationX} {RotationY} {RotationZ}"
+	2813A394406CBA7D3A8073B4D784AFF2 = "{hh}:{mm}:{ss}:{ff} ({MasterFrame})"
 
 Namespace Actor (1 keys)
 	InvalidScale = "比例'{0}'无效。"
@@ -598,7 +752,10 @@ Namespace ActorComponent (2 keys)
 	MapCheck_Message_AbstractClass = "{ComponentName}::{OwnerName}已废弃，必须将其删除(该类是抽象类)"
 	MapCheck_Message_DeprecatedClass = "{ComponentName}::{OwnerName}已废弃，必须将其删除(该类被废弃)"
 
-Namespace ActorEditorUtils (0 keys)
+Namespace ActorEditorUtils (3 keys)
+	RenameFailed_ReservedNameNone = ""None" is a reserved term and cannot be used for actor names"
+	RenameFailed_LeftBlank = "Names cannot be left blank"
+	RenameFailed_TooLong = "Names must be less than {CharCount} characters long."
 
 Namespace AIModule (1 keys)
 	AIAssetCategory = "人工智能"
@@ -611,9 +768,18 @@ Namespace Analytics (2 keys)
 	SettingsTooltip = "配置每个版本类型使用哪个分析提供商"
 	SettingsDisplayName = "提供商"
 
-Namespace AndroidLicenseDialog (0 keys)
+Namespace AndroidLicenseDialog (2 keys)
+	AndroidLicenseAgreement_Agree = "Agree"
+	AndroidLicenseAgreement_Cancel = "Cancel"
 
-Namespace AndroidRuntimeSettings (35 keys)
+Namespace AndroidRuntimeSettings (70 keys)
+	RDOCRunText1 = "1. In Tools -> Options -> Android, set the path to your adb executable."
+	RDOCRunText2 = "2. Start the Remote Server using Tools -> Start Android Remote Server."
+	RDOCRunText3 = "3. Check your device screen and 'Allow' RenderDocCmd to access files on your device."
+	RDOCRunText4 = "4. Change your current Replay Context to your device using the bottom left menu, which should now show your device as Online."
+	RDOCRunText5 = "5. In the capture executable tab, there is a button on the right of Executable Path that lets you select an installed Android package for capture."
+	RDOCRunText6 = "6. Select your package and press the Launch button in the bottom right of the tab to start the package on the device."
+	RDOCRunText7 = "7. If everything went well, a new tab will open with a button to Trigger captures."
 	MaliGraphicsDebuggerHelpText = "<RichTextBlock.TextHighlight>Installation</>
 {0}
 {1}
@@ -622,17 +788,43 @@ Namespace AndroidRuntimeSettings (35 keys)
 {2}
 {3}
 {4}"
+	RDOCHelpText = "<RichTextBlock.TextHighlight>Installation</>
+{0}
+{1}
+
+<RichTextBlock.TextHighlight>Run</>
+{2}
+{3}
+{4}
+{5}
+{6}
+{7}
+{8}
+{9}
+
+<RichTextBlock.TextHighlight>Note</>
+{10}"
 	UpgradeInfoMessage = "<RichTextBlock.TextHighlight>Note to users from 4.6 or earlier</>: We now <RichTextBlock.TextHighlight>GENERATE</> an AndroidManifest.xml when building, so if you have customized your .xml file, you will need to put all of your changes into the below settings. Note that we don't touch your AndroidManifest.xml that is in your project directory.
 Additionally, we no longer use SigningConfig.xml, the settings are now set in the Distribution Signing section.
 
 <RichTextBlock.TextHighlight>NOTE</>: You must accept the SDK license agreement (click on button below) to use Gradle if it isn't grayed out."
+	AcceptSDKLicense = "Accept SDK License"
+	AdrenoProfilerInfo = "Adreno Profiler Info"
+	AdrenoProfilerPage = "Adreno Profiler home page"
 	AndroidPlatformName = "Android"
 	GooglePlayDeveloperPage = "Google播放服务的Android开发者页面"
 	AndroidDeveloperIconographyPage = "Iconography上的Android开发者页面"
 	AndroidDeveloperSigningPage = "签名以供发布的Android开发者页面"
+	AndroidLicenseUnrealEditor = "Android SDK License"
+	AndroidSDKLicenses = "Android SDK Licenses"
 	AppIDHyperlink = "应用程序编号超链接"
+	AppTile_Icon = "App Tile Icon"
+	AppTile_Icon_Background = "App Tile Icon Background"
+	AdrenoRunText = "Before profiling, and after rebooting your Android device, you must enable debug mode by setting the following property from the command line:"
 	BuildFolderLabel = "编译文件夹"
+	SettingsIcon_DownloadImageH = "Download Background Horizontal Image"
 	SettingsIcon_DownloadImageV = "下载背景竖向图片"
+	BuildForArm64ToolTip = "Enable Arm64 CPU architecture support? (use at least NDK r11c, requires Lollipop (android-21) minimum)"
 	BuildForArmV7ToolTip = "启用ArmV7 CPU架构支持？（如果未选择任何CPU架构类型则使用该项）"
 	BuildForES2ToolTip = "启用OpenGL ES2渲染支持？（如果未选择渲染类型，则使用该项）"
 	BuildForX86ToolTip = "启用X86 CPU架构支持？"
@@ -642,26 +834,53 @@ Additionally, we no longer use SigningConfig.xml, the settings are now set in th
 	SettingsIcon_HDPI = "HDPI图标"
 	SettingsIcon = "图标"
 	IconsHyperlink = "图标超链接"
+	RDOCNoteText = "If the latest RenderDoc release does not have Android functionality, download the latest nightly build."
 	SettingsIcon_LDPI = "LDPI图标"
 	LaunchImageInfo = "启动图像信息"
 	LaunchImage_Landscape = "启动横向模式"
 	LaunchImage_Portrait = "启动纵向模式"
+	SDKConfigMessage = "Leave these fields blank to use global Android SDK project settings. Changing these settings will only affect this project."
 	SettingsIcon_MDPI = "MDPI图标"
+	MaliGraphicsDebuggerInfo = "Mali Graphics Debugger Info"
+	MaliGraphicsDebuggerPage = "Mali Graphics Debugger home page"
+	MGDIRunText2 = "Next, ensure you are running the daemon. Run the MGD Daemon application and switch it to the "ON" state"
 	OpenBuildFolderButton = "打开编译文件夹"
+	RDOCRunText0 = "Open RenderDoc on the host"
 	AndroidDeveloperIconographyPageTooltip = "打开Android Iconography上的一个页面"
 	GooglePlayDeveloperPageTooltip = "打开一个讨论Google播放服务的页面"
 	AndroidDeveloperSigningPageTooltip = "打开讨论使用关键帧工具来签名的页面"
+	AdrenoProfilerPageTooltip = "Opens the Adreno Profiler home page on the Qualcomm website"
+	MaliGraphicsDebuggerPageTooltip = "Opens the Mali Graphics Debugger home page on ARM's website"
+	RenderDocPageTooltip = "Opens the RenderDoc home page"
 	OpenManifestFolderButton_Tooltip = "打开Explorer或Finder中包含编译文件的文件夹（推荐您将其迁入源文件控制，从而与团队共享）"
 	ProjectProperties = "项目属性"
+	RenderDocInfo = "RenderDoc Info"
+	RenderDocPage = "RenderDoc home page"
+	RDOCInstallText = "Run the following command from a host command line from the android/apk/32 directory located in the installation directory of the RenderDoc tool, to install the RenderDocCmd application on your device."
 	MGDInstallText = "Run the following command from a host command line from the target/unrooted directory located in the installation directory of the MGD tool, to install the MGD Daemon application on your device."
+	MGDIRunText1 = "Run the following command from your host to establish a tunnel between your PC and the MGD Daemon. This needs to be done each time you connect your device by USB."
+	SDKConfigInfo = "SDK Config Info"
 	SigningHyperlink = "超链接签名"
+	LaunchImageInfoMessage = "The <RichTextBlock.TextHighlight>Download Background</> image is used as the background for OBB downloading.  The <RichTextBlock.TextHighlight>Launch Portrait</> image is used as a splash screen for applications with Portrait, Reverse Portrait, Sensor Portrait, Sensor, or Full Sensor orientation.  The <RichTextBlock.TextHighlight>Launch Landscape</> image is used as a splash screen for applications with Landscape, Sensor Landscape, Reverse Landscape, Sensor, or Full Sensor orientation.
+
+The launch images will be scaled to fit the device in the active orientation. Additional optional launch images may be provided as overrides for LDPI, MDPI, HDPI, and XHDPI by placing them in the project's corresponding Build/Android/res/drawable-* directory."
+	InvalidGamesAppID = "The Games App ID you provided is invalid"
 	GitHubSourceRequiredToolTip = "这需要GitHub源码。"
 	UpgradeInfo = "升级信息"
 	Warning = "警告"
 	SettingsIcon_XHDPI = "XHDPI图标"
+	AdrenoHelpText = "{0}
+{1}"
 
 Namespace AnimInstance (1 keys)
 	AnimInstance_SlotNode = "插槽节点：动画实例类 {1} 中已存在“{0}”。从此类的动画图表中删除重复项。"
+
+Namespace AnimNode_SequencePlayer (1 keys)
+	AdditiveMismatchWarning = "Trying to play a non-additive animation '{0}' into a pose that is expected to be additive in anim instance '{1}'"
+
+Namespace AnimNotify (2 keys)
+	ParticleSystem_ShouldNotLoop = "Particle system {0} used in anim notify for asset {1} is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify)."
+	Sound_ShouldNotLoop = "Sound {0} used in anim notify for asset {1} is set to looping, but the slot is a one-shot (it won't be played to avoid leaking an instance per notify)."
 
 Namespace AnimNotifyState_Trail (4 keys)
 	NoneFirstSocket = "{0}: 必须设置首个插槽名称。"
@@ -670,15 +889,19 @@ Namespace AnimNotifyState_Trail (4 keys)
 	InvalidPSTemplateFmt = "{0}: {1} 不包含任何尾迹发射器。"
 
 Namespace AnimSequence (2 keys)
-	EmptyAnimationData2 = " has no animation data. Recommend to remove."
+	EmptyAnimationData2 = "has no animation data. Recommend to remove."
 	EmptyAnimationData1 = "该动画 "
 
-Namespace AnimSequenceBase (1 keys)
-	InvalidAnimNotify2 = " contains invalid notify "
+Namespace AnimSequenceBase (2 keys)
+	InvalidAnimNotify2 = "contains invalid notify "
+	InvalidAnimNotify1 = "The Animation "
 
-Namespace AppleDynamicRHI (0 keys)
+Namespace AppleDynamicRHI (2 keys)
+	OpenGLNotSupportedTitle = "OpenGL Not Supported"
+	OpenGLNotSupported. = "You must have a Metal compatible iOS or tvOS device with iOS 8 or later to launch this app."
 
-Namespace AssetCheck (0 keys)
+Namespace AssetCheck (1 keys)
+	TextureError_NonUniqueLightingGuid = "Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue."
 
 Namespace AssetFixUpRedirectors (8 keys)
 	LoadingReferencingPackages = "正在加载引用的包..."
@@ -690,7 +913,9 @@ Namespace AssetFixUpRedirectors (8 keys)
 	RedirectorFixupFailedMessage = "不能完全修复以下重定向器"
 	RedirectorFixupFailedReason = "{PackageName} - {FailureReason}"
 
-Namespace AssetManager (0 keys)
+Namespace AssetManager (2 keys)
+	BuildingManagementDatabase = "Building Asset Management Database"
+	DuplicateAssetId = "Duplicate Asset ID {0} used by {1} and {2}, you must delete or rename one!"
 
 Namespace AssetRegistry (7 keys)
 	CommandText_FindInvalidUAssets = "寻找在UAsset文件中的所有资源列表，但不分享包的名称"
@@ -701,22 +926,30 @@ Namespace AssetRegistry (7 keys)
 	CommandText_GetDependencies = "查找特定包的依赖项的资源注册表"
 	CommandText_GetReferencers = "查找特定包的引用者的资源注册表"
 
-Namespace AssetRenameManager (8 keys)
+Namespace AssetRenameManager (11 keys)
+	RenameFailedCheckedOutByOther = "Checked out by another user."
 	RenameFailuresCloseButton = "关闭"
 	FailedRenamesDialog = "重命名失败"
 	InvalidAssetText = "无效资源"
+	RenameFailedNotCurrent = "Out of date."
 	AssetRenameSlowTask = "正在重命名资源"
 	RenameCDOReferences = "以下资源由一个或多个类默认对象引用： 
 {0}
 
 继续重命名可能会需要改变代码来修复这些引用。您想要继续吗？"
 	RenameFailureTitle = "以下资源无法被重命名。"
+	SoftReferenceFixedUp = "The following packages were fixed up because they have soft references to a renamed object: 
+{0}
+
+Do you want to save them now?
+If you quit without saving references will be broken!"
 	ReferenceUpdateSlowTask = "正在更新资源引用"
 	AssetRenameFailure = "{AssetName} - {FailureReason}"
 
-Namespace AssetTools (48 keys)
+Namespace AssetTools (52 keys)
 	MigratePackages_AlreadyExists = "一个资源已经存在于位置{0}，您想要覆盖它吗？"
 	AnimationAssetCategory = "动画"
+	AssetToolsLogLabel = "Asset Tools"
 	BlendablesAssetCategory = "可混合物"
 	BlueprintAssetCategory = "蓝图"
 	ChooseDiffTool = "选择比较工具"
@@ -734,11 +967,14 @@ Namespace AssetTools (48 keys)
 	ImportObjectAlreadyExists_DifferentClass = "您想要替换已经存在的资源吗?
 
 资源已存在于导入位置: {0}"
+	DuplicateAssetDialogTitle = "Duplicate Asset As"
 	DuplicateAnObject = "复制对象"
 	NoDesktopPlatform = "错误: 这个平台不支持文件对话框。"
 	Executables = "可执行"
 	CheckOutFileFailed = "迁出包失败"
 	ImportDeleteFailed = "删除 '{0}'失败。该资源由其他内容引用。"
+	ImportFailed_Generic = "Failed to import '{0}'. Failed to create asset '{1}'.
+Please see Output Log for details."
 	ImportFailed_UnknownExtension = "导入'{0}失败。未知扩展名'{1}'。"
 	RevertDeletedFileFailed = "未能恢复被标记为删除的包。"
 	GameplayAssetCategory = "游戏可玩性"
@@ -747,6 +983,7 @@ Namespace AssetTools (48 keys)
 	ImportSlowTask = "正在导入"
 	Import_ImportingFile = "正在导入"{0}"..."
 	MaterialAssetCategory = "材质 & 贴图"
+	MediaAssetCategory = "Media"
 	MiscellaneousAssetCategory = "其他"
 	MigratePackages_NoFilesToMove = "没有找到要移动的文件"
 	PhysicsAssetCategory = "物理"
@@ -768,7 +1005,7 @@ Namespace AssetTools (48 keys)
 	MigratePackages_NonContentFolder = "{0}似乎不是游戏内容文件夹。移植的内容仅当放置到内容文件夹中才能正常应用。您确认要将内容放置到这里吗？"
 	MigratePackages_PackageMissing = "磁盘上不存在{0}"
 
-Namespace AssetTypeActions (202 keys)
+Namespace AssetTypeActions (242 keys)
 	DataTable_MissingRowStructListEntry = "* {0} (行结构: {1})"
 	AssetTypeActions_AimOffset = "动画偏移"
 	AssetTypeActions_AimOffset1D = "动画偏移1D"
@@ -780,6 +1017,7 @@ Namespace AssetTypeActions (202 keys)
 	AssetTypeActions_AnimMontage = "动画蒙太奇"
 	AssetTypeActions_AnimSequence = "动画序列"
 	AssetTypeActions_AnimationAsset = "AnimationAsset"
+	Warning_RemoveVertexColors = "Are you sure you want to remove vertex colors from all selected meshes?  There is no undo available."
 	SkeletalMesh_AssignSkeleton = "指派骨架"
 	SkeletalMesh_AssignSkeletonTooltip = "指派骨架到选中的网格物体。"
 	AssetTypeActions_Texture = "BaseTexture"
@@ -789,6 +1027,7 @@ Namespace AssetTypeActions (202 keys)
 	NamelessBlueprintDiff = "蓝图对比"
 	Blueprint_NewDerivedBlueprintIsDeprecatedTooltip = "蓝图类被废弃，无法衍生子蓝图！"
 	FailedToLoadBlueprint = "蓝图无法被加载，因为它继承了一个无效的类。请检查确认该蓝图的父类没有被移除！"
+	FailedToLoadBlueprintWithContinue = "Blueprint could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed! Do you want to continue (it can crash the editor)?"
 	AssetTypeActions_Class = "C++类"
 	AssetTypeActions_CameraAnim = "相机动画"
 	Class_NewDerivedBlueprintClassTooltip_InvalidNumberOfBases = "仅能在选择单基类时创建蓝图类。"
@@ -796,6 +1035,7 @@ Namespace AssetTypeActions (202 keys)
 	SkeletonMergeCancel = "取消"
 	Class_NewDerivedBlueprintClassTooltip_InvalidClass = "无法创建基于{0}的新蓝图类。"
 	Class_NewDerivedCppClassTooltip_InvalidClass = "无法创建来自{0}的新C++类。"
+	AssetTypeActions_CanvasRenderTarget2D = "Canvas Render Target"
 	RemapSkeletonFailed_CheckOutFailed = "迁出失败"
 	ChooseSkeletonWindowTitle = "选择骨架"
 	AssetTypeActions_CurveLinearColor = "颜色曲线"
@@ -813,13 +1053,20 @@ Namespace AssetTypeActions (202 keys)
 	CreateAnimSubmenu = "创建"
 	CreateSkeletalMeshSubmenu = "创建"
 	CreateSkeletonSubmenu = "创建"
+	PhysAsset_Create = "Create"
 	AnimSequence_NewAnimComposite = "创建动画组合"
 	AnimSequence_NewAnimMontage = "创建动画蒙太奇"
+	Material_NewMBI = "Create Blend Instance"
 	Class_NewDerivedBlueprintClassLabel_CreateFrom = "创建基于{0}的蓝图类"
 	Class_NewDerivedCppClassLabel_CreateFrom = "创建来自于{0}的C++类"
+	AnimMontage_CreateChildMontageTooltip = "Create Child Animation Montage and remap to another animation assets."
 	Blueprint_NewDerivedBlueprint = "创建子蓝图类"
+	AnimMontage_CreateChildMontage = "Create Child Montage"
+	Material_NewMFI = "Create Function Instance"
+	Material_NewMLI = "Create Layer Instance"
 	Texture_CreateMaterial = "创建材质"
 	Material_NewMIC = "创建材质实例"
+	AnimSequence_NewPoseAsset = "Create PoseAsset"
 	Skeleton_CreateRig = "创建绑定"
 	Skeleton_CreateRigTooltip = "从此骨架创建绑定。"
 	SkeletalMesh_NewSkeleton = "创建骨架"
@@ -827,17 +1074,22 @@ Namespace AssetTypeActions (202 keys)
 	TextureRenderTarget_CreateStatic = "创建静态贴图"
 	Class_NewDerivedBlueprintClassTooltip_CreateFrom = "创建基于{0}的新蓝图类。"
 	Class_NewDerivedCppClassTooltip_CreateFrom = "创建来自于{0}的新C++类。"
+	PhysAsset_CreateAssign = "Create and Assign"
 	CreateSkeletonSubmenu_ToolTip = "为此骨架创建资源"
 	CreateAnimSubmenu_ToolTip = "从此动画序列中创建资源"
+	PhysAsset_CreateAssign_ToolTip = "Create new physics assets and assign it to each of the selected meshes"
+	PhysAsset_Create_ToolTip = "Create new physics assets without assigning it to the selected meshes"
 	CreateSkeletalMeshSubmenu_ToolTip = "创建相关资源"
 	Blueprint_NewDerivedBlueprintTooltip = "创建基于当前蓝图的子蓝图类，让您可以更方便地创建变种。"
 	Texture_CreateMaterialTooltip = "创建使用此贴图的新材质。"
 	SkeletalMesh_NewSkeletonTooltip = "对每个选中的网格物体创建新的骨架。"
 	Texture2D_CreateSlateBrushToolTip = "使用此贴图创建新的Slate画刷。"
+	Material_NewMFITooltip = "Creates a parameterized function using this function as a base."
 	Material_NewMICTooltip = "使用此材质作为基础创建参数化的材质。"
 	TextureRenderTarget_CreateStaticTooltip = "从选中的渲染对象中创建静态贴图。"
 	AnimSequence_NewAnimCompositeTooltip = "使用选中的动画序列创建动画组合"
 	AnimSequence_NewAnimMontageTooltip = "使用选中的动画序列创建动画蒙太奇。"
+	AnimSequence_NewPoseAssetTooltip = "Creates an PoseAsset using the selected anim sequence."
 	AssetTypeActions_TextureRenderTargetCube = "立方体渲染目标"
 	AssetTypeActions_Curve = "曲线"
 	AssetTypeActions_CurveTable = "曲线表格"
@@ -882,7 +1134,7 @@ Would you like to regenerate the skeleton from this mesh?
 	Redirector_FindTarget = "查找目标"
 	Redirector_FixUpTooltip = "查找到选中的重定向器的引用者，且如果存在就重新保存他们，然后删除修复了所有引用者的重定向器。"
 	Redirector_FindTargetTooltip = "查找此重定向器在资源树中指向的资源。"
-	MaterialInstanceConstant_FindParentTooltip = "在内容浏览器中查找此实例所基于的材质。"
+	MaterialInstanceConstant_FindParentTooltip = "Finds the function this instance is based on in the content browser."
 	MaterialFunction_FindMaterialsTooltip = "在内容浏览器中查找引用此材质函数的材质。"
 	AnimSequenceBase_FindSkeletonTooltip = "在内容浏览器中查找选中资源的骨架。"
 	AnimBlueprint_FindSkeletonTooltip = "在内容浏览器中查找由选中动画蓝图所使用的骨架。"
@@ -891,8 +1143,11 @@ Would you like to regenerate the skeleton from this mesh?
 	AssetTypeActions_CurveFloat = "浮点曲线"
 	AssetTypeActions_InstancedFoliageSettings = "植被类型"
 	AssetTypeActions_Font = "字体"
+	AssetTypeActions_FontFace = "Font Face"
 	AssetTypeActions_ForceFeedbackEffect = "强制反馈效果"
+	ImportClothing_Entry = "Import Clothing Asset..."
 	SkeletalMesh_LODImport = "导入LOD"
+	ImportClothing_ToolTip = "Import a clothing asset from a supported file on disk into this skeletal mesh."
 	NewImportTip = "导入新LOD"
 	RemapSkeletonFailed_InvalidAssetText = "无效资源"
 	InvalidClassToMakeBlueprintFrom = "创建蓝图的类无效。"
@@ -904,8 +1159,13 @@ Would you like to regenerate the skeleton from this mesh?
 	RemapSkeleton_LoadPackage = "正在加载包"
 	AssetTypeActions_Material = "材质"
 	AssetTypeActions_MaterialFunction = "材质函数"
+	FAssetTypeActions_MaterialFunctionInstance = "Material Function Instance"
 	AssetTypeActions_MaterialInstanceConstant = "材质实例"
 	AssetTypeActions_MaterialInterface = "材质接口"
+	AssetTypeActions_MaterialFunctionMaterialLayer = "Material Layer"
+	AssetTypeActions_MaterialFunctionMaterialLayerBlend = "Material Layer Blend"
+	AssetTypeActions_MaterialFunctionMaterialLayerBlendInstance = "Material Layer Blend Instance"
+	AssetTypeActions_MaterialFunctionMaterialLayerInstance = "Material Layer Instance"
 	AssetTypeActions_MaterialParameterCollection = "材质参数集"
 	AssetTypeActions_InterpData = "Matinee数据"
 	MergeSkeletonDlgTitle = "合并骨骼"
@@ -914,6 +1174,7 @@ Would you like to regenerate the skeleton from this mesh?
 	SkeletonMergeOk = "好"
 	AssetTypeActions_ObjectLibrary = "目标库"
 	Retarget Failed = "原有骨架{OldSkeletonName}和新建骨架{NewSkeletonName}需要设置预览网格物体以转换动画"
+	AnimSequenceBase_OpenInNewWindow = "Open In New Window"
 	CurveTable_OpenSourceData = "打开源数据"
 	DataTable_OpenSourceData = "打开源数据"
 	OpenDefaults_Failed = "打开类默认值失败！"
@@ -921,19 +1182,31 @@ Would you like to regenerate the skeleton from this mesh?
 	DataTable_OpenSourceDataTooltip = "在外部编辑器中打开数据表格的源数据文件。它将使用以下扩展名进行搜索：.xls/.xlsm/.csv/.json"
 	RetargetAnimSubmenu_ToolTip = "打开重定向动画资源菜单"
 	RetargetBlueprintSubmenu_ToolTip = "打开重定向蓝图菜单"
+	SkeletalMesh_NewPhysicsAssetMenu_ToolTip = "Options for creating new physics assets from the selected meshes."
 	AssetTypeActions_ParticleSystem = "粒子系统"
+	StaticMesh_PasteLOD = "Paste LOD"
+	StaticMesh_PasteLODWithName = "Paste LOD from {0}"
 	AssetTypeActions_PhysicalMaterial = "物理材质"
 	AssetTypeActions_PhysicsAsset = "物理资源"
 	CreatePhysicsAssetMenuHeading = "物理资源"
+	SkeletalMesh_NewPhysicsAssetMenu = "Physics Asset"
+	ForceFeedbackEffect_PlayEffect = "Play"
+	Thumbnail_PlayForceFeedbackToolTip = "Play selected force feedback effect"
+	ForceFeedbackEffect_PlayEffectTooltip = "Plays the selected force feedback effect."
+	AssetTypeActions_PoseAsset = "Pose Asset"
 	CamerAnimPreviewCameraName = "预览相机-{0}"
+	AssetTypeActions_PreviewMeshCollection = "Preview Mesh Collection"
 	CamerAnimPreviewPawnName = "预览Pawn - {0}"
 	AssetTypeActions_ProceduralFoliageSpawner = "程序化植被生成器"
 	AssetTypeActions_Redirector = "重定向器"
+	ReimportFontFaceLabel = "Reimport"
 	ReimportFontLabel = "重新导入"
 	ReimportTip = "重新导入并覆盖已存的LOD"
+	ReimportFontFaceTooltip = "Reimport the selected font(s)."
 	ReimportFontTooltip = "重新导入选中的字体"
 	AnimSequence_ReimportWithNewSourceTooltip = "从新的源文件中重新导入选中的序列"
 	AnimSequence_ReimportWithNewSource = "使用新源重新导入"
+	RemovingVertexColors = "Removing Vertex Colors"
 	AssetTypeActions_TextureRenderTarget2D = "渲染目标"
 	RetargetAnimSubmenu = "重定向动画资源"
 	RetargetBlueprintSubmenu = "重定向动画蓝图"
@@ -957,6 +1230,9 @@ Would you like to regenerate the skeleton from this mesh?
 	AssetTypeActions_SlateStyle = "Slate控件样式"
 	AssetTypeActions_StaticMesh = "静态网格物体"
 	AssetTypeActions_VectorFieldStatic = "静态向量场"
+	ForceFeedbackEffect_StopEffect = "Stop"
+	Thumbnail_StopForceFeedbackToolTip = "Stop selected force feedback effect"
+	ForceFeedbackEffect_StopEffectTooltip = "Stops the selected force feedback effect."
 	AssetTypeActions_Struct = "结构体"
 	AssetTypeActions_SubsurfaceProfile = "次表面概述文件"
 	AssetTypeActions_Texture2D = "贴图"
@@ -979,6 +1255,7 @@ Would you like to regenerate the skeleton from this mesh?
 	AssetTypeActions_TouchInterface = "触摸接口设置"
 	AssetTypeActions_CurveVector = "向量曲线"
 	AssetTypeActions_VectorField = "向量域"
+	AnimSequenceBase_OpenInNewWindowTooltip = "Will always open asset in a new window, and not re-use existing window. (Shift+Double-Click)"
 	MergeSkeletonDlgDescription = "您想把以下骨骼添加到骨架上吗？"
 	CloseReferencingEditors = "在此步骤前，您需要关闭角色编辑器Persona或任何引用动画，网格物体或动画蓝图的资源。继续吗？"
 	CreateSkeletonOrAssign = "为在角色编辑器中打开此项，您需要创建骨架或指派骨架。"
@@ -987,13 +1264,19 @@ Would you like to regenerate the skeleton from this mesh?
 	AssetRemapFailure = "{AssetName} - {FailureReason}"
 	LoadBlueprint_FailedLog = "不能加载{ObjectName}，因为它继承了一个无效的类。请检查确认该蓝图的父类没有被移除！"
 
-Namespace AssetTypeActions_StaticMesh (8 keys)
+Namespace AssetTypeActions_StaticMesh (14 keys)
+	StaticMesh_CopyLODTooltip = "Copies the LOD settings from the selected mesh."
+	StaticMesh_CopyLOD = "Copy LOD"
 	StaticMesh_ImportLOD = "导入LOD"
 	NewImportTip = "导入新LOD"
 	StaticMesh_ImportLODtooltip = "导入网格物体到LOD"
+	StaticMesh_LODTooltip = "LOD Options and Tools"
 	LOD (number) = "LOD {0}"
+	StaticMesh_LODMenu = "Level Of Detail"
+	StaticMesh_PasteLODToltip = "Pastes LOD settings to the selected mesh(es)."
 	Reimport LOD (number) = "重新导入LOD {0}"
 	ReimportTip = "重新导入并覆盖已存的LOD"
+	ObjectContext_ClearVertexColors = "Remove Vertex Colors"
 	ObjectContext_SaveGeneratedLODsInPackageTooltip = "运行网格物体降低并将生成的LOD保存为包的一部分。"
 	ObjectContext_SaveGeneratedLODsInPackage = "保存生成的LOD"
 
@@ -1010,7 +1293,10 @@ Namespace AudioSettings (2 keys)
 	DefaultSettingsName = "默认"
 	NewQualityLevelName = "新建关卡{0}"
 
-Namespace Automation (0 keys)
+Namespace Automation (3 keys)
+	CameraRequired = "A camera is required to TakeAutomationScreenshotAtCamera"
+	PlayerRequired = "A player controller is required to TakeAutomationScreenshotAtCamera"
+	StatNotFound = "Could not find stat data for {0}, did you call ToggleStatGroup with enough time to capture data?"
 
 Namespace AutomationExportMenu (14 keys)
 	ExportButtonText = "导出"
@@ -1029,8 +1315,9 @@ Namespace AutomationExportMenu (14 keys)
 	SaveLogDialogExportSuccess = "成功！
 {FileName}被导出到: {FileLocation}"
 
-Namespace AutomationTest (52 keys)
+Namespace AutomationTest (56 keys)
 	RunTestOptions = "高级设置"
+	AutomationRequestedFilterComboLabel = "All Tests"
 	ChangeSessionDialog = "您确定想要变更会话吗？
 所有的自动生成结果数据都将丢失"
 	AutomationTest_GraphicalResults = "自动化测试图形结果："
@@ -1057,10 +1344,13 @@ Namespace AutomationTest (52 keys)
 	AutomationDeviceGroupTip_MachineName = "基于机器名称的组设备"
 	AutomationDeviceGroupTip_Platform = "基于平台的组设备"
 	AutomationSendAnalyticsTip = "如果选中该项，测试则发送分析结果到后端"
+	RunLevelTest_ToolTip = "If the currently loaded editor level is a test map, click this to select the test and run it immediately."
 	AutomationDeviceGroup_InvalidOrMax = "无效或最大"
 	AutomationDeviceGroup_MachineName = "机器名称"
 	AutomationDeviceGroup_Model = "模型"
 	AutomationTest_GraphicalResultsDisplayName = "名称"
+	AutomationPresetComboLabel = "None"
+	AutomationPreset_None = "None"
 	RequiredDeviceCountWarningToolTip = "所需设备数量。"
 	NumTestsToolTip = "运行次数:"
 	AutomationDeviceGroup_OSVersion = "操作系统版本"
@@ -1110,12 +1400,15 @@ Namespace BasicMathExpressionEvaluator (3 keys)
 Namespace Blueprint (1 keys)
 	MigrationWarning = "蓝图{0}已被迁移并需要重新保存以防止导入错误"
 
-Namespace BodyInstance (3 keys)
+Namespace BodyInstance (5 keys)
+	InvalidScaleStart = "Applying invalid scale"
 	SimComplexAsSimple = "正在尝试在 ''{0}''上模拟物理，但是它具有ComplexAsSimple 碰撞。"
 	SimPhysStatic = "因静态而无法在''{0}''上进行物理仿真。"
 	SimPhysNoBody = "因无物理刚体而无法在''{0}''上进行物理仿真。"
+	InvalidScaleMid = "to body"
 
-Namespace BreakMaterialAttributes (0 keys)
+Namespace BreakMaterialAttributes (1 keys)
+	InputName = "Attr"
 
 Namespace CameraComponent (1 keys)
 	MapCheck_Message_CameraAspectRatioIsZero = "相机的AspectRatio为0 - 请将其设置为非0值"
@@ -1124,9 +1417,16 @@ Namespace CheatManager (2 keys)
 	OwnCamera = "从自有相机处查看"
 	ViewPlayer = "从{0}处查看"
 
-Namespace ClothingAsset (0 keys)
+Namespace ClothingAsset (6 keys)
+	Error_NoClothingLod = "Failed to bind clothing asset {0} LOD{1} as LOD{2} does not exist."
+	Error_LodMapped = "Failed to bind clothing asset {0} LOD{1} as LOD{2} is already mapped to mesh LOD{3}."
+	Error_InvalidMeshLOD = "Failed to bind clothing asset {0} as mesh LOD{1} does not exist."
+	Error_NoMesh = "Failed to bind clothing asset {0} as provided skel mesh does not exist."
+	Error_WrongMesh = "Failed to bind clothing asset {0} as the provided mesh is not the owner of this asset."
+	Error_UnbindNoMeshLod = "Failed to remove clothing asset {0} from mesh LOD{1} as that LOD doesn't exist."
 
-Namespace ClothingMeshUtils (0 keys)
+Namespace ClothingMeshUtils (1 keys)
+	DegenerateTriangleError = "Failed to generate skinning data, found conincident vertices in triangle A={0} B={1} C={2}"
 
 Namespace CollectionManager (54 keys)
 	Error_CollectionAlreadyExists = "已经存在具有'{0}'名称的收藏夹。"
@@ -1228,7 +1528,7 @@ Namespace ColorPicker (34 keys)
 	SRGBCheckboxLabel = "sRGB预览"
 
 Namespace ColorThemesViewer (13 keys)
-	CopyThemeNameAppend = " Copy"
+	CopyThemeNameAppend = "Copy"
 	VerifyTextDup = "已存在名称为'{Name}'的主题。"
 	AcceptRenameButton = "接受"
 	CancelDeleteButton = "取消"
@@ -1249,19 +1549,30 @@ Namespace CompressionMemorySummary (2 keys)
 	BeginCompressingTaskMessage = "正在压缩动画"
 	CompressingTaskStatusMessageFormat = "正在压缩{AnimSequenceName} ({ProgressNumerator}/{ProgressDenominator})"
 
-Namespace Console (1 keys)
-	ConsoleLabel = "控制台"
-
-Namespace ConsoleInputBox (1 keys)
-	TypeInConsoleHint = "输入控制台命令"
-
-Namespace ConstraintComponent (3 keys)
+Namespace ConstraintComponent (5 keys)
+	BadBoneNameToConstraint = "Couldn't find bone {0} for ConstraintComponent {1}."
+	BadBoneNameToConstraint2 = "Couldn't find bone {0} for ConstraintComponent {1}."
 	BothComponentsStatic = "{OwnerName} : 两个组件都是静态的。"
 	SingleStaticComponent = "{OwnerName} : 已连接到单一的静态组件。"
 	NoComponentsFound = "{OwnerName} : 没有找到要连接的组件。"
 
-Namespace ConstraintInstance (1 keys)
+Namespace ConstraintInstance (16 keys)
+	InvalidBodyComponent = "'{0}'"
+	InvalidBodyOwner = "'{0}'"
+	JointBetweenScenesOwner = "'{0}'"
+	SameBodyWarningOwner = "'{0}'"
+	TwoStaticBodiesWarningOwner = "'{0}'"
+	JointBetweenScenesArgs = "'{0}' and '{1}'"
 	JointBetweenScenesEnd = ").  No joint created."
+	InvalidBodyStart = "Attempting to create a joint"
+	JointBetweenScenesStart = "Constraint"
+	SameBodyWarningStart = "Constraint in"
+	TwoStaticBodiesWarningStart = "Constraint in"
+	TwoStaticBodiesWarningEnd = "attempting to create a joint between objects that are both static.  No joint created."
+	JointBetweenScenesMid = "attempting to create a joint between two actors in different scenes ("
+	SameBodyWarningMid = "attempting to create a joint to the same body"
+	InvalidBodyMid = "to body"
+	InvalidBodyEnd = "which is not eligible for simulation. Is it marked QueryOnly?"
 
 Namespace Contexts (6 keys)
 	AutomationWindow = "自动化窗口"
@@ -1274,10 +1585,10 @@ Namespace Contexts (6 keys)
 Namespace Controller (1 keys)
 	ControllerPossessAuthorityOnly = "仅具有{0}网络权限的用户才能使用占有功能"
 
-Namespace Core (55 keys)
+Namespace Core (67 keys)
 	OverwriteReadOnly = "'{0}'被标记为只读。您想要强制覆盖它吗？"
+	FirstCmdArgMustBeGameName = "'{0}' must exist and contain a DefaultEngine.ini."
 	BadProperty = "'{Message}': Bad or missing property '{PropertyName}' when trying to call {FunctionName}"
-	ReplaceNotFullyLoaded_f = "正在尝试替换一个尚未被完全加载的对象：{0} (Outer={1}, Flags={2})"
 	SavePackageNoMap = "正在尝试保存不包含地图目标的地图资源'{0}'"
 	LinkedToObjectsInOtherMap_FindCulpritQ = "无法保存{FileName}:图表被连接到外部地图的对象。
 外部对象：
@@ -1302,12 +1613,18 @@ Namespace Core (55 keys)
 	LoadingPackage_Scope = "正在加载包'{0}'"
 	LoadingFileWithFilename = "正在加载文件: {CleanFilename}..."
 	GenericLoading = "正在加载..."
+	NameDefaultErrorCtx = "Name"
 	PackageNameContainsInvalidCharacters = "Name may not contain the following characters: '{IllegalNameCharacters}'"
 	No = "不"
 	LongPackageNames_NoValidRoots = "无有效根存在！"
 	None = "无"
 	SavePackageObjInAnotherMap = "对象'{0}'在另一张地图中"
+	ObjectPathContext = "Object Path"
+	ObjectPath_EndWithPeriod = "Object Path may not end with ."
+	ObjectPath_PathWithTrailingSeperator = "Object Path may not end with : or ."
+	ObjectPath_SlashAfterPeriod = "Object Path may not have / after first ."
 	SavePackageObjectIsMissingExport = "对象缺少导出，无法为资源'{0}'保存依赖项地图。这很可能是由于在和缺失此对象的资源进行统一。查看日志以获得更多信息"
+	Rotator = "P={P} Y={Y} R={R}"
 	LongPackageNames_InvalidRoot = "路径必须以有效的根路径开始。路径必须以: {0}起始"
 	PathContainsRestrictedName = "路径不得包含受限名称：{RestrictedName}"
 	PathContainsInvalidCharacters = "路径不得包含以下字符: {IllegalPathCharacters}"
@@ -1318,12 +1635,15 @@ Namespace Core (55 keys)
 	ProcessingExports = "正在处理导出项..."
 	PureVirtualFunctionCalledWhileRunningApp = "当应用运行(GIsRunning == 1)时会调用纯虚拟函数。"
 	Question = "问题"
+	LinearColor = "R={R} G={G} B={B} A={A}"
 	SavingFile = "正保存文件：{CleanFilename}..."
 	SerializingBulkData = "正在序列化批量数据"
 	SyntaxError = "语法错误"
 	Overwrite = "文件'{0}'需要被更新。您想要覆盖已存版本吗？"
 	MismatchedGameNames = ".uproject文件('{0}')的名称必须符合在命令行('{1}')中传入的项目名称。"
+	Transform = "Translation: {T} Rotation: {R} Scale: {S}"
 	True = "True"
+	SymbolsInTitleMemory2 = "Turn "Profiling Mode" on in Dev Home or Xbox One Manager to fix this."
 	Vector3_CompactZeroVector = "V(0)"
 	Vector3_CompactX = "V(X={X})"
 	Vector3_CompactXY = "V(X={X}, Y={Y})"
@@ -1333,12 +1653,15 @@ Namespace Core (55 keys)
 	Vector3_CompactYZ = "V(Y={Y}, Z={Z})"
 	Vector3_CompactZ = "V(Z={Z})"
 	VerifyPackage_Scope = "正在验证'{0}'"
+	SymbolsInTitleMemory = "WARNING: Symbols for crash callstacks are using up title memory!"
+	Vector2 = "X={X} Y={Y}"
 	Vector3 = "X={X} Y={Y} Z={Z}"
 	Yes = "是"
 	IniFileOutOfDate = "您的ini ({0})文件过旧。您想要保存先前版本并自动更新吗？不这样做的话可能会导致崩溃！"
 	LoadClassMismatch = "{ClassName}不是{BaseClassName}的子类"
+	NameContainsInvalidCharacters = "{ErrorCtx} may not contain the following characters: {IllegalNameCharacters}"
 
-Namespace Core.MessageLog (7 keys)
+Namespace Core.MessageLog (8 keys)
 	CritError = "严重错误"
 	Error = "错误"
 	DefaultHelpURLLabel = "帮助"
@@ -1346,6 +1669,7 @@ Namespace Core.MessageLog (7 keys)
 	PerfWarning = "性能警告"
 	Warning = "警告"
 	AggregateMessageTokenFormatter = "{0} {1}"
+	SeverityMessageTokenFormatter = "{0}:"
 
 Namespace Core.Tests.TextFormatTest (5 keys)
 	RebuildFTextTest1_Ipsum = "Ipsum"
@@ -1354,11 +1678,21 @@ Namespace Core.Tests.TextFormatTest (5 keys)
 	RebuildTextLayer2 = "{NamedLayer1} | {OrderedLayer1} | {FTextNumber} | {Number} | {DateTime} | {Percent} | {Currency}"
 	RebuildNamedText1 = "{String1} "Lorem Ipsum" {String2}"
 
-Namespace CoreUObject (0 keys)
+Namespace CoreUObject (4 keys)
+	FixingUpReferences = "Fixing-Up References"
+	PreparingPackagesForReload = "Preparing Packages for Reload"
+	ReloadingPackages = "Reloading Packages"
+	ReloadingPackagef = "Reloading {0}..."
 
-Namespace CrashReport (0 keys)
+Namespace CrashReport (1 keys)
+	NoDebuggingSymbols = "You do not have any debugging symbols required to display the callstack for this crash."
 
-Namespace CrashReportClient (0 keys)
+Namespace CrashReportClient (5 keys)
+	MinidumpNotFound = "No minidump found for this crash."
+	PingingServer = "Pinging server"
+	UploaderReady = "Ready to send to server"
+	ServerNotAvailable = "Server not available - report will be stored for later upload"
+	NoDebuggingSymbols = "You do not have any debugging symbols required to display the callstack for this crash."
 
 Namespace D3D11RHI (1 keys)
 	OutOfMemory = "尝试分配一个渲染资源时显卡内存不足。请确保您的显卡具有最低的所需内存量，请尝试降低分辨率  和/或 关闭正在运行的其他应用程序。正在退出..."
@@ -1377,7 +1711,8 @@ Namespace DefaultSourceCodeAccessor (2 keys)
 Namespace DefaultSourceControlProvider (1 keys)
 	SourceControlDisabled = "源码控制已禁用"
 
-Namespace DelayAction (0 keys)
+Namespace DelayAction (1 keys)
+	DelayActionTimeFmt = "Delay ({0} seconds left)"
 
 Namespace DerivedDataBackendGraph (2 keys)
 	CommandText_DDCMountPak = "加载只读的pak文件"
@@ -1425,7 +1760,7 @@ Namespace DlgNewGeneric (1 keys)
  此资源由其他内容引用。"
 
 Namespace DockTab (3 keys)
-	CloseButtonInputText = " ({0})"
+	CloseButtonInputText = "({0})"
 	DefaultTabTitle = "未命名"
 	CloseButtonToolTip = "{Label}{InputText}"
 
@@ -1459,7 +1794,8 @@ Namespace ECollectionStorageMode (4 keys)
 	Static = "静态"
 	Static_Description = "静态。该收藏夹存储了一系列包含对象。"
 
-Namespace EdGraph (13 keys)
+Namespace EdGraph (16 keys)
+	DIF_NodePropertyToolTip = "A Property of the node has changed"
 	AddNode = "添加节点"
 	BreakLinkTo = "BreakLinkTo"
 	EditNodeComment = "变更节点注释"
@@ -1470,6 +1806,9 @@ Namespace EdGraph (13 keys)
 	CommentToolTip = "在选中项附近创建可调整大小的注释框。"
 	MakeLinkTo = "MakeLinkTo"
 	NodeCommentMenuHeader = "节点注释"
+	DIF_NodePropertyFmt = "Property Changed: {0} "
+	DisabledNodeComment = "This node is disabled and will not be called.
+Drag off pins to build functionality."
 	OuterMismatch = "有一个不同于引脚的输出"
 	IsLinked = "与引脚相链接"
 	NotLinked = "未与引脚相互链接"
@@ -1495,14 +1834,17 @@ Namespace EndUserSettings (7 keys)
 	FalseStateDescription = "你为用户选择了默认情况下不发送匿名的使用信息给 Epic Games。也可以在你的游戏 UI 中给用户主动选择，如果用户选择发送，并调用 UEndUserSettings::SetSendAnonymousUsageDataToEpic() 函数。我们建议此处默认为发送并给用户提供开关选择，这样能更好的帮助我们改善虚幻引擎。Epic Games 永远不会向第三方机构销售或交换这些用户数据。在被许可的情况下，我们收集游戏的每局游戏时长，以及是如何进行游戏的。这些信息将会被加密，并匿名发送。并且这只会在游戏运行时起效。"
 	TrueStateDescription = "你为用户选择了默认情况下发送匿名的使用信息给 Epic Games。也可以在你的游戏 UI 中给用户主动选择，如果用户选择发送，并调用 UEndUserSettings::SetSendAnonymousUsageDataToEpic() 函数。感谢您帮助改善虚幻引擎。Epic Games 永远不会向第三方机构销售或交换这些用户数据。在被许可的情况下，我们收集游戏的每局游戏时长，以及是如何进行游戏的。这些信息将会被加密，并匿名发送。并且这只会在游戏运行时起效。"
 
-Namespace Engine (30 keys)
+Namespace Engine (32 keys)
 	BuildingCompressedAudioTaskStatus = "正在构建压缩的音频格式{AudioFormat}波形{SoundNodeName}..."
+	UpdateReflectionCaptures = "Building reflection captures for {0}"
 	BuildingStaticMeshStatus = "正在构建静态网格物体{StaticMeshName}..."
 	BuildTextureStatus = "Building textures: {TextureName} ({TextureFormatName}, {TextureResolutionX}X{TextureResolutionY})"
 	ChangingPreviewRenderingLevelMessage = "正在修改预览渲染级别"
 	UsedCheatCommands = "已经使用了控制台命令，这在网络游戏中是不允许的。您必须重启游戏来创建比赛。"
 	UnableToChangeSoundClassChildDueToInfiniteLoopNotification = "无法改变SoundClass子类，因为会造成循环"
+	UnableToChangeSoundSubmixChildDueToInfiniteLoopNotification = "Could not change SoundSubmix child as it would create a loop"
 	EditorNotSupported = "此模式中不支持编辑器。"
+	FailedToLoadDefaultMap = "Error '{0}'. Exiting."
 	NetworkInit = "网络层初始化错误。"
 	ComdLineHasInvalidChar = "错误：命令行包含无效的'-'字符，可能来自于电子邮件的粘贴。
 Cmdline = {0}"
@@ -1540,10 +1882,9 @@ Cmdline = {0}"
 	UnknownScaleCompressionFormat = "未知或不受支持的缩放压缩格式({0})"
 	UnknownRotationCompressionFormat = "未知或不受支持的旋转量的压缩格式({0})"
 	UnknownTranslationCompressionFormat = "未知或不受支持的平移量的压缩格式({0})"
-	BeginReflectionCapturesTask = "正在更新反射截图..."
 	ConnectionFailed = "您与主机的联系已中断。"
 
-Namespace Engine.BufferVisualizationMaterials (19 keys)
+Namespace Engine.BufferVisualizationMaterials (21 keys)
 	BaseAmbientOcclusionMat = "环境遮挡"
 	BaseColorMat = "基础颜色"
 	BaseCustomDepthMat = "自定义深度"
@@ -1553,6 +1894,8 @@ Namespace Engine.BufferVisualizationMaterials (19 keys)
 	BaseMaterialAOMat = "材质环境遮挡"
 	BaseMetallicMat = "金属"
 	BaseOpacityMat = "不透明度"
+	PostTonemapHDRColor = "Post Tonemap HDR Color"
+	PreTonemapHDRColor = "Pre Tonemap HDR Color"
 	BaseRoughnessMat = "粗糙度"
 	BaseSceneColorMat = "场景颜色"
 	BaseSceneDepthMat = "场景深度"
@@ -1570,8 +1913,9 @@ Namespace EngineInit (1 keys)
 Namespace EngineLoop (1 keys)
 	EngineLoop_Initializing = "正在初始化..."
 
-Namespace EnvQueryGenerator (49 keys)
+Namespace EnvQueryGenerator (55 keys)
 	CurrentLocationOn = "{0} 的当前位置"
+	NavigationOverLedges = "Navmesh trace going over navmesh ledges"
 	NoSortMode = "测试分类排序已禁用。"
 	DescribeLineFromAndTo = "[From: {LineFrom} To: {LineTo}]"
 	DescribeRotation = "[{Rotation} rotation]"
@@ -1580,6 +1924,7 @@ Namespace EnvQueryGenerator (49 keys)
 	BoxWithExtents = "盒体 (extent: {ExtentX} {ExtentY} {ExtentZ)"
 	CasuleWithRadiusHalfHeight = "胶囊体(radius: {ExtentX}, half height: {ExtentZ})"
 	ScoreConstant = "常量分数"
+	ConeDescription = "degrees: {0}, angle step: {1}"
 	DiscardUnreachable = "丢弃不可到达项"
 	DontScore = "不计分"
 	Down = "向下键"
@@ -1610,8 +1955,11 @@ Namespace EnvQueryGenerator (49 keys)
 	DescTitleExtention = "{0}
   {1}"
 	PathfindingBatch = "{0} [批]"
+	SimpleGridDescriptionGenerateAroundContext = "{0}: generate around {1}"
+	ConeDescriptionGenerateAroundContext = "{0}: generate in front of {1}"
 	DescriptionGenerateDonutAroundContext = "{DescriptionTitle}:在{DescribeContext}周围生成项目"
 	DescriptionGenerateCircleAroundContext = "{DescriptionTitle}: 在{DescribeContext}周围处的圆生成项目"
+	DescriptionGenerateActors = "{DescriptionTitle}: generate set of actors of {ActorsClass}"
 	DescriptionGenerateActorsAroundContext = "{DescriptionTitle}: 在{DescribeContext}周围处生成一组{ActorsClass}的actor"
 	DescriptionBlueprintImplementedGenerator = "{DescriptionTitle}: {DescribeContext}周围的{DescribeGeneratorAction}"
 	DescriptionWithArc = "{Description}
@@ -1622,11 +1970,12 @@ Namespace EnvQueryGenerator (49 keys)
 	DescWithNonBlocking = "{Description}, 接受非阻挡性碰撞"
 	DescWithComplexCollision = "{Description}, 复杂碰撞"
 	DescriptionWithRadius = "{Description}, 半径 {Radius}"
+	ConeDescriptionWithProjection = "{Description}, {ProjectionDescription}"
 	OnCircle_DescriptionWithProjection = "{Description}, {ProjectionDescription}"
 	SimpleGridDescriptionWithProjection = "{Description}, {ProjectionDescription}"
 	GeometryBriefDescription = "{Channel}上的{ExtentDescription} {ProjectionTraceDesc}"
 
-Namespace ErrorChecking (17 keys)
+Namespace ErrorChecking (18 keys)
 	MapCheck_Message_DuplicateLevelInfo = "复制关卡信息"
 	MapCheck_Message_LightComponentNull = "光源Actor的LightComponent属性为空 - 请删除它！"
 	MapCheck_Message_RebuildLighting = "地图需要重新构建光照"
@@ -1644,6 +1993,7 @@ Namespace ErrorChecking (17 keys)
 	MapCheck_Message_ActorIsObselete_Abstract = "{ActorName} : 已废弃，必须删除！(该类是抽象类)"
 	MapCheck_Message_ActorIsObselete_Deprecated = "{ActorName} :已废弃，必须删除！(该类已废弃)"
 	MapCheck_Message_StaticPhysNone = "{ActorName} : 静态对象的bSimulatePhysics设成了true"
+	IsDataValid_Failed_CheckForErrors = "{ActorName} is not valid. See the MapCheck log messages for details."
 
 Namespace Events (5 keys)
 	AnalogInput = "模拟输入按键({0})"
@@ -1686,8 +2036,9 @@ Namespace ExampleLayoutTest (30 keys)
 	ExampleLayout-TopRightTextLabel = "右上角"
 	ExampleLayout-TextLabel04 = "将基于填充系数来延伸以填满任何可用空间。"
 
-Namespace ExclusiveLoadPackageTimeTracker (1 keys)
+Namespace ExclusiveLoadPackageTimeTracker (2 keys)
 	CommandText_DumpReport = "转存一份关于加载资源所花费时间的报告"
+	CommandText_ResetReport = "Resets accumulated report data"
 
 Namespace ExpressionParser (9 keys)
 	BinaryExecutionError = "二元操作符{0}不能在{1}和{2}上操作"
@@ -1703,12 +2054,13 @@ Namespace ExpressionParser (9 keys)
 Namespace ExpressionParserExamples (1 keys)
 	UnrecognizedResult = "不可识别的表达式返回结果"
 
-Namespace ExternalImagePicker (9 keys)
+Namespace ExternalImagePicker (10 keys)
 	FileButtonToolTipText = "从此电脑选择文件"
 	ImagePickerDialogTitle = "选择{0}文件"
 	ImageTooltip_Default = "默认图像
 ({0})
 尺寸: {1} x {2}"
+	Image = "Image"
 	BadSizeHint = "不正确的尺寸({0}x{1}，但应该为{2}x{3})"
 	NoImageErrorHint = "在'{0}'处无图像"
 	BadSizeNoImageHint = "在'{0}'处无图像({1}x{2})"
@@ -1735,6 +2087,10 @@ Namespace FAndroid_DXTTargetPlatformModule (2 keys)
 	Android_DXT = "Android (DXT)"
 	Android_DXT_ShortName = "DXT"
 
+Namespace FAndroid_ETC1aTargetPlatformModule (2 keys)
+	Android_ETC1a = "Android (ETC1a)"
+	Android_ETC1a_ShortName = "ETC1a"
+
 Namespace FAndroid_ETC1TargetPlatformModule (2 keys)
 	Android_ETC1 = "Android (ETC1)"
 	Android_ETC1_ShortName = "ETC1"
@@ -1751,14 +2107,20 @@ Namespace FAndroid_PVRTCTargetPlatformModule (2 keys)
 	Android_PVRTC = "Android (PVRTC)"
 	Android_PVRTC_ShortName = "PVRTC"
 
-Namespace FAndroidPlatformEditorModule (5 keys)
+Namespace FAndroidPlatformEditorModule (10 keys)
 	RuntimeSettingsName = "Android"
+	AndroidES2QualitySettingsName = "Android Material Quality - ES2"
+	AndroidES31QualitySettingsName = "Android Material Quality - ES31"
+	AndroidVulkanQualitySettingsName = "Android Material Quality - Vulkan"
 	SDKSettingsName = "Android 软件开发工具包"
 	RuntimeSettingsDescription = "Android应用程序的项目设置"
 	AndroidES2QualitySettingsDescription = "Android ES2材质质量的设置"
+	AndroidES31QualitySettingsDescription = "Settings for Android ES3.1 material quality"
 	SDKSettingsDescription = "Android SDK设置（所有项目）"
+	AndroidVulkanQualitySettingsDescription = "Settings for Android Vulkan material quality"
 
-Namespace FAndroidTargetPlatform (1 keys)
+Namespace FAndroidTargetPlatform (2 keys)
+	AndroidLicenseNotAcceptedMessageDetail = "SDK License must be accepted in the Android project settings to deploy your app to the device."
 	AndroidVariantTitle = "贴图格式"
 
 Namespace FastXml (15 keys)
@@ -1777,9 +2139,6 @@ Namespace FastXml (15 keys)
 	UserAbortedOnComment = "用户中止了解析过程"
 	UserAbortedOnElement = "用户中止了解析过程"
 	UserAbortedOnFile = "用户取消了该文件的处理"
-
-Namespace FCurveHandle (1 keys)
-	CurveFunction_Error = "FCurveHandle的未识别的曲线缓和函数类型[%i]"
 
 Namespace FDeviceManagerModule (2 keys)
 	DeviceManagerTabTitle = "设备管理器"
@@ -1803,7 +2162,8 @@ Namespace FHTML5PlatformEditorModule (2 keys)
 	TargetSettingsName = "HTML5"
 	TargetSettingsDescription = "HTML5设置"
 
-Namespace FileHelper (0 keys)
+Namespace FileHelper (1 keys)
+	Error_FilenameIsTooShort = "Please provide a filename for the asset."
 
 Namespace FInputChord (6 keys)
 	ModAppender = "+"
@@ -1813,7 +2173,8 @@ Namespace FInputChord (6 keys)
 	KeyName_Shift = "Shift"
 	FourModifiers = "{Mod1}{Appender1}{Mod2}{Appender2}{Mod3}{Appender3}{Mod4}{Appender4}{Key}"
 
-Namespace FInterpolateComponentToAction (0 keys)
+Namespace FInterpolateComponentToAction (1 keys)
+	ActionTimeFmt = "Move ({0} seconds left)"
 
 Namespace FIOSPlatformEditorModule (4 keys)
 	RuntimeSettingsDescription = "iOS平台的设置及资源"
@@ -1833,7 +2194,8 @@ Namespace FLogVisualizerModule (2 keys)
 	AIToolsSettingsDescription = "UE4 AI工具的通用设置。"
 	AIToolsSettingsName = "可视化记录器"
 
-Namespace FMacTargetPlatformModule (1 keys)
+Namespace FMacTargetPlatformModule (2 keys)
+	TargetSettingsName = "Mac"
 	TargetSettingsDescription = "Mac平台的设置和资源"
 
 Namespace FManifestUpdateHelper (3 keys)
@@ -1845,7 +2207,8 @@ Namespace FModuleManager (2 keys)
 	CompileStatusMessage = "正在编译模块..."
 	CompileSpecificModuleStatusMessage = "{CodeModuleName}:正在编译模块..."
 
-Namespace FProfilerCommands (4 keys)
+Namespace FProfilerCommands (5 keys)
+	ProfilerManager_Load_Desc = "Open capture folder..."
 	ProfilerManager_LoadFile_Desc = "打开分析器的捕获文件..."
 	Question = "问题"
 	ProfilerManager_Load_FileFilter = "状态文件 (*.ue4stats)|*.ue4stats|原始状态文件 (*.ue4statsraw)|*.ue4statsraw"
@@ -1863,7 +2226,9 @@ Namespace FSessionFrontendModule (2 keys)
 	FrontendTooltipText = "打开会话前端选项卡栏。"
 	FrontendTabTitle = "会话前端"
 
-Namespace FSettingsModule (24 keys)
+Namespace FSettingsModule (26 keys)
+	EditorAdvancedCategoryName = "Advanced"
+	EditorAdvancedCategoryDescription = "Advanced editor settings"
 	ProjectSettingsSubMenuToolTip = "变更当前加载项目的设置"
 	EditorPreferencesSubMenuToolTip = "配置此编辑器的行为和功能"
 	EditorContentEditorsCategoryName = "内容编辑器"
@@ -1899,18 +2264,33 @@ Namespace FSlateReflectorModule (8 keys)
 	NoTextureAtlasProvider = "当前渲染器无可用的贴图图集提供者。"
 	WidgetReflectorTitle = "控件反射器"
 
-Namespace FSwitchPlatformEditorModule (0 keys)
+Namespace FSwitchPlatformEditorModule (4 keys)
+	ControllerSettingsDescription = "Button bindings for all JOY CON modes"
+	RuntimeSettingsDescription = "Settings and resources for the Switch platform"
+	RuntimeSettingsName = "Switch"
+	ControllerSettingsName = "Switch JOY CON Bindings"
 
 Namespace FunctionalTest (1 keys)
 	DefaultTimesUpMessage = "时间到了！"
 
-Namespace FXboxOnePlatformEditorModule (0 keys)
+Namespace FXboxOnePlatformEditorModule (2 keys)
+	TargetSettingsName = "Xbox One"
+	TargetSettingsDescription = "Xbox One project settings"
 
-Namespace GameplayDebuggerConfig (0 keys)
+Namespace GameplayDebuggerConfig (5 keys)
+	EdToolDisableHint = "Clear DebugAI show flag to disable tool."
+	EdToolDisableButton = "Disable tool"
+	EdToolTitle = "Gameplay Debugger"
+	EdToolStatus = "Gameplay debugger is active."
+	EdToolMessageWarning = "Warning! On screen messages are suppressed!
+Use EnableAllScreenMessages to restore them."
 
-Namespace GameplayDebuggerModule (0 keys)
+Namespace GameplayDebuggerModule (2 keys)
+	SettingsName = "Gameplay Debugger"
+	SettingsDescription = "Settings for the gameplay debugger tool."
 
-Namespace GameplayStatics (0 keys)
+Namespace GameplayStatics (1 keys)
+	CollisionUVNoSupport = "Calling FindCollisionUV but 'Support UV From Hit Results' is not enabled in project settings. This is required for finding UV for collision results."
 
 Namespace GameplayTasksComponent (2 keys)
 	RunNullGameplayTask = "尝试为{0}运行了一个空的任务。"
@@ -1935,31 +2315,72 @@ Namespace GenericPlatform (1 keys)
 Namespace GeometryCacheComponent (1 keys)
 	SetGeometryCache = "正在'{0}'上调用SetGeometryCache，但移动性为“静态”。"
 
-Namespace GetDataTableRow (0 keys)
+Namespace GetDataTableRow (3 keys)
+	MissingOutputProperty = "Failed to resolve the output parameter for GetDataTableRow."
+	MissingTableInput = "Failed to resolve the table input. Be sure the DataTable is valid."
+	IncompatibleProperty = "Incompatible output parameter; the data table's type is not the same as the return type."
 
 Namespace GraphEditor (2 keys)
 	ObjectGraphPin_Browse = "在内容浏览器中显示选中的资源。"
 	ObjectGraphPin_Use = "使用内容浏览器中选中项。"
 
-Namespace HeadMountedDisplay (0 keys)
+Namespace HeadMountedDisplay (12 keys)
+	CVarText_MixLayerPriorities = "By default, Face-Locked Stereo Layers are always rendered on top of any other layer position types.
+Set this to a non-zero value to disable this behavior (not supported on all platforms.)"
+	CVarText_HiddenAreaMask = "Enable or disable hidden area mask
+0: disabled
+1: enabled"
+	CVarText_EnableDevOverrides = "Enables or disables console commands that modify various developer-only settings."
+	CCommandText_EnableHMD = "Enables or disables the HMD device. Use 1, True, or Yes to enable, 0, False or No to disable."
+	CCommandText_EnableStereo = "Enables or disables the stereo rendering. Use 1, True, or Yes to enable, 0, False or No to disable."
+	CCommandText_TrackingOrigin = "Floor or 0 - tracking origin is at the floor, Eye or 1 - tracking origin is at the eye level."
+	CCommandText_HMDVersion = "Prints version information for the current HMD device."
+	CVarText_HMDStatus = "Reports the current status of the head tracking."
+	CVarText_HMDResetPosition = "Reset the position of the head mounted display."
+	CVarText_HMDReset = "Reset the rotation and position of the head mounted display.
+Pass in an optional yaw for the new rotation in degrees."
+	CVarText_HMDResetOrientation = "Reset the rotation of the head mounted display.
+Pass in an optional yaw for the new rotation in degrees ."
+	CVarText_ShowTrackingSensors = "Show or hide the location and coverage area of the tracking sensors
+Use 1, True, or Yes to enable, 0, False or No to disable."
 
-Namespace HierarchicalLODUtils (0 keys)
+Namespace HierarchicalLODUtils (9 keys)
+	HLODError_MeshNotBuildTwo = "Mesh has more that 65535 vertices, incompatible with mobile; forcing 16-bit (will probably cause rendering issues)."
+	UndoAction_AddActorToCluster = "Add Actor To Cluster"
+	UndoAction_BuildProxyMesh = "Building Proxy Mesh for Cluster"
+	UndoAction_CreateNewCluster = "Create new Cluster"
+	UndoAction_DeleteLODActor = "Delete LOD Actor"
+	UndoAction_DeleteCluster = "Deleting a (invalid) Cluster"
+	UndoAction_ExcludeActorFromClusterGeneration = "Exclude Actor From Cluster Generation"
+	UndoAction_MergeClusters = "Merge Clusters"
+	UndoAction_RemoveActorFromCluster = "Remove Actor From Cluster"
 
 Namespace HotReload (1 keys)
 	CompilingGameCode = "正在编译游戏代码"
 
-Namespace HTML5TargetSettings (0 keys)
+Namespace HTML5TargetSettings (1 keys)
+	GitHubSourceRequiredToolTip = "This requires GitHub source."
 
 Namespace HUD (1 keys)
 	PIE_Warning_Message_CanvasCallOutsideOfDrawCanvas = "Canvas描画函数仅能在处理DrawHUD事件时被调用"
 
-Namespace ImageComparer (0 keys)
+Namespace ImageComparer (6 keys)
+	DifferentImageSizes = "Image comparison failed as sizes do not match, {WidthA}x{HeightA} vs {WidthB}x{HeightB}"
+	ErrorReadingRawDataA = "Unable decompress ImageA"
+	PNGWrapperMissing = "Unable locate the PNG Image Processor"
+	ErrorParsingImageA = "Unable to parse image"
+	ErrorOpeningImageA = "Unable to read image"
+	DifferentSizesUnsupported = "We can not compare images of different sizes at this time."
 
-Namespace ImageUtils (0 keys)
+Namespace ImageUtils (3 keys)
+	ExportHDRFailedToReadMipData = "Failed to read Mip Data in: '{0}'"
+	ExportHDRUnsupportedSourceTextureFormat = "Unsupported source texture format provided."
+	ExportHDRUnsupportedTextureFormat = "Unsupported texture format provided."
 
-Namespace IMovieSceneObjectSpawner (0 keys)
+Namespace IMovieSceneObjectSpawner (1 keys)
+	NotSupported = "Not supported"
 
-Namespace InputKeys (199 keys)
+Namespace InputKeys (205 keys)
 	Acceleration = "加速"
 	AndroidSubCateogry = "Android"
 	Android_Back = "Android返回"
@@ -1968,6 +2389,7 @@ Namespace InputKeys (199 keys)
 	Android_Volume_Up = "Android音量升高"
 	AnyKey = "任何键"
 	Apostrophe = "撇号"
+	Asterix = "Asterisk"
 	BackSpace = "回格键"
 	CapsLock = "大小写键"
 	Colon = "冒号"
@@ -2129,6 +2551,8 @@ Namespace InputKeys (199 keys)
 	NumPadNine = "Num 9"
 	NumLock = "Num Lock"
 	PS4SubCategory = "PS4"
+	PS4_Gamepad_Special_Left_X = "PS4 Touchpad Button X Axis"
+	PS4_Gamepad_Special_Left_Y = "PS4 Touchpad Button Y Axis"
 	PS4_Special = "PS4_Special"
 	PageDown = "下页键"
 	PageUp = "上页键"
@@ -2141,6 +2565,7 @@ Namespace InputKeys (199 keys)
 	RightControl = "右Ctrl"
 	RightMouseButton = "鼠标右键"
 	RightShift = "右Shift"
+	Gesture_Rotate = "Rotate"
 	RotationRate = "旋转速率"
 	ScrollLock = "滚动锁定键"
 	Semicolon = "分号"
@@ -2156,18 +2581,25 @@ Namespace InputKeys (199 keys)
 	ThumbMouseButton = "鼠标自定义按键"
 	ThumbMouseButton2 = "鼠标自定义按键2"
 	Tilt = "倾斜"
+	TouchSubCateogry = "Touch"
+	TouchFormat = "Touch {0}"
 	Underscore = "下划线"
 	Up = "向上"
 	XBoxOneSubCateogry = "XBox One"
 
-Namespace InputKeySelector (0 keys)
+Namespace InputKeySelector (2 keys)
+	DefaultKeySelectionText = "..."
+	DefaultEmptyText = "Empty"
 
-Namespace InstalledPlatformInfo (0 keys)
+Namespace InstalledPlatformInfo (1 keys)
+	NotInstalled_SelectedPlatform = "The Binaries for this Target Platform are not currently installed, would you like to use the Launcher to download them?"
 
-Namespace InstancedFoliage (3 keys)
+Namespace InstancedFoliage (5 keys)
+	MapCheck_FixDuplicateInstancedFoliageActor_Desc = "Click to consolidate foliage into the main foliage actor."
 	MapCheck_FixDuplicateInstancedFoliageActor = "修复"
 	MapCheck_Message_FoliageMissingComponent = "该地图中的植被在静态网格物体{MeshName}上丢失一个组件。这已经修复。"
 	MapCheck_Message_FoliageMissingStaticMesh = "缺失的静态网格物体的植被实例已被移除。"
+	MapCheck_DuplicateInstancedFoliageActor = "Level {Level} has an unexpected duplicate Instanced Foliage Actor."
 
 Namespace InstancedStaticMesh (4 keys)
 	UniqueStaticLightingForLODWarning = "Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs."
@@ -2179,8 +2611,10 @@ Namespace Internationalization (2 keys)
 	InvariantCultureDisplayName = "固定语言（固定国家）"
 	ComputerMemoryFormatting = "{Number} {Unit}"
 
-Namespace IOSTargetSettings (66 keys)
+Namespace IOSTargetSettings (90 keys)
 	IOSUpgradeInfoMessage = "<RichTextBlock.TextHighlight>使用4.6或更早版本的用户请注意</>: 我们现在在构建时会<RichTextBlock.TextHighlight>生成</>Info.plist文件，所以如果您曾经对.plist文件进行过自定义操作，您需要把所有进行的变更写入以下的设置中。请注意我们不会变更您项目目录下的.plist文件，这样您可以将其作为参照。"
+	CertificateMessage = "<RichTextBlock.TextHighlight>Note</>: If no certificate is selected then the one in green will be used to sign the IPA."
+	ProvisionMessage = "<RichTextBlock.TextHighlight>Note</>: If no provision is selected the one in green will be used to provision the IPA."
 	AllCertificatesHyperLinkLabel = "所有"
 	AllProvisionsHyperLinkLabel = "所有"
 	BundleIdentifierLabel = "包标识符"
@@ -2190,9 +2624,15 @@ Namespace IOSTargetSettings (66 keys)
 	ProvisionListDistributionColumnHeader = "发布"
 	iOSMetalShaderVersion1_1 = "Enabling Metal Shader Standard v1.1 increases the minimum operating system requirement for Metal from iOS 8.0 or later to iOS 9.0 or later. This does not affect tvOS."
 	iOSMetalShaderVersion1_2 = "Enabling Metal Shader Standard v1.2 increases the minimum operating system requirement for Metal from iOS 8.0/tvOS 9.0 or later to iOS/tvOS 10.0 or later."
+	MetalMRTStandardv1.2 = "Enabling the Desktop Forward Renderer Metal requires Shader Standard v1.2 which increases the minimum operating system requirement for Metal from iOS 8.0 or later to iOS 10.0 or later."
+	GlobalClipPlaneiOS10 = "Enabling the Global Clip Plane increases the minimum operating system requirement for Metal from iOS 8.0 or later to iOS 10.0 or later."
 	CertificateListExpiresColumnHeader = "过期"
 	ProvisionListFileColumnHeader = "文件"
+	GLES2Deprecation = "GLES2 will no longer be supported in 4.17."
 	GenerateSSHKey = "生成SSH键"
+	IOSTeamIDLabel = "IOS Team ID"
+	IOSTeamID = "IOSTeamID"
+	NameContainsInvalidCharacters = "Identifier may only contain the characters 0-9, A-Z, a-z, period, hyphen, or [PROJECT_NAME]"
 	ImportCertificate = "导入证书"
 	ImportCertificateDialogTitle = "导入证书"
 	ImportProvision = "导入服务条款"
@@ -2200,6 +2640,10 @@ Namespace IOSTargetSettings (66 keys)
 	CertificateViewerImportingCertificate = "正在导入凭证。  请稍候..."
 	ProvisionViewerImportingProvisions = "正在导入服务条款。  请稍候..."
 	InfoPlist = "Info.plist"
+	LaunchImage_iPadProRetina_Landscape = "Launch iPad Pro Retina in Landscape"
+	LaunchImage_iPadProRetina_Portrait = "Launch iPad Pro Retina in Portrait"
+	LaunchImage_iPadPro_Landscape = "Launch iPad Pro in Landscape"
+	LaunchImage_iPadPro_Portrait = "Launch iPad Pro in Portrait"
 	LaunchImage_iPadRetina_Landscape = "在地貌模式中启动iPad Retina"
 	LaunchImage_iPadRetina_Portrait = "在描画模式中启动iPad Retina"
 	LaunchImage_iPad_Landscape = "在地貌模式中启动iPad"
@@ -2209,6 +2653,11 @@ Namespace IOSTargetSettings (66 keys)
 	LaunchImage_iPhone5 = "启动iPhone 5/5S Retina"
 	LaunchImage_iPhone6Plus_Landscape = "在景色模式中启动iPhone 6 Plus"
 	LaunchImage_iPhone6Plus_Portrait = "在肖像模式中启动iPhone 6 Plus"
+	LaunchImage_iPhone6_Landscape = "Launch iPhone 6 in Landscape"
+	LaunchImage_iPhone6 = "Launch iPhone 6 in Portrait"
+	LaunchImage_iPhoneX_Landscape = "Launch iPhone X in Landscape"
+	LaunchImage_iPhoneX_Portrait = "Launch iPhone X in Portrait"
+	AppIcon_Marketing = "Marketing Icon"
 	CertificateViewerNoValidProvisions = "未找到凭证。 请导入凭证。"
 	ProvisionViewerNoValidProvisions = "未找到服务条款。 请导入服务条款。"
 	SSHPrivateKeyOverridePathToolTip = "使用指定位置的一个SSH私有密钥覆盖现有密钥。"
@@ -2219,6 +2668,7 @@ Namespace IOSTargetSettings (66 keys)
 	RSyncUserNameLabel = "重新同步用户名"
 	RemoteBuildingGroupName = "远程编译选项"
 	RemoteServerNameLabel = "远程服务器名称"
+	SpotlightIcon_Retina_HD_iOS7 = "Retina HD iOS7 Spotlight Icon"
 	SpotlightIcon_Retina_iOS7 = "Retina iOS7聚光灯图标"
 	CertificateListStatusColumnHeader = "状态"
 	ProvisionListStatusColumnHeader = "状态"
@@ -2235,12 +2685,18 @@ Namespace IOSTargetSettings (66 keys)
 	AllProvisionsButtonTooltip = "查看所有服务条款。"
 	ViewLabel = "查看:"
 	SpotlightIcon_iOS7 = "iOS7聚光灯图标"
+	AppIcon_iPadProRetina_iOS9 = "iPad Pro Retina iOS9 App Icon"
 	AppIcon_iPadRetina_iOS6 = "iPad Retina iOS6 App图标"
 	SpotlightIcon_iPadRetina_iOS6 = "iPad Retina iOS6聚光灯图标"
 	AppIcon_iPadRetina_iOS7 = "iPad Retina iOS7 App图标"
 	AppIcon_iPad_iOS6 = "iPad iOS6 App图标"
 	SpotlightIcon_iPad_iOS6 = "iPad iOS6聚光灯图标"
 	AppIcon_iPad_iOS7 = "iPad iOS7 App图标"
+	NotificationIcon_iPhone = "iPhone Notification Icon"
+	AppIcon_iPhoneRetina_iOS8 = "iPhone Plus Retina iOS8 App Icon"
+	NotificationIcon_iPhoneRetina_HD = "iPhone Retina HD Notification Icon"
+	SettingsIcon_iPhoneRetina_HD = "iPhone Retina HD Settings Icon"
+	NotificationIcon_iPhoneRetina = "iPhone Retina Notification Icon"
 	SettingsIcon_iPhoneRetina = "iPhone Retina设置图标"
 	AppIcon_iPhoneRetina_iOS6 = "iPhone Retina iOS6 App图标"
 	AppIcon_iPhoneRetina_iOS7 = "iPhone Retina iOS7 App图标"
@@ -2263,16 +2719,41 @@ Namespace KismetMaterialLibrary (5 keys)
 	SetVectorParamOn = "调用SetVectorParameterValue"
 	WithInvalidParam = "参数名称'{ParamName}'有效。这可能是由于蓝图错误造成的。"
 
-Namespace KismetRenderingLibrary (2 keys)
+Namespace KismetRenderingLibrary (26 keys)
+	BeginDrawCanvasToRenderTarget_InvalidTextureRenderTarget = "BeginDrawCanvasToRenderTarget: TextureRenderTarget must be non-null."
+	BeginDrawCanvasToRenderTarget_InvalidWorldContextObject = "BeginDrawCanvasToRenderTarget: WorldContextObject is not valid."
+	BeginDrawCanvasToRenderTarget_ReleasedTextureRenderTarget = "BeginDrawCanvasToRenderTarget: render target has been released."
+	Convert to render target can't be used at run time. = "ConvertRenderTarget: Can't convert render target to texture2d at run time. "
 	ConvertRenderTargetToTexture2D_InvalidRenderTarget = "ConvertRenderTargetToTexture2DEditorOnly: RenderTarget must be non-null."
 	ConvertRenderTargetToTexture2D_InvalidTexture = "ConvertRenderTargetToTexture2DEditorOnly: Texture must be non-null."
+	ConvertRenderTargetToTexture2D_ReleasedTextureRenderTarget = "ConvertRenderTargetToTexture2DEditorOnly: render target has been released."
+	DrawMaterialToRenderTarget_InvalidMaterial = "DrawMaterialToRenderTarget: Material must be non-null."
+	DrawMaterialToRenderTarget_InvalidTextureRenderTarget = "DrawMaterialToRenderTarget: TextureRenderTarget must be non-null."
+	DrawMaterialToRenderTarget_InvalidWorldContextObject = "DrawMaterialToRenderTarget: WorldContextObject is not valid."
+	DrawMaterialToRenderTarget_ReleasedTextureRenderTarget = "DrawMaterialToRenderTarget: render target has been released."
+	EndDrawCanvasToRenderTarget_InvalidContext = "EndDrawCanvasToRenderTarget: Context must be valid."
+	EndDrawCanvasToRenderTarget_InvalidWorldContextObject = "EndDrawCanvasToRenderTarget: WorldContextObject is not valid."
+	ExportRenderTarget_InvalidFileName = "ExportRenderTarget: FileName must be non-empty."
+	ExportRenderTarget_FileWriterFailedToCreate = "ExportRenderTarget: FileWrite failed to create."
+	ExportRenderTarget_InvalidFilePath = "ExportRenderTarget: Invalid file path provided: '{0}'"
+	ExportRenderTarget_InvalidTextureRenderTarget = "ExportRenderTarget: TextureRenderTarget must be non-null."
+	ExportRenderTarget_ReleasedTextureRenderTarget = "ExportRenderTarget: render target has been released."
+	ExportTexture2D_InvalidFileName = "ExportTexture2D: FileName must be non-empty."
+	ExportTexture2D_FileWriterFailedToCreate = "ExportTexture2D: FileWrite failed to create."
+	ExportTexture2D_InvalidFilePath = "ExportTexture2D: Invalid file path provided: '{0}'"
+	ExportTexture2D_InvalidTextureRenderTarget = "ExportTexture2D: TextureRenderTarget must be non-null."
+	Texture2D's cannot be created at runtime. = "RenderTargetCreateStaticTexture2DEditorOnly: Can't create Texture2D at run time. "
+	RenderTargetCreateStaticTexture2D_FailedToCreateTexture = "RenderTargetCreateStaticTexture2DEditorOnly: Failed to create a new texture."
+	RenderTargetCreateStaticTexture2D_ReleasedRenderTarget = "RenderTargetCreateStaticTexture2DEditorOnly: RenderTarget has been released."
+	RenderTargetCreateStaticTexture2D_InvalidRenderTarget = "RenderTargetCreateStaticTexture2DEditorOnly: RenderTarget must be non-null."
 
 Namespace KismetSchema (1 keys)
 	Default = "默认"
 
-Namespace KismetSystemLibrary (0 keys)
+Namespace KismetSystemLibrary (1 keys)
+	PathStringInvalid = "Object path {PathString} not valid for MakeSoftObjectPath."
 
-Namespace Landscape (17 keys)
+Namespace Landscape (18 keys)
 	LandscapeSpline_ApplySplines = "应用样条曲线到地貌"
 	MapCheck_RemoveDuplicateLandscapeComponent = "删除重复信息"
 	MapCheck_RemoveDuplicateLandscapeComponentDesc = "删除重复的地貌组件。"
@@ -2286,6 +2767,7 @@ Namespace Landscape (17 keys)
 	BeingImportingLandscapeTask = "正在导入地貌"
 	Landscape = "地貌"
 	MapCheck_Message_LandscapeComponentPostLoad_Warning = "{LevelName1}的地貌{ProxyName1}和{LevelName2}的{ProxyName2}在位置({XLocation}, {YLocation})有重叠的渲染组件。"
+	LoadError_DuplicateLandscapeGuid = "Landscape {ProxyName1} of {LevelName1} has the same guid as {ProxyName2} of {LevelName2}. {LevelName2}.{ProxyName2} has had its guid automatically changed, please save {LevelName2}!"
 	BeginReplacingLayerTask = "正在替换层"
 	AssignLandscapeMaterial = "为了查看使用可视化工具创建的洞，您必须分配一个常规的、非引擎材质给您的地貌。"
 	MapCheck_Message_FixedUpDeletedLayerWeightmap = "{LandscapeName} :修复删除的层权重图"
@@ -2297,8 +2779,9 @@ Namespace Landscape.Splines (4 keys)
 	MapCheck_ActionName_MeshesOutDated = "重新构建地貌样条曲线"
 	MapCheck_Message_OrphanedMeshes = "{MeshMap}由于和{SplineMap}中的地貌样条曲线不匹配，从而存在孤儿网格物体"
 
-Namespace LatentActionManager (1 keys)
+Namespace LatentActionManager (2 keys)
 	NoPendingActions = "无等待完成的操作"
+	NumPendingActionsFwd = "{0} Pending Actions: {1}"
 
 Namespace Launch (1 keys)
 	Error_ResolutionTooLow = "运行此游戏的当前分辨率过低。"
@@ -2308,15 +2791,19 @@ Namespace LaunchEngineLoop (1 keys)
  您必须使用完整名称。
  您指定的是'{0}',使用'{0}Game'。"
 
-Namespace LauncherWorker (6 keys)
+Namespace LauncherWorker (8 keys)
+	LauncherArchiveDesc = "Archiving content for {0}"
 	LauncherBuildDesc = "针对{0}编译游戏"
 	LauncherCookDesc = "针对{0}烘焙内容"
 	LauncherDeployDesc = "针对{0}部署内容"
 	LauncherRunDesc = "在{0}上启动"
 	LauncherPackageDesc = "针对{0}打包内容"
+	LauncherCookOnTheFlyDesc = "Starting cook on the fly server"
 	LauncherCompletionDesc = "用户接受测试启动后清理"
 
-Namespace LevelActor (0 keys)
+Namespace LevelActor (2 keys)
+	MapCheck_Message_RepairedPaintedVertexColors = "Repaired painted vertex colors in {LoadTime} for {NumComponents} components in {LevelName}.  Resave map to fix."
+	MapCheck_Message_SpentXRepairingPaintedVertexColors = "Spent {LoadTime} repairing painted vertex colors due to static mesh re-imports!  This will happen every load until the maps are resaved."
 
 Namespace LevelUtils (2 keys)
 	ChangeEditorLevelTransform = "编辑关卡变换"
@@ -2346,10 +2833,10 @@ Namespace Linker (15 keys)
 	FailedLoad_Referenced = "引用者"
 
 Namespace LinkerLoad (11 keys)
-	ImportFailure = " : Failed import for {0}"
-	LoadWarningSuffix_circularredirection = " [circular redirection]"
-	LoadWarningSuffix_privateobject = " [private]"
-	LoadWarningSuffix_redirection = " [redirection]"
+	ImportFailure = ": Failed import for {0}"
+	LoadWarningSuffix_circularredirection = "[circular redirection]"
+	LoadWarningSuffix_privateobject = "[private]"
+	LoadWarningSuffix_redirection = "[redirection]"
 	LoadingTransientInstance = "尝试从磁盘中加载一个临时类的实例 - 包：'{PackageName}' 对象：'{ObjectName}' 类'{ClassName}'"
 	CreateExportFailedToLoadOuter = "创建导出：加载资源 '{ObjectName}'的外部容器失败：{OuterName}"
 	CreateExportFailedToLoadOuterIsRedirector = "创建导出：加载资源的外部容器失败，因为它是一个重定向器'{ObjectName}': {OuterName}"
@@ -2358,14 +2845,26 @@ Namespace LinkerLoad (11 keys)
 	ImportFailure_WarningIn = "{1}中的{0}"
 	LoadedDeprecatedClassInstance = "{ObjectName}: 类 {ClassName}已经废弃。"
 
-Namespace LinuxDynamicRHI (1 keys)
+Namespace LinuxDynamicRHI (2 keys)
 	RequiredOpenGL = "运行引擎需要OpenGL 3.2。"
+	RequiredVulkan = "Vulkan Driver is required to run the engine."
 
-Namespace LinuxPlatformEditorModule (0 keys)
+Namespace LinuxPlatformEditorModule (2 keys)
+	TargetSettingsName = "Linux"
+	TargetSettingsDescription = "Settings for Linux target platform"
 
-Namespace LinuxWindow (0 keys)
+Namespace LinuxWindow (6 keys)
+	VulkanWindowCreationFailedLinux = "Unable to create a Vulkan window - make sure an up-to-date libvulkan.so.1 is installed."
+	VulkanWindowCreationFailedLinuxTitle = "Unable to create a Vulkan window."
+	OpenGLWindowCreationFailedLinux = "Unable to create an OpenGL window - make sure your drivers support at least OpenGL 4.3."
+	OpenGLWindowCreationFailedLinuxTitle = "Unable to create an OpenGL window."
+	SDLWindowCreationFailedLinuxTitle = "Unable to create an SDL window."
+	SDLWindowCreationFailedLinux = "Window creation failed (SDL error: '%s'')"
 
-Namespace LocalizationDescriptor (0 keys)
+Namespace LocalizationDescriptor (3 keys)
+	TargetWithoutAName = "Found a 'Localization Target' entry with a missing 'Name' field"
+	TargetWithInvalidLoadingPolicy = "Localization Target entry '{0}' specified an unrecognized target LoadingPolicy '{1}'"
+	TargetWithInvalidTargetsArray = "The 'Localization Targets' array has invalid contents and was not able to be loaded."
 
 Namespace LocalizationService (4 keys)
 	LocalizationService_Connecting = "正在连接本地化服务..."
@@ -2378,11 +2877,44 @@ Namespace LocalizationServiceProgress (3 keys)
 	ContinueButtonLabel = "继续"
 	LongTaskMessage = "操作要花费较长的时间完成。请点击‘取消’来暂停当前操作，您可以稍后重试。"
 
-Namespace LocalizationSourceControl (0 keys)
+Namespace LocalizationSourceControl (11 keys)
+	InvalidFileSpecified = "Could not checkout file at invalid path."
+	CouldNotCompleteSourceControlCleanup = "Could not complete Source Control cleanup.  {FailureReason}"
+	CouldNotGetStateOfFile = "Could not determine source control state of file '{Filepath}'."
+	CouldNotRevertFile = "Could not revert file."
+	FailedToAddFileToSourceControl = "Failed to add file '{Filepath}' to source control."
+	FailedToCheckOutFile = "Failed to check out file '{Filepath}'."
+	FileIsAlreadyCheckedOutByAnotherUser = "File '{Filepath}' is checked out by another ('{Username}')."
+	FileIsNotAtHeadRevision = "File '{Filepath}' is not at head revision."
+	SourceControlNotEnabled = "Source control is not enabled."
+	SourceControlNotAvailable = "Source control server is currently not available."
+	FailedToCheckInFiles = "The checked out localization files could not be checked in."
 
-Namespace LocalizationTargetTypes (0 keys)
+Namespace LocalizationTargetTypes (12 keys)
+	ExcludePathNoWildcardError = "Exclude path does not specify a wild card ("*"). Append "*" or only the file at the exact specified directory will be excluded."
+	ExcludePathEmptyError = "Exclude path not specified. Use "." to specify the root directory."
+	FileExtensionEmptyError = "File extension not specified."
+	IncludePathNoWildcardError = "Include path does not specify a wild card ("*"). Append "*" or only the file at the exact specified directory will be gathered from."
+	IncludePathEmptyError = "Include path not specified. Use "." to specify the root directory."
+	MetaDataKeyNameEmptyError = "Meta data key not specified."
+	InvalidGatherTextFromPackagesConfigurationError = "Must have at least one include path, one file extension, and no invalid settings."
+	InvalidGatherTextFromMetadataConfigurationError = "Must have at least one include path, one meta data key specification, and no invalid settings."
+	InvalidGatherTextFromFilesConfigurationError = "Must have at least one search directory, one file extension, and no invalid settings."
+	NoMetaDataLocalizationKeyPlaceHolderError = "No place holders used. All generated keys will conflict!"
+	SearchDirectoryNonExistentError = "Search directory does not exist."
+	SearchDirectoryEmptyError = "Search directory not specified. Use "." to specify the root directory."
 
-Namespace LocTextHelper (0 keys)
+Namespace LocTextHelper (10 keys)
+	Error_LoadArchive_DeserializeFile = "Failed to deserialize archive '{0}'."
+	Error_LoadManifest_DeserializeFile = "Failed to deserialize manifest '{0}'."
+	Error_WordCountsFromCSV_TooFewRows = "Failed to parse the CSV string as it contained too few rows (expected at least 2, got {0})."
+	Error_WordCountsFromCSV_InvalidHeader = "Failed to parse the CSV string as the header was missing one of the required rows (either '{0}' or '{1}')."
+	Error_SaveConflictReport_SaveStringToFile = "Failed to save conflict report '{0}'."
+	Error_SaveArchive_NoArchive = "Failed to save file '{0}' as there is no archive instance to save."
+	Error_SaveManifest_NoManifest = "Failed to save file '{0}' as there is no manifest instance to save."
+	Error_SaveWordCountReport_SaveStringToFile = "Failed to save word count report '{0}'."
+	Error_SaveArchive_SerializeFile = "Failed to serialize archive '{0}'."
+	Error_SaveManifest_SerializeFile = "Failed to serialize manifest '{0}'."
 
 Namespace LODActor (4 keys)
 	MapCheck_Message_StaticMeshComponent = "静态网格物体actor具有空静态网格物体组件的属性 - 请删除"
@@ -2390,7 +2922,10 @@ Namespace LODActor (4 keys)
 	MapCheck_Message_InvalidLODActorEmptyActor = "{ActorName} : 分配了NoActor。我们推荐您删除该actor。"
 	MapCheck_Message_InvalidLODActorMissingMesh = "{ActorName} :构建的LODActor缺失静态网格物体。您删除了该资源吗？请删除它并再次构建LOD。"
 
-Namespace LogDebugViewMode (0 keys)
+Namespace LogDebugViewMode (3 keys)
+	CompileDebugViewModeShaders = "Compiling Optional Engine Shaders"
+	TextureStreamingBuild_GetTextureStreamingBuildMaterials = "Getting materials to rebuild"
+	TextureStreamingBuild_FinishPendingShadersCompilation = "Waiting For Pending Shaders Compilation"
 
 Namespace LogVisualizerApp (2 keys)
 	TooltipText = "打开可视化记录器工具"
@@ -2405,7 +2940,9 @@ Namespace MacPlatform (1 keys)
 Namespace MacPlatformCreateDynamicRHI (1 keys)
 	OpenGLNotSupported. = "You must have a Metal compatible graphics card and be running Mac OS X 10.11.6 or later to launch this process."
 
-Namespace MacPlatformEditorModule (0 keys)
+Namespace MacPlatformEditorModule (2 keys)
+	TargetSettingsName = "Mac"
+	TargetSettingsDescription = "Settings for Mac target platform"
 
 Namespace MainMenu (2 keys)
 	HelpMenu = "帮助"
@@ -2418,9 +2955,11 @@ Namespace Material (5 keys)
 	CouldntSetMaterialUsage = "材质不允许自动设置在该组件上渲染所需要的使用标志{UsageName}，因此使用默认材质代替。"
 	MapCheck_SetMaterialUsage = "材质{Material}缺失使用标志{Usage}。如果材质资源没有进行重新保存，那么当在编辑器外运行时它可能无法正确渲染。"
 
-Namespace MaterialBakingModule (0 keys)
+Namespace MaterialBakingModule (1 keys)
+	WindowTitle = "Material Baking Options"
 
-Namespace MaterialExpression (30 keys)
+Namespace MaterialExpression (32 keys)
+	RerouteNodeCreationName = "Add Reroute Node..."
 	Atmosphere = "大气层"
 	StaticBool = "布尔值"
 	Color = "颜色"
@@ -2446,20 +2985,29 @@ Namespace MaterialExpression (30 keys)
 	Texture = "贴图"
 	Texture2D = "贴图2D"
 	TextureCube = "贴图立方体"
+	RerouteNodeCreationDesc = "This node looks like a single pin and can be used to tidy up your graph by adding a movable control point to the connection spline."
 	Unknown = "未知"
 	Utility = "工具"
 	Utils = "实用工具"
 	VectorOps = "向量项"
 	Vectors = "向量"
 
-Namespace MaterialExpressions (5 keys)
+Namespace MaterialExpressions (6 keys)
+	IncompatibleExternalTexture = " applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter '{0}' (slot {1}) in material '{2}'"
 	WorldPositonText = "绝对世界位置"
 	WorldPositonExcludingOffsetsText = "绝对世界位置（不包括材质偏移）"
 	CamRelativeWorldPositonText = "相机相对世界位置"
 	CamRelativeWorldPositonExcludingOffsetsText = "相机相对世界位置（不包括材质偏移）"
 	Error_CircularFunctionDependency = "无法使用材质函数，因为它会造成循环依赖。"
 
-Namespace MaterialParameterCollectionTrack (0 keys)
+Namespace MaterialLayersFunctions (2 keys)
+	Background = "Background"
+	LayerPrefix = "Layer {0}"
+
+Namespace MaterialParameterCollectionTrack (3 keys)
+	InvalidParameterText = "Invalid parameter name or type applied in sequence"
+	OnText = "on"
+	InvalidParameterFormatText = "with the following invalid parameters: {ParamNames}."
 
 Namespace MaterialShaderQualitySettings (8 keys)
 	ForwardRenderingMaterialOverrides = "正向渲染材质覆盖"
@@ -2483,13 +3031,32 @@ Namespace MergeToolUtils (3 keys)
 	MergedFailedToFindRevision = "{0}加载中止，因为我们无法获得所需的版本"
 	MergedFailedToLoadPackage = "{0}加载中止，因为我们无法找加载该包"
 
-Namespace MeshMergeEditorExtensions (0 keys)
+Namespace MeshMergeEditorExtensions (2 keys)
+	BakeMaterials = "Bake out Materials"
+	BakeMaterialsTooltip = "Bake out Materials for given LOD(s)."
 
-Namespace MeshMergeUtils (0 keys)
+Namespace MeshMergeUtils (4 keys)
+	CreateProxyMesh_LandscapeCulling = "Applying Landscape Culling"
+	CreateProxyMesh_CollectingMeshes = "Collecting Input Static Meshes"
+	CreateProxyMesh_CreateMesh = "Creating Mesh Proxy"
+	CreateProxyMesh_GenerateProxy = "Generating Proxy Mesh"
 
-Namespace MeshUtils (0 keys)
+Namespace MeshUtils (13 keys)
+	ActorNameSingular = ""{0}""
+	ActorNamePlural = "Actors"
+	AutomaticMeshReductionPlugin = "Automatic"
+	AutomaticProxyLODMeshReductionPlugin = "Automatic"
+	ConvertToStaticMeshPickName = "Choose New StaticMesh Location"
+	ConvertSelectedActorsToStaticMeshTooltip = "Convert the selected actor's meshes to a new Static Mesh asset. Supports static and skeletal meshes."
+	ConvertSelectedActorsToStaticMeshText = "Convert {0} To Static Mesh"
+	MakeStaticMesh = "Make Static Mesh"
+	MakeStaticMeshTooltip = "Make a new static mesh out of the preview's current pose."
+	OpenNewAnimationHyperlink = "Open {0}"
+	FindMoreReductionPluginsLink_Tooltip = "Opens the Marketplace to find more mesh reduction plugins"
+	FindMoreReductionPluginsLink = "Search the Marketplace"
+	SkeletalMeshConverted = "Successfully Converted Mesh"
 
-Namespace MessageDialog (6 keys)
+Namespace MessageDialog (7 keys)
 	DefaultMessageTitle = "信息"
 	DefaultDebugMessageTitle = "ShowDebugMessagef"
 	DefaultSystemErrorTitle = "系统错误"
@@ -2506,6 +3073,7 @@ Please install the recommended driver version.
 Installed: {InstalledVer}
 Recommended: {RecommendedVer}"
 	AppHasCrashed = "{0} {1}已崩溃并将关闭"
+	TitleVideoCardDriverIssue = "WARNING: Known issues with graphics driver"
 
 Namespace MessageLog (12 keys)
 	NoneObjectToken = "<无>"
@@ -2522,9 +3090,26 @@ Namespace MessageLog (12 keys)
 	AggregateMessagesFormatter = "{PreviousMessage}{NewMessage}
 "
 
-Namespace MetalRHI (0 keys)
+Namespace MetalRHI (4 keys)
+	ShaderDebugAuthFail = "Could not access directory required for debugging optimised Metal shaders. Falling back to slower runtime compilation of shaders for debugging."
+	ShaderPlatformUnavailableTitle = "Shader Platform Unavailable"
+	ShaderPlatformUnavailable = "Shader platform: {ShaderPlatform} was not cooked! Please enable this shader platform in the project's target settings."
+	ShaderVersionUnsupported = "The current OS version does not support {Version} required by the project. You must upgrade to {RequiredOS} to run this project."
 
-Namespace MiscSwitchMessages (0 keys)
+Namespace MiscSwitchMessages (13 keys)
+	Connected = "Connected"
+	Disallowed = "Disallowed"
+	Disconnected = "Disonnected"
+	Down = "Down"
+	DualJoyCon = "Dual JoyCon"
+	Handheld = "Handheld"
+	HandheldMessage = "Handheld: {0}"
+	LeftJoyCon = "Left JoyCon"
+	NifmModeMessage = "Nifm/Network Status: {0}"
+	ControllerMessage = "Player {0}: {1}"
+	Pro = "Pro"
+	RightJoyCon = "Right JoyCon"
+	Up = "Up"
 
 Namespace ModuleDescriptor (5 keys)
 	ModuleWithoutAType = "搜寻具有缺失的'类型'域的模块条目'{0}'"
@@ -2552,7 +3137,8 @@ Namespace MovementComponent (1 keys)
 Namespace MoviePlayerTestLoadingScreen (1 keys)
 	LoadingComplete = "加载完成!"
 
-Namespace MovieScene (0 keys)
+Namespace MovieScene (1 keys)
+	IncompatibleDataWarning = "Property size mismatch for property '{0}'. Expected '{1}', found '{2}'. Recreate the track with the new property type."
 
 Namespace MovieScene3DAttachTrack (1 keys)
 	TrackName = "附加"
@@ -2560,11 +3146,14 @@ Namespace MovieScene3DAttachTrack (1 keys)
 Namespace MovieScene3DPathTrack (1 keys)
 	TrackName = "路径"
 
-Namespace MovieSceneCameraAnimTrack (0 keys)
+Namespace MovieSceneCameraAnimTrack (1 keys)
+	TrackName = "Camera Anim"
 
-Namespace MovieSceneCameraCutTrack (0 keys)
+Namespace MovieSceneCameraCutTrack (1 keys)
+	TrackName = "Camera Cuts"
 
-Namespace MovieSceneCameraShakeTrack (0 keys)
+Namespace MovieSceneCameraShakeTrack (1 keys)
+	TrackName = "Camera Shake"
 
 Namespace MovieSceneCapture (7 keys)
 	CompositionGraphDescription = "自定义渲染过程"
@@ -2577,21 +3166,25 @@ Namespace MovieSceneCapture (7 keys)
 	UnableToRemoveFile = "无法删除文件"
 	VideoDescription = "视频序列"
 
-Namespace MovieSceneCinematicShotTrack (0 keys)
+Namespace MovieSceneCinematicShotTrack (1 keys)
+	TrackName = "Shots"
 
 Namespace MovieSceneClipboard (3 keys)
 	GenericClipboardFormat = "{0} 的剪贴板"
 	KeyDisplayFormat_Single = "{0} 的剪贴板（1 个关键帧）"
 	KeyDisplayFormat_Multiple = "{0} 的剪贴板（{1} 个关键帧）"
 
-Namespace MovieSceneEventTrack (0 keys)
+Namespace MovieSceneEventTrack (1 keys)
+	TrackName = "Events"
 
 Namespace MovieSceneFadeTrack (1 keys)
 	TrackName = "渐变"
 
-Namespace MovieSceneLevelVisibilityTrack (0 keys)
+Namespace MovieSceneLevelVisibilityTrack (1 keys)
+	DisplayName = "Level Visibility"
 
-Namespace MovieSceneMaterialParameterCollectionTrack (0 keys)
+Namespace MovieSceneMaterialParameterCollectionTrack (1 keys)
+	DefaultTrackName = "Material Parameter Collection"
 
 Namespace MovieSceneNameableTrack (1 keys)
 	UnnamedTrackName = "未命名轨迹"
@@ -2599,7 +3192,9 @@ Namespace MovieSceneNameableTrack (1 keys)
 Namespace MovieSceneParticleTrack (1 keys)
 	DisplayName = "粒子系统"
 
-Namespace MovieSceneSkeletalAnimationSection (0 keys)
+Namespace MovieSceneSkeletalAnimationSection (2 keys)
+	RootMotionFixUp1 = "The Animation "
+	RootMotionFixUp2 = "will be set to ForceRootLock on. Please save the animation if you want to keep this change."
 
 Namespace MovieSceneSkeletalAnimationTrack (1 keys)
 	TrackName = "动画"
@@ -2610,17 +3205,20 @@ Namespace MovieSceneSlomoTrack (1 keys)
 Namespace MovieSceneSpawnTrack (1 keys)
 	TrackName = "生成的"
 
-Namespace MovieSceneStringTrack (0 keys)
+Namespace MovieSceneStringTrack (1 keys)
+	TrackName = "Strings"
 
 Namespace MovieSceneSubTrack (1 keys)
 	TrackName = "子场景"
 
-Namespace MovieSceneVisibilityTrack (0 keys)
+Namespace MovieSceneVisibilityTrack (1 keys)
+	DisplayName = "Visibility"
 
-Namespace NativeCodeGenerationTool (15 keys)
+Namespace NativeCodeGenerationTool (16 keys)
 	NoConvertedDependencies = "未转换依赖， 要求一个外围结构： "
 	ClassName = "类名称"
-	CppNotSaved = "Cpp文件没有保存。请查看日志获得详情。%s "
+	CppNotSavedFmt = "Cpp file wasn't saved. Check log for details. {0}
+"
 	Dependencies = "依赖项"
 	ConvertedDependencies = "Detected Dependencies:
 "
@@ -2629,10 +3227,12 @@ Namespace NativeCodeGenerationTool (15 keys)
 	GeneratingCppFiles = "生成C++文件.."
 	HeaderDirectory = "头文件目录"
 	HeaderPath = "头文件路径"
-	HeaderNotSaved = "头文件没有保存。请查看日志获得详情。%s "
+	HeaderNotSavedFmt = "Header file wasn't saved. Check log for details. {0}
+"
 	InvalidBlueprint = "无效的蓝图 "
 	NoConvertedAssets = "No dependencies found.
 "
+	Regenerate = "Regenerate"
 	SourceDirectory = "源码目录"
 	SourcePath = "源码路径"
 
@@ -2647,6 +3247,10 @@ Namespace NetworkErrors (6 keys)
 	NETDISCONNECTMSG = "网络断开连接信息"
 	ClientReliableBufferOverflow = "输出的可靠缓冲器溢出"
 	GenericPendingConnectionFailed = "等待完成的连接失败。"
+
+Namespace OpenGLDrv (2 keys)
+	CannotDetermineGraphicsDriversVendorTitle = "Cannot determine driver vendor."
+	CannotDetermineGraphicsDriversVendor = "Unknown graphics drivers '{0}' by '{1}' are installed on this system. You may experience visual artifacts and other problems."
 
 Namespace OutputLog (6 keys)
 	UnknownTargetDevice = "<Unknown device>"
@@ -2671,16 +3275,22 @@ Namespace ParticleModules (1 keys)
 Namespace ParticleParameterTrack (1 keys)
 	DisplayName = "粒子参数"
 
-Namespace PhysicsAsset (0 keys)
+Namespace PhysicsAsset (2 keys)
+	ConflictSyncAsync = "Physics Asset had both sync and async bodies. Defaulting to sync scene only. If you'd like to use async change UseAsyncScene on the PhysicsAsset:{0}"
+	BoneMissingFromSkelMesh = "The SkeletalMesh is missing bone '{0}' needed by this PhysicsAsset."
 
-Namespace PlatformAudio (0 keys)
+Namespace PlatformAudio (3 keys)
+	Occlusion = "Choose which audio plugin should be used for occlusion. If your desired occlusion plugin isn't found in the drop down menu, ensure that it is enabled on the Plugins panel."
+	Reverb = "Choose which audio plugin should be used for reverb. If your desired reverb plugin isn't found in the drop down menu, ensure that it is enabled on the Plugins panel."
+	Spatialization = "Choose which audio plugin should be used for spatialization. If your desired spatialization isn't found in the drop down menu, ensure that it is enabled on the Plugins panel."
 
-Namespace PlatformInfo (27 keys)
+Namespace PlatformInfo (30 keys)
 	Android = "Android"
 	Android_ASTC = "Android (ASTC)"
 	Android_ATC = "Android (ATC)"
 	Android_DXT = "Android (DXT)"
 	Android_ETC1 = "Android (ETC1)"
+	Android_ETC1a = "Android (ETC1a)"
 	Android_ETC2 = "Android (ETC2)"
 	Android_Multi = "Android (多个)"
 	Android_PVRTC = "Android (PVRTC)"
@@ -2695,6 +3305,7 @@ Namespace PlatformInfo (27 keys)
 	MacServer = "Mac (专用服务器)"
 	MacEditor = "Mac (编辑器)"
 	PS4 = "PlayStation 4"
+	Switch = "Switch"
 	WindowsNoEditor = "Windows"
 	WindowsNoEditor_Win32 = "Windows (32位)"
 	WindowsNoEditor_Win64 = "Windows (64位)"
@@ -2703,6 +3314,7 @@ Namespace PlatformInfo (27 keys)
 	WindowsEditor = "Windows (编辑器)"
 	XboxOne = "Xbox One"
 	IOS = "iOS"
+	TVOSTargetPlatDisplay = "tvOS"
 
 Namespace PlayerController (1 keys)
 	PlayerControllerPossessAuthorityOnly = "仅{0}网络权限可以使用占有功能"
@@ -2716,23 +3328,45 @@ Namespace PluginDescriptor (7 keys)
 	PluginReferenceWithoutName = "插件引用必须有'名称'域"
 	PluginReferenceWithoutEnabled = "插件引用必须有'启用'域"
 
-Namespace PluginManager (8 keys)
+Namespace PluginManager (17 keys)
 	IncompatiblePluginCaption = "'{0}' is Incompatible"
+	DisablePluginMessage_MissingOrIncompatibleDependency = "Binaries for the '{0}' plugin (a dependency of '{1}') are missing or incompatible with the current engine version.
+
+Would you like to disable it? You will no longer be able to open assets that were created with it."
+	DisablePluginMessage_MissingOrIncompatibleEngineVersion = "Binaries for the '{0}' plugin are missing or incompatible with the current engine version.
+
+Would you like to disable it? You will no longer be able to open assets that were created with it."
 	PluginFailureTitle = "加载插件失败"
+	DisablePluginCaption = "Missing Plugin"
+	DownloadPluginCaption = "Missing {0} Plugin"
 	PluginModuleNotFound = "因为无法找到模块'{1}'，所以插件'{0}'加载失败。请确认插件安装正确，否则请考虑对此项目禁用此插件。"
 	PluginModuleFailedToInitialize = "Plugin '{0}' failed to load because module '{1}' could not be initialized successfully after it was loaded."
 	PluginGenericLoadFailure = "因不明原因导致模块'{1}'无法被加载，插件'{0}'加载失败。该插件的功能将不可用。请报告此错误。"
 	PluginModuleCouldntBeLoaded = "因模块'{1}'无法被加载，插件'{0}'加载失败。可能存在系统错误或模块未能被正确设置。"
 	PluginModuleIncompatible = "因模块'{1}'无法与当前引擎版本兼容，插件'{0}'加载失败。此插件可能需要重新编译。"
+	LoadIncompatibleDependencyPlugin = "The '{0}' plugin is required by the '{1}' plugin, but was designed for build {2}. Attempt to load it anyway?"
+	LoadIncompatiblePlugin = "The '{0}' plugin was designed for build {1}. Attempt to load it anyway?"
+	DisablePluginMessage_NotFound = "This project requires the '{0}' plugin, which could not be found.
+
+Would you like to disable it? You will no longer be able to open any assets created using it."
+	DisablePluginMessage_MissingDependency = "This project requires the '{0}' plugin, which has a missing dependency on the '{1}' plugin.
+
+Would you like to disable it? You will no longer be able to open any assets created using it."
+	DownloadPluginMessage = "This project requires the {0} plugin.
+
+Would you like to download it from the Unreal Engine Marketplace?"
 	FailureFormat = "{0} ({1})"
 
-Namespace PluginManifest (0 keys)
+Namespace PluginManifest (2 keys)
+	FailedToLoadDescriptorFile = "Failed to open descriptor file '{0}'"
+	FailedToReadDescriptorFile = "Failed to read file. {0}"
 
-Namespace PrimitiveComponent (18 keys)
+Namespace PrimitiveComponent (19 keys)
 	MapCheck_Message_ShadowCasterUsingBoundsScale = "Actor投射动态阴影，且具有大于1的BoundsScale！这将会带来很大的性能影响"
 	AddAngularImpulse = "添加角度冲力"
 	AddForce = "添加力"
 	AddForceAtLocation = "AddForceAtLocation"
+	AddForceAtLocationLocal = "AddForceAtLocationLocal"
 	AddImpulse = "添加冲力"
 	AddImpulseAtLocation = "AddImpulseAtLocation"
 	AddTorque = "添加扭矩"
@@ -2767,9 +3401,10 @@ Namespace ProfilerDataSource (9 keys)
 	EventGraphType_Desc_Average = "每帧的平均事件图表"
 	EventGraphType_Name_Total = "总计"
 
-Namespace ProfilerSample (9 keys)
+Namespace ProfilerSample (10 keys)
 	StatType_Name_NumberFloat = "浮点"
 	StatType_Name_Hierarchical = "结构"
+	StatType_Desc_Hierarchical = "Hierarchical - Displayed as a time and call count"
 	StatType_Name_NumberInt = "整数"
 	StatType_Name_Memory = "内存"
 	StatType_Desc_Memory = "内存 - 显示为人类可读的数据计数器"
@@ -2778,7 +3413,9 @@ Namespace ProfilerSample (9 keys)
 	StatDesc_InvalidOrMax = "未知的分析器样本类型"
 	StatType_InvalidOrMax = "未知的分析器样本类型"
 
-Namespace ProfileVisualizerModule (0 keys)
+Namespace ProfileVisualizerModule (2 keys)
+	TooltipText = "Open the Profile Data Visualizer tab."
+	TabTitle = "Profile Data Visualizer"
 
 Namespace ProjectDescriptor (5 keys)
 	FailedToLoadDescriptorFile = "未能打开描述文件'{0}'"
@@ -2800,7 +3437,8 @@ Namespace ProjectManager (6 keys)
 	PrimaryGameModuleIncompatible = "游戏模块'{0}'不是最新。这可能是在更新引擎后造成的。请重编译此模块并再次尝试。"
 	PrimaryGameModuleGenericLoadFailure = "由于未知原因，无法加载游戏模块'{0}'。请报告此错误。"
 
-Namespace PropertyEditor (0 keys)
+Namespace PropertyEditor (1 keys)
+	MultipleValues = "Multiple Values"
 
 Namespace PS4 (1 keys)
 	DynamicRHIFailure = "PS4RHI失败？"
@@ -2814,15 +3452,29 @@ Namespace RealtimeProfileLineGraph (4 keys)
 Namespace RealtimeProfiler (1 keys)
 	WindowTitle = "实时分析器"
 
-Namespace Renderer (7 keys)
+Namespace Renderer (21 keys)
+	LinuxInsufficientDriversText = "Cannot create OpenGL context. Check that the drivers and hardware support at least OpenGL 4.3 (or re-run with -opengl3)"
+	LinuxCannotCreatePlatformWindow = "Cannot create OpenGL-enabled SDL window. SDL error: '{0}'."
+	LinuxCannotCreatePlatformWindowTitle = "Cannot create SDL window."
+	DFAODisabled = "Distance Field AO is disabled through scalability"
+	LinuxInsufficientDriversTitle = "Insufficient drivers or hardware"
+	MobileDynamicCSMDistFieldShadows = "MOBILE CSM+STATIC REQUIRES DISTANCE FIELD SHADOWS ENABLED FOR PROJECT"
+	MobileLQLightmap = "MOBILE PROJECTS SUPPORTING STATIC LIGHTING MUST HAVE LQ LIGHTMAPS ENABLED"
 	MetalAPIMissingTitle = "需要Metal但是没有提供"
 	NoPrecomputedVisibility = "无预计算可见性"
 	NoGlobalClipPlane = "PLANAR REFLECTION REQUIRES GLOBAL CLIP PLANE PROJECT SETTING ENABLED TO WORK PROPERLY"
+	AtmosphericFog = "PROJECT DOES NOT SUPPORT ATMOSPHERIC FOG"
 	Skylight = "PROJECT DOES NOT SUPPORT STATIONARY SKYLIGHT: "
+	PointLight = "PROJECT DOES NOT SUPPORT WHOLE SCENE POINT LIGHT SHADOWS: "
+	MobileDynamicCSM = "PROJECT HAS MOBILE CSM SHADOWS FROM STATIONARY DIRECTIONAL LIGHTS DISABLED"
+	MobileMovableDirectional = "PROJECT HAS MOVABLE DIRECTIONAL LIGHTS ON MOBILE DISABLED"
+	MobileVertexFog = "PROJECT HAS VERTEX FOG ON MOBILE DISABLED"
 	BeginRecompileRendererTask = "正在重新编译渲染模块..."
+	ShadowedLightOverflow = "TOO MANY OVERLAPPING SHADOWED MOVABLE LIGHTS, SHADOW CASTING DISABLED: "
 	MetalAPIMissingInfo = "该应用程序需要Metal API,但是该设备上却没有提供。Metal要求具有A7处理器和iOS8系统或更高配置。
 
 具有A7处理器的设备有iPhone 5S、iPad Air及具有Retina显示的iPad mini。任何比这些设备配置低的设备都不能正常工作。"
+	LinuxCannotLoadLibGLText = "Unable to dynamically load libGL"
 	ViewLocked = "视图已锁定"
 
 Namespace SAutomationGraphicalResultBox (4 keys)
@@ -2898,14 +3550,19 @@ Namespace SCAQueryDetails (17 keys)
 	ResultListTypeHeader = "类型"
 	MissReasonUnknown = "未知"
 
-Namespace SceneCaptureComponent (0 keys)
+Namespace SceneCaptureComponent (1 keys)
+	CaptureScene = "CaptureScene: Scene capture with bCaptureEveryFrame enabled was told to update - major inefficiency."
 
-Namespace SceneComponent (7 keys)
+Namespace SceneComponent (11 keys)
 	AttachCycleWarning = "附加到: '{0}'已被附加到'{1}',会造成循环。正在退出。"
 	AttachToSelfWarning = "附加到: '{0}'无法被附加到自身。正在退出。"
 	NoStaticToDynamicWarning = "附加到: '{0}'不是静态{1},无法附加对其为静态的'{2}'。正在退出。"
+	AttachToSelfRootWarning = "AttachTo: '{0}' root component cannot be attached to other components in the same actor. Aborting."
 	MobilityAlteredSingularNotification = "导致了1个组件也改变可移动性"
+	IsEditorOnlyAlteredSingularNotification = "Caused 1 component to also change its IsEditorOnly behaviour"
 	MobilityAlteredPluralNotification = "导致了{0}个其他组件也改变移动性"
+	IsEditorOnlyAlteredPluralNotification = "Caused {0} other components to also change their IsEditorOnly behaviour"
+	ComponentDetachedFromParentDueToMobility = "Caused {0} to be detached from its parent {1} because it does not allow to be static"
 	InvalidMustBeMovable = "如果您想{2}移动，则{0} : {1}的移动性必须为‘可移动’。"
 	InvalidMove = "移动"
 
@@ -2913,19 +3570,24 @@ Namespace SceneRendering (2 keys)
 	OcclusionChild = "遮挡子项"
 	RenderingFrozen = "正在渲染冻结项..."
 
-Namespace SCollisionAnalyzer (15 keys)
+Namespace SCollisionAnalyzer (20 keys)
 	NumberOfBlockColumnHeader = "#B"
 	NumberOfTouchesColumnHeader = "#T"
+	CollisionFileOpen = "Choose collision file to load"
 	CollisionFileLocation = "选择文件位置"
 	QueryListFrameHeader = "帧"
 	TimeTooltip = "此次查询需花费多长时间，以ms计算"
 	QueryListIdHeader = "ID"
+	CAnalyzerLoad_Tooltip = "Load a previously recorded collision data session"
 	QueryListModeHeader = "模式"
 	NumberBlocksTooltip = "阻挡结果的数量，红色表示'开始穿透'"
 	NumberTouchTooltip = "触碰结果的数量"
 	QueryListOwnerHeader = "所有者"
+	CAnalyzerSave_Tooltip = "Save the current recorded collision data"
 	QueryListShapeHeader = "形状"
+	CAnalyzerRecord_Tooltip = "Start/stop recording collision data"
 	QueryListTagHeader = "标签"
+	CAnalyzerToggleRecent_Tooltip = "Toggles drawing of recent collision data"
 	CollisionAnalyzerStatusTextFmt = "总计：{1}帧中有{0}次查询。已显示：{2}次查询"
 	QueryListTypeHeader = "类型"
 	QueryMillisecondsColumnHeader = "ms"
@@ -2933,10 +3595,39 @@ Namespace SCollisionAnalyzer (15 keys)
 Namespace SComboBox (1 keys)
 	ContentWarning = "未提供任何内容"
 
-Namespace ScreenshotComparison (0 keys)
+Namespace ScreenshotComparison (9 keys)
+	AddAllNewReports = "Add All New Reports"
+	AddAllNewReportsTooltip = "Adds all new screenshots contained in the reports."
+	DeleteAllReports = "Delete All Reports"
+	DeleteAllReportsTooltip = "Deletes all the current reports.  Reports are not removed unless the user resolves them, 
+so if you just want to reset the state of the reports, clear them here and then re-run the tests."
+	ColumnHeader_Delta = "Local | Global Delta"
+	ColumnHeader_Name = "Name"
+	ColumnHeader_Preview = "Preview"
+	ReplaceAllReports = "Replace All Reports"
+	ReplaceAllReportsTooltip = "Replaces all screenshots containing a different result in the reports."
 
-Namespace ScriptCore (1 keys)
+Namespace ScriptCore (20 keys)
+	AccessNoneNoContext = "Accessed None"
+	LetWeakObjAccessNone = "Accessed None attempting to assign variable on a weakly referenced object"
+	LetObjAccessNone = "Accessed None attempting to assign variable on an object"
+	AccessNoneDefaultObject = "Accessed None attempting to read a default property"
+	AccessedNoneClassUnknownProperty = "Accessed None reading a Class"
+	AccessNoneStructure = "Accessed None reading structure {0}"
+	AccessedNoneClass = "Accessed None trying to read Class from property {0}"
+	AccessNoneContext = "Accessed None trying to read property {0}"
+	ArrayGetRefException = "Attempt to assign variable through None"
+	MissingPropertyDefaultObject = "Attempted to access a missing property on a CDO. If this is a packaged/cooked build, are you attempting to use an editor-only property?"
+	ArrayGetOutofBounds = "Attempted to access index {0} from array {1} of length {2}!"
+	MissingLocalVariable = "Attempted to access missing local variable. If this is a packaged/cooked build, are you attempting to use an editor-only property?"
 	MissingProperty = "Attempted to access missing property '{0}'. If this is a packaged/cooked build, are you attempting to use an editor-only property?"
+	AccessPendingKill = "Attempted to access {0} via property {1}, but {0} is pending kill"
+	LetAccessNone = "Attempted to assign to None"
+	AccessSelfAddress = "Attempted to reference 'self' as an addressable property."
+	InfiniteLoop = "Infinite script recursion ({0} calls) detected - see log for stack trace"
+	RunawayLoop = "Runaway loop detected (over {0} iterations) - see log for stack trace"
+	SwitchValueOutOfBounds = "Switch statement failed to match case for index property {0}"
+	SwitchValueIndex = "Switch statement failed to read property for index value for index property {0}"
 
 Namespace SCS (1 keys)
 	Default = "默认"
@@ -2986,7 +3677,7 @@ Namespace SDeviceBrowserDeviceAdder (10 keys)
 	UserNameLabel = "用户:"
 
 Namespace SDeviceBrowserDeviceListRow (5 keys)
-	RemotelyHint = " (remotely)"
+	RemotelyHint = "(remotely)"
 	ShareCheckBoxToolTip = "勾选该复选框来和网络中的其他用户共享该设备"
 	StatusConnected = "已连接"
 	StatusDisconnected = "取消连接"
@@ -3055,10 +3746,12 @@ Namespace SessionFrontend (3 keys)
 	ContextMenu.EditCommand = "编辑命令"
 	ContextMenu.EditName = "编辑名称"
 
-Namespace SetMaterialAttributes (0 keys)
+Namespace SetMaterialAttributes (1 keys)
+	InputName = "MaterialAttributes"
 
-Namespace SEventGraph (109 keys)
+Namespace SEventGraph (112 keys)
 	FilteringHelpButtonLabel = "?"
+	AggressiveFilteringLabel = "AF"
 	HistoryBack_Tooltip = "返回到{0}"
 	ConfigurationButtonLabel = "CF"
 	FunctionDetails_CalledFunctions = "调用的函数"
@@ -3163,6 +3856,8 @@ Namespace SEventGraph (109 keys)
 	ContextMenu_Header_Navigation_ShowInFlatView_Desc = "切换到平级列表视图，并按包含时间进行降序排序"
 	ContextMenu_Header_Navigation_ShowInHierarchicalView_Desc = "切换到层次视图并展开选中的事件"
 	HasCulledEvents_TT = "此事件包含剔除的子项，如果您想要看到所有子项，请禁用剔除或使用函数细节,或按此按钮"
+	Toolbar_Thread = "Thread"
+	AggressiveFiltering_TT = "Toggle aggressive filtering"
 	Toolbar_Type = "类型"
 	FilteringSearchBox_TT = "在此处输入信息来搜索或筛选事件"
 	ContextMenu_Header_Columns_View = "查看列"
@@ -3242,33 +3937,69 @@ Namespace SFilterWidget (8 keys)
 	EnableAllTooltip = "启用所有类目"
 	UseVerbosity = "使用: {0}"
 
+Namespace ShaderCompiler (2 keys)
+	LaunchingShaderCompileWorkerFailedTitle = "Unable to launch ShaderCompileWorker."
+	LaunchingShaderCompileWorkerFailed = "Unable to launch {0} - make sure you built ShaderCompileWorker."
+
 Namespace ShaderCompilingManager (4 keys)
 	CompilingGlobalShaderStatus = "正在编译全局着色器..."
 	CompilingShadersStatus = "正在编译着色器..."
 	CompilingShadersForMaterialStatus = "正在编译着色器：{MaterialName}..."
 	BeginRecompilingShadersTask = "正在重新编译着色器"
 
-Namespace ShaderFormatsPropertyDetails (0 keys)
+Namespace ShaderFormatsPropertyDetails (20 keys)
+	D3DES2 = "Direct3D (ES2, Mobile Preview)"
+	D3DES31 = "Direct3D (ES3.1, Mobile Preview)"
+	D3DSM4 = "Direct3D 10 (SM4)"
+	D3DSM5 = "Direct3D 11+ (SM5)"
+	MetalSM5 = "Mac Metal Desktop Renderer with Tessellation (SM5, Metal 1.2+, macOS Sierra 10.12.6 or later)"
+	MetalSM5_NOTESS = "Mac Metal Desktop Renderer without Tessellation (SM5, Metal 1.2+, macOS Sierra 10.12.6 or later)"
+	MetalES3.1 = "Mac Metal High-End Mobile Preview (ES3.1)"
+	MetalES2 = "Mac Metal Low-End Mobile Preview (ES2)"
+	MetalMRTMac = "Mac Metal iOS/tvOS Desktop Renderer Preview (SM5)"
+	OpenGLES2PC = "OpenGL (ES2, Mobile Preview)"
+	OpenGLES31PC = "OpenGL (ES3.1, Mobile Preview)"
+	OpenGL3 = "OpenGL 3 (SM4)"
+	OpenGL4 = "OpenGL 4.3+ (SM5)"
+	OpenGLES2 = "OpenGLES 2 (Mobile)"
+	OpenGLES31 = "OpenGLES 3.1 (Mobile)"
+	VulkanES31 = "Vulkan (ES 3.1)"
+	VulkanSM4 = "Vulkan (SM4)"
+	VulkanSM5 = "Vulkan (SM5)"
+	MetalMRT = "iOS/tvOS Metal Desktop Renderer (SM5, Metal 1.2+, iOS/tvOS 10.0 or later)"
+	Metal = "iOS/tvOS Metal Mobile Renderer (ES3.1, Metal 1.1+, iOS/tvOS 9.0 or later)"
 
 Namespace ShadowMap2D (1 keys)
 	BeginEncodingShadowMapsTask = "正在编码阴影贴图"
 
-Namespace SimplygonMeshReduction (0 keys)
+Namespace SimplygonMeshReduction (1 keys)
+	SimplygonProxyLOD_ProxyLOD = "Generating Proxy Mesh using Simplygon"
 
-Namespace SimplygonSwarm (1 keys)
+Namespace SimplygonSwarm (5 keys)
 	RequiredFileNotFoundMessage = "无法找到所需文件：
 {File}"
+	SimplygonSwarm_ProxyLOD = "Generating Proxy Mesh using Simplygon Swarm"
+	SimplygonSwarm_GenerateData = "Generating Simplygon Processing Data"
+	SimplygonSwarm_CreateSPL = "Generating Simplygon Processing Settings"
+	SimplygonSwarm_UploadData = "Uploading Processing Data to Simplygon Swarm Server"
 
-Namespace SkeletalMeshActor (0 keys)
+Namespace SkeletalMeshActor (4 keys)
+	MapCheck_Message_SkeletalMeshNull = "Skeletal mesh actor has NULL SkeletalMesh property"
+	MapCheck_Message_SkeletalMeshComponent = "Skeletal mesh actor has NULL SkeletalMeshComponent property"
+	MapCheck_Message_SkelMeshActorNoPhysAsset = "SkeletalMeshActor '{DetailedInfo}' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient"
+	MapCheck_Message_ActorLargeShadowCaster = "{DetailedInfo} : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled"
 
-Namespace SkeletalMeshComponent (0 keys)
+Namespace SkeletalMeshComponent (1 keys)
+	MovingSimulatedSkeletalMesh = "Attempting to move a fully simulated skeletal mesh {0}. Please use the Teleport flag"
 
 Namespace SkeletalMeshComponentPhysics (1 keys)
 	InvalidBodies = "无效的本体：请确认启用了碰撞或根骨骼在PhysicsAsset中有本体。"
 
-Namespace Skeleton (4 keys)
-	SkeletonBuildLinkupMissingBones3 = "  needs. They will be added now. Please save the Skeleton!"
-	SkeletonBuildLinkupMissingBones2 = " is missing bones that SkeletalMesh "
+Namespace Skeleton (6 keys)
+	SkeletonBuildLinkupMissingBones3 = "needs. They will be added now. Please save the Skeleton!"
+	SkeletonBuildLinkupMissingBones2 = "is missing bones that SkeletalMesh "
+	HandleSkeletonHierarchyChange_Format = "Rebuilding Animation: {0}"
+	HandleSkeletonHierarchyChange = "Rebuilding animations..."
 	SkeletonBuildLinkupMissingBones1 = "该骨架 "
 	SkeletonBuildLinkupMissingBones = "骨架{0}缺失骨架网格物体 {1}需要的骨骼。现在将添加他们。请保存改骨架！"
 
@@ -3277,13 +4008,14 @@ Namespace SkyLightComponent (1 keys)
 
 Namespace Slate (3 keys)
 	ExpandToolbar = "点击以展开工具栏"
-	FallbackFont = "DroidSansFallback"
+	LegacyFallbackFont = "DroidSansFallback"
 	SearchHint = "搜索"
 
 Namespace SlateCore (1 keys)
 	ComboBoxMissingOnGenerateWidgetMethod = "请提供.OnGenerateWidget()的处理程序。"
 
-Namespace SlateD3DRenderer (1 keys)
+Namespace SlateD3DRenderer (2 keys)
+	ProblemWithGraphicsCard = "There is a problem with your graphics card. Please ensure your card meets the minimum system requirements and that you have the latest drivers installed."
 	UnsupportedVideoCardErrorTitle = "Unsupported Graphics Card"
 
 Namespace SlateFileDialogsNamespace (15 keys)
@@ -3315,7 +4047,7 @@ Namespace SlateStyleSet (9 keys)
 	UknownSlateVector = "无法在风格中找到向量型属性'{0}'"
 
 Namespace SlateTestSuite (1 keys)
-	UserWidgetExampleTitle = " Implemented in the .cpp : {0}"
+	UserWidgetExampleTitle = "Implemented in the .cpp : {0}"
 
 Namespace SlateWidgetStyleSet (1 keys)
 	LoadingError = "多个Slate控件风格名称相同。名称：'{0}',第一个资源: '{1}',第二个资源：'{2}'。"
@@ -3323,7 +4055,12 @@ Namespace SlateWidgetStyleSet (1 keys)
 Namespace SListView (1 keys)
 	BrokenUIMessage = "OnGenerateWidget()未指派。"
 
-Namespace SMaterialOptions (0 keys)
+Namespace SMaterialOptions (5 keys)
+	MaterialBakeOptionWindow_Cancel = "Cancel"
+	MaterialBakeOptionWindow_Cancel_ToolTip = "Cancels baking out Material"
+	MaterialBakeOptionWindow_Import = "Confirm"
+	MaterialBake_SelectLODError = "Ensure that atleast one LOD index is selected."
+	MaterialBake_SelectLODErrorTitle = "Invalid options"
 
 Namespace SMenuAnchor (1 keys)
 	NoMenuContent = "未指派菜单内容;使用.MenuContent"
@@ -3372,7 +4109,9 @@ Namespace SMessageLogMessageListRow (4 keys)
 Namespace SMissingWidget (1 keys)
 	MissingWidget = "缺失控件"
 
-Namespace SMultiDumpBrowser (0 keys)
+Namespace SMultiDumpBrowser (2 keys)
+	MultiDumpBrowserThreadTotals = "Show thread totals for:"
+	MultiDumpBrowserTooltip = "Use "Load Folder" above to load a folder of stats dumps. GT/RT totals for stats matching text entered here will be displayed in the list below - e.g. enter "Particle" here to show total thread times for particle emitters."
 
 Namespace SMultipleOptionTable (6 keys)
 	AllHyperlinkLabel = "所有"
@@ -3388,7 +4127,10 @@ Namespace SoundNodeBranch (4 keys)
 	True = "True"
 	Title = "{Description} ({ParameterName})"
 
-Namespace SoundNodeDialoguePlayer (0 keys)
+Namespace SoundNodeDialoguePlayer (3 keys)
+	LoopingDialogueWaveDescription = "Looping {Description} : {DialogueWaveName}"
+	NoDialogueWave = "NONE"
+	NonLoopingDialogueWaveDescription = "{Description} : {DialogueWaveName}"
 
 Namespace SoundNodeSwitch (2 keys)
 	ParamUnset = "未设置参数"
@@ -3417,13 +4159,14 @@ Namespace SourceControl (12 keys)
 	SourceControl_Sync = "正从源码控制同步文件..."
 	SourceControl_Update = "正更新文件的源码控制状态..."
 
-Namespace SourceControlHelpers (11 keys)
+Namespace SourceControlHelpers (12 keys)
 	UnspecifiedCheckoutFile = "未指定迁出的文件"
 	SourceControlCheckoutError = "无法迁出{0}文件。"
 	CouldNotDetermineState = "无法确认文件'{InFilePath}'的源代码控制状态。"
 	SourceControlMarkForAddError = "无法标记{0}文件以供添加。"
 	ExternalImageCopyError = "无法覆盖{0}文件。"
 	AddFailed = "添加文件'{InFilePath}'到源码控制失败。"
+	MarkForAddFailed = "Failed to add file '{InFilePath}'."
 	CheckoutFailed = "迁出文件'{InFilePath}'失败。"
 	SimultaneousCheckout = "文件'{InFilePath}'由另一个('{SimultaneousCheckoutUser}')迁出。"
 	NotAtHeadRevision = "文件'{InFilePath}'不是最新版本。"
@@ -3435,9 +4178,29 @@ Namespace SourceControlProgress (3 keys)
 	ContinueButtonLabel = "继续"
 	LongTaskMessage = "操作要花费很长时间来完成。点击取消来终止当前操作，您可以稍后再试。"
 
-Namespace SOutputLog (0 keys)
+Namespace SOutputLog (19 keys)
+	AddFilterToolTip = "Add an output log filter."
+	Categories = "Categories"
+	ConsoleCommandExecutorDisplayName = "Cmd"
+	ConsoleCommandExecutorHintText = "Enter Console Command"
+	ShowErrors = "Errors"
+	ConsoleCommandExecutorDescription = "Execute Unreal Console Commands"
+	ShowAllCategories_Tooltip = "Filter the Output Log to show all categories"
+	Category_Tooltip = "Filter the Output Log to show category: {0}"
+	ShowErrors_Tooltip = "Filter the Output Log to show errors"
+	ShowMessages_Tooltip = "Filter the Output Log to show messages"
+	ShowWarnings_Tooltip = "Filter the Output Log to show warnings"
+	Filters = "Filters"
+	ShowMessages = "Messages"
+	OutputLogMiscHeading = "Miscellaneous"
+	SearchLogHint = "Search Log"
+	SelectCategoriesToolTip = "Select Categories to display."
+	ShowAllCategories = "Show All"
+	OutputLogVerbosityHeading = "Verbosity"
+	ShowWarnings = "Warnings"
 
-Namespace SpawnRegister (0 keys)
+Namespace SpawnRegister (1 keys)
+	NotSupported = "Not supported"
 
 Namespace SPlatformSetupMessage (9 keys)
 	NeedsCheckoutButton = "迁出"
@@ -3454,7 +4217,7 @@ Namespace SPlatformSetupMessage (9 keys)
 Namespace SplineMeshActor (1 keys)
 	MapCheck_Message_SplineMeshNull = "样条曲线网格物体actor的StaticMesh属性为空"
 
-Namespace SpriteCategory (18 keys)
+Namespace SpriteCategory (19 keys)
 	Characters = "角色"
 	Decals = "贴花"
 	Effects = "特效"
@@ -3470,6 +4233,7 @@ Namespace SpriteCategory (18 keys)
 	Physics = "物理"
 	PlayerStart = "玩家起始"
 	Sky = "天空"
+	Sounds = "Sounds"
 	TargetPoint = "目标点"
 	Triggers = "触发器"
 	Wind = "风"
@@ -3495,7 +4259,7 @@ Namespace SProfilerSettings (7 keys)
 	SaveAndCloseTitle = "保存并关闭"
 	bShowCoalescedViewModesInEventGraph_T = "在事件图表中显示合并的视图模式"
 
-Namespace SProfilerWindow (15 keys)
+Namespace SProfilerWindow (16 keys)
 	CancelButton_Text = "取消"
 	DescF_OfflineCapture_Loaded = "捕获文件../../{Filename}已被成功加载"
 	DescF_ServiceSideCapture_Loaded = "捕获文件../../{Filename}已被成功接收"
@@ -3511,8 +4275,10 @@ Namespace SProfilerWindow (15 keys)
 	DescF_ServiceSideCapture_InProgress = "正接收文件../../{Filename} {DataLoadingProgressPercent}"
 	DescF_OfflineCapture_Started = "开始加载文件../../{Filename}"
 	DescF_ServiceSideCapture_Started = "开始接收文件../../{Filename}"
+	MultiFileBrowser = "Stats dump browser"
 
-Namespace SProjectLauncher (7 keys)
+Namespace SProjectLauncher (8 keys)
+	AddFilterToolTip = "Add a new custom launch profile using wizard"
 	ProjectLauncherCustomProfileAdd = "添加新的自定义启动概述文件。"
 	AdvancedButton = "高级"
 	ProjectLauncherCustomProfilesTitle = "自定义启动概述文件"
@@ -3521,7 +4287,12 @@ Namespace SProjectLauncher (7 keys)
 	UfeMenuGroup = "虚幻前端"
 	WindowMenuLabel = "窗口"
 
-Namespace SProjectLauncherArchivePage (0 keys)
+Namespace SProjectLauncherArchivePage (5 keys)
+	ArchiveDirectoryTitle = "Archive Directory Path:"
+	BrowseButtonToolTip = "Browse for the directory"
+	BrowseButtonText = "Browse..."
+	FolderDialogTitle = "Choose a directory"
+	ArchiveText = "Do you wish to archive?"
 
 Namespace SProjectLauncherBuildConfigurationSelector (5 keys)
 	DebugActionHint = "调试配置。"
@@ -3544,7 +4315,8 @@ Namespace SProjectLauncherBuildTaskSettings (2 keys)
 Namespace SProjectLauncherBuildValidation (1 keys)
 	NoBuildConfigurationSelectedError = "必须选择编译配置。"
 
-Namespace SProjectLauncherCookByTheBookSettings (62 keys)
+Namespace SProjectLauncherCookByTheBookSettings (68 keys)
+	AddPatchLevelCheckBoxText = "Add a new patch tier"
 	CookerOptionsTextBoxLabel = "额外的烘焙器选项："
 	CookerOptionsTextBoxTooltip = "额外的烘焙器命令行参数可在此处指定。"
 	AdvancedAreaTitle = "高级设置"
@@ -3566,6 +4338,7 @@ Namespace SProjectLauncherCookByTheBookSettings (62 keys)
 	NoMapsHyperlinkTooltip = "取消选择所有地图。"
 	NoCulturesHyperlinkTooltip = "取消选择所有平台。"
 	DontIncludeEditorContentCheckBoxText = "在该版本中不包含编辑器内容"
+	EncryptIniFilesCheckBoxText = "Encrypt ini files (only with use pak file)"
 	GenerateChunksCheckBoxText = "生成块"
 	GeneratePatchCheckBoxText = "生成补丁"
 	HttpChunkInstallDataPathLabel = "Http块安装数据路径："
@@ -3574,13 +4347,16 @@ Namespace SProjectLauncherCookByTheBookSettings (62 keys)
 	DontIncludeEditorContentCheckBoxTooltip = "如果选中该项，烘培器将跳过编辑器内容，并且不在该版本中包含它。"
 	BuildDLCCheckBoxTooltip = "如果勾选，构建 DLC 时将不会包含原版本已经发行的内容。"
 	HandleDLCIncludeEngineContentCheckBoxTooltip = "如果勾选，下载包会包含在原始发行版本中未包含的引擎内容。如果未勾选，当访问引擎目录时则会错误。"
+	AddPatchLevelCheckBoxTooltip = "If checked, a new numbered pak will be generated with patch content"
 	GeneratePatchCheckBoxTooltip = "如果选中该项，内容将和源内容进行比较，仅在新的pak文件中包含已修改的文件。"
 	CompressedCheckboxToolTip = "如果选中该项，生成的内容将会被压缩。这些内容将会变小，但潜在的加载时间会更长"
+	EncryptIniFilesCheckboxToolTip = "If checked, ini files stored inside pak file will be encrypted."
 	IncrementalCheckBoxTooltip = "如勾选，则仅被修改的内容将被烘焙，会使烘焙的时间更短。推荐在任何可能的情况下启用此选项。"
 	UnrealPakCheckBoxTooltip = "如勾选，内容将会被作为单个UnrealPak文件而不是许多独立文件来部署。"
 	GenerateChunksCheckBoxTooltip = "如果选中该项，内容将会部署为多个UnrealPak文件，而不是很多单独的文件。"
 	HttpChunkInstallCheckBoxTooltip = "如果选中该项，内容将会被分割为多个pak文件，并存储为可下载的数据。"
 	UnversionedCheckBoxTooltip = "如勾选，则此版本将在加载时被假定为当前关卡。这样会存在潜在的问题，但补丁将会变小。"
+	StageBaseReleasePaksCheckBoxTooltip = "If checked, unchanged pak files present in the base release version will be staged."
 	HandleDLCIncludeEngineContentCheckBoxText = "包括引擎内容"
 	IncrementalCheckBoxText = "迭代 cook：仅 cook 上次 cook 后改变的内容"
 	MapListMapNameColumnHeader = "地图"
@@ -3604,6 +4380,7 @@ Namespace SProjectLauncherCookByTheBookSettings (62 keys)
 	CookConfigurationToolTipText = "设置可供烘焙器命令行开关使用的编译配置。"
 	AllMapsCheckBoxText = "显示所有"
 	CookedMapsCheckBoxText = "显示已烘焙的内容"
+	StageBaseReleasePaksCheckBoxText = "Stage base release pak files"
 	UnrealPakCheckBoxText = "在单个文件中存储所有内容(UnrealPak)"
 	MultiProcessCookerTextBoxTooltip = "当我们按惯例进行烘培时要生成的烘培器的数量。"
 	BasedOnReleaseVersionTextBoxToolTip = "该 下载包/补丁/下次发行的基于的版本。"
@@ -3764,8 +4541,13 @@ Namespace SProjectLauncherPackagePage (8 keys)
 	SharedRepositoryActionHint = "在共享库中存储此版本。"
 	LocallyActionHint = "在本地存储此版本。"
 
-Namespace SProjectLauncherPackagingSettings (2 keys)
+Namespace SProjectLauncherPackagingSettings (7 keys)
+	BrowseButtonToolTip = "Browse for the directory"
 	BrowseButtonText = "浏览..."
+	FolderDialogTitle = "Choose a directory"
+	ForDistributionCheckBoxTooltip = "If checked the build will be marked as for release to the public (distribution)."
+	ForDistributionCheckBoxText = "Is this build for distribution to the public"
+	LocalDirectoryPathLabel = "Local Directory Path:"
 	RepositoryPathLabel = "库路径:"
 
 Namespace SProjectLauncherPreviewPage (37 keys)
@@ -3818,7 +4600,7 @@ Namespace SProjectLauncherProfileListView (2 keys)
 Namespace SProjectLauncherProfileNameDescEditor (1 keys)
 	LaunchProfileEnterDescription = "在此处输入描述。"
 
-Namespace SProjectLauncherProgress (23 keys)
+Namespace SProjectLauncherProgress (26 keys)
 	TaskListIconColumnHeader = " "
 	DoneButtonCancelLabel = "取消"
 	DoneButtonCancelTooltip = "取消运行此概述文件。"
@@ -3831,9 +4613,11 @@ Namespace SProjectLauncherProgress (23 keys)
 	DoneButtonCancellingTooltip = "当前正在取消。"
 	DoneButtonDoneLabel = "已完成"
 	TaskListDurationColumnHeader = "持续时间"
+	TaskListErrorsColumnHeader = "Errors"
 	SaveLogDialogFileError = "打开指定文件以供保存失败!"
 	TasksFinishedFormatText = "操作结束。已完成: {NumCompleted}, 已失败: {NumFailed}，已取消: {NumCanceled}"
 	OperationInProgressText = "操作正在进行中..."
+	TaskListOutputLogColumnHeader = "Output Log"
 	RerunButtonLabel = "运行"
 	RerunButtonTooltip = "运行此启动概述文件。"
 	SaveLogDialogTitle = "将日志保存为..."
@@ -3842,11 +4626,13 @@ Namespace SProjectLauncherProgress (23 keys)
 	SaveLogDialogUnsupportedError = "此平台不支持保存!"
 	TaskListStatusColumnHeader = "状态"
 	TaskListTaskColumnHeader = "任务"
+	TaskListWarningsColumnHeader = "Warnings"
 
 Namespace SProjectLauncherProjectPage (1 keys)
 	WhichProjectToUseText = "您想要使用哪个项目?"
 
-Namespace SProjectLauncherSettings (7 keys)
+Namespace SProjectLauncherSettings (8 keys)
+	ArchiveSectionHeader = "Archive"
 	BuildSectionHeader = "版本"
 	CookSectionHeader = "烘焙"
 	DeploySectionHeader = "部署"
@@ -3881,30 +4667,34 @@ Namespace SProjectLauncherTaskListRow (6 keys)
 	StatusFailedText = "已失败"
 	StatusPendingText = "等待处理"
 
-Namespace SProjectLauncherUnrealProjectPicker (7 keys)
+Namespace SProjectLauncherUnrealProjectPicker (8 keys)
 	AnyProjectAction = "任何项目"
 	BrowseActionHint = "在您的电脑上浏览项目"
 	BrowseAction = "浏览..."
 	ProjectComboBoxLabel = "项目"
 	SelectProjectDialogTitle = "选择项目"
+	SelectProjectText_Tooltip = "Select or browse for a project"
 	SelectProjectText = "选择..."
 	AnyProjectActionHint = "此概述文件可用于任意项目。"
 
-Namespace SProjectLauncherValidation (16 keys)
+Namespace SProjectLauncherValidation (19 keys)
 	NoBuildConfigurationSelectedError = "必须选择编译配置。"
 	NoBuildGameSelectedError = "必须选择一个项目。"
 	DeployedDeviceGroupRequired = "在部署版本时，必须选择一个设备组。"
 	NoPlatformSDKInstalledFmt = "A required platform SDK is missing: {0}"
 	NoCookedCulturesSelectedError = "在按惯例进行烘焙时。必须至少选择一种语言。"
 	NoCookedPlatformSelectedError = "在按惯例进行烘焙时。必须至少选择一种平台。"
+	CookOnTheFlyDoesntSupportServer = "Cook on the fly doesn't support server target configurations"
 	CustomRolesNotSupportedYet = "尚不支持自定义启动任务。"
 	CopyToDeviceRequiresCookByTheBookError = "通过复制到设备来进行部署需要‘按惯例’烘焙。"
 	GeneratingHttpChunkDataRequiresGeneratingChunks = "必须选中生成块来生成Http块安装数据。"
 	GeneratingHttpChunkDataRequiresValidDirectoryAndName = "生成Http块安装数据需要一个有效的目录和发布版本名称。"
 	InvalidLaunchProfile = "无效启动概述文件。"
 	NoLaunchRoleDeviceAssigned = "一个或多个启动任务未分配设备。"
+	ShippingDoesntSupportCommandlineOptionsCantUseCookOnTheFly = "Shipping doesn't support commandline options and can't use cook on the fly"
 	InitialCultureNotAvailable = "启动所用的初始语言不在该版本中。"
 	InitialMapNotAvailable = "启动所需的初始地图不在版本中。"
+	NoArchiveDirectorySpecifiedError = "The archive step requires a valid directory."
 	GeneratingChunksRequiresUnrealPak = "必须选择UnrealPak才能生成块。"
 	UnversionedAndIncrimental = "没有版本号的版本不能进行增量编译。"
 
@@ -3928,8 +4718,17 @@ Namespace SRotatorInputBox (7 keys)
 	Yaw_ToolTip = "偏转值"
 	Yaw_Label = "Z"
 
-Namespace SScreenShotBrowser (1 keys)
+Namespace SScreenShotBrowser (10 keys)
+	AddAlternative = "Add As Alternative"
+	AddNew = "Add New!"
+	AddPlatformSpecificNew = "Add Platform-Specific New"
+	Difference = "Difference"
+	GroundTruth = "Ground Truth"
+	Incoming = "Incoming"
+	Replace = "Replace"
+	ShowDelta = "Show Delta"
 	Unknown = "Unknown Test, no metadata discovered."
+	LocalvGlobalDelta = "{0} | {1}"
 
 Namespace SSessionBrowser (26 keys)
 	OtherGroupToolTip = "属于其他用户的所有会话"
@@ -4017,7 +4816,7 @@ Namespace SSessionFrontend (7 keys)
 	SessionFrontendMenuGroupName = "会话前端"
 	WindowMenuLabel = "窗口"
 
-Namespace SSettingsEditor (26 keys)
+Namespace SSettingsEditor (30 keys)
 	AllPropertiesLink = "所有设置"
 	SaveAsDefaultUserConfirm = "您确定想更新默认设置吗？"
 	RestartLaterToolTip = "不重启，忽略这条通知。将不会应用一些新设置。"
@@ -4041,19 +4840,29 @@ Namespace SSettingsEditor (26 keys)
 	RestartingNow = "正在重新启动..."
 	SaveDefaultsButtonTooltip = "保存以下设置为新默认值"
 	SaveDefaultsButtonText = "设置为默认值"
+	AllPropertiesLink_Tooltip = "Show all settings"
 	SaveAsDefaultNeedsCheckoutMessage = "The default configuration file for these settings is currently not checked out. Would you like to check it out from source control?"
+	SaveAsDefaultNeedsAddMessage = "The default configuration file for these settings is currently not under source control. Would you like to add it to source control?"
 	SaveAsDefaultsIsReadOnlyMessage = "The default configuration file for these settings is not currently writable. Would you like to make it writable?"
 	SaveAsDefaultsSucceededMessage = "已经成功更新这些设置的默认配置文件。 
 
 如果迁入到源码控制中将影响其它的开发者。"
+	SaveAsDefaultsSourceControlOperationFailed = "The source control operation failed. Would you like to make it writable?"
+	SaveAsDefaultsSourceControlFailedAddManually = "The source control operation failed. You will need to add it manually"
 
-Namespace SSettingsEditorCheckoutNotice (9 keys)
+Namespace SSettingsEditorCheckoutNotice (15 keys)
+	CancelledAddConfigFile = "Add was cancelled.  File will be marked writable."
 	CheckOutFile = "迁出文件"
 	CheckOutFileTooltip = "迁出存储这些设置的默认配置文件。"
+	CancelledCheckOutConfigFile = "Checkout was cancelled.  File will be marked writable."
 	FailedToMakeWritable = "无法使{0}变为可写。"
+	FailedToAddConfigFileError = "Error: Failed to add the configuration file."
+	FailedToCheckOutConfigFileError = "Error: Failed to check out the configuration file."
+	ConfigFileMarkedForDeleteError = "Error: The configuration file is marked for deletion."
 	MakeWritable = "使其为非只读"
 	MakeWritableTooltip = "使得存储这些设置的默认配置文件为非只读状态。"
 	DefaultSettingsNotice_WithSourceControl = "这些设置保存在{0}中，它当前未被迁出。"
+	DefaultSettingsNotice_NotWritable = "These settings are saved in {0}, which is currently NOT writable."
 	DefaultSettingsNotice_CheckedOut = "这些设置保存在{0}中，它当前已被迁出。"
 	DefaultSettingsNotice_Writable = "这些设置被保存在{0}中，它当前可写入。"
 	DefaultSettingsNotice_Source = "这些设置被保存在{0}中，正在检查文件状态..."
@@ -4112,28 +4921,33 @@ Namespace STableViewTesting (33 keys)
 	UnsupprtedColumnText = "不支持的列: {0}"
 
 Namespace StaticMeshActor (4 keys)
-	MapCheck_Message_StaticMeshNull = "静态网格actor的StaticMesh属性为空"
-	MapCheck_Message_StaticMeshComponent = "静态网格actor的StaticMeshComponent属性为空 - 请删除"
+	MapCheck_Message_StaticMeshNull = "Static mesh actor {ActorName} has NULL StaticMesh property"
+	MapCheck_Message_StaticMeshComponent = "Static mesh actor {ActorName} has NULL StaticMeshComponent property - please delete"
 	MapCheck_Message_SameLocation = "{ActorName0}和{ActorName1}处于同一位置"
 	MapCheck_Message_VertexColorsNotMatchOriginalMesh = "{ActorName} (LOD {LODIndex})具有手工描画的顶点颜色，这些颜色不再与初始静态网格({StaticMeshName})匹配"
 
-Namespace StaticMeshComponent (6 keys)
+Namespace StaticMeshComponent (7 keys)
 	SetMeshOnStatic = "在'{0}'调用SetStaticMesh但移动性为静态。"
+	MapCheck_Message_CollisionEnabledNoCollisionGeom = "Collision enabled but StaticMesh ({StaticMeshName}) has no simple or complex collision."
 	MapCheck_Message_ActorLargeShadowCaster = "除非将bCastDynamicShadow设置为false，否则大型actor接收预投影，并将会导致极大的性能影响，。"
 	MapCheck_Message_MoreMaterialsThanReferenced = "静态网格物体组件上的覆盖材质({OverridenCount})比源网格物体'{MeshName}'中引用的材质({ReferencedCount})多。"
 	MapCheck_Message_StaticMeshNull = "静态网格物体actor的StaticMesh属性为空"
 	MapCheck_Message_SimulatePhyNoSimpleCollision = "{0} : 使用bSimulatePhysics但StaticMesh不具有简单碰撞。"
 	MapCheck_Message_ElementsWithZeroTriangles = "静态网格物体'{MeshName}'中有{ElementCount}个不具备三角形的元素"
 
-Namespace StaticMeshEditor (4 keys)
+Namespace StaticMeshEditor (7 keys)
 	BeginStaticMeshBuildingTask = "({Path})正在编译"
 	MeshRecomputeTangents = "考虑启用网格物体构建设置中的重新计算切线选项。"
 	MeshUseMikkTSpace = "如果禁用此选项，MikkTSpace 将依赖于切线基础，并可能导致网格物体损坏。"
 	MeshHasDegenerateTangents = "{Meshname} 存在退化切线向量，这会导致后续的着色错误。{Options} {MikkTSpace}"
+	MeshHasSomeZeroBiNormals = "{Meshname} has some nearly zero bi-normals which can create some issues. (Tolerance of {Tolerance})"
+	MeshHasSomeZeroNormals = "{Meshname} has some nearly zero normals which can create some issues. (Tolerance of {Tolerance})"
+	MeshHasSomeZeroTangents = "{Meshname} has some nearly zero tangents which can create some issues. (Tolerance of {Tolerance})"
 
-Namespace StaticMeshLODSettings (6 keys)
+Namespace StaticMeshLODSettings (7 keys)
 	DecoLOD = "贴花"
 	FoliageLOD = "植被"
+	HighDetailLOD = "High Detail"
 	LargePropLOD = "大道具"
 	LevelArchitectureLOD = "关卡结构"
 	SmallPropLOD = "小道具"
@@ -4142,10 +4956,46 @@ Namespace StaticMeshLODSettings (6 keys)
 Namespace StatsFile (1 keys)
 	FileMetaDesc_Fmt = "数据信息文件：长度：{0}，大小：{1}"
 
-Namespace STestSuite (201 keys)
-	WidgetDecoratorTooltip = " With the <RichText.TextHighlight>Widget Decorator</> you can <RichText.TextHighlight>inline any widget</> in your text!"
+Namespace STestSuite (204 keys)
+	WidgetDecoratorTooltip = "With the <RichText.TextHighlight>Widget Decorator</> you can <RichText.TextHighlight>inline any widget</> in your text!"
 	NotANumberWarning = "'{0}'不是数字"
 	ThreeCharsError = "'{0}'不是三个字符"
+	RichText.HowItWorks = "<RichText.Header>What does it do?</>
+
+The SRichTextBlock uses a concept called Decorators to introduce new font styles, images, animation and even whole interactive widgets inline with the text.
+
+Slate comes with a couple Decorators out of the box:
+
+        •  <RichText.Text.Fancy>Text</> Decorator
+        •  <img src="RichText.ImageDecorator"/> Image Decorator
+        •  <RichText.WidgetDecorator>Widget</> Decorator
+        •  <a id="HyperlinkDecorator" style="RichText.Hyperlink">Hyperlink</> Decorator
+
+<RichText.Header>What about options?</>
+
+Of course you can always introduce your own Decorators by implementing ITextDecorator. This will give you full customization in how your text or widget is styled. 
+
+Besides the power of Decorators the SRichTextBlock comes equipped with Margin support, Left-Center-Right Text Justification, a Line Height Scalar and Highlighting.
+
+<RichText.Header>How does the markup work?</>
+
+Well the markup parser is customizable so you can adjust the markup anyway you'd like by providing your own parser.  The parser that comes with Slate though uses a syntax very similar to xml.
+
+        •  &lt;TextBlockStyleName>Your text content&lt;/>
+        •  &lt;img src="SlateBrushStyleName"/>
+        •  &lt;a id="YourCustomId"/>Your hyperlink text&lt;/>
+
+If you ever want to use the markup syntax as actual text you can escape the markup using xml style escapes. For example:
+
+        •  <    &amp;lt;
+        •  >    &amp;gt;
+        •  "     &amp;quot;
+
+But you only need to escape these characters when a set of them match actual syntax so this isn't generally an issue.
+
+<RichText.Header>Are there any catches?</>
+
+There are still plenty of things the SRichTextBlock doesn't currently support. The most notable lacking feature is not having the ability to flow text around images or widgets. "
 	RichTextEdit.HowItWorks = "<RichText.TextHighlight>SMultiLineEditableText</> 使用文本marshaller来控制源文本显示的方式，并且下方的2个编辑器被用来展示<RichText.TextHighlight>FRichTextLayoutMarshaller</>和<RichText.TextHighlight>FRichTextSyntaxHighlighterTextLayoutMarshaller</> 应用。
 
 您可以使用工具条来控制多格式文本编辑器中的文字样式，或者您也可以直接编辑源文本（展示样式信息的在线插入）以更新多格式文本视图。"
@@ -4270,6 +5120,7 @@ He has endeavoured to prevent the population of these States; for that purpose o
 	TestNotificationFailure = "操作失败..."
 	TestNotificationInProgress = "操作正在进行中"
 	TestNotificationSuccess = "操作成功！"
+	PasswordCheckBoxText = "Password?"
 	AnimTestPlayButtonLabel = "播放动画"
 	AnimTestPlayReverseButtonLabel = "反向播放"
 	PopupTest = "弹出测试"
@@ -4331,6 +5182,7 @@ He has endeavoured to prevent the population of these States; for that purpose o
 	MultiLineHintText = "这是提示行1
 这是提示行2"
 	NumericInput = "这应该是数字"
+	EditablePasswordHintText = "This text box can be a password"
 	CustomContextMenuInput = "这个文本框有一个自定义关联菜单"
 	DisabledContextMenuInput = "这个文本框没有关联菜单"
 	StaticText = "该文本是静态的且已缓存。"
@@ -4357,7 +5209,9 @@ He has endeavoured to prevent the population of these States; for that purpose o
 	FxTextZoomFadeOutLabel = "镜头淡出"
 	GridPanelTest-Label02 = "他把所有钱都放在一个水桶里。"
 
-Namespace STimelinesContainer (1 keys)
+Namespace STimelinesContainer (3 keys)
+	GenerateReport = "Generate  Report"
+	GenerateReportTooltip = "Generate report from Visual Log events."
 	VisualLogReports = "可视化日志报告"
 
 Namespace STreeMap (10 keys)
@@ -4432,28 +5286,34 @@ Namespace SVisualLoggerToolbar (12 keys)
 	StartDebuggerTooltip = "开始记录并收集可视化日志"
 	StopLogger = "停止"
 
-Namespace SWidgetReflector (43 keys)
+Namespace SWidgetReflector (53 keys)
 	Stats_InclusiveAvgMsGraphColumn = " "
 	RemoteWidgetSnapshotAbortedNotificationText = "终止远程控件快照"
 	Address = "地址"
 	AppScale = "应用缩放: "
 	Stats_InclusiveAvgMsColumn = "平均时间(毫秒)"
 	CancelPendingSnapshotButtonText = "取消"
+	CancelSnapshotButtonText = "Cancel Snapshot"
 	CancelPendingSnapshotButtonToolTipText = "取消延迟的控件快照请求"
 	CaptureHierarchy = "捕获层次结构"
 	ChooseSnapshotTargetToolTipText = "选择快照目标"
 	ClickToCopy = "点击以复制地址。"
+	Clipping = "Clipping"
+	DelayLabel = "Delay:"
 	EnableDemoMode = "演示模式"
 	DisplayFontAtlases = "显示字体图集"
 	DisplayTextureAtlases = "显示贴图图集"
 	ToggleStatsTooltip = "启用平铺统计数据视图。"
 	LogStatsTooltip = "使得按特定时间间隔将统计数据输出到日志中。"
 	ForegroundColor = "FG"
+	FocusableTooltip = "Focusability (Note that for hit-test directional navigation to work it must be Focusable and "Visible"!)"
+	Focusable = "Focusable?"
 	ForegroundColorToolTip = "前景颜色"
 	InvalidationDebugging = "无效调试"
 	LoadSnapshotButtonText = "加载快照"
 	LoadSnapshotDialogTitle = "加载控件快照"
 	ToggleLogStats = "日记统计数据"
+	NoDelayValueName = "None"
 	PickLiveWidget = "选择活动的控件"
 	PickingWidget = "正在挑选（按Esc以停止)"
 	RemoteWidgetSnapshotReceivedNotificationText = "远程控件快照数据已收到。"
@@ -4462,11 +5322,13 @@ Namespace SWidgetReflector (43 keys)
 	ShowFocus = "显示聚焦"
 	SlateStatsTab = "Slate统计数据"
 	SnapshotWidgetPickerTab = "快照控件选择器"
+	NoDelayValueDescription = "Snapshot will be taken immediately upon clickng to take the snapshot."
 	Stats_StatNameColumn = "状态"
 	TakeSnapshotButtonText = "拍摄快照"
 	ToggleStatsUnavailableTooltip = "要想启用slate统计数据，请在编译时设置SLATE_STATS为1(请参照SlateStats.h)。"
 	ToggleStats = "切换统计数据"
 	Visibility = "可见性"
+	VisibilityTooltip = "Visibility"
 	RemoteWidgetSnapshotPendingNotificationText = "等待远程控件快照数据"
 	CaptureStatsHierarchyTooltip = "当点击它时，下一个渲染的帧将捕获层次化的统计数据，并将其保存到Saved/文件夹中的文件内，该文件的名称是：SlateHierarchyStats-<timestamp>.csv"
 	EnableWidgetCaching = "控件缓存"
@@ -4475,12 +5337,15 @@ Namespace SWidgetReflector (43 keys)
 	WidgetName = "控件名称"
 	NullHandler = "空"
 	StatsSamplingIntervalLabelTooltip = "在更新平均值之前整合统计数据的时间间隔(以秒为单位)。"
+	StatsSamplingIntervalTooltip = "the interval (in seconds) to integrate stats before updating the stats."
+	LoggedEvent = "{0}  |  {1}"
 	SnapshotTargetDisplayNameFmt = "{0} ({1})"
 
 Namespace SWindow (1 keys)
-	Window_TitleFmt = " Window : {0} "
+	Window_TitleFmt = "Window : {0} "
 
-Namespace SwitchDynamicRHI (0 keys)
+Namespace SwitchDynamicRHI (1 keys)
+	UnsupportedRHI = "The chosen RHI is not supported"
 
 Namespace SWizard (8 keys)
 	PrevButtonLabel = "返回"
@@ -4502,23 +5367,32 @@ Namespace TabManager (2 keys)
 	LocalWorkspaceRoot = "本地工作区根项"
 	TabIdFormat = "{TabType} : {InstanceIdNumber}"
 
-Namespace TargetManager (1 keys)
+Namespace TargetManager (4 keys)
+	TMCancel = "Cancel"
+	TMCancelToolTip = "Cancel this dialog."
+	IgnoredDevice = "Error Communicating with {0}.
+Device will be ignored for remainder of session."
 	TargetManager_Notification_Unresponsive = "Target Manager interface seems unresponsive.
 Interacting with development kits via Device Manager tab may fail."
 
-Namespace TaskGraph (18 keys)
+Namespace TaskGraph (23 keys)
 	ColumnDuration = "持续时间"
 	ColumnDurationValue = "持续时间({0})"
 	EventsVisualizerName = "空白的事件列表"
 	FileMenu = "文件"
 	HelpMenu = "帮助"
+	Load = "Load"
+	Load_GPUTooltip = "Load GPU profiling data"
 	ColumnName = "名称"
 	FileMenu_ToolTip = "打开文件菜单"
 	HelpMenu_ToolTip = "打开帮助菜单"
 	AppMenu_ToolTip = "打开调出的菜单"
+	Save = "Save"
+	Save_GPUTooltip = "Save the GPU profiling data"
 	GraphBarShowInNew = "在新建事件窗口中显示"
 	FilterSearchHint = "在此处输入以搜索事件。"
 	AppMenu = "窗口"
+	ExportMessage = "Wrote profile data to file"
 	ZoomLabelFmt = "缩放: {0}x"
 	microseconds = "微秒"
 	milliseconds = "ms"
@@ -4554,10 +5428,12 @@ Namespace TestSuite1 (19 keys)
 	SplitterTestTab = "分隔条测试"
 	TableViewTestTab = "表格视图测试"
 
-Namespace TextFormatter (0 keys)
+Namespace TextFormatter (1 keys)
+	UnexpectedArgumentModifierToken = "Unexpected 'argument modifier' token: {0} (token started at index {1})"
 
-Namespace TextPropertyTest (5 keys)
+Namespace TextPropertyTest (6 keys)
 	DefaultedText = "默认值"
+	Error_SerializationFailure = "ERR: Transient text cannot be serialized "{0}"."
 	ModifiedDefaultedText = "已修改的默认文本值"
 	ModifiedUndefaultedText = "已修改的非默认文本值"
 	TransientTestMessage = "正在测试临时序列化检测"
@@ -4566,11 +5442,24 @@ Namespace TextPropertyTest (5 keys)
 Namespace TextRenderComponent (1 keys)
 	DefaultText = "文本"
 
-Namespace TextureRenderTarget2D (0 keys)
+Namespace TextureRenderTarget2D (1 keys)
+	LargeTextureRenderTarget2DWarning = "A TextureRenderTarget2D of size {0}x{1} will use {2}Mb ({3}Mb if used with a Scene Capture), which may result in extremely poor performance or an Out Of Video Memory crash.
+Are you sure?"
 
-Namespace TextureStreamingBuild (2 keys)
+Namespace TextureStreamingBuild (13 keys)
+	1xOver = "1X Over"
+	1XUnder = "1X Under"
 	2XOver = "2X+ Over"
 	2XUnder = "2X+ Under"
+	Good = "Good"
+	DescRequiredTextureResolution = "Shows the ratio between the currently streamed texture resolution and the resolution wanted by the GPU."
+	DescPrimitiveDistanceAccuracy = "Shows under/over texture streaming caused by the difference between the streamer calculated"
+	DescMaterialTextureScaleAccuracy = "Shows under/over texture streaming caused by the material texture scales applied when sampling."
+	DescUVDensityAccuracy = "Shows under/over texture streaming caused by the mesh UV densities."
+	Undefined = "Undefined"
+	TextureStreamingBuild_ComponentDataUpdate = "Updating Component Data"
+	WorstUnderAndOver = "Worst Under / Worst Over"
+	DescPrimitiveDistanceAccuracy2 = "distance-to-mesh via bounding box versus the actual per-pixel depth value."
 
 Namespace TGenericMacTargetPlatform (5 keys)
 	MacVariantTitle = "编译类型"
@@ -4596,7 +5485,9 @@ Namespace ThemeColorBlock (8 keys)
 	Value = "V"
 	ToolTipFormat = "{Identifier}: {Value}"
 
-Namespace Timespan (0 keys)
+Namespace Timespan (2 keys)
+	Format_HoursMinutesSeconds = "{Hours}:{Minutes}:{Seconds}"
+	Format_MinutesSeconds = "{Minutes}:{Seconds}"
 
 Namespace TLinuxTargetPlatform (5 keys)
 	LinuxVariantTitle = "构建类型"
@@ -4615,7 +5506,25 @@ Namespace Toolbox (4 keys)
 	DebugToolsTooltipText = "打开调试工具选项卡。"
 	ModulesTooltipText = "打开模块选项卡。"
 
-Namespace TutorialCategories (0 keys)
+Namespace TutorialCategories (18 keys)
+	AnimationTitle = "Animation"
+	BasicsTitle = "Basics"
+	BlueprintsTitle = "Blueprints"
+	CodeTitle = "Code"
+	EditorsTitle = "Editors"
+	FoliageTitle = "Foliage"
+	BasicsDescription = "Getting started with Unreal Engine 4."
+	LandscapeTitle = "Landscape"
+	MobileTitle = "Mobile"
+	MobileDescription = "Mobile Tutorials."
+	Paper2DTitle = "Paper2D"
+	LandscapeDescription = "Tutorials covering the Unreal Editor 4 terrain editor: Landscape."
+	FoliageDescription = "Tutorials covering the Unreal Engine 4 Foliage tool."
+	AnimationDescription = "Tutorials covering the animation system in Unreal Engine 4."
+	BlueprintsDescription = "Tutorials covering the creation and usage of Blueprints."
+	Paper2DDescription = "Tutorials covering the usage of the Unreal Engine 4 2D game tool: Paper2D."
+	EditorsDescription = "Tutorials covering the various sub editors of Unreal Engine 4."
+	CodeDescription = "Write C++ code for use in Unreal Engine 4."
 
 Namespace UAnimCompress_RemoveLinearKeys (1 keys)
 	BeginReductionTaskMessage = "正在使用RemoveLinearKeys机制来压缩动画。"
@@ -4624,7 +5533,7 @@ Namespace UBreakpoint (2 keys)
 	NoEditorData = "--- 无编辑器数据！--- "
 	ErrorInvalidLocation = "错误：无效位置"
 
-Namespace UICommands.AutomationTest (10 keys)
+Namespace UICommands.AutomationTest (12 keys)
 	DeveloperDirectoryContent = "开发内容"
 	DeveloperDirectoryContent_ToolTip = "开发者目录内容筛选器（启用后，开发者目录也被包含）"
 	ErrorFilter = "错误"
@@ -4632,13 +5541,35 @@ Namespace UICommands.AutomationTest (10 keys)
 	FindWorkers_ToolTip = "寻找辅助应用程序"
 	RefreshTests = "刷新测试"
 	RefreshTests_ToolTip = "刷新测试"
+	RunLevelTest = "Run Level Test"
+	RunLevelTest_ToolTip = "Run Level Test"
 	ErrorFilter_ToolTip = "切换错误筛选器"
 	WarningFilter_ToolTip = "切换警告筛选器"
 	WarningFilter = "警告"
 
-Namespace UICommands.DeviceDetailsCommands (0 keys)
+Namespace UICommands.DeviceDetailsCommands (20 keys)
+	Claim = "Claim"
+	Claim_ToolTip = "Claim the device"
+	Connect = "Connect"
+	Connect_ToolTip = "Connect to the device"
+	Disconnect = "Disconnect"
+	Disconnect_ToolTip = "Disconnect from the device"
+	PowerOff = "Power Off"
+	PowerOffForce = "Power Off (Force)"
+	PowerOn = "Power On"
+	PowerOff_ToolTip = "Power off the device"
+	PowerOffForce_ToolTip = "Power off the device (forcefully close any running applications)"
+	PowerOn_ToolTip = "Power on the device"
+	Reboot = "Reboot"
+	Reboot_ToolTip = "Reboot the device"
+	Release = "Release"
+	Release_ToolTip = "Release the device"
+	Remove = "Remove"
+	Remove_ToolTip = "Remove the device"
+	Share = "Share"
+	Share_ToolTip = "Share the device with other users"
 
-Namespace UICommands.FProfilerCommands (30 keys)
+Namespace UICommands.FProfilerCommands (32 keys)
 	ToggleDataCapture = "数据捕获"
 	ToggleDataPreview = "数据预览"
 	MemoryProfiler_ToolTip = "启用内存分析器"
@@ -4647,6 +5578,8 @@ Namespace UICommands.FProfilerCommands (30 keys)
 	DataGraph_ViewMode_SetIndexBased = "基于索引"
 	ProfilerManager_ToggleLivePreview = "实时预览"
 	ProfilerManager_Load = "加载"
+	ProfilerManager_LoadMultiple = "Load Folder"
+	ProfilerManager_LoadMultiple_ToolTip = "Loads multiple stats dumps"
 	ProfilerManager_Load_ToolTip = "加载分析器数据"
 	MemoryProfiler = "内存"
 	OpenEventGraph = "打开事件图表"
@@ -4694,11 +5627,51 @@ Namespace UICommands.FVisualLoggerCommands (22 keys)
 	ToggleGraphs_ToolTip = "切换图表可视化开/管"
 	ToggleGraphs = "切换图表"
 
-Namespace UICommands.GenericCommands (0 keys)
+Namespace UICommands.GenericCommands (18 keys)
+	Copy = "Copy"
+	Copy_ToolTip = "Copy selection"
+	Cut = "Cut"
+	Cut_ToolTip = "Cut selection"
+	Delete = "Delete"
+	Delete_ToolTip = "Delete current selection"
+	Duplicate = "Duplicate"
+	Duplicate_ToolTip = "Duplicate selection"
+	Paste = "Paste"
+	Paste_ToolTip = "Paste clipboard contents"
+	Redo = "Redo"
+	Redo_ToolTip = "Redo last action"
+	Rename = "Rename"
+	Rename_ToolTip = "Rename current selection"
+	SelectAll = "Select All"
+	SelectAll_ToolTip = "Select everything in the current scope"
+	Undo = "Undo"
+	Undo_ToolTip = "Undo last action"
 
-Namespace UICommands.ProjectLauncherCommands (0 keys)
+Namespace UICommands.ProjectLauncherCommands (16 keys)
+	AdvancedBuild_ToolTip = "Advanced launcher."
+	AdvancedBuild = "Advanced..."
+	CloseSettings = "Back"
+	CreateBuild = "Build"
+	QuickLaunch_ToolTip = "Builds, cooks, and launches a build."
+	CloseSettings_ToolTip = "Close the launch profile settings editor and go back to the launcher."
+	CreateBuild_ToolTip = "Creates a build."
+	DeleteProfile = "Delete"
+	DeleteProfile_ToolTip = "Delete the launch profile."
+	DeployBuild = "Deploy Build"
+	DeployBuild_ToolTip = "Deploys a pre-made build."
+	DuplicateProfile = "Duplicate"
+	DuplicateProfile_ToolTip = "Duplicate the launch profile."
+	QuickLaunch = "Quick Launch"
+	RenameProfile = "Rename"
+	RenameProfile_ToolTip = "Rename the launch profile."
 
-Namespace UICommands.SessionConsoleCommands (0 keys)
+Namespace UICommands.SessionConsoleCommands (6 keys)
+	Clear = "Clear Log"
+	Clear_ToolTip = "Clear the log window"
+	SessionCopy = "Copy"
+	SessionCopy_ToolTip = "Copy the selected log messages to the clipboard"
+	SessionSave = "Save Log..."
+	SessionSave_ToolTip = "Save the entire log to a file"
 
 Namespace UICommands.STestSuite (16 keys)
 	EighthCommandInfo = "第八次测试"
@@ -4718,41 +5691,355 @@ Namespace UICommands.STestSuite (16 keys)
 	SixthCommandInfo_ToolTip = "这是第六项测试菜单项。显示关键帧绑定"
 	ThirdCommandInfo_ToolTip = "这是第三项测试菜单项"
 
-Namespace UICommands.TabCommands (0 keys)
+Namespace UICommands.TabCommands (4 keys)
+	CloseMajorTab = "Close Major Tab"
+	CloseMinorTab = "Close Minor Tab"
+	CloseMinorTab_ToolTip = "Closes the current window's active minor tab"
+	CloseMajorTab_ToolTip = "Closes the focused major tab"
 
-Namespace UKismetAnimationLibrary (0 keys)
+Namespace UKismetAnimationLibrary (1 keys)
+	AnimationLibraryWarning = "Animation Library Warning"
 
-Namespace UKismetArrayLibrary (0 keys)
+Namespace UKismetArrayLibrary (6 keys)
+	SetOutOfBoundsWarning = "Array assignment access out of bounds"
+	InsertOutOfBoundsWarning = "Array insertion out of bounds"
+	GetOutOfBoundsWarning = "Array read access out of bounds"
+	RemoveOutOfBoundsWarning = "Array removal out of bounds"
+	ResizeArrayNegativeWarning = "Array resized to negative size"
+	SwapElementsInArrayWarning = "Array swap access out of bounds"
 
-Namespace UKismetMathLibrary (0 keys)
+Namespace UKismetMathLibrary (14 keys)
+	ClampDaysToMaxTimespan = "Days value {DaysValue} is greater than maximum days TimeSpan can represent. Clamping to MaxValue."
+	ClampDaysToMinTimespan = "Days value {DaysValue} is less than minimum days TimeSpan can represent. Clamping to MinValue."
+	DivideByZeroWarning = "Divide by zero"
+	ClampHoursToMaxTimespan = "Hours value {HoursValue} is greater than maximum hours TimeSpan can represent. Clamping to MaxValue."
+	ClampHoursToMinTimespan = "Hours value {HoursValue} is less than minimum hours TimeSpan can represent. Clamping to MinValue."
+	InvalidDateWarning = "Invalid date warning"
+	ClampMillisecondsToMaxTimespan = "Milliseconds value {MillisecondsValue} is greater than maximum milliseconds TimeSpan can represent. Clamping to MaxValue."
+	ClampMillisecondsToMinTimespan = "Milliseconds value {MillisecondsValue} is less than minimum milliseconds TimeSpan can represent. Clamping to MinValue."
+	ClampMinutesToMaxTimespan = "Minutes value {MinutesValue} is greater than maximum minutes TimeSpan can represent. Clamping to MaxValue."
+	ClampMinutesToMinTimespan = "Minutes value {MinutesValue} is less than minimum minutes TimeSpan can represent. Clamping to MinValue."
+	ZeroLengthProjectionWarning = "Projection onto vector of zero length"
+	ClampSecondsToMaxTimespan = "Seconds value {SecondsValue} is greater than maximum seconds TimeSpan can represent. Clamping to MaxValue."
+	ClampSecondsToMinTimespan = "Seconds value {SecondsValue} is less than minimum seconds TimeSpan can represent. Clamping to MinValue."
+	NegativeSqrtWarning = "Square root of negative number"
 
-Namespace UMG (18 keys)
+Namespace UMG (34 keys)
 	NotValidClass = "Abstract, Deprecated or Replaced classes are not allowed to be used to construct a user widget. {UserWidgetClass} is one of these."
 	AddToPlayerScreen_NoPlayer = "AddToPlayerScreen失败。没有拥有的玩家！"
 	Common = "常见"
+	WidgetClassNull = "CreateWidget called with a null class."
 	NotUserWidget = "CreateWidget can only be used on UUserWidget children. {UserWidgetClass} is not a UUserWidget."
+	NoPlayer = "CreateWidget cannot be used on Player Controller with no attached player. {PlayerController} has no Player attached."
 	Extra = "额外"
+	TemplatingFailed = "Fast CreateWidget Warning!  This class can not be created using the fast path, because the property {0} on {1} references {2}.  Please add the 'Instanced' flag to this property."
 	Input = "输入"
 	Misc = "其它"
+	NoCookedWidgetTree = "No Cooked Widget Tree! {0}"
+	NoWidgetTree = "Null Widget Tree {0}"
 	NotLocalPlayer = "Only Local Player Controllers can be assigned to widgets. {PlayerController} is not a Local Player Controller."
 	Optimization = "优化"
 	Panel = "面板"
 	Primitive = "图元"
+	WidgetTreeVerify = "Property in widget template did not load correctly, {0}."
+	UMG WidgetBlueprint Library: SetInputMode_GameAndUI = "SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target"
+	UMG WidgetBlueprint Library: SetInputMode_GameOnly = "SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target"
+	UMG WidgetBlueprint Library: SetInputMode_UIOnly = "SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target"
 	NativeWidgetHostText = "Slate控件主机"
+	SpecialFX = "Special Effects"
 	TextBlockDefaultValue = "文本块"
+	NoPlayerControllerToFocus = "The PlayerController is not a valid local player so it can't focus the widget."
+	WidgetAlreadyHasParent = "The widget '{0}' already has a parent widget.  It can't also be added to the viewport!"
 	WidgetAlreadyOnScreen = "控件“{0}” 早已添加到屏幕。"
+	ThisWidgetDoesntSupportFocus = "This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true."
+	RemoveFromParentWithNoParent = "UWidget::RemoveFromParent() called on '{0}' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())"
+	OuterNull = "Unable to create the widget {0}, no outer provided."
 	NoInputListeningWithoutPlayerController = "{0}中没有玩家控制器，无法监听输入动作。"
 	UserCreated = "用户创建内容"
 	Viewport = "视口"
+	MissingOriginWidgetInTemplate = "Widget '{0}' Missing From Template For {1}."
 	null = "空"
 
-Namespace UMGAnimation (0 keys)
+Namespace UMGAnimation (1 keys)
+	MaterialTrackFormat = "{0} Material"
 
 Namespace UMGEditor (2 keys)
 	Uncategorized = "未分类"
 	NonVariableLabelFormat = "[{BaseName}]{Metadata}"
 
-Namespace UnicodeBlock (0 keys)
+Namespace UnicodeBlock (272 keys)
+	Adlam = "Adlam"
+	AegeanNumbers = "Aegean Numbers"
+	Ahom = "Ahom"
+	AlchemicalSymbols = "Alchemical Symbols"
+	AlphabeticPresentationForms = "Alphabetic Presentation Forms"
+	AnatolianHieroglyphs = "Anatolian Hieroglyphs"
+	AncientGreekMusicalNotation = "Ancient Greek Musical Notation"
+	AncientGreekNumbers = "Ancient Greek Numbers"
+	AncientSymbols = "Ancient Symbols"
+	Arabic = "Arabic"
+	ArabicExtendedA = "Arabic Extended - A"
+	ArabicMathematicalAlphabeticSymbols = "Arabic Mathematical Alphabetic Symbols"
+	ArabicPresentationFormsA = "Arabic Presentation Forms - A"
+	ArabicPresentationFormsB = "Arabic Presentation Forms - B"
+	ArabicSupplement = "Arabic Supplement"
+	Armenian = "Armenian"
+	Arrows = "Arrows"
+	Avestan = "Avestan"
+	Balinese = "Balinese"
+	Bamum = "Bamum"
+	BamumSupplement = "Bamum Supplement"
+	BasicLatin = "Basic Latin"
+	BassaVah = "Bassa Vah"
+	Batak = "Batak"
+	Bengali = "Bengali"
+	Bhaiksuki = "Bhaiksuki"
+	BlockElements = "Block Elements"
+	Bopomofo = "Bopomofo"
+	BopomofoExtended = "Bopomofo Extended"
+	BoxDrawing = "Box Drawing"
+	Brahmi = "Brahmi"
+	BraillePatterns = "Braille Patterns"
+	Buginese = "Buginese"
+	Buhid = "Buhid"
+	ByzantineMusicalSymbols = "Byzantine Musical Symbols"
+	CJKCompatibility = "CJK Compatibility"
+	CJKCompatibilityForms = "CJK Compatibility Forms"
+	CJKCompatibilityIdeographs = "CJK Compatibility Ideographs"
+	CJKCompatibilityIdeographsSupplement = "CJK Compatibility Ideographs Supplement"
+	CJKRadicalsSupplement = "CJK Radicals Supplement"
+	CJKStrokes = "CJK Strokes"
+	CJKSymbolsAndPunctuation = "CJK Symbols and Punctuation"
+	CJKUnifiedIdeographs = "CJK Unified Ideographs"
+	CJKUnifiedIdeographsExtensionA = "CJK Unified Ideographs Extension A"
+	CJKUnifiedIdeographsExtensionB = "CJK Unified Ideographs Extension B"
+	CJKUnifiedIdeographsExtensionC = "CJK Unified Ideographs Extension C"
+	CJKUnifiedIdeographsExtensionD = "CJK Unified Ideographs Extension D"
+	CJKUnifiedIdeographsExtensionE = "CJK Unified Ideographs Extension E"
+	Carian = "Carian"
+	CaucasianAlbanian = "Caucasian Albanian"
+	Chakma = "Chakma"
+	Cham = "Cham"
+	Cherokee = "Cherokee"
+	CherokeeSupplement = "Cherokee Supplement"
+	CombiningDiacriticalMarks = "Combining Diacritical Marks"
+	CombiningDiacriticalMarksExtended = "Combining Diacritical Marks Extended"
+	CombiningDiacriticalMarksSupplement = "Combining Diacritical Marks Supplement"
+	CombiningDiacriticalMarksForSymbols = "Combining Diacritical Marks for Symbols"
+	CombiningHalfMarks = "Combining Half Marks"
+	CommonIndicNumberForms = "Common Indic Number Forms"
+	ControlCharacter = "Control Character"
+	ControlPictures = "Control Pictures"
+	Coptic = "Coptic"
+	CopticEpactNumbers = "Coptic Epact Numbers"
+	CountingRodNumerals = "Counting Rod Numerals"
+	Cuneiform = "Cuneiform"
+	CuneiformNumbersAndPunctuation = "Cuneiform Numbers and Punctuation"
+	CurrencySymbols = "Currency Symbols"
+	CypriotSyllabary = "Cypriot Syllabary"
+	Cyrillic = "Cyrillic"
+	CyrillicExtendedA = "Cyrillic Extended - A"
+	CyrillicExtendedB = "Cyrillic Extended - B"
+	CyrillicExtendedC = "Cyrillic Extended C"
+	CyrillicSupplementary = "Cyrillic Supplementary"
+	Deseret = "Deseret"
+	Devanagari = "Devanagari"
+	DevanagariExtended = "Devanagari Extended"
+	Dingbats = "Dingbats"
+	DominoTiles = "Domino Tiles"
+	Duployan = "Duployan"
+	EarlyDynasticCuneiform = "Early Dynastic Cuneiform"
+	EgyptianHieroglyphs = "Egyptian Hieroglyphs"
+	Elbasan = "Elbasan"
+	EmoticonsEmoji = "Emoticons (Emoji)"
+	EnclosedAlphanumericSupplement = "Enclosed Alphanumeric Supplement"
+	EnclosedAlphanumerics = "Enclosed Alphanumerics"
+	EnclosedCJKLettersAndMonths = "Enclosed CJK Letters and Months"
+	EnclosedIdeographicSupplement = "Enclosed Ideographic Supplement"
+	Ethiopic = "Ethiopic"
+	EthiopicExtended = "Ethiopic Extended"
+	EthiopicExtendedA = "Ethiopic Extended - A"
+	EthiopicSupplement = "Ethiopic Supplement"
+	GeneralPunctuation = "General Punctuation"
+	GeometricShapes = "Geometric Shapes"
+	GeometricShapesExtended = "Geometric Shapes Extended"
+	Georgian = "Georgian"
+	GeorgianSupplement = "Georgian Supplement"
+	Glagolitic = "Glagolitic"
+	GlagoliticSupplement = "Glagolitic Supplement"
+	Gothic = "Gothic"
+	Grantha = "Grantha"
+	GreekExtended = "Greek Extended"
+	GreekAndCoptic = "Greek and Coptic"
+	Gujarati = "Gujarati"
+	Gurmukhi = "Gurmukhi"
+	HalfwidthAndFullwidthForms = "Halfwidth and Fullwidth Forms"
+	HangulCompatibilityJamo = "Hangul Compatibility Jamo"
+	HangulJamo = "Hangul Jamo"
+	HangulJamoExtendedA = "Hangul Jamo Extended - A"
+	HangulJamoExtendedB = "Hangul Jamo Extended - B"
+	HangulSyllables = "Hangul Syllables"
+	Hanunoo = "Hanunoo"
+	Hatran = "Hatran"
+	Hebrew = "Hebrew"
+	HighPrivateUseSurrogates = "High Private Use Surrogates"
+	HighSurrogates = "High Surrogates"
+	Hiragana = "Hiragana"
+	IPAExtensions = "IPA Extensions"
+	IdeographicDescriptionCharacters = "Ideographic Description Characters"
+	IdeographicSymbolsAndPunctuation = "Ideographic Symbols and Punctuation"
+	ImperialAramaic = "Imperial Aramaic"
+	InscriptionalPahlavi = "Inscriptional Pahlavi"
+	InscriptionalParthian = "Inscriptional Parthian"
+	Javanese = "Javanese"
+	Kaithi = "Kaithi"
+	KanaSupplement = "Kana Supplement"
+	Kanbun = "Kanbun"
+	KangxiRadicals = "Kangxi Radicals"
+	Kannada = "Kannada"
+	Katakana = "Katakana"
+	KatakanaPhoneticExtensions = "Katakana Phonetic Extensions"
+	KayahLi = "Kayah Li"
+	Kharoshthi = "Kharoshthi"
+	Khmer = "Khmer"
+	KhmerSymbols = "Khmer Symbols"
+	Khojki = "Khojki"
+	Khudawadi = "Khudawadi"
+	Lao = "Lao"
+	Latin1Supplement = "Latin - 1 Supplement"
+	LatinExtendedA = "Latin Extended - A"
+	LatinExtendedB = "Latin Extended - B"
+	LatinExtendedC = "Latin Extended - C"
+	LatinExtendedD = "Latin Extended - D"
+	LatinExtendedE = "Latin Extended - E"
+	LatinExtendedAdditional = "Latin Extended Additional"
+	Lepcha = "Lepcha"
+	LetterlikeSymbols = "Letterlike Symbols"
+	Limbu = "Limbu"
+	LinearA = "Linear A"
+	LinearBIdeograms = "Linear B Ideograms"
+	LinearBSyllabary = "Linear B Syllabary"
+	Lisu = "Lisu"
+	LowSurrogates = "Low Surrogates"
+	Lycian = "Lycian"
+	Lydian = "Lydian"
+	Mahajani = "Mahajani"
+	MahjongTiles = "Mahjong Tiles"
+	Malayalam = "Malayalam"
+	Mandaic = "Mandaic"
+	Manichaean = "Manichaean"
+	Marchen = "Marchen"
+	MathematicalAlphanumericSymbols = "Mathematical Alphanumeric Symbols"
+	MathematicalOperators = "Mathematical Operators"
+	MeeteiMayek = "Meetei Mayek"
+	MeeteiMayekExtensions = "Meetei Mayek Extensions"
+	MendeKikakui = "Mende Kikakui"
+	MeroiticCursive = "Meroitic Cursive"
+	MeroiticHieroglyphs = "Meroitic Hieroglyphs"
+	Miao = "Miao"
+	MiscellaneousMathematicalSymbolsA = "Miscellaneous Mathematical Symbols - A"
+	MiscellaneousMathematicalSymbolsB = "Miscellaneous Mathematical Symbols - B"
+	MiscellaneousSymbols = "Miscellaneous Symbols"
+	MiscellaneousSymbolsAndArrows = "Miscellaneous Symbols and Arrows"
+	MiscellaneousSymbolsAndPictographs = "Miscellaneous Symbols and Pictographs"
+	MiscellaneousTechnical = "Miscellaneous Technical"
+	Modi = "Modi"
+	ModifierToneLetters = "Modifier Tone Letters"
+	Mongolian = "Mongolian"
+	MongolianSupplement = "Mongolian Supplement"
+	Mro = "Mro"
+	Multani = "Multani"
+	MusicalSymbols = "Musical Symbols"
+	Myanmar = "Myanmar"
+	MyanmarExtendedA = "Myanmar Extended - A"
+	MyanmarExtendedB = "Myanmar Extended - B"
+	NKo = "NKo"
+	Nabataean = "Nabataean"
+	NewTaiLue = "New Tai Lue"
+	Newa = "Newa"
+	NumberForms = "Number Forms"
+	Ogham = "Ogham"
+	OlChiki = "Ol Chiki"
+	OldHungarian = "Old Hungarian"
+	OldItalic = "Old Italic"
+	OldNorthArabian = "Old North Arabian"
+	OldPermic = "Old Permic"
+	Old Persian = "Old Persian"
+	OldSouthArabian = "Old South Arabian"
+	OldTurkic = "Old Turkic"
+	OpticalCharacterRecognition = "Optical Character Recognition"
+	Oriya = "Oriya"
+	OrnamentalDingbats = "Ornamental Dingbats"
+	Osage = "Osage"
+	Osmanya = "Osmanya"
+	PahawhHmong = "Pahawh Hmong"
+	Palmyrene = "Palmyrene"
+	PauCinHau = "Pau Cin Hau"
+	PhagsPa = "Phags - pa"
+	PhaistosDisc = "Phaistos Disc"
+	Phoenician = "Phoenician"
+	PhoneticExtensions = "Phonetic Extensions"
+	PhoneticExtensionsSupplement = "Phonetic Extensions Supplement"
+	PlayingCards = "Playing Cards"
+	PrivateUseArea = "Private Use Area"
+	PsalterPahlavi = "Psalter Pahlavi"
+	Rejang = "Rejang"
+	RumiNumeralSymbols = "Rumi Numeral Symbols"
+	Runic = "Runic"
+	Samaritan = "Samaritan"
+	Saurashtra = "Saurashtra"
+	Sharada = "Sharada"
+	Shavian = "Shavian"
+	ShorthandFormatControls = "Shorthand Format Controls"
+	Siddham = "Siddham"
+	Sinhala = "Sinhala"
+	SinhalaArchaicNumbers = "Sinhala Archaic Numbers"
+	SmallFormVariants = "Small Form Variants"
+	SoraSompeng = "Sora Sompeng"
+	SpacingModifierLetters = "Spacing Modifier Letters"
+	Specials = "Specials"
+	Sundanese = "Sundanese"
+	SundaneseSupplement = "Sundanese Supplement"
+	SuperscriptsAndSubscripts = "Superscripts and Subscripts"
+	SupplementalArrowsA = "Supplemental Arrows - A"
+	SupplementalArrowsB = "Supplemental Arrows - B"
+	SupplementalArrowsC = "Supplemental Arrows - C"
+	SupplementalMathematicalOperators = "Supplemental Mathematical Operators"
+	SupplementalPunctuation = "Supplemental Punctuation"
+	SupplementalSymbolsAndPictographs = "Supplemental Symbols and Pictographs"
+	SuttonSignWriting = "Sutton SignWriting"
+	SylotiNagri = "Syloti Nagri"
+	Syriac = "Syriac"
+	Tagalog = "Tagalog"
+	Tagbanwa = "Tagbanwa"
+	Tags = "Tags"
+	TaiLe = "Tai Le"
+	TaiTham = "Tai Tham"
+	TaiViet = "Tai Viet"
+	TaiXuanJingSymbols = "Tai Xuan Jing Symbols"
+	Takri = "Takri"
+	Tamil = "Tamil"
+	Tangut = "Tangut"
+	TangutComponents = "Tangut Components"
+	Telugu = "Telugu"
+	Thaana = "Thaana"
+	Thai = "Thai"
+	Tibetan = "Tibetan"
+	Tifinagh = "Tifinagh"
+	Tirhuta = "Tirhuta"
+	TransportAndMapSymbols = "Transport and Map Symbols"
+	Ugaritic = "Ugaritic"
+	UnifiedCanadianAboriginalSyllabics = "Unified Canadian Aboriginal Syllabics"
+	UnifiedCanadianAboriginalSyllabicsExtended = "Unified Canadian Aboriginal Syllabics Extended"
+	Vai = "Vai"
+	VariationSelectors = "Variation Selectors"
+	VariationSelectorsSupplement = "Variation Selectors Supplement"
+	VedicExtensions = "Vedic Extensions"
+	VerticalForms = "Vertical Forms"
+	WarangCiti = "Warang Citi"
+	YiRadicals = "Yi Radicals"
+	YiSyllables = "Yi Syllables"
+	YijingHexagramSymbols = "Yijing Hexagram Symbols"
 
 Namespace UnitConversion (6 keys)
 	CannotAddErr = "无法添加{0}到{1}"
@@ -4774,8 +6061,13 @@ Namespace UnrealClient (2 keys)
 	HighResScreenshotSavedAs = "高分辨率截图另存为"
 	HighResScreenshotTooBig = "高分辨率截图乘数对您的系统来说过大。请再次用一个更小的值来尝试！"
 
-Namespace UnrealEd (78 keys)
+Namespace UnrealEd (94 keys)
 	Error = "!"
+	GameWindowTitleDebugInfo = "({PlatformArchitecture}-bit, {RHIName})"
+	Error_InvalidFilename = "A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9."
 	VisualizeAOSF = "环境遮挡"
 	ReplaceExistingObjectInPackage_F = "类 [{1}]的对象 [{0}] 已经存在于文件[{2}]中。  您想替换现有的对对象吗?  如果您点击'是'，那么将会删除现有对象。  否则，如果点击'否'，则为您的新对象选择一个唯一的名称。"
 	AudioVolumeSF = "音频"
@@ -4783,27 +6075,34 @@ Namespace UnrealEd (78 keys)
 	Module_LocationBoneSocket_AutoFill = "自动填充的骨骼/插槽名称"
 	SomeNotifiesWereNotCopiedF = "由于目标序列更为简短，{0}个通知未被复制。"
 	BlockingVolumeSF = "阻挡"
-	Error_RetryCompilation = "C++ compilation of module {0} failed!  Details in the log.  
-Fix the error then click Ok to retry."
+	Error_RetryCompilation = "C++ compilation of module {0} failed!  Details in the log.  \\nFix the error then click Ok to retry."
 	Cancel = "取消"
 	MeshMaterialsWithNamedMaterialsError = "在所需模块中使用命名材质覆盖时无法使用网格物体材质模块。"
 	MeshMaterialsWithOverrideMaterialError = "在网格物体类型数据模块中使用覆盖材质时无法使用网格物体材质模块。"
 	NamedMaterialOverriedsAndOverrideMaterialError = "在网格物体类型数据模块中使用覆盖材质时无法使用命名的材质覆盖。"
+	ChooseADirectory = "Choose A Directory"
 	SavingPackage_CompressingSourceArt = "正在对贴图压缩源美术:  {0}"
 	SavingPackage_CompressingTexture = "正在压缩贴图:  {0}"
 	ConsoleHelpExported = "ConsoleHelp.html已被保存为"
-	SplashScreen_CopyrightInfo = "Copyright © 1998-2017   Epic Games, Inc.   All rights reserved."
+	SplashScreen_CopyrightInfo = "Copyright © 1998-2018   Epic Games, Inc.   All rights reserved."
 	Error_CouldntLaunchPIEClient = "无法启动PIE客户端: {0}"
 	Error_CouldntSpawnPlayer = "无法生成玩家: {0}"
+	Error_CouldntWriteToFile_F = "Couldn't write to file '{0}'. Maybe file is read-only?"
 	CullDistanceVolumeSF = "剔除距离"
 	CollisionWithoutDistanceField = "距离场遮挡需要启用渲染器项目设置'生成网格物体距离场'。"
 	DuplicatedHardcodedName = "复制硬编码名称: {0}"
 	Module_LocationBoneSocket_EditorMeshNoBones = "编辑器网格物体无骨骼。"
 	Module_LocationBoneSocket_EditorMeshNoSockets = "编辑器网格物体无插槽。"
+	Exporting = "Exporting"
+	Exportingf = "Exporting ({0} of {1})"
 	AutomationTest_Fail = "失败"
 	Error_FailedCreatePlayFromHerePlayerStart = "在所需起始位置处创建玩家起始位置失败。"
 	Error_FailedCreateEditorPreviewWorld = "创建编辑器预览世界失败。"
+	Error_FailedToMakeDirectory = "Failed to make directory {0}"
 	Error_FailedToBindShaderParameter = "绑定非可选着色器参数{0}失败!可能参数不在着色器中，或着色器编译器对其进行了最优化处理。这是一个LogShaders被禁用的断言!"
+	Error_FilenameDisallowed = "Filename '{0}' is disallowed."
+	Error_FilenameIsTooLongForCooking = "Filename '{0}' is too long; this may interfere with cooking for consoles.  Unreal filenames should be no longer than {1} characters."
+	Error_NoneFilename = "Filename '{0}' resolves to 'None' and cannot be used"
 	Error_InputNamesMustBeUnique = "函数输入名称必须为独特名称"
 	Error_OutputNamesMustBeUnique = "函数输出名称必须为独特名称"
 	Module_LocationSkelVertSurface_InheritVertexColorOnGPUError = "顶点颜色的继承在GPU发射器上不受支持。"
@@ -4816,6 +6115,7 @@ Fix the error then click Ok to retry."
 	LevelStreamingVolumeSF = "关卡动态加载"
 	LightmassCharacterIndirectDetailVolumeSF = "Lightmass角色间接细节"
 	LightmassImportanceVolumeSF = "Lightmass重要性"
+	Load = "Load Profile data"
 	SplashScreen_InitialStartupProgress = "正在加载..."
 	MAX_NETWORKED_HARDCODED_NAME Incorrect = "MAX_NETWORKED_HARDCODED_NAME设置错误!(当前为{0}, 必须不高于{1}"
 	MassiveLODOverrideVolumeSF = "Massive LOD覆盖"
@@ -4823,6 +6123,7 @@ Fix the error then click Ok to retry."
 	NavMeshBoundsVolumeSF = "NavMesh绑定"
 	No = "不"
 	Module_LocationBoneSocket_NoEditorMesh = "未设置编辑器网格物体。"
+	Exporter_Error_SourceDataUnavailable = "No source data available for some objects.  See the log for details."
 	NoToAll = "全部选否"
 	None = "无"
 	OK = "好"
@@ -4836,6 +6137,7 @@ Fix the error then click Ok to retry."
 	ProcessingSections = "正在处理此部分"
 	RandomSubUVForGPUEmitter = "随机子UV插值不受GPU粒子支持。"
 	Reverse = "反向"
+	Save_F = "Save: {0}"
 	CollisionOnOpaqueEmitter = "对不透明材质的发射器无法使用场景深度碰撞。"
 	Module_ColorScaleOverLife_SetupParticleParam = "设置粒子参数"
 	UVOverlay_F = "正在显示LOD {1}的UV通道{0}"
@@ -4846,16 +6148,17 @@ Fix the error then click Ok to retry."
 	TestSlateGameUIButtonText = "测试按钮！"
 	Error_ParentalControls = "在当前级别的家长控制下您无法运行此游戏"
 	DestSeqAlreadyContainsNotifiesMergeQ = "目标序列已包含{0}个通知。在复制前删除它们？"
+	Error_CouldntInitInstance = "The game instance failed to Play/Simulate In Editor"
 	TriggerVolumeSF = "触发器"
 	UnrealEdTitleNoGameName_F = "虚幻编辑器"
 	UnrealEdTitle_F = "虚幻编辑器 - {0}"
 	UnrealEdTitleWithVersionNoGameName_F = "虚幻编辑器{0}"
 	UnrealEdTitleWithVersion_F = "虚幻编辑器{0}  -  {1}"
+	AssetTools_ExportObjects_CancelRemaining = "Would you like to cancel exporting the next {0} files as well?"
 	Yes = "是"
 	YesToAll = "应用到所有"
-	Error_RetryShaderCompilation = "{0}
-
-Retry compilation?"
+	Error_RetryShaderCompilation = "{0}\\n\\nRetry compilation?"
+	GameWindowTitle = "{GameName}"
 
 Namespace UnrealEditor (6 keys)
 	DeviceOutputLogTab = "设备输出日志"
@@ -4865,8 +6168,10 @@ Namespace UnrealEditor (6 keys)
 	OutputLogTooltipText = "打开输出日志选项卡。"
 	OutputLogTab = "输出日志"
 
-Namespace UnrealEngine (9 keys)
+Namespace UnrealEngine (11 keys)
 	BlueprintInLevelHadCompileErrorMessage = "蓝图编译错误"
+	UNSUPPORTEDDYNRES = "DYNAMIC RESOLUTION IS NOT SUPPORTED ON THIS PLATFORM"
+	MEMPROFILINGWARNINGLLM = "LLM enabled without Debug Memory enabled!"
 	Levelstreamingfrozen = "关卡动态加载冻结..."
 	NAMEDEVENTSENABLED = "已启用命名的事件"
 	NAVMESHERROR = "需要重建NAVMESH"
@@ -4874,14 +6179,20 @@ Namespace UnrealEngine (9 keys)
 	GCPROFILINGWARNING = "在启用垃圾‘回收确认’的情况下进行分析！"
 	PrepareMapChangeError = "PrepareMapChange关卡名称错误！检查日志（带PREPAREMAPCHANGE标记）以获信息"
 	OutOfTextureMemory = "贴图内存溢出，即将崩溃且GPU终止工作！"
-	MEMPROFILINGWARNING = "WARNING: Running with Debug Memory Enabled!"
+	LLMWARNING = "WARNING: Running with Debug Memory Enabled!"
 
-Namespace UObject (3 keys)
-	KilobytesSuffix = "千字节"
-	Size = "大小"
-	SizeTooltip = "资源的大小，以千字节为单位"
+Namespace UObject (4 keys)
+	PrimaryAssetNameTooltip = "Logical name registered with the Asset Manager system"
+	PrimaryAssetName = "Primary Asset Name"
+	PrimaryAssetType = "Primary Asset Type"
+	PrimaryAssetTypeTooltip = "Type registered with the Asset Manager system"
 
-Namespace UObjectToolTips (0 keys)
+Namespace UObjectToolTips (5 keys)
+	CameraFilmbackSettings:SensorWidth = "Horizontal size of filmback or digital sensor, in mm."
+	LevelSequenceSnapshotSettings:FrameRate = "Playback framerate"
+	CameraFilmbackSettings:SensorAspectRatio = "Read-only. Computed from Sensor dimensions."
+	CameraFilmbackSettings:SensorHeight = "Vertical size of filmback or digital sensor, in mm."
+	LevelSequenceSnapshotSettings:ZeroPadAmount = "Zero pad frames"
 
 Namespace UStaticMesh (1 keys)
 	CollisionPrimsTooltip = "静态网格物体中碰撞图元的数量"
@@ -4901,7 +6212,9 @@ Namespace VisualizeRT (10 keys)
 	Title = "可视化渲染对象"
 	WidthColumnHeader = "宽度"
 
-Namespace VulkanRHI (0 keys)
+Namespace VulkanRHI (2 keys)
+	UnableToInitializeVulkanLinuxTitle = "Unable to initialize Vulkan."
+	UnableToInitializeVulkanLinux = "Unable to load Vulkan library and/or acquire the necessary function pointers. Make sure an up-to-date libvulkan.so.1 is installed."
 
 Namespace WebBrowser (6 keys)
 	Back = "返回"
@@ -4917,9 +6230,10 @@ Namespace WebBrowserHandler (1 keys)
 Namespace WidgetBlock (1 keys)
 	CustomControl = "自定义控制"
 
-Namespace WidgetGallery (54 keys)
+Namespace WidgetGallery (63 keys)
 	AddBreadCrumbLabel = "添加"
 	ButtonExampleLabel = "按钮"
+	ClickMeLabel = "Click Me!"
 	ComboButtonItemLabel01 = "组合
      按钮
   菜单
@@ -4949,6 +6263,9 @@ Namespace WidgetGallery (54 keys)
 	SHeaderLabel = "SHeader"
 	SHyperlinkLabel = "SHyperlink"
 	SImageLabel = "SImage"
+	StacklessAnchorLabel = "SMenuAnchor with UseApplicationMenuStack=false"
+	SMultiLineEditableTextLabel = "SMultiLineEditableText"
+	SMultiLineEditableTextBoxLabel = "SMultiLineEditableTextBox"
 	SProgressBarLabel = "SProgressBar"
 	SSearchBoxLabel = "SSearchBox"
 	SSeparatorLabel = "SSeparator"
@@ -4965,18 +6282,28 @@ Namespace WidgetGallery (54 keys)
 	SVolumeControlLabel = "SVolumeControl"
 	PlaceholderBreadcrumb = "SomeCrumb"
 	PlaceholderBreadcrumb02 = "SomeNewCrumb"
+	StacklessContentLabel1 = "Stackless Content 1"
+	StacklessContentLabel2 = "Stackless Content 2"
 	ButtonTestLabel = "测试"
 	SHyperlinkText = "要在超链接控件中出现的文本。"
 	STextBlockCenterExampleLabel = "这是居中对齐的文本块"
 	STextBlockLeftExampleLabel = "这是左对齐的文本块"
+	SMultiLineEditableTextBoxHint = "This is a multi-line editable text box"
 	STextBlockRightExampleLabel = "这是右对齐的文本块"
 	SEditableTextBoxHint = "这是一个可编辑文本框"
 	SEditableTextHint = "这是可编辑文本"
+	SMultiLineEditableTextHint = "This is multi-line editable text"
+	STextBlockUnderlineLabel = "This is text is underlined using a line highlighter!"
 	SUserWidgetTest = "UserWidgetTest.cpp"
 	ComboButtonItemLabel02 = "任意"
 	ComboButtonItemLabel03 = "控件"
 
-Namespace WidgetReflectorNode (0 keys)
+Namespace WidgetReflectorNode (5 keys)
+	WidgetClippingNo = "No"
+	WidgetClippingOnDemand = "On Demand"
+	WidgetClippingYes = "Yes"
+	WidgetClippingYesAlways = "Yes (Always)"
+	WidgetClippingYesWithoutIntersecting = "Yes (No Intersect)"
 
 Namespace WidgetSnapshotVisualizer (5 keys)
 	PickSnapshotWidget = "选择快照控件"
@@ -5002,7 +6329,9 @@ Namespace WindowsPlatform (7 keys)
 	GameExplorerUninstallationFailed = "GameExplorer卸载失败，正在退出。"
 	GameExplorerUninstallationSuccessful = "GameExplorer卸载成功，正在退出。"
 
-Namespace WindowsPlatformEditorModule (0 keys)
+Namespace WindowsPlatformEditorModule (2 keys)
+	TargetSettingsDescription = "Settings for Windows target platform"
+	TargetSettingsName = "Windows"
 
 Namespace World (1 keys)
 	LevelStreamingFailToStreamLevel = "未能找到动态加载的关卡{PackageName},请在关卡浏览器中修复对它的引用"
@@ -5013,7 +6342,12 @@ Namespace x (1 keys)
 Namespace XboxOne (1 keys)
 	DynamicRHIFailure = "XboxOneRHI错误？"
 
-Namespace XboxOneTargetSettingsDetails (0 keys)
+Namespace XboxOneTargetSettingsDetails (5 keys)
+	AppLogoLabel = "Application Logo"
+	AppSmLogoLabel = "Application Small Logo"
+	AppSplashLabel = "Application Splash Screen"
+	AppWdLogoLabel = "Application Wide Logo"
+	PackageLogoLabel = "Package Logo"
 
 Namespace XmlParser (7 keys)
 	FileLoadFail = "加载文件失败"

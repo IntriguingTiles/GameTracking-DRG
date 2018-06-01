@@ -1,7 +1,7 @@
-481 namespaces
-3186 values
+484 namespaces
+4150 values
 
-Namespace Global (700 keys)
+Namespace Global (742 keys)
 	4B0118694F87069CBD082CB627E7F3E2 = "++"
 	CEC5F3244730518F161FB19868120ABA = "++"
 	6291952E43BA00D62F01B4BCE87DB3D0 = "-"
@@ -13,6 +13,11 @@ Namespace Global (700 keys)
 	DebugAISF = "AI デバッグ"
 	128F428241C3AC1F9764EB9F733132DB = "AIテスト"
 	VisualizeAdaptiveDOFSF = "アダプティブ DOF"
+	09470CB644C923595D0F8F8DF9D6CCE1 = "Add 1 to the specified value then set it"
+	FE8722BF46673259CC2E27ABD40528CF = "Add 1.0 to the specified value then set it"
+	BEC4C274444C353315F85CBA0B05BECC = "Allows exec to pass through only 'n' times."
+	FED912BD4D41A7463FFD82BBE165BDE2 = "Allows for opening and closing a "gate" to control the execution flow."
+	FB19F4DC4B50C3CC96755DBA24440843 = "Alternates between A and B outputs, starting with A"
 	AmbientCubemapSF = "アンビエント キューブマップ"
 	AmbientOcclusionSF = "アンビエントオクルージョン"
 	AntiAliasingSF = "アンチエイリアス"
@@ -44,6 +49,7 @@ Namespace Global (700 keys)
 	F068EA624D1D1142342ABDAFAFA02D82 = "ブレンド"
 	BloomSF = "ブルーム"
 	VisualizeBloom = "ブルーム"
+	BoneSF = "Bones"
 	E4F767214929FEEBE44A74A138B9A5EE = "メッシュ回転とマテリアルインスタンス補間両方"
 	BoundsSF = "バウンド"
 	BrushesSF = "ブラシ"
@@ -54,6 +60,7 @@ Namespace Global (700 keys)
 	CameraImperfectionsSF = "カメラ 不完全表示"
 	CameraInterpolationSF = "カメラ 実機表現"
 	CameraSafeFramesSF = "カメラ 文字セーフフレーム"
+	CapsuleShadows = "Capsule Shadows"
 	0C14D6C446FADB5F786268801335AA9E = "キャプチャー"
 	31C9DD714D3B49A60EF40D94123C4B91 = "キャプチャー"
 	49FD59F9463463E04660F1B5B83CA8E6 = "キャプチャー"
@@ -84,6 +91,10 @@ Namespace Global (700 keys)
 	EA42D7E945A5D659F36521A3FD11EC61 = "キャプチャ設定"
 	CollisionWireFrame = "コリジョン"
 	ColorGradingSF = "カラー グレーディング"
+	2DDC9F6949EB39B12D8A81A0C35F8034 = "Compare one float to another and indicate if it is greater, less than or the same."
+	A159665C41D08B7534A21CB702F6A75B = "Compare one integer to another and indicate if it is greater, less than or the same."
+	749E0E00490CAE4CE91C798F7AA5E6EA = "ComplexMotion"
+	D6D58BE44D9BFB891142E7BCB5DBEA20 = "ComplexMotion"
 	CompositeEditorPrimitivesSF = "コンポジット エディタ プリミティブ"
 	ConstraintsSF = "コンストレイン"
 	1835A69446FA56E73546C492D37449B1 = "座標"
@@ -197,6 +208,7 @@ Namespace Global (700 keys)
 	E0E433E74779358D0588EFAF4CA95E4B = "深度マップ"
 	DepthOfFieldSF = "DOF"
 	VisualizeDOFSF = "DOF レイヤー"
+	C2A2C43144F43B04AD0E6EBF3956A75A = "Determines if an object is valid"
 	DiffuseSF = "ディフューズ"
 	DirectLightingSF = "直接 ライティング"
 	DirectionalLightsSF = "ディレクショナル ライト"
@@ -215,6 +227,8 @@ Namespace Global (700 keys)
 	DynamicShadowsSF = "ダイナミック シャドウ"
 	227AD9A34A6EEA54EE60E597F92EB0AA = "エディタ"
 	EditorSF = "エディタ"
+	F3549FC745490C9CBE98DFAD19235513 = "Executes LoopBody for each Index from StartIndex to StopIndex, inclusive"
+	E2CFA53D417FA9146446E48EC9DF7422 = "Executes LoopBody for each index FirstIndex to LastIndex, inclusive.  If execution goes in to break, the loop will exit without executing the remaining indices"
 	EyeAdaptationSF = "自動適正露光"
 	F784B96A4710148A9BA17B96DDF6E6FB = "フリップブック メッシュ アニメーション"
 	0C241AE74EB7F5D2DBA6DBA3C2EECDDE = "フリップブック・インポスター コンビナーズ"
@@ -231,6 +245,7 @@ Namespace Global (700 keys)
 	FogSF = "フォグ"
 	CEEA90714D6C0FA766F1EBA8F71EE6FD = "フォリッジ"
 	InstancedFoliageSF = "フォリッジ"
+	FoliageOcclusionBoundsSF = "Foliage Occlusion Bounds"
 	7E8A374C4A36C41ECDDCFB9722E5CD01 = "フォリッジペインター"
 	ForceFeedbackSF = "フォースフィードバック半径"
 	1BF42FC9447506B860B501BB1E63AA31 = "Foreach"
@@ -241,6 +256,7 @@ Namespace Global (700 keys)
 	GameplayDebugSF = "ゲームプレイ デバッグ"
 	3F6CE58E4D5D39EF346AFAAAC08B6275 = "GetPostProcessSetting"
 	9FCF345A4DB411262AEAF79270E4B221 = "GetPostProcessSetting"
+	GlobalDistanceFieldSF = "Global DistanceField"
 	GlobalIlluminationSF = "グローバル イルミネーション"
 	244056804E0E9198BBD30F81BEBC1B43 = "グラディエント"
 	6775ECF64CBD57F89949DEAF5012B53B = "グラディエント"
@@ -275,6 +291,7 @@ Namespace Global (700 keys)
 	B79EB6CB41ECA56A3E3DE9917B55A663 = "ランドスケープ"
 	LandscapeSF = "ランドスケープ"
 	LargeVerticesSF = "大きな頂点"
+	27313F9A464426BB4A2191A3F161FDA8 = "Layers"
 	LensFlaresSF = "レンズ フレア"
 	78BA211347671F164A0DEEB2E70813AA = "レンズフレア"
 	LevelColorationSF = "レベル配色"
@@ -299,6 +316,7 @@ Namespace Global (700 keys)
 	MassPropertiesSF = "マスプロパティ"
 	A1AADEE2403BB249292D9690FD14A40E = "マテリアル"
 	1D9BDEB94BE844BEC3E8519C2BBDDA0E = "マテリアルインスタンス補間"
+	MaterialTextureScaleAccuracy = "Material Texture Scales Accuracy"
 	02B918C540E3F44726822AA7ABEA9801 = "マテリアルレイヤーブレンド"
 	0F7416BA4DA313D266094AA9A5DC5C5C = "マテリアルレイヤーブレンド"
 	15FED48845D6403E18F61E8C4302A3AE = "マテリアルレイヤーブレンド"
@@ -372,8 +390,10 @@ Namespace Global (700 keys)
 	7D5B289D406B33F136977BB185F6FDB0 = "演算 | 整数"
 	ADC4F012482FF27A2BBD5F93334B6118 = "演算 | 整数"
 	AFF858D74026E1FB7E49A28E1610F83E = "演算 | 整数"
+	MediaPlanesSF = "Media Planes"
 	MeshDistanceFieldsSF = "メッシュ ディスタンスフィールド"
 	MeshEdgesSF = "メッシュ エッジ"
+	MeshUVDensityAccuracy = "Mesh UV Densities Accuracy"
 	393CA268495A27CFD88657951101E012 = "その他"
 	D929CD1D42471C8E1BDCFB922F0F71B5 = "その他"
 	DC9F695F443D20D117BC1A8CB89693C8 = "その他"
@@ -383,6 +403,8 @@ Namespace Global (700 keys)
 	467B0C704891A78A2117E0A67541A0B4 = "ムーブゴール"
 	731B82B44E3EC05F345A3893D994605E = "ムーブゴール"
 	9E5C27F642EA6C729394E0A3D0B0EB72 = "ムーブゴール"
+	9C5149274B51F4B7ED2DD3BE88C590AE = "Multiply the specifed value by -1 then set it"
+	6EE6A03540E69D129B731088E1097D6E = "Multiply the specifed value by -1.0 then set it"
 	NavigationSF = "ナビゲーション"
 	35BA04ED4E86EF118661239BD1229791 = "ネットワーキング"
 	73FE03B346FB5B0F68B8CEA50BA35379 = "ネットワーキング"
@@ -392,6 +414,8 @@ Namespace Global (700 keys)
 	4CE96BFB4046EAADB899A29F20B87F04 = "オパシティ"
 	73C835F64FEC714BC36363B72F71446B = "オパシティ"
 	VisualizeOutOfBoundsPixelsSF = "範囲外のピクセル"
+	OutputMaterialTextureScales = "Output Material Texture Scales"
+	A5AAE66B4192690AC57EEABBE72ABD46 = "Output fires only on the first time the node is hit, but can be reset"
 	OverrideDiffuseAndSpecularSF = "ディフューズとスペキュラをオーバーライド"
 	4E64CDAF4D872FFF5B0F71A20EB1253E = "オーバーライド設定"
 	A9D096D54EF064C39E56449138CDB176 = "オーバーライド設定"
@@ -400,11 +424,11 @@ Namespace Global (700 keys)
 	D92C9CDE4FFDA147183F769AE8C78BC6 = "オーバーライド設定"
 	EF65BA1F4EBC688BC75A5198BBB6AE69 = "オーバーライド設定"
 	Paper2DSpritesSF = "ペーパー2Dスプライト"
+	ParticlesSF = "Particle Sprites"
 	29BB5D824EE25B49BEDFDDA325FDF8BC = "パーティクルシステムフレームダンプ"
 	48B016CD42C6D9FC6AC945A6BE21A52E = "パーティクル"
 	632086B94646B2A13EDC4983CC767756 = "パーティクル"
 	7B184F2B42CFFD3401B030A3E1A16296 = "パーティクル"
-	ParticlesSF = "パーティクル スプライト"
 	CollisionPawn = "ポーン"
 	0F02C4AD435384045CA7FF8C37680BD6 = "フィジックス地面"
 	11111E0C4ADB5C1C40C7D69159630B2B = "フィジックス地面"
@@ -449,6 +473,7 @@ Namespace Global (700 keys)
 	PrecomputedVisibilitySF = "プリコンピュート結果の表示"
 	PrecomputedVisibilityCellsSF = "プリコンピュート結果の表示セル"
 	PreviewShadowIndicatorSF = "シャドウ インジケーターのプレビュー"
+	PrimitiveDistanceAccuracy = "Primitive Distance Accuracy"
 	306226F248EEFB9E925D1C93FF28B700 = "Procedurals"
 	627915984635287FACDB4DA6327911E7 = "Procedurals"
 	B1287FBA45BD48C641309BB06B4B0265 = "Procedurals"
@@ -456,6 +481,8 @@ Namespace Global (700 keys)
 	E8963D294C7BAE8ECAED5399CE95952E = "Procedurals"
 	F70A83064A955F986662ADAD6752F010 = "Procedurals"
 	PropertyColorationSF = "プロパティの着色"
+	QuadOverdrawSF = "Quad Overdraw"
+	RayTracedDistanceFieldShadows = "Ray Traced Distance Field Shadows"
 	ReflectionEnvironmentSF = "反射用環境"
 	9F1E79E34A80164D5AB90FB5C0769832 = "リフレクション"
 	AE4B977949471C5637DDB88F42DCFD66 = "リフレクション"
@@ -542,6 +569,8 @@ Namespace Global (700 keys)
 	8B5FDCCB4D6D747E67639696462D7470 = "アンラップされたメッシュを描画"
 	C095AE7643AF1AB7B8C3319003B1C2F5 = "アンラップされたメッシュを描画"
 	D450C2B5488575A26BBA609A0E3059E5 = "レンダーをテクスチャーに"
+	124CF3854582F58A12C20B9B6EE0B5F0 = "Repeatedly executes LoopBody as long as Condition is true"
+	RequiredTextureResolution = "Required Texture Resolution"
 	SceneColorFringeSF = "シーンのカラーフリンジ"
 	ScreenPercentageSF = "スクリーン比"
 	ScreenSpaceAOSF = "スクリーンスペースAO"
@@ -552,7 +581,9 @@ Namespace Global (700 keys)
 	SelectionOutlineSF = "選択アウトライナー"
 	VisualizeSenses = "認識"
 	SeparateTranslucencySF = "透過を分離"
+	SerializationOutOfBoundsErrorMessageCaption = "Serialization Error : Action Needed"
 	ShaderComplexitySF = "シェーダーの複雑度"
+	ShaderComplexityWithQuadOverdraw = "Shader Complexity With Quad Overdraw"
 	10D7E7BF6E42F7DF4A617784841E14ED = "シェーディング"
 	22139E374A4DBCD9D2292C9EC73D78FB = "シェーディング"
 	26DC421647E1B6778C53409274D29088 = "シェーディング"
@@ -565,12 +596,15 @@ Namespace Global (700 keys)
 	D920688E4D83AA5A0C84E6A49C8AAE3A = "シェーディング"
 	VisualizeShadingModels = "シェーディングモデル"
 	ShadowFrustumsSF = "シャドウ視錘台"
+	63EECF3A44D0CEC93620D9BC0A996A41 = "Simple Mesh rotation"
 	FE1A81CB403487D5E8D421A7DA164D6B = "1回転軸"
 	SkeletalMeshesSF = "スケルタルメッシュ"
 	SkyLightingSF = "スカイライティング"
 	SnapSF = "スナップ"
 	SpecularSF = "スペキュラ"
+	91FCC0B74E5A1274353F6EAC70C5FBD0 = "SpeedTree"
 	B45E504A4C01E6DB56C526A995A8A61A = "スピードツリー"
+	E08EB63C4A0DCC7BE8904595E47CFEF0 = "SpeedTree"
 	SplinesSF = "スプライン"
 	SpotLightsSF = "スポットライト"
 	StaticMeshesSF = "スタティックメッシュ"
@@ -579,6 +613,8 @@ Namespace Global (700 keys)
 	StreamingBoundsSF = "ストリーミングバウンド"
 	SubsurfaceScatteringSF = "サブサーフェススキャッタリング（スクリーンスペース）"
 	VisualizeSSSSF = "サブサーフェススキャッタリング（スクリーンスペース）"
+	D13FE00A41218CFFBFBE22A997B2B634 = "Subtract 1 from the specified value then set it"
+	F0FD0D544A2D33D51451D29C49449CC2 = "Subtract 1.0 from the specified value then set it"
 	TemporalAASF = "テンポラルAA(FXAAの代わり)"
 	TessellationSF = "テッセレーション"
 	TestImageSF = "テスト画像"
@@ -640,6 +676,7 @@ Namespace Global (700 keys)
 	TonemapperSF = "トーンマッパー"
 	TranslucencySF = "透過"
 	02E62D034F381DAF61EC7BABB172B784 = "アンラップされたメッシュ"
+	F075CAAB48EBDA2E198C72BE90EADC50 = "UserInterface"
 	A824D3BC4E8FDA956A0FB29E0E653805 = "ユーティリティ"
 	232A9B204596DDDD456B83B012FD6E54 = "ユーティリティ| 配列"
 	3DC2A180498B479DBE72C1B4EFBF52E6 = "ユーティリティ| 配列"
@@ -667,6 +704,10 @@ Namespace Global (700 keys)
 	VisualizeLODColoration = "LOD 色分け表示"
 	VolumeLightingSamplesSF = "ボリュームライティングサンプル"
 	VolumesSF = "ボリューム"
+	VolumetricFogSF = "Volumetric Fog"
+	VisualizeVolumetricLightmapSF = "Volumetric Lightmap"
+	VolumetricLightmapSF = "Volumetric Lightmap"
+	WidgetComponentsSF = "Widget Components"
 	WireframeSF = "ワイヤーフレーム"
 	07AC5EAB4015087F1F46BA9606EA2F52 = "ワールドポジションオフセット"
 	0D1D4F774D85555220506E97541F2968 = "ワールドポジションオフセット"
@@ -698,6 +739,7 @@ Namespace Global (700 keys)
 	5202CC724E5215BDDF29A2A17BBFDCDF = "ワールドポジションオフセット"
 	ECCBFADB4259ABF61F787A9A84156304 = "ワールドポジションオフセット"
 	2777858542D91D9A1FF368BE63177BC4 = "{FocalLength}mm, {Aperture}, {FocusDistance} "
+	A5C7C0F0487AFB4EFC5A8C919BF7E5B1 = "{MasterName} - {Date} - {EngineVersion}"
 	9C87258A4690124B18D9DFB22090F6C6 = "{ShotFrame}"
 	1315AA8549C176794C0B95BD1A01F91C = "{ShotName}"
 	ED735C1B4684EADC24C5299582BEAAB9 = "{TranslationX} {TranslationY} {TranslationZ}, {RotationX} {RotationY} {RotationZ}"
@@ -710,7 +752,10 @@ Namespace ActorComponent (2 keys)
 	MapCheck_Message_AbstractClass = "{ComponentName}::{OwnerName} は使用できないため削除しなくてはいけません(抽象クラス)"
 	MapCheck_Message_DeprecatedClass = "{ComponentName}::{OwnerName} は使用できないため削除しなくてはいけません(非推奨クラス)"
 
-Namespace ActorEditorUtils (0 keys)
+Namespace ActorEditorUtils (3 keys)
+	RenameFailed_ReservedNameNone = ""None" is a reserved term and cannot be used for actor names"
+	RenameFailed_LeftBlank = "Names cannot be left blank"
+	RenameFailed_TooLong = "Names must be less than {CharCount} characters long."
 
 Namespace AIModule (1 keys)
 	AIAssetCategory = "AI"
@@ -719,11 +764,22 @@ Namespace AmbientSound (2 keys)
 	MapCheck_Message_AudioComponentNull = "アンビエントサウンドアクタにNULLのAudioComponent プロパティが設定されています。削除してください。"
 	MapCheck_Message_SoundCueNull = "アンビエントサウンドアクタにNULLのサウンド キュープロパティがあります。"
 
-Namespace Analytics (0 keys)
+Namespace Analytics (2 keys)
+	SettingsTooltip = "Configures which analytics provider to use per build type"
+	SettingsDisplayName = "Providers"
 
-Namespace AndroidLicenseDialog (0 keys)
+Namespace AndroidLicenseDialog (2 keys)
+	AndroidLicenseAgreement_Agree = "Agree"
+	AndroidLicenseAgreement_Cancel = "キャンセル"
 
-Namespace AndroidRuntimeSettings (34 keys)
+Namespace AndroidRuntimeSettings (70 keys)
+	RDOCRunText1 = "1. In Tools -> Options -> Android, set the path to your adb executable."
+	RDOCRunText2 = "2. Start the Remote Server using Tools -> Start Android Remote Server."
+	RDOCRunText3 = "3. Check your device screen and 'Allow' RenderDocCmd to access files on your device."
+	RDOCRunText4 = "4. Change your current Replay Context to your device using the bottom left menu, which should now show your device as Online."
+	RDOCRunText5 = "5. In the capture executable tab, there is a button on the right of Executable Path that lets you select an installed Android package for capture."
+	RDOCRunText6 = "6. Select your package and press the Launch button in the bottom right of the tab to start the package on the device."
+	RDOCRunText7 = "7. If everything went well, a new tab will open with a button to Trigger captures."
 	MaliGraphicsDebuggerHelpText = "<RichTextBlock.TextHighlight>Installation</>
 {0}
 {1}
@@ -732,16 +788,43 @@ Namespace AndroidRuntimeSettings (34 keys)
 {2}
 {3}
 {4}"
-	UpgradeInfoMessage = "<RichTextBlock.TextHighlight>Note to users from 4.6 or earlier</>: We now <RichTextBlock.TextHighlight>GENERATE</> an AndroidManifest.xml when building, so if you have customized your .xml file, you will need to put all of your changes into the below settings. Note that we don't touch your AndroidManifest.xml that is in your project directory.
-Additionally, we no longer use SigningConfig.xml, the settings are now set in the Distribution Signing section.
+	RDOCHelpText = "<RichTextBlock.TextHighlight>Installation</>
+{0}
+{1}
 
-<RichTextBlock.TextHighlight>NOTE</>: You must accept the SDK license agreement (click on button below) to use Gradle if it isn't grayed out."
+<RichTextBlock.TextHighlight>Run</>
+{2}
+{3}
+{4}
+{5}
+{6}
+{7}
+{8}
+{9}
+
+<RichTextBlock.TextHighlight>Note</>
+{10}"
+	UpgradeInfoMessage = "<RichTextBlock.TextHighlight>v4.6前との変更点のお知らせ</>: ビルド時に AndroidManifest.xml を<RichTextBlock.TextHighlight>自動生成</> するようになりました。つきましては、XMLファイルを直接変更されていた設定箇所については以下のUIで設定しなおしてください。プロジェクトディレクトリ内の AndroidManifest.xml はこちらからは変更しません。
+また、 SigningConfig.xml は使用しなくなりました。この設定は今度から Distribution Signing のセクションで行います。
+
+<RichTextBlock.TextHighlight>注意</>: Gradleを使用するにはグレイアウトされていない場合SDK license agreementに同意する(下のボタンをクリック)する必要があります"
+	AcceptSDKLicense = "Accept SDK License"
+	AdrenoProfilerInfo = "Adreno Profiler Info"
+	AdrenoProfilerPage = "Adreno Profiler home page"
 	AndroidPlatformName = "Android"
 	GooglePlayDeveloperPage = "Google　PlayサービスのAndroidデベロッパーページ"
 	AndroidDeveloperIconographyPage = "IconographyのAndroidデベロッパーページ"
 	AndroidDeveloperSigningPage = "コードサイニング証明書を配布するためのAndroidデベロッパーページ"
+	AndroidLicenseUnrealEditor = "Android SDK License"
+	AndroidSDKLicenses = "Android SDK Licenses"
 	AppIDHyperlink = "App IDへのハイパーリンク"
+	AppTile_Icon = "App Tile Icon"
+	AppTile_Icon_Background = "App Tile Icon Background"
+	AdrenoRunText = "Before profiling, and after rebooting your Android device, you must enable debug mode by setting the following property from the command line:"
 	BuildFolderLabel = "ビルドフォルダ"
+	SettingsIcon_DownloadImageH = "Download Background Horizontal Image"
+	SettingsIcon_DownloadImageV = "Download Background Vertical Image"
+	BuildForArm64ToolTip = "Enable Arm64 CPU architecture support? (use at least NDK r11c, requires Lollipop (android-21) minimum)"
 	BuildForArmV7ToolTip = "ArmV7 CPU アーキテクチャのサポートを有効にしますか？（CPUアーキテクチャタイプにチェックがない場合に使用）"
 	BuildForES2ToolTip = "OpenGL ES2 レンダリングサポートを有効にしますか？（描画タイプにチェックがない場合に使用）"
 	BuildForX86ToolTip = "X86 CPU アーキテクチャをサポートしますか？"
@@ -751,18 +834,37 @@ Additionally, we no longer use SigningConfig.xml, the settings are now set in th
 	SettingsIcon_HDPI = "HDPIアイコン"
 	SettingsIcon = "アイコン"
 	IconsHyperlink = "アイコンへのハイパーリンク"
+	RDOCNoteText = "If the latest RenderDoc release does not have Android functionality, download the latest nightly build."
 	SettingsIcon_LDPI = "LDPIアイコン"
+	LaunchImageInfo = "Launch Image Info"
 	LaunchImage_Landscape = "横表示で起動"
 	LaunchImage_Portrait = "縦表示で起動"
+	SDKConfigMessage = "Leave these fields blank to use global Android SDK project settings. Changing these settings will only affect this project."
 	SettingsIcon_MDPI = "MDPIアイコン"
+	MaliGraphicsDebuggerInfo = "Mali Graphics Debugger Info"
+	MaliGraphicsDebuggerPage = "Mali Graphics Debugger home page"
+	MGDIRunText2 = "Next, ensure you are running the daemon. Run the MGD Daemon application and switch it to the "ON" state"
 	OpenBuildFolderButton = "ビルドフォルダを開く"
+	RDOCRunText0 = "Open RenderDoc on the host"
 	AndroidDeveloperIconographyPageTooltip = "Android図像でページを開く"
 	GooglePlayDeveloperPageTooltip = "Google　Playサービスの説明ページを開く"
 	AndroidDeveloperSigningPageTooltip = "キーツールを使用するサイニング証明書について意見を交わすページを開く"
+	AdrenoProfilerPageTooltip = "Opens the Adreno Profiler home page on the Qualcomm website"
+	MaliGraphicsDebuggerPageTooltip = "Opens the Mali Graphics Debugger home page on ARM's website"
+	RenderDocPageTooltip = "Opens the RenderDoc home page"
 	OpenManifestFolderButton_Tooltip = "ExplorerまたはFinderでビルドファイルを格納するフォルダを開く（チームと共有するためにソースコントロールでこのフォルダの確認を推奨）"
 	ProjectProperties = "プロジェクトプロパティ"
+	RenderDocInfo = "RenderDoc Info"
+	RenderDocPage = "RenderDoc home page"
+	RDOCInstallText = "Run the following command from a host command line from the android/apk/32 directory located in the installation directory of the RenderDoc tool, to install the RenderDocCmd application on your device."
 	MGDInstallText = "Run the following command from a host command line from the target/unrooted directory located in the installation directory of the MGD tool, to install the MGD Daemon application on your device."
+	MGDIRunText1 = "Run the following command from your host to establish a tunnel between your PC and the MGD Daemon. This needs to be done each time you connect your device by USB."
+	SDKConfigInfo = "SDK Config Info"
 	SigningHyperlink = "サイニング証明書のハイパーリンク"
+	LaunchImageInfoMessage = "The <RichTextBlock.TextHighlight>Download Background</> image is used as the background for OBB downloading.  The <RichTextBlock.TextHighlight>Launch Portrait</> image is used as a splash screen for applications with Portrait, Reverse Portrait, Sensor Portrait, Sensor, or Full Sensor orientation.  The <RichTextBlock.TextHighlight>Launch Landscape</> image is used as a splash screen for applications with Landscape, Sensor Landscape, Reverse Landscape, Sensor, or Full Sensor orientation.
+
+The launch images will be scaled to fit the device in the active orientation. Additional optional launch images may be provided as overrides for LDPI, MDPI, HDPI, and XHDPI by placing them in the project's corresponding Build/Android/res/drawable-* directory."
+	InvalidGamesAppID = "The Games App ID you provided is invalid"
 	GitHubSourceRequiredToolTip = "GitHub ソースが必要です。"
 	UpgradeInfo = "アップグレード情報"
 	Warning = "警告"
@@ -770,7 +872,15 @@ Additionally, we no longer use SigningConfig.xml, the settings are now set in th
 	AdrenoHelpText = "{0}
 {1}"
 
-Namespace AnimInstance (0 keys)
+Namespace AnimInstance (1 keys)
+	AnimInstance_SlotNode = "SLOTNODE: '{0}' in animation instance class {1} already exists. Remove duplicates from the animation graph for this class."
+
+Namespace AnimNode_SequencePlayer (1 keys)
+	AdditiveMismatchWarning = "Trying to play a non-additive animation '{0}' into a pose that is expected to be additive in anim instance '{1}'"
+
+Namespace AnimNotify (2 keys)
+	ParticleSystem_ShouldNotLoop = "Particle system {0} used in anim notify for asset {1} is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify)."
+	Sound_ShouldNotLoop = "Sound {0} used in anim notify for asset {1} is set to looping, but the slot is a one-shot (it won't be played to avoid leaking an instance per notify)."
 
 Namespace AnimNotifyState_Trail (4 keys)
 	NoneFirstSocket = "{0}: 最初のソケット名を設定しなくてはいけません"
@@ -778,25 +888,33 @@ Namespace AnimNotifyState_Trail (4 keys)
 	NonePSTemplate = "{0}: トレイルにPSTemplateがなくてはいけません"
 	InvalidPSTemplateFmt = "{0}: {1} にトレイルエミッタが含まれていません"
 
-Namespace AnimSequence (0 keys)
+Namespace AnimSequence (2 keys)
+	EmptyAnimationData2 = "has no animation data. Recommend to remove."
+	EmptyAnimationData1 = "The Animation "
 
-Namespace AnimSequenceBase (1 keys)
-	InvalidAnimNotify2 = " contains invalid notify "
+Namespace AnimSequenceBase (2 keys)
+	InvalidAnimNotify2 = "contains invalid notify "
+	InvalidAnimNotify1 = "The Animation "
 
-Namespace AppleDynamicRHI (0 keys)
+Namespace AppleDynamicRHI (2 keys)
+	OpenGLNotSupportedTitle = "OpenGL Not Supported"
+	OpenGLNotSupported. = "You must have a Metal compatible iOS or tvOS device with iOS 8 or later to launch this app."
 
-Namespace AssetCheck (0 keys)
+Namespace AssetCheck (1 keys)
+	TextureError_NonUniqueLightingGuid = "Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue."
 
-Namespace AssetFixUpRedirectors (7 keys)
+Namespace AssetFixUpRedirectors (8 keys)
 	LoadingReferencingPackages = "参照パッケージをロード中..."
 	RedirectorFixupFailed_BadSCC = "リダイレクタをチェックアウトしたり削除するためにマークすることはできません"
 	RedirectorFixupFailed_CodeReference = "リダイレクタはコードに参照されています。パッケージ: {0}"
+	RedirectorFixupFailed_CollectionsFailedToSave = "Referencing collection(s) failed to save: {0}"
 	RedirectorFixupFailed_NotCheckedOut = "参照パッケージ {0} はチェックアウトされませんでした"
 	RedirectorFixupFailed_ReadOnly = "参照パッケージ {0} は読み取り専用です"
 	RedirectorFixupFailedMessage = "次のリダイレクタを完全に修正することができません"
 	RedirectorFixupFailedReason = "{PackageName} - {FailureReason}"
 
-Namespace AssetManager (1 keys)
+Namespace AssetManager (2 keys)
+	BuildingManagementDatabase = "Building Asset Management Database"
 	DuplicateAssetId = "{1} と {2}が重複したアセットID{0}を使用しています。片方を削除するか名前を変更する必要があります!"
 
 Namespace AssetRegistry (7 keys)
@@ -808,7 +926,7 @@ Namespace AssetRegistry (7 keys)
 	CommandText_GetDependencies = "提供パッケージとの依存関係に対しアセットレジストリのクエリを実行します"
 	CommandText_GetReferencers = "提供パッケージのリファレンサに対しアセットレジストリのクエリを実行します"
 
-Namespace AssetRenameManager (10 keys)
+Namespace AssetRenameManager (11 keys)
 	RenameFailedCheckedOutByOther = "別のユーザーにチェック アウトされています"
 	RenameFailuresCloseButton = "閉じる"
 	FailedRenamesDialog = "名前変更に失敗しました"
@@ -820,13 +938,19 @@ Namespace AssetRenameManager (10 keys)
 
 名前変更を継続するとこれらの参照の修正にコード変更が必要になる可能性があります。継続しますか？"
 	RenameFailureTitle = "次のアセット名を変更できませんでした"
+	SoftReferenceFixedUp = "The following packages were fixed up because they have soft references to a renamed object: 
+{0}
+
+Do you want to save them now?
+If you quit without saving references will be broken!"
 	ReferenceUpdateSlowTask = "アセットの参照を更新中"
 	AssetRenameFailure = "{AssetName} - {FailureReason}"
 
-Namespace AssetTools (49 keys)
+Namespace AssetTools (52 keys)
 	MigratePackages_AlreadyExists = "\'{0}\' 位置にアセットが既に存在します。上書きしますか？"
 	AnimationAssetCategory = "アニメーション"
 	AssetToolsLogLabel = "アセットツール"
+	BlendablesAssetCategory = "Blendables"
 	BlueprintAssetCategory = "ブループリント"
 	ChooseDiffTool = "差分ツールを選択"
 	MigrateToFolderTitle = "送り先コンテンツフォルダを選択"
@@ -846,6 +970,7 @@ Namespace AssetTools (49 keys)
 	DuplicateAssetDialogTitle = "アセットに名前を付けて複製"
 	DuplicateAnObject = "オブジェクトを複製する"
 	NoDesktopPlatform = "エラー: ファイルダイアログをサポートしないプラットフォームです"
+	Executables = "Executables"
 	CheckOutFileFailed = "パッケージをチェックアウトできませんでした"
 	ImportDeleteFailed = "'{0}' の削除に失敗しました。対象アセットは他のコンテンツに参照されています。"
 	ImportFailed_Generic = "'{0}' のインポートに失敗しました。アセット '{1}' の作成に失敗しました。
@@ -858,6 +983,7 @@ Namespace AssetTools (49 keys)
 	ImportSlowTask = "インポート中"
 	Import_ImportingFile = ""{0}" をインポート中..."
 	MaterialAssetCategory = "マテリアル・テクスチャ"
+	MediaAssetCategory = "Media"
 	MiscellaneousAssetCategory = "その他"
 	MigratePackages_NoFilesToMove = "移動するファイルが見つかりませんでした"
 	PhysicsAssetCategory = "フィジックス"
@@ -879,7 +1005,8 @@ Namespace AssetTools (49 keys)
 	MigratePackages_NonContentFolder = "{0} はコンテンツフォルダに格納されていないようです。コピーしたコンテンツはコンテンツフォルダに配置しなければ正しく機能しません。ここにコンテンツを配置してよろしいですか？"
 	MigratePackages_PackageMissing = "{0} はディスクに存在しません。"
 
-Namespace AssetTypeActions (228 keys)
+Namespace AssetTypeActions (242 keys)
+	DataTable_MissingRowStructListEntry = "* {0} (Row Structure: {1})"
 	AssetTypeActions_AimOffset = "アニメーションオフセット"
 	AssetTypeActions_AimOffset1D = "アニメーションオフセット1D"
 	Skeleton_RetargetTooltip = "このスケルトンのすべてのアニメーションアセットを別のスケルトンへのリターゲットを許可する"
@@ -890,6 +1017,7 @@ Namespace AssetTypeActions (228 keys)
 	AssetTypeActions_AnimMontage = "アニメーションモンタージュ"
 	AssetTypeActions_AnimSequence = "アニメーションシーケンス"
 	AssetTypeActions_AnimationAsset = "Animationアセット"
+	Warning_RemoveVertexColors = "Are you sure you want to remove vertex colors from all selected meshes?  There is no undo available."
 	SkeletalMesh_AssignSkeleton = "スケルトンを割り当てる"
 	SkeletalMesh_AssignSkeletonTooltip = "選択メッシュにスケルトンを割り当てる"
 	AssetTypeActions_Texture = "Baseテクスチャ"
@@ -928,11 +1056,14 @@ Namespace AssetTypeActions (228 keys)
 	PhysAsset_Create = "作成"
 	AnimSequence_NewAnimComposite = "AnimCompositeを作成"
 	AnimSequence_NewAnimMontage = "AnimMontageを作成"
+	Material_NewMBI = "Create Blend Instance"
 	Class_NewDerivedBlueprintClassLabel_CreateFrom = "{0} に基づくブループリントクラスを作成します"
 	Class_NewDerivedCppClassLabel_CreateFrom = "{0} から派生するC++クラスを作成します"
 	AnimMontage_CreateChildMontageTooltip = "子アニメーションモンタージュを作成し他のアニメーションアセットに再マップ"
 	Blueprint_NewDerivedBlueprint = "子ブループリント クラスを作成します"
 	AnimMontage_CreateChildMontage = "子モンタージュを作成"
+	Material_NewMFI = "Create Function Instance"
+	Material_NewMLI = "Create Layer Instance"
 	Texture_CreateMaterial = "マテリアルを作成"
 	Material_NewMIC = "マテリアルインスタンスを作成"
 	AnimSequence_NewPoseAsset = "ポーズアセットを作成"
@@ -953,6 +1084,7 @@ Namespace AssetTypeActions (228 keys)
 	Texture_CreateMaterialTooltip = "このテクスチャを使用して新規マテリアルを作成"
 	SkeletalMesh_NewSkeletonTooltip = "選択中の各メッシュに新しいスケルトンを作成"
 	Texture2D_CreateSlateBrushToolTip = "このテクスチャで新規スレートブラシを作成"
+	Material_NewMFITooltip = "Creates a parameterized function using this function as a base."
 	Material_NewMICTooltip = "このマテリアルをベースにパラメータ化したマテリアルを作成"
 	TextureRenderTarget_CreateStaticTooltip = "選択中の描画ターゲットからスタティック メッシュを作成"
 	AnimSequence_NewAnimCompositeTooltip = "選択中のアニメーションシーケンスでAnimCompositeを作成"
@@ -1002,7 +1134,7 @@ Namespace AssetTypeActions (228 keys)
 	Redirector_FindTarget = "ターゲットを検索"
 	Redirector_FixUpTooltip = "選択したリダイレクタへの参照を見つけて可能であればこれらを再保存します。その後参照が修正済みのすべてのリダイレクタを削除します。"
 	Redirector_FindTargetTooltip = "アセットツリー上でこのリダイレクタがターゲットとするアセットを検索する"
-	MaterialInstanceConstant_FindParentTooltip = "コンテンツブラウザでこのインスタンスのベースとなっているマテリアルを検索する"
+	MaterialInstanceConstant_FindParentTooltip = "Finds the function this instance is based on in the content browser."
 	MaterialFunction_FindMaterialsTooltip = "コンテンツブラウザでこのマテリアル関数を参照するすべてのマテリアルを検索する"
 	AnimSequenceBase_FindSkeletonTooltip = "コンテンツブラウザで選択アセットに対応するスケルトンを検索する"
 	AnimBlueprint_FindSkeletonTooltip = "コンテンツブラウザで選択中のAnimブループリントが使用しているスケルトンを検索する"
@@ -1027,8 +1159,13 @@ Namespace AssetTypeActions (228 keys)
 	RemapSkeleton_LoadPackage = "パッケージをロード中"
 	AssetTypeActions_Material = "マテリアル"
 	AssetTypeActions_MaterialFunction = "マテリアル関数"
+	FAssetTypeActions_MaterialFunctionInstance = "Material Function Instance"
 	AssetTypeActions_MaterialInstanceConstant = "マテリアルインスタンス      "
 	AssetTypeActions_MaterialInterface = "マテリアルインターフェース"
+	AssetTypeActions_MaterialFunctionMaterialLayer = "Material Layer"
+	AssetTypeActions_MaterialFunctionMaterialLayerBlend = "Material Layer Blend"
+	AssetTypeActions_MaterialFunctionMaterialLayerBlendInstance = "Material Layer Blend Instance"
+	AssetTypeActions_MaterialFunctionMaterialLayerInstance = "Material Layer Instance"
 	AssetTypeActions_MaterialParameterCollection = "マテリアルパラメータコレクション"
 	AssetTypeActions_InterpData = "マチネデータ"
 	MergeSkeletonDlgTitle = "ボーンをマージする"
@@ -1069,6 +1206,7 @@ Namespace AssetTypeActions (228 keys)
 	ReimportFontTooltip = "選択フォントを再インポートする"
 	AnimSequence_ReimportWithNewSourceTooltip = "新規ソースファイルから選択シーケンスを再インポートする"
 	AnimSequence_ReimportWithNewSource = "新規ソースと再インポートする"
+	RemovingVertexColors = "Removing Vertex Colors"
 	AssetTypeActions_TextureRenderTarget2D = "描画ターゲット"
 	RetargetAnimSubmenu = "Animアセットをリターゲットする"
 	RetargetBlueprintSubmenu = "Animブループリントをリターゲットする"
@@ -1103,6 +1241,11 @@ Namespace AssetTypeActions (228 keys)
 	AssetTypeActions_TextureRenderTarget = "テクスチャ描画ターゲット"
 	FailedToLoadSkeletonlessAnimAsset = "スケルトンが不明なためAnimアセットをロードできませんでした"
 	FailedToLoadCorruptAnimBlueprint = "破損しているためAnimブループリントをロードできませんでした"
+	DataTable_MissingRowStructMsg = "The following Data Tables are missing their row structure and will not be editable.
+
+{0}
+
+Do you want to open these data tables?"
 	MissingSkeleton = "メッシュに有効なスケルトンがありません。新しいスケルトンを作成しますか？"
 	RetargetSkeleton_Warning = "例えばアニメーションアセットやAnimブループリントなど、アニメーションデータのみを変換します。 
 SkeletalMeshを変換する場合、各メッシュにコンテキストメニュー(スケルトンを割り当てる)を使用します。
@@ -1112,6 +1255,7 @@ SkeletalMeshを変換する場合、各メッシュにコンテキストメニ�
 	AssetTypeActions_TouchInterface = "タッチインターフェース設定"
 	AssetTypeActions_CurveVector = "ベクターカーブ"
 	AssetTypeActions_VectorField = "ベクターフィールド"
+	AnimSequenceBase_OpenInNewWindowTooltip = "Will always open asset in a new window, and not re-use existing window. (Shift+Double-Click)"
 	MergeSkeletonDlgDescription = "次のボーンをスケルトンに追加しますか?"
 	CloseReferencingEditors = "この手順を実行する前にペルソナ、またはアニメーション、メッシュ、アニメーションブループリントを参照するものすべてを閉じなくてはいけません。継続しますか？"
 	CreateSkeletonOrAssign = "これをペルソナで開くにはスケルトンを作成するか、スケルトンを割り当てなくてはいけません。"
@@ -1120,7 +1264,7 @@ SkeletalMeshを変換する場合、各メッシュにコンテキストメニ�
 	AssetRemapFailure = "{AssetName} - {FailureReason}"
 	LoadBlueprint_FailedLog = "{ObjectName}は無効なクラスから派生したためロードできませんでした。このブループリントの親クラスが除去されていないことを確認してください！"
 
-Namespace AssetTypeActions_StaticMesh (13 keys)
+Namespace AssetTypeActions_StaticMesh (14 keys)
 	StaticMesh_CopyLODTooltip = "選択したメッシュからLOD設定をコピー"
 	StaticMesh_CopyLOD = "LODをコピー"
 	StaticMesh_ImportLOD = "LODをインポートする"
@@ -1132,6 +1276,7 @@ Namespace AssetTypeActions_StaticMesh (13 keys)
 	StaticMesh_PasteLODToltip = "選択したメッシュへLOD設定を貼り付け"
 	Reimport LOD (number) = "LOD {0} を再インポートする"
 	ReimportTip = "既存LODに再インポートする"
+	ObjectContext_ClearVertexColors = "Remove Vertex Colors"
 	ObjectContext_SaveGeneratedLODsInPackageTooltip = "メッシュの削減を実行してパッケージの一部として生成したLODを保存します。"
 	ObjectContext_SaveGeneratedLODsInPackage = "生成したLODを保存します"
 
@@ -1148,7 +1293,10 @@ Namespace AudioSettings (2 keys)
 	DefaultSettingsName = "デフォルト"
 	NewQualityLevelName = "新規レベル {0}"
 
-Namespace Automation (0 keys)
+Namespace Automation (3 keys)
+	CameraRequired = "A camera is required to TakeAutomationScreenshotAtCamera"
+	PlayerRequired = "A player controller is required to TakeAutomationScreenshotAtCamera"
+	StatNotFound = "Could not find stat data for {0}, did you call ToggleStatGroup with enough time to capture data?"
 
 Namespace AutomationExportMenu (14 keys)
 	ExportButtonText = "エクスポート"
@@ -1167,7 +1315,7 @@ Namespace AutomationExportMenu (14 keys)
 	SaveLogDialogExportSuccess = "成功しました！
 {FileName} を次へエクスポート: {FileLocation}"
 
-Namespace AutomationTest (53 keys)
+Namespace AutomationTest (56 keys)
 	RunTestOptions = "詳細設定"
 	AutomationRequestedFilterComboLabel = "すべてのテスト"
 	ChangeSessionDialog = "セッションを変更してもよろしいですか?
@@ -1183,6 +1331,7 @@ Namespace AutomationTest (53 keys)
 	AutomationTest_Display = "表示:"
 	TestDurationRange = "継続時間"
 	Enable Disable Test = "テストを有効/無効にする"
+	AutomationSendAnalyticsText = "Enable analytics"
 	AutomationDeviceGroup_GPU = "GPU"
 	ToolTipGameInstances = "ゲームインスタンス:"
 	GroupTypeOptions = "グループタイプ"
@@ -1194,6 +1343,8 @@ Namespace AutomationTest (53 keys)
 	AutomationDeviceGroupTip_Model = "デバイスモデルに基づくグループデバイス"
 	AutomationDeviceGroupTip_MachineName = "マシーン名に基づくグループデバイス"
 	AutomationDeviceGroupTip_Platform = "プラットフォームに基づくグループデバイス"
+	AutomationSendAnalyticsTip = "If checked, tests send analytics results to the backend"
+	RunLevelTest_ToolTip = "If the currently loaded editor level is a test map, click this to select the test and run it immediately."
 	AutomationDeviceGroup_InvalidOrMax = "InvalidOrMax"
 	AutomationDeviceGroup_MachineName = "マシーン名"
 	AutomationDeviceGroup_Model = "モデル      "
@@ -1241,16 +1392,20 @@ Namespace AutomationTestItem (10 keys)
 Namespace AVisualLoggerHUD (1 keys)
 	NotActorUnderCursor = "マウスをかざしたアクタではありません"
 
-Namespace BasicMathExpressionEvaluator (1 keys)
+Namespace BasicMathExpressionEvaluator (3 keys)
+	DivisionByZero = "Division by zero"
+	ModZero = "Modulo zero"
 	UnrecognizedResult = "エクスプレッションから認識できない結果が返されました"
 
 Namespace Blueprint (1 keys)
 	MigrationWarning = "ブループリント {0} がコピーされました。インポーエラーを回避するため再保存しなくてはいけません。"
 
-Namespace BodyInstance (3 keys)
+Namespace BodyInstance (5 keys)
+	InvalidScaleStart = "Applying invalid scale"
 	SimComplexAsSimple = "''{0}'' の物理シミュレーションを試しましたがComplexAsSimpleコリジョンを持っています。"
 	SimPhysStatic = "''{0}'' の物理シミュレーションを試しましたがスタティックです。"
 	SimPhysNoBody = "''{0}'' で物理シミュレーションを試しましたが物理ボディがありません。"
+	InvalidScaleMid = "to body"
 
 Namespace BreakMaterialAttributes (1 keys)
 	InputName = "Attr"
@@ -1262,19 +1417,34 @@ Namespace CheatManager (2 keys)
 	OwnCamera = "独自のカメラで表示中"
 	ViewPlayer = "{0} で表示中"
 
-Namespace ClothingAsset (0 keys)
+Namespace ClothingAsset (6 keys)
+	Error_NoClothingLod = "Failed to bind clothing asset {0} LOD{1} as LOD{2} does not exist."
+	Error_LodMapped = "Failed to bind clothing asset {0} LOD{1} as LOD{2} is already mapped to mesh LOD{3}."
+	Error_InvalidMeshLOD = "Failed to bind clothing asset {0} as mesh LOD{1} does not exist."
+	Error_NoMesh = "Failed to bind clothing asset {0} as provided skel mesh does not exist."
+	Error_WrongMesh = "Failed to bind clothing asset {0} as the provided mesh is not the owner of this asset."
+	Error_UnbindNoMeshLod = "Failed to remove clothing asset {0} from mesh LOD{1} as that LOD doesn't exist."
 
-Namespace ClothingMeshUtils (0 keys)
+Namespace ClothingMeshUtils (1 keys)
+	DegenerateTriangleError = "Failed to generate skinning data, found conincident vertices in triangle A={0} B={1} C={2}"
 
-Namespace CollectionManager (33 keys)
+Namespace CollectionManager (54 keys)
+	Error_CollectionAlreadyExists = "A collection already exists with the name '{0}'."
+	InvalidParent_CannotParentToChildren = "A collection cannot be parented to its children"
+	InvalidParent_CannotParentToSelf = "A collection cannot be parented to itself"
+	InvalidParent_InvalidParentStorageType = "A dynamic collection cannot contain child collections"
+	InvalidParent_InvalidChildType = "A {0} collection cannot contain a {1} collection"
 	CollectionAddedSingleDesc = "'{FirstObjectAdded}'  をコレクション {CollectionName}に追加しました:"
 	CollectionAddedNewDesc = "コレクション '{0}'に追加"
 	CollectionAddedMultipleDesc = "{NumberAdded}オブジェクトをコレクションに追加しました'{CollectionName}':"
 	CommandText_Add = "指定したオブジェクトパスを対象コレクションに追加する"
 	Error_AlreadyInCollection = "全アセットはすでにコレクションに含まれています"
+	CollectionChangedDynamicQueryDesc = "Changed the dynamic query of collection '{0}' to '{1}'"
+	CollectionChangedParentDesc = "Changed the parent of collection '{0}'"
 	Error_SCCCheckedOutOther = "コレクション'{0}'は別のユーザーにチェック アウトされています"
 	Error_SCCNotCurrent = "同期後のコレクション'{0}' は最新リビジョンではありません"
 	Error_SCCNotCheckedOut = "コレクション'{0}' はチェック アウトされていないか追加待ちでオープン状態です"
+	CollectionNotModifiedDesc = "Collection '{0}' not modified"
 	Error_SCCUnknown = "コレクション'{0}' のソースコントロールステートがわかりません"
 	Error_SCCRevert = "コレクション'{0}' を巻き戻せません"
 	CommandText_Create = "指定した名前とタイプでコレクションを作成する"
@@ -1286,20 +1456,33 @@ Namespace CollectionManager (33 keys)
 	Error_SCCCheckout = "コレクション'{0}'のチェック アウトに失敗しました"
 	Error_SCCDeleteWhileCheckedOut = "ソースコントロール内のコレクション'{0}'の削除に失敗しました。コレクションはチェック アウトされているか追加待ちでオープン状態です"
 	Error_SCCDeleteFailed = "ソースコントロール内のコレクション'{0}'の削除に失敗しました。"
+	Error_DiskDeleteFailed = "Failed to delete the collection file: {0}"
+	Error_SCCBadHead = "Failed to load the collection '{0}' at the head revision. {1}"
+	LoadError_FailedToLoadFile = "Failed to load the collection '{0}' from disk."
 	Error_SCCSync = "コレクション'{0}' を最新リビジョンに同期できませんでした"
+	Error_WriteFailed = "Failed to write to collection file: {0}"
 	Error_Unknown = "なし"
 	Error_NotInCollection = "コレクション内にアセットが見つかりませんでした"
+	Error_AddNeedsStaticCollection = "Objects can only be added to static collections."
+	Error_RemoveNeedsStaticCollection = "Objects can only be removed from static collections."
+	CollectionRemovedSingleDesc = "Removed '{FirstObjectRemoved}' from collection '{CollectionName}'"
 	CollectionRemovedMultipleDesc = "コレクション '{CollectionName}' から{NumberRemoved} 個のオブジェクトを取り除きました"
 	CommandText_Remove = "指定したオブジェクトパスを対象コレクションから取り除きます"
 	SavingCollection = "コレクション {0} を保存中"
+	Error_GetNeedsDynamicCollection = "Search queries can only be got from dynamic collections."
+	Error_SetNeedsDynamicCollection = "Search queries can only be set on dynamic collections."
+	Error_TestNeedsDynamicCollection = "Search queries can only be tested on dynamic collections."
 	Error_SCCNotAvailable = "現在ソースコントロールを利用できません。インターネット接続をご確認の上もう一度お試しください。"
 	Error_SCCDisabled = "ソースコントロールが無効です。環境設定メニューでソースコントロールを有効にしてください"
 	Error_SCCInvalid = "ソースコントロールステートが無効です"
 	Error_AlreadyExists = "このコレクションは既に存在します"
 	Error_DoesntExist = "コレクションが存在しません"
+	LoadError_BadHeader = "The collection file '{0}' contains a bad header and could not be loaded."
 	Error_Internal = "内部エラーが発生しました"
+	Error_CollectionNameEmptyOrNone = "This collection name cannot be empty or 'None'."
 	Error_CollectionNameTooLong = "コレクション名が長すぎます。短い名前に変更してください。"
 	UpdatingCollection = "コレクション {0} を更新中"
+	CollectionUpgradedDesc = "Upgraded collection '{0}' (was version {1}, now version {2})"
 
 Namespace CollisionAnalyzer (1 keys)
 	ErrorMessage = "エラー"
@@ -1308,7 +1491,7 @@ Namespace CollisionAnalyzerModule (2 keys)
 	TabTitle = "コリジョンアナライザー"
 	TooltipText = "コリジョンアナライザータブを開く"
 
-Namespace ColorPicker (30 keys)
+Namespace ColorPicker (34 keys)
 	AlphaSliderLabel = "A"
 	AdvancedAreaTitle = "高度な設定"
 	AlphaSliderToolTip = "アルファ"
@@ -1321,6 +1504,10 @@ Namespace ColorPicker (30 keys)
 	GreenSliderLabel = "G"
 	GreenSliderToolTip = "緑"
 	HueSliderLabel = "H"
+	HexLinearInputLabel = "Hex Linear"
+	HexSRGBInputLabel = "Hex sRGB"
+	HexLinearSliderToolTip = "Hexadecimal Linear Value"
+	HexSRGBSliderToolTip = "Hexadecimal sRGB Value"
 	HueSliderToolTip = "色相"
 	NewColorLabel = "新規 "
 	NewColorAlphaToolTip = "アルファを使用した新色(テーマバーにドラッグして保存)"
@@ -1341,7 +1528,7 @@ Namespace ColorPicker (30 keys)
 	SRGBCheckboxLabel = "sRGB プレビュー"
 
 Namespace ColorThemesViewer (13 keys)
-	CopyThemeNameAppend = " Copy"
+	CopyThemeNameAppend = "Copy"
 	VerifyTextDup = "'{Name}' という名前のテーマはすでに存在します"
 	AcceptRenameButton = "承認する"
 	CancelDeleteButton = "キャンセルする"
@@ -1362,18 +1549,14 @@ Namespace CompressionMemorySummary (2 keys)
 	BeginCompressingTaskMessage = "圧縮アニメーション"
 	CompressingTaskStatusMessageFormat = "{AnimSequenceName} ({ProgressNumerator}/{ProgressDenominator}) を圧縮中"
 
-Namespace Console (1 keys)
-	ConsoleLabel = "コンソール"
-
-Namespace ConsoleInputBox (1 keys)
-	TypeInConsoleHint = "コンソールコマンドを入力する"
-
-Namespace ConstraintComponent (3 keys)
+Namespace ConstraintComponent (5 keys)
+	BadBoneNameToConstraint = "Couldn't find bone {0} for ConstraintComponent {1}."
+	BadBoneNameToConstraint2 = "Couldn't find bone {0} for ConstraintComponent {1}."
 	BothComponentsStatic = "{OwnerName} :両コンポーネントはスタティックです"
 	SingleStaticComponent = "{OwnerName} :単一スタティックコンポーネントと接続しています"
 	NoComponentsFound = "{OwnerName} : ジョイントするコンポーネントが見つかりませんでした"
 
-Namespace ConstraintInstance (8 keys)
+Namespace ConstraintInstance (16 keys)
 	InvalidBodyComponent = "'{0}'"
 	InvalidBodyOwner = "'{0}'"
 	JointBetweenScenesOwner = "'{0}'"
@@ -1381,7 +1564,15 @@ Namespace ConstraintInstance (8 keys)
 	TwoStaticBodiesWarningOwner = "'{0}'"
 	JointBetweenScenesArgs = "'{0}' と '{1}'"
 	JointBetweenScenesEnd = ").  No joint created."
+	InvalidBodyStart = "Attempting to create a joint"
 	JointBetweenScenesStart = "コンストレイント"
+	SameBodyWarningStart = "Constraint in"
+	TwoStaticBodiesWarningStart = "Constraint in"
+	TwoStaticBodiesWarningEnd = "attempting to create a joint between objects that are both static.  No joint created."
+	JointBetweenScenesMid = "attempting to create a joint between two actors in different scenes ("
+	SameBodyWarningMid = "attempting to create a joint to the same body"
+	InvalidBodyMid = "to body"
+	InvalidBodyEnd = "which is not eligible for simulation. Is it marked QueryOnly?"
 
 Namespace Contexts (6 keys)
 	AutomationWindow = "自動ウィンドウ"
@@ -1391,12 +1582,13 @@ Namespace Contexts (6 keys)
 	SessionConsole = "セッションコンソール"
 	VisualLogger = "ビジュアルロガー"
 
-Namespace Controller (0 keys)
+Namespace Controller (1 keys)
+	ControllerPossessAuthorityOnly = "Possess function should only be used by the network authority for {0}"
 
-Namespace Core (59 keys)
+Namespace Core (67 keys)
 	OverwriteReadOnly = "'{0}' は読み取り専用です。強制的に上書きしますか？"
+	FirstCmdArgMustBeGameName = "'{0}' must exist and contain a DefaultEngine.ini."
 	BadProperty = "'{Message}': Bad or missing property '{PropertyName}' when trying to call {FunctionName}"
-	ReplaceNotFullyLoaded_f = "完全にロードされていないオブジェクトを置換しようとしています: {0} (Outer={1}, Flags={2})"
 	SavePackageNoMap = "マップオブジェクトを含まないマップ アセット '{0}' を保存しようとしています"
 	LinkedToObjectsInOtherMap_FindCulpritQ = "{FileName} を保存できません: グラフは外部マップのオブジェクトとリンクしています:
 {ObjectNames}  
@@ -1426,6 +1618,10 @@ Namespace Core (59 keys)
 	LongPackageNames_NoValidRoots = "有効なルートが存在しません!"
 	None = "なし"
 	SavePackageObjInAnotherMap = "オブジェクト '{0}' は別のマップに存在します"
+	ObjectPathContext = "Object Path"
+	ObjectPath_EndWithPeriod = "Object Path may not end with ."
+	ObjectPath_PathWithTrailingSeperator = "Object Path may not end with : or ."
+	ObjectPath_SlashAfterPeriod = "Object Path may not have / after first ."
 	SavePackageObjectIsMissingExport = "エクスポートするオブジェクトが見つからないためアセット '{0}' の依存関係を示すマップを保存出来ません。主な原因としては、このオブジェクトが不足しているアセットに同調を試みたことが考えられます。ログで詳細を確認してください。"
 	Rotator = "P={P} Y={Y} R={R}"
 	LongPackageNames_InvalidRoot = "パスの始まりが無効なルートです。パスは次のルートで始めてください: {0}"
@@ -1444,7 +1640,9 @@ Namespace Core (59 keys)
 	SyntaxError = "シンタックスエラー"
 	Overwrite = "ファイル '{0}' を更新する必要があります。既存のバージョンを上書きしますか?"
 	MismatchedGameNames = "「.uproject」ファイル ('{0}') 名はコマンドライン ('{1}') に渡されたプロジェクト名と一致しなくてはいけません。"
+	Transform = "Translation: {T} Rotation: {R} Scale: {S}"
 	True = "True"
+	SymbolsInTitleMemory2 = "Turn "Profiling Mode" on in Dev Home or Xbox One Manager to fix this."
 	Vector3_CompactZeroVector = "V(0)"
 	Vector3_CompactX = "V(X={X})"
 	Vector3_CompactXY = "V(X={X}, Y={Y})"
@@ -1454,13 +1652,15 @@ Namespace Core (59 keys)
 	Vector3_CompactYZ = "V(Y={Y}, Z={Z})"
 	Vector3_CompactZ = "V(Z={Z})"
 	VerifyPackage_Scope = "'{0}' を検証中"
+	SymbolsInTitleMemory = "WARNING: Symbols for crash callstacks are using up title memory!"
 	Vector2 = "X={X} Y={Y}"
 	Vector3 = "X={X} Y={Y} Z={Z}"
 	Yes = "はい"
+	IniFileOutOfDate = "Your ini ({0}) file is outdated. Do you want to automatically update it saving the previous version? Not doing so might cause crashes!"
 	LoadClassMismatch = "{ClassName} は {BaseClassName} の子クラスではありません"
 	NameContainsInvalidCharacters = "{ErrorCtx} に次の文字を含むことはできません: {IllegalNameCharacters}"
 
-Namespace Core.MessageLog (7 keys)
+Namespace Core.MessageLog (8 keys)
 	CritError = "致命的なエラー"
 	Error = "エラー"
 	DefaultHelpURLLabel = "ヘルプ"
@@ -1468,6 +1668,7 @@ Namespace Core.MessageLog (7 keys)
 	PerfWarning = "パフォーマンスの警告"
 	Warning = "警告"
 	AggregateMessageTokenFormatter = "{0} {1}"
+	SeverityMessageTokenFormatter = "{0}:"
 
 Namespace Core.Tests.TextFormatTest (5 keys)
 	RebuildFTextTest1_Ipsum = "Ipsum"
@@ -1476,15 +1677,27 @@ Namespace Core.Tests.TextFormatTest (5 keys)
 	RebuildTextLayer2 = "{NamedLayer1} | {OrderedLayer1} | {FTextNumber} | {Number} | {Date} | {Time} | {DateTime} | {Percent} | {Currency}"
 	RebuildNamedText1 = "{String1} "Lorem Ipsum" {String2}"
 
-Namespace CoreUObject (0 keys)
+Namespace CoreUObject (4 keys)
+	FixingUpReferences = "Fixing-Up References"
+	PreparingPackagesForReload = "Preparing Packages for Reload"
+	ReloadingPackages = "Reloading Packages"
+	ReloadingPackagef = "Reloading {0}..."
 
-Namespace CrashReport (0 keys)
+Namespace CrashReport (1 keys)
+	NoDebuggingSymbols = "You do not have any debugging symbols required to display the callstack for this crash."
 
-Namespace CrashReportClient (0 keys)
+Namespace CrashReportClient (5 keys)
+	MinidumpNotFound = "No minidump found for this crash."
+	PingingServer = "Pinging server"
+	UploaderReady = "Ready to send to server"
+	ServerNotAvailable = "Server not available - report will be stored for later upload"
+	NoDebuggingSymbols = "You do not have any debugging symbols required to display the callstack for this crash."
 
-Namespace D3D11RHI (0 keys)
+Namespace D3D11RHI (1 keys)
+	OutOfMemory = "Out of video memory trying to allocate a rendering resource. Make sure your video card has the minimum required memory, try lowering the resolution and/or closing other applications that are running. Exiting..."
 
-Namespace D3D12RHI (0 keys)
+Namespace D3D12RHI (1 keys)
+	OutOfMemory = "Out of video memory trying to allocate a rendering resource. Make sure your video card has the minimum required memory, try lowering the resolution and/or closing other applications that are running. Exiting..."
 
 Namespace DefaultLocalizationServiceProvider (2 keys)
 	LocalizationServiceDisabled = "ローカライズのサービスが無効になりました"
@@ -1515,11 +1728,12 @@ Namespace DesktopPlatform (6 keys)
 	InvalidateMakefiles = "Makefileを無効にしています..."
 	CleaningProject = "古くなったビルド製品を除去中..."
 
-Namespace Developer.MessageLog (9 keys)
+Namespace Developer.MessageLog (10 keys)
 	PageToolTip = "表示するログページを選択する"
 	ClearMessageLog = "クリアする"
 	ClearMessageLog_ToolTip = "このログのメッセージをクリアする"
 	ShowToolTip = "選択タイプのメッセージのみを表示する"
+	OutOfVideoMemoryTextures = "Out of video memory trying to allocate a texture! Make sure your video card has the minimum required memory, try lowering the resolution and/or closing other applications that are running. Exiting..."
 	PageMenuLabel = "ページ"
 	Show = "表示"
 	DeviceRemoved = "ビデオドライバはキャッシュおよびリセットされました！最新のビデオドライバであることを確認してください。"
@@ -1545,7 +1759,7 @@ Namespace DlgNewGeneric (1 keys)
 アセットは別のコンテンツに参照されています。"
 
 Namespace DockTab (3 keys)
-	CloseButtonInputText = " ({0})"
+	CloseButtonInputText = "({0})"
 	DefaultTabTitle = "無名"
 	CloseButtonToolTip = "{Label}{InputText}"
 
@@ -1573,9 +1787,14 @@ Namespace ECollectionShareType (8 keys)
 	CST_Shared_Description = "共有コレクションです。このコレクションは全員に表示されます。"
 	CST_System = "システム"
 
-Namespace ECollectionStorageMode (0 keys)
+Namespace ECollectionStorageMode (4 keys)
+	Dynamic = "Dynamic"
+	Dynamic_Description = "Dynamic. This collection stores a query that can be run against the Content Browser."
+	Static = "Static"
+	Static_Description = "Static. This collection stores a list of contained objects."
 
-Namespace EdGraph (13 keys)
+Namespace EdGraph (16 keys)
+	DIF_NodePropertyToolTip = "A Property of the node has changed"
 	AddNode = "ノードを追加する"
 	BreakLinkTo = "BreakLinkTo"
 	EditNodeComment = "ノードコメントを変更する"
@@ -1586,6 +1805,9 @@ Namespace EdGraph (13 keys)
 	CommentToolTip = "選択周りにサイズ変更が可能なコメントボックスを作成する"
 	MakeLinkTo = "MakeLinkTo"
 	NodeCommentMenuHeader = "ノードのコメント"
+	DIF_NodePropertyFmt = "Property Changed: {0} "
+	DisabledNodeComment = "This node is disabled and will not be called.
+Drag off pins to build functionality."
 	OuterMismatch = "ピン以外の外部接続があります"
 	IsLinked = "ピンとリンクしています"
 	NotLinked = "ピンと相互にリンクしていません"
@@ -1602,17 +1824,26 @@ Namespace EditorNotification (1 keys)
 Namespace Emitter (1 keys)
 	MapCheck_Message_ParticleSystemComponentNull = "エミッタ アクタは NULL ParticleSystemComponent プロパティを含みます。削除してください。"
 
-Namespace EndUserSettings (1 keys)
+Namespace EndUserSettings (7 keys)
+	FalseStateTooltip = "By default, your end-users don't send anonymous usage data to Epic Games."
+	TrueStateTooltip = "By default, your end-users send anonymous usage data to Epic Games."
+	FalseStateLabel = "End-users don't send"
+	TrueStateLabel = "End-users send to Epic"
 	HyperlinkLabel = "エピック・ゲームズのプライバシー規約"
+	FalseStateDescription = "You have defaulted your users' settings to not send anonymous usage data to Epic Games. You can allow users to opt-in by adding this setting to your game UI and calling UEndUserSettings::SetSendAnonymousUsageDataToEpic() with their choice. Please consider defaulting this to true or allowing users to switch it on to help improve Unreal Engine. Epic Games will never sell or trade individual usage data to / with third party organizations. When permitted, we collect information about your users' game sessions, the game they're playing and for how long they play. Their information would be encrypted and sent anonymously, and only when they run your product."
+	TrueStateDescription = "You have defaulted your users' settings to send anonymous usage data to Epic Games. You can allow users to opt-out by adding this setting to your game UI and calling UEndUserSettings::SetSendAnonymousUsageDataToEpic() with their choice. Thank you for helping to improve Unreal Engine. Epic Games will never sell or trade individual usage data to / with third party organizations. We will collect information about your users' game sessions, the game they're playing and for how long they play. Their information is sent anonymously. Their information is only sent when they run your product, it is encrypted and sent to our servers."
 
-Namespace Engine (27 keys)
+Namespace Engine (32 keys)
 	BuildingCompressedAudioTaskStatus = "圧縮オーディオ フォーマット {AudioFormat} ウェーブ {SoundNodeName} をビルド中..."
+	UpdateReflectionCaptures = "Building reflection captures for {0}"
 	BuildingStaticMeshStatus = "スタティックメッシュ {StaticMeshName} をビルド中..."
 	BuildTextureStatus = "Building textures: {TextureName} ({TextureFormatName}, {TextureResolutionX}X{TextureResolutionY})"
 	ChangingPreviewRenderingLevelMessage = "プレビューレンダリングレベルを変更中"
 	UsedCheatCommands = "ネットプレイで禁止されているコンソールコマンドが使用されました。対戦ゲームを作成するにはゲームを再起動してください。"
 	UnableToChangeSoundClassChildDueToInfiniteLoopNotification = "ループを作成するためサウンドクラスの子を変更出来ませんでした"
+	UnableToChangeSoundSubmixChildDueToInfiniteLoopNotification = "Could not change SoundSubmix child as it would create a loop"
 	EditorNotSupported = "エディタはこのモードでサポートされていません"
+	FailedToLoadDefaultMap = "Error '{0}'. Exiting."
 	NetworkInit = "ネットワークレイヤーを初期化中にエラーが発生しました"
 	ComdLineHasInvalidChar = "エラー: Eメールから貼り付けられた可能性のある「'-'」文字がコマンドラインにあります。
 Cmdline = {0}"
@@ -1632,7 +1863,15 @@ Cmdline = {0}"
 	SavingStaticMeshLODsStatus = "スタティックメッシュ {StaticMeshName} に生成したLODを保存中..."
 	ServerOpen = "サーバーでネットワークのURLを開けません"
 	MaterialInstanceActor_NonStaticActorRef = "マテリアルインスタンスアクタでスタティックアクタを参照することはできません： {0}"
+	DefaultMapNotFound = "The default map '{0}' could not be found. Exiting."
 	Error_PureVirtualsEnabled = "CHECK_PUREVIRTUALSが有効な状態でゲームを実行できません。CHECK_PUREVIRTUALSを無効にして実行可能ファイルを再ビルドしてください。"
+	GlobalShaderCacheFileMissing = "The global shader cache file '{0}' is missing.
+
+Your application is built to load COOKED content. No COOKED content was found; This usually means you did not cook content for this build.
+It also may indicate missing cooked data for a shader platform(e.g., OpenGL under Windows): Make sure your platform's packaging settings include this Targeted RHI.
+
+Alternatively build and run the UNCOOKED version instead."
+	MapNotFoundNoFallback = "The map specified on the commandline '{0}' could not be found. Exiting."
 	MapNotFound = "コマンドライン '{0}' に指定したマップが見つかりません。代わりにデフォルトのマップをロードしますか？"
 	ClientOutdated = "参加しようとしている対戦は互換性のないゲームバージョンで実行中です。ゲームバージョンを更新してください。"
 	SpecialMaterialConfiguredIncorrectly = "特殊なマテリアル ({0}) は bUsedAsSpecialEngineMaterialのマークが付けられていません。
@@ -1642,10 +1881,9 @@ Cmdline = {0}"
 	UnknownScaleCompressionFormat = "不明またはサポートしていないスケール圧縮形式 ({0})"
 	UnknownRotationCompressionFormat = "不明またはサポートしていない回転圧縮形式 ({0})"
 	UnknownTranslationCompressionFormat = "不明またはサポートしていない変換圧縮形式 ({0})"
-	BeginReflectionCapturesTask = "反射キャプチャを更新中..."
 	ConnectionFailed = "ホストへの接続が切断されました。"
 
-Namespace Engine.BufferVisualizationMaterials (19 keys)
+Namespace Engine.BufferVisualizationMaterials (21 keys)
 	BaseAmbientOcclusionMat = "アンビエントオクルージョン"
 	BaseColorMat = "基本色"
 	BaseCustomDepthMat = "カスタム深度"
@@ -1655,6 +1893,8 @@ Namespace Engine.BufferVisualizationMaterials (19 keys)
 	BaseMaterialAOMat = "マテリアルアンビエントオクルージョン"
 	BaseMetallicMat = "メタリック"
 	BaseOpacityMat = "オパシティ (不透明)"
+	PostTonemapHDRColor = "Post Tonemap HDR Color"
+	PreTonemapHDRColor = "Pre Tonemap HDR Color"
 	BaseRoughnessMat = "ラフネス"
 	BaseSceneColorMat = "シーンカラー"
 	BaseSceneDepthMat = "シーン深度"
@@ -1672,7 +1912,10 @@ Namespace EngineInit (1 keys)
 Namespace EngineLoop (1 keys)
 	EngineLoop_Initializing = "初期化中..."
 
-Namespace EnvQueryGenerator (48 keys)
+Namespace EnvQueryGenerator (55 keys)
+	CurrentLocationOn = "Current Location of {0}"
+	NavigationOverLedges = "Navmesh trace going over navmesh ledges"
+	NoSortMode = "TEST SORTING DISABLED"
 	DescribeLineFromAndTo = "[From: {LineFrom} To: {LineTo}]"
 	DescribeRotation = "[{Rotation} 回転]"
 	FilterAtLeast = "{0} 以上"
@@ -1680,6 +1923,7 @@ Namespace EnvQueryGenerator (48 keys)
 	BoxWithExtents = "ボックス (範囲: {ExtentX} {ExtentY} {ExtentZ)"
 	CasuleWithRadiusHalfHeight = "カプセル (半径: {ExtentX}, 半高: {ExtentZ})"
 	ScoreConstant = "定数ソース"
+	ConeDescription = "degrees: {0}, angle step: {1}"
 	DiscardUnreachable = "到達不可能な対象を破棄する"
 	DontScore = "採点しないでください"
 	Down = "下"
@@ -1708,11 +1952,13 @@ Namespace EnvQueryGenerator (48 keys)
 	Up = "上　　　"
 	FilterUpTo = "最大 {0} まで"
 	DescTitleExtention = "{0}
-  {1}"
+{1}"
 	PathfindingBatch = "{0} [バッチ]"
 	SimpleGridDescriptionGenerateAroundContext = "{0}： {1} 周辺に生成"
+	ConeDescriptionGenerateAroundContext = "{0}: generate in front of {1}"
 	DescriptionGenerateDonutAroundContext = "{DescriptionTitle}: {DescribeContext} 周りにアイテムを作成"
 	DescriptionGenerateCircleAroundContext = "{DescriptionTitle}: {DescribeContext} を周回してアイテムを生成"
+	DescriptionGenerateActors = "{DescriptionTitle}: generate set of actors of {ActorsClass}"
 	DescriptionGenerateActorsAroundContext = "{DescriptionTitle}: {DescribeContext} 周辺にクラス　{ActorsClass}　のアクタ一式を生成"
 	DescriptionBlueprintImplementedGenerator = "{DescriptionTitle}: {DescribeContext} 周辺の{DescribeGeneratorAction}  "
 	DescriptionWithArc = "{Description}
@@ -1723,11 +1969,12 @@ Namespace EnvQueryGenerator (48 keys)
 	DescWithNonBlocking = "{Description}, ノンブロッキングを許容する"
 	DescWithComplexCollision = "{Description}, 複雑なコリジョン"
 	DescriptionWithRadius = "{Description}, 半径 {Radius}"
+	ConeDescriptionWithProjection = "{Description}, {ProjectionDescription}"
 	OnCircle_DescriptionWithProjection = "{Description}, {ProjectionDescription}"
 	SimpleGridDescriptionWithProjection = "{Description}, {ProjectionDescription}"
 	GeometryBriefDescription = "{Channel} の {ExtentDescription} {ProjectionTraceDesc}      "
 
-Namespace ErrorChecking (17 keys)
+Namespace ErrorChecking (18 keys)
 	MapCheck_Message_DuplicateLevelInfo = "レベル情報を複製する"
 	MapCheck_Message_LightComponentNull = "Light アクタに NULL のLightComponent プロパティがあります。 削除してください。"
 	MapCheck_Message_RebuildLighting = "マップはライティングの再ビルドが必要です"
@@ -1745,6 +1992,7 @@ Namespace ErrorChecking (17 keys)
 	MapCheck_Message_ActorIsObselete_Abstract = "{ActorName} : 使用できないため取り除かなくてはいけません！(抽象クラス)"
 	MapCheck_Message_ActorIsObselete_Deprecated = "{ActorName} : 使用できないため取り除かなくてはいけません！(非推奨クラス)"
 	MapCheck_Message_StaticPhysNone = "{ActorName} : bSimulatePhysicsセットを使用するスタティックオブジェクトはTrueに設定されています"
+	IsDataValid_Failed_CheckForErrors = "{ActorName} is not valid. See the MapCheck log messages for details."
 
 Namespace Events (5 keys)
 	AnalogInput = "アナログインプット キー({0})"
@@ -1787,9 +2035,20 @@ Namespace ExampleLayoutTest (30 keys)
 	ExampleLayout-TopRightTextLabel = "上部右"
 	ExampleLayout-TextLabel04 = "フィル係数に基づいて、利用可能な領域幅に合わせるために拡げます"
 
-Namespace ExclusiveLoadPackageTimeTracker (0 keys)
+Namespace ExclusiveLoadPackageTimeTracker (2 keys)
+	CommandText_DumpReport = "Dumps a report about the amount of time spent loading assets"
+	CommandText_ResetReport = "Resets accumulated report data"
 
-Namespace ExpressionParser (0 keys)
+Namespace ExpressionParser (9 keys)
+	BinaryExecutionError = "Binary operator {0} cannot operate on {1} and {2}"
+	SyntaxError_InvalidExpression = "Could not evaluate expression"
+	SyntaxError_NoUnaryOperand = "No operand for unary operator {0}"
+	SyntaxError_NotEnoughOperandsBinary = "Not enough operands for binary operator {0}"
+	PostUnaryExecutionError = "Post-unary operator {0} cannot operate on {1}"
+	PreUnaryExecutionError = "Pre-unary operator {0} cannot operate on {1}"
+	SyntaxError_NoBinaryOperand = "Syntax error: No operand specified for operator '{0}'"
+	SyntaxError_UnmatchedGroup = "Syntax error: Reached end of expression before matching end of group '{0}' at line {1}:{2}"
+	LexicalError = "Unrecognized token '{0}' at character {1}"
 
 Namespace ExpressionParserExamples (1 keys)
 	UnrecognizedResult = "エクスプレッションから認識できない結果が返されました"
@@ -1827,6 +2086,10 @@ Namespace FAndroid_DXTTargetPlatformModule (2 keys)
 	Android_DXT = "Android (DXT)"
 	Android_DXT_ShortName = "DXT"
 
+Namespace FAndroid_ETC1aTargetPlatformModule (2 keys)
+	Android_ETC1a = "Android (ETC1a)"
+	Android_ETC1a_ShortName = "ETC1a"
+
 Namespace FAndroid_ETC1TargetPlatformModule (2 keys)
 	Android_ETC1 = "Android (ETC1)"
 	Android_ETC1_ShortName = "ETC1"
@@ -1855,10 +2118,11 @@ Namespace FAndroidPlatformEditorModule (10 keys)
 	SDKSettingsDescription = "Android SDKの設定（全プロジェクト向け）"
 	AndroidVulkanQualitySettingsDescription = "Android Vulkanマテリアル品質設定"
 
-Namespace FAndroidTargetPlatform (1 keys)
+Namespace FAndroidTargetPlatform (2 keys)
+	AndroidLicenseNotAcceptedMessageDetail = "SDK License must be accepted in the Android project settings to deploy your app to the device."
 	AndroidVariantTitle = "テクスチャフォーマット"
 
-Namespace FastXml (14 keys)
+Namespace FastXml (15 keys)
 	FileNotFound = "指定されたXMLファイルはディスク上で見つかりませんでした"
 	ElementDataNotTerminated = "エレメントのデータの一部が正常に消去されませんでした"
 	TooManyAttributes = "この構成要素が処理できるよりはるかに多いアトリビュートが一つのエレメントに直面しました"
@@ -1866,6 +2130,7 @@ Namespace FastXml (14 keys)
 	InvalidFileFormat = "無効なファイルフォーマット"
 	LoadingXML = "XML ファイルの読み込み中..."
 	OpenCloseTagsNotMatched = "始まりと終わりのタグが合いません"
+	NoFileNameOrContentsPassedIn = "ParseXmlFile() was called without either an XML file name or an XML file contents text buffer supplied.  Either XmlFilePath or XmlFileContents must be valid in order to call ParseXmlFile()"
 	ProcessingXML = "XMLファイルの処理中..."
 	LoadedXMLFileWasEmpty = "このXMLファイルは空です"
 	ErrorReadingFile = "このXMLファイルは読み込めません"
@@ -1873,9 +2138,6 @@ Namespace FastXml (14 keys)
 	UserAbortedOnComment = "構文解析プロセスはユーザーによって中止されました"
 	UserAbortedOnElement = "構文解析プロセスはユーザーによって中止されました"
 	UserAbortedOnFile = "このファイルの処理はユーザーによってキャンセルされました"
-
-Namespace FCurveHandle (1 keys)
-	CurveFunction_Error = "FCurveHandle のカーブ イージング関数型 [%i] を認識できません"
 
 Namespace FDeviceManagerModule (2 keys)
 	DeviceManagerTabTitle = "デバイスマネージャー"
@@ -1899,7 +2161,8 @@ Namespace FHTML5PlatformEditorModule (2 keys)
 	TargetSettingsName = "HTML5"
 	TargetSettingsDescription = "HTML5の設定"
 
-Namespace FileHelper (0 keys)
+Namespace FileHelper (1 keys)
+	Error_FilenameIsTooShort = "Please provide a filename for the asset."
 
 Namespace FInputChord (6 keys)
 	ModAppender = "+"
@@ -2000,9 +2263,11 @@ Namespace FSlateReflectorModule (8 keys)
 	NoTextureAtlasProvider = "現行レンダラーにテクスチャアトラスが提供されていません"
 	WidgetReflectorTitle = "ウィジェットリフレクタ"
 
-Namespace FSwitchPlatformEditorModule (2 keys)
+Namespace FSwitchPlatformEditorModule (4 keys)
+	ControllerSettingsDescription = "Button bindings for all JOY CON modes"
 	RuntimeSettingsDescription = "Switchプラットフォームの設定とリソース"
 	RuntimeSettingsName = "Switch"
+	ControllerSettingsName = "Switch JOY CON Bindings"
 
 Namespace FunctionalTest (1 keys)
 	DefaultTimesUpMessage = "タイムアウトしました！"
@@ -2011,15 +2276,24 @@ Namespace FXboxOnePlatformEditorModule (2 keys)
 	TargetSettingsName = "XBox One"
 	TargetSettingsDescription = "Xbox Oneプロジェクト設定"
 
-Namespace GameplayDebuggerConfig (0 keys)
+Namespace GameplayDebuggerConfig (5 keys)
+	EdToolDisableHint = "Clear DebugAI show flag to disable tool."
+	EdToolDisableButton = "Disable tool"
+	EdToolTitle = "Gameplay Debugger"
+	EdToolStatus = "Gameplay debugger is active."
+	EdToolMessageWarning = "Warning! On screen messages are suppressed!
+Use EnableAllScreenMessages to restore them."
 
 Namespace GameplayDebuggerModule (2 keys)
 	SettingsName = "ゲームプレイデバッガー"
 	SettingsDescription = "ゲームプレイデバッガツール設定"
 
-Namespace GameplayStatics (0 keys)
+Namespace GameplayStatics (1 keys)
+	CollisionUVNoSupport = "Calling FindCollisionUV but 'Support UV From Hit Results' is not enabled in project settings. This is required for finding UV for collision results."
 
-Namespace GameplayTasksComponent (0 keys)
+Namespace GameplayTasksComponent (2 keys)
+	RunNullGameplayTask = "Tried running a None task for {0}"
+	RunGameplayTaskNullOwner = "Tried running a gameplay task {0} while owner is None!"
 
 Namespace GameViewportClient (5 keys)
 	ConnectingMessage = "接続中"
@@ -2037,15 +2311,27 @@ Namespace GenericCommands (1 keys)
 Namespace GenericPlatform (1 keys)
 	FileManagerName = "ファイルマネージャー"
 
-Namespace GeometryCacheComponent (0 keys)
+Namespace GeometryCacheComponent (1 keys)
+	SetGeometryCache = "Calling SetGeometryCache on '{0}' but Mobility is Static."
 
-Namespace GetDataTableRow (0 keys)
+Namespace GetDataTableRow (3 keys)
+	MissingOutputProperty = "Failed to resolve the output parameter for GetDataTableRow."
+	MissingTableInput = "Failed to resolve the table input. Be sure the DataTable is valid."
+	IncompatibleProperty = "Incompatible output parameter; the data table's type is not the same as the return type."
 
 Namespace GraphEditor (2 keys)
 	ObjectGraphPin_Browse = "コンテンツブラウザに選択アセットを表示する"
 	ObjectGraphPin_Use = "コンテンツブラウザの選択肢を使用"
 
-Namespace HeadMountedDisplay (7 keys)
+Namespace HeadMountedDisplay (12 keys)
+	CVarText_MixLayerPriorities = "By default, Face-Locked Stereo Layers are always rendered on top of any other layer position types.
+Set this to a non-zero value to disable this behavior (not supported on all platforms.)"
+	CVarText_HiddenAreaMask = "Enable or disable hidden area mask
+0: disabled
+1: enabled"
+	CVarText_EnableDevOverrides = "Enables or disables console commands that modify various developer-only settings."
+	CCommandText_EnableHMD = "Enables or disables the HMD device. Use 1, True, or Yes to enable, 0, False or No to disable."
+	CCommandText_EnableStereo = "Enables or disables the stereo rendering. Use 1, True, or Yes to enable, 0, False or No to disable."
 	CCommandText_TrackingOrigin = "Floorもしく0 - トラッキング原点は床, Eyeもしくは1 - トラッキング原点はアイレベル"
 	CCommandText_HMDVersion = "現在のHMDデバイスのバージョン情報を出力します"
 	CVarText_HMDStatus = "ヘッドトラッキングの現在のステータスを報告します。"
@@ -2057,10 +2343,13 @@ Namespace HeadMountedDisplay (7 keys)
 	CVarText_ShowTrackingSensors = "トラッキングセンサーの位置とカバーするエリアの表示もしくは非表示
 1、True、Yesで有効、0、False、Noで無効"
 
-Namespace HierarchicalLODUtils (6 keys)
+Namespace HierarchicalLODUtils (9 keys)
+	HLODError_MeshNotBuildTwo = "Mesh has more that 65535 vertices, incompatible with mobile; forcing 16-bit (will probably cause rendering issues)."
 	UndoAction_AddActorToCluster = "アクタをクラスターに追加"
+	UndoAction_BuildProxyMesh = "Building Proxy Mesh for Cluster"
 	UndoAction_CreateNewCluster = "新規クラスターの作成"
 	UndoAction_DeleteLODActor = "LODアクタを削除"
+	UndoAction_DeleteCluster = "Deleting a (invalid) Cluster"
 	UndoAction_ExcludeActorFromClusterGeneration = "アクタをクラスター生成から外す"
 	UndoAction_MergeClusters = "クラスターをマージ"
 	UndoAction_RemoveActorFromCluster = "クラスターからアクターを削除"
@@ -2068,26 +2357,38 @@ Namespace HierarchicalLODUtils (6 keys)
 Namespace HotReload (1 keys)
 	CompilingGameCode = "ゲームコードをコンパイル中"
 
-Namespace HTML5TargetSettings (0 keys)
+Namespace HTML5TargetSettings (1 keys)
+	GitHubSourceRequiredToolTip = "This requires GitHub source."
 
 Namespace HUD (1 keys)
 	PIE_Warning_Message_CanvasCallOutsideOfDrawCanvas = "Canvas　Draw関数はDrawHUDイベントを処理中の時だけ呼び出しが許されます"
 
-Namespace ImageComparer (0 keys)
+Namespace ImageComparer (6 keys)
+	DifferentImageSizes = "Image comparison failed as sizes do not match, {WidthA}x{HeightA} vs {WidthB}x{HeightB}"
+	ErrorReadingRawDataA = "Unable decompress ImageA"
+	PNGWrapperMissing = "Unable locate the PNG Image Processor"
+	ErrorParsingImageA = "Unable to parse image"
+	ErrorOpeningImageA = "Unable to read image"
+	DifferentSizesUnsupported = "We can not compare images of different sizes at this time."
 
-Namespace ImageUtils (0 keys)
+Namespace ImageUtils (3 keys)
+	ExportHDRFailedToReadMipData = "Failed to read Mip Data in: '{0}'"
+	ExportHDRUnsupportedSourceTextureFormat = "Unsupported source texture format provided."
+	ExportHDRUnsupportedTextureFormat = "Unsupported texture format provided."
 
 Namespace IMovieSceneObjectSpawner (1 keys)
 	NotSupported = "サポートされていません"
 
-Namespace InputKeys (171 keys)
+Namespace InputKeys (205 keys)
 	Acceleration = "加速度"
 	AndroidSubCateogry = "Android"
 	Android_Back = "Android の Backボタン"
 	Android_Menu = "Android の Menuボタン"
 	Android_Volume_Down = "Android の ボリュームダウン"
 	Android_Volume_Up = "Android の ボリュームアップ"
+	AnyKey = "Any Key"
 	Apostrophe = "アポストロフィ"
+	Asterix = "Asterisk"
 	BackSpace = "Backspace"
 	CapsLock = "Caps Lock"
 	Colon = "コロン"
@@ -2182,6 +2483,19 @@ Namespace InputKeys (171 keys)
 	MiddleMouseButton = "マウスの中央ボタン"
 	MotionSubCateogry = "モーション"
 	MotionControllerSubCategory = "モーションコントローラ"
+	MotionController_Left_FaceButton1 = "MotionController (L) FaceButton1"
+	MotionController_Left_FaceButton2 = "MotionController (L) FaceButton2"
+	MotionController_Left_FaceButton3 = "MotionController (L) FaceButton3"
+	MotionController_Left_FaceButton4 = "MotionController (L) FaceButton4"
+	MotionController_Left_FaceButton5 = "MotionController (L) FaceButton5"
+	MotionController_Left_FaceButton6 = "MotionController (L) FaceButton6"
+	MotionController_Left_FaceButton7 = "MotionController (L) FaceButton7"
+	MotionController_Left_FaceButton8 = "MotionController (L) FaceButton8"
+	MotionController_Left_Grip1 = "MotionController (L) Grip1"
+	MotionController_Left_Grip1Axis = "MotionController (L) Grip1 Axis"
+	MotionController_Left_Grip2 = "MotionController (L) Grip2"
+	MotionController_Left_Grip2Axis = "MotionController (L) Grip2 Axis"
+	MotionController_Left_Shoulder = "MotionController (L) Shoulder"
 	MotionController_Left_Thumbstick = "モーションコントローラ(左)サムスティック"
 	MotionController_Left_Thumbstick_Down = "モーションコントローラ(左)サムスティック下"
 	MotionController_Left_Thumbstick_Left = "モーションコントローラ(左)サムスティック左"
@@ -2189,6 +2503,21 @@ Namespace InputKeys (171 keys)
 	MotionController_Left_Thumbstick_Up = "モーションコントローラ(左)サムスティック上"
 	MotionController_Left_Thumbstick_X = "モーションコントローラ(左)サムスティックX軸"
 	MotionController_Left_Thumbstick_Y = "モーションコントローラ(左)サムスティックY軸"
+	MotionController_Left_Trigger = "MotionController (L) Trigger"
+	MotionController_Left_TriggerAxis = "MotionController (L) TriggerAxis"
+	MotionController_Right_FaceButton1 = "MotionController (R) FaceButton1"
+	MotionController_Right_FaceButton2 = "MotionController (R) FaceButton2"
+	MotionController_Right_FaceButton3 = "MotionController (R) FaceButton3"
+	MotionController_Right_FaceButton4 = "MotionController (R) FaceButton4"
+	MotionController_Right_FaceButton5 = "MotionController (R) FaceButton5"
+	MotionController_Right_FaceButton6 = "MotionController (R) FaceButton6"
+	MotionController_Right_FaceButton7 = "MotionController (R) FaceButton7"
+	MotionController_Right_FaceButton8 = "MotionController (R) FaceButton8"
+	MotionController_Right_Grip1 = "MotionController (R) Grip1"
+	MotionController_Right_Grip1Axis = "MotionController (R) Grip1 Axis"
+	MotionController_Right_Grip2 = "MotionController (R) Grip2"
+	MotionController_Right_Grip2Axis = "MotionController (R) Grip2 Axis"
+	MotionController_Right_Shoulder = "MotionController (R) Shoulder"
 	MotionController_Right_Thumbstick = "モーションコントローラ(右)サムスティック"
 	MotionController_Right_Thumbstick_Down = "モーションコントローラ(右)サムスティック下"
 	MotionController_Right_Thumbstick_Left = "モーションコントローラ(右)サムスティック左"
@@ -2196,7 +2525,10 @@ Namespace InputKeys (171 keys)
 	MotionController_Right_Thumbstick_Up = "モーションコントローラ(右)サムスティック上"
 	MotionController_Right_Thumbstick_X = "モーションコントローラ(右)サムスティックX軸"
 	MotionController_Right_Thumbstick_Y = "モーションコントローラ(右)サムスティックY軸"
+	MotionController_Right_Trigger = "MotionController (R) Trigger"
+	MotionController_Right_TriggerAxis = "MotionController (R) TriggerAxis"
 	MouseSubCategory = "マウス"
+	MouseWheelAxis = "Mouse Wheel Axis"
 	MouseScrollDown = "マウスホイール・引く"
 	MouseScrollUp = "マウスホイール・押す"
 	MouseX = "マウスのX軸"
@@ -2249,18 +2581,24 @@ Namespace InputKeys (171 keys)
 	ThumbMouseButton2 = "マウスの親指ボタン２"
 	Tilt = "Tilt"
 	TouchSubCateogry = "タッチ"
+	TouchFormat = "Touch {0}"
 	Underscore = "アンダースコア"
 	Up = "上"
 	XBoxOneSubCateogry = "XBox One"
 
-Namespace InputKeySelector (0 keys)
+Namespace InputKeySelector (2 keys)
+	DefaultKeySelectionText = "..."
+	DefaultEmptyText = "Empty"
 
-Namespace InstalledPlatformInfo (0 keys)
+Namespace InstalledPlatformInfo (1 keys)
+	NotInstalled_SelectedPlatform = "The Binaries for this Target Platform are not currently installed, would you like to use the Launcher to download them?"
 
-Namespace InstancedFoliage (3 keys)
+Namespace InstancedFoliage (5 keys)
+	MapCheck_FixDuplicateInstancedFoliageActor_Desc = "Click to consolidate foliage into the main foliage actor."
 	MapCheck_FixDuplicateInstancedFoliageActor = "修正"
 	MapCheck_Message_FoliageMissingComponent = "このマップのフォリッジはスタティックメッシュ {MeshName} に対してコンポーネントがありません。この問題は修復されました。"
 	MapCheck_Message_FoliageMissingStaticMesh = "不足しているスタティックメッシュのフォリッジインスタンスが取り除かれました。"
+	MapCheck_DuplicateInstancedFoliageActor = "Level {Level} has an unexpected duplicate Instanced Foliage Actor."
 
 Namespace InstancedStaticMesh (4 keys)
 	UniqueStaticLightingForLODWarning = "Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs."
@@ -2272,8 +2610,10 @@ Namespace Internationalization (2 keys)
 	InvariantCultureDisplayName = "インバリアントカルチャ (インバリアント)"
 	ComputerMemoryFormatting = "{Number} {Unit}"
 
-Namespace IOSTargetSettings (72 keys)
+Namespace IOSTargetSettings (90 keys)
 	IOSUpgradeInfoMessage = "<RichTextBlock.TextHighlight>4.6 またはそれ以前のバージョンを使用しているユーザーへの注意事項</>: ビルド時に「Info.plist」を <RichTextBlock.TextHighlight>生成</> 出来るようになりました。ご自身の「.plist」ファイルをカスタマイズした場合は、すべての変更を以下の設定に置かなくてはいけません。こちら側でユーザーの「.plist」ファイルに触れることはないため、これらを参照として使用することができます。"
+	CertificateMessage = "<RichTextBlock.TextHighlight>Note</>: If no certificate is selected then the one in green will be used to sign the IPA."
+	ProvisionMessage = "<RichTextBlock.TextHighlight>Note</>: If no provision is selected the one in green will be used to provision the IPA."
 	AllCertificatesHyperLinkLabel = "すべて"
 	AllProvisionsHyperLinkLabel = "すべて"
 	BundleIdentifierLabel = "Bundle Identifier"
@@ -2283,9 +2623,17 @@ Namespace IOSTargetSettings (72 keys)
 	ProvisionListDistributionColumnHeader = "配布"
 	iOSMetalShaderVersion1_1 = "Enabling Metal Shader Standard v1.1 increases the minimum operating system requirement for Metal from iOS 8.0 or later to iOS 9.0 or later. This does not affect tvOS."
 	iOSMetalShaderVersion1_2 = "Enabling Metal Shader Standard v1.2 increases the minimum operating system requirement for Metal from iOS 8.0/tvOS 9.0 or later to iOS/tvOS 10.0 or later."
+	MetalMRTStandardv1.2 = "Enabling the Desktop Forward Renderer Metal requires Shader Standard v1.2 which increases the minimum operating system requirement for Metal from iOS 8.0 or later to iOS 10.0 or later."
+	GlobalClipPlaneiOS10 = "Enabling the Global Clip Plane increases the minimum operating system requirement for Metal from iOS 8.0 or later to iOS 10.0 or later."
 	CertificateListExpiresColumnHeader = "失効"
 	ProvisionListFileColumnHeader = "ファイル"
+	GLES2Deprecation = "GLES2 will no longer be supported in 4.17."
 	GenerateSSHKey = "新規SSHキーを生成"
+	IOSTeamIDLabel = "IOS Team ID"
+	IOSTeamID = "IOSTeamID"
+	NameContainsInvalidCharacters = "Identifier may only contain the characters 0-9, A-Z, a-z, period, hyphen, or [PROJECT_NAME]"
+	ImportCertificate = "Import Certificate"
+	ImportCertificateDialogTitle = "Import Certificate"
 	ImportProvision = "プロビジョニングプロファイルをインポートする"
 	ImportProvisionDialogTitle = "プロビジョニングプロファイルをインポートする"
 	CertificateViewerImportingCertificate = "証明書をインポート中です。お待ちください..."
@@ -2306,6 +2654,9 @@ Namespace IOSTargetSettings (72 keys)
 	LaunchImage_iPhone6Plus_Portrait = "iPhone 6 Plusを縦表示で起動する"
 	LaunchImage_iPhone6_Landscape = "iPhone 6を横表示で起動する"
 	LaunchImage_iPhone6 = "iPhone 6を縦表示で起動する"
+	LaunchImage_iPhoneX_Landscape = "Launch iPhone X in Landscape"
+	LaunchImage_iPhoneX_Portrait = "Launch iPhone X in Portrait"
+	AppIcon_Marketing = "Marketing Icon"
 	CertificateViewerNoValidProvisions = "証明書がありません。証明書をインポートしてください。"
 	ProvisionViewerNoValidProvisions = "プロビジョニングファイルがありません。プロビジョニングファイルをインポートしてください。"
 	SSHPrivateKeyOverridePathToolTip = "指定位置からのキーで既存SSHプライベートキーをオーバーライドする"
@@ -2316,6 +2667,7 @@ Namespace IOSTargetSettings (72 keys)
 	RSyncUserNameLabel = "RSync ユーザー名"
 	RemoteBuildingGroupName = "リモートビルドオプション"
 	RemoteServerNameLabel = "リモートサーバー名"
+	SpotlightIcon_Retina_HD_iOS7 = "Retina HD iOS7 Spotlight Icon"
 	SpotlightIcon_Retina_iOS7 = "Retina iOS7 Spotlight アイコン"
 	CertificateListStatusColumnHeader = "ステータス"
 	ProvisionListStatusColumnHeader = "ステータス"
@@ -2339,7 +2691,11 @@ Namespace IOSTargetSettings (72 keys)
 	AppIcon_iPad_iOS6 = "iPad iOS6 Appアイコン"
 	SpotlightIcon_iPad_iOS6 = "iPad iOS6 Spotlightアイコン"
 	AppIcon_iPad_iOS7 = "iPad iOS7 Appアイコン"
+	NotificationIcon_iPhone = "iPhone Notification Icon"
 	AppIcon_iPhoneRetina_iOS8 = "iPhone Plus Retina iOS8 Appアイコン"
+	NotificationIcon_iPhoneRetina_HD = "iPhone Retina HD Notification Icon"
+	SettingsIcon_iPhoneRetina_HD = "iPhone Retina HD Settings Icon"
+	NotificationIcon_iPhoneRetina = "iPhone Retina Notification Icon"
 	SettingsIcon_iPhoneRetina = "iPhone Retina 設定アイコン"
 	AppIcon_iPhoneRetina_iOS6 = "iPhone Retina iOS6 Appアイコン"
 	AppIcon_iPhoneRetina_iOS7 = "iPhone Retina iOS7 Appアイコン"
@@ -2362,20 +2718,41 @@ Namespace KismetMaterialLibrary (5 keys)
 	SetVectorParamOn = "SetVectorParameterValueを要求"
 	WithInvalidParam = "無効なパラメータ名 '{ParamName}' です。おそらくブループリントエラーによる可能性があります。"
 
-Namespace KismetRenderingLibrary (6 keys)
+Namespace KismetRenderingLibrary (26 keys)
 	BeginDrawCanvasToRenderTarget_InvalidTextureRenderTarget = "BeginDrawCanvasToRenderTarget: TextureRenderTargetはnullではない必要があります。"
 	BeginDrawCanvasToRenderTarget_InvalidWorldContextObject = "BeginDrawCanvasToRenderTarget: WorldContextObjectが有効ではありません。"
+	BeginDrawCanvasToRenderTarget_ReleasedTextureRenderTarget = "BeginDrawCanvasToRenderTarget: render target has been released."
+	Convert to render target can't be used at run time. = "ConvertRenderTarget: Can't convert render target to texture2d at run time. "
 	ConvertRenderTargetToTexture2D_InvalidRenderTarget = "ConvertRenderTargetToTexture2DEditorOnly: RenderTarget must be non-null."
 	ConvertRenderTargetToTexture2D_InvalidTexture = "ConvertRenderTargetToTexture2DEditorOnly: Texture must be non-null."
+	ConvertRenderTargetToTexture2D_ReleasedTextureRenderTarget = "ConvertRenderTargetToTexture2DEditorOnly: render target has been released."
+	DrawMaterialToRenderTarget_InvalidMaterial = "DrawMaterialToRenderTarget: Material must be non-null."
+	DrawMaterialToRenderTarget_InvalidTextureRenderTarget = "DrawMaterialToRenderTarget: TextureRenderTarget must be non-null."
+	DrawMaterialToRenderTarget_InvalidWorldContextObject = "DrawMaterialToRenderTarget: WorldContextObject is not valid."
+	DrawMaterialToRenderTarget_ReleasedTextureRenderTarget = "DrawMaterialToRenderTarget: render target has been released."
 	EndDrawCanvasToRenderTarget_InvalidContext = "EndDrawCanvasToRenderTarget: Contextは有効である必要があります。"
 	EndDrawCanvasToRenderTarget_InvalidWorldContextObject = "EndDrawCanvasToRenderTarget: WorldContextObjectが有効ではありません。"
+	ExportRenderTarget_InvalidFileName = "ExportRenderTarget: FileName must be non-empty."
+	ExportRenderTarget_FileWriterFailedToCreate = "ExportRenderTarget: FileWrite failed to create."
+	ExportRenderTarget_InvalidFilePath = "ExportRenderTarget: Invalid file path provided: '{0}'"
+	ExportRenderTarget_InvalidTextureRenderTarget = "ExportRenderTarget: TextureRenderTarget must be non-null."
+	ExportRenderTarget_ReleasedTextureRenderTarget = "ExportRenderTarget: render target has been released."
+	ExportTexture2D_InvalidFileName = "ExportTexture2D: FileName must be non-empty."
+	ExportTexture2D_FileWriterFailedToCreate = "ExportTexture2D: FileWrite failed to create."
+	ExportTexture2D_InvalidFilePath = "ExportTexture2D: Invalid file path provided: '{0}'"
+	ExportTexture2D_InvalidTextureRenderTarget = "ExportTexture2D: TextureRenderTarget must be non-null."
+	Texture2D's cannot be created at runtime. = "RenderTargetCreateStaticTexture2DEditorOnly: Can't create Texture2D at run time. "
+	RenderTargetCreateStaticTexture2D_FailedToCreateTexture = "RenderTargetCreateStaticTexture2DEditorOnly: Failed to create a new texture."
+	RenderTargetCreateStaticTexture2D_ReleasedRenderTarget = "RenderTargetCreateStaticTexture2DEditorOnly: RenderTarget has been released."
+	RenderTargetCreateStaticTexture2D_InvalidRenderTarget = "RenderTargetCreateStaticTexture2DEditorOnly: RenderTarget must be non-null."
 
 Namespace KismetSchema (1 keys)
 	Default = "デフォルト"
 
-Namespace KismetSystemLibrary (0 keys)
+Namespace KismetSystemLibrary (1 keys)
+	PathStringInvalid = "Object path {PathString} not valid for MakeSoftObjectPath."
 
-Namespace Landscape (16 keys)
+Namespace Landscape (18 keys)
 	LandscapeSpline_ApplySplines = "ランドスケープにスプラインを適用する"
 	MapCheck_RemoveDuplicateLandscapeComponent = "複製を削除"
 	MapCheck_RemoveDuplicateLandscapeComponentDesc = "複製のランドスケープコンポーネントを削除"
@@ -2389,14 +2766,17 @@ Namespace Landscape (16 keys)
 	BeingImportingLandscapeTask = "ランドスケープをエクスポート中"
 	Landscape = "ランドスケープ"
 	MapCheck_Message_LandscapeComponentPostLoad_Warning = "{LevelName1} のランドスケープ {ProxyName1} の({XLocation}、 {YLocation}) に描画コンポーネントとオーバーラップしている {LevelName2} の {ProxyName2} があります"
+	LoadError_DuplicateLandscapeGuid = "Landscape {ProxyName1} of {LevelName1} has the same guid as {ProxyName2} of {LevelName2}. {LevelName2}.{ProxyName2} has had its guid automatically changed, please save {LevelName2}!"
 	BeginReplacingLayerTask = "レイヤを置換中"
+	AssignLandscapeMaterial = "You must assign a regular, non-engine material to your landscape in order to see holes created with the visibility tool."
 	MapCheck_Message_FixedUpDeletedLayerWeightmap = "{LandscapeName} : 削除したレイヤウェイトマップを修正済み"
 	MapCheck_Message_FixedUpIncorrectLayerWeightmap = "{LandscapeName} : 不正なレイヤウェイトマップのテクスチャインデックスを修正済み"
 
-Namespace Landscape.Splines (3 keys)
+Namespace Landscape.Splines (4 keys)
 	MapCheck_ActionName_OrphanedMeshes = "孤立したメッシュを片付ける"
 	MapCheck_Message_MeshesOutDated = "{MeshMap} の中のメッシュが {SplineMap} のランドスケープ スプラインと比べて古くなっています。"
 	MapCheck_ActionName_MeshesOutDated = "ランドスケープ スプラインをリビルド"
+	MapCheck_Message_OrphanedMeshes = "{MeshMap} contains orphaned meshes due to mismatch with landscape splines in {SplineMap}"
 
 Namespace LatentActionManager (2 keys)
 	NoPendingActions = "保留のアクションはありません"
@@ -2410,16 +2790,19 @@ Namespace LaunchEngineLoop (1 keys)
 フルネームを使用しなくてはいけません。
  '{0}' を指定せずに '{0}Game' を使用してください。"
 
-Namespace LauncherWorker (7 keys)
+Namespace LauncherWorker (8 keys)
 	LauncherArchiveDesc = "{0} のコンテンツをアーカイブ中"
 	LauncherBuildDesc = "{0} にビルドしたゲーム"
 	LauncherCookDesc = "{0} のクックコンテンツ"
 	LauncherDeployDesc = "{0} のコンテンツをデプロイ中"
 	LauncherRunDesc = "{0} で起動中"
 	LauncherPackageDesc = "{0} のコンテンツをパッケージ中"
+	LauncherCookOnTheFlyDesc = "Starting cook on the fly server"
 	LauncherCompletionDesc = "UAT 実行後のクリーンアップ"
 
-Namespace LevelActor (0 keys)
+Namespace LevelActor (2 keys)
+	MapCheck_Message_RepairedPaintedVertexColors = "Repaired painted vertex colors in {LoadTime} for {NumComponents} components in {LevelName}.  Resave map to fix."
+	MapCheck_Message_SpentXRepairingPaintedVertexColors = "Spent {LoadTime} repairing painted vertex colors due to static mesh re-imports!  This will happen every load until the maps are resaved."
 
 Namespace LevelUtils (2 keys)
 	ChangeEditorLevelTransform = "レベルトランスフォームを編集"
@@ -2448,13 +2831,16 @@ Namespace Linker (15 keys)
 	FailedLoad_Property = "プロパティ"
 	FailedLoad_Referenced = "参照元"
 
-Namespace LinkerLoad (8 keys)
-	ImportFailure = " : Failed import for {0}"
-	LoadWarningSuffix_circularredirection = " [circular redirection]"
-	LoadWarningSuffix_privateobject = " [private]"
-	LoadWarningSuffix_redirection = " [redirection]"
+Namespace LinkerLoad (11 keys)
+	ImportFailure = ": Failed import for {0}"
+	LoadWarningSuffix_circularredirection = "[circular redirection]"
+	LoadWarningSuffix_privateobject = "[private]"
+	LoadWarningSuffix_redirection = "[redirection]"
 	LoadingTransientInstance = "ディスクからtransientクラスのインスタンをロードしようとしています - パッケージ:'{PackageName}'  オブジェクト:'{ObjectName}'  クラス:'{ClassName}'"
+	CreateExportFailedToLoadOuter = "CreateExport: Failed to load Outer for resource '{ObjectName}': {OuterName}"
+	CreateExportFailedToLoadOuterIsRedirector = "CreateExport: Failed to load Outer for resource because it is a redirector '{ObjectName}': {OuterName}"
 	ImportFailureExportReference = "Referenced by export {0}"
+	NestedRenameDisallowed = "{0} cannot contain a rename of nested objects for '{1}'; if you want to leave the outer alone, just specify the name with no path"
 	ImportFailure_WarningIn = "{1} の{0} "
 	LoadedDeprecatedClassInstance = "{ObjectName}: クラス {ClassName} は非推奨になりました"
 
@@ -2462,16 +2848,28 @@ Namespace LinuxDynamicRHI (2 keys)
 	RequiredOpenGL = "エンジンの実行にはOpenGL 3.2が必須です"
 	RequiredVulkan = "エンジンの実行にはVulkanドライバーが必須です"
 
-Namespace LinuxPlatformEditorModule (0 keys)
+Namespace LinuxPlatformEditorModule (2 keys)
+	TargetSettingsName = "Linux"
+	TargetSettingsDescription = "Settings for Linux target platform"
 
-Namespace LinuxWindow (0 keys)
+Namespace LinuxWindow (6 keys)
+	VulkanWindowCreationFailedLinux = "Unable to create a Vulkan window - make sure an up-to-date libvulkan.so.1 is installed."
+	VulkanWindowCreationFailedLinuxTitle = "Unable to create a Vulkan window."
+	OpenGLWindowCreationFailedLinux = "Unable to create an OpenGL window - make sure your drivers support at least OpenGL 4.3."
+	OpenGLWindowCreationFailedLinuxTitle = "Unable to create an OpenGL window."
+	SDLWindowCreationFailedLinuxTitle = "Unable to create an SDL window."
+	SDLWindowCreationFailedLinux = "Window creation failed (SDL error: '%s'')"
 
-Namespace LocalizationDescriptor (0 keys)
+Namespace LocalizationDescriptor (3 keys)
+	TargetWithoutAName = "Found a 'Localization Target' entry with a missing 'Name' field"
+	TargetWithInvalidLoadingPolicy = "Localization Target entry '{0}' specified an unrecognized target LoadingPolicy '{1}'"
+	TargetWithInvalidTargetsArray = "The 'Localization Targets' array has invalid contents and was not able to be loaded."
 
-Namespace LocalizationService (3 keys)
+Namespace LocalizationService (4 keys)
 	LocalizationService_Connecting = "ローカライズサービスに接続中…"
 	LocalizationService_FLocalizationServiceDownloadLocalizationTargetFile = "ローカライズ対象ファイルをローカライズサービスから取得中…"
 	LocalizationServiceLogLabel = "ローカライズサービス"
+	LocalizationService_FLocalizationServiceUploadLocalizationTargetFile = "Uploading Localization Target File to localization Service..."
 
 Namespace LocalizationServiceProgress (3 keys)
 	CancelButtonLabel = "キャンセル"
@@ -2491,13 +2889,31 @@ Namespace LocalizationSourceControl (11 keys)
 	SourceControlNotAvailable = "ソースコントロールサーバーは現在利用不可です"
 	FailedToCheckInFiles = "チェックアウトされたローカライゼーションファイルをチェックインできませんでした。"
 
-Namespace LocalizationTargetTypes (2 keys)
+Namespace LocalizationTargetTypes (12 keys)
+	ExcludePathNoWildcardError = "Exclude path does not specify a wild card ("*"). Append "*" or only the file at the exact specified directory will be excluded."
+	ExcludePathEmptyError = "Exclude path not specified. Use "." to specify the root directory."
 	FileExtensionEmptyError = "ファイル拡張子が指定されていません"
+	IncludePathNoWildcardError = "Include path does not specify a wild card ("*"). Append "*" or only the file at the exact specified directory will be gathered from."
+	IncludePathEmptyError = "Include path not specified. Use "." to specify the root directory."
 	MetaDataKeyNameEmptyError = "メタデータキーが指定されていません"
+	InvalidGatherTextFromPackagesConfigurationError = "Must have at least one include path, one file extension, and no invalid settings."
+	InvalidGatherTextFromMetadataConfigurationError = "Must have at least one include path, one meta data key specification, and no invalid settings."
+	InvalidGatherTextFromFilesConfigurationError = "Must have at least one search directory, one file extension, and no invalid settings."
+	NoMetaDataLocalizationKeyPlaceHolderError = "No place holders used. All generated keys will conflict!"
+	SearchDirectoryNonExistentError = "Search directory does not exist."
+	SearchDirectoryEmptyError = "Search directory not specified. Use "." to specify the root directory."
 
-Namespace LocTextHelper (2 keys)
+Namespace LocTextHelper (10 keys)
+	Error_LoadArchive_DeserializeFile = "Failed to deserialize archive '{0}'."
+	Error_LoadManifest_DeserializeFile = "Failed to deserialize manifest '{0}'."
+	Error_WordCountsFromCSV_TooFewRows = "Failed to parse the CSV string as it contained too few rows (expected at least 2, got {0})."
+	Error_WordCountsFromCSV_InvalidHeader = "Failed to parse the CSV string as the header was missing one of the required rows (either '{0}' or '{1}')."
 	Error_SaveConflictReport_SaveStringToFile = "コンフリクトレポート'{0}' の保存に失敗しました"
+	Error_SaveArchive_NoArchive = "Failed to save file '{0}' as there is no archive instance to save."
+	Error_SaveManifest_NoManifest = "Failed to save file '{0}' as there is no manifest instance to save."
 	Error_SaveWordCountReport_SaveStringToFile = "ワード数レポート'{0}' の保存に失敗しました"
+	Error_SaveArchive_SerializeFile = "Failed to serialize archive '{0}'."
+	Error_SaveManifest_SerializeFile = "Failed to serialize manifest '{0}'."
 
 Namespace LODActor (4 keys)
 	MapCheck_Message_StaticMeshComponent = "スタティックメッシュアクタにNULLのStaticMeshComponent プロパティがあります - 削除してください"
@@ -2505,7 +2921,10 @@ Namespace LODActor (4 keys)
 	MapCheck_Message_InvalidLODActorEmptyActor = "{ActorName} : アクタがアサインされていません。このアクタを削除することをお勧めします。"
 	MapCheck_Message_InvalidLODActorMissingMesh = "{ActorName} : LODアクタのビルドに使うスタティックメッシュがありません。アセットを削除しましたか？削除してからもう一度LODをビルドしてください。"
 
-Namespace LogDebugViewMode (0 keys)
+Namespace LogDebugViewMode (3 keys)
+	CompileDebugViewModeShaders = "Compiling Optional Engine Shaders"
+	TextureStreamingBuild_GetTextureStreamingBuildMaterials = "Getting materials to rebuild"
+	TextureStreamingBuild_FinishPendingShadersCompilation = "Waiting For Pending Shaders Compilation"
 
 Namespace LogVisualizerApp (2 keys)
 	TooltipText = "Visual Logger ツールを開く"
@@ -2520,20 +2939,26 @@ Namespace MacPlatform (1 keys)
 Namespace MacPlatformCreateDynamicRHI (1 keys)
 	OpenGLNotSupported. = "You must have a Metal compatible graphics card and be running Mac OS X 10.11.6 or later to launch this process."
 
-Namespace MacPlatformEditorModule (0 keys)
+Namespace MacPlatformEditorModule (2 keys)
+	TargetSettingsName = "Mac"
+	TargetSettingsDescription = "Settings for Mac target platform"
 
 Namespace MainMenu (2 keys)
 	HelpMenu = "ヘルプ"
 	WindowMenu = "ウィンドウ"
 
-Namespace Material (3 keys)
+Namespace Material (5 keys)
+	MapCheck_FixMaterialUsage_Desc = "Click to set the usage flag correctly and mark the asset file as needing to be saved."
 	MapCheck_FixMaterialUsage = "修正"
 	BeginAsyncMaterialShaderCompilesTask = "非同期マテリアルシェーダーのコンパイルを開始..."
 	CouldntSetMaterialUsage = "マテリアルでこのコンポーネントの描画に必要な利用フラグ {UsageName} の自動設定を有効にできませんでした。代わりにデフォルトマテリアルを使用してください。"
+	MapCheck_SetMaterialUsage = "Material {Material} was missing the usage flag {Usage}. If the material asset is not re-saved, it may not render correctly when run outside the editor."
 
-Namespace MaterialBakingModule (0 keys)
+Namespace MaterialBakingModule (1 keys)
+	WindowTitle = "Material Baking Options"
 
-Namespace MaterialExpression (30 keys)
+Namespace MaterialExpression (32 keys)
+	RerouteNodeCreationName = "Add Reroute Node..."
 	Atmosphere = "大気"
 	StaticBool = "Bool"
 	Color = "カラー"
@@ -2559,19 +2984,28 @@ Namespace MaterialExpression (30 keys)
 	Texture = "テクスチャ"
 	Texture2D = "テクスチャ2D"
 	TextureCube = "テクスチャキューブ"
+	RerouteNodeCreationDesc = "This node looks like a single pin and can be used to tidy up your graph by adding a movable control point to the connection spline."
 	Unknown = "不明"
 	Utility = "ユーティリティ"
 	Utils = "ユーティリティ"
 	VectorOps = "VectorOps"
 	Vectors = "ベクター"
 
-Namespace MaterialExpressions (3 keys)
+Namespace MaterialExpressions (6 keys)
+	IncompatibleExternalTexture = " applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter '{0}' (slot {1}) in material '{2}'"
 	WorldPositonText = "絶対ワールド位置"
+	WorldPositonExcludingOffsetsText = "Absolute World Position (Excluding Material Offsets)"
 	CamRelativeWorldPositonText = "カメラのワールド相対位置"
+	CamRelativeWorldPositonExcludingOffsetsText = "Camera Relative World Position (Excluding Material Offsets)"
 	Error_CircularFunctionDependency = "このマテリアル関数は循環依存を引き起こす恐れがあるため使用できません。"
 
-Namespace MaterialParameterCollectionTrack (2 keys)
+Namespace MaterialLayersFunctions (2 keys)
+	Background = "Background"
+	LayerPrefix = "Layer {0}"
+
+Namespace MaterialParameterCollectionTrack (3 keys)
 	InvalidParameterText = "無効なパラメータ名やタイプがシーケンスで適用されました"
+	OnText = "on"
 	InvalidParameterFormatText = "無効なパラメータは以下です: {ParamNames}"
 
 Namespace MaterialShaderQualitySettings (8 keys)
@@ -2596,15 +3030,21 @@ Namespace MergeToolUtils (3 keys)
 	MergedFailedToFindRevision = "要求されたリビジョンを取得できなかったため {0} のロードをアボートしました"
 	MergedFailedToLoadPackage = "パッケージをロードできなかったため {0} のロードをアボートしました"
 
-Namespace MeshMergeEditorExtensions (0 keys)
+Namespace MeshMergeEditorExtensions (2 keys)
+	BakeMaterials = "Bake out Materials"
+	BakeMaterialsTooltip = "Bake out Materials for given LOD(s)."
 
-Namespace MeshMergeUtils (0 keys)
+Namespace MeshMergeUtils (4 keys)
+	CreateProxyMesh_LandscapeCulling = "Applying Landscape Culling"
+	CreateProxyMesh_CollectingMeshes = "Collecting Input Static Meshes"
+	CreateProxyMesh_CreateMesh = "Creating Mesh Proxy"
+	CreateProxyMesh_GenerateProxy = "Generating Proxy Mesh"
 
 Namespace MeshUtils (13 keys)
 	ActorNameSingular = ""{0}""
 	ActorNamePlural = "アクタ"
 	AutomaticMeshReductionPlugin = "自動"
-	AvailableReductionPluginsMenuSection = "利用可能なプラグイン"
+	AutomaticProxyLODMeshReductionPlugin = "Automatic"
 	ConvertToStaticMeshPickName = "新しく作成するスタティックメッシュの場所を選択"
 	ConvertSelectedActorsToStaticMeshTooltip = "選択したアクタのメッシュを新しいスタティックメッシュアセットに変換します。スタティックメッシュとスケルタルメッシュをサポートします。"
 	ConvertSelectedActorsToStaticMeshText = "{0} をスタティック メッシュへ変換"
@@ -2615,7 +3055,7 @@ Namespace MeshUtils (13 keys)
 	FindMoreReductionPluginsLink = "マーケットプレイスで検索"
 	SkeletalMeshConverted = "メッシュ変換に成功しました"
 
-Namespace MessageDialog (6 keys)
+Namespace MessageDialog (7 keys)
 	DefaultMessageTitle = "メッセージ"
 	DefaultDebugMessageTitle = "ShowDebugMessagef"
 	DefaultSystemErrorTitle = "システムエラー"
@@ -2632,6 +3072,7 @@ Please install the recommended driver version.
 Installed: {InstalledVer}
 Recommended: {RecommendedVer}"
 	AppHasCrashed = "{0} {1} がクラッシュしたため閉じられます"
+	TitleVideoCardDriverIssue = "WARNING: Known issues with graphics driver"
 
 Namespace MessageLog (12 keys)
 	NoneObjectToken = "<None>"
@@ -2648,11 +3089,26 @@ Namespace MessageLog (12 keys)
 	AggregateMessagesFormatter = "{PreviousMessage}{NewMessage}
 "
 
-Namespace MetalRHI (0 keys)
+Namespace MetalRHI (4 keys)
+	ShaderDebugAuthFail = "Could not access directory required for debugging optimised Metal shaders. Falling back to slower runtime compilation of shaders for debugging."
+	ShaderPlatformUnavailableTitle = "Shader Platform Unavailable"
+	ShaderPlatformUnavailable = "Shader platform: {ShaderPlatform} was not cooked! Please enable this shader platform in the project's target settings."
+	ShaderVersionUnsupported = "The current OS version does not support {Version} required by the project. You must upgrade to {RequiredOS} to run this project."
 
-Namespace MiscSwitchMessages (2 keys)
+Namespace MiscSwitchMessages (13 keys)
 	Connected = "接続"
+	Disallowed = "Disallowed"
+	Disconnected = "Disonnected"
+	Down = "Down"
+	DualJoyCon = "Dual JoyCon"
+	Handheld = "Handheld"
+	HandheldMessage = "Handheld: {0}"
+	LeftJoyCon = "Left JoyCon"
+	NifmModeMessage = "Nifm/Network Status: {0}"
 	ControllerMessage = "プレイヤー {0}: {1}"
+	Pro = "Pro"
+	RightJoyCon = "Right JoyCon"
+	Up = "Up"
 
 Namespace ModuleDescriptor (5 keys)
 	ModuleWithoutAType = "'Type' 欄が不足しているモジュールエントリ '{0}' が見つかりました"
@@ -2680,7 +3136,8 @@ Namespace MovementComponent (1 keys)
 Namespace MoviePlayerTestLoadingScreen (1 keys)
 	LoadingComplete = "ロードが完了しました！"
 
-Namespace MovieScene (0 keys)
+Namespace MovieScene (1 keys)
+	IncompatibleDataWarning = "Property size mismatch for property '{0}'. Expected '{1}', found '{2}'. Recreate the track with the new property type."
 
 Namespace MovieScene3DAttachTrack (1 keys)
 	TrackName = "親子付け"
@@ -2697,11 +3154,14 @@ Namespace MovieSceneCameraCutTrack (1 keys)
 Namespace MovieSceneCameraShakeTrack (1 keys)
 	TrackName = "カメラシェイク"
 
-Namespace MovieSceneCapture (6 keys)
+Namespace MovieSceneCapture (7 keys)
 	CompositionGraphDescription = "カスタムレンダーパス"
 	BMPDescription = "画像シーケンス(bmp)"
 	JPEGDescription = "画像シーケンス(jpg)"
 	PNGDescription = "画像シーケンス(png)"
+	UnableToRemoveFile_Format = "The destination file '{0}' could not be deleted because it's in use by another application.
+
+Please close this application before continuing."
 	UnableToRemoveFile = "ファイルを削除できません"
 	VideoDescription = "動画シーケンス"
 
@@ -2725,7 +3185,8 @@ Namespace MovieSceneLevelVisibilityTrack (1 keys)
 Namespace MovieSceneMaterialParameterCollectionTrack (1 keys)
 	DefaultTrackName = "マテリアルパラメータコレクション"
 
-Namespace MovieSceneNameableTrack (0 keys)
+Namespace MovieSceneNameableTrack (1 keys)
+	UnnamedTrackName = "Unnamed Track"
 
 Namespace MovieSceneParticleTrack (1 keys)
 	DisplayName = "パーティクルシステム"
@@ -2752,9 +3213,13 @@ Namespace MovieSceneSubTrack (1 keys)
 Namespace MovieSceneVisibilityTrack (1 keys)
 	DisplayName = "可視性"
 
-Namespace NativeCodeGenerationTool (15 keys)
+Namespace NativeCodeGenerationTool (16 keys)
+	NoConvertedDependencies = "
+Unconverted Dependencies, that require a warpper struct:
+"
 	ClassName = "クラス名"
-	CppNotSaved = "Cppファイルは保存されませんでした。ログで詳細を確認してください。 %s "
+	CppNotSavedFmt = "Cpp file wasn't saved. Check log for details. {0}
+"
 	Dependencies = "依存関係"
 	ConvertedDependencies = "検出された依存関係:
 "
@@ -2763,7 +3228,8 @@ Namespace NativeCodeGenerationTool (15 keys)
 	GeneratingCppFiles = "C++ファイルを作成中..."
 	HeaderDirectory = "ヘッダディレクトリ"
 	HeaderPath = "ヘッダパス"
-	HeaderNotSaved = "ヘッダファイルは保存されませんでした。ログで詳細を確認してください。 %s "
+	HeaderNotSavedFmt = "Header file wasn't saved. Check log for details. {0}
+"
 	InvalidBlueprint = "無効なブループリント "
 	NoConvertedAssets = "依存関係は見つかりませんでした。
 "
@@ -2782,6 +3248,10 @@ Namespace NetworkErrors (6 keys)
 	NETDISCONNECTMSG = "ネット切断メッセージ"
 	ClientReliableBufferOverflow = "信頼できる送信バッファオーバーフロー"
 	GenericPendingConnectionFailed = "保留中の接続に失敗しました"
+
+Namespace OpenGLDrv (2 keys)
+	CannotDetermineGraphicsDriversVendorTitle = "Cannot determine driver vendor."
+	CannotDetermineGraphicsDriversVendor = "Unknown graphics drivers '{0}' by '{1}' are installed on this system. You may experience visual artifacts and other problems."
 
 Namespace OutputLog (6 keys)
 	UnknownTargetDevice = "<不明デバイス>"
@@ -2806,16 +3276,22 @@ Namespace ParticleModules (1 keys)
 Namespace ParticleParameterTrack (1 keys)
 	DisplayName = "パーティクルパラメータ"
 
-Namespace PhysicsAsset (0 keys)
+Namespace PhysicsAsset (2 keys)
+	ConflictSyncAsync = "Physics Asset had both sync and async bodies. Defaulting to sync scene only. If you'd like to use async change UseAsyncScene on the PhysicsAsset:{0}"
+	BoneMissingFromSkelMesh = "The SkeletalMesh is missing bone '{0}' needed by this PhysicsAsset."
 
-Namespace PlatformAudio (0 keys)
+Namespace PlatformAudio (3 keys)
+	Occlusion = "Choose which audio plugin should be used for occlusion. If your desired occlusion plugin isn't found in the drop down menu, ensure that it is enabled on the Plugins panel."
+	Reverb = "Choose which audio plugin should be used for reverb. If your desired reverb plugin isn't found in the drop down menu, ensure that it is enabled on the Plugins panel."
+	Spatialization = "Choose which audio plugin should be used for spatialization. If your desired spatialization isn't found in the drop down menu, ensure that it is enabled on the Plugins panel."
 
-Namespace PlatformInfo (29 keys)
+Namespace PlatformInfo (30 keys)
 	Android = "Android"
 	Android_ASTC = "Android (ASTC)"
 	Android_ATC = "Android (ATC)"
 	Android_DXT = "Android (DXT)"
 	Android_ETC1 = "Android (ETC1)"
+	Android_ETC1a = "Android (ETC1a)"
 	Android_ETC2 = "Android (ETC2)"
 	Android_Multi = "Android (Multi)"
 	Android_PVRTC = "Android (PVRTC)"
@@ -2841,7 +3317,8 @@ Namespace PlatformInfo (29 keys)
 	IOS = "iOS"
 	TVOSTargetPlatDisplay = "tvOS"
 
-Namespace PlayerController (0 keys)
+Namespace PlayerController (1 keys)
+	PlayerControllerPossessAuthorityOnly = "Possess function should only be used by the network authority for {0}"
 
 Namespace PluginDescriptor (7 keys)
 	FailedToLoadDescriptorFile = "記述子ファイル '{0}' を開けませんでした"
@@ -2852,33 +3329,58 @@ Namespace PluginDescriptor (7 keys)
 	PluginReferenceWithoutName = "プラグイン参照は 'Name' 欄が必須です  "
 	PluginReferenceWithoutEnabled = "プラグイン参照は 'Enabled' 欄が必須です  "
 
-Namespace PluginManager (8 keys)
+Namespace PluginManager (17 keys)
 	IncompatiblePluginCaption = "'{0}' is Incompatible"
+	DisablePluginMessage_MissingOrIncompatibleDependency = "Binaries for the '{0}' plugin (a dependency of '{1}') are missing or incompatible with the current engine version.
+
+Would you like to disable it? You will no longer be able to open assets that were created with it."
+	DisablePluginMessage_MissingOrIncompatibleEngineVersion = "Binaries for the '{0}' plugin are missing or incompatible with the current engine version.
+
+Would you like to disable it? You will no longer be able to open assets that were created with it."
 	PluginFailureTitle = "プラグインの読み込みに失敗しました"
+	DisablePluginCaption = "Missing Plugin"
+	DownloadPluginCaption = "Missing {0} Plugin"
 	PluginModuleNotFound = "モジュール '{1}' が見つからないためプラグイン '{0}' のロードに失敗しました。プラグインが正しくインストールされていることを確認するか、このプロジェクトでは対象プラグインを無効にしてください。"
 	PluginModuleFailedToInitialize = "ロード後にモジュール '{1}' の初期化に成功しなかったためプラグイン '{0}' のロードに失敗しました。"
 	PluginGenericLoadFailure = "モジュール '{1}' を何らかの理由でロード出来なかったためプラグイン '{0}' のロードに失敗しました。このプラグインの機能は利用できません。このエラー報告を送信してください。"
 	PluginModuleCouldntBeLoaded = "モジュール '{1}' をロード出来なかったためプラグイン '{0}' のロードに失敗しました。OSエラーかモジュールが正しく設定されていない可能性があります。"
 	PluginModuleIncompatible = "モジュール '{1}' はエンジンの現行バージョンと互換性がないためプラグイン '{0}' のロードに失敗しました。プラグインを再コンパイルしてください。"
+	LoadIncompatibleDependencyPlugin = "The '{0}' plugin is required by the '{1}' plugin, but was designed for build {2}. Attempt to load it anyway?"
+	LoadIncompatiblePlugin = "The '{0}' plugin was designed for build {1}. Attempt to load it anyway?"
+	DisablePluginMessage_NotFound = "This project requires the '{0}' plugin, which could not be found.
+
+Would you like to disable it? You will no longer be able to open any assets created using it."
+	DisablePluginMessage_MissingDependency = "This project requires the '{0}' plugin, which has a missing dependency on the '{1}' plugin.
+
+Would you like to disable it? You will no longer be able to open any assets created using it."
+	DownloadPluginMessage = "This project requires the {0} plugin.
+
+Would you like to download it from the Unreal Engine Marketplace?"
 	FailureFormat = "{0} ({1})"
 
-Namespace PluginManifest (0 keys)
+Namespace PluginManifest (2 keys)
+	FailedToLoadDescriptorFile = "Failed to open descriptor file '{0}'"
+	FailedToReadDescriptorFile = "Failed to read file. {0}"
 
-Namespace PrimitiveComponent (15 keys)
+Namespace PrimitiveComponent (19 keys)
 	MapCheck_Message_ShadowCasterUsingBoundsScale = "動的シャドウをキャストして、1以上のBoundsScaleを持つアクタがあります！大きなパフォーマンスヒットを引き起こします。"
 	AddAngularImpulse = "AddAngularImpulse"
 	AddForce = "AddForce"
 	AddForceAtLocation = "AddForceAtLocation"
+	AddForceAtLocationLocal = "AddForceAtLocationLocal"
 	AddImpulse = "AddImpulse"
 	AddImpulseAtLocation = "AddImpulseAtLocation"
 	AddTorque = "AddTorque"
 	MapCheck_Message_InvalidLightmapSettings = "コンポーネントは静的タイプですがライトマップ設定が無効です！間接光は黒になります。主な原因は、ライトマップの解像度が0、LightmapCoordinateIndexが範囲外であることが考えられます。"
 	GetMass = "GetMass"
+	InvalidSimulateOptions = "Invalid Simulate Options: Body ({0}) is set to simulate physics but Collision Enabled is incompatible"
+	SetCenterOfMass = "SetCenterOfMass"
 	SetMassScale = "SetMassScale"
 	SetPhysicsAngularVelocity = "SetPhysicsAngularVelocity"
 	SetPhysicsLinearVelocity = "SetPhysicsLinearVelocity"
 	SetPhysicsMaxAngularVelocity = "SetPhysicsMaxAngularVelocity"
 	InvalidMove = "移動"
+	InvalidPhysicsOperationCollisionDisabled = "{0} has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to {1}. "
 	InvalidPhysicsOperationSimulatePhysics = "{1} させるには {0} の 'Simulate Physics' を有効にしなくてはいけません。　"
 
 Namespace ProceduralFoliage (3 keys)
@@ -2889,7 +3391,7 @@ Namespace ProceduralFoliage (3 keys)
 Namespace Profiler (1 keys)
 	Label_FPSHistogram = "FPSヒストグラム"
 
-Namespace ProfilerDataSource (8 keys)
+Namespace ProfilerDataSource (9 keys)
 	EventGraphType_Name_Average = "平均"
 	EventGraphType_Desc_OneFrame = "1フレームのイベントグラフ"
 	EventGraphType_Desc_Total = "選択フレームのイベントグラフ"
@@ -2898,6 +3400,7 @@ Namespace ProfilerDataSource (8 keys)
 	EventGraphType_Name_Maximum = "最大"
 	EventGraphType_Name_OneFrame = "Oneフレーム"
 	EventGraphType_Desc_Average = "フレームごとの平均イベントグラフ"
+	EventGraphType_Name_Total = "Total"
 
 Namespace ProfilerSample (10 keys)
 	StatType_Name_NumberFloat = "Float"
@@ -2911,7 +3414,9 @@ Namespace ProfilerSample (10 keys)
 	StatDesc_InvalidOrMax = "不明なプロファイラサンプルタイプ"
 	StatType_InvalidOrMax = "不明なプロファイラサンプルタイプ"
 
-Namespace ProfileVisualizerModule (0 keys)
+Namespace ProfileVisualizerModule (2 keys)
+	TooltipText = "Open the Profile Data Visualizer tab."
+	TabTitle = "Profile Data Visualizer"
 
 Namespace ProjectDescriptor (5 keys)
 	FailedToLoadDescriptorFile = "記述子ファイル '{0}' を開けませんでした"
@@ -2948,15 +3453,29 @@ Namespace RealtimeProfileLineGraph (4 keys)
 Namespace RealtimeProfiler (1 keys)
 	WindowTitle = "リアルタイムプロファイラ"
 
-Namespace Renderer (7 keys)
+Namespace Renderer (21 keys)
+	LinuxInsufficientDriversText = "Cannot create OpenGL context. Check that the drivers and hardware support at least OpenGL 4.3 (or re-run with -opengl3)"
+	LinuxCannotCreatePlatformWindow = "Cannot create OpenGL-enabled SDL window. SDL error: '{0}'."
+	LinuxCannotCreatePlatformWindowTitle = "Cannot create SDL window."
+	DFAODisabled = "Distance Field AO is disabled through scalability"
+	LinuxInsufficientDriversTitle = "Insufficient drivers or hardware"
+	MobileDynamicCSMDistFieldShadows = "MOBILE CSM+STATIC REQUIRES DISTANCE FIELD SHADOWS ENABLED FOR PROJECT"
+	MobileLQLightmap = "MOBILE PROJECTS SUPPORTING STATIC LIGHTING MUST HAVE LQ LIGHTMAPS ENABLED"
 	MetalAPIMissingTitle = "メタルが必要ですが利用できません"
 	NoPrecomputedVisibility = "事前計算した可視性はありません"
 	NoGlobalClipPlane = "PLANAR REFLECTION REQUIRES GLOBAL CLIP PLANE PROJECT SETTING ENABLED TO WORK PROPERLY"
+	AtmosphericFog = "PROJECT DOES NOT SUPPORT ATMOSPHERIC FOG"
 	Skylight = "PROJECT DOES NOT SUPPORT STATIONARY SKYLIGHT: "
+	PointLight = "PROJECT DOES NOT SUPPORT WHOLE SCENE POINT LIGHT SHADOWS: "
+	MobileDynamicCSM = "PROJECT HAS MOBILE CSM SHADOWS FROM STATIONARY DIRECTIONAL LIGHTS DISABLED"
+	MobileMovableDirectional = "PROJECT HAS MOVABLE DIRECTIONAL LIGHTS ON MOBILE DISABLED"
+	MobileVertexFog = "PROJECT HAS VERTEX FOG ON MOBILE DISABLED"
 	BeginRecompileRendererTask = "レンダリングモジュールをコンパイル中..."
+	ShadowedLightOverflow = "TOO MANY OVERLAPPING SHADOWED MOVABLE LIGHTS, SHADOW CASTING DISABLED: "
 	MetalAPIMissingInfo = "このアプリケーションにはデバイスで利用できないMetal API が必須です。Metal は A7 プロセッサと iOS 8、またはそれ以降のバージョンが必要です。
 
 A7プロセッサとRetinaディスプレイを搭載しているのはiPhone 5S、iPad Air、iPad mini です。これより旧式のデバイスは機能しません。"
+	LinuxCannotLoadLibGLText = "Unable to dynamically load libGL"
 	ViewLocked = "ビューをロック中"
 
 Namespace SAutomationGraphicalResultBox (4 keys)
@@ -2966,8 +3485,9 @@ Namespace SAutomationGraphicalResultBox (4 keys)
 	AutomationGraphicalClusterHeader = "{Name}  -  {NumTests} テスト / {NumFails} 失敗 / {TotalTime} 秒 (合計) / {ParallelTime} 秒 (並行)"
 	AutomationGraphicalDeviceHeader = "{NumTests} テスト / {NumFails} 失敗 / {TotalTime} 秒"
 
-Namespace SAutomationTestItemContextMenu (1 keys)
+Namespace SAutomationTestItemContextMenu (2 keys)
 	MenuHeadingText = "自動化オプション"
+	AutomationMenuEntryLoadText = "Load the asset(s)"
 
 Namespace SAutomationWindowCommandBar (2 keys)
 	AutomationCopyButtonText = "コピー"
@@ -3031,14 +3551,19 @@ Namespace SCAQueryDetails (17 keys)
 	ResultListTypeHeader = "タイプ"
 	MissReasonUnknown = "不明"
 
-Namespace SceneCaptureComponent (0 keys)
+Namespace SceneCaptureComponent (1 keys)
+	CaptureScene = "CaptureScene: Scene capture with bCaptureEveryFrame enabled was told to update - major inefficiency."
 
-Namespace SceneComponent (7 keys)
+Namespace SceneComponent (11 keys)
 	AttachCycleWarning = "AttachTo: '{0}' は既に '{1}' に親子付けされているため周期が生じます。中止します。"
 	AttachToSelfWarning = "AttachTo: '{0}' を自身に親子付けすることはできません"
 	NoStaticToDynamicWarning = "AttachTo: '{0}' は静的 {1} ではありません。静的である '{2}' を親子付けすることはできません。中止します。"
+	AttachToSelfRootWarning = "AttachTo: '{0}' root component cannot be attached to other components in the same actor. Aborting."
 	MobilityAlteredSingularNotification = "1つのコンポーネントのモビリティに変更が加わりました"
+	IsEditorOnlyAlteredSingularNotification = "Caused 1 component to also change its IsEditorOnly behaviour"
 	MobilityAlteredPluralNotification = "{0}つの他のコンポーネントのモビリティに変更が加わりました"
+	IsEditorOnlyAlteredPluralNotification = "Caused {0} other components to also change their IsEditorOnly behaviour"
+	ComponentDetachedFromParentDueToMobility = "Caused {0} to be detached from its parent {1} because it does not allow to be static"
 	InvalidMustBeMovable = "{0} のモビリティ：{2} をしたい場合は、{1} は「ムーバブル」にする必要があります。"
 	InvalidMove = "移動"
 
@@ -3071,11 +3596,39 @@ Namespace SCollisionAnalyzer (20 keys)
 Namespace SComboBox (1 keys)
 	ContentWarning = "コンテンツがありません"
 
-Namespace ScreenshotComparison (1 keys)
+Namespace ScreenshotComparison (9 keys)
+	AddAllNewReports = "Add All New Reports"
+	AddAllNewReportsTooltip = "Adds all new screenshots contained in the reports."
 	DeleteAllReports = "すべてのレポートを削除"
+	DeleteAllReportsTooltip = "Deletes all the current reports.  Reports are not removed unless the user resolves them, 
+so if you just want to reset the state of the reports, clear them here and then re-run the tests."
+	ColumnHeader_Delta = "Local | Global Delta"
+	ColumnHeader_Name = "Name"
+	ColumnHeader_Preview = "Preview"
+	ReplaceAllReports = "Replace All Reports"
+	ReplaceAllReportsTooltip = "Replaces all screenshots containing a different result in the reports."
 
-Namespace ScriptCore (1 keys)
+Namespace ScriptCore (20 keys)
+	AccessNoneNoContext = "Accessed None"
+	LetWeakObjAccessNone = "Accessed None attempting to assign variable on a weakly referenced object"
+	LetObjAccessNone = "Accessed None attempting to assign variable on an object"
+	AccessNoneDefaultObject = "Accessed None attempting to read a default property"
+	AccessedNoneClassUnknownProperty = "Accessed None reading a Class"
+	AccessNoneStructure = "Accessed None reading structure {0}"
+	AccessedNoneClass = "Accessed None trying to read Class from property {0}"
+	AccessNoneContext = "Accessed None trying to read property {0}"
+	ArrayGetRefException = "Attempt to assign variable through None"
+	MissingPropertyDefaultObject = "Attempted to access a missing property on a CDO. If this is a packaged/cooked build, are you attempting to use an editor-only property?"
+	ArrayGetOutofBounds = "Attempted to access index {0} from array {1} of length {2}!"
+	MissingLocalVariable = "Attempted to access missing local variable. If this is a packaged/cooked build, are you attempting to use an editor-only property?"
 	MissingProperty = "Attempted to access missing property '{0}'. If this is a packaged/cooked build, are you attempting to use an editor-only property?"
+	AccessPendingKill = "Attempted to access {0} via property {1}, but {0} is pending kill"
+	LetAccessNone = "Attempted to assign to None"
+	AccessSelfAddress = "Attempted to reference 'self' as an addressable property."
+	InfiniteLoop = "Infinite script recursion ({0} calls) detected - see log for stack trace"
+	RunawayLoop = "Runaway loop detected (over {0} iterations) - see log for stack trace"
+	SwitchValueOutOfBounds = "Switch statement failed to match case for index property {0}"
+	SwitchValueIndex = "Switch statement failed to read property for index value for index property {0}"
 
 Namespace SCS (1 keys)
 	Default = "デフォルト"
@@ -3125,7 +3678,7 @@ Namespace SDeviceBrowserDeviceAdder (10 keys)
 	UserNameLabel = "ユーザー:"
 
 Namespace SDeviceBrowserDeviceListRow (5 keys)
-	RemotelyHint = " (remotely)"
+	RemotelyHint = "(remotely)"
 	ShareCheckBoxToolTip = "対象デバイスをネットワーク上の他のユーザーと共有するにはこのボックスをオンにしてください"
 	StatusConnected = "接続"
 	StatusDisconnected = "切断"
@@ -3194,10 +3747,12 @@ Namespace SessionFrontend (3 keys)
 	ContextMenu.EditCommand = "コマンドを編集する"
 	ContextMenu.EditName = "名前を編集する"
 
-Namespace SetMaterialAttributes (0 keys)
+Namespace SetMaterialAttributes (1 keys)
+	InputName = "MaterialAttributes"
 
-Namespace SEventGraph (109 keys)
+Namespace SEventGraph (112 keys)
 	FilteringHelpButtonLabel = "?"
+	AggressiveFilteringLabel = "AF"
 	HistoryBack_Tooltip = "{0} へ戻る"
 	ConfigurationButtonLabel = "CF"
 	FunctionDetails_CalledFunctions = "呼び出した関数"
@@ -3302,12 +3857,14 @@ Namespace SEventGraph (109 keys)
 	ContextMenu_Header_Navigation_ShowInFlatView_Desc = "フラット表示に切り替えて、包括時間による降順ソートを有効にします"
 	ContextMenu_Header_Navigation_ShowInHierarchicalView_Desc = "階層ビューに切り替えて選択イベントを展開します"
 	HasCulledEvents_TT = "このイベントにカリングされた子が含まれています。すべての子を見るにはカリングを無効にするか機能の詳細を使用、もしくはこのアイコンを押します"
+	Toolbar_Thread = "Thread"
+	AggressiveFiltering_TT = "Toggle aggressive filtering"
 	Toolbar_Type = "タイプ"
 	FilteringSearchBox_TT = "ここに入力して検索またはイベントをフィルタリングする"
 	ContextMenu_Header_Columns_View = "カラムを表示"
 	Toolbar_ViewMode = "ビューモード"
 
-Namespace SEventGraphTooltip (16 keys)
+Namespace SEventGraphTooltip (17 keys)
 	TT_PctOfFrame = "フレームの %："
 	TT_PctOfThread = "スレッドの　%："
 	PctOfTheCaller = "(呼出し元の {0})"
@@ -3319,6 +3876,7 @@ Namespace SEventGraphTooltip (16 keys)
 	TT_Group = "グループ:"
 	HotPathInformation = "ホットパス、ボトルネックの要因か調査が必要です。"
 	TT_InclusiveTime = "包括時間:"
+	TT_MinMaxAvgNumCallsPerFrame = "Min/Max/Avg calls per frame:"
 	TT_MinMaxAvgIncTime = "最低/最高/平均包括時間:"
 	TT_NulCallsPerFrame = "フレームごとのコール数:"
 	TT_ThreadDuration = "スレッドの継続時間:"
@@ -3380,16 +3938,37 @@ Namespace SFilterWidget (8 keys)
 	EnableAllTooltip = "すべてのカテゴリを有効にする"
 	UseVerbosity = "使用: {0}"
 
+Namespace ShaderCompiler (2 keys)
+	LaunchingShaderCompileWorkerFailedTitle = "Unable to launch ShaderCompileWorker."
+	LaunchingShaderCompileWorkerFailed = "Unable to launch {0} - make sure you built ShaderCompileWorker."
+
 Namespace ShaderCompilingManager (4 keys)
 	CompilingGlobalShaderStatus = "グローバルシェーダーをコンパイル中..."
 	CompilingShadersStatus = "シェーダーをコンパイル中..."
 	CompilingShadersForMaterialStatus = "シェーダーをコンパイル中: {MaterialName}..."
 	BeginRecompilingShadersTask = "シェーダーを再コンパイル中"
 
-Namespace ShaderFormatsPropertyDetails (3 keys)
+Namespace ShaderFormatsPropertyDetails (20 keys)
 	D3DES2 = "Direct3D (ES2、モバイルプレビュー)"
+	D3DES31 = "Direct3D (ES3.1, Mobile Preview)"
 	D3DSM4 = "Direct3D 10 (SM4)"
 	D3DSM5 = "Direct3D 11+ (SM5)"
+	MetalSM5 = "Mac Metal Desktop Renderer with Tessellation (SM5, Metal 1.2+, macOS Sierra 10.12.6 or later)"
+	MetalSM5_NOTESS = "Mac Metal Desktop Renderer without Tessellation (SM5, Metal 1.2+, macOS Sierra 10.12.6 or later)"
+	MetalES3.1 = "Mac Metal High-End Mobile Preview (ES3.1)"
+	MetalES2 = "Mac Metal Low-End Mobile Preview (ES2)"
+	MetalMRTMac = "Mac Metal iOS/tvOS Desktop Renderer Preview (SM5)"
+	OpenGLES2PC = "OpenGL (ES2, Mobile Preview)"
+	OpenGLES31PC = "OpenGL (ES3.1, Mobile Preview)"
+	OpenGL3 = "OpenGL 3 (SM4)"
+	OpenGL4 = "OpenGL 4.3+ (SM5)"
+	OpenGLES2 = "OpenGLES 2 (Mobile)"
+	OpenGLES31 = "OpenGLES 3.1 (Mobile)"
+	VulkanES31 = "Vulkan (ES 3.1)"
+	VulkanSM4 = "Vulkan (SM4)"
+	VulkanSM5 = "Vulkan (SM5)"
+	MetalMRT = "iOS/tvOS Metal Desktop Renderer (SM5, Metal 1.2+, iOS/tvOS 10.0 or later)"
+	Metal = "iOS/tvOS Metal Mobile Renderer (ES3.1, Metal 1.1+, iOS/tvOS 9.0 or later)"
 
 Namespace ShadowMap2D (1 keys)
 	BeginEncodingShadowMapsTask = "シャドウマップをエンコード中"
@@ -3411,14 +3990,17 @@ Namespace SkeletalMeshActor (4 keys)
 	MapCheck_Message_SkelMeshActorNoPhysAsset = "SkeletalMeshActor '{DetailedInfo}'はシャドウをキャストしますがPhysicsアセットが割り当てられていません。低解像度かつ非効率的なシャドウを作成します。"
 	MapCheck_Message_ActorLargeShadowCaster = "{DetailedInfo} : 大きなアクタが影をキャストしています、シャドウのキャストを無効に設定しない限り極度のパフォーマンスヒットの原因となります。"
 
-Namespace SkeletalMeshComponent (0 keys)
+Namespace SkeletalMeshComponent (1 keys)
+	MovingSimulatedSkeletalMesh = "Attempting to move a fully simulated skeletal mesh {0}. Please use the Teleport flag"
 
 Namespace SkeletalMeshComponentPhysics (1 keys)
 	InvalidBodies = "無効なボディ : コリジョンが有効になっていることを確認、またはルートボーンは Physicsアセットにボディがあることを確認してください。"
 
-Namespace Skeleton (4 keys)
-	SkeletonBuildLinkupMissingBones3 = "  needs. They will be added now. Please save the Skeleton!"
-	SkeletonBuildLinkupMissingBones2 = " is missing bones that SkeletalMesh "
+Namespace Skeleton (6 keys)
+	SkeletonBuildLinkupMissingBones3 = "needs. They will be added now. Please save the Skeleton!"
+	SkeletonBuildLinkupMissingBones2 = "is missing bones that SkeletalMesh "
+	HandleSkeletonHierarchyChange_Format = "Rebuilding Animation: {0}"
+	HandleSkeletonHierarchyChange = "Rebuilding animations..."
 	SkeletonBuildLinkupMissingBones1 = "スケルトンに "
 	SkeletonBuildLinkupMissingBones = "スケルトン{0}には、スケルタルメッシュ{1}が必要としているボーンが不足しています。ボーンが追加されます。スケルトンを再保存してください!"
 
@@ -3427,19 +4009,23 @@ Namespace SkyLightComponent (1 keys)
 
 Namespace Slate (3 keys)
 	ExpandToolbar = "クリックしてツールバーを展開します"
-	FallbackFont = "DroidSansFallback"
+	LegacyFallbackFont = "DroidSansFallback"
 	SearchHint = "検索"
 
 Namespace SlateCore (1 keys)
 	ComboBoxMissingOnGenerateWidgetMethod = "「.OnGenerateWidget()」ハンドラが必要です"
 
-Namespace SlateD3DRenderer (1 keys)
+Namespace SlateD3DRenderer (2 keys)
+	ProblemWithGraphicsCard = "There is a problem with your graphics card. Please ensure your card meets the minimum system requirements and that you have the latest drivers installed."
 	UnsupportedVideoCardErrorTitle = "未サポートのグラフィックカード"
 
-Namespace SlateFileDialogsNamespace (12 keys)
+Namespace SlateFileDialogsNamespace (15 keys)
 	SlateFileDialogsCancel = "キャンセル"
+	SlateFileDialogsModDateHeader = "Date Modified"
 	EngineLabel = "エンジン"
 	SlateFileDialogsFileSizeHeader = "ファイル サイズ"
+	FilenameLabel = "Filename:"
+	FilterLabel = "Filter:"
 	SlateFileDialogsNameHeader = "名前"
 	SlateDialogOpen = "開く"
 	SlateFileDialogsOpenDirectory = "ディレクトリを開く"
@@ -3462,7 +4048,7 @@ Namespace SlateStyleSet (9 keys)
 	UknownSlateVector = "vector プロパティ '{0}' 形式が見つかりません"
 
 Namespace SlateTestSuite (1 keys)
-	UserWidgetExampleTitle = " Implemented in the .cpp : {0}"
+	UserWidgetExampleTitle = "Implemented in the .cpp : {0}"
 
 Namespace SlateWidgetStyleSet (1 keys)
 	LoadingError = "同じ名前の複数のスレートウィジェットスタイルが見つかりました。名前: \'{0}\'、 First アセット: \'{1}\'、 2番目のアセット: \'{2}\'"
@@ -3470,7 +4056,12 @@ Namespace SlateWidgetStyleSet (1 keys)
 Namespace SListView (1 keys)
 	BrokenUIMessage = "OnGenerateWidget() が割り当てられていません"
 
-Namespace SMaterialOptions (0 keys)
+Namespace SMaterialOptions (5 keys)
+	MaterialBakeOptionWindow_Cancel = "Cancel"
+	MaterialBakeOptionWindow_Cancel_ToolTip = "Cancels baking out Material"
+	MaterialBakeOptionWindow_Import = "Confirm"
+	MaterialBake_SelectLODError = "Ensure that atleast one LOD index is selected."
+	MaterialBake_SelectLODErrorTitle = "Invalid options"
 
 Namespace SMenuAnchor (1 keys)
 	NoMenuContent = "メニュー コンテンツが割り当てられていません。.MenuContent を使用してください"
@@ -3519,7 +4110,9 @@ Namespace SMessageLogMessageListRow (4 keys)
 Namespace SMissingWidget (1 keys)
 	MissingWidget = "ウィジェットが見つかりません"
 
-Namespace SMultiDumpBrowser (0 keys)
+Namespace SMultiDumpBrowser (2 keys)
+	MultiDumpBrowserThreadTotals = "Show thread totals for:"
+	MultiDumpBrowserTooltip = "Use "Load Folder" above to load a folder of stats dumps. GT/RT totals for stats matching text entered here will be displayed in the list below - e.g. enter "Particle" here to show total thread times for particle emitters."
 
 Namespace SMultipleOptionTable (6 keys)
 	AllHyperlinkLabel = "すべて"
@@ -3586,18 +4179,25 @@ Namespace SourceControlProgress (3 keys)
 	ContinueButtonLabel = "継続する"
 	LongTaskMessage = "操作の完了に時間がかかっています。クリックして現在の操作をキャンセルして後で再試行してください。"
 
-Namespace SOutputLog (12 keys)
+Namespace SOutputLog (19 keys)
 	AddFilterToolTip = "アウトプットログフィルタを追加"
 	Categories = "カテゴリ"
+	ConsoleCommandExecutorDisplayName = "Cmd"
+	ConsoleCommandExecutorHintText = "Enter Console Command"
 	ShowErrors = "エラー"
+	ConsoleCommandExecutorDescription = "Execute Unreal Console Commands"
+	ShowAllCategories_Tooltip = "Filter the Output Log to show all categories"
+	Category_Tooltip = "Filter the Output Log to show category: {0}"
 	ShowErrors_Tooltip = "エラーを表示するようにアウトプットログをフィルタリング"
 	ShowMessages_Tooltip = "メッセージを表示するようにアウトプットログをフィルタリング"
 	ShowWarnings_Tooltip = "警告を表示するようにアウトプットログをフィルタリング"
 	Filters = "フィルタ"
 	ShowMessages = "メッセージ"
+	OutputLogMiscHeading = "Miscellaneous"
 	SearchLogHint = "ログを検索"
 	SelectCategoriesToolTip = "表示するカテゴリを選択"
 	ShowAllCategories = "すべて表示"
+	OutputLogVerbosityHeading = "Verbosity"
 	ShowWarnings = "警告"
 
 Namespace SpawnRegister (1 keys)
@@ -3660,7 +4260,7 @@ Namespace SProfilerSettings (7 keys)
 	SaveAndCloseTitle = "保存して閉じる"
 	bShowCoalescedViewModesInEventGraph_T = "イベントグラフで結合ビュー モードで表示"
 
-Namespace SProfilerWindow (15 keys)
+Namespace SProfilerWindow (16 keys)
 	CancelButton_Text = "キャンセル"
 	DescF_OfflineCapture_Loaded = "ファイルをキャプチャ ../../{Filename} のロードに成功しました。"
 	DescF_ServiceSideCapture_Loaded = "ファイルをキャプチャ ../../{Filename} の受信に成功しました。"
@@ -3676,6 +4276,7 @@ Namespace SProfilerWindow (15 keys)
 	DescF_ServiceSideCapture_InProgress = "ファイルを受信中 ../../{Filename} {DataLoadingProgressPercent}"
 	DescF_OfflineCapture_Started = "ファイルをロード中 ../../{Filename} {DataLoadingProgressPercent}"
 	DescF_ServiceSideCapture_Started = "ファイルを受信中 ../../{Filename} {DataLoadingProgressPercent}"
+	MultiFileBrowser = "Stats dump browser"
 
 Namespace SProjectLauncher (8 keys)
 	AddFilterToolTip = "新規のカスタム起動プロファイルをウィザードで追加"
@@ -3687,7 +4288,8 @@ Namespace SProjectLauncher (8 keys)
 	UfeMenuGroup = "Unreal フロントエンド"
 	WindowMenuLabel = "ウィンドウ"
 
-Namespace SProjectLauncherArchivePage (4 keys)
+Namespace SProjectLauncherArchivePage (5 keys)
+	ArchiveDirectoryTitle = "Archive Directory Path:"
 	BrowseButtonToolTip = "ディレクトリをブラウズ"
 	BrowseButtonText = "ブラウズ..."
 	FolderDialogTitle = "ディレクトリを選択"
@@ -3714,7 +4316,8 @@ Namespace SProjectLauncherBuildTaskSettings (2 keys)
 Namespace SProjectLauncherBuildValidation (1 keys)
 	NoBuildConfigurationSelectedError = "ビルドコンフィギュレーションを選択してください"
 
-Namespace SProjectLauncherCookByTheBookSettings (59 keys)
+Namespace SProjectLauncherCookByTheBookSettings (68 keys)
+	AddPatchLevelCheckBoxText = "Add a new patch tier"
 	CookerOptionsTextBoxLabel = "追加のクッカー オプション:"
 	CookerOptionsTextBoxTooltip = "ここで追加のクッカー コマンドラインパラメータを指定します"
 	AdvancedAreaTitle = "詳細設定"
@@ -3745,6 +4348,7 @@ Namespace SProjectLauncherCookByTheBookSettings (59 keys)
 	DontIncludeEditorContentCheckBoxTooltip = "チェックするとクッカーはエディタコンテントをスキップし、ビルドに含まないようにします"
 	BuildDLCCheckBoxTooltip = "チェックされた場合、dlcはオリジナルゲームのコンテンツリリースとは別でビルドされます。"
 	HandleDLCIncludeEngineContentCheckBoxTooltip = "チェックされた場合、DLCはオリジナルリリースに含まれていなかったエンジンコンテンツを含むようになります、チェックしない場合engineディレクトリのコンテンツにアクセスする時にエラーになります。"
+	AddPatchLevelCheckBoxTooltip = "If checked, a new numbered pak will be generated with patch content"
 	GeneratePatchCheckBoxTooltip = "チェックされた場合、コンテンツはソースコンテンツからは除外され変更ファイルとして新しいパックに追加されます。"
 	CompressedCheckboxToolTip = "チェックを入れるとコンテンツは圧縮形式で作成されます。サイズは小さくなりますがロード時間が長くなる可能性があります。"
 	EncryptIniFilesCheckboxToolTip = "チェックするとpakファイル内に保存されるiniファイルが暗号化されます"
@@ -3753,6 +4357,7 @@ Namespace SProjectLauncherCookByTheBookSettings (59 keys)
 	GenerateChunksCheckBoxTooltip = "オンに設定すると、コンテンツを多数のファイルではなく複数のUnrealPakファイルとしてデプロイします"
 	HttpChunkInstallCheckBoxTooltip = "チェックされた場合、コンテンツは幾つかのパックに分割されダウンロード可能なデータで格納されます。"
 	UnversionedCheckBoxTooltip = "オンに設定すると、ロード時にバージョンが最新のものとして扱われるようになります。潜在的な危険性を伴いますが、結果としてパッチサイズはより小さくなります"
+	StageBaseReleasePaksCheckBoxTooltip = "If checked, unchanged pak files present in the base release version will be staged."
 	HandleDLCIncludeEngineContentCheckBoxText = "エンジンコンテンツを含む"
 	IncrementalCheckBoxText = "イテラティブクッキング: 前回のクックから変更されたコンテンツだけをクック"
 	MapListMapNameColumnHeader = "マップ"
@@ -3765,7 +4370,10 @@ Namespace SProjectLauncherCookByTheBookSettings (59 keys)
 	NoMapsSelectedText = "マップが選択されませんでした。スタートアップパッケージのみがクックされます!"
 	NoCulturesHyperlinkLabel = "なし"
 	NoMapsHyperlinkLabel = "なし"
+	MultiProcessCookerTextBoxLabel = "Num cookers to spawn:"
 	PatchingAreaTitle = "リリース・DLC・パッチの設定"
+	BasedOnReleaseVersionTextBoxLabel = "Release version this is based on."
+	NextReleaseVersionTextBoxTooltip = "Release version to base the next release / DLC / patch on."
 	UnversionedCheckBoxText = "バージョン情報なしでパッケージを保存する"
 	AllMapsHyperlinkTooltip = "選択可能なすべてのマップを選択します"
 	AllPlatformsButtonTooltip = "選択可能なすべてのプラットフォームを選択します"
@@ -3773,7 +4381,10 @@ Namespace SProjectLauncherCookByTheBookSettings (59 keys)
 	CookConfigurationToolTipText = "クッカー コマンドレットで使用するビルド設定を指定します"
 	AllMapsCheckBoxText = "すべて表示"
 	CookedMapsCheckBoxText = "クックしたマップを表示"
+	StageBaseReleasePaksCheckBoxText = "Stage base release pak files"
 	UnrealPakCheckBoxText = "すべてのコンテンツを単一ファイル（UnrealPak）に格納します"
+	MultiProcessCookerTextBoxTooltip = "The number of cookers to spawn when we do a cook by the book."
+	BasedOnReleaseVersionTextBoxToolTip = "The release version which this DLC / Patch / Next release is based on."
 
 Namespace SProjectLauncherCookedPlatforms (6 keys)
 	AllPlatformsHyperlinkLabel = "すべて"
@@ -3930,10 +4541,13 @@ Namespace SProjectLauncherPackagePage (8 keys)
 	SharedRepositoryActionHint = "このビルドを共有リポジトリに格納します"
 	LocallyActionHint = "このビルドをローカル環境に格納します"
 
-Namespace SProjectLauncherPackagingSettings (4 keys)
+Namespace SProjectLauncherPackagingSettings (7 keys)
 	BrowseButtonToolTip = "ディレクトリをブラウズ"
 	BrowseButtonText = "ブラウズ..."
 	FolderDialogTitle = "ディレクトリを選択"
+	ForDistributionCheckBoxTooltip = "If checked the build will be marked as for release to the public (distribution)."
+	ForDistributionCheckBoxText = "Is this build for distribution to the public"
+	LocalDirectoryPathLabel = "Local Directory Path:"
 	RepositoryPathLabel = "リポジトリのパス:"
 
 Namespace SProjectLauncherPreviewPage (37 keys)
@@ -3986,7 +4600,7 @@ Namespace SProjectLauncherProfileListView (2 keys)
 Namespace SProjectLauncherProfileNameDescEditor (1 keys)
 	LaunchProfileEnterDescription = "説明をここに入力"
 
-Namespace SProjectLauncherProgress (24 keys)
+Namespace SProjectLauncherProgress (25 keys)
 	DoneButtonCancelLabel = "キャンセル"
 	DoneButtonCancelTooltip = "このプロファイルの実行をキャンセル"
 	DoneButtonCancellingLabel = "キャンセル中"
@@ -4002,6 +4616,7 @@ Namespace SProjectLauncherProgress (24 keys)
 	SaveLogDialogFileError = "保存する指定ファイルを開けませんでした!"
 	TasksFinishedFormatText = "オペレーションが完了しました。完了: {NumCompleted}、失敗: {NumFailed}、キャンセル: {NumCanceled}"
 	OperationInProgressText = "オペレーション進行中..."
+	TaskListOutputLogColumnHeader = "Output Log"
 	RerunButtonLabel = "実行"
 	RerunButtonTooltip = "この起動プロファイルを実行"
 	SaveLogDialogTitle = "ログに名前をつけて保存..."
@@ -4037,8 +4652,9 @@ Namespace SProjectLauncherSimpleDeviceListRow (10 keys)
 	CookMode_OnTheFly = "オンザフライ"
 	LaunchVariantLabel = "バリアント"
 
-Namespace SProjectLauncherSimpleDeviceListView (3 keys)
+Namespace SProjectLauncherSimpleDeviceListView (4 keys)
 	ProjectLauncherDeviceManagerLink = "デバイスマネージャ"
+	ProjectLauncherDeviceManagerLinkPreamble = "Don't see your device? Verify it's setup and claimed in the "
 	DeviceListRowToolTipName = "名前: {0}"
 	ProjectLauncherDeviceManagerLinkTooltip = "マシーンと接続しているデバイスを設定および要求したり、ネットワーク上で共有しているデバイスマネジャーウィンドウを開きます。"
 
@@ -4101,12 +4717,19 @@ Namespace SRotatorInputBox (7 keys)
 	Yaw_ToolTip = "ヨー (左右回転) 値"
 	Yaw_Label = "Z"
 
-Namespace SScreenShotBrowser (3 keys)
+Namespace SScreenShotBrowser (10 keys)
+	AddAlternative = "Add As Alternative"
+	AddNew = "Add New!"
+	AddPlatformSpecificNew = "Add Platform-Specific New"
+	Difference = "Difference"
+	GroundTruth = "Ground Truth"
+	Incoming = "Incoming"
 	Replace = "置換"
+	ShowDelta = "Show Delta"
 	Unknown = "Unknown Test, no metadata discovered."
 	LocalvGlobalDelta = "{0} | {1}"
 
-Namespace SSessionBrowser (25 keys)
+Namespace SSessionBrowser (26 keys)
 	OtherGroupToolTip = "他のユーザに所属するセッションすべて"
 	OwnerGroupToolTip = "あなたが起動したセッションすべて"
 	TerminateSessionDialogPrompt = "このセッションとそのインスタンスを終了してもよろしいですか?"
@@ -4124,6 +4747,7 @@ Namespace SSessionBrowser (25 keys)
 	LabelNo = "いいえ"
 	OtherGroupName = "他のセッション"
 	InstanceToolTipPlatform = "プラットフォーム: {0}"
+	InstanceToolTipPlayBegun = "Play Has Begun: {0}"
 	StandaloneGroupName = "スタンドアローンインスタンス"
 	InstanceListStatusColumnHeader = "ステータス"
 	AppGroupToolTip = "このセッションブラウザが所属するアプリケーションインスタンス"
@@ -4190,7 +4814,7 @@ Namespace SSessionFrontend (7 keys)
 	SessionFrontendMenuGroupName = "セッションフロントエンド"
 	WindowMenuLabel = "ウィンドウ"
 
-Namespace SSettingsEditor (27 keys)
+Namespace SSettingsEditor (30 keys)
 	AllPropertiesLink = "すべての設定"
 	SaveAsDefaultUserConfirm = "デフォルト設定を更新しようとしています。本当によろしいですか？"
 	RestartLaterToolTip = "再起動せずにこの通知を閉じます。いくつかの新規設定は適用されません。"
@@ -4218,15 +4842,25 @@ Namespace SSettingsEditor (27 keys)
 	SaveAsDefaultNeedsCheckoutMessage = "これらの設定のデフォルトコンフィギュレーションファイルは現在チェックアウトされていません。ソースコントロールからファイルをチェックアウトしますか？"
 	SaveAsDefaultNeedsAddMessage = "これらの設定のデフォルトコンフィギュレーションファイルは現在ソースコントロールにありません。ソースコントロールにファイルを追加しますか？"
 	SaveAsDefaultsIsReadOnlyMessage = "The default configuration file for these settings is not currently writable. Would you like to make it writable?"
+	SaveAsDefaultsSucceededMessage = "The default configuration file for these settings was updated successfully. 
 
-Namespace SSettingsEditorCheckoutNotice (10 keys)
+If checked into source control this would affect other developers."
+	SaveAsDefaultsSourceControlOperationFailed = "The source control operation failed. Would you like to make it writable?"
+	SaveAsDefaultsSourceControlFailedAddManually = "The source control operation failed. You will need to add it manually"
+
+Namespace SSettingsEditorCheckoutNotice (15 keys)
+	CancelledAddConfigFile = "Add was cancelled.  File will be marked writable."
 	CheckOutFile = "ファイルをチェックアウトする"
 	CheckOutFileTooltip = "これらの設定を保持するデフォルトコンフィギュレーションをチェックアウトします"
+	CancelledCheckOutConfigFile = "Checkout was cancelled.  File will be marked writable."
 	FailedToMakeWritable = "{0} を書き込み可能にできませんでした"
+	FailedToAddConfigFileError = "Error: Failed to add the configuration file."
+	FailedToCheckOutConfigFileError = "Error: Failed to check out the configuration file."
 	ConfigFileMarkedForDeleteError = "エラー: コンフィギュレーションファイルは削除するためマークされています"
 	MakeWritable = "書込み可能にする"
 	MakeWritableTooltip = "これらの書き込み可能な設定を保持するデフォルトコンフィギュレーションを作成します"
 	DefaultSettingsNotice_WithSourceControl = "設定は {0} に保存されています。現在はチェックアウトされていません。"
+	DefaultSettingsNotice_NotWritable = "These settings are saved in {0}, which is currently NOT writable."
 	DefaultSettingsNotice_CheckedOut = "これらの設定は現在チェックアウト中の {0} に保存されます。"
 	DefaultSettingsNotice_Writable = "これらの設定は現在書き込み可能な {0} に保存されます。"
 	DefaultSettingsNotice_Source = "これらの設定は {0} に保存されます。ファイルステートを確認中..."
@@ -4285,35 +4919,43 @@ Namespace STableViewTesting (33 keys)
 	UnsupprtedColumnText = "未サポートのカラム： {0}"
 
 Namespace StaticMeshActor (4 keys)
-	MapCheck_Message_StaticMeshNull = "スタティックメッシュアクタに NULL のStaticMesh プロパティがあります"
-	MapCheck_Message_StaticMeshComponent = "スタティックメッシュアクタに NULL のStaticMeshComponent プロパティがあります。削除してください。"
+	MapCheck_Message_StaticMeshNull = "Static mesh actor {ActorName} has NULL StaticMesh property"
+	MapCheck_Message_StaticMeshComponent = "Static mesh actor {ActorName} has NULL StaticMeshComponent property - please delete"
 	MapCheck_Message_SameLocation = "{ActorName0} は {ActorName1} と同じ位置にあります"
 	MapCheck_Message_VertexColorsNotMatchOriginalMesh = "{ActorName} (LOD {LODIndex}) にはもはやオリジナルのスタティックメッシュ ({StaticMeshName}) と一致しない手描きの頂点カラーがあります     "
 
-Namespace StaticMeshComponent (6 keys)
+Namespace StaticMeshComponent (7 keys)
 	SetMeshOnStatic = "'{0}' 上にSetStaticMeshを呼びましたが可動性がスタティックです。"
+	MapCheck_Message_CollisionEnabledNoCollisionGeom = "Collision enabled but StaticMesh ({StaticMeshName}) has no simple or complex collision."
 	MapCheck_Message_ActorLargeShadowCaster = "大きなアクタはプリシャドウを受け取り、bCastDynamicShadowがFalseに設定されていない限り極度のパフォーマンスヒットの原因となります。"
 	MapCheck_Message_MoreMaterialsThanReferenced = "スタティック メッシュ コンポーネントに存在するオーバーライドされたマテリアル ({OverridenCount}) の数がソースメッシュ '{MeshName}' の参照 ({ReferencedCount}) の数を超えています"
 	MapCheck_Message_StaticMeshNull = "スタティックメッシュアクタに NULL のStaticMesh プロパティがあります"
 	MapCheck_Message_SimulatePhyNoSimpleCollision = "{0} : bSimulatePhysicsを使用中ですが StaticMeshに簡易なコリジョンがありません"
 	MapCheck_Message_ElementsWithZeroTriangles = "スタティックメッシュ '{MeshName}' にゼロ個のトライアングルと {ElementCount} 個のエレメントがあります"
 
-Namespace StaticMeshEditor (2 keys)
+Namespace StaticMeshEditor (7 keys)
 	BeginStaticMeshBuildingTask = "({Path}) ビルディング"
 	MeshRecomputeTangents = "メッシュのビルド設定で「タンジェントを再計算する」オプションを有効にしてみてください。"
+	MeshUseMikkTSpace = "MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option."
+	MeshHasDegenerateTangents = "{Meshname} has degenerate tangent bases which will result in incorrect shading. {Options} {MikkTSpace}"
+	MeshHasSomeZeroBiNormals = "{Meshname} has some nearly zero bi-normals which can create some issues. (Tolerance of {Tolerance})"
+	MeshHasSomeZeroNormals = "{Meshname} has some nearly zero normals which can create some issues. (Tolerance of {Tolerance})"
+	MeshHasSomeZeroTangents = "{Meshname} has some nearly zero tangents which can create some issues. (Tolerance of {Tolerance})"
 
-Namespace StaticMeshLODSettings (6 keys)
+Namespace StaticMeshLODSettings (7 keys)
 	DecoLOD = "Deco"
 	FoliageLOD = "フォリッジ"
+	HighDetailLOD = "High Detail"
 	LargePropLOD = "多数のプロップ"
 	LevelArchitectureLOD = "レベルアーキテクチャ"
 	SmallPropLOD = "少数のプロップ"
 	VistaLOD = "Vista"
 
-Namespace StatsFile (0 keys)
+Namespace StatsFile (1 keys)
+	FileMetaDesc_Fmt = "STATS FILE: Duration: {0}, Filesize: {1}"
 
-Namespace STestSuite (195 keys)
-	WidgetDecoratorTooltip = " With the <RichText.TextHighlight>Widget Decorator</> you can <RichText.TextHighlight>inline any widget</> in your text!"
+Namespace STestSuite (204 keys)
+	WidgetDecoratorTooltip = "With the <RichText.TextHighlight>Widget Decorator</> you can <RichText.TextHighlight>inline any widget</> in your text!"
 	NotANumberWarning = "'{0}' は数値ではありません"
 	ThreeCharsError = "'{0}' は3文字ではありません"
 	RichText.HowItWorks = "<RichText.Header>What does it do?</>
@@ -4366,6 +5008,7 @@ ITextDecoratorを実装すると独自のデコレータをいつでも導入で
 	AnimTestLabel = "アニメーションテスト"
 	TestNotification02 = "別の通知"
 	BoldLabel = "B"
+	TestingBigNotificationText = "Big notififcation text!"
 	TestingBigTextBigMargin = "大きなテキストはマージンも大きくなります！"
 	RichText.BottomMargin = "底部"
 	AnimationTestLabel = "アニメーションの1部のテストを呼び出す"
@@ -4443,7 +5086,9 @@ He has endeavoured to prevent the population of these States; for that purpose o
 	TestingTextControlHint = "ヒントのテキスト"
 	ItalicLabel = "I"
 	DpiScalingTextLabel = "DPI拡大・縮小です！"
+	RelativeCacheMessage = "I cache relative transforms.  Moving the window has no effect on me, woo!"
 	WidgetDecoratorExamplePopUpMessage = "I don\'t really do anything. <RichText.Tagline.TextHighlight>Sorry</>."
+	CachedClickable = "I'm Cached - But Clickable"
 	IgnoreClipping = "クリッピングを無視"
 	HyperlinkInsertLabel = "ハイパーリンクを挿入"
 	LayoutExampleTab = "レイアウト例"
@@ -4453,6 +5098,7 @@ He has endeavoured to prevent the population of these States; for that purpose o
 	TextJustify::Left = "左"
 	RichText.LineHeight = "ラインの高さ"
 	ListViewTestTab = "ListViewテスト"
+	InvalidateManually = "Manually Invalidate"
 	RichText.MarginHeader = "マージン"
 	Menu1 = "メニュー1"
 	Menu2 = "メニュー2"
@@ -4472,6 +5118,7 @@ He has endeavoured to prevent the population of these States; for that purpose o
 	TestNotificationFailure = "処理に失敗しました..."
 	TestNotificationInProgress = "処理中です"
 	TestNotificationSuccess = "処理は成功しました！"
+	PasswordCheckBoxText = "Password?"
 	AnimTestPlayButtonLabel = "アニメーションを再生"
 	AnimTestPlayReverseButtonLabel = "PlayReverse"
 	PopupTest = "PopUpテスト"
@@ -4503,6 +5150,7 @@ He has endeavoured to prevent the population of these States; for that purpose o
 	GridPanelTest-Stretch2Label = "Stretch = 2"
 	SubMenu = "サブメニュー"
 	SubMenu2IsALittleLonger = "サブメニュー2は少し長めです"
+	StaticTextSupportInput = "Support Input"
 	WidgetGalleryTabTextToolTip = "ウィジェットギャラリーへ切り替えます"
 	ColorPickerTestTabToolTip = "カラーピッカーのテストを行うカラーピッカータブへ切り替えます"
 	EditableTextTestTabToolTip = "さまざまなインラインテキストの編集制御を行う編集可能なテキストタブへ切り替えます"
@@ -4532,8 +5180,10 @@ He has endeavoured to prevent the population of these States; for that purpose o
 	MultiLineHintText = "ヒント1
 ヒント2"
 	NumericInput = "数値でなくてはいけません"
+	EditablePasswordHintText = "This text box can be a password"
 	CustomContextMenuInput = "このテキストボックスにはカスタムコンテキストメニューが含まれます"
 	DisabledContextMenuInput = "このテキストボックスにはコンテキストメニューが含まれません"
+	StaticText = "This text is static and cached."
 	RichText.TopMargin = "上"
 	TypehereTextHint = "ここに入力"
 	DynamicBrushTestLabel = "画像(png)のフルパスを入力"
@@ -4542,6 +5192,7 @@ He has endeavoured to prevent the population of these States; for that purpose o
 	FxTextVisualOffsetLabel = "ビジュアルオフセット:"
 	FxTextVisualScaleOriginLabel = "ビジュアルスケールの原点:"
 	FxTextVisualScaleLabel = "ビジュアルスケール:"
+	VolatileClickable = "Volatile - But Clickable"
 	Volume = "ボリューム"
 	WidgetGalleryTab = "ウィジェットギャラリー"
 	RichText.WrapWidth = "ラップ幅"
@@ -4561,7 +5212,7 @@ Namespace STimelinesContainer (3 keys)
 	GenerateReportTooltip = "Visual Log イベントからレポートを作成"
 	VisualLogReports = "VisualLog レポート"
 
-Namespace STreeMap (8 keys)
+Namespace STreeMap (10 keys)
 	ColorBy = "カラー"
 	EditNodeAttributesSection = "ノードの編集"
 	EditAttribute_ToolTip = "カーソル下のノードにあるアトリビュートを編集"
@@ -4569,12 +5220,19 @@ Namespace STreeMap (8 keys)
 	RemoveAttribute = "セットしない"
 	NoColorByAttribute = "オフ"
 	NoSizeByAttribute = "オフ"
+	ColorBy_ToolTip = "Sets which criteria to base the color of the nodes in the tree map on."
+	SizeBy_ToolTip = "Sets which criteria to base the size of the nodes in the tree map on."
 	SizeBy = "サイズ"
 
 Namespace STreeView (1 keys)
 	BrokenSetupMessage = "OnGenerateWidget() が割り当てられていません"
 
-Namespace StringFormatter (0 keys)
+Namespace StringFormatter (5 keys)
+	TestError = "FString::Format failed. "{0}" != "{1}""
+	InvalidArgumentIndex = "Invalid argument index: {0}"
+	InvalidEscapeCharacter = "Invalid escape character '{0}'"
+	InvalidTokenDefinition = "Invalid token definition at '{0}'"
+	UndefinedFormatSpecifier = "Undefined format token: {0}"
 
 Namespace SVectorInputBox (7 keys)
 	MultipleValues = "複数の値"
@@ -4626,7 +5284,8 @@ Namespace SVisualLoggerToolbar (12 keys)
 	StartDebuggerTooltip = "録音を開始してビジュアルログを収集"
 	StopLogger = "停止"
 
-Namespace SWidgetReflector (32 keys)
+Namespace SWidgetReflector (52 keys)
+	RemoteWidgetSnapshotAbortedNotificationText = "Aborted Remote Widget Snapshot"
 	Address = "アドレス"
 	AppScale = "適用スケール:      "
 	Stats_InclusiveAvgMsColumn = "AvgTime (ミリ秒)"
@@ -4636,32 +5295,51 @@ Namespace SWidgetReflector (32 keys)
 	CaptureHierarchy = "キャプチャ階層"
 	ChooseSnapshotTargetToolTipText = "スナップショットターゲットを選択"
 	ClickToCopy = "クリックしてアドレスをコピー"
+	Clipping = "Clipping"
+	DelayLabel = "Delay:"
 	EnableDemoMode = "デモモード"
 	DisplayFontAtlases = "フォントアトラスを表示"
 	DisplayTextureAtlases = "テクスチャアトラスを表示"
 	ToggleStatsTooltip = "統計のフラット表示を有効にする"
 	LogStatsTooltip = "一定間隔でログへ統計のアウトプットを有効にする"
 	ForegroundColor = "FG"
+	FocusableTooltip = "Focusability (Note that for hit-test directional navigation to work it must be Focusable and "Visible"!)"
+	Focusable = "Focusable?"
 	ForegroundColorToolTip = "フォアグラウンド色"
+	InvalidationDebugging = "Invalidation Debugging"
+	LoadSnapshotButtonText = "Load Snapshot"
+	LoadSnapshotDialogTitle = "Load Widget Snapshot"
 	ToggleLogStats = "統計のログを取る"
+	NoDelayValueName = "None"
 	PickLiveWidget = "ライブウィジェットを選択"
 	PickingWidget = "選択中 (Esc で中止)"
+	RemoteWidgetSnapshotReceivedNotificationText = "Remote Widget Snapshot Data Received"
+	RemoteWidgetSnapshotFailedNotificationText = "Remote Widget Snapshot Failed"
 	StatsSampleWindow = "サンプリング周期：　"
 	ShowFocus = "フォーカスを表示"
+	SlateStatsTab = "Slate Stats"
+	SnapshotWidgetPickerTab = "Snapshot Widget Picker"
+	NoDelayValueDescription = "Snapshot will be taken immediately upon clickng to take the snapshot."
 	Stats_StatNameColumn = "統計情報"
+	TakeSnapshotButtonText = "Take Snapshot"
+	ToggleStatsUnavailableTooltip = "To enable slate stats, compile with SLATE_STATS defined to one (see SlateStats.h)."
 	ToggleStats = "統計情報を切り替える"
 	Visibility = "可視性"
+	VisibilityTooltip = "Visibility"
+	RemoteWidgetSnapshotPendingNotificationText = "Waiting for Remote Widget Snapshot Data"
 	CaptureStatsHierarchyTooltip = "クリックすると、次の描画フレームは階層的統計をキャプチャして、以下の名前で「Saved/」配下にあるフォルダに保存します： SlateHierarchyStats-<timestamp>.csv"
+	EnableWidgetCaching = "Widget Caching"
 	WidgetHierarchyTab = "ウェジェット階層"
 	WidgetInfo = "ウィジェット情報"
 	WidgetName = "ウィジェット名"
 	NullHandler = "null"
 	StatsSamplingIntervalLabelTooltip = "平均を更新する前に統計を統合する間隔（秒）"
+	StatsSamplingIntervalTooltip = "the interval (in seconds) to integrate stats before updating the stats."
 	LoggedEvent = "{0}  |  {1}"
 	SnapshotTargetDisplayNameFmt = "{0} ({1})"
 
 Namespace SWindow (1 keys)
-	Window_TitleFmt = " Window : {0} "
+	Window_TitleFmt = "Window : {0} "
 
 Namespace SwitchDynamicRHI (1 keys)
 	UnsupportedRHI = "選択したRHIはサポートされていません"
@@ -4686,25 +5364,32 @@ Namespace TabManager (2 keys)
 	LocalWorkspaceRoot = "ローカルワークスペースのルート"
 	TabIdFormat = "{TabType} : {InstanceIdNumber}"
 
-Namespace TargetManager (3 keys)
+Namespace TargetManager (4 keys)
 	TMCancel = "キャンセル"
 	TMCancelToolTip = "このダイアログをキャンセルします"
+	IgnoredDevice = "Error Communicating with {0}.
+Device will be ignored for remainder of session."
 	TargetManager_Notification_Unresponsive = "Target Manager interface seems unresponsive.
 Interacting with development kits via Device Manager tab may fail."
 
-Namespace TaskGraph (18 keys)
+Namespace TaskGraph (23 keys)
 	ColumnDuration = "持続時間"
 	ColumnDurationValue = "継続時間 ({0})"
 	EventsVisualizerName = "イベントリストを空にする"
 	FileMenu = "ファイル"
 	HelpMenu = "ヘルプ"
+	Load = "Load"
+	Load_GPUTooltip = "Load GPU profiling data"
 	ColumnName = "名前"
 	FileMenu_ToolTip = "ファイルメニューを開く"
 	HelpMenu_ToolTip = "ヘルプメニューを開く"
 	AppMenu_ToolTip = "呼び出しメニューを開きます"
+	Save = "Save"
+	Save_GPUTooltip = "Save the GPU profiling data"
 	GraphBarShowInNew = "新イベントウィンドウで表示"
 	FilterSearchHint = "検索するイベントをここに入力"
 	AppMenu = "ウィンドウ"
+	ExportMessage = "Wrote profile data to file"
 	ZoomLabelFmt = "ズーム： {0}倍"
 	microseconds = "マイクロ秒"
 	milliseconds = "ミリ秒"
@@ -4740,7 +5425,8 @@ Namespace TestSuite1 (19 keys)
 	SplitterTestTab = "スプリッターテスト"
 	TableViewTestTab = "TableView テスト"
 
-Namespace TextFormatter (0 keys)
+Namespace TextFormatter (1 keys)
+	UnexpectedArgumentModifierToken = "Unexpected 'argument modifier' token: {0} (token started at index {1})"
 
 Namespace TextPropertyTest (6 keys)
 	DefaultedText = "デフォルト値"
@@ -4753,13 +5439,24 @@ Namespace TextPropertyTest (6 keys)
 Namespace TextRenderComponent (1 keys)
 	DefaultText = "テキスト"
 
-Namespace TextureRenderTarget2D (0 keys)
+Namespace TextureRenderTarget2D (1 keys)
+	LargeTextureRenderTarget2DWarning = "A TextureRenderTarget2D of size {0}x{1} will use {2}Mb ({3}Mb if used with a Scene Capture), which may result in extremely poor performance or an Out Of Video Memory crash.
+Are you sure?"
 
-Namespace TextureStreamingBuild (4 keys)
+Namespace TextureStreamingBuild (13 keys)
+	1xOver = "1X Over"
+	1XUnder = "1X Under"
 	2XOver = "2X+ Over"
 	2XUnder = "2X+ Under"
+	Good = "Good"
+	DescRequiredTextureResolution = "Shows the ratio between the currently streamed texture resolution and the resolution wanted by the GPU."
+	DescPrimitiveDistanceAccuracy = "Shows under/over texture streaming caused by the difference between the streamer calculated"
+	DescMaterialTextureScaleAccuracy = "Shows under/over texture streaming caused by the material texture scales applied when sampling."
+	DescUVDensityAccuracy = "Shows under/over texture streaming caused by the mesh UV densities."
 	Undefined = "未定義"
 	TextureStreamingBuild_ComponentDataUpdate = "コンポーネントデータ更新中"
+	WorstUnderAndOver = "Worst Under / Worst Over"
+	DescPrimitiveDistanceAccuracy2 = "distance-to-mesh via bounding box versus the actual per-pixel depth value."
 
 Namespace TGenericMacTargetPlatform (5 keys)
 	MacVariantTitle = "ビルドタイプ"
@@ -4869,7 +5566,7 @@ Namespace UICommands.DeviceDetailsCommands (20 keys)
 	Share = "共有"
 	Share_ToolTip = "別のユーザーとデバイスを共有"
 
-Namespace UICommands.FProfilerCommands (30 keys)
+Namespace UICommands.FProfilerCommands (32 keys)
 	ToggleDataCapture = "データキャプチャ"
 	ToggleDataPreview = "データプレビュー"
 	MemoryProfiler_ToolTip = "メモリプロファイラを有効にする"
@@ -4878,6 +5575,8 @@ Namespace UICommands.FProfilerCommands (30 keys)
 	DataGraph_ViewMode_SetIndexBased = "インデックスベース"
 	ProfilerManager_ToggleLivePreview = "ライブプレビュー"
 	ProfilerManager_Load = "ロード"
+	ProfilerManager_LoadMultiple = "Load Folder"
+	ProfilerManager_LoadMultiple_ToolTip = "Loads multiple stats dumps"
 	ProfilerManager_Load_ToolTip = "プロファイルデータをロード"
 	MemoryProfiler = "メモリ"
 	OpenEventGraph = "イベントグラフを開く"
@@ -4901,11 +5600,13 @@ Namespace UICommands.FProfilerCommands (30 keys)
 	ToggleDataPreview_ToolTip = "データプレビューを切り替える"
 	ProfilerManager_ToggleLivePreview_ToolTip = "リアルタイムライブプレビューを切り替える"
 
-Namespace UICommands.FVisualLoggerCommands (18 keys)
+Namespace UICommands.FVisualLoggerCommands (22 keys)
 	ResetData = "クリア"
 	ResetData_ToolTip = "全てのデータをクリア"
 	FreeCamera_ToolTip = "フリーカメラを有効にする"
+	FreeCamera = "FreeCamera"
 	HideEmpty_ToolTip = "テキスト情報がないログを非表示"
+	HideEmpty = "HideEmpty"
 	LoadFromVLog = "ロード"
 	LoadFromVLog_ToolTip = "外部vlogをロード"
 	Pause = "一時停止"
@@ -4914,12 +5615,14 @@ Namespace UICommands.FVisualLoggerCommands (18 keys)
 	SaveToVLog = "保存"
 	SaveAllToVLog_ToolTip = "選択すべてをvlogファイルに保存"
 	SaveToVLog_ToolTip = "選択データをvlogファイルに保存"
+	SaveAllToVLog = "SaveAll"
 	StartRecording = "スタート"
 	StartRecording_ToolTip = "デバッガを開始"
 	StopRecording_ToolTip = "現行メッセージをステップ移動"
 	StopRecording = "停止"
 	Pause_ToolTip = "デバッガを停止"
 	ToggleGraphs_ToolTip = "グラフ可視化のオン/オフを切り替える"
+	ToggleGraphs = "ToggleGraphs"
 
 Namespace UICommands.GenericCommands (18 keys)
 	Copy = "コピー"
@@ -4941,7 +5644,8 @@ Namespace UICommands.GenericCommands (18 keys)
 	Undo = "アンドゥ"
 	Undo_ToolTip = "直前の操作を取り消す"
 
-Namespace UICommands.ProjectLauncherCommands (15 keys)
+Namespace UICommands.ProjectLauncherCommands (16 keys)
+	AdvancedBuild_ToolTip = "Advanced launcher."
 	AdvancedBuild = "詳細..."
 	CloseSettings = "戻る"
 	CreateBuild = "ビルド"
@@ -4990,29 +5694,67 @@ Namespace UICommands.TabCommands (4 keys)
 	CloseMinorTab_ToolTip = "現在のウィンドウのアクティブなマイナータブを閉じる"
 	CloseMajorTab_ToolTip = "フォーカスされているメジャータブを閉じる"
 
-Namespace UKismetAnimationLibrary (0 keys)
+Namespace UKismetAnimationLibrary (1 keys)
+	AnimationLibraryWarning = "Animation Library Warning"
 
-Namespace UKismetArrayLibrary (0 keys)
+Namespace UKismetArrayLibrary (6 keys)
+	SetOutOfBoundsWarning = "Array assignment access out of bounds"
+	InsertOutOfBoundsWarning = "Array insertion out of bounds"
+	GetOutOfBoundsWarning = "Array read access out of bounds"
+	RemoveOutOfBoundsWarning = "Array removal out of bounds"
+	ResizeArrayNegativeWarning = "Array resized to negative size"
+	SwapElementsInArrayWarning = "Array swap access out of bounds"
 
-Namespace UKismetMathLibrary (1 keys)
+Namespace UKismetMathLibrary (14 keys)
+	ClampDaysToMaxTimespan = "Days value {DaysValue} is greater than maximum days TimeSpan can represent. Clamping to MaxValue."
+	ClampDaysToMinTimespan = "Days value {DaysValue} is less than minimum days TimeSpan can represent. Clamping to MinValue."
+	DivideByZeroWarning = "Divide by zero"
+	ClampHoursToMaxTimespan = "Hours value {HoursValue} is greater than maximum hours TimeSpan can represent. Clamping to MaxValue."
+	ClampHoursToMinTimespan = "Hours value {HoursValue} is less than minimum hours TimeSpan can represent. Clamping to MinValue."
 	InvalidDateWarning = "不正な日付の警告"
+	ClampMillisecondsToMaxTimespan = "Milliseconds value {MillisecondsValue} is greater than maximum milliseconds TimeSpan can represent. Clamping to MaxValue."
+	ClampMillisecondsToMinTimespan = "Milliseconds value {MillisecondsValue} is less than minimum milliseconds TimeSpan can represent. Clamping to MinValue."
+	ClampMinutesToMaxTimespan = "Minutes value {MinutesValue} is greater than maximum minutes TimeSpan can represent. Clamping to MaxValue."
+	ClampMinutesToMinTimespan = "Minutes value {MinutesValue} is less than minimum minutes TimeSpan can represent. Clamping to MinValue."
+	ZeroLengthProjectionWarning = "Projection onto vector of zero length"
+	ClampSecondsToMaxTimespan = "Seconds value {SecondsValue} is greater than maximum seconds TimeSpan can represent. Clamping to MaxValue."
+	ClampSecondsToMinTimespan = "Seconds value {SecondsValue} is less than minimum seconds TimeSpan can represent. Clamping to MinValue."
+	NegativeSqrtWarning = "Square root of negative number"
 
-Namespace UMG (16 keys)
+Namespace UMG (34 keys)
 	NotValidClass = "Abstract, Deprecated or Replaced classes are not allowed to be used to construct a user widget. {UserWidgetClass} is one of these."
 	AddToPlayerScreen_NoPlayer = "AddToプレイヤースクリーン に失敗しました。所有するプレイヤーがいません！"
 	Common = "一般"
+	WidgetClassNull = "CreateWidget called with a null class."
 	NotUserWidget = "CreateWidget can only be used on UUserWidget children. {UserWidgetClass} is not a UUserWidget."
+	NoPlayer = "CreateWidget cannot be used on Player Controller with no attached player. {PlayerController} has no Player attached."
 	Extra = "その他"
+	TemplatingFailed = "Fast CreateWidget Warning!  This class can not be created using the fast path, because the property {0} on {1} references {2}.  Please add the 'Instanced' flag to this property."
 	Input = "インプット"
 	Misc = "その他"
+	NoCookedWidgetTree = "No Cooked Widget Tree! {0}"
+	NoWidgetTree = "Null Widget Tree {0}"
 	NotLocalPlayer = "Only Local Player Controllers can be assigned to widgets. {PlayerController} is not a Local Player Controller."
 	Optimization = "最適化"
 	Panel = "パネル"
 	Primitive = "プリミティブ"
+	WidgetTreeVerify = "Property in widget template did not load correctly, {0}."
+	UMG WidgetBlueprint Library: SetInputMode_GameAndUI = "SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target"
+	UMG WidgetBlueprint Library: SetInputMode_GameOnly = "SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target"
+	UMG WidgetBlueprint Library: SetInputMode_UIOnly = "SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target"
 	NativeWidgetHostText = "スレートウィジェットホスト"
+	SpecialFX = "Special Effects"
 	TextBlockDefaultValue = "テキストブロック"
+	NoPlayerControllerToFocus = "The PlayerController is not a valid local player so it can't focus the widget."
+	WidgetAlreadyHasParent = "The widget '{0}' already has a parent widget.  It can't also be added to the viewport!"
+	WidgetAlreadyOnScreen = "The widget '{0}' was already added to the screen."
+	ThisWidgetDoesntSupportFocus = "This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true."
+	RemoveFromParentWithNoParent = "UWidget::RemoveFromParent() called on '{0}' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())"
+	OuterNull = "Unable to create the widget {0}, no outer provided."
+	NoInputListeningWithoutPlayerController = "Unable to listen to input actions without a player controller in {0}."
 	UserCreated = "ユーザーが作成"
 	Viewport = "ビューポート"
+	MissingOriginWidgetInTemplate = "Widget '{0}' Missing From Template For {1}."
 	null = "null"
 
 Namespace UMGAnimation (1 keys)
@@ -5022,11 +5764,286 @@ Namespace UMGEditor (2 keys)
 	Uncategorized = "カテゴリなし"
 	NonVariableLabelFormat = "[{BaseName}]{Metadata}"
 
-Namespace UnicodeBlock (0 keys)
+Namespace UnicodeBlock (272 keys)
+	Adlam = "Adlam"
+	AegeanNumbers = "Aegean Numbers"
+	Ahom = "Ahom"
+	AlchemicalSymbols = "Alchemical Symbols"
+	AlphabeticPresentationForms = "Alphabetic Presentation Forms"
+	AnatolianHieroglyphs = "Anatolian Hieroglyphs"
+	AncientGreekMusicalNotation = "Ancient Greek Musical Notation"
+	AncientGreekNumbers = "Ancient Greek Numbers"
+	AncientSymbols = "Ancient Symbols"
+	Arabic = "Arabic"
+	ArabicExtendedA = "Arabic Extended - A"
+	ArabicMathematicalAlphabeticSymbols = "Arabic Mathematical Alphabetic Symbols"
+	ArabicPresentationFormsA = "Arabic Presentation Forms - A"
+	ArabicPresentationFormsB = "Arabic Presentation Forms - B"
+	ArabicSupplement = "Arabic Supplement"
+	Armenian = "Armenian"
+	Arrows = "Arrows"
+	Avestan = "Avestan"
+	Balinese = "Balinese"
+	Bamum = "Bamum"
+	BamumSupplement = "Bamum Supplement"
+	BasicLatin = "Basic Latin"
+	BassaVah = "Bassa Vah"
+	Batak = "Batak"
+	Bengali = "Bengali"
+	Bhaiksuki = "Bhaiksuki"
+	BlockElements = "Block Elements"
+	Bopomofo = "Bopomofo"
+	BopomofoExtended = "Bopomofo Extended"
+	BoxDrawing = "Box Drawing"
+	Brahmi = "Brahmi"
+	BraillePatterns = "Braille Patterns"
+	Buginese = "Buginese"
+	Buhid = "Buhid"
+	ByzantineMusicalSymbols = "Byzantine Musical Symbols"
+	CJKCompatibility = "CJK Compatibility"
+	CJKCompatibilityForms = "CJK Compatibility Forms"
+	CJKCompatibilityIdeographs = "CJK Compatibility Ideographs"
+	CJKCompatibilityIdeographsSupplement = "CJK Compatibility Ideographs Supplement"
+	CJKRadicalsSupplement = "CJK Radicals Supplement"
+	CJKStrokes = "CJK Strokes"
+	CJKSymbolsAndPunctuation = "CJK Symbols and Punctuation"
+	CJKUnifiedIdeographs = "CJK Unified Ideographs"
+	CJKUnifiedIdeographsExtensionA = "CJK Unified Ideographs Extension A"
+	CJKUnifiedIdeographsExtensionB = "CJK Unified Ideographs Extension B"
+	CJKUnifiedIdeographsExtensionC = "CJK Unified Ideographs Extension C"
+	CJKUnifiedIdeographsExtensionD = "CJK Unified Ideographs Extension D"
+	CJKUnifiedIdeographsExtensionE = "CJK Unified Ideographs Extension E"
+	Carian = "Carian"
+	CaucasianAlbanian = "Caucasian Albanian"
+	Chakma = "Chakma"
+	Cham = "Cham"
+	Cherokee = "Cherokee"
+	CherokeeSupplement = "Cherokee Supplement"
+	CombiningDiacriticalMarks = "Combining Diacritical Marks"
+	CombiningDiacriticalMarksExtended = "Combining Diacritical Marks Extended"
+	CombiningDiacriticalMarksSupplement = "Combining Diacritical Marks Supplement"
+	CombiningDiacriticalMarksForSymbols = "Combining Diacritical Marks for Symbols"
+	CombiningHalfMarks = "Combining Half Marks"
+	CommonIndicNumberForms = "Common Indic Number Forms"
+	ControlCharacter = "Control Character"
+	ControlPictures = "Control Pictures"
+	Coptic = "Coptic"
+	CopticEpactNumbers = "Coptic Epact Numbers"
+	CountingRodNumerals = "Counting Rod Numerals"
+	Cuneiform = "Cuneiform"
+	CuneiformNumbersAndPunctuation = "Cuneiform Numbers and Punctuation"
+	CurrencySymbols = "Currency Symbols"
+	CypriotSyllabary = "Cypriot Syllabary"
+	Cyrillic = "Cyrillic"
+	CyrillicExtendedA = "Cyrillic Extended - A"
+	CyrillicExtendedB = "Cyrillic Extended - B"
+	CyrillicExtendedC = "Cyrillic Extended C"
+	CyrillicSupplementary = "Cyrillic Supplementary"
+	Deseret = "Deseret"
+	Devanagari = "Devanagari"
+	DevanagariExtended = "Devanagari Extended"
+	Dingbats = "Dingbats"
+	DominoTiles = "Domino Tiles"
+	Duployan = "Duployan"
+	EarlyDynasticCuneiform = "Early Dynastic Cuneiform"
+	EgyptianHieroglyphs = "Egyptian Hieroglyphs"
+	Elbasan = "Elbasan"
+	EmoticonsEmoji = "Emoticons (Emoji)"
+	EnclosedAlphanumericSupplement = "Enclosed Alphanumeric Supplement"
+	EnclosedAlphanumerics = "Enclosed Alphanumerics"
+	EnclosedCJKLettersAndMonths = "Enclosed CJK Letters and Months"
+	EnclosedIdeographicSupplement = "Enclosed Ideographic Supplement"
+	Ethiopic = "Ethiopic"
+	EthiopicExtended = "Ethiopic Extended"
+	EthiopicExtendedA = "Ethiopic Extended - A"
+	EthiopicSupplement = "Ethiopic Supplement"
+	GeneralPunctuation = "General Punctuation"
+	GeometricShapes = "Geometric Shapes"
+	GeometricShapesExtended = "Geometric Shapes Extended"
+	Georgian = "Georgian"
+	GeorgianSupplement = "Georgian Supplement"
+	Glagolitic = "Glagolitic"
+	GlagoliticSupplement = "Glagolitic Supplement"
+	Gothic = "Gothic"
+	Grantha = "Grantha"
+	GreekExtended = "Greek Extended"
+	GreekAndCoptic = "Greek and Coptic"
+	Gujarati = "Gujarati"
+	Gurmukhi = "Gurmukhi"
+	HalfwidthAndFullwidthForms = "Halfwidth and Fullwidth Forms"
+	HangulCompatibilityJamo = "Hangul Compatibility Jamo"
+	HangulJamo = "Hangul Jamo"
+	HangulJamoExtendedA = "Hangul Jamo Extended - A"
+	HangulJamoExtendedB = "Hangul Jamo Extended - B"
+	HangulSyllables = "Hangul Syllables"
+	Hanunoo = "Hanunoo"
+	Hatran = "Hatran"
+	Hebrew = "Hebrew"
+	HighPrivateUseSurrogates = "High Private Use Surrogates"
+	HighSurrogates = "High Surrogates"
+	Hiragana = "Hiragana"
+	IPAExtensions = "IPA Extensions"
+	IdeographicDescriptionCharacters = "Ideographic Description Characters"
+	IdeographicSymbolsAndPunctuation = "Ideographic Symbols and Punctuation"
+	ImperialAramaic = "Imperial Aramaic"
+	InscriptionalPahlavi = "Inscriptional Pahlavi"
+	InscriptionalParthian = "Inscriptional Parthian"
+	Javanese = "Javanese"
+	Kaithi = "Kaithi"
+	KanaSupplement = "Kana Supplement"
+	Kanbun = "Kanbun"
+	KangxiRadicals = "Kangxi Radicals"
+	Kannada = "Kannada"
+	Katakana = "Katakana"
+	KatakanaPhoneticExtensions = "Katakana Phonetic Extensions"
+	KayahLi = "Kayah Li"
+	Kharoshthi = "Kharoshthi"
+	Khmer = "Khmer"
+	KhmerSymbols = "Khmer Symbols"
+	Khojki = "Khojki"
+	Khudawadi = "Khudawadi"
+	Lao = "Lao"
+	Latin1Supplement = "Latin - 1 Supplement"
+	LatinExtendedA = "Latin Extended - A"
+	LatinExtendedB = "Latin Extended - B"
+	LatinExtendedC = "Latin Extended - C"
+	LatinExtendedD = "Latin Extended - D"
+	LatinExtendedE = "Latin Extended - E"
+	LatinExtendedAdditional = "Latin Extended Additional"
+	Lepcha = "Lepcha"
+	LetterlikeSymbols = "Letterlike Symbols"
+	Limbu = "Limbu"
+	LinearA = "Linear A"
+	LinearBIdeograms = "Linear B Ideograms"
+	LinearBSyllabary = "Linear B Syllabary"
+	Lisu = "Lisu"
+	LowSurrogates = "Low Surrogates"
+	Lycian = "Lycian"
+	Lydian = "Lydian"
+	Mahajani = "Mahajani"
+	MahjongTiles = "Mahjong Tiles"
+	Malayalam = "Malayalam"
+	Mandaic = "Mandaic"
+	Manichaean = "Manichaean"
+	Marchen = "Marchen"
+	MathematicalAlphanumericSymbols = "Mathematical Alphanumeric Symbols"
+	MathematicalOperators = "Mathematical Operators"
+	MeeteiMayek = "Meetei Mayek"
+	MeeteiMayekExtensions = "Meetei Mayek Extensions"
+	MendeKikakui = "Mende Kikakui"
+	MeroiticCursive = "Meroitic Cursive"
+	MeroiticHieroglyphs = "Meroitic Hieroglyphs"
+	Miao = "Miao"
+	MiscellaneousMathematicalSymbolsA = "Miscellaneous Mathematical Symbols - A"
+	MiscellaneousMathematicalSymbolsB = "Miscellaneous Mathematical Symbols - B"
+	MiscellaneousSymbols = "Miscellaneous Symbols"
+	MiscellaneousSymbolsAndArrows = "Miscellaneous Symbols and Arrows"
+	MiscellaneousSymbolsAndPictographs = "Miscellaneous Symbols and Pictographs"
+	MiscellaneousTechnical = "Miscellaneous Technical"
+	Modi = "Modi"
+	ModifierToneLetters = "Modifier Tone Letters"
+	Mongolian = "Mongolian"
+	MongolianSupplement = "Mongolian Supplement"
+	Mro = "Mro"
+	Multani = "Multani"
+	MusicalSymbols = "Musical Symbols"
+	Myanmar = "Myanmar"
+	MyanmarExtendedA = "Myanmar Extended - A"
+	MyanmarExtendedB = "Myanmar Extended - B"
+	NKo = "NKo"
+	Nabataean = "Nabataean"
+	NewTaiLue = "New Tai Lue"
+	Newa = "Newa"
+	NumberForms = "Number Forms"
+	Ogham = "Ogham"
+	OlChiki = "Ol Chiki"
+	OldHungarian = "Old Hungarian"
+	OldItalic = "Old Italic"
+	OldNorthArabian = "Old North Arabian"
+	OldPermic = "Old Permic"
+	Old Persian = "Old Persian"
+	OldSouthArabian = "Old South Arabian"
+	OldTurkic = "Old Turkic"
+	OpticalCharacterRecognition = "Optical Character Recognition"
+	Oriya = "Oriya"
+	OrnamentalDingbats = "Ornamental Dingbats"
+	Osage = "Osage"
+	Osmanya = "Osmanya"
+	PahawhHmong = "Pahawh Hmong"
+	Palmyrene = "Palmyrene"
+	PauCinHau = "Pau Cin Hau"
+	PhagsPa = "Phags - pa"
+	PhaistosDisc = "Phaistos Disc"
+	Phoenician = "Phoenician"
+	PhoneticExtensions = "Phonetic Extensions"
+	PhoneticExtensionsSupplement = "Phonetic Extensions Supplement"
+	PlayingCards = "Playing Cards"
+	PrivateUseArea = "Private Use Area"
+	PsalterPahlavi = "Psalter Pahlavi"
+	Rejang = "Rejang"
+	RumiNumeralSymbols = "Rumi Numeral Symbols"
+	Runic = "Runic"
+	Samaritan = "Samaritan"
+	Saurashtra = "Saurashtra"
+	Sharada = "Sharada"
+	Shavian = "Shavian"
+	ShorthandFormatControls = "Shorthand Format Controls"
+	Siddham = "Siddham"
+	Sinhala = "Sinhala"
+	SinhalaArchaicNumbers = "Sinhala Archaic Numbers"
+	SmallFormVariants = "Small Form Variants"
+	SoraSompeng = "Sora Sompeng"
+	SpacingModifierLetters = "Spacing Modifier Letters"
+	Specials = "Specials"
+	Sundanese = "Sundanese"
+	SundaneseSupplement = "Sundanese Supplement"
+	SuperscriptsAndSubscripts = "Superscripts and Subscripts"
+	SupplementalArrowsA = "Supplemental Arrows - A"
+	SupplementalArrowsB = "Supplemental Arrows - B"
+	SupplementalArrowsC = "Supplemental Arrows - C"
+	SupplementalMathematicalOperators = "Supplemental Mathematical Operators"
+	SupplementalPunctuation = "Supplemental Punctuation"
+	SupplementalSymbolsAndPictographs = "Supplemental Symbols and Pictographs"
+	SuttonSignWriting = "Sutton SignWriting"
+	SylotiNagri = "Syloti Nagri"
+	Syriac = "Syriac"
+	Tagalog = "Tagalog"
+	Tagbanwa = "Tagbanwa"
+	Tags = "Tags"
+	TaiLe = "Tai Le"
+	TaiTham = "Tai Tham"
+	TaiViet = "Tai Viet"
+	TaiXuanJingSymbols = "Tai Xuan Jing Symbols"
+	Takri = "Takri"
+	Tamil = "Tamil"
+	Tangut = "Tangut"
+	TangutComponents = "Tangut Components"
+	Telugu = "Telugu"
+	Thaana = "Thaana"
+	Thai = "Thai"
+	Tibetan = "Tibetan"
+	Tifinagh = "Tifinagh"
+	Tirhuta = "Tirhuta"
+	TransportAndMapSymbols = "Transport and Map Symbols"
+	Ugaritic = "Ugaritic"
+	UnifiedCanadianAboriginalSyllabics = "Unified Canadian Aboriginal Syllabics"
+	UnifiedCanadianAboriginalSyllabicsExtended = "Unified Canadian Aboriginal Syllabics Extended"
+	Vai = "Vai"
+	VariationSelectors = "Variation Selectors"
+	VariationSelectorsSupplement = "Variation Selectors Supplement"
+	VedicExtensions = "Vedic Extensions"
+	VerticalForms = "Vertical Forms"
+	WarangCiti = "Warang Citi"
+	YiRadicals = "Yi Radicals"
+	YiSyllables = "Yi Syllables"
+	YijingHexagramSymbols = "Yijing Hexagram Symbols"
 
-Namespace UnitConversion (3 keys)
+Namespace UnitConversion (6 keys)
 	CannotAddErr = "{0} を {1} に加算することができません"
+	InvalidDivision = "Cannot divide by numbers with units"
+	InvalidMultiplication = "Cannot multiply by numbers with units"
 	CannotSubtractErr = "{0} から {1} を減算することができません"
+	DivideByZero = "DivideByZero"
 	UnrecognizedResult = "エクスプレッションから認識できない結果が返されました"
 
 Namespace UnrealBuildConfigurations (6 keys)
@@ -5041,9 +6058,13 @@ Namespace UnrealClient (2 keys)
 	HighResScreenshotSavedAs = "高解像度スクリーンショットを保存"
 	HighResScreenshotTooBig = "この高解像度スクリーンショットマルチプライヤーはシステムに対して大きすぎます。小さい値で再試行してください。"
 
-Namespace UnrealEd (79 keys)
+Namespace UnrealEd (94 keys)
 	Error = "!"
 	GameWindowTitleDebugInfo = "({PlatformArchitecture}-bit, {RHIName})"
+	Error_InvalidFilename = "A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9."
 	VisualizeAOSF = "アンビエントオクルージョン"
 	ReplaceExistingObjectInPackage_F = "クラス [{1}] のオブジェクト [{0}] はファイル [{2}] に存在します。既存オブジェクトを置換しますか？「はい」をクリックすると既存オブジェクトは削除されます。削除しない場合は「いいえ」をクリックして新規オブジェクトに一意の名前をつけてください。"
 	AudioVolumeSF = "オーディオ"
@@ -5051,27 +6072,34 @@ Namespace UnrealEd (79 keys)
 	Module_LocationBoneSocket_AutoFill = "ボーン / ソケット名を自動フィル"
 	SomeNotifiesWereNotCopiedF = "指定先シーケンスが短いため、{0} 個の通知はコピーされませんでした。"
 	BlockingVolumeSF = "ブロッキング"
-	Error_RetryCompilation = "C++ compilation of module {0} failed!  Details in the log.  
-Fix the error then click Ok to retry."
+	Error_RetryCompilation = "C++ compilation of module {0} failed!  Details in the log.  \\nFix the error then click Ok to retry."
 	Cancel = "キャンセル"
 	MeshMaterialsWithNamedMaterialsError = "必須モジュールで [Named Material Overrides] を使用中はMesh マテリアルモジュールを使用できません。"
 	MeshMaterialsWithOverrideMaterialError = "Mesh タイプ dataモジュールで「OverrideMaterial」を使用中はMesh マテリアルモジュールを使用できません。"
 	NamedMaterialOverriedsAndOverrideMaterialError = "Mesh タイプ dataモジュールで「OverrideMaterial」を使用中はNamed Material Overridesモジュールを使用できません。"
+	ChooseADirectory = "Choose A Directory"
 	SavingPackage_CompressingSourceArt = "テクスチャ用にソース アートを圧縮中: {0}     "
 	SavingPackage_CompressingTexture = "テクスチャを圧縮中: {0}     "
 	ConsoleHelpExported = "ConsoleHelp.html を以下の場所に保存しました"
 	SplashScreen_CopyrightInfo = "Copyright © 1998-2017   Epic Games, Inc.   All rights reserved."
 	Error_CouldntLaunchPIEClient = "PIEクライアントを起動できませんでした: {0}"
 	Error_CouldntSpawnPlayer = "プレイヤーをスポーンできませんでした: {0}"
+	Error_CouldntWriteToFile_F = "Couldn't write to file '{0}'. Maybe file is read-only?"
 	CullDistanceVolumeSF = "カリング距離"
 	CollisionWithoutDistanceField = "ディスタンスフィールド コリジョンはプロジェクト設定で「メッシュ ディスタンスフィールドを生成」を有効にする必要があります。"
 	DuplicatedHardcodedName = "ハードコードされた名前を複製 : {0}"
 	Module_LocationBoneSocket_EditorMeshNoBones = "エディタ メッシュにボーンがありません。"
 	Module_LocationBoneSocket_EditorMeshNoSockets = "エディタ メッシュにソケットがありません。"
+	Exporting = "Exporting"
+	Exportingf = "Exporting ({0} of {1})"
 	AutomationTest_Fail = "失敗"
 	Error_FailedCreatePlayFromHerePlayerStart = "設定したスタート位置でプレイヤースタートの作成に失敗しました"
 	Error_FailedCreateEditorPreviewWorld = "エディター プレビュー ワールドの作成に失敗しました"
+	Error_FailedToMakeDirectory = "Failed to make directory {0}"
 	Error_FailedToBindShaderParameter = "オプショナルではないシェーダーパラメータ {0} のバインドに失敗しました！パラメータはシェーダーに存在しないか、シェーダーコンパイラによって最適化されました。抑制したLogShadersでアサートが発生します。"
+	Error_FilenameDisallowed = "Filename '{0}' is disallowed."
+	Error_FilenameIsTooLongForCooking = "Filename '{0}' is too long; this may interfere with cooking for consoles.  Unreal filenames should be no longer than {1} characters."
+	Error_NoneFilename = "Filename '{0}' resolves to 'None' and cannot be used"
 	Error_InputNamesMustBeUnique = "関数入力名は一意でなくてはいけません"
 	Error_OutputNamesMustBeUnique = "関数アウトプット名は一意の名前でなくてはいけません"
 	Module_LocationSkelVertSurface_InheritVertexColorOnGPUError = "GPUエミッタでは頂点色の継承はサポートされていません!"
@@ -5084,6 +6112,7 @@ Fix the error then click Ok to retry."
 	LevelStreamingVolumeSF = "レベルストリーミング"
 	LightmassCharacterIndirectDetailVolumeSF = "ライトマスキャラクターの間接的詳細"
 	LightmassImportanceVolumeSF = "ライトマスImportance"
+	Load = "Load Profile data"
 	SplashScreen_InitialStartupProgress = "ロード中..."
 	MAX_NETWORKED_HARDCODED_NAME Incorrect = "MAX_NETWORKED_HARDCODED_NAMEの設定が正しくありません！(現在は {0} ですが、 {1} より大きくてはいけません"
 	MassiveLODOverrideVolumeSF = "大量のLODオーバーライド"
@@ -5091,6 +6120,7 @@ Fix the error then click Ok to retry."
 	NavMeshBoundsVolumeSF = "NavMeshバウンド"
 	No = "いいえ"
 	Module_LocationBoneSocket_NoEditorMesh = "エディタ メッシュが設定されていません。"
+	Exporter_Error_SourceDataUnavailable = "No source data available for some objects.  See the log for details."
 	NoToAll = "すべていいえ"
 	None = "なし"
 	OK = "OK"
@@ -5104,25 +6134,27 @@ Fix the error then click Ok to retry."
 	ProcessingSections = "セクションを処理中"
 	RandomSubUVForGPUEmitter = "ランダムなSubUV補間はGPUパーティクルでサポートしていません"
 	Reverse = "逆再生"
+	Save_F = "Save: {0}"
 	CollisionOnOpaqueEmitter = "不透明マテリアルと組み合わせた状態でシーンのデプス コリジョンをエミッターに使用することはできません。"
 	Module_ColorScaleOverLife_SetupParticleParam = "パーティクル パラメータをセットアップ"
 	UVOverlay_F = "LOD {1} のUVチャンネル {0} を表示中"
 	SomeNotifiesWillNotBeCopiedQ = "指定先シーケンスの長さが足りないため一部の通知はコピーされません。継続しますか？"
 	SourceControl_ServerUnresponsive = "ソースコントロールの応答がありません。インターネット接続をご確認の上もう一度お試しください。"
+	SubUVAnimationMismatch = "SubUV module has an Animation set whose texture doesn't match what the material is using.  Particles may not appear or have visible clipping."
 	AutomationTest_Success = "成功"
 	TestSlateGameUIButtonText = "テストボタン！"
 	Error_ParentalControls = "保護者による制限レベルに抵触するためこのゲームを起動できません。"
 	DestSeqAlreadyContainsNotifiesMergeQ = "指定先シーケンスには既存の通知が {0} 個あります。コピーする前に通知を削除しますか？"
+	Error_CouldntInitInstance = "The game instance failed to Play/Simulate In Editor"
 	TriggerVolumeSF = "トリガー"
 	UnrealEdTitleNoGameName_F = "アンリアル・エディタ"
 	UnrealEdTitle_F = "アンリアルエディタ - {0}"
 	UnrealEdTitleWithVersionNoGameName_F = "アンリアル・エディタ {0}"
 	UnrealEdTitleWithVersion_F = "アンリアル・エディタ {0}  -  {1}"
+	AssetTools_ExportObjects_CancelRemaining = "Would you like to cancel exporting the next {0} files as well?"
 	Yes = "はい"
 	YesToAll = "すべてはい"
-	Error_RetryShaderCompilation = "{0}
-
-Retry compilation?"
+	Error_RetryShaderCompilation = "{0}\\n\\nRetry compilation?"
 	GameWindowTitle = "{GameName}"
 
 Namespace UnrealEditor (6 keys)
@@ -5133,8 +6165,10 @@ Namespace UnrealEditor (6 keys)
 	OutputLogTooltipText = "アウトプットログタブを開く"
 	OutputLogTab = "アウトプットログ"
 
-Namespace UnrealEngine (9 keys)
+Namespace UnrealEngine (11 keys)
 	BlueprintInLevelHadCompileErrorMessage = "ブループリントコンパイラエラー"
+	UNSUPPORTEDDYNRES = "DYNAMIC RESOLUTION IS NOT SUPPORTED ON THIS PLATFORM"
+	MEMPROFILINGWARNINGLLM = "LLM enabled without Debug Memory enabled!"
 	Levelstreamingfrozen = "レベルストリーミングがフリーズしました..."
 	NAMEDEVENTSENABLED = "名前を付けたイベントを有効にする"
 	NAVMESHERROR = "NAVMESHの再ビルドが必要です"
@@ -5142,12 +6176,13 @@ Namespace UnrealEngine (9 keys)
 	GCPROFILINGWARNING = "GC検証をオンにした状態でプロファイリング中！"
 	PrepareMapChangeError = "PrepareMapChangeに不正なレベル名があります！詳細はログlog (PREPAREMAPCHANGEでタグ付け)で確認してください     "
 	OutOfTextureMemory = "テクスチャメモリが不足しているため、破損とGPUのフリーズが発生します！"
-	MEMPROFILINGWARNING = "WARNING: Running with Debug Memory Enabled!"
+	LLMWARNING = "WARNING: Running with Debug Memory Enabled!"
 
-Namespace UObject (3 keys)
-	KilobytesSuffix = "Kb"
-	Size = "サイズ"
-	SizeTooltip = "キロバイト単位のアセットのサイズ"
+Namespace UObject (4 keys)
+	PrimaryAssetNameTooltip = "Logical name registered with the Asset Manager system"
+	PrimaryAssetName = "Primary Asset Name"
+	PrimaryAssetType = "Primary Asset Type"
+	PrimaryAssetTypeTooltip = "Type registered with the Asset Manager system"
 
 Namespace UObjectToolTips (5 keys)
 	CameraFilmbackSettings:SensorWidth = "フィルムバックまたはデジタル センサーの水平方向のサイズ。単位は mm。"
@@ -5174,7 +6209,9 @@ Namespace VisualizeRT (10 keys)
 	Title = "レンダーターゲットを可視化"
 	WidthColumnHeader = "幅"
 
-Namespace VulkanRHI (0 keys)
+Namespace VulkanRHI (2 keys)
+	UnableToInitializeVulkanLinuxTitle = "Unable to initialize Vulkan."
+	UnableToInitializeVulkanLinux = "Unable to load Vulkan library and/or acquire the necessary function pointers. Make sure an up-to-date libvulkan.so.1 is installed."
 
 Namespace WebBrowser (6 keys)
 	Back = "戻る "
@@ -5258,7 +6295,12 @@ Namespace WidgetGallery (63 keys)
 	ComboButtonItemLabel02 = "任意"
 	ComboButtonItemLabel03 = "ウィジェット"
 
-Namespace WidgetReflectorNode (0 keys)
+Namespace WidgetReflectorNode (5 keys)
+	WidgetClippingNo = "No"
+	WidgetClippingOnDemand = "On Demand"
+	WidgetClippingYes = "Yes"
+	WidgetClippingYesAlways = "Yes (Always)"
+	WidgetClippingYesWithoutIntersecting = "Yes (No Intersect)"
 
 Namespace WidgetSnapshotVisualizer (5 keys)
 	PickSnapshotWidget = "スナップショットウィジェットを選択"
@@ -5284,7 +6326,9 @@ Namespace WindowsPlatform (7 keys)
 	GameExplorerUninstallationFailed = "GameExplorerのアンインストールに失敗しました。終了します。"
 	GameExplorerUninstallationSuccessful = "GameExplorerのアンインストールに成功しました。終了します。"
 
-Namespace WindowsPlatformEditorModule (0 keys)
+Namespace WindowsPlatformEditorModule (2 keys)
+	TargetSettingsDescription = "Settings for Windows target platform"
+	TargetSettingsName = "Windows"
 
 Namespace World (1 keys)
 	LevelStreamingFailToStreamLevel = "ストリームレベル {PackageName} の検索に失敗しました。レベルブラウザで参照を修正してください。"

@@ -1,7 +1,7 @@
-481 namespaces
-4084 values
+484 namespaces
+4132 values
 
-Namespace Global (737 keys)
+Namespace Global (742 keys)
 	4B0118694F87069CBD082CB627E7F3E2 = "++"
 	CEC5F3244730518F161FB19868120ABA = "++"
 	6291952E43BA00D62F01B4BCE87DB3D0 = "-"
@@ -60,6 +60,7 @@ Namespace Global (737 keys)
 	CameraImperfectionsSF = "카메라 결함"
 	CameraInterpolationSF = "카메라 보간"
 	CameraSafeFramesSF = "카메라 안전 프레임"
+	CapsuleShadows = "캡슐 섀도우"
 	0C14D6C446FADB5F786268801335AA9E = "캡처"
 	31C9DD714D3B49A60EF40D94123C4B91 = "캡처"
 	49FD59F9463463E04660F1B5B83CA8E6 = "캡처"
@@ -290,6 +291,7 @@ Namespace Global (737 keys)
 	B79EB6CB41ECA56A3E3DE9917B55A663 = "랜드스케이프"
 	LandscapeSF = "랜드스케이프"
 	LargeVerticesSF = "커다란 버텍스"
+	27313F9A464426BB4A2191A3F161FDA8 = "Layers"
 	LensFlaresSF = "렌즈 플레어"
 	78BA211347671F164A0DEEB2E70813AA = "렌즈 플레어"
 	LevelColorationSF = "레벨 배색"
@@ -422,11 +424,11 @@ Namespace Global (737 keys)
 	D92C9CDE4FFDA147183F769AE8C78BC6 = "세팅 덮어쓰기"
 	EF65BA1F4EBC688BC75A5198BBB6AE69 = "세팅 덮어쓰기"
 	Paper2DSpritesSF = "페이퍼 2D 스프라이트"
+	ParticlesSF = "파티클 스프라이트"
 	29BB5D824EE25B49BEDFDDA325FDF8BC = "파티클 시스템 프레임 덤프"
 	48B016CD42C6D9FC6AC945A6BE21A52E = "파티클"
 	632086B94646B2A13EDC4983CC767756 = "파티클"
 	7B184F2B42CFFD3401B030A3E1A16296 = "파티클"
-	ParticlesSF = "파티클 스프라이트"
 	CollisionPawn = "폰"
 	0F02C4AD435384045CA7FF8C37680BD6 = "피직스 그라운드"
 	11111E0C4ADB5C1C40C7D69159630B2B = "피직스 그라운드"
@@ -480,6 +482,7 @@ Namespace Global (737 keys)
 	F70A83064A955F986662ADAD6752F010 = "프로시저럴"
 	PropertyColorationSF = "프로퍼티 배색"
 	QuadOverdrawSF = "쿼드 오버드로"
+	RayTracedDistanceFieldShadows = "레이 트레이스 디스턴스 필드 섀도우"
 	ReflectionEnvironmentSF = "리플렉션 인바이언먼트"
 	9F1E79E34A80164D5AB90FB5C0769832 = "리플렉션"
 	AE4B977949471C5637DDB88F42DCFD66 = "리플렉션"
@@ -599,7 +602,9 @@ Namespace Global (737 keys)
 	SkyLightingSF = "스카이 라이팅"
 	SnapSF = "스냅"
 	SpecularSF = "스페큘러"
+	91FCC0B74E5A1274353F6EAC70C5FBD0 = "SpeedTree"
 	B45E504A4C01E6DB56C526A995A8A61A = "스피드 트리"
+	E08EB63C4A0DCC7BE8904595E47CFEF0 = "SpeedTree"
 	SplinesSF = "스플라인"
 	SpotLightsSF = "스포트 라이트"
 	StaticMeshesSF = "스태틱 메시"
@@ -767,7 +772,7 @@ Namespace AndroidLicenseDialog (2 keys)
 	AndroidLicenseAgreement_Agree = "동의"
 	AndroidLicenseAgreement_Cancel = "취소"
 
-Namespace AndroidRuntimeSettings (68 keys)
+Namespace AndroidRuntimeSettings (70 keys)
 	RDOCRunText1 = "1. Tools -> Options -> Android 에서 adb 실행파일 경로를 설정합니다."
 	RDOCRunText2 = "2. Tools -> Start Android Remote Server 로 원격 서버를 시작합니다."
 	RDOCRunText3 = "3. 디바이스 화면을 확인하고 RenderDocCmd 를 'Allow' 하여 디바이스의 파일 접근을 허가합니다."
@@ -834,6 +839,7 @@ Namespace AndroidRuntimeSettings (68 keys)
 	LaunchImageInfo = "이미지 인포 실행"
 	LaunchImage_Landscape = "가로 모드로 실행"
 	LaunchImage_Portrait = "세로 모드로 실행"
+	SDKConfigMessage = "이 칸을 공백으로 놔두면 글로벌 안드로이드 SDK 프로젝트 세팅을 사용합니다. 이 세팅 중 변경된 것은 이 프로젝트에만 영향을 줍니다."
 	SettingsIcon_MDPI = "MDPI 아이콘"
 	MaliGraphicsDebuggerInfo = "말리 그래픽스 디버거 정보"
 	MaliGraphicsDebuggerPage = "말리 그래픽스 디버거 홈 페이지"
@@ -853,6 +859,7 @@ Namespace AndroidRuntimeSettings (68 keys)
 	RDOCInstallText = "RenderDoc 툴 설치 디렉토리에 위치한 android/apk/32 디렉토리에서 호스트 명령줄에 다음 명령을 실행시키면 RenderDocCmd 어플리케이션을 디바이스에 설치할 수 있습니다."
 	MGDInstallText = "MGD Daemon 어플리케이션을 디바이스에 설치하려면, 호스트 명령줄에서 MGD 툴 설치 디렉토리에 위치한 target/unrooted 디렉토리로 가서 다음 명령을 실행시키세요."
 	MGDIRunText1 = "PC 와 MGD Daemon 사이의 터널 연결을 위해서는 호스트에서 다음 명령을 실행하세요. USB 로 디바이스를 연결할 때마다 해 줘야 합니다."
+	SDKConfigInfo = "SDK 환경설정 정보"
 	SigningHyperlink = "사이닝 하이퍼링크"
 	LaunchImageInfoMessage = "OBB 다운로드의 배경으로는 <RichTextBlock.TextHighlight>Download Background</> 이미지가 사용됩니다. <RichTextBlock.TextHighlight>Launch Portrait</> 이미지는 방향이 Portrait, Reverse Portrait, Sensor Portrait, Sensor, 또는 Full Sensor 인 어플리케이션의 스플래시 화면으로 사용됩니다. <RichTextBlock.TextHighlight>Launch Landscape</> 이미지는 방향이 Landscape, Sensor Landscape, Reverse Landscape, Sensor, 또는 Full Sensor 인 어플리케이션의 스플래시 화면으로 사용됩니다.
 
@@ -868,6 +875,13 @@ Namespace AndroidRuntimeSettings (68 keys)
 Namespace AnimInstance (1 keys)
 	AnimInstance_SlotNode = "슬롯노드: {1} 애니메이션 인스턴트 클래스의 '{0}' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요."
 
+Namespace AnimNode_SequencePlayer (1 keys)
+	AdditiveMismatchWarning = "Trying to play a non-additive animation '{0}' into a pose that is expected to be additive in anim instance '{1}'"
+
+Namespace AnimNotify (2 keys)
+	ParticleSystem_ShouldNotLoop = "{1} 애셋의 애님 노티파이에 사용된 {0} 파티클 시스템이 루핑 설정되어 있지만, 슬롯이 일회성입니다 (노티파이 별로 컴포넌트가 새는 것을 피하기 위해 재생되지 않을 것입니다)."
+	Sound_ShouldNotLoop = "{1} 애셋의 애님 노티파이에 사용된 {0} 사운드가 루핑 설정되어 있지만, 슬롯이 일회성입니다 (노티파이 별로 인스턴스가 새는 것을 피하기 위해 재생되지 않을 것입니다)."
+
 Namespace AnimNotifyState_Trail (4 keys)
 	NoneFirstSocket = "{0}: 첫 소켓 이름을 설정해야 합니다."
 	NoneSecondSocket = "{0}: 둘째 소켓 이름을 설정해야 합니다."
@@ -875,11 +889,11 @@ Namespace AnimNotifyState_Trail (4 keys)
 	InvalidPSTemplateFmt = "{0}: {1} 에 트레일 이미터가 들어있지 않습니다."
 
 Namespace AnimSequence (2 keys)
-	EmptyAnimationData2 = " has no animation data. Recommend to remove."
+	EmptyAnimationData2 = "에 애니메이션 데이터가 없습니다. 제거할 것을 추천합니다."
 	EmptyAnimationData1 = "애니메이션 "
 
 Namespace AnimSequenceBase (2 keys)
-	InvalidAnimNotify2 = " contains invalid notify "
+	InvalidAnimNotify2 = "에 유효하지 않은 노티파이가 들어있습니다."
 	InvalidAnimNotify1 = "애니메이션에 "
 
 Namespace AppleDynamicRHI (2 keys)
@@ -991,7 +1005,7 @@ Namespace AssetTools (52 keys)
 	MigratePackages_NonContentFolder = "{0} 폴더는 게임 Content 폴더로 보이지 않습니다. 이주된 콘텐츠는 Content 폴더에 있을 때만 정상 작동합니다. 그래도 콘텐츠를 이 곳으로 옮기시겠습니까?"
 	MigratePackages_PackageMissing = "디스크에 존재하지 않는 {0} 입니다."
 
-Namespace AssetTypeActions (233 keys)
+Namespace AssetTypeActions (242 keys)
 	DataTable_MissingRowStructListEntry = "* {0} (행 구조체: {1})"
 	AssetTypeActions_AimOffset = "에임 오프셋"
 	AssetTypeActions_AimOffset1D = "에임 오프셋 1D"
@@ -1042,11 +1056,14 @@ Namespace AssetTypeActions (233 keys)
 	PhysAsset_Create = "생성"
 	AnimSequence_NewAnimComposite = "애님컴포짓 생성"
 	AnimSequence_NewAnimMontage = "애님몽타주 생성"
+	Material_NewMBI = "Create Blend Instance"
 	Class_NewDerivedBlueprintClassLabel_CreateFrom = "{0} 기반 블루프린트 클래스 생성"
 	Class_NewDerivedCppClassLabel_CreateFrom = "{0} 파생 C++ 클래스 생성"
 	AnimMontage_CreateChildMontageTooltip = "자손 애니메이션 몽타주를 생성하고 다른 애니메이션 애셋에 리매핑시킵니다."
 	Blueprint_NewDerivedBlueprint = "자손 블루프린트 클래스 생성"
 	AnimMontage_CreateChildMontage = "자손 몽타주 생성"
+	Material_NewMFI = "함수 인스턴스 생성"
+	Material_NewMLI = "Create Layer Instance"
 	Texture_CreateMaterial = "머티리얼 생성"
 	Material_NewMIC = "머티리얼 인스턴스 생성"
 	AnimSequence_NewPoseAsset = "포즈 애셋 생성"
@@ -1067,6 +1084,7 @@ Namespace AssetTypeActions (233 keys)
 	Texture_CreateMaterialTooltip = "이 텍스처를 사용하여 새 머티리얼을 생성합니다."
 	SkeletalMesh_NewSkeletonTooltip = "선택된 메시 각각에 대해 스켈레톤을 새로 생성합니다."
 	Texture2D_CreateSlateBrushToolTip = "이 텍스처를 사용하여 슬레이트 브러시를 새로 만듭니다."
+	Material_NewMFITooltip = "이 함수를 기반으로 파라미터화된 함수를 생성합니다."
 	Material_NewMICTooltip = "이 머티리얼을 기반으로 하여 파라미터화된 머티리얼을 생성합니다."
 	TextureRenderTarget_CreateStaticTooltip = "선택된 렌더 타겟에서 스태틱 텍스처를 생성합니다."
 	AnimSequence_NewAnimCompositeTooltip = "선택된 애님 시퀀스를 사용해서 애님컴포짓을 생성합니다."
@@ -1115,7 +1133,7 @@ Namespace AssetTypeActions (233 keys)
 	Redirector_FindTarget = "타겟 찾기"
 	Redirector_FixUpTooltip = "선택된 리디렉터에 대한 레퍼런서를 찾은 다음 가능하면 재저장한 후, 레퍼런서가 고쳐진 리디렉터가 있으면 삭제합니다."
 	Redirector_FindTargetTooltip = "애셋 트리에서 이 리디렉터의 타겟 애셋을 찾습니다."
-	MaterialInstanceConstant_FindParentTooltip = "콘텐츠 브라우저에서 이 인스턴스가 기반으로 삼는 머티리얼을 찾습니다."
+	MaterialInstanceConstant_FindParentTooltip = "콘텐츠 브라우저에서 이 인스턴스의 기반이 된 함수를 찾습니다."
 	MaterialFunction_FindMaterialsTooltip = "콘텐츠 브라우저에서 이 머티리얼 함수를 레퍼런싱하는 머티리얼을 찾습니다."
 	AnimSequenceBase_FindSkeletonTooltip = "콘텐츠 브라우저에서 선택된 애셋에 대한 스켈레톤을 찾습니다."
 	AnimBlueprint_FindSkeletonTooltip = "콘텐츠 브라우저에 선택된 애님 블루프린트에 의해 사용된 스켈레톤을 찾습니다."
@@ -1140,8 +1158,13 @@ Namespace AssetTypeActions (233 keys)
 	RemapSkeleton_LoadPackage = "패키지 로드중"
 	AssetTypeActions_Material = "머티리얼"
 	AssetTypeActions_MaterialFunction = "머티리얼 함수"
+	FAssetTypeActions_MaterialFunctionInstance = "머티리얼 함수 인스턴스"
 	AssetTypeActions_MaterialInstanceConstant = "머티리얼 인스턴스"
 	AssetTypeActions_MaterialInterface = "머티리얼 인터페이스"
+	AssetTypeActions_MaterialFunctionMaterialLayer = "머티리얼 레이어"
+	AssetTypeActions_MaterialFunctionMaterialLayerBlend = "머티리얼 레이어 블렌드"
+	AssetTypeActions_MaterialFunctionMaterialLayerBlendInstance = "머티리얼 레이어 블렌드 인스턴스"
+	AssetTypeActions_MaterialFunctionMaterialLayerInstance = "머티리얼 레이어 인스턴스"
 	AssetTypeActions_MaterialParameterCollection = "머티리얼 파라미터 컬렉션"
 	AssetTypeActions_InterpData = "마티네 데이터"
 	MergeSkeletonDlgTitle = "본 병합"
@@ -1504,7 +1527,7 @@ Namespace ColorPicker (34 keys)
 	SRGBCheckboxLabel = "sRGB 프리뷰"
 
 Namespace ColorThemesViewer (13 keys)
-	CopyThemeNameAppend = " Copy"
+	CopyThemeNameAppend = "복사"
 	VerifyTextDup = "'{Name}' 이름의 테마가 이미 존재합니다."
 	AcceptRenameButton = "수락"
 	CancelDeleteButton = "취소"
@@ -1524,12 +1547,6 @@ Namespace ColorTrashWidget (1 keys)
 Namespace CompressionMemorySummary (2 keys)
 	BeginCompressingTaskMessage = "애니메이션 압축중"
 	CompressingTaskStatusMessageFormat = "{AnimSequenceName} ({ProgressNumerator}/{ProgressDenominator}) 압축중"
-
-Namespace Console (1 keys)
-	ConsoleLabel = "콘솔"
-
-Namespace ConsoleInputBox (1 keys)
-	TypeInConsoleHint = "콘솔 명령 입력"
 
 Namespace ConstraintComponent (5 keys)
 	BadBoneNameToConstraint = "{1} 컨스트레인트 컴포넌트에 대한 {0} 본을 찾을 수 없습니다."
@@ -1567,11 +1584,10 @@ Namespace Contexts (6 keys)
 Namespace Controller (1 keys)
 	ControllerPossessAuthorityOnly = "Possess 함수는 {0} 네트워크 오쏘리티에 대해서만 사용되어야 합니다."
 
-Namespace Core (66 keys)
+Namespace Core (67 keys)
 	OverwriteReadOnly = "'{0}' : 읽기전용입니다. 강제로 덮어쓰기 시도해 볼까요?"
 	FirstCmdArgMustBeGameName = "'{0}' : 반드시 존재하고 DefaultEngine.ini 가 있어야 합니다."
 	BadProperty = "'{Message}': {FunctionName} 호출을 시도하는 데 '{PropertyName}' 프로퍼티가 없거나 잘못되었습니다."
-	ReplaceNotFullyLoaded_f = "완전히 로드되지 않은 오브젝트를 대체하려 하고 있습니다: {0} (아우터={1}, 플래그={2})"
 	SavePackageNoMap = "맵 오브젝트가 들어있지 않은 '{0}' 맵 애셋을 저장하려 했습니다."
 	LinkedToObjectsInOtherMap_FindCulpritQ = "{FileName} 저장 불가: 그래프가 외부 맵에서 오브젝트에 링크되어 있습니다.
 외부 오브젝트:
@@ -1626,6 +1642,7 @@ Namespace Core (66 keys)
 	MismatchedGameNames = ".uproject 파일 이름('{0}')이 명령줄에 전달된 프로젝트 이름('{1}')과 일치해야 합니다."
 	Transform = "이동: {T} 회전: {R} 스케일: {S}"
 	True = "True"
+	SymbolsInTitleMemory2 = "Turn "Profiling Mode" on in Dev Home or Xbox One Manager to fix this."
 	Vector3_CompactZeroVector = "V(0)"
 	Vector3_CompactX = "V(X={X})"
 	Vector3_CompactXY = "V(X={X}, Y={Y})"
@@ -1635,6 +1652,7 @@ Namespace Core (66 keys)
 	Vector3_CompactYZ = "V(Y={Y}, Z={Z})"
 	Vector3_CompactZ = "V(Z={Z})"
 	VerifyPackage_Scope = "'{0}' 검증"
+	SymbolsInTitleMemory = "WARNING: Symbols for crash callstacks are using up title memory!"
 	Vector2 = "X={X} Y={Y}"
 	Vector3 = "X={X} Y={Y} Z={Z}"
 	Yes = "예"
@@ -1741,7 +1759,7 @@ Namespace DlgNewGeneric (1 keys)
 다른 콘텐츠에 레퍼런싱되어 있습니다."
 
 Namespace DockTab (3 keys)
-	CloseButtonInputText = " ({0})"
+	CloseButtonInputText = "({0})"
 	DefaultTabTitle = "이름없음"
 	CloseButtonToolTip = "{Label}{InputText}"
 
@@ -1815,13 +1833,15 @@ Namespace EndUserSettings (7 keys)
 	FalseStateDescription = "기본적으로 무기명 사용 데이터를 에픽 게임즈에 전송하지 않도록 설정했습니다. 이 세팅을 게임 UI 에 추가한 뒤 UEndUserSettings::SetSendAnonymousUsageDataToEpic() 을 호출하는 것으로 사용자가 켜도록 할 수 있습니다. 언리얼 엔진의 발전을 위해 이 옵션을 켜 주시거나, 사용자들이 켤 수 있도록 해 주시기 바랍니다. 에픽 게임즈에서는 개인의 사용 데이터를 제삼자 회사에게 판매하거나 거래하지 않을 것입니다. 허가를 받은 경우 사용자의 게임 세션, 플레이중인 게임, 플레이 시간 관련 정보를 수집합니다. 그 정보는 암호화되어 무기명 전송되며, 이 작업은 해당 제품 실행시에만 이루어집니다."
 	TrueStateDescription = "기본적으로 사용자가 무기명 사용 데이터를 에픽 게임즈에 전송하도록 설정했습니다. 이 세팅을 게임 UI 에 추가하고 UEndUserSettings::SetSendAnonymousUsageDataToEpic()를 호출하는 것으로 사용자가 선택하도록 할 수 있습니다. 언리얼 엔진 발전에 도움을 주셔서 감사합니다. 에픽 게임즈는 귀하의 개인 사용 데이터를 제삼자에게 판매하거나 거래하지 않을 것입니다. 저희가 수집하는 것은 귀하의 게임 세션, 플레이하는 게임, 플레이 시간 관련 정보이며, 무기명 전송됩니다. 그 정보는 제품 실행시에만, 암호화되어 저희 서버로 전송됩니다."
 
-Namespace Engine (31 keys)
+Namespace Engine (32 keys)
 	BuildingCompressedAudioTaskStatus = "{AudioFormat} 압축 오디오 포맷 {SoundNodeName} 웨이브 빌드중..."
+	UpdateReflectionCaptures = "{0} 에 대한 리플렉션 캡처 업데이트"
 	BuildingStaticMeshStatus = "{StaticMeshName} 스태틱 메시 빌드중..."
 	BuildTextureStatus = "텍스처 빌드: {TextureName} ({TextureFormatName}, {TextureResolutionX}X{TextureResolutionY})"
 	ChangingPreviewRenderingLevelMessage = "프리뷰 렌더링 레벨 변경"
 	UsedCheatCommands = "넷플레이에서 허용되지 않은 콘솔 명령이 사용되었습니다. 경기 생성을 위해서는 게임을 재시작해야 합니다."
 	UnableToChangeSoundClassChildDueToInfiniteLoopNotification = "루프가 생기므로 SoundClass 자손을 바꿀 수 없습니다."
+	UnableToChangeSoundSubmixChildDueToInfiniteLoopNotification = "루프가 되므로 사운드 서브믹스를 변경할 수 없었습니다."
 	EditorNotSupported = "이 모드에는 에디터가 지원되지 않습니다."
 	FailedToLoadDefaultMap = "'{0}' 오류입니다. 종료합니다."
 	NetworkInit = "네트워크 레이어 초기화 오류입니다."
@@ -1861,7 +1881,6 @@ Raw: {TotalRaw} - 압축: {TotalAfterCompressed}
 	UnknownScaleCompressionFormat = "미확인 또는 미지원 Scale 압축 포맷입니다 ({0})."
 	UnknownRotationCompressionFormat = "알려지지 않았거나 지원되지 않는 로테이션 압축 포맷입니다 ({0})."
 	UnknownTranslationCompressionFormat = "알려지지 않았거나 지원되지 않는 트랜슬레이션 압축 포맷입니다 ({0})."
-	BeginReflectionCapturesTask = "리플렉션 캡처 업데이트중..."
 	ConnectionFailed = "호스트와의 접속이 끊어졌습니다."
 
 Namespace Engine.BufferVisualizationMaterials (21 keys)
@@ -1955,7 +1974,7 @@ Namespace EnvQueryGenerator (55 keys)
 	SimpleGridDescriptionWithProjection = "{Description}, {ProjectionDescription}"
 	GeometryBriefDescription = "{Channel} 채널의 {ExtentDescription} {ProjectionTraceDesc}"
 
-Namespace ErrorChecking (17 keys)
+Namespace ErrorChecking (18 keys)
 	MapCheck_Message_DuplicateLevelInfo = "레벨 정보를 복제합니다."
 	MapCheck_Message_LightComponentNull = "라이트 액터에 NULL 라이트 컴포넌트 프로퍼티가 있습니다 - 지워주세요!"
 	MapCheck_Message_RebuildLighting = "맵 라이팅을 리빌드해야 합니다."
@@ -1973,6 +1992,7 @@ Namespace ErrorChecking (17 keys)
 	MapCheck_Message_ActorIsObselete_Abstract = "{ActorName} : 뒤쳐져 제거해야 합니다(클래스가 추상입니다)!"
 	MapCheck_Message_ActorIsObselete_Deprecated = "{ActorName} : 뒤쳐져 제거해야 합니다(클래스가 폐기되었습니다)!"
 	MapCheck_Message_StaticPhysNone = "{ActorName} : 스태틱 오브젝트인데 bSimulatePhysics 가 _True_ 로 설정되었습니다."
+	IsDataValid_Failed_CheckForErrors = "{ActorName} 이름이 유효하지 않습니다. 자세한 내용은 MapCheck 로그 메시지를 확인하세요."
 
 Namespace Events (5 keys)
 	AnalogInput = "아날로그 입력 키({0})"
@@ -2066,6 +2086,10 @@ Namespace FAndroid_DXTTargetPlatformModule (2 keys)
 	Android_DXT = "안드로이드 (DXT)"
 	Android_DXT_ShortName = "DXT"
 
+Namespace FAndroid_ETC1aTargetPlatformModule (2 keys)
+	Android_ETC1a = "안드로이드 (ETC1a)"
+	Android_ETC1a_ShortName = "ETC1a"
+
 Namespace FAndroid_ETC1TargetPlatformModule (2 keys)
 	Android_ETC1 = "안드로이드 (ETC1)"
 	Android_ETC1_ShortName = "ETC1"
@@ -2114,9 +2138,6 @@ Namespace FastXml (15 keys)
 	UserAbortedOnComment = "파싱 프로세스를 사용자가 중단시켰습니다."
 	UserAbortedOnElement = "파싱 프로세스를 사용자가 중단시켰습니다."
 	UserAbortedOnFile = "이 파일의 처리를 사용자가 취소했습니다."
-
-Namespace FCurveHandle (1 keys)
-	CurveFunction_Error = "FCurveHandle 에 대해 미확인 커브 완화 함수 유형 [%i] 입니다."
 
 Namespace FDeviceManagerModule (2 keys)
 	DeviceManagerTabTitle = "디바이스 매니저"
@@ -2323,7 +2344,7 @@ Namespace HeadMountedDisplay (12 keys)
 1 / True / Yes 는 켜고, 0 / False / No 는 끕니다."
 
 Namespace HierarchicalLODUtils (9 keys)
-	HLODError_MeshNotBuildTwo = " Mesh has more that 65535 vertices, incompatible with mobile; forcing 16-bit (will probably cause rendering issues)."
+	HLODError_MeshNotBuildTwo = "메시의 버텍스 수가 65535 개를 초과하여, 모바일과 호환되지 않습니다. 16 비트로 강제 설정합니다 (렌더링 이슈가 생길 수 있습니다)."
 	UndoAction_AddActorToCluster = "클러스터에 액터 추가"
 	UndoAction_BuildProxyMesh = "클러스터에 대한 프록시 메시 빌드"
 	UndoAction_CreateNewCluster = "새 클러스터 생성"
@@ -2342,7 +2363,8 @@ Namespace HTML5TargetSettings (1 keys)
 Namespace HUD (1 keys)
 	PIE_Warning_Message_CanvasCallOutsideOfDrawCanvas = "Canvas Draw 함수는 DrawHUD 이벤트 처리 도중에만 호출할 수 있습니다."
 
-Namespace ImageComparer (5 keys)
+Namespace ImageComparer (6 keys)
+	DifferentImageSizes = "Image comparison failed as sizes do not match, {WidthA}x{HeightA} vs {WidthB}x{HeightB}"
 	ErrorReadingRawDataA = "이미지 A 를 압축 해제할 수 없습니다."
 	PNGWrapperMissing = "PNG 이미지 프로세서 위치를 찾을 수 없습니다."
 	ErrorParsingImageA = "이미지를 해석할 수 없습니다."
@@ -2588,7 +2610,7 @@ Namespace Internationalization (2 keys)
 	InvariantCultureDisplayName = "불변 언어 (불변 국가)"
 	ComputerMemoryFormatting = "{Number} {Unit}"
 
-Namespace IOSTargetSettings (80 keys)
+Namespace IOSTargetSettings (90 keys)
 	IOSUpgradeInfoMessage = "<RichTextBlock.TextHighlight>4.6 이전 버전 사용자분들께 공지</>: 이제 빌드시 Info.plist 를 <RichTextBlock.TextHighlight>생성</>하므로, .plist 파일을 커스터마이징한 경우 모든 변경사항을 아래 세팅에 넣어야 할 것입니다. 참고로 프로젝트 디렉토리에 있는 .plist 파일은 건드리지 않으니, 참고로 사용할 수 있습니다."
 	CertificateMessage = "<RichTextBlock.TextHighlight>주</>: Certificate 가 선택되지 않으면 초록색으로 표시된 것이 IPA Sigining 에 사용됩니다."
 	ProvisionMessage = "<RichTextBlock.TextHighlight>주</>: 선택된 Provision 이 없으면 초록색으로 표시된 것이 IPA Signing 에 사용됩니다."
@@ -2607,6 +2629,8 @@ Namespace IOSTargetSettings (80 keys)
 	ProvisionListFileColumnHeader = "파일"
 	GLES2Deprecation = "GLES2 는 4.17 부터 지원되지 않을 것입니다."
 	GenerateSSHKey = "SSH 키 생성"
+	IOSTeamIDLabel = "IOS Team ID"
+	IOSTeamID = "IOSTeamID"
 	NameContainsInvalidCharacters = "식별자에는 0-9, A-Z, a-z, 점, 하이픈, [PROJECT_NAME] 만 포함시킬 수 있습니다."
 	ImportCertificate = "Certificate 임포트"
 	ImportCertificateDialogTitle = "Certificate 임포트"
@@ -2630,6 +2654,9 @@ Namespace IOSTargetSettings (80 keys)
 	LaunchImage_iPhone6Plus_Portrait = "아이폰 6 플러스 세로 모드 실행"
 	LaunchImage_iPhone6_Landscape = "아이폰 6 세로 실행"
 	LaunchImage_iPhone6 = "아이폰 6 세로 실행"
+	LaunchImage_iPhoneX_Landscape = "아이폰 X 가로 모드 실행"
+	LaunchImage_iPhoneX_Portrait = "아이폰 X 세로 모드 실행"
+	AppIcon_Marketing = "마케팅 아이콘"
 	CertificateViewerNoValidProvisions = "Certificate 를 찾지 못했습니다. 임포트해 주세요."
 	ProvisionViewerNoValidProvisions = "Provision 을 찾지 못했습니다. 임포트해 주세요."
 	SSHPrivateKeyOverridePathToolTip = "기존 SSH 프라이빗 키를 지정된 위치에 있는 것으로 덮어씁니다."
@@ -2640,6 +2667,7 @@ Namespace IOSTargetSettings (80 keys)
 	RSyncUserNameLabel = "RSync 사용자 이름"
 	RemoteBuildingGroupName = "원격 빌드 옵션"
 	RemoteServerNameLabel = "원격 서버 이름"
+	SpotlightIcon_Retina_HD_iOS7 = "Retina HD iOS7 Spotlight Icon"
 	SpotlightIcon_Retina_iOS7 = "레티나 iOS7 스포트라이트 아이콘"
 	CertificateListStatusColumnHeader = "상태"
 	ProvisionListStatusColumnHeader = "상태"
@@ -2663,7 +2691,11 @@ Namespace IOSTargetSettings (80 keys)
 	AppIcon_iPad_iOS6 = "아이패드 iOS6 앱 아이콘"
 	SpotlightIcon_iPad_iOS6 = "아이패드 iOS6 스포트라이트 아이콘"
 	AppIcon_iPad_iOS7 = "아이패드 iOS7 앱 아이콘"
+	NotificationIcon_iPhone = "iPhone Notification Icon"
 	AppIcon_iPhoneRetina_iOS8 = "아이폰 플러스 레티나 iOS8 앱 아이콘"
+	NotificationIcon_iPhoneRetina_HD = "iPhone Retina HD Notification Icon"
+	SettingsIcon_iPhoneRetina_HD = "iPhone Retina HD Settings Icon"
+	NotificationIcon_iPhoneRetina = "iPhone Retina Notification Icon"
 	SettingsIcon_iPhoneRetina = "아이폰 레티나 세팅 아이콘"
 	AppIcon_iPhoneRetina_iOS6 = "아이폰 레티나 iOS6 앱 아이콘"
 	AppIcon_iPhoneRetina_iOS7 = "아이폰 레티나 iOS7 앱 아이콘"
@@ -2753,8 +2785,7 @@ Namespace LatentActionManager (2 keys)
 Namespace Launch (1 keys)
 	Error_ResolutionTooLow = "이 게임을 실행하기엔 현재 해상도가 너무 낮습니다."
 
-Namespace LaunchEngineLoop (2 keys)
-	RequiresNonoptionalCPUFeatures = "오류: 이 어플리케이션은 특정 인스트럭션 세트를 지원하는 CPU 를 요합니다."
+Namespace LaunchEngineLoop (1 keys)
 	RequiresGamePrefix = "오류: UE4Editor 는 전달되는 게임 이름에 'Game' 을 붙이지 않습니다.
 전체 이름을 사용해야 합니다.
 '{0}' 대신 '{0}Game' 을 사용해 보세요."
@@ -2801,10 +2832,10 @@ Namespace Linker (15 keys)
 	FailedLoad_Referenced = "레퍼런싱한 것:"
 
 Namespace LinkerLoad (11 keys)
-	ImportFailure = " : Failed import for {0}"
-	LoadWarningSuffix_circularredirection = " [circular redirection]"
-	LoadWarningSuffix_privateobject = " [private]"
-	LoadWarningSuffix_redirection = " [redirection]"
+	ImportFailure = ": {0} 에 대한 임포트 실패"
+	LoadWarningSuffix_circularredirection = "[순환 리디렉션]"
+	LoadWarningSuffix_privateobject = "[프라이빗]"
+	LoadWarningSuffix_redirection = "[리디렉션]"
 	LoadingTransientInstance = "디스크에서 트랜션트 클래스의 인스턴스를 로드하려 합니다. 패키지: '{PackageName}' 오브젝트: '{ObjectName}' 클래스: '{ClassName}'"
 	CreateExportFailedToLoadOuter = "CreateExport: '{ObjectName}' 리소스에 대한 {OuterName} Outer 로드에 실패했습니다."
 	CreateExportFailedToLoadOuterIsRedirector = "CreateExport: '{ObjectName}' 리소스에 대한 {OuterName} Outer 로드에 실패했습니다."
@@ -2968,6 +2999,10 @@ Namespace MaterialExpressions (6 keys)
 	CamRelativeWorldPositonExcludingOffsetsText = "카메라 상대 월드 포지션 (머티리얼 오프셋 제외)"
 	Error_CircularFunctionDependency = "순환 의존 고리가 형성되기에 그 머티리얼 함수는 사용할 수 없습니다."
 
+Namespace MaterialLayersFunctions (2 keys)
+	Background = "백그라운드"
+	LayerPrefix = "레이어 {0}"
+
 Namespace MaterialParameterCollectionTrack (3 keys)
 	InvalidParameterText = "시퀀스에 유효하지 않은 파라미터 이름 또는 유형이 적용되었습니다."
 	OnText = "on"
@@ -3009,7 +3044,7 @@ Namespace MeshUtils (13 keys)
 	ActorNameSingular = ""{0}""
 	ActorNamePlural = "액터"
 	AutomaticMeshReductionPlugin = "자동"
-	AvailableReductionPluginsMenuSection = "사용가능 플러그인"
+	AutomaticProxyLODMeshReductionPlugin = "Automatic"
 	ConvertToStaticMeshPickName = "새로운 스태틱 메시 위치 선택"
 	ConvertSelectedActorsToStaticMeshTooltip = "선택된 액터의 메시들을 새로운 스태틱 메시 애셋으로 변환합니다. 스태틱 메시와 스켈레탈 메시를 지원합니다."
 	ConvertSelectedActorsToStaticMeshText = "{0} -> 스태틱 메시로 변환"
@@ -3054,10 +3089,11 @@ Namespace MessageLog (12 keys)
 	AggregateMessagesFormatter = "{PreviousMessage}{NewMessage}
 "
 
-Namespace MetalRHI (3 keys)
+Namespace MetalRHI (4 keys)
 	ShaderDebugAuthFail = "최적화된 Metal 셰이더 디버깅에 필요한 디렉토리에 접근할 수 없습니다. 느린 디버깅용 셰이더 실행시간 컴파일로 전환합니다."
 	ShaderPlatformUnavailableTitle = "셰이더 플랫폼 사용불가"
 	ShaderPlatformUnavailable = "셰이더 플랫폼: {ShaderPlatform} 쿠킹이 되지 않았습니다! 프로젝트의 타겟 세팅에서 이 셰이더 플랫폼을 활성화시켜 주세요."
+	ShaderVersionUnsupported = "현재 OS 버전이 프로젝트에 필수인 {Version} 버전을 지원하지 않습니다. 이 프로젝트를 실행하려면 {RequiredOS} 버전으로 업그레이드해야 합니다."
 
 Namespace MiscSwitchMessages (13 keys)
 	Connected = "접속됨"
@@ -3182,7 +3218,8 @@ Namespace NativeCodeGenerationTool (16 keys)
 종속성 미변환, wrapper 구조체가 필요합니다:
 "
 	ClassName = "클래스 이름"
-	CppNotSaved = "cpp 파일이 저장되지 않았습니다. 자세한 내용은 로그를 확인하세요. %s "
+	CppNotSavedFmt = "Cpp file wasn't saved. Check log for details. {0}
+"
 	Dependencies = "종속성"
 	ConvertedDependencies = "감지된 종속성: "
 	Generate = "생성"
@@ -3190,7 +3227,8 @@ Namespace NativeCodeGenerationTool (16 keys)
 	GeneratingCppFiles = "C++ 파일 생성중.."
 	HeaderDirectory = "헤더 디렉토리"
 	HeaderPath = "헤더 경로"
-	HeaderNotSaved = "헤더 파일이 저장되지 않았습니다. 자세한 내용은 로그를 확인하세요. %s "
+	HeaderNotSavedFmt = "Header file wasn't saved. Check log for details. {0}
+"
 	InvalidBlueprint = "유효하지 않은 블루프린트 "
 	NoConvertedAssets = "종속성을 찾지 못했습니다. "
 	Regenerate = "재생성"
@@ -3208,6 +3246,10 @@ Namespace NetworkErrors (6 keys)
 	NETDISCONNECTMSG = "넷접속해제 메시지"
 	ClientReliableBufferOverflow = "나가는 신뢰성 버퍼 오버플로우"
 	GenericPendingConnectionFailed = "대기중이던 접속이 실패했습니다."
+
+Namespace OpenGLDrv (2 keys)
+	CannotDetermineGraphicsDriversVendorTitle = "Cannot determine driver vendor."
+	CannotDetermineGraphicsDriversVendor = "Unknown graphics drivers '{0}' by '{1}' are installed on this system. You may experience visual artifacts and other problems."
 
 Namespace OutputLog (6 keys)
 	UnknownTargetDevice = "<미확인 디바이스>"
@@ -3241,12 +3283,13 @@ Namespace PlatformAudio (3 keys)
 	Reverb = "리버브에 사용할 오디오 플러그인을 선택하세요. 원하는 리버브 플러그인을 드롭다운 메뉴에서 찾을 수 없으면, 플러그인 패널에서 켜져있는지 확인하세요."
 	Spatialization = "공간화에 사용할 오디오 플러그인을 선택하세요. 원하는 공간화 플러그인을 드롭다운 메뉴에서 찾을 수 없으면, 플러그인 패널에서 켜져있는지 확인하세요."
 
-Namespace PlatformInfo (29 keys)
+Namespace PlatformInfo (30 keys)
 	Android = "안드로이드"
 	Android_ASTC = "안드로이드 (ASTC)"
 	Android_ATC = "안드로이드 (ATC)"
 	Android_DXT = "안드로이드 (DXT)"
 	Android_ETC1 = "안드로이드 (ETC1)"
+	Android_ETC1a = "안드로이드 (ETC1a)"
 	Android_ETC2 = "안드로이드 (ETC2)"
 	Android_Multi = "안드로이드 (멀티)"
 	Android_PVRTC = "안드로이드 (PVRTC)"
@@ -3408,8 +3451,10 @@ Namespace RealtimeProfileLineGraph (4 keys)
 Namespace RealtimeProfiler (1 keys)
 	WindowTitle = "실시간 프로파일러"
 
-Namespace Renderer (19 keys)
+Namespace Renderer (21 keys)
 	LinuxInsufficientDriversText = "OpenGL 컨텍스트를 생성할 수 없습니다. 드라이버와 하드웨어가 최소 OpenGL 4.3 을 지원하는지 확인( 또는 -opengl3 로 다시 실행)하세요."
+	LinuxCannotCreatePlatformWindow = "Cannot create OpenGL-enabled SDL window. SDL error: '{0}'."
+	LinuxCannotCreatePlatformWindowTitle = "Cannot create SDL window."
 	DFAODisabled = "디스턴스 필드 AO 는 스케일 조절 옵션을 통해 비활성화됩니다."
 	LinuxInsufficientDriversTitle = "드라이버 또는 하드웨어 불충분"
 	MobileDynamicCSMDistFieldShadows = "모바일 CSM+스태틱은 프로젝트에 디스턴스 필드 섀도우 옵션이 켜져있어야 합니다."
@@ -3549,13 +3594,17 @@ Namespace SCollisionAnalyzer (20 keys)
 Namespace SComboBox (1 keys)
 	ContentWarning = "제공된 콘텐츠 없음"
 
-Namespace ScreenshotComparison (5 keys)
+Namespace ScreenshotComparison (9 keys)
+	AddAllNewReports = "Add All New Reports"
+	AddAllNewReportsTooltip = "Adds all new screenshots contained in the reports."
 	DeleteAllReports = "모든 리포트 삭제"
 	DeleteAllReportsTooltip = "현재 리포트를 전부 삭제합니다. 리포트는 사용자가 해결하기 전까지 제거되지 않으므로, 
 리포트 상태 리셋만 원하는 경우, 여기서 지우고 테스트를 다시 실행시키세요."
 	ColumnHeader_Delta = "로컬 | 글로벌 데이터"
 	ColumnHeader_Name = "이름"
 	ColumnHeader_Preview = "프리뷰"
+	ReplaceAllReports = "Replace All Reports"
+	ReplaceAllReportsTooltip = "Replaces all screenshots containing a different result in the reports."
 
 Namespace ScriptCore (20 keys)
 	AccessNoneNoContext = "None 에 접근"
@@ -3627,7 +3676,7 @@ Namespace SDeviceBrowserDeviceAdder (10 keys)
 	UserNameLabel = "사용자:"
 
 Namespace SDeviceBrowserDeviceListRow (5 keys)
-	RemotelyHint = " (remotely)"
+	RemotelyHint = "(원격)"
 	ShareCheckBoxToolTip = "이 박스를 체크하면 이 디바이스를 네트워크의 다른 사용자와 공유합니다."
 	StatusConnected = "접속됨"
 	StatusDisconnected = "접속끊김"
@@ -3887,6 +3936,10 @@ Namespace SFilterWidget (8 keys)
 	EnableAllTooltip = "모든 카테고리를 켭니다."
 	UseVerbosity = "사용: {0}"
 
+Namespace ShaderCompiler (2 keys)
+	LaunchingShaderCompileWorkerFailedTitle = "Unable to launch ShaderCompileWorker."
+	LaunchingShaderCompileWorkerFailed = "Unable to launch {0} - make sure you built ShaderCompileWorker."
+
 Namespace ShaderCompilingManager (4 keys)
 	CompilingGlobalShaderStatus = "글로벌 셰이더 컴파일중..."
 	CompilingShadersStatus = "셰이더 컴파일중..."
@@ -3898,11 +3951,11 @@ Namespace ShaderFormatsPropertyDetails (20 keys)
 	D3DES31 = "Direct3D (ES3.1, 모바일 프리뷰)"
 	D3DSM4 = "Direct3D 10 (SM4)"
 	D3DSM5 = "Direct3D 11+ (SM5)"
-	MetalES2 = "Mac Metal (ES2, 모바일 프리뷰)"
-	MetalES3.1 = "Mac Metal (ES3.1, 모바일 프리뷰)"
-	MetalSM4 = "Mac Metal 1.0 (SM4, OS X El Capitan 10.11.4 이상)"
-	MetalMRTMac = "Mac Metal 1.1+ (SM5 MRT 프리뷰, OS X El Capitan 10.11.5 이상)"
-	MetalSM5 = "Mac Metal 1.1+ (SM5, OS X El Capitan 10.11.5 이상)"
+	MetalSM5 = "Mac Metal 데스크탑 렌더러 테셀레이션 포함 (SM5, Metal 1.2+, macOS Sierra 10.12.6 이상)"
+	MetalSM5_NOTESS = "Mac Metal 데스크탑 렌더러 테셀레이션 제외 (SM5, Metal 1.2+, macOS Sierra 10.12.6 이상)"
+	MetalES3.1 = "Mac Metal 고사양 모바일 프리뷰 (ES3.1)"
+	MetalES2 = "Mac Metal 저사양 모바일 프리뷰 (ES2)"
+	MetalMRTMac = "Mac Metal iOS/tvOS 데스크탑 렌더러 프리뷰 (SM5)"
 	OpenGLES2PC = "OpenGL (ES2, 모바일 프리뷰)"
 	OpenGLES31PC = "OpenGL (ES3.1, 모바일 프리뷰)"
 	OpenGL3 = "OpenGL 3 (SM4)"
@@ -3912,8 +3965,8 @@ Namespace ShaderFormatsPropertyDetails (20 keys)
 	VulkanES31 = "Vulkan (ES 3.1)"
 	VulkanSM4 = "Vulkan (SM4)"
 	VulkanSM5 = "Vulkan (SM5)"
-	Metal = "iOS/tvOS Metal 1.0 (ES 3.1)"
-	MetalMRT = "iOS/tvOS Metal 1.1+ (SM5, iOS/tvOS 9.0 이상)"
+	MetalMRT = "iOS/tvOS Metal 데스크탑 렌더러 (SM5, Metal 1.2+, iOS/tvOS 10.0 이상)"
+	Metal = "iOS/tvOS Metal 모바일 렌더러 (ES3.1, Metal 1.1+, iOS/tvOS 9.0 이상)"
 
 Namespace ShadowMap2D (1 keys)
 	BeginEncodingShadowMapsTask = "섀도 맵 인코딩중"
@@ -3942,11 +3995,11 @@ Namespace SkeletalMeshComponentPhysics (1 keys)
 	InvalidBodies = "잘못된 바디 : 콜리전이 켜져있는지, 루트 본의 피직스 애셋에 바디가 있는지 확인하세요."
 
 Namespace Skeleton (6 keys)
-	SkeletonBuildLinkupMissingBones3 = "  needs. They will be added now. Please save the Skeleton!"
-	SkeletonBuildLinkupMissingBones2 = " is missing bones that SkeletalMesh "
+	SkeletonBuildLinkupMissingBones3 = "지금 추가합니다. 스켈레톤을 저장해 주세요!"
+	SkeletonBuildLinkupMissingBones2 = "스켈레탈 메시에 필요한 본이 없습니다."
 	HandleSkeletonHierarchyChange_Format = "애니메이션 리빌드: {0}"
 	HandleSkeletonHierarchyChange = "애니메이션 리빌드중..."
-	SkeletonBuildLinkupMissingBones1 = "스켈레톤에 "
+	SkeletonBuildLinkupMissingBones1 = "이 스켈레톤에는"
 	SkeletonBuildLinkupMissingBones = "{0} 스켈레톤에는 {1} 스켈레탈 메시에 필요한 본이 빠져있습니다. 지금 추가할테니, 스켈레톤 저장 잊지 마세요!"
 
 Namespace SkyLightComponent (1 keys)
@@ -3954,7 +4007,7 @@ Namespace SkyLightComponent (1 keys)
 
 Namespace Slate (3 keys)
 	ExpandToolbar = "클릭하면 툴바를 펼칩니다."
-	FallbackFont = "NanumGothic"
+	LegacyFallbackFont = "../../Editor/Slate/Fonts/NanumGothic"
 	SearchHint = "검색"
 
 Namespace SlateCore (1 keys)
@@ -3993,7 +4046,7 @@ Namespace SlateStyleSet (9 keys)
 	UknownSlateVector = "스타일에 '{0}' 벡터 프로퍼티를 찾을 수 없습니다."
 
 Namespace SlateTestSuite (1 keys)
-	UserWidgetExampleTitle = " Implemented in the .cpp : {0}"
+	UserWidgetExampleTitle = ".cpp 에 구현됨: {0}"
 
 Namespace SlateWidgetStyleSet (1 keys)
 	LoadingError = "같은 이름의 슬레이트 위젯 스타일이 다수 있습니다. 이름: '{0}', 첫째 애셋: '{1}', 둘째 애셋: '{2}'."
@@ -4124,12 +4177,15 @@ Namespace SourceControlProgress (3 keys)
 	ContinueButtonLabel = "계속"
 	LongTaskMessage = "작업 완료에 오랜 시간이 걸리고 있습니다. 취소를 눌러 현재 작업을 중지했다가 나중에 재시도할 수 있습니다."
 
-Namespace SOutputLog (16 keys)
+Namespace SOutputLog (19 keys)
 	AddFilterToolTip = "출력 로그 필터를 추가합니다."
 	Categories = "카테고리"
+	ConsoleCommandExecutorDisplayName = "Cmd"
+	ConsoleCommandExecutorHintText = "콘솔 명령 입력"
 	ShowErrors = "오류"
-	Category_Tooltip = "출력 로그에 다음 카테고리를 표시하도록 필터를 적용합니다: %s"
+	ConsoleCommandExecutorDescription = "언리얼 콘솔 명령 실행"
 	ShowAllCategories_Tooltip = "출력 로그 필터를 모든 카테고리를 표시하도록 설정합니다."
+	Category_Tooltip = "출력 로그에 다음 카테고리를 표시하도록 필터를 적용합니다: %s"
 	ShowErrors_Tooltip = "출력 로그에 오류를 표시하도록 필터를 적용합니다."
 	ShowMessages_Tooltip = "출력 로그에 메시지를 표시하도록 필터를 적용합니다."
 	ShowWarnings_Tooltip = "출력 로그에 경고를 표시하도록 필터를 적용합니다."
@@ -4661,13 +4717,15 @@ Namespace SRotatorInputBox (7 keys)
 	Yaw_ToolTip = "요 값"
 	Yaw_Label = "Z"
 
-Namespace SScreenShotBrowser (8 keys)
+Namespace SScreenShotBrowser (10 keys)
 	AddAlternative = "대안으로 추가"
 	AddNew = "신규 추가!"
+	AddPlatformSpecificNew = "플랫폼 전용 신규 추가"
 	Difference = "차이"
 	GroundTruth = "그라운드 트루스"
 	Incoming = "들어옴"
 	Replace = "대체"
+	ShowDelta = "델타 표시"
 	Unknown = "미확인 테스트, 발견된 메타데이터가 없습니다."
 	LocalvGlobalDelta = "{0} | {1}"
 
@@ -4862,8 +4920,8 @@ Namespace STableViewTesting (33 keys)
 	UnsupprtedColumnText = "미지원 열: {0}"
 
 Namespace StaticMeshActor (4 keys)
-	MapCheck_Message_StaticMeshNull = "스태틱 메시 액터에 공백 StaticMesh 프로퍼티가 있습니다."
-	MapCheck_Message_StaticMeshComponent = "스태틱 메시 액터에 NULL 스태틱 메시 컴포넌트 프로퍼티가 있습니다 - 지워 주세요."
+	MapCheck_Message_StaticMeshNull = "{ActorName} 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다."
+	MapCheck_Message_StaticMeshComponent = "{ActorName} 스태틱 메시 액터에 NULL StaticMeshComponent 프로퍼티가 있습니다. 지워주세요."
 	MapCheck_Message_SameLocation = "{ActorName0} 위치가 {ActorName1} 위치와 같습니다."
 	MapCheck_Message_VertexColorsNotMatchOriginalMesh = "{ActorName} (LOD {LODIndex}) 에 손수 칠한 버텍스 컬러가 있으나 원본 스태틱 메시 ({StaticMeshName}) 와 일치하지 않습니다."
 
@@ -4898,7 +4956,7 @@ Namespace StatsFile (1 keys)
 	FileMetaDesc_Fmt = "통계 파일: 경과시간: {0}, 파일크기: {1}"
 
 Namespace STestSuite (204 keys)
-	WidgetDecoratorTooltip = " With the <RichText.TextHighlight>Widget Decorator</> you can <RichText.TextHighlight>inline any widget</> in your text!"
+	WidgetDecoratorTooltip = "<RichText.TextHighlight>위젯 데코레이터</> 를 통해 텍스트에 <RichText.TextHighlight>어떤 위젯이든 삽입</> 할 수 있습니다!"
 	NotANumberWarning = "'{0}': 숫자가 아닙니다."
 	ThreeCharsError = "'{0}' : 세 글자가 아닙니다."
 	RichText.HowItWorks = "<RichText.Header>어떤 역할을 하나요?</>
@@ -5283,7 +5341,7 @@ Namespace SWidgetReflector (53 keys)
 	SnapshotTargetDisplayNameFmt = "{0} ({1})"
 
 Namespace SWindow (1 keys)
-	Window_TitleFmt = " Window : {0} "
+	Window_TitleFmt = "창: {0} "
 
 Namespace SwitchDynamicRHI (1 keys)
 	UnsupportedRHI = "선택된 RHI 는 지원되지 않습니다."
@@ -5683,9 +5741,9 @@ Namespace UMG (34 keys)
 	Panel = "패널"
 	Primitive = "프리미티브"
 	WidgetTreeVerify = "위젯 템플릿의 프로퍼티가 제대로 로드되지 않았습니다, {0}."
-	UMG WidgetBlueprint Library: SetInputMode_GameAndUI = "SetInputMode_GameAndUI 는 유효한 플레이어 컨트롤러를 타겟으로 기대합니다."
-	UMG WidgetBlueprint Library: SetInputMode_GameOnly = "SetInputMode_GameOnly 는 유효한 플레이어 컨트롤러를 타겟으로 기대합니다."
-	UMG WidgetBlueprint Library: SetInputMode_UIOnly = "SetInputMode_UIOnly 는 유효한 플레이어 컨트롤러를 타겟으로 기대합니다."
+	UMG WidgetBlueprint Library: SetInputMode_GameAndUI = "SetInputMode_GameAndUI 는 유효 플레이어 컨트롤러를 'PlayerController' 타겟으로 기대합니다."
+	UMG WidgetBlueprint Library: SetInputMode_GameOnly = "SetInputMode_GameOnly 는 유효 플레이어 컨트롤러를 'PlayerController' 타겟으로 기대합니다."
+	UMG WidgetBlueprint Library: SetInputMode_UIOnly = "SetInputMode_UIOnly 는 유효 플레이어 컨트롤러를 'PlayerController' 타겟으로 기대합니다."
 	NativeWidgetHostText = "Slate Widget Host"
 	SpecialFX = "특수 효과"
 	TextBlockDefaultValue = "텍스트 블록"
@@ -6016,8 +6074,7 @@ LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9."
 	Module_LocationBoneSocket_AutoFill = "본/소켓 이름 자동채움"
 	SomeNotifiesWereNotCopiedF = "대상 시퀀스가 짧아서 {0} 노티파이가 복사되지 않았습니다."
 	BlockingVolumeSF = "블로킹"
-	Error_RetryCompilation = "C++ compilation of module {0} failed!  Details in the log.  
-Fix the error then click Ok to retry."
+	Error_RetryCompilation = "{0} 모듈의 C++ 컴파일에 실패했습니다! 자세한 내용은 로그를 참고하세요.  \\n오류를 고친 뒤 OK 를 클릭하면 재시도합니다."
 	Cancel = "취소"
 	MeshMaterialsWithNamedMaterialsError = "필수 모듈에서 '네임드 머티리얼 오버라이드'를 사용할 때는 '메시 머티리얼 모듈'을 사용할 수 없습니다."
 	MeshMaterialsWithOverrideMaterialError = "메시 타입 데이터 모듈에서 '오버라이드 머티리얼' 사용시에는 '메시 머티리얼 모듈'을 사용할 수 없습니다."
@@ -6099,9 +6156,7 @@ Fix the error then click Ok to retry."
 	AssetTools_ExportObjects_CancelRemaining = "다음 {0} 개 파일 익스포트도 취소할까요?"
 	Yes = "예"
 	YesToAll = "모두 예"
-	Error_RetryShaderCompilation = "{0}
-
-Retry compilation?"
+	Error_RetryShaderCompilation = "{0}\\n\\n컴파일을 재시도할까요?"
 	GameWindowTitle = "{GameName}"
 
 Namespace UnrealEditor (6 keys)
@@ -6112,8 +6167,9 @@ Namespace UnrealEditor (6 keys)
 	OutputLogTooltipText = "출력 로그 탭을 엽니다."
 	OutputLogTab = "출력 로그"
 
-Namespace UnrealEngine (10 keys)
+Namespace UnrealEngine (11 keys)
 	BlueprintInLevelHadCompileErrorMessage = "블루프린트 컴파일 오류"
+	UNSUPPORTEDDYNRES = "DYNAMIC RESOLUTION IS NOT SUPPORTED ON THIS PLATFORM"
 	MEMPROFILINGWARNINGLLM = "'디버그 메모리' 활성화 없이 LLM 이 활성화되었습니다."
 	Levelstreamingfrozen = "레벨 스트리밍 동결..."
 	NAMEDEVENTSENABLED = "네임드 이벤트 활성화됨"
@@ -6122,12 +6178,13 @@ Namespace UnrealEngine (10 keys)
 	GCPROFILINGWARNING = "GC 검증 켠 채로 프로파일링!"
 	PrepareMapChangeError = "PrepareMapChange 에 잘못된 레벨 이름이 있습니다! 자세한 정보는 (PREPAREMAPCHANGE 태그가 붙은) 로그를 확인하세요."
 	OutOfTextureMemory = "텍스처 메모리가 부족하여, 깨지거나 GPU 가 멈출 수 있습니다!"
-	MEMPROFILINGWARNING = "경고: '디버그 메모리' 를 켜고 실행합니다!"
+	LLMWARNING = "WARNING: Running with Debug Memory Enabled!"
 
-Namespace UObject (3 keys)
-	KilobytesSuffix = "Kb"
-	Size = "크기"
-	SizeTooltip = "애셋의 킬로바이트 단위 크기입니다."
+Namespace UObject (4 keys)
+	PrimaryAssetNameTooltip = "애셋 매니저 시스템으로 등록된 논리 이름입니다."
+	PrimaryAssetName = "프라이머리 애셋 이름"
+	PrimaryAssetType = "프라이머리 애셋 유형"
+	PrimaryAssetTypeTooltip = "애셋 매니저 시스템으로 등록된 유형입니다."
 
 Namespace UObjectToolTips (5 keys)
 	CameraFilmbackSettings:SensorWidth = "필름백 또는 디지털 센서의 가로 크기로, mm 단위입니다."

@@ -1,7 +1,7 @@
 22 namespaces
-2420 values
+2432 values
 
-Namespace Global (2897 keys)
+Namespace Global (2920 keys)
 	2559D78C40005E5221F26093CB976283 = " 収集 {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " 要求"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = "サウンドデザイナー/音楽プロデューサー"
@@ -30,6 +30,7 @@ Hoxxesはあなたの友人ではない！""
 	432B2F5F4E1BE02385DA2E8E0FAD1CBC = ""我々はできる!""
 	64EC61C944E03B358AF914AE7EDB71B2 = ""Yes, You Can!""
 	757542D044AE5468809922ADDD77C794 = "+20%"
+	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
 	78DFA13846CB82653B1E9FB81E88F2F2 = "- BAY EMPTY -"
 	8BE6B127423859AEED1AE1834524940A = "- BAY EMPTY -"
 	BB94DE9543476E1F28A7CDA3E115EC27 = "- EMPTY -"
@@ -43,6 +44,9 @@ Hoxxesはあなたの友人ではない！""
 	610A35A6460AE74E8D2B5B9D80081A9A = "…45キロ未満は銃と名乗れない。"
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
 	7CFB443C471CE28E2E8BFAAE8F278274 = "0"
+	98DA5AFC476EB0257867C78AB7F8BDF2 = "0"
+	C24C3A3F469A92FA5387558D958A2783 = "0"
+	F43D2D88431C48E65D1E41A2D999D89A = "0"
 	BCBBDA65423104563FCC69AD9103A01A = "ジップラインを1つ追加する"
 	B063C03941EB570D6F2145808469C99D = "離陸まで 10 秒。"
 	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
@@ -92,6 +96,7 @@ Hoxxesはあなたの友人ではない！""
 	110187364451A692C0CAB39BE0C191CD = "アクションタイム!"
 	0276A46F4D5DDA64411F348C644A1437 = "ターミナル起動"
 	1D53C74D4C2B35AA0E89699FFB2BBE9E = "ターミナル起動"
+	3371CE2844906ECC5EC89BB5938C5A28 = "ターミナル起動"
 	3FEF03C74429EAD810F6EE9FE2248A2D = "ターミナル起動"
 	4D2D1DE742FF1BC89D17198742A12781 = "ターミナル起動"
 	ADAFA15F43DBBC9111A21596441AD1E4 = "ターミナル起動"
@@ -122,6 +127,7 @@ Hoxxesはあなたの友人ではない！""
 	A13E31724B152BF53958568AC2187067 = "弾薬資源"
 	2C4A91E9492C6E9E0B9B26A55BDBE3B8 = "最も深い採掘現場のひとつであるマグマケイブは、惑星の内部が溶解し250～400度の渦巻くマグマとなって洞窟の内部を照らしています。当社の従業員保険は火傷が対象外のため、任務目標と関係のないものには触れないことをお勧めします。"
 	8E6B812B407B923700BEB8B780945CD5 = "Hoxxesの中でとりわけ見応えのある場所で、その名の通りクリスタルの洞窟は目を奪われます。巨大な結晶があらゆる地面から突き出し、暗闇の中でピカピカと光り輝きます。残念ながら巨大なクリスタルはほとんど無価値のケイ酸塩ですが、貴重な鉱物の豊富な鉱床も洞窟内に点在しています。"
+	A5294F27463D370F8DD5298C44AF4D16 = "Hoxxesの中でとりわけ見応えのある場所で、その名の通りクリスタルの洞窟は目を奪われます。巨大な結晶があらゆる地面から突き出し、暗闇の中でピカピカと光り輝きます。残念ながら巨大なクリスタルはほとんど無価値のケイ酸塩ですが、貴重な鉱物の豊富な鉱床も洞窟内に点在しています。"
 	29D5FBF2442015B335E7A6AECFA87166 = "最高に威厳のある輪郭"
 	3B18C19548D132601FED55B99675B48F = "絶対的で雄大な横顔。"
 	67D8EE0841E320C26FB213B16D34DB30 = "絶対的で雄大な横顔。"
@@ -187,6 +193,8 @@ Hoxxesはあなたの友人ではない！""
 	E42716A645873C529455708D14B0E4DB = "ブリーフィング
 ターミナル"
 	177504BB476C21A5500B4D9880FE49D3 = "グゥェ"
+	1596F21140AD5A864B8555A54A5E1700 = "購入"
+	8573115C47B7D06F415366B6CDCEB4CC = "購入"
 	32D1DD734BA49FE1E0B0C1B5C631B2C2 = "戻る"
 	3AD65F774C5AACD2210435A6559D47F9 = "戻る"
 	438893FB45ABDF244FBB0DB4BAC91FCA = "戻る"
@@ -273,7 +281,6 @@ Hoxxesはあなたの友人ではない！""
 	4BA9E7AA43860D6AA495FF954DCEDFD7 = "球状の髭"
 	A0E3B94940BCD0DA7277C3A354EE0563 = "球状の髭"
 	D248460145F3994592B4F686F0331601 = "球状の髭"
-	B9D6970042206F4F749478A6B724FAED = "残弾数"
 	69C22B4C4F84F95A1DD5E3AA29F22E42 = "燃焼時間"
 	75B06D68482BF52E8F07348C5BC465B0 = "燃焼時間"
 	D2A7F1E24600FDCF3339B7B2E8BC48BF = "燃焼時間"
@@ -285,13 +292,14 @@ Hoxxesはあなたの友人ではない！""
 	78E696ED4498D39A3F40F78A02B2D097 = "ビジネスデベロッパー"
 	A81F86024D02B3B339FD859C96B89180 = "ButtonText"
 	EFAD25E240DD9D8B12B242B009117556 = "なんて見苦しい奴だ！"
-	4608597C487C0EF357FBF39B1AA23F01 = "髭で！"
+	4608597C487C0EF357FBF39B1AA23F01 = "髭に誓って！"
 	B52173E44A8C12FDD10CB4B8E040A3F0 = "エスケープポッドへの道のりが分からない？"
 	3CA45427473C7964356F1CBB9706D2B9 = "洞窟の複雑さ"
 	34A50BEA4817DD864FB65397492A2D0A = "CEO"
 	E38A00AB4C7911097E8E57855DDB2946 = "外見の変更"
 	9FFDAD124B9969657EDCDCB44E626837 = "チート"
 	6F02005F4FB0502AF4B3B79F594D57D1 = "CHEE-TR 69"
+	AA1B3D24461665D2DE736AB39C4BD728 = "クラス01"
 	47C96B3F473BD15099CEEA8D9010E031 = "クラス名"
 	E5E0408B4B2E7E33D11B66A7A2B88DAE = "COFFEE STAIN PUBLISHING"
 	082A9714445A7627B4ED46AFFC732279 = "収集した鉱物："
@@ -339,6 +347,7 @@ Hoxxesはあなたの友人ではない！""
 	E1A6AA0446022A84AAE2F89A034CBB62 = "より多くの手榴弾を持てる"
 	60E56D8C41802B36F71AE98A54A14C6D = "手持ちプラットフォームの数量を増やす"
 	7194939B4A338E33C4ED3086A9CE35FC = "ケイブ コーラル"
+	B0A0D03D4B1E4A727A73AA8CD2173125 = "ケーブゼリー"
 	FABD8AA7478F53C1C7268CA2475E1A4B = "ケイブ リーチ"
 	C70972C94DD6117C962D73A247E2933E = "ケイブ アーチン"
 	A6F013A946E7DC4CD01268B5331575FD = "ケイブ バイン"
@@ -360,14 +369,15 @@ Hoxxesはあなたの友人ではない！""
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "ナイトラの塊"
 	EC7C73A0400EAEB5501D12863298DDC5 = "ナイトラの塊"
 	CCAE4EA549842149659D608F55032565 = "クラスレベル"
-	051100FE440C58990CAA6495C6680DA4 = "クラシック"
+	051100FE440C58990CAA6495C6680DA4 = "クラシカル"
 	E6091D33453BC448874457AB90A51E39 = "優雅な動きだ、チーム。すぐにそれをやめろ！"
 	4DC19E56415BB0537728FBBE378F9066 = "きれいに剃った"
 	F716C5E64596ABB20D4623AD0C6258BD = "きれいに剃った"
 	2840FE284F006002F9C598897D261B2C = "きれいでシンプル"
+	01F5BABE413FACFF9BD51285D21AE723 = "クリア"
+	EE5D4562468D5D1911898E8397A5C57F = "クリア"
 	2D9C5CBE4668091C5E0D00B7C49C3891 = "クリックでSteamグループに参加！"
 	FDA005934F3D906787D37A8B7CBEFD27 = "クリックして Steam グループに参加!"
-	7F765FDA440F32545B0F8283AD6274CC = "装弾数"
 	0CC8411B41D22BCC06F543922E3867AB = "近距離"
 	AF07B5B04CC58C50479418899E1C0BDD = "閉じる"
 	A5249714428DC19ECC87E9822D877AD2 = "Cody Barnes (Dwarfurious)"
@@ -408,7 +418,6 @@ Hoxxesはあなたの友人ではない！""
 	538D46A04B66F6D1E7E2678864683079 = "普通の岩"
 	547521E44678DA8C92F16ABC159796BF = "普通の岩"
 	5DBF09F44E5AC83834843388AC5C973C = "普通の岩"
-	629D7E784EA8B3DAD98FDA83D9294ED2 = "普通の岩"
 	67C9B87C4370F9C2634894916035392C = "普通の岩"
 	6F3F8DDE41F5166A4FD65D9678216B56 = "普通の岩"
 	6FFB731642F60FAF9644FF8F3AE7E932 = "普通の岩"
@@ -494,6 +503,7 @@ Hoxxesはあなたの友人ではない！""
 	7905E37140411F564C0125A36C089FDF = "クリスタル"
 	A21039324191EEE4E167A0A871591CEC = "クリスタル"
 	7E2C903B470E31C7B8F9AEA38B8FF621 = "クリスタルの洞窟"
+	80D28714487FE284DA6B7ABDE9B0879C = "クリスタルの洞窟"
 	B610D6184BC05B285769B6A452AE6C01 = "クリスタルの洞窟"
 	C3EEC4024EFCE25A3AB044B8A0B798D7 = "クリスタルの洞窟"
 	549257164EA4E3BE4F9923B73561EE1B = "巻き髭"
@@ -527,7 +537,6 @@ Hoxxesはあなたの友人ではない！""
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "ドリラーの彫像"
 	0E8980524B030DC3BE2A8CB569D18156 = "ダメージ"
 	4B75716E4B545D6172594F8C5B1D6CE5 = "ダメージ"
-	C04C09BC48E99FF9257FA0AE546DDBA1 = "ダメージ"
 	028BB5DC42B546CF810327A70515B5FF = "ダメージ範囲"
 	14D7018545E85BC413D6AABF4365FBC6 = "ダメージ範囲"
 	8558D885453FCB187A76F4B3F31FB5A7 = "ダメージ範囲"
@@ -613,7 +622,7 @@ Hoxxesはあなたの友人ではない！""
 	90C4811440F328252058C39267785127 = "ばっちりだ。"
 	9968D3354BE8D89BD0FAED97434467CB = "ばっちりだ。"
 	F2A7C6E14E38A8083F53C68B83D15287 = "ばっちりだ。"
-	0603F0CF436ADDAC1BD057B23A73549F = "機能はする…"
+	0603F0CF436ADDAC1BD057B23A73549F = "ばっちりだ。"
 	53E04FA04441E4ED1758FAB8E1303B55 = "ばっちりだ。"
 	5E74E6ED470F09DA350E0BA7E59C981A = "Dominik Stau, Cody Barne, Jake, Mathias von der Heide, Kert Tin, Stefano Giacchetti Aravena,Jacen Toal, brent B., Jon Navarro, Kory Small, Isabelle Chan, Jonathan Marquis, Tristan Caron, Timothy Mackenzie, Paul P, Julia V, Timothy Mackenzie, Asher Blair, Stijn van Rijen, Christopher Allan Walker, Evan Gradzewicz, Maxime Riou, Dominic G, Ludovic Hamelin, Mark Haseley, Timo leander spykman, Jestin Edward Mammen, Michael McDougall, Sivokho Dmitry, Theodor Heiling, Nikita, Dexter Spenik, michael harrop, Ben Llewellyn, Cory Watts, Nathan Williams, Luke McComas, James, Christophe Mateos, Jordan Thomas Brockway, Jaimee Lavery, Callum Newman, Michael Deskar, Ron Moshe, Bo Yuan Zheng, Danniela Goes, Ricky Spence, William Freeman, Will Pritchatt, Felix Schiller, Erwin Bell, Erik Stüwe, Colton williams, Artem A. Dedov, Alesh Holubec, Matej Vlk, Lim Zi Hao, MIguel Angel, Rafael Aragão, Philip Mørch."
 	B219BE384F814BFA0BE202916D737E46 = "近づくなよ、たかられるぞ！"
@@ -701,8 +710,7 @@ Hoxxesはあなたの友人ではない！""
 	57407B504CECBAE4EEA8F797E8BE1291 = "ゲームを終了"
 	B8BFF73A49084C7C76A799B7053FAE77 = "離脱ゾーン"
 	7D492C69476154C13DFDD59E087CF898 = "採取 {Name}: {Current}/{Total}"
-	5FB1DE214CAC78EB32A958ABB9B0D20E = "離脱"
-	B9BC34BC4BCFFF27A6A5C3ABBE7986C2 = "離脱"
+	5FB1DE214CAC78EB32A958ABB9B0D20E = "採掘"
 	D9BC1D24420CD760300B8B9144A54A8D = "離脱まで"
 	549595484CBC60678D58B3ABD575C24B = "アァァ "
 	2D0D0F2C49874BC4C64011B6A247DFFF = "くらえ!"
@@ -717,6 +725,7 @@ Hoxxesはあなたの友人ではない！""
 	C6A2DCC14762D181A80E5EBEA55447BF = "卵だ！卵を見つけたぞ！"
 	5953F6C644ED3307B5A2E0ADBC7822D8 = "卵集めの時間だ、チーム。エイリアンの卵だ。会社はそれらを必要としている - 訳は聞くな。探して、モリーに積んで、帰る。簡単だ。"
 	E140E52543DAAB23265CB78D36A8FDAC = "エジェクタサボテン"
+	D563FF9245CED634ECD769ACC09FE20C = "エレクトロクリスタル"
 	BAA3D81347FC18A43AF779A445EC7AF0 = "基本的だな。"
 	1BBA6A92410AA32B9E70CCA81912F970 = "エレベータープラント"
 	28446666412ED13D695913AC371C5625 = "標的を排除する:"
@@ -756,7 +765,6 @@ Hoxxesはあなたの友人ではない！""
 	AA09D158453C1D6160A530B89F427E90 = "デスクトップに戻る"
 	5D159735400F3AD3D86F59972F8A86B5 = "拡張されたドラム型弾倉"
 	6B380AC14868B3F08D94A2B9E528804A = "可燃性燃料の容量を拡張します"
-	F98839FD4F3D2713E79C71AF54487839 = "Exploder_Presentation"
 	2760B4D24420248535423580CAF28CB6 = "爆発する植物"
 	6300ABC04493A303425600A49902DD69 = "揮発性胞子"
 	7783085749CD0CDC322970917E01C05D = "爆薬を設置！"
@@ -771,7 +779,7 @@ Hoxxesはあなたの友人ではない！""
 	291965AC4A3E4F21FB9B91841B98F417 = "追加ジップライン"
 	77D6AB4F4929A856637FFDA7BE807942 = "追加資源"
 	C088566241D93197365D3CB2BBCD5F19 = "追加燃料タンク"
-	55A2B3B34A5CBFF55F21B2BFE1AF75A9 = "採取"
+	55A2B3B34A5CBFF55F21B2BFE1AF75A9 = "採掘"
 	6584B05343BE02F3606DED9BEB9D1384 = "除去"
 	BBEED5E543ABACB0517FC6AE86BC39C0 = "離脱開始。よくやった。"
 	FBC56EC14C9ED2DBD48FFB944EC978EA = "離脱開始。よくやった。"
@@ -887,6 +895,11 @@ Hoxxesはあなたの友人ではない！""
 	251024574D3DDFB05907DFB0FD9FF410 = "フルスクリーン"
 	28739C1548A8358DA2F1C4AED59D93B2 = "フル シールド スーツ"
 	06AE677E4BF6B4591091A2AA34A0CFAD = "持ち運びできる軽量素材で出来たこの便利なガジェットは、鋼鉄で強化されたロープを発射し危険な谷間を渡ることができるぞ。"
+	20BF533149B545C499A58681CFB88D4B = "真菌"
+	492179A0450C3FB2A487B584FEBF5F00 = "真菌"
+	4F80BE014C51F079BB4FFCA66CEAF0F6 = "真菌"
+	AE9DEB31409A552EEDEF50962C0262C6 = "真菌"
+	B0E0DC6C46F48F0587231AA691F364A9 = "真菌"
 	F44833C44B830641D50293B455C4829D = "真菌"
 	ABDAA425488574199450C799ECE19E14 = "真菌の沼地"
 	3218229442E175A3D8B3E6903818E10D = "宝石だ!"
@@ -927,7 +940,7 @@ Hoxxesはあなたの友人ではない！""
 	3436865248C898FBDFD363B8B39E86F8 = "どけ！"
 	6D83331B469951C046AB5BB24A6DB7F9 = "戻ってこい、このクソ野郎ども！"
 	CA7E87F142401B841A66A4BF79F67EB3 = "戻ってこい、このクソ野郎！"
-	069482B7413D8715B7594EB3FF695D02 = "バカ野郎！ここに戻ってこい！"
+	069482B7413D8715B7594EB3FF695D02 = "戻ってこい、このクソ野郎ども！"
 	B16A92634FBCF8AB8FD6558A2816C809 = "なにか陰に入れ！"
 	4B4FE9AB4767260DD1180BA845A46672 = "離してくれ!"
 	9D1174E7474717CFB8EE048D35DA1900 = "チーム、降下ポッドに乗りこめ。ミッション開始だ！"
@@ -964,6 +977,7 @@ Hoxxesはあなたの友人ではない！""
 	FA8F44C946CD7ABC7358039A193E66E7 = "グリフィッドプラトリアン"
 	7264F5314B7568C009316EAA26625514 = "グリフィッド スポーン"
 	F7464ADE4437E5B3F6902DB072133523 = "グリフィッドスウォーマー"
+	B8D8E4D846F02E721C4AC4A0B19118A4 = "グリフィッドトンネル"
 	EBE02D2E41935D99B0636AA8053E5CB5 = "グリフィッドウォーリアー"
 	1CF279344F67E8BC574EF5981DA77522 = "グリフィッドウェブスピッター"
 	EF2539364E0BBD773683F5BD0E0107D2 = "行けボスコ！"
@@ -1140,6 +1154,7 @@ Hoxxesはあなたの友人ではない！""
 	BAD2E7A64BE9CAC7F83BE9A4E2BC9A36 = "急げ！もう若くねえんだ 知ってんだろ！ "
 	3305C68D4E9BAA729DD29A8258303F74 = "はやくしろ！飽きてきたぞ！"
 	34F864224E98E6022A7CA29F883C8065 = "早くしろ！俺はもう若くないんだ！"
+	71EA6BC04E6EFF169EA6EFB1FD1597D8 = "ヒドラの頭"
 	7B01BA6D4E2177EDAE58A9A9B75A22B9 = "俺達はやり遂げるぞ！"
 	BF78433640226D2E6D6271A32C72C134 = "思うに俺たちは成し得るぞ！"
 	6425493B4EF2C236F4FC19987541A529 = "時間がないんだ！立ち去ろう！ "
@@ -1335,7 +1350,6 @@ Hoxxesはあなたの友人ではない！""
 	DA6CD285435A2812DC63AABEC8CA191D = "詰まった!"
 	0BBDBEAE4A91E8F0C1F5E5A4E6110111 = "Javier O'Neill"
 	BAFA3FCA46C3E9459AED4697074FC28B = "ジャズ"
-	40DFEAA44DEC90E6E8D61A958C3BC744 = "ジェリー ブリーダー"
 	15409AD14F1F57BFCB433E85F95B2D9F = "上出来だ！ M.U.L.E. のボタンが起動された。全員で家に帰るぞ！"
 	3ACAE4AF402D8F62564994983E525DE5 = "上手くいったな! M.U.L.E. のボタンが起動された。全員で家に戻るぞ、チーム!"
 	1F05D8E6411C92B6EBF1DFB2C44D0CAD = "参加"
@@ -1396,6 +1410,7 @@ Hoxxesはあなたの友人ではない！""
 	C82E313A47FACD5D427F14A7CEBC56EA = "特定の製作鉱物を探す？"
 	776EEDF74F5A67D8128954AA3C43A93F = "資源不足だ！"
 	E612E7A1483E43042EB651808C262332 = "言語"
+	3675313745838E7EA1DF2DBB8023B806 = "ラペイルージア セルラータ"
 	94D2231C45628D5331BE04874254B8A1 = "ラペリルーシャ セルラータ"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "大きなベルト"
 	9E5515644E360F6FD5B604B5E5CB78DF = "大きなベルト"
@@ -1502,6 +1517,8 @@ Hoxxesはあなたの友人ではない！""
 	739783CC49AE38F6F1AE6D963CF9D972 = "M.U.L.E.の彫像"
 	DBF84CCA408EFEF59E11CA97B1FE5298 = "記念ホール"
 	A8635D3A4197B12C9171ECACB3DCC6E1 = "鉱物名"
+	71A231B84DA0316C33DBA8BF81F457B0 = "鉱物売買"
+	F20834A84EB11A83D39535968304825F = "鉱物取引"
 	C6FE061C4FEE6E56D58A089C06243FC7 = "壁の中のお宝"
 	7EA800674ADAB0AF09B87FAD83F5F71B = "欠乏資源"
 	425FE5044989D63327E09A9305357CBE = "MISSION"
@@ -1552,13 +1569,12 @@ Hoxxesはあなたの友人ではない！""
 	DC8D0D634672228A49E7A28C7D5B4F78 = "モデレーター"
 	E1E6FC3E499E0E8617D98690D63948C5 = "モデレーター"
 	EA807C684450BB19B921639A3BA5D580 = "モデレーター"
-	7EA1C7CF4DF103EA936CC3B2B194D9FC = "Mactera Spawn"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	92D1A8F24554B279ACF95C9CAD4F7399 = "蛆虫"
 	E0E051F74E00F5C9A4CC2680847DF607 = "蛆虫"
 	E9AF0D9E46F94BAF7CBDCC856A1BE3EC = "蛆虫"
 	4F3B80154E7AE0D29C23CABCD30DB300 = "うじ虫だ！"
-	061D679340D0DD94F3ABE6A5673965EA = "マグマコア"
+	061D679340D0DD94F3ABE6A5673965EA = "マグマ コア"
 	12B422294CFD0A41B7348487E33AFBC7 = "マグマコア"
 	6BCCFC15423990CAAA7C6FA91F40F531 = "マグマコア"
 	B43D26064B32C350A27B5CBAEDB290D6 = "マグマコア"
@@ -1583,7 +1599,6 @@ Hoxxesはあなたの友人ではない！""
 	A48D3EBB455A194C282A898E330A58DA = "主音量"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "マッチメイキングに失敗しました、再度試してください。"
 	3687A13B4D40D996CA1B6AACC84DE076 = "マッチメイキング中です…"
-	CDDD25D9426F2657E84B4C8D95FCEF53 = "最大弾薬数"
 	DF399CD3486B65EDAE4558AFEF735D28 = "最大 FPS"
 	AA14CEC64F683044A398FDBB91F67F6B = "最大角度"
 	5518A67C45ABF7776B55918D7759BA30 = "最大距離"
@@ -1607,6 +1622,7 @@ Hoxxesはあなたの友人ではない！""
 	B439AE914A705D4D620C46A031E3BB13 = "素晴らしいムートチャップス"
 	BB5A7AF14F7C8E9DB50956A12BEB96A6 = "素晴らしいムートチャップス"
 	CBF250254793EF64FC127D99A3111E15 = "素晴らしいムートチャップス"
+	1BBF1D704700F016CBDEBCAC891B049B = "マイク・バイオーム"
 	CCD4A85F4231C56E402568A26C45AB10 = "Mikhail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
 	67B7516B42F5585F57A881936E78D7B2 = "最小角度"
@@ -1623,7 +1639,6 @@ Hoxxesはあなたの友人ではない！""
 	333E88AA4B19BCCF7FF7E49BCA64DB03 = "{amount} 分のディストラムを採掘"
 	F0DC4CC047EB3DFD5905B0BDDACF150C = "{amount} 分のモーカイトを採掘"
 	510563CF4FE28E5D628FF686B553A0DA = "{amount} 分のホロマイトを採掘"
-	4975B71C4E3EE93F52D9228C8B1ACA4A = "マインヘッドが戻った。ドロップポッドが入ってくるぞ！"
 	DB7AF605434CFF87704E799DE6090780 = "鉱物の煙突"
 	B5208C1E4B96924DB09BAD8D1515F5AB = "チームが掘った鉱物"
 	7CCBAD3442225360D935F3A4271837AF = "採掘遠征"
@@ -1633,7 +1648,7 @@ Hoxxesはあなたの友人ではない！""
 	6817C0064C5566961361409692CF4F60 = "ミッションコンプリート。諸君、よくやった。"
 	B4253B1E4AB8F953BCD51188009553B7 = "ミッションはロックされた。降下ポッドを準備中だ。"
 	470547694BE786FA2F45049F27CD82A7 = "ミッションが選択された。ドロップポッドに搭乗する時間だ。"
-	0664EDEF406B5BF10A5D6AA8D196ED2A = "ミッションが選択された。諸君のチャリオットが待っているぞ。出発だ。"
+	0664EDEF406B5BF10A5D6AA8D196ED2A = "ミッションが選択された。諸君の戦車が待っているぞ。出発だ。"
 	3796F5BA47DABAC727A3869531B4D7D9 = "Mixer へログイン"
 	421A198642CC485C6E16ACB86B505CD2 = "Mixer からログアウト"
 	7F5D45D04D76923396C02CB920DE20C1 = "モデレート NAT"
@@ -1669,6 +1684,7 @@ Hoxxesはあなたの友人ではない！""
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "かなりよくなった！"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "良くなった！"
 	CD169B8F4540D97173D1A180A5C920B4 = "マルチプレイヤー セッションが終了しました"
+	363F35F64355EAC74E3A0F9F7476EE46 = "ムスカリのアングスティフォリア"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "キノコだ！"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "キノコだ！"
 	F7855C5E422A4EB627BE18A6DE59B1A9 = "音楽の音量"
@@ -1748,7 +1764,6 @@ But well done. :D
 	D60AE5CF42BBB7EB7838199D44BE8482 = "オンライン ゲームは利用できません"
 	70F228D44EE1158D61FFB993465D99BD = "補給ドロップ要請"
 	28BDEA754E00DAB67B30D8A00784EBEE = "目標"
-	F86AB84447C9C6F900B626A385ED9459 = "目標達成！準備ができたらマインヘッドを打ち上げろ。"
 	30F0F03D4688BD978B57B1875B4DC848 = "目標達成だ！準備ができたらM.U.L.E. のボタンを押せ、脱出のためのドロップポッドを送る。"
 	8FA9AE9342767D5974DA5CADCCB22253 = "目標達成だ！準備ができたらM.U.L.E. のボタンを押せ。脱出のためのドロップポッドを送る。"
 	F4DDB320497C12A9535E318E7C0EDE2F = "目標は達成した！ローンチコントロールは起動し君たちの指示を待っているぞ。家に帰ろう、チーム。"
@@ -1783,7 +1798,7 @@ But well done. :D
 	C28E671A45A9BE49D0C173888F1C00DB = "ミッションターミナルの地図では、各バイオームの概要や生成されている鉱物を確認できます。"
 	7BF994A8421E1EE88429E3B954B9C08D = "画面上にヘルプを表示"
 	E51ADE8A4FDB509121F63B8F9A6A7FE2 = "一匹倒した！"
-	5FF8D81747E9F0DDE613469664B89123 = "DRGの主力商品の一つであり、2のパワードリルは前方の作業を早く終わらせ、困難をなくす。間違ってもチームメイトには使わないでください。"
+	5FF8D81747E9F0DDE613469664B89123 = "DRGで古くから愛されてきた1対のパワードリルは圧倒的な掘削力を誇り、あなたの仕事を効率的に進めることでしょう。ただし、決して仲間に向けてはいけません。"
 	92B400A946D61D5F92F789BE8C04148C = "DRGの武器庫の中で最も先進的な道具の一つ、自立式セントリーガンは害虫駆除を行うのに必ず役立つだろう。"
 	932D2A1848A5A5650900C2BB19182FA4 = "DRGの武器庫の中で最も先進的な道具の一つ、自立式セントリーガンは害虫駆除を行うのに必ず役立つだろう。"
 	E8EF881D4A31C3F3015EE2A9ACE45DC2 = "足場を作ったぞ! 使ってくれ!"
@@ -1840,7 +1855,6 @@ But well done. :D
 	C21850D74844EA192C1FCEBA601C6261 = "惑星の地域:"
 	6837936E4EFB82CBEF489FAD5C73FE96 = "注意してください！プレイヤーをキックすることにより大きなミッション報酬を得られなくなります。現にあなたはこのプレイヤーからのサバイバルボーナスを失います。"
 	E4DEE1334E397283E5AADFA084AE3366 = "コントローラーを接続し直してください"
-	2276DA03429396713203CBAC6EF3C810 = "ポッド接近中"
 	0E40CA4047102A62E43D82B23E361885 = "ポスター"
 	D1CDE0984D2C81BD03B35B84DB64027D = "ポスター"
 	D87C8C21404AB445120EC381D254B634 = "優先地域"
@@ -1883,7 +1897,7 @@ But well done. :D
 	E82365B2495912F596DA23ABD0815AC7 = "通達: ロードアウトは個人営舎のクラス選択ターミナルからカスタマイズとアップグレードが可能です。"
 	617EA2B64AE6115A7ECDEAA8D6E7B814 = "より強力な一撃！昆虫共を穴だらけのチーズにするのに最適だ。"
 	5CDF4D02428CEFD5EEA1FBB669567A35 = "まずまずの仕事だ、鉱夫。お前は我々の働き方に良く合うだろうし、経営者はお前を信頼して正しかったことに喜ぶだろう。基地に戻って適切にいざこざに飛び込んでみろ。M.U.L.Eにあるエスケープポッドを呼び出すボタンを押すんだ。"
-	CF99434643CB9020EDC0C0A6F69FED05 = "Password Protected"
+	CF99434643CB9020EDC0C0A6F69FED05 = "パスワード保護"
 	720CEB6E486DBF742DE3F9A974925C73 = "Pathfinder debug"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "敬意を払え - 静かに！"
 	3C9AEF9F46FF592951C327902D9C195C = "ピーチ"
@@ -1912,7 +1926,7 @@ But well done. :D
 	D4BEC3174D266933501DB7BA4A935C78 = "セントリーガンを設置中だ!"
 	8A7C33D4493F7881FC2F5590CE4D13A4 = "惑星の地域"
 	8B8D0282471F7FD3DAFBAE889E8CC74C = "惑星の地域:"
-	E22B7778431BF3CB166A81838BD55AC9 = "プラークレットの泡"
+	E22B7778431BF3CB166A81838BD55AC9 = "プラスクレットの泡"
 	CBC6DBC6403953AEE7E1BDA73779C53F = "プラットフォーム ガン"
 	CD5D6E1240262266A41F058A3ADD7C4D = "プラットフォームガン"
 	A957D1E941D159E02872718F95D6CB3C = "足場を作った！"
@@ -1924,6 +1938,7 @@ But well done. :D
 	8A16CF354599757A1B94C39D6D2559EA = "再生"
 	741BD55D4E5B0C462C264AABB6B873A4 = "プレイヤー"
 	35F188344DABAC671C11C8937ADF71BB = "プレイヤー 01"
+	659071834649C5D60598A9945927B447 = "プレイヤーデータ"
 	785D9C5B457170C98F25A898CAD6F1F2 = "プレイヤー名 "
 	7146C8E64854C0DB498B70AF7625379C = "プレイヤーランクが低すぎる！"
 	A5890AD147109BDA322CC680CCACE44D = "プレイヤー名"
@@ -1932,7 +1947,7 @@ But well done. :D
 	1CB75EE6416B7F8686660C930A229145 = "うるさいな。ちょっとは敬え。"
 	839C93D647EF36AFF6B71FB403C3815E = "頼む！助けてくれ！"
 	C4E20D2142F8751DF7FA3B96D7E6CABA = "頼む、撃ってくれ！"
-	4EEB6F2F41383E0F3E29D685EB0D6486 = "離脱地点"
+	4EEB6F2F41383E0F3E29D685EB0D6486 = "地点採掘"
 	E27A6F004216FCE63C417294415228D0 = "毒胞子菌"
 	710E540A420D82802A5CCBBE5F3A2202 = "毒性ガスはもはやあなたにいかなる脅威も与えない。"
 	7F4E90704091594A25B822B1CF9E108E = "ルートバグを撃て！"
@@ -1992,6 +2007,7 @@ But well done. :D
 	0FE71808418CA41B8F7470A3F80533D1 = "地域概要"
 	8E2BFC4D452CD139DBAA57BAB20FFD6C = "チュートリアルをリセット"
 	AF59C94D4E5CE3AAB9FABC8590789489 = "後退"
+	DFBA5ECB4414B8146C621180A9226E46 = "Radioactive Crystal"
 	74E5EC9E41E8D7D602DDF498D493DB72 = "立入禁止放射能区域"
 	E8E563994BBAB78F1E39FFABE439C2DA = "放射性廃棄物"
 	F2CAC1EB428B1FFDCC47178A911BAE8A = "ラディパフ"
@@ -2053,7 +2069,7 @@ But well done. :D
 	D0B9772242CFC839ABDD478D638A0415 = "上を見ることも忘れずに！天井に厄介な虫が隠れているかもしれません。"
 	15C102484C0E9A6961FBC4A248F56025 = "フレアを投げ忘れるな。時間経過で補給されるから出し惜しみするな!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "覚えておけ、洞窟のヒルはお前と同じく恐れはしない！"
-	046C7D9F4E22D85C44E58984A38E9634 = "進行状況を初期化"
+	046C7D9F4E22D85C44E58984A38E9634 = "進行を初期化"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "進行を初期化"
 	E23DC368458C45A42679BD9044C2D878 = "進行を初期化"
 	2A34F7F04B52A1277B64AB959054B29C = "デフォルトに戻す"
@@ -2112,7 +2128,6 @@ But well done. :D
 	48AB0B2E4BF3240CA45FDCBE18A89EDF = "がれき"
 	66564E964F5134AEE0F4BEB683F1AAA1 = "砕石"
 	781F2A06415CF90817B82098AE6ABFAA = "砕石"
-	ECB7E1BC4DC1B4D4B34AB28D834E1E0F = "砕石"
 	9EE00D54476E2E4A4AEA949ABABEDE81 = "走る"
 	9155BEB943E16F9739FF949CDC4DD55F = "物陰まで走れ!"
 	E630A3AE4EDF03AC2C0A4F9512ADF753 = "物陰まで走れ!"
@@ -2131,6 +2146,8 @@ But well done. :D
 選択"
 	E4FF77EE44E9499E1857ACB4159113A2 = "キャラクター選択"
 	F47383FC429EDA6085D2AAAA1D58B4CD = "キャラクター選択"
+	AD59DBD9475E6D4731A8D09CF3B6E873 = "売る"
+	BA1752E340D755EDB91AEB807BF8E6FB = "売る"
 	6F039FB445C35711427CECB5B36B56FC = "セントリー #{Index}"
 	2F0B95F842FBBAC40AF94BB03500DF97 = "セントリー到着まで:"
 	36406C1946B16048CA3139B8D47AF660 = "セッションが終了しました"
@@ -2145,6 +2162,7 @@ But well done. :D
 	BFA73B7040990E638C65498EF041323D = "下がれ!"
 	E77AB10F45500C89D53903854839845C = "状態"
 	CB0732E24CC6D2BE0BF832B76408D80B = "STEAM プロフィールが追加されました"
+	5FC0F6924D087A16F27B18AAED4BA1C8 = "補給ポッド"
 	9BD4EB3E451653B82526479AED69BE96 = "補給ドロップ"
 	6043CCEC494174813635F0ACE85D4188 = "補給ポッド"
 	4C1078084199AD9AEBE69E956297150B = "生存者"
@@ -2155,7 +2173,7 @@ But well done. :D
 	560C3A5E402E3A45BFF035B7741D08F3 = "挨拶"
 	8BC5E4024C1F140941755090E50DE0EF = "挨拶"
 	E05734A147FBEC155C3EC1B6DC2C33BD = "挨拶"
-	079A2F7943180A27F7D98283EBD927B1 = "ほぼ同じ"
+	079A2F7943180A27F7D98283EBD927B1 = "ちょっと違う"
 	F382F96E4186792FA62103B7A8CBA2C8 = "サンドブラストの回廊"
 	B8F48C9A4CD9E268994A9D8FCB3F257D = "サッチェルチャージ"
 	6899C9BF4C4EA8CA476B9B96004C66B2 = "助けてくれ！"
@@ -2256,7 +2274,6 @@ But well done. :D
 	82D5760A4D36C73A04E752BDC5DE965D = "単純"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "サイト 11 - ディープ シェール"
 	DAFCD54541C22C0CE8FBFC9C2ADFE44E = "サイト 11 - ディープ シェール"
-	72BE9A1D4C5FA58562C9839EF479D40E = "サイト 45 - 玄武岩の海"
 	0666476F42480867E51E348406F16D69 = "スキン"
 	11AB23744072A594A2106FB32DFAFA2E = "スキン"
 	15F8342C4FEDC45EBCEE179F5F940D57 = "スキン"
@@ -2313,7 +2330,7 @@ But well done. :D
 	BAF3FE9E45AB395112BD7689D4A50FDE = "ボスコを生成"
 	4C93435147CA874F0F30F4BBF8AB0CDA = "スポナーだ！"
 	8A269CD24D0ABAB7421B02BB86CC99A1 = "[EquipResupply] を押して、ナイトラを消費し再補給ポッドを呼ぶ "
-	7496556240A349365A4F8098ED4DC3CA = "Spiked Hydra"
+	7496556240A349365A4F8098ED4DC3CA = "スパイクヒドラ"
 	F11A713D400638403770249F8CC0CB00 = "スピットボールインフェクター"
 	F232A240408E4D918179AB84B060017D = "スピットボールインフェクターの投擲物"
 	13A1417949FA05E27FFD9E87633E7D3F = "スタラクタイト"
@@ -2411,11 +2428,14 @@ But well done. :D
 	41E2CF244D78C269B5C83D9401825CFC = "DEEP ROCK GALACTICの初期開発をサポートしてくれてありがとう。 我々はゲームを大変誇りに思っており、楽しんでくれることを願っていますが、アルファビルドであり、バグ(と撃てないのもいくつか) に出くわすことに注意してください。 最後に、お互いに親切にしてください。 結局のところ、これは協力ゲームです。
 - ゴーストシップクルー"
 	DF9152664C7BADD3A97A6F95722CFDAF = "レーザーポインター"
+	8EB5D5DE4B6B42A91E824D914C0F55B1 = "これはテストバイオームです"
 	C3DFFC954DB100F679F0DE8E6158713D = "降下ベイへ
 行く"
 	A8B865704D489530B5D6579507DAF192 = "ミッション
 選択へ"
 	A508A0234EF76C0366B3B1AAE040C430 = "最上ハンガー"
+	00CE953A4F1F61501826299288BB7B83 = "総費用："
+	7B02BB8F42863DC60748039091E0540A = "合計値"
 	B6DEF6A14352DAE8B7E6409DE15338B2 = "タクティカルバイザー"
 	DDB1A5D7496B97C4740BF28975FB0A2C = "タクティカル バイザー"
 	ED75CE1E40047A1B14DA27B4B2C53A0D = "タクティカルバイザー"
@@ -2568,7 +2588,7 @@ But well done. :D
 	63D174AA4086E244ECA611817586DC6B = "これで近寄れないだろ!"
 	9024F5B74651406739D99D8095B6F248 = "Thomas Storm"
 	742AC94A4F68D2838AA7959A118EEB3A = "Tim Badylak"
-	046C55154DA845FBEBEA959063E7C228 = "時間"
+	2D9533C146672835367E2D8EDC69C7C6 = "Time"
 	2D5154A7402080FBE46F28A46443B13F = "検索時間"
 	7D3ECC6941A5B9B36579C3B532AFE83F = "これを済ませたら冷たいの一杯を。"
 	3A4704F1477EBE6619327BA19F734466 = "害虫駆除の時間だ、チーム。スキャナーがドレッドノートの繭をとらえたが、ヤツらがさらに悪い何かに変わる前に根絶やしにするんだ！アドバイス：十分な弾薬を持っていけ。あいつらはかなりタフだぞ。"
@@ -2592,6 +2612,8 @@ But well done. :D
 	DACB7960499B22A9FE7FF1AA094554B3 = "あなたの頭を隠します"
 	406AA8F2428166CBA11C4A802034CD9B = "倒れた英雄たちへ - 敬意を表する！"
 	EBA3C8014BEF7482D90B4E912EAFEB29 = "今日は俺の運のいい日になるだろう!"
+	02DF1B6741D74758CCB5999B97E7EBE6 = "HUDの切り替え"
+	8858CDBF4BD864F504F7219952F28B9F = "HUDの切り替え"
 	488FC27F40A06DA3D001DF8593D87FFC = "ヘッドライト切り替え"
 	D9A0B9E34C2D88B66E2D42BCBEBE7F12 = "ヘッドライトを切り替え"
 	5CCE958B406EDA840A52C3AEF05D5DCC = "ツールチップ"
@@ -2603,6 +2625,7 @@ But well done. :D
 	C47168754A2ADB3AEC0AE19EF9A846C8 = "最高級品。"
 	D2E6A1284252B81E4925DF9BD34C3959 = "最高級品。"
 	FB96757D46514C5F563332BC441E9522 = "最高級品。"
+	BDA09B7249BD8E9278B5C0877A05233C = "グリフィッドの脚を剥がした"
 	2A5779CF4D7679CB2F0B20ABDCA9C27C = "トータルハザードボーナス：+{bonus}%"
 	2FB75F1C4956DD369CEF22B5F31878BA = "観光客"
 	B2A25D10450C13A270C675B3B80591B1 = "観光客"
@@ -2685,7 +2708,7 @@ But well done. :D
 	10246BE04BE7FFC4ED29AD8489174AB2 = "とても目立たない"
 	67B818674B721E052DFEEF81146999D1 = "高度な隠密性"
 	68B709344A8627F954B1E2B3BAF3458D = "高度な隠密"
-	DAA1EA37491C92351DEF7F91E54B51C0 = "Viewing"
+	DAA1EA37491C92351DEF7F91E54B51C0 = "表示する"
 	809E655D4A757F85090DB4B6359A680D = "スペースリグ内にある装備アップグレードターミナルを訪れ、苦労して獲得したクレジットを使いあなたの装備をアップグレードしましょう!"
 	7ED249D745DD40186CB8C884C4A686F8 = "ヴァニティーショップではクレジットやクラフト用鉱物を支払って新しいアーマーやヘッドギア、ヒゲを手に入れることができるぞ。"
 	2D2A6357468F84A1FE3FC982E155948C = "ボイスチャット"
@@ -2784,7 +2807,6 @@ But well done. :D
 	7836F1FE4B8B8C5CCC24A9AA151FA9FB = "ホワイトクリスタル"
 	8477E9AC4C56F7E01878C198BB597BBA = "ホワイトクリスタル"
 	BE37800847F77A849948B7B32CC3EF57 = "ホワイトクリスタル"
-	DFBA5ECB4414B8146C621180A9226E46 = "ホワイトクリスタル"
 	449B0AA04FA1D71AE03EB3A11F39E4B1 = "ホワイト ゴールドだ!"
 	0FD8D3BD4E96FEF6335F66BC8F2FE4C3 = "誰かが「お買い得」って言葉を作った時、愛くるしいこいつが頭の中にあったに違いない。安い、頼りになる、そして強力である。"
 	91A6A22644FA4273BCE8BBB26DEE7552 = "植物に日光が必要だと言う人々は明らかにHoxxesを訪れた事がない。この地域は地底の熱帯雨林と呼ぶにふさわしい物に支配されている - 大量にうごめく(大半が肉食) 植物がこの惑星の地底奥深くに小宇宙を形成している。慎重に進め。"
@@ -2796,7 +2818,7 @@ But well done. :D
 	DC3DAC6E45E49D057EBE2FAC57ACDEB3 = "俺について来い!"
 	8941EAA24DC82A068BE7DBAD6E53E720 = "今夜は食堂でどんなヘドロを提供するだろうか！"
 	F1C565E647C016DEA126A18D066A8A88 = "今夜の食堂ではどんなヘドロを出してくるんだろうな！"
-	2D9533C146672835367E2D8EDC69C7C6 = "労働環境"
+	046C55154DA845FBEBEA959063E7C228 = "Work Environment"
 	EE7AAEB94E93C86232238B9B4138ECCB = "作業指示書"
 	3C34D3184ABDDD0D1AF3CA9A2D2A443C = "動けこの役立たず！"
 	1ED618214CBD7F469D5637843605F30A = "世界"
@@ -2911,6 +2933,7 @@ But well done. :D
 	F8EAE16E4F7BE7C1EC17B0ABF5ABB6A3 = "asd"
 	8B2149564AD35C1FF62E0CACBB0A0D3C = "gfdgfdgfd"
 	C90938654584A3EB0B1E6791A21050FD = "gfdgfdgfd"
+	57FC7CA44CED73E8D8E44589B217CE12 = "補給ポッドを要請した！"
 	D12EA8F6413DEC0338403682DB15C0FA = "hrmm "
 	E4BB53BC45BCF0949E4F16912BAD82E3 = "https://discord.gg/DRG"
 	44F2D16748B303B3AF5DB48C96EF1897 = "スピットボーラーだ!"
@@ -2925,15 +2948,15 @@ But well done. :D
 	A55C637A41EA819F8F03F49291FEF98E = "{0} はグラントを生み出した!"
 	06FA097444325B9586E76A93E5052FE1 = "{Minutes}:{Seconds}"
 	F0ABB87F46441F18848ABF8CD0ECC9F9 = "{Text} ({Percentage}% 完了)"
+	B49D14D14182674FC077EEB3E53277F8 = "{Value} FPS"
 	688288124DAF4F9715A8629D81F87C35 = "{levelrequirement} が必要です!"
-	B49D14D14182674FC077EEB3E53277F8 = "{value} FPS"
 	5CDE33454C9AA5FC2E78D59DE06A7D0B = "申し訳ありません。こちらはプライベートゲームになっています。"
 
 Namespace [/Script/FSD] (27 keys)
 	736F31C8400B0D301672149F62B3D0EA = "Authorized Miner"
 	425433424CD61C41FF201F8AFDC1D927 = "Elite Miner"
 	C376F0C142C836C9DB6A71A1FB556D2D = "Elite Miner"
-	04885E9645973670747FCBA06F079F4E = "Expert Miner"
+	04885E9645973670747FCBA06F079F4E = "エキスパート鉱夫"
 	7E73045D4394814A84FF2E8213211A4B = "Expert Miner"
 	6C63A76A4D93C0A8A23746BD3AAFCF16 = "青二才"
 	000659A84215FF81E92BADB73F941FB6 = "Legendary Miner"
@@ -2955,7 +2978,7 @@ Namespace [/Script/FSD] (27 keys)
 	AA53A92E4016BAC833FB7A8847B7B06F = "Ultimate Miner"
 	CCF9ACFA42DA2F205AFA3594E8A858C7 = "Ultimate Miner"
 	FF3DBBF6450EAFF31BFEB0B514673E0B = "Ultimate Miner"
-	065E398D453B7309A82A4387F0D1061C = "Veteran Miner"
+	065E398D453B7309A82A4387F0D1061C = "ベテラン鉱夫"
 	4B55CC4E4F1CEF12A1FA8D9253C9B35E = "Veteran Miner"
 
 Namespace [3BEB23BA4E78A0E98FAC8F9F5A078653] (0 keys)
@@ -3004,13 +3027,12 @@ Namespace MaterialExpression (12 keys)
 	Texture = "テクスチャー"
 	Utility = "ユーティリティ"
 
-Namespace Missions (2 keys)
-	DB0C3F174ADE70EAA2D7758958E08DAB = "目標達成、M.U.L.Eから降下ポッドを呼べるぞ！"
-	5C6519E64746AF02D48A7DB05E363C41 = "目標達成、M.U.L.Eから採掘ポッドを呼べるぞ！"
+Namespace Missions (0 keys)
 
-Namespace PatchNotes (9 keys)
+Namespace PatchNotes (11 keys)
 	Update_11_ShortTitle = "DEAD AND GUN"
 	Update_9_ShortTitle = "またな！"
+	Update_12_ShortTitle = "FLIES N' FINANCE"
 	Update_9 = "こんにちは 鉱夫のみなさん！
 Deep Rock Galacticは公開されて１週間が経ちました。私達は素晴らしいスタートを切り（やった！）、今は次のアップデートに向けて頑張っています。ゲーム内ではフィードバックボタンを設置しましたが、とても多くの方に利用していただき本当にありがとうございました。これらのフィードバックは私たちの大きな助けになります。今回のアップデートについては以下をお読みください。
 
@@ -3101,97 +3123,214 @@ Co-opモード時
 - ローディングの間にヒントの文章を編集できなくなりました！
 - 地形が変わった時にマップツールが正しく更新されないバグを修正しました
 "
-	Update_11 = "Hi Miners, 
+	Update_12 = "Hey Miners!
 
-We have another update for you with some cool new features, some tweaks and some bug fixes. Along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 
+It’s patch time again, and we have a bunch of cool new stuff for you! Tweaks, bug fixes, and the first new enemy! Also, along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 
 
 --- PATCH NOTES ---
 
-COMMUNITY REQUESTED FIXES 
---------------------------------------------
-GUNNER: GATLING GUN REWORK
-There’s a been a lot of talk about the Gatling Gun being too weak especially on higher difficulties. We agree, and we have made a bunch of tweaks to it:
-- Starting Ammo Capacity changed from 1800 to 1600 rounds.
-- It is now fed ammo continuously from a single, upgradeable ammo drum - no more reloading!
-- Overheats slightly faster - tweaked from 10 seconds of continuous fire to 9.
-- Overheating is more punishing - time to cool down raised from 8 seconds to 10
-- Upgrades reworked: Upgrades involving ammo and clip increase have now been made to only focus on the clip size. First upgrade originally gave you +400 bullets to max ammo it has been changed to +400 to clipsize. Second clip upgrade will give you a total boost of +400 bullets where it before only increased the clipsize. Resulting in the Gatling Gun packing impressive 2400 bullets when maxed out!  
-- New Tungsten Bullet upgrade for Gatling Gun has been added allowing you to boost the damage 25%. A mandatory upgrade for players with affinity for Extreme difficulty.
-- Added smoke effect to make it more obvious when you overheats
+COMMUNITY REQUESTED FIXES
+-----------------------------------------------------
 
-A BETTER BOSCO
-If you pointed at a really tiny chunk of unmined minerals Bosco would go there and not find the tiny chunk then abort the task. Now he can find the chunk and dig it. Bosco is also much better at not sneaking up in front of you when you are mining. All quality of life fixes to you favorite drone!
+BOSCO JOINS YOU IF YOU START A HOSTED GAME ALONE
+A very popular request from the community has been for Bosco to accompany you when you start hosting a game. This way you can start mining with Bosco assisting you, while you wait for your friends or strangers to join your game. We have done a rough first implementation with no bells and whistles, and it works like this:
+- Bosco joins you when you start hosting a public/ private game and head in alone.
+- When the first a player joins your game, Bosco will self-destruct for that game session.
+
+JADIZ BUFF
+Jadiz has been one of the hardest crafting materials to collect and we have buffed it. Jadiz will now spawn a bit more often in Crystalline Caverns Region and we have changed the value range of it from 7-18 to 10-18. 
+
+WANT NICE CLEAN SCREEN SHOTS? 
+Some of you have been requesting been able to take nice clean screenshot and we actually also need that feature! Now you can Hold [H] to toggle the HUD on/off. 
 
 
 NEW STUFF
---------------------------------------------
-TEAM CAMS LET YOU STAY IN THE ACTION
-1st iteration of Team Cams - Keep an eye on your teammates are doing while you are incapacitated. Now it is less of a downer being down! 
+-----------------------------------------------------
 
-ELECTRO CRYSTALS
-Deadly Electro Crystals have been added to Crystal Caverns. Don’t get too close - they pack a punch!
+NEW ENEMY: SAY HELLO TO THE MACTERA SPAWN! 
+The Mactera Spawn is our first proper flying enemy. It will attack from a distance using its vomit attack. Smack that Fly!
 
-PLATFORMS PROHIBITED IN DROP POD  
-Platforms (and Supply Pods) can not spawn/ attach to drop pod anymore. We get it... some off you had fun filling up the Drop Pod with platforms, but Management reminds you that Platform Concrete is notoriously hard to clean out!
+SWARMER TUNNELS 
+You can now come across strangely looking small tunnels coming out of the walls. Glyphid Swarmers live here! They are very territorial and will aggressively defend their nest! A simple advice: Avoid them!  
 
-GRAVITY RECALIBRATION
-A temptingly tantalizing button called “Gravity Recalibration” has been activated on the Space Rig. Management will likely frown on employees abusing it - but it’s so big and red...
+CAVE LEECH LETS YOU GO “GENTLY” WHEN IT DIES! 
+Previously, when a dwarf was dropped from a dying Cave Leech, he might drop for a long distance, mysteriously taking no fall damage, which was as designed but seemed weird. Now the Cave Leech slackens its’ tongue and lowers you down more gently, making it seem more realistic that you don’t take fall damage.
 
-FIXED STEAM REGION SEARCH
-Before some people had a hard time finding games in their own region. We have fixed this now (we hope)!
+DESTRUCTIBLE ARMOR ON GLYPHIDS!
+Direct enough firepower to those pesky armor plates to shoot them off and expose the soft underbits underneath!
+
+NEW PASSIVE CREATURE: IS IT A PLANE? IS IT A BIRD? NO IT‘S A FLYING JELLYFISH! 
+The Dense Biozone region of Hoxxes is now inhabited by large, passive, flying jellies.
+
+MINERAL TRADE TERMINAL 
+In the Mineral Trade Terminal you can trade your credits for crafting materials, but be advised that materials are priced fairly exorbitantly. You can also sell your precious crafting materials for credits, but again don’t expect a fair price. Deep Rock Galactic are always trying to maximize their income even if it comes from its workers! 
+
+REVOLVER RELOAD ANIMATION
+The Gunner’s Revolver now has a proper reload animation - as well as a cool gunslinger move when you try the reload while it’s fully reloaded.  
+
+FLASHLIGHT NERF 
+Range on the dwarves’ flashlights has been tweaked down from 12.50m to 11.00m, making them a bit weaker.
+
+PATHFINDER IMPROVEMENTS
+Enemies are now less likely to go straight through thin cave walls.
+
+M.U.L.E. SAFETY FIX
+If for some reason the MULE does not find its way back to the Escape Pod, the doors will still open 15 seconds before countdown runs out.  
 
 ...And tons of minor stuff, mostly bug-fixes behind the scenes, but also small visual upgrades. For full overview see the patch notes below.
 
+CHANGELIST
+-----------------------------------------------------
+- Tweaked sound for drop pod drills on spacerig
+- Red Sugar is more Redder
+-  Added Developer Tags
+- Fix carriable scaling after picking up in first person
+- Decreased maggot crawl volume
+- Cave leech audio tweak
+- Cave leech audio tweak again agian
+- Revolver reload
+- Tweaked Sound on electric crystal
+- Affliction overlay now does a quick fade in
+- Death Cam overlay tweaked
+- Droppod audio tweak - Not as loud in space rig
+- Shotgun audio tweak
+- Spawn effects when enemies come out of the ground now work on clients
+- Added ground light and gunlight seperation + added a backlighting making dead cam look better.  
+- Fixed - Your own vanity would not show as equipped to you on missions or in the spacerig.
+- Changed the first person weapon lighting, and submitted at shitload of material tweaks to match it..
+- Try to fix players spawning on top of each other
+- Try to fix delay on collectibles again!
+- Hooked up armor & health bar in player down hud
+- Added Resources to serverlist display
+- Added Third Person Character Turning (WIP)
+- Fixed electric crystals making death noises and particles when removed during generation
+- Submitted a lot of particle optimizations, to improve performance in Fungus
+- Fixed sentry gun reload audio not networked correctly & outline being always on
+- Tweaked hit indicator coloring
+- Increased sticky flame life time
+- Fewer Electrocrystals, smaller damage radius, longer pauses between connections
+- Fixed flamethrower first person particle effect being too small
+- Mineral distribution changed, Gold and Nitra are more evenly spreadout throughout the cave
+- Trading Terminal
+- Improved headshots on spiders
+- Made tentacle lower player to ground on death
+- Glyphids now only stagger when hit by weapons
+- Don’t play death particle on headshot
+- Fixing cave leech acidentally 'reviving' dead dwarf
+- Pathfinder improvements. Less going through terrain.
+- Added audio cue to swarmer tunnel spawn
+- Passive Jellies added to Dense biozone
+- Changes to tunnel settings - Less small tunnels in some regions
+- Bettersound on radioactive glowing crystals
+- Small tweak to revolvers accuracy. 
+- Improved laserpointer performance when checking against terrain
+- Bosco now spawns if you start a game alone and dissapears if someone joins
+- Swarmer tunnels with new material, sound, particles
+- Fix enemy healthbar initial state for weakpoint indicator
+- Shoulderlights tweaked down from 12.50m to 11.00m reach making them a bit weaker.
+- Added correct name to torn off glyphid legs
+- Added Shooter leg, instead of reusing spitter leg.
+- Changed lighting on the electric plants, and optimized the particles a bit. New flamethrower fire.
+- Added ignition effect for when enemies catch on fire.
+- Added Weakpoint Kill Particle for the flyer shooter
+- Players will fall from the zip-line if they take sufficient damage
+- Hold H to toggle HUD on/off
+- Glyphid Dreadnought area attack now does full damage in the entire area (There was a falloff before)
+- Tweaked Jadiz amount - Fixed bug where Jadiz spawning only had a value 2 to it having a 2 to 3 range + Changed value range from 7 to 18 to 10 to 18
+- Decreased loot from loot bug: chunks was 15-30 now is 15-25 and chunk value was 1-4 now is 1-3"
+	Update_11 = "やぁ、鉱夫のみんな、
 
-CHANGE LIST
+我々は素晴らしい新機能、いくつかの調整やバグ修正に加えて、別のアップデートがあります。これらの小さなアップデートに加えて、我々は現在いくつかのより大きなコンテンツと機能開発を始めている。これについては、今後の予定の大きなロードマップを明らかにした後で詳しく説明します。
+
+---パッチノート---
+
+コミュニティが要求した修正
 --------------------------------------------
-- 13314 Electric Plants are now Crystals and can be found in the Crystal Caverns Region
-- 13316 Updated all languages from Crowdin
-- 13319 Pickaxe will be less aggresive in hitting non hostile objects
-- 13320 FIX: Grappling hook getting stuck in grapple mode
-- 13328 Bosco can now detect smaller veins of minerals when you order him to mine
-- 13329 FIX: Control layouts now contains Controller Layout (again)
-- 13338 Bosco is now be better at not being in the way when you're mining minerals
-- 13339 There is a new switch in the spacerig, I wonder what it does?
-- 13341 Feature: Down Camera Mode, cycle through players while waiting to be revived or for the game to end. No more staring at your soon to be corpse!
-- 13384 Try to fix/improve network errors. Enable kick of players that have not selected a character
-- 13385 Fix Search Distance in server browser
-- 13386 Beta branches in steam will now save to separate save games. (Copies the save from main the first time). A backup save will now be saved after each mission, it checks total character XP so it should never be overwritten by a game with less progress.
-- 13391 rephrased supershotgun upgrade to match that it does not get doublle barrel fire only faster firerate.
-- 13393 Fix ui bug if incoming player is kicked before he selected character
-- 13397 Mission Map: Mission Icons now transparent if mission is locked, Password has correct spacing
-- 13402 Minor fix. Make molly prefer positions on floor when searching for random spot 
-- 13403 Fixed Shotgun reload speed upgrade not showing correct numbers. Fixed large upgrade digits barely fit in the UI
-- 13404 Server List got a facelift
-- 13405 Improved cave leech sounds
-- 13409 Prevent Pickaxe when using Last Equipped weapon key
-- 13410 Made Fire animations for flamethrower and gatling gun loop correctly instead of starting over repeatedly. Fixed tracer on assault rifle
-- 13411 Shield & health damage overlays now clears after revive
-- 13413 Gatling Gun Tweaks
-- 13414 Tweaked camera ofset on 1st person arms.
-- 13415 Gatling Gun muzzle particle offset tweaked
-- 13416 Tweaked Tentacle audio location
-- 13418 Add Weapon Sway to all items
-- 13419 Dropspike audio fix
-- 13420 Added maggot crawl audio
-- 13421 Mission Map locked mission gfx update
-- 13423 Nicer serverlist
-- 13424 Added new gatling overheat particles
-- 13427 Try to prevent dead end tunnels when they are really small and have tight bends.
-- 13429 tweaked depth on biomes
-- 13436 Better support for pathfinder blockers and danger zones. NPCs recalculate paths when entering an area that has changed.
-- 13445 Create backup save before upgrading to version 11 savegame
-- 13453 Fixed flaregun flare randomly getting ejected from walls when they are destroyed nearby
-- 13454 You can no longer revive while carrying a gem
-- 13455 Fixed enemies not being able to walk where the droppod was landed after it has taken off
-- 13466 Platforms can no longer form inside the droppod. Supplypods can only be called down on terrain. These changes are mainly to prevent trolling or unfortunate placement that can prevent you from finishing the mission.
-- 13468 Nicer host quit message
-- 13469 Newest FOV changes... moved the weapons a bit further away in some animations
-- 13471 [Patch] Power Drills is now smoking when they overheat.
-- 13480 Fix dwarf status is not shown on endscreen
-- 13484 Swarmer Tunnels in all biomes, one shot
-- 13495 Scaled up the flamethrower particles
-- 13503 Fixed depth meters for Biomes
+ガンナー：ガトリングガンのリワーク
+ガトリングガンが高難易度において特に弱いという話が多くありました。我々は同意し、それに多くの調整を加えました：
+- 開始弾薬量を1800発から1600発に変更しました。
+- 単一でアップグレード可能な弾薬ドラムから現在継続的に与えられている弾薬である - それ以上のリロードはありません！
+- オーバーヒートがわずかに早くなります - 10秒間の連続発射から9秒間へ微調整されました。
+- オーバーヒートはより酷くなります - 冷却時間が8秒から10秒に上がります
+- アップグレードのリワーク：弾薬や装弾数の増加を伴うアップグレードは、装弾数のみ焦点を当てるようになりました。もともと最初のアップグレードでは400発を最大弾数に与えていたのが、装弾数へと変更になりました。2回目の装弾数のアップグレードでは、前回の装弾数を増やしただけで400発の弾丸が追加されます。結果として、ガトリングガンは最大にした時、見事に2400発の弾丸を詰め込めます！
+- ガトリングガン用のアップグレートに新たにタングステン弾が追加され、ダメージが25%増加します。エクストリームの難易度に匹敵するプレイアーの為の必須アップグレードです。
+- オーバーヒートした時より明白にするため、煙のエフェクトを追加しました
+
+ボスコの改善
+未採掘の鉱石の小さな塊を指し、ボスコがそこへ向かって見つけられない場合、仕事をキャンセルします。今では彼は塊を見つけて掘ることができます。ボスコはまた、採掘中にあなたの前でうろうろしなくなる。生活全てのクオリティがお気に入りのドローンによって改善される！
+
+
+新しいスタッフ
+--------------------------------------------
+TEAM CAMSはあなたの行動を支えます
+Taem Camsの一回目の反復 - あなたが無能力になっている間チームメイトから目を離さないでください。今ではダウンする人が少なくなっています
+
+エレクトロクリスタル
+デッドリーエレクトロクリスタルがクリスタル洞窟に追加されました。近づくなよ - それらはパンチ力があるぞ！
+
+虫の穴
+あなたは現在壁にグリフィッドの穴に出くわすことがあります - 時々グリフィッドスウォーマーがそれらから出てくるので注意してください！それらは全てのバイオームに見られます。
+
+ドロップポッドにおいて禁止された横断ツール
+プラットフォームとジップラインはドロップポッドへの設置/取り付けができません。我々はそれを理解し...あなたがた何人かはプラットフォームでドロップポッドを埋め、楽しんだが、経営者はプラットフォームコンクリートは掃除するのが難しいことで有名だ！
+
+重力の再測定
+スペースリグで“重力再測定”と呼ばれる魅力的なボタンが有効化されました。経営者は、それを悪用している従業員を認めないようだ - しかし、それはとても大きくて赤い...
+
+スチームリージョン検索の修正
+以前は自分のリージョンでゲームを見つけるのに苦労していた人がいました。我々はこれを今修正しました(願っています)！
+
+...そして大量のマイナーなもの、主にバグフィックスの背景にあるが、小さな視覚的アップグレードもあります。完全な概要については、下記のパッチノートを参照してください。
+
+
+変更リスト
+--------------------------------------------
+- 13314 エレクトリックプラントは現在クリスタルであり、クリスタル洞窟の地域で見つかります
+- 13314 Crowdinの全言語を更新しました
+- 13319 ピッケルは敵意のないオブジェクトを打つことにあまり積極的ではない
+- 13320 修正：グラップリングフックがグラップルモードで動かなくなる
+- 13328 ボスコは現在採掘を命令された時、より小さな鉱石の鉱脈を検出可能になった\r- 13329 修正：コントロールレイアウトにコントローラーレイアウトが含まれるようになった(再度)
+- 13338 ボスコは現在、あなたが採掘中邪魔をしなくなった
+- 13339 スペースリグに新しいスイッチがあるが、何だろうか？
+- 13341 機能：ダウンカメラモード、復活を待っている間、またはゲームが終了するまでプレイヤーを循環します。もうわけなく死体を見つめない！
+- 13384 ネットワークエラーの修正/改善を試みる。キャラクターを選択していないプレイヤーをのキックを有効にする
+- 13385 サーバーブラウザーでの検索距離の修正
+- 13386 steamのベータブランチは別のセーブゲームに保存されます。(最初はメインからセーブをコピーします)。バックアップのセーブは、各ミッション後に保存されるようになり、合計のキャラクター経験値をチェックするので、進捗の少ないゲームで上書きされることはありません。
+- 13391 スーパーショットガンは適したアップグレードをすると、二つのドラム缶が燃える連射速度が速くなるだけではない。
+- 13393 到着したプレイヤーがキャラクターを選択する前にキックされた場合のUIバグの修正
+- 13397 ミッションマップ：ミッションアイコンはミッションがロックされていれば透明になり、パスワードは正しい空欄があります
+- 13402 マイナー修正：適当な場所を探す時にもりーが床の上を好むようにした
+- 13403 ショットガンのリロード速度のアップグレードで正しい数字が表示されないのを修正。大きなアップグレードの桁がUIにほとんど収まっていないのを修正
+- 13404 サーバーリストの改善
+- 13405 ケイブリーチ音の改良
+- 13409 最後に装備された武器の鍵を使用する時ピッケルを防ぐ
+- 13410 火炎放射器とガトリングガン用のファイアーアニメーションを繰り返しをやり直すのではなく、正しくループさせました。アサルトライフルの追跡を修正
+- 13411 復活後にシールドと体力のダメージオーバーレイがクリアされるようになりました
+- 13413 ガトリングガンの微調整
+- 13414 一人称視点の腕でのカメラのセットを微調整
+- 13415 ガトリングガン銃口のパーティクルオフセットの微調整
+- 13416 テンタクルオーディオの場所調整
+- 13418 全てのアイテムに武器の揺れを追加
+- 13419 ドロップスパイクオーディオの修正
+- 13420 マゲットクロールの音声を追加
+- 13421 ミッションマップロックミッション gfx アップデート
+- 13423 より良いサーバーリスト
+- 13424 新しいガトリングオーバーヒートのパーティクルを追加
+- 13427 デッドアンドトンネルが実際に小さくて曲がりくねっている時は防ぐようにしてください。
+- 13429 バイオームの深さを微調整した
+- 13436 探検者ブロッカーと危険ゾーンのサポートが強化されました。NPCは、変更された領域に入るとパスを再計算します。
+- 13445 バージョン11のセーブゲームにアップグレードする前にバックアップセーブを作成します
+- 13453 周辺で破壊された時に壁からランダムに放出されるフレアガンのフレアを修正
+- 13454 宝石を運んでいる間は復活できなくなりました
+- 13455 ドロップポッドが離陸した後に降下した場所を歩けない敵を修正
+- 13466 プラットフォームはドロップポッドの内部に設置できなくなった。サプライポッドは地表でのみ呼び出すことができます。これらの変更は主に、あなたがミッションを終わらせるのを妨げる荒らしや不運な配置を防ぐためです。
+- 13468 より良いホスト終了メッセージ
+- 13469 最新のFOVの変更...いくつかのアニメーションで武器を少し遠ざけました
+- 13471 [Patch]パワードリルはオーバーヒートすると煙を上げます。
+- 13480 ドワーフのステータス終了画面で表示されないのを修正
+- 13484 全バイオームでの一度きりのスウォーマートンネル
+- 13495 火炎放射器のパーティクルをスケールアップしました。
+- 13503 バイオームの深度計の修正
 "
 	Update_10 = "やぁ、鉱夫のみんな、
 

@@ -172,6 +172,38 @@
 						"Type": "Developer",
 						"LoadingPhase": "PreDefault"
 					}
+				],
+				"Plugins": [
+					{
+						"Name": "AssetManagerEditor",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Asset Manager Editor",
+				"Description": "Editor UI and utilities for managing and auditing Assets on disk",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AssetManagerEditor",
+						"Type": "Developer",
+						"LoadingPhase": "PreDefault"
+					}
 				]
 			}
 		},
@@ -310,6 +342,47 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Editor/CryptoKeys/CryptoKeys.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "CryptoKeys",
+				"Description": "",
+				"Category": "Other",
+				"CreatedBy": "",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "CryptoKeys",
+						"Type": "Developer",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Mac",
+							"Win64",
+							"Linux"
+						]
+					},
+					{
+						"Name": "CryptoKeysOpenSSL",
+						"Type": "Developer",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Mac",
+							"Win64",
+							"Linux"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin",
 			"Descriptor": 
 			{
@@ -337,6 +410,32 @@
 						"Name": "FacialAnimationEditor",
 						"Type": "Editor",
 						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Enterprise/DatasmithContent/DatasmithContent.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 182,
+				"VersionName": "0.182",
+				"FriendlyName": "DatasmithContent",
+				"Description": "Content for Datasmith Importer.",
+				"Category": "Unreal Studio",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "DatasmithContent",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
 					}
 				]
 			}
@@ -392,7 +491,8 @@
 						"LoadingPhase": "PreLoadingScreen",
 						"WhitelistPlatforms": [
 							"IOS",
-							"Mac"
+							"Mac",
+							"TVOS"
 						]
 					},
 					{
@@ -411,8 +511,9 @@
 						"LoadingPhase": "PostEngineInit",
 						"WhitelistPlatforms": [
 							"IOS",
-							"Mac",
 							"Linux",
+							"Mac",
+							"TVOS",
 							"Win32",
 							"Win64"
 						]
@@ -442,7 +543,7 @@
 					{
 						"Name": "ImgMedia",
 						"Type": "RuntimeNoCommandlet",
-						"LoadingPhase": "PreLoadingScreen"
+						"LoadingPhase": "Default"
 					},
 					{
 						"Name": "ImgMediaEditor",
@@ -468,6 +569,32 @@
 							"Win32",
 							"Win64"
 						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Media/LinearTimecode/LinearTimecode.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Linear Timecode Reader",
+				"Description": "Read Linear Timecode from an audio source.",
+				"Category": "Media Players",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "LinearTimecode",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
 					}
 				]
 			}
@@ -634,7 +761,7 @@
 					{
 						"Name": "ActorSequence",
 						"Type": "Runtime",
-						"LoadingPhase": "Default"
+						"LoadingPhase": "PreDefault"
 					}
 				]
 			}
@@ -671,6 +798,43 @@
 					{
 						"Name": "OnlineSubsystemUtils",
 						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/AudioCapture/AudioCapture.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Audio Capture",
+				"Description": "Plugin provides an interface for microphone input capture.",
+				"Category": "Audio",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AudioCapture",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64"
+						]
+					},
+					{
+						"Name": "AudioCaptureEditor",
+						"Type": "Editor",
+						"LoadingPhase": "PostEngineInit",
+						"WhitelistPlatforms": [
+							"Win64"
+						]
 					}
 				]
 			}
