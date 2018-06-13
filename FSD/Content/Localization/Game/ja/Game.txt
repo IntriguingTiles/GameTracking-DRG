@@ -1,7 +1,7 @@
 22 namespaces
-2670 values
+2672 values
 
-Namespace Global (3201 keys)
+Namespace Global (3207 keys)
 	2559D78C40005E5221F26093CB976283 = " 収集 {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " 要求"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = "サウンドデザイナー/音楽プロデューサー"
@@ -499,7 +499,7 @@ Hoxxesはあなたの友人ではない！""
 	2939AF8C40B48D069EF1AEB4DC854E51 = "Complete {value} Missions in The Salt Pits"
 	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Opperations"
 	EB1B8A3542443FF3561615B2AB486FFE = "Complete {value} Search and Extract Missions"
-	55D0A66F44FCB63A9805AC859C63B095 = "セカンダリーミッションを {value} 個完了"
+	55D0A66F44FCB63A9805AC859C63B095 = "Complete {value} Secondary Objectives"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "複雑"
 	151724A14D1B1BD735C9DCAC1DF8C446 = "複雑さ"
 	7DC1B17349F76564C915108665417F1A = "複雑さ："
@@ -1031,6 +1031,10 @@ Hoxxesはあなたの友人ではない！""
 	DF8927014457DEB1A222759C3C2B74AA = "ガンナー"
 	E4CA328C4E57D2B2A07A2FBA12D6640F = "ガンナー"
 	AAA8193840982011FD259AB023A1D053 = "ガンナーの彫像"
+	17BF434B432DBF4223952F9EF404B811 = "Gain {value} levels as the {character}"
+	4ABC44BD43F86CC931E28D89441C096D = "Gain {value} levels as the {character}"
+	8866F6A8415D6F16836FD0BC6A983387 = "Gain {value} levels as the {character}"
+	89CE684D48EAA0933D24D480C524D6EB = "Gain {value} levels as the {character}"
 	0210DC9A43583272C34577AA706D12C2 = "ゲームデザイナー"
 	1D17F0AC4E3E13374F78208C216F0B53 = "ゲームディレクター"
 	A1D3105046216F6A6033439F4C89833B = "ゲーム サーバー名"
@@ -1176,7 +1180,6 @@ Hoxxesはあなたの友人ではない！""
 	CA2577B2490F58125B613A8FAFE9EB8E = "髪型3"
 	43853D14403E8C70DB9FB7BC01350C91 = "持ちこたえろ、補給が向かっている。"
 	631B26D74487C6C769C74BACAA22F99A = "しっかりしろ。このウェーブは大方片付いた。残りを仕留めろ。"
-	19A4058E49EA0C335776D39AC7DBD80A = "ハーベスター"
 	D234CB9A4CB33E35859A008D44C30B07 = "ハザード 1"
 	B4B917114A84B4B7F995BDBC8A2F9676 = "ハザード 1 - ローリスク"
 	9D37E9CA45B017DD9BD1B983E9BC4536 = "ハザード 2"
@@ -2400,9 +2403,10 @@ But well done. :D
 	560C3A5E402E3A45BFF035B7741D08F3 = "挨拶"
 	8BC5E4024C1F140941755090E50DE0EF = "挨拶"
 	E05734A147FBEC155C3EC1B6DC2C33BD = "挨拶"
-	663DF6A0400D452BD3BFEEABCF804CDA = "サルベージ"
-	C6242A264B9CAFC86010E08FEB3F4E88 = "サルベージ"
-	71BB3FD34003F9E5896BA283834539AD = "サルベージミッション"
+	663DF6A0400D452BD3BFEEABCF804CDA = "Salvage Operation"
+	71BB3FD34003F9E5896BA283834539AD = "Salvage Operation"
+	C6242A264B9CAFC86010E08FEB3F4E88 = "Salvage Operation"
+	557B55E74F310E9E3CE1B99447B57EC1 = "Salvage Operations Completed"
 	EC069740491D88E1DCC0E1880E7D5FE3 = "M.U.L.Eを {count} 個救出"
 	4CB7BF034402D8F57BD2EAB4B357A7DC = "M.U.L.Eを {current}/{required} 体回収"
 	079A2F7943180A27F7D98283EBD927B1 = "ちょっと違う"
@@ -2423,6 +2427,7 @@ But well done. :D
 	B9EA8B274299E41C51411C811D2E1894 = "検索"
 	0AD95C494B573260500256A8D0858937 = "捜索と採取"
 	716E8C0641D6EAB70D4C0BBC12C1891D = "検索距離"
+	3A0C7F15426333D5A2006DAB86774106 = "Search and Extract Missions Completed"
 	B428FA9B49215658FF6BFBBDC48D6CDC = "検索中…"
 	868E128C45FA0EDA4AA9D2BFF1646186 = "座席利用可能"
 	F06C53A0474965B39D9A88B64BFF0A26 = "座席利用可能"
@@ -2508,6 +2513,7 @@ But well done. :D
 	ADFC64CD41433C1A817D5DB50257BE38 = "下にあるコミュニティに参加から私達のSteamグループに登録し 私達とゲームの発展を維持していきましょう - Hoxxes IVにある鉱山での仕事初日にてしっかりしたあなたの後押しとしてゲーム内5000クレジットを無料で獲得します！"
 	C26B43B84BB1149261499DB1FBD9F2DB = "サインアウト"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "静かにしろ!"
+	19A4058E49EA0C335776D39AC7DBD80A = "Silicate Harvester"
 	82D5760A4D36C73A04E752BDC5DE965D = "単純"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "サイト 11 - ディープ シェール"
 	DAFCD54541C22C0CE8FBFC9C2ADFE44E = "サイト 11 - ディープ シェール"
@@ -3314,6 +3320,7 @@ Namespace Missions (2 keys)
 Namespace PatchNotes (18 keys)
 	Update_11_ShortTitle = "DEAD AND GUN"
 	Update_9_ShortTitle = "またな！"
+	Update_14_ShortTitle = "FEATURE CREEP"
 	Update_12_ShortTitle = "FLIES N' FINANCE"
 	Update_9 = "こんにちは 鉱夫のみなさん！
 Deep Rock Galacticは公開されて１週間が経ちました。私達は素晴らしいスタートを切り（やった！）、今は次のアップデートに向けて頑張っています。ゲーム内ではフィードバックボタンを設置しましたが、とても多くの方に利用していただき本当にありがとうございました。これらのフィードバックは私たちの大きな助けになります。今回のアップデートについては以下をお読みください。
@@ -3404,6 +3411,114 @@ Co-opモード時
 - レベルがちょうど終わる時に遅れて参加した際のクラッシュを修正しました
 - ローディングの間にヒントの文章を編集できなくなりました！
 - 地形が変わった時にマップツールが正しく更新されないバグを修正しました
+"
+	Update_14 = "Hello Miners! This time around we’ve cooked up a fairly massive update together for you, just in time for summer vacation. And speaking of summer vacation - DRG just cancelled yours! New missions and monsters await and you got a ton of milestones to meet! So get to work!
+
+MAJOR NEW FEATURES
+------------------------------------
+NEW MISSION TYPE: SALVAGE OPERATION
+It is your job to go in and clean up after a failed mining expedition. You will have to salvage three Mini Mules and repair a damaged drop pod in order to bring all the lost equipment home. Get ready for a combat heavy experience where teamwork and good preparation is key to success! Don’t be another failure!
+
+NEW ENEMY: THE MACTERA GRABBER
+The Grabber is the new terror from the sky. It snatches up a random dwarf and flies away with him, before dropping him to crack like a nut on the floor below! Depending on your luck, you might just end up with some bruises - or you might end up being dumped into a chasm! Shoot ‘em quick, that’s our suggestion...
+
+KEY PERFORMANCE INDICATORS
+Deep Rock Galactic are now tracking your work performance! On the KPI screen in your cabin you can check out detailed stats on your performance, you can reach milestones and earn perk points, and you can spend those points on unlocking awesome perks for your dwarves, making your day to day work a little easier.
+
+IMPROVED VANITY CUSTOMIZATION SYSTEM 
+The Vanity System has had a complete overhaul, expanding greatly on our options. Here are some of the new features:
+- Build the beard of your dreams! Individually customize hair, eyebrows, sideburns, moustache and beard!  
+- All armor has received an overhaul! More detail has been added in general, and armor now supports textures! Look at the nice tiger stripes on the Gunner’s armor!
+- The original selection of beards has been broken up into parts and added back in to support the new system. 
+-  A small selection of new Hats, Hair, Helmets, Beards, Moustaches, and Sideburns have been added. We are by no means done here yet, this was just what we managed to get in for this patch.
+
+NEW ENVIRONMENTAL HAZARDS
+- During missions in the Sandblasted Corridors, you will now have a chance of  encountering blinding sandstorms and forceful wind tunnels. 
+- The Magma Core just got a lot hotter! Try to avoid the hot magma rock - It burns! Also notice that explosions will expose the hot magma rock under the surface - turning the battlezone into a dangerous place for friends and foes.  
+
+BUFFS AND NERFS
+------------------------------------
+ENGINEER: PLATFORM GUN
+- Start ammo increased from 10 to 12 platforms. 
+- Mag size increased from 3 to 4 platforms. 
+- Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
+
+ENGINEER: SENTRY GUNS
+- Starting sentry gun max ammo reduced from 400 to 350.
+- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+
+DRILLER: HANDGUN
+- The starting clip size of the Handgun has been increased from 8 to 12 bullets.
+- Clip size upgrade has been increased from +4 bullets to +6 bullets.
+
+BOSCO
+- Bosco now deals 8 points of damage instead of 6 per shot 
+- Friendly fire factor decreased from 0.2 to 0.1. Not fun being killed by your favorite Drone afterall!
+
+OTHER IMPORTANT FIXES AND FEATURES
+------------------------------------
+ENEMIES
+- Praetorians now spit acid!
+- Praetorian difficulty rating increased. It is now more deadly, so you will encounter fewer of them.
+- Fixed Deeptora Swarms not attacking players.
+- Added armor and weak spots to Infector. Also increased base HP, aim for the weak spots for a quick kill.
+- Fixed swarmer tunnel debris in Radioactive.
+- Blood splatter when enemies hit you.
+- Added Jump attack to the Glyphid Swamers.
+- Tweaked end wave pressure.
+- Reduced the alert distance of Glyphid Grunts  and Praetorians. Players have to be closer before they attack.
+- Added new Glyphid sounds and tweaks.
+- Swarmer Tunnels debris material fixed
+- Salt Caves tunnel crystal madness fixed.
+- Exploders get speed boost when near another Exploder exploding.
+- Fixed Glyphid Spawner weak points.
+- Increase AI avoidance for Exploders.
+- Fixed Cave Leech grabbing already paralyzed target.
+- Align Glyphid Spitters towards target when stationary.
+
+BIOMES
+- Red Sugar leaves chunks on the ground if you mine it while at full health.
+- Radioactive materials and colour tweaks.
+- Tweaks on post process effects.
+- Steam Geysers in Fungus Bogs can now spawn at more interesting angles. Have Fun!
+- Made the Glowtree illuminate a much larger area. The more Bulbs you shoot the brighter it gets
+- Fungus Bogs wall material tweak.
+- Lush wall material tweaks, Nitra tweaks, Gold tweaks.
+- Slightly randomize animation speed of animated foliage so they are not all in same phase of animation.
+- Added exploding plants to Fungus bog and Dense Biozone (as colour variant).
+- New passive creature: Silicate Harvester added to Dense Biozone and Radioactive regions. You can ride it!
+
+CAVE GENERATION AND MISSIONS
+- New cave shapes. More variations for the level generation.
+- More randomization for the existing cave shapes.
+- Unique cave structure for the Salvage Operations.
+- Cave complexity is now more accurate, making sure that the difference between simple and complicated caves is more apparent.
+- High Complexity missions are now locked to player rank (2 for medium and 3 for high complexity).
+- Hazard level: Tourist has been removed for now. Very few players was playing this mode and it felt a bit broken how you were earning zero gold or xp.
+
+WEAPONS AND TOOLS
+- Added laser pointer warning to radioactive crystals.
+- Added Gatling Gun gunsling animation.
+- Fixed laser pointer distance bug.
+- Holding time to equip laser pointer with controller is shorter.
+- Sentry gun fix - It would sometimes shoot things that were not enemies.
+- Bullet casings for gatling gun and assault rifle have been reactivated.
+
+HUD
+- Teammates icons always visible displaying current health, special states (like being grabbed by a cave leech), and shouts.
+- Laser pointer pings when it hovers over a resource.
+- When laserpointer equipped, hold FIRE to place personal waypoint.
+- New crosshairs for most weapons.
+- Hit indicators removed in their previous form. Now some parts of the crosshair will turn red to confirm that an enemy has been hit. Red arrows appear on the health bar when the shot hit a weak spot.
+
+MISC.
+- Update Chinese translation.
+- Turkish added to supported languages.
+- Fixed trading buy/sell+crash exploit.
+- Fix Bosco related crash.
+- Tweaked 'Player Down' HUD & team icons.
+- Mission Control now announces gravity recalibration.
+- The hosting player now jumps the same height as clients (was lower before).
 "
 	Update_12 = "やぁ鉱夫のみんな！
 
@@ -3707,10 +3822,8 @@ Taem Camsの一回目の反復 - あなたが無能力になっている間チ�
 	Update_11_Header = "アップデート 11: DEAD AND GUN  -  03.23.2018"
 	Update_12_Header = "アップデート 12: FLIES N' FINANCE - 13.04.2018"
 	Update_13_Header = "アップデート 13: MINOR LIFE CHANGES - 04.05.2018"
-	Update_14_Header = "アップデート 14: [Name] - [Date]"
+	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
 	Update_9_Header = "アップデート 9: DRILL YOU LATER!  -  09.03.2018"
-	Update_14 = "[ここにパッチ ノートを追加！]"
-	Update_14_ShortTitle = "[Update 14 Name]"
 
 Namespace Progression (6 keys)
 	ClassLevel = "クラス レベル"

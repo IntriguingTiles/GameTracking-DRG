@@ -1,7 +1,7 @@
 22 namespaces
 2652 values
 
-Namespace Global (3327 keys)
+Namespace Global (3331 keys)
 	2559D78C40005E5221F26093CB976283 = " Recueillir {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUIS"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -527,7 +527,7 @@ DE BRIEFING"
 	C4B1BAF74198A3B6CE0054BC7405B0AA = "Accomplir {value} Points d'extractions"
 	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Opperations"
 	EB1B8A3542443FF3561615B2AB486FFE = "Complete {value} Search and Extract Missions"
-	55D0A66F44FCB63A9805AC859C63B095 = "Compléter {value} Missions secondaires"
+	55D0A66F44FCB63A9805AC859C63B095 = "Complete {value} Secondary Objectives"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "Complexe"
 	151724A14D1B1BD735C9DCAC1DF8C446 = "Complexité"
 	7DC1B17349F76564C915108665417F1A = "Complexité :"
@@ -1078,6 +1078,10 @@ DE TIR"
 	DF8927014457DEB1A222759C3C2B74AA = "SOLDAT"
 	E4CA328C4E57D2B2A07A2FBA12D6640F = "SOLDAT"
 	AAA8193840982011FD259AB023A1D053 = "STATUE DE SOLDAT"
+	17BF434B432DBF4223952F9EF404B811 = "Gain {value} levels as the {character}"
+	4ABC44BD43F86CC931E28D89441C096D = "Gain {value} levels as the {character}"
+	8866F6A8415D6F16836FD0BC6A983387 = "Gain {value} levels as the {character}"
+	89CE684D48EAA0933D24D480C524D6EB = "Gain {value} levels as the {character}"
 	0210DC9A43583272C34577AA706D12C2 = "Game Designer"
 	1D17F0AC4E3E13374F78208C216F0B53 = "Game Director"
 	A1D3105046216F6A6033439F4C89833B = "Nom du serveur"
@@ -1232,7 +1236,6 @@ DE TIR"
 	631B26D74487C6C769C74BACAA22F99A = "Tenez bon, la vague touche à sa fin. Tuez ce qu'il en reste."
 	1468E7A5462C6F83AEB14ABFF14F6F50 = "Lunettes de protection en verre trempé et acier renforcé. Personne ne va bousiller votre caboche."
 	4D4D584A4B800FD186BAEDB67012406E = "Lunettes de protection en verre trempé et acier renforcé. Personne ne va bousiller votre caboche."
-	19A4058E49EA0C335776D39AC7DBD80A = "Récolteur"
 	D234CB9A4CB33E35859A008D44C30B07 = "Danger 1"
 	B4B917114A84B4B7F995BDBC8A2F9676 = "Danger 1 - Risques minimes"
 	9D37E9CA45B017DD9BD1B983E9BC4536 = "Danger 2"
@@ -2496,10 +2499,10 @@ MISSION"
 	560C3A5E402E3A45BFF035B7741D08F3 = "Saluer"
 	8BC5E4024C1F140941755090E50DE0EF = "Saluer"
 	E05734A147FBEC155C3EC1B6DC2C33BD = "Salutations"
-	663DF6A0400D452BD3BFEEABCF804CDA = "Sauvetage"
-	C6242A264B9CAFC86010E08FEB3F4E88 = "Sauvetage"
-	71BB3FD34003F9E5896BA283834539AD = "Mission de sauvetage"
-	557B55E74F310E9E3CE1B99447B57EC1 = "Missions de Sauvetages Terminées"
+	663DF6A0400D452BD3BFEEABCF804CDA = "Salvage Operation"
+	71BB3FD34003F9E5896BA283834539AD = "Salvage Operation"
+	C6242A264B9CAFC86010E08FEB3F4E88 = "Salvage Operation"
+	557B55E74F310E9E3CE1B99447B57EC1 = "Salvage Operations Completed"
 	EC069740491D88E1DCC0E1880E7D5FE3 = "Sauver {count} M.U.L.E.s"
 	4CB7BF034402D8F57BD2EAB4B357A7DC = "Sauver {current}/{required} M.U.L.E."
 	079A2F7943180A27F7D98283EBD927B1 = "Pareille mais pas tout à fait"
@@ -2520,7 +2523,7 @@ MISSION"
 	B9EA8B274299E41C51411C811D2E1894 = "Recherche"
 	0AD95C494B573260500256A8D0858937 = "Recherche et extraction"
 	716E8C0641D6EAB70D4C0BBC12C1891D = "Distance de Recherche"
-	3A0C7F15426333D5A2006DAB86774106 = "Recherche et extractions terminés"
+	3A0C7F15426333D5A2006DAB86774106 = "Search and Extract Missions Completed"
 	B428FA9B49215658FF6BFBBDC48D6CDC = "Recherche..."
 	868E128C45FA0EDA4AA9D2BFF1646186 = "Siège disponible"
 	F06C53A0474965B39D9A88B64BFF0A26 = "Siège disponible"
@@ -2606,6 +2609,7 @@ personnage"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Suivez notre groupe Steam ci-dessous pour rejoindre la communauté et restez informé avec nous sur le développement du jeu - et réclamez votre récompense gratuite de 5,000 crédits de jeu pour vous donner un coup de pouce énorme à travers vos premiers jours de travail dans les mines de Hoxxes IV !"
 	C26B43B84BB1149261499DB1FBD9F2DB = "Déconnecté"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "Silence, s’il vous plaît !"
+	19A4058E49EA0C335776D39AC7DBD80A = "Silicate Harvester"
 	82D5760A4D36C73A04E752BDC5DE965D = "Simple"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "Site 11 - Schiste profond"
 	DAFCD54541C22C0CE8FBFC9C2ADFE44E = "Site 11 - Schiste profond"
@@ -3438,6 +3442,7 @@ Namespace Missions (2 keys)
 Namespace PatchNotes (18 keys)
 	Update_11_ShortTitle = "MORT ET ARME"
 	Update_9_ShortTitle = "A UNE PIOCHE-AINE !"
+	Update_14_ShortTitle = "FEATURE CREEP"
 	Update_12_ShortTitle = "FLIES N 'FINANCE"
 	Update_9 = "Bonjour Mineurs!
 
@@ -3529,6 +3534,114 @@ Mises à jour diverses
 - Correction d'un plantage si on rejoignait la partie juste à la fin du niveau.
 - Correction du texte de l'écran de chargement, on ne peut plus l'éditer pendant le chargement ! 
 - Correction de la carte qui ne se mettait pas toujours à jour quand le terrain changeait.
+"
+	Update_14 = "Hello Miners! This time around we’ve cooked up a fairly massive update together for you, just in time for summer vacation. And speaking of summer vacation - DRG just cancelled yours! New missions and monsters await and you got a ton of milestones to meet! So get to work!
+
+MAJOR NEW FEATURES
+------------------------------------
+NEW MISSION TYPE: SALVAGE OPERATION
+It is your job to go in and clean up after a failed mining expedition. You will have to salvage three Mini Mules and repair a damaged drop pod in order to bring all the lost equipment home. Get ready for a combat heavy experience where teamwork and good preparation is key to success! Don’t be another failure!
+
+NEW ENEMY: THE MACTERA GRABBER
+The Grabber is the new terror from the sky. It snatches up a random dwarf and flies away with him, before dropping him to crack like a nut on the floor below! Depending on your luck, you might just end up with some bruises - or you might end up being dumped into a chasm! Shoot ‘em quick, that’s our suggestion...
+
+KEY PERFORMANCE INDICATORS
+Deep Rock Galactic are now tracking your work performance! On the KPI screen in your cabin you can check out detailed stats on your performance, you can reach milestones and earn perk points, and you can spend those points on unlocking awesome perks for your dwarves, making your day to day work a little easier.
+
+IMPROVED VANITY CUSTOMIZATION SYSTEM 
+The Vanity System has had a complete overhaul, expanding greatly on our options. Here are some of the new features:
+- Build the beard of your dreams! Individually customize hair, eyebrows, sideburns, moustache and beard!  
+- All armor has received an overhaul! More detail has been added in general, and armor now supports textures! Look at the nice tiger stripes on the Gunner’s armor!
+- The original selection of beards has been broken up into parts and added back in to support the new system. 
+-  A small selection of new Hats, Hair, Helmets, Beards, Moustaches, and Sideburns have been added. We are by no means done here yet, this was just what we managed to get in for this patch.
+
+NEW ENVIRONMENTAL HAZARDS
+- During missions in the Sandblasted Corridors, you will now have a chance of  encountering blinding sandstorms and forceful wind tunnels. 
+- The Magma Core just got a lot hotter! Try to avoid the hot magma rock - It burns! Also notice that explosions will expose the hot magma rock under the surface - turning the battlezone into a dangerous place for friends and foes.  
+
+BUFFS AND NERFS
+------------------------------------
+ENGINEER: PLATFORM GUN
+- Start ammo increased from 10 to 12 platforms. 
+- Mag size increased from 3 to 4 platforms. 
+- Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
+
+ENGINEER: SENTRY GUNS
+- Starting sentry gun max ammo reduced from 400 to 350.
+- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+
+DRILLER: HANDGUN
+- The starting clip size of the Handgun has been increased from 8 to 12 bullets.
+- Clip size upgrade has been increased from +4 bullets to +6 bullets.
+
+BOSCO
+- Bosco now deals 8 points of damage instead of 6 per shot 
+- Friendly fire factor decreased from 0.2 to 0.1. Not fun being killed by your favorite Drone afterall!
+
+OTHER IMPORTANT FIXES AND FEATURES
+------------------------------------
+ENEMIES
+- Praetorians now spit acid!
+- Praetorian difficulty rating increased. It is now more deadly, so you will encounter fewer of them.
+- Fixed Deeptora Swarms not attacking players.
+- Added armor and weak spots to Infector. Also increased base HP, aim for the weak spots for a quick kill.
+- Fixed swarmer tunnel debris in Radioactive.
+- Blood splatter when enemies hit you.
+- Added Jump attack to the Glyphid Swamers.
+- Tweaked end wave pressure.
+- Reduced the alert distance of Glyphid Grunts  and Praetorians. Players have to be closer before they attack.
+- Added new Glyphid sounds and tweaks.
+- Swarmer Tunnels debris material fixed
+- Salt Caves tunnel crystal madness fixed.
+- Exploders get speed boost when near another Exploder exploding.
+- Fixed Glyphid Spawner weak points.
+- Increase AI avoidance for Exploders.
+- Fixed Cave Leech grabbing already paralyzed target.
+- Align Glyphid Spitters towards target when stationary.
+
+BIOMES
+- Red Sugar leaves chunks on the ground if you mine it while at full health.
+- Radioactive materials and colour tweaks.
+- Tweaks on post process effects.
+- Steam Geysers in Fungus Bogs can now spawn at more interesting angles. Have Fun!
+- Made the Glowtree illuminate a much larger area. The more Bulbs you shoot the brighter it gets
+- Fungus Bogs wall material tweak.
+- Lush wall material tweaks, Nitra tweaks, Gold tweaks.
+- Slightly randomize animation speed of animated foliage so they are not all in same phase of animation.
+- Added exploding plants to Fungus bog and Dense Biozone (as colour variant).
+- New passive creature: Silicate Harvester added to Dense Biozone and Radioactive regions. You can ride it!
+
+CAVE GENERATION AND MISSIONS
+- New cave shapes. More variations for the level generation.
+- More randomization for the existing cave shapes.
+- Unique cave structure for the Salvage Operations.
+- Cave complexity is now more accurate, making sure that the difference between simple and complicated caves is more apparent.
+- High Complexity missions are now locked to player rank (2 for medium and 3 for high complexity).
+- Hazard level: Tourist has been removed for now. Very few players was playing this mode and it felt a bit broken how you were earning zero gold or xp.
+
+WEAPONS AND TOOLS
+- Added laser pointer warning to radioactive crystals.
+- Added Gatling Gun gunsling animation.
+- Fixed laser pointer distance bug.
+- Holding time to equip laser pointer with controller is shorter.
+- Sentry gun fix - It would sometimes shoot things that were not enemies.
+- Bullet casings for gatling gun and assault rifle have been reactivated.
+
+HUD
+- Teammates icons always visible displaying current health, special states (like being grabbed by a cave leech), and shouts.
+- Laser pointer pings when it hovers over a resource.
+- When laserpointer equipped, hold FIRE to place personal waypoint.
+- New crosshairs for most weapons.
+- Hit indicators removed in their previous form. Now some parts of the crosshair will turn red to confirm that an enemy has been hit. Red arrows appear on the health bar when the shot hit a weak spot.
+
+MISC.
+- Update Chinese translation.
+- Turkish added to supported languages.
+- Fixed trading buy/sell+crash exploit.
+- Fix Bosco related crash.
+- Tweaked 'Player Down' HUD & team icons.
+- Mission Control now announces gravity recalibration.
+- The hosting player now jumps the same height as clients (was lower before).
 "
 	Update_12 = "Hey Miners! C'est encore une fois un patch, et nous avons plein de trucs sympas pour vous! Tweaks, corrections de bugs, et le premier nouvel ennemi! En outre, avec ces mises à jour plus petites, nous sommes en train d'initier un plus grand développement de contenu et de fonctionnalités. Plus sur cela plus tard, lorsque nous révélons une plus grande feuille de route des choses à venir. \ r \ r --- NOTES DE PATCH --- \ r \ f COMMUNAUTES DEMANDÉES FIXES \ r ----------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Bosco vous accompagne lorsque vous commencez à héberger un jeu. De cette façon, vous pouvez commencer à explorer minutieusement avec Bosco qui vous assiste, pendant que vous attendez que vos amis ou des étrangers rejoignent votre partie. Nous avons effectué une première implémentation sans aucun bruit et cela fonctionne comme suit: - Bosco vous rejoint lorsque vous commencez à héberger une partie publique / privée et que vous vous dirigez seul. - Quand le premier joueur rejoint votre partie , Bosco s'autodétruira pour cette session de jeu. JADIZ BUFF Jadiz a été l'un des matériaux d'artisanat les plus difficiles à collectionner et nous l'avons poli. Jadiz va maintenant apparaître un peu plus souvent dans la région des cavernes cristallines et nous avons changé la plage de valeurs de 7-18 à 10-18. VOULEZ-VOUS DE BELLES PLANS D'ÉCRAN PROPRES? Certains d'entre vous ont demandé à pouvoir prendre de belles captures d'écran et nous avons aussi besoin de cette fonctionnalité! Maintenant vous pouvez maintenir [H] pour activer / désactiver le HUD. \ r \ r \ r NOUVEAU STUFF \ r ---------------------------------------- ------------- \ r \ r NOUVEL ENNEMI: DITES BONJOUR AU MACTERA SPAWN! Le Mactera Spawn est notre premier ennemi volant. Il va attaquer à distance en utilisant son attaque de vomi. Smack that Fly! TUNNELS SWARMER \ r Vous pouvez maintenant trouver des petits tunnels étrangement regardant qui sortent des murs. Les Swarmers des Glyphes vivent ici! Ils sont très territoriaux et défendront agressivement leur nid! Un conseil simple: évitez-les! \ r \ r CAVE LEECH VOUS PERMET D'ALLER "DOUCEMENT" QUAND IL MOURRA! Auparavant, quand un nain était tombé d'une Grotte Sanglante mourante, il pouvait tomber sur une longue distance, ne prenant mystérieusement aucun dommage de chute, ce qui était comme prévu mais semblait étrange. Maintenant, la Grotte des Sangsues relâche sa langue et vous abaisse plus doucement, rendant plus réaliste le fait que vous ne subissez pas de dégâts de chute. ARMURE DESTRUCTIBLE SUR GLYPHIDES! Une puissance de feu assez directe pour ces plaques d'armure les décoller et exposer les underbits mous dessous! \ r \ r NOUVELLE CRÉATION PASSIVE: EST-CE UN PLAN? EST-CE UN OISEAU? NO IT'SA FLYING JELLYFISH! La région dense de Biozone de Hoxxes est maintenant habitée par de grandes gelées volantes passives. \ r \ r TERMINAL DE COMMERCE MINERAL \ r Dans le terminal de commerce minéral vous pouvez échanger vos crédits pour le matériel de fabrication, mais soyez avisé que les matériaux sont prix assez exorbitant. Vous pouvez également vendre vos précieux matériaux d'artisanat pour des crédits, mais encore une fois ne vous attendez pas à un prix juste. Deep Rock Galactic essaie toujours de maximiser son revenu même s'il provient de ses travailleurs! \ REVOLVER RELOAD ANIMATION \ r Le Revolver du Gunner dispose désormais d'une animation de rechargement appropriée - ainsi que d'un mouvement cool de tireur lorsque vous essayez le rechargement alors qu'il est complètement rechargé. LAMPE DE POCHE NERF La portée des lampes de poche des nains a été réduite de 12.50m à 11.00m, ce qui les rend un peu plus faibles. \ r \ r AMÉLIORATION DE PATHFINDER \ r Les ennemis sont maintenant moins susceptibles de passer directement à travers une grotte mince murs MULE SAFETY FIX Si, pour une raison quelconque, la MULE ne retrouve pas son chemin vers le Pod Escape, les portes s'ouvriront encore 15 secondes avant que le compte à rebours ne soit écoulé. \ r \ r ... Et des tonnes de choses mineures, principalement des corrections de bogues dans les coulisses, mais aussi de petites améliorations visuelles. Pour une vue d'ensemble complète, voir les notes de patch ci-dessous. CHANGELIST \ r ---------------------------------- ------------------- \ r - Son amélioré pour les perceuses de pods sur spacerig \ r - Red Sugar est plus Redder \ r - Ajout de tags pour les développeurs \ r - Correction de la mise à l'échelle des charriots après avoir décroché à la première personne - Diminution du volume de l'asticot - Rythme audio de la sangsue des cavernes - Réapparition audio de la sangsue des cavernes - Redéclencheur de revolver - Correction du son sur le cristal électrique - La superposition des afflictions fait maintenant fondu rapide dans la superposition de Death Cam tweaked - Droppod tweak audio - Pas aussi fort dans l'espace rig - Shotgun audio tweak - Effets de spawn lorsque les ennemis sortent du sol maintenant travailler sur les clients - Ajout de la terre Séparation de la lumière et des armes à feu + ajout d'un rétro-éclairage rendant la caméra morte plus belle. \ r - Fixe - Votre propre vanité ne s'afficherait pas comme vous l'avez sur les missions ou dans l'entretoise. - Changement de l'éclairage de la première personne, et soumis à un shitload de modifications matérielles pour l'assortir .. \ r - Essayez de résoudre Les joueurs se reproduisent les uns sur les autres - Essayez de réparer à nouveau le retard sur les objets de collection! - Armure accrochée et barre de santé dans le lecteur hud - Ajout de ressources à l'affichage de la liste des serveurs - Ajout du personnage à la troisième personne Cristaux électriques fixes faisant des bruits de la mort et des particules lors de l'enlèvement pendant la génération - Soumis beaucoup d'optimisations de particules, pour améliorer les performances dans Fungus - Correction de l'audio de rechargement de mitrailleuse pas correctement mis en réseau et le contour est toujours activé coloration de l'indicateur de frappe - Durée de vie de la flamme collante augmentée - Moins d'électro-cristaux, plus petit rayon d'endommagement, pauses plus longues entre les connexions - Effet de particule à la première personne fixe trop petit - Distribution minérale modifiée, Or et Nitra plus uniformément propagation à travers hout the cave - Trading Terminal - Amélioration des headshots sur les araignées - Création d'un tentacule inférieur à la mort - Les glyphes ne chancellent plus que lorsque les armes sont touchées - Ne joue pas à la mort sur un headshot - Correction de la chute de la grotte acidentellement «ravivant» nain mort - améliorations Pathfinder. Moins de terrain à traverser. - Ajout d'un signal audio au spawn du tunnel des tourbillonneurs - Ajout de gelées passives à la biozone dense - Modification des paramètres du tunnel - Tunnels moins petits dans certaines régions - Potentiel des cristaux luminescents radioactifs - Petit tweak à la précision des revolvers. \ r - Amélioration des performances du laserpointer lors de la vérification contre le terrain - Bosco engendre maintenant si vous commencez un jeu seul et disparaît si quelqu'un rejoint \ r - Swarmer tunnels avec du nouveau matériel, son, particules \ r - Les épaulettes sont passées de 12,50 m à 11,00 m, ce qui les rend un peu plus faibles. - Ajout du nom correct pour arracher les pattes de glyphes. - Ajout de la jambe du tireur, au lieu de réutiliser la jambe du spitter. plantes électriques, et optimisé les particules un peu. Nouveau lance-flammes. - Ajout de l'effet d'allumage pour les ennemis qui prennent feu. - Ajout de Weakpoint Kill Particle pour le jeu de tir flyer. - Les joueurs tombent de la tyrolienne s'ils subissent suffisamment de dégâts. HUD on / off HUD - Glyphide L'attaque de Dreadnought inflige maintenant des dégâts complets dans toute la zone (il y avait une coupure avant). - Correction de la quantité de Jadiz - Correction du bug où Jadiz n'avait qu'une valeur de 2 3 plage + plage de valeur modifiée de 7 à 18 à 10 à 18 \ r - Diminution du butin du bug du butin: les morceaux étaient 15-30 maintenant sont 15-25 et la valeur du morceau était 1-4 maintenant est 1-3"
 	Update_13 = "Hey Miners! C'est encore une fois, et nous avons des changements intéressants à vous faire profiter! Cette mise à jour est plus expérimentale que d'habitude avec des ajustements au système de santé et nous aimerions entendre vos opinions. \ r \ r --- NOTES DE PATCH --- \ r \ f COMMUNAUTES DEMANDÉES FIXES \ r ----------------------------- --------------------------- MOINS DE BLINDAGE Certains d'entre vous ont demandé que le jeu soit plus dur - en particulier pour des difficultés plus grandes. . Nous avons essayé de faire des ajustements qui rendent le jeu plus difficile sur des difficultés plus élevées, mais nous ressentons presque la même chose avec des difficultés plus faibles. Nous avons abaissé votre bouclier de départ de 30 à 25 et changé les mises à niveau du bouclier de 10 à 2,5 (donnant un bonus de 10%). PLUS DE SANTÉ Pour compenser le manque de bouclier - nous avons augmenté la santé du joueur de 100 à 110 ch. PLUS DE SUCRE ROUGE En outre, la quantité de sucre que vous obtenez du sucre rouge a été augmentée de 25% et la quantité de sucre rouge engendrée dans une mission a été augmentée de 10%. TWEAKS \ r ----------------------------------------- ---------------------------------------------------------------------------------------------------------------------- L'exploration des grottes de Hoxxes par vous-même prend plus de temps et peut être brutale, nous avons donc fait en sorte que les essaims soient un peu un peu plus petit quand vous êtes seul. La santé des ennemis a également été abaissée un peu pour les expéditions en solo. Les créatures de Hoxx sont toujours dangereuses alors ne laissez pas tomber votre garde! BOSCO MAINTENANT AVEC 50% DE REVIVES DE PLUS. Bien qu'il le veuille vraiment, Bosco ne peut pas toujours vous sauver d'une chute de caverne. Il se sent vraiment mal à ce sujet et a demandé qu'il soit autorisé à vous faire revivre 3 fois au lieu de 2. La demande a été accordée. MACTERA SPAWN SANTE AUGMENTE Dans un effort continu pour perfectionner le Spawn Mactera nous avons changé son état de santé de 180 à 210. N'oubliez pas d'utiliser la couverture et viser le point faible!
@@ -3678,10 +3791,8 @@ CORRECTIONS MINEURES\r
 	Update_11_Header = "MISE À JOUR 11: MORT ET ARME - 03.23.2018"
 	Update_12_Header = "MISE À JOUR 12: FLIES N 'FINANCE - 13.04.2018"
 	Update_13_Header = "MISE À JOUR 13: CHANGEMENTS MINEURE RELATIF A LA VIE - 04.05.2018"
-	Update_14_Header = "MISE À JOUR 14: [Name] - [Date]"
+	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
 	Update_9_Header = "MISE A JOUR 9 : ON S'FORE PLUS TARD ! - 09.03.2018"
-	Update_14 = "[Ajouter des notes de patch ici!]"
-	Update_14_ShortTitle = "[Mettre à jour le nom 14]"
 
 Namespace Progression (6 keys)
 	ClassLevel = "Niveau de classe"

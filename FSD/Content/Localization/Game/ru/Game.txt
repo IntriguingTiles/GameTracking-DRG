@@ -1,7 +1,7 @@
 22 namespaces
-2726 values
+2745 values
 
-Namespace Global (3459 keys)
+Namespace Global (3481 keys)
 	2559D78C40005E5221F26093CB976283 = " {Title}: собрано {Collected}/{Required}"
 	31D60A1449082F9AB6DC15844F3810F6 = " ТРЕБУЕТСЯ"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Звук. дизайнер/Муз. продюсер"
@@ -165,6 +165,7 @@ Namespace Global (3459 keys)
 	AB387E9A4B520EEAEECF3FBF5A06A15E = "Воздушный гейзер"
 	62EE39E14DB8626D9573CFA45F0D461D = "Albeert SSäfsttröm"
 	4CAD157442019837A2C311AEAFED311C = "Инопланетное яйцо (не опознано)"
+	627A8A0840AD8F5E83D57E9AB4AC208B = "Вторичных миссий сбора яиц чужих завершено"
 	0896812A4B8770DEF814CCB05720B44A = "Инопланетная флора"
 	C2DDE6E545531F830458ED9178FBDAE8 = "Инопланетная флора"
 	A059914040CB4EBF3E0D898E6927B0AB = "Инопланетная окаменелость"
@@ -205,6 +206,7 @@ Namespace Global (3459 keys)
 	418A60D840C5A74217AA0CA79C5C33DA = "Кому-нибудь нужны патроны? Тут нитра!"
 	3AA3DBE246DB5A512675FFA2E70EEEF2 = "Апокацвет"
 	5DA237464B71168C2174C9B82EC4685D = "Апокацвет"
+	FBA82E064BE2914C079FBBADB5FEE707 = "Вторичных миссий сбора апокацвета завершено"
 	C47A892E4A92F237FA104F86D9D2808A = "Применить изменения"
 	B8C0C5CC4291AC52CA144CBAD9254D14 = "Акварк"
 	ECF4BAE04FD80E038867718B91FAE1E1 = "Акварк"
@@ -307,6 +309,7 @@ Namespace Global (3459 keys)
 	548B876240D52D5A39CAD0B8A9AE3C12 = "Бисмор"
 	B8349BFE47BD0078012036919B32B95A = "Бисмор"
 	3AE8B56D4C992F07D5E08A9D95C4BD74 = "Дороговато, но без этого никуда!"
+	DD1C700F412419804EC3AEBAEBB0C377 = "Вторичных миссий сбора горькокамня завершено"
 	6E54EEC64A9558CBF2A1F99898181151 = "Горько-камень"
 	7A15A43745D793BD41B7BD84A4DCE600 = "Горько-камень"
 	7F8DFEAF45711632640DCD98308B9DA6 = "Черный"
@@ -320,6 +323,7 @@ Namespace Global (3459 keys)
 	08ABC5934937DB5304D75AA94448252C = "Фу-у, читер!"
 	023F6F644D05A18A96FC9085B6E72E4F = "Шляпка було"
 	901244004B556F636D389C9D91BB21F4 = "Шляпка було"
+	76B0916942E7EC36DD4C6EB5962BFAE6 = "Вторичных миссий сбора шляпок Було завершено"
 	D4CC3C7A4A4BDE52391DE9A9FA2C1931 = "Бум, детка!"
 	5204D51A4483D189251C7092BA58230A = "Бум!"
 	F1FAAA0C41B63298C27B87A70B09C9D4 = "Бум!"
@@ -474,6 +478,7 @@ Namespace Global (3459 keys)
 	47EB687F4529CFBDBCFD699056AC7F7A = "Кусочек нитры"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Кусочек нитры"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "Кусочек нитры"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Кусочек нитры"
 	EC7C73A0400EAEB5501D12863298DDC5 = "Кусочек нитры"
 	CCAE4EA549842149659D608F55032565 = "Уровень класса"
 	FD61731A4B22C39B91E33FBA7ADE26AF = "Классический шахтерский шлем"
@@ -544,8 +549,16 @@ Namespace Global (3459 keys)
 	E0F791B54B36121FA71673A0AD6CD11F = "Плотная земля"
 	738C52E0497214203D6164A8518945FF = "Шляпа компании"
 	30E886374D703DA855B11AAB54C3B7D8 = "Завершить учебную миссию"
+	0FA5EB724E4928BBEF5657A72B574C8F = "Завершить {value} заданий сбора яиц Чужих"
+	6DDD9F154D878163FE0243A772EF7946 = "Завершить {value} заданий сбора апокацветов"
+	B05D59764DD91F23B20831A678E5F652 = "Завершить {value} заданий сбора горькокамня"
+	C87C92074888FF9A21E9A28E4BFF556A = "Завершить {value} заданий сбора шляпок Було"
+	9C94EA5F498032458D0DB8B025BF1469 = "Завершить {value} заданий сбора диструма"
+	BA13FE324EE57074C94E369AEFF94714 = "Завершить {value} заданий сбора ископаемых"
+	AACB058945FBF16BEAFDA884F01B5BDB = "Завершить {value} заданий сбора голомита"
 	34BC57334D8B596B15074CBA7FAED9DE = "Завершить {value} охот за яйцами"
 	35030837442AC4F5DF9903B7FD0312C5 = "Завершить {value} уничтожений"
+	E8FB039A42A80925B9B49886231BD1CA = "Завершить {value} миссий с 3 уровнем опасности или выше "
 	B68A4C7049F6922DABB4589B0FD033D3 = "Завершить {value} шахтерских экспедиций"
 	D0D98D9E431ACCB7357B6E943D52162A = "Завершить {value} миссий"
 	442E7C8549592572BCDADABEA3A79526 = "Завершить {value} миссий в кристальных пещерах"
@@ -558,7 +571,7 @@ Namespace Global (3459 keys)
 	C4B1BAF74198A3B6CE0054BC7405B0AA = "Завершить {value} вывозов материалов"
 	9686B8AF4DCD315B259FD399322EEB9B = "Завершить {value} миссий спасения"
 	EB1B8A3542443FF3561615B2AB486FFE = "Завершить {value} миссий поиска и добычи"
-	55D0A66F44FCB63A9805AC859C63B095 = "Выполнить {value} второстепенных миссий"
+	55D0A66F44FCB63A9805AC859C63B095 = "Complete {value} Secondary Objectives"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "Тяжело"
 	151724A14D1B1BD735C9DCAC1DF8C446 = "Сложность"
 	7DC1B17349F76564C915108665417F1A = "Сложность:"
@@ -591,6 +604,7 @@ Namespace Global (3459 keys)
 	25D9FFF548E361EB0B842F8185283F0D = "(Кашель)"
 	5412F6DB47B50C3604D7E98FEA88A635 = "(Кашель)"
 	9C6150C144E6791AF876CE92E00252D2 = "(Кашель)"
+	F62D09E9459AF7FD53039B9C871B9EB4 = "(Кашель)"
 	3646707D4F7A43AE5CD989BF699CD718 = "Кхе-кхе!"
 	9DF3DECF4E82498BF599798135455907 = "(Кашель)"
 	B19107E5496A014511F733B64D0CFF2B = "(Кашель)"
@@ -844,6 +858,7 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	E978D9A04051D52DB79C7BB45391CEE7 = "Дворфы так легко не умирают!"
 	38924DD543A1A393669A3E97A7EFD5C3 = "Диструм"
 	785E622B47393CFF669E4AAD294EF7B4 = "Диструм"
+	D5F706614CEB09B2DC730791C4E58B4F = "Вторичных миссий сбора диструма завершено"
 	BAFF6FF24F171D41C3301FB516AC56F1 = "Диструм собран"
 	F11A3F084B9EFDD266772C95B77D158E = "Обнаружен диструм!"
 	78537C2247D9B8D3AE925ABA709DA43B = "Диструм!"
@@ -1054,6 +1069,7 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	CE83140A497F9EED603C90B17B175BCD = "Укрепления возведены!"
 	3EE35F2F4CCD9CB2102100AA83E61AF0 = "Вперед"
 	74AD16F24F4A5E9D2CB9809C50B004A7 = "Окаменелости"
+	19B56DA949148BAD595622801A9E25BE = "Вторичных миссий сбора ископаемых завершено"
 	004CCC724B75CD42574B91922C3F927D = "Окаменевшая ксеноформа"
 	CF8F9A474A5EA04FDA0539BEFA52901C = "Окаменевшая ксеноформа"
 	E21E098D45CD553018A6C9B1EAE84AD9 = "Нашел яйцо!"
@@ -1116,6 +1132,10 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	DF8927014457DEB1A222759C3C2B74AA = "СТРЕЛОК"
 	E4CA328C4E57D2B2A07A2FBA12D6640F = "СТРЕЛОК"
 	AAA8193840982011FD259AB023A1D053 = "СТАТУЯ СТРЕЛКА"
+	17BF434B432DBF4223952F9EF404B811 = "Gain {value} levels as the {character}"
+	4ABC44BD43F86CC931E28D89441C096D = "Gain {value} levels as the {character}"
+	8866F6A8415D6F16836FD0BC6A983387 = "Gain {value} levels as the {character}"
+	89CE684D48EAA0933D24D480C524D6EB = "Gain {value} levels as the {character}"
 	0210DC9A43583272C34577AA706D12C2 = "Гейм-дизайнер"
 	1D17F0AC4E3E13374F78208C216F0B53 = "Продюсер игры"
 	A1D3105046216F6A6033439F4C89833B = "Название игрового сервера"
@@ -1245,6 +1265,7 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	3EC27CFB4B14EC733C8B71B44BD1B004 = "Гр-р-р-р-рам!"
 	0B565D4B4EFDC30297D920B82AF71DE0 = "Гр-р-р!"
 	5D303AB4464962EF5F47FCAB6C59F9D5 = "Мужики, вы что, слепые? Смотрите сюда!"
+	4B3AC24E4E93E431E32FDCB26225ACBE = "Гх-х"
 	7E221AC940EB47FE64D5C5855D57A006 = "Гх-х!"
 	A002CED645E1BCC8139D14BC657B48A1 = "Гх-х"
 	AA1E85F1439B60ADE25E719A991C8C0E = "Гх-х!"
@@ -1272,7 +1293,6 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	631B26D74487C6C769C74BACAA22F99A = "Держитесь, эта волна практически уничтожена. Добейте всё, что осталось."
 	1468E7A5462C6F83AEB14ABFF14F6F50 = "Закаленные стеклянные очки и укрепленная сталь. Никто не пробьет вам голову камнем."
 	4D4D584A4B800FD186BAEDB67012406E = "Закаленные стеклянные очки и укрепленная сталь. Никто не пробьет вам голову камнем."
-	19A4058E49EA0C335776D39AC7DBD80A = "Жнец"
 	D234CB9A4CB33E35859A008D44C30B07 = "Опасность 1"
 	B4B917114A84B4B7F995BDBC8A2F9676 = "Опасность 1: низкий риск"
 	9D37E9CA45B017DD9BD1B983E9BC4536 = "Опасность 2"
@@ -1351,6 +1371,7 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	16604BBD4C0D997D1C93158F94BE431F = "Голомит"
 	6693A0D548210CC3E058FCB3F793E55D = "Голомит"
 	095814C04FBBD7AB43901DADD2B749C4 = "Голомит собран"
+	A1AB19A6476AB106B4A3869739E2DD27 = "Вторичных миссий добычи голомита завершено"
 	750188DB451F33ED142F4D9022000EC4 = "Домой"
 	CDC237994EF10DAC827317AE01EDF4AB = "Надеюсь, сегодня будет лучше, чем вчера!"
 	665339684E8DEE84F642BE93D03E79A4 = "Горизонтальная чувствительность мыши"
@@ -1366,11 +1387,13 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	BBF194A847793B8D61F65B981D311276 = "Гидроксид железа"
 	6631D9B847BC5064556559AD8DF29E65 = "Гм-гм"
 	288C438D4BBE5EE9CCA086B99FC51E7C = "Хрм-м-мхм!"
+	A24072B84A68CFC06B2B3EAB96FB1F21 = "Хрм-м-мхм"
 	B4BB0E2B485EC4311ACF6EBABA7EB5CA = "Хрм-м-мхм!"
 	E67D02884B267BE5A5E8E48E9BA9B521 = "Хрм-м-мхм!"
 	2A038E1046E34DFCF3230ABCE07BE3B1 = "Кхрм!"
 	8DAD19BB4063D6FC7649B8B439BEA91B = "Хрпм!"
 	966210AB4D134DD2005662A6DED913D1 = "Хр-рм!"
+	C41AEF634DC0F0093F0D10898DBEF572 = "Кхрм"
 	B4079BD94D5C57650CB3C0BCBC26D15B = "Хр-рхрм-м-м!"
 	6FAE7DA3458715E0DAA11D935D8F092D = "Хур-р-ра-а!"
 	753CADD54189504C5299619878C8B917 = "Скорее! Капсула не будет ждать вечно!"
@@ -1725,10 +1748,6 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	49D18B464DAF172E2184BDABE12EA571 = "Давайте теперь держаться вместе!"
 	6071A7EE418497ED9948CBA6C30E03A6 = "Сообща со всем справимся!"
 	733E9A174D7B7A7511A3F99D14E4093D = "Попробуем обойти этого жука с фланга!"
-	17BF434B432DBF4223952F9EF404B811 = "Поднять уровень персонажа {character} {value} раз"
-	4ABC44BD43F86CC931E28D89441C096D = "Поднять уровень персонажа {character} {value} раз"
-	8866F6A8415D6F16836FD0BC6A983387 = "Поднять уровень персонажа {character} {value} раз"
-	89CE684D48EAA0933D24D480C524D6EB = "Поднять уровень персонажа {character} {value} раз"
 	B929F0A0429F96CDA0FEBCBD6C199000 = "Поднять уровень персонажа {character} {value} раз"
 	6FE7C7724CE7FBDED1A2C7BB1E8B4A0E = "Подъемная ракета готова к взлету!"
 	B9FC2BAE48678A278C0419BFD8412144 = "Подъемная ракета закреплена!"
@@ -1963,6 +1982,7 @@ WE'RRE OON STTEAM  AND  CLOSSED AALPHAA IS  LIVEE!"
 	387FB2484DFA5766DA90E6A725E0F0BB = "Миссии"
 	96E6DEFA4D093CABD8D3B8A4201CFB34 = "Миссии"
 	807A896D4764FA22029B40B69BF5188D = "Миссий завершено"
+	611133B24CBE09AA7BAFA3A1C5BBF3D9 = "Завершено миссий с уровнем опасности 3 или выше"
 	3796F5BA47DABAC727A3869531B4D7D9 = "Вход в Mixer"
 	421A198642CC485C6E16ACB86B505CD2 = "Выход из Mixer"
 	7F5D45D04D76923396C02CB920DE20C1 = "Умеренный NAT"
@@ -2561,10 +2581,10 @@ But well done. :D
 	560C3A5E402E3A45BFF035B7741D08F3 = "Приветствие"
 	8BC5E4024C1F140941755090E50DE0EF = "Приветствие"
 	E05734A147FBEC155C3EC1B6DC2C33BD = "Приветствие"
-	663DF6A0400D452BD3BFEEABCF804CDA = "Спасение"
-	C6242A264B9CAFC86010E08FEB3F4E88 = "Спасение"
-	71BB3FD34003F9E5896BA283834539AD = "Спасательная миссия"
-	557B55E74F310E9E3CE1B99447B57EC1 = "Миссий спасения завершено"
+	663DF6A0400D452BD3BFEEABCF804CDA = "Salvage Operation"
+	71BB3FD34003F9E5896BA283834539AD = "Salvage Operation"
+	C6242A264B9CAFC86010E08FEB3F4E88 = "Salvage Operation"
+	557B55E74F310E9E3CE1B99447B57EC1 = "Salvage Operations Completed"
 	EC069740491D88E1DCC0E1880E7D5FE3 = "Вернуть {count} МУЛов"
 	4CB7BF034402D8F57BD2EAB4B357A7DC = "Возвращено {current}/{required} МУЛов"
 	079A2F7943180A27F7D98283EBD927B1 = "Такая же, но не совсем"
@@ -2585,7 +2605,7 @@ But well done. :D
 	B9EA8B274299E41C51411C811D2E1894 = "Поиск"
 	0AD95C494B573260500256A8D0858937 = "Поиск и добыча"
 	716E8C0641D6EAB70D4C0BBC12C1891D = "Дистанция поиска"
-	3A0C7F15426333D5A2006DAB86774106 = "Поисков и добычи завершено"
+	3A0C7F15426333D5A2006DAB86774106 = "Search and Extract Missions Completed"
 	B428FA9B49215658FF6BFBBDC48D6CDC = "Поиск..."
 	868E128C45FA0EDA4AA9D2BFF1646186 = "Место доступно"
 	F06C53A0474965B39D9A88B64BFF0A26 = "Место доступно"
@@ -2671,6 +2691,7 @@ But well done. :D
 	ADFC64CD41433C1A817D5DB50257BE38 = "Подпишись на нашу группу в Steam, чтобы присоединиться в сообществу игроков и всегда быть в курсе того, как развивается игра, а также получи в качестве награды 5000 внутреигровых кредитов, которые очень сильно помогут тебе в первые дни работы в шахтах Хокссеса IV!"
 	C26B43B84BB1149261499DB1FBD9F2DB = "Вы вышли"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "Тишина, пожалуйста!"
+	19A4058E49EA0C335776D39AC7DBD80A = "Silicate Harvester"
 	82D5760A4D36C73A04E752BDC5DE965D = "Легко"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "Участок 11: Глубокий сланец"
 	DAFCD54541C22C0CE8FBFC9C2ADFE44E = "Участок 11: Глубокий сланец"
@@ -3180,6 +3201,7 @@ We  can’’t waait,  guyss andd galls. TThis  is ggonnaa be  awessome.. Wellco
 	3EB811FD4977F29355F8FC8BD33CD50A = "Вр-ргх-х!"
 	666FD6AC49C591D2ACFC31BFF8383195 = "Вргх-х!"
 	9608923E4639F721C3F4BA8ED73BF9CC = "Вр-ргх-х!"
+	9DF2BA6541B822A8FA10AA8636174273 = "Вргх-х"
 	3FD1A27548DEF9D804A634B4E5891150 = "ХОЧЕШЬ КРУТО ВЫГЛЯДЕТЬ В ТЕМНОТЕ?"
 	A86FB77440ADC08575E4A4810AC0EE6A = "ПРЕДУПРЕЖДЕНИЕ"
 	3BB24E3644685C0846125C8BDBD71960 = "ВНИМАНИЕ:"
@@ -3582,6 +3604,7 @@ Namespace Missions (2 keys)
 Namespace PatchNotes (18 keys)
 	Update_11_ShortTitle = "МЕРТВ И С ПУШКОЙ"
 	Update_9_ShortTitle = "ПРОБУРЮ ТЕБЯ ПОЗЖЕ!"
+	Update_14_ShortTitle = "FEATURE CREEP"
 	Update_12_ShortTitle = "МУХИ И МОНЕТЫ"
 	Update_9 = "Здравствуйте, шахтеры!
 
@@ -3678,121 +3701,230 @@ Deep Rock Galactic вот уже неделю, как вышла в мир. Мы
 -Исправлено: текст подсказок при загрузке больше изменять нельзя!
 -Некорректное обновление карты при изменениях окружения
 "
-	Update_12 = "Hey Miners!
+	Update_14 = "Hello Miners! This time around we’ve cooked up a fairly massive update together for you, just in time for summer vacation. And speaking of summer vacation - DRG just cancelled yours! New missions and monsters await and you got a ton of milestones to meet! So get to work!
 
-It’s patch time again, and we have a bunch of cool new stuff for you! Tweaks, bug fixes, and the first new enemy! Also, along with these smaller updates, we are now initiating some larger content and feature development. More on this later, when we reveal a larger roadmap of things to come. 
+MAJOR NEW FEATURES
+------------------------------------
+NEW MISSION TYPE: SALVAGE OPERATION
+It is your job to go in and clean up after a failed mining expedition. You will have to salvage three Mini Mules and repair a damaged drop pod in order to bring all the lost equipment home. Get ready for a combat heavy experience where teamwork and good preparation is key to success! Don’t be another failure!
 
---- PATCH NOTES ---
+NEW ENEMY: THE MACTERA GRABBER
+The Grabber is the new terror from the sky. It snatches up a random dwarf and flies away with him, before dropping him to crack like a nut on the floor below! Depending on your luck, you might just end up with some bruises - or you might end up being dumped into a chasm! Shoot ‘em quick, that’s our suggestion...
 
-COMMUNITY REQUESTED FIXES
+KEY PERFORMANCE INDICATORS
+Deep Rock Galactic are now tracking your work performance! On the KPI screen in your cabin you can check out detailed stats on your performance, you can reach milestones and earn perk points, and you can spend those points on unlocking awesome perks for your dwarves, making your day to day work a little easier.
+
+IMPROVED VANITY CUSTOMIZATION SYSTEM 
+The Vanity System has had a complete overhaul, expanding greatly on our options. Here are some of the new features:
+- Build the beard of your dreams! Individually customize hair, eyebrows, sideburns, moustache and beard!  
+- All armor has received an overhaul! More detail has been added in general, and armor now supports textures! Look at the nice tiger stripes on the Gunner’s armor!
+- The original selection of beards has been broken up into parts and added back in to support the new system. 
+-  A small selection of new Hats, Hair, Helmets, Beards, Moustaches, and Sideburns have been added. We are by no means done here yet, this was just what we managed to get in for this patch.
+
+NEW ENVIRONMENTAL HAZARDS
+- During missions in the Sandblasted Corridors, you will now have a chance of  encountering blinding sandstorms and forceful wind tunnels. 
+- The Magma Core just got a lot hotter! Try to avoid the hot magma rock - It burns! Also notice that explosions will expose the hot magma rock under the surface - turning the battlezone into a dangerous place for friends and foes.  
+
+BUFFS AND NERFS
+------------------------------------
+ENGINEER: PLATFORM GUN
+- Start ammo increased from 10 to 12 platforms. 
+- Mag size increased from 3 to 4 platforms. 
+- Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
+
+ENGINEER: SENTRY GUNS
+- Starting sentry gun max ammo reduced from 400 to 350.
+- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+
+DRILLER: HANDGUN
+- The starting clip size of the Handgun has been increased from 8 to 12 bullets.
+- Clip size upgrade has been increased from +4 bullets to +6 bullets.
+
+BOSCO
+- Bosco now deals 8 points of damage instead of 6 per shot 
+- Friendly fire factor decreased from 0.2 to 0.1. Not fun being killed by your favorite Drone afterall!
+
+OTHER IMPORTANT FIXES AND FEATURES
+------------------------------------
+ENEMIES
+- Praetorians now spit acid!
+- Praetorian difficulty rating increased. It is now more deadly, so you will encounter fewer of them.
+- Fixed Deeptora Swarms not attacking players.
+- Added armor and weak spots to Infector. Also increased base HP, aim for the weak spots for a quick kill.
+- Fixed swarmer tunnel debris in Radioactive.
+- Blood splatter when enemies hit you.
+- Added Jump attack to the Glyphid Swamers.
+- Tweaked end wave pressure.
+- Reduced the alert distance of Glyphid Grunts  and Praetorians. Players have to be closer before they attack.
+- Added new Glyphid sounds and tweaks.
+- Swarmer Tunnels debris material fixed
+- Salt Caves tunnel crystal madness fixed.
+- Exploders get speed boost when near another Exploder exploding.
+- Fixed Glyphid Spawner weak points.
+- Increase AI avoidance for Exploders.
+- Fixed Cave Leech grabbing already paralyzed target.
+- Align Glyphid Spitters towards target when stationary.
+
+BIOMES
+- Red Sugar leaves chunks on the ground if you mine it while at full health.
+- Radioactive materials and colour tweaks.
+- Tweaks on post process effects.
+- Steam Geysers in Fungus Bogs can now spawn at more interesting angles. Have Fun!
+- Made the Glowtree illuminate a much larger area. The more Bulbs you shoot the brighter it gets
+- Fungus Bogs wall material tweak.
+- Lush wall material tweaks, Nitra tweaks, Gold tweaks.
+- Slightly randomize animation speed of animated foliage so they are not all in same phase of animation.
+- Added exploding plants to Fungus bog and Dense Biozone (as colour variant).
+- New passive creature: Silicate Harvester added to Dense Biozone and Radioactive regions. You can ride it!
+
+CAVE GENERATION AND MISSIONS
+- New cave shapes. More variations for the level generation.
+- More randomization for the existing cave shapes.
+- Unique cave structure for the Salvage Operations.
+- Cave complexity is now more accurate, making sure that the difference between simple and complicated caves is more apparent.
+- High Complexity missions are now locked to player rank (2 for medium and 3 for high complexity).
+- Hazard level: Tourist has been removed for now. Very few players was playing this mode and it felt a bit broken how you were earning zero gold or xp.
+
+WEAPONS AND TOOLS
+- Added laser pointer warning to radioactive crystals.
+- Added Gatling Gun gunsling animation.
+- Fixed laser pointer distance bug.
+- Holding time to equip laser pointer with controller is shorter.
+- Sentry gun fix - It would sometimes shoot things that were not enemies.
+- Bullet casings for gatling gun and assault rifle have been reactivated.
+
+HUD
+- Teammates icons always visible displaying current health, special states (like being grabbed by a cave leech), and shouts.
+- Laser pointer pings when it hovers over a resource.
+- When laserpointer equipped, hold FIRE to place personal waypoint.
+- New crosshairs for most weapons.
+- Hit indicators removed in their previous form. Now some parts of the crosshair will turn red to confirm that an enemy has been hit. Red arrows appear on the health bar when the shot hit a weak spot.
+
+MISC.
+- Update Chinese translation.
+- Turkish added to supported languages.
+- Fixed trading buy/sell+crash exploit.
+- Fix Bosco related crash.
+- Tweaked 'Player Down' HUD & team icons.
+- Mission Control now announces gravity recalibration.
+- The hosting player now jumps the same height as clients (was lower before).
+"
+	Update_12 = "Хай Шахтеры! \r 
+
+Время для очередного патча, и у нас полно новых классных новшеств для вас! Настройки, исправления ошибок и первый новый враг! Кроме того, наряду с этми небольшим обновлением, мы начинаем разработку огромного с кучей контента и функций. Подробнее позже, когда мы будем раскрывать большие планы. \r 
+
+---ПРИМЕЧАНИЕ ПАТЧА---
+\r 
+ЗАПРОШЕННЫЕ СООБЩЕСТВОМ ИСПРАВЛЕНИЯ 
 -----------------------------------------------------
 
-BOSCO JOINS YOU IF YOU START A HOSTED GAME ALONE
-A very popular request from the community has been for Bosco to accompany you when you start hosting a game. This way you can start mining with Bosco assisting you, while you wait for your friends or strangers to join your game. We have done a rough first implementation with no bells and whistles, and it works like this:
-- Bosco joins you when you start hosting a public/ private game and head in alone.
-- When the first a player joins your game, Bosco will self-destruct for that game session.
+БОСКО ПОДКЛЮЧИТСЯ К ВАМ ЕСЛИ ВЫ НАЧАЛИ ИГРУ В ОДИНОЧКУ
+Очень популярный запрос от сообщества Боско уже будет сопровождать вас, когда вы начинаете хостинг игры. Таким образом, вы можете начать добычу с Боско, пока вы ждете ваших друзей или незнакомцев которые присоединятся к вашей игре. Мы сделали первую грубую реализация без колокола и свистков, и  это работает так:
+ - Боско присоединяется к вам когда вы начинаете частную игру в одиночку.
+- когда первый игрок присоединится к вашей игре, Боско самоуничтожится для этой игровой сессии.
 
-JADIZ BUFF
-Jadiz has been one of the hardest crafting materials to collect and we have buffed it. Jadiz will now spawn a bit more often in Crystalline Caverns Region and we have changed the value range of it from 7-18 to 10-18. 
+ БАФ JADIZ
+Jadiz один из труднейших в разработке материалов для сбора, и мы его улучшили. Jadiz теперь будет немного чаще появляться в кристаллических пещерах региона, и мы изменили его диапазон значений от 7-18-10-18. 
 
-WANT NICE CLEAN SCREEN SHOTS? 
-Some of you have been requesting been able to take nice clean screenshot and we actually also need that feature! Now you can Hold [H] to toggle the HUD on/off. 
+ХОЧЕШЬ КЛАССНЫЙ ЧИСТЫЙ СКРИНШОТ? 
+Некоторые из вас запрашивали возможность функции для создания приятного чистого снимка экрана и мы на самом деле считаем нужной эту функцию! Теперь вы можете держать [H] для переключения HUD вкл/выкл. 
 
 
-NEW STUFF
+НОВЫЕ ВЕЩИ
 -----------------------------------------------------
 
-NEW ENEMY: SAY HELLO TO THE MACTERA SPAWN! 
-The Mactera Spawn is our first proper flying enemy. It will attack from a distance using its vomit attack. Smack that Fly!
+НОВЫЙ ПРОТИВНИК: СКАЖИ ПРИВЕТ РЕСПАВНУ! 
+Новый противник является нашим первым летающим врагом. Он будет атаковать на расстоянии, используя его приступ рвоты. Прихлопните эту муху! 
 
-SWARMER TUNNELS 
-You can now come across strangely looking small tunnels coming out of the walls. Glyphid Swarmers live here! They are very territorial and will aggressively defend their nest! A simple advice: Avoid them!  
+ТУННЕЛИ РОЯ
+Теперь можно встретить странные маленькие туннели, выходящие из стен. Glyphid Swarmers обитают здесь! Они очень привязаны к местности и агрессивно защищают свои гнезда! Простой совет: избегайте их!  
 
-CAVE LEECH LETS YOU GO “GENTLY” WHEN IT DIES! 
-Previously, when a dwarf was dropped from a dying Cave Leech, he might drop for a long distance, mysteriously taking no fall damage, which was as designed but seemed weird. Now the Cave Leech slackens its’ tongue and lowers you down more gently, making it seem more realistic that you don’t take fall damage.
+ПЕЩЕРНАЯ ПИЯВКА ПОЗВОЛИТ ХОДИТЬ "МЯГКО" ПОКА НЕ УМРЁТ! 
+Ранее, когда гном умирал от пещерной пиявки, он мог упасть на далёкое расстояния, таинственно не получая ущерба от падения, который должен был быть, казалось, странно. Теперь пещерные пиявки ослабляются его ' язык ' и снижает вас вниз более плавно, это сделает его более реалистичным, что вы не будете принимать ущерб от падения.
 
-DESTRUCTIBLE ARMOR ON GLYPHIDS!
-Direct enough firepower to those pesky armor plates to shoot them off and expose the soft underbits underneath!
+РАЗРУШАЕМАЯ БРОНЯ ВКЛЮЧЕНА GLYPHIDS! 
+Прямой достаточно сильной огневой мощи достаточно, чтобы отстреливать те досадные бронепластины и подвергать урону мягкую часть жуков под ними!
 
-NEW PASSIVE CREATURE: IS IT A PLANE? IS IT A BIRD? NO IT‘S A FLYING JELLYFISH! 
-The Dense Biozone region of Hoxxes is now inhabited by large, passive, flying jellies.
+НОВОЕ ПАССИВНОЕ СУЩЕСТВО: ЭТО САМОЛЁТ? ЭТО ПТИЦА? НЕТ, ЭТО ЛЕТАЮЩАЯ МЕДУЗА!
+В плотной Biozone района Hoxxes теперь населяют крупные, пассивные, летающие желе.
 
-MINERAL TRADE TERMINAL 
-In the Mineral Trade Terminal you can trade your credits for crafting materials, but be advised that materials are priced fairly exorbitantly. You can also sell your precious crafting materials for credits, but again don’t expect a fair price. Deep Rock Galactic are always trying to maximize their income even if it comes from its workers! 
+ТЕРМИНАЛ ТОРГОВЛИ МИНЕРАЛАМИ 
+В этих торговых терминалах вы можете торговать, обменивая ваши кредиты на материалы для крафта, учтите что цены материалов являются непомерно дорогими. Вы также можете продать ваши драгоценные материалы за кредиты, но опять же не ожидайте справедливую цену. Deep Rock Galactic всегда пытаются максимизировать свои доходы, даже если они исходит от своих работников! 
 
-REVOLVER RELOAD ANIMATION
-The Gunner’s Revolver now has a proper reload animation - as well as a cool gunslinger move when you try the reload while it’s fully reloaded.  
+АНИМАЦИЯ ПЕРЕЗАРЯДКИ РЕВОЛЬВЕРА
+Револьвер стрелка имеет надлежащую анимацию перезарядки - а также классный ход стрелка при попытке двигаться, пока он полностью перезаряжается. 
 
-FLASHLIGHT NERF 
-Range on the dwarves’ flashlights has been tweaked down from 12.50m to 11.00m, making them a bit weaker.
+УХУДШЕНИЯ ФОНАРИКА 
+Дальность освещения фонаря дворфов была снижена с 12,50 м до 11.00 м, что делает их немного слабее. 
 
-PATHFINDER IMPROVEMENTS
-Enemies are now less likely to go straight through thin cave walls.
+УЛУЧШЕНИЕ СЛЕДОПЫТА 
+Враги в настоящее время менее вероятно пройдут прямо через тонкие  стены пещер. 
 
-M.U.L.E. SAFETY FIX
-If for some reason the MULE does not find its way back to the Escape Pod, the doors will still open 15 seconds before countdown runs out.  
+M.U.L.E. БЕЗОПАСНОЕ ИСПРАВЛЕНИЕ
+Если по каким то Причинам Мул не найти свой путь обратно к капсуле возвращения, двери по-прежнему будет открыт 15 секунд до того как таймер иссякнет. 
 
-...And tons of minor stuff, mostly bug-fixes behind the scenes, but also small visual upgrades. For full overview see the patch notes below.
+... Тонн незначительные вещи, главным образом исправления и за кулисами, но также малые визуального обновления. Патч примечания ниже полный обзор см. звук 
+.\r 
 
-CHANGELIST
------------------------------------------------------
-- Tweaked sound for drop pod drills on spacerig
-- Red Sugar is more Redder
--  Added Developer Tags
-- Fix carriable scaling after picking up in first person
-- Decreased maggot crawl volume
-- Cave leech audio tweak
-- Cave leech audio tweak again agian
-- Revolver reload
-- Tweaked Sound on electric crystal
-- Affliction overlay now does a quick fade in
-- Death Cam overlay tweaked
-- Droppod audio tweak - Not as loud in space rig
-- Shotgun audio tweak
-- Spawn effects when enemies come out of the ground now work on clients
-- Added ground light and gunlight seperation + added a backlighting making dead cam look better.  
-- Fixed - Your own vanity would not show as equipped to you on missions or in the spacerig.
-- Changed the first person weapon lighting, and submitted at shitload of material tweaks to match it..
-- Try to fix players spawning on top of each other
-- Try to fix delay on collectibles again!
-- Hooked up armor & health bar in player down hud
-- Added Resources to serverlist display
-- Added Third Person Character Turning (WIP)
-- Fixed electric crystals making death noises and particles when removed during generation
-- Submitted a lot of particle optimizations, to improve performance in Fungus
-- Fixed sentry gun reload audio not networked correctly & outline being always on
-- Tweaked hit indicator coloring
-- Increased sticky flame life time
-- Fewer Electrocrystals, smaller damage radius, longer pauses between connections
-- Fixed flamethrower first person particle effect being too small
-- Mineral distribution changed, Gold and Nitra are more evenly spreadout throughout the cave
-- Trading Terminal
-- Improved headshots on spiders
-- Made tentacle lower player to ground on death
-- Glyphids now only stagger when hit by weapons
-- Don’t play death particle on headshot
-- Fixing cave leech acidentally 'reviving' dead dwarf
-- Pathfinder improvements. Less going through terrain.
-- Added audio cue to swarmer tunnel spawn
-- Passive Jellies added to Dense biozone
-- Changes to tunnel settings - Less small tunnels in some regions
-- Bettersound on radioactive glowing crystals
-- Small tweak to revolvers accuracy. 
-- Improved laserpointer performance when checking against terrain
-- Bosco now spawns if you start a game alone and dissapears if someone joins
-- Swarmer tunnels with new material, sound, particles
-- Fix enemy healthbar initial state for weakpoint indicator
-- Shoulderlights tweaked down from 12.50m to 11.00m reach making them a bit weaker.
-- Added correct name to torn off glyphid legs
-- Added Shooter leg, instead of reusing spitter leg.
-- Changed lighting on the electric plants, and optimized the particles a bit. New flamethrower fire.
-- Added ignition effect for when enemies catch on fire.
-- Added Weakpoint Kill Particle for the flyer shooter
-- Players will fall from the zip-line if they take sufficient damage
-- Hold H to toggle HUD on/off
-- Glyphid Dreadnought area attack now does full damage in the entire area (There was a falloff before)
-- Tweaked Jadiz amount - Fixed bug where Jadiz spawning only had a value 2 to it having a 2 to 3 range + Changed value range from 7 to 18 to 10 to 18
-- Decreased loot from loot bug: chunks was 15-30 now is 15-25 and chunk value was 1-4 now is 1-3"
+СПИСОК ИЗМЕНЕНИЙ
+-----------------------------------------------------\r 
+- Настроен звук сверления посадочной капсулы на станции.
+- Красный сахар стал краснее.
+- Добавлен тег разработчика.
+- Исправлено масштабирование сверху после сбора от первого лица.
+- Снижение шумности ползучих личинок.
+- Звуки Пещерных пиявок  настроено.
+- Звуки пещерных пиявок  настроено снова.
+- Перезарядка револьвера.
+- Настроен звук электрических кристаллов.
+- Сообщения о бедствии настроено -теперь не такое громкое на станции.\r 
+- Камера убитого настроена.
+- Аудио посадочной капсулы настроено - не так громко.
+- Аудио ружья настроено.
+- Эффект когда враги появляются из земли теперь работает в клиенте.
+- Добавлен свечение земли и свет оружия разделения + добавлена подсветка вебкамеры мертвых, теперь выглядят лучше.
+- Исправлено - ваше персональное тщеславие не будет показано вам оборудованным на миссиях или на станции.
+- Изменил освещение оружия при виде от первого лица и представление его материала настроено, чтобы соответствовать ему...
+- Попытались исправить нереста игроков на вершине друг друга.
+- Попытались исправить задержки на коллекционировании снова!
+- Показатели брони & полоска здоровья внизу экрана.
+- Добавлены ресурсы сервера в списке серверов.
+- Добавил поворот от третьего лица персонажа (WIP).
+- Исправили электрические кристаллы издают шумы смерти и частиц при удалении во время генерации.
+- Предоставили обширную оптимизацию частиц, чтобы повысить производительность в Грибе.
+- Исправили турель: звуки перезарядки которые работали не правильно в сетевой игре & наброски, будучи всегда включенной.
+- Настроили индикатор попадания цветностью.
+- Увеличили продолжительность жизни липкого пламя.
+- Маленькие электрокристаллы, меньший радиус повреждения, больше паузы между соединениями.
+- Исправлена эффект частиц огнемета при виде от первого лица, будучи слишком иаленьким.
+- Минеральное распределение изменилось, золото и Нитра более равномерно распределены на протяжении всей пещеры.
+- Торговый терминал.
+- Улучшили хедшоты на пауках.
+- Сделали щупальца ниже игроков на земле при смерти.
+- Glyphids теперь только шатается при попадании из оружия.
+- Не проигрываются частицы при смерти от хедшота.
+- Исправили  «возрождение» мертвых дварфов пещерными пиявками.
+- Следопыта улучшили. меньше ходит через местности.
+- Добавлен Звук cue почкования туннельного роя при появлении.
+- Пассивные желе добавили к плотной биозоне.
+- Изменения в параметрах туннелей - менее больших туннелей в некоторых регионах.
+- Улучшенные звуки радиоактивных светящихся кристалов.
+- Небольшие настройки для точности револьверов.
+- Улучшили производительность лазерных указателей при проверке местности.
+- Боско появляется, если вы начинаете игру в одиночку и исчезает, если кто-то присоединился.
+- Появление туннелей роя с новым материалом, звуками, частицами.
+- Починили индикацию состояние противника для индикации слабого места.
+- Наплечный свет, настроен вниз с 12,50 м до 11,00 м, что делает их немного слабее.
+- Добавлено подходящее имя для оторванной от glyphid ноги.
+- Добавлены ноги стрелка, вместо повторного использования ног Плевальщицы. .
+- Изменилось освещение на электростанции и немного оптимизированы частицы. Новый огонь огнемета.
+- Добавлен эффект зажигания когда враги попались на огонь.
+- Добавлена слабая точка убийства частиц для летчика стрелка.
+- Игроки будут падать от zip-линии, если они принимают достаточно урона.
+- Держите H для переключения HUD вкл/выкл.
+- Glyphid дредноут в области атаки теперь наносит полный урон во всей области (там было со спадом до этого).
+- Сумма настроенных Jadiz - Исправлена ошибка, где Jadiz было только значение 2, чтобы он после 2 был в диапазоне до 3 + измененные значения раньше от 7 до 18 теперь от 10 до18.
+- Снижение добыча из мешка с добычей: кусков было 15-30 теперь 15-25 и значение блока 1-4 теперь 1-3"
 	Update_13 = "Эй шахтеры! \r \r в этот раз у нас есть некоторые интересные изменения для вас наслаждаться! Это обновление является более экспериментальным, чем обычно, с хитростями в системе здравоохранения и мы будем рады услышать ваше мнение. \r \r---ПРИМЕЧАНИЕ ПАТЧА---\r \r ИСПРАВЛЕНИЯ КОТОРЫЕ ПРОСИЛО СООБЩЕСТВО\r---\r \r Уменьшить щиты\r, некоторые из вас - хардкорных шахтеров просили, что б игра была жестче - особенно на высоких уровнях сложности. Мы постарались сделать фишки, которые делают игру сложнее на высоких уровнях сложности, но чувствовать себя почти так же как на нижней трудности. Мы снизили начальную защиту от 30 до 25 и изменил восстановление щита от 10 до 2,5 (придаётся 10% ускоритель). \r \r БОЛЬШЕ ЗДОРОВЬЯ\r для компенсации отсутствия щита - мы увеличили здоровье игрока от 100 до 110 хп. \r \r БОЛЬШЕ КРАСНОГО САХАРА\r  количество исцеления которое вы получаете от красного сахара  увеличилась на 25% и количество появления красного сахара в миссии был увеличен на 10%. \r \r \r ХИТРОСТИ \r---\r \r КОЛИЧЕСТВО ПРОТИВНИКОВ В СОЛО  & ЗДОРОВЬЕ\r Изучение пещер Hoxxes по себе занимает много времени и может быть смертельным, поэтому мы сделали это так: стаи будут немного меньше, когда вы находитесь на выбранном. Здоровье противников также немного снижено для соло экспедиций. Существа в Hoxxes по-прежнему опасны, так что не бросайте свою охранну!  \r \r БОСКО ТЕПЕРЬ С 50% БОЛЬШИМ ВРЕМЕНЕМ НА ВОЗРОЖДЕНЬЕ\r Теперь когда он действительно хочет, Боско не всегда может спасти вас от пещерных пиявок. Он чувствует себя очень плохо после такого и предложил разрешить 3 возрожденья место 2. Просьба была удовлетворена. \r \r Продолжая совершенствовать игру, мы изменили здоровье от 180 до 210. Помните, используйте укрытия и направленный огонь по слабым точкам! 
 "
 	Update_11 = "Привет, Шахтеры, 
@@ -3948,10 +4080,8 @@ CHANGELIST
 	Update_11_Header = "ОБНОВЛЕНИЕ 11: МЕРТВ И С ПУШКОЙ - 23.03.2018"
 	Update_12_Header = "ОБНОВЛЕНИЕ 12: МУХИ И МОНЕТЫ - 13.04.2018"
 	Update_13_Header = "ОБНОВЛЕНИЕ 13: НЕЗНАЧИТЕЛЬНЫЕ ИЗМЕНЕНИЯ ЖИЗНИ - 04.05.2018"
-	Update_14_Header = "ОБНОВЛЕНИЕ 14: [Name] - [Date]"
+	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
 	Update_9_Header = "ОбНОВЛЕНИЕ 9: ПОБУРИМ ПОЗЖЕ! - 09.03.2018"
-	Update_14 = "[Добавить патч сюда!]"
-	Update_14_ShortTitle = "[Обновление 14 Название]"
 
 Namespace Progression (6 keys)
 	ClassLevel = "Уровень класса"
