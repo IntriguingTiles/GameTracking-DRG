@@ -1,7 +1,7 @@
 22 namespaces
-2659 values
+2660 values
 
-Namespace Global (3382 keys)
+Namespace Global (3385 keys)
 	2559D78C40005E5221F26093CB976283 = " Sammelt {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " ERFORDERLICH"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer / Musikproduzent"
@@ -455,8 +455,8 @@ TERMINAL"
 	47EB687F4529CFBDBCFD699056AC7F7A = "Nitrastück"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Nitrastück"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "Nitrastück"
-	E94E8AB94E59FCAF5BB9B499682073D1 = "Nitrastück"
 	EC7C73A0400EAEB5501D12863298DDC5 = "Nitrastück"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Rotes Zuckerbruchstück"
 	CCAE4EA549842149659D608F55032565 = "Klassenlevel"
 	FD61731A4B22C39B91E33FBA7ADE26AF = "Klassischer Bergbauhelm"
 	051100FE440C58990CAA6495C6680DA4 = "Klassik"
@@ -526,7 +526,7 @@ TERMINAL"
 	E0F791B54B36121FA71673A0AD6CD11F = "Verdichtete Erde"
 	738C52E0497214203D6164A8518945FF = "Unternehmer-Kappe"
 	30E886374D703DA855B11AAB54C3B7D8 = "Erledige die Tutorial-Mission"
-	0FA5EB724E4928BBEF5657A72B574C8F = "Erledige {value} Eiersuche(n) Ziele"
+	0FA5EB724E4928BBEF5657A72B574C8F = "Schließe {value} Eiersuche(n)-Ziele ab"
 	6DDD9F154D878163FE0243A772EF7946 = "Erledige {value} Sammle Apoca-Blüten Ziele"
 	B05D59764DD91F23B20831A678E5F652 = "Erledige {value} Sammle Bitter-Edelstein Ziele"
 	C87C92074888FF9A21E9A28E4BFF556A = "Erledige {value} Sammle Boolo-Pilzkappen Missionen"
@@ -535,7 +535,7 @@ TERMINAL"
 	AACB058945FBF16BEAFDA884F01B5BDB = "Erledige {value} Sammle Hollomit Ziele"
 	34BC57334D8B596B15074CBA7FAED9DE = "Schließe {value} Eiersuche(n) ab"
 	35030837442AC4F5DF9903B7FD0312C5 = "Erledige {value} Eliminationen"
-	E8FB039A42A80925B9B49886231BD1CA = "Erledige {value} Missionen auf Gefahrenstufe 3 oder höher "
+	E8FB039A42A80925B9B49886231BD1CA = "Schließe {value} Missionen auf der Gefahrenstufe 3 oder höher ab "
 	B68A4C7049F6922DABB4589B0FD033D3 = "Erledige {value} Bergbau-Expeditionen"
 	D0D98D9E431ACCB7357B6E943D52162A = "Schließe {value} Missionen ab"
 	442E7C8549592572BCDADABEA3A79526 = "Erledige {value} Missionen in den Kristallinen Höhlen"
@@ -546,9 +546,9 @@ TERMINAL"
 	C4B4027E48CE250CA66B3FA40158E267 = "Erledige {value} Missionen in den Sandgestrahlten Korridoren"
 	2939AF8C40B48D069EF1AEB4DC854E51 = "Erledige {value} Missionen in den Salzgruben"
 	C4B1BAF74198A3B6CE0054BC7405B0AA = "Schließe {value} Punkt-Extraktionen ab"
-	9686B8AF4DCD315B259FD399322EEB9B = "Schließe {value} Bergungs-Missionen ab"
+	9686B8AF4DCD315B259FD399322EEB9B = "Schließe {value} Bergungseinsätze ab"
 	EB1B8A3542443FF3561615B2AB486FFE = "Erledige {value} Suchen & Extrahieren Missionen"
-	55D0A66F44FCB63A9805AC859C63B095 = "Complete {value} Secondary Objectives"
+	55D0A66F44FCB63A9805AC859C63B095 = "Schließe {value} sekundäre Ziele ab"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "Komplex"
 	151724A14D1B1BD735C9DCAC1DF8C446 = "Komplexität"
 	7DC1B17349F76564C915108665417F1A = "Komplexität :"
@@ -931,7 +931,6 @@ Wenn du 4 Dash-Marken gesammelt hast, steigt dein Spieler-Rang."
 	6C4AB72442630C6E5FDC1988E5AB9A50 = "Zusätzliche Leuchtrakete"
 	B04C37C14246AD0ADF767897D23E2B69 = "Zusätzliche Leuchtrakete"
 	3BB6E31941A0CD6F316865B4733BA82B = "Zusätzlicher Treibstoffkanister"
-	B021245C4ED985858EA887B7D06D5792 = "Sehr große Munitionstasche"
 	87A3D0D446CE12B17681B5BE8CA7B0E3 = "Extra großer Gürtel"
 	291965AC4A3E4F21FB9B91841B98F417 = "Zusätzliche Seilrutschen"
 	77D6AB4F4929A856637FFDA7BE807942 = "Zusätzliche Ablieferung"
@@ -1105,10 +1104,10 @@ STAND"
 	DF8927014457DEB1A222759C3C2B74AA = "SCHÜTZE"
 	E4CA328C4E57D2B2A07A2FBA12D6640F = "SCHÜTZE"
 	AAA8193840982011FD259AB023A1D053 = "SCHÜTZEN-STATUE"
-	17BF434B432DBF4223952F9EF404B811 = "Gain {value} levels as the {character}"
-	4ABC44BD43F86CC931E28D89441C096D = "Gain {value} levels as the {character}"
-	8866F6A8415D6F16836FD0BC6A983387 = "Gain {value} levels as the {character}"
-	89CE684D48EAA0933D24D480C524D6EB = "Gain {value} levels as the {character}"
+	17BF434B432DBF4223952F9EF404B811 = "{value} Stufenanstieg(e) des {character}"
+	4ABC44BD43F86CC931E28D89441C096D = "{value} Stufenanstieg(e) des {character}"
+	8866F6A8415D6F16836FD0BC6A983387 = "{value} Stufenanstieg(e) des {character}"
+	89CE684D48EAA0933D24D480C524D6EB = "{value} Stufenanstieg(e) des {character}"
 	0210DC9A43583272C34577AA706D12C2 = "Game Designer"
 	1D17F0AC4E3E13374F78208C216F0B53 = "Game Director"
 	A1D3105046216F6A6033439F4C89833B = "Servername"
@@ -1214,6 +1213,7 @@ STAND"
 	8F9958A3499BD08951BDFBAC5A92DA1F = "Greifen"
 	7BE63A504996B9AD835E1097CE24C031 = "Schnappt eure Spitzhacken! Ich habe keinen Treibstoff mehr!"
 	944D10E243788EBBBCB432B95FD02E52 = "Schnappt eure Spitzhacken! Ich habe keinen Treibstoff mehr!"
+	36E210854787B3C9CB53F78CB91B5B1D = "GreiferTest"
 	7F8003DA478DE1029E7579ADC3633070 = "Nehme Munition!"
 	E9A0DC024B2AAFDD9782F58C6ACA298B = "Grafik"
 	DDF50D4C4F9E838B71893D9D297BC7AE = "Enterhakenwerfer"
@@ -1603,8 +1603,8 @@ ZURÜCKBLEIBEN!"
 	C1CFE7224A1EF9B09DE599AADA0C25AD = "Lass dir Zeit, altes Mädchen! Ich habe den ganzen Tag Zeit!  "
 	BB93773B4F6945E20625518B124C81BB = "Genau, was der Arzt verordnet hat!"
 	70A275334D8379356D2FC4AA8D089AEC = "K"
-	C4709E7048238F380917009B9055ABDC = "HAUPTLEISTUNGS-MERKMALE"
-	89AF44D64C468D2F1C11D1B42805FE24 = "BONUS PUNKTE"
+	C4709E7048238F380917009B9055ABDC = "HAUPTLEISTUNGSANZEIGE"
+	89AF44D64C468D2F1C11D1B42805FE24 = "BONUS-PUNKTE"
 	7820933047E35321ED923188C4C7D844 = "Karl!"
 	D10A391149CD57E4CBFC2DB1BEA1074A = "Haltet euch von beweglichen Geräten fern"
 	9C461D004AF8CD2809570D887B5983F5 = "Abstand halten! "
@@ -1650,6 +1650,7 @@ STARTEN"
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
 	A5666AB64D46422F0773AF905EF3229B = "Große Munitionstasche"
+	B021245C4ED985858EA887B7D06D5792 = "Große Munitionstasche"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Größerer Gürtel"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Größerer Gürtel"
 	A58587444D096FC60CC81D9393CF222E = "Größerer Gürtel"
@@ -1711,7 +1712,7 @@ STARTEN"
 	49D18B464DAF172E2184BDABE12EA571 = "Lasst uns von nun an zusammenbleiben!"
 	6071A7EE418497ED9948CBA6C30E03A6 = "Lasst uns gemeinsam daran arbeiten!"
 	733E9A174D7B7A7511A3F99D14E4093D = "Versucht den hässlichen Mistkerl zu flankieren!"
-	B929F0A0429F96CDA0FEBCBD6C199000 = "{value} Stufenanstieg(e) des {character}"
+	B929F0A0429F96CDA0FEBCBD6C199000 = "Erspiele {value} Stufenanstiege beim {character}"
 	6FE7C7724CE7FBDED1A2C7BB1E8B4A0E = "Rakete bereit für den Abflug!"
 	B9FC2BAE48678A278C0419BFD8412144 = "Rakete montiert!"
 	B209F21C4BF6BC3653AC55B3AFE45A8A = "Rakete fertig!"
@@ -1843,7 +1844,7 @@ TERMINAL"
 	E1E6FC3E499E0E8617D98690D63948C5 = "MODERATOR"
 	EA807C684450BB19B921639A3BA5D580 = "MODERATOREN"
 	A9132B7247ABD90C9481E0B20B97C07D = "M.U.L.E.-Bein"
-	8C7210B94148CC89BDD79A93A4BCFA0E = "M.U.L.E. einsatzbereit. Gut gemacht"
+	8C7210B94148CC89BDD79A93A4BCFA0E = "M.U.L.E. einsatzbereit. Gut gemacht!"
 	3DF99B2E4999F93C5F384D872E5BAF0B = "Der M.U.L.E. wird gestartet, gute Arbeit."
 	084D891E4FAF8D86DD63F3AE40B33ECB = "MODIFIZIERUNG:"
 	52707F4E461A33C957A0F0979CF268A2 = "Mactera-Schnapper"
@@ -2539,10 +2540,10 @@ WÄHLEN"
 	560C3A5E402E3A45BFF035B7741D08F3 = "Salutieren"
 	8BC5E4024C1F140941755090E50DE0EF = "Grüßen"
 	E05734A147FBEC155C3EC1B6DC2C33BD = "Grüßen"
-	663DF6A0400D452BD3BFEEABCF804CDA = "Salvage Operation"
-	71BB3FD34003F9E5896BA283834539AD = "Salvage Operation"
-	C6242A264B9CAFC86010E08FEB3F4E88 = "Salvage Operation"
-	557B55E74F310E9E3CE1B99447B57EC1 = "Salvage Operations Completed"
+	663DF6A0400D452BD3BFEEABCF804CDA = "Bergungseinsatz"
+	71BB3FD34003F9E5896BA283834539AD = "Bergungseinsatz"
+	C6242A264B9CAFC86010E08FEB3F4E88 = "Bergungseinsatz"
+	557B55E74F310E9E3CE1B99447B57EC1 = "Bergungseinsätze abgeschlossen"
 	EC069740491D88E1DCC0E1880E7D5FE3 = "Bergt {count} M.U.L.E.s"
 	4CB7BF034402D8F57BD2EAB4B357A7DC = "Bergt {current}/{required} M.U.L.E.s"
 	079A2F7943180A27F7D98283EBD927B1 = "Dasselbe, aber anders"
@@ -2563,7 +2564,7 @@ WÄHLEN"
 	B9EA8B274299E41C51411C811D2E1894 = "Suchen"
 	0AD95C494B573260500256A8D0858937 = "Suchen & Extrahieren"
 	716E8C0641D6EAB70D4C0BBC12C1891D = "Suchdistanz"
-	3A0C7F15426333D5A2006DAB86774106 = "Search and Extract Missions Completed"
+	3A0C7F15426333D5A2006DAB86774106 = "Suchen & Extrahieren Missionen abgeschlossen"
 	B428FA9B49215658FF6BFBBDC48D6CDC = "Suche ..."
 	868E128C45FA0EDA4AA9D2BFF1646186 = "Platz verfügbar"
 	F06C53A0474965B39D9A88B64BFF0A26 = "Platz verfügbar"
@@ -2649,7 +2650,7 @@ Wählen"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Tritt unserer Steam Gruppe unten bei, um der Community beizutreten und auf dem neuesten Stand zu bleiben, während wir das Spiel weiter ausbauen - und sichere dir zusätzlich 5000 in-game Credits für das Spiel, um dir so einen massiven Schub für die ersten Tage bei der Arbeit auf Hoxxes IV zu verschaffen!"
 	C26B43B84BB1149261499DB1FBD9F2DB = "Abgemeldet"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "Ruhe bitte!"
-	19A4058E49EA0C335776D39AC7DBD80A = "Silicate Harvester"
+	19A4058E49EA0C335776D39AC7DBD80A = "Silikat-Ernter"
 	82D5760A4D36C73A04E752BDC5DE965D = "Einfach"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "Standort 11 - Tiefer Schiefer"
 	DAFCD54541C22C0CE8FBFC9C2ADFE44E = "Standort 11 - Tiefer Schiefer"
@@ -3302,8 +3303,8 @@ FELS & STEIN!"
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "Ihr betretet ein unerlaubten Bereich! Bitte dreht um und erledigt etwas Arbeit!"
 	B7D2007C461E925E99F54AAFE707165D = "Ihr betretet ein unerlaubten Bereich! Dieser Bereich ist nicht für normale Minenarbeiter zugänglich!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "Ihr Jungs seid hoffentlich bessere Minenarbeiter als Tänzer."
-	E715C48B459168248821088AC6F1734A = "Du kannst noch mehr Munition für den Geschützturm tragen."
 	833AEAA84CB5B0D230B61EB165319D50 = "Du kannst mehr Munition für den Geschützturm tragen"
+	E715C48B459168248821088AC6F1734A = "Du kannst mehr Munition für die Geschütztürme tragen"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "Du kannst mehr Munition in den Kampf mitnehmen."
 	32E67FE9406320B0C0226FA6475494C3 = "Du kannst mit dem Laserpointer auf Gegenstände zeigen und somit die Aufmerksamkeit deines Teams auf bestimmte Objekte lenken."
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "Ihr könnt die Schilder nicht lesen? Nun ja ... Lasst mich euch helfen .... SEID RUHIG!"
@@ -3371,6 +3372,8 @@ Dies entspricht einer fehlgeschlagenen Mission."
 	13FFB7DB4F978ECEB6808694A67F9AD7 = "[Item Category goes here]"
 	3037D8764AE7DBB60643529E3D8CDD0A = "[Item Name]"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] Fortfahren"
+	319FC2C243CD6989A597A8B314759BBD = "[OkMenu] Fortfahren"
+	54B6DBEE47A15FEB3FCD99A24F4EA0B2 = "[OkMenu] Fortfahren"
 	9AEB086C47A32806C48C68A2FF72D25C = "[OkMenu] Vollständige Serverliste"
 	4123F28A44E1A2BC85252C9579C10508 = "[OkMenu] SCHNELLER BEITRITT"
 	095853BB4D32666227111591E781AEB0 = "[OkMenu] Suchen"
@@ -3495,7 +3498,7 @@ Namespace Missions (2 keys)
 Namespace PatchNotes (18 keys)
 	Update_11_ShortTitle = "TOT UND GEWEHR"
 	Update_9_ShortTitle = "MAN BOHRT SICH SPÄTER!"
-	Update_14_ShortTitle = "FEATURE CREEP"
+	Update_14_ShortTitle = "FEATURES SCHLEICHEN SICH EIN"
 	Update_12_ShortTitle = "FLIEGEN UND FINANZEN"
 	Update_9 = "Hallo Minenarbeiter!
 
@@ -3588,113 +3591,116 @@ Verschiedenes
 - Fixed: Man kann nicht länger den Hinweis text editieren während dem laden!
 - Kartentool updated nicht korrekt wenn die umgebung sich ändert
 "
-	Update_14 = "Hello Miners! This time around we’ve cooked up a fairly massive update together for you, just in time for summer vacation. And speaking of summer vacation - DRG just cancelled yours! New missions and monsters await and you got a ton of milestones to meet! So get to work!
+	Update_14 = "Hallo Minenarbeiter!
 
-MAJOR NEW FEATURES
+Dieses mal haben wir ein relativ großes Update für euch gebastelt - gerade noch rechtzeitig für den Sommerurlaub. Da wir schon bei "Sommerurlaub" sind: Eurer wurde soeben von DRG gestrichen! Neue Missionen und Monster warten auf euch. Außerdem habt ihr einen ganzen Haufen an Meilensteinen zu erreichen! Also dann: An die Arbeit!
+
+GROßE NEUE FEATURES
 ------------------------------------
-NEW MISSION TYPE: SALVAGE OPERATION
-It is your job to go in and clean up after a failed mining expedition. You will have to salvage three Mini Mules and repair a damaged drop pod in order to bring all the lost equipment home. Get ready for a combat heavy experience where teamwork and good preparation is key to success! Don’t be another failure!
+NEUER MISSIONS-TYP: BERGUNGSEINSATZ
+Es ist eure Aufgabe, rein zu gehen und nach einer fehlgeschlagenen Bergbau-Expedition etwas aufzuräumen. Ihr sollt dabei drei Mini-M.U.L.E.s bergen und die Transportkapsel reparieren, um all die verschollene Ausrüstung nach Hause zu bringen. Macht euch auf eine kampflastige Erfahrung gefasst, wo Teamwork und gute Vorbereitung der Schlüssel zum Erfolg sind! Seid keine Versager! (So wie eure vormaligen Minenarbeiter-Kollegen!)
 
-NEW ENEMY: THE MACTERA GRABBER
-The Grabber is the new terror from the sky. It snatches up a random dwarf and flies away with him, before dropping him to crack like a nut on the floor below! Depending on your luck, you might just end up with some bruises - or you might end up being dumped into a chasm! Shoot ‘em quick, that’s our suggestion...
+NEUER GEGNER: DER MACTERA-GREIFER
+Der Greifer ist der neue Schrecken am Himmel. Es schnappt sich einen zufälligen Zwerg aus dem Team und fliegt mit ihm davon, um ihn dann zu Boden fallen zu lassen, fast so als ob es eine Nuss knacken wolle! Wenn ihr Glück habt, kommt ihr mit ein paar Schrammen davon - oder ihr findet euch in einer tiefen Schlucht wieder! "Macht sie so schnell wie möglich fertig", das ist unser Vorschlag...
 
-KEY PERFORMANCE INDICATORS
-Deep Rock Galactic are now tracking your work performance! On the KPI screen in your cabin you can check out detailed stats on your performance, you can reach milestones and earn perk points, and you can spend those points on unlocking awesome perks for your dwarves, making your day to day work a little easier.
+HAUPTLEISTUNGSINDIKATOREN
+Deep Rock Galactic überwacht jetzt offiziell eure Leistung bei der Arbeit! Am entsprechenden Bildschirm in eurer Kabine könnt ihr detaillierte Statistiken über eure Leistung einsehen. Ebenso könnt ihr Meilensteine erreichen und Bonuspunkte sammeln, die ihr dann wiederum für tolle Boni für eure Zwerge ausgeben könnt - das sollte die tägliche Arbeit in den Minen etwas einfacher gestalten.
 
-IMPROVED VANITY CUSTOMIZATION SYSTEM 
-The Vanity System has had a complete overhaul, expanding greatly on our options. Here are some of the new features:
-- Build the beard of your dreams! Individually customize hair, eyebrows, sideburns, moustache and beard!  
-- All armor has received an overhaul! More detail has been added in general, and armor now supports textures! Look at the nice tiger stripes on the Gunner’s armor!
-- The original selection of beards has been broken up into parts and added back in to support the new system. 
--  A small selection of new Hats, Hair, Helmets, Beards, Moustaches, and Sideburns have been added. We are by no means done here yet, this was just what we managed to get in for this patch.
+DAS SYSTEM ZUR ANPASSUNG VON KOSMETISCHEN GEGENSTÄNDEN WURDE VERBESSERT
+Das Kosmetik-System wurde von Grund auf neugestaltet, um euch noch mehr Möglichkeiten zu bieten. Das hier sind ein paar der neuen Features:
+- Bastelt den Bart eurer Träume! Passt Haare, Augenbrauen, Koteletten, Schnurrbart und Bart individuell an!
+- Alle Panzerungen wurden überarbeitet! Im Allgemeinen wurden mehr Details hinzugefügt. Ebenso unterstützen Panzerungen jetzt Texturen! Seht euch die schicken Tigerstreifen auf der Panzerung des Schützen an!
+- Die ursprüngliche Auswahl an Bärten wurde in Einzelteile aufgeteilt und wieder hinzugefügt, um besser zum neuen System zu passen.
+- Eine kleine Auswahl an neuen Hüten, Haaren, Helmen, Bärten, Schnurrbärten und Koteletten wurde hinzugefügt. Wir sind auf keinen Fall bereits fertig damit - was ihr bisher seht, ist nur das, was wir für diesen Patch ins Spiel bringen konnten.
 
-NEW ENVIRONMENTAL HAZARDS
-- During missions in the Sandblasted Corridors, you will now have a chance of  encountering blinding sandstorms and forceful wind tunnels. 
-- The Magma Core just got a lot hotter! Try to avoid the hot magma rock - It burns! Also notice that explosions will expose the hot magma rock under the surface - turning the battlezone into a dangerous place for friends and foes.  
+NEUE GEFÄHRLICHE OBJEKTE IN DER UMGEBUNG
+- Bei euren Missionen in den Sandgestrahlten Korridoren habt ihr jetzt die Möglichkeit blendende Sandstürme und kräftige Wind-Tunnel zu finden.
+- Der Magmakern ist jetzt noch um einiges heißer! Versucht nicht auf die heißen Magmafelsen zu treten - die brennen! Passt auf, da Explosionen den heißen Fels unter der Oberfläche freilegen können - das verwandelt das Kampfgebiet in einen gefährlichen Ort für Freund und Feind.
 
-BUFFS AND NERFS
+BUFFS UND NERFS
 ------------------------------------
-ENGINEER: PLATFORM GUN
-- Start ammo increased from 10 to 12 platforms. 
-- Mag size increased from 3 to 4 platforms. 
-- Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
+INGENIEUR: PLATTFORM-GEWEHR
+- Start-Munition von 10 auf 12 Plattformen erhöht.
+- Magazingröße von 3 auf 4 Plattformen erhöht.
+- Neue Plattform-Verbesserungen wurden hinzugefügt. Die erste Verbesserung gibt euch 4 Plattformen mehr; die zweite Verbesserung gibt euch 4 weitere, sodass ihr bis zu 20 Plattformen platzieren könnt, wenn ihr beide Verbesserungen erworben habt. Es ist Zeit, ein paar tolle Brücken und Treppen zu bauen!
 
-ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+INGENIEUR: GESCHÜTZTÜRME
+- Die Start-Munition des Geschützturms wurde von 400 auf 425 erhöht.
+- Der Schaden pro Kugel wurde von 7 auf 5.5 reduziert.
+- Ihr könnt jetzt die maximale Munitionskapazität der Geschütztürme verbessern. Die Verbesserung gibt euch +75 maximale Kapazität, sodass ihr eine Gesamtkapazität von 500 erreicht.
 
-DRILLER: HANDGUN
-- The starting clip size of the Handgun has been increased from 8 to 12 bullets.
-- Clip size upgrade has been increased from +4 bullets to +6 bullets.
+BOHRER: PISTOLE
+- Die Start-Magazingröße der Pistole wurde von 8 auf 12 Kugeln erhöht.
+- Die Verbesserung der Magazingröße wurde von +4 auf +6 Kugeln erhöht.
 
 BOSCO
-- Bosco now deals 8 points of damage instead of 6 per shot 
-- Friendly fire factor decreased from 0.2 to 0.1. Not fun being killed by your favorite Drone afterall!
+- Bosco fügt jetzt 8 Schaden pro Schuss, anstatt der vorherigen 6 zu.
+- Der Eigenbeschuss-Faktor wurde von 0.2 auf 0.1 gesenkt. Es ist nunmal nicht ganz so spaßig, von der eigenen Drohne niedergemäht zu werden!
 
-OTHER IMPORTANT FIXES AND FEATURES
+ANDERE WICHTIGE KORREKTUREN UND FEATURES
 ------------------------------------
-ENEMIES
-- Praetorians now spit acid!
-- Praetorian difficulty rating increased. It is now more deadly, so you will encounter fewer of them.
-- Fixed Deeptora Swarms not attacking players.
-- Added armor and weak spots to Infector. Also increased base HP, aim for the weak spots for a quick kill.
-- Fixed swarmer tunnel debris in Radioactive.
-- Blood splatter when enemies hit you.
-- Added Jump attack to the Glyphid Swamers.
-- Tweaked end wave pressure.
-- Reduced the alert distance of Glyphid Grunts  and Praetorians. Players have to be closer before they attack.
-- Added new Glyphid sounds and tweaks.
-- Swarmer Tunnels debris material fixed
-- Salt Caves tunnel crystal madness fixed.
-- Exploders get speed boost when near another Exploder exploding.
-- Fixed Glyphid Spawner weak points.
-- Increase AI avoidance for Exploders.
-- Fixed Cave Leech grabbing already paralyzed target.
-- Align Glyphid Spitters towards target when stationary.
+GEGNER
+- Ein Prätorian kann jetzt Säure spucken!
+- Der Schwierigkeitsgrad des Prätorian wurde angehoben. Es ist jetzt noch tödlicher, also werdet ihr nicht so vielen davon begegnen.
+- Ein Fehler wurde korrigiert, durch den Deeptora-Schwärme Spieler nicht angegriffen hatten.
+- Eine Panzerung und Schwachpunkte wurden zu den Spitball-Infektoren hinzugefügt. Ebenso wurden deren Basis-Gesundheitspunkte angehoben - zielt auf die Schwachpunkte für einen schnellen Kill.
+- Die Bruchstücke von Schwärmer-Tunneln in der Radioaktiven Sperrzone wurden korrigiert.
+- Blutspritzer, wenn ihr von Gegnern getroffen werdet.
+- Eine Sprung-Attacke wurde zu den Glyphid-Schwärmern hinzugefügt.
+- Der Druck des letzten Schwarms wurde angepasst.
+- Die Aufmerksamkeitsdistanz von Glyphid Kriegern und Prätorians wurde verringert. Spieler müssen näher heran, bevor sie angegriffen werden.
+- Neue Glyphid-Soundeffekte und -Anpassungen wurden hinzugefügt.
+- Die Materialien der Bruchstücke der Schwärmer-Tunnel wurde korrigiert.
+- Die Anzahl der kleinen Kristalle, die in Massen in den Höhlen der Salzgruben zu finden waren, wurden korrigiert.
+- Explodierer erhalten einen Geschwindigkeitsschub, wenn sie sich in der Nähe eines anderen Explodierers aufhalten, der explodiert.
+- Die Schwachpunkte des Glyphid Brut-Nexus wurden korrigiert.
+- Die KI veranlasst Explodierer dazu, öfter auszuweichen.
+- Eine Höhlenklette konnte ein bereits bewegungsunfähiges Ziel erneut greifen - das wurde korrigiert.
+- Glyphid-Säurespucker und -Fadenspucker richten sich zu ihrem Ziel hin aus, wenn dieses still steht.
 
-BIOMES
-- Red Sugar leaves chunks on the ground if you mine it while at full health.
-- Radioactive materials and colour tweaks.
-- Tweaks on post process effects.
-- Steam Geysers in Fungus Bogs can now spawn at more interesting angles. Have Fun!
-- Made the Glowtree illuminate a much larger area. The more Bulbs you shoot the brighter it gets
-- Fungus Bogs wall material tweak.
-- Lush wall material tweaks, Nitra tweaks, Gold tweaks.
-- Slightly randomize animation speed of animated foliage so they are not all in same phase of animation.
-- Added exploding plants to Fungus bog and Dense Biozone (as colour variant).
-- New passive creature: Silicate Harvester added to Dense Biozone and Radioactive regions. You can ride it!
+BIOME
+- Roter Zucker hinterlässt kleine Stücke auf dem Boden, wenn ihr es abbaut, aber bereits bei voller Gesundheit seid.
+- Die Materialien und Farben der Radioaktiven Sperrzone wurden angepasst.
+- Die Nachbearbeitungs-Effekte wurden angepasst.
+- Dampfgeysire im Pilz-Moor können jetzt in diversen, interessanteren Ausrichtungen generiert werden. Viel Spaß!
+- Der Leuchtbaum erhellt einen deutlich größeren Bereich. Je mehr Knollen ihr anschießt, desto heller wird es!
+- Die Materialien der Wände im Pilz-Moor wurden angepasst.
+- Die Materialien der Wände in der Dichten Biozone, von Nitra und Gold wurden angepasst.
+- Die Animationsgeschwindigkeit von animierten Pflanzen wird zufälliger gewählt, sodass sie nicht alle so leicht in der selben Phase der Animation sein können.
+- Explosive Pflanzen wurden dem Pilz-Moor und der Dichten Biozone (als Farbvariante) hinzugefügt.
+- Eine neue passive Kreatur: Der Silikat-Sammler wurde zur Dichten Biozone und zur Radioaktiven Sperrzone hinzugefügt. Ihr könnt darauf reiten!
 
-CAVE GENERATION AND MISSIONS
-- New cave shapes. More variations for the level generation.
-- More randomization for the existing cave shapes.
-- Unique cave structure for the Salvage Operations.
-- Cave complexity is now more accurate, making sure that the difference between simple and complicated caves is more apparent.
-- High Complexity missions are now locked to player rank (2 for medium and 3 for high complexity).
-- Hazard level: Tourist has been removed for now. Very few players was playing this mode and it felt a bit broken how you were earning zero gold or xp.
+GENERIERUNG VON HÖHLEN UND MISSIONEN
+- Neue Höhlensysteme. Mehr Variationen bei der Levelgenerierung.
+- Zufälligere Zusammenstellungen der existierenden Höhlensysteme.
+- Einzigartige Höhlenstruktur für Bergungseinsätze.
+- Die Höhlen-Komplexität ist jetzt präziser, sodass der Unterschied zwischen einfachen und komplexen Höhlen ersichtlicher ist.
+- Missionen mit hoher Komplexität sind jetzt auf den Spielerrang beschränkt (Rang 2 für mittlere und Rang 3 für hohe Komplexität).
+- Die Gefahrenstufe: Tourist wurde vorerst einmal entfernt. Nur sehr wenige Spieler haben diesen Modus gespielt und er fühlte sich ein wenig kaputt an, da ihr keinerlei Gold oder Erfahrungspunkte sammeln konntet.
 
-WEAPONS AND TOOLS
-- Added laser pointer warning to radioactive crystals.
-- Added Gatling Gun gunsling animation.
-- Fixed laser pointer distance bug.
-- Holding time to equip laser pointer with controller is shorter.
-- Sentry gun fix - It would sometimes shoot things that were not enemies.
-- Bullet casings for gatling gun and assault rifle have been reactivated.
+WAFFEN UND WERKZEUGE
+- Eine Warnung für Radioaktive Kristalle wurde zum Laserpointer hinzugefügt.
+- Eine "Gunslinger"-Animation wurde zur Minigun hinzugefügt.
+- Ein Bug wurde behoben, bei dem der Laserpointer nicht die korrekte Distanz angezeigt hat.
+- Die entsprechende Taste am Controller muss jetzt nicht mehr so lange gedrückt gehalten werden, um den Laserpointer hervorzubringen.
+- Eine Korrektur für den Geschützturm: Ab und zu hat er auf Dinge geschossen, die keine Feinde waren.
+- Die Kugelhüllen der Minigun und des Sturmgewehrs wurden erneut aktiviert.
 
 HUD
-- Teammates icons always visible displaying current health, special states (like being grabbed by a cave leech), and shouts.
-- Laser pointer pings when it hovers over a resource.
-- When laserpointer equipped, hold FIRE to place personal waypoint.
-- New crosshairs for most weapons.
-- Hit indicators removed in their previous form. Now some parts of the crosshair will turn red to confirm that an enemy has been hit. Red arrows appear on the health bar when the shot hit a weak spot.
+- Die Portraits von Teammitgliedern sind immer sichtbar - sie zeigen deren aktuellen Gesundheitstatus, sowie spezielle Umstände und Veränderungen (wie z.B. wenn sie von einer Höhlenklette lahmgelegt wurden) und Rufe dar.
+- Der Laserpointer gibt jetzt ein Signal aus, wenn er auf eine Ressource zeigt.
+- Um einen persönlichen Wegpunkt zu platzieren, haltet den "FEUERN" Knopf gedrückt, während der Laserpointer aktiv ist.
+- Neue Fadenkreuze für die meisten Waffen.
+- Die Trefferanzeige in ihrer ursprünglichen Form wurde entfernt. Manche Bereiche des Fadenkreuzes werden jetzt rot eingefärbt, um zu zeigen, dass ein Gegner getroffen wurde. Rote Pfeile erscheinen auf dem Gesundheitsbalken, wenn ein Schwachpunkt getroffen wurde.
 
-MISC.
-- Update Chinese translation.
-- Turkish added to supported languages.
-- Fixed trading buy/sell+crash exploit.
-- Fix Bosco related crash.
-- Tweaked 'Player Down' HUD & team icons.
-- Mission Control now announces gravity recalibration.
-- The hosting player now jumps the same height as clients (was lower before).
+SONSTIGES
+- Die Chinesische Übersetzung wurde aktualisiert.
+- Türkisch wurde zu den unterstützten Sprachen hinzugefügt.
+- Ein Handels-Exploit wurde korrigiert, bei dem Abstürze eine Rolle spielten.
+- Ein Absturz im Zusammenhang mit Bosco wurde korrigiert.
+- Das "Spieler ist am Boden"-HUD und die Team-Portraits wurden angepasst.
+- Das Kontrollzentrum kündigt jetzt die Neukalibrierung der Gravitation an.
+- Der Gastgeber (Host) erreicht jetzt die selbe Höhe wie die anderen Spieler im Team (Client), wenn er springt (zuvor war sie niedriger).
 "
 	Update_12 = "Hey Minenarbeiter!
 
@@ -3997,7 +4003,7 @@ KLEINERE REPERATUREN
 	Update_11_Header = "UPDATE 11: TOT UND GEWEHR - 23.03.2018"
 	Update_12_Header = "UPDATE 12: FLIEGEN UND FINANZEN - 13.04.2018"
 	Update_13_Header = "UPDATE 13: KLEINE LEBENSANPASSUNGEN - 04.05.2018"
-	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
+	Update_14_Header = "UPDATE 14: FEATURES KRIECHEN DAHER - 15.06.2018"
 	Update_9_Header = "UPDATE 9: MAN BOHRT SICH SPÄTER! - 09.03.2018"
 
 Namespace Progression (6 keys)

@@ -1,7 +1,7 @@
 22 namespaces
-1546 values
+1549 values
 
-Namespace Global (1757 keys)
+Namespace Global (1760 keys)
 	2559D78C40005E5221F26093CB976283 = " Kerää {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " TARPEELLINEN"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Ääni Suunnittelija / Musiikin Tuottaja"
@@ -229,6 +229,7 @@ Namespace Global (1757 keys)
 	125A17F544091695DF06DE8C034DBBCC = "Nitran palo"
 	2274BA614EB4940BF90EE3A74A36BE8D = "Nitran Kimpale"
 	47EB687F4529CFBDBCFD699056AC7F7A = "Nitran Kimpale"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Chunk of Red Sugar"
 	051100FE440C58990CAA6495C6680DA4 = "Klassinen"
 	4DC19E56415BB0537728FBBE378F9066 = "Puhtaaksi Ajettu"
 	2840FE284F006002F9C598897D261B2C = "Puhdas ja yksinkertainen"
@@ -885,6 +886,7 @@ HARJOITUKSET"
 	86B4629441FD546F624F2AAC787FA8E1 = "Kevytkonekiväärin Ase Jalusta"
 	776EEDF74F5A67D8128954AA3C43A93F = "Resurssien Puute!"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
+	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Suurempi vyö"
 	9A19A3834CDEC7A40FE1C6A09F3B69FD = "Isompi soihtu kotelo"
 	6EC0C2C84BD8927D924E2D90D7BD1A30 = "Laserosoitin"
@@ -1753,6 +1755,7 @@ ROCK & STONE!"
 	42A181434CE0896CB57DA38B901224C4 = "Olette melkein läpäisseet aallon, Tiimi. Menoksi!"
 	891F0E4A46B837A2FF5B5B9B4C38484B = "Olet historiaa!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "Teidän pojat on parasta olla parempia mainareita, kuin olette tanssijoita."
+	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "You can carry more ammo with you into battle."
 	32E67FE9406320B0C0226FA6475494C3 = "Voit osoittaa kiinnostavia asioita laserosoitimella ja kiinnittää tiimikavereidesi huomion niihin."
 	78D2755C4861A355ED50D3AD1A7F8D85 = "Et voi ottaa tynnyreitä mukaan tehtäville, mutta annan aplodit yrityksillesi."
@@ -1880,8 +1883,9 @@ ENGINEER: PLATFORM GUN
 - Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
 
 ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
 
 DRILLER: HANDGUN
 - The starting clip size of the Handgun has been increased from 8 to 12 bullets.

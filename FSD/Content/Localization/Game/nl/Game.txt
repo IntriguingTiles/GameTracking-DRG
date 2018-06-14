@@ -1,7 +1,7 @@
 22 namespaces
-1820 values
+1823 values
 
-Namespace Global (2240 keys)
+Namespace Global (2243 keys)
 	2559D78C40005E5221F26093CB976283 = " Verzamel {Collected} {Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " VERPLICHT"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer / muziekproducer"
@@ -290,6 +290,7 @@ Je bent ook uitgerust met een extreem handige ZIPLINE LANCEERDER, jij en je team
 	2274BA614EB4940BF90EE3A74A36BE8D = "Brok Nitra"
 	47EB687F4529CFBDBCFD699056AC7F7A = "Brok Nitra"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Brok van Nitra"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Chunk of Red Sugar"
 	051100FE440C58990CAA6495C6680DA4 = "Klassiek"
 	4DC19E56415BB0537728FBBE378F9066 = "Schone Scheerbeurt"
 	2840FE284F006002F9C598897D261B2C = "Schoon en eenvoudig"
@@ -1109,6 +1110,7 @@ BERIJK"
 	776EEDF74F5A67D8128954AA3C43A93F = "Gebrek aan middelen!"
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
+	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Grotere Riem"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Grotere Riem"
 	A58587444D096FC60CC81D9393CF222E = "Grotere Riem"
@@ -2182,6 +2184,7 @@ de bemanningsleden van het spookschip"
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "Je betreed verboden gebied! Keer om en ga aan het werk!"
 	B7D2007C461E925E99F54AAFE707165D = "Je betreed verboden gebied! Dit gebied is verboden voor normale mijners!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "Ik hoop maar dat je een betere mijnwerker bent, dan dat je kan dansen."
+	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "You can carry more ammo with you into battle."
 	32E67FE9406320B0C0226FA6475494C3 = "Je kunt dingen aanwijzen met je laseraanwijzer en de aandacht van je teamgenoten vestigen op punten van interesse."
 	78D2755C4861A355ED50D3AD1A7F8D85 = "Je kan geen vaten met je mee brengen op je missie, maar ik waardeer je poging."
@@ -2348,8 +2351,9 @@ ENGINEER: PLATFORM GUN
 - Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
 
 ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
 
 DRILLER: HANDGUN
 - The starting clip size of the Handgun has been increased from 8 to 12 bullets.

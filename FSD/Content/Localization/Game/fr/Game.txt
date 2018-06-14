@@ -1,7 +1,7 @@
 22 namespaces
-2652 values
+2653 values
 
-Namespace Global (3331 keys)
+Namespace Global (3332 keys)
 	2559D78C40005E5221F26093CB976283 = " Recueillir {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUIS"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -444,6 +444,7 @@ DE BRIEFING"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Pépite de nitra"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "Pépite de nitra"
 	EC7C73A0400EAEB5501D12863298DDC5 = "Pépite de nitra"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Chunk of Red Sugar"
 	CCAE4EA549842149659D608F55032565 = "Niveau de classe"
 	FD61731A4B22C39B91E33FBA7ADE26AF = "Casque d'extraction classique"
 	051100FE440C58990CAA6495C6680DA4 = "Classique"
@@ -908,7 +909,6 @@ Quand vous avez obtenu 4 points, votre rang de joueur augmente."
 	6C4AB72442630C6E5FDC1988E5AB9A50 = "Fusée éclairante supplémentaire"
 	B04C37C14246AD0ADF767897D23E2B69 = "Fusée éclairante supplémentaire"
 	3BB6E31941A0CD6F316865B4733BA82B = "Réservoir de carburant supplémentaire"
-	B021245C4ED985858EA887B7D06D5792 = "Sac de munition extra-large"
 	87A3D0D446CE12B17681B5BE8CA7B0E3 = "Ceinture extra-large"
 	291965AC4A3E4F21FB9B91841B98F417 = "Tyroliennes supplémentaires"
 	77D6AB4F4929A856637FFDA7BE807942 = "Dépôt supplémentaire"
@@ -1616,6 +1616,7 @@ DIDACTICIEL"
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
 	A5666AB64D46422F0773AF905EF3229B = "Grand sac de munitions"
+	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Ceinture plus grosse"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Plus grosse ceinture"
 	A58587444D096FC60CC81D9393CF222E = "Plus grosse ceinture"
@@ -3258,8 +3259,8 @@ ROCK & STONE !"
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "L'accès à cette zone est interdite ! Du balai et au boulot !"
 	B7D2007C461E925E99F54AAFE707165D = "Du balai ! Cette zone est interdite aux mineurs standards !"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "J'espère que vous êtes de meilleurs mineurs que danseurs, les gars."
-	E715C48B459168248821088AC6F1734A = "Vous pouvez transporter encore plus de munitions pour la Mitraillette"
 	833AEAA84CB5B0D230B61EB165319D50 = "Vous pouvez transporter plus de munitions pour la Mitraillette"
+	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "Vous pouvez transporter plus de munition avec vous lors des combats."
 	32E67FE9406320B0C0226FA6475494C3 = "Vous pouvez viser des choses avec votre Pointeur Laser pour attirer l'attention de vos camarades sur des points d’intérêt."
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "Vous ne pouvez pas lire les panneaux ? Eh bien... Laissez-moi vous aider... SILENCE !"
@@ -3567,8 +3568,9 @@ ENGINEER: PLATFORM GUN
 - Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
 
 ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
 
 DRILLER: HANDGUN
 - The starting clip size of the Handgun has been increased from 8 to 12 bullets.

@@ -1,7 +1,7 @@
 22 namespaces
-2726 values
+2727 values
 
-Namespace Global (3310 keys)
+Namespace Global (3311 keys)
 	2559D78C40005E5221F26093CB976283 = " Recoger {Collected}/{Required}{Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESARIO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Diseñador de sonido / productor musical"
@@ -443,6 +443,7 @@ INFORME"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Trozo de Nitra"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "Trozo de Nitra"
 	EC7C73A0400EAEB5501D12863298DDC5 = "Trozo de Nitra"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Chunk of Red Sugar"
 	CCAE4EA549842149659D608F55032565 = "Nivel de clase"
 	FD61731A4B22C39B91E33FBA7ADE26AF = "Casco de minería clásico"
 	051100FE440C58990CAA6495C6680DA4 = "Clásica"
@@ -905,7 +906,6 @@ Cuando haya acumulado 4 marcas de tablero tu rango de jugador aumenta."
 	6C4AB72442630C6E5FDC1988E5AB9A50 = "Bengala adicional"
 	B04C37C14246AD0ADF767897D23E2B69 = "Bengala adicional"
 	3BB6E31941A0CD6F316865B4733BA82B = "Bidón extra de combustible"
-	B021245C4ED985858EA887B7D06D5792 = "Bolsa de munición extra grande"
 	87A3D0D446CE12B17681B5BE8CA7B0E3 = "Cinturón Extra Grande"
 	291965AC4A3E4F21FB9B91841B98F417 = "Extra Tirolesas"
 	77D6AB4F4929A856637FFDA7BE807942 = "Deposito Extra"
@@ -1609,6 +1609,7 @@ TUTORIAL"
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
 	A5666AB64D46422F0773AF905EF3229B = "Bolsa de munición grande"
+	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Cinturón más grande"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Cinturón más Grande"
 	A58587444D096FC60CC81D9393CF222E = "Cinturón más Grande"
@@ -3240,8 +3241,8 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "¡Estás entrando ilegalmente! Por favor, da la vuelta y haz algo de trabajo!"
 	B7D2007C461E925E99F54AAFE707165D = "¡Estás traspasando esta área está fuera de límite para los mineros regulares!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "Ustedes, chicos, mejor sean mejores mineros que bailarines."
-	E715C48B459168248821088AC6F1734A = "Puedes llevar incluso más munición para el Arma Centinela"
 	833AEAA84CB5B0D230B61EB165319D50 = "Puedes llevar más munición para el Arma Centinela"
+	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "Puedes llevar más munición contigo a la batalla."
 	32E67FE9406320B0C0226FA6475494C3 = "Puedes señalar cosas con el puntero láser y llamar la atención de tus compañeros de equipo a puntos de interés."
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "Usted no puede leer los signos? Bueno..... Déjame ayudarte... ¡QUÉDATE QUIETO!"
@@ -3454,8 +3455,9 @@ ENGINEER: PLATFORM GUN
 - Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
 
 ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
 
 DRILLER: HANDGUN
 - The starting clip size of the Handgun has been increased from 8 to 12 bullets.

@@ -1,7 +1,7 @@
 22 namespaces
-2736 values
+2737 values
 
-Namespace Global (3482 keys)
+Namespace Global (3485 keys)
 	2559D78C40005E5221F26093CB976283 = " Collect {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUIRED"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -478,8 +478,8 @@ TERMINAL"
 	47EB687F4529CFBDBCFD699056AC7F7A = "Chunk of Nitra"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Chunk of Nitra"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "Chunk of Nitra"
-	E94E8AB94E59FCAF5BB9B499682073D1 = "Chunk of Nitra"
 	EC7C73A0400EAEB5501D12863298DDC5 = "Chunk of Nitra"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Chunk of Red Sugar"
 	CCAE4EA549842149659D608F55032565 = "Class Level"
 	FD61731A4B22C39B91E33FBA7ADE26AF = "Classic Mining Helmet"
 	051100FE440C58990CAA6495C6680DA4 = "Classical"
@@ -957,7 +957,6 @@ When you have collected 4 dash marks your player rank increases."
 	6C4AB72442630C6E5FDC1988E5AB9A50 = "Extra Flare"
 	B04C37C14246AD0ADF767897D23E2B69 = "Extra Flare"
 	3BB6E31941A0CD6F316865B4733BA82B = "Extra Fuel Cannister"
-	B021245C4ED985858EA887B7D06D5792 = "Extra Large Ammo Bag"
 	87A3D0D446CE12B17681B5BE8CA7B0E3 = "Extra Large Belt"
 	291965AC4A3E4F21FB9B91841B98F417 = "Extra Ziplines"
 	77D6AB4F4929A856637FFDA7BE807942 = "Extra deposit"
@@ -1243,6 +1242,7 @@ RANGE"
 	8F9958A3499BD08951BDFBAC5A92DA1F = "Grab"
 	7BE63A504996B9AD835E1097CE24C031 = "Grab your pickaxes! I'm out of fuel!"
 	944D10E243788EBBBCB432B95FD02E52 = "Grab your pickaxes! I'm out of fuel!"
+	36E210854787B3C9CB53F78CB91B5B1D = "GrabberTest"
 	7F8003DA478DE1029E7579ADC3633070 = "Grabbing Ammo!"
 	E9A0DC024B2AAFDD9782F58C6ACA298B = "Graphics"
 	DDF50D4C4F9E838B71893D9D297BC7AE = "Grappling Gun"
@@ -1687,6 +1687,7 @@ TUTORIAL"
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
 	A5666AB64D46422F0773AF905EF3229B = "Large Ammo Bag"
+	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Larger Belt"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Larger Belt"
 	A58587444D096FC60CC81D9393CF222E = "Larger Belt"
@@ -3369,8 +3370,8 @@ ROCK & STONE!"
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "You are trespassing! Please turn around a get some work done!"
 	B7D2007C461E925E99F54AAFE707165D = "You are trespassing! This area is off limit to regular miners!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "You boys better be better miners than you are dancers."
-	E715C48B459168248821088AC6F1734A = "You can carry even more ammo for the Sentry Gun"
 	833AEAA84CB5B0D230B61EB165319D50 = "You can carry more ammo for the Sentry Gun"
+	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "You can carry more ammo with you into battle."
 	32E67FE9406320B0C0226FA6475494C3 = "You can point at things with your Laser Pointer and draw your team mates attention to points of interest."
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "You can't read the signs? Well.....Let me help you.....KEEP IT QUIET!"
@@ -3456,6 +3457,8 @@ This is equal to a failed mission."
 	54763469445633F515851987363411AA = "[MapTool]"
 	9604D7824F1C3D214D0AA6A0B98AC620 = "[Mine]"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] Continue"
+	319FC2C243CD6989A597A8B314759BBD = "[OkMenu] Continue"
+	54B6DBEE47A15FEB3FCD99A24F4EA0B2 = "[OkMenu] Continue"
 	9AEB086C47A32806C48C68A2FF72D25C = "[OkMenu] Full Server List"
 	4123F28A44E1A2BC85252C9579C10508 = "[OkMenu] QUICK JOIN"
 	095853BB4D32666227111591E781AEB0 = "[OkMenu] Search"
@@ -3732,8 +3735,9 @@ ENGINEER: PLATFORM GUN
 - Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
 
 ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
 
 DRILLER: HANDGUN
 - The starting clip size of the Handgun has been increased from 8 to 12 bullets.

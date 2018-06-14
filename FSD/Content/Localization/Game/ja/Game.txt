@@ -1,7 +1,7 @@
 22 namespaces
-2672 values
+2676 values
 
-Namespace Global (3207 keys)
+Namespace Global (3211 keys)
 	2559D78C40005E5221F26093CB976283 = " 収集 {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " 要求"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = "サウンドデザイナー/音楽プロデューサー"
@@ -421,6 +421,7 @@ Hoxxesはあなたの友人ではない！""
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "ナイトラの塊"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "ナイトラの塊"
 	EC7C73A0400EAEB5501D12863298DDC5 = "ナイトラの塊"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Chunk of Red Sugar"
 	CCAE4EA549842149659D608F55032565 = "クラスレベル"
 	051100FE440C58990CAA6495C6680DA4 = "クラシカル"
 	E6091D33453BC448874457AB90A51E39 = "優雅な動きだ、チーム。すぐにそれをやめろ！"
@@ -1549,6 +1550,7 @@ Hoxxesはあなたの友人ではない！""
 	E612E7A1483E43042EB651808C262332 = "言語"
 	3675313745838E7EA1DF2DBB8023B806 = "ラペイルージア セルラータ"
 	94D2231C45628D5331BE04874254B8A1 = "ラペリルーシャ セルラータ"
+	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "大きなベルト"
 	9E5515644E360F6FD5B604B5E5CB78DF = "大きなベルト"
 	A58587444D096FC60CC81D9393CF222E = "大きなベルト"
@@ -1738,6 +1740,7 @@ Hoxxesはあなたの友人ではない！""
 	A9132B7247ABD90C9481E0B20B97C07D = "M.U.L.Eの足"
 	8C7210B94148CC89BDD79A93A4BCFA0E = "MULEは運用可能だ。よくやった"
 	3DF99B2E4999F93C5F384D872E5BAF0B = "M.U.L.Eの電力が入っている。いい仕事だ。"
+	52707F4E461A33C957A0F0979CF268A2 = "マクテーラ グラバー"
 	8A79295A43386BA5A8106BB9125BB620 = "ミーナ スポーン"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	E0E051F74E00F5C9A4CC2680847DF607 = "蛆虫"
@@ -3142,6 +3145,7 @@ But well done. :D
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "お前は制限区域に侵入している！直ちに引き返して仕事に戻れ！"
 	B7D2007C461E925E99F54AAFE707165D = "ここに入ってはならない！このエリアは普通の鉱夫の立入禁止だ！"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "君たちはダンサーよりも優れた鉱夫になるのが望ましい。"
+	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "戦場により多くの弾薬を持っていくことができる。"
 	32E67FE9406320B0C0226FA6475494C3 = "レーザーポインターで物を指して、チームメイトの注意を促すことができます。"
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "お前は注意書きが読めないのか? そうか…教えてやろう…黙っていろ!"
@@ -3444,8 +3448,9 @@ ENGINEER: PLATFORM GUN
 - Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
 
 ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
 
 DRILLER: HANDGUN
 - The starting clip size of the Handgun has been increased from 8 to 12 bullets.
@@ -3822,7 +3827,7 @@ Taem Camsの一回目の反復 - あなたが無能力になっている間チ�
 	Update_11_Header = "アップデート 11: DEAD AND GUN  -  03.23.2018"
 	Update_12_Header = "アップデート 12: FLIES N' FINANCE - 13.04.2018"
 	Update_13_Header = "アップデート 13: MINOR LIFE CHANGES - 04.05.2018"
-	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
+	Update_14_Header = "アップデート 14: FEATURE CREEP - 15.06.2018"
 	Update_9_Header = "アップデート 9: DRILL YOU LATER!  -  09.03.2018"
 
 Namespace Progression (6 keys)

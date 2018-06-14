@@ -1,7 +1,7 @@
 22 namespaces
-2096 values
+2099 values
 
-Namespace Global (2666 keys)
+Namespace Global (2669 keys)
 	2559D78C40005E5221F26093CB976283 = " Sesbírejte {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " POŽADOVANÉ"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -322,6 +322,7 @@ TERMINÁL"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Kus Nitry"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "Kus Nitry"
 	EC7C73A0400EAEB5501D12863298DDC5 = "Kus Nitry"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Chunk of Red Sugar"
 	CCAE4EA549842149659D608F55032565 = "Úroveň Třídy"
 	051100FE440C58990CAA6495C6680DA4 = "Klasické"
 	4DC19E56415BB0537728FBBE378F9066 = "Čisté oholení"
@@ -1304,6 +1305,7 @@ PROGRAM"
 	E612E7A1483E43042EB651808C262332 = "Jazyk"
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
+	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Větší pás"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Větší pás"
 	A58587444D096FC60CC81D9393CF222E = "Větší pás"
@@ -2603,6 +2605,7 @@ ROCK & STONE!"
 	42A181434CE0896CB57DA38B901224C4 = "Jste téměř srkz vlnu, týme. Jdeme, jdeme!"
 	891F0E4A46B837A2FF5B5B9B4C38484B = "Jseš historie!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "Vy chlapci radši buďte lepší horníci než jste tanečníci."
+	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "You can carry more ammo with you into battle."
 	32E67FE9406320B0C0226FA6475494C3 = "Namiřte váš Laserový zaměřovač na věci, které Vás zajímají a ukažte je svým spoluhráčům."
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "Neumíš číst značky? Dobře... nech mě pomoc.... DRŽ HUBU!"
@@ -2778,8 +2781,9 @@ ENGINEER: PLATFORM GUN
 - Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
 
 ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
 
 DRILLER: HANDGUN
 - The starting clip size of the Handgun has been increased from 8 to 12 bullets.

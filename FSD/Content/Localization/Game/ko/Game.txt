@@ -1,7 +1,7 @@
 22 namespaces
-2775 values
+2777 values
 
-Namespace Global (3342 keys)
+Namespace Global (3344 keys)
 	2559D78C40005E5221F26093CB976283 = " {Collected}/{Required} {Title} 수집하시오"
 	31D60A1449082F9AB6DC15844F3810F6 = " 필요함"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -450,8 +450,8 @@ Namespace Global (3342 keys)
 	47EB687F4529CFBDBCFD699056AC7F7A = "나이트라 덩어리"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "나이트라 덩어리"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "나이트라 덩어리"
-	E94E8AB94E59FCAF5BB9B499682073D1 = "나이트라 덩어리"
 	EC7C73A0400EAEB5501D12863298DDC5 = "나이트라 덩어리"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "붉은 설탕 덩어리"
 	CCAE4EA549842149659D608F55032565 = "클래스 레벨"
 	FD61731A4B22C39B91E33FBA7ADE26AF = "클래식 채광 헬멧"
 	051100FE440C58990CAA6495C6680DA4 = "클래식"
@@ -543,7 +543,7 @@ Namespace Global (3342 keys)
 	C4B1BAF74198A3B6CE0054BC7405B0AA = "지점 추출을 {value} 번 완수하세요."
 	9686B8AF4DCD315B259FD399322EEB9B = "구조 활동를 {value} 번 완료하세요"
 	EB1B8A3542443FF3561615B2AB486FFE = "탐사 및 추출 임무를 {value} 번 완료하세요"
-	55D0A66F44FCB63A9805AC859C63B095 = "Complete {value} Secondary Objectives"
+	55D0A66F44FCB63A9805AC859C63B095 = "보조목표를 {value} 번 완료하세요"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "복잡성"
 	151724A14D1B1BD735C9DCAC1DF8C446 = "복잡성"
 	7DC1B17349F76564C915108665417F1A = "복잡성 :"
@@ -821,6 +821,7 @@ Namespace Global (3342 keys)
 	E978D9A04051D52DB79C7BB45391CEE7 = "드워프들은 쉽게 죽지 않지!"
 	38924DD543A1A393669A3E97A7EFD5C3 = "디스트럼"
 	785E622B47393CFF669E4AAD294EF7B4 = "디스트럼"
+	D5F706614CEB09B2DC730791C4E58B4F = "디스트럼 보조 임무 완료"
 	BAFF6FF24F171D41C3301FB516AC56F1 = "디스트럼 채집"
 	F11A3F084B9EFDD266772C95B77D158E = "디스트럼 발견!"
 	78537C2247D9B8D3AE925ABA709DA43B = "디스트럼!"
@@ -920,7 +921,6 @@ Namespace Global (3342 keys)
 	6C4AB72442630C6E5FDC1988E5AB9A50 = "추가 조명탄"
 	B04C37C14246AD0ADF767897D23E2B69 = "추가 조명탄"
 	3BB6E31941A0CD6F316865B4733BA82B = "여분 연료 용기"
-	B021245C4ED985858EA887B7D06D5792 = "여분의 대형 탄약 가방"
 	87A3D0D446CE12B17681B5BE8CA7B0E3 = "초대형 벨트"
 	291965AC4A3E4F21FB9B91841B98F417 = "추가 짚라인"
 	77D6AB4F4929A856637FFDA7BE807942 = "추가 저장량"
@@ -1629,6 +1629,7 @@ Namespace Global (3342 keys)
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
 	A5666AB64D46422F0773AF905EF3229B = "대형 탄약 가방"
+	B021245C4ED985858EA887B7D06D5792 = "대형 탄약 가방"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "더 큰 벨트"
 	9E5515644E360F6FD5B604B5E5CB78DF = "더 큰 벨트"
 	A58587444D096FC60CC81D9393CF222E = "큰 허리띠"
@@ -2512,10 +2513,10 @@ Namespace Global (3342 keys)
 	560C3A5E402E3A45BFF035B7741D08F3 = "경례"
 	8BC5E4024C1F140941755090E50DE0EF = "경례"
 	E05734A147FBEC155C3EC1B6DC2C33BD = "경례"
-	663DF6A0400D452BD3BFEEABCF804CDA = "Salvage Operation"
-	71BB3FD34003F9E5896BA283834539AD = "Salvage Operation"
-	C6242A264B9CAFC86010E08FEB3F4E88 = "Salvage Operation"
-	557B55E74F310E9E3CE1B99447B57EC1 = "Salvage Operations Completed"
+	663DF6A0400D452BD3BFEEABCF804CDA = "구조 작업"
+	71BB3FD34003F9E5896BA283834539AD = "구조 작업"
+	C6242A264B9CAFC86010E08FEB3F4E88 = "구조 작업"
+	557B55E74F310E9E3CE1B99447B57EC1 = "구조 작업 완료"
 	EC069740491D88E1DCC0E1880E7D5FE3 = "MULE을 {count} 만큼 회수하시오"
 	4CB7BF034402D8F57BD2EAB4B357A7DC = "MULE을 {current}/{required}만큼 회수하시오"
 	079A2F7943180A27F7D98283EBD927B1 = "비슷하지만 달라
@@ -3281,8 +3282,8 @@ ROCK & STONE!"
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "당신은 무단 침입 중입니다! 돌아가서 일을 끝내세요!"
 	B7D2007C461E925E99F54AAFE707165D = "당신은 무단 침입 중입니다! 이곳은 일반 광부 제한 구역입니다!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "너희들은 춤꾼이 되기보다는 더 나은 광부가 되는 게 나을꺼야."
-	E715C48B459168248821088AC6F1734A = "자동 포탑의 탄약을 더욱 더 많이가지고 다닐 수 있습니다"
 	833AEAA84CB5B0D230B61EB165319D50 = "자동 포탑의 탄약을 더 가지고 다닐 수 있습니다"
+	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "당신은 전투에 더 많은 탄약을 가지고 갈 수 있습니다."
 	32E67FE9406320B0C0226FA6475494C3 = "물건을 레이저 포인터로 겨누면 팀원들을 그 지점에 관심을 끌게 합니다."
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "자네는 표지판도 못읽나? 좋아.....내가 도와주지...조용히 할 것!"
@@ -3344,6 +3345,7 @@ ROCK & STONE!"
 	E9D9463E42928C3514755BAC259C5AA5 = "[CloseMenu] 아니요"
 	AEA347F74547383311956F963FE02E16 = "[Fire] + [Mine]: 카메라 전환"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] 계속"
+	54B6DBEE47A15FEB3FCD99A24F4EA0B2 = "[OkMenu] 계속하기"
 	9AEB086C47A32806C48C68A2FF72D25C = "[OkMenu] 전체 서버 목록"
 	4123F28A44E1A2BC85252C9579C10508 = "[OkMenu] 빠른 참가"
 	095853BB4D32666227111591E781AEB0 = "[OkMenu] 검색"
@@ -3587,8 +3589,9 @@ ENGINEER: PLATFORM GUN
 - Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
 
 ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
 
 DRILLER: HANDGUN
 - The starting clip size of the Handgun has been increased from 8 to 12 bullets.
@@ -3961,7 +3964,7 @@ BOSCO는 이제부터 부활 횟수 50% 증가
 	Update_11_Header = "업데이트 11: 데드 앤 건 - 03.23.2018"
 	Update_12_Header = "업데이트 12: FLIES N' FINANCE - 13.04.2018"
 	Update_13_Header = "업데이트 13: 자잘한 생명력 변경들 - 04.05.2018"
-	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
+	Update_14_Header = "업데이트 14: FEATURE CREEP - 15.06.2018"
 	Update_9_Header = "업데이트 9: 또 채굴해요! - 09.03.2018"
 
 Namespace Progression (6 keys)

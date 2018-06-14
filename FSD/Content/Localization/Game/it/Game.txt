@@ -1,7 +1,7 @@
 22 namespaces
-2576 values
+2579 values
 
-Namespace Global (3187 keys)
+Namespace Global (3190 keys)
 	2559D78C40005E5221F26093CB976283 = " Raccogliere {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESSARIO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Designer Sonoro/ Produttore Musicale"
@@ -412,6 +412,7 @@ DI ISTRUZIONI"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Pezzo di Nitra"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "Pezzo di Nitra"
 	EC7C73A0400EAEB5501D12863298DDC5 = "Pezzo di Nitra"
+	E94E8AB94E59FCAF5BB9B499682073D1 = "Chunk of Red Sugar"
 	CCAE4EA549842149659D608F55032565 = "Livello della Classe"
 	FD61731A4B22C39B91E33FBA7ADE26AF = "Casco da mininatore classico"
 	051100FE440C58990CAA6495C6680DA4 = "Classica"
@@ -1547,6 +1548,7 @@ TUTORIAL"
 	E612E7A1483E43042EB651808C262332 = "Lingua"
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	94D2231C45628D5331BE04874254B8A1 = "Lapeirousia Serrulata"
+	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Cintura larga"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Cintura larga"
 	A58587444D096FC60CC81D9393CF222E = "Cintura larga"
@@ -3113,6 +3115,7 @@ ROCCIA E PIETRA!"
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "Stai sconfinando! Per favore, girati e finisci il lavoro!"
 	B7D2007C461E925E99F54AAFE707165D = "Stai sconfinando! Quest'area è off limits per i minatori regolari!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "Voi ragazzi è meglio che sappiate minare meglio di quanto sapete ballare."
+	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
 	9CDC3BB840BF2AAAD82E36A827F9A84B = "Puoi trasportare più munizioni nella corso della battaglia."
 	32E67FE9406320B0C0226FA6475494C3 = "Puoi indicare degli oggetti col tuo Puntatore Laser ed attirare l'attenzione dei tuoi compagni su dei punti di interesse."
 	E8F68E004461E11AAA2CCCBD07C3DCCF = "Non riesci a leggere i cartelli? Bene... lascia che aiuti... FARE SILENZIO!"
@@ -3419,8 +3422,9 @@ ENGINEER: PLATFORM GUN
 - Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
 
 ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo reduced from 400 to 350.
-- You can now upgrade max ammo for the sentry guns twice. First upgrade gives +75 max ammo and second upgrade adds another +75 to max ammo - making you reach a total max ammo capacity of 500.  
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
 
 DRILLER: HANDGUN
 - The starting clip size of the Handgun has been increased from 8 to 12 bullets.
