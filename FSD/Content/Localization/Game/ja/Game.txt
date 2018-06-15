@@ -1,7 +1,7 @@
 22 namespaces
-2676 values
+2683 values
 
-Namespace Global (3211 keys)
+Namespace Global (3221 keys)
 	2559D78C40005E5221F26093CB976283 = " 収集 {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " 要求"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = "サウンドデザイナー/音楽プロデューサー"
@@ -345,6 +345,8 @@ Hoxxesはあなたの友人ではない！""
 	E38A00AB4C7911097E8E57855DDB2946 = "外見の変更"
 	9FFDAD124B9969657EDCDCB44E626837 = "チート"
 	6F02005F4FB0502AF4B3B79F594D57D1 = "CHEE-TR 69"
+	9392BED94683D6F34E8C188222CB1F88 = "取得"
+	E930649C4F8945B3445363AC29FBA8EF = "PERK ポイントを取得可能です！"
 	AA1B3D24461665D2DE736AB39C4BD728 = "クラス01"
 	47C96B3F473BD15099CEEA8D9010E031 = "クラス名"
 	E5E0408B4B2E7E33D11B66A7A2B88DAE = "COFFEE STAIN PUBLISHING"
@@ -488,16 +490,17 @@ Hoxxesはあなたの友人ではない！""
 	90DA1BB8439888EC43D5F3AE1F7BD4AA = "圧縮された土"
 	CAA4B0924362837962737D9BE73322E8 = "圧縮された土"
 	E0F791B54B36121FA71673A0AD6CD11F = "圧縮された土"
-	30E886374D703DA855B11AAB54C3B7D8 = "Complete the Tutorial Mission"
+	30E886374D703DA855B11AAB54C3B7D8 = "チュートリアルミッションを完了"
 	34BC57334D8B596B15074CBA7FAED9DE = "卵狩りミッションを {value} 個完了"
+	35030837442AC4F5DF9903B7FD0312C5 = "殲滅を {value} 個完了"
 	D0D98D9E431ACCB7357B6E943D52162A = "ミッションを {value} 個完了"
 	442E7C8549592572BCDADABEA3A79526 = "Complete {value} Missions in Crystalline Caverns"
 	F16C8C3D4CB37F83E7ABCC9B7135EC87 = "Complete {value} Missions in Dense Biozone"
 	7DF0FA5D4BFFDBBD015B9BBB47F07615 = "Complete {value} Missions in Fungus Bogs"
 	6F54937440371EA785D0808A47EC4779 = "Complete {value} Missions in Magma Core"
-	0021AE12478B1DF39F2D09822C23B7EF = "Complete {value} Missions in Radioactive Exclusion Zone"
+	0021AE12478B1DF39F2D09822C23B7EF = "立入禁止放射能区域で {value} 個ミッションを完了"
 	C4B4027E48CE250CA66B3FA40158E267 = "Complete {value} Missions in Sandblasted Corridors"
-	2939AF8C40B48D069EF1AEB4DC854E51 = "Complete {value} Missions in The Salt Pits"
+	2939AF8C40B48D069EF1AEB4DC854E51 = "塩の坑道で {value} 個ミッションを完了"
 	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Opperations"
 	EB1B8A3542443FF3561615B2AB486FFE = "Complete {value} Search and Extract Missions"
 	55D0A66F44FCB63A9805AC859C63B095 = "Complete {value} Secondary Objectives"
@@ -722,6 +725,7 @@ Hoxxesはあなたの友人ではない！""
 	53350E58436ACAB6F2E4AFB95E738253 = "ハッチを降ろせ！"
 	6A283C8D481ED192E578F49B90A9484A = "ハッチを降ろせ！"
 	8BDB41C942DC824548A6838B06C2ACE1 = "ハッチを降ろせ！"
+	9078A81B4B72E59AE3B5669C716085CB = "ドレッドノート殺害数"
 	988B37394D45160CE05946BBCAA893A3 = "ドレッドノートが倒れた!"
 	6E07328C4D7C503DE16A00B0CA17F9FB = "ドレッドノートが来るぞ！最善を尽くせ！"
 	A1B6E81D4EDC6FF49D483B9378F9039D = "ドレッドノートだ!"
@@ -816,6 +820,7 @@ Hoxxesはあなたの友人ではない！""
 	28446666412ED13D695913AC371C5625 = "標的を排除する:"
 	389C13134804A331A16FD786065B4478 = "殲滅"
 	6F34A7384E7B924065F4B9A4641095AF = "殲滅"
+	C09ACDFF472D3CF162560C9B026A66DA = "殲滅を完了した"
 	7B82A8D045B6807510A4F6B18460FEA6 = "エリート鉱夫"
 	9ECF074F49DD6AB258A629AFE296F04E = "エリート鉱夫"
 	E5B3A82840F6A15692609E9475E60174 = "空"
@@ -1814,6 +1819,7 @@ Hoxxesはあなたの友人ではない！""
 	17CE4B7142AC22E45FF246B923EBB305 = "{value} 個貴重なものを採掘する"
 	568830134D82FF127080FA86249E4538 = "マインヘッドが戻った。ドロップポッドが入ってくるぞ！"
 	DB7AF605434CFF87704E799DE6090780 = "鉱物の煙突"
+	0045F2204008368E8777748223ACE0FB = "鉱石を持ち運べる量 +{value} 個"
 	FF249D1545DF2C5F1C085FA7F4A516FA = "鉱石採掘量"
 	B5208C1E4B96924DB09BAD8D1515F5AB = "チームが掘った鉱物"
 	D51DD7A94A885AFBA545C4A5F2FA6254 = "小型M.U.L.E."
@@ -1829,6 +1835,7 @@ Hoxxesはあなたの友人ではない！""
 	B4253B1E4AB8F953BCD51188009553B7 = "ミッションはロックされた。降下ポッドを準備中だ。"
 	470547694BE786FA2F45049F27CD82A7 = "ミッションが選択された。ドロップポッドに搭乗する時間だ。"
 	0664EDEF406B5BF10A5D6AA8D196ED2A = "ミッションが選択された。諸君の戦車が待っているぞ。出発だ。"
+	387FB2484DFA5766DA90E6A725E0F0BB = "ミッション"
 	96E6DEFA4D093CABD8D3B8A4201CFB34 = "ミッション"
 	807A896D4764FA22029B40B69BF5188D = "ミッション完了"
 	3796F5BA47DABAC727A3869531B4D7D9 = "Mixer へログイン"
@@ -2046,6 +2053,7 @@ But well done. :D
 	F129EB49433E0C25095A30A70B69721D = "過充電シールド発生器"
 	BBF3B4054F29E874B222A2B140CE9C2C = "記念ホールを訪れてみてください "
 	D786C27F4359898A32B133ADE5E1F194 = "PERKポイント"
+	38016A76468FB185CF0A8482F497F9F3 = "PERKS"
 	E922A7AE4D9A3CD28D72A394E6955EA0 = "PERKS"
 	A7A2C9074DD5E8B2297F81A5C71F4E08 = "マーカー設置"
 	C79595634378DAEEAB740BB8AF143D3B = "惑星の地域"
@@ -2516,7 +2524,7 @@ But well done. :D
 	ADFC64CD41433C1A817D5DB50257BE38 = "下にあるコミュニティに参加から私達のSteamグループに登録し 私達とゲームの発展を維持していきましょう - Hoxxes IVにある鉱山での仕事初日にてしっかりしたあなたの後押しとしてゲーム内5000クレジットを無料で獲得します！"
 	C26B43B84BB1149261499DB1FBD9F2DB = "サインアウト"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "静かにしろ!"
-	19A4058E49EA0C335776D39AC7DBD80A = "Silicate Harvester"
+	19A4058E49EA0C335776D39AC7DBD80A = "シリケート ハーベスター"
 	82D5760A4D36C73A04E752BDC5DE965D = "単純"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "サイト 11 - ディープ シェール"
 	DAFCD54541C22C0CE8FBFC9C2ADFE44E = "サイト 11 - ディープ シェール"
@@ -3001,6 +3009,7 @@ But well done. :D
 	BA93B97F44625BBD2BF0268F44B62161 = "作業指示"
 	FEFEE3C84E53FFD9BFEEAF8D7BCA9676 = "協力するか一人で死ぬか！"
 	E06880A541AA8189221FEBA02AA2D81D = "ウォール アイ"
+	054FFD88462F9F2B85865B83089A60AC = "警告 :"
 	C045F21A45F413922225E78B339C63AC = "Warning! {NAME}"
 	5391F8914CDF37453B7DF7BEFC2FFD3B = "気をつけろ!"
 	2712004C4726DA8EF06254B6E2D9A009 = "見ろよ、豚に不意打ち食らわされたぜ！"
@@ -3208,6 +3217,7 @@ But well done. :D
 	E9D9463E42928C3514755BAC259C5AA5 = "[CloseMenu] いいえ"
 	AEA347F74547383311956F963FE02E16 = "[Fire] + [Mine]: カメラの切り替え"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] 続ける"
+	319FC2C243CD6989A597A8B314759BBD = "[OkMenu] 続ける"
 	9AEB086C47A32806C48C68A2FF72D25C = "[OkMenu] フル サーバー リスト"
 	4123F28A44E1A2BC85252C9579C10508 = "[OkMenu] QUICK JOIN"
 	095853BB4D32666227111591E781AEB0 = "[OkMenu] 検索"
@@ -3230,7 +3240,7 @@ But well done. :D
 	5B37A7E644003126D80116AF94D90F72 = "こちらはプライベートゲームになっています。"
 	7BD55EB94DA3871F2D7F0E846B24C461 = "{0}  は 80 ナイトラを寄付した!"
 	F354574840C59FBC38BA7AAB38B76F05 = "{0} はあなたを治療した!"
-	EDDF00A14025884C10E0CF8FF51328F2 = "{0} は 3 匹のグリフィッド ドレッドノートを生み出した"
+	EDDF00A14025884C10E0CF8FF51328F2 = "{0} は 3 匹のグリフィッド プリトリアンを生み出した"
 	2A28CAE6448EE9D6B7C4EEA91070071B = "{0} はグリフィッドドレッドノートを生み出した!"
 	94F849C443D5C265BA3136A8C30EDD8E = "{0} はルートバグを生み出した!"
 	A55C637A41EA819F8F03F49291FEF98E = "{0} はグラントを生み出した!"
@@ -3416,114 +3426,114 @@ Co-opモード時
 - ローディングの間にヒントの文章を編集できなくなりました！
 - 地形が変わった時にマップツールが正しく更新されないバグを修正しました
 "
-	Update_14 = "Hello Miners! This time around we’ve cooked up a fairly massive update together for you, just in time for summer vacation. And speaking of summer vacation - DRG just cancelled yours! New missions and monsters await and you got a ton of milestones to meet! So get to work!
+	Update_14 = "鉱夫の皆さんこんにちは！今回は夏休みに間に合うよう大規模アップデートを行いました！ただ夏休みといえば、DRG はあなた達の休暇を取り消しました！新たなミッションと怪物、そして大量のマイルストーンがあなたを待っています！さぁ仕事をしましょう！
 
-MAJOR NEW FEATURES
+重要な新機能
 ------------------------------------
-NEW MISSION TYPE: SALVAGE OPERATION
-It is your job to go in and clean up after a failed mining expedition. You will have to salvage three Mini Mules and repair a damaged drop pod in order to bring all the lost equipment home. Get ready for a combat heavy experience where teamwork and good preparation is key to success! Don’t be another failure!
+新しいミッション タイプ: 救出作戦
+これは失敗した鉱山拡張の尻拭いが目的です。3 つのミニ M.U.L.E. を救出し、損傷した降下ポッドを修復して装備を回収しなければいけません。チームワークと十分な準備が成功の鍵となる激しい戦闘に備えてください！新たな失敗をしないように！
 
-NEW ENEMY: THE MACTERA GRABBER
-The Grabber is the new terror from the sky. It snatches up a random dwarf and flies away with him, before dropping him to crack like a nut on the floor below! Depending on your luck, you might just end up with some bruises - or you might end up being dumped into a chasm! Shoot ‘em quick, that’s our suggestion...
+新しい敵: マクテーラ グラバー
+グラバーは空からの新たな脅威です。ドワーフを掴み取り遠くへ運んでしまうため、下へ落とされて潰されてしまう前に降ろしましょう！もしかしたらただの打撲傷で済むか、谷間へ捨てられるかもしれません！見つけたらすぐに撃つこと。それが我々の提案です…
 
-KEY PERFORMANCE INDICATORS
-Deep Rock Galactic are now tracking your work performance! On the KPI screen in your cabin you can check out detailed stats on your performance, you can reach milestones and earn perk points, and you can spend those points on unlocking awesome perks for your dwarves, making your day to day work a little easier.
+主要業績評価指標
+Deep Rock Galactic はあなたの働きを監視します！船室内にある主要業績評価指標モニターではパフォーマンスの詳細な統計を確認したり、マイルストーン達成毎に得られる PERK ポイントを消費して、少しだけ毎日の作業が簡単になるドワーフ用の素晴らしい PERK を解除できます。
 
-IMPROVED VANITY CUSTOMIZATION SYSTEM 
-The Vanity System has had a complete overhaul, expanding greatly on our options. Here are some of the new features:
-- Build the beard of your dreams! Individually customize hair, eyebrows, sideburns, moustache and beard!  
-- All armor has received an overhaul! More detail has been added in general, and armor now supports textures! Look at the nice tiger stripes on the Gunner’s armor!
-- The original selection of beards has been broken up into parts and added back in to support the new system. 
--  A small selection of new Hats, Hair, Helmets, Beards, Moustaches, and Sideburns have been added. We are by no means done here yet, this was just what we managed to get in for this patch.
+バニティーのカスタマイズ機能を改良 
+バニティー機能でさまざま選択肢ができるよう、オーバーホールが完了しました。またいくつか新機能もあります:
+- 思い描いていたヒゲを作ろう！髪型、眉毛、頬ヒゲ、口ヒゲ、顎ヒゲをそれぞれカスタマイズできるように！
+- 全ての防具にオーバーホール！全体的にディティールを追加し、テクスチャに対応！ガンナーの防具では格好いいタイガー ストライプを見れます！
+- これまでのヒゲは分離し再追加され、新システムに対応します。
+- 帽子、髪型、ヘルメット、ヒゲ、頬ヒゲ、口ヒゲを選択できるようにしました。これは完成を意味はしていませんが、このパッチに統合することを決めました。
 
-NEW ENVIRONMENTAL HAZARDS
-- During missions in the Sandblasted Corridors, you will now have a chance of  encountering blinding sandstorms and forceful wind tunnels. 
-- The Magma Core just got a lot hotter! Try to avoid the hot magma rock - It burns! Also notice that explosions will expose the hot magma rock under the surface - turning the battlezone into a dangerous place for friends and foes.  
+新しい危険な環境
+- サンドブラストの回廊でのミッションでは視界を遮る砂嵐と体を持っていくほどの強風に出会うでしょう。
+- マグマ コアがもっと熱く！燃えてしまう熱いマグマの岩を避けてください！また爆発で地面の下にある熱いマグマの岩が現れる事に気づくでしょう。それらは敵と味方にとって戦場を危険な場所へと変貌させます。
 
-BUFFS AND NERFS
+強化と弱体化
 ------------------------------------
-ENGINEER: PLATFORM GUN
-- Start ammo increased from 10 to 12 platforms. 
-- Mag size increased from 3 to 4 platforms. 
-- Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
+エンジニア: プラットフォーム ガン
+- 開始時のプラットフォームの弾薬数を 10 から 12 に増加させました。
+- プラットフォームの装填数を 3 から 4 に増加させました。
+- プラットフォームのアップグレード能力を追加しました。初めのアップグレードでは最大装填数を 4 つに、2 回目のアップグレードで更に 4 つを追加し、最大アップグレード時には 20 のプラットフォームを撃てるようになります。最高の橋と階段を作る時間です！
 
-ENGINEER: SENTRY GUNS
-- Starting sentry gun max ammo increased from 400 to 425.
-- Damage per bullet has been decreased from 7 to 5.5.
-- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
+エンジニア: セントリー ガン
+- 開始時のセントリー ガンの弾薬数を 400 から 350 に削減しました。
+- 一発の弾丸が与えるダメージを 7 から 5.5 に削減しました。
+- セントリー ガンの最大装填数をアップグレードできるようにしました。アップグレードでは最大装填数を 75 増やし、最大で合計 500 発にできます。
 
-DRILLER: HANDGUN
-- The starting clip size of the Handgun has been increased from 8 to 12 bullets.
-- Clip size upgrade has been increased from +4 bullets to +6 bullets.
+ドリラー: 拳銃
+- 開始時の装填数を 8 発から 12 発へ増やしました。
+- 装填数のアップグレードを +4 発から +6 発に増加させました。
 
-BOSCO
-- Bosco now deals 8 points of damage instead of 6 per shot 
-- Friendly fire factor decreased from 0.2 to 0.1. Not fun being killed by your favorite Drone afterall!
+ボスコ
+- ボスコが与える一発のダメージを 6 から 8 へ増加させました。
+- 誤射因数を 0.2 から 0.1 へ削減しました。お気に入りのドローンに殺されるのは面白くないからです！
 
-OTHER IMPORTANT FIXES AND FEATURES
+その他の改良と機能
 ------------------------------------
-ENEMIES
-- Praetorians now spit acid!
-- Praetorian difficulty rating increased. It is now more deadly, so you will encounter fewer of them.
-- Fixed Deeptora Swarms not attacking players.
-- Added armor and weak spots to Infector. Also increased base HP, aim for the weak spots for a quick kill.
-- Fixed swarmer tunnel debris in Radioactive.
-- Blood splatter when enemies hit you.
-- Added Jump attack to the Glyphid Swamers.
-- Tweaked end wave pressure.
-- Reduced the alert distance of Glyphid Grunts  and Praetorians. Players have to be closer before they attack.
-- Added new Glyphid sounds and tweaks.
-- Swarmer Tunnels debris material fixed
-- Salt Caves tunnel crystal madness fixed.
-- Exploders get speed boost when near another Exploder exploding.
-- Fixed Glyphid Spawner weak points.
-- Increase AI avoidance for Exploders.
-- Fixed Cave Leech grabbing already paralyzed target.
-- Align Glyphid Spitters towards target when stationary.
+敵
+- プリトリアンズはアシッド スピッターになりました！
+- プリトリアンズの脅威度を増加させました。より脅威になり出会うのが恐ろしくなります。
+- デュプトラ スウォームがプレイヤーを攻撃しないのを修正しました。
+- インフェクターに装甲と弱点を追加しました。また基本体力を増加させ、すぐに倒すには弱点を狙う必要があります。
+- 放射能区域にあるスウォーマーのトンネルの瓦礫を修正しました。
+- 敵に当てられると血しぶきが出るようにしました。
+- グリフィッド スウォーマーにジャンプ攻撃を追加しました。
+- 最終ウェーブの強さを微調整しました。
+- グリフィッド グランドとプリトリアンズの警報音が聞こえる距離を削減しました。プレイヤーは攻撃のために近づく必要があります。
+- グリフィッドに新しい音を追加し微調整しました。
+- スウォーマーのトンネルの破片マテリアルを修正しました。
+- 塩の坑道にある洞窟のクリスタルがおかしくなっているのを修正しました。
+- エクスプローダーは他のエクスプローダーが爆発しそうになっていると、速度上昇を受けるようにしました。
+- グリフィッド スポーナーの弱点を修正しました。
+- AI はもっとエクスプローダーを避けるようにしました。
+- ケーブ リーチが既に倒れている目標を掴むのを修正しました。
+- 静止し並んでいるグリフィッド スピッターが目標へ向かうようにしました。
 
-BIOMES
-- Red Sugar leaves chunks on the ground if you mine it while at full health.
-- Radioactive materials and colour tweaks.
-- Tweaks on post process effects.
-- Steam Geysers in Fungus Bogs can now spawn at more interesting angles. Have Fun!
-- Made the Glowtree illuminate a much larger area. The more Bulbs you shoot the brighter it gets
-- Fungus Bogs wall material tweak.
-- Lush wall material tweaks, Nitra tweaks, Gold tweaks.
-- Slightly randomize animation speed of animated foliage so they are not all in same phase of animation.
-- Added exploding plants to Fungus bog and Dense Biozone (as colour variant).
-- New passive creature: Silicate Harvester added to Dense Biozone and Radioactive regions. You can ride it!
+バイオーム
+- レッド シュガーを採取している際に体力が完全回復すると、地面へ塊を残すようにしました。
+- 放射能区域のマテリアルと色味を微調整しました。
+- ポスト プロセス効果を微調整しました。
+- 真菌の沼地にある蒸気の間欠泉をもっと面白い角度で生成するようにしました。楽しんでください！
+- 輝く木が照らす範囲をかなり広くしました。球根を撃つともっと明るくなります。
+- 真菌の沼地にある壁のマテリアルを微調整しました。
+- 密集バイオゾーンの壁のマテリアルとナイトラ、金を微調整しました。
+- アニメーション化された植生のアニメーション速度をわずかにランダム化させ、全ての植生が同じアニメーションを同時に再生しなくなりました。
+- 真菌の沼地と密集バイオゾーンに爆発性植物を追加しました (色違いとして)。
+- 新しい非攻撃性の怪物: 密集バイオゾーンと放射能区域にシリケート ハーベスターを追加しました。しかも乗れます！
 
-CAVE GENERATION AND MISSIONS
-- New cave shapes. More variations for the level generation.
-- More randomization for the existing cave shapes.
-- Unique cave structure for the Salvage Operations.
-- Cave complexity is now more accurate, making sure that the difference between simple and complicated caves is more apparent.
-- High Complexity missions are now locked to player rank (2 for medium and 3 for high complexity).
-- Hazard level: Tourist has been removed for now. Very few players was playing this mode and it felt a bit broken how you were earning zero gold or xp.
+洞窟生成とミッション
+- 新しい洞窟の形状。環境生成にさらなるバリエーションがあります。
+- 既存の洞窟形状にもっとランダム性を与えました。
+- 救出作戦向けにユニークな洞窟の構造を追加しました。
+- 洞窟の複雑性がより精確になり、単純な洞窟と複雑な洞窟の違いがより明白になるようにしました。
+- プレイヤー ランクによって高い複雑性のミッションはロックされるようにしました (中は 2、高は 3)。
+- 危険レベル: ツーリストを削除しました。僅かなプレイヤーしかプレイしておらず、ゴールドと経験値を得られないのは少し壊れていると感じたためです。
 
-WEAPONS AND TOOLS
-- Added laser pointer warning to radioactive crystals.
-- Added Gatling Gun gunsling animation.
-- Fixed laser pointer distance bug.
-- Holding time to equip laser pointer with controller is shorter.
-- Sentry gun fix - It would sometimes shoot things that were not enemies.
-- Bullet casings for gatling gun and assault rifle have been reactivated.
+武器とツール
+- レーザー ポインターへ放射性クリスタルの警告を追加しました。
+- ガトリング ガンのガンスリングにアニメーションを追加しました。
+- レーザー ポインターの距離バグを修正しました。
+- コントローラーでレーザー ポインターを装備する為に行う長押し時間を短くしました。
+- セントリー ガンの修正 - 時々敵のいない所へ撃っているため。
+- ガトリング ガンとアサルト ライフルの排莢を最有効化しました。
 
 HUD
-- Teammates icons always visible displaying current health, special states (like being grabbed by a cave leech), and shouts.
-- Laser pointer pings when it hovers over a resource.
-- When laserpointer equipped, hold FIRE to place personal waypoint.
-- New crosshairs for most weapons.
-- Hit indicators removed in their previous form. Now some parts of the crosshair will turn red to confirm that an enemy has been hit. Red arrows appear on the health bar when the shot hit a weak spot.
+- チーム メイトのアイコンは常に現在の体力と状態 (ケーブ リーチに掴まれているなど)、叫びを表示するようにしました。
+- レーザー ポインターを資源の上に当てると通知するようにしました。
+- レーザー ポインターを装備している時は、撃つキーを長押しで個人用ウェイポイントを設置できるようにしました。
+- 多くの武器に新しい照準線を追加しました。
+- 以前のヒット表記を削除しました。現在は照準線の一部となり、敵に当たると線が赤くなります。また弱点に当てると体力バーの上に赤い矢印が現れます。
 
-MISC.
-- Update Chinese translation.
-- Turkish added to supported languages.
-- Fixed trading buy/sell+crash exploit.
-- Fix Bosco related crash.
-- Tweaked 'Player Down' HUD & team icons.
-- Mission Control now announces gravity recalibration.
-- The hosting player now jumps the same height as clients (was lower before).
+その他
+- 中国語の翻訳を更新しました。
+- トルコ語に対応しました。
+- 取引の購入と売却でクラッシュの問題を修正しました。
+- ボスコに関連していたクラッシュを修正しました。
+- 'プレイヤー ダウン' HUD とチーム アイコンを微調整しました。
+- ミッション コントロールが重力再較正を告知するようにしました。
+- ホスト中のプレイヤーはクライアントと同じ高さでジャンプをできるようにしました (以前は低かった)。
 "
 	Update_12 = "やぁ鉱夫のみんな！
 
