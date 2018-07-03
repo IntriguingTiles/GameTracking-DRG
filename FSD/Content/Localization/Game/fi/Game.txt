@@ -1,7 +1,7 @@
 22 namespaces
-1604 values
+1608 values
 
-Namespace Global (1826 keys)
+Namespace Global (1828 keys)
 	2559D78C40005E5221F26093CB976283 = " Kerää {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " TARPEELLINEN"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Ääni Suunnittelija / Musiikin Tuottaja"
@@ -30,6 +30,7 @@ Namespace Global (1826 keys)
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "// TERRAIN SCANNER MK3 \\"
 	2E2665CC4718F8E6C1A71BAD15FA9FE1 = "0"
 	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
+	6B174915406473EC528AE693016036E1 = "20% movement speed bonus for 10s after consuming Red Sugar!"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
 	34E9C17149E0544F4C02FB930C555046 = "25"
 	C4074DC14285A41787355CA8FC85F54B = "3...2...1...matkalla kiertoradalle."
@@ -292,7 +293,7 @@ Namespace Global (1826 keys)
 	0021AE12478B1DF39F2D09822C23B7EF = "Suorita {value} tehtävää radioaktiivisen syrjäytymisen vyöhykkeessä"
 	C4B4027E48CE250CA66B3FA40158E267 = "Complete {value} Missions in Sandblasted Corridors"
 	2939AF8C40B48D069EF1AEB4DC854E51 = "Complete {value} Missions in The Salt Pits"
-	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Opperations"
+	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Operations"
 	EB1B8A3542443FF3561615B2AB486FFE = "Complete {value} Search and Extract Missions"
 	55D0A66F44FCB63A9805AC859C63B095 = "Complete {value} Secondary Objectives"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "Monimutkainen"
@@ -591,6 +592,7 @@ Kun olet kerännyt 4 viiva merkkiä, pelaaja arvosi nousee."
 	7C49DD0D4CF46237E1695295EC9FAC0D = "Oma tuli!"
 	04A39B58425C721A5799F58E46C981AE = "Vittu!"
 	6B0946B64400BB6CE91EF9A18135E076 = "Polttoaine"
+	141804E64B37EEE1D95F2B9B24A5DEF6 = "Fuel Cell Beacon"
 	2F3BE3144492FA9E3A22E984BC8C206F = "Polttokennot"
 	49B602F4412D549FAE5A5E9705A14D8B = "Polttokennot 50%."
 	16CADAB949D512825BF64AB536E7DFDF = "Polttokennot 75%, olet melkein valmis."
@@ -1183,6 +1185,7 @@ HARJOITUKSET"
 	3F7C5E884ABE9C45B21F3FACD699A1AD = "Asetukset"
 	627DFC544B98FC5699238FB874FF6394 = "Tai pitkät viikset"
 	87A85B22412CD36399319482D3989887 = "Tai pitkät viikset"
+	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Orbital Relay"
 	3F74F79440BF376C9471EEBC88675AF5 = "Auts! Varo vähän"
 	6D4ADC7E46B2B3F042B165B4C8F39259 = "Skannerimme ovat poimineet VALTAVAN Auarq esiintymän. Lähetämme teidät raskaasti varustellun nostimen kanssa keräämään sitä niin paljon kuin mahdollista. Poimimme vakavia biomerkkejä alueelta, joten liikkukaa ripeästi! Aquarqeja voi kerätä seinistä. Etsikää sinistä, hohtavaa valoa. Hoitakaa homma kotiin, Tiimi."
 	84DC12DB43C45C6584DDA1A518B09C22 = "Ammukset Loppu"
@@ -1435,7 +1438,6 @@ LIITTYMINEN"
 	5E2AB5AE464F33A90DA5CEB929B3BAB6 = "Varjojen resoluutio"
 	8C541D974AF96E449878549C03964DBF = "Matala Luola"
 	512BDAB74153C22C34CC8897AB9105FF = "Shhh! Tiedätkö, olet liian äänekäs! Osoita hieman kunnioitusta!"
-	DEF0FF9B478A09647244E7BEAFBDAD05 = "Shield Disruption"
 	57C3E1E64F6623F0C02B4F9786399CE0 = "Ammu sitä perseeseen!"
 	3EE85E944974D508D0BB2CB7DC8A3ECF = "Ammu se!"
 	79438C844F5F6C0F092C009DE160A37F = "Ammu se!"
@@ -1679,7 +1681,8 @@ PUDOTA BAY
 	1AA37313484E296C81A182B44FF53427 = "Ansa viritetty!"
 	83B4323941B7A826389FC1B83A342B5F = "Ansa viritetty!"
 	03E6DCBF4EFF2F19BB08068D40943794 = "Laukaista kurinalaisuutta, valaiden piper!"
-	FE02342344B5D480F674B895167798B4 = "Tripple XP"
+	4BFDA85F4F8B9868841155853483486D = "Triple XP"
+	FE02342344B5D480F674B895167798B4 = "Triple XP"
 	2869C6C145037D634D8A2CAD9E3F54FF = "Tritium!"
 	759684F94A9472D40FEEEA82628E4077 = "Kasvaimellinen Pesäke"
 	8040F61D483E03C188C39F81340B7285 = "Kasvaimellinen Pesäke"
@@ -1803,7 +1806,6 @@ ROCK & STONE!"
 	270E85454B0644D10025F7AFC81923BD = "Aidon Vuorenalaisen Kuninkaan Arvoinen."
 	34DDF20A495D61EFE737CC82F5BB11DD = "Väärä salasana"
 	6C68CD074F43A80D4601169F005F13FB = "ANSAITTU XP:"
-	4BFDA85F4F8B9868841155853483486D = "XPX3"
 	200CDB03454FBFB06EEB4FA87041E671 = "Xenofungus"
 	30FA668E450BFCB8B530CBB92F152431 = "Xenofungus"
 	771EF8AC4CA047D22E304DA5620B2FC4 = "Xenosieni"
@@ -1916,8 +1918,111 @@ Namespace MaterialExpression (0 keys)
 
 Namespace Missions (0 keys)
 
-Namespace PatchNotes (7 keys)
+Namespace PatchNotes (10 keys)
 	Update_14_ShortTitle = "FEATURE CREEP"
+	Update_15 = "Hello Miners! 
+Before we head out for a couple of weeks of sorely needed summer vacation, we have cooked up a lovely little mutation to the game for you all!
+
+--- PATCH NOTES ---
+
+MUTATOR SYSTEM
+----------------------------
+From now on, all missions have a chance to appear with Mutators attached to them. They come in two variants: Warnings and Anomalies. Anomalies are neutral or even positive, while Warnings will severely increase the danger you’ll face. Missions with Warnings on them also add a substantial Hazard Bonus to the final score. Look on the mission map for the new Warning and Anomaly icons!
+
+The following Warnings and Anomalies are already implemented, and we expect to add lots more in future patches.
+
+WARNINGS:
+
+- EXPLODER INFESTATION: Whatever mutation affects the Glyphid Exploders, this is likely one of the epicenters! Hordes of ‘roided-up, rabid Glyphid Exploders will do their best to turn you into a fine red mist.
+
+- SHIELD DISRUPTION: The cave is heavily electrostatically charged. And wouldn’t you know it, it makes your shield generators short out. So...no shields!
+
+- MACTERA PLAGUE: Macteras of all kinds have completely taken over this cave! Flying horror descends from the sky! You could say it’s going to be... Macterrible!
+ 
+- CAVE LEECH CLUSTERS: If you have a phobia of Cave Leeches, this cave will either cure you or confirm your worst fears...
+
+ANOMALIES:
+
+- GOLD RUSH: This cave has extraordinarily rich deposits of gold; huge veins of it just waiting for the sweet caress of your pickaxe!
+ 
+- MINERAL MANIA: Crafting Minerals galore! It is the reason to go to Hoxxes after all.
+
+- TRIPLE XP: 10 credits says you can’t guess what it does...
+
+- LOW GRAVITY: Jump vast chasms! Scale nearly vertical walls! Just keep in mind... fall damage is still a thing, so don’t get TOO cocky...
+
+- CRITICAL WEAKNESS: Multikill! Aim for the weak spots for severely increased damage!
+
+- GOLDEN BUGS: Each kill earns gold for the team!
+
+
+TERRAIN SCANNER - NOW IN 3D!
+----------------------------
+The ol’ flat Terrain Scanner has had an overhaul! The camera is now fully rotatable and zoomable, and you’ll have a much easier time finding where you need to go. Terrain Scanner has been mapped to both [TAB] and [M] by default. Go try it out! 
+
+
+VANITY UPDATES
+----------------------------
+DYE YOUR HAIR OR DIE DYEING!
+For Update 14, we experimented briefly with locking hair colors to classes, to make them stand out more. It turns out the players didn’t enjoy that too much... in fact, we practically feared being strung up like elves! Rejoice, however! Custom hair colors are back, and are even a bit more advanced now!
+
+MORE HEADWEAR ADDED
+A couple of new hairdos have been added (The Franklin and The Gamekeeper), as well as a bunch of much-requested variations to some of the hats and helmets!
+
+TAKE YOUR DWARF FOR A SPIN!
+Ever wondered what your dwarf looks like from behind? Well, you can now rotate your dwarf in all the relevant menus!
+
+Note: For those who wondered where all your armor went after Update 14, it was down to a massive reworking of the system we use for all the Vanity items. All those affected should have gotten all the credits and minerals you spent on them back.
+
+
+BOSCO UPDATES
+----------------------------
+AN EVEN BETTER BOSCO
+Bosco has had a brain upgrade and should now be much better at doing what he’s told and dishing out damage. He is so good that we had to tweak down his damage from 8 to 6 per bullet. His burst fire has also been adjusted to be a bit slower.
+
+RETURN OF THE DRONE
+When starting a multiplayer game solo, Bosco joins you until another player joins. If that player drops out again, Bosco will reappear!
+
+
+SERVER IMPROVEMENTS
+----------------------------
+EASY FRIEND INVITE
+Invite your friends directly into your game! And you don’t even have to have set up a mission yet!
+
+JOIN FRIENDS UNINVITED 
+You can always join your friend’s game - unless they already have a full team that is!
+
+SEE FULL SERVERS
+The Server List didn’t show full servers before - it does now!
+
+
+MISC.
+----------------------------
+REGENERATING HEALTH
+Health will regenerate to a specific minimum after taking massive damage. No more running around with 1 hit point!
+
+MINIGUN UPDATE
+The Minigun has had a massive overhaul, with a snazzy new model, improved animations, and new particles. After firing the Minigun, the accuracy is reduced at a slower rate.
+
+LOOK WHO’S TALKING NOW
+An icon is shown next to a player’s icon when using voice chat.
+
+HUD IT LIKE YOU WANT
+Some aspects of the HUD can now be hidden through the Options. For now, Enemy Health Bars, the Compass, your depth, Player Name, Class, and Class Icon.
+
+SALVAGE OPERATION TWEAKS
+- Uplink and Fuels Cells have gotten new models and animations.
+- Escape Pod powering up time reduced from 120 seconds to 90 seconds.
+
+PERKS, BUFFS, AND NERFS
+- Increased the sprint speed bonus of the Weekend Athlete perk.
+- Rank 3 Field Medic Perk will send nearby Glyphids fleeing when you finish reviving a teammate.
+- Rank 5 Resupplier Perk will auto-reload all your weapons when you resupply.
+- Fixed grammar and typos on several Perks and Milestones.
+- Red Sugar Rocks: Max rank will give you a 20% speed boost for ten secs. 
+
+
+"
 	Update_14 = "Hello Miners! This time around we’ve cooked up a fairly massive update together for you, just in time for summer vacation. And speaking of summer vacation - DRG just cancelled yours! New missions and monsters await and you got a ton of milestones to meet! So get to work!
 
 MAJOR NEW FEATURES
@@ -2290,8 +2395,10 @@ MINOR FIXES
 - Enemies are no longer "staggered" by physical damage (Melee)
 - Fixed updated Ammo and Clip size was not applied when you first spawned into the mission
 - Changed Item scale in first person so that they clip less with other objects."
+	Update_15_ShortTitle = "MUTATION WARNING!"
 	Update_11_Header = "UPDATE 11: DEAD AND GUN  -  23.03.2018"
 	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
+	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
 
 Namespace Progression (0 keys)
 

@@ -1,7 +1,7 @@
 22 namespaces
-2653 values
+2656 values
 
-Namespace Global (3330 keys)
+Namespace Global (3331 keys)
 	2559D78C40005E5221F26093CB976283 = " Recueillir {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUIS"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -52,6 +52,7 @@ Namespace Global (3330 keys)
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
 	A6A17BE34F9EDC3124434C809161A714 = "2 étourneaux et un corbeau hargneux nichent là-dedans."
 	99CD26B24BF6817DD1A4978034CA179D = "2000 cartouches à l'uranium appauvri... ohh oui... !"
+	6B174915406473EC528AE693016036E1 = "20% movement speed bonus for 10s after consuming Red Sugar!"
 	C7962BE54367A88EA7181D8F8D10C1CD = "20M"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
 	34E9C17149E0544F4C02FB930C555046 = "25"
@@ -115,7 +116,7 @@ Namespace Global (3330 keys)
 	953BD7754CA18B0E7B567FB1569498D9 = "Casque AR"
 	AE27730B476987E33DE684ABDA93F9F0 = "Casque AR"
 	64AC22D041495013B57A1C9D5EDAC0AC = "POINTS D'AVANTAGE DISPONIBLES"
-	09C0CB8542CF0A0D60AAC48F877A44C0 = "AVAILABLE PERK POINTS:"
+	09C0CB8542CF0A0D60AAC48F877A44C0 = "POINT DE COMPÉTENCE DISPONIBLE:"
 	2289051149DE4D53743C648A3BB9E7F3 = "POINTS D'AVANTAGE DISPONIBLES"
 	6ED213DE4BB78447F8511AB44A682443 = "Abandonner la mission"
 	AEFBFF50450937B9A66EC5B2CA738B93 = "Il était temps, gros tas !"
@@ -161,7 +162,7 @@ Namespace Global (3330 keys)
 	050447854ADDF505C53502914041EBB5 = "Toujours un geste audacieux."
 	13F23518479F333BF2B7049DED38A20F = "Munitions"
 	1CB313AD4E447638C4FAFABA352B5A0F = "J'ai pris des munitions !"
-	E977075D43332C7F328973A1C4FB8212 = "Ammo:"
+	E977075D43332C7F328973A1C4FB8212 = "Munitions:"
 	A13E31724B152BF53958568AC2187067 = "Ressource pour munitions"
 	2C4A91E9492C6E9E0B9B26A55BDBE3B8 = "Délicatement éclairées par les entrailles bouillonnantes de la planète et atteignant des températures qui oscillent entre 250 et 400 degrés, les Grottes de Magma figurent parmi nos sites d’exploitation minière les plus profonds. Nous vous recommandons vivement de ne toucher à RIEN sauf si vous y êtes obligé pour accomplir votre mission (l'assurance des employés ne couvre pas les brûlures)."
 	8E6B812B407B923700BEB8B780945CD5 = "Sur Hoxxes, rares sont les paysages plus spectaculaires que ceux des Grottes de Cristal. Jaillissant de toute part, des structures cristallines aux proportions démesurées scintillent et brillent de mille feux dans l'obscurité. Hélas, les plus gigantesques d'entre elles sont généralement des silicates sans valeur. Cela dit, ces cavernes recèlent également d'importants dépôts de minéraux précieux."
@@ -286,10 +287,8 @@ DE BRIEFING"
 	DD1C700F412419804EC3AEBAEBB0C377 = "Missions secondaires de collecte de gemme-amères terminées"
 	6E54EEC64A9558CBF2A1F99898181151 = "Gemme-amère"
 	7A15A43745D793BD41B7BD84A4DCE600 = "Gemme-amère"
-	7F8DFEAF45711632640DCD98308B9DA6 = "Noir"
 	97FAB2914114DD91902C69842C238F83 = "Bleep Bloop"
 	6A29790B42641C808C3979B2786C96DE = "Blitz, Ctop, Stumpt crew, PartiallyRoyal, Yogscast crew, Gray Still Plays, Galm, Dr_Horse, Rimas, Lirik, Koala, МИР MMO ИГР, Deluks gaming, PietSmiet crew, Draegast, Lega Play, Fox, BaronVonLetsPlay, Jacemachine Gaming, 1Tater, JaR Dev, Criken, NitroLukeDX, Starsnipe, KarmakutPlays, Shibby, GameKnight, et bien d'autres encore..."
-	8F2408774041F6FF0EC5149796D29F52 = "Blond"
 	AEA0D3EB46EB709B635BD2BBD96D34E6 = "Bon sang, t'es un coriace, toi !"
 	44A9485743DCAA32182B3AA9D8F68179 = "Cristal bleu"
 	9DB339DA4EF3DB520AC831B94049DC86 = "Cristal bleu"
@@ -321,8 +320,6 @@ DE BRIEFING"
 	2B9EAE3540CF9B0CDD1C9CA12E94D008 = "On va tout pêter !"
 	F0F53AE9430AD821982800B6448D0DDA = "Cassé"
 	07277FBF4DF2B427A6D567AB995BBE3B = "Une couveuse ! Éclatez-moi cette saleté !"
-	66F10DCB4A114619E70597807D10A98F = "Marron"
-	A5A646614A3449D4B7DD438CFA8C5C49 = "Marron"
 	FFCB3B4C40B088EA1251F7A021BDB763 = "Marron"
 	04760B1443DC6A6A141D31A55DB29E78 = "L'insecticide est arrivé!"
 	C4F7AEE9491C9A1ABB4B9B8896CCBE10 = "Insecticide en route !"
@@ -389,6 +386,7 @@ DE BRIEFING"
 	F1632FDA4C5A034E31010BB013C0DFC4 = "CRÉDITS :"
 	4DA615ED48FF4986039949B0A8527F2B = "Lance-flammes CRSPR"
 	676D53374AD5B06C0BACEBA35A63509C = "CTO"
+	008ACBF34E656893A4F67299B6290ABF = "CYCLE DES MISES À JOUR"
 	498464FE47554D17C5370887C677C032 = "Calcul de la trajectoire orbitale."
 	A3027FA440118D33CC7B32B6668E1353 = "Calibrage terminé, la gravité revient aux niveaux nominaux."
 	01BD5F634DC2CC377BC28CA7D8E1204A = "Appeler la M.U.L.E."
@@ -534,7 +532,7 @@ DE BRIEFING"
 	C4B4027E48CE250CA66B3FA40158E267 = "Accomplir {value} missions dans les corridors ensablés"
 	2939AF8C40B48D069EF1AEB4DC854E51 = "Accomplir {value} missions dans les puits de sel"
 	C4B1BAF74198A3B6CE0054BC7405B0AA = "Accomplir {value} Points d'extractions"
-	9686B8AF4DCD315B259FD399322EEB9B = "Accomplir {value} opérations de récupération"
+	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Operations"
 	EB1B8A3542443FF3561615B2AB486FFE = "Accomplir {value} missions de Recherche et Extraction"
 	55D0A66F44FCB63A9805AC859C63B095 = "Compléter {value} objectifs secondaires"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "Complexe"
@@ -631,6 +629,7 @@ DE BRIEFING"
 	D7B1EC4D4CCC8AA5CA37499AD8718513 = "CANAL D'INFORMATION DE DEEP ROCK GALACTIC"
 	222ED19B4DDC31D5D784B0BCF65842E8 = "MÉMORIAL DEEP ROCK GALACTIC"
 	D91CCD0E48E33FF9AD45D7B73ABBD349 = "DÉPÔT A LA CAPSULE D'ÉVACUATION"
+	2183C36D4DA6ECAAB29E2EB807B6ABE6 = "DÉTRUIRE"
 	6465C68945B3EC6BBF1F4CA270107BD2 = "CREUSEZ ici ! \r 
 Y a toujours un tunnel qu'est bloqué par d'la terre !"
 	1726955F4E17CCDA75BDC98B7742246F = "CREUSEZ ICI !
@@ -810,7 +809,7 @@ L'entrée du tunnel est bloquée par de la terre !"
 	3EEA47DA449CA2E4EFB347A4F3AF4272 = "Nain à terre !"
 	8D0F5BD54C0C4CA11290868D3592FE0E = "Nain à terre !"
 	C38D11CA47DA522AAA247DB00910CD56 = "Nain à terre !"
-	4098DF1D4151369E07E43F94A3E4F01F = "Dwarven rage! You deal +1 Melee Damage for every {value} hitpoints currently under your maximum!"
+	4098DF1D4151369E07E43F94A3E4F01F = "Rage de nain. Vous infligez +1 point de dégâts de mêlée pour chaque {value} points de vie manquant!"
 	FD1AE7E14CD23CC7781FCE88A384F850 = "Nains"
 	CA44FBF949BA125FF7E8078C0210C5F1 = "Les nains ont la peau dure !"
 	E978D9A04051D52DB79C7BB45391CEE7 = "Les nains ont la peau dure !"
@@ -1008,7 +1007,7 @@ DE TIR"
 	6060CC4C40509E819FF0D0902DAF0203 = "Pour l'ingénierie tactique"
 	83BD5CD345EA58F8DC8DC99BE8EDBD4E = "Pour le tir tactique"
 	FCBF5A8045796B4A5E690DA961AE62C6 = "Pour le tir tactique"
-	E3C6602E42CC055B2C40879C6F9F08B8 = "For those prefer it medium rare. Flames will inflict half as much damage."
+	E3C6602E42CC055B2C40879C6F9F08B8 = "Pour ceux qui préfèrent mi-saignant. Les flammes infligent la moitiés des dégâts."
 	0B78F5004D92D132A1395FB917D75B76 = "Pour ceux avec une disposition joyeuse."
 	95383B994E0AA5338AA1B8A3173C11A2 = "Barrière de force"
 	015A05994C4643A09E7188AF1F882C16 = "Fortification prête !"
@@ -1037,6 +1036,7 @@ DE TIR"
 	CE0DDF1640BB88B1626A2BA9B77135B3 = "Putain de sale..."
 	D070BB0C49C0ADF5413AA6877359EAF3 = "Putain... Mon gun est enrayé !"
 	6B0946B64400BB6CE91EF9A18135E076 = "Carburant"
+	141804E64B37EEE1D95F2B9B24A5DEF6 = "Fuel Cell Beacon"
 	E33854534FC73C19489446813DB29A84 = "Échec de rechargement de la pile à combustible ! Mission ratée - c'est perdu. Dommage... - fin de la communication."
 	2F3BE3144492FA9E3A22E984BC8C206F = "Réservoirs de carburant"
 	49B602F4412D549FAE5A5E9705A14D8B = "Piles à combustible à 50 %."
@@ -1454,6 +1454,8 @@ DE TIR"
 	9096D3A9460FED0BC936D8B3B8365E48 = "II"
 	E72B700842BA160CB2F066808B1059E9 = "EN COURS"
 	878D07B640CB9FB59A6342ADCC21EC0C = "INACTIVE"
+	2F1468914439D27056E058B2FD0F4293 = "EN APPROCHE
+PILES À COMBUSTIBLES"
 	CE21EAD448E542501C1BA686FAB1D2ED = "ENNEMIS EN VUE\r 
 RECULEZ !"
 	3F7FA694455640C3E8E6D0A8D21BDBAD = "Identifier, viser, exterminer. Voilà comment faut s'y prendre."
@@ -2108,8 +2110,8 @@ But well done. :D
 	C14CAB954E08712A30221B89EC6FE418 = "Ou une longue moustache"
 	F86218CA49020579C59905A17D3B15D5 = "Ou une longue moustache"
 	ADFF456B4D799F9902FC8889FEC0645F = "Casquette orange"
-	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Relais de Communication Orbital"
 	70017F3D4A98135051919DBDEB74E414 = "Séquence d’insertion orbitale initialisée. Montez dans la caspule d'évacuation."
+	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Orbital Relay"
 	E188CD9A4447D90B16A773B3578B3A16 = "Demander un Ravitaillement"
 	BCF3BEB34D63AE4315D8BAA3AF3F6317 = "Ordre de la direction : Arrêtez de danser et mettez vous au boulot !"
 	3F74F79440BF376C9471EEBC88675AF5 = "Aïe ! Fais gaffe"
@@ -2585,7 +2587,6 @@ personnage"
 	BC256A7247EB7FC6A1D92CB315D9B94D = "Côté tranchant"
 	FD7DFDF244DAEB062B6D5881B5738DD4 = "Côté tranchant"
 	512BDAB74153C22C34CC8897AB9105FF = "Chut ! La ferme, quoi ! Un peu de respect !"
-	DEF0FF9B478A09647244E7BEAFBDAD05 = "Shield Disruption"
 	F1BF5871430CA8260C6FBBB8A1A18DF7 = "Absorbeurs de coups"
 	57C3E1E64F6623F0C02B4F9786399CE0 = "Tirez-lui dans le cul !"
 	3EE85E944974D508D0BB2CB7DC8A3ECF = "Bute-le !"
@@ -2791,6 +2792,7 @@ DES MISSION"
 	3C500D564A4BCEA05A5932A274652EDA = "Test Text"
 	7071C48B48E9D63156C8B29BF822BB0E = "Test Text"
 	952EB8C9499D63F798E85E9B5D419A45 = "Texte de Test"
+	37F2DFE440CF84EC0D3A1D894E907D4A = "Texte"
 	BAA651EF4F25A6259BDCABB053ECD92E = "Texte"
 	EEF10455485D2CEE76AA2883B8A02008 = "Text Message Text Message "
 	DDEA41514CD3F70125210DBA75E5A0E7 = "Résolution des textures"
@@ -2998,7 +3000,8 @@ Comme indiqué précédemment, TOUTES les clés Alpha-Privées seront révoquée
 	AB0FB7094A1866388416969422C6FACC = "Triangulation à 75%. On y est presque!"
 	03E6DCBF4EFF2F19BB08068D40943794 = "Conserve tes munitions, espèce de crétinoïde !"
 	DC4D296640D9AA783BD7E680AE35B9C0 = "J'ai encore la détente qui me démange."
-	FE02342344B5D480F674B895167798B4 = "Tripple XP"
+	4BFDA85F4F8B9868841155853483486D = "Triple XP"
+	FE02342344B5D480F674B895167798B4 = "Triple XP"
 	2869C6C145037D634D8A2CAD9E3F54FF = "Du tritium !"
 	E71CAE244D36CF328031A4A673BA29E5 = "Troels Jørgensen"
 	759684F94A9472D40FEEEA82628E4077 = "Croissance tumorale"
@@ -3220,7 +3223,6 @@ ROCK & STONE !"
 	34DDF20A495D61EFE737CC82F5BB11DD = "Mot de passe erroné"
 	6C68CD074F43A80D4601169F005F13FB = "XP GAGNÉS :"
 	DB37AE6549921FCBA0AF8CA1B7B77100 = "Exp:"
-	4BFDA85F4F8B9868841155853483486D = "XPX3"
 	033A71EB409CEECD2D754AAC20E5C885 = "Vous avez rejoint le club Xbox !"
 	200CDB03454FBFB06EEB4FA87041E671 = "Xéno-champignon"
 	30FA668E450BFCB8B530CBB92F152431 = "Xéno-champignon"
@@ -3438,7 +3440,7 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "Objectifs Terminé, le Drop Pod peut être appelé sur le M.U.L.E.!"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "Objectifs Terminé, le Mining Pod peut être appelé sur le M.U.L.E.!"
 
-Namespace PatchNotes (18 keys)
+Namespace PatchNotes (21 keys)
 	Update_11_ShortTitle = "MORT ET ARME"
 	Update_9_ShortTitle = "A UNE PIOCHE-AINE !"
 	Update_14_ShortTitle = "AJOUT MONSTRUEUX"
@@ -3533,6 +3535,109 @@ Mises à jour diverses
 - Correction d'un plantage si on rejoignait la partie juste à la fin du niveau.
 - Correction du texte de l'écran de chargement, on ne peut plus l'éditer pendant le chargement ! 
 - Correction de la carte qui ne se mettait pas toujours à jour quand le terrain changeait.
+"
+	Update_15 = "Hello Miners! 
+Before we head out for a couple of weeks of sorely needed summer vacation, we have cooked up a lovely little mutation to the game for you all!
+
+--- PATCH NOTES ---
+
+MUTATOR SYSTEM
+----------------------------
+From now on, all missions have a chance to appear with Mutators attached to them. They come in two variants: Warnings and Anomalies. Anomalies are neutral or even positive, while Warnings will severely increase the danger you’ll face. Missions with Warnings on them also add a substantial Hazard Bonus to the final score. Look on the mission map for the new Warning and Anomaly icons!
+
+The following Warnings and Anomalies are already implemented, and we expect to add lots more in future patches.
+
+WARNINGS:
+
+- EXPLODER INFESTATION: Whatever mutation affects the Glyphid Exploders, this is likely one of the epicenters! Hordes of ‘roided-up, rabid Glyphid Exploders will do their best to turn you into a fine red mist.
+
+- SHIELD DISRUPTION: The cave is heavily electrostatically charged. And wouldn’t you know it, it makes your shield generators short out. So...no shields!
+
+- MACTERA PLAGUE: Macteras of all kinds have completely taken over this cave! Flying horror descends from the sky! You could say it’s going to be... Macterrible!
+ 
+- CAVE LEECH CLUSTERS: If you have a phobia of Cave Leeches, this cave will either cure you or confirm your worst fears...
+
+ANOMALIES:
+
+- GOLD RUSH: This cave has extraordinarily rich deposits of gold; huge veins of it just waiting for the sweet caress of your pickaxe!
+ 
+- MINERAL MANIA: Crafting Minerals galore! It is the reason to go to Hoxxes after all.
+
+- TRIPLE XP: 10 credits says you can’t guess what it does...
+
+- LOW GRAVITY: Jump vast chasms! Scale nearly vertical walls! Just keep in mind... fall damage is still a thing, so don’t get TOO cocky...
+
+- CRITICAL WEAKNESS: Multikill! Aim for the weak spots for severely increased damage!
+
+- GOLDEN BUGS: Each kill earns gold for the team!
+
+
+TERRAIN SCANNER - NOW IN 3D!
+----------------------------
+The ol’ flat Terrain Scanner has had an overhaul! The camera is now fully rotatable and zoomable, and you’ll have a much easier time finding where you need to go. Terrain Scanner has been mapped to both [TAB] and [M] by default. Go try it out! 
+
+
+VANITY UPDATES
+----------------------------
+DYE YOUR HAIR OR DIE DYEING!
+For Update 14, we experimented briefly with locking hair colors to classes, to make them stand out more. It turns out the players didn’t enjoy that too much... in fact, we practically feared being strung up like elves! Rejoice, however! Custom hair colors are back, and are even a bit more advanced now!
+
+MORE HEADWEAR ADDED
+A couple of new hairdos have been added (The Franklin and The Gamekeeper), as well as a bunch of much-requested variations to some of the hats and helmets!
+
+TAKE YOUR DWARF FOR A SPIN!
+Ever wondered what your dwarf looks like from behind? Well, you can now rotate your dwarf in all the relevant menus!
+
+Note: For those who wondered where all your armor went after Update 14, it was down to a massive reworking of the system we use for all the Vanity items. All those affected should have gotten all the credits and minerals you spent on them back.
+
+
+BOSCO UPDATES
+----------------------------
+AN EVEN BETTER BOSCO
+Bosco has had a brain upgrade and should now be much better at doing what he’s told and dishing out damage. He is so good that we had to tweak down his damage from 8 to 6 per bullet. His burst fire has also been adjusted to be a bit slower.
+
+RETURN OF THE DRONE
+When starting a multiplayer game solo, Bosco joins you until another player joins. If that player drops out again, Bosco will reappear!
+
+
+SERVER IMPROVEMENTS
+----------------------------
+EASY FRIEND INVITE
+Invite your friends directly into your game! And you don’t even have to have set up a mission yet!
+
+JOIN FRIENDS UNINVITED 
+You can always join your friend’s game - unless they already have a full team that is!
+
+SEE FULL SERVERS
+The Server List didn’t show full servers before - it does now!
+
+
+MISC.
+----------------------------
+REGENERATING HEALTH
+Health will regenerate to a specific minimum after taking massive damage. No more running around with 1 hit point!
+
+MINIGUN UPDATE
+The Minigun has had a massive overhaul, with a snazzy new model, improved animations, and new particles. After firing the Minigun, the accuracy is reduced at a slower rate.
+
+LOOK WHO’S TALKING NOW
+An icon is shown next to a player’s icon when using voice chat.
+
+HUD IT LIKE YOU WANT
+Some aspects of the HUD can now be hidden through the Options. For now, Enemy Health Bars, the Compass, your depth, Player Name, Class, and Class Icon.
+
+SALVAGE OPERATION TWEAKS
+- Uplink and Fuels Cells have gotten new models and animations.
+- Escape Pod powering up time reduced from 120 seconds to 90 seconds.
+
+PERKS, BUFFS, AND NERFS
+- Increased the sprint speed bonus of the Weekend Athlete perk.
+- Rank 3 Field Medic Perk will send nearby Glyphids fleeing when you finish reviving a teammate.
+- Rank 5 Resupplier Perk will auto-reload all your weapons when you resupply.
+- Fixed grammar and typos on several Perks and Milestones.
+- Red Sugar Rocks: Max rank will give you a 20% speed boost for ten secs. 
+
+
 "
 	Update_14 = "Bonjour les mineurs ! Ce coup-ci nous avons mijoté pour vous une mise à jour plutôt massive, juste à temps pour les vacances d'été. Et en parlant de vacances d'été - DRG vient d'annuler les vôtres ! De nouvelles missions et monstres attendent et vous avez une tonne de gros cailloux à rencontrer ! Alors au travail! \r \r 
 NOUVELLES FONCTIONNALITÉS PRINCIPALES \r 
@@ -3784,12 +3889,14 @@ CORRECTIONS MINEURES\r
 - Correction de la mise à jours des munition et de la taille du Clip qui n'étaient pas mis à jour lors de la première apparition du joueur dans la mission
 - Changement d'échelle des Item en vue à la première personne afin qu'ils "clippent" moins avec d'autres objets\r."
 	Update_13_ShortTitle = "CHANGEMENTS MINEURE RELATIF A LA VIE"
+	Update_15_ShortTitle = "MUTATION WARNING!"
 	Update_10_ShortTitle = "VISION TUNNEL?"
 	Update_10_Header = "MISE A JOUR 10: VISION TUNNEL? -16.03.2018"
 	Update_11_Header = "UPDATE 11: DEAD AND GUN  -  23.03.2018"
 	Update_12_Header = "MISE À JOUR 12: FLIES N 'FINANCE - 13.04.2018"
 	Update_13_Header = "MISE À JOUR 13: CHANGEMENTS MINEURE RELATIF A LA VIE - 04.05.2018"
 	Update_14_Header = "MISE A JOUR 14 : AJOUT MONSTRUEUX - 15.06.2018"
+	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
 	Update_9_Header = "MISE A JOUR 9 : ON S'FORE PLUS TARD ! - 09.03.2018"
 
 Namespace Progression (6 keys)
@@ -3906,7 +4013,7 @@ Namespace Vanity (17 keys)
 	936D387249B390C96765B2BE04A575BD = "CAN'T AFFORD"
 	0B22BA0E4951378AAE53F195C88C9017 = "EQUIPPED"
 	Eyebrows = "Sourcils"
-	BeardColor = "Hair"
+	BeardColor = "Cheveux"
 	Hair = "Cheveux"
 	HairColor = "Couleurs des Cheveux"
 	Head = "Tête"

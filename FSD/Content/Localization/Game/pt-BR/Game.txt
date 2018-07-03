@@ -1,7 +1,7 @@
 22 namespaces
-2464 values
+2467 values
 
-Namespace Global (3037 keys)
+Namespace Global (3038 keys)
 	2559D78C40005E5221F26093CB976283 = " Coletar {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUERIDO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Designer de som/Produtor musical"
@@ -54,6 +54,7 @@ Namespace Global (3037 keys)
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
 	5BD7B6D64A1F13C0AFEE75B8A0622226 = "2"
 	99CD26B24BF6817DD1A4978034CA179D = "Dois mil projéteis de urânio... ah, moleque!"
+	6B174915406473EC528AE693016036E1 = "20% movement speed bonus for 10s after consuming Red Sugar!"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
 	34E9C17149E0544F4C02FB930C555046 = "25"
 	C4074DC14285A41787355CA8FC85F54B = "3... 2... 1... indo para a órbita."
@@ -243,7 +244,6 @@ DE REUNIÃO"
 	3AE8B56D4C992F07D5E08A9D95C4BD74 = "Um pouco caro, mas eu preciso disso!"
 	6E54EEC64A9558CBF2A1F99898181151 = "Bitergem"
 	7A15A43745D793BD41B7BD84A4DCE600 = "Bittergem"
-	7F8DFEAF45711632640DCD98308B9DA6 = "Preto"
 	97FAB2914114DD91902C69842C238F83 = "Bleep Bloop"
 	6A29790B42641C808C3979B2786C96DE = "Blitz, Ctop, Stumpt crew, PartiallyRoyal, Yogscast crew, Gray Still Plays, Galm, Dr_Horse, Rimas, Lirik, Koala, МИР MMO ИГР, Deluks gaming, PietSmiet crew, Draegast, Lega Play, Fox, BaronVonLetsPlay, Jacemachine Gaming, 1Tater, JaR Dev, Criken, NitroLukeDX, Starsnipe, KarmakutPlays, Shibby, GameKnight, e muitos outros..."
 	AEA0D3EB46EB709B635BD2BBD96D34E6 = "Que inferno, você é difícil de matar!"
@@ -459,7 +459,7 @@ DE REUNIÃO"
 	0021AE12478B1DF39F2D09822C23B7EF = "Complete {value} missões na Zona de Exclusão Radioativa"
 	C4B4027E48CE250CA66B3FA40158E267 = "Complete {value} Missions in Sandblasted Corridors"
 	2939AF8C40B48D069EF1AEB4DC854E51 = "Complete {value} Missions in The Salt Pits"
-	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Opperations"
+	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Operations"
 	EB1B8A3542443FF3561615B2AB486FFE = "Complete {value} Search and Extract Missions"
 	55D0A66F44FCB63A9805AC859C63B095 = "Complete {value} Secondary Objectives"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "Complexo"
@@ -934,6 +934,7 @@ DE TIRO"
 	CE0DDF1640BB88B1626A2BA9B77135B3 = "Pedaço de..."
 	D070BB0C49C0ADF5413AA6877359EAF3 = "Cecete... Emperrei!"
 	6B0946B64400BB6CE91EF9A18135E076 = "Combustível"
+	141804E64B37EEE1D95F2B9B24A5DEF6 = "Fuel Cell Beacon"
 	018FDDD14D9F40E3BD25EE852261BD94 = "As células de combustível chegaram! Configure-as!"
 	7643B019456C4E3C2729C9AB1A142655 = "Reabastecido e pronto pra partir!"
 	99E810C44C040791CCF5D7BEDC7CE155 = "Lista de servidor completa"
@@ -1902,6 +1903,7 @@ Mas, bom trabalho. : D
 	F86218CA49020579C59905A17D3B15D5 = "Ou um bigode comprido"
 	ADFF456B4D799F9902FC8889FEC0645F = "Boné laranja"
 	70017F3D4A98135051919DBDEB74E414 = "Sequência de inserção orbital iniciada. Embarque na Cápsula."
+	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Orbital Relay"
 	E188CD9A4447D90B16A773B3578B3A16 = "Reabastecimento de pedidos"
 	BCF3BEB34D63AE4315D8BAA3AF3F6317 = "Ordens da gerência: pare de dançar e ao trabalho!"
 	3F74F79440BF376C9471EEBC88675AF5 = "Ai! Cuidado"
@@ -2331,7 +2333,6 @@ Personagem"
 	BC256A7247EB7FC6A1D92CB315D9B94D = "Ponta afiada"
 	FD7DFDF244DAEB062B6D5881B5738DD4 = "Ponta afiada"
 	512BDAB74153C22C34CC8897AB9105FF = "Xiu! Você é bem barulhento, sabia? Demonstre algum respeito!"
-	DEF0FF9B478A09647244E7BEAFBDAD05 = "Shield Disruption"
 	F1BF5871430CA8260C6FBBB8A1A18DF7 = "Amortecedores de choque"
 	57C3E1E64F6623F0C02B4F9786399CE0 = "Atire na bunda!"
 	3EE85E944974D508D0BB2CB7DC8A3ECF = "Atire!"
@@ -2726,7 +2727,8 @@ Como mencionado anteriormente, TODAS as chaves do Alfa fechado serão revogadas 
 	E0C7866343E9635428C74A8956023954 = "Fim do período de teste!"
 	03E6DCBF4EFF2F19BB08068D40943794 = "Segura esse gatilho, dedo frouxo!"
 	DC4D296640D9AA783BD7E680AE35B9C0 = "O dedo do gatilho está coçando novamente."
-	FE02342344B5D480F674B895167798B4 = "Tripple XP"
+	4BFDA85F4F8B9868841155853483486D = "Triple XP"
+	FE02342344B5D480F674B895167798B4 = "Triple XP"
 	2869C6C145037D634D8A2CAD9E3F54FF = "Trítio!"
 	E71CAE244D36CF328031A4A673BA29E5 = "Troels Jørgensen"
 	759684F94A9472D40FEEEA82628E4077 = "Crescimento Tumoroso"
@@ -2923,7 +2925,6 @@ ROCHA E PEDRA!"
 	34DDF20A495D61EFE737CC82F5BB11DD = "Senha Incorreta"
 	6C68CD074F43A80D4601169F005F13FB = "EXP CONQUISTADA:"
 	DB37AE6549921FCBA0AF8CA1B7B77100 = "XP:"
-	4BFDA85F4F8B9868841155853483486D = "XPX3"
 	1A893C9E4D656F6ECD85FAAD3A04935B = "XXX m"
 	200CDB03454FBFB06EEB4FA87041E671 = "Xenofungo"
 	30FA668E450BFCB8B530CBB92F152431 = "Xenofungo"
@@ -3145,8 +3146,111 @@ Namespace MaterialExpression (13 keys)
 
 Namespace Missions (0 keys)
 
-Namespace PatchNotes (9 keys)
+Namespace PatchNotes (12 keys)
 	Update_14_ShortTitle = "FEATURE CREEP"
+	Update_15 = "Hello Miners! 
+Before we head out for a couple of weeks of sorely needed summer vacation, we have cooked up a lovely little mutation to the game for you all!
+
+--- PATCH NOTES ---
+
+MUTATOR SYSTEM
+----------------------------
+From now on, all missions have a chance to appear with Mutators attached to them. They come in two variants: Warnings and Anomalies. Anomalies are neutral or even positive, while Warnings will severely increase the danger you’ll face. Missions with Warnings on them also add a substantial Hazard Bonus to the final score. Look on the mission map for the new Warning and Anomaly icons!
+
+The following Warnings and Anomalies are already implemented, and we expect to add lots more in future patches.
+
+WARNINGS:
+
+- EXPLODER INFESTATION: Whatever mutation affects the Glyphid Exploders, this is likely one of the epicenters! Hordes of ‘roided-up, rabid Glyphid Exploders will do their best to turn you into a fine red mist.
+
+- SHIELD DISRUPTION: The cave is heavily electrostatically charged. And wouldn’t you know it, it makes your shield generators short out. So...no shields!
+
+- MACTERA PLAGUE: Macteras of all kinds have completely taken over this cave! Flying horror descends from the sky! You could say it’s going to be... Macterrible!
+ 
+- CAVE LEECH CLUSTERS: If you have a phobia of Cave Leeches, this cave will either cure you or confirm your worst fears...
+
+ANOMALIES:
+
+- GOLD RUSH: This cave has extraordinarily rich deposits of gold; huge veins of it just waiting for the sweet caress of your pickaxe!
+ 
+- MINERAL MANIA: Crafting Minerals galore! It is the reason to go to Hoxxes after all.
+
+- TRIPLE XP: 10 credits says you can’t guess what it does...
+
+- LOW GRAVITY: Jump vast chasms! Scale nearly vertical walls! Just keep in mind... fall damage is still a thing, so don’t get TOO cocky...
+
+- CRITICAL WEAKNESS: Multikill! Aim for the weak spots for severely increased damage!
+
+- GOLDEN BUGS: Each kill earns gold for the team!
+
+
+TERRAIN SCANNER - NOW IN 3D!
+----------------------------
+The ol’ flat Terrain Scanner has had an overhaul! The camera is now fully rotatable and zoomable, and you’ll have a much easier time finding where you need to go. Terrain Scanner has been mapped to both [TAB] and [M] by default. Go try it out! 
+
+
+VANITY UPDATES
+----------------------------
+DYE YOUR HAIR OR DIE DYEING!
+For Update 14, we experimented briefly with locking hair colors to classes, to make them stand out more. It turns out the players didn’t enjoy that too much... in fact, we practically feared being strung up like elves! Rejoice, however! Custom hair colors are back, and are even a bit more advanced now!
+
+MORE HEADWEAR ADDED
+A couple of new hairdos have been added (The Franklin and The Gamekeeper), as well as a bunch of much-requested variations to some of the hats and helmets!
+
+TAKE YOUR DWARF FOR A SPIN!
+Ever wondered what your dwarf looks like from behind? Well, you can now rotate your dwarf in all the relevant menus!
+
+Note: For those who wondered where all your armor went after Update 14, it was down to a massive reworking of the system we use for all the Vanity items. All those affected should have gotten all the credits and minerals you spent on them back.
+
+
+BOSCO UPDATES
+----------------------------
+AN EVEN BETTER BOSCO
+Bosco has had a brain upgrade and should now be much better at doing what he’s told and dishing out damage. He is so good that we had to tweak down his damage from 8 to 6 per bullet. His burst fire has also been adjusted to be a bit slower.
+
+RETURN OF THE DRONE
+When starting a multiplayer game solo, Bosco joins you until another player joins. If that player drops out again, Bosco will reappear!
+
+
+SERVER IMPROVEMENTS
+----------------------------
+EASY FRIEND INVITE
+Invite your friends directly into your game! And you don’t even have to have set up a mission yet!
+
+JOIN FRIENDS UNINVITED 
+You can always join your friend’s game - unless they already have a full team that is!
+
+SEE FULL SERVERS
+The Server List didn’t show full servers before - it does now!
+
+
+MISC.
+----------------------------
+REGENERATING HEALTH
+Health will regenerate to a specific minimum after taking massive damage. No more running around with 1 hit point!
+
+MINIGUN UPDATE
+The Minigun has had a massive overhaul, with a snazzy new model, improved animations, and new particles. After firing the Minigun, the accuracy is reduced at a slower rate.
+
+LOOK WHO’S TALKING NOW
+An icon is shown next to a player’s icon when using voice chat.
+
+HUD IT LIKE YOU WANT
+Some aspects of the HUD can now be hidden through the Options. For now, Enemy Health Bars, the Compass, your depth, Player Name, Class, and Class Icon.
+
+SALVAGE OPERATION TWEAKS
+- Uplink and Fuels Cells have gotten new models and animations.
+- Escape Pod powering up time reduced from 120 seconds to 90 seconds.
+
+PERKS, BUFFS, AND NERFS
+- Increased the sprint speed bonus of the Weekend Athlete perk.
+- Rank 3 Field Medic Perk will send nearby Glyphids fleeing when you finish reviving a teammate.
+- Rank 5 Resupplier Perk will auto-reload all your weapons when you resupply.
+- Fixed grammar and typos on several Perks and Milestones.
+- Red Sugar Rocks: Max rank will give you a 20% speed boost for ten secs. 
+
+
+"
 	Update_14 = "Hello Miners! This time around we’ve cooked up a fairly massive update together for you, just in time for summer vacation. And speaking of summer vacation - DRG just cancelled yours! New missions and monsters await and you got a ton of milestones to meet! So get to work!
 
 MAJOR NEW FEATURES
@@ -3519,10 +3623,12 @@ MINOR FIXES
 - Enemies are no longer "staggered" by physical damage (Melee)
 - Fixed updated Ammo and Clip size was not applied when you first spawned into the mission
 - Changed Item scale in first person so that they clip less with other objects."
+	Update_15_ShortTitle = "MUTATION WARNING!"
 	Update_10_ShortTitle = "VISÃO EM TÚNEL?"
 	Update_10_Header = "ATUALIZAÇÃO 10: VISÃO EM TÚNEL? - 16.03.2018"
 	Update_11_Header = "UPDATE 11: DEAD AND GUN  -  23.03.2018"
 	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
+	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
 
 Namespace Progression (6 keys)
 	ClassLevel = "Nível de classe"

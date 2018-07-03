@@ -1,7 +1,7 @@
 22 namespaces
-1890 values
+1928 values
 
-Namespace Global (2305 keys)
+Namespace Global (2348 keys)
 	2559D78C40005E5221F26093CB976283 = " Verzamel {Collected} {Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " VERPLICHT"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer / muziekproducer"
@@ -36,7 +36,9 @@ Namespace Global (2305 keys)
 	B063C03941EB570D6F2145808469C99D = "10 seconden tot opstijgen."
 	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
 	99CD26B24BF6817DD1A4978034CA179D = "2.000 kogels van Uranium... Ohh yeah...!"
+	6B174915406473EC528AE693016036E1 = "20% movement speed bonus for 10s after consuming Red Sugar!"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
+	34E9C17149E0544F4C02FB930C555046 = "25"
 	C4074DC14285A41787355CA8FC85F54B = "3...2...1...op naar de baan."
 	0838C2284D6C18474F43F399A23E5E63 = "42"
 	0D64808D4847E68080B0E696BA1C1B66 = "5.000 credits bemachtigd!"
@@ -57,19 +59,20 @@ Namespace Global (2305 keys)
 	5DF2C5A14F5FF99B9995E89D244A10C3 = "Een klassieke weergave van subtiele, ruwe kracht."
 	10EBE9914309B112BED94D8ACB15BFE8 = "Een op maat gemaakte revolver die kogels afvuurt zo groot, dat er maar ruimte is voor 4 schoten. Er is min of meer niets dat een voltreffer van een van deze 26mm monstrositeiten kan verdragen."
 	86A03D794F56F55E13FFD190FE8F3031 = "Een dwerg sterft nooit!"
-	20946E854610B5BE26AAD5B4CFCCD185 = "A few springs, a few magnets, a few black market fuel cells - you now take {value}% less fall damage!"
+	20946E854610B5BE26AAD5B4CFCCD185 = "Een paar veren, een paar magneten, een paar brandstofcellen van de zwarte markt - je neemt nu {value}% minder schade door vallen!"
 	1D1DC6B34CA7252027F1308C86BBC410 = "Een mooie headset"
 	480773904FD27F2E9379F09E955BE19C = "Een krachtig projectiellanceerder dat hoge intensiteit kleefflares schiet. De flares kunnen aan zelfs het hardste materiaal bleven kleven."
 	8D3766704F365EA7980CAB845A6D0848 = "Een praktisch overeenkomst"
 	F03E93AD4CD752D828C09F9814300F00 = "Een tweede doel is voltooid. De bonus word overgebracht nadat de missie voltooid is."
 	73F3774A48A4448BB90A72A2F5FA7B50 = "Een standaard hoog-explosieve fragmenten granaat."
+	2F4B2DC34745B99FD01C5A86612FC319 = "Een harnas vervaardigd uit gesloopte vaten. Verspil niet, wil niet!"
 	4564CC6649D4D197405B098920E0B7D8 = "OVERVLOEDIG"
 	09CD68EF4CCFD3F80C9F438F1A8590B2 = "ABYSS BAR"
 	1557E1D24CCF618B8B65659C0DA61CA2 = "MIK VOORDAT JE SCHIET!"
 	76A4C71F40A6600464CF538B0BA3EF0C = "Speciale Uitdaging"
 	7E2D33234A8BF8716D6FBFBFEA047EC7 = "Al onze vaste Discord mensen"
 	27CC54C9443B31D4BA4E7BBE72A9AC40 = "APD"
-	09C0CB8542CF0A0D60AAC48F877A44C0 = "AVAILABLE PERK POINTS:"
+	09C0CB8542CF0A0D60AAC48F877A44C0 = "BESCHIKBARE PERKPUNTEN:"
 	2289051149DE4D53743C648A3BB9E7F3 = "BESCHIKBARE PERKPUNTEN"
 	6ED213DE4BB78447F8511AB44A682443 = "Missie afbreken"
 	AEFBFF50450937B9A66EC5B2CA738B93 = "Zal tijd worden dikke!"
@@ -217,7 +220,6 @@ Je bent ook uitgerust met een extreem handige ZIPLINE LANCEERDER, jij en je team
 	50B0D6E54E06DF0FEF4FC7B668BBFAB2 = "Ademer"
 	2B9EAE3540CF9B0CDD1C9CA12E94D008 = "Breng de pijn!"
 	07277FBF4DF2B427A6D567AB995BBE3B = "Brood Nexus! haal het neer!"
-	66F10DCB4A114619E70597807D10A98F = "Bruin"
 	C4F7AEE9491C9A1ABB4B9B8896CCBE10 = "Insecten bom is onderweg!"
 	250D0036441F2417F49FA98008F5ACE3 = "Insect Bomb Besteld!"
 	3D7BB79A47CE926731B59BB2639D26D7 = "Bug!"
@@ -228,6 +230,7 @@ Je bent ook uitgerust met een extreem handige ZIPLINE LANCEERDER, jij en je team
 	27BD422A49595478AFF7159E2B628D9E = "Bouwen"
 	4FE5A65547F7CF81AB458EBBBA491392 = "Bouwen"
 	93691B8445BD80B844D432A8BAE2FE83 = "Bouwen"
+	1CB4D80743318442C308D2A14B857E9C = "Bouwen {progress}% voltooid"
 	251FA98341B86380F1B7FE815D790818 = "Bouwt sneller"
 	84EFB56C4B7743BB0738C2B559DBD9B4 = "Bouwt sneller"
 	180C5221413CB7FC1001EFB90C0618AA = "Ingebouwde schokdempers maakt vallen minder pijnlijk."
@@ -250,6 +253,7 @@ Je bent ook uitgerust met een extreem handige ZIPLINE LANCEERDER, jij en je team
 	34A50BEA4817DD864FB65397492A2D0A = "CEO"
 	9FFDAD124B9969657EDCDCB44E626837 = "CHEATS"
 	6F02005F4FB0502AF4B3B79F594D57D1 = "CHEE-TR 69"
+	14F3039C44B0EBD365674BA4A986B4FF = "CLAIM BELONING"
 	47C96B3F473BD15099CEEA8D9010E031 = "KLASSENAAM"
 	082A9714445A7627B4ED46AFFC732279 = "VERZAMELD MATERIAAL:"
 	3F0C9EF54B76216708530B9257D6584F = "VERZAMELD MATERIAAL:"
@@ -261,6 +265,7 @@ Je bent ook uitgerust met een extreem handige ZIPLINE LANCEERDER, jij en je team
 	9FFE3D4542965BA5393C45B90481D4BA = "CONNECTIE VERLOREN"
 	B7E069AA4384D6FDD82FC9BB59274005 = "CONNECTIE VERLOREN"
 	3AC07A124BB671598064218A10F5ACE5 = "DE TESTERS DIE ONS HEBBEN GEHOLPEN, HEBBEN DRG GROOT GEMAAKT"
+	2A3AB4AF4B195DC2665E73A0330FF4B6 = "KOSTEN"
 	0503DC77479E436F6E50DDBA7C86B939 = "KOSTEN: {cost} {resource}"
 	4DA615ED48FF4986039949B0A8527F2B = "CRSPR Vlammenwerper"
 	676D53374AD5B06C0BACEBA35A63509C = "CTO"
@@ -348,16 +353,17 @@ Je bent ook uitgerust met een extreem handige ZIPLINE LANCEERDER, jij en je team
 	38E4A63D4718F7FA626DB182D8AD964C = "Gemeenschap vertaald (76% klaar)"
 	6FBAE6DB4AAE26829458E58ADC59FF03 = "Samengeperst vuil"
 	90DA1BB8439888EC43D5F3AE1F7BD4AA = "Samengeperste aarde"
-	30E886374D703DA855B11AAB54C3B7D8 = "Complete the Tutorial Mission"
+	30E886374D703DA855B11AAB54C3B7D8 = "Voltooi de Tutorial Missie"
 	0FA5EB724E4928BBEF5657A72B574C8F = "Voltooi {value} verzamelen Alien eieren doelstellingen"
+	35030837442AC4F5DF9903B7FD0312C5 = "Voltooi {value} Eliminaties"
 	442E7C8549592572BCDADABEA3A79526 = "Complete {value} Missions in Crystalline Caverns"
 	F16C8C3D4CB37F83E7ABCC9B7135EC87 = "Complete {value} Missions in Dense Biozone"
 	7DF0FA5D4BFFDBBD015B9BBB47F07615 = "Complete {value} Missions in Fungus Bogs"
 	6F54937440371EA785D0808A47EC4779 = "Complete {value} Missions in Magma Core"
 	0021AE12478B1DF39F2D09822C23B7EF = "Voltooi {value} Missies in radioactieve wering"
 	C4B4027E48CE250CA66B3FA40158E267 = "Complete {value} Missions in Sandblasted Corridors"
-	2939AF8C40B48D069EF1AEB4DC854E51 = "Complete {value} Missions in The Salt Pits"
-	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Opperations"
+	2939AF8C40B48D069EF1AEB4DC854E51 = "Voltooi {value} Missies in De Zoutputten"
+	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Operations"
 	EB1B8A3542443FF3561615B2AB486FFE = "Complete {value} Search and Extract Missions"
 	55D0A66F44FCB63A9805AC859C63B095 = "Complete {value} Secondary Objectives"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "Complex"
@@ -394,6 +400,7 @@ Je bent ook uitgerust met een extreem handige ZIPLINE LANCEERDER, jij en je team
 	36D950354B55C7A663AC29A576FD5A04 = "Kunnen jullie luie klootzakken mij godverdomme omhoog krijgen!"
 	19EEB58843D5EA78C02C928628A3CD21 = "Kan je asjeblieft sneller gaan! we gaan vertrekken!"
 	00F7658844723AD3AF0A93971355B290 = "Land"
+	148F355245C6E7365A924889C00AA391 = "Cowboy - Wit"
 	1222990C4DA13F9D555CAA9841BB2986 = "Maken minerale"
 	27BC616B497CD00B577A44875CFB1A5D = "Productie materiaal"
 	2CF3525C465EAD27E09E6DADD8E4F2A0 = "Bouw materiaal"
@@ -431,6 +438,7 @@ Je bent ook uitgerust met een extreem handige ZIPLINE LANCEERDER, jij en je team
 	C20227AB4ED3EF692C11FE95B0E68FCB = "DIEPE ROCK GALACTISCH INFORMATIEKANAAL"
 	D7B1EC4D4CCC8AA5CA37499AD8718513 = "DIEPE ROCK GALACTISCH INFORMATIEKANAAL"
 	222ED19B4DDC31D5D784B0BCF65842E8 = "DEEP ROCK GALACTIC GEDENKTEKEN"
+	2183C36D4DA6ECAAB29E2EB807B6ABE6 = "VERNIETIG"
 	6465C68945B3EC6BBF1F4CA270107BD2 = "GRAAF HIER!\R
 Modder blokkeert altijd een tunnel!"
 	1726955F4E17CCDA75BDC98B7742246F = "Graaf hier! aarde blokeert de tunnel ingang!"
@@ -597,6 +605,7 @@ Modder blokeert de tunnel ingang!"
 	28446666412ED13D695913AC371C5625 = "Elimineren van doelen:"
 	389C13134804A331A16FD786065B4478 = "Eliminatie"
 	6F34A7384E7B924065F4B9A4641095AF = "Eliminatie"
+	305318414478607ABE93A989F8D75E0A = "Vijanden Vermoord"
 	E67758F5441CADB5013533B2CBD671AE = "Enemies caught in the Weakening Field are both slowed and vulnerable."
 	8C41CBED4DBB161AAC13D48CE6818F04 = "Vijand!"
 	FFD8345D4E78EFEDA366B88C25D043B9 = "Ingenieur's Baard"
@@ -663,7 +672,7 @@ BERIJK"
 	6E1245814EA1D86534832BB284EE1AFD = "Vinden van de missie"
 	66A7BD9F4745F011CC23D4982F605BC2 = "Vuur"
 	16B75D65445DA07DFAAD58B15A5947C3 = "Zoek dekking!"
-	2748F68649BD5939601E609ED8081F88 = "Fire in the hole! Fancy Reactive Armor plating takes half the sting out of any explosions."
+	2748F68649BD5939601E609ED8081F88 = "Het gaat exploderen! Mooi Reactief Pantser verzacht elke explosie voor de helft."
 	A97F97ED416C69DD8B6BC6980226AF6D = "Eerste!"
 	414667264824FF0BB8654891065CA3B2 = "Vlammenwerper"
 	2B02DF104AFD3F2F86F8289134528783 = "Flare"
@@ -721,6 +730,8 @@ BERIJK"
 	BA7D07DE450F6F7EEF0489A263FA3140 = "Fucking stuk..."
 	CE0DDF1640BB88B1626A2BA9B77135B3 = "Fucking stuk..."
 	6B0946B64400BB6CE91EF9A18135E076 = "Brandstof"
+	141804E64B37EEE1D95F2B9B24A5DEF6 = "Fuel Cell Beacon"
+	2F3BE3144492FA9E3A22E984BC8C206F = "Brandstofcellen"
 	16CADAB949D512825BF64AB536E7DFDF = "Brandstofcellen op 75%, je bent er bijna."
 	018FDDD14D9F40E3BD25EE852261BD94 = "De Brandstofcellen zijn aangekomen! Zet ze klaar!"
 	7643B019456C4E3C2729C9AB1A142655 = "Gevoed omhoog en laaiend om te gaan!"
@@ -779,6 +790,7 @@ BERIJK"
 	6AE284EB4606A3066DBF02B8229D5AE0 = "We komen dichter bij onze quotum!"
 	21EED0534A807F75877AB09D04C55AA1 = "Meer munitie Halen!"
 	4022B243499E2DB498264E961A8C3402 = "Ghost Ship Games"
+	268B7D5748979AF2D2300E9587BA5ADB = "Ghoul"
 	7620D7A64CDF6A7CD10221919EEADDA2 = "Geef me wat licht!"
 	A9F73C994BF4BC81B638DDB1842E976F = "Geef me wat licht! hier!"
 	4C8CAFB046526BB352E76B9451F52B79 = "Geef me wat suiker!"
@@ -807,10 +819,11 @@ BERIJK"
 	56671311400A9E14B7140D9C9156CB18 = "Goud"
 	6D57E17B4CD5E4B2C26881B0A3CDD0EF = "Goud"
 	C8ED99164F6D55F40E6F24B89AA86520 = "Goud"
+	3673A4BA46783199874D8A88A813765B = "Goudkoorts"
 	36F6A916408CC847E5D6EAB0B0F5174D = "Goud!"
 	675D2A584D91090995D6DB9ADEDD0F5E = "Goud!"
 	DA0DDBA540DB217C97A689A0F1337FEF = "Goud!"
-	19BA6775465847840682BC9F5D4EC225 = "Golden Bugs"
+	19BA6775465847840682BC9F5D4EC225 = "Gouden Insecten"
 	07F6168340A5682C9BBB5C8966DEEB03 = "Gouden helm"
 	4A083C354CE66519DB1D27963CC86C38 = "Gouden vizier"
 	81FAF0134D924E13E01A639E08BA9561 = "Ik heb meer flares nodig!"
@@ -1022,6 +1035,7 @@ BERIJK"
 	05BEE58949E04E15BFDE44AE11299C1F = "IFG"
 	A71F8B0A445CEE92B5253A8DD6AC0DE8 = "IFG"
 	878D07B640CB9FB59A6342ADCC21EC0C = "INACTIVE"
+	2F1468914439D27056E058B2FD0F4293 = "INKOMENDE\r BRANDSTOFCELLEN"
 	3F7FA694455640C3E8E6D0A8D21BDBAD = "Identificeren, doelwit uit roeien. Dat is hoe het moet gedaan."
 	BFF5840344B6CF54EC4B61AB1B1E69AF = "Als het niet kan boren, dan is het waarschijnlijk vlambaar."
 	80DCF1564FE0AF32ACCD80B57941FEA6 = "If multiple dwarves revives a downed dwarf, they get him on his feet a lot faster."
@@ -1030,6 +1044,7 @@ BERIJK"
 	1422D3AB49B2BE4AEF2B2D9A742574F1 = "Illustrator & UI kunstenaar"
 	0645A9594F688F770079D989D1E464E7 = "Botsingsdemper"
 	1E6EE2744A0F1BF2CA16AE8A7DB6A457 = "Verbeterde Shield Generator"
+	075D59304D4A871CE33297A70D614FAC = "Niet actief"
 	4DA0B11345F109DD53883E99D5F49000 = "Inkomend!"
 	68C7E9E14BAA5165E29BCF90BF3E033D = "Inkomende! Rook ze als je ze hebt!"
 	856AD218490E543BD1858FBB55E5C7AF = "Schade toegebracht aan vijanden is verhoogt"
@@ -1042,6 +1057,7 @@ BERIJK"
 	8D77E4AB4F8EFE5124A0D8BD0357C5FD = "Verhoogt maximale munitie"
 	0BC0F2504362D8A53D3274B859C4850F = "Industriële bril"
 	2C2284EF45735B0D23345B891AF418FF = "Last van een plaag? Geautomatiseerde geschuttorens, vriend."
+	3867F75744148E7F74092ABC89B7DAF5 = "Info"
 	92AD67DA4E31C57CB12C6CB66AB9A201 = "Info"
 	C31EED0B4CFBF8B2AF719D8D2B8BBCD3 = "Informatietekst"
 	7E0755F9425217DABC8E6AB89B2656AC = "Innerlijke dode zone"
@@ -1124,6 +1140,7 @@ BERIJK"
 	6764BD0E4B0CDE95427ADDA87A96907A = "Dood de buit kevers!"
 	32D1988E45EDA9277A9AC78D221F054A = "Dood {Current} {Required} {Title}"
 	B6CE073A4D4A5EBA71B1E68BADEAF090 = "Doder driller"
+	2924AB624B42C33A166FDEB118C42B48 = "Moorden"
 	051358F6494CFBE6D8B8A8A0F64F578A = "Ken je gereedschap"
 	8E5BE27741C20A416AD393B52CF1CA22 = "START\r TUTORIAL"
 	4D439D31471DB70445A4549CFA83881C = "LANCEER RAKET"
@@ -1155,6 +1172,7 @@ BERIJK"
 	B8C49DC048E92007CAEA1B85A730755B = "Leave no dwarf behind! You revive teammates {float_value}% faster!"
 	0045F2204008368E8777748223ACE0FB = "Laat niets achter! In elke buidel van jullie zit +{value} meer waardevolle spullen!"
 	49EBBFE84FACD8496D2BA3A96C103A29 = "Laat die vaten wezen."
+	288C46A3484F9370CBD8D68B44AC0A58 = "Legendarische Mijner"
 	A15F52AA4052ADE5D6516F9A10553869 = "Lengte"
 	B507E2EE4AEACA73344B28A7E4441DB9 = "Lengte :"
 	A8C761B54A75892C532FEBA0F961609B = "Minder lang dan de standaard"
@@ -1213,13 +1231,16 @@ BERIJK"
 	2AD0E96B442FA353F645EC928227E84D = "Kijk!"
 	734B320E4B998FCB06B41699CBB6567A = "Kijk er naar uit om met je te werken!"
 	8CC378B1434DDB77A263478980DCAFFC = "Loot Bug is hier! "
+	3772EA484D5FB4233247B0927FE1548D = "Heerser van het Diepe"
 	14DF284D42A6A089E82FB9AAEBF771DD = "Verloren uitrusting"
 	38A352D84AF190E753529A81D7FD5211 = "Verbinding naar Server verloren"
 	597D27244B3BAB229FC8208E850EFA38 = "Luid en duidelijk!"
 	3119AE484EBB537745ADC386AEF30CBB = "Laag"
 	0B9C58F542172778A7057FADD52AB778 = "Weelderige missies voltooid"
 	89E8F5894C285525E9999E854859BADD = "M.I.A"
+	2ED0299641F51E567619578000976A63 = "M.U.L.E. Been"
 	739783CC49AE38F6F1AE6D963CF9D972 = "M.U.L.E. STANDBEELD"
+	2DDC61E64D3ADC79655B8C88A3C4AB51 = "MIJLPALEN"
 	A8635D3A4197B12C9171ECACB3DCC6E1 = "MINERAAL NAAM"
 	7EA800674ADAB0AF09B87FAD83F5F71B = "ONTBREKENDE RESOURCE"
 	425FE5044989D63327E09A9305357CBE = "MISSIE"
@@ -1240,10 +1261,12 @@ BERIJK"
 	D36F113E4819E2A621CAAB94F9E868AE = "MK1 Gunner Suit - Basic"
 	3C6AD2D24D4B92D3FC282EAA7B9B4AC2 = "MK1 Shutterspak - Standaard"
 	B160777F4EFE34EB4D4FE6B895A06F29 = "Mk1 Gunner pak - witte ridder"
+	286C40524CE8DB90137FB3BED3EDB2D4 = "MK1 Verkenner Uitrusting - Standaard"
 	5D9B175D4D1E46C41A869D845CB30C81 = "MK1 Verkenners Pak - Witte Ridder"
+	29C438324814A2EF2191A2A0A565F891 = "MK2 Boorpak - Basis"
 	68FD46F14AC85B06BF06CB8D31AE7ED4 = "Mk2 Boren Pak - Verguld"
 	558DC1D54A52E148753A24A5D6A7F456 = "Mk2 Boren pak - standaard"
-	35572DAF468841FECA94DBBDF47E3ECE = "MK2 Engineer Suit - Basic"
+	35572DAF468841FECA94DBBDF47E3ECE = "MK2 Ingenieur Pak - Basis"
 	1ABD53C5467444A7B571AA8FBB0C2144 = "Mk2 Ingenieur Pak - Verguld"
 	57B9405B4D6F96EE41D0AC985887874C = "Mk2 Ingenieur pak - witte ridder"
 	3F27CD314C252C57658E4CB4629C92CE = "MK2 Gunner Suit - Basic"
@@ -1277,6 +1300,7 @@ BERIJK"
 	6A867F3B4701238194FE0B8397953862 = "Enorme Baard"
 	70AB43634943CB562C3AADBA758D1F1D = "Enorme Baard"
 	73A1C87A4E7511F76747E5A98B997606 = "Enorme Baard"
+	3377849C417A58D5B0EAF693EF800E87 = "Enorme Kinband"
 	A48D3EBB455A194C282A898E330A58DA = "Master Volume"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "Matchmaking mislukt, probeer het opnieuw."
 	3687A13B4D40D996CA1B6AACC84DE076 = "Matchmaking..."
@@ -1320,6 +1344,7 @@ BERIJK"
 	B4253B1E4AB8F953BCD51188009553B7 = "Missie vast gesteld, Voorbijrijden van de drop pod."
 	470547694BE786FA2F45049F27CD82A7 = "Missie geselecteerd en ingesloten. Tijd om aan boord van de transport capsule te gaan."
 	0664EDEF406B5BF10A5D6AA8D196ED2A = "Missie geselecteerd. Jouw wagen staat klaar, mijne heren. We gaan vertrekken."
+	387FB2484DFA5766DA90E6A725E0F0BB = "Missies"
 	3796F5BA47DABAC727A3869531B4D7D9 = "Mixer-Login"
 	421A198642CC485C6E16ACB86B505CD2 = "Mixer-Logout"
 	7F5D45D04D76923396C02CB920DE20C1 = "Moderate NAT"
@@ -1347,6 +1372,7 @@ BERIJK"
 	20D564674719A2694D5461A67A2ED775 = "Moving on up! Equip up to {value} perks at a time!"
 	0B2CEC26471A5B9A44FDEE85BD5AB1F1 = "Veel beter!"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "Veel beter!"
+	37E7E4F245E3BFA381798187F06571C1 = "Mule is weer functioneel! Goed gedaan!"
 	363F35F64355EAC74E3A0F9F7476EE46 = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "Paddestoel!"
 	15BC54F547626ECE1C9638AAE3958116 = "Niet vergeten om mijn spullen te verbeteren!"
@@ -1404,6 +1430,9 @@ BERIJK"
 	537F78754C5AAE4F3B878F80942102D5 = "Niets"
 	AE79CBE141F468CDBC1C949D60597851 = "Niets"
 	FE577E2F45E9A912FE9357A1C12882EA = "Nothing holds you back! You move {value}% faster while carrying heavy objects!"
+	29913B9E4A7724CDB555148A5B3AE98A = "Niets!"
+	2C4CF78C459EE646F68DA29D639D6D91 = "Niets!"
+	2DA8626E40781387C45436B4EBE59D19 = "Niets!"
 	4F889D684C3AFE8D1AC069A6A68F6111 = "Nou dat is pas muziek!"
 	81192BAC43EAEC0E9910289D3B9E2DF3 = "Nou dat geld is goed besteden!"
 	70F228D44EE1158D61FFB993465D99BD = "Vraag voorraad drop aan"
@@ -1460,8 +1489,8 @@ BERIJK"
 	627DFC544B98FC5699238FB874FF6394 = "Of een lange snor"
 	87A85B22412CD36399319482D3989887 = "Of een lange snor"
 	ADFF456B4D799F9902FC8889FEC0645F = "Oranje pet"
-	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Mededeling van de orbitale Relay"
 	70017F3D4A98135051919DBDEB74E414 = "Orbitale invoegvolgorde geïnitieerd. Stap in de Drop Pod."
+	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Orbital Relay"
 	BCF3BEB34D63AE4315D8BAA3AF3F6317 = "Beleving van het management: Stop met dansen en ga aan het werk!"
 	3F74F79440BF376C9471EEBC88675AF5 = "Auw! Kijk uit"
 	6D4ADC7E46B2B3F042B165B4C8F39259 = "Onze scanners hebben een enorme storting van Aquarq gevonden. We sturen je er naar toe same met een zwaar bewapened lifter om zo veel mogelijk te verzamelen. We zien extreme biotekens in de omgeving, hou het dus strak! Aquarqs kan uit de muur gehaald worden. zoek voor blauw schitterend licht. Doe het Team."
@@ -1480,6 +1509,7 @@ BERIJK"
 	846D8B4C4394B804B2A2468B3C4D1CF7 = "Overbelaste Shield Generator"
 	92A9D0DA448A8DEE4D7C56ADCF0B0713 = "Verbeterde Shield Generator"
 	BBF3B4054F29E874B222A2B140CE9C2C = "GA OP BEZOEK IN DE HERINNERINGSHAL "
+	38016A76468FB185CF0A8482F497F9F3 = "PERKS"
 	A7A2C9074DD5E8B2297F81A5C71F4E08 = "PLEK MARKER"
 	C79595634378DAEEAB740BB8AF143D3B = "PLANETAIRE REGIO"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "PLANETAIRE REGIO:"
@@ -1515,6 +1545,7 @@ BERIJK"
 	CF99434643CB9020EDC0C0A6F69FED05 = "Password Protected"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "Geef wat Respect, - wees stil!"
 	264F74C44F4DAC9866C3FAA916CD571D = "Piek DPS"
+	29455B0149EC14F665DE77A0C714CFAA = "Piek DPS"
 	88E304094AE76FC65BC01F80B9660841 = "Phorsphide!"
 	6B8F0C9346F0E4383B37CB831050B470 = "Pak Op"
 	0030AD614554E232F8104299B9DE747B = "op pakken"
@@ -1588,6 +1619,7 @@ TOETREDING"
 	7822F6C2423DCCE0F1129F9B71B42C38 = "Hervul TOEBEHOREN HIER!"
 	0FE71808418CA41B8F7470A3F80533D1 = "BESCHRIJVING VAN DE REGIO"
 	22DCC57E499C0EE9AE70BF97A46FB8D2 = "RESET"
+	388669DF4228062C4D09D7A0A008CE86 = "RESET"
 	AF59C94D4E5CE3AAB9FABC8590789489 = "OMKEREN"
 	DFBA5ECB4414B8146C621180A9226E46 = "Radioactive Crystal"
 	74E5EC9E41E8D7D602DDF498D493DB72 = "Radioactieve uitsluitende zone"
@@ -1598,6 +1630,7 @@ TOETREDING"
 	26286D3848D499395AA04488680CE4E6 = "Geteisterd door duizenden jaren aan hoge intensiteit gammastraling, deze regio van de planeet is nu een heus hellegat van radioactief as en vervallen, gemuteerde flora. Verplaats je met grote zorg en besteed bijzondere aandacht dat je volledige detox procedure onderhoudt bij terugkeer."
 	0987A141449A54263414569CC8EBB636 = "Klaar om op te blazen!"
 	592D3B2D4A3C5A50A363F79039F29E1A = "Klaar om op te blazen!"
+	04AD523640E3B9C0151D8D88C3814A49 = "Klaar om te bouwen"
 	8963049442EC7F2C8823A386527F32BE = "Klaar om te bouwen"
 	654D08654C3F79C50F3A87A9875A2D6C = "Klaar om te vertrekken!"
 	0F6DF48340A35842A22D4B8A99757AB4 = "Klaar om te schieten!"
@@ -1637,6 +1670,7 @@ TOETREDING"
 	15C102484C0E9A6961FBC4A248F56025 = "Vergeet niet om fakkels te gooien. Over tijd herladen ze automatisch, spaar ze dus niet op!"
 	BC96875A4252AB6E95D7B2A7341446F2 = "Onthoud, grot bloedzuigers zijn niet zo bang voor jou als jij bent voor hen!"
 	11BC8F5540F956105650F29654396606 = "Repareer"
+	272C3E79462B4517552EBFAE50BE0FB1 = "Repareer MULEs:"
 	046C7D9F4E22D85C44E58984A38E9634 = "Herstart voortgang"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "Herstart voortgang"
 	2A34F7F04B52A1277B64AB959054B29C = "Reset naar standaard"
@@ -1659,7 +1693,7 @@ TOETREDING"
 	8F44FF9D43369427EFF8FC9F40702E8D = "Weer levend maken"
 	5F40E0664C3861D653BE62BC6298E32B = "Voortgang Bijbrengen"
 	0DAAED1E4E88F25930A52785A2C55CF9 = "Revolver"
-	26F20284475D0C956423A19FAD278217 = "Rich Atmosphere"
+	26F20284475D0C956423A19FAD278217 = "Rijke Atmosfeer"
 	1C681C7A4216B925084ADE8561E0C13F = "Rechts"
 	529348634A576CDFB6BC33AC37E29970 = "Daar!"
 	A65692934A186BAC5B332DB14C8ECD6B = "Opstaan!"
@@ -1778,7 +1812,6 @@ TOETREDING"
 	B8647E1F4F26DB5BEE16CC99079BAD7E = "Scherpe rand"
 	BC256A7247EB7FC6A1D92CB315D9B94D = "Scherpe rand"
 	512BDAB74153C22C34CC8897AB9105FF = "Shhh! Je bent nogal luidruchtig, weet je! Toon wat respect!"
-	DEF0FF9B478A09647244E7BEAFBDAD05 = "Shield Disruption"
 	57C3E1E64F6623F0C02B4F9786399CE0 = "Schiet het in de kont!"
 	3EE85E944974D508D0BB2CB7DC8A3ECF = "Schieten!"
 	79438C844F5F6C0F092C009DE160A37F = "Schieten!"
@@ -1794,10 +1827,12 @@ TOETREDING"
 	3127F8A540D246D860D961AD1DBF602F = "Toon HUD"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Laat je vrienden zien wat je hebt gevonden"
 	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammate how awesome they are!"
+	1D51B1B745E3A1B0D2F23E8D4336D337 = "Zieke Vijanden"
 	74B817F049005FEE695B2694908686FE = "Aanmelding aangepast"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Sign up for our Steam Group below to join the Community and keep up to date with us as we continue expanding the game - and claim your free reward of 5.000 in-game Credits to give you a massive boost through your first days at work in the mines of Hoxxes IV!"
 	6E59C29A4D7AC946CFB2AEB86836B69A = "Stille alstublieft!"
 	19A4058E49EA0C335776D39AC7DBD80A = "Silicaat Verzamelaar"
+	0B2966BD4821E326CE1BC3843A01F447 = "Zilvervos"
 	82D5760A4D36C73A04E752BDC5DE965D = "Eenvoudig"
 	339FEFFF47F7B6189FE94E9BE09E4289 = "Site 11 Diepe Schalie"
 	0AF7C1A24CB9CC6A7EE27A9B17597FE3 = "Beetje sneller, een beetje minder roestig. "
@@ -1809,6 +1844,7 @@ TOETREDING"
 	41271AB84414676E2C59BF8E1E686882 = "Zo glad als schuurpapier"
 	00C122A946DBB49D8C35B99A52996BE9 = "Zo schijnend."
 	1246AC724746EDA00FE63180A9A62C31 = "Zo schijnend."
+	365FAA6B4CFBE7776FE96DA86654C761 = "Zo bling."
 	8D1BD2A2448C407059D43A83AC293967 = "Zo schijnend."
 	9BCBAF0B4D8DF2BF321A93B06B84A82F = "Zo schijnend."
 	2062259C4ACA19E354F2BD9C39A239DD = "Zo pluizig!"
@@ -1822,6 +1858,7 @@ TOETREDING"
 	3DF7821D4FF6FBBF4BBC4AB0FC340E56 = "Een paar pantsers."
 	9BBAAD4944C83167DDC63DAA824088D4 = "Een paar pantsers."
 	B6FE68D24ADC220DAB64E0825CDAE143 = "Wat pantsers."
+	1FB3123D451B74CB69B80295F36DBB2F = "Sommige modellen gaan gewoon niet uit de mode."
 	946258A048D09051C286F296447045BA = "Iemand verbind me!"
 	02D9A33C419F1C33C445B19209F4F7A6 = "Er komt iets groots op je af! Bereid je voor op het ergste!"
 	658BD8BC4CCF4E622E0AB89AB9869C52 = "Er komt iets groots op je af! Bereid je voor op het ergste!"
@@ -1883,6 +1920,7 @@ TOETREDING"
 	1B8395E5452CDDC4D27EE3A70A790E58 = "Krachtigere explosies veroorzaken meer schade"
 	774B8BAF416E053F8A1F2CA1DF938738 = "Krachtigere explosies veroorzaken meer schade"
 	950A42504F9FA4B21E07E682B097AD10 = "Krachtigere explosies veroorzaken meer schade"
+	250E337E407CE7A1D195679E6B89485C = "Stijlvol en praktisch! Gestyled om bij je harnas te passen."
 	28413C4845CD958B3E52AD92FE55CEFE = "Subata 120"
 	C086D4174E9B15BF0A19F48247CD8DB8 = "Ondertiteling"
 	88E79D4D44DC163227E537BBBBB740C8 = "Zuig aan dit, jij freak van de natuur!"
@@ -1932,6 +1970,7 @@ de bemanningsleden van het spookschip"
 	3C500D564A4BCEA05A5932A274652EDA = "Tekst Tekst"
 	7071C48B48E9D63156C8B29BF822BB0E = "Test Text"
 	952EB8C9499D63F798E85E9B5D419A45 = "Test Text"
+	37F2DFE440CF84EC0D3A1D894E907D4A = "Tekst"
 	BAA651EF4F25A6259BDCABB053ECD92E = "Text"
 	EEF10455485D2CEE76AA2883B8A02008 = "Text Message Text Message "
 	5CE46EAA420AA488674B78B4459C2D29 = "Dank u voor het kopen van DEEP ROCK GALACTIC en voor u die deel uitmaken van onze reis!"
@@ -2027,9 +2066,9 @@ de bemanningsleden van het spookschip"
 	582B93374089CB4536D53980875CFB98 = "Dit houdt ze wel weg!"
 	63D174AA4086E244ECA611817586DC6B = "Dit houdt ze wel weg!"
 	9024F5B74651406739D99D8095B6F248 = "Thomas Storm"
-	32F71E5D482EE6115914CCAD693BD325 = "Through some clever tweaks, you now move {value}% faster on the Zip Line!"
+	32F71E5D482EE6115914CCAD693BD325 = "Door enkele slimme aanpassingen verplaats je nu {value}% sneller op de Zip Line!"
 	742AC94A4F68D2838AA7959A118EEB3A = "Tim Badylak"
-	2D9533C146672835367E2D8EDC69C7C6 = "Time"
+	2D9533C146672835367E2D8EDC69C7C6 = "Tijd"
 	2D5154A7402080FBE46F28A46443B13F = "Tijd Zoeken"
 	7D3ECC6941A5B9B36579C3B532AFE83F = "Tijd voor een koud biertje als dit klaar is."
 	3A4704F1477EBE6619327BA19F734466 = "Tijd voor een ronde ongediertebestrijding team. We hebben Slagschip cocons op onze scanners en jij mag ze gaan uitroeien voor ze in iets ergers veranderen. Mijn advies: Breng een overvloed aan munitie, die dingen kunnen wat hebben."
@@ -2069,8 +2108,10 @@ de bemanningsleden van het spookschip"
 	1AA37313484E296C81A182B44FF53427 = "Val geplaatst!"
 	83B4323941B7A826389FC1B83A342B5F = "Val geplaatst!"
 	ADB63C044B508C645D8B6E9A06F1F769 = "Val geplaatst!"
+	2AC16FA946FE159B3D58CD8C8D795B36 = "Triangulatie op 50%."
 	03E6DCBF4EFF2F19BB08068D40943794 = "Trekker dicipline, jij walvis!"
-	FE02342344B5D480F674B895167798B4 = "Tripple XP"
+	4BFDA85F4F8B9868841155853483486D = "Triple XP"
+	FE02342344B5D480F674B895167798B4 = "Triple XP"
 	2869C6C145037D634D8A2CAD9E3F54FF = "Tritium!"
 	759684F94A9472D40FEEEA82628E4077 = "Tumorous groei"
 	8040F61D483E03C188C39F81340B7285 = "Tumorous groei"
@@ -2111,6 +2152,7 @@ de bemanningsleden van het spookschip"
 	29F34D0E4F0162F6723733A865EB0201 = "Upgrade karakter (alleen Rig)"
 	564780DB4BC0B912BEC1FF90F5F944A7 = "Upgrade naar Supporter Edition"
 	7DEDC3AC4676FAA5CFC2DF931E51AA84 = "Upgrades"
+	32A95C584F69039D875B8483B518FCDF = "Uplink Triangulatie is mislukt! Dat is het, we schrijven dit af als een verlies. Het was een plezier met je samen te werken. Vaarwel."
 	0DAC950C40DE765C2BC254AB86980201 = "Uplink naar Mission Control"
 	37D58D9746A7D0AA855B75A827FD7024 = "Bovenste pool mantel"
 	68369D554B071188C4F52F9B2A59A4A0 = "Bovenste Arctic mantel"
@@ -2223,7 +2265,6 @@ de bemanningsleden van het spookschip"
 	983F9B7847CFC6CEF329128DF715311F = "Zou je jou eigen willen hosten?"
 	34DDF20A495D61EFE737CC82F5BB11DD = "Verkeerd Wachtwoord"
 	6C68CD074F43A80D4601169F005F13FB = "XP VERDIEND:"
-	4BFDA85F4F8B9868841155853483486D = "XPX3"
 	033A71EB409CEECD2D754AAC20E5C885 = "Xbox-club is lid geworden!"
 	200CDB03454FBFB06EEB4FA87041E671 = "Xenofungus"
 	30FA668E450BFCB8B530CBB92F152431 = "Xenofungus"
@@ -2252,6 +2293,7 @@ de bemanningsleden van het spookschip"
 	78D2755C4861A355ED50D3AD1A7F8D85 = "Je kan geen vaten met je mee brengen op je missie, maar ik waardeer je poging."
 	26B7F8284A283072236CC8AAE9D04C56 = "Je bent gekicked"
 	7385AADD42A9E20A78773E92E52A22E5 = "Weet je... Je word niet betaald per uur. Aan de slag!"
+	35CC851741DAC42CABD91A8ADFFEA2D2 = "Je moet in de triangulatiezone blijven! Ga nu terug!"
 	2C2116CF45A3A253EFA883B5144761FF = "Jij hoort hier geen toegang tot te hebben. Wat is er aan de hand"
 	2161E24842AF7A087271D893471F6192 = "Jij glade S#!T"
 	4A76A72540171A04DFFE4F828708785E = "Je neemt een jachtgeweer en zaagt hem in tweeen. Wat je overhoudt is een licht handkanon dat werkt als een groot pistool en de stopkracht heeft van een Truk vol met watermeloenen. Een echte klassieker."
@@ -2290,6 +2332,7 @@ de bemanningsleden van het spookschip"
 	492A1FF148B199F2D9BF029D6FD95FBB = "[SluitMenu] spel afsluiten"
 	13FFB7DB4F978ECEB6808694A67F9AD7 = "[Artikelcategorie gaat hier]"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] Doorgaan"
+	319FC2C243CD6989A597A8B314759BBD = "[OkMenu] Doorgaan"
 	9AEB086C47A32806C48C68A2FF72D25C = "[OkMenu] Volledige serverlijst"
 	4123F28A44E1A2BC85252C9579C10508 = "[OkMenu] SNELLE JOIN"
 	095853BB4D32666227111591E781AEB0 = "[OkMenu] Zoeken"
@@ -2379,8 +2422,111 @@ Namespace MaterialExpression (0 keys)
 
 Namespace Missions (0 keys)
 
-Namespace PatchNotes (7 keys)
+Namespace PatchNotes (10 keys)
 	Update_14_ShortTitle = "FEATURE CREEP"
+	Update_15 = "Hello Miners! 
+Before we head out for a couple of weeks of sorely needed summer vacation, we have cooked up a lovely little mutation to the game for you all!
+
+--- PATCH NOTES ---
+
+MUTATOR SYSTEM
+----------------------------
+From now on, all missions have a chance to appear with Mutators attached to them. They come in two variants: Warnings and Anomalies. Anomalies are neutral or even positive, while Warnings will severely increase the danger you’ll face. Missions with Warnings on them also add a substantial Hazard Bonus to the final score. Look on the mission map for the new Warning and Anomaly icons!
+
+The following Warnings and Anomalies are already implemented, and we expect to add lots more in future patches.
+
+WARNINGS:
+
+- EXPLODER INFESTATION: Whatever mutation affects the Glyphid Exploders, this is likely one of the epicenters! Hordes of ‘roided-up, rabid Glyphid Exploders will do their best to turn you into a fine red mist.
+
+- SHIELD DISRUPTION: The cave is heavily electrostatically charged. And wouldn’t you know it, it makes your shield generators short out. So...no shields!
+
+- MACTERA PLAGUE: Macteras of all kinds have completely taken over this cave! Flying horror descends from the sky! You could say it’s going to be... Macterrible!
+ 
+- CAVE LEECH CLUSTERS: If you have a phobia of Cave Leeches, this cave will either cure you or confirm your worst fears...
+
+ANOMALIES:
+
+- GOLD RUSH: This cave has extraordinarily rich deposits of gold; huge veins of it just waiting for the sweet caress of your pickaxe!
+ 
+- MINERAL MANIA: Crafting Minerals galore! It is the reason to go to Hoxxes after all.
+
+- TRIPLE XP: 10 credits says you can’t guess what it does...
+
+- LOW GRAVITY: Jump vast chasms! Scale nearly vertical walls! Just keep in mind... fall damage is still a thing, so don’t get TOO cocky...
+
+- CRITICAL WEAKNESS: Multikill! Aim for the weak spots for severely increased damage!
+
+- GOLDEN BUGS: Each kill earns gold for the team!
+
+
+TERRAIN SCANNER - NOW IN 3D!
+----------------------------
+The ol’ flat Terrain Scanner has had an overhaul! The camera is now fully rotatable and zoomable, and you’ll have a much easier time finding where you need to go. Terrain Scanner has been mapped to both [TAB] and [M] by default. Go try it out! 
+
+
+VANITY UPDATES
+----------------------------
+DYE YOUR HAIR OR DIE DYEING!
+For Update 14, we experimented briefly with locking hair colors to classes, to make them stand out more. It turns out the players didn’t enjoy that too much... in fact, we practically feared being strung up like elves! Rejoice, however! Custom hair colors are back, and are even a bit more advanced now!
+
+MORE HEADWEAR ADDED
+A couple of new hairdos have been added (The Franklin and The Gamekeeper), as well as a bunch of much-requested variations to some of the hats and helmets!
+
+TAKE YOUR DWARF FOR A SPIN!
+Ever wondered what your dwarf looks like from behind? Well, you can now rotate your dwarf in all the relevant menus!
+
+Note: For those who wondered where all your armor went after Update 14, it was down to a massive reworking of the system we use for all the Vanity items. All those affected should have gotten all the credits and minerals you spent on them back.
+
+
+BOSCO UPDATES
+----------------------------
+AN EVEN BETTER BOSCO
+Bosco has had a brain upgrade and should now be much better at doing what he’s told and dishing out damage. He is so good that we had to tweak down his damage from 8 to 6 per bullet. His burst fire has also been adjusted to be a bit slower.
+
+RETURN OF THE DRONE
+When starting a multiplayer game solo, Bosco joins you until another player joins. If that player drops out again, Bosco will reappear!
+
+
+SERVER IMPROVEMENTS
+----------------------------
+EASY FRIEND INVITE
+Invite your friends directly into your game! And you don’t even have to have set up a mission yet!
+
+JOIN FRIENDS UNINVITED 
+You can always join your friend’s game - unless they already have a full team that is!
+
+SEE FULL SERVERS
+The Server List didn’t show full servers before - it does now!
+
+
+MISC.
+----------------------------
+REGENERATING HEALTH
+Health will regenerate to a specific minimum after taking massive damage. No more running around with 1 hit point!
+
+MINIGUN UPDATE
+The Minigun has had a massive overhaul, with a snazzy new model, improved animations, and new particles. After firing the Minigun, the accuracy is reduced at a slower rate.
+
+LOOK WHO’S TALKING NOW
+An icon is shown next to a player’s icon when using voice chat.
+
+HUD IT LIKE YOU WANT
+Some aspects of the HUD can now be hidden through the Options. For now, Enemy Health Bars, the Compass, your depth, Player Name, Class, and Class Icon.
+
+SALVAGE OPERATION TWEAKS
+- Uplink and Fuels Cells have gotten new models and animations.
+- Escape Pod powering up time reduced from 120 seconds to 90 seconds.
+
+PERKS, BUFFS, AND NERFS
+- Increased the sprint speed bonus of the Weekend Athlete perk.
+- Rank 3 Field Medic Perk will send nearby Glyphids fleeing when you finish reviving a teammate.
+- Rank 5 Resupplier Perk will auto-reload all your weapons when you resupply.
+- Fixed grammar and typos on several Perks and Milestones.
+- Red Sugar Rocks: Max rank will give you a 20% speed boost for ten secs. 
+
+
+"
 	Update_14 = "Hello Miners! This time around we’ve cooked up a fairly massive update together for you, just in time for summer vacation. And speaking of summer vacation - DRG just cancelled yours! New missions and monsters await and you got a ton of milestones to meet! So get to work!
 
 MAJOR NEW FEATURES
@@ -2753,8 +2899,10 @@ MINOR FIXES
 - Enemies are no longer "staggered" by physical damage (Melee)
 - Fixed updated Ammo and Clip size was not applied when you first spawned into the mission
 - Changed Item scale in first person so that they clip less with other objects."
+	Update_15_ShortTitle = "MUTATION WARNING!"
 	Update_11_Header = "UPDATE 11: DEAD AND GUN  -  23.03.2018"
 	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
+	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
 
 Namespace Progression (0 keys)
 

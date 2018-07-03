@@ -1,12 +1,13 @@
 22 namespaces
-2804 values
+2831 values
 
-Namespace Global (3372 keys)
+Namespace Global (3396 keys)
 	2559D78C40005E5221F26093CB976283 = " {Collected}/{Required} {Title} 수집하시오"
 	31D60A1449082F9AB6DC15844F3810F6 = " 필요함"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
 	7A08710B44444ECFC61B76B9C1569163 = ""드워프는 거인의 어깨에 섰을 때 더 멀리 본다네!""
 	83952EF040308BB9B237FDA3FA104D7D = ""거인의 어깨에 선 드워프는 더 멀리 볼수 있다네!""
+	4F6A260D44BFC3B210BB2B8CEA3B3B19 = ""너그들 둘 다 엿이나 까잡솨.""
 	77187D6F417505F2992A93908FEF653F = ""불독"헤비 리볼버"
 	4646B0FE4D768FA780476DB527338557 = ""같이 파든가 아니면 니 무덤이나 파든가!""
 	76FA93D64581AB707EC002B078704ECF = "같이 파든가 아니면 니 무덤이나 파든가!"
@@ -53,7 +54,7 @@ Namespace Global (3372 keys)
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
 	A6A17BE34F9EDC3124434C809161A714 = "두 마리의 찌르레기와 성질더러운 까마귀가 거기다 둥지를 틀은것같네요."
 	99CD26B24BF6817DD1A4978034CA179D = "열화우라늄탄 2,000발이라... 오예..!"
-	6B174915406473EC528AE693016036E1 = "치료 후 10초 동안 20%의 이동속도 보너스를 받습니다!"
+	6B174915406473EC528AE693016036E1 = "20% movement speed bonus for 10s after consuming Red Sugar!"
 	C7962BE54367A88EA7181D8F8D10C1CD = "20M"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
 	34E9C17149E0544F4C02FB930C555046 = "25"
@@ -81,6 +82,7 @@ Namespace Global (3372 keys)
 	1AAF54B146793AE312E8B99CFF81F4E0 = "기본적인 스카웃 아머입니다."
 	E797D31C413C37E46B118CA98192B52B = "기본적인 스카웃 아머입니다."
 	6A7D690148593839ED1514872FA0B937 = "당신의 뒷통수를 위한 수염입니다!"
+	BC6467A14439B52719A905AC1424C863 = "과감한 패션을 표현합니다."
 	094DBF9240C1525A23E214A91AED7C79 = "미묘하게 고전적인 외형이죠, 인상은 약합니다."
 	30966C18430C82C1C2C0C98D63EF5D8B = "정교하고 클래식한 외형, 정제되지 않은 힘"
 	5DF2C5A14F5FF99B9995E89D244A10C3 = "정교하고 클래식한 외형, 정제되지 않은 힘"
@@ -90,11 +92,12 @@ Namespace Global (3372 keys)
 	10EBE9914309B112BED94D8ACB15BFE8 = "커스텀 리볼버의 탄약은 매우 크기 때문에 4발까지만 삽탄 가능합니다. 괴물 같은 26mm 탄을 맞고도 멀쩡할 놈은 그렇게 많지 않습니다."
 	A51AF99C49FC325E4128D4BB8F23F943 = "믿을 만 하고 중량감 있는 무기. 일반적으로 평범한 드워프의 첫 선택은 아니지만, 무게와 적당한 파괴력은 가치가 충분합니다."
 	86A03D794F56F55E13FFD190FE8F3031 = "드워프는 결코 죽지 않는다!"
-	20946E854610B5BE26AAD5B4CFCCD185 = "몇개의 스프링과, 몇개의 자석, 몇개의 암시장산 연료셀 - 당신은 이제 낙하데미지를 {value}% 덜 받습니다!"
+	20946E854610B5BE26AAD5B4CFCCD185 = "몇 개의 스프링과, 몇 개의 자석, 몇개의 암시장산 연료셀 - 당신은 이제 낙하데미지를 {value}% 덜 받습니다!"
 	1D1DC6B34CA7252027F1308C86BBC410 = "멋진 헤드셋"
 	E123E6D34FF9C7D20C7F9A96D4185837 = "넌센스적이지 않은, 심플 디자인."
 	480773904FD27F2E9379F09E955BE19C = "고강도 접착 플레어를 발사하는 플레어 발사기. 이 플레어로 가장 단단한 물질에도 붙을 수 있습니다."
 	8D3766704F365EA7980CAB845A6D0848 = "실용적인 타협"
+	A4C156A74BD6B9658D3BA494C5A078D6 = "고전적이며 혈기왕성해보입니다."
 	F03E93AD4CD752D828C09F9814300F00 = "보조 목표가 완수되었네. 미션 완수시에 보너스가 자네들의 계좌로 들어올거야."
 	B36419C44A40BFFC3BFEB38D492C872F = "작고 가벼운 드워프를 위한 작교 가벼운 총. 보이는 것보다 더 치명적입니다."
 	BD60E51B4D6FF4B88175E4AF1B8800D9 = "플레어에 고형 마그네슘 코어가 추가되어, 타는 시간이 증가된다."
@@ -118,8 +121,8 @@ Namespace Global (3372 keys)
 	953BD7754CA18B0E7B567FB1569498D9 = "AR 헤드셋"
 	AE27730B476987E33DE684ABDA93F9F0 = "AR 헤드셋"
 	64AC22D041495013B57A1C9D5EDAC0AC = "사용가능한 퍽 포인트"
-	09C0CB8542CF0A0D60AAC48F877A44C0 = "사용가능한 퍽 포인트:"
-	2289051149DE4D53743C648A3BB9E7F3 = "사용가능한 퍽"
+	09C0CB8542CF0A0D60AAC48F877A44C0 = "사용 가능한 퍽 포인트:"
+	2289051149DE4D53743C648A3BB9E7F3 = "사용 가능한 퍽"
 	6ED213DE4BB78447F8511AB44A682443 = "미션 포기"
 	AEFBFF50450937B9A66EC5B2CA738B93 = "시간이 다 되어 간다!"
 	56FA9DFE4D983C17EC66EB857A27401F = "접근 가능해짐!"
@@ -154,7 +157,7 @@ Namespace Global (3372 keys)
 	C2DDE6E545531F830458ED9178FBDAE8 = "외계 식물"
 	A059914040CB4EBF3E0D898E6927B0AB = "외계인 화석"
 	260C17EC484FDE2F69281FBF8ED5016C = "외계인 자식들!"
-	03229574442F90EC8E655EB63912D030 = "모든 MULE들을 확보했다! 이제 포드가 작동할거야. 먼저: 포드와 스페이스 리그를 연결시켜야해. 업링크를 설치하게!"
+	03229574442F90EC8E655EB63912D030 = "모든 MULE들을 확보했다! 이제 포드가 작동할 거야. 먼저: 포드와 스페이스 리그를 연결시켜야 해. 업링크를 설치하게!"
 	A35A2D1A427A4C3B2271BE8F1E5339DA = "모든 미니MULE들이 작동한다, 잘 했네. 준비가 됬으면 제일 첫번째 MULE의 버튼을 눌러 복귀하도록 하게."
 	60DF9F1A4D00D0960320E1BDF1622767 = "모든 알이 수집됬어! 경영진이 고마워 할 걸세. 탈출 포드 버튼 활성화!"
 	B21830B545E9D42F5CC74B8511127994 = "하루 종일 일하지."
@@ -294,10 +297,8 @@ Namespace Global (3372 keys)
 	DD1C700F412419804EC3AEBAEBB0C377 = "비터 젬 보조 임무 완료"
 	6E54EEC64A9558CBF2A1F99898181151 = "비터젬"
 	7A15A43745D793BD41B7BD84A4DCE600 = "비터젬"
-	7F8DFEAF45711632640DCD98308B9DA6 = "검은색"
 	97FAB2914114DD91902C69842C238F83 = "블립 블룹"
 	6A29790B42641C808C3979B2786C96DE = "Blitz, Ctop, Stumpt crew, PartiallyRoyal, Yogscast crew, Gray Still Plays, Galm, Dr_Horse, Rimas, Lirik, Koala, МИР MMO ИГР, Deluks gaming, PietSmiet crew, Draegast, Lega Play, Fox, BaronVonLetsPlay, Jacemachine Gaming, 1Tater, JaR Dev, Criken, NitroLukeDX, Starsnipe, KarmakutPlays, Shibby, GameKnight, and many more..."
-	8F2408774041F6FF0EC5149796D29F52 = "금발"
 	AEA0D3EB46EB709B635BD2BBD96D34E6 = "빌어먹을, 죽이기 힘들구만!"
 	44A9485743DCAA32182B3AA9D8F68179 = "청색 수정"
 	9DB339DA4EF3DB520AC831B94049DC86 = "청색 수정"
@@ -330,8 +331,6 @@ Namespace Global (3372 keys)
 	2B9EAE3540CF9B0CDD1C9CA12E94D008 = "고통을 주마!"
 	F0F53AE9430AD821982800B6448D0DDA = "부서짐"
 	07277FBF4DF2B427A6D567AB995BBE3B = "브루드 넥서스다! 당장 없애버려!"
-	66F10DCB4A114619E70597807D10A98F = "갈색"
-	A5A646614A3449D4B7DD438CFA8C5C49 = "갈색"
 	FFCB3B4C40B088EA1251F7A021BDB763 = "갈색"
 	C4F7AEE9491C9A1ABB4B9B8896CCBE10 = "벌레 폭탄이 오는 중이다!"
 	250D0036441F2417F49FA98008F5ACE3 = "벌레 폭탄을 요청했다!"
@@ -376,6 +375,7 @@ Namespace Global (3372 keys)
 	5D93296A4C6C220EA9F862A8C6BB7C76 = "치트"
 	9FFDAD124B9969657EDCDCB44E626837 = "치트"
 	6F02005F4FB0502AF4B3B79F594D57D1 = "CHEE-TR 69"
+	14F3039C44B0EBD365674BA4A986B4FF = "보상 받기"
 	E930649C4F8945B3445363AC29FBA8EF = "받을 수 있는 퍽 포인트!"
 	AA1B3D24461665D2DE736AB39C4BD728 = "클래스 01"
 	47C96B3F473BD15099CEEA8D9010E031 = "클래스 이름"
@@ -422,6 +422,9 @@ Namespace Global (3372 keys)
 	BB78698E4BB01A1FF3C9FE9EC23DCD08 = "취소"
 	EFCE66A14562B395805873B2374D0ED4 = "취소"
 	FFD222E4444B8BF75B53D4A04CA440CD = "취소"
+	CD632DD94A019AC3011D17877F561796 = "모자 - 다홍색"
+	6646C9194E65D217184CE39025814731 = "모자 - 건 메탈"
+	D5211E1E4EF79EE304DDB38A869D83F8 = "모자 - 유니폼"
 	73B65D21444A0BFB316C25B9FAA33453 = "조심해!"
 	4D2E14AB4BEDEE1D35FCCCA75D6AD0EC = "좀 더 많은 플랫폼을 들고다닐 수 있습니다"
 	8D3EFB56476AB1E9B975EF974EE04D6A = "더 많은 IFG의 운반"
@@ -463,6 +466,8 @@ Namespace Global (3372 keys)
 	EC7C73A0400EAEB5501D12863298DDC5 = "나이트라 덩어리"
 	E94E8AB94E59FCAF5BB9B499682073D1 = "붉은 설탕 덩어리"
 	CCAE4EA549842149659D608F55032565 = "클래스 레벨"
+	B4669ADE429E75AFD9E8A691C914D852 = "클래식 채광 헬멧 - 유니폼"
+	3FE9F273401543C0247490967A0E2FDD = "클래식 채광 헬멧 - 노란색"
 	051100FE440C58990CAA6495C6680DA4 = "클래식"
 	E6091D33453BC448874457AB90A51E39 = "세련된 움직임이야, 대원들. 이제 그만해."
 	4DC19E56415BB0537728FBBE378F9066 = "깨끗한 면도"
@@ -549,7 +554,7 @@ Namespace Global (3372 keys)
 	C4B4027E48CE250CA66B3FA40158E267 = "사막화 지대에서 {value} 번 임무를 완료하세요"
 	2939AF8C40B48D069EF1AEB4DC854E51 = "소금 구덩이에서 {value} 번 임무를 완료하세요"
 	C4B1BAF74198A3B6CE0054BC7405B0AA = "지점 추출을 {value} 번 완수하세요."
-	9686B8AF4DCD315B259FD399322EEB9B = "구조 활동를 {value} 번 완료하세요"
+	9686B8AF4DCD315B259FD399322EEB9B = "Complete {value} Salvage Operations"
 	EB1B8A3542443FF3561615B2AB486FFE = "탐사 및 추출 임무를 {value} 번 완료하세요"
 	55D0A66F44FCB63A9805AC859C63B095 = "보조목표를 {value} 번 완료하세요"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "복잡성"
@@ -592,6 +597,8 @@ Namespace Global (3372 keys)
 	36D950354B55C7A663AC29A576FD5A04 = "좀 도와달라고, 굼벵이들아!"
 	19EEB58843D5EA78C02C928628A3CD21 = "서두르세요! 곧 떠납니다!"
 	00F7658844723AD3AF0A93971355B290 = "컨트리 음악"
+	C90F75D747C3425F61E429BB069EC118 = "카우보이 - 갈색"
+	148F355245C6E7365A924889C00AA391 = "카우보이- 흰색"
 	1222990C4DA13F9D555CAA9841BB2986 = "제작 광물"
 	27BC616B497CD00B577A44875CFB1A5D = "제작용 광물"
 	2CF3525C465EAD27E09E6DADD8E4F2A0 = "제작 재료"
@@ -917,7 +924,7 @@ Namespace Global (3372 keys)
 	6B380AC14868B3F08D94A2B9E528804A = "가연성 연료 용량 확장"
 	39B26B4F4EDE4FB0D90C42AC3279C05D = "숙련된 광부"
 	681E17EC419E79B751DE9EB5EAEED76E = "숙련된 광부"
-	8DAAA1AD439C5BDFBCAF559799F1B719 = "Expert bucket handling! You now deposit valuables into the MULE and Drop Pod {value}% faster!"
+	8DAAA1AD439C5BDFBCAF559799F1B719 = "숙련된 버킷 핸들링! 이제 MULE 이나 강하포드에 자원을 {value}% 빠르게 담을 수 있습니다!"
 	7B29805243CBBBF28CB75C93F1AC17B8 = "익스플로더 우글거림!"
 	2760B4D24420248535423580CAF28CB6 = "폭발성 식물"
 	6300ABC04493A303425600A49902DD69 = "폭발성 포자"
@@ -1028,8 +1035,9 @@ Namespace Global (3372 keys)
 	6060CC4C40509E819FF0D0902DAF0203 = "전술 엔지니어용"
 	83BD5CD345EA58F8DC8DC99BE8EDBD4E = "전술 사격 전용"
 	FCBF5A8045796B4A5E690DA961AE62C6 = "전술 사격 전용"
+	69E800E7423BFFD58AEBB590F614D287 = "전문가를 위한 모자입니다. 당신이 현재 착용한 갑옷과 딱 맞아 떨어집니다."
 	E3C6602E42CC055B2C40879C6F9F08B8 = "그들은 미디움 레어를 선호합니다. 화염 피해량이 절반으로 줄어듭니다."
-	0B78F5004D92D132A1395FB917D75B76 = "쾌활한 성격을 가진 분들께."
+	0B78F5004D92D132A1395FB917D75B76 = "쾌활한 성격 소유자를 위한 눈썹"
 	95383B994E0AA5338AA1B8A3173C11A2 = "포스 베리어"
 	015A05994C4643A09E7188AF1F882C16 = "방어 준비 완료!"
 	27FF47184B204C9CC680D1811608D6A6 = "요새화가 완료됐다!"
@@ -1057,6 +1065,7 @@ Namespace Global (3372 keys)
 	CE0DDF1640BB88B1626A2BA9B77135B3 = "이런 개 같은..."
 	D070BB0C49C0ADF5413AA6877359EAF3 = "빌어먹을... 끼였어!"
 	6B0946B64400BB6CE91EF9A18135E076 = "연료"
+	141804E64B37EEE1D95F2B9B24A5DEF6 = "Fuel Cell Beacon"
 	E33854534FC73C19489446813DB29A84 = "연료 셀 충전에 실패했어! 미션 실패야 - 이것도 손실했군. 안 됬네, 제군들 - 통신 종료."
 	2F3BE3144492FA9E3A22E984BC8C206F = "연료 셀"
 	49B602F4412D549FAE5A5E9705A14D8B = "연료 셀 충전율 50%."
@@ -1170,6 +1179,10 @@ Namespace Global (3372 keys)
 	565D1F3A4BC1A02D6BB0E9AFAFE7900E = "이런 젠장! 내 부츠에 돌 들어갔어!"
 	A927F8DD4CE88020A8BA7AA689C6C8BB = "이 지랄맞은 드릴들!"
 	903E652A47B53E000CB723AFE3406276 = "이런 젠장! 내 부츠에 돌이 들어갔어!"
+	C6E483DF458A8B5C765226BC68E30C23 = "고글 캡 - 다홍색"
+	BD70C5844ABAE195EBA72FBA8CCAECC0 = "고글 캡 - 건 메탈"
+	77D2BF894C36924844A69389032EF6C3 = "고글 캡 - 유니폼"
+	C7F2EB604DF51B55C9D31CAD86E7AA82 = "고글 캡 - 유니폼"
 	3F111D874641518A2A882EB2D152AD41 = "황금색"
 	56671311400A9E14B7140D9C9156CB18 = "금"
 	6D57E17B4CD5E4B2C26881B0A3CDD0EF = "금"
@@ -1491,7 +1504,8 @@ Namespace Global (3372 keys)
 	DEABAB9846F5AD6CFF5E0D831D40CA8B = "향상된 보호막 생성기"
 	E256602442BE3551CF22E18F15039BCC = "향상된 보호막 생성기"
 	E8EBB0104790318338456D81EF37B8D5 = "향상된 보호막 생성기"
-	075D59304D4A871CE33297A70D614FAC = "비활성상태"
+	CC6FF564484E9BD89B405B9CE08DA411 = "모터헤드에 영광을."
+	075D59304D4A871CE33297A70D614FAC = "비활성 상태"
 	4DA0B11345F109DD53883E99D5F49000 = "온다!"
 	68C7E9E14BAA5165E29BCF90BF3E033D = "몰려온다! 보이는 데로 처리해버려!"
 	856AD218490E543BD1858FBB55E5C7AF = "적에게 주는 피해량 증가"
@@ -1513,6 +1527,7 @@ Namespace Global (3372 keys)
 	D6C7F4E84ECA96758E570C821E55BACA = "정보"
 	7E0755F9425217DABC8E6AB89B2656AC = "내부 데드존"
 	529E36954564FA15CC26859581A40BB0 = "강도"
+	BEB252BF48876693928A6FA0F25C7825 = "갑옷과 겹치면 별로입니다"
 	AC5F6CAE40889C9B9A26B6BEDA9FBD6C = "인벤토리가 가득 찼어! 담아넣을 시간이다!"
 	474050FA4C8363D4E328E3940715473E = "소지품이 가득찼음!"
 	549DCB514222A9B331D617A239F479F3 = "소지품이 가득찼음!"
@@ -1664,7 +1679,7 @@ Namespace Global (3372 keys)
 	7FE90EAE4294CF757209CCA6589EB86C = "드워프는 두고가지 않는다!"
 	C9C0A1E446F613C438AD3E8A31AB20EC = "드워프는 두고가지 않는다!"
 	B8C49DC048E92007CAEA1B85A730755B = "드워프는 두고가지 않는다! 팀원을 {float_value}% 더 빠르게 부활시킵니다!"
-	0045F2204008368E8777748223ACE0FB = "뒤에 두고오지 마세요! 각각의 미네랄 파우치는 귀중품들을 +{value} 만큼 더 들고다닐 수 있게 해줍니다!"
+	0045F2204008368E8777748223ACE0FB = "뒤에 두고 오지 마세요! 각각의 미네랄 파우치는 귀중품들을 +{value} 만큼 더 들고 다닐 수 있게 해줍니다!"
 	49EBBFE84FACD8496D2BA3A96C103A29 = "통들좀 그냥 놔둬."
 	D5092FFE4F4418740F35D59819FED676 = "궤도에서 떠나고 있다!"
 	DC0E9DB3448A9C8BD852498C6FA9D138 = "왼쪽"
@@ -1925,7 +1940,7 @@ Namespace Global (3372 keys)
 	7CCBAD3442225360D935F3A4271837AF = "채굴 원정"
 	FBE9BF614BF41D00F681DD93CFA4E25A = "채광 원정 완료"
 	9B6006C44FC0D4CA60085CA1516F2D85 = "임무 통제실"
-	009AEC2C4D9A417BE69EF4B6376CBCC6 = "미션이 선택됬네 - 강하 포드를 작동시키는중 - 어서 탑승하게 제군들!"
+	009AEC2C4D9A417BE69EF4B6376CBCC6 = "미션이 선택됐네 - 강하 포드를 작동시키는 중 - 어서 탑승하게 제군들!"
 	06527C344A30B6777AC76591AC9D50CA = "미션 통계"
 	0F5DEE5E4760C31F00CA03B68EBA6C1C = "임무 시간"
 	87ED4E2C4334C3C6D6D835BE1FEFF8C0 = "임무 성공. 감독관이 보너스에 대해 언급하더군."
@@ -2017,7 +2032,7 @@ Namespace Global (3372 keys)
 	7C329A744272AB6C38C2E6842B58CF08 = "만나서 반가워!"
 	6ACE357044DB55A060B4A9B413C44208 = "만나서 반가워!"
 	250AE178416AF1CDC56D3D85447C1876 = "좋은 노래구먼!"
-	25D5653141CE17E8E2A0BBA575081EB6 = "잘 했네, 제군들. 자네들은 방금 막 좋은 보너스를 확보했어!"
+	25D5653141CE17E8E2A0BBA575081EB6 = "잘했네, 제군들. 자네들은 방금 막 좋은 보너스를 확보했어!"
 	18685CF04FA97AB7BCEEEE9F775B4F6A = "나이트라"
 	7D6D504A4ED99AB7C3A32DB8F9BCDC2B = "나이트라"
 	B63AAE8C418C838D27FDD1964481155E = "나이트라"
@@ -2134,8 +2149,8 @@ Namespace Global (3372 keys)
 	C14CAB954E08712A30221B89EC6FE418 = "또는 긴 콧수염"
 	F86218CA49020579C59905A17D3B15D5 = "아니면 긴 콧수염"
 	ADFF456B4D799F9902FC8889FEC0645F = "주황 모자"
-	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "궤도 통신 중계기"
 	70017F3D4A98135051919DBDEB74E414 = "궤도 진입 시퀸스 작동. 강하 포드에 탑승하도록."
+	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Orbital Relay"
 	E188CD9A4447D90B16A773B3578B3A16 = "보급 요청"
 	BCF3BEB34D63AE4315D8BAA3AF3F6317 = "경영진으로부터의 명령: 그만 춤추고 일하러 가라!"
 	3F74F79440BF376C9471EEBC88675AF5 = "으악! 조심해"
@@ -2265,12 +2280,12 @@ Namespace Global (3372 keys)
 	FBBCB5DB4DF9798AE436D58EDA493BCD = "제발 발사대 안쪽으로 통을 걷어차지 말도록...통들과 발사 추진기는 섞이지 않는다고."
 	3F525399400D9728F52BBA976E6EEE5D = "제발 측량구역으로 다시 돌아와! 우린 자네의 신호를 완전히 놓칠위험이 있다고!"
 	A2009283480B5F53FAD6EC83E72E8CA6 = "그 통들이 "즐거운 시간"을 보내도록 내버려 두면, 더 나은 선택권이 생길거야."
-	1CB75EE6416B7F8686660C930A229145 = "정숙하고, 존경심을 표해주게."
+	1CB75EE6416B7F8686660C930A229145 = "정숙하고, 존경심을 표해주세요."
 	839C93D647EF36AFF6B71FB403C3815E = "부탁이야! 날 구해줘!"
 	C4E20D2142F8751DF7FA3B96D7E6CABA = "제발, 쏴!"
 	BEFC562F4C579DC8D8FB1896EDC4F70D = "포드 부품"
 	FD6CB61D4A26AE64067247B5B620C85F = "포드 부품"
-	25FE25B4498CAE986606F3BB218F9C5C = "포드 추진기 교정완료."
+	25FE25B4498CAE986606F3BB218F9C5C = "포드 추진기 교정 완료."
 	C6667F6D4065926C816DF6B80F020999 = "포드 리액터 가속 중."
 	4EEB6F2F41383E0F3E29D685EB0D6486 = "포인트 추출"
 	EFB12A51427313B62214BF88805E484E = "지점 추출 완료"
@@ -2388,6 +2403,7 @@ Namespace Global (3372 keys)
 	A1ADFF224E33F4775824659859E69A4E = "붉은 설탕!"
 	C82B6B104F4886D99ACEB0AE75CDEBB3 = "붉은 설탕!"
 	E20D2459498C4EF3D1C624BDD7AF0B09 = "붉은 설탕!"
+	83E2EA684FD79938D13434939A276900 = "좀 있어보이는 냄새를 풍깁니다. 아님 돈냄새던가, 둘 중 하나겠죠, 정말루요."
 	761586C14EE3CCA7F69712804CE964F2 = "세련된"
 	658A88894E440EAF00ED27984B2CF92D = "강하포드를 재급유 하시오."
 	1A7B393E49A9999B686572BF9CDE4B1D = "지역"
@@ -2619,7 +2635,6 @@ Namespace Global (3372 keys)
 	BC256A7247EB7FC6A1D92CB315D9B94D = "날카로운 날"
 	FD7DFDF244DAEB062B6D5881B5738DD4 = "날카로운 날"
 	512BDAB74153C22C34CC8897AB9105FF = "쉬이잇! 자네 정말 시끄럽다고! 경의를 좀 보여봐!"
-	DEF0FF9B478A09647244E7BEAFBDAD05 = "쉴드 장애"
 	F1BF5871430CA8260C6FBBB8A1A18DF7 = "충격 흡수제"
 	57C3E1E64F6623F0C02B4F9786399CE0 = "엉덩이에 쏴버려!"
 	3EE85E944974D508D0BB2CB7DC8A3ECF = "쏴!"
@@ -2675,10 +2690,13 @@ Namespace Global (3372 keys)
 	4F2BF5734C419FDD4EA78D830D307596 = "눈부시군!"
 	7F13BCE74172807F5686CBBA266F46EA = "만약에 말이야.. 내가 진짜로..큰..총...을 좋아한다면?"
 	2FFAB60F4FF61BA6946293977866F47E = "혼자 플레이"
+	B40221884B79B44599A279908B225246 = "칙칙하며 위협적입니다."
 	1021949A4CAB2EFA1E93C396A211BF8D = "그냥 갑옷."
 	3DF7821D4FF6FBBF4BBC4AB0FC340E56 = "그냥 갑옷."
 	9BBAAD4944C83167DDC63DAA824088D4 = "그냥 갑옷."
 	B6FE68D24ADC220DAB64E0825CDAE143 = "그냥 갑옷."
+	1FB3123D451B74CB69B80295F36DBB2F = "몇몇 모델들은 유행에 뒤떨어지지 않죠."
+	56F6346849C3E221A8E540B2A590E7F8 = "몇몇 모델들은 유행에 뒤떨어지지 않죠. 당신의 갑옷에 딱 맞게 멋을 냈습니다."
 	E5CB2FC143C4DA459B85058A081298B2 = "누가 좀! 도와줘!"
 	946258A048D09051C286F296447045BA = "누가 날 좀 치료해줘!"
 	02D9A33C419F1C33C445B19209F4F7A6 = "무언가 거대한 것이 다가오고 있습니다! 최악의 상황에 대비하세요!"
@@ -2758,6 +2776,10 @@ Namespace Global (3372 keys)
 	1B8395E5452CDDC4D27EE3A70A790E58 = "더 강한 폭발이 더 많은 피해를 입힙니다."
 	774B8BAF416E053F8A1F2CA1DF938738 = "더 강한 폭발은 더 많은 피해를 입힙니다."
 	950A42504F9FA4B21E07E682B097AD10 = "더 강한 폭발은 더 많은 피해를 입힙니다."
+	CBE206D2480E91C55707AD994A61C0B3 = "세련되고 실용적입니다!"
+	D5AD36B446716E5D1B853C9E40088B91 = "세련되고 실용적입니다!"
+	250E337E407CE7A1D195679E6B89485C = "세련되고 실용적입니다! 당신의 갑옷에 딱 맞게 멋을 냈습니다."
+	DB489643455D07AB6E6166A56F047998 = "세련되고 실용적입니다! 당신의 갑옷에 딱 맞게 멋을 냈습니다."
 	28413C4845CD958B3E52AD92FE55CEFE = "스바타 120"
 	C086D4174E9B15BF0A19F48247CD8DB8 = "자막"
 	88E79D4D44DC163227E537BBBBB740C8 = "이거나 쳐 먹어라 이 괴물아!"
@@ -2765,7 +2787,6 @@ Namespace Global (3372 keys)
 	D755FD5748AAC914FDEB49B6EFE241C1 = "슈퍼 샷건"
 	BB27929A46D5EBFCE76041BEAE725B22 = "우월한 드워프 공학 기술로 당신은 총에 더 많은 총알들을 집어 넣을 수 있습니다!"
 	5C21530C4D54C67AD029EAAA237EE6D6 = "보급품 이동중!"
-	141804E64B37EEE1D95F2B9B24A5DEF6 = "보급품 낙하 지점 신호기"
 	940F632343E7EFE3D74180BF5EBAA632 = "보급품 낙하 지점 신호기"
 	6159899D4805477F3F13BE9CDFC1CE89 = "보급 포드"
 	DBF0167142059A32A9FAE5A7929E5605 = "보급 포드 발사. 물러나있는게 좋을거야."
@@ -2884,7 +2905,9 @@ Namespace Global (3372 keys)
 	1FB765A04A059C834342A0994DBA7CD3 = "역사에 길이 남을만했어. 탈출포드 작동중."
 	E1028B084D2C597E780D7EBC5118532B = "그거 괜찮네!"
 	B2FE821E42715E564A92A6883F9CE4E0 = "그건 달구만!"
+	CD3FEF7749F7C8D936D3A9A7A21FA125 = "에이스 오브 스페이드"
 	D255EA4C42B9E62BC8F87BBFF5C76078 = "프랭클린"
+	4FAE351F4602CE885CBE208EC0EC93F6 = "게임키퍼"
 	A9FBA82448D1116F16FCAE86F9852888 = "IFG (Inhibitor Field Generator) 는 R & D에서 선량한 사람들을 위한 최신 발명품 중 하나입니다. 이 나쁜 소년 중 한 명을 버그 무리로 던져서 그들이 천천히 내려가는 것을 지켜보십시오."
 	49B9AE6C44B820C39293DCAFCEBD2AD8 = "M.U.L.E는 자동적으로 당신을 따라옵니다만, 언제든지 호출 할 수 있습니다."
 	7FF850FB48160411363934B3A419B674 = "MULE이 성공적으로 돌아왔다. 서두르라고 대원들! 강하 포드는 영원히 기다려주지 않을테니 말이야!"
@@ -2952,6 +2975,7 @@ Namespace Global (3372 keys)
 	2AEE06DE4E691ACFD84C3CA4DFD180FB = "오팔이 여기에 있다!"
 	CA5837BE41D42E5AB872CC87497A11B1 = "여기에 붉은 설탕이 있어!"
 	2041A0AB4877FDF92C37C1B941B37F7D = "날 빼놓고 가버렸잖아! 젠장할!"
+	512580C5499DFD5975A2349934E74136 = "두껍게 꼰머리 [게임 내에서 사용하지 말 것]"
 	188C3FDA44C517C18AE858AEFEE2E4ED = "짙고 당당합니다, 엄마처럼요."
 	E387C256456FAB1EC3D8B8B7D79798BE = "짙고 당당합니다, 엄마처럼요."
 	F888E15D47CBE5701DA59685E394964D = "숱이 적고, 교양있으며, 전혀 엘프스럽지 않죠."
@@ -2961,7 +2985,7 @@ Namespace Global (3372 keys)
 	BDA0F55942248C6490A98996CFC3364E = "네가 날 죽일수 있을거라 생각하나? 다시 생각해보라고!"
 	8ABC4BF842A91F992EF30DBEF35D0917 = "이 지역은 아직 공사중이야. 돌아가게!"
 	330EEDAF4B116692F400669C524E287D = "이건 아무 가치 없어!"
-	1B87B67242F26197BDABE7830ECF0C34 = "이건 구조미션일세! 이전에 왔었던 승무원들은 이 동굴에서 그들의 목숨과, 미니MULE들, 강하포드를 잃어버렸지. 잃어버린 MULE들을 찾아 수리하게, 강하포드를 다시 작동시키고, 기지로 돌아와. 많은 외계인들이 있을것으로 예상되네 - 그리고 이전 동료들처럼 망쳐버리지 않도록 하게!"
+	1B87B67242F26197BDABE7830ECF0C34 = "이건 구조미션일세! 이전에 왔었던 승무원들은 이 동굴에서 그들의 목숨과 미니 MULE들, 강하 포드를 잃어버렸지. 잃어버린 MULE들을 찾아 수리하게, 강하 포드를 다시 작동시키고, 기지로 돌아와. 많은 외계인이 있을 것으로 예상하네 - 그리고 이전 동료들처럼 망쳐버리지 않도록 하게!"
 	46D9EBF44D7383B4440A9BA6AF8393E4 = "큰 놈입니다! "
 	7D83E1E1444AF37A5FCEECA8402D4C18 = "이건 빌어쳐먹을 지옥구덩이야."
 	D0DE4BA24A4879FE5F74F4A65E2C4B1F = "이것은 적대적입니다!"
@@ -3050,7 +3074,8 @@ Namespace Global (3372 keys)
 	AB0FB7094A1866388416969422C6FACC = "측량 75% 완료. 거의 다 했어!"
 	03E6DCBF4EFF2F19BB08068D40943794 = "방아쇠 조심해, 이 고래 나발아!"
 	DC4D296640D9AA783BD7E680AE35B9C0 = "검지손가락이 다시 근질거려졌어."
-	FE02342344B5D480F674B895167798B4 = "Tripple XP"
+	4BFDA85F4F8B9868841155853483486D = "Triple XP"
+	FE02342344B5D480F674B895167798B4 = "Triple XP"
 	2869C6C145037D634D8A2CAD9E3F54FF = "트리튬이다!"
 	E71CAE244D36CF328031A4A673BA29E5 = "Troels Jørgensen"
 	759684F94A9472D40FEEEA82628E4077 = "종양 성장"
@@ -3117,7 +3142,7 @@ Namespace Global (3372 keys)
 	6F5068A6474C5D715F4F1F94C4C993F3 = "북극 맨틀 상부"
 	AC0BABF34AF87018789FC78473493A24 = "북극 맨틀 상부"
 	DCFBD7324089FC4A26DAED8105688BB3 = "북극 맨틀 상부"
-	D315C7C14917395ED589B781567382EF = "Uppon reviving someone, all nearby enemies will flee!"
+	D315C7C14917395ED589B781567382EF = "아군을 부활시키는중, 주변에 있는 모든 적들이 달아납니다!"
 	7032AA244E5FD6DEE82BE593FC832250 = "사용"
 	6729CACF42E17C12296F878DD984D493 = "[lefttrigger]/[righttrigger] 을(를) 사용하여 확대 / 축소"
 	C085461244F2C49164869FA158CF0CE4 = "[mousewheel] 을(를) 사용하여 확대 / 축소"
@@ -3200,7 +3225,7 @@ ROCK & STONE!"
 	F2D5EF2A41E8AE388ECD67A15E3786E0 = "우리는 여길 탐사해야 해!"
 	47178EEA4E6605A5A1CDFE8B5C7FEB5B = "레이더에 글리피드 드레드노트 포착! 매우 빠르게 접근 중!"
 	D31337B2482663381E5599914CC50640 = "레이더에 글리피드 드레드노트 포착! 매우 빠르게 접근중!"
-	1A20AB4D47A72448274AF49453E1ECB9 = "스캐너에서 진동이 감지됬네! 큰 놈인거 같은데! 준비하는게 좋을거야! "
+	1A20AB4D47A72448274AF49453E1ECB9 = "스캐너에서 진동이 감지됐네! 큰 놈인 것 같은데! 준비하는 게 좋을 거야! "
 	7901F74D493F5C1E01B3A0A5CFECA68E = "너무 가까이왔어! 제길!"
 	B984190E4E8E8B10C3136F88EB20C27D = "너무 가까이왔다고! 망할!"
 	519B7A83478ED16C42ADAAA0F0C481C1 = "우린 망했다고!"
@@ -3274,7 +3299,6 @@ ROCK & STONE!"
 	34DDF20A495D61EFE737CC82F5BB11DD = "잘못된 암호"
 	6C68CD074F43A80D4601169F005F13FB = "XP 획득량:"
 	DB37AE6549921FCBA0AF8CA1B7B77100 = "XP:"
-	4BFDA85F4F8B9868841155853483486D = "XPx3"
 	9E75409545EBE3EC3B5BC3A01E004F60 = "XX:XX"
 	033A71EB409CEECD2D754AAC20E5C885 = "Xbox club 가입완료!"
 	200CDB03454FBFB06EEB4FA87041E671 = "이형 버섯"
@@ -3493,7 +3517,7 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "임무 완료, 이제 M.U.L.E. 에서 강하 포드를 호출할 수 있네."
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "임무 완료, 이제 M.U.L.E. 에서 채굴 포드를 호출할 수 있네."
 
-Namespace PatchNotes (18 keys)
+Namespace PatchNotes (21 keys)
 	Update_11_ShortTitle = "데드 앤 건"
 	Update_9_ShortTitle = "드릴 넌 나중에!"
 	Update_14_ShortTitle = "FEATURE CREEP"
@@ -3588,6 +3612,109 @@ Co-op 세션
 - 미션이 끝날 때 늦은 참가로 충돌하는 현상 수정
 - Fixed: 로딩하는 동안 힌트 텍스트를 더 이상 편집할 수 없도록 했습니다
 - 지형 변화가 맵 툴에 올바르게 업데이트 안되는 현상 수정
+"
+	Update_15 = "Hello Miners! 
+Before we head out for a couple of weeks of sorely needed summer vacation, we have cooked up a lovely little mutation to the game for you all!
+
+--- PATCH NOTES ---
+
+MUTATOR SYSTEM
+----------------------------
+From now on, all missions have a chance to appear with Mutators attached to them. They come in two variants: Warnings and Anomalies. Anomalies are neutral or even positive, while Warnings will severely increase the danger you’ll face. Missions with Warnings on them also add a substantial Hazard Bonus to the final score. Look on the mission map for the new Warning and Anomaly icons!
+
+The following Warnings and Anomalies are already implemented, and we expect to add lots more in future patches.
+
+WARNINGS:
+
+- EXPLODER INFESTATION: Whatever mutation affects the Glyphid Exploders, this is likely one of the epicenters! Hordes of ‘roided-up, rabid Glyphid Exploders will do their best to turn you into a fine red mist.
+
+- SHIELD DISRUPTION: The cave is heavily electrostatically charged. And wouldn’t you know it, it makes your shield generators short out. So...no shields!
+
+- MACTERA PLAGUE: Macteras of all kinds have completely taken over this cave! Flying horror descends from the sky! You could say it’s going to be... Macterrible!
+ 
+- CAVE LEECH CLUSTERS: If you have a phobia of Cave Leeches, this cave will either cure you or confirm your worst fears...
+
+ANOMALIES:
+
+- GOLD RUSH: This cave has extraordinarily rich deposits of gold; huge veins of it just waiting for the sweet caress of your pickaxe!
+ 
+- MINERAL MANIA: Crafting Minerals galore! It is the reason to go to Hoxxes after all.
+
+- TRIPLE XP: 10 credits says you can’t guess what it does...
+
+- LOW GRAVITY: Jump vast chasms! Scale nearly vertical walls! Just keep in mind... fall damage is still a thing, so don’t get TOO cocky...
+
+- CRITICAL WEAKNESS: Multikill! Aim for the weak spots for severely increased damage!
+
+- GOLDEN BUGS: Each kill earns gold for the team!
+
+
+TERRAIN SCANNER - NOW IN 3D!
+----------------------------
+The ol’ flat Terrain Scanner has had an overhaul! The camera is now fully rotatable and zoomable, and you’ll have a much easier time finding where you need to go. Terrain Scanner has been mapped to both [TAB] and [M] by default. Go try it out! 
+
+
+VANITY UPDATES
+----------------------------
+DYE YOUR HAIR OR DIE DYEING!
+For Update 14, we experimented briefly with locking hair colors to classes, to make them stand out more. It turns out the players didn’t enjoy that too much... in fact, we practically feared being strung up like elves! Rejoice, however! Custom hair colors are back, and are even a bit more advanced now!
+
+MORE HEADWEAR ADDED
+A couple of new hairdos have been added (The Franklin and The Gamekeeper), as well as a bunch of much-requested variations to some of the hats and helmets!
+
+TAKE YOUR DWARF FOR A SPIN!
+Ever wondered what your dwarf looks like from behind? Well, you can now rotate your dwarf in all the relevant menus!
+
+Note: For those who wondered where all your armor went after Update 14, it was down to a massive reworking of the system we use for all the Vanity items. All those affected should have gotten all the credits and minerals you spent on them back.
+
+
+BOSCO UPDATES
+----------------------------
+AN EVEN BETTER BOSCO
+Bosco has had a brain upgrade and should now be much better at doing what he’s told and dishing out damage. He is so good that we had to tweak down his damage from 8 to 6 per bullet. His burst fire has also been adjusted to be a bit slower.
+
+RETURN OF THE DRONE
+When starting a multiplayer game solo, Bosco joins you until another player joins. If that player drops out again, Bosco will reappear!
+
+
+SERVER IMPROVEMENTS
+----------------------------
+EASY FRIEND INVITE
+Invite your friends directly into your game! And you don’t even have to have set up a mission yet!
+
+JOIN FRIENDS UNINVITED 
+You can always join your friend’s game - unless they already have a full team that is!
+
+SEE FULL SERVERS
+The Server List didn’t show full servers before - it does now!
+
+
+MISC.
+----------------------------
+REGENERATING HEALTH
+Health will regenerate to a specific minimum after taking massive damage. No more running around with 1 hit point!
+
+MINIGUN UPDATE
+The Minigun has had a massive overhaul, with a snazzy new model, improved animations, and new particles. After firing the Minigun, the accuracy is reduced at a slower rate.
+
+LOOK WHO’S TALKING NOW
+An icon is shown next to a player’s icon when using voice chat.
+
+HUD IT LIKE YOU WANT
+Some aspects of the HUD can now be hidden through the Options. For now, Enemy Health Bars, the Compass, your depth, Player Name, Class, and Class Icon.
+
+SALVAGE OPERATION TWEAKS
+- Uplink and Fuels Cells have gotten new models and animations.
+- Escape Pod powering up time reduced from 120 seconds to 90 seconds.
+
+PERKS, BUFFS, AND NERFS
+- Increased the sprint speed bonus of the Weekend Athlete perk.
+- Rank 3 Field Medic Perk will send nearby Glyphids fleeing when you finish reviving a teammate.
+- Rank 5 Resupplier Perk will auto-reload all your weapons when you resupply.
+- Fixed grammar and typos on several Perks and Milestones.
+- Red Sugar Rocks: Max rank will give you a 20% speed boost for ten secs. 
+
+
 "
 	Update_14 = "안녕하세요 광부여러분! 이번에는 여름 휴가철에 맞춰 여러분을 위해 꽤 방대한 양의 업데이트를 준비했습니다. 여름휴가 하니 생각난건데 - DRG가 바로 방금 여러분들의 여름휴가를 취소했다네요! 새로운 미션과 몬스터들이 기다립니다, 많은 마일스톤도 만나보시죠! 그러니 이제 일하러 가봅시다!
  \r 
@@ -3990,12 +4117,14 @@ BOSCO는 이제부터 부활 횟수 50% 증가
 - 미션에서 처음 생생될때 Ammo와 Clip 크기가 적용되지 않는걸 수정했습니다
 - 아이템 크기를 1인칭으로 변경하여 다른 객체와의 클립 작업을 줄였습니다."
 	Update_13_ShortTitle = "자잘한 생명력 변경들"
+	Update_15_ShortTitle = "MUTATION WARNING!"
 	Update_10_ShortTitle = "야시경?"
 	Update_10_Header = "업데이트 10: 터널 비전? - 16.03.2018"
 	Update_11_Header = "업데이트 11: 데드 앤 건 - 23.03.2018"
 	Update_12_Header = "업데이트 12: FLIES N' FINANCE - 13.04.2018"
 	Update_13_Header = "업데이트 13: 자잘한 생명력 변경들 - 04.05.2018"
 	Update_14_Header = "업데이트 14: FEATURE CREEP - 15.06.2018"
+	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
 	Update_9_Header = "업데이트 9: 또 채굴해요! - 09.03.2018"
 
 Namespace Progression (6 keys)
