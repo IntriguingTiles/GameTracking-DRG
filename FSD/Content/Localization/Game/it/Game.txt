@@ -1,7 +1,7 @@
 21 namespaces
-3497 values
+3529 values
 
-Namespace Global (4302 keys)
+Namespace Global (4337 keys)
 	2559D78C40005E5221F26093CB976283 = " Raccogliere {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Sono caduto!"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESSARIO"
@@ -10,7 +10,7 @@ Namespace Global (4302 keys)
 	83952EF040308BB9B237FDA3FA104D7D = "" Un Nano vede più distante dalle spalle di un Gigante!""
 	BED491E44D13CCC24A1BC9973DBCFB71 = ""Dati aggregati" significa che tutte le metriche e i dati che raccogliamo saranno raggruppati\ninsieme a tutti gli altri dati raccolti su una specifica funzione o argomento.\nQuesto significa che questi dati non contengono alcun tipo di traccia da parte dell'utente\nche ha fornito detti dati.\n\nQuesto tipo di informazioni aggregate ci consentirà di capire\nmeglio e di avere una visione generale di come i giocatori si divertono con il nostro gioco e ci aiuta a renderlo\npiù divertente.\n\nTutti i dati raccolti attraverso questo metodo sono gestiti tramite StatHat con\ncompleto anonimato. Questi dati non verranno mai condivisi con terze parti."
 	4F6A260D44BFC3B210BB2B8CEA3B3B19 = ""Ha, va' a farti bollire la testa, tutt'e due.""
-	6AEFCD0941308D95C5CA318E0EC0E0C2 = ""And I heard a voice in the midst of the four beasts. And I looked, and behold a pale horse. And his name that sat on him was death, and hell followed with him.""
+	6AEFCD0941308D95C5CA318E0EC0E0C2 = ""E udii una voce in mezzo alle quattro bestie. Guardai, ed ecco un cavallo pallido. Il suo nome era "morte", e l'inferno lo seguì.""
 	8C87047441AC945EE4863CACDEBC3695 = ""Dati anonimi" significa che raccogliamo informazioni sulle tue sessioni di gioco ma non le collegheremo insieme attraverso alcun tipo di identificazione. 
 
 Questo tipo di informazioni aggregate ci permetterà di capire meglio e in una visione ampia come i giocatori si divertono con il nostro gioco e ci aiuta a renderlo più divertente. 
@@ -54,8 +54,14 @@ Durante la raccolta dei dati, rendiamo anonimo il tuo IP e disponiamo solo di un
 	1B315FD042F69E6FEFF72BA7F39D5C01 = "* Devono essere risolti tutti i conti con DRG prima del pensionamento. Questo copre vitto, alloggio, usura delle attrezzature e qualsiasi conto che tu abbia accumulato nel bar. DRG, dopotutto, non è un ente di beneficenza."
 	9AAEE08740108161885DFAB73E240B7A = "*Yawn*... Avrei bisogno di una bella dormita!"
 	99914C684BA996CF46904B80B866DFD5 = "+ 1 SLOT ABILITA' BONUS"
-	743B701443B2E95407A48793DB5D43DB = "+ Driller Retirement Option"
+	9E48C15043BBDBD7AD465B9A8621B44A = "+ Tutte le regioni planetarie sbloccate
++ Tutti i tipi di missione sbloccati
++ Tutte le difficoltà sbloccate"
+	743B701443B2E95407A48793DB5D43DB = "+ Opzione di Pensionamento per il Trivellatore"
+	70E89AD543F7A4B249C79A8C7D7AB23E = "+ Opzione di Pensionamento per l'Ingegnere"
+	66A0823447C3CB00940092A9CB213262 = "+ Opzione di Pensionamento per l'Artigliere"
 	60E15BAC41DCC919F2E12EB2EFF2AC7D = "+ AUMENTA IL RANGO GIOCATORE FACENDO SALIRE DI LIVELLO IL PERSONAGGIO UN'ALTRA VOLTA"
+	D028C3274772ABACFCB8F39BF1D2362E = "+ Opzione di Pensionamento per l'Esploratore"
 	80F011474601EE73C5B127B1CE7438D4 = "+15 MORKITE"
 	757542D044AE5468809922ADDD77C794 = "+20%"
 	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
@@ -92,11 +98,13 @@ Durante la raccolta dei dati, rendiamo anonimo il tuo IP e disponiamo solo di un
 	F43D2D88431C48E65D1E41A2D999D89A = "0"
 	A77BC014441BF383DCB769A54D647EBC = "00"
 	A8FD7DFD4EB3BD98D2A2F985A9D31668 = "00"
+	B009BD034DBA1052EDF10983836140D6 = "1"
 	BCBBDA65423104563FCC69AD9103A01A = "1 Extra teleferica da dispiegare"
 	76BE588544C152258F727580BED9EAEA = "10"
 	B063C03941EB570D6F2145808469C99D = "10 secondi al decollo."
 	4179865F456241CF9017378456F41753 = "100%"
 	84AF27F14D540C4984879B9634EC0744 = "100%"
+	F466257A4A397856683A34BF83E4CDCA = "101A:"
 	8CB95B314EA5D392B3FA18AB4783D9AC = "10M"
 	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
@@ -104,7 +112,7 @@ Durante la raccolta dei dati, rendiamo anonimo il tuo IP e disponiamo solo di un
 	60664282474CEC26855E92B5B2942BC8 = "192.168.0.2"
 	A6A17BE34F9EDC3124434C809161A714 = "2 storni e un cornacchiaio nidificano lì dentro."
 	99CD26B24BF6817DD1A4978034CA179D = "2.000 proiettili di uranio impoverito...ohh yeah...!"
-	08F2A7304B622C3360EEB2AD3FFF7419 = "20% della morkite estratta"
+	08F2A7304B622C3360EEB2AD3FFF7419 = "20% di Morkite estratta"
 	6B174915406473EC528AE693016036E1 = "Bonus alla velocità di movimento del 20% per 10 secondi dopo aver consumato Zucchero Rosso!"
 	C7962BE54367A88EA7181D8F8D10C1CD = "20M"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
@@ -160,6 +168,8 @@ Durante la raccolta dei dati, rendiamo anonimo il tuo IP e disponiamo solo di un
 	4E7C508047ADD04843661BA95F6CFA40 = "Un giro di Birra Mactera, Per favore!  "
 	576597B04EA7D46FF9D82494EEFD7A08 = "Un giro di Oafs per me e i miei amici qui!"
 	F03E93AD4CD752D828C09F9814300F00 = "Un obiettivo secondario è stato raggiunto. Il Bonus verrà accreditato nei vostri conti una volta completata la missione."
+	816E62B24EDA725C5BD2A9A416F9BFDB = "Una semi-automatica piccola e leggera per nani piccoli e leggeri. Più mortale di quello che sembra."
+	A9B461F2475409DD2878ECA150DF4323 = "Una semi-automatica piccola e leggera per nani piccoli e leggeri. Più mortale di quello che sembra."
 	BD60E51B4D6FF4B88175E4AF1B8800D9 = "Un nucleo solido di magnesio è aggiunto alla fiamma, aumentandone la durata"
 	AA2A27EE494F708441CAEE8E848BA862 = "Una granata a frammentazione standard, eccetto per essere piena di resistente colla industriale che solidifica a contatto con l'aria al posto delle schegge. Prova."
 	73F3774A48A4448BB90A72A2F5FA7B50 = "Una granata a frammentazione altamente esplosiva standard."
@@ -169,7 +179,7 @@ Durante la raccolta dei dati, rendiamo anonimo il tuo IP e disponiamo solo di un
 	F0768F174AC5DB33078B47AC2F17A1EA = "Una armatura costruita da barili rottamati. No sprecare, non voglio!"
 	E37C1031413A95B3452BDA9470E2DF36 = "Un aspetto riflessivo e saggio per il minatore perspicace."
 	A49151A643A9AF1ADD5E22AB35C54812 = "Un tocco di classe. La bevanda di un pensatore. Il "Montagne Rocciose" non ha nulla da dimostrare, eppure lo fa comunque nonostante la sua poca potenza."
-	A7F15AA745B70AFC2E79B3821388FB32 = "A walking command center, the MK3 Heavy Engineer Suit means you'll never lose reception again. It's loaded up with so much top-of-the-line tech most of the eggheads can't even name it all."
+	A7F15AA745B70AFC2E79B3821388FB32 = "Un centro di comando che cammina, la tuta MK3 Pesante per l'Ingegnere non ti farà mai più perdere la ricezione. Ha talmente tanta tecnologia al top della gamma che la maggior parte delle tecnologie non possono neanche essere rivelate dalle teste d'uovo."
 	4564CC6649D4D197405B098920E0B7D8 = "ABBONDANTE"
 	09CD68EF4CCFD3F80C9F438F1A8590B2 = "BAR ABISSALE"
 	3B127B1C41B552DF26505292024E7A48 = "BAR ABISSALE"
@@ -260,7 +270,7 @@ Durante la raccolta dei dati, rendiamo anonimo il tuo IP e disponiamo solo di un
 	E977075D43332C7F328973A1C4FB8212 = "Munizioni:"
 	A13E31724B152BF53958568AC2187067 = "Risorsa di Munizioni"
 	BB83DFD246CD684DB2B382B82BBC198B = "Tra i nostri siti minerari più profondi, le Caverne Magma raggiungono dolcemente i 250-400 gradi e sono opportunamente illuminate dalle viscere fuse e vorticose del pianeta. Vi avvisiamo che non dovete toccare nulla che non sia demandato dagli obiettivi della missione, visto che l'assicurazione dei dipendenti non compre dalle bruciature."
-	53C7FF934C967AA1E572AD8009961203 = "Among the densest suits available in the DRG arsenal, the MK3 Heavy Drill Suit leaves no question as to what you're here for. This suit will withstand a thermonuclear blast, though it HAS been said to slightly susceptible to liquids. Just bear that in mind."
+	53C7FF934C967AA1E572AD8009961203 = "Una tra le tute più dense disponibili nel arsenale di DRG, la Tuta da Trivellazione Pesante MK3 non lascia incognite per quanto riguarda la domanda "cosa ci faccio qui?". Questa tuta può resistere ad un esplosione termonucleare, ma è STATO detto che è leggermente instabile con i liquidi. Solo una cosa da tenere a mente."
 	1918B8AA47D09161A0EB5896D1C6ECC8 = "Tra tutte le viste più spettacolari di Hoxxes, le propriamente dette Caverne di Cristallo sono un vero spettacolo per gli occhi. Giganteschi Cristalli spuntano da ogni superficie, brillano e splendono nell'oscurità. Ahimè, i cristalli più grossi sono inutili silicati, ma ci sono anche abbondanti depositi minerali di valore che punteggiano le caverne."
 	A5294F27463D370F8DD5298C44AF4D16 = "Tra tutte le viste più spettacolari di Hoxxes, le propriamente dette Caverne di Cristallo sono un vero spettacolo per gli occhi. Giganteschi Cristalli spuntano da ogni superficie, brillano e splendono nell'oscurità. Ahimè, i cristalli più grossi sono inutili silicati, ma ci sono anche abbondanti depositi minerali di valore che punteggiano le caverne."
 	29D5FBF2442015B335E7A6AECFA87166 = "Un profilo assolutamente maestoso."
@@ -331,13 +341,14 @@ Durante la raccolta dei dati, rendiamo anonimo il tuo IP e disponiamo solo di un
 	B79C7DAB424898F959F380BC41B00C7D = "Come sali di livello sbloccherai le statue degli Eroi di DRG nella SALA COMMEMORATIVA. Vai là se vuoi avere un momento di calma! "
 	79C0FA194347E7BBC8B6C48BAD090770 = "Chiedi a Twitch"
 	6D7F212549B559D2197C97A65D597ED2 = "Assemblaggio richiesto!"
-	ABDE3BB74428072B8E1C00878B5ED751 = "Assignment"
+	ABDE3BB74428072B8E1C00878B5ED751 = "Incarico"
 	76D6876645E4B0ECF23631BEA63346C7 = "Tabellone degli Incarichi"
 	898C143C4A3237A8BB38C1B4A13498F0 = "Tabellone degli Incarichi"
-	9DB1E50245ECD3FE1FF7D08BA4DE6721 = "Assignment Mission {level} of [##]"
+	9DB1E50245ECD3FE1FF7D08BA4DE6721 = "Assignment Mission {level} of {max}"
 	668ABFEF48EC05534A14B79017E30299 = "Incarico missione completato."
 	19323ED84A8EA8997995DEB5993D9D8A = "Incarico missione completato. Stai facendo un ottimo lavoro."
-	52C91EF941026FEA658ED495FB2CF58B = "Almeno uno dei nostri xenogeologi si è licenziato per rabbia quando è iniziata la ricerca su questa regione. Invece di avere le calotte polari convenzionali, e in violazione di tutte le leggi fisiche che conosciamo, le placche continentali di Hoxxes poggiano su uno strato di ghiaccio permanente lungo diversi kilometri. Come sempre, la Gestione raccomanda un approccio del tipo "non fare domande" quando si tratta delle peculiarità delle sfaccettature di Hoxxes."
+	9696BD334FD18A50445A059F2032519E = "Incarico: "
+	52C91EF941026FEA658ED495FB2CF58B = "Non uno dei nostri xenogeologi si è licenziato per rabbia quando è iniziata la ricerca su questa regione. Invece di avere calotte polari convenzionali, e ignorando tutte le leggi della fisica da noi conosciute, le placche continentali di Hoxxes poggiano su uno strato di ghiaccio permanente lungo diversi kilometri. Come sempre, la Gestione raccomanda di non fare domande."
 	562081CA48E01E51B47280AA0BA37557 = "Almeno uno di voi deve rimanere vicino alle Celle di Carburante in ricarica! Tornate là!"
 	9F357D2545D2BDD76D1A1180E1D86032 = "Attacca Gamba"
 	4065D6574644A3C6767CA6A20FD188F1 = "Attaccato!"
@@ -539,9 +550,9 @@ DI ISTRUZIONI"
 	3F0C9EF54B76216708530B9257D6584F = "MATERIALI RACCOLTI:"
 	409B3B9649E367F18A5734A9603A5582 = "COMBATTIMENTO"
 	CCD5A42B4899395A8E979AAF6192E5A4 = "TRADUZIONI COMMUNITY"
-	C43759C34758D0A2EFFF3E81C874F6F8 = "COMPLETE"
+	C43759C34758D0A2EFFF3E81C874F6F8 = "COMPLETA"
 	7E414F4C4FF198C3F86B93AF103217E7 = "COMPIUTA"
-	13AEF9FE48FED505521872B9A8A90466 = "COMPLETION REWARD"
+	13AEF9FE48FED505521872B9A8A90466 = "RICOMPENSA COMPLETAMENTO"
 	3D6E174142696818ED29D6804471583B = "CONNESSIONE PERSA"
 	401FE2484B056208D64FE898A736C2CB = "CONNESSIONE PERSA"
 	5D07197E454C6A470C7D078C873BF4A1 = "CONNESSIONE PERSA"
@@ -554,7 +565,7 @@ DI ISTRUZIONI"
 	2A3AB4AF4B195DC2665E73A0330FF4B6 = "COSTO"
 	6B3D73874527C184D6F169A93964D324 = "COSTO: 2 CREDITI"
 	0503DC77479E436F6E50DDBA7C86B939 = "COSTO: {cost} {resource}"
-	EA72D0E84A9CF06B5573579F807E8A02 = "CONTO ALLA ROVESCIA PER LA MISSIONE:"
+	EA72D0E84A9CF06B5573579F807E8A02 = "INIZIO MISSIONE FRA:"
 	D2E25C4B4D281078D09B44B99C2F0A8D = "CRDITI GUADAGNATI:"
 	F1632FDA4C5A034E31010BB013C0DFC4 = "CREDITS:"
 	4DA615ED48FF4986039949B0A8527F2B = "Lanciafiamme CRSPR"
@@ -574,7 +585,7 @@ DI ISTRUZIONI"
 	D16EA2474209D53A9B05B3BF99DD5A97 = "Può portare più munizioni"
 	BE34C0F346A824213878F2ADF79F3771 = "Può sparare più colpi prima di essere ricaricata."
 	C49B0168468043C648B7BC831A8E2F07 = "Puoi vedere attraverso il brillio?"
-	7BAF9D2B4818411D661824A25964C62F = "Non puoi Permettertelo"
+	7BAF9D2B4818411D661824A25964C62F = "Punti Insuff."
 	234C91DC4ECA1331302DD8B1616804EC = "Non posso credere a quanto ero verde prima di venire qui..."
 	CBC1182345E6313694B0DFB52B7976E8 = "Non posso trasportarne di più!"
 	FE21EA0942AE111E8B3E339806DA3B0A = "Non posso trasportarne di più!"
@@ -616,6 +627,7 @@ DI ISTRUZIONI"
 	A193E4C34A1D42009A9A518F2571534F = "Personaggi Aumentati di Livello"
 	03AD2FF049808AA2BF3E07A0BB9490BC = "Punto Luce Personaggio"
 	C60CA1D54DAC2E20B2CB77B2C1814477 = "Personaggi"
+	64101BDE4A02F9A16B68B0B453F6F142 = "Carica"
 	AF2CC6F94F6C6F9D41AF638D87563040 = "Chat"
 	E38167994C0C6D16B8700698F9EC7A5E = "Chat"
 	7834A96A41801C0A0A4F98B1F2939ECB = "Barando!"
@@ -716,7 +728,7 @@ DI ISTRUZIONI"
 	C663F89C4B24952F22CC4EA7FB6FA4DE = "Regole aziendali un cazzo!"
 	84B92DFB4FAF94769A5856AC74634B31 = "Bussola"
 	20C8A02940185CDFF614238B717122EA = "Completa la Missione"
-	2D2069BC443941E42DDA6EAB928CEF75 = "Completa la missione in SOLO per sbloccare la possibilità mandare in pensione i personaggi"
+	2D2069BC443941E42DDA6EAB928CEF75 = "Completa missione in SOLITARIA per sbloccare il Pensionamento dei Personaggi"
 	1F9EFFC54DA5C2B3F1202A8EA770E94E = "Completa altre missioni Campagna per sbloccare questa zona planetaria."
 	30E886374D703DA855B11AAB54C3B7D8 = "Completa l'Addestramento"
 	BC046F2B46846F82B0CBF5B5984967D7 = "Completa {value} Pericoli 'Sciame di Sanguisughe di Caverna'"
@@ -726,7 +738,7 @@ DI ISTRUZIONI"
 	684B28EA4DD6E3178D8C2998466BAC30 = "Completa {value} Pericoli 'Nessuno Scudo'"
 	883FD05C44450873201C129F64E97F18 = "Completa {value} Pericoli 'Bengala Volatili'"
 	0FA5EB724E4928BBEF5657A72B574C8F = "Completa {value} Obbiettivi Colleziona Uova Aliene"
-	6DDD9F154D878163FE0243A772EF7946 = "Completa {value} Obbiettivi Colleziona Germogli di Apoca"
+	6DDD9F154D878163FE0243A772EF7946 = "Completa {value} Obiettivi Raccogli Fiori di Apoca"
 	B05D59764DD91F23B20831A678E5F652 = "Completa {value} Obbiettivi Colleziona Gemmaspra"
 	C87C92074888FF9A21E9A28E4BFF556A = "Completa {value} Obiettivi Raccogli Funghi Boolo"
 	9C94EA5F498032458D0DB8B025BF1469 = "Completa {value} Obbiettivi Colleziona Dystrum"
@@ -761,6 +773,15 @@ DI ISTRUZIONI"
 	D6AA4B8B48A8BA2EBE0BDB86B32F9260 = "Confermato! Torretta Automatica in arrivo."
 	0F13C20B4F9083C721219A9CF296A333 = "Confermato! Riflettore in arrivo!"
 	ACF2B0F94601F9E37A15A59DF9D086D5 = "Congratulazioni per esserti iscritto su Deep Rock Galactic, Minatore, e benvenuto a bordo. Sistemati e preparati, poi procedi al terminale di Selezione Missione e scegli la tua prima missione! Non vediamo l'ora di vederti in azione!"
+	0C27B277428B78271C57B087DE23EC01 = "Congratulazioni per aver deciso di iscriverti a Deep Rock Galactic! Nella serie di missioni successive sulla superficie di Hoxxes IV (o sottosuperficie, in realtà), familiarizzerete con le procedure di estrazione della Società e sulla corretta gestione degli strumenti e delle risorse aziendali.
+
+Tieni presente che solo il meglio del meglio entra a far parte di DRG. Il corso ha un tasso di abbandono del 67% e il 74% degli abbandoni è una diretta conseguenza dei decessi dei richiedenti.
+
+Però, non preoccuparti di questi pensieri oscuri ora. Benvenuto in famiglia. Insieme scaveremo per un domani migliore! 
+
+- Saluti, 
+La Gestione"
+	56FC76C0431C03FC46B212988E5BA90B = "Congratulazioni! Ti sei dimostrato un minatore eccezionale. Ti abbiamo dato alcune delle nostre sfide più ardue e sei ancora tutto intero - beh, per la maggior parte. La direzione riconosce i tuoi sforzi e ti ha autorizzato a tutti i livelli di pericolo e a pagamenti maggiorati. Sei fortunato."
 	8E7B19C9435311CCDB1670A1899E87EC = "Congratulazioni! Hai raggiunto il livello più alto possibile che un minatore che lavora per Deep Rock Galactic possà raggiungere! I dirigenti sono disposti a concederti il ​​pensionamento se lo desideri, ma prima dovrai eseguire un ultimo lavoro."
 	5A75018942CBC52A1F65E5AEC1DCECE0 = "Congratulazioni, minatore! Hai adempiuto ai tuoi doveri verso Deep Rock Galactic e sei libero di andare in pensione quando lo desideri. Sii orgoglioso - pochissimi nani vivono abbastanza a lungo da arrivarci."
 	6D02EF2E403E6CDD6ADDEDA968AA4EC8 = "Congratulazioni. Sei riuscito a depositare tutti i barili nel tubo di lancio. Ben fatto, ben fatto. Ora... Potrei convincerti a tornare al lavoro, magari?"
@@ -1185,7 +1206,6 @@ Quando collezioni 4 evidenze il tuo rango giocatore incrementa."
 	4F15107A46521A2C5E256D92A9B43A0E = "FALLITA"
 	864936654EE71E6053BFF5AE32C35575 = "FALLITA"
 	A89160AB46F04F6EA57AFDA18A39E686 = "COMBATTI L'OSCURITÀ"
-	F466257A4A397856683A34BF83E4CDCA = "FILE 101A:"
 	E69DC73E4D91BBCA3E26669E32C58833 = "FASE DI ATTERRAGGIO"
 	A56A849D4B90D3A0666D14B9E66F4132 = "PORTATA
 DI FUOCO"
@@ -1223,6 +1243,7 @@ DI FUOCO"
 	F3281FDD4EB3745F9E23BE84A1D88C44 = "Recinzione su!"
 	4AF2DC904E0D8B1F2BD11F96B0C524EF = "Medico da campo"
 	83E24FD9406A64B55CAD1B9EB150275D = "Campo di Visione"
+	F82A86544F0D5422858FEE895287FD58 = "File {Data}"
 	6EAC0F7748D107D679604BBF49963559 = "Filtro"
 	6E1245814EA1D86534832BB284EE1AFD = "Trova Missione"
 	66A7BD9F4745F011CC23D4982F605BC2 = "Fuoco"
@@ -1257,6 +1278,7 @@ DI FUOCO"
 	A641ECA14EF617F5787B2BB85EEDA8B4 = "Per Karl!"
 	DDA9CEA04A7F45B4025314903C0C5D4E = "Per Karl!"
 	BED775604128F48DCA86438578DD2952 = "Per un look più casuale"
+	6FF712614FDB482D9FE1F6ACE24A1606 = "Per essere una nuova recluta, le tue prestazioni si sono dimostrate più che adeguate - la Gestione crede che tu sia pronto per affrontare un nuovo tipo di missione. La cacce alle uova sono state sbloccate per te sul terminale della missione."
 	FF0A2EAA463777D1531F179A13992C25 = "Per una mente furtiva"
 	10A9A869444F01F282E4D3BA1FA5B007 = "Per ingegneria di classe"
 	687064B54B0A0E527267348509F7A91F = "Per ingegneria di classe"
@@ -1328,7 +1350,7 @@ DI FUOCO"
 	20BF533149B545C499A58681CFB88D4B = "Fungo"
 	492179A0450C3FB2A487B584FEBF5F00 = "Fungo"
 	4F80BE014C51F079BB4FFCA66CEAF0F6 = "Fungo"
-	9636C14A45DB383E3347D8A8582CAB1F = "Fungo"
+	9636C14A45DB383E3347D8A8582CAB1F = "Pantano"
 	AE9DEB31409A552EEDEF50962C0262C6 = "Fungo"
 	B0E0DC6C46F48F0587231AA691F364A9 = "Fungo"
 	C72CEBFB4B4649C8A2CC6BBC7B1686CD = "Fungo"
@@ -1874,6 +1896,9 @@ STAI INDIETRO!"
 	E256602442BE3551CF22E18F15039BCC = "Generatore di Scudo Migliorato"
 	E8EBB0104790318338456D81EF37B8D5 = "Generatore di Scudo Migliorato"
 	CC6FF564484E9BD89B405B9CE08DA411 = "In onore di un fissato con le moto."
+	1CB6031C4932BA70E759A1A5E63916A8 = "In riconoscimento del tuo duro lavoro, ti sei guadagnato il diritto di andare in pensione. Pochissimi nani arrivano cosi lontano.
+
+Pensionare un personaggio LO RIPORTERÀ A LIVELLO 1. Perderai tutti i progressi su armi e potenziamenti. Manterrai tutti i progressi sulle abilità, crediti, materiali di lavorazione e articoli cosmetici."
 	64FB15C24E8ED2B9E943BBAD29DFB59F = "In riconoscimento delle tue prestazioni, il tuo livello di sicurezza è stato aumentato. Ti è stato concesso l'accesso a nuove regioni di Hoxxes. Congratulazioni, minatore."
 	075D59304D4A871CE33297A70D614FAC = "Inattiva"
 	4DA0B11345F109DD53883E99D5F49000 = "In arrivo!"
@@ -1913,6 +1938,7 @@ STAI INDIETRO!"
 	C5AE7B8A425B17DBF00A31A5A26776D7 = "Fa quel che dice sulla confezione. Sparando una combinazione di elementi chimici altamente volatili alle pareti vicine, il risultato è una schiuma a rapida solidificazione che ricorda il cemento e che può sostenere diverse tonnellate di peso. Non ingerire!"
 	57D13C744179D71CC4A96395CE8CA34D = "Non c'è molto più magnifico di questo."
 	53B9E56447DBA24E7C08DD88A97DF370 = "Mi ha preso!"
+	6704680844CBA8B04E106BA1420D6784 = "È triste vedere un dipendente chiave lasciare l'azienda, ma tu te lo sei guadagnato. Farti da Controllo Missione è stato un onore. Roccia e Pietra, minatore."
 	49BBAD8643733BE12BA12099694922AB = "E' attaccato adesso!"
 	013AA61843DC55D04A16C7948EA8F7EB = "E' attraccato!"
 	DDB1313F47BA603A2DD295AAD7C93627 = "E' bloccato!"
@@ -2059,14 +2085,14 @@ TUTORIAL"
 	9FE6422F4BFDC9886677C49255AD4C18 = "Ultima granata!"
 	AFDBBBD64098AE715404DEB56DC587A4 = "L'ultimo a finire è un'amante delle foglie con le orecchie a punta!"
 	03771CB741D6A8F7585D8CA572DF34A6 = "Il Controllo di Lancio segnala un oggetto estraneo nel tubo di lancio. Sembra che qualcosa stia interferendo con il campo di forza. Per caso sapete qualcosa al riguardo?"
-	4774F72D4DDFD43AC87114A145289047 = "Avvia missione in SOLO"
+	4774F72D4DDFD43AC87114A145289047 = "Avvia missione in SOLITARIA"
 	6E1DC7B840DE3BEC3890A49E15DB85CB = "Comincia Tutorial"
 	24E3B6104385AD8F626355923BC6791A = "Partenza per l'orbita!"
 	79564CFA42A35871D08146B04D126B79 = "Geyser di Lava"
 	FEFF895A414D3AEC76290588CF272B45 = "Geyser di Lava"
 	1E45FDAA4921179249BF818F35462E13 = "Artista Capo"
 	C82FD77B4DD700A39D96A6B0434FEA14 = "Programmatore Capo"
-	A93EC70F444E43EEA47EE0B5A9A72F09 = "Speciale dell'Amante delle Foglie"
+	A93EC70F444E43EEA47EE0B5A9A72F09 = "Spec. Amante delle Foglie"
 	65A9B671478FB42CBF6167AE0025BDA0 = "Lascia la Squadra"
 	C628E1F341A0A63EFD0663B95E7A9F38 = "Lascia la Squadra"
 	7FE90EAE4294CF757209CCA6589EB86C = "Non lasciate nessun nano indietro!"
@@ -2134,7 +2160,7 @@ TUTORIAL"
 	D6B7F33C46EA264FBE980C9B391EADDB = "Propulsore in arrivo!"
 	3FF13CB34BEB2DCDFD20DE8635AB3EBA = "Propulsore richiesto!"
 	11B31521489290310E174ABA961E82A8 = "Propulsore pronto!"
-	6F5F20634FA74304BB622B986091C8C8 = "Leggero"
+	6F5F20634FA74304BB622B986091C8C8 = "Leggera"
 	28A37DBD4556CA6593FCB19612C81F9C = "Armatura Leggera da Esploratore"
 	AA2CB75C4653510FB3D381936E30942B = "Luce per me grazie!"
 	08CAB0094CEE17D7E34BD289B06E6893 = "Luci accese!"
@@ -2314,6 +2340,7 @@ TUTORIAL"
 	A51EEEFB4420187B9DA5F1B52C0E3844 = "Sto depositando!"
 	EAF8D705460511DF6BD366B992833E71 = "Sto depositando!"
 	BE7220884C71C491BEAA77890F67A888 = "La direzione riceverà una lettera molto negativa per questo!"
+	A14DDD2A44A64E72A7BB928B25831D6F = "La Gestione crede che tu sia pronto per una sfida più ardua, e ti è stato dato libero accesso alle Operazioni di Recupero. Non deluderli."
 	59367B3E408977420445739971EEE004 = "Aggiornamento Obbligatorio Disponibile"
 	733C15B24399675475D0C9A08A57F964 = "Mappa"
 	4FFCD57D4CECA5DC37F262A7A3C18B37 = "Segna una parete con il tuo scanner per fare in modo che Bosco vada lì e la illumini."
@@ -2494,6 +2521,7 @@ TUTORIAL"
 	9EDF5DBF4849E85B6CF6B0B2A3B78AFF = "Nome"
 	B3B744FB426F9073D61853AACCF2DBC5 = "Nome"
 	4CC9CA27480CDCEB905D1C98A84FAF01 = "Nome e Classe"
+	65F0C3784A451E1DE17EB89F1512D692 = "Il Nome Va Qui"
 	E502F363439982CA95E1BE8D17E6A17A = "Name Goes Here"
 	A80AD3F144DDCE303CC3029AAE823552 = "Ho bisogno di una mano qui!"
 	AA26052144FA22C473BCCCBD2BC89B6A = "Ho bisogno di una mano qui!"
@@ -2620,7 +2648,7 @@ Ma ben fatto. :D
 	D4F3ED82438770D91321B4AC4C94C841 = "Materiale obiettivo"
 	8A8E30614C81D7F2A68B1EAB0EAFADAB = "Ostacolo? Sarà più un frappè di granito una volta che avrò finito."
 	4860D28C4B26DDF0D4B33CABAD76BC6E = "Si parte! "
-	CF8F160C43A82DB71C73A8ACB1D6D20F = "Offering more armor at a significantly reduced weight while maintaining flexibility, this suit is superior to its' predecessors in almost every single way. Plus, we've been told it looks swish as hell."
+	CF8F160C43A82DB71C73A8ACB1D6D20F = "Offrendo più armatura ad un peso significativamente ridotto pur mantenendo la sua flessibilità, questa tuta è superiore ai suoi predecessori in quasi tutti gli aspetti. Inoltre, ci è stato detto che sembra alla moda come non mai."
 	4A68B6014D09DF8B55C26A88E307047B = "Ufff "
 	5FCB25C74703BA52FFA6BB813B533543 = "Capo Ufficio"
 	24E5BD4547E139A2C953A5B517597E20 = "Merda!"
@@ -2654,11 +2682,29 @@ Ma ben fatto. :D
 	C28E671A45A9BE49D0C173888F1C00DB = "Sulla mappa nel TERMINALE DI MISSIONE, puoi vedere una descrizione di ognuno dei biomi e quali minerali vi potresti trovare."
 	7BF994A8421E1EE88429E3B954B9C08D = "Aiuto Su Schermo"
 	C03801984EB9B6D7D536F3BACDE81C4F = "Avvio del mainframe a bordo."
+	8762E3E74B0D5CCF46FF81803FAAD508 = "Ogni tanto, dei dipendenti eccezionali come te raggiungono il gradino più alto della scala aziendale. Applaudiamo i vostri sforzi e desideriamo esprimerti la nostra gratitudine per tutto ciò che hai fatto per DRG. 
+
+Anche se ci piacerebbe tenerti sotto controllo, è la politica della Società che chiede di estenderti un'offerta di pensionamento. Tuttavia, per qualificarsi, è necessario sottoporsi a una breve serie di missioni ad alto rischio/alto pagamento. Queste missioni serviranno anche a guadagnare tutte le risorse necessarie per regolare le fatture in sospeso e/o le multe con la contabilità DRG prima di ritirarsi completamente."
+	986E87284F7DA45D79751A8DF8DFEE24 = "Ogni tanto, dei dipendenti eccezionali come te raggiungono il gradino più alto della scala aziendale. Applaudiamo i vostri sforzi e desideriamo esprimerti la nostra gratitudine per tutto ciò che hai fatto per DRG. 
+
+Anche se ci piacerebbe tenerti sotto controllo, è la politica della Società che chiede di estenderti un'offerta di pensionamento. Tuttavia, per qualificarsi, è necessario sottoporsi a una breve serie di missioni ad alto rischio/alto pagamento. Queste missioni serviranno anche a guadagnare tutte le risorse necessarie per regolare le fatture in sospeso e/o le multe con la contabilità DRG prima di ritirarsi completamente."
+	FF24FD024955050809A7708370DB971A = "Ogni tanto, dei dipendenti eccezionali come te raggiungono il gradino più alto della scala aziendale. Applaudiamo i vostri sforzi e desideriamo esprimerti la nostra gratitudine per tutto ciò che hai fatto per DRG. 
+
+Anche se ci piacerebbe tenerti sotto controllo, è la politica della Società che chiede di estenderti un'offerta di pensionamento. Tuttavia, per qualificarsi, è necessario sottoporsi a una breve serie di missioni ad alto rischio/alto pagamento. Queste missioni serviranno anche a guadagnare tutte le risorse necessarie per regolare le fatture in sospeso e/o le multe con la contabilità DRG prima di ritirarsi completamente."
+	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Ogni tanto, dei dipendenti eccezionali come te raggiungono il gradino più alto della scala aziendale. Applaudiamo il tuo sforzo e desideriamo esprimerti la nostra gratitudine per tutto ciò che hai fatto per DRG. 
+
+Anche se ci piacerebbe tenerti sotto controllo, è la politica della Società che chiede di estenderti un'offerta di pensionamento. Tuttavia, per qualificarsi, è necessario sottoporsi a una breve serie di missioni ad alto rischio/alto pagamento. 
+
+(Queste missioni serviranno anche a guadagnare tutte le risorse necessarie per regolare le fatture in sospeso e/o le multe con la contabilità DRG prima di ritirarsi completamente.)
+
+Saluti,
+La Gestione"
 	1691C1544A6F5EB4E1F2289D76C9968A = "Uno Abbattuto!"
 	8609CA944A8413052C562086E7C47786 = "Uno Abbattuto!"
 	CE6FC0DC4807D1957DDACF82F69E5699 = "Un Amante delle Foglie!... e posso averlo allungato con un'po d'acqua!"
 	E51ADE8A4FDB509121F63B8F9A6A7FE2 = "Uno abbattuto!"
 	5766E28648217C189877DBA135932EF4 = "Un ultimo evviva, e metterò da parte il mio piccone per sempre! O, beh, almeno finché non troverò una bella e grande caverna tutta per me..."
+	FE339F6341F03A13F040A4985F147F64 = "Un'ultima missione, e poi creo la mia birreria...!"
 	5FF8D81747E9F0DDE613469664B89123 = "Uno dei classici cavalli da battaglia di DRG, la doppia Trivella Elettrica si sbarazza in fretta di tutto ciò che è tanto sfortunato da pararglisi di fronte. Questo include i tuoi compagni di squadra, ricorda."
 	92B400A946D61D5F92F789BE8C04148C = "Uno dei più avanzati oggetti nell'arsenale DRG, queste Torrette Automatiche autonome aiuteranno indubbiamente nel controllo delle orde."
 	932D2A1848A5A5650900C2BB19182FA4 = "Uno dei più avanzati oggetti nell'arsenale DRG, queste Torrette Automatiche autonome aiuteranno indubbiamente nel controllo delle orde."
@@ -3071,6 +3117,7 @@ VELOCE"
 	3C625D624AC0652BA30C71A01117D1B8 = "Rifornimento richiesto!"
 	67289C6E467DA8A9294AB5831058E1C2 = "Capsula di Rifornimento"
 	2595DDF2421600A4E23DBA930382415D = "Pensiona"
+	A83874AC4B78EA0D8FF696AC6DE34665 = "Pensione il/l'{class} una volta per sbloccare uno slot abilità extra"
 	6C8FAED84B9E8D48B550739593F04AE3 = "Domanda di Pensionamento - Trivellatore"
 	DA6CF5DA4A65F417ADBEE081E3514C73 = "Domanda di Pensionamento - Ingegnere"
 	3A49023D49669C27F3CD2899E980A8E5 = "Domanda di Pensionamento - Artigliere"
@@ -3078,7 +3125,7 @@ VELOCE"
 	8E8FA98B4ED3D05176453F8E1233E5AF = "Costo Pensionamento"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "Avviso di Pensionamento"
 	E00718EF427855EB5F9992B22A4128B5 = "Pensionamento, sto arrivando, che tu sia pronto o no!"
-	3E4029C341275FD1723B09B92DC1E4A7 = "Pensionare un personaggio lo riporterà a livello 1. Perderai tutti i progressi su armi e potenziamenti. Manterrai tutti i progressi sui vantaggi, crediti, materiali di lavorazione e articoli di vanità. Una volta fatto, NON si torna più INDIETRO."
+	3E4029C341275FD1723B09B92DC1E4A7 = "Pensionare un personaggio LO RIPORTERÀ A LIVELLO 1. Perderai tutti i progressi su armi e potenziamenti. Manterrai tutti i progressi su abilità, crediti, materiali di lavorazione e articoli cosmetici. Una volta fatto, NON SI TORNA PIÙ INDIETRO."
 	68D57CF046190F38CE798FB707251BA1 = "Richiamando la Capsula di Salvataggio."
 	BFA2CE964EBA470A857FDBBC1B69761F = "Ritorno Richiesto"
 	DC53FE5144AE597A3EB999BBF2C05646 = "Ritorna alla Capsula di Sbarco"
@@ -3277,6 +3324,7 @@ Personaggio"
 	FD7DFDF244DAEB062B6D5881B5738DD4 = "Bordo Tagliente"
 	512BDAB74153C22C34CC8897AB9105FF = "Shhh! Sei veramente rumoroso, lo sai? Mostra un po' di rispetto!"
 	90E1670A44E4F8B85B88279B30350276 = "Rottura Scudo"
+	878F98034078BF2678FF31919FDDA11D = "Energia dello Scudo"
 	E9BBD41E4A46DE6816FA64B574107E84 = "Raggio Scudo Raddoppiato"
 	0E5F8008441A205D2EAA5BACA81BD919 = "Rigeneratore di Scudo in posizione!"
 	14A8588A45AA9AF53F207982300F526D = "Rigeneratore di Scudo attivato!"
@@ -3353,7 +3401,7 @@ Personaggio"
 	4F2BF5734C419FDD4EA78D830D307596 = "Luccicante!"
 	7F13BCE74172807F5686CBBA266F46EA = "Quindi che fa se mi piacciono le...armi...grosse?"
 	2FFAB60F4FF61BA6946293977866F47E = "Solitario"
-	38FA37804B0B164ED82D96AE48D5F065 = "Solo"
+	38FA37804B0B164ED82D96AE48D5F065 = "Solitaria"
 	B2E1265A42C5AB5F4D2CEC9B85194128 = "Missioni in Solitaria Completate"
 	B40221884B79B44599A279908B225246 = "Sobrio e intimidatorio."
 	1021949A4CAB2EFA1E93C396A211BF8D = "Un'armatura."
@@ -3379,6 +3427,7 @@ Personaggio"
 	51FF329C4262F9EDE595F4A3B74C0FED = "Ci spiace, questa dovrebbe essere una partita privata."
 	7F97A3E04517768226AAAFAAE2116ECF = "Volume Effetti Sonori"
 	9571618340ED09ABE651E1BE3D40B760 = "Motore Teleferica Potenziato"
+	29659A6542303A13DB1210B9A86937B5 = "Genera"
 	4F19841942B5BF3E99BBC3A0DB79F70A = "Genera"
 	9E8C76B04813D0B0AAA63B863B1E9C0C = "Genera Bombardiere Goo"
 	390811154CFCFBD7B1C75D8793B564F0 = "Genera Mule Infetto"
@@ -3405,7 +3454,7 @@ Personaggio"
 	B711164C4E1E14E68A3EE399990F3AA4 = "Obiettivo standard: raggiungete la quota di Morkite e tornate salvi a casa. Secondo gli scanner, comunque, questo particolare sistema di caverne sarà piuttosto complicato da percorrere. Mantenete la calma tutto il tempo."
 	744CB1E2407EA5B7AA9A02A12E036895 = "Inizia la Lavorazione dei Minerali"
 	02C2EEA04D4DAEFA7625A48CFCD622F7 = "Inizia Missione"
-	C17E347B4364A2E6AAAFE28B5975C4A2 = "Iniziare la missione in solo?"
+	C17E347B4364A2E6AAAFE28B5975C4A2 = "Avviare la Missione in Solitaria?"
 	969223DA47B497E8B142FDB5A2075C54 = "Inizia una missione al Terminale di Missione, per abilitare gli iniviti agli amici"
 	2D636E344F707B36EB2B3AA8E516C68A = "Deposito"
 	59E6504B406478818178C89B73CA7111 = "Malloppo"
@@ -3448,6 +3497,7 @@ Personaggio"
 	250E337E407CE7A1D195679E6B89485C = "Stiloso e pratico! Disegnato per adattarsi alla tua armatura."
 	DB489643455D07AB6E6166A56F047998 = "Stiloso e pratico! Disegnato per adattarsi alla tua armatura."
 	1526D6124A85E9C5A69A9B8246CEC39A = "Subata 120"
+	1A4662E546567345EC0479BB4DAF992F = "Subata 120"
 	C086D4174E9B15BF0A19F48247CD8DB8 = "Sottotitoli"
 	88E79D4D44DC163227E537BBBBB740C8 = "Beccati questo, scherzo della natura!"
 	6C49090D4F7F56FA3D60F6904BAAB386 = "Risucchiando"
@@ -3583,11 +3633,11 @@ MISSIONE"
 	C5EA78A64081F0F78B26C0B6873826ED = "Il Bulldog"
 	D255EA4C42B9E62BC8F87BBFF5C76078 = "Il Franklin"
 	4FAE351F4602CE885CBE208EC0EC93F6 = "Il Guardiacaccia"
-	6D98BBFA4E2F389C147426919B030911 = "The Gunner-version of the MK3 suit incorporates several breakthrough technologies straight off the lines at R&D. Ablative kevlar-plating, zero-friction joints, the list goes on and the eggheads are frankly pretty proud of this one."
+	6D98BBFA4E2F389C147426919B030911 = "La versione della tuta MK3 per l'Artigliere incorpora un paio di innovazioni tecnologiche prese direttamente da R&D. Giunture ablative in Kevlar, giunture a zero-attrito, la lista continua e le teste d'uovo non possono che andare fiere di questa creazione."
 	A9FBA82448D1116F16FCAE86F9852888 = "Il GIC - o Generatore di Inibizione di Campo - è una delle ultime invenzioni della brava gente della R&S. Gettate uno di questi ragazzacci in mezzo ad un gruppo di insetti, e guardate come rallentano."
 	6B87C0154CC9C48DF514E988C3D3DF3F = "L'Amante delle Foglie è su questo grafico per compiacere la gestione. Calcia come un mulo, tranne che lo fa nel modo sbagliato. L'Amante delle Foglie ucciderà la tua sbronza più velocemente di un taglio allo stipendio, e ti lascerà con la stessa sensazione di vuoto nel tuo stomaco. Tuttavia, può essere utile nel Giorno dell'Ispezione. Però non dire a nessuno che l'hai bevuto."
 	49B9AE6C44B820C39293DCAFCEBD2AD8 = "Il M.U.L.E. vi seguirà automaticamente dopo un certo periodo di tempo, ma potete sempre chiamarlo."
-	B607F04F45EF5FFAE8ACFFADA89026D8 = "The MK3 line of mining gear is top of the line, and even this cut-down version offers several improvements over previous suits. It features heavy-duty powercells built straight into the plating, as well as handy pockets for snacks - not to mention an FM-radio in the collar."
+	B607F04F45EF5FFAE8ACFFADA89026D8 = "La linea MK3 di armature minerarie è il top della gamma e anche la versione ridotta offre numerosi miglioramenti rispetto alle tute precedenti. È dotata di celle di energia pesanti incorporate direttamente nella placcatura, nonché di pratiche tasche per spuntini - per non parlare di una radio FM nel collare."
 	7FF850FB48160411363934B3A419B674 = "Il MULE è stato recuperato con successo. Fate in fretta, squadra! La Capscula da Sbarco non aspetterà per sempre!"
 	F40FCB9F4D89B70D3395DBB3BE9B4F5D = "Il MULE è attraccato. Iniziata sequenza di lancio!"
 	B5F88B614F4D23D9FBB2E794B71A7DB9 = "Il MULE è al sicuro! Deep Rock Galactic vi ringrazia per i vostri sforzi. Iniziata sequenza di lancio! "
@@ -3620,7 +3670,7 @@ MISSIONE"
 	F9E32EE84480FF62CF209B87551D6916 = "La luce dura di più"
 	1427F38744164A0EACBE5C9DF34C4A82 = "Il padiglione commemorativo è dove Onoriamo i caduti. Sentiti libero di fare un giro e porgi i tuoi omaggi."
 	39BD1CF440B83EBA505AF9852120B3A0 = "Il MULE è stato richiamato indietro alla Capsula da Sbarco!"
-	911620A14A68BCA957363AA95E336206 = "The no-frills version of the advanced MK3 line of armor. Cheap and light (comparatively speaking), this comfortable suit will provide a Driller with all the protection he needs for most operations. Or so the blurp on the box says, anyway..."
+	911620A14A68BCA957363AA95E336206 = "La versione senza fronzoli dell'armatura MK3 avanzata. Economica e leggera (relativamente parlando), questa comoda tuta fornirà al Trivellatore tutta la protezione di cui ha bisogno per la maggior parte delle operazioni. O almeno così dice l'etichetta sulla scatola, comunque..."
 	3C91B4CC42E492A2B686CC842D9C2D65 = "La birra originale approvata da DRG. Amara e inebriante, anche se non così forte da rendere incapace la forza lavoro."
 	6A26F9D647B828C478B187A6F32C0097 = "Il look perfetto per uccidere mostri."
 	C49E21D54F90751C68D12A9512EDA163 = "Il look perfetto per uccidere mostri."
@@ -3821,8 +3871,9 @@ MISSIONE"
 	E82470B14E1E2F2FCA49FAB5CA74EE21 = "Logout Twitch"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "UI"
 	B9B8DF3947F5817463C75E91163945B2 = "Dimensione IU"
-	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "UNKNOWN TYPE {type}"
-	1DFF07CD499D9C20484D76BF57D90FD9 = "UNLOCKED:"
+	17E10C7744E0699B82D945B0F00A09B1 = "TIPO SCONOSCIUTO"
+	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "{type} DI TIPO SCONOSCIUTO"
+	1DFF07CD499D9C20484D76BF57D90FD9 = "SBLOCCATO:"
 	57E6BB0F42206D722E6E1A866FC825D0 = "MIGLIORA ATTREZZATURA"
 	154D798349596E65C508169C1B0BD295 = "MIGLIORA LA TUA ATTREZZATURA"
 	68B79960422B69C0689251A8A121BF01 = "COLLEGAMENTO COMPLETATO"
@@ -3843,6 +3894,10 @@ MISSIONE"
 	2639BDA74F3ACD0974675696C0A860D1 = "Oggetto non identificato"
 	1CCE93164BD93498123304A5E8C9BE39 = "Oggetto Non Identificato"
 	784E945C40B44F3B95F3DBBA82972F71 = "Sblocca"
+	A865D80D4B531828EB8F83AFAE93195D = "Sblocca l'opzione per mandare in pensione e ricominciare da zero con il tuo Trivellatore dal terminale di selezione dei personaggi. Questo è l'unico modo per livellare il Rango del giocatore una volta che il tuo personaggio ha raggiunto il livello massimo!"
+	83081D9843C33EC34691B0929E1FDA5C = "Sblocca l'opzione per mandare in pensione e ricominciare da zero con il tuo Ingegnere dal terminale di selezione dei personaggi. Questo è l'unico modo per livellare il Rango del giocatore una volta che il tuo personaggio ha raggiunto il livello massimo!"
+	615B4ABB499CB21DC550E38EADA238DA = "Sblocca l'opzione per mandare in pensione e ricominciare da zero con il tuo Artigliere dal terminale di selezione dei personaggi. Questo è l'unico modo per livellare il Rango del giocatore una volta che il tuo personaggio ha raggiunto il livello massimo!"
+	D259E88A4D157F88E20DEBBD15E6CACB = "Sblocca l'opzione per mandare in pensione e ricominciare da zero con il tuo Esploratore dal terminale di selezione dei personaggi. Questo è l'unico modo per livellare il Rango del giocatore una volta che il tuo personaggio ha raggiunto il livello massimo!"
 	0211858D4FC1D851FB2EE5A33EA50F0E = "Sblocco: Trivellatore livello 10"
 	703DF5044CEA9A043B03E9ADB140DAF8 = "Sbloccato: Trivellatore livello 10"
 	83280F01454DBDF667C4DBAA0666D81C = "Sbloccato: Trivellatore livello 10"
@@ -3920,6 +3975,7 @@ MISSIONE"
 	32A95C584F69039D875B8483B518FCDF = "Triangolazione della Connessione fallita! È così, questa la segnamo come una sconfitta. È stato un piacere lavorare con voi. Addio."
 	87FE953849FDCC1FF413CDA4D0DCE510 = "Collegamento stabilito. Triangolazione iniziata. Non lasciate la zona di Triangolazione o perderemo la conessione. Abbiamo sono un tentativo!"
 	0DAC950C40DE765C2BC254AB86980201 = "Collegamento con il Controllo Missione"
+	4F5C267945288BFD686A02AD7977F82A = "Al completamento di questo corso, sarai un dipendente a tutti gli effetti di Deep Rock Galactic, con accesso a tutte le opportunità e i benefici aziendali (dentista non incluso)."
 	D315C7C14917395ED589B781567382EF = "Dopo aver rianimato qualcuno, tutti i nemici vicini fuggiranno!"
 	7032AA244E5FD6DEE82BE593FC832250 = "Usa"
 	FF675E6047257E418D71059BA1D9D19F = "Usami"
@@ -3935,6 +3991,7 @@ MISSIONE"
 	7EC4EC1541B15DF2BEE7BBB686BD44B7 = "Articoli Cosmetici Acquistati"
 	1ACEB567461C75D400D5D0905E6AD03B = "Vaporizzalo!"
 	44A3445A484377F58C5D6BBC70FFECF8 = "Sensibilità verticale del mouse"
+	9507617048BFD644D6492281954EF055 = "Pochissimi nani in questi giorni vivono abbastanza a lungo da raggiungere la pensione. Sei stato un eccellente impiegato. Pulisci il tuo armadietto prima di prendere la navetta, abbiamo nuove reclute che arrivano alle prime luci del sole."
 	DA486CC0432841353D021396815673FD = "Molto alla moda"
 	5566E67A476CF5E36272B7A7E36CF03C = "Molto all'avanguardia"
 	10246BE04BE7FFC4ED29AD8489174AB2 = "Molto furtivo"
@@ -4202,6 +4259,7 @@ Ci consentirai di raccogliere un po 'di informazioni?
 	2F1B0D6648871FC797D241A40FBE9914 = "Bleh! Ho appena inghiottito della sabbia!"
 	C5ACC8EC4F43581855BE9EBE8B411169 = "Tu, Capra Interplanetaria! Perché mi stai sparando!"
 	76FAC6A44825A48DF2A12483FA999591 = "Sei un buon mulo, Molly!"
+	6483648946FEBAB88EE971BF63D8ABA4 = "Stai per iniziare una missione in Solitaria, se stai ospitando una partita tutti i compagni di squadra saranno espulsi!"
 	42A181434CE0896CB57DA38B901224C4 = "Avete quasi superato l'ondata, Squadra. Via, via!"
 	891F0E4A46B837A2FF5B5B9B4C38484B = "Oramai sei storia!"
 	DCB9DB4A47600847C940649EAEA334C7 = "Stai mettendo a repentaglio la missione! Torna alla zona di triangolazione!"
@@ -4240,6 +4298,7 @@ Questo è uguale ad una missione fallita."
 	71B72EFE48FD74037A588F9F7B7749C8 = "Ti sei unito! Clicca per ricevere i tuoi 10.000 Crediti!"
 	8F4D89824206338FF0A6C8A644944815 = "Sei dentro! Clicca per riscattare i tuoi 5.000 Crediti!"
 	CCE5F04F40C1FC01D53040B300704262 = "Ti sei unito! Clicca per ricevere i tuoi 5.000 Crediti!"
+	B5FD6C944684C6644921418039941B70 = "Sei arrivato fino a qui senza diventare cibo per Glyphid e la Gestione ha dato il via libera, per te, ad esplorare alcune delle regioni più pericolose del Pianeta Hoxxes. Vediamo se hai quello che ci vuole."
 	1D2930994DDAC364B264C3A2CBB45DBD = "Voi... voi ragazzi siete fantastici!"
 	32CA7EB849F7B28CEFCCECB273563BA8 = "Voi... voi ragazzi siete fantastici!"
 	72AC2B6A4F0763A48B9F15BC5D55EFA3 = "Voi... voi ragazzi siete fantastici!"
@@ -4306,9 +4365,9 @@ Questo è uguale ad una missione fallita."
 	AF30D96944D109CA061825B083DE6AFC = "[SelectCharacter] Cambia Personaggio"
 	116503804DD7B2053932DF8A013E92FE = "[SelectCharacter] Cambia Classe"
 	84A642794D675810407F91B2A380BD40 = "[UPGRADE NAME]"
-	7C02F3084ACE608027001296203DDC73 = "[Whistling]"
-	CE9D6E6F49B6028A8478058875B2395F = "[Whistling]"
-	D136FF8441BE769512D6D08DE44C56CB = "[Whistling]"
+	7C02F3084ACE608027001296203DDC73 = "[Fischiettando]"
+	CE9D6E6F49B6028A8478058875B2395F = "[Fischiettando]"
+	D136FF8441BE769512D6D08DE44C56CB = "[Fischiettando]"
 	F8EAE16E4F7BE7C1EC17B0ABF5ABB6A3 = "asd"
 	A0A1BBB54311302369702CAC47865698 = "tatatatatata (imitando lo sparo della minigun)"
 	A1F65DD04A366115F9DBBC87F62A30FF = "tatatatatata (imitando lo sparo della minigun)"
@@ -4421,7 +4480,7 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "Obiettivi Completi, il Drop Pod può essere richiamato dal M.U.L.E!"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "Obiettivi Completi, la Mining Pod può essere richiamata sul M.U.L.E. ora"
 
-Namespace PatchNotes (29 keys)
+Namespace PatchNotes (30 keys)
 	Update_11_ShortTitle = "DEAD AND GUN"
 	Update_9_ShortTitle = "CI SCAVIAMO DOPO!"
 	Update_14_ShortTitle = "CON L'AGGIUNTA DI CREEP"
@@ -5171,6 +5230,99 @@ SISTEMAZIONI MINORI
 - I nemici non sono non più "storditi" da danni fisici (da mischia) \r 
 - Sistemata quantità delle munizioni e grandezza del caricatore che non si applicavano quando iniziavi la missione \r 
 - Sistemata la dimensione degli oggetti in prima persona in modo che compenetrino meno con altri oggetti."
+	Update_18 = "Salve Minatori! 
+È giunta l'ora di rendere disponibili i nuovi set di armature, bere birre che rendono più forti e di intraprendere nuovi ed eccitanti incarichi. L'Oktoberfest è finito e siamo stati occupati a creare un bella borsa piena di contenuti fantastici per voi. Godeteveli! 
+
+--- NOTE DELLA PATCH ---
+
+NUOVO SISTEMA DI INCARICHI
+------------------------------------
+Il nostro obiettivo con il sistema di incarichi è di creare un inizio più comodo per i giocatori nuovi e allo stesso tempo creare eccitamento per avere accesso a nuovi contenuti.
+Gli incarichi in futuro verranno usati per sbloccare nuovi contenuti come armi alternative o regioni planetarie.
+
+IL PERIODO DI PROVA:
+Quando avvii il gioco per la prima volta dovrai completare il periodo di prova in modo da far capire se sei degno di essere un minatore. Il periodo di prova è un incarico consistente in 9 missioni che ti porterà a visitare le differenti regioni di Hoxxes e ti metterà alla prova con differenti obiettivi da completare. 
+
+Completare una missione che fa parte di un incarico ti garantisce una ricompensa bonus sotto forma di materiali per la creazione e crediti.
+
+ATTENZIONE MINATORI ESPERTI! La Gestione di DRG ha insistito perché anche i giocatori veterani completino il periodo di prova. Abbiamo provato a far cambiare loro idea, ma erano molto intestarditi a riguardo!
+
+
+PENSIONAMENTO
+-----------------------------------
+DOMANDA DI PENSIONAMENTO: Quando raggiungi il livello massimo di 20 con un personaggio, avrai l'opzione di completare l'incarico Domanda di Pensionamento per quel personaggio. Selezionalo dalla tabella degli incarichi. Quando avrai completato l'incarico avrai l'opzione di pensionare quel personaggio dal Terminale di Selezione Personaggio. 
+
+MANDARE IN PENSIONE UN NANO:  Quando mandi in pensione un personaggio, quel personaggio tornerà a livello 1 e perderai tutti i progressi sulle armi e le migliorie per quel personaggio. Comunque, la progressione sulle abilità rimarrà, insieme ai crediti, ai materiali da fabbricazione e agli oggetti cosmetici. La prima volta che manderai qualcuno in pensione, sbloccherai uno slot abilità extra per quel personaggio specifico. Pensionare un personaggio è l'unico modo per aumentare il rango giocatore sopra il livello 26, dal momento che avrai bisogno di salire di livello con un personaggio per guadagnare ranghi giocatore. Stiamo inoltre considerando di introdurre oggetti cosmetici sbloccabili e molto altro sopra il rango 26.
+
+
+AGGIORNAMENTI ALLE MISSIONI
+------------------------------------------------
+Per rendere l'incarico periodo di prova il più semplice possibile, e in generale per migliorare l'esperienza di scavo a lungo termine, abbiamo modificato alcune missioni e abbiamo creato delle versioni delle tesse più semplici e più complicate. 
+
+CACCIA ALLE UOVA: Da molto tempo stavamo aspettando di migliorare le missioni Caccia alle Uova ed Estrazione su Luogo. Alla fine, abbiamo deciso di fonderle insieme. Ecco i cambiamenti:
+
+- Caccia alle Uova ora avrà luogo in un sistema di caverne, simile a quello che si trovava in Estrazione su Luogo. 
+- Invece di correre in giro per cercare le uova potrai ora usare lo scanner del terreno (Tieni Premuto [M]) per individuarli. 
+- Dovrai collezionare meno uova rispetto a prima. 
+- Caccia alle Uova ora avrà molteplici complessità e lunghezze. 
+- Cerca ed Estrai è stata rimossa per adesso.
+- Abbiamo resistito alla tentazione di chiamare Caccia alle Uova "Cerca e Uovstrai!
+
+OPERAZIONI DI RECUPERO
+- Il sistema di caverne ora può generare sia livelli medi che alti di complessità
+- Lunghezza corta (Assembla 2 MINI MULE) e lunga (Assembla 3 MINI MULE)
+
+ELIMINAZIONE
+- Il sistema di caverne ora può generare sia livelli medi che alti di complessità
+- Lunghezza corta (Uccidi 2 Corazzati) e lunga (Uccidi 3 Corazzati)
+
+
+BUFF ALLE BIRRE
+-------------------------------------
+Buff sono stati aggiunti ad alcune birre e i prezzi sono stati aggiustati: 
+
+- ROCCIA ROSSA ESPLOSIVA: +30% alla salute massima
+- BIRRA SPACCA CRANI: +50% al danno con piccone
+- MORKITE SCURA: +20% Morkite estratta
+- SBATTI GLYPHID: Una nuova birra senza buff, ma ti renderà comunque felice :-)
+
+
+NUOVO MODELLO PER IL FUCILE D'ASSALTO
+---------------------------------------------
+Il fucile dell'esploratore ha subito un miglioria al modello, alle animazioni e ai suoni. 
+
+
+NUOVE ARMATURE
+------------------------------------
+8 nuove armature (chiamate MK3 Base e Pesanti) sono state aggiunte, pronte per essere comprate ed equipaggiate.
+
+
+AGGIUSTAMENTI ALLE DIFFICOLTÀ
+--------------------------------------------------
+I livelli di pericolo per 2 giocatori sono stati aggiustati per rendere il salto dal giocare da solo a giocare in 2 meno ripido. I fattori scalati dei nemici in partite con 2 giocatori sono stati aggiustati in questo modo: Basso rischio da 0.4 a 0.3, Stimolante da 0.5 a 0.4, Pericoloso da 0.75 a 0.66, Estremo da 1.0 a 0.9 
+
+Il pericolo Piaga Mactera è stato reso meno difficile in base alla difficoltà. Alcune pazzie sono ancora assicurate, ma ora dovrebbe essere meno pazzo.
+
+
+CORREZIONI E MIGLIORAMENTI
+-------------------------------
+- Nuovi balli quando si ascolta il jukebox.
+- Teleferica sistemata. Ora gli ospiti possono fare un balzo in avanti quando si staccano dalla teleferica.
+- I salvataggi non vengono sovrascritti se non è presente la connessione a Steam.
+- Aggiunta parte al lanciafiamme in terza persona
+- Sistemato il rinculo. Veniva registrato prima che il colpo potesse essere sparato, non lasciandoti essere accurato.
+- Sistemato un caso in cui gli ospiti non erano in grado di caricare la mappa. Risultando in un blocca nella schermata di caricamento.
+- Rilevamento dei pezzi e delle gemme che cadono fuori dal mondo e li teletrasporta di nuovo al suo interno
+- Navetta Spaziale - Niente più luci blu nella capsula di lancio quando stai partendo per una missione
+- Banner del oktoberfest modificato
+- Salvataggio: Giocatori non possono più guadagnare XP extra sopra il tetto massimo.
+- Aggiunte statistiche di missione: Bevande totali consumate & Giri di bevande ordinati in totale
+- La funzionalità schermo intero è ora gestita nella maniera corretta e non viene resettata fra una sessione e l'altra.
+- Sole aggiunto dietro al pianeta Hoxxes nella navetta spaziale. Leggermente migliorato anche il modello del pianeta.
+
+
+\r 
+"
 	Update_18_ShortTitle = "OPPORTUNITÀ DI LAVORO"
 	Update_13_ShortTitle = "CAMBIAMENTI MINORI ALLA VITA"
 	Update_15_ShortTitle = "PERICOLO MUTAZIONE!"
@@ -5316,7 +5468,7 @@ Namespace Vanity (17 keys)
 	ArmorColor = "Colore Armatura"
 	3E7113764EF99981E7343E99CE60E68F = "COMPRA"
 	Beard = "Barba"
-	936D387249B390C96765B2BE04A575BD = "NON PUOI PERMETTERTELO"
+	936D387249B390C96765B2BE04A575BD = "CREDITI INSUFF."
 	0B22BA0E4951378AAE53F195C88C9017 = "EQUIPAGGIATO"
 	Eyebrows = "Sopracciglia"
 	BeardColor = "Capelli"
