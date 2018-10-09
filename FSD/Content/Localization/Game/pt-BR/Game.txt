@@ -1,7 +1,7 @@
 21 namespaces
-2819 values
+2822 values
 
-Namespace Global (3395 keys)
+Namespace Global (3400 keys)
 	2559D78C40005E5221F26093CB976283 = " Coletar {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Eu caí!"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUERIDO"
@@ -31,6 +31,8 @@ Namespace Global (3395 keys)
 	FE3AF71A4B4652C9E84187A1EB7F1678 = ""Melhor tentar e falhar do que nunca ter tentado!""
 	432B2F5F4E1BE02385DA2E8E0FAD1CBC = ""Sim, você consegue!""
 	64EC61C944E03B358AF914AE7EDB71B2 = ""Sim, você pode!""
+	9E48C15043BBDBD7AD465B9A8621B44A = "+ All planetary regions unlocked
++ All mission types unlocked"
 	743B701443B2E95407A48793DB5D43DB = "+ Driller Retirement Option"
 	757542D044AE5468809922ADDD77C794 = "+20%"
 	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
@@ -2118,6 +2120,30 @@ Mas, bom trabalho. : D
 	C28E671A45A9BE49D0C173888F1C00DB = "O mapa do TERMINAL DE MISSÃO, você pode ver a descrição de cada um dos biomas e quais minerais de produção você pode encontrar em cada um deles."
 	7BF994A8421E1EE88429E3B954B9C08D = "Ajuda na tela"
 	C03801984EB9B6D7D536F3BACDE81C4F = "Inicialização do mainframe a bordo."
+	8762E3E74B0D5CCF46FF81803FAAD508 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	986E87284F7DA45D79751A8DF8DFEE24 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	FF24FD024955050809A7708370DB971A = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
 	1691C1544A6F5EB4E1F2289D76C9968A = "Um já foi!"
 	E51ADE8A4FDB509121F63B8F9A6A7FE2 = "Um já foi!"
 	5FF8D81747E9F0DDE613469664B89123 = "Um dos clássicos equipamentos da DRG, a broca elétrica de ligação gêmea faz trabalho curto de qualquer coisa azarada o suficiente para estar na sua frente. Mas lembre-se de que isso também inclui seus aliados."
@@ -3503,7 +3529,7 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "Objetivos Concluídos, a Cápsula pode ser chamada na M.U.L.A!"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "Objetivos Concluídos, a Cápsula de Mineração pode ser chamada na M.U.L.A"
 
-Namespace PatchNotes (21 keys)
+Namespace PatchNotes (22 keys)
 	Update_11_ShortTitle = "MORTE E ARMA"
 	Update_9_ShortTitle = "MINERO VOCÊ DEPOIS!"
 	Update_14_ShortTitle = "FEATURE CREEP"
@@ -4076,6 +4102,105 @@ MINOR FIXES
 	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
 	Update_15_Header = "UPDATE 15: AVISO DE MUTAÇÃO! - 04.07.2018"
 	Update_17_Header = "UPDATE 17: OKTOBERFEST! - 20.09.2018"
+	Update_18 = "UPDATE 18: JOB OPPORTUNITIES
+
+Howdy Miners! 
+Time to put on your brand new armor sets, drink beers with buffs and take on new exciting assignments. Oktoberfest is over and we have been busy packing a big bag of cool features for you. Enjoy! 
+
+--- PATCH NOTES ---
+
+NEW ASSIGNMENT SYSTEM
+----------------------------
+Our goal with the assignment system is to create a smoother start for new players and at the same time create excitement for getting access to new content. Assignments in the future will be used to unlock new content like alternative weapons and planet regions.
+
+THE PROBATIONARY PERIOD:
+When you start the game for the first time you now have to complete the Probationary Period in order to prove your worth as a miner. The Probationary Period is a 9-missions long assignment and will take you through the different regions of Hoxxes and challenge you with various missions to complete.   
+
+You can join any missions on the server list, regardless of completion of the Probationary Period. Completing missions that is part of an assignment grants you bonus rewards in the form of crafting materials and credits. After completing the Probationary Period you will have unlocked all regions, missions, and difficulties. 
+
+ATTENTION VETERAN MINERS! Players who have played the game before will get an option to skip the Probationary Period from The Assignment Board terminal. 
+
+
+RETIREMENT
+----------------------------
+RETIREMENT APPLICATION: When you max out a character at level 20, you get the option to complete the Retirement Application Assignment for that character. Select it from the Assignment Board Terminal. When you have completed the assignment you get the option to retire that character from the Character Selection Terminal. 
+
+RETIRING A DWARF: When you retire a character that character will reset to level 1 and you will lose all progress on weapons and upgrades for that character. You will, however, keep all progression on perks, credits, crafting materials, and vanity items. The first time you retire, you will also unlock an extra perk slot for that specific character. Retiring a character is the only way you can increase your player rank above 26, since you need to gain character levels in order to gain player ranks. We are also considering to introduce unlocks of vanity and other features for players above player rank 26.
+
+
+MISSION UPDATES
+----------------------------
+In order to make a smooth Probationary Period assignment, and in general to improve the long-term mining experience, we have tweaked some of the missions and made both simpler and more complex versions of them. 
+
+EGG HUNT: We have for a long time been wanting to improve the missions types Egg Hunt and Search & Extract. In the end, we decided to just merge them together. Here are the changes:
+
+- Egg hunt now takes place in a cave system, similar to what you used to encounter in Search & Extract. 
+- Instead of having to run around and search for the eggs you can use the Terrain Scanner (hold down [M]) to spot their location. 
+- You have to collect fewer eggs than previously. 
+- Egg hunt now has multiple complexities and lengths. 
+- Search & Extract have been removed for now.
+- We resisted the temptation of calling Egg Hunt for Search & Eggstract!
+
+SALVAGE MISSION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Assemble 2 MINI MULES) and long (Assemble 3 MINI MULES) 
+
+ELIMINATION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Kill 2 Dreadnoughts) and long (Kill 3 Dreadnoughts) 
+
+
+BEER BUFFS
+----------------------------
+Buffs have been added to some of the beers and prices have been adjusted: 
+
+- RED ROCK BLASTER: +30% to max health
+- SKULLCRUSHER ALE: +50% Pickaxe damage
+- DARK MORKITE: +20% Morkite mined
+- GLYPHID SLAMMER: A new none-buff beer, but it will still make you happy :-)
+
+Beers with buffs have been given a lower potency effect, so you can drink one without getting drunk. This is done to prevent you from always having to drink the Leaf Lover’s Special if you don’t want to play with the drunk effect on.
+
+Note that Buffs will remain after drinking Leaf Lover’s Special. And also note that Buffs won’t stack. Also-also note that beers have some randomness in how hard they affect you.  
+
+
+NEW MODEL FOR ASSAULT RIFLE
+----------------------------
+Scouts assault rifle has gotten an overhaul of model, animations, and sound. 
+
+
+NEW ARMORS
+----------------------------
+8 new Armors (called MK3 Basic and Heavy) have been implemented, ready for you to buy and equip. They will be unlocked at player rank 10 and 12 respectively. if you are lower than player rank 8 you will only see the MK2 armor in the shop.
+
+
+DIFFICULTY TWEAK
+----------------------------
+Hazard levels for 2-player games have been tweaked to make the jump from playing solo to two players less steep. Scaling factors of enemies for 2-player games have been adjusted like this: Low risk 0.4 to 0.3, Challenging 0.5 to 0.4, Dangerous 0.75 to 0.66, Extreme 1.0 to 0.9 
+
+The Mactera Plague warning has been tweaked down in difficulty. Some craziness is still ensured, but now it should be less punishing. 
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- New dance move when listening to the jukebox.
+- Zip-line fix. Now clients also get forward momentum when jumping off the zip-line.
+- Save files are not overwritten if there is no connection to steam
+- Third person flamethrower gunsling added
+- Fix recoil. It was added before the shot was fired, so you could never be fully accurate.
+- Fix a case where clients are unable to load the map. Resulting in stuck on loading screen.
+- Detect chunks and gems falling out of the world and beam them back
+- SpaceRig - No more blue light in drop pod when launching a mission
+- Oktoberfest banner changed
+- Savegame: Players can no longer gain extra XP above the cap
+- Added mission stats: Total beverages consumed & Total beverage round ordered
+- Fullscreen mode is now handled correctly and does not reset in between sessions.
+- Sun added behind Planet Hoxxes in Spacerig. Planet model slightly updated as well.
+- Clients can now open the mission map while in a hosted game
+
+
+
+"
 	Update_9_Header = "UPDATE 9: BROCO VOCÊ DEPOIS! - 09.03.2018"
 
 Namespace Progression (6 keys)

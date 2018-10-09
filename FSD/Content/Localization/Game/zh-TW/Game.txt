@@ -1,7 +1,7 @@
 21 namespaces
-3063 values
+3108 values
 
-Namespace Global (3846 keys)
+Namespace Global (3915 keys)
 	2559D78C40005E5221F26093CB976283 = " 採集 {Collected}／{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " 需求"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " 音效設計／音樂製作"
@@ -38,13 +38,17 @@ Namespace Global (3846 keys)
 	06F5FD53480F9F14AB110FADEE69052B = "完成「照明消退」危機的任務"
 	084972DA4367BB3126F09EA16F626036 = "（充滿幹勁）噢耶，咱們開始吧…！"
 	9AAEE08740108161885DFAB73E240B7A = "*打哈欠*...我真的好想休息！"
+	9E48C15043BBDBD7AD465B9A8621B44A = "+ All planetary regions unlocked
++ All mission types unlocked"
 	743B701443B2E95407A48793DB5D43DB = "+ Driller Retirement Option"
+	60E15BAC41DCC919F2E12EB2EFF2AC7D = "+ 重練角色以提升玩家階級"
 	80F011474601EE73C5B127B1CE7438D4 = "+15 墨菱石"
 	757542D044AE5468809922ADDD77C794 = "＋２０％"
 	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
 	78DFA13846CB82653B1E9FB81E88F2F2 = "- 等待入艙 -"
 	8BE6B127423859AEED1AE1834524940A = "- 等待入艙 -"
 	DD60E905432184562A98258F7D2FF4CA = "- 空缺 -"
+	337040E74EB73001955CB99A04EB9532 = "－正在搜尋伺服器－"
 	806E021B47366790C4EE8F89571BBC9C = "—尋找伺服器—"
 	E0308AD64B74FB3F487ECC8114474D6F = "—無目標—"
 	4587C8874C4D0E02BADC87A4CC3DB758 = "－尚未選擇任務－"
@@ -52,6 +56,7 @@ Namespace Global (3846 keys)
 	7ABDA689431FA407A41E3AB3E25E9BF1 = "－於任務終端內選擇任務－"
 	A6E1959D48EAE1DC279926A914C6C670 = "—{ItemCategory}—"
 	6BE2EF7A4DB1B3F7E8F5F2BDD65371EB = "——"
+	237DC70C43822205A25EB38BF9B9BDAC = "……啊嗯……"
 	4A3DC30B495768F9DA73B2993ACEA883 = "……啊嗯……"
 	E4D5D88549789B2B7E1EDA9C8889A802 = "...嗯...我走之後誰來帶菜鳥呢？"
 	04E8E0B84A9FBE9DDA089AB20B6FEC64 = "...我還沒醉！"
@@ -84,10 +89,13 @@ Namespace Global (3846 keys)
 	C4074DC14285A41787355CA8FC85F54B = "３...２...１...航向軌道。"
 	0160EE5D4D6C94A8C0BA5688E90226A1 = "３０秒"
 	6BEE1B6941C65BFC465772A296A754A6 = "處於礦驢身邊3米的範圍內傷害減少３０％！"
+	74B608014BFA07CE1EB3FB83ACC5BE05 = "30% 最大生命值"
 	4945175D4418FDD4D5C55986D5B79525 = "３０公尺"
+	4A38895441E16E1179AF48B9B4D6F45A = "3D美術"
 	0838C2284D6C18474F43F399A23E5E63 = "４２"
 	0D64808D4847E68080B0E696BA1C1B66 = "已領取５０００金錢！"
 	63AFFF3E45F767CC011D269D00E571DB = "已認領５０００金錢！"
+	4ECF95AC49FC8ADE0CC544B333C1EC2A = "50％ 十字鎬傷害"
 	8A86FBA942812BB1C9A9528364981C49 = "534534534"
 	22F656894A40134D5B2E639A9123E0C4 = "５公尺"
 	3C0683FB4388F5D46ABEB48940D59946 = "６"
@@ -116,6 +124,7 @@ Namespace Global (3846 keys)
 	DDF603154FAC6DB54AC70CA48A84728B = "經典隱約透著微妙的力量。"
 	D10328894C337CD79FD58B89B9F038CA = "數個世紀前的古典款式。"
 	10EBE9914309B112BED94D8ACB15BFE8 = "這把特製的大口徑２６釐米左輪手槍雖只能裝下四發子彈，但換來的是一發即倒的強大火力。"
+	7ADCE52D4766E4E062B4F0A68DF64E45 = "一款味道濃郁而刺鼻的啤酒。秉持著公司「不能問不能說」的處事原則，螂蠅泡酒很快地就成了受人矚目的新品－只要大家都不去討論成份的話..."
 	A51AF99C49FC325E4128D4BB8F23F943 = "一把沈穩可靠的槍械。通常不會是矮人們的第一首選，但其地位及火力則不容小覷。"
 	86A03D794F56F55E13FFD190FE8F3031 = "矮人不死！"
 	20946E854610B5BE26AAD5B4CFCCD185 = "用一些彈簧、磁鐵和黑市的燃料電池改造－讓你減少墜落傷害 {value}％ ！"
@@ -134,6 +143,7 @@ Namespace Global (3846 keys)
 	BA64573F47F9DE97307925BF002CDD5F = "用廢油桶改造成的全套裝甲。物盡其用的最佳典範！"
 	F0768F174AC5DB33078B47AC2F17A1EA = "用廢油桶改造成的全套裝甲。物盡其用的最佳典範！"
 	E37C1031413A95B3452BDA9470E2DF36 = "顧慮周到、機警敏悟礦工的外表。"
+	A49151A643A9AF1ADD5E22AB35C54812 = "氣質出眾，行家首選。落磯山脈唯一想證明的即是它那香醇、溫和的口感。"
 	A7F15AA745B70AFC2E79B3821388FB32 = "A walking command center, the MK3 Heavy Engineer Suit means you'll never lose reception again. It's loaded up with so much top-of-the-line tech most of the eggheads can't even name it all."
 	4564CC6649D4D197405B098920E0B7D8 = "豐富"
 	09CD68EF4CCFD3F80C9F438F1A8590B2 = "深淵酒吧"
@@ -153,6 +163,7 @@ Namespace Global (3846 keys)
 	09C0CB8542CF0A0D60AAC48F877A44C0 = "可用的專長點數："
 	2289051149DE4D53743C648A3BB9E7F3 = "可裝備的專長"
 	40F930A74A28B63F304F168E262A1C8C = "啊噢！"
+	4FFE9F7D4A9FDC32802329B874A6F4A5 = "放棄任務"
 	6ED213DE4BB78447F8511AB44A682443 = "中止任務"
 	AEFBFF50450937B9A66EC5B2CA738B93 = "來得正是時候！"
 	F02154C24469968B39A55185D412560B = "接受邀请"
@@ -182,6 +193,7 @@ Namespace Global (3846 keys)
 	B70492484F35CE8C204DC5AD77C95F52 = "別以為無人能取走屬於你的一切。"
 	A2ACC65C4BD62728ECB2B487772A6F22 = "我可以清理所有障礙物！"
 	AB387E9A4B520EEAEECF3FBF5A06A15E = "熱氣噴口"
+	93CCC83A4FD125795AAE2BB0559D2BA1 = "空中有敵方單位！"
 	4CAD157442019837A2C311AEAFED311C = "異形蟲卵（未鑑定）"
 	627A8A0840AD8F5E83D57E9AB4AC208B = "完成蒐集異形蟲卵的次要任務"
 	0896812A4B8770DEF814CCB05720B44A = "異種花"
@@ -257,6 +269,7 @@ Namespace Global (3846 keys)
 	EF0DD00E4D68095E714A7CAF8BC61802 = "啊！兄弟，昨天可真是太晚了！"
 	286971794ABD2BDA8F1C67B6BE46008A = "啊——！"
 	18E279544C34ACBC81C0EC9CFB00D9C7 = "啊呃，有東西卡進鬍子裡了...！"
+	1E3933634C011B888A29A1A190BE5DB4 = "啊呃，有東西卡進鬍子裡了...！"
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "藝術企劃"
 	17E32D5547938A68AEE78ABB9D2F8CDC = "Artificial gravity has been reestablished."
 	B625BD434046DDB7B2EFA799704BBE34 = "正在重新校準人工重力。"
@@ -268,6 +281,7 @@ Namespace Global (3846 keys)
 	B79C7DAB424898F959F380BC41B00C7D = "隨著升級會解鎖紀念堂的英雄雕像。想靜靜就去那裡吧！ "
 	79C0FA194347E7BBC8B6C48BAD090770 = "向Twitch徵人"
 	ABDE3BB74428072B8E1C00878B5ED751 = "Assignment"
+	76D6876645E4B0ECF23631BEA63346C7 = "任務告示版"
 	9DB1E50245ECD3FE1FF7D08BA4DE6721 = "Assignment Mission {level} of {max}"
 	52C91EF941026FEA658ED495FB2CF58B = "研究作業起頭不久，我們就有位外星地質學家憤而退出。酷斯星不僅沒有傳統意義上的極原冰帽，而且與我們所熟知的所有物理定律相悖。它的大陸板塊竟是坐落於覆蓋整個行星達數英里厚的永久凍土層之上。一如往常，公司呼籲各位員工在面對酷斯星種種難題時記得：「不要問，作就是。」"
 	562081CA48E01E51B47280AA0BA37557 = "需要留下最少一位隊友充填燃料電池！回去那裡！"
@@ -334,7 +348,9 @@ Namespace Global (3846 keys)
 	739C730F4DC75A2B8FB068B01BE3EA1F = "有何不可呢？"
 	75EE201A4C886BBBDDF9F993134F8124 = "基岩"
 	CCD8C78A4198D202866F458CCD513560 = "米白色"
+	3CBC5FB342A4D67CD79C37A662100986 = "退休福利"
 	74DC149D45917EF3425C9FACA4E51660 = "狂戰士"
+	2ED3CB6A48527D7C7D52FBAA7D75EAFD = "飲料"
 	5BA9A3F24C95A6C30CE6119F7A2AC1A9 = "偵測到大規模蟲群。提起精神做好準備！"
 	13B037E84A0500B948C179B33E3998EA = "加大爆炸範圍"
 	18F8B3D1433ABDA54E219CAF09AB03E3 = "加大爆炸範圍"
@@ -348,6 +364,7 @@ Namespace Global (3846 keys)
 	DD1C700F412419804EC3AEBAEBB0C377 = "完成採集繽煌玉的次要任務"
 	6E54EEC64A9558CBF2A1F99898181151 = "繽煌玉"
 	7A15A43745D793BD41B7BD84A4DCE600 = "繽煌玉"
+	28DD228F433AD370EA08979AB012A3A9 = "Bjørn Meldal"
 	68FAD557426EF99CCDDCB58B429CF5FE = "黑色"
 	720F8A9D460AFA6F1B883AB30BED8AFF = "黑色"
 	97FAB2914114DD91902C69842C238F83 = "必撲"
@@ -427,6 +444,7 @@ Namespace Global (3846 keys)
 	78E696ED4498D39A3F40F78A02B2D097 = "業務開發"
 	59C7190A41D470DD1F020CB6AC6BB82D = "開工髮型"
 	60ED66374129C5619808DC91E6111A98 = "開工髮型"
+	478B74574A6918D1EB87FB8DA5E5FED1 = "嗝噗！"
 	EFAD25E240DD9D8B12B242B009117556 = "我敢說 - 它醜爆了！"
 	4608597C487C0EF357FBF39B1AA23F01 = "以鬍起誓！"
 	1B46DDC24DFC16B5668A859F5FA4A6D0 = "我的鬍阿，真划算！"
@@ -442,6 +460,7 @@ Namespace Global (3846 keys)
 	AA1B3D24461665D2DE736AB39C4BD728 = "職業０１"
 	47C96B3F473BD15099CEEA8D9010E031 = "職業名稱"
 	E5E0408B4B2E7E33D11B66A7A2B88DAE = "COFFEE STAIN PUBLISHING"
+	2F398B704E1BEF3212BD1EA75AFB8FE9 = "寒冷"
 	FA3EF5F94DF0453A1C5D899B6A455976 = "寒冷"
 	082A9714445A7627B4ED46AFFC732279 = "已蒐集的素材："
 	3F0C9EF54B76216708530B9257D6584F = "已採集素材："
@@ -449,7 +468,7 @@ Namespace Global (3846 keys)
 	CCD5A42B4899395A8E979AAF6192E5A4 = "社群翻譯"
 	C43759C34758D0A2EFFF3E81C874F6F8 = "COMPLETE"
 	7E414F4C4FF198C3F86B93AF103217E7 = "完成"
-	13AEF9FE48FED505521872B9A8A90466 = "COMPLETION REWARD"
+	13AEF9FE48FED505521872B9A8A90466 = "完成獎勵"
 	3D6E174142696818ED29D6804471583B = "失去連線"
 	401FE2484B056208D64FE898A736C2CB = "失去連線"
 	5D07197E454C6A470C7D078C873BF4A1 = "失去連線"
@@ -474,6 +493,7 @@ Namespace Global (3846 keys)
 	B942E74E417338CE392979B025306971 = "呼叫空降艙"
 	4C16DD644898681322500F89F704C418 = "呼叫礦騾。"
 	E5A201F949D77380883303BA6DCB762A = "呼叫礦車！"
+	3F5A7D9444C6C21AFEBFFF999FFF1D32 = "已完成任務"
 	D16EA2474209D53A9B05B3BF99DD5A97 = "能夠攜帶更多彈藥"
 	BE34C0F346A824213878F2ADF79F3771 = "更大容量的彈匣。"
 	C49B0168468043C648B7BC831A8E2F07 = "你能看穿那片光彩奪目嗎？"
@@ -611,6 +631,7 @@ Namespace Global (3846 keys)
 	CAA4B0924362837962737D9BE73322E8 = "緊實的泥土"
 	E0F791B54B36121FA71673A0AD6CD11F = "緊實的泥土"
 	84B92DFB4FAF94769A5856AC74634B31 = "羅盤"
+	20C8A02940185CDFF614238B717122EA = "立即完成任務"
 	30E886374D703DA855B11AAB54C3B7D8 = "完成教學任務"
 	BC046F2B46846F82B0CBF5B5984967D7 = "完成 {value} 次「藤壺獸叢生」危機任務"
 	8C82B21F48B6FEA19AA7D1990445B21E = "完成 {value} 次「自毀螂蛛壓境」危機任務"
@@ -742,6 +763,8 @@ Namespace Global (3846 keys)
 	9D9E9F09482824C4127F7DBAF27EA1F4 = "禁止觸碰！"
 	3EDB48484D7905F2F6FD16B4B48E3D50 = "每秒傷害"
 	4F0C34314D139F84317F928BE51534B1 = "每秒傷害"
+	C922B6C64E7FDB03B4D232B80FB748E5 = "寰宇堪探隊向您致敬。"
+	CF08FADC473F445127275AB013DB1246 = "寰宇堪探隊向您致敬。"
 	E7463CB8457274C844EC6E82D93634CC = "寰宇勘探隊：「勇於挑戰，可為利益同生共死。」"
 	B022254E4A8509B5A4B60C88547933AD = "公司宗旨：「一起為未來打拼。」"
 	659F86C14FC51F0A934A859EDA3ABAF2 = "寰宇勘探隊：「團結一致， 昂首闊步！」"
@@ -966,7 +989,7 @@ Namespace Global (3846 keys)
 	5AF7996E42A85BF99DAF9BA01E009D0C = "效果"
 	20B759754C55D58859A9EC83D5D6D3F3 = "蟲卵 "
 	C875D3534A9FDA62AE6AAD961EB56EFF = "蟲卵在這裡！公司要我們採集這些來作什麼阿？"
-	0AD95C494B573260500256A8D0858937 = "Egg Hunt"
+	0AD95C494B573260500256A8D0858937 = "蟲卵採集"
 	76FCC5D943C83F90DB0600AC997D164E = "蟲卵採集"
 	315704EB489E32AA403BE091D69570F7 = "完成蟲卵採集"
 	8F4350A049C1332AE2BAE491532A354B = "作得好，完成採集外星蟲卵！準備好就呼叫空降艙。"
@@ -1074,6 +1097,7 @@ Namespace Global (3846 keys)
 	E51B3F744507E303C14E08A0352FA0D4 = "遠距"
 	3E073F7541C83715AD26FA81CF557F73 = "照明彈快速生成"
 	A8464FDC48B600862605F2A7EDEBEC0D = "快速移動"
+	06ACA845473D84A5A448C6940A624FB6 = "快速裝填"
 	4C92C70E46863CA7E8881DBAA3AAC7E6 = "快速裝填"
 	6E96871040D678AF9A191EA0B778AD4D = "快速上彈"
 	EBB44BE24CFA9DA8770678A81FD9B25A = "鑽頭靜止時冷卻更快。"
@@ -1382,6 +1406,7 @@ Namespace Global (3846 keys)
 	81DF82BC4755704CACC0529A772BEEAE = "保命守則！"
 	85CBFC614376B9DE1921B8890480C466 = "保命守則！"
 	D9B282FF4566C7FD71A0E1808B41F95E = "保命守則！"
+	49D0A0C646CF3758F69C718BD13D3844 = "炎熱"
 	7E486A12470C96225227A880AD9F8DB8 = "幫幫我！"
 	EC16890749A927E0816630B3B42F35E4 = "幫我！我的鬍子進沙了！"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "按住 [Laserpointer] 拿出雷射探測器"
@@ -1440,6 +1465,7 @@ Namespace Global (3846 keys)
 	CB82982E4B379DC4A8B894AAA494EE42 = "幫我開採這裡！"
 	AEC779E84A8BDD202A63BBA6CAF83095 = "過來幫我開採礦物！"
 	02F88C2D41AC58CB8E4F73941BA9DA59 = "幫我一下啦，你這混蛋！"
+	7690F25E4F9B1C673EC10697373B016F = "救我！"
 	95697E3E4805B9FB2F4D4392B5CB099C = "救命！我卡在天花板！"
 	FD1F650140D5BC7C000D4391C6713062 = "救命！我被卡住了！"
 	A215EC224F96CCFEC27AFAA41AEA8691 = "救命！請快點！"
@@ -1471,6 +1497,7 @@ Namespace Global (3846 keys)
 	3D8512F244889533244578B03F883B63 = "高"
 	CF7327794B0E258F0E2216AE8286456A = "高"
 	FE4F28CC495B46DEE70654A9E7B24336 = "強光照明彈"
+	1617EAFD4D319ACE285264B5E95C92BB = "射速加快"
 	FEC7BE5B4C35375AB609349A44684E93 = "射速加快"
 	DA5046C44AC47E614D524996C1173AA0 = "Hightened Senses"
 	7566B4C640466DB5F795778F68183EE7 = "提示"
@@ -1500,7 +1527,9 @@ Namespace Global (3846 keys)
 	CDC237994EF10DAC827317AE01EDF4AB = "希望今天會更好！"
 	665339684E8DEE84F642BE93D03E79A4 = "滑鼠水平靈敏度"
 	2D3616864CCD114C352D768524620CCF = "主持人解散隊伍。"
+	2A19C68A483513E82F4950A6B1C8AE2C = "主持：非公開"
 	5DB06C2E4767C351EEDBF3AAD02CD0EC = "主持：非公開"
+	46A860C9472E81AA24C05EB0DB81AB6F = "主持：公開"
 	474D2304485CCA3E89CAE2B8EB06330F = "主持：公開"
 	030F6AD844949B06D0A3DC823B4008AB = "主持公開遊戲"
 	62725DDA48CFD7061B7D9BB69399C458 = "敵人！"
@@ -1672,6 +1701,7 @@ Namespace Global (3846 keys)
 	7762816C4C6962EA5FD33EA302EB26C5 = "只要你「大喊」後，萬事蜂就會停止手邊的工作來找你。"
 	07E9341B4715E109B5E3A6A4E627F90B = "如果你看見牆上用奇形怪狀的碎片，快動手挖！說不定裡頭埋有寶藏。"
 	45A04ED44137401D7016C38DFDD96755 = "忽略邀請"
+	5928D3B94CFF655EADE1E68BABC3917A = "忽略!"
 	1422D3AB49B2BE4AEF2B2D9A742574F1 = "插畫及介面藝術"
 	0645A9594F688F770079D989D1E464E7 = "緩衝補償器"
 	66F0E28D499A2369799491AF83FEBFC4 = "完全看不見阿！"
@@ -1711,6 +1741,7 @@ Namespace Global (3846 keys)
 	5819A0924626E8EDC652E2B28362C8F0 = "邀請朋友"
 	77A386154B88F4F15C7FEEA354FAE763 = "鋼鐵意志"
 	4E840A724E756FC5F9E8C0B2BADF8054 = "鐵！"
+	4013F89940C29E93B31DDABF6CA77BDB = "是只尤窩還是整艘太空船都在晃...？"
 	37293DFD4F26A0E9924BBEA4966E0042 = "容我鄭重地告訴你，你不能帶著油桶陪你執行任務。"
 	2F738DC94DAD08BABAAD4F9C648E40F1 = "燙死我了！"
 	C5AE7B8A425B17DBF00A31A5A26776D7 = "如同箱上的說明。對著牆壁射出高揮發性化合物後，將會立即凝化成可負重數噸的水泥狀平臺。禁止攝食本物！"
@@ -1839,6 +1870,7 @@ Namespace Global (3846 keys)
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	A5666AB64D46422F0773AF905EF3229B = "大彈藥包"
 	B021245C4ED985858EA887B7D06D5792 = "大彈藥包"
+	18419EAD46D72299BD1CDEB4D75552F3 = "大口徑彈頭"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "加長掛帶"
 	9E5515644E360F6FD5B604B5E5CB78DF = "加長掛帶"
 	A58587444D096FC60CC81D9393CF222E = "加長掛帶"
@@ -1851,10 +1883,12 @@ Namespace Global (3846 keys)
 	9FE6422F4BFDC9886677C49255AD4C18 = "最後一枚手榴彈！"
 	AFDBBBD64098AE715404DEB56DC587A4 = "Last one to finish is a pointy eared leaf lover!"
 	03771CB741D6A8F7585D8CA572DF34A6 = "發射控制台回報發射井內出現異物。看起來有東西正在干擾力場。你有頭緒嗎？"
+	4774F72D4DDFD43AC87114A145289047 = "進行單人任務"
 	6E1DC7B840DE3BEC3890A49E15DB85CB = "進行教學"
 	24E3B6104385AD8F626355923BC6791A = "往軌道升空中！"
 	79564CFA42A35871D08146B04D126B79 = "熔岩噴泉"
 	FEFF895A414D3AEC76290588CF272B45 = "熔岩噴泉"
+	1E45FDAA4921179249BF818F35462E13 = "首席美術"
 	C82FD77B4DD700A39D96A6B0434FEA14 = "程式設計組長"
 	A93EC70F444E43EEA47EE0B5A9A72F09 = "一葉情特調"
 	65A9B671478FB42CBF6167AE0025BDA0 = "離開隊伍"
@@ -1924,6 +1958,7 @@ Namespace Global (3846 keys)
 	30B32E77429EC5FF0667A68797E638CC = "照明到了！"
 	202B7B43462BE9B06BB8E7BE0F3A44BF = "照亮！"
 	072527FD45936C5D7E97A6829F0473BC = "跟小孩要糖吃沒兩樣！"
+	4EC924B84FD96E9405D25080271F518B = "像這樣！"
 	85D3FF304DF494B8FE3340A058ABED0D = "像這樣！"
 	F4269EA5464E50BE6442D3B45F4CD9B3 = "像這樣！"
 	0233929442C7467924267CBA88E3425D = "在眼眉長出兩撇鬍子。"
@@ -1976,6 +2011,7 @@ Namespace Global (3846 keys)
 	432509D94101D7F887A979B6F7B2BA80 = "礦騾雕像"
 	739783CC49AE38F6F1AE6D963CF9D972 = "礦騾雕像"
 	989A12134B0890965A407D83BD33CD40 = "礦騾雕像"
+	21EC381847CABC6E342A77B7C10DB1D5 = "紀念堂"
 	DBF84CCA408EFEF59E11CA97B1FE5298 = "紀念堂"
 	C3163011427D5A021CD8CA9DAC3B6C0D = "達成里程碑"
 	2DDC61E64D3ADC79655B8C88A3C4AB51 = "里程碑"
@@ -2166,6 +2202,7 @@ Namespace Global (3846 keys)
 	611133B24CBE09AA7BAFA3A1C5BBF3D9 = "完成危害層級３或以上的任務"
 	3796F5BA47DABAC727A3869531B4D7D9 = "登入mixer"
 	421A198642CC485C6E16ACB86B505CD2 = "登出 Mixer"
+	21B57D6646B6AA3FFC297CA33C763A83 = "都歸我的！"
 	2EEBC8B7410814956CB2668C16E76C03 = "嗯，我現在好想喝冰啤酒阿...！"
 	7F5D45D04D76923396C02CB920DE20C1 = "中等ＮＡＴ"
 	E426D8494702124B6A9D8688A73CC496 = "莫莉在路上了！"
@@ -2180,6 +2217,7 @@ Namespace Global (3846 keys)
 	8217E5D24BD83F9F41A9E7B13EA39973 = "傷害提升"
 	8459276A46896A576AB45285535C0D1E = "傷害提升"
 	A56E5AAD47020EB58D7DC0B0155543C7 = "更多的傷害"
+	258E88D448AC31D686810EA4B474A8AD = "額外彈藥"
 	687C211F46A00A43AB75BA93F16985A4 = "額外彈藥"
 	868031B44D72434150443CB0A99633B0 = "更多的彈藥在路上了！"
 	57631DAB4FE1B7FA6606CC88227D49B1 = "更有效抵抗敵人"
@@ -2247,6 +2285,7 @@ Namespace Global (3846 keys)
 	801BA77A4D781882A479418812A4C628 = "感到再好不過了"
 	DBBA53E84F566413D90533A0C67236BB = "感到再好不過了！"
 	0A2228BA44E6966CE21B96B2E0448AB9 = "永不放棄！生命值歸零後依然可維持行動達 {value} 秒！(４５秒冷卻時間）"
+	59D63F4445AC9F6C362D1EA8BB115C20 = "新角色"
 	C0027D1B4000EEFC8109E7BE2E3E58DA = "新髮型"
 	06DFF8D844D3C98095B16E8429B97566 = "新道具可供選用"
 	C8FFF8E64C0101874D8E96A27D29DCDD = "新專長欄位"
@@ -2340,17 +2379,21 @@ Namespace Global (3846 keys)
 	8525F1414F29FFA88CD1F5830B0DD479 = "目標素材"
 	D4F3ED82438770D91321B4AC4C94C841 = "目標素材"
 	8A8E30614C81D7F2A68B1EAB0EAFADAB = "障礙物？只不過是花崗岩碎石。"
+	4860D28C4B26DDF0D4B33CABAD76BC6E = "出發囉！ "
 	CF8F160C43A82DB71C73A8ACB1D6D20F = "Offering more armor at a significantly reduced weight while maintaining flexibility, this suit is superior to its' predecessors in almost every single way. Plus, we've been told it looks swish as hell."
 	4A68B6014D09DF8B55C26A88E307047B = "哦－ "
+	5FCB25C74703BA52FFA6BB813B533543 = "辦公室主管"
 	24E5BD4547E139A2C953A5B517597E20 = "媽的！"
 	33D8AA494C197647EDD9EFA2BF6BC4CB = "媽的！"
 	3C89072E4E19E6FC693524B4966E028E = "媽的！"
 	7E783C0945E8FD0193C310999DF4C85A = "媽的！"
+	4FAEB4284F774DC333A2E4BEA3195F2A = "噢，拜託！"
 	DB2C6AF04D917F95899B71B5F09BFE33 = "哦買尬得！ "
 	EB050EE744E2D25344993D9FC83C5F9F = "噢耶！"
 	134D283042E0C88A4DBBF7A0809D6256 = "哦耶!"
 	35E3B2F044AA5109C619F295872F562E = "噢耶！"
 	15FB9644403E6D03ACF31F9C3E302D8A = "噢，我喜歡！"
+	24A0ECBC46C08A4A3B916AB7FA93F59A = "啊呃……我的頭好暈阿……！"
 	E63DAFB842FB5D136062BBB0EA2096EA = "噢～～耶～～！"
 	DF10E928416972CB474691997581B320 = "代醉羔羊"
 	461306404D063A6834BEA59C87B0B118 = "Ｏｋ按鈕"
@@ -2364,6 +2407,30 @@ Namespace Global (3846 keys)
 	C28E671A45A9BE49D0C173888F1C00DB = "在任務終端的地圖中，你可以了解有關各區域的描述及礦物種類。"
 	7BF994A8421E1EE88429E3B954B9C08D = "螢幕說明"
 	C03801984EB9B6D7D536F3BACDE81C4F = "正在啟動空降艙主機。"
+	8762E3E74B0D5CCF46FF81803FAAD508 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	986E87284F7DA45D79751A8DF8DFEE24 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	FF24FD024955050809A7708370DB971A = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
 	1691C1544A6F5EB4E1F2289D76C9968A = "乾了！"
 	8609CA944A8413052C562086E7C47786 = "又進一個！"
 	E51ADE8A4FDB509121F63B8F9A6A7FE2 = "解決一隻！"
@@ -2441,6 +2508,7 @@ Namespace Global (3846 keys)
 	C7B1B77E43E6B31D18F2F2971E72CD04 = "空降艙離開倒數："
 	D5925F6B4EC22216579581A4E06C601A = "空降艙正在充能"
 	0E40CA4047102A62E43D82B23E361885 = "海報"
+	1FF13B8C4D6232CE2ED95493FE9280CB = "海報"
 	267BC29C4F46F53315DF40ACFF774224 = "海報"
 	32530E554582457AA11ED08573659070 = "海報"
 	3A3823784CC35059D668D68497667DCB = "海報"
@@ -2676,8 +2744,9 @@ Namespace Global (3846 keys)
 	83E2EA684FD79938D13434939A276900 = "是階級不同亦或是收入差距呢？"
 	761586C14EE3CCA7F69712804CE964F2 = "斯文典雅"
 	EED843D84B53B9B82127A484C6996E00 = "重新整理"
-	492E7C56428382FB5AB22DBCFC14BE9D = "Refreshing"
+	492E7C56428382FB5AB22DBCFC14BE9D = "提神"
 	658A88894E440EAF00ED27984B2CF92D = "為空降艙充能"
+	2912370E498E51A44CC5B2847A605136 = "區域"
 	670883724DC8BDBEC2F722827F2657F8 = "區域"
 	0970786D4CABB3ED983676B16132E5AD = "普通"
 	4FF9E7054AAD9F167995EBB523066300 = "強化纜繩"
@@ -2732,6 +2801,7 @@ Namespace Global (3846 keys)
 	E22A279B4D4C92FB115A9E8B3B2FA685 = "補給到達！快去補充！"
 	3C625D624AC0652BA30C71A01117D1B8 = "已呼叫補給！"
 	67289C6E467DA8A9294AB5831058E1C2 = "補給艙"
+	2595DDF2421600A4E23DBA930382415D = "退休"
 	68D57CF046190F38CE798FB707251BA1 = "空降艙準備回航。"
 	BFA2CE964EBA470A857FDBBC1B69761F = "要求召回"
 	DC53FE5144AE597A3EB999BBF2C05646 = "返回空降艙"
@@ -2806,6 +2876,7 @@ Namespace Global (3846 keys)
 	2F0057A7463F40242E296DA1B2287BF0 = "射擊靶場"
 	7C9C379D44C38D9E8C5009A3CAD7CA36 = "射擊靶場"
 	15ED2FE74FE0F17CAEC81092403BE334 = "大喊吸引別人注意！"
+	5372947F44B2E12925B1DB860DFF3012 = "衝鋒槍"
 	0BE6E5F947FE746CE21F4492255214C3 = "暴風雪"
 	10560BF04D787E75B1AB14BB135F8589 = "暴風雪"
 	AC8F021C438EDD18B5698582BB809EF2 = "單人模式"
@@ -2899,6 +2970,7 @@ Namespace Global (3846 keys)
 	35CBF4CB4971BEA5A98764B6B9AA0517 = "伺服器清單"
 	36ABD8F94D9CD492CF2305A349E1F2BA = "伺服器清單"
 	5A787CDC494D5208488B099E6738277E = "伺服器清單"
+	624DBA604C69CAEB9D5EFFBC2BEF13AF = "伺服器清單"
 	773D362D4C4D758201DF32988B89CD15 = "伺服器清單"
 	502EAF5545B73F1DD7A303889BAF14C9 = "伺服器名稱"
 	8F5F93304D1B4807EAFA42B8AEEEC13F = "伺服器密碼（可選擇）"
@@ -2979,6 +3051,7 @@ Namespace Global (3846 keys)
 	4F2BF5734C419FDD4EA78D830D307596 = "太閃亮了！"
 	7F13BCE74172807F5686CBBA266F46EA = "我就是喜歡巨〜〜炮〜〜，又如何？"
 	2FFAB60F4FF61BA6946293977866F47E = "單人"
+	38FA37804B0B164ED82D96AE48D5F065 = "單人"
 	B2E1265A42C5AB5F4D2CEC9B85194128 = "完成單人任務"
 	B40221884B79B44599A279908B225246 = "驚世駭俗。"
 	1021949A4CAB2EFA1E93C396A211BF8D = "提供基礎防護。"
@@ -3003,6 +3076,7 @@ Namespace Global (3846 keys)
 	51FF329C4262F9EDE595F4A3B74C0FED = "抱歉，這是私人遊戲。"
 	7F97A3E04517768226AAAFAAE2116ECF = "聲音效果音量"
 	9571618340ED09ABE651E1BE3D40B760 = "滑纜鋼索馬達增強"
+	29659A6542303A13DB1210B9A86937B5 = "生成"
 	4F19841942B5BF3E99BBC3A0DB79F70A = "生成"
 	9E8C76B04813D0B0AAA63B863B1E9C0C = "Spawn Goo bomber"
 	390811154CFCFBD7B1C75D8793B564F0 = "Spawn Infected Mule"
@@ -3025,6 +3099,7 @@ Namespace Global (3846 keys)
 	B18FDD574C07E200D510858741F49DC1 = "標準頭盔"
 	B711164C4E1E14E68A3EE399990F3AA4 = "任務守則：採集足量的「墨菱石」並安全歸來。根據雷達指示，這一帶洞穴複雜以致探勘困難，千萬別迷失了！"
 	744CB1E2407EA5B7AA9A02A12E036895 = "開始礦物處理"
+	02C2EEA04D4DAEFA7625A48CFCD622F7 = "開始任務"
 	969223DA47B497E8B142FDB5A2075C54 = "到「任務終端」開始任務，並邀請好友。"
 	2D636E344F707B36EB2B3AA8E516C68A = "儲藏"
 	59E6504B406478818178C89B73CA7111 = "倉庫"
@@ -3064,6 +3139,8 @@ Namespace Global (3846 keys)
 	D5AD36B446716E5D1B853C9E40088B91 = "新潮又實用！"
 	250E337E407CE7A1D195679E6B89485C = "新潮又實用！就是要能夠搭到你的裝甲。"
 	DB489643455D07AB6E6166A56F047998 = "新潮又實用！就是要能夠搭到你的裝甲。"
+	1526D6124A85E9C5A69A9B8246CEC39A = "「速霸牠」１２０半自動手槍"
+	1A4662E546567345EC0479BB4DAF992F = "「速霸牠」１２０半自動手槍"
 	C086D4174E9B15BF0A19F48247CD8DB8 = "字幕"
 	88E79D4D44DC163227E537BBBBB740C8 = "吃我這招，醜八怪！"
 	B85430EB48ED72FB419E5F8C019B725B = "閉嘴！準備開幹！"
@@ -3103,8 +3180,10 @@ Namespace Global (3846 keys)
 	AE66380E409563A1BF5CAE973528CEFC = "隊伍合作是關鍵！"
 	365C77A54A278546EDE12CA8FCE40FB6 = "隊伍合作的問題"
 	4097330946AE9998B69F0BBC3CECE451 = "測試"
+	540499344CC9AD1D69AB8597C9A58FFD = "測試"
 	A52D613749DC4B55AC7DE7A8CFE3286F = "測試"
 	58407C3147A6F4750EF2E88A021B09F8 = "測試文本"
+	612FA3AD4C8B23B3F298239799F0FBE4 = "測試文字"
 	DC2D64B34420D221B3F13DBD2ACDC305 = "測試文本"
 	A144BE024D2F793246E9EBA6B51DDEAB = "文本"
 	939943974F5DFB141EF3A68DFB08266B = "感謝您願意支持開發初期的《寰宇勘探隊》。希望這款我們引以為榮的遊戲，能夠讓您盡情地享受。請注意目前仍為先行測試版，遊玩過程中勢必將遇到程式錯誤(BUG) 及穩定性問題，例如Xbox Live的聊天、多人遊戲的表現可能會不如人意(也可能無法使用)。亦因為是售前測試，微軟及其發行商並未對此遊戲提供售後服務。"
@@ -3199,6 +3278,7 @@ Namespace Global (3846 keys)
 	4FAE351F4602CE885CBE208EC0EC93F6 = "獵場看守人"
 	6D98BBFA4E2F389C147426919B030911 = "The Gunner-version of the MK3 suit incorporates several breakthrough technologies straight off the lines at R&D. Ablative kevlar-plating, zero-friction joints, the list goes on and the eggheads are frankly pretty proud of this one."
 	A9FBA82448D1116F16FCAE86F9852888 = "渦輪力場手榴彈－研發中心的科學家們花費數年以來的心血結晶。往蟲群扔出這顆寶貝，之後就看牠們慢慢爬吧。"
+	6B87C0154CC9C48DF514E988C3D3DF3F = "一葉情特調非常適合討好管理部門。大概就像是一頭踢錯方向的騾子。這杯飲料解你宿醉的效力比減薪還快，喝下之後也不會感到不適。而且受檢日時很適合用來規避檢驗，只要你別嘴賤說出來就好。"
 	49B9AE6C44B820C39293DCAFCEBD2AD8 = "礦騾每隔一陣子就會往你靠過去，你也可以隨時進行呼叫。"
 	B607F04F45EF5FFAE8ACFFADA89026D8 = "The MK3 line of mining gear is top of the line, and even this cut-down version offers several improvements over previous suits. It features heavy-duty powercells built straight into the plating, as well as handy pockets for snacks - not to mention an FM-radio in the collar."
 	7FF850FB48160411363934B3A419B674 = "成功回收礦騾。腳步加快阿，各位！空降艙是不等人的！"
@@ -3206,7 +3286,7 @@ Namespace Global (3846 keys)
 	B5F88B614F4D23D9FBB2E794B71A7DB9 = "礦騾回收完畢！寰宇堪探隊感謝你的辛苦付出。發射程序啟動！ "
 	0E54BD364754EE0DF46F99855A112A8B = "已確保礦騾入艙！啟動發射程序！寰宇勘探隊感謝你的辛苦勞動！不管你搭上來了沒，空降艙準備回航！"
 	E8BEA7054EA9AB6ACB9AC7952D946C3D = "礦騾正在回去，跟著礦騾回到修理好的空降艙！記著空降艙側有存礦點！"
-	DCDA9DC949887F8DE364D3810121CC7B = "「代醉羔羊」，是酒吧裡經典且濃度較低的酒品。飲後伴隨著豐富的奶香味，價格實惠也讓它成為夯作。"
+	DCDA9DC949887F8DE364D3810121CC7B = "代醉羔羊，是酒吧裡經典且濃度較低的酒品。飲後伴隨著豐富的奶香味，價格實惠也讓它成為夯品。"
 	BDC555B04347B711E259F19A7EC00A5F = "補給艙到達了！"
 	CDE0369F485F0684E9852696C226DC60 = "酷斯星的「鹽晶峭壁」曾經為巨大地下湖之所在地。於數十億年前乾涸後留下了龐大的紅鹽結晶體。紅鹽雖然毫無價值－但與螂蛛歐姆蛋共食堪稱絕配。"
 	9E30AD4649558B6A4B2BFBACF90C9750 = "The Scout class isn't known for their heavy gear. But sometimes you do wanna dress for the job - especially if the job is facing down three 2-ton Dreadnoughts at close range. Stay safe."
@@ -3222,6 +3302,7 @@ Namespace Global (3846 keys)
 	7683372A4E5F7599D19358AA3585152B = "酷斯星的生物再怎樣頑強，都不及你手上強勁的好槍。"
 	75C48C51486448C2459B1C8324C497E1 = "偵察兵行家的選擇。"
 	8C9D3C2245C2DCFC0B474DA982EB594A = "偵察兵行家的選擇。"
+	C9203A8644D17AF12F2FA1A72B5BF437 = "千百道的豔陽奔流融合於這杯黝黑而發亮的調酒中。大家都很好奇為何卡爾能夠名留青史。碎顱烈酒不外乎就是其中的原因之一，這杯能讓你如願，小心點。"
 	D6B58FC042E403301BE0D4AC166F890D = "無與倫比的傳奇之帽，以此紀念所有矮人心中特別的那一段假期。"
 	4ACB0D84456C00BEFFB4A7A9453C1E62 = "最後一波正在迫近，保持鎮定！"
 	2B3F55EA4DF60D6F2B76488C4846053C = "光源持續更久"
@@ -3231,6 +3312,7 @@ Namespace Global (3846 keys)
 	1427F38744164A0EACBE5C9DF34C4A82 = "紀念堂是緬懷罹難礦工的地方，請隨意參觀、悼念。"
 	39BD1CF440B83EBA505AF9852120B3A0 = "空降艙準備召回礦騾了！"
 	911620A14A68BCA957363AA95E336206 = "The no-frills version of the advanced MK3 line of armor. Cheap and light (comparatively speaking), this comfortable suit will provide a Driller with all the protection he needs for most operations. Or so the blurp on the box says, anyway..."
+	3C91B4CC42E492A2B686CC842D9C2D65 = "由公司所批准的首款啤酒。苦澀卻順口，也不至於讓員工喝到掛點。"
 	6A26F9D647B828C478B187A6F32C0097 = "完美的怪物殺手外觀。"
 	C49E21D54F90751C68D12A9512EDA163 = "完美的怪物殺手外觀。"
 	E27840C54B222B71D9DBD2A4E7657097 = "完美的怪物殺手外觀。"
@@ -3340,7 +3422,7 @@ Namespace Global (3846 keys)
 	294267394B4991C45457AD9F630212A6 = "鈦合金強化"
 	67C7B7AA47CF6D61AA61D191B41B37ED = "這裡是標題"
 	774DA7554A4DFED4F1B961A919D144E4 = "To Danger! "
-	0EAA862A4D14395060D94CB12C2C0EF3 = "To Rock and Stone!"
+	0EAA862A4D14395060D94CB12C2C0EF3 = "為明天的氣力乾杯！"
 	E87948544AB3CB99EE5427B074AFAE39 = "為團結乾杯！ "
 	DACB7960499B22A9FE7FF1AA094554B3 = "蓋在頭上。"
 	032D48EF45459E30EF0227AC62685F8C = "敬夥伴，敬黑暗，斬斷一切的羈絆！"
@@ -3400,8 +3482,9 @@ Namespace Global (3846 keys)
 	68D364CF4183DF3F945DD99F3F3A53B8 = "在此處輸入內容"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "使用者介面"
 	B9B8DF3947F5817463C75E91163945B2 = "使用者介面比例"
+	17E10C7744E0699B82D945B0F00A09B1 = "未知類型"
 	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "UNKNOWN TYPE {type}"
-	1DFF07CD499D9C20484D76BF57D90FD9 = "UNLOCKED:"
+	1DFF07CD499D9C20484D76BF57D90FD9 = "已解鎖："
 	57E6BB0F42206D722E6E1A866FC825D0 = "升級裝備"
 	154D798349596E65C508169C1B0BD295 = "升級你的裝備"
 	68B79960422B69C0689251A8A121BF01 = "完成上傳"
@@ -3609,6 +3692,8 @@ ROCK & STONE!"
 	47178EEA4E6605A5A1CDFE8B5C7FEB5B = "雷達顯示有煉獄螂蛛！逼近你們那邊了！"
 	D31337B2482663381E5599914CC50640 = "雷達顯示有煉獄螂蛛！逼近你們那邊了！"
 	1A20AB4D47A72448274AF49453E1ECB9 = "雷達顯示有多處震動，可能是很大隻的！各位作好準備！ "
+	1B0556E047607D0624E084B3904B4693 = "我們向您致敬。"
+	572A341942B51587976CAE9B5D0AF9B7 = "我們向您致敬。"
 	7901F74D493F5C1E01B3A0A5CFECA68E = "只差一點點！媽的！"
 	B984190E4E8E8B10C3136F88EB20C27D = "我們快到了！他媽的！"
 	519B7A83478ED16C42ADAAA0F0C481C1 = "我們都完了！"
@@ -3633,6 +3718,7 @@ ROCK & STONE!"
 	8B6DABC642B3D44D3588279EF5AD6013 = "隊伍，做得好。解除無畏刁蟲的威脅。啟動礦騾上的按鈕，我們會派出空降艙接你們回來。"
 	7266AE9E44FFE4E6AC8577AFC8AB36D0 = "作得好，全部完成了！按下控制鈕退回鑽頭，我們隨後將空降艙送過去！ "
 	A6DC4FDD42DF64AF4E18ADBE9FD21B04 = "見鬼啦！我以為你早就掛了！"
+	2441F774439907E39C60C1AA78AAF73C = "瞧瞧這個！"
 	BD94BDD545A4585DED8B8EACD9A82AC2 = "「人生無常，大腸包小腸！」"
 	D72361B848B681335B468FA103723978 = "真是「生死有命，富貴在天！」"
 	11DA0A614346C7826E4CBBB35EE3CFE9 = "把同仁送到這裡來連我們都覺得很過意不去，但礦產之豐富實在是令人心養難耐。毒菌沼地就是個這麼糟糕的地方！這塊區域四周佈滿了黏液、黴菌、帶刺昆蟲、蘑菇、臭泥還有腐蝕性青苔。 "
@@ -3648,10 +3734,12 @@ ROCK & STONE!"
 	B4B6B9254E60DF119D63319DEE7C420B = "用子彈及蠻力應付不了敵軍時，就燒出一片鋪天蓋地的火海吧。千萬別噴中自己。"
 	29CB9F424DCD0229D7F81B8EE8C853B2 = "當關鍵在於可見性。"
 	4208F00D40E5B10DF37D108B8CF07654 = "回去之後...就能吃三明治了..."
+	A4F75F664C9ADCE3B8908B81FB11B643 = "當你別無選擇，殺怪若渴時，就別再想了。融入上等啤酒、哈瓦那辣醬和軍規級戰鬥激素，紅岩射手絕對能讓你殺紅眼！"
 	0E57D4F04BB0BBE48CC940990FB1431C = "該死的礦騾在哪？"
 	788BD30E4C08AA1B6FC95A8CDA67564D = "那臺破鐵在哪！"
 	BABD412643123080DB38018DD899413A = "門在哪裡？"
 	5EE46AC74F371B5FB5DC4FAFA7580399 = "我該前往哪個區域呢？"
+	AD7C872347095D75CE987C82DC6D1E5A = "大部份的酒類都會讓你昏昏欲睡，精釀黑啤酒卻不盡如此。大口啜飲之後，你解出軌道切入方程式的速度絕對比說出「我還要再一杯！」還快。怎麼可能？多少跟科學有關吧。"
 	DDB882E442E883125621DC9F0B5439F4 = "使用雷射探測器時會浮現所有隊友的輪廓，從中掌握隊友的位置。 "
 	B90152A2422A4306E02BBDA32F198DBF = "白帽"
 	391EC00944D3E9F1AD627180DF91198D = "白色水晶"
@@ -3739,6 +3827,7 @@ ROCK & STONE!"
 	2F1B0D6648871FC797D241A40FBE9914 = "我呸！我吃到沙子了！"
 	C5ACC8EC4F43581855BE9EBE8B411169 = "眼睛糊到蛤子肉哦！你射我幹嘛！"
 	76FAC6A44825A48DF2A12483FA999591 = "好礦騾，莫莉！"
+	6483648946FEBAB88EE971BF63D8ABA4 = "你即將要開始單人任務，若你是主持人的話其他隊友將會被踢出！"
 	42A181434CE0896CB57DA38B901224C4 = "這波就要過了，大家加把勁！"
 	891F0E4A46B837A2FF5B5B9B4C38484B = "你完蛋了！"
 	DCB9DB4A47600847C940649EAEA334C7 = "你正在妨礙任務！回去三角定位區域！"
@@ -3756,6 +3845,7 @@ ROCK & STONE!"
 	26B7F8284A283072236CC8AAE9D04C56 = "你已被踢出遊戲。"
 	7589FE60454A9D2BD29BC6BA2CE886A7 = "你被踢出遊戲。"
 	EA6B14AB4DC910892F48F396AFD08B17 = "你被踢出遊戲。"
+	9A204C7D48C4B06E33891C8E57E71BCC = "您為寰宇堪探隊的壯大盡心盡力，管理部全體同仁向您致敬。離去前請務必清空置物櫃並且留下任何屬於公司的財產。"
 	7385AADD42A9E20A78773E92E52A22E5 = "拜託...你不是來打工的。回崗位上！"
 	35CC851741DAC42CABD91A8ADFFEA2D2 = "站在三角定位區域！快回去！"
 	8771EC024183E2E67E167B93FBD8696A = "你取得自參加遊戲後「莫莉」身上的２５％礦物。
@@ -3953,7 +4043,7 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "完成目標！利用礦騾呼叫空降艙！"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "完成目標，現在能用礦騾呼叫採礦艙了。"
 
-Namespace PatchNotes (25 keys)
+Namespace PatchNotes (26 keys)
 	Update_11_ShortTitle = "死亡與槍械"
 	Update_9_ShortTitle = "鑽得更爽！"
 	Update_14_ShortTitle = "全新異型"
@@ -4619,6 +4709,105 @@ CHANGELIST
 	Update_15_Header = "更新15：突變危機！ - 2018年7月4日"
 	Update_16_Header = "更新16：凛冬已至 - 2018年8月29日"
 	Update_17_Header = "UPDATE 17: OKTOBERFEST! - 20.09.2018"
+	Update_18 = "UPDATE 18: JOB OPPORTUNITIES
+
+Howdy Miners! 
+Time to put on your brand new armor sets, drink beers with buffs and take on new exciting assignments. Oktoberfest is over and we have been busy packing a big bag of cool features for you. Enjoy! 
+
+--- PATCH NOTES ---
+
+NEW ASSIGNMENT SYSTEM
+----------------------------
+Our goal with the assignment system is to create a smoother start for new players and at the same time create excitement for getting access to new content. Assignments in the future will be used to unlock new content like alternative weapons and planet regions.
+
+THE PROBATIONARY PERIOD:
+When you start the game for the first time you now have to complete the Probationary Period in order to prove your worth as a miner. The Probationary Period is a 9-missions long assignment and will take you through the different regions of Hoxxes and challenge you with various missions to complete.   
+
+You can join any missions on the server list, regardless of completion of the Probationary Period. Completing missions that is part of an assignment grants you bonus rewards in the form of crafting materials and credits. After completing the Probationary Period you will have unlocked all regions, missions, and difficulties. 
+
+ATTENTION VETERAN MINERS! Players who have played the game before will get an option to skip the Probationary Period from The Assignment Board terminal. 
+
+
+RETIREMENT
+----------------------------
+RETIREMENT APPLICATION: When you max out a character at level 20, you get the option to complete the Retirement Application Assignment for that character. Select it from the Assignment Board Terminal. When you have completed the assignment you get the option to retire that character from the Character Selection Terminal. 
+
+RETIRING A DWARF: When you retire a character that character will reset to level 1 and you will lose all progress on weapons and upgrades for that character. You will, however, keep all progression on perks, credits, crafting materials, and vanity items. The first time you retire, you will also unlock an extra perk slot for that specific character. Retiring a character is the only way you can increase your player rank above 26, since you need to gain character levels in order to gain player ranks. We are also considering to introduce unlocks of vanity and other features for players above player rank 26.
+
+
+MISSION UPDATES
+----------------------------
+In order to make a smooth Probationary Period assignment, and in general to improve the long-term mining experience, we have tweaked some of the missions and made both simpler and more complex versions of them. 
+
+EGG HUNT: We have for a long time been wanting to improve the missions types Egg Hunt and Search & Extract. In the end, we decided to just merge them together. Here are the changes:
+
+- Egg hunt now takes place in a cave system, similar to what you used to encounter in Search & Extract. 
+- Instead of having to run around and search for the eggs you can use the Terrain Scanner (hold down [M]) to spot their location. 
+- You have to collect fewer eggs than previously. 
+- Egg hunt now has multiple complexities and lengths. 
+- Search & Extract have been removed for now.
+- We resisted the temptation of calling Egg Hunt for Search & Eggstract!
+
+SALVAGE MISSION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Assemble 2 MINI MULES) and long (Assemble 3 MINI MULES) 
+
+ELIMINATION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Kill 2 Dreadnoughts) and long (Kill 3 Dreadnoughts) 
+
+
+BEER BUFFS
+----------------------------
+Buffs have been added to some of the beers and prices have been adjusted: 
+
+- RED ROCK BLASTER: +30% to max health
+- SKULLCRUSHER ALE: +50% Pickaxe damage
+- DARK MORKITE: +20% Morkite mined
+- GLYPHID SLAMMER: A new none-buff beer, but it will still make you happy :-)
+
+Beers with buffs have been given a lower potency effect, so you can drink one without getting drunk. This is done to prevent you from always having to drink the Leaf Lover’s Special if you don’t want to play with the drunk effect on.
+
+Note that Buffs will remain after drinking Leaf Lover’s Special. And also note that Buffs won’t stack. Also-also note that beers have some randomness in how hard they affect you.  
+
+
+NEW MODEL FOR ASSAULT RIFLE
+----------------------------
+Scouts assault rifle has gotten an overhaul of model, animations, and sound. 
+
+
+NEW ARMORS
+----------------------------
+8 new Armors (called MK3 Basic and Heavy) have been implemented, ready for you to buy and equip. They will be unlocked at player rank 10 and 12 respectively. if you are lower than player rank 8 you will only see the MK2 armor in the shop.
+
+
+DIFFICULTY TWEAK
+----------------------------
+Hazard levels for 2-player games have been tweaked to make the jump from playing solo to two players less steep. Scaling factors of enemies for 2-player games have been adjusted like this: Low risk 0.4 to 0.3, Challenging 0.5 to 0.4, Dangerous 0.75 to 0.66, Extreme 1.0 to 0.9 
+
+The Mactera Plague warning has been tweaked down in difficulty. Some craziness is still ensured, but now it should be less punishing. 
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- New dance move when listening to the jukebox.
+- Zip-line fix. Now clients also get forward momentum when jumping off the zip-line.
+- Save files are not overwritten if there is no connection to steam
+- Third person flamethrower gunsling added
+- Fix recoil. It was added before the shot was fired, so you could never be fully accurate.
+- Fix a case where clients are unable to load the map. Resulting in stuck on loading screen.
+- Detect chunks and gems falling out of the world and beam them back
+- SpaceRig - No more blue light in drop pod when launching a mission
+- Oktoberfest banner changed
+- Savegame: Players can no longer gain extra XP above the cap
+- Added mission stats: Total beverages consumed & Total beverage round ordered
+- Fullscreen mode is now handled correctly and does not reset in between sessions.
+- Sun added behind Planet Hoxxes in Spacerig. Planet model slightly updated as well.
+- Clients can now open the mission map while in a hosted game
+
+
+
+"
 	Update_9_Header = "更新９：鑽得更爽！—２０１８年３月９日"
 	Update_16_ShortTitle = "凛冬已至"
 

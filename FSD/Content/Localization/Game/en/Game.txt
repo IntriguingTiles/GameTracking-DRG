@@ -1,7 +1,7 @@
 21 namespaces
-3520 values
+3529 values
 
-Namespace Global (4447 keys)
+Namespace Global (4456 keys)
 	2559D78C40005E5221F26093CB976283 = " Collect {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " I Fell!"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUIRED"
@@ -55,8 +55,7 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	9AAEE08740108161885DFAB73E240B7A = "*Yawn*...I could need a good rest!"
 	99914C684BA996CF46904B80B866DFD5 = "+ 1 BONUS PERK SLOT"
 	9E48C15043BBDBD7AD465B9A8621B44A = "+ All planetary regions unlocked
-+ All mission types unlocked
-+ All difficulties unlocked"
++ All mission types unlocked"
 	743B701443B2E95407A48793DB5D43DB = "+ Driller Retirement Option"
 	70E89AD543F7A4B249C79A8C7D7AB23E = "+ Engineer Retirement Option"
 	66A0823447C3CB00940092A9CB213262 = "+ Gunner Retirement Option"
@@ -298,6 +297,7 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	6FE363F44315E163F28D9D97B64794C6 = "An absolutely majestic profile."
 	533CF1E24270C823FC0725A75FCA6A04 = "An adventurous mix of a cheap, powerful ale with an equally cheap, powerful energy drink. The result is almost, but not quite, entirely undrinkable. But it sure does put a spring in your step."
 	DD1215F14B9E6DA94F08B1AB687608BA = "An agile dwarf is a live dwarf! You now sprint {value}% faster!"
+	7788FB28487AD6E60942BA8B6CF01865 = "An extra perk slot is now available for the {class}"
 	46F8058E4ACB60C590309687C83A8ECD = "Ancestors, that was a bad fricking show...!"
 	B42C3E4142DE9B8DA735678256571B02 = "Ancient"
 	20AAF4014565DAB702E236A3D5489BAE = "And it went boom!"
@@ -352,6 +352,9 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "Art Director"
 	17E32D5547938A68AEE78ABB9D2F8CDC = "Artificial gravity has been reestablished."
 	B625BD434046DDB7B2EFA799704BBE34 = "Artificial gravity recalibrating."
+	5B0263FD4E3394D40F66B690B17852EC = "As a veteran miner, we’re giving you the option to skip this assignment at any point, which will immediately unlock all regions and mission types.
+
+PLEASE NOTE! When you have skipped The Probationary Period you will never get to experience it unless you reset your profile. You will also be missing out on the bonus rewards of credits and crafting materials."
 	5C0F9CD043D4428021283C90BE909B1B = "As made famous by men in top hats or wearing horns."
 	0CEC244D494D3CCCF7467583344FFE9A = "As the DRILLER, you'll be equipped with a set of TITANIUM POWERDRILLS. Your job is to clear any blocked tunnels and obstacles in the path of your team, and in combat you are also a force to be reckoned with: Your drills make short work of most enemies up close, and for longer range engagements you are equipped with a heavy duty FLAMETHROWER."
 	834C9F21492EE499B8B053A277AC48BD = "As the ENGINEER, you carry two essential items for surviving the caves - the PLATFORM GUN shoots climbable platforms into any surface, and your automated SENTRY TURRETS lay down blistering hails of support fire - if you manage to get it set up before you're killed. You may not be the sturdiest of dwarves, but your COMBAT SHOTGUN and devastating GRENADE LAUNCHER still make you a formidable opponent."
@@ -585,7 +588,6 @@ TERMINAL"
 	B7E069AA4384D6FDD82FC9BB59274005 = "CONNECTION LOST"
 	FA3D092E4B1FA4CCC5F1F3A87F894D32 = "CONNECTION LOST"
 	3AC07A124BB671598064218A10F5ACE5 = "CONTENT CREATORS WHO EARLY ON HELPED SPREAD THE WORD ABOUT DRG"
-	A82FB6494E1D2DC165B6D6A3D1A5D152 = "CONTINUE"
 	2A3AB4AF4B195DC2665E73A0330FF4B6 = "COST"
 	6B3D73874527C184D6F169A93964D324 = "COST: 2 CREDITS"
 	0503DC77479E436F6E50DDBA7C86B939 = "COST: {cost} {resource}"
@@ -901,6 +903,7 @@ Management"
 	2183C36D4DA6ECAAB29E2EB807B6ABE6 = "DESTROY"
 	B84032A74DBE9DF270DC7B9AB464C9F7 = "DISTANCE"
 	6C3497904C0C190ABE779A84D68202D3 = "DMP Mk II"
+	5A62FBAF43BB88826C3F62AA57753708 = "DO YOU REALLY WANT TO SKIP THE PROBATIONARY PERIOD? "
 	9D9E9F09482824C4127F7DBAF27EA1F4 = "DON'T TOUCH!"
 	3EDB48484D7905F2F6FD16B4B48E3D50 = "DPS"
 	4F0C34314D139F84317F928BE51534B1 = "DPS"
@@ -1273,6 +1276,7 @@ RANGE"
 	F82A86544F0D5422858FEE895287FD58 = "File {Data}"
 	6EAC0F7748D107D679604BBF49963559 = "Filter"
 	6E1245814EA1D86534832BB284EE1AFD = "Find Mission"
+	6CF81BFA46F8BEF357F59AA0D8432BFE = "Find the eggs"
 	66A7BD9F4745F011CC23D4982F605BC2 = "Fire"
 	CFEEE29E4450454E689DCD9A0A6AC6CF = "Fire Resistant Coating"
 	16B75D65445DA07DFAAD58B15A5947C3 = "Fire in the hole!"
@@ -1417,6 +1421,7 @@ RANGE"
 	20E07346436F70A0A5D619B9192BDABF = "GOLD SCOUT STATUE"
 	5477965F4652EC6C190751B64AC3580C = "GOLD SCOUT STATUE"
 	E3D5823A4CAB05BDE51536BDDA0CEA08 = "GOLD SCOUT STATUE"
+	53D7BFDB4E3095CA493BA095C06BA5ED = "GRANTED"
 	F1E2BD6E4FCF7B776D16F78A4E4E0D97 = "GRAVITY RECALIBRATION"
 	0388A5E2438F9ECCB78D0B9E551D2929 = "GUNNER"
 	2259BDAE45F80808B99C3DAB046D2189 = "GUNNER"
@@ -2577,7 +2582,7 @@ TUTORIAL"
 	801BA77A4D781882A479418812A4C628 = "Never felt better"
 	DBBA53E84F566413D90533A0C67236BB = "Never felt better!"
 	0A2228BA44E6966CE21B96B2E0448AB9 = "Never give up! Stay functional for {value} seconds after reaching 0 health! ( 45 second cooldown )"
-	605A015B4FB0C2F68F95B3AA1933DECC = "Never thought I'd live see this day! One last mission, and I'll start up that brewery of my own..."
+	8398F12D4C77D825A614B8951C564CBF = "Never thought I'd live see this day! One last mission, and I'll start up that brewery of my own..."
 	59D63F4445AC9F6C362D1EA8BB115C20 = "New Character"
 	C0027D1B4000EEFC8109E7BE2E3E58DA = "New Hair"
 	06DFF8D844D3C98095B16E8429B97566 = "New Items Available"
@@ -2727,20 +2732,27 @@ But well done. :D
 	C03801984EB9B6D7D536F3BACDE81C4F = "Onboard mainframe booting."
 	8762E3E74B0D5CCF46FF81803FAAD508 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
 
-While we'd love to keep you around, it is Company policy to extend an offer of retirement at this time. However, In order to qualify, you will need to undergo a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely."
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
 	986E87284F7DA45D79751A8DF8DFEE24 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
 
-While we'd love to keep you around, it is Company policy to extend an offer of retirement at this time. However, In order to qualify, you will need to undergo a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely."
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
 	FF24FD024955050809A7708370DB971A = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
 
-While we'd love to keep you around, it is Company policy to extend an offer of retirement at this time. However, In order to qualify, you will need to undergo a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely."
-	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Once in a while, exceptional employees like yourself stay with us long enough to reach the highest rung of the Company ladder. We applaud your efforts and wish to express our gratitude for all you've done for DRG. 
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
 
-While we'd love to keep you around, it is Company policy to extend an offer of retirement at this time. However, in order to qualify, you will need to undergo a short series of high-risk/high-payout missions. 
-
-(These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.)
-
-Regards,
+- Regards, 
 Management"
 	1691C1544A6F5EB4E1F2289D76C9968A = "One Down!"
 	8609CA944A8413052C562086E7C47786 = "One Down!"
@@ -3039,6 +3051,7 @@ JOIN"
 	E37AD3CD4C1310766327B2843C8FF7B5 = "RET42.EN:"
 	FBF50853456C01248997068A42216933 = "RET42.GN:"
 	E9F6D4A04864A4B996E28A8B199E1317 = "RET42.SC:"
+	D719A1FC4106A74F6CC295822915754A = "RETIREMENT"
 	625637E14AE36161309A579AF48094B0 = "RETIREMENT COST"
 	AF59C94D4E5CE3AAB9FABC8590789489 = "REVERSE"
 	215C6F6348821CFE23F4529451852E51 = "Radioactive"
@@ -3409,6 +3422,8 @@ Character"
 	19A4058E49EA0C335776D39AC7DBD80A = "Silicate Harvester"
 	0B2966BD4821E326CE1BC3843A01F447 = "Silverfox"
 	82D5760A4D36C73A04E752BDC5DE965D = "Simple"
+	F6A9665340F8EAFD2DF2939F833F21D9 = "Skip"
+	AF7BE2A94C8080D8FD40FCA86587E8F1 = "Skip Assignment?"
 	5B64A53B417DDE01D3CFE79FC69612E5 = "Skull Cap"
 	B46214A944C81B118EEADCAC445B6297 = "Skull Crusher Ale"
 	E7DFC7A844719AF4BD0C4A870C17D2FA = "Skullcrusher Ale, please! We're going hunting!"
@@ -3554,6 +3569,7 @@ Character"
 	B85430EB48ED72FB419E5F8C019B725B = "Suit up! Let's roll!"
 	938113644CF21EE4A022DAB305978697 = "Superior dwarven engineering means you can cram even more bullets into your gun!"
 	5C21530C4D54C67AD029EAAA237EE6D6 = "Supplies are on the way!"
+	0A69EBB5407CF7320E35C9BE9538DA61 = "Supply Drop"
 	940F632343E7EFE3D74180BF5EBAA632 = "Supply Drop Beacon"
 	6159899D4805477F3F13BE9CDFC1CE89 = "Supply Pod"
 	DBF0167142059A32A9FAE5A7929E5605 = "Supply Pod launched. Better stand back."
@@ -3727,6 +3743,7 @@ As stated earlier, ALL the Closed-Alpha keys will be revoked before launch."
 	75C48C51486448C2459B1C8324C497E1 = "The choice of the connoisseur Scout."
 	8C9D3C2245C2DCFC0B474DA982EB594A = "The choice of the connoisseur Scout."
 	C9203A8644D17AF12F2FA1A72B5BF437 = "The cosmic fury of a thousand raging suns course through this midnight-black, glistening concoction. People ask why we remember Karl. People ask what made him a legend. Rumor has it Skull Crusher Ale is at least partly to blame. Make of that what you will. Beware."
+	30B64C3A445D22AA500321AA5252CD8A = "The eggs will appear on the Terrain Scanner.\nHold [MapTool] to use it."
 	D2E5E64A436D0B7E3A7D17A672C3006D = "The ground is dangerous!"
 	D6B58FC042E403301BE0D4AC166F890D = "The incomparable hat of legend, commemorating a holiday holding a very special place in the heart of most dwarves."
 	4ACB0D84456C00BEFFB4A7A9453C1E62 = "The last of the wave is approaching you now. Keep it together!"
@@ -5354,7 +5371,22 @@ MINOR FIXES
 - Enemies are no longer "staggered" by physical damage (Melee)
 - Fixed updated Ammo and Clip size was not applied when you first spawned into the mission
 - Changed Item scale in first person so that they clip less with other objects."
-	Update_18 = "Howdy Miners! 
+	Update_18_ShortTitle = "JOB OPPORTUNITIES"
+	Update_13_ShortTitle = "MINOR LIFE CHANGES"
+	Update_15_ShortTitle = "MUTATION WARNING!"
+	Update_17_ShortTitle = "OKTOBERFEST!"
+	Update_10_ShortTitle = "TUNNEL VISION?"
+	Update_10_Header = "UPDATE 10: TUNNEL VISION?  -  16.03.2018"
+	Update_11_Header = "UPDATE 11: DEAD AND GUN  -  23.03.2018"
+	Update_12_Header = "UPDATE 12: FLIES N' FINANCE - 13.04.2018"
+	Update_13_Header = "UPDATE 13: MINOR LIFE CHANGES - 04.05.2018"
+	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
+	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
+	Update_16_Header = "UPDATE 16: WINTER HAS COME - 29.08.2018"
+	Update_17_Header = "UPDATE 17: OKTOBERFEST! - 20.09.2018"
+	Update_18 = "UPDATE 18: JOB OPPORTUNITIES
+
+Howdy Miners! 
 Time to put on your brand new armor sets, drink beers with buffs and take on new exciting assignments. Oktoberfest is over and we have been busy packing a big bag of cool features for you. Enjoy! 
 
 --- PATCH NOTES ---
@@ -5366,11 +5398,9 @@ Our goal with the assignment system is to create a smoother start for new player
 THE PROBATIONARY PERIOD:
 When you start the game for the first time you now have to complete the Probationary Period in order to prove your worth as a miner. The Probationary Period is a 9-missions long assignment and will take you through the different regions of Hoxxes and challenge you with various missions to complete.   
 
-Completing missions that is part of an assignment grants you bonus rewards in the form of crafting materials and credits.
+You can join any missions on the server list, regardless of completion of the Probationary Period. Completing missions that is part of an assignment grants you bonus rewards in the form of crafting materials and credits. After completing the Probationary Period you will have unlocked all regions, missions, and difficulties. 
 
-After completing the Probationary Period you will have unlocked all regions, missions, and difficulties. 
-
-ATTENTION PRO MINERS! Management of DRG is insisting that experienced players also complete the Probationary Period. We tried hard to make them see it differently, but they were very persistent!
+ATTENTION VETERAN MINERS! Players who have played the game before will get an option to skip the Probationary Period from The Assignment Board terminal. 
 
 
 RETIREMENT
@@ -5394,11 +5424,11 @@ EGG HUNT: We have for a long time been wanting to improve the missions types Egg
 - We resisted the temptation of calling Egg Hunt for Search & Eggstract!
 
 SALVAGE MISSION
-- The cave systems now can generate both medium and high complexity levels
+- The cave systems can now generate both medium and high complexity levels
 - Length short (Assemble 2 MINI MULES) and long (Assemble 3 MINI MULES) 
 
 ELIMINATION
-- The cave systems now can generate both medium and high complexity levels
+- The cave systems can now generate both medium and high complexity levels
 - Length short (Kill 2 Dreadnoughts) and long (Kill 3 Dreadnoughts) 
 
 
@@ -5411,6 +5441,10 @@ Buffs have been added to some of the beers and prices have been adjusted:
 - DARK MORKITE: +20% Morkite mined
 - GLYPHID SLAMMER: A new none-buff beer, but it will still make you happy :-)
 
+Beers with buffs have been given a lower potency effect, so you can drink one without getting drunk. This is done to prevent you from always having to drink the Leaf Lover’s Special if you don’t want to play with the drunk effect on.
+
+Note that Buffs will remain after drinking Leaf Lover’s Special. And also note that Buffs won’t stack. Also-also note that beers have some randomness in how hard they affect you.  
+
 
 NEW MODEL FOR ASSAULT RIFLE
 ----------------------------
@@ -5419,7 +5453,7 @@ Scouts assault rifle has gotten an overhaul of model, animations, and sound.
 
 NEW ARMORS
 ----------------------------
-8 new Armors (called MK3 Basic and Heavy) have been implemented, ready for you to buy and equip.
+8 new Armors (called MK3 Basic and Heavy) have been implemented, ready for you to buy and equip. They will be unlocked at player rank 10 and 12 respectively. if you are lower than player rank 8 you will only see the MK2 armor in the shop.
 
 
 DIFFICULTY TWEAK
@@ -5444,23 +5478,11 @@ FIXES AND IMPROVEMENTS
 - Added mission stats: Total beverages consumed & Total beverage round ordered
 - Fullscreen mode is now handled correctly and does not reset in between sessions.
 - Sun added behind Planet Hoxxes in Spacerig. Planet model slightly updated as well.
+- Clients can now open the mission map while in a hosted game
 
 
 
 "
-	Update_18_ShortTitle = "JOB OPPORTUNITIES"
-	Update_13_ShortTitle = "MINOR LIFE CHANGES"
-	Update_15_ShortTitle = "MUTATION WARNING!"
-	Update_17_ShortTitle = "OKTOBERFEST!"
-	Update_10_ShortTitle = "TUNNEL VISION?"
-	Update_10_Header = "UPDATE 10: TUNNEL VISION?  -  16.03.2018"
-	Update_11_Header = "UPDATE 11: DEAD AND GUN  -  23.03.2018"
-	Update_12_Header = "UPDATE 12: FLIES N' FINANCE - 13.04.2018"
-	Update_13_Header = "UPDATE 13: MINOR LIFE CHANGES - 04.05.2018"
-	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
-	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
-	Update_16_Header = "UPDATE 16: WINTER HAS COME - 29.08.2018"
-	Update_17_Header = "UPDATE 17: OKTOBERFEST! - 20.09.2018"
 	Update_18_Header = "UPDATE 18: JOB OPPORTUNITIES - 11.10.2018"
 	Update_9_Header = "UPDATE 9: DRILL YOU LATER!  -  09.03.2018"
 	Update_16_ShortTitle = "WINTER HAS COME"
@@ -5510,7 +5532,7 @@ Namespace StatValues (26 keys)
 Namespace Techincal (1 keys)
 	ClosedAlpha = "Closed Alpha"
 
-Namespace UI (35 keys)
+Namespace UI (37 keys)
 	Anomalies = "Anomalies"
 	Armor = "Armor"
 	AssaultRifle = "Assault Rifle"
@@ -5518,6 +5540,7 @@ Namespace UI (35 keys)
 	CaveComplexity = "Cave Complexity"
 	Close = "Close"
 	Complexity = "Complexity"
+	Continue = "Continue"
 	Hazard = "Hazard"
 	HazardLevel = "Hazard Level"
 	HeavyWeapon = "Heavy Weapon"
@@ -5544,6 +5567,7 @@ Namespace UI (35 keys)
 	Yes = "Yes"
 	Back_Controller = "[CloseMenu] Back"
 	Close_Controller = "[CloseMenu] Close"
+	Continue_Controller = "[CloseMenu] Continue"
 	No_Controller = "[CloseMenu] No"
 	Yes_Controller = "[OkMenu] Yes"
 

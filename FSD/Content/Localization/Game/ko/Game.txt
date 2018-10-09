@@ -1,7 +1,7 @@
 21 namespaces
-3467 values
+3466 values
 
-Namespace Global (4335 keys)
+Namespace Global (4334 keys)
 	2559D78C40005E5221F26093CB976283 = " {Collected}/{Required} {Title} 을(를) 수집하시오"
 	3E2E82954782E77A2F596AB7FEA09136 = " 나 떨어졌어!"
 	31D60A1449082F9AB6DC15844F3810F6 = " 필요함"
@@ -54,9 +54,8 @@ Namespace Global (4335 keys)
 	1B315FD042F69E6FEFF72BA7F39D5C01 = "* 모든 계좌는 퇴직 전 DRG에 정산되어야합니다. 이것은 방과 보드판, 장비 및 장비의 마모뿐만 아니라, 바에서 제작 한 맥주잔을 포함합니다. 결국, DRG는 자선사업이 아니란겁니다."
 	9AAEE08740108161885DFAB73E240B7A = "*하품*...충분한 휴식이 필요하겠는데!"
 	99914C684BA996CF46904B80B866DFD5 = "+1 보너스 퍽 슬롯"
-	9E48C15043BBDBD7AD465B9A8621B44A = "+ 모든 행성 지역 잠금해제됨
-+ 모든 임무 유형 잠금해제됨
-+ 모든 난이도 잠금해제됨"
+	9E48C15043BBDBD7AD465B9A8621B44A = "+ All planetary regions unlocked
++ All mission types unlocked"
 	743B701443B2E95407A48793DB5D43DB = "+ 드릴러 퇴직 옵션"
 	70E89AD543F7A4B249C79A8C7D7AB23E = "+ 엔지니어 퇴직 옵션"
 	66A0823447C3CB00940092A9CB213262 = "+ 거너 퇴직 옵션"
@@ -344,8 +343,8 @@ Namespace Global (4335 keys)
 	ABDE3BB74428072B8E1C00878B5ED751 = "과제"
 	76D6876645E4B0ECF23631BEA63346C7 = "과제 게시판"
 	898C143C4A3237A8BB38C1B4A13498F0 = "과제 게시판"
-	9DB1E50245ECD3FE1FF7D08BA4DE6721 = "Assignment Mission {level} of {max}"
-	668ABFEF48EC05534A14B79017E30299 = "과제 임무 완료"
+	9DB1E50245ECD3FE1FF7D08BA4DE6721 = "과제 임무 {level} 의 {max}"
+	668ABFEF48EC05534A14B79017E30299 = "과제 임무가 완료됐네."
 	19323ED84A8EA8997995DEB5993D9D8A = "과제 임무가 완료되었네. 자넨 잘 해주고 있어."
 	9696BD334FD18A50445A059F2032519E = "과제: "
 	52C91EF941026FEA658ED495FB2CF58B = "적어도 우리의 이종지질학자들 중 한 명은 이 지역을 연구하기 시작한다면 분노에 휩싸여 그만 두게 될 것입니다. 평범한 극지방의 빙산이 있는 대신에, 우리가 알고 있는 모든 물리법칙을 위배하며, Hoxxes 대륙판 표면에 영구동토층이 수 킬로미터 깊이로 형성되어있습니다. 언제나 그렇듯, DRG는 Hoxxes 행성의 구조적 특성을 다룰때엔 "묻지 마시오" 를 제안하는 바입니다."
@@ -563,7 +562,6 @@ Namespace Global (4335 keys)
 	B7E069AA4384D6FDD82FC9BB59274005 = "연결 끊김"
 	FA3D092E4B1FA4CCC5F1F3A87F894D32 = "연결 끊김"
 	3AC07A124BB671598064218A10F5ACE5 = "DRG에 대해 일찍부터 널리 알리는 데 도움을 준 컨텐츠 제작자들"
-	A82FB6494E1D2DC165B6D6A3D1A5D152 = "계속"
 	2A3AB4AF4B195DC2665E73A0330FF4B6 = "비용"
 	6B3D73874527C184D6F169A93964D324 = "비용: 2 크레딧"
 	0503DC77479E436F6E50DDBA7C86B939 = "비용: {cost} {resource}"
@@ -1011,7 +1009,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	6485B30E40DF13EF365C7FADB55A4C23 = "날 두고가지 말아줘!"
 	FD1300B3400177CE4DC97DB25718576B = "날 두고가지 말아줘!"
 	3314D2BC4B8013DB262140B5045DE228 = "네가 Karl을 떠난 것처럼 날 떠나지마!"
-	AC3583BF48D9D5613C14B7B74C574B19 = "목표량은 끝났어! 더 필요없다구!"
+	AC3583BF48D9D5613C14B7B74C574B19 = "목표량은 달성했어! 더 필요없다구!"
 	408EEF5344297F2908FA11ACB75E2F26 = "날 쏘진 말라구!"
 	83F5E0D94DC58C565F642BAE7E7E6E4D = "날 쏘지 마!"
 	765197B54FF7700B26D2A9BAA0D6548E = "보급 투하가 떨어지는 곳에 서 있지 마십시오. 우리는 이미 충분한 직원을 잃었습니다!"
@@ -1851,7 +1849,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	384A1F8B47453927B9C5ABA82A365E11 = "난 간다!"
 	93E690544A035A89AD18DCA611E50880 = "난 빠지겠어!"
 	A575CA444D4ED14E91D290AB09CEF5F1 = "마비당했다!"
-	87E9E30945010106A986FEA5A1AE4EA0 = "나 ㅆ...싸울...준비 됬다고! 어서 보내줘!"
+	87E9E30945010106A986FEA5A1AE4EA0 = "나 ㅆ...싸울...준비 됐다고! 어서 보내줘!"
 	8CEF73E64AD258D5D598B4A52BD4821E = "난 준비됐다!"
 	31C8A8D7469927CEA8ABA19F7BEE2465 = "난 정말 당신 같은 사람들과 일하길 기다렸다고!"
 	5A73327B4FDE5B95C974A1A134EB2459 = "탄약 좀 보충한다!"
@@ -2341,7 +2339,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	A51EEEFB4420187B9DA5F1B52C0E3844 = "담고있는 중이야!"
 	EAF8D705460511DF6BD366B992833E71 = "담고있는 중이야!"
 	BE7220884C71C491BEAA77890F67A888 = "경영진은 이번 일로 항의 편지를 받게될거야!"
-	A14DDD2A44A64E72A7BB928B25831D6F = "경영진은 자네가 더 어려운 도전에 대해 준비가 됬다고 믿고있네, 그리고 자넨 구조 작업을 위한 허가를 받았어. 그들을 실망시키지 말게."
+	A14DDD2A44A64E72A7BB928B25831D6F = "경영진은 자네가 더 어려운 도전에 대해 준비가 됐다고 믿고있네, 그리고 자넨 구조 작업을 위한 허가를 받았어. 그들을 실망시키지 말게."
 	59367B3E408977420445739971EEE004 = "필수 업데이트 활성화됨"
 	733C15B24399675475D0C9A08A57F964 = "지도"
 	4FFCD57D4CECA5DC37F262A7A3C18B37 = "스캐너로 벽을 표시하면 보스코가 그곳으로 가서 빛을 밝혀줍니다."
@@ -2403,7 +2401,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	F0DC4CC047EB3DFD5905B0BDDACF150C = "모르카이트를 {amount} 만큼 채굴하기"
 	510563CF4FE28E5D628FF686B553A0DA = "홀로마이트를 {amount} 만큼 채굴하십시오"
 	17CE4B7142AC22E45FF246B923EBB305 = "{value} 만큼 희귀 광물을 캐세요"
-	568830134D82FF127080FA86249E4538 = "채굴 기지가 귀환했습니다. 강하 포드가 접근 중입니다!"
+	568830134D82FF127080FA86249E4538 = "채굴 기지가 귀환됐습니다. 강하 포드가 접근중입니다!"
 	DB7AF605434CFF87704E799DE6090780 = "광물 분화구"
 	615849A54B3E4F7C05257CA775439D28 = "광물 매니아"
 	FF249D1545DF2C5F1C085FA7F4A516FA = "채굴한 광물"
@@ -2535,7 +2533,6 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	801BA77A4D781882A479418812A4C628 = "결코 기분이 나아지지 않았어"
 	DBBA53E84F566413D90533A0C67236BB = "기분이 나아지지 않는군!"
 	0A2228BA44E6966CE21B96B2E0448AB9 = "포기하지 마세요! 체력이 0이 되기 전까지 {value} 초 동안 버틸 수 있습니다! ( 45초 쿨다운 )"
-	605A015B4FB0C2F68F95B3AA1933DECC = "내가 이 날 까지 살아있을거라 생각 못했는데! 마지막 임무야, 그리곤 나만의 양조장을 차려야겠어..."
 	59D63F4445AC9F6C362D1EA8BB115C20 = "새로운 캐릭터"
 	C0027D1B4000EEFC8109E7BE2E3E58DA = "새로운 머리"
 	06DFF8D844D3C98095B16E8429B97566 = "새로운 아이템 사용가능"
@@ -2639,7 +2636,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	4BA4444640F78D6541AE3F9F84B0626C = "목표 광물"
 	A6E039B0425AAC3C4CE590BCA12255CB = "목표물"
 	4829ACDD410E23651DFFE886EF42BF50 = "목표 달성, 끝내주게 잘했어! MULE의 귀환버튼이 활성화 됐네! "
-	8F9EF97E429CEB80BB71E6A3B2D3376C = "목표 달성, 멋지게 해냈군! MULE의 귀환 버튼이 활성화 됬네! "
+	8F9EF97E429CEB80BB71E6A3B2D3376C = "목표 달성, 멋지게 해냈군! MULE의 귀환 버튼이 활성화 됐네! "
 	06B42C2542B4E577B810CCA5E8A23451 = "목표 재료"
 	20E1C0E64617BF1386660A840738A2C5 = "목표 광물"
 	470465554C4CC236B02A698DC30AA621 = "목표 재료"
@@ -2683,23 +2680,30 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	C28E671A45A9BE49D0C173888F1C00DB = "임무 단말기의 지도에서 각 환경과 그곳에서 찾을 수 있는 제작 광물에 대한 설명을 볼 수 있습니다."
 	7BF994A8421E1EE88429E3B954B9C08D = "게임 도움말"
 	C03801984EB9B6D7D536F3BACDE81C4F = "탑재된 메인프레임 부팅."
-	8762E3E74B0D5CCF46FF81803FAAD508 = "가끔씩, 탁월한 직원들이 회사 사다리 가장 높은 곳에 도달합니다. 귀하의 노력에 박수를 드리며 DRG를 위해 한 모든것에 감사드립니다.
+	8762E3E74B0D5CCF46FF81803FAAD508 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
 
-우리는 귀하와 계속 일하고 싶지만, 지금은 회사 정책상 퇴직 제안을 연장하는 것이 전부입니다. 어쨋든, 자격을 얻기 위해선, 귀하는 짧은 고위험/고임금 임무를 받아야 합니다. 이 임무들은 귀하가 퇴직하기 전에 DRG 계좌에 미 지불된 청구서 및 벌금을 정산하기 위해 필요한 모든 자원을 수집하는데에 도움을줍니다."
-	986E87284F7DA45D79751A8DF8DFEE24 = "가끔씩, 탁월한 직원들이 회사 사다리 가장 높은 곳에 도달합니다. 귀하의 노력에 박수를 드리며 DRG를 위해 한 모든것에 감사드립니다.
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
 
-우리는 귀하와 계속 일하고 싶지만, 지금은 회사 정책상 퇴직 제안을 연장하는 것이 전부입니다. 어쨋든, 자격을 얻기 위해선, 귀하는 짧은 고위험/고임금 임무를 받아야 합니다. 이 임무들은 귀하가 퇴직하기 전에 DRG 계좌에 미 지불된 청구서 및 벌금을 정산하기 위해 필요한 모든 자원을 수집하는데에 도움을줍니다."
-	FF24FD024955050809A7708370DB971A = "가끔씩, 탁월한 직원들이 회사 사다리 가장 높은 곳에 도달합니다. 귀하의 노력에 박수를 드리며 DRG를 위해 한 모든것에 감사드립니다.
+- Regards, 
+Management"
+	986E87284F7DA45D79751A8DF8DFEE24 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
 
-우리는 귀하와 계속 일하고 싶지만, 지금은 회사 정책상 퇴직 제안을 연장하는 것이 전부입니다. 어쨋든, 자격을 얻기 위해선, 귀하는 짧은 고위험/고임금 임무를 받아야 합니다. 이 임무들은 귀하가 퇴직하기 전에 DRG 계좌에 미 지불된 청구서 및 벌금을 정산하기 위해 필요한 모든 자원을 수집하는데에 도움을줍니다."
-	FAA3E04641AABD0D764B3C88DF1FB4E3 = "가끔씩, 귀하와 같은 회사 사다리의 가장 높은 곳에 도달할정도로 오랫동안 귀사와 함께 특출난 직원들이 있습니다. 귀하의 노력에 박수를 드리며 DRG를 위해 한 모든것에 감사드립니다.
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
 
-우리는 귀하와 계속 일하고 싶지만, 지금은 회사 정책상 퇴직 제안을 연장하는 것이 전부입니다. 어쨋든, 자격을 얻기위해선, 귀하는 짧은 고위험/고임금 임무를 받아야 합니다.
+- Regards, 
+Management"
+	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
 
-(이 임무들은 귀하가 퇴직하기 전에 DRG 계좌에 미 지불된 청구서 및 벌금을 정산하기 위해 필요한 모든 자원을 수집하는데에 도움을줍니다.)
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
 
-경의를 담아,
-경영진"
+- Regards, 
+Management"
+	FF24FD024955050809A7708370DB971A = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
 	1691C1544A6F5EB4E1F2289D76C9968A = "하나 들어갔고!"
 	8609CA944A8413052C562086E7C47786 = "하나 들어갔고!"
 	CE6FC0DC4807D1957DDACF82F69E5699 = "리프 러버 한 잔!...거기에 물 좀 타서 엷게 해줘!"
@@ -2913,7 +2917,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	3E89DA5443E686BEFEE7E9B96B9782F2 = "뾰족한 수염"
 	E27A6F004216FCE63C417294415228D0 = "독 포자 버섯"
 	7F4E90704091594A25B822B1CF9E108E = "저 루트 버그를 터트려!"
-	55004BEA4575F94DF700549A1F5520C5 = "휴대용 포스 필드"
+	55004BEA4575F94DF700549A1F5520C5 = "휴대용 역장"
 	EE56E5E74643EB54C416878929212FF1 = "후처리"
 	3AF707B2459B3E6C5E1173ABD4C8F054 = "방사선 차폐장치 가동중."
 	5A6584B140CF654F17EC2E86FCF2F384 = "귀중한 광물 (크레딧)"
@@ -3009,8 +3013,8 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	58923D8244B9EE020AE97AB7DE76E74F = "반경"
 	ABE947AB418AA462ECE61485F6F1A2C6 = "레일섹션 건설완료!"
 	06B53C034D52F380BE3D90B25697788F = "여기 레일섹션이 있다!"
-	F7B7FB6940DAC0145447EF9B9239489B = "레일섹션이 준비됬다!"
-	39BA5B2E4C91D4D5F887D09242DA96F0 = "레일섹션이 작동됬다! "
+	F7B7FB6940DAC0145447EF9B9239489B = "레일섹션이 준비됐다!"
+	39BA5B2E4C91D4D5F887D09242DA96F0 = "레일섹션이 작동됐다! "
 	583BF43243CCBFDCFD54AABE47855FF5 = "희귀 화석"
 	45B03FB148FF0D7B60A7F18554D8A114 = "채광한 희귀 광물"
 	1FB2188742A71200CDA6A786D7DB37D5 = "희귀 식물"
@@ -3334,7 +3338,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	6661A69540A47C5038584D834DF32F89 = "보호막 재생기다!"
 	C9794CD74D900AFB615054A733BD9CBB = "보호막 작동!"
 	1B5A861E440E5C3DB544FAA04AD871BF = "보호막이다!"
-	A9911C0C40F804A5310DB78EFF2FF591 = "보호막이 배치됬다!"
+	A9911C0C40F804A5310DB78EFF2FF591 = "보호막이 배치됐다!"
 	F1BF5871430CA8260C6FBBB8A1A18DF7 = "충격 흡수제"
 	A2CCAC2B4C63033A17B48581294BE220 = "쟤들을 쏘라고, 나 말고!!"
 	57C3E1E64F6623F0C02B4F9786399CE0 = "엉덩이에 쏴버려!"
@@ -3382,7 +3386,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	52DF8DA7485C20C79003A2BB38F1E99B = "모두에게 스마트 스타우트 한 잔 씩! 내가 쏜다!"
 	74B2ED5A4324828AA107B8B34748EC95 = "연기난다!"
 	218EB1744B684D22C667D190D95D3E41 = "매끈한 얼음"
-	44C7A5AB4C7B6B2C908FBD8EA5673CC2 = "평소처럼 매끄럽게 진행됬군, 대원들. 강하 포드가 가는중이야."
+	44C7A5AB4C7B6B2C908FBD8EA5673CC2 = "평소처럼 매끄럽게 진행됐군, 대원들. 강하 포드가 가는중이야."
 	41271AB84414676E2C59BF8E1E686882 = "사포처럼 부드럽습니다."
 	A501C5094E99722E7F0A109C34AC7973 = "매끈하구만!"
 	C8B6AB464CBD9A74811FEBA9F3E56BB3 = "순조롭구만!"
@@ -3713,6 +3717,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	4E7A7E91460FBBF1C9DC40ABBFED1B45 = "공세가 거의 끝났네! 남는 놈 없이 쓸어버려."
 	F146075D42CB441C7343E095E5C443D2 = "공세가 잦아들고 있어. 남은것들 처리하고 마저 하자고."
 	CC981CE74634F69835F3E9A258946EB3 = "이 통로는 막혀있어!"
+	067C8D4242FD1311BF839E97ACA380F8 = "{class} 은(는) 이제 퇴직 과제를 받을 수 있습니다"
 	A4A0574A445CF6855F2ADFAAD49B85D7 = "외형 상점에 새로운 아이템(들) 이 있습니다"
 	2C6B59D24FFA5775320B82851C3DB2D3 = "여기에 오팔이 있어!"
 	C6D1C99946F11ABD538D6DB366219B13 = "여기에 브루드 넥서스가 있다!"
@@ -4190,7 +4195,7 @@ ROCK & STONE!"
 	FE58B8E444BDAF5056C38386CC958FEB = "누가 손해보는 장사를 하고도 신경 안쓰게? 이 남자지...!"
 	0FD8D3BD4E96FEF6335F66BC8F2FE4C3 = ""본전 뽑기"란 말을 만든 사람은 이 사랑스러운 것을 생각하고 있었을 겁니다. 싸고, 믿을 수 있고 엄청나게 파괴적이거든요."
 	42802C304FE14AF54D0FE69CB947FA88 = "식물은 햇빛이 필요하다고 말한 사람은 분명 Hoxxes를 한번도 방문한 적이 없을 겁니다. 이 지역은 지하 열대 우림을 가장 잘 묘사하는 것들로 지배되고 있습니다 - (대부분 육식성인) 식물들, 행성 지각 깊숙한 곳에서 생태계의 축소판을 구성하고 있습니다. 조심히 발을 딛으세요."
-	BA163EEE4FD897577841958ABC33989E = "가격을 책정한 사람이 누가됬든 엉덩이좀 까여봐야겠구만..."
+	BA163EEE4FD897577841958ABC33989E = "가격을 책정한 사람이 누가됐든 엉덩이좀 까여봐야겠구만..."
 	4871F7A44B1C3A719DFF1DA13514B004 = "옴마나 세상에!"
 	FDA996A344EF6F88EA7EDDBF5AB787F5 = "왜 나한테 총을 쏘는거야, 이 얼빠진 머저리 자식아?"
 	2A81975742048DAB7E0BCFBF5AA9097E = "Wiki Editor"
@@ -5246,100 +5251,6 @@ BOSCO는 이제부터 부활 횟수 50% 증가
 - 적이 물리적 피해를 입는데 "시차"를 두지 않습니다
 - 미션에서 처음 생생될때 Ammo와 Clip 크기가 적용되지 않는걸 수정했습니다
 - 아이템 크기를 1인칭으로 변경하여 다른 객체와의 클립 작업을 줄였습니다."
-	Update_18 = "안녕하세요 광부님들! 
-여러분의 새로운 갑옷을 입고, 버프가 달린 맥주를 마시고, 새롭고 흥미로운 과제를 수행할 때입니다. 옥토버페스트는 끝났고 우리는 유저들을 위해 멋진 기능들을 담은 큰 가방을 싸느라 바빴습니다. 엔조이! 
-
---- PATCH NOTES ---
-
-새로운 과제 시스템
-----------------------------
-이 과제 시스템의 목표는 새로운 플레이어의 원활한 시작과 동시에 새로운 콘텐츠에 접근 할 때 흥미를 높이는 것입니다. 앞으로 생길 과제들은 새로운 대체 무기나 행성 지역과 같은 새로운 내용을 열 때 사용될 것입니다.
-
-수습 기간:
-처음으로 게임을 시작했을 때 광부로써의 당신의 가치를 증명하기 위해서 당신은 이제 수습 기간을 완료해야 합니다. 수습 기간은 9개의 긴 과제이며, Hoxxes의 다른 지역을 여러분에게 안내할 것이며, 완료해야 할 다양한 임무에 도전할 것입니다.   
-
-과제의 일부 임무를 완료하면 당신은 제작 재료와 크레딧으로 보너스 보상을 받을 수 있습니다.
-
-수습 기간을 모두 끝내고나면 당신은 모든 지역, 임무, 난이도를 잠금 해제할 수 있습니다. 
-
-프로 광부님들 주목! DRG의 경영진은 숙련된 플레이어도 수습 기간을 마쳐야한다고 주장합니다. 그들이 이것에 대해 다른 시각으로 보도록 노력했지만, 너무 고집이 쌔더군요!
-
-
-퇴직
-----------------------------
-퇴직 신청: 당신의 캐릭터가 최대 레벨 20에 도달하면, 퇴직 신청 과제 완료라는 옵션이 나타납니다. 과제 게시판 단말기에서 선택 할 수 있습니다. 과제를 완료하면 캐릭터 선택 단말기에서 해당 캐릭터를 은퇴 시킬 수 있습니다. 
-
-드워프 되찾기: 당신이 그 캐릭터를 퇴직시키면 그 캐릭터는 레벨 1로 재설정되고 당신은 그 캐릭터의 무기와 강화 진행도를 모두 잃게 됩니다. 하지만, 당신의 퍽, 크레딧, 제작 재료, 그리고 치장 아이템에 대한 모든 진행도를 유지할 것입니다. 처음 퇴직할 때 특정 캐릭터에 대한 추가 퍽 슬롯도 잠금 해제됩니다. 캐릭터가 퇴직하는 것은 플레이어 랭크를 올리기 위해 캐릭터 레벨을 높여야 하기 때문에 26랭크 이상으로 플레이어 랭크을 높일 수 있는 유일한 방법입니다. 우리는 또한 26랭크 이상의 플레이어들에게 치장 아이템과 다른 기능들을 만드는 것을 고려하고 있습니다.
-
-
-임무 업데이트
-----------------------------
-순조로운 수습 기간 과제와, 그리고 전반적인 장기간의 채광 경험을 개선하기 위해, 우리는 임무의 일부를 수정했고 그것들을 더 간단하게 혹은 더 복잡한 형태로 만들었습니다. 
-
-알 추적: 우리는 오랫동안 알 추적과 탐색 및 채굴같은 임무들을 개선시키길 원했습니다. 결국, 우리들은 그 임무들을 합치기로 결정했습니다. 다음은 변경 사항입니다:
-
-- 알 추적은 이제 탐색 및 채굴에서 접했던 것과 비슷한 동굴 환경에서 이루어집니다. 
-- 주변을 돌아다니며 알을 찾았던 대신, 지형 스캐너 ([M] 키를 누르고 있기) 를 사용하여 위치를 확인합니다. 
-- 앞서 있던 알 추적 임무보단 더 적은 수의 알을 찾게 됩니다.
-- 이제 알 추적은 복잡성과 길이가 더 다양해 졌습니다. 
-- 탐색 및 채굴은 지금은 삭제 됩니다.
-- 우리는 알 추적을 탐색 및 채알이라고 바꾸는 유혹에 저항했습니다!
-
-구조 임무
-- 이제 동굴 환경이 중간 또는 높은 복잡성 수준을 생성할 수 있습니다.
-- 길이는 짧은 것 (2개의 미니 MULE 모으기) 과 긴 것 (3개의 미니 MULE 모으기) 
-
-섬멸
-- 이제 동굴 환경이 중간 또는 높은 복잡성 수준을 생성할 수 있습니다.
-- 길이는 짧은 것 (드레드노트 2마리 죽이기) 과 긴 것 (드레드노트 3마리 죽이기) 
-
-
-맥주 버프
-----------------------------
-일부 맥주에 버프가 추가 되었고 가격이 조정되었습니다: 
-
-- 레드 락 블래스터: +30% 최대 체력
-- 스컬 크러셔 에일: +50% 곡괭이 피해량
-- 다크 모르카이트: +20% 모르카이트 채광량
-- 글리피드 슬래머: 새로운 버프가 없는 맥주, 하지만 당신을 행복하게 해줄 겁니다 :-)
-
-
-돌격 소총을 위한 새로운 모델
-----------------------------
-스카웃의 돌격 소총이 모델, 애니메이션, 소리를 점검 받았습니다. 
-
-
-새로운 갑옷
-----------------------------
-8개의 새로운 갑옷들이 (MK3 기본형과 중형이라고 불리우는) 구현 되었고, 당신의 구매와 착용을 기다리고 있습니다.
-
-
-난이도 수정
-----------------------------
-2인 플레이어 게임의 위험도 수준은 1인에서 2인 플레이로의 조정이 덜 가파르게 조정될 수 있도록 수정되었습니다. 2인 플레이어 게임의 적의 스케일링 계수는 다음과 같이 조정되었습니다 : 저위험 0.4 에서 0.3, 도전 0.5 에서 0.4, 위험함 0.75 에서 0.66, 극한 1.0 에서 0.9 
-
-막테라 플레이그 주의보의 난이도를 하향했습니다. 약간의 미친듯한 수준은 보장 되지만 덜 가혹할 것입니다. 
-
-
-픽스 및 개선 사항
-----------------------------
-- 이제 춤추며 움직이기는 쥬크박스를 들을 때만 됩니다.
-- 짚라인 픽스. 이제 짚라인에서 뛰어내릴 때 추진력이 적용됩니다.
-- 스팀 연결이 없으면 저장 파일을 덮어씌우지 않습니다.
-- 화염방사기의 3인칭 건슬링 추가
-- 반동 픽스. 발사 되기 전에 반동이 있었기 때문에 완벽한 조준이 불가능했었습니다..
-- 맵 로드가 안되는 현상 픽스. 로딩 화면에 걸려서 생긴 현상입니다.
-- 월드 밖으로 떨어지는 덩어리와 보석을 감지해 다시 돌려보냅니다.
-- 우주 정거장 - 임무를 시작하면 강하 포드에 더 이상 푸른 빛이 없습니다.
-- 옥토버페스트 배너 바꿈
-- 게임 저장: 플레이어는 더 이상 한계 이상으로 XP를 얻을 수 없습니다.
-- 임무 통계 추가: 총 음료 소비량 & 총 음료 쏜 주문 수
-- 전체 화면 모드가 올바르게 처리되어 세션 간 재설정되지 않습니다.
-- 우주 정거장의 Hoxxes 뒤에 태양이 추가 되었습니다. 행성 모델도 약간 업데이트 되었습니다.
-
-
-
-"
 	Update_18_ShortTitle = "취업 기회"
 	Update_13_ShortTitle = "자잘한 생명력 변경들"
 	Update_15_ShortTitle = "뮤테이션 경고!"
@@ -5353,6 +5264,105 @@ BOSCO는 이제부터 부활 횟수 50% 증가
 	Update_15_Header = "업데이트 15: 뮤테이션 경고! - 04.07.2018"
 	Update_16_Header = "업데이트 16: 겨울이 왔다 - 29.08.2018"
 	Update_17_Header = "업데이트 17: 옥토버페스트! - 20.09.2018"
+	Update_18 = "UPDATE 18: JOB OPPORTUNITIES
+
+Howdy Miners! 
+Time to put on your brand new armor sets, drink beers with buffs and take on new exciting assignments. Oktoberfest is over and we have been busy packing a big bag of cool features for you. Enjoy! 
+
+--- PATCH NOTES ---
+
+NEW ASSIGNMENT SYSTEM
+----------------------------
+Our goal with the assignment system is to create a smoother start for new players and at the same time create excitement for getting access to new content. Assignments in the future will be used to unlock new content like alternative weapons and planet regions.
+
+THE PROBATIONARY PERIOD:
+When you start the game for the first time you now have to complete the Probationary Period in order to prove your worth as a miner. The Probationary Period is a 9-missions long assignment and will take you through the different regions of Hoxxes and challenge you with various missions to complete.   
+
+You can join any missions on the server list, regardless of completion of the Probationary Period. Completing missions that is part of an assignment grants you bonus rewards in the form of crafting materials and credits. After completing the Probationary Period you will have unlocked all regions, missions, and difficulties. 
+
+ATTENTION VETERAN MINERS! Players who have played the game before will get an option to skip the Probationary Period from The Assignment Board terminal. 
+
+
+RETIREMENT
+----------------------------
+RETIREMENT APPLICATION: When you max out a character at level 20, you get the option to complete the Retirement Application Assignment for that character. Select it from the Assignment Board Terminal. When you have completed the assignment you get the option to retire that character from the Character Selection Terminal. 
+
+RETIRING A DWARF: When you retire a character that character will reset to level 1 and you will lose all progress on weapons and upgrades for that character. You will, however, keep all progression on perks, credits, crafting materials, and vanity items. The first time you retire, you will also unlock an extra perk slot for that specific character. Retiring a character is the only way you can increase your player rank above 26, since you need to gain character levels in order to gain player ranks. We are also considering to introduce unlocks of vanity and other features for players above player rank 26.
+
+
+MISSION UPDATES
+----------------------------
+In order to make a smooth Probationary Period assignment, and in general to improve the long-term mining experience, we have tweaked some of the missions and made both simpler and more complex versions of them. 
+
+EGG HUNT: We have for a long time been wanting to improve the missions types Egg Hunt and Search & Extract. In the end, we decided to just merge them together. Here are the changes:
+
+- Egg hunt now takes place in a cave system, similar to what you used to encounter in Search & Extract. 
+- Instead of having to run around and search for the eggs you can use the Terrain Scanner (hold down [M]) to spot their location. 
+- You have to collect fewer eggs than previously. 
+- Egg hunt now has multiple complexities and lengths. 
+- Search & Extract have been removed for now.
+- We resisted the temptation of calling Egg Hunt for Search & Eggstract!
+
+SALVAGE MISSION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Assemble 2 MINI MULES) and long (Assemble 3 MINI MULES) 
+
+ELIMINATION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Kill 2 Dreadnoughts) and long (Kill 3 Dreadnoughts) 
+
+
+BEER BUFFS
+----------------------------
+Buffs have been added to some of the beers and prices have been adjusted: 
+
+- RED ROCK BLASTER: +30% to max health
+- SKULLCRUSHER ALE: +50% Pickaxe damage
+- DARK MORKITE: +20% Morkite mined
+- GLYPHID SLAMMER: A new none-buff beer, but it will still make you happy :-)
+
+Beers with buffs have been given a lower potency effect, so you can drink one without getting drunk. This is done to prevent you from always having to drink the Leaf Lover’s Special if you don’t want to play with the drunk effect on.
+
+Note that Buffs will remain after drinking Leaf Lover’s Special. And also note that Buffs won’t stack. Also-also note that beers have some randomness in how hard they affect you.  
+
+
+NEW MODEL FOR ASSAULT RIFLE
+----------------------------
+Scouts assault rifle has gotten an overhaul of model, animations, and sound. 
+
+
+NEW ARMORS
+----------------------------
+8 new Armors (called MK3 Basic and Heavy) have been implemented, ready for you to buy and equip. They will be unlocked at player rank 10 and 12 respectively. if you are lower than player rank 8 you will only see the MK2 armor in the shop.
+
+
+DIFFICULTY TWEAK
+----------------------------
+Hazard levels for 2-player games have been tweaked to make the jump from playing solo to two players less steep. Scaling factors of enemies for 2-player games have been adjusted like this: Low risk 0.4 to 0.3, Challenging 0.5 to 0.4, Dangerous 0.75 to 0.66, Extreme 1.0 to 0.9 
+
+The Mactera Plague warning has been tweaked down in difficulty. Some craziness is still ensured, but now it should be less punishing. 
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- New dance move when listening to the jukebox.
+- Zip-line fix. Now clients also get forward momentum when jumping off the zip-line.
+- Save files are not overwritten if there is no connection to steam
+- Third person flamethrower gunsling added
+- Fix recoil. It was added before the shot was fired, so you could never be fully accurate.
+- Fix a case where clients are unable to load the map. Resulting in stuck on loading screen.
+- Detect chunks and gems falling out of the world and beam them back
+- SpaceRig - No more blue light in drop pod when launching a mission
+- Oktoberfest banner changed
+- Savegame: Players can no longer gain extra XP above the cap
+- Added mission stats: Total beverages consumed & Total beverage round ordered
+- Fullscreen mode is now handled correctly and does not reset in between sessions.
+- Sun added behind Planet Hoxxes in Spacerig. Planet model slightly updated as well.
+- Clients can now open the mission map while in a hosted game
+
+
+
+"
 	Update_18_Header = "업데이트 18: 취업 기회 - 11.10.2018"
 	Update_9_Header = "업데이트 9: 또 채굴해요! - 09.03.2018"
 	Update_16_ShortTitle = "겨울이 왔다"

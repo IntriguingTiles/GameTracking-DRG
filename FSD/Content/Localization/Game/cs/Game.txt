@@ -1,7 +1,7 @@
 21 namespaces
-2743 values
+2762 values
 
-Namespace Global (3463 keys)
+Namespace Global (3496 keys)
 	2559D78C40005E5221F26093CB976283 = " Sesbírejte {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Upadl jsem!"
 	31D60A1449082F9AB6DC15844F3810F6 = " POŽADOVANÉ"
@@ -37,6 +37,8 @@ Namespace Global (3463 keys)
 	06F5FD53480F9F14AB110FADEE69052B = "Varování 'Nestálé Světlice' Dokončeny"
 	084972DA4367BB3126F09EA16F626036 = "(Agresivní) Ach jo, tak pojďte...!"
 	79C854AD4881276E9A57FEB5109ED8AA = "(zpívání) Jednokolejka, Jednokolejka, Jednokolejka!"
+	9E48C15043BBDBD7AD465B9A8621B44A = "+ All planetary regions unlocked
++ All mission types unlocked"
 	743B701443B2E95407A48793DB5D43DB = "+ Driller Retirement Option"
 	80F011474601EE73C5B127B1CE7438D4 = "+15 MORKITE"
 	757542D044AE5468809922ADDD77C794 = "+20%"
@@ -44,6 +46,7 @@ Namespace Global (3463 keys)
 	78DFA13846CB82653B1E9FB81E88F2F2 = "- HANGÁR PRAZDNÝ -"
 	8BE6B127423859AEED1AE1834524940A = "- ODDÍL PRAZDNÝ -"
 	DD60E905432184562A98258F7D2FF4CA = "- Prázdný -"
+	337040E74EB73001955CB99A04EB9532 = "- Hledám Servery -"
 	806E021B47366790C4EE8F89571BBC9C = "- Hledám Servery -"
 	E0308AD64B74FB3F487ECC8114474D6F = "- ŽÁDNÉ CÍLE -"
 	4587C8874C4D0E02BADC87A4CC3DB758 = "- Nevybrána žádná mise -"
@@ -71,6 +74,7 @@ Namespace Global (3463 keys)
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
 	A6A17BE34F9EDC3124434C809161A714 = "2 špačci a hnusné vraní hnízdo."
 	99CD26B24BF6817DD1A4978034CA179D = "2.000 rund ochuzenýho uranu...ohh yeah...!"
+	08F2A7304B622C3360EEB2AD3FFF7419 = "20% Morkitu vytěženo"
 	6B174915406473EC528AE693016036E1 = "20% rychlostní bonus na dobu 10s po konzumaci Červeného Cukru!"
 	C7962BE54367A88EA7181D8F8D10C1CD = "20M"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
@@ -234,7 +238,7 @@ Namespace Global (3463 keys)
 	5040D496475DE020B0422B85A0E37D62 = "Zkouška brnění"
 	EF0DD00E4D68095E714A7CAF8BC61802 = "Arrh chlape! Včera se udělalo opravdu pozdě!"
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "Art Director"
-	17E32D5547938A68AEE78ABB9D2F8CDC = "Artificial gravity has been reestablished."
+	17E32D5547938A68AEE78ABB9D2F8CDC = "Umělá gravitace byla obnovena."
 	5C0F9CD043D4428021283C90BE909B1B = "Proslavená muži v Cylindrech nebo nosících rohy."
 	0CEC244D494D3CCCF7467583344FFE9A = "Jako VRTAČ, budete vybaveni setem TITANOVÝCH ENERGOVRTÁKŮ. Vaší prací je vyklidit jakýkoliv zablokovaný tunel a překažky v cesté vašeho týmu, a v boji jste síla s kterou se počítá: Vaše vrtáky udělají krátký proces s většinou nepřátel na blízko, a pro souboj na větší dálku jste vybaveni s těžkým PLAMENOMETEM."
 	834C9F21492EE499B8B053A277AC48BD = "Jako INŽENÝR máš s sebou dvě základní věci pro přežití – PLATFORMOVOU PISTOLI, která střílí lezecké platformy na jakýkoliv povrch, a automatické STRÁŽNÍ VĚŽE kropící nepřátele prudkými krupobitími podpůrné střelby – pokud je tedy zvládneš položit předtím, než umřeš. Možná nejsi nejsilnějším z trpaslíků, ale tvoje BOJOVÁ BROKOVNICE a devastující GRANÁTOMET z tebe dělají hrozivého nepřítele."
@@ -299,12 +303,14 @@ TERMINÁL"
 	739C730F4DC75A2B8FB068B01BE3EA1F = "Protože proč ne?"
 	75EE201A4C886BBBDDF9F993134F8124 = "Podloží"
 	CCD8C78A4198D202866F458CCD513560 = "Béžová"
+	3CBC5FB342A4D67CD79C37A662100986 = "Výhody odchodu do důchodu"
 	74DC149D45917EF3425C9FACA4E51660 = "Berserkr"
 	5BA9A3F24C95A6C30CE6119F7A2AC1A9 = "Velký roj detekován. Vzchopte se a připravte se."
 	13B037E84A0500B948C179B33E3998EA = "Větší rozsah výbuchu"
 	18F8B3D1433ABDA54E219CAF09AB03E3 = "Větší rozsah výbuchu"
 	4219FC504C86CBA153539DA836B0FB7A = "Větší rozsah výbuchu"
 	64EA28E1445B3E213E7452A77935A481 = "Větší rozsah výbuchu"
+	2A322A9E4EACAB6CA2743883310D49FA = "Bio zóna"
 	D91333C14F135C02059BDA82F2E04B1F = "Bismarck"
 	548B876240D52D5A39CAD0B8A9AE3C12 = "Bismor"
 	B8349BFE47BD0078012036919B32B95A = "Bismor"
@@ -881,7 +887,7 @@ TERMINÁL"
 	5AF7996E42A85BF99DAF9BA01E009D0C = "Efekty"
 	20B759754C55D58859A9EC83D5D6D3F3 = "Vejce "
 	C875D3534A9FDA62AE6AAD961EB56EFF = "Vejce zde! Zajímalo by mě na co je Deep Rock používá?"
-	0AD95C494B573260500256A8D0858937 = "Egg Hunt"
+	0AD95C494B573260500256A8D0858937 = "Lov vajec"
 	76FCC5D943C83F90DB0600AC997D164E = "Lov vajec"
 	315704EB489E32AA403BE091D69570F7 = "Lov vajíček dokončen"
 	8F4350A049C1332AE2BAE491532A354B = "Sběr vajec dokončen, dobrá práce. Až budete připraveni, zavolejte únikovej pod."
@@ -979,6 +985,7 @@ Když získáš 4 Dash Marky tak se tvůj herní rank zvýší."
 	E51B3F744507E303C14E08A0352FA0D4 = "Far"
 	3E073F7541C83715AD26FA81CF557F73 = "Rychlá produkce světlic"
 	A8464FDC48B600862605F2A7EDEBEC0D = "Rychlý pohyb"
+	06ACA845473D84A5A448C6940A624FB6 = "Rychlejší Přebíjení"
 	4C92C70E46863CA7E8881DBAA3AAC7E6 = "Rychlejší přebíjení"
 	6E96871040D678AF9A191EA0B778AD4D = "Rychlejší přebíjení"
 	EBB44BE24CFA9DA8770678A81FD9B25A = "Rychlejší chlazení vrtáků, pokud nejsi v akci"
@@ -1058,6 +1065,7 @@ Když získáš 4 Dash Marky tak se tvůj herní rank zvýší."
 	37E8487F402193B12C8978A60822638D = "Našel jsem Jadiz!"
 	E21E098D45CD553018A6C9B1EAE84AD9 = "Našel jsem tu vejce!"
 	A2B969FE45657EC32B12C98062B7C826 = "Našel jsem trochu Holomitu!"
+	341C3E66429059EBF7CEAC91D2D8BE62 = "Našel jsem trochu Magnitu!"
 	31A2B1FD4DC7E7BEA20474B36737E35F = "Našel jsem trochu Umanitu!"
 	3C2E412441776DAB7AF1D1927DE45822 = "Našel jsem trochu Nitry!"
 	5AE429C1401A7C282BF7DB86971C6212 = "Něco jsem našel!"
@@ -1175,6 +1183,7 @@ Když získáš 4 Dash Marky tak se tvůj herní rank zvýší."
 	00CDC2814E5FF981C46300B068D682F5 = "Glyfidské vejce"
 	80639C5F4A78BBC44A8D73A49CDB4DE1 = "Glyfidský Vybuchovač"
 	FA8F44C946CD7ABC7358039A193E66E7 = "Glyfidský Pretorián"
+	1A86A3A8463CD3D6B2573BA8DF22F0ED = "Glyfidský Cloumák"
 	7264F5314B7568C009316EAA26625514 = "Glyfidský potěr"
 	F7464ADE4437E5B3F6902DB072133523 = "Glyfidský Swarmer"
 	F842677547F73DCFC06EFD80D085CBF6 = "Tunely Glyfidských Swarmerů"
@@ -1311,6 +1320,7 @@ Když získáš 4 Dash Marky tak se tvůj herní rank zvýší."
 	CA84596F476FAF857E6F1AA22EDBDF0E = "Hello Darkness my old friend!"
 	A443FA134FE39088BA757F8F84D0ADC9 = "Ahoj a čau!"
 	F5EAAC5340766A2A9FC2DF8B49239CB2 = "Zdravím, vítej!"
+	32F5AC9046030E719F222396530609D0 = "Ahoj!"
 	9123FB854DBBEB874DCDE2895775FB52 = "Ahoj!"
 	BF37B8F943EB949C7B0206AE0E96AE6C = "Ahoj!"
 	CB82982E4B379DC4A8B894AAA494EE42 = "Pomozte mi tohle vytěžit!"
@@ -1342,6 +1352,7 @@ Když získáš 4 Dash Marky tak se tvůj herní rank zvýší."
 	3D8512F244889533244578B03F883B63 = "Vysoká"
 	CF7327794B0E258F0E2216AE8286456A = "Vysoká"
 	FE4F28CC495B46DEE70654A9E7B24336 = "Vysoce Intenzivní Světlice"
+	1617EAFD4D319ACE285264B5E95C92BB = "Vyšší kadence"
 	FEC7BE5B4C35375AB609349A44684E93 = "Vyšší kadence"
 	DA5046C44AC47E614D524996C1173AA0 = "Hightened Senses"
 	7566B4C640466DB5F795778F68183EE7 = "Nápověda"
@@ -1366,7 +1377,9 @@ Když získáš 4 Dash Marky tak se tvůj herní rank zvýší."
 	CDC237994EF10DAC827317AE01EDF4AB = "Doufám že dnešek bude lepší než včerejšek!"
 	665339684E8DEE84F642BE93D03E79A4 = "Horizontální citlivost myši"
 	2D3616864CCD114C352D768524620CCF = "Host rozpustil tým"
+	2A19C68A483513E82F4950A6B1C8AE2C = "Hostitel: Soukromé"
 	5DB06C2E4767C351EEDBF3AAD02CD0EC = "Hostitel: Soukromé"
+	46A860C9472E81AA24C05EB0DB81AB6F = "Hostitel: Veřejné"
 	474D2304485CCA3E89CAE2B8EB06330F = "Hostitel: Veřejné"
 	030F6AD844949B06D0A3DC823B4008AB = "HostPublic"
 	62725DDA48CFD7061B7D9BB69399C458 = "Nepřítel!"
@@ -1423,6 +1436,7 @@ Když získáš 4 Dash Marky tak se tvůj herní rank zvýší."
 	43579BC344674288C2C9AF860201D73E = "Mám to!"
 	90B51A934569FF0B2FA13FA905F77BC8 = "Nezbývá mi žádná munice!"
 	A917A5404DEB1D8A207CA4A8EF336089 = "Nezbývá mi žádná munice!"
+	1A942F184E069F38EF2AF2B5CF1D35E3 = "Mám písek v očích! "
 	1B1C52704063E85B5EFCD59E936D552E = "Musím depositovat!"
 	138D93DF40491A16B10D38BD166E0446 = "Musím dávat pozor na přehřátí!"
 	82E981B84ACAE479718D9A9B7A4DE4DD = "Mám dobrý pocit o tomto týmu!"
@@ -1716,6 +1730,7 @@ PROGRAM"
 	E89D15154FCE07422998869BBF75318A = "Legendární Horník"
 	B507E2EE4AEACA73344B28A7E4441DB9 = "Délka :"
 	A8C761B54A75892C532FEBA0F961609B = "Kratší než standard"
+	2F26A21341A795D743CC38B35C252258 = "Nech mě jít!"
 	2219575A456D708CF545E8AEDC9E703E = "Nech kopání na mě!"
 	532C311C4B1AA25AB616FEB22BABDF97 = "Budiž světlo!"
 	36550EE942D2A55EC54322916EF28CA8 = "Vem me to domů!"
@@ -1823,6 +1838,7 @@ PROGRAM"
 	FE7FBF524652059D493E178FF0A36140 = "MISE"
 	113127354D96B4A900DC8E9F1161C681 = "ŘÍDICÍ STŘEDISKO"
 	14055AEC4F169C40AEB47A80BC0D7CCC = "ŘÍDICÍ STŘEDISKO"
+	30323E90496C40035B15F4BE3FEA5F25 = "ŘÍDICÍ STŘEDISKO"
 	9633619D4B69B36E374426A0C8D4998F = "KONTROLA MISE"
 	F922573C43BAC27EEC4600B040A61EC2 = "DATA MISE:"
 	10A13F5C4BA816B7378886AB1EFF1636 = "DÉLKA MISE"
@@ -1890,6 +1906,7 @@ PROGRAM"
 	8C7210B94148CC89BDD79A93A4BCFA0E = "MULE je v provozu. Výborně!"
 	3DF99B2E4999F93C5F384D872E5BAF0B = "MULE ze zapíná, dobrá práce."
 	084D891E4FAF8D86DD63F3AE40B33ECB = "MUTATOR:"
+	31363AAD49066EF913DCC7AC47311D29 = "Makteráky pro mě a můj tým!"
 	24C319394688EC74EFC343A02A134C3D = "Slizký Bombardér Maktera"
 	B45C5069480A62F8C900FF91DB3864F0 = "Slizký Bombardér Maktera!"
 	52707F4E461A33C957A0F0979CF268A2 = "Unašeč Maktera"
@@ -2011,6 +2028,7 @@ PROGRAM"
 	8459276A46896A576AB45285535C0D1E = "Větší Poškození"
 	A56E5AAD47020EB58D7DC0B0155543C7 = "Větší Poškození"
 	A85FF9704DC66C1A07471BBAC12314E7 = "Víc Bodů Perků pro mě!"
+	258E88D448AC31D686810EA4B474A8AD = "Více munice"
 	687C211F46A00A43AB75BA93F16985A4 = "Více munice"
 	868031B44D72434150443CB0A99633B0 = "Víc munice je na cestě!"
 	57631DAB4FE1B7FA6606CC88227D49B1 = "Účinnější proti nepřátelům"
@@ -2176,6 +2194,7 @@ Ale dobrá práce. :D
 	134D283042E0C88A4DBBF7A0809D6256 = "Joooooo!"
 	15FB9644403E6D03ACF31F9C3E302D8A = "Ohh to se mi líbí!"
 	E63DAFB842FB5D136062BBB0EA2096EA = "Ohhh yeahhh!"
+	3D2B9D9244E2F291EDF7C2A80BF7415E = "Oj, rundu Gyfidských Cloumáků, prosím!"
 	461306404D063A6834BEA59C87B0B118 = "Tlačítko Ok"
 	2888AA3641B4D8ED77F729AE5D4A7D9A = "Okay! Kdo se včera nesprchoval?"
 	4FF5F70B41BBE9DBC9010B9A2B00E4DE = "Okay, to snad není pravda!"
@@ -2185,6 +2204,30 @@ Ale dobrá práce. :D
 	C108B2374C0EB82DEEBAD1ABB7463FB3 = "Olivová Čapka"
 	C28E671A45A9BE49D0C173888F1C00DB = "Na mapě v TERMINÁLU MISÍ můžete najít popis každého biomu a které minerály v nich naleznete."
 	7BF994A8421E1EE88429E3B954B9C08D = "Pomoc Na-Obrazovce"
+	8762E3E74B0D5CCF46FF81803FAAD508 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	986E87284F7DA45D79751A8DF8DFEE24 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	FF24FD024955050809A7708370DB971A = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
 	1691C1544A6F5EB4E1F2289D76C9968A = "Jeden Dole!"
 	E51ADE8A4FDB509121F63B8F9A6A7FE2 = "Jeden dole!"
 	5FF8D81747E9F0DDE613469664B89123 = "Jeden z klasických tahounů DRG, dvojitý Ruční Vrták udělá krátký proces se takřka čímkoliv, co se má tu smůlu, že se mu připlete do cesty. Ale pozor, to zahrnuje i tvé spoluhráče."
@@ -2467,6 +2510,8 @@ PŘIPOJENÍ"
 	83E2EA684FD79938D13434939A276900 = "Zapáchá snobstvím. Nebo penězi. A nebo vlastně obojím."
 	761586C14EE3CCA7F69712804CE964F2 = "Rafinovaný"
 	492E7C56428382FB5AB22DBCFC14BE9D = "Osvěžující"
+	2912370E498E51A44CC5B2847A605136 = "Lokalita"
+	0970786D4CABB3ED983676B16132E5AD = "Obyčejný"
 	4FF9E7054AAD9F167995EBB523066300 = "Vyztužený Kabel"
 	37C1CBDA40400EADD085728131C24FF1 = "Zesílený Nárazový Oblek"
 	AC3283684F5686709949AC97DB07A184 = "Vystužené Energetické Vrtačky"
@@ -2547,6 +2592,7 @@ PŘIPOJENÍ"
 	CA3490A84AEC6C21DFC5F0A358B2B30A = "Rockabilly"
 	8C01BDE343C6D9A3F2493D8088C05EC9 = "Jedna raketa je připravena!"
 	B5A0980B453847C0815F908798345B5F = "Raketa objednaná!"
+	06DAFBE24C027ED89382F8BE948DFB98 = "Skalnatá Hora"
 	6CB9B8934A09F18D662606A1E284CBDA = "Rozumím, zásoby jsou na cestě."
 	4B5BA4C14DA8813B13E06896E159E555 = "Ronnie Ree"
 	092BA72C42C81298A274AEB3CE9D4226 = "Horník Nováček"
@@ -2735,6 +2781,7 @@ Postavu"
 	4F2BF5734C419FDD4EA78D830D307596 = "Tak lesklý!"
 	7F13BCE74172807F5686CBBA266F46EA = "Takže co když mám rád opravdu... velké... zbraně?"
 	2FFAB60F4FF61BA6946293977866F47E = "Sólo"
+	38FA37804B0B164ED82D96AE48D5F065 = "Sólo"
 	B40221884B79B44599A279908B225246 = "Ponuré a zastrašující."
 	1021949A4CAB2EFA1E93C396A211BF8D = "Trocha brnění."
 	3DF7821D4FF6FBBF4BBC4AB0FC340E56 = "Trocha brnění."
@@ -2815,6 +2862,7 @@ Postavu"
 	D5AD36B446716E5D1B853C9E40088B91 = "Stylový a praktický!"
 	250E337E407CE7A1D195679E6B89485C = "Stylové a praktické! Upravené tak aby ladili s vaším brněním."
 	DB489643455D07AB6E6166A56F047998 = "Stylové a praktické! Upravené tak aby ladili s vaším brněním."
+	1A4662E546567345EC0479BB4DAF992F = "Subata 120"
 	C086D4174E9B15BF0A19F48247CD8DB8 = "Titulky"
 	88E79D4D44DC163227E537BBBBB740C8 = "Vychutnej si tohle, ty blázne přírody!"
 	B85430EB48ED72FB419E5F8C019B725B = "Oblečte se! Jdeme na to!"
@@ -2851,6 +2899,7 @@ Postavu"
 	AE66380E409563A1BF5CAE973528CEFC = "TÝMOVÁ PRÁCE JE KLÍČEM!"
 	365C77A54A278546EDE12CA8FCE40FB6 = "TÝMOVÁ PRÁCE ZÁLEŽÍ"
 	4097330946AE9998B69F0BBC3CECE451 = "TEST"
+	540499344CC9AD1D69AB8597C9A58FFD = "TEST"
 	A52D613749DC4B55AC7DE7A8CFE3286F = "TEST"
 	58407C3147A6F4750EF2E88A021B09F8 = "ZKUŠEBNÍ TEXT"
 	612FA3AD4C8B23B3F298239799F0FBE4 = "ZKUŠEBNÍ TEXT"
@@ -2867,6 +2916,7 @@ PŘISTÁVACÍHO HANGÁRU"
 	A8B865704D489530B5D6579507DAF192 = "DO
 VÝBĚRU
 MISÍ"
+	2A20341A4042C147722ABDAFA5B90C1A = "HORNÍ HANGÁR"
 	351C45EF42BCA3F8C880A5A4E2CF6D1D = "HORNÍ HANGÁR"
 	A508A0234EF76C0366B3B1AAE040C430 = "TOP HANGÁR"
 	00CE953A4F1F61501826299288BB7B83 = "CELKOVÁ CENA:"
@@ -2882,6 +2932,7 @@ MISÍ"
 	C73025114FA5E25D51527D8F4131047E = "Tu máš!"
 	6E38FBD54B1E774F2B95EDBF000A5439 = "Nádrže jsou suché!"
 	15D059EE46A10501EBFBED9C8F28505B = "Cíl"
+	14B0BF7B429451A7CA13068A643D989F = "CílNalezen"
 	FA8F99064E366F561C0135A97B4C881C = "Teamwork and beer will keep us together!"
 	6C7161BE454C40F23CFC2E9067BEB6B7 = "Techno"
 	1E26D0B040A5FEE77948F28761B753B4 = "Skener Terénu"
@@ -3126,8 +3177,9 @@ Jak bylo řečeno dříve, všechny klíče z uzavřené alfy budou zrušeny př
 	68D364CF4183DF3F945DD99F3F3A53B8 = "Napište Obsah Zde"
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "UI"
 	B9B8DF3947F5817463C75E91163945B2 = "Rozměr UI"
+	17E10C7744E0699B82D945B0F00A09B1 = "NEZNÁMÝ TYP"
 	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "UNKNOWN TYPE {type}"
-	1DFF07CD499D9C20484D76BF57D90FD9 = "UNLOCKED:"
+	1DFF07CD499D9C20484D76BF57D90FD9 = "ODEMČENO:"
 	57E6BB0F42206D722E6E1A866FC825D0 = "VYLEPŠENÍ VYBAVENÍ"
 	154D798349596E65C508169C1B0BD295 = "UPGRADUJTE VAŠE VYBAVENÍ"
 	EF7F3BF4405DAFECAB50EC9E099F4532 = "Ugh. Hnus."
@@ -3177,6 +3229,7 @@ Jak bylo řečeno dříve, všechny klíče z uzavřené alfy budou zrušeny př
 	47D184554696EF87AB1C4E9F0A06C02E = "Odemknutí: Úroveň Hráče 8"
 	8D349858414B6F7FD904C7BA2E49D592 = "Odemknutí: Rank Hráče 8"
 	17B17F9143E9238F391FA2A615DFE717 = "Odemknutí: Průzkumník úroveň 10"
+	54779F3C4D800E384904F184926A2773 = "Odemknutí: Průzkumník úroveň 10"
 	C3D8F86F42EA1CEE1E1C2A99801F28EE = "Odemknutí: Scout úroveň 10"
 	00C0837047C2C095CB5E5A93D1332D2A = "Odemknutí: Průzkumník úroveň 20"
 	A83D2E5E45D1FCFE84BB6285E2716604 = "Odemknutí: Průzkumník úroveň 20"
@@ -3291,6 +3344,7 @@ ROCK & STONE!"
 	1F5CC1074A3AF1E92463338FB14859CB = "Vývoj jde dle plánů, ovšem ještě s ním nejsme ani za mák hotoví - Hoxxes IV se ještě nezbavil svých tajemství..."
 	13665D0E4DF4EC22BC92F0AA5DB0E879 = "Slábnoucí pole"
 	1732EDD3443C16A8897B53AFAC41926E = "Víkendový sportovec"
+	143CACC14BC9B8CCB2060FA28548AD9E = "Vítej na palubě, horníku!"
 	EBA81F3D43CA217BF51B13A4D2F2BBE7 = "Vítej na planetě Hoxxes, horníku - doufáme, že ze sebe vydáš to nejlepší! Tohle bude tvůj první ponor pod zem, měl bys mít šanci naučit se veškeré podrobnosti o naší operaci tady dole. Tvůj úkol: Najít a přinést značné množství Morkitu. Štěstí a sláva na tebe čekají! Tak se na to vrhni!"
 	CA46EF6348F600262B35F2A04A53CA74 = "Vítej na planetě Hoxxes, horníku! Tohle bude tvůj první ponor pod zem, měl bys mít šanci naučit se veškeré podrobnosti o naší operaci tady dole."
 	72669582465623877CB088AA02B73251 = "Vítej v týmu!"
@@ -3551,7 +3605,7 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "Cíle Splněny. Výsadkový modul teď může být přivolán na M.U.L.E!"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "Cíle Splněny. Těžební modul teď může být přivolán na M.U.L.E"
 
-Namespace PatchNotes (13 keys)
+Namespace PatchNotes (14 keys)
 	Update_14_ShortTitle = "FEATURE CREEP"
 	Update_15 = "Hello Miners! 
 Before we head out for a couple of weeks of sorely needed summer vacation, we have cooked up a lovely little mutation to the game for you all!
@@ -4120,6 +4174,105 @@ MINOR FIXES
 	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
 	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
 	Update_17_Header = "UPDATE 17: OKTOBERFEST! - 20.09.2018"
+	Update_18 = "UPDATE 18: JOB OPPORTUNITIES
+
+Howdy Miners! 
+Time to put on your brand new armor sets, drink beers with buffs and take on new exciting assignments. Oktoberfest is over and we have been busy packing a big bag of cool features for you. Enjoy! 
+
+--- PATCH NOTES ---
+
+NEW ASSIGNMENT SYSTEM
+----------------------------
+Our goal with the assignment system is to create a smoother start for new players and at the same time create excitement for getting access to new content. Assignments in the future will be used to unlock new content like alternative weapons and planet regions.
+
+THE PROBATIONARY PERIOD:
+When you start the game for the first time you now have to complete the Probationary Period in order to prove your worth as a miner. The Probationary Period is a 9-missions long assignment and will take you through the different regions of Hoxxes and challenge you with various missions to complete.   
+
+You can join any missions on the server list, regardless of completion of the Probationary Period. Completing missions that is part of an assignment grants you bonus rewards in the form of crafting materials and credits. After completing the Probationary Period you will have unlocked all regions, missions, and difficulties. 
+
+ATTENTION VETERAN MINERS! Players who have played the game before will get an option to skip the Probationary Period from The Assignment Board terminal. 
+
+
+RETIREMENT
+----------------------------
+RETIREMENT APPLICATION: When you max out a character at level 20, you get the option to complete the Retirement Application Assignment for that character. Select it from the Assignment Board Terminal. When you have completed the assignment you get the option to retire that character from the Character Selection Terminal. 
+
+RETIRING A DWARF: When you retire a character that character will reset to level 1 and you will lose all progress on weapons and upgrades for that character. You will, however, keep all progression on perks, credits, crafting materials, and vanity items. The first time you retire, you will also unlock an extra perk slot for that specific character. Retiring a character is the only way you can increase your player rank above 26, since you need to gain character levels in order to gain player ranks. We are also considering to introduce unlocks of vanity and other features for players above player rank 26.
+
+
+MISSION UPDATES
+----------------------------
+In order to make a smooth Probationary Period assignment, and in general to improve the long-term mining experience, we have tweaked some of the missions and made both simpler and more complex versions of them. 
+
+EGG HUNT: We have for a long time been wanting to improve the missions types Egg Hunt and Search & Extract. In the end, we decided to just merge them together. Here are the changes:
+
+- Egg hunt now takes place in a cave system, similar to what you used to encounter in Search & Extract. 
+- Instead of having to run around and search for the eggs you can use the Terrain Scanner (hold down [M]) to spot their location. 
+- You have to collect fewer eggs than previously. 
+- Egg hunt now has multiple complexities and lengths. 
+- Search & Extract have been removed for now.
+- We resisted the temptation of calling Egg Hunt for Search & Eggstract!
+
+SALVAGE MISSION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Assemble 2 MINI MULES) and long (Assemble 3 MINI MULES) 
+
+ELIMINATION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Kill 2 Dreadnoughts) and long (Kill 3 Dreadnoughts) 
+
+
+BEER BUFFS
+----------------------------
+Buffs have been added to some of the beers and prices have been adjusted: 
+
+- RED ROCK BLASTER: +30% to max health
+- SKULLCRUSHER ALE: +50% Pickaxe damage
+- DARK MORKITE: +20% Morkite mined
+- GLYPHID SLAMMER: A new none-buff beer, but it will still make you happy :-)
+
+Beers with buffs have been given a lower potency effect, so you can drink one without getting drunk. This is done to prevent you from always having to drink the Leaf Lover’s Special if you don’t want to play with the drunk effect on.
+
+Note that Buffs will remain after drinking Leaf Lover’s Special. And also note that Buffs won’t stack. Also-also note that beers have some randomness in how hard they affect you.  
+
+
+NEW MODEL FOR ASSAULT RIFLE
+----------------------------
+Scouts assault rifle has gotten an overhaul of model, animations, and sound. 
+
+
+NEW ARMORS
+----------------------------
+8 new Armors (called MK3 Basic and Heavy) have been implemented, ready for you to buy and equip. They will be unlocked at player rank 10 and 12 respectively. if you are lower than player rank 8 you will only see the MK2 armor in the shop.
+
+
+DIFFICULTY TWEAK
+----------------------------
+Hazard levels for 2-player games have been tweaked to make the jump from playing solo to two players less steep. Scaling factors of enemies for 2-player games have been adjusted like this: Low risk 0.4 to 0.3, Challenging 0.5 to 0.4, Dangerous 0.75 to 0.66, Extreme 1.0 to 0.9 
+
+The Mactera Plague warning has been tweaked down in difficulty. Some craziness is still ensured, but now it should be less punishing. 
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- New dance move when listening to the jukebox.
+- Zip-line fix. Now clients also get forward momentum when jumping off the zip-line.
+- Save files are not overwritten if there is no connection to steam
+- Third person flamethrower gunsling added
+- Fix recoil. It was added before the shot was fired, so you could never be fully accurate.
+- Fix a case where clients are unable to load the map. Resulting in stuck on loading screen.
+- Detect chunks and gems falling out of the world and beam them back
+- SpaceRig - No more blue light in drop pod when launching a mission
+- Oktoberfest banner changed
+- Savegame: Players can no longer gain extra XP above the cap
+- Added mission stats: Total beverages consumed & Total beverage round ordered
+- Fullscreen mode is now handled correctly and does not reset in between sessions.
+- Sun added behind Planet Hoxxes in Spacerig. Planet model slightly updated as well.
+- Clients can now open the mission map while in a hosted game
+
+
+
+"
 
 Namespace Progression (6 keys)
 	ClassLevel = "Úroveň Třídy"

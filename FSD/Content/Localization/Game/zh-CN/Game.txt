@@ -54,9 +54,8 @@ Namespace Global (4357 keys)
 	1B315FD042F69E6FEFF72BA7F39D5C01 = "* 所有账户开销必须在退休前向深岩银河集团结算。这包括食宿，装备及保养，以及你在酒吧的任何赊账。毕竟，深岩银河集团不是慈善机构。"
 	9AAEE08740108161885DFAB73E240B7A = "*哈欠*……我该好好休息一下！"
 	99914C684BA996CF46904B80B866DFD5 = "+1 奖励的特长栏位"
-	9E48C15043BBDBD7AD465B9A8621B44A = "+ 解锁所有行星区域
-+ 解锁所有任务类型
-+ 解锁所有难度"
+	9E48C15043BBDBD7AD465B9A8621B44A = "+ All planetary regions unlocked
++ All mission types unlocked"
 	743B701443B2E95407A48793DB5D43DB = "+钻机手退休选项"
 	70E89AD543F7A4B249C79A8C7D7AB23E = "+工程师退休选项"
 	66A0823447C3CB00940092A9CB213262 = "+枪手退休选项"
@@ -105,7 +104,7 @@ Namespace Global (4357 keys)
 	B063C03941EB570D6F2145808469C99D = "10 秒后升空。"
 	4179865F456241CF9017378456F41753 = "100%"
 	84AF27F14D540C4984879B9634EC0744 = "100%"
-	F466257A4A397856683A34BF83E4CDCA = "101A:"
+	F466257A4A397856683A34BF83E4CDCA = "101A："
 	8CB95B314EA5D392B3FA18AB4783D9AC = "1千万"
 	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
@@ -347,7 +346,7 @@ Namespace Global (4357 keys)
 	ABDE3BB74428072B8E1C00878B5ED751 = "战役任务"
 	76D6876645E4B0ECF23631BEA63346C7 = "任务面板"
 	898C143C4A3237A8BB38C1B4A13498F0 = "任务面板"
-	9DB1E50245ECD3FE1FF7D08BA4DE6721 = "Assignment Mission {level} of {max}"
+	9DB1E50245ECD3FE1FF7D08BA4DE6721 = "战役任务 {level} / {max}"
 	668ABFEF48EC05534A14B79017E30299 = "已完成战役任务"
 	19323ED84A8EA8997995DEB5993D9D8A = "战役任务已完成。你表现得很好。"
 	9696BD334FD18A50445A059F2032519E = "战役任务： "
@@ -565,7 +564,6 @@ Namespace Global (4357 keys)
 	B7E069AA4384D6FDD82FC9BB59274005 = "连接断开"
 	FA3D092E4B1FA4CCC5F1F3A87F894D32 = "连接断开"
 	3AC07A124BB671598064218A10F5ACE5 = "早期帮助推广 DRG 的内容创作者"
-	A82FB6494E1D2DC165B6D6A3D1A5D152 = "继续"
 	2A3AB4AF4B195DC2665E73A0330FF4B6 = "花费"
 	6B3D73874527C184D6F169A93964D324 = "花费：2代币"
 	0503DC77479E436F6E50DDBA7C86B939 = "花费：{cost} {resource}"
@@ -1074,6 +1072,7 @@ Namespace Global (4357 keys)
 	B64D576F48C8AF3A46F3E280F20DB223 = "降落程序正在启动！"
 	B7F6BD9244821F3A4A4CC986DE400809 = "降落程序正在启动！扣好安全带！"
 	8F16427642A01822C5F6F78503597354 = "空降舱已启动完毕，是时候出发了！"
+	C833974C47028E6CAF6A96B610633897 = "双管手炮测试"
 	D691827C439F91E8AE25EE98B3B02C3E = "持续时间"
 	FFA00E414BC4579C0AA26D899EF23A91 = "持续时间"
 	156D2CB74CD0FA572456AEAAA4343674 = "矮人职业名称"
@@ -2543,7 +2542,6 @@ Namespace Global (4357 keys)
 	801BA77A4D781882A479418812A4C628 = "从未感觉这么好过"
 	DBBA53E84F566413D90533A0C67236BB = "从未感觉这么好过！"
 	0A2228BA44E6966CE21B96B2E0448AB9 = "永不放弃！生命值归零后仍可行动 {value} 秒！（45秒冷却）"
-	605A015B4FB0C2F68F95B3AA1933DECC = "我从没想过会活着见到这天！最后完成个任务，然后我就要建个自己的酒厂……"
 	59D63F4445AC9F6C362D1EA8BB115C20 = "新角色"
 	C0027D1B4000EEFC8109E7BE2E3E58DA = "新发型"
 	06DFF8D844D3C98095B16E8429B97566 = "有新物品"
@@ -2691,23 +2689,30 @@ Namespace Global (4357 keys)
 	C28E671A45A9BE49D0C173888F1C00DB = "在任务终端的地图上，你可以看到各个生态区域的描述以及蕴藏了哪些矿石材料。"
 	7BF994A8421E1EE88429E3B954B9C08D = "屏幕帮助"
 	C03801984EB9B6D7D536F3BACDE81C4F = "空降舱主机正在启动。"
-	8762E3E74B0D5CCF46FF81803FAAD508 = "一段时间中偶尔会有一次，像你这样优秀的员工可以达到公司天梯的最高阶。我们赞赏你的努力，并向你为深岩银河集团所做的一切表示感谢。
+	8762E3E74B0D5CCF46FF81803FAAD508 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
 
-虽然我们很乐意让你留下，但公司的政策要求我们在这个时候给你退休的选择。但是，为了获得资格，你需要完成一系列高风险/高回报的任务。这些任务还便于你收集资源来支付你在完全退休前在深岩银河集团账户中产生的任何赊账和/或罚款。"
-	986E87284F7DA45D79751A8DF8DFEE24 = "一段时间中偶尔会有一次，像你这样优秀的员工可以达到公司天梯的最高阶。我们赞赏你的努力，并向你为深岩银河集团所做的一切表示感谢。
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
 
-虽然我们很乐意让你留下，但公司的政策要求我们在这个时候给你退休的选择。但是，为了获得资格，你需要完成一系列高风险/高回报的任务。这些任务还便于你收集资源来支付你在完全退休前在深岩银河集团账户中产生的任何赊账和/或罚款。"
-	FF24FD024955050809A7708370DB971A = "一段时间中偶尔会有一次，像你这样优秀的员工可以达到公司天梯的最高阶。我们赞赏你的努力，并向你为深岩银河集团所做的一切表示感谢。
+- Regards, 
+Management"
+	986E87284F7DA45D79751A8DF8DFEE24 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
 
-虽然我们很乐意让你留下，但公司的政策要求我们在这个时候给你退休的选择。但是，为了获得资格，你需要完成一系列高风险/高回报的任务。这些任务还便于你收集资源来支付你在完全退休前在深岩银河集团账户中产生的任何赊账和/或罚款。"
-	FAA3E04641AABD0D764B3C88DF1FB4E3 = "一段时间中偶尔会有一次，像你这样优秀的员工可以留下来足够久以达到公司天梯的最高阶。我们赞赏你的努力，并向你为深岩银河集团所做的一切表示感谢。
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
 
-虽然我们很乐意让你留下，但公司的政策要求我们在这个时候给你退休的选择。但是，为了获得资格，你需要完成一系列高风险/高回报的任务。
+- Regards, 
+Management"
+	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
 
-（这些任务还便于你收集资源来支付你在完全退休前在深岩银河集团账户中产生的任何赊账和/或罚款。）
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
 
-衷心问候，
-管理层"
+- Regards, 
+Management"
+	FF24FD024955050809A7708370DB971A = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
 	1691C1544A6F5EB4E1F2289D76C9968A = "搞定一个！"
 	8609CA944A8413052C562086E7C47786 = "搞定一个！"
 	CE6FC0DC4807D1957DDACF82F69E5699 = "一杯叶子情人！……还有我能往里面兑些水吗？"
@@ -3711,6 +3716,7 @@ Namespace Global (4357 keys)
 	4E7A7E91460FBBF1C9DC40ABBFED1B45 = "这一波快完了！收拾掉那些残兵败将。"
 	F146075D42CB441C7343E095E5C443D2 = "这一波就快完了。干掉剩下的，然后继续前进。"
 	CC981CE74634F69835F3E9A258946EB3 = "前面被堵住了！"
+	067C8D4242FD1311BF839E97ACA380F8 = "{class} 现在有资格参加退休任务"
 	A4A0574A445CF6855F2ADFAAD49B85D7 = "时装商店现在有了新商品"
 	2C6B59D24FFA5775320B82851C3DB2D3 = "这里有猫眼石！"
 	C6D1C99946F11ABD538D6DB366219B13 = "这里有个刁虫母巢！"
@@ -5258,100 +5264,6 @@ Discord集成
 - 敌人不再会被物理攻击（近战）打出硬直
 - 修复了升级携弹量和升级弹匣容量在你第一次加入一个任务时不生效的问题
 - 改变了第一人称视角下物体的缩放，以使与其它物体更少穿模。"
-	Update_18 = "你好矿工们！
-是时候穿上全新的铠甲，喝带buff的啤酒，并开启令人兴奋的全新战役模式了。十月啤酒节已经结束，我们忙着为你们准备了一大包炫酷的更新。尽情享受吧！
-
---- 更新说明 ---
-
-全新战役模式
-----------------------------
-我们战役模式的目标是为新手打造一个更平滑的难度曲线的同时让玩家为解锁新内容感到兴奋。未来战役模式会被用于解锁新内容比如可替换武器与行星区域。
-
-试用期：
-现在你第一次启动游戏时需要完成试用期任务以证明你是一名合格的矿工。试用期包含9个任务，会带你到酷斯星的不同区域，并用各种任务挑战你。
-
-完成战役模式的任务会给你制作材料和代币奖励。
-
-完成试用期后你就已经解锁所有区域、任务以及难度等级。
-
-专业矿工请注意！深岩银河集团的管理层坚持认为有经验的玩家也需要完成试用期。我们努力试过想让管理层改变想法，但他们非常固执！
-
-
-退休
-----------------------------
-退休申请：当你一个角色满级20级后，你会得到完成该角色的退休申请任务的选项。从任务面板终端选择该选项。当你完成任务后你在角色选择终端就会得到退休该角色的选项。
-
-退休一个矮人：当你退休一位角色时其等级会重置为1级，你将丢失那个角色所有武器和升级的进度。但是，你会保留所有特长、代币、制作材料和时装物品的进度。第一次退休时，你也会为那个角色解锁一个额外的特长栏位。退休一位角色是提升你的玩家等级超过26级的唯一方法，因为你需要通过提升角色等级来提升玩家等级。我们也正在考虑为超过26级的玩家引入新解锁的时装物品和其它特性。
-
-
-任务升级
-----------------------------
-为了使试用期有个平滑的难度曲线，并且从整体上提升长期挖矿的体验，我们对一些任务进行了调整，制作了它们更简单和更复杂的版本。
-
-虫蛋收集：我们想了好久要改进虫蛋收集和搜索并提取任务。最终，我们决定合并二者。下面是改动的部分：
-
-- 虫蛋收集现在在一个洞穴系统中进行，和搜索并提取的地形相似。
-- 你可以用地形扫描仪（按住[M]）来看到虫蛋的具体位置而不用到处跑着找。
-- 你比原来需要收集更少的虫蛋。
-- 虫蛋收集现在有多种任务复杂度和任务长度。
-- 搜索并提取任务类型目前被移除。
-- 我们抵制住了把虫蛋收集称为搜索并提取虫蛋的冲动！
-
-搜救行动
-- 洞穴系统现在可以生成中等和高复杂度的任务
-- 任务长度有短（组装2个迷你矿骡）有长（组装3个矿骡）
-
-消灭任务
-- 洞穴系统现在可以生成中等和高复杂度的任务
-- 任务长度有短（杀死2个无畏刁虫）有长（杀死3个无畏刁虫）
-
-
-啤酒buff
-----------------------------
-一些啤酒现在有了buff，价格做了调整：
-
-- 红岩爆破手：+30%最大生命值
-- 碎颅者艾尔：+50%十字镐伤害
-- 黑墨菱：+20%墨菱石采掘
-- 刁虫射手：一个新的无buff啤酒，但还是会让你开心 :-)
-
-
-突击步枪新的模型
-----------------------------
-侦查突击步枪的模型、动画和音效均被重做。
-
-
-新的铠甲
-----------------------------
-8款新铠甲（MK3基本款和重型款）已经进入商店，等着你购买并穿上。
-
-
-难度调整
-----------------------------
-2个玩家游戏的风险等级进行了调整，以使从单人到双人的难度跨越不那么陡。2个玩家游戏中敌人数值的缩放因子进行了如下调整：一级风险0.4改为0.3，二级风险0.5改为0.4，三级风险0.75改为0.66，四级风险1.0改为0.9 
-
-刁蝇瘟疫警告的难度被调低了。还是会有很多疯狂的东西，但不像原来那样困难。
-
-
-修复和改进
-----------------------------
-- 听点唱机时有新的跳舞动作。
-- 滑索修复。现在客户端跳离滑索时也会有向前的动量。
-- 和Steam无连接时存档不会被覆盖重写
-- 新增第三人称视角的喷火器耍枪动画
-- 修复后坐力。之前是在开枪之前添加的所以你永远不能完全精准。
-- 修复了一种情况下客户端不能加载地图的问题。该问题会导致在加载界面卡住。
-- 检测掉出地图的矿石块并把它们送回去
-- 太空钻机——开始任务时空降舱不再有蓝光
-- 啤酒节横幅改动
-- 存档：玩家不再能获得超过上限的额外经验值
-- 新增任务统计：摄入饮品总量和购买饮品总轮数
-- 全屏模式现在是正常的了，不会在会话间被重置。
-- 太空钻机中看到的酷斯星后方添加了恒星。酷斯星模型也被稍微更新。
-
-
-
-"
 	Update_18_ShortTitle = "就业机会"
 	Update_13_ShortTitle = "生命值系统微调"
 	Update_15_ShortTitle = "突变警告！"
@@ -5365,6 +5277,105 @@ Discord集成
 	Update_15_Header = "更新15：突变警告！ - 2018年7月4日"
 	Update_16_Header = "更新16：凛冬已至 - 2018年8月29日"
 	Update_17_Header = "更新17：啤酒节！ - 2018年9月20日"
+	Update_18 = "UPDATE 18: JOB OPPORTUNITIES
+
+Howdy Miners! 
+Time to put on your brand new armor sets, drink beers with buffs and take on new exciting assignments. Oktoberfest is over and we have been busy packing a big bag of cool features for you. Enjoy! 
+
+--- PATCH NOTES ---
+
+NEW ASSIGNMENT SYSTEM
+----------------------------
+Our goal with the assignment system is to create a smoother start for new players and at the same time create excitement for getting access to new content. Assignments in the future will be used to unlock new content like alternative weapons and planet regions.
+
+THE PROBATIONARY PERIOD:
+When you start the game for the first time you now have to complete the Probationary Period in order to prove your worth as a miner. The Probationary Period is a 9-missions long assignment and will take you through the different regions of Hoxxes and challenge you with various missions to complete.   
+
+You can join any missions on the server list, regardless of completion of the Probationary Period. Completing missions that is part of an assignment grants you bonus rewards in the form of crafting materials and credits. After completing the Probationary Period you will have unlocked all regions, missions, and difficulties. 
+
+ATTENTION VETERAN MINERS! Players who have played the game before will get an option to skip the Probationary Period from The Assignment Board terminal. 
+
+
+RETIREMENT
+----------------------------
+RETIREMENT APPLICATION: When you max out a character at level 20, you get the option to complete the Retirement Application Assignment for that character. Select it from the Assignment Board Terminal. When you have completed the assignment you get the option to retire that character from the Character Selection Terminal. 
+
+RETIRING A DWARF: When you retire a character that character will reset to level 1 and you will lose all progress on weapons and upgrades for that character. You will, however, keep all progression on perks, credits, crafting materials, and vanity items. The first time you retire, you will also unlock an extra perk slot for that specific character. Retiring a character is the only way you can increase your player rank above 26, since you need to gain character levels in order to gain player ranks. We are also considering to introduce unlocks of vanity and other features for players above player rank 26.
+
+
+MISSION UPDATES
+----------------------------
+In order to make a smooth Probationary Period assignment, and in general to improve the long-term mining experience, we have tweaked some of the missions and made both simpler and more complex versions of them. 
+
+EGG HUNT: We have for a long time been wanting to improve the missions types Egg Hunt and Search & Extract. In the end, we decided to just merge them together. Here are the changes:
+
+- Egg hunt now takes place in a cave system, similar to what you used to encounter in Search & Extract. 
+- Instead of having to run around and search for the eggs you can use the Terrain Scanner (hold down [M]) to spot their location. 
+- You have to collect fewer eggs than previously. 
+- Egg hunt now has multiple complexities and lengths. 
+- Search & Extract have been removed for now.
+- We resisted the temptation of calling Egg Hunt for Search & Eggstract!
+
+SALVAGE MISSION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Assemble 2 MINI MULES) and long (Assemble 3 MINI MULES) 
+
+ELIMINATION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Kill 2 Dreadnoughts) and long (Kill 3 Dreadnoughts) 
+
+
+BEER BUFFS
+----------------------------
+Buffs have been added to some of the beers and prices have been adjusted: 
+
+- RED ROCK BLASTER: +30% to max health
+- SKULLCRUSHER ALE: +50% Pickaxe damage
+- DARK MORKITE: +20% Morkite mined
+- GLYPHID SLAMMER: A new none-buff beer, but it will still make you happy :-)
+
+Beers with buffs have been given a lower potency effect, so you can drink one without getting drunk. This is done to prevent you from always having to drink the Leaf Lover’s Special if you don’t want to play with the drunk effect on.
+
+Note that Buffs will remain after drinking Leaf Lover’s Special. And also note that Buffs won’t stack. Also-also note that beers have some randomness in how hard they affect you.  
+
+
+NEW MODEL FOR ASSAULT RIFLE
+----------------------------
+Scouts assault rifle has gotten an overhaul of model, animations, and sound. 
+
+
+NEW ARMORS
+----------------------------
+8 new Armors (called MK3 Basic and Heavy) have been implemented, ready for you to buy and equip. They will be unlocked at player rank 10 and 12 respectively. if you are lower than player rank 8 you will only see the MK2 armor in the shop.
+
+
+DIFFICULTY TWEAK
+----------------------------
+Hazard levels for 2-player games have been tweaked to make the jump from playing solo to two players less steep. Scaling factors of enemies for 2-player games have been adjusted like this: Low risk 0.4 to 0.3, Challenging 0.5 to 0.4, Dangerous 0.75 to 0.66, Extreme 1.0 to 0.9 
+
+The Mactera Plague warning has been tweaked down in difficulty. Some craziness is still ensured, but now it should be less punishing. 
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- New dance move when listening to the jukebox.
+- Zip-line fix. Now clients also get forward momentum when jumping off the zip-line.
+- Save files are not overwritten if there is no connection to steam
+- Third person flamethrower gunsling added
+- Fix recoil. It was added before the shot was fired, so you could never be fully accurate.
+- Fix a case where clients are unable to load the map. Resulting in stuck on loading screen.
+- Detect chunks and gems falling out of the world and beam them back
+- SpaceRig - No more blue light in drop pod when launching a mission
+- Oktoberfest banner changed
+- Savegame: Players can no longer gain extra XP above the cap
+- Added mission stats: Total beverages consumed & Total beverage round ordered
+- Fullscreen mode is now handled correctly and does not reset in between sessions.
+- Sun added behind Planet Hoxxes in Spacerig. Planet model slightly updated as well.
+- Clients can now open the mission map while in a hosted game
+
+
+
+"
 	Update_18_Header = "更新18：就业机会 - 2018年10月11日"
 	Update_9_Header = "更新9：回头就开钻机！ - 2018年3月9日"
 	Update_16_ShortTitle = "凛冬已至"

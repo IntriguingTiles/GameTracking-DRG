@@ -1,7 +1,7 @@
 21 namespaces
-2444 values
+2466 values
 
-Namespace Global (2980 keys)
+Namespace Global (3018 keys)
 	2559D78C40005E5221F26093CB976283 = " Samla in {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " KRÄVS"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
@@ -31,6 +31,8 @@ Namespace Global (2980 keys)
 	64EC61C944E03B358AF914AE7EDB71B2 = ""Jo, det kan du!""
 	03C22F084530B9BF96F680BF41F12B99 = "'Inga pannlampor' varningar slutförda"
 	084972DA4367BB3126F09EA16F626036 = "(Aggresive) Åh ja, nu kör vi...!"
+	9E48C15043BBDBD7AD465B9A8621B44A = "+ All planetary regions unlocked
++ All mission types unlocked"
 	743B701443B2E95407A48793DB5D43DB = "+ Driller Retirement Option"
 	757542D044AE5468809922ADDD77C794 = "+20%"
 	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
@@ -215,6 +217,7 @@ TERMINAL"
 	438893FB45ABDF244FBB0DB4BAC91FCA = "Tillbaka"
 	D0EDCD9346C0B9409DA51D860D09A284 = "Tillbaka"
 	FE9E6B9444022CF44BD437BE13C15DEE = "Tillbaka"
+	17B8F6B64ABF888AFFCC34AC57D1755B = "Tuffing!"
 	02CC6E8A4B5D08B12FBF53AB38D7838F = "Baddaboom"
 	6F0917084169EB3836DE98AC09DB6011 = "Väskan är full! Kan inte bära mer!"
 	A468A900444B9E1A695945814B9C3F40 = "Väskan är full! Kan inte bära mer!"
@@ -316,7 +319,7 @@ TERMINAL"
 	CCD5A42B4899395A8E979AAF6192E5A4 = "GEMENSKAPS ÖVERSÄTTNINGAR"
 	C43759C34758D0A2EFFF3E81C874F6F8 = "COMPLETE"
 	7E414F4C4FF198C3F86B93AF103217E7 = "SLUTFÖRT"
-	13AEF9FE48FED505521872B9A8A90466 = "COMPLETION REWARD"
+	13AEF9FE48FED505521872B9A8A90466 = "BELÖNING FÖR SLUTFÖRANDE"
 	3D6E174142696818ED29D6804471583B = "ANSLUTNINGEN TAPPAD"
 	401FE2484B056208D64FE898A736C2CB = "ANSLUTNINGEN TAPPAD"
 	5D07197E454C6A470C7D078C873BF4A1 = "ANSLUTNINGEN TAPPAD"
@@ -545,6 +548,7 @@ TERMINAL"
 	659F86C14FC51F0A934A859EDA3ABAF2 = "DRG: Tillsammans kan vi stå rakryggade!"
 	C5A231D144D11797B0F13D8D7CC5B55A = "BORRARE"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "BORRARE"
+	52E82F9D448114EF8537CBAA98A19DB0 = "BORRAR STATY"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "BORRAR STATY"
 	0E8980524B030DC3BE2A8CB569D18156 = "Skada"
 	4B75716E4B545D6172594F8C5B1D6CE5 = "Skada"
@@ -718,6 +722,8 @@ TERMINAL"
 	3E7AEFBD413BA377F0C7E696F2148876 = "INGENJÖR"
 	5A5338684DA9A8EA67A6D7A111345EA4 = "INGENJÖR"
 	72BDA9144A79793B099BFE8EB5672375 = "INGENJÖR"
+	1F8C0CE54830DBE80B8C1190721BDF8B = "INGENJÖR STATY"
+	39333F8E462BCAEF37BF0A9EA2C64A1D = "INGENJÖR STATY"
 	EAC469AE4E3CB792C440D2853703024F = "INGENJÖR STATY"
 	8915FA1F490BB1FCAE9D13A3D975012A = "ANGE NAMN"
 	FE456865491531152914628BEBA9F6B5 = "ERR://23¤Y%/"
@@ -923,14 +929,19 @@ BANA"
 	B75EF0174A3AD49AC62BA2BDC2DA9A2C = "FÅ EXTRA AMMUNITION"
 	BDE91C1943D8679F17E677AECD8ED96F = "FÅ EXTRA AMMUNITION"
 	06AEBC064E7F2B55F1E0C4917BC51EA6 = "GIGANTISK STATY"
+	5F69D03A4A4499EA901CDCA92D43623C = "GIGANTISK STATY"
 	D8F426E643E1EDDCE9AD8395A9200CA9 = "GIGANTISK STATY"
 	3F96D95A4C722E8F039807AE864DD95A = "GULD BORRAR STATY"
+	4C07A1754561607A1B8060A000688A49 = "GULD BORRAR STATY"
+	78C23DDB455A8E04D112DCBF9C24B42C = "GULD INJENGÖR STATY"
 	C7267BC844DE8DC2C3AE30B18CCB5530 = "GULD INJENGÖR STATY"
+	5C9AA3BE481DB4F9D28E088B324AABE5 = "GIGANTISK GULD STATY"
 	B6BB02A24AE572D8770B3DB90CB3255B = "GIGANTISK GULD STATY"
 	06D9DB7A4FF5259A5F799BAF9835C3EE = "GULD SKYTT STATY"
 	4BC4E7A24DC57C12BDC40C9562867DCF = "GULD SKYTT STATY"
 	160894AC46CE8571BD21CD90D323699F = "GULD M.U.L.E. STATY"
 	4804124D41969DED2F42C9A2B086389B = "GULD HONNÖR STATY"
+	20E07346436F70A0A5D619B9192BDABF = "GULDIG SPANAR STATY"
 	5477965F4652EC6C190751B64AC3580C = "GULD SCOUT STATY"
 	F1E2BD6E4FCF7B776D16F78A4E4E0D97 = "GRAVITATION OMKALIBRERING"
 	0388A5E2438F9ECCB78D0B9E551D2929 = "SKYTT"
@@ -940,6 +951,7 @@ BANA"
 	A78E8E9640C457C98145DBBCD6E0BEC1 = "SKYTT"
 	DF8927014457DEB1A222759C3C2B74AA = "SKYTT"
 	E4CA328C4E57D2B2A07A2FBA12D6640F = "SKYTT"
+	28F1EA87413D9581DAA742AB0D5AC17C = "SKYTT STATY"
 	AAA8193840982011FD259AB023A1D053 = "SKYTT STATY"
 	17BF434B432DBF4223952F9EF404B811 = "Gain {value} levels as the {character}"
 	4ABC44BD43F86CC931E28D89441C096D = "Gain {value} levels as the {character}"
@@ -1048,6 +1060,7 @@ BANA"
 	7F8003DA478DE1029E7579ADC3633070 = "Tar Ammunition!"
 	E9A0DC024B2AAFDD9782F58C6ACA298B = "Grafik"
 	DDF50D4C4F9E838B71893D9D297BC7AE = "Ankarpistol"
+	14081A724B141E0347424FBA0C723F7F = "Gravitations omkalibrering påbörjar!"
 	8EBD40C14135F87D6680EC863D3EEF3B = "Härligt att ha dig ombord!"
 	A833C9D54BCECB14D6AA4BBA3073A42D = "Grön kristall"
 	15D31FEA4DA1482653F444A1C4A81337 = "Grön Tubel"
@@ -1118,10 +1131,12 @@ BANA"
 	3C3DFD4645EED523B98CDC9B5EFD2570 = "Nu kör vi!"
 	EFE4C0CD4894D5F63EE58C852EF22D50 = "Nu kör vi!"
 	0950F10E4B9516FF9FF0949EBDB442A7 = "Varsågod! En kula i nyllet!"
+	13B1021142FCE96A91B921A5B3515ACD = "Hallå!"
 	468E3D6745C8F8CC9046B298706ED17C = "Hej!"
 	D02CA24F467BC5BB96523494A530ACDD = "Hallå!"
 	8124341C479C7CE1C31724B3FB0237A8 = "Hej! Jag tror jag har sett dig förut! Kanske baren igår kväll?"
 	C84F655B4DC79ACD74A1B78B94C5E94F = "Hallå! Jag är inte en fiende!"
+	17A66EEC472017653848E88FEE1927F9 = "Hallå, lyssna!"
 	D93E421F4E6FBDB80BA48B82976DEF65 = "HggHrrmmm"
 	7A7D5A004ED4A721035595BB548646B6 = "Hej kompis! Jag har sett dig förut?"
 	12D9B8D048E23998EFB85BA2BF9654A1 = "Hej hej!"
@@ -1241,6 +1256,7 @@ BANA"
 	6DE8868146A6EF3D1942FD8E6C76D5D3 = "Jag kan verkligen inte använda detta till någonting!"
 	8C6AB9A9429B6A9CE6E18EBC0C537FCE = "Jag behöver verkligen en skönare säng!"
 	ED4848FE44D8B4D54FDEB081ED219B8C = "Jag borde ropa efter M.U.L.E.!"
+	181C52914F4B278A18C5F98AE1D7F037 = "Jag känner lukten av bacon!"
 	2A005E294EBE2C1383E73CBB73B88016 = "Jag tror att det finns något här!"
 	C9007DCF43C1EC5EDBF4B1B91C03A38D = "Jag tror att vi faktiskt har en chans att komma ut levande!"
 	D8C037AD4DDAE05980D54E9458D702AF = "Jag tror att vi faktiskt har en chans att komma ut levande!"
@@ -1407,6 +1423,7 @@ HÅLL ER TILLBAKA!"
 	0EC4DC934CAB54D8DF4445B678AFF85F = "Håll ut, Transportkapseln är på väg."
 	7FDF82184386901A5EB3679C4B84055D = "Håll ut, Drop-Podden är på väg."
 	38C61178401D04329556CEBDAACAE41B = "Hålla de skitarna borta från mig, så kan jag hålla Laget vid liv."
+	1968679845DF826F5C05E894A2D568AE = "Håll munnen stängd!"
 	68B1AE544A5A62892ACEDFBAE508AB60 = "Kenneth Faigh"
 	76AE6DA0456ED2D59A9CBB902AD2D0F1 = "Tangentbindningar"
 	85D437634433F8B99D05B683232CAE1D = "Tangentbord och Mus"
@@ -1440,6 +1457,7 @@ HANDLEDNING"
 	E612E7A1483E43042EB651808C262332 = "Språk"
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
 	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
+	18419EAD46D72299BD1CDEB4D75552F3 = "Högkaliber rundor"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Större Bälte"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Större bälte"
 	A58587444D096FC60CC81D9393CF222E = "Större bälte"
@@ -1546,6 +1564,7 @@ HANDLEDNING"
 	D80A11754E2F7AA6C46814B2207D1801 = "Låg"
 	89E8F5894C285525E9999E854859BADD = "M.I.A"
 	E6C290DA4493A7CAE570E0AE29454EEF = "M.U.L.E."
+	432509D94101D7F887A979B6F7B2BA80 = "M.U.L.E. STATY"
 	739783CC49AE38F6F1AE6D963CF9D972 = "M.U.L.E. STATY"
 	DBF84CCA408EFEF59E11CA97B1FE5298 = "MINNESHALL"
 	A8635D3A4197B12C9171ECACB3DCC6E1 = "MINERAL NAMN"
@@ -1558,6 +1577,7 @@ HANDLEDNING"
 	DE9DC77F47EFDA3AA66A18A3481702D6 = "UPPDRAG"
 	FE7FBF524652059D493E178FF0A36140 = "UPPDRAG"
 	113127354D96B4A900DC8E9F1161C681 = "Uppdragskontroll"
+	14055AEC4F169C40AEB47A80BC0D7CCC = "UPPDRAGSKONTROLL"
 	9633619D4B69B36E374426A0C8D4998F = "UPPDRAGS KONTROLL"
 	F922573C43BAC27EEC4600B040A61EC2 = "UPPDRAGS DATA:"
 	10A13F5C4BA816B7378886AB1EFF1636 = "UPPDRAGSLÄNGD"
@@ -1595,6 +1615,7 @@ HANDLEDNING"
 	DB95D7DA435BCE2E6BB8DBA9D1BB26D3 = "Mk2 Skyttdräkt - Förgylld"
 	B917237840B02F2C3E676CBD6512B116 = "Mk2 Skyttdräkt - Standard"
 	15F6ACEB476702A1A24AEA9562FA5F4B = "MK2 Skyttdräkt - White Knight"
+	18B239E444192F81E9F3B99D8443F125 = "Mk2 Spanarutrustning - Enkel"
 	039521FA41D64077F93FE58087E7EE3A = "Mk2 Scoutdräkt - Black Crag"
 	65951FC44F68E338FFF179A5B9C342B8 = "Mk2 Scoutdräkt - Förgylld"
 	67DBB65C4E4BBF3BE8703790F4C45F6C = "Mk2 Scoutdräkt - Standard"
@@ -1613,6 +1634,7 @@ HANDLEDNING"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	E0E051F74E00F5C9A4CC2680847DF607 = "Mask"
 	4F3B80154E7AE0D29C23CABCD30DB300 = "Mask!"
+	194016424EB41ED339DB3095A9FF9E16 = "Magma kärna"
 	D70583A9464818D718760293242B00DC = "Magnesium kärna"
 	88B14DF044FEC12E9B9070928F477A09 = "Magnetiska Kylning"
 	49C7FAD249FE20FAC73765B876BBE29F = "Magnite"
@@ -1800,6 +1822,7 @@ HANDLEDNING"
 	81B0842C41F7F68EAEC0E6A9F789FB97 = "Ingenting här ännu, \r Jag är rädd. \r Men bra gjort. :D\r - Rob"
 	FE577E2F45E9A912FE9357A1C12882EA = "Nothing holds you back! You move {value}% faster while carrying heavy objects!"
 	627AA7E3401E96C63F6D51BBBCA584B3 = "Nothing will stop us now!"
+	15BD33EE46512A80FAA34489B2B37EDC = "Notifikation!"
 	4F889D684C3AFE8D1AC069A6A68F6111 = "Nu detta är riktig musik!"
 	81192BAC43EAEC0E9910289D3B9E2DF3 = "Väl spenderade pengar!"
 	D60AE5CF42BBB7EB7838199D44BE8482 = "ONLINE-SPEL INTE TILLGÄNGLIGA"
@@ -1829,6 +1852,7 @@ HANDLEDNING"
 	7E783C0945E8FD0193C310999DF4C85A = "Skit också!"
 	DB2C6AF04D917F95899B71B5F09BFE33 = "Åh, mitt skägg! "
 	EB050EE744E2D25344993D9FC83C5F9F = "Oh yeah !"
+	134D283042E0C88A4DBBF7A0809D6256 = "Åååh jaa!"
 	15FB9644403E6D03ACF31F9C3E302D8A = "Åh, jag gillar det!"
 	E63DAFB842FB5D136062BBB0EA2096EA = "Ohhh jaaa!"
 	2888AA3641B4D8ED77F729AE5D4A7D9A = "Okej! Vem duschade inte igår?"
@@ -1838,6 +1862,30 @@ HANDLEDNING"
 	C108B2374C0EB82DEEBAD1ABB7463FB3 = "Oliv Keps"
 	C28E671A45A9BE49D0C173888F1C00DB = "På kartan i UPPDRAGS TERMINALEN så kan du se en beskrivning av varje biom och vilka tillverkningsmineraler man kan hitta i dem."
 	7BF994A8421E1EE88429E3B954B9C08D = "Hjälp På Skärmen"
+	8762E3E74B0D5CCF46FF81803FAAD508 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	986E87284F7DA45D79751A8DF8DFEE24 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
+	FF24FD024955050809A7708370DB971A = "Once in a while, exceptional employees like yourself reach the highest rung of the Company ladder. We applaud your effort and wish to express our gratitude for all you've done for DRG. 
+
+While we'd love to keep you around, it is Company policy to extend an offer of retirement. However, In order to qualify, you will need to complete a short series of high-risk/high-payout missions. These missions will also handily serve towards gathering whatever resources you need to settle any outstanding bills and/or fines with DRG Accounting before retiring completely.
+
+- Regards, 
+Management"
 	1691C1544A6F5EB4E1F2289D76C9968A = "En nere!"
 	E51ADE8A4FDB509121F63B8F9A6A7FE2 = "En nere!"
 	5FF8D81747E9F0DDE613469664B89123 = "En av DRG's klassiska arbetshäst, den två-linkade Styrke Borrar gör kort arbete av mer eller mindre vad som helst som befinner sig framför dom. Det inkluderar dina lagkamrater, tänk på det."
@@ -2163,6 +2211,8 @@ ANSLUTNING"
 	790520484F7313D8EB7066B8DBCD61C4 = "KNAPP"
 	2987054D4A1449F27EB75694216C7F4F = "SCOUT"
 	6A6730174C91259F749F5FA7A54DA0B8 = "SCOUT"
+	3F85EC154DDD3D6A2BB6A3A010684B39 = "SPANAR STATY"
+	7B5788E44A9705758FDA05BD0A41885D = "SPANAR STATY"
 	E6FE8157413D5088DE26849F46AF581B = "SCOUT STATY"
 	6BD847C34CF0524C362B9485432BE534 = "VÄLJ"
 	ECBC0D7542DF57E5785AD3A7225E4809 = "VÄLJ"
@@ -2271,6 +2321,7 @@ Karaktär"
 	BC256A7247EB7FC6A1D92CB315D9B94D = "Skarp Kant"
 	FD7DFDF244DAEB062B6D5881B5738DD4 = "Skarp kant"
 	512BDAB74153C22C34CC8897AB9105FF = "Shhh! Du vet, du är väldigt högljudd! Visa lite respekt!"
+	1B5A861E440E5C3DB544FAA04AD871BF = "Sköld!"
 	F1BF5871430CA8260C6FBBB8A1A18DF7 = "Stötdämpare"
 	57C3E1E64F6623F0C02B4F9786399CE0 = "Skjut den i röven!"
 	3EE85E944974D508D0BB2CB7DC8A3ECF = "Skjut det!"
@@ -2379,6 +2430,8 @@ Karaktär"
 	1B8395E5452CDDC4D27EE3A70A790E58 = "Starkare explosion som skadar mer"
 	774B8BAF416E053F8A1F2CA1DF938738 = "Starkare explosion som skadar mer"
 	950A42504F9FA4B21E07E682B097AD10 = "Starkare explosion som skadar mer"
+	1526D6124A85E9C5A69A9B8246CEC39A = "Subata 120"
+	1A4662E546567345EC0479BB4DAF992F = "Subata 120"
 	C086D4174E9B15BF0A19F48247CD8DB8 = "Undertexter"
 	88E79D4D44DC163227E537BBBBB740C8 = "Suga på detta, ditt missfoster!"
 	B85430EB48ED72FB419E5F8C019B725B = "Gör er klara! Nu kör vi!"
@@ -2419,6 +2472,7 @@ Karaktär"
 	41E2CF244D78C269B5C83D9401825CFC = "TACK för stödet till tidig utveckling av DEEP ROCK GALACTIC. Vi är oerhört stolta över spelet och hoppas du kommer att njuta av det, men kom ihåg att detta är en ALPHA-status och du kommer att stöta på BUGGAR. Slutligen, vänligen VA TREVLIG mot varandra. Detta är ett SAMARBETS spel efter allt. \r - The Ghost Ship Crew"
 	DF9152664C7BADD3A97A6F95722CFDAF = "LASERPEKAREN"
 	8EB5D5DE4B6B42A91E824D914C0F55B1 = "Detta är en test biom"
+	18500CF541E0EC031ECCC39436FE9FE5 = "TITEL"
 	C3DFFC954DB100F679F0DE8E6158713D = "TILL
 DROP BAY"
 	A8B865704D489530B5D6579507DAF192 = "TILL\r UPPDRAG\r VÄLJ"
@@ -2546,6 +2600,7 @@ ut ur vilken som helst klibbig situation, och till en avlägsen avsats. Omhände
 	CA5837BE41D42E5AB872CC87497A11B1 = "Det finns rött socker här!"
 	2041A0AB4877FDF92C37C1B941B37F7D = "De stack utan mig! Det här suger!"
 	0818320E409CF37BEF7F2C82A9146CE7 = "Dem kommer hit! Stå stadigt, laget!"
+	188C3FDA44C517C18AE858AEFEE2E4ED = "Tjock och imponerande, precis som mamma."
 	70A9357349275F1BC952228B04F7FB13 = "Saker kommer att sprängas!"
 	F32BDEA848F6B085961F31B3F6F831EA = "Saker kommer att bli seriösa!"
 	FB44C49540924FD27D82BF9914BD33E0 = "Saker kommer att gå boom!"
@@ -2650,6 +2705,7 @@ ut ur vilken som helst klibbig situation, och till en avlägsen avsats. Omhände
 	9A61F70547193A0C3AD9AA8D08999655 = "Dubbelt så tung, dubbelt så många svaghetspunkter. Men den ger något speciellt till din närvaro."
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "UI"
 	B9B8DF3947F5817463C75E91163945B2 = "UI Skala"
+	17E10C7744E0699B82D945B0F00A09B1 = "OKÄND TYP"
 	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "UNKNOWN TYPE {type}"
 	1DFF07CD499D9C20484D76BF57D90FD9 = "UPPLÅST:"
 	57E6BB0F42206D722E6E1A866FC825D0 = "UPPGRADERA UTRUSTNING"
@@ -2804,6 +2860,7 @@ ROCK & STONE!"
 	47178EEA4E6605A5A1CDFE8B5C7FEB5B = "Vi plockade upp en Glyphid Dreadnought på radarn! Den närmar sig er snabbt!"
 	D31337B2482663381E5599914CC50640 = "Vi plockade upp en Glyphid Dreadnought på radarn! Den närmar sig er snabbt!"
 	1A20AB4D47A72448274AF49453E1ECB9 = "Vi läser av några skalv på scannern! Det kan vara något stort! Det är bäst att du förbereder dig! "
+	1B0556E047607D0624E084B3904B4693 = "Vi hyllar dig."
 	7901F74D493F5C1E01B3A0A5CFECA68E = "Vi var så nära! Tusan också!"
 	B984190E4E8E8B10C3136F88EB20C27D = "Vi var så nära! Tusan också!"
 	519B7A83478ED16C42ADAAA0F0C481C1 = "Vi är körda!"
@@ -2816,6 +2873,7 @@ ROCK & STONE!"
 	4B5687F649A70D67781A13A3C167E696 = "Vi har upptäckt ett område som är fyllt med Aquarqs och ni får äran att hämta tillbaka dem. Leta efter ett glimrande blått ljus och utvinn Aquarq'en från väggarna. Vi har skickat ner en specialiserad borrhuvud. Vi förväntar oss kraftigt motstånd, så borrhuvudet har utrustats men tunga vapen, men var fokuserade - det handlar om varorna."
 	1F5CC1074A3AF1E92463338FB14859CB = "Vi har haft det skitkul att utveckla spelet hittills, och vi är absolut inte klar ännu - Hoxxes IV har ännu inte börjat ge upp hennes verkliga hemligheter ännu..."
 	13665D0E4DF4EC22BC92F0AA5DB0E879 = "Försvagande Fält"
+	1732EDD3443C16A8897B53AFAC41926E = "Weekend-idrottsman"
 	EBA81F3D43CA217BF51B13A4D2F2BBE7 = "Welcome to planet Hoxxes, Miner - we hope you brought your A-game! This will be your first dive into the underground, and it should grant you a chance to learn the ins and outs of our operation here. Your objective: Locate and bring back a sizeable sample of Morkite. Fortune and glory awaits you! Now, Get to it!"
 	CA46EF6348F600262B35F2A04A53CA74 = "Välkommen till planeten Hoxxes, gruvarbetare! Detta kommer att bli ditt första dyk ned i underjorden och det ge dig en chans att lära dig hur våran gruvdrift funkar här."
 	72669582465623877CB088AA02B73251 = "Välkommen till laget!"
@@ -2889,6 +2947,7 @@ ROCK & STONE!"
 	5F5BB83745695747D23B8F8F7BB69251 = "Yeahh!"
 	E2AEE4E74BB19172E0B8BC972306CF9E = "Yeahhh!"
 	03293BD94BF28AC483BCAE808C024207 = "Yeeaah!"
+	1A9673F540579BE3553119A0DDAE820D = "Yeeaah!"
 	EC5E6D934EF0A33FBC9AD1976496E120 = "Gul Tubel"
 	13C0E24F45948387FDED388F638C68E6 = "Ja"
 	D1B4614641653BE9CC74D5B2EADA9CC4 = "Ja"
@@ -3070,7 +3129,7 @@ Namespace MaterialExpression (14 keys)
 
 Namespace Missions (0 keys)
 
-Namespace PatchNotes (18 keys)
+Namespace PatchNotes (19 keys)
 	Update_11_ShortTitle = "DÖD OCH VAPEN"
 	Update_9_ShortTitle = "BORRAR DIG SENARE!"
 	Update_14_ShortTitle = "FEATURE CREEP"
@@ -3643,6 +3702,105 @@ MINOR FIXES
 	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
 	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
 	Update_17_Header = "UPDATE 17: OKTOBERFEST! - 20.09.2018"
+	Update_18 = "UPDATE 18: JOB OPPORTUNITIES
+
+Howdy Miners! 
+Time to put on your brand new armor sets, drink beers with buffs and take on new exciting assignments. Oktoberfest is over and we have been busy packing a big bag of cool features for you. Enjoy! 
+
+--- PATCH NOTES ---
+
+NEW ASSIGNMENT SYSTEM
+----------------------------
+Our goal with the assignment system is to create a smoother start for new players and at the same time create excitement for getting access to new content. Assignments in the future will be used to unlock new content like alternative weapons and planet regions.
+
+THE PROBATIONARY PERIOD:
+When you start the game for the first time you now have to complete the Probationary Period in order to prove your worth as a miner. The Probationary Period is a 9-missions long assignment and will take you through the different regions of Hoxxes and challenge you with various missions to complete.   
+
+You can join any missions on the server list, regardless of completion of the Probationary Period. Completing missions that is part of an assignment grants you bonus rewards in the form of crafting materials and credits. After completing the Probationary Period you will have unlocked all regions, missions, and difficulties. 
+
+ATTENTION VETERAN MINERS! Players who have played the game before will get an option to skip the Probationary Period from The Assignment Board terminal. 
+
+
+RETIREMENT
+----------------------------
+RETIREMENT APPLICATION: When you max out a character at level 20, you get the option to complete the Retirement Application Assignment for that character. Select it from the Assignment Board Terminal. When you have completed the assignment you get the option to retire that character from the Character Selection Terminal. 
+
+RETIRING A DWARF: When you retire a character that character will reset to level 1 and you will lose all progress on weapons and upgrades for that character. You will, however, keep all progression on perks, credits, crafting materials, and vanity items. The first time you retire, you will also unlock an extra perk slot for that specific character. Retiring a character is the only way you can increase your player rank above 26, since you need to gain character levels in order to gain player ranks. We are also considering to introduce unlocks of vanity and other features for players above player rank 26.
+
+
+MISSION UPDATES
+----------------------------
+In order to make a smooth Probationary Period assignment, and in general to improve the long-term mining experience, we have tweaked some of the missions and made both simpler and more complex versions of them. 
+
+EGG HUNT: We have for a long time been wanting to improve the missions types Egg Hunt and Search & Extract. In the end, we decided to just merge them together. Here are the changes:
+
+- Egg hunt now takes place in a cave system, similar to what you used to encounter in Search & Extract. 
+- Instead of having to run around and search for the eggs you can use the Terrain Scanner (hold down [M]) to spot their location. 
+- You have to collect fewer eggs than previously. 
+- Egg hunt now has multiple complexities and lengths. 
+- Search & Extract have been removed for now.
+- We resisted the temptation of calling Egg Hunt for Search & Eggstract!
+
+SALVAGE MISSION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Assemble 2 MINI MULES) and long (Assemble 3 MINI MULES) 
+
+ELIMINATION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Kill 2 Dreadnoughts) and long (Kill 3 Dreadnoughts) 
+
+
+BEER BUFFS
+----------------------------
+Buffs have been added to some of the beers and prices have been adjusted: 
+
+- RED ROCK BLASTER: +30% to max health
+- SKULLCRUSHER ALE: +50% Pickaxe damage
+- DARK MORKITE: +20% Morkite mined
+- GLYPHID SLAMMER: A new none-buff beer, but it will still make you happy :-)
+
+Beers with buffs have been given a lower potency effect, so you can drink one without getting drunk. This is done to prevent you from always having to drink the Leaf Lover’s Special if you don’t want to play with the drunk effect on.
+
+Note that Buffs will remain after drinking Leaf Lover’s Special. And also note that Buffs won’t stack. Also-also note that beers have some randomness in how hard they affect you.  
+
+
+NEW MODEL FOR ASSAULT RIFLE
+----------------------------
+Scouts assault rifle has gotten an overhaul of model, animations, and sound. 
+
+
+NEW ARMORS
+----------------------------
+8 new Armors (called MK3 Basic and Heavy) have been implemented, ready for you to buy and equip. They will be unlocked at player rank 10 and 12 respectively. if you are lower than player rank 8 you will only see the MK2 armor in the shop.
+
+
+DIFFICULTY TWEAK
+----------------------------
+Hazard levels for 2-player games have been tweaked to make the jump from playing solo to two players less steep. Scaling factors of enemies for 2-player games have been adjusted like this: Low risk 0.4 to 0.3, Challenging 0.5 to 0.4, Dangerous 0.75 to 0.66, Extreme 1.0 to 0.9 
+
+The Mactera Plague warning has been tweaked down in difficulty. Some craziness is still ensured, but now it should be less punishing. 
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- New dance move when listening to the jukebox.
+- Zip-line fix. Now clients also get forward momentum when jumping off the zip-line.
+- Save files are not overwritten if there is no connection to steam
+- Third person flamethrower gunsling added
+- Fix recoil. It was added before the shot was fired, so you could never be fully accurate.
+- Fix a case where clients are unable to load the map. Resulting in stuck on loading screen.
+- Detect chunks and gems falling out of the world and beam them back
+- SpaceRig - No more blue light in drop pod when launching a mission
+- Oktoberfest banner changed
+- Savegame: Players can no longer gain extra XP above the cap
+- Added mission stats: Total beverages consumed & Total beverage round ordered
+- Fullscreen mode is now handled correctly and does not reset in between sessions.
+- Sun added behind Planet Hoxxes in Spacerig. Planet model slightly updated as well.
+- Clients can now open the mission map while in a hosted game
+
+
+
+"
 	Update_9_Header = "UPPDATERING 9: BORRAR DIG SENARE! - 09.03.2018"
 
 Namespace Progression (6 keys)
