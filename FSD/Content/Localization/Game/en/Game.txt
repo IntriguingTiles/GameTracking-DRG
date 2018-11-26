@@ -1,7 +1,7 @@
 22 namespaces
-4059 values
+4062 values
 
-Namespace Global (5036 keys)
+Namespace Global (5045 keys)
 	2559D78C40005E5221F26093CB976283 = " Collect {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " I Fell!"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUIRED"
@@ -58,7 +58,10 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	A917A204481CA2DE360C12A24BD3481D = "({amount})"
 	1B315FD042F69E6FEFF72BA7F39D5C01 = "* All accounts must be settled with DRG prior to getting a promotion. This covers room and board, wear and tear on gear, damaged properties of DRG, as well as whatever tab you have built up in the bar. DRG is not a charity, after all."
 	9AAEE08740108161885DFAB73E240B7A = "*Yawn*...I could need a good rest!"
-	967E05354936FC6CFE023AA670D5EAAC = "+ "Stalker" Bolt-Action Classic available for purchase"
+	0C7E1F624C551E531C1BAFAA98B0F2E1 = "+"
+	58ED838247DAA6455F7373878DDACBD6 = "+"
+	63DEF4B446CFB784F0201F9DFD4803A7 = "+"
+	B98583CF415C42DC0C1448BFB9C47672 = "+"
 	1D007D0B45A8323CE9559EA9491E7B12 = "+ "Stubby" Voltaic SMG available for purchase"
 	0F8E626A43933CB08AE9C18CFE0E99BD = "+ "Thunderhead" Heavy Autocannon available for purchase"
 	99914C684BA996CF46904B80B866DFD5 = "+ 1 BONUS PERK SLOT"
@@ -73,6 +76,7 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	66A0823447C3CB00940092A9CB213262 = "+ Gunner Promotion"
 	F7C6C8D74BA2C606E57FFB820EAA8E1A = "+ HONOR BADGE"
 	60E15BAC41DCC919F2E12EB2EFF2AC7D = "+ INCREASE PLAYER RANK BY LEVELING CHARACTER AGAIN"
+	967E05354936FC6CFE023AA670D5EAAC = "+ M1000 Classic available for purchase"
 	D028C3274772ABACFCB8F39BF1D2362E = "+ Scout Promotion"
 	CA55556B4C389FB1E04612A3184E43AB = "+ Zhukov NUK17 available for purchase"
 	71184CCD41D302C96EF8F78337EB6D16 = "+1"
@@ -83,6 +87,8 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	757542D044AE5468809922ADDD77C794 = "+20%"
 	46DE407F4C45B669BA9A03A3FC5AECAE = "+{Amount}"
 	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
+	99D0D81D4C2FF2A9FAD4C3A54756723F = "-"
+	C2340D3A44E3E57A0A5FC79FE98D5BFB = "-"
 	78DFA13846CB82653B1E9FB81E88F2F2 = "- BAY EMPTY -"
 	8BE6B127423859AEED1AE1834524940A = "- BAY EMPTY -"
 	A1C235314A06F1E76CBCE699B604948E = "- DEFAULT CATEGORY -"
@@ -176,7 +182,6 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	0838C2284D6C18474F43F399A23E5E63 = "42"
 	0D64808D4847E68080B0E696BA1C1B66 = "5.000 Credits Claimed!"
 	63AFFF3E45F767CC011D269D00E571DB = "5.000 Credits Claimed!"
-	D9242DC04D35182A777189800CD34D5A = "50% chance that your target will flee in terror for every second that it is under your flame."
 	86F38B004BD8526DF264E2B84F722651 = "50% damage converted to fire damage"
 	8A86FBA942812BB1C9A9528364981C49 = "534534534"
 	22F656894A40134D5B2E639A9123E0C4 = "5M"
@@ -209,6 +214,7 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	E797D31C413C37E46B118CA98192B52B = "A basic suit of Scout armor."
 	6A7D690148593839ED1514872FA0B937 = "A beard for the back of your head!"
 	BC6467A14439B52719A905AC1424C863 = "A bold fashion statement."
+	D9242DC04D35182A777189800CD34D5A = "A chance that your target will flee in terror for every second that it is under your flame."
 	E8154B5A4BAB91869B32CA993435BE52 = "A charged shot uses less energy"
 	094DBF9240C1525A23E214A91AED7C79 = "A classic display of subtle, raw power."
 	30966C18430C82C1C2C0C98D63EF5D8B = "A classic display of subtle, raw power."
@@ -724,6 +730,7 @@ TERMINAL"
 	C8CFD5F4418C862B0298FDA1E47FBBC1 = "Cancel"
 	EFCE66A14562B395805873B2374D0ED4 = "Cancel"
 	FFD222E4444B8BF75B53D4A04CA440CD = "Cancel"
+	F6A7E86249E1A1BF1976C58C70312BDF = "Cap - Best Friends Forever!"
 	CD632DD94A019AC3011D17877F561796 = "Cap - Bright Red"
 	6646C9194E65D217184CE39025814731 = "Cap - Gun Metal"
 	D5211E1E4EF79EE304DDB38A869D83F8 = "Cap - Uniform"
@@ -1094,7 +1101,7 @@ Management"
 	B21AB3B74E5AE85FE4E7EBA9B75C99FF = "Damage bonus on last bullet if the first two hit"
 	F6194789486BF7F6C6CF5AB079B017DC = "Damage increase when fully stabilized"
 	88458F1742B7E6F178A843B8AF0F9A32 = "Damage radius increase"
-	692C536E46A3158DD10DA385DC1A2943 = "Damge Vs Mactera"
+	692C536E46A3158DD10DA385DC1A2943 = "Damge Vs Glyphid"
 	F6968873496B78CE5E0D2183341BA44E = "Damge Vs Mactera"
 	856164F147B4CF0422EFBCA90AB51F9B = "Dammit, I need the Credits!"
 	2F2298BA463BE32E5A077790A2DEA296 = "Damn I am good at this!!! "
@@ -2794,6 +2801,7 @@ TUTORIAL"
 	9C2319174E556ABDB2F513BE726CA094 = "Max Ammo +75"
 	9DADE2684511F6CD4C0D258B3DDD8D88 = "Max Ammo +75"
 	DF399CD3486B65EDAE4558AFEF735D28 = "Max FPS"
+	7AFFDEAB40E999C2DB09C9B4123AB083 = "Max Fuel"
 	BCE6E962454B3FE8D2387C8D24D3D169 = "Max ammo +2"
 	C585CAAC418A9943AB6830A8FA69AE7B = "Max ammo +60"
 	AA14CEC64F683044A398FDBB91F67F6B = "MaxAngle"
@@ -2900,7 +2908,6 @@ TUTORIAL"
 	A85FF9704DC66C1A07471BBAC12314E7 = "More Perk Points for me!"
 	DE2C84474595AC7A3B2B32813767EFB9 = "More ammo"
 	868031B44D72434150443CB0A99633B0 = "More ammo is on the way!"
-	7F10DF8C43111A97996A3D8AFBA775D2 = "More damage"
 	C68A3A42429B0687D1DF2FACFE3494CD = "More damage to targets that are in an electric field"
 	57631DAB4FE1B7FA6606CC88227D49B1 = "More effective against enemies"
 	CA1E9FD94322401B668878922B954B6E = "More effective against enemies"
@@ -4184,6 +4191,7 @@ SELECT"
 	11BBF9744B95BBE028D58DB779AEF6B0 = "Take precautions!"
 	C73025114FA5E25D51527D8F4131047E = "Take that!"
 	07A9F24C4E178E4548E66D918480CFE1 = "Tank Size"
+	A7390456445A5A88DAB362B53BEE2579 = "Tank Size"
 	6E38FBD54B1E774F2B95EDBF000A5439 = "Tanks are dry!"
 	15D059EE46A10501EBFBED9C8F28505B = "Target"
 	14B0BF7B429451A7CA13068A643D989F = "TargetFound"
@@ -4191,6 +4199,7 @@ SELECT"
 	D1F63CD14C6C5CBBABA9FE9C66A3DDFE = "Targets killed from direct damage has a chance to explode"
 	027D42A14B6A108762DD61AA491AB7C9 = "Team me up with a bunch of Greenbeards like that, crap's sakes..."
 	FA8F99064E366F561C0135A97B4C881C = "Teamwork and beer will keep us together!"
+	E7D48AB04F7249B465DB8D9ADC835450 = "Teamwork. It's what keeps the great engine of industry turning!"
 	6C7161BE454C40F23CFC2E9067BEB6B7 = "Techno"
 	4C3F704B4F6585273365F58B271926EA = "Temporary movement speed bonus after emptying clip"
 	1E26D0B040A5FEE77948F28761B753B4 = "Terrain Scanner"
@@ -4303,7 +4312,7 @@ As stated earlier, ALL the Closed-Alpha keys will be revoked before launch."
 	4B4BAA624715C6F2FD31B894015641F9 = "The line projectile opens almost immediately becoming more useful at closer range"
 	1427F38744164A0EACBE5C9DF34C4A82 = "The memorial hall is where we Honor the fallen. Feel free to walk around and pay your respects."
 	39BD1CF440B83EBA505AF9852120B3A0 = "The mule has been called back to the droppod!"
-	911620A14A68BCA957363AA95E336206 = "The no-frills version of the advanced MK3 line of armor. Cheap and light (comparatively speaking), this comfortable suit will provide a Driller with all the protection he needs for most operations. Or so the blurp on the box says, anyway..."
+	911620A14A68BCA957363AA95E336206 = "The no-frills version of the advanced MK3 line of armor. Cheap and light (comparatively speaking), this comfortable suit will provide a Driller with all the protection he needs for most operations. Or so the blurb on the box says, anyway..."
 	3C91B4CC42E492A2B686CC842D9C2D65 = "The original DRG-approved brew. Bitter and heady, though not so strong as to incapacitate the workforce."
 	6A26F9D647B828C478B187A6F32C0097 = "The perfect look for monster slaying."
 	C49E21D54F90751C68D12A9512EDA163 = "The perfect look for monster slaying."
@@ -5334,6 +5343,126 @@ Misc Fixes
 - Fixed: you can no longer edit the Hint text while loading! 
 - Maptool not updating correctly when terrian changes
 "
+	Update_19 = "Hello Miners! 
+
+We got a fat, new update coming your way - this time with a massive upgrade to your armory, improvements to the upgrade system and an overhaul of the retirement system! Read all about it below! Lock n’ Load!
+
+--- PATCH NOTES ---
+
+8 NEW WEAPONS
+----------------------------
+DRG is happy to inform you that we’ve expanded on our list of suppliers, and a new, larger catalog of armaments has been made available! In order to obtain licenses for the new gear, you will need to complete Weapon Assignments. When a license has been obtained, you will be allowed to purchase access to the weapon in question. The following new weapons are now available:   
+
+NEW WEAPONS: GUNNER
+----------------------------
+"THUNDERHEAD" HEAVY AUTOCANNON: A peculiar but devastating weapon. The slow rate of fire is made up for by heavy damage, delivered with glee by the belt-fed .50-caliber tungsten rounds. The Thunderhead is a somber weapon for the sophisticated executioner, delivering death as inexorably as the passage of time itself.
+
+BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a small shotgun, the BRT (or "Burt", as it's sometimes called) is highly prized among collectors and connoisseurs alike.
+
+
+NEW WEAPONS: SCOUT
+----------------------------
+M1000 BOLT-ACTION CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
+
+ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
+
+
+NEW WEAPONS: ENGINEER
+----------------------------
+"STUBBY" VOLTAIC SMG: So what's better than an SMG? An SMG that fires ELECTRIC BULLETS! The boys in R&D have wired a prototype ArcGen into the guts of this trusty Subata 312, meaning it now unleashes a storm of electrified DEATH! Word of warning: Keep away from water.
+
+BREACH CUTTER: The Breach Cutter releases directional blasts of sonically-charged plasma powerful enough to deal with most any alien in your path. Originally a mining tool, it's now been frequency-tuned to crack open flesh and bone rather than the sediment deposits it was designed for - often with quite spectacular results!
+
+
+NEW WEAPONS: DRILLER
+----------------------------
+
+CRYO CANNON: Mad geniuses have tried perfecting this implement for as long as anyone can remember, but our lads at R&D seem to have perfected it! Handily portable (for a dwarf, anyway), it does exactly what you think: It's a friggin' freeze ray. Let 'em have it.
+
+EXPERIMENTAL PLASMA CHARGER: Bullets are so last year. Instead, why not incinerate your enemies from the inside out with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D).
+
+
+NEW WEAPON MODS SYSTEM
+----------------------------
+The Weapon Upgrade System has been scrapped in favor of a brand new Weapon Modification System, and each weapon can now be customized and tweaked to your individual tastes! More than 200 new Weapon Mods have been introduced, a lot of them consisting of entirely new features. For example, “Blow-through” is now a thing - fire bullets straight through an enemy to hit enemies behind it! Or how about “Fear” - send enemies into a fleeing panic by sheer brunt of your firepower! 
+
+For this round of upgrades, the new system has been implemented for all new and old weapons, but it is not yet implemented on tools, grenades, and armors. This will happen with future updates. 
+
+Also, no more static still-pictures of gear on the upgrade screen - we’ve finally gotten a proper and rotatable 3D model viewer implemented!
+
+
+REPRICING OF VANITY AND WEAPON MODS
+----------------------------
+All vanity items and weapon upgrades have been repriced! You’ll keep any vanity items already unlocked. All weapon upgrades have been refunded, leaving you open to explore the new system at leisure. 
+
+
+PROMOTION (FKA RETIREMENT)
+----------------------------
+The Retirement system has received a fairly significant overhaul. The changes are as follows:
+
+- “Retirement” has been rephrased to “Promotion” instead.
+- The level cap for each dwarf has been raised from 20 to 25
+- The last mission in a Promotion Qualification Assignment is no longer a forced solo mission
+- Promoting your dwarf no longer takes any progress away from you! Yes, you read correctly - all weapon upgrades carry over! The only thing that resets is your character’s level
+- You still have to clear your debt to DRG before getting a promotion
+- Titles for player ranks have been extended to player rank 75 and a lot of new titles have been added
+
+
+GUNNER: SHIELD GENERATOR 
+----------------------------
+The Gunner has swapped his DET PACK for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
+
+
+EGGHUNT TWEAK
+----------------------------
+Digging an egg free in Egghunts now has a chance of spawning a group of angry bugs. The number of eggs you need to collect have been increased a bit.    
+
+
+BEER BUFFS 
+----------------------------
+TODAY’S SPECIAL: A Randomly chosen buffed beer will be available for purchase each “day” (it updates when the mission map gets new missions). Also, the buffs are actually working now! :-)
+
+
+TERRAIN SCANNER ALIGNMENT
+----------------------------
+With the Terrain Scanner active, hit [SPACE] / (X) to spin your character around to face in the direction of the map.
+
+
+SPECIAL WAVES
+----------------------------
+Once in a while you can now run into pure waves of Praetorians, Macteras, Glyphid Warriors or Swarmers. Whether these waves are harder or easier than normal waves is for you to figure out. 
+
+
+ENEMY TWEAKS
+----------------------------
+- NEW ENEMY - THE GLYPHID VETERAN WARRIOR: The Veteran has 50% more health and much stronger armor than a normal Glyphid Warrior.
+- Glyphid Praetorians have been to the gym! Their health has been buffed by 50% and they’re less susceptible to being shot in the head than before - getting behind them and shooting them in their big fat butts is now much more important.
+- Sound has been added to Exploder footsteps. Listen carefully and you can hear them sneak up upon you!
+- Removed fire particle effect when other enemies are hit by the Praetorians Acid Spray.
+It was not supposed to be there and was causing a significant frame drop.
+- Tweaked the number of enemies spawning for 2-player games down a bit for Hazard 2 and 3.
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- Small Character Videos added to the Character Selection Screen to give a quick impression of the different classes. 
+- Hints on the loading screen have been updated with 3 new hints for Milestones and Perks, The Terrain Scanner and Mision Mutators.
+- Added some more motivational quotes for screens in Space rig.
+- Bosco now determines the angle of which to dig tunnels in dirt from the players face, rather than their feet, to the point they pointed at. This should result in more expected results, especially when standing close to the dirt
+- Damage multipliers on Physical materials changed to be on the physical material
+- When someone late-joins your game, there is a grace period where their friendly fire is reduced so they deal significantly less damage to you and your teammates. 
+- Fixed Abyss Bar menu not closing correctly when pressing ESC
+- Changed Acid symbol to Biohazard / Poison symbol.
+- Better flare overdraw prevention
+- Flares now cast shadows!
+- Grenade Launcher grenades are much more visible while in the air.
+- Purchase Item UI now show all required resources
+- Heat cooldown on Minigun tweaked
+- Blowfly should now rotate correctly when shooting
+- Fixed a bug that caused Bosco to abort his light task as soon as there were any enemies near the player
+- Made Praetorians burn a bit later
+- Memorial screen no longer stacks up names to spawn and spams them all at once if framerate is low
+"
 	Update_15 = "Hello Miners! 
 Before we head out for a couple of weeks of sorely needed summer vacation, we have cooked up a lovely little mutation to the game for you all!
 
@@ -6107,125 +6236,6 @@ FIXES AND IMPROVEMENTS
 "
 	Update_18_Header = "UPDATE 18: JOB OPPORTUNITIES - 11.10.2018"
 	Update_19_Header = "UPDATE 19: GUNS! LOTS OF GUNS!"
-	Update_19 = "UPDATE 19: GUNS! LOTS OF GUNS!
-
-
-Hello Miners! 
-We got a fat, new update coming your way - this time with a massive upgrade to your armory, improvements to the upgrade system and an overhaul of the retirement system! Read all about it below! Lock n’ Load!
-
---- PATCH NOTES ---
-
-8 NEW WEAPONS
-----------------------------
-DRG is happy to inform you that we’ve expanded on our list of suppliers, and a new, larger catalog of armaments has been made available! In order to obtain licenses for the new gear, you will need to complete Weapon Assignments. When a license has been obtained, you will be allowed to purchase access to the weapon in question. The following new weapons are now available:   
-
-NEW WEAPONS: GUNNER
-----------------------------
-"THUNDERHEAD" HEAVY AUTOCANNON: A peculiar but devastating weapon. The slow rate of fire is made up for by heavy damage, delivered with glee by the belt-fed .50-caliber tungsten rounds. The Thunderhead is a somber weapon for the sophisticated executioner, delivering death as inexorably as the passage of time itself.
-
-BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a small shotgun, the BRT (or "Burt", as it's sometimes called) is highly prized among collectors and connoisseurs alike.
-
-
-NEW WEAPONS: SCOUT
-----------------------------
-M1000 BOLT-ACTION CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
-
-ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
-
-
-NEW WEAPONS: ENGINEER
-----------------------------
-"STUBBY" VOLTAIC SMG: So what's better than an SMG? An SMG that fires ELECTRIC BULLETS! The boys in R&D have wired a prototype ArcGen into the guts of this trusty Subata 312, meaning it now unleashes a storm of electrified DEATH! Word of warning: Keep away from water.
-
-BREACH CUTTER: The Breach Cutter releases directional blasts of sonically-charged plasma powerful enough to deal with most any alien in your path. Originally a mining tool, it's now been frequency-tuned to crack open flesh and bone rather than the sediment deposits it was designed for - often with quite spectacular results!
-
-
-NEW WEAPONS: DRILLER
-----------------------------
-
-CRYO CANNON: Mad geniuses have tried perfecting this implement for as long as anyone can remember, but our lads at R&D seem to have perfected it! Handily portable (for a dwarf, anyway), it does exactly what you think: It's a friggin' freeze ray. Let 'em have it.
-
-EXPERIMENTAL PLASMA CHARGER: Bullets are so last year. Instead, why not incinerate your enemies from the inside out with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D).
-
-
-NEW WEAPON MODS SYSTEM
-----------------------------
-The Weapon Upgrade System has been scrapped in favor of a brand new Weapon Modification System, and each weapon can now be customized and tweaked to your individual tastes! More than 200 new Weapon Mods have been introduced, a lot of them consisting of entirely new features. For example, “Blow-through” is now a thing - fire bullets straight through an enemy to hit enemies behind it! Or how about “Fear” - send enemies into a fleeing panic by sheer brunt of your firepower! 
-
-For this round of upgrades, the new system has been implemented for all new and old weapons, but it is not yet implemented on tools, grenades, and armors. This will happen with future updates. 
-
-Also, no more static still-pictures of gear on the upgrade screen - we’ve finally gotten a proper and rotatable 3D model viewer implemented!
-
-
-REPRICING OF VANITY AND WEAPON MODS
-----------------------------
-All vanity items and weapon upgrades have been repriced! You’ll keep any vanity items already unlocked. All weapon upgrades have been refunded, leaving you open to explore the new system at leisure. 
-
-
-PROMOTION (FKA RETIREMENT)
-----------------------------
-The Retirement system has received a fairly significant overhaul. The changes are as follows:
-
-- “Retirement” has been rephrased to “Promotion” instead.
-- The level cap for each dwarf has been raised from 20 to 25
-- The last mission in a Promotion Qualification Assignment is no longer a forced solo mission
-- Promoting your dwarf no longer takes any progress away from you! Yes, you read correctly - all weapon upgrades carry over! The only thing that resets is your character’s level
-- You still have to clear your debt to DRG before getting a promotion
-- Titles for player ranks have been extended to player rank 75 and a lot of new titles have been added
-
-
-GUNNER: SHIELD GENERATOR 
-----------------------------
-The Gunner has swapped his DET PACK for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
-
-
-EGGHUNT TWEAK
-----------------------------
-Digging an egg free in Egghunts now has a chance of spawning a group of angry bugs. The number of eggs you need to collect have been increased a bit.    
-
-
-BEER BUFFS 
-----------------------------
-TODAY’S SPECIAL: A Randomly chosen buffed beer will be available for purchase each “day” (it updates when the mission map gets new missions). Also, the buffs are actually working now! :-)
-
-
-TERRAIN SCANNER ALIGNMENT
-----------------------------
-With the Terrain Scanner active, hit [SPACE] / (X) to spin your character around to face in the direction of the map.
-
-
-SPECIAL WAVES
-----------------------------
-Once in a while you can now run into pure waves of Praetorians, Macteras, Glyphid Warriors or Swarmers. Whether these waves are harder or easier than normal waves is for you to figure out. 
-
-
-ENEMY TWEAKS
-----------------------------
-- NEW ENEMY - THE GLYPHID VETERAN WARRIOR: The Veteran has 50% more health and much stronger armor than a normal Glyphid Warrior.
-- Glyphid Praetorians have been to the gym! Their health has been buffed by 50% and they’re less susceptible to being shot in the head than before - getting behind them and shooting them in their big fat butts is now much more important.
-- Sound has been added to Exploder footsteps. Listen carefully and you can hear them sneak up upon you!
-- Removed fire particle effect when other enemies are hit by the Praetorians Acid Spray.
-It was not supposed to be there and was causing a significant frame drop.
-- Tweaked the number of enemies spawning for 2-player games down a bit for Hazard 2 and 3.
-
-
-FIXES AND IMPROVEMENTS
-----------------------------
-- Hints on the loading screen have been updated with 3 new hints for Milestones and Perks, The Terrain Scanner and Mision Mutators.
-- Added some more motivational quotes for screens in Space rig.
-- Bosco now determines the angle of which to dig tunnels in dirt from the players face, rather than their feet, to the point they pointed at. This should result in more expected results, especially when standing close to the dirt
-- Damage multipliers on Physical materials changed to be on the physical material
-- Fixed Abyss Bar menu not closing correctly when pressing ESC
-- Changed Acid symbol to Biohazard / Poison symbol.
-- Better flare overdraw prevention
-- Flares now cast shadows!
-- Grenade Launcher grenades are much more visible while in the air.
-- Purchase Item UI now show all required resources
-- Heat cooldown on Minigun tweaked
-- Blowfly should now rotate correctly when shooting
-- Fixed a bug that caused Bosco to abort his light task as soon as there were any enemies near the player
-- Made Praetorians burn a bit later
-- Memorial screen no longer stacks up names to spawn and spams them all at once if framerate is low"
 	Update_9_Header = "UPDATE 9: DRILL YOU LATER!  -  09.03.2018"
 	Update_16_ShortTitle = "WINTER HAS COME"
 
@@ -6266,7 +6276,7 @@ Namespace ST_GearUpgrades (33 keys)
 	D_Recoil = "Quality engineering, the best lasercut parts, the tender loving care of a dedicated R&D Department. The recoil of your gun is drastically reduced."
 	T_ReloadSpeed = "Quickfire Ejector"
 	T_Recoil = "Recoil Dampener"
-	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemise at once!"
+	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 	T_StaggerChance = "Staggering Hit"
 	T_RoFA = "Supercharged Feed Mechanism"
 	D_SpreadPerShot = "Sweet, sweet optimization. We called in a few friends and managed to significantly improve the stability of this gun."
@@ -6355,7 +6365,7 @@ Completing this short training course will ascertain this for certain and unlock
 	HeavyWeapon = "Heavy Weapon"
 	HighExplosive = "High Explosive"
 	Length = "Length"
-	M1000_Name = "M1000 Bolt-Action Classic"
+	M1000_Name = "M1000 Classic"
 	CryoCannon_Desc = "Mad geniuses have tried perfecting this implement for as long as anyone can remember, but our lads at R&D seem to have perfected it! Handily portable (for a dwarf, anyway), it does exactly what you think: It's a friggin' freeze ray. Let 'em have it."
 	Mission = "Mission"
 	MissionLength = "Mission Length"

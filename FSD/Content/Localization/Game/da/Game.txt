@@ -1,7 +1,7 @@
 22 namespaces
-2547 values
+2565 values
 
-Namespace Global (2998 keys)
+Namespace Global (3024 keys)
 	2559D78C40005E5221F26093CB976283 = " Indsamle {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = "KRÆVES"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Lyd Designer/ Musik Producer"
@@ -37,6 +37,7 @@ Namespace Global (2998 keys)
 	743B701443B2E95407A48793DB5D43DB = "+ Driller Promotion"
 	70E89AD543F7A4B249C79A8C7D7AB23E = "+ Engineer Promotion"
 	66A0823447C3CB00940092A9CB213262 = "+ Gunner Promotion"
+	967E05354936FC6CFE023AA670D5EAAC = "+ M1000 Classic available for purchase"
 	D028C3274772ABACFCB8F39BF1D2362E = "+ Scout Promotion"
 	757542D044AE5468809922ADDD77C794 = "+20%"
 	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
@@ -83,6 +84,7 @@ Namespace Global (2998 keys)
 	96045F3446A6C521E7AF1C9EE1133D80 = "A basic suit of Gunner armor."
 	1AAF54B146793AE312E8B99CFF81F4E0 = "En standard Spejder rustning."
 	E797D31C413C37E46B118CA98192B52B = "En standard Spejder rustning."
+	D9242DC04D35182A777189800CD34D5A = "A chance that your target will flee in terror for every second that it is under your flame."
 	094DBF9240C1525A23E214A91AED7C79 = "En klassisk visning af subtil, rå kraft."
 	30966C18430C82C1C2C0C98D63EF5D8B = "En klassisk visning af subtil, rå kraft."
 	5DF2C5A14F5FF99B9995E89D244A10C3 = "En klassisk visning af subtil, rå kraft."
@@ -573,6 +575,7 @@ Selection"
 	8558D885453FCB187A76F4B3F31FB5A7 = "Beskadigelse Radius"
 	A6573AD74A2E46C028E630A142A71251 = "Ødelæggelsesradius"
 	2BDD724540F12E17F1E5299230624F7E = "Damage Resistance at Full Rate of Fire"
+	692C536E46A3158DD10DA385DC1A2943 = "Damge Vs Glyphid"
 	9BF941594897154747C3B694E1EABC8B = "Forpulede borehoveder overopheder!"
 	A64B40594981E028C8FCCEB1A5DDE72E = "For helvede!"
 	0232110A474ECAF437B69591E70D3F81 = "Til helvede med jer, Deep Rock Galactic!"
@@ -792,7 +795,7 @@ Selection"
 	ABDFFB514B5C4AE6ABB23EA48CDB4124 = "Episk Styr"
 	F0DC10224BB84A5AC3AE03BEAC81210C = "Episk Styr"
 	3772EA484D5FB4233247B0927FE1548D = "Epic Miner"
-	89C7523144ABD39253BB27BAFE26CB83 = "Equip this item now?"
+	89C7523144ABD39253BB27BAFE26CB83 = "Udstyr denne genstand nu?"
 	57E6BB0F42206D722E6E1A866FC825D0 = "Equipment Terminal"
 	E5B256914AE6E1F791BB7197123B1B2B = "Indkommende transport! Vær' parat!"
 	35C67A644D89A777FBF3F6A0AB186201 = "Anslåede Tid"
@@ -1757,6 +1760,9 @@ TUTORIAL"
 	B523470642979373133EC488CA6A0CFA = "NAT STATUS"
 	35BD4D194B4272C41487D1846A99EBB4 = "NETVÆRKSFEJL"
 	747D9D66462A834F081A129492AD4C34 = "NYE OPGAVER OM"
+	47713A8F484B1902AFE2D79C9BEDE9ED = "NY PLANET ZONE"
+	C847D18F4BB605CE3D7162B04B2A3A0F = "NY {mission} KOMPLEKSITET"
+	44503DBB45E06EA0CCD286877C839C74 = "NY {mission} LÆNGDE"
 	07217D61454E51EA1CC7D388523A52ED = "INGEN MISSION"
 	478D8E8B45CE2F0A3B9CE594CCE0971A = "INGEN UDBETALING"
 	6FD173E4411FB830D60DAF9D290ED966 = "NO REFUNDS!   NO REFILLS!   NO REGRETS! "
@@ -1778,6 +1784,7 @@ TUTORIAL"
 	C0027D1B4000EEFC8109E7BE2E3E58DA = "Nyt Hår"
 	06DFF8D844D3C98095B16E8429B97566 = "Nyt udstyr tilgængeligt"
 	C8FFF8E64C0101874D8E96A27D29DCDD = "New Perk Slot"
+	7E89CAC24247499E8D8192B3352F0562 = "Ny Fordel Låst Op!"
 	09A5C4244C0CA7F04085C3B488B92795 = "Nyhedsbrev"
 	BAC61B4E47D79CF780A15EA41F65AD74 = "Næste runde er på mig!"
 	BF5D4A09462C925CF7C2F59AD63A8017 = "Næste gang lad os tage et dejligt sted hen..."
@@ -1936,6 +1943,7 @@ Management"
 	92A9D0DA448A8DEE4D7C56ADCF0B0713 = "Forbedret skjold generator"
 	DFE12000403EE5FAFD841F8CC5DE3FED = "Forbedret skjold generator"
 	F129EB49433E0C25095A30A70B69721D = "Forbedret skjold generator"
+	6C69138C45730D78DA5A498632991650 = "Ejet"
 	BBF3B4054F29E874B222A2B140CE9C2C = "TAG ET BESØG VED MINDEHALEN"
 	A7A2C9074DD5E8B2297F81A5C71F4E08 = "PLACÉR MARKØR"
 	C79595634378DAEEAB740BB8AF143D3B = "PLANETARISK REGION"
@@ -1999,6 +2007,7 @@ Management"
 	29455B0149EC14F665DE77A0C714CFAA = "Top DPS"
 	E5540FE04AFBE8215D4C15B092C944F2 = "Perfekt længde for at det ikke kommer i vejen"
 	0657973249D143ABBDD0C1B2F2DC6B9A = "Fordel opnået!"
+	BCDAC86B4BB46DEFAA40BCA4276771BF = "Fordel Låst Op!"
 	E5DAA1CF486CBC6FBFD9C19060354800 = "Philip Mygind"
 	88E304094AE76FC65BC01F80B9660841 = "Phorsphide!"
 	6B8F0C9346F0E4383B37CB831050B470 = "Saml Op"
@@ -2070,7 +2079,8 @@ You will earn an HONOR BADGE and you will KEEP all progress on weapons, perks, c
 	F86043E3460E000F7A2E75B25CC10B44 = "Promotion Qualification - Scout"
 	95275C9B475CA7865B7DD4B6232134A0 = "Pudo Shell"
 	C57604854765B85478765F89B9CD6126 = "Fyldt med energi og klar til at dræbe!"
-	23BE0CF7486C9A656DE76CB665A09476 = "Purchase this item?"
+	0017AA3449B1CFBAF3973BBD81E2A106 = "Køb '{name}'?"
+	23BE0CF7486C9A656DE76CB665A09476 = "Køb genstand?"
 	A8A0F8444223B4D2F21A9EAD1C325820 = "Vil du købe denne opgradering?"
 	989245734A10B993606D03A7200B8EDC = "Lilla krystal"
 	7A2127474021B39017E373ADEA6C6C6E = "Tryk på [PushToTalk] for at tale"
@@ -2119,6 +2129,7 @@ TILSLUTNING"
 	4148504943DF17CE763B44855C9F67BD = "Grund Givet:"
 	FA7DB98E41EC94BC0A461EBC2ADEE21B = "Recall Sentries: Hold"
 	10374DF344DA1706BD000F85A1661507 = "Nyligt afdøde arbejdere bliver ikke føjet til mindesmærkerne. Men vi ærer dem ikke desto mindre!"
+	002F325142327853A68620911CA2D5F0 = "Rekyl"
 	3264FFDE445370F8768DCDBD53D8B233 = "Optager..."
 	48D4ECE1430DFF12D4AE8FB2B67B808A = "Find artefakterne"
 	1B44E36F49D774F8277929A7C9747240 = "Rød"
@@ -2586,7 +2597,7 @@ VALG"
 	F9E32EE84480FF62CF209B87551D6916 = "Lyset varer længere"
 	1427F38744164A0EACBE5C9DF34C4A82 = "Mindesmærke halen er stedet, hvor vi ærer de faldne. Du er velkommen til at gå rundt og vise din respekt."
 	39BD1CF440B83EBA505AF9852120B3A0 = "Muldyret er blevet kaldt tilbage til transporten!"
-	911620A14A68BCA957363AA95E336206 = "The no-frills version of the advanced MK3 line of armor. Cheap and light (comparatively speaking), this comfortable suit will provide a Driller with all the protection he needs for most operations. Or so the blurp on the box says, anyway..."
+	911620A14A68BCA957363AA95E336206 = "The no-frills version of the advanced MK3 line of armor. Cheap and light (comparatively speaking), this comfortable suit will provide a Driller with all the protection he needs for most operations. Or so the blurb on the box says, anyway..."
 	6A26F9D647B828C478B187A6F32C0097 = "Det perfekte udseende til at dræbe monstre."
 	C49E21D54F90751C68D12A9512EDA163 = "Det perfekte udseende til at dræbe monstre."
 	E27840C54B222B71D9DBD2A4E7657097 = "Det perfekte udseende til at dræbe monstre."
@@ -2729,8 +2740,9 @@ VALG"
 	9A61F70547193A0C3AD9AA8D08999655 = "To gange vægten, To gange fejlpunkter. Men det giver noget bestemt til din tilstedeværelse."
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "UI"
 	B9B8DF3947F5817463C75E91163945B2 = "UI Skala"
-	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "UNKNOWN TYPE {type}"
-	1DFF07CD499D9C20484D76BF57D90FD9 = "UNLOCKED:"
+	17E10C7744E0699B82D945B0F00A09B1 = "UKENDT TYPE"
+	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "UKENDT TYPE {type}"
+	1DFF07CD499D9C20484D76BF57D90FD9 = "LÅST OP:"
 	154D798349596E65C508169C1B0BD295 = "OPGRADER DIT UDSTYR"
 	EF7F3BF4405DAFECAB50EC9E099F4532 = "Ugh. Ulækkert."
 	B53625FD4527F70F824717AE7FBD79B2 = "Uhhhrr!"
@@ -2740,25 +2752,39 @@ VALG"
 	2639BDA74F3ACD0974675696C0A860D1 = "Uidentificeret objekt"
 	1CCE93164BD93498123304A5E8C9BE39 = "Uidentificeret objekt"
 	784E945C40B44F3B95F3DBBA82972F71 = "Unlock"
+	0211858D4FC1D851FB2EE5A33EA50F0E = "Lås op for: Boremester niveau 10"
 	703DF5044CEA9A043B03E9ADB140DAF8 = "Lås op for: Boremesterniveau 10"
 	28B90E074116D68D54B362B93DA7DCF6 = "Lås op for: boremester niveau 20"
 	A3EADF3A4BC64F4A04FE4AB882C1376D = "Lås op for: Teknikker niveau 10"
+	E6540E734F77B71703C041A6CF57A52F = "Lås op for: Teknikker niveau 10"
+	0F016F7F4FBC70D6F87728B8C48C8AE1 = "Lås op for: Teknikker niveau 20"
 	9F2B445A4BE43F77267AC2A9F37671C8 = "Lås op for: Teknikker niveau 20"
 	D2CA04484BB9D7BBEE6E4EBFE4D67FE5 = "Lås op for: Skytte niveau 10"
+	F810F9E549FAFEB722AB9DA40A8E1897 = "Lås op for: Skytte niveau 10"
+	FA63684B4FCDF3197415D38D8CC3F40D = "Lås op for: Skytte niveau 10"
 	D5B6AC3E4AAE47E6090F229155362412 = "Lås op for: Skytte niveau 20"
 	225B3EC74915EE1E116B599FC0083B9B = "Lås op for: Spiller Rang 12"
+	FDDA09444F4350C1409AA2BABF095D06 = "Opnå: Spiller Rank 12"
 	B95D9D0D423D417AD9A1B1857B3468E6 = "Lås op for: Spiller Rang 15"
 	FA5EAA814CD9F164BB3EDAB98266567E = "Lås op for: Spiller Rang 20"
-	772311EB45F7A44C92CDAA81CB89CD1A = "Frigør: Spiller Rank 3"
+	10BE4AC947338EBBCDCAD2ACAE40413A = "Lås op for: Spiller Rang 3"
+	772311EB45F7A44C92CDAA81CB89CD1A = "Opnå: Spiller Rank 3"
+	F2BD3892434145068BBA86ACBD095517 = "Lås op for: Spiller Rang 3"
+	FAF7E77D4EF206CFAB7F1B842EBEF71D = "Lås op for: Spiller Rang 3"
 	AD4B011140D10F991B98319BC84A6572 = "Lås op for: Spiller Rang 4"
 	B04843F64C757FF6DA8F5187807C320B = "Lås op for: Spiller Rang 4"
+	023733004B5F240759341FA0D8794ADD = "Lås op for: Spiller Rang 5"
 	093559364DD7DDEA1AE6648FCF162D76 = "Lås op for: Spiller Rang 5"
 	C8BC73AD4A75F1AE40B46E9766313CB2 = "Lås op for: Spiller Rang 5"
 	5980DBC044190BCD276324A7C024086C = "Lås op for: Spiller Rang 6"
+	F36EF5014B7F92D7DE145383D732F82A = "Lås op for: Spiller Rang 6"
 	F1D798C84955DBB96BCF2A9DEF2B3D31 = "Lås op for: Spiller Rang 7"
-	8D349858414B6F7FD904C7BA2E49D592 = "Lås op for: Spiller Rang 8"
+	FC85DE454F4E5C3ABF686199FBC8D3AE = "Opnå: Spiller Rank 7"
+	8D349858414B6F7FD904C7BA2E49D592 = "Opnå: Spiller Rang 8"
 	C3D8F86F42EA1CEE1E1C2A99801F28EE = "Lås op for: Spejder niveau 10"
+	00C0837047C2C095CB5E5A93D1332D2A = "Lås op for: Spejder niveau 20"
 	A83D2E5E45D1FCFE84BB6285E2716604 = "Lås op for: Spejder niveau 20"
+	26AB3AB84A59216A284A158F2C27C181 = "Låst op!"
 	790CD48846F0BE89F64B7CA517FFA956 = "Unmute"
 	0EB38662449FB7A32E603E85AB1114E0 = "Ustabil Krystal"
 	564780DB4BC0B912BEC1FF90F5F944A7 = "Opgradér til Supporter-udgave"
@@ -3032,7 +3058,7 @@ Dette er lig med en mislykket mission."
 	CCC853CE4FF980EE57EDD7984685B821 = "{State}"
 	F0ABB87F46441F18848ABF8CD0ECC9F9 = "{Text} ({Percentage}% Gennemført)"
 	B49D14D14182674FC077EEB3E53277F8 = "{Value} FPS"
-	B453B7264A4F2ADD7CB2AC9D0918FC0B = "{class} Promotion"
+	B453B7264A4F2ADD7CB2AC9D0918FC0B = "{class} Forfremmelse"
 	688288124DAF4F9715A8629D81F87C35 = "{levelrequirement} kræves!"
 	AC2C0B9746C87FC7F13985B4072CAB1D = "{line1} <br>{line2}"
 	533EE6F94B160B14259FA38874DDC88D = "{text}:"
@@ -3211,6 +3237,126 @@ Misc Fixes
 - Fix Late Join crash if joining right when the level ends. 
 - Fixed: you can no longer edit the Hint text while loading! 
 - Maptool not updating correctly when terrian changes
+"
+	Update_19 = "Hello Miners! 
+
+We got a fat, new update coming your way - this time with a massive upgrade to your armory, improvements to the upgrade system and an overhaul of the retirement system! Read all about it below! Lock n’ Load!
+
+--- PATCH NOTES ---
+
+8 NEW WEAPONS
+----------------------------
+DRG is happy to inform you that we’ve expanded on our list of suppliers, and a new, larger catalog of armaments has been made available! In order to obtain licenses for the new gear, you will need to complete Weapon Assignments. When a license has been obtained, you will be allowed to purchase access to the weapon in question. The following new weapons are now available:   
+
+NEW WEAPONS: GUNNER
+----------------------------
+"THUNDERHEAD" HEAVY AUTOCANNON: A peculiar but devastating weapon. The slow rate of fire is made up for by heavy damage, delivered with glee by the belt-fed .50-caliber tungsten rounds. The Thunderhead is a somber weapon for the sophisticated executioner, delivering death as inexorably as the passage of time itself.
+
+BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a small shotgun, the BRT (or "Burt", as it's sometimes called) is highly prized among collectors and connoisseurs alike.
+
+
+NEW WEAPONS: SCOUT
+----------------------------
+M1000 BOLT-ACTION CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
+
+ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
+
+
+NEW WEAPONS: ENGINEER
+----------------------------
+"STUBBY" VOLTAIC SMG: So what's better than an SMG? An SMG that fires ELECTRIC BULLETS! The boys in R&D have wired a prototype ArcGen into the guts of this trusty Subata 312, meaning it now unleashes a storm of electrified DEATH! Word of warning: Keep away from water.
+
+BREACH CUTTER: The Breach Cutter releases directional blasts of sonically-charged plasma powerful enough to deal with most any alien in your path. Originally a mining tool, it's now been frequency-tuned to crack open flesh and bone rather than the sediment deposits it was designed for - often with quite spectacular results!
+
+
+NEW WEAPONS: DRILLER
+----------------------------
+
+CRYO CANNON: Mad geniuses have tried perfecting this implement for as long as anyone can remember, but our lads at R&D seem to have perfected it! Handily portable (for a dwarf, anyway), it does exactly what you think: It's a friggin' freeze ray. Let 'em have it.
+
+EXPERIMENTAL PLASMA CHARGER: Bullets are so last year. Instead, why not incinerate your enemies from the inside out with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D).
+
+
+NEW WEAPON MODS SYSTEM
+----------------------------
+The Weapon Upgrade System has been scrapped in favor of a brand new Weapon Modification System, and each weapon can now be customized and tweaked to your individual tastes! More than 200 new Weapon Mods have been introduced, a lot of them consisting of entirely new features. For example, “Blow-through” is now a thing - fire bullets straight through an enemy to hit enemies behind it! Or how about “Fear” - send enemies into a fleeing panic by sheer brunt of your firepower! 
+
+For this round of upgrades, the new system has been implemented for all new and old weapons, but it is not yet implemented on tools, grenades, and armors. This will happen with future updates. 
+
+Also, no more static still-pictures of gear on the upgrade screen - we’ve finally gotten a proper and rotatable 3D model viewer implemented!
+
+
+REPRICING OF VANITY AND WEAPON MODS
+----------------------------
+All vanity items and weapon upgrades have been repriced! You’ll keep any vanity items already unlocked. All weapon upgrades have been refunded, leaving you open to explore the new system at leisure. 
+
+
+PROMOTION (FKA RETIREMENT)
+----------------------------
+The Retirement system has received a fairly significant overhaul. The changes are as follows:
+
+- “Retirement” has been rephrased to “Promotion” instead.
+- The level cap for each dwarf has been raised from 20 to 25
+- The last mission in a Promotion Qualification Assignment is no longer a forced solo mission
+- Promoting your dwarf no longer takes any progress away from you! Yes, you read correctly - all weapon upgrades carry over! The only thing that resets is your character’s level
+- You still have to clear your debt to DRG before getting a promotion
+- Titles for player ranks have been extended to player rank 75 and a lot of new titles have been added
+
+
+GUNNER: SHIELD GENERATOR 
+----------------------------
+The Gunner has swapped his DET PACK for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
+
+
+EGGHUNT TWEAK
+----------------------------
+Digging an egg free in Egghunts now has a chance of spawning a group of angry bugs. The number of eggs you need to collect have been increased a bit.    
+
+
+BEER BUFFS 
+----------------------------
+TODAY’S SPECIAL: A Randomly chosen buffed beer will be available for purchase each “day” (it updates when the mission map gets new missions). Also, the buffs are actually working now! :-)
+
+
+TERRAIN SCANNER ALIGNMENT
+----------------------------
+With the Terrain Scanner active, hit [SPACE] / (X) to spin your character around to face in the direction of the map.
+
+
+SPECIAL WAVES
+----------------------------
+Once in a while you can now run into pure waves of Praetorians, Macteras, Glyphid Warriors or Swarmers. Whether these waves are harder or easier than normal waves is for you to figure out. 
+
+
+ENEMY TWEAKS
+----------------------------
+- NEW ENEMY - THE GLYPHID VETERAN WARRIOR: The Veteran has 50% more health and much stronger armor than a normal Glyphid Warrior.
+- Glyphid Praetorians have been to the gym! Their health has been buffed by 50% and they’re less susceptible to being shot in the head than before - getting behind them and shooting them in their big fat butts is now much more important.
+- Sound has been added to Exploder footsteps. Listen carefully and you can hear them sneak up upon you!
+- Removed fire particle effect when other enemies are hit by the Praetorians Acid Spray.
+It was not supposed to be there and was causing a significant frame drop.
+- Tweaked the number of enemies spawning for 2-player games down a bit for Hazard 2 and 3.
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- Small Character Videos added to the Character Selection Screen to give a quick impression of the different classes. 
+- Hints on the loading screen have been updated with 3 new hints for Milestones and Perks, The Terrain Scanner and Mision Mutators.
+- Added some more motivational quotes for screens in Space rig.
+- Bosco now determines the angle of which to dig tunnels in dirt from the players face, rather than their feet, to the point they pointed at. This should result in more expected results, especially when standing close to the dirt
+- Damage multipliers on Physical materials changed to be on the physical material
+- When someone late-joins your game, there is a grace period where their friendly fire is reduced so they deal significantly less damage to you and your teammates. 
+- Fixed Abyss Bar menu not closing correctly when pressing ESC
+- Changed Acid symbol to Biohazard / Poison symbol.
+- Better flare overdraw prevention
+- Flares now cast shadows!
+- Grenade Launcher grenades are much more visible while in the air.
+- Purchase Item UI now show all required resources
+- Heat cooldown on Minigun tweaked
+- Blowfly should now rotate correctly when shooting
+- Fixed a bug that caused Bosco to abort his light task as soon as there were any enemies near the player
+- Made Praetorians burn a bit later
+- Memorial screen no longer stacks up names to spawn and spams them all at once if framerate is low
 "
 	Update_15 = "Hello Miners! 
 Before we head out for a couple of weeks of sorely needed summer vacation, we have cooked up a lovely little mutation to the game for you all!
@@ -3881,125 +4027,6 @@ FIXES AND IMPROVEMENTS
 - Clients can now open the mission map while in a hosted game
 
 "
-	Update_19 = "UPDATE 19: GUNS! LOTS OF GUNS!
-
-
-Hello Miners! 
-We got a fat, new update coming your way - this time with a massive upgrade to your armory, improvements to the upgrade system and an overhaul of the retirement system! Read all about it below! Lock n’ Load!
-
---- PATCH NOTES ---
-
-8 NEW WEAPONS
-----------------------------
-DRG is happy to inform you that we’ve expanded on our list of suppliers, and a new, larger catalog of armaments has been made available! In order to obtain licenses for the new gear, you will need to complete Weapon Assignments. When a license has been obtained, you will be allowed to purchase access to the weapon in question. The following new weapons are now available:   
-
-NEW WEAPONS: GUNNER
-----------------------------
-"THUNDERHEAD" HEAVY AUTOCANNON: A peculiar but devastating weapon. The slow rate of fire is made up for by heavy damage, delivered with glee by the belt-fed .50-caliber tungsten rounds. The Thunderhead is a somber weapon for the sophisticated executioner, delivering death as inexorably as the passage of time itself.
-
-BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a small shotgun, the BRT (or "Burt", as it's sometimes called) is highly prized among collectors and connoisseurs alike.
-
-
-NEW WEAPONS: SCOUT
-----------------------------
-M1000 BOLT-ACTION CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
-
-ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
-
-
-NEW WEAPONS: ENGINEER
-----------------------------
-"STUBBY" VOLTAIC SMG: So what's better than an SMG? An SMG that fires ELECTRIC BULLETS! The boys in R&D have wired a prototype ArcGen into the guts of this trusty Subata 312, meaning it now unleashes a storm of electrified DEATH! Word of warning: Keep away from water.
-
-BREACH CUTTER: The Breach Cutter releases directional blasts of sonically-charged plasma powerful enough to deal with most any alien in your path. Originally a mining tool, it's now been frequency-tuned to crack open flesh and bone rather than the sediment deposits it was designed for - often with quite spectacular results!
-
-
-NEW WEAPONS: DRILLER
-----------------------------
-
-CRYO CANNON: Mad geniuses have tried perfecting this implement for as long as anyone can remember, but our lads at R&D seem to have perfected it! Handily portable (for a dwarf, anyway), it does exactly what you think: It's a friggin' freeze ray. Let 'em have it.
-
-EXPERIMENTAL PLASMA CHARGER: Bullets are so last year. Instead, why not incinerate your enemies from the inside out with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D).
-
-
-NEW WEAPON MODS SYSTEM
-----------------------------
-The Weapon Upgrade System has been scrapped in favor of a brand new Weapon Modification System, and each weapon can now be customized and tweaked to your individual tastes! More than 200 new Weapon Mods have been introduced, a lot of them consisting of entirely new features. For example, “Blow-through” is now a thing - fire bullets straight through an enemy to hit enemies behind it! Or how about “Fear” - send enemies into a fleeing panic by sheer brunt of your firepower! 
-
-For this round of upgrades, the new system has been implemented for all new and old weapons, but it is not yet implemented on tools, grenades, and armors. This will happen with future updates. 
-
-Also, no more static still-pictures of gear on the upgrade screen - we’ve finally gotten a proper and rotatable 3D model viewer implemented!
-
-
-REPRICING OF VANITY AND WEAPON MODS
-----------------------------
-All vanity items and weapon upgrades have been repriced! You’ll keep any vanity items already unlocked. All weapon upgrades have been refunded, leaving you open to explore the new system at leisure. 
-
-
-PROMOTION (FKA RETIREMENT)
-----------------------------
-The Retirement system has received a fairly significant overhaul. The changes are as follows:
-
-- “Retirement” has been rephrased to “Promotion” instead.
-- The level cap for each dwarf has been raised from 20 to 25
-- The last mission in a Promotion Qualification Assignment is no longer a forced solo mission
-- Promoting your dwarf no longer takes any progress away from you! Yes, you read correctly - all weapon upgrades carry over! The only thing that resets is your character’s level
-- You still have to clear your debt to DRG before getting a promotion
-- Titles for player ranks have been extended to player rank 75 and a lot of new titles have been added
-
-
-GUNNER: SHIELD GENERATOR 
-----------------------------
-The Gunner has swapped his DET PACK for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
-
-
-EGGHUNT TWEAK
-----------------------------
-Digging an egg free in Egghunts now has a chance of spawning a group of angry bugs. The number of eggs you need to collect have been increased a bit.    
-
-
-BEER BUFFS 
-----------------------------
-TODAY’S SPECIAL: A Randomly chosen buffed beer will be available for purchase each “day” (it updates when the mission map gets new missions). Also, the buffs are actually working now! :-)
-
-
-TERRAIN SCANNER ALIGNMENT
-----------------------------
-With the Terrain Scanner active, hit [SPACE] / (X) to spin your character around to face in the direction of the map.
-
-
-SPECIAL WAVES
-----------------------------
-Once in a while you can now run into pure waves of Praetorians, Macteras, Glyphid Warriors or Swarmers. Whether these waves are harder or easier than normal waves is for you to figure out. 
-
-
-ENEMY TWEAKS
-----------------------------
-- NEW ENEMY - THE GLYPHID VETERAN WARRIOR: The Veteran has 50% more health and much stronger armor than a normal Glyphid Warrior.
-- Glyphid Praetorians have been to the gym! Their health has been buffed by 50% and they’re less susceptible to being shot in the head than before - getting behind them and shooting them in their big fat butts is now much more important.
-- Sound has been added to Exploder footsteps. Listen carefully and you can hear them sneak up upon you!
-- Removed fire particle effect when other enemies are hit by the Praetorians Acid Spray.
-It was not supposed to be there and was causing a significant frame drop.
-- Tweaked the number of enemies spawning for 2-player games down a bit for Hazard 2 and 3.
-
-
-FIXES AND IMPROVEMENTS
-----------------------------
-- Hints on the loading screen have been updated with 3 new hints for Milestones and Perks, The Terrain Scanner and Mision Mutators.
-- Added some more motivational quotes for screens in Space rig.
-- Bosco now determines the angle of which to dig tunnels in dirt from the players face, rather than their feet, to the point they pointed at. This should result in more expected results, especially when standing close to the dirt
-- Damage multipliers on Physical materials changed to be on the physical material
-- Fixed Abyss Bar menu not closing correctly when pressing ESC
-- Changed Acid symbol to Biohazard / Poison symbol.
-- Better flare overdraw prevention
-- Flares now cast shadows!
-- Grenade Launcher grenades are much more visible while in the air.
-- Purchase Item UI now show all required resources
-- Heat cooldown on Minigun tweaked
-- Blowfly should now rotate correctly when shooting
-- Fixed a bug that caused Bosco to abort his light task as soon as there were any enemies near the player
-- Made Praetorians burn a bit later
-- Memorial screen no longer stacks up names to spawn and spams them all at once if framerate is low"
 	Update_9_Header = "OPDATERING 9: BORE DIG SENERE! - 09.93.2018"
 
 Namespace Progression (6 keys)
@@ -4016,7 +4043,8 @@ Namespace Resistances (4 keys)
 	Fire = "Ild Resistens"
 	Poison = "Gift Resistens"
 
-Namespace ST_GearUpgrades (0 keys)
+Namespace ST_GearUpgrades (1 keys)
+	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
 Namespace StatValues (24 keys)
 	Bullets = "Patroner"
@@ -4047,7 +4075,7 @@ Namespace StatValues (24 keys)
 Namespace Techincal (1 keys)
 	ClosedAlpha = "Lukket Alpha"
 
-Namespace UI (24 keys)
+Namespace UI (25 keys)
 	Armor = "Rustning"
 	AssaultRifle = "Automatriffel"
 	Back = "Tilbage"
@@ -4056,6 +4084,7 @@ Namespace UI (24 keys)
 	HazardLevel = "Fare Niveau"
 	HeavyWeapon = "Tungt Våben"
 	HighExplosive = "Højeksplosivt"
+	M1000_Name = "M1000 Classic"
 	MissionLength = "Mission Længde"
 	No = "Nej"
 	Pistol = "Pistol"
@@ -4086,14 +4115,14 @@ Namespace Upgrades (0 keys)
 Namespace Vanity (13 keys)
 	Armor = "Rustning"
 	ArmorColor = "Rustnings Farve"
-	3E7113764EF99981E7343E99CE60E68F = "BUY"
+	3E7113764EF99981E7343E99CE60E68F = "KØB"
 	Beard = "Skæg"
-	936D387249B390C96765B2BE04A575BD = "CAN'T AFFORD"
-	0B22BA0E4951378AAE53F195C88C9017 = "EQUIPPED"
+	936D387249B390C96765B2BE04A575BD = "IKKE RÅD TIL"
+	0B22BA0E4951378AAE53F195C88C9017 = "UDSTYRET"
 	BeardColor = "Hair"
 	Hair = "Hår"
 	HairColor = "Hårfarve"
 	Head = "Hoved"
 	Headwear = "Hovedbeklædning"
-	5B1FC8364FF76D96D64D399DB48B5B48 = "OWNED"
+	5B1FC8364FF76D96D64D399DB48B5B48 = "EJET"
 	SkinColor = "Hudfarve"
