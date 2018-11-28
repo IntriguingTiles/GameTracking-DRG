@@ -1,7 +1,7 @@
 22 namespaces
-2725 values
+2728 values
 
-Namespace Global (3213 keys)
+Namespace Global (3214 keys)
 	2559D78C40005E5221F26093CB976283 = " Recoger {Collected}/{Required}{Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESARIO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Diseñador de sonido / productor musical"
@@ -1441,6 +1441,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	74449EC34E363CE275A77B8E76762A80 = "Incrementa el rango en otros 5 metros"
 	98194E414043789C3D650BBFD18EBAEF = "Aumenta la cantidad de proyectiles de bengalas que puedes llevar"
 	C9E9A62140D3C57DC4C34EB1001787DE = "Aumenta el alcance de la tirolesa en 5 metros"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "Gafas industriales"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	2C2284EF45735B0D23345B891AF418FF = "¿Problemas de infectados? Torretas automáticas, amigo."
@@ -4147,7 +4148,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (24 keys)
+Namespace StatValues (26 keys)
 	Bullets = "Balas"
 	CarriedAmount = "Cantidad transportada"
 	ClipSize = "Tamaño del Cargador"
@@ -4160,6 +4161,7 @@ Namespace StatValues (24 keys)
 	FlameDuration = "Duración de la Llama"
 	FlareDuration = "Duración de la Bengala"
 	Health = "Salud"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "Munición Máxima"
 	MaxFlares = "Bengalas Máximas"
 	MaxFuel = "Combustible Máximo"
@@ -4167,6 +4169,7 @@ Namespace StatValues (24 keys)
 	MaxRange = "Máximo alcance"
 	ProductionTime = "Tiempo de Poroducción"
 	RateOfFire = "Velocidad de Fuego"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Tiempo de recarga"
 	RockMining = "Minería de rocas"
 	Shield = "Escudo"

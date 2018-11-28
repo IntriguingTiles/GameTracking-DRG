@@ -1,7 +1,7 @@
 22 namespaces
-2776 values
+2779 values
 
-Namespace Global (3493 keys)
+Namespace Global (3494 keys)
 	2559D78C40005E5221F26093CB976283 = " Sesbírejte {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Upadl jsem!"
 	31D60A1449082F9AB6DC15844F3810F6 = " POŽADOVANÉ"
@@ -1562,6 +1562,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	74449EC34E363CE275A77B8E76762A80 = "Zvýší Dosah o dalších 5 Metrů"
 	98194E414043789C3D650BBFD18EBAEF = "Zvyšuje množství světlicových projektilů které uneseš"
 	C9E9A62140D3C57DC4C34EB1001787DE = "Zvyšuje rozsah lana o 5 metrů"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "Ochranné Brýle"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	2C2284EF45735B0D23345B891AF418FF = "Problémy se zamořením? Automatické věže, kámo."
@@ -4412,7 +4413,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (24 keys)
+Namespace StatValues (26 keys)
 	Bullets = "Náboje"
 	CarriedAmount = "Nošené Množství"
 	ClipSize = "Velikost zásobníku"
@@ -4425,6 +4426,7 @@ Namespace StatValues (24 keys)
 	FlameDuration = "Výdrž Plamenů"
 	FlareDuration = "Výdrž Světlic"
 	Health = "Zdraví"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "Max Munice"
 	MaxFlares = "Max. Světlic"
 	MaxFuel = "Maximální Palivo"
@@ -4432,6 +4434,7 @@ Namespace StatValues (24 keys)
 	MaxRange = "Max Dosah"
 	ProductionTime = "Doba Výroby"
 	RateOfFire = "Rychlost Střelby"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Doba Přebíjení"
 	RockMining = "Těžba"
 	Shield = "Štít"

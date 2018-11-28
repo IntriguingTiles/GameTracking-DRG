@@ -1,7 +1,7 @@
 22 namespaces
-3351 values
+3354 values
 
-Namespace Global (4228 keys)
+Namespace Global (4229 keys)
 	2559D78C40005E5221F26093CB976283 = " Sammelt {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Ich bin gefallen!"
 	31D60A1449082F9AB6DC15844F3810F6 = " ERFORDERLICH"
@@ -1867,6 +1867,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	74449EC34E363CE275A77B8E76762A80 = "Erhöht die Reichweite um weitere 5 Meter"
 	98194E414043789C3D650BBFD18EBAEF = "Erhöhe die Gesamtmenge an Leuchtraketen, die du tragen kannst"
 	C9E9A62140D3C57DC4C34EB1001787DE = "Erhöht die Reichweite der Seilrutsche um 5 Meter"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "Industrielle Schutzbrille"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	FAA3A91F4CCEB919666717A65087A572 = "Infektor-Schleimblase"
@@ -5374,7 +5375,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (26 keys)
+Namespace StatValues (28 keys)
 	Bullets = "Kugeln"
 	CarriedAmount = "Getragene Menge"
 	ClipSize = "Magazingröße"
@@ -5387,6 +5388,7 @@ Namespace StatValues (26 keys)
 	FlameDuration = "Flammendauer"
 	FlareDuration = "Leuchtraketendauer"
 	Health = "Gesundheit"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "Max. Munition"
 	MaxFlares = "Max. Leuchtraketen"
 	MaxFuel = "Max. Treibstoff"
@@ -5394,6 +5396,7 @@ Namespace StatValues (26 keys)
 	MaxRange = "Max. Reichweite"
 	ProductionTime = "Produktionszeit"
 	RateOfFire = "Feuerrate"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Nachladezeit"
 	RockMining = "Felsabbau"
 	SentryAmmoCapacity = "Geschütz-Munitionskapazität"

@@ -1,7 +1,7 @@
 22 namespaces
-3571 values
+3572 values
 
-Namespace Global (4382 keys)
+Namespace Global (4381 keys)
 	2559D78C40005E5221F26093CB976283 = " Recoger {Collected}/{Required}{Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " ¡Me caí!"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESARIO"
@@ -51,7 +51,6 @@ Mientras recolectamos los datos tu IP queda oculta y solo mantenemos una pequeñ
 	6C45AFD644F1BD03FFB094AC99E133F9 = "(Susurrando) ¿Puedo tener un especial para amante de las hojas?"
 	1B315FD042F69E6FEFF72BA7F39D5C01 = "* Todas las cuentas se deben liquidar con DRG antes de la promoción. Esto cubre la habitación y el tablero, el desgaste del equipo, propiedades de DRG dañadas, así como cualquier pestaña que hayas construido en el bar. DRG no es una organización benéfica, después de todo."
 	9AAEE08740108161885DFAB73E240B7A = "*Bostezo*... ¡Me vendría bien un buen descanso!"
-	0C7E1F624C551E531C1BAFAA98B0F2E1 = "+"
 	1D007D0B45A8323CE9559EA9491E7B12 = "+ SMG Voltaico "Stubby" disponible para la compra"
 	0F8E626A43933CB08AE9C18CFE0E99BD = "+ Auto-cañon Pesado "Thunderhead" disponible para la compra"
 	99914C684BA996CF46904B80B866DFD5 = "+ 1 RANURA ADICIONAL DE HABILIDAD"
@@ -640,7 +639,6 @@ DE INSTRUCCIONES"
 	5EA7DF774FA4FDEBA2B549A45CD83EE4 = "Liana de las cavernas"
 	EF65095B49F30B4FB92DFCA5C55830A5 = "Chance for electrocution to arc from one target to others"
 	215AEBDA4C2E14FF169F5EAADDF3CEE8 = "Posibilidad de tambalear al objetivo"
-	01E0966E42AD62591F083BB3DC9307E6 = "Posibilidad de tambalear al objetivo al golpear su punto débil"
 	02A2AF5D49BF8321CF7300A39F12AA0F = "Personaje"
 	D5DDDF8A43A71B5228B575827C97286B = "Character
 Selection"
@@ -1956,6 +1954,7 @@ Al Promover un personaje se REESTABLECERA SU NIVEL A 1. No obstante, mantendrás
 	98194E414043789C3D650BBFD18EBAEF = "Aumenta la cantidad de proyectiles de bengala que puedes llevar"
 	1CD6C4AB4790067998617E9A55E78BBA = "Aumenta el daño directo causado por un disparo cargado"
 	C9E9A62140D3C57DC4C34EB1001787DE = "Aumenta el alcance de la tirolina en 5 metros"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "Gafas industriales"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	FAA3A91F4CCEB919666717A65087A572 = "Mancha infecciosa"
@@ -5370,7 +5369,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (26 keys)
+Namespace StatValues (28 keys)
 	Bullets = "Balas"
 	CarriedAmount = "Capacidad de carga"
 	ClipSize = "Tamaño del cargador"
@@ -5383,6 +5382,7 @@ Namespace StatValues (26 keys)
 	FlameDuration = "Duración de la llama"
 	FlareDuration = "Duración de la bengala"
 	Health = "Salud"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "Munición máx."
 	MaxFlares = "Bengalas máx."
 	MaxFuel = "Combustible máx."
@@ -5390,6 +5390,7 @@ Namespace StatValues (26 keys)
 	MaxRange = "Máx. alcance"
 	ProductionTime = "Tiempo de producción"
 	RateOfFire = "Cadencia de tiro"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Tiempo de recarga"
 	RockMining = "Minería de rocas"
 	SentryAmmoCapacity = "Munición Centinela"

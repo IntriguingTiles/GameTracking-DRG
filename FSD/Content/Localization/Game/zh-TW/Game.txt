@@ -1,7 +1,7 @@
 22 namespaces
-3438 values
+3441 values
 
-Namespace Global (4311 keys)
+Namespace Global (4312 keys)
 	2559D78C40005E5221F26093CB976283 = " 採集 {Collected}／{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " 我摔下去了！"
 	31D60A1449082F9AB6DC15844F3810F6 = " 需求"
@@ -1911,6 +1911,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	74449EC34E363CE275A77B8E76762A80 = "額外增長距離 5 公尺"
 	98194E414043789C3D650BBFD18EBAEF = "增加你能夠攜帶的照明彈"
 	C9E9A62140D3C57DC4C34EB1001787DE = "滑索纜繩可及範圍增長 5 公尺"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "工業用護目鏡"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	FAA3A91F4CCEB919666717A65087A572 = "瘟疫吐珠團"
@@ -5378,7 +5379,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (26 keys)
+Namespace StatValues (28 keys)
 	Bullets = "子彈"
 	CarriedAmount = "攜帶數量"
 	ClipSize = "彈夾容量"
@@ -5391,6 +5392,7 @@ Namespace StatValues (26 keys)
 	FlameDuration = "燃燒時間"
 	FlareDuration = "照明時間"
 	Health = "生命值"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "最大載彈量"
 	MaxFlares = "最大照明彈量"
 	MaxFuel = "最大燃料量"
@@ -5398,6 +5400,7 @@ Namespace StatValues (26 keys)
 	MaxRange = "最大射程"
 	ProductionTime = "生產時間"
 	RateOfFire = "射擊速度"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "上彈時間"
 	RockMining = "鑽鑿岩石"
 	SentryAmmoCapacity = "步哨槍彈箱容量"

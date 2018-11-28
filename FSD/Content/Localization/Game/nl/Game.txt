@@ -1,7 +1,7 @@
 22 namespaces
-2083 values
+2086 values
 
-Namespace Global (2496 keys)
+Namespace Global (2497 keys)
 	2559D78C40005E5221F26093CB976283 = " Verzamel {Collected} {Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " VERPLICHT"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer / muziekproducer"
@@ -1131,6 +1131,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	BD46F62A4C45AC28F291619070FAAAB4 = "Verhoog bereik met 5 meter"
 	74449EC34E363CE275A77B8E76762A80 = "Verhoog bereik met 5 meter"
 	98194E414043789C3D650BBFD18EBAEF = "Verhoogd de hoeveelheid aan flare projectielen die je kan dragen"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "Industriële bril"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	2C2284EF45735B0D23345B891AF418FF = "Last van een plaag? Geautomatiseerde geschuttorens, vriend."
@@ -3388,7 +3389,9 @@ Namespace Resistances (1 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (4 keys)
+Namespace StatValues (6 keys)
+	AccuracyMultiplier = "Increased Accuracy"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Herlaad tijd"
 	RockMining = "Rotswinning"
 	Shield = "Schild"

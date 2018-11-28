@@ -1,5 +1,5 @@
 22 namespaces
-2770 values
+2772 values
 
 Namespace Global (3366 keys)
 	2559D78C40005E5221F26093CB976283 = " Gyűjts össze {Collected}/{Required} {Title}"
@@ -431,7 +431,6 @@ TERMINÁL"
 	0C5869BF4DAA78A27B4CA699A472378F = "Barlangfutó"
 	C70972C94DD6117C962D73A247E2933E = "Barlangi Sün"
 	EF65095B49F30B4FB92DFCA5C55830A5 = "Chance for electrocution to arc from one target to others"
-	01E0966E42AD62591F083BB3DC9307E6 = "Esély a célpont megtántorítására, gyenge ponton való találatkor"
 	02A2AF5D49BF8321CF7300A39F12AA0F = "Karakter"
 	D5DDDF8A43A71B5228B575827C97286B = "Character
 Selection"
@@ -1498,6 +1497,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	98194E414043789C3D650BBFD18EBAEF = "Növeli a magaddal vihető jelzőfény lövedékek mennyiségét"
 	361FED844443DA02EFFAD497231EED33 = "Növeli a maximális lőszert"
 	C9E9A62140D3C57DC4C34EB1001787DE = "Növeli a kötélpálya hatótávolságát 5 méterrel"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "Ipari védőszemüveg"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Élettelen Uránium"
 	FAA3A91F4CCEB919666717A65087A572 = "Blob fertőzés"
@@ -4299,7 +4299,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (26 keys)
+Namespace StatValues (28 keys)
 	Bullets = "Golyók"
 	CarriedAmount = "Hordozott Mennyiség"
 	ClipSize = "Tárkapacitás"
@@ -4312,6 +4312,7 @@ Namespace StatValues (26 keys)
 	FlameDuration = "Láng Időtartama"
 	FlareDuration = "Jelzőfény Időtartama"
 	Health = "Életerő"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "Maximális Lőszer"
 	MaxFlares = "Maximális jelzőfény"
 	MaxFuel = "Maximális Üzemanyag"
@@ -4319,6 +4320,7 @@ Namespace StatValues (26 keys)
 	MaxRange = "Maximális Távolság"
 	ProductionTime = "Elkészítési Idő"
 	RateOfFire = "Tűzgyorsaság"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Újratöltési Idő"
 	RockMining = "Szikla Bányászat"
 	SentryAmmoCapacity = "Őrtorony Lőszer Kapcitása"

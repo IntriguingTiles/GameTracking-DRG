@@ -1,7 +1,7 @@
 22 namespaces
-2565 values
+2568 values
 
-Namespace Global (3024 keys)
+Namespace Global (3025 keys)
 	2559D78C40005E5221F26093CB976283 = " Indsamle {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = "KRÆVES"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Lyd Designer/ Musik Producer"
@@ -1339,6 +1339,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	74449EC34E363CE275A77B8E76762A80 = "Øger rækkevidden med endnu 5 meter"
 	98194E414043789C3D650BBFD18EBAEF = "Øger mængden af ​​flare projektiler du kan bære"
 	C9E9A62140D3C57DC4C34EB1001787DE = "Øger rækkevidden af ​​svævebanen med 5 meter"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "Industri Briller"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	FAA3A91F4CCEB919666717A65087A572 = "Infektions Klump"
@@ -4046,7 +4047,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (24 keys)
+Namespace StatValues (26 keys)
 	Bullets = "Patroner"
 	CarriedAmount = "Båret Mængde"
 	ClipSize = "Magasin Størrelse"
@@ -4059,6 +4060,7 @@ Namespace StatValues (24 keys)
 	FlameDuration = "Flamme Varighed"
 	FlareDuration = "Nødblus Varighed"
 	Health = "Liv"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "Maks. Ammo"
 	MaxFlares = "Maks. Nødblus"
 	MaxFuel = "Maks. Brændstof"
@@ -4066,6 +4068,7 @@ Namespace StatValues (24 keys)
 	MaxRange = "Maks. Rækkevidde"
 	ProductionTime = "Produktionstid"
 	RateOfFire = "Skudhastighed"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Lade tid"
 	RockMining = "Sten Udvinding"
 	Shield = "Skjold"

@@ -1,7 +1,7 @@
 22 namespaces
-3782 values
+3784 values
 
-Namespace Global (4715 keys)
+Namespace Global (4713 keys)
 	2559D78C40005E5221F26093CB976283 = " Recueillir {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Je suis tombé !"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUIS"
@@ -64,8 +64,6 @@ Lors de la collecte de données, nous anonymisons votre adresse IP et nous ne co
 	6C45AFD644F1BD03FFB094AC99E133F9 = "(murmurant) Je pourrais avoir un Bougre de Cornichon Spécial ?"
 	1B315FD042F69E6FEFF72BA7F39D5C01 = "* Vous devez faire soldes de tout compte avec DRG avant de prendre une promotion. Cela comprend le gîte et le couvert, l'usure de votre équipement, ainsi que votre ardoise au bar. Après tout, DRG n'est pas une œuvre de bienfaisance."
 	9AAEE08740108161885DFAB73E240B7A = "*Baille*... J'ai besoin d'une petite sieste !"
-	0C7E1F624C551E531C1BAFAA98B0F2E1 = "+"
-	58ED838247DAA6455F7373878DDACBD6 = "+"
 	63DEF4B446CFB784F0201F9DFD4803A7 = "+"
 	1D007D0B45A8323CE9559EA9491E7B12 = "+ "Stubby" Voltaïque SMG disponible à l'achat"
 	0F8E626A43933CB08AE9C18CFE0E99BD = "+ Canon automatique "Thunderhead" disponible à l'achat"
@@ -710,7 +708,6 @@ DE BRIEFING"
 	D9183E714A4962AC135C848D8565DC77 = "Chance d'effrayer des créatures à proximité d'un impact de balle"
 	CDB4D3D34EF0F23DA8C81CAE59603B88 = "Chance d'effrayer les créatures proches chaque fois que vous tirez"
 	215AEBDA4C2E14FF169F5EAADDF3CEE8 = "Chance d’étourdir la cible"
-	01E0966E42AD62591F083BB3DC9307E6 = "Chance d’atterrer la cible sur un coup faible"
 	02A2AF5D49BF8321CF7300A39F12AA0F = "Personnages"
 	D5DDDF8A43A71B5228B575827C97286B = "Character
 Selection"
@@ -2164,6 +2161,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	1CD6C4AB4790067998617E9A55E78BBA = "Augmente les dégâts directs causés par une charge"
 	361FED844443DA02EFFAD497231EED33 = "Augmente le nombre max de munitions"
 	C9E9A62140D3C57DC4C34EB1001787DE = "Augmente de 5 mètres la portée de la tyrolienne"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "Lunettes de Protection"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Uranium inerte"
 	FAA3A91F4CCEB919666717A65087A572 = "Infecteur Blob"
@@ -5728,7 +5726,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (26 keys)
+Namespace StatValues (28 keys)
 	Bullets = "Balles"
 	CarriedAmount = "Quantité transportée"
 	ClipSize = "Capacité du chargeur"
@@ -5741,6 +5739,7 @@ Namespace StatValues (26 keys)
 	FlameDuration = "Durée de la flamme"
 	FlareDuration = "Durée de la fusée éclairante"
 	Health = "Santé"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "Munitions max"
 	MaxFlares = "Fusées éclairantes max"
 	MaxFuel = "Carburant max"
@@ -5748,6 +5747,7 @@ Namespace StatValues (26 keys)
 	MaxRange = "Portée max"
 	ProductionTime = "Temps de production"
 	RateOfFire = "Cadence de tir"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Temps de rechargement"
 	RockMining = "Extraction de roche"
 	SentryAmmoCapacity = "Capacité de munitions de la Mitraillette"

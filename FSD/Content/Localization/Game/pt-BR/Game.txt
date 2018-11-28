@@ -1,7 +1,7 @@
 22 namespaces
 3626 values
 
-Namespace Global (4515 keys)
+Namespace Global (4513 keys)
 	2559D78C40005E5221F26093CB976283 = " Coletar {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Eu caí!"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUERIDO"
@@ -49,10 +49,8 @@ Durante a coleta de dados tornamos anônimo seu IP e apenas uma pequena quantida
 	084972DA4367BB3126F09EA16F626036 = "(Agressivo) Ah sim, vamos fazer isso...!"
 	79C854AD4881276E9A57FEB5109ED8AA = "(cantando) Monotrilho, Monotrilho, Monotrilho!"
 	6C45AFD644F1BD03FFB094AC99E133F9 = "(sussurrando) Posso ter um Amantes de Folha especial?"
-	A917A204481CA2DE360C12A24BD3481D = "({amount})"
 	1B315FD042F69E6FEFF72BA7F39D5C01 = "* All accounts must be settled with DRG prior to getting a promotion. This covers room and board, wear and tear on gear, damaged properties of DRG, as well as whatever tab you have built up in the bar. DRG is not a charity, after all."
 	9AAEE08740108161885DFAB73E240B7A = "*Bocejo*...Um bom descanso cairia bem!"
-	0C7E1F624C551E531C1BAFAA98B0F2E1 = "+"
 	99914C684BA996CF46904B80B866DFD5 = "+ 1 SLOT DE BÔNUS"
 	9E48C15043BBDBD7AD465B9A8621B44A = "+ Todas as regiões do planeta desbloqueadas
 + Todos os tipos de missão desbloqueados"
@@ -670,7 +668,6 @@ DE REUNIÃO"
 	C70972C94DD6117C962D73A247E2933E = "Caverna do Ouriço-do-mar"
 	5EA7DF774FA4FDEBA2B549A45CD83EE4 = "Vinha da Caverna"
 	EF65095B49F30B4FB92DFCA5C55830A5 = "Chance for electrocution to arc from one target to others"
-	01E0966E42AD62591F083BB3DC9307E6 = "Chance de estontear o alvo ao atingir seu ponto fraco"
 	02A2AF5D49BF8321CF7300A39F12AA0F = "Personagem"
 	D5DDDF8A43A71B5228B575827C97286B = "Character
 Selection"
@@ -2028,6 +2025,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	98194E414043789C3D650BBFD18EBAEF = "Aumenta a quantidade de sinalizadores que você pode carregar"
 	361FED844443DA02EFFAD497231EED33 = "Aumenta a munição máxima"
 	C9E9A62140D3C57DC4C34EB1001787DE = "Aumenta o alcance da tirolesa em 5 metros"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	0BC0F2504362D8A53D3274B859C4850F = "Óculos de proteção industriais"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	FAA3A91F4CCEB919666717A65087A572 = "Gosma de Infector"
@@ -5681,7 +5679,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (26 keys)
+Namespace StatValues (28 keys)
 	Bullets = "Projéteis"
 	CarriedAmount = "Quantidade carregada"
 	ClipSize = "Tamanho do pente"
@@ -5694,6 +5692,7 @@ Namespace StatValues (26 keys)
 	FlameDuration = "Duração do sinalizador"
 	FlareDuration = "Duração do sinalizador"
 	Health = "Vida"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "Máx. de munição"
 	MaxFlares = "Máx. de sinalizadores"
 	MaxFuel = "Máx. de combustível"
@@ -5701,6 +5700,7 @@ Namespace StatValues (26 keys)
 	MaxRange = "Alcance máximo"
 	ProductionTime = "Tempo de produção"
 	RateOfFire = "Cadência de tiro"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Tempo de recarga"
 	RockMining = "Mineração de rocha"
 	SentryAmmoCapacity = "Capacidade de Munição da Torreta"

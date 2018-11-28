@@ -1,7 +1,7 @@
 22 namespaces
-2452 values
+2455 values
 
-Namespace Global (2899 keys)
+Namespace Global (2900 keys)
 	2559D78C40005E5221F26093CB976283 = " Pokupi {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " POTREBNO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Dizajner zvuka / producent glazbe"
@@ -1298,6 +1298,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	74449EC34E363CE275A77B8E76762A80 = "Povećava raspon od 5 metara"
 	98194E414043789C3D650BBFD18EBAEF = "Povećava količinu munjevitih projektila koje možete nositi"
 	C9E9A62140D3C57DC4C34EB1001787DE = "Povećava raspon ziplinea za 5 metara"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incresed chance to stagger the target on a hit"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	2C2284EF45735B0D23345B891AF418FF = "Problemi sa zaraženjem? Automatski tornji, brate."
 	92AD67DA4E31C57CB12C6CB66AB9A201 = "Info"
@@ -3833,7 +3834,7 @@ Namespace Resistances (4 keys)
 Namespace ST_GearUpgrades (1 keys)
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
 
-Namespace StatValues (24 keys)
+Namespace StatValues (26 keys)
 	Bullets = "Meci"
 	CarriedAmount = "Količina za nošenje"
 	ClipSize = "Veličina spremnika"
@@ -3846,6 +3847,7 @@ Namespace StatValues (24 keys)
 	FlameDuration = "Trajanje plamena"
 	FlareDuration = "Trajanje baklji"
 	Health = "Zdravlje"
+	AccuracyMultiplier = "Increased Accuracy"
 	MaxAmmo = "Maksimalno streljivo"
 	MaxFlares = "Maksimalne baklje"
 	MaxFuel = "Maksimalno gorivo"
@@ -3853,6 +3855,7 @@ Namespace StatValues (24 keys)
 	MaxRange = "Maksimalni domet"
 	ProductionTime = "Vrijeme proizvodnje"
 	RateOfFire = "Stopa vatre"
+	RecoilReduction = "Reduced Recoil"
 	ReloadDuration = "Vrijeme ponovnog punjenja"
 	RockMining = "Iskapanje stijena"
 	Shield = "Štit"
