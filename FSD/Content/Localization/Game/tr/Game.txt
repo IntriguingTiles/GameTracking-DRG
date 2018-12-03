@@ -1,7 +1,7 @@
 22 namespaces
-2736 values
+2729 values
 
-Namespace Global (3347 keys)
+Namespace Global (3338 keys)
 	2559D78C40005E5221F26093CB976283 = " Topla {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " GEREKLİ"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Ses Tasarımcısı / Müzik Prodüktörü"
@@ -110,7 +110,6 @@ Namespace Global (3347 keys)
 	480773904FD27F2E9379F09E955BE19C = "Güçlü bir yüksek yoğunluklu yapışkan işaret fişeği fırlatıcı. İşaret fişekleri, en sert materyellerre bile yapışabilir."
 	8D3766704F365EA7980CAB845A6D0848 = "Pratik bir uzlaşma"
 	F03E93AD4CD752D828C09F9814300F00 = "İkincil bir görev başarıldı. Görev tamamlandığında bonusun hesabına transfer edilecek."
-	BD60E51B4D6FF4B88175E4AF1B8800D9 = "İşaret fişeğine katı magnezyum çekirdeği eklendi, bu da yanma süresini arttırıyor"
 	AA2A27EE494F708441CAEE8E848BA862 = "Standart bir parça tesirli el bombası. Bunun dışında, şarapnel parçaları yerine endüstriyel güçte hava tepkeni bir yapıştırıcı kullanır. Anla anlayabilirsen."
 	73F3774A48A4448BB90A72A2F5FA7B50 = "Standart bir yüksek güçlü ve parça tesirli el bombası."
 	2F4B2DC34745B99FD01C5A86612FC319 = "Hurdadan inşa edilmiş bir zırh takımı. Sakla samanı, gelir zamanı!"
@@ -195,6 +194,7 @@ Namespace Global (3347 keys)
 	3435543840BE7B60A1863B83E4F445A6 = "Herhangi Biri"
 	A39CF4124ED26D8289EA18A860B1C56A = "Herhangi Biri"
 	C7D69A104593577209BE8DB171C97B9F = "Dans etmek isteyen var mı??"
+	F01FDFDE4CE00B8EBE5DBD90EC065143 = "Any projectile will blow up the Charged Projectile causing a bigger explosion dealing extra damage."
 	418A60D840C5A74217AA0CA79C5C33DA = "Cephaneye ihtiyacı olan varmı? Burada biraz nitra var!"
 	0733C16D4153DC823A1DC3B01AA4F68B = "Korku (Alan)"
 	3AA3DBE246DB5A512675FFA2E70EEEF2 = "Apoca Çiçeği"
@@ -529,6 +529,7 @@ Selection"
 	E0F791B54B36121FA71673A0AD6CD11F = "Sıkıştırılmış Toprak"
 	84B92DFB4FAF94769A5856AC74634B31 = "Pusula"
 	20C8A02940185CDFF614238B717122EA = "Görevi Tamamla"
+	2D2069BC443941E42DDA6EAB928CEF75 = "Complete SOLO mission to unlock Character Promotion"
 	30E886374D703DA855B11AAB54C3B7D8 = "Öğretici Görevi Tamamla"
 	615B4ABB499CB21DC550E38EADA238DA = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
 	83081D9843C33EC34691B0929E1FDA5C = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
@@ -565,7 +566,6 @@ Selection"
 	3FDC9E054A4217D6E632378A7A9E7419 = "Kontrolör"
 	9D6287354D2C3F1F914A85B350FA8015 = "Kontroller"
 	A0D0BE4D4BAF6E000C07FEBFE6A9CA37 = "Kontroller"
-	C9B9FFE8481F725527979FAC745A67C8 = "Yenileme Süresi"
 	0EF41BD14D1DC215CD834BA93FAE478C = "Soğuma Hızı"
 	19B0FDC340447FCFFD031E9417E3459F = "Soğuma Hızı"
 	BC783B7C43B2746F78E59AAB216E4B24 = "Mercan Dili"
@@ -676,7 +676,6 @@ Selection"
 	2EA177CD4A6D3565FA123F944EC2817A = "Düşmanlara daha fazla hasar verir"
 	632D19A34691605866581C85D69D4E9B = "Düşmanlara daha fazla hasar verir"
 	6473476D424C3375CEB17FB829944BEB = "Düşmanlara daha fazla hasar verir"
-	8C4C7C2640C44EF200DEE19B40323627 = "Yenileme Süresini 1 Saniye Azaltır"
 	91E193C545ED6A5C63F13595EE935618 = "Deep Rock"
 	9E5DD4E242761E0B1389EE91FCB44936 = "Deep Rock Galactic"
 	051C312645286ABC96D7ECA7D82823E7 = "Deep Rock really need to provide better equipment!"
@@ -800,7 +799,6 @@ Selection"
 	B7F6BD9244821F3A4A4CC986DE400809 = "İşlem sırası başlatılıyor. Kemerlerinizi sıkı baplayın!"
 	8F16427642A01822C5F6F78503597354 = "İniş kapsülü hazır - ayrılma zamanı!"
 	D691827C439F91E8AE25EE98B3B02C3E = "Yanma Süresi"
-	FFA00E414BC4579C0AA26D899EF23A91 = "Yanma Süresi"
 	3EEA47DA449CA2E4EFB347A4F3AF4272 = "Cüce düştü!"
 	8D0F5BD54C0C4CA11290868D3592FE0E = "Cüce düştü!"
 	C38D11CA47DA522AAA247DB00910CD56 = "Cüce düştü!"
@@ -1478,12 +1476,9 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	F9FABC2C41F96ADFC27AEEB9598C7413 = "Toplam işaret fişeği miktarını arttırır "
 	0CFEAE20454AB5604AE6E78E874F090E = "İsabette Artış"
 	01E0966E42AD62591F083BB3DC9307E6 = "Increased chance to stagger the target on a hit"
-	BD46F62A4C45AC28F291619070FAAAB4 = "Menzili 5 Metre Arttırır"
-	74449EC34E363CE275A77B8E76762A80 = "Menzili 5 Metre Daha Arttırır"
 	98194E414043789C3D650BBFD18EBAEF = "Taşıyabileceğiniz fişek mermilerinin miktarını arttırır"
 	49CCBDF749D12728ECC97F8FABC6AC39 = "Increases armor breaking capabilities of the plasma line"
 	1CD6C4AB4790067998617E9A55E78BBA = "Increases damage caused by a charged shot direct impact"
-	C9E9A62140D3C57DC4C34EB1001787DE = "Zipline menzilini 5 metre arttırır"
 	0BC0F2504362D8A53D3274B859C4850F = "Sanayi Gözlükleri"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	FAA3A91F4CCEB919666717A65087A572 = "Hastalıklı Damla"
@@ -1675,7 +1670,7 @@ AÇ"
 	49D18B464DAF172E2184BDABE12EA571 = "Artık beraber takılalım!"
 	6071A7EE418497ED9948CBA6C30E03A6 = "Hadi bunun üzerinde birlikte çalışalım!"
 	733E9A174D7B7A7511A3F99D14E4093D = "O çirkin yaratığı arkalamaya çalışalım!"
-	0FAABE984BD927CA3C39CF95A51E6125 = "''Stalker'' Klasik Kurma-Kollu için Lisans Yükseltmesi"
+	0FAABE984BD927CA3C39CF95A51E6125 = "License Upgrade: M1000 Classic"
 	6FE7C7724CE7FBDED1A2C7BB1E8B4A0E = "Kalkış roketi, kalkış için hazır!"
 	B9FC2BAE48678A278C0419BFD8412144 = "Kalkış roketi bağlandı!"
 	B209F21C4BF6BC3653AC55B3AFE45A8A = "Kalkış roketi bitti!"
@@ -1821,7 +1816,6 @@ AÇ"
 	4F3B80154E7AE0D29C23CABCD30DB300 = "Kurtçuk!"
 	194016424EB41ED339DB3095A9FF9E16 = "Magma Çekirdeği"
 	86161CC3412037FDC0F9ADAA4B6EFDDD = "Magma Görevleri Tamamlandı"
-	D70583A9464818D718760293242B00DC = "Magnezyum Çekirdeği"
 	88B14DF044FEC12E9B9070928F477A09 = "Manyetik Soğutma"
 	49C7FAD249FE20FAC73765B876BBE29F = "Magnite"
 	A37C1AE94F895FFB3C5698B9AE07AD71 = "Magnite"
@@ -1849,8 +1843,6 @@ AÇ"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "Maç arama başarısız oldu, yeniden deneyin."
 	3687A13B4D40D996CA1B6AACC84DE076 = "Maç arama..."
 	DF399CD3486B65EDAE4558AFEF735D28 = "Max FPS"
-	AA14CEC64F683044A398FDBB91F67F6B = "Max.Açı"
-	5518A67C45ABF7776B55918D7759BA30 = "Max.Mesafe"
 	145345C7423F4E9A20637C964292DBAE = "Belki bütün bunlardan sonra ölmeyeceğiz!"
 	F40A144645E1266C5FEEC7A29F68EBBC = "Benim"
 	855ACA5B4AF56C3FE6754297D1E6F3B1 = "Orta"
@@ -1870,7 +1862,6 @@ AÇ"
 	1BBF1D704700F016CBDEBCAC891B049B = "Mike'ın Biyomu"
 	CCD4A85F4231C56E402568A26C45AB10 = "Mikhail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
-	67B7516B42F5585F57A881936E78D7B2 = "Min.Açı"
 	E6CB82524A37D80CF610EF8CFDC88867 = "Kaz"
 	C974D1114477BC6FA7221985BA3B2309 = "Dystrum'ı kaz"
 	32CE81B14918228D7CFF75A15562A74F = "Sondaj Makinesi"
@@ -2311,6 +2302,7 @@ Management"
 	80F265644EC11DAC72EE8891872E567D = "Yapımcı"
 	572BCE714FB67F769DC2C890B03B46CA = "Professional Miner"
 	00C967844D3D4387C6FE2B85E72ECAB2 = "Kalkanınızı yeniden şarj ederken aynı anda zarar görmenizi engelleyen bir enerji balonu oluşturur. Tüm takımın içine rahatça sığar! Ancak çok da rahat olma, etkisi uzun değil."
+	A83874AC4B78EA0D8FF696AC6DE34665 = "Promote the {class} once to unlock an extra perk slot"
 	3E4029C341275FD1723B09B92DC1E4A7 = "Promoting a character will RESET IT TO LEVEL 1.
 You will earn an HONOR BADGE and you will KEEP all progress on weapons, perks, credits, crafting materials, and vanity items."
 	3CBC5FB342A4D67CD79C37A662100986 = "Promotion Benefits"
@@ -2409,7 +2401,6 @@ OYUN"
 	492E7C56428382FB5AB22DBCFC14BE9D = "Refreshing"
 	2912370E498E51A44CC5B2847A605136 = "Bölge"
 	0970786D4CABB3ED983676B16132E5AD = "Düzenli"
-	4FF9E7054AAD9F167995EBB523066300 = "Güçlendirilmiş Kablo"
 	37C1CBDA40400EADD085728131C24FF1 = "Güçlendirilmiş Anti-Darbe Elbisesi"
 	AC3283684F5686709949AC97DB07A184 = "Güçlendirilmiş Elektrikli Matkaplar"
 	CDCEC88042CF9A3B9409D184848D81A0 = "Şarjör Yenile"
@@ -3582,7 +3573,7 @@ BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a smal
 
 NEW WEAPONS: SCOUT
 ----------------------------
-M1000 BOLT-ACTION CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
+M1000 CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
 
 ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
 
@@ -3630,7 +3621,7 @@ The Retirement system has received a fairly significant overhaul. The changes ar
 
 GUNNER: SHIELD GENERATOR 
 ----------------------------
-The Gunner has swapped his DET PACK for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
+The Gunner has swapped his DET PACK (C4) for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
 
 
 EGGHUNT TWEAK

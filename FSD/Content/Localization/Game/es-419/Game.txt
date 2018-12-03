@@ -1,7 +1,7 @@
 22 namespaces
-2736 values
+2730 values
 
-Namespace Global (3222 keys)
+Namespace Global (3214 keys)
 	2559D78C40005E5221F26093CB976283 = " Recoger {Collected}/{Required}{Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESARIO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Diseñador de sonido / productor musical"
@@ -105,7 +105,6 @@ Namespace Global (3222 keys)
 	480773904FD27F2E9379F09E955BE19C = "Un poderoso lanzador de proyectiles que dispara bengalas adhesivas de alta intensidad. Las bengalas se pueden adherir incluso al material más duro."
 	8D3766704F365EA7980CAB845A6D0848 = "Un compromiso práctico"
 	F03E93AD4CD752D828C09F9814300F00 = "Se ha logrado un objetivo secundario. La bonificación se transferirá a sus cuentas al completar la misión."
-	BD60E51B4D6FF4B88175E4AF1B8800D9 = "Un núcleo de magnesio sólido se agregó a la llamarada, aumentando cuánto tiempo se puede quemar"
 	AA2A27EE494F708441CAEE8E848BA862 = "Una granada de fragmentación estándar, excepto que está llena de pegamento resistente al aire en lugar de metralla. Imagínate."
 	73F3774A48A4448BB90A72A2F5FA7B50 = "Una granada estándar de fragmentación altamente explosiva."
 	2F4B2DC34745B99FD01C5A86612FC319 = "Una armadura construida a partir de barriles desechados. ¡No malgastes, y nada te faltará!"
@@ -190,6 +189,7 @@ Namespace Global (3222 keys)
 	29CC26F540CC1A3E951CCC98CAAA77E5 = "Cualquiera"
 	3435543840BE7B60A1863B83E4F445A6 = "Cualquier"
 	A39CF4124ED26D8289EA18A860B1C56A = "Cualquiera"
+	F01FDFDE4CE00B8EBE5DBD90EC065143 = "Any projectile will blow up the Charged Projectile causing a bigger explosion dealing extra damage."
 	418A60D840C5A74217AA0CA79C5C33DA = "¿Alguien necesita munición? ¡Hay un nitra aquí!"
 	3AA3DBE246DB5A512675FFA2E70EEEF2 = "Apoca Bloom"
 	5DA237464B71168C2174C9B82EC4685D = "Apoca Bloom"
@@ -513,6 +513,7 @@ Selection"
 	CAA4B0924362837962737D9BE73322E8 = "Tierra compacta"
 	E0F791B54B36121FA71673A0AD6CD11F = "Tierra Compacta"
 	84B92DFB4FAF94769A5856AC74634B31 = "Compass"
+	2D2069BC443941E42DDA6EAB928CEF75 = "Complete SOLO mission to unlock Character Promotion"
 	30E886374D703DA855B11AAB54C3B7D8 = "Complete the Tutorial Mission"
 	615B4ABB499CB21DC550E38EADA238DA = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
 	83081D9843C33EC34691B0929E1FDA5C = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
@@ -557,7 +558,6 @@ Selection"
 	3FDC9E054A4217D6E632378A7A9E7419 = "Controles"
 	9D6287354D2C3F1F914A85B350FA8015 = "Controles"
 	A0D0BE4D4BAF6E000C07FEBFE6A9CA37 = "Controles"
-	C9B9FFE8481F725527979FAC745A67C8 = "Tiempo de Enfriamiento"
 	BC783B7C43B2746F78E59AAB216E4B24 = "Lengua de Coral"
 	948C78B54C22768342DE48B51687CAC2 = "Marino Corporativo"
 	25D9FFF548E361EB0B842F8185283F0D = "Ahem"
@@ -663,7 +663,6 @@ Selection"
 	2EA177CD4A6D3565FA123F944EC2817A = "Hace más daño a los enemigos"
 	632D19A34691605866581C85D69D4E9B = "Hace más daño a los enemigos"
 	6473476D424C3375CEB17FB829944BEB = "Hace más daño a los enemigos"
-	8C4C7C2640C44EF200DEE19B40323627 = "Disminuye el Enfriamiento en 1 segundo"
 	DCD8A2974881A71E2A2FDE915F8525B6 = "Bolsillos profundos"
 	91E193C545ED6A5C63F13595EE935618 = "Deep Rock"
 	9E5DD4E242761E0B1389EE91FCB44936 = "Deep Rock Galactic"
@@ -790,7 +789,6 @@ Selection"
 	B7F6BD9244821F3A4A4CC986DE400809 = "¡Inicia la secuencia de caída! ¡Abróchense sus cinturones de seguridad!"
 	8F16427642A01822C5F6F78503597354 = "La capsula de transporte está lista - ¡Hora de irse!"
 	D691827C439F91E8AE25EE98B3B02C3E = "Duración"
-	FFA00E414BC4579C0AA26D899EF23A91 = "Duración"
 	156D2CB74CD0FA572456AEAAA4343674 = "Nombre de clase de gñomo"
 	3EEA47DA449CA2E4EFB347A4F3AF4272 = "¡Enano caído!"
 	8D0F5BD54C0C4CA11290868D3592FE0E = "¡Enano caído!"
@@ -1441,12 +1439,9 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	90AA845242CCE865EE7BDDBF808B9C86 = "Aumenta la cantidad total de bengalas "
 	F9FABC2C41F96ADFC27AEEB9598C7413 = "Aumenta la cantidad total de bengalas "
 	01E0966E42AD62591F083BB3DC9307E6 = "Increased chance to stagger the target on a hit"
-	BD46F62A4C45AC28F291619070FAAAB4 = "Incrementa el Rango por 5 metros"
-	74449EC34E363CE275A77B8E76762A80 = "Incrementa el rango en otros 5 metros"
 	98194E414043789C3D650BBFD18EBAEF = "Aumenta la cantidad de proyectiles de bengalas que puedes llevar"
 	49CCBDF749D12728ECC97F8FABC6AC39 = "Increases armor breaking capabilities of the plasma line"
 	1CD6C4AB4790067998617E9A55E78BBA = "Increases damage caused by a charged shot direct impact"
-	C9E9A62140D3C57DC4C34EB1001787DE = "Aumenta el alcance de la tirolesa en 5 metros"
 	0BC0F2504362D8A53D3274B859C4850F = "Gafas industriales"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	2C2284EF45735B0D23345B891AF418FF = "¿Problemas de infectados? Torretas automáticas, amigo."
@@ -1634,6 +1629,7 @@ TUTORIAL"
 	49D18B464DAF172E2184BDABE12EA571 = "¡Permanezcamos juntos de ahora en adelante!"
 	6071A7EE418497ED9948CBA6C30E03A6 = "¡Trabajemos juntos en este!"
 	733E9A174D7B7A7511A3F99D14E4093D = "¡Intentemos flanquear al feo cabrón!"
+	0FAABE984BD927CA3C39CF95A51E6125 = "License Upgrade: M1000 Classic"
 	6FE7C7724CE7FBDED1A2C7BB1E8B4A0E = "Cohete de lanzamiento ¡Preparado para el despegue!"
 	B9FC2BAE48678A278C0419BFD8412144 = "Cohete de lanzamiento atado!"
 	B209F21C4BF6BC3653AC55B3AFE45A8A = "Cohete de lanzamiento preparado!"
@@ -1776,7 +1772,6 @@ TUTORIAL"
 	E0E051F74E00F5C9A4CC2680847DF607 = "Gusano"
 	4F3B80154E7AE0D29C23CABCD30DB300 = "¡Gusano!"
 	86161CC3412037FDC0F9ADAA4B6EFDDD = "Misiones de Magma Completadas"
-	D70583A9464818D718760293242B00DC = "Núcleo de magnesio"
 	88B14DF044FEC12E9B9070928F477A09 = "Refrigeración Magnética"
 	49C7FAD249FE20FAC73765B876BBE29F = "Magnite"
 	A37C1AE94F895FFB3C5698B9AE07AD71 = "Magnite"
@@ -1802,8 +1797,6 @@ TUTORIAL"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "Matchmaking Falló, inténtalo de nuevo."
 	3687A13B4D40D996CA1B6AACC84DE076 = "Matchmaking..."
 	DF399CD3486B65EDAE4558AFEF735D28 = "Maximo de FPS"
-	AA14CEC64F683044A398FDBB91F67F6B = "MaxAngle"
-	5518A67C45ABF7776B55918D7759BA30 = "Distancia Maxima"
 	145345C7423F4E9A20637C964292DBAE = "¡Quizás no vamos a morir después de todo!"
 	F40A144645E1266C5FEEC7A29F68EBBC = "Yo"
 	855ACA5B4AF56C3FE6754297D1E6F3B1 = "Medicina"
@@ -1824,7 +1817,6 @@ TUTORIAL"
 	1BBF1D704700F016CBDEBCAC891B049B = "Bioma de Mike"
 	CCD4A85F4231C56E402568A26C45AB10 = "Mikhail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
-	67B7516B42F5585F57A881936E78D7B2 = "AnguloMin."
 	E6CB82524A37D80CF610EF8CFDC88867 = "Mina"
 	C974D1114477BC6FA7221985BA3B2309 = "Mina Dystrum"
 	32CE81B14918228D7CFF75A15562A74F = "Cabezal de perforación"
@@ -2248,6 +2240,7 @@ Management"
 	3C6CC485451598609ECABF9E446E9A93 = "Productor"
 	80F265644EC11DAC72EE8891872E567D = "Productor"
 	572BCE714FB67F769DC2C890B03B46CA = "Professional Miner"
+	A83874AC4B78EA0D8FF696AC6DE34665 = "Promote the {class} once to unlock an extra perk slot"
 	3E4029C341275FD1723B09B92DC1E4A7 = "Promoting a character will RESET IT TO LEVEL 1.
 You will earn an HONOR BADGE and you will KEEP all progress on weapons, perks, credits, crafting materials, and vanity items."
 	3CBC5FB342A4D67CD79C37A662100986 = "Promotion Benefits"
@@ -2336,7 +2329,6 @@ RÁPIDO"
 	761586C14EE3CCA7F69712804CE964F2 = "Refinado"
 	492E7C56428382FB5AB22DBCFC14BE9D = "Refreshing"
 	658A88894E440EAF00ED27984B2CF92D = "Reabastecer la Cápsula de Transporte"
-	4FF9E7054AAD9F167995EBB523066300 = "Cable reforzado"
 	37C1CBDA40400EADD085728131C24FF1 = "Traje de Impacto Reforzado"
 	AC3283684F5686709949AC97DB07A184 = "Taladros Reforzados"
 	CDCEC88042CF9A3B9409D184848D81A0 = "Recarga"
@@ -3370,7 +3362,7 @@ BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a smal
 
 NEW WEAPONS: SCOUT
 ----------------------------
-M1000 BOLT-ACTION CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
+M1000 CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
 
 ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
 
@@ -3418,7 +3410,7 @@ The Retirement system has received a fairly significant overhaul. The changes ar
 
 GUNNER: SHIELD GENERATOR 
 ----------------------------
-The Gunner has swapped his DET PACK for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
+The Gunner has swapped his DET PACK (C4) for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
 
 
 EGGHUNT TWEAK

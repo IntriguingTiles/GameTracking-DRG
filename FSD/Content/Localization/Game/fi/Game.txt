@@ -1,7 +1,7 @@
 22 namespaces
-3295 values
+3289 values
 
-Namespace Global (3950 keys)
+Namespace Global (3942 keys)
 	2559D78C40005E5221F26093CB976283 = " Kerää {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Putosin!"
 	31D60A1449082F9AB6DC15844F3810F6 = " VAADITTU"
@@ -143,7 +143,6 @@ Namespace Global (3950 keys)
 	8D3766704F365EA7980CAB845A6D0848 = "Käytännöllinen kompromissi"
 	A4C156A74BD6B9658D3BA494C5A078D6 = "Verenpunainen klassikko."
 	F03E93AD4CD752D828C09F9814300F00 = "Toissijainen tavoite on saavutettu. Bonus siirretään tilillesi tehtävän suorittamisen jälkeen."
-	BD60E51B4D6FF4B88175E4AF1B8800D9 = "Kiinteä magnesiumydin lisätty valoon, lisää palamisaikaa"
 	AA2A27EE494F708441CAEE8E848BA862 = "Tavallinen fragmentaatiokranaatti, paitsi että se on täynnä teollisuusvoimaista ilma-reagenssiliimaa sirpaleen sijasta. Siirry kuvaan."
 	73F3774A48A4448BB90A72A2F5FA7B50 = "Standardi kovapanostettu sirpalekranaatti."
 	2F4B2DC34745B99FD01C5A86612FC319 = "Panssarin puku rakennettu romutynnyreistä. Jätettä ei, haluta ei!"
@@ -254,6 +253,7 @@ Namespace Global (3950 keys)
 	29CC26F540CC1A3E951CCC98CAAA77E5 = "Mikä tahansa"
 	3435543840BE7B60A1863B83E4F445A6 = "Mikä tahansa"
 	A39CF4124ED26D8289EA18A860B1C56A = "Minkä tahansa"
+	F01FDFDE4CE00B8EBE5DBD90EC065143 = "Any projectile will blow up the Charged Projectile causing a bigger explosion dealing extra damage."
 	418A60D840C5A74217AA0CA79C5C33DA = "Tarvitseeko kukaan ammuksia? Täällä olisi Nitraa tarjolla!"
 	0733C16D4153DC823A1DC3B01AA4F68B = "Pelkoa luova alue"
 	AE37F170481C37D92EC1CC8D7AD1D6A1 = "Aooowww!"
@@ -661,6 +661,7 @@ Selection"
 	CAA4B0924362837962737D9BE73322E8 = "Tiivistynyttä Multaa"
 	E0F791B54B36121FA71673A0AD6CD11F = "Tiivistynyttä Multaa"
 	84B92DFB4FAF94769A5856AC74634B31 = "Kompassi"
+	2D2069BC443941E42DDA6EAB928CEF75 = "Complete SOLO mission to unlock Character Promotion"
 	1F9EFFC54DA5C2B3F1202A8EA770E94E = "Suorita enemmän kamppanjatehtäviä avataksesi tämän planetaarisen alueen."
 	30E886374D703DA855B11AAB54C3B7D8 = "Suorita opetustehtävä"
 	615B4ABB499CB21DC550E38EADA238DA = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
@@ -731,7 +732,6 @@ Johtoporras"
 	9D6287354D2C3F1F914A85B350FA8015 = "Ohjaimet"
 	A0D0BE4D4BAF6E000C07FEBFE6A9CA37 = "Ohjaimet"
 	C9E7EF6D418B1A59B4FF798E4FA72115 = "Siiisti ansiopiste!"
-	C9B9FFE8481F725527979FAC745A67C8 = "Jäähdytys"
 	0EF41BD14D1DC215CD834BA93FAE478C = "Jäähdytysnopeus"
 	19B0FDC340447FCFFD031E9417E3459F = "Jäähdytysnopeus"
 	BC783B7C43B2746F78E59AAB216E4B24 = "Korallikieli"
@@ -857,7 +857,6 @@ Johtoporras"
 	2EA177CD4A6D3565FA123F944EC2817A = "Aiheuttaa enemmän vahinkoa vihollisille"
 	632D19A34691605866581C85D69D4E9B = "Aiheuttaa enemmän vahinkoa vihollisille"
 	6473476D424C3375CEB17FB829944BEB = "Aiheuttaa enemmän vahinkoa vihollisille"
-	8C4C7C2640C44EF200DEE19B40323627 = "Vähentää Jäähdytysaikaa 1 Sekunnilla"
 	DCD8A2974881A71E2A2FDE915F8525B6 = "Syvät taskut"
 	91E193C545ED6A5C63F13595EE935618 = "Syvä kallio"
 	9E5DD4E242761E0B1389EE91FCB44936 = "Deep Rock Galactic"
@@ -1001,7 +1000,6 @@ Johtoporras"
 	B7F6BD9244821F3A4A4CC986DE400809 = "Pudotus alkaa! Kiinnittäkää turvavyönne!"
 	8F16427642A01822C5F6F78503597354 = "Kuljetuskapseli on valmiina - aika lähteä!"
 	D691827C439F91E8AE25EE98B3B02C3E = "Kesto"
-	FFA00E414BC4579C0AA26D899EF23A91 = "Kesto"
 	156D2CB74CD0FA572456AEAAA4343674 = "Kääpiö Luokan Nimi"
 	3EEA47DA449CA2E4EFB347A4F3AF4272 = "Kääpiö maassa!"
 	8D0F5BD54C0C4CA11290868D3592FE0E = "Kääpiö maassa!"
@@ -1771,12 +1769,9 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	F9FABC2C41F96ADFC27AEEB9598C7413 = "Lisää soihtujen yhteis määrää "
 	0CFEAE20454AB5604AE6E78E874F090E = "Parempi tarkkuus"
 	01E0966E42AD62591F083BB3DC9307E6 = "Increased chance to stagger the target on a hit"
-	BD46F62A4C45AC28F291619070FAAAB4 = "Lisää kantamaa 5 metrillä"
-	74449EC34E363CE275A77B8E76762A80 = "Lisää Kantomatkaa 5 Metrillä"
 	98194E414043789C3D650BBFD18EBAEF = "Lisää valoammuksien määrää jota voit kantaa"
 	49CCBDF749D12728ECC97F8FABC6AC39 = "Increases armor breaking capabilities of the plasma line"
 	1CD6C4AB4790067998617E9A55E78BBA = "Increases damage caused by a charged shot direct impact"
-	C9E9A62140D3C57DC4C34EB1001787DE = "Pidentää köysiradan etäisyyttä 5 metrillä"
 	0BC0F2504362D8A53D3274B859C4850F = "Teollisuuden suojalasit"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	FAA3A91F4CCEB919666717A65087A572 = "Tartuttaja kupla"
@@ -2001,6 +1996,7 @@ HARJOITUKSET"
 	C09B96F04618D7DE4A03CF843410341B = "Ei puhuta enään koskaan tästä tehtävästä!"
 	733E9A174D7B7A7511A3F99D14E4093D = "Yritetään kiertää tuon limanuljaskan selustaan!"
 	B929F0A0429F96CDA0FEBCBD6C199000 = "Päivitä hahmoa {character} {value} kertaa"
+	0FAABE984BD927CA3C39CF95A51E6125 = "License Upgrade: M1000 Classic"
 	6FE7C7724CE7FBDED1A2C7BB1E8B4A0E = "Nostoraketti valmisteltu lähtöä varten!"
 	B9FC2BAE48678A278C0419BFD8412144 = "Nostoraketti yhdistetty!"
 	B209F21C4BF6BC3653AC55B3AFE45A8A = "Nosta raketti valmiina!"
@@ -2164,7 +2160,6 @@ HARJOITUKSET"
 	4F444D2642879909F978F894EEB3E8D1 = "Magma"
 	194016424EB41ED339DB3095A9FF9E16 = "Magma Ydin"
 	86161CC3412037FDC0F9ADAA4B6EFDDD = "Magma tehtävät suoritettu"
-	D70583A9464818D718760293242B00DC = "Magnesium ydin"
 	88B14DF044FEC12E9B9070928F477A09 = "Magneettinen Jäähdytys"
 	49C7FAD249FE20FAC73765B876BBE29F = "Magnite"
 	A37C1AE94F895FFB3C5698B9AE07AD71 = "Magnite"
@@ -2193,8 +2188,6 @@ HARJOITUKSET"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "Matsinvalmistus Epäonnistui, yritä uudestaan."
 	3687A13B4D40D996CA1B6AACC84DE076 = "Matsinvalmistelua..."
 	DF399CD3486B65EDAE4558AFEF735D28 = "Korkein FPS"
-	AA14CEC64F683044A398FDBB91F67F6B = "Maksimi kulma"
-	5518A67C45ABF7776B55918D7759BA30 = "Maksimi Etäisyys"
 	145345C7423F4E9A20637C964292DBAE = "Ehkä me emme kuole sittenkään!"
 	F40A144645E1266C5FEEC7A29F68EBBC = "Minä"
 	855ACA5B4AF56C3FE6754297D1E6F3B1 = "Lääke"
@@ -2218,7 +2211,6 @@ HARJOITUKSET"
 	CCD4A85F4231C56E402568A26C45AB10 = "Mihail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
 	8304ACFC4571775E2B3CD8BA0C5DE53F = "Tehtävät suoritettu!"
-	67B7516B42F5585F57A881936E78D7B2 = "MinimiKulma"
 	E6CB82524A37D80CF610EF8CFDC88867 = "Louhi"
 	C974D1114477BC6FA7221985BA3B2309 = "Louhi dystrumia"
 	32CE81B14918228D7CFF75A15562A74F = "Porauspää"
@@ -2734,6 +2726,7 @@ Management"
 	572BCE714FB67F769DC2C890B03B46CA = "Professional Miner"
 	F4B3C8CD4331C60024A1988B921C780B = "Harjoitteleva ohjelmoija"
 	00C967844D3D4387C6FE2B85E72ECAB2 = "Ampuu energiakuplan, joka pitää sinut turvassa vaaroilta ja samalla lataa kilpeäsi. Kuplaan mahtuu sopivasti koko tiimisi! Älä kuitenkaan hengähdä liian pitkäksi aikaa... kupla ei pysy pitkään pystyssä."
+	A83874AC4B78EA0D8FF696AC6DE34665 = "Promote the {class} once to unlock an extra perk slot"
 	3E4029C341275FD1723B09B92DC1E4A7 = "Promoting a character will RESET IT TO LEVEL 1.
 You will earn an HONOR BADGE and you will KEEP all progress on weapons, perks, credits, crafting materials, and vanity items."
 	3CBC5FB342A4D67CD79C37A662100986 = "Promotion Benefits"
@@ -2845,7 +2838,6 @@ LIITTYMINEN"
 	492E7C56428382FB5AB22DBCFC14BE9D = "Refreshing"
 	658A88894E440EAF00ED27984B2CF92D = "Tankkaa pudotuskapseli"
 	0970786D4CABB3ED983676B16132E5AD = "Tavallinen"
-	4FF9E7054AAD9F167995EBB523066300 = "Vahvistettu Kaapeli"
 	37C1CBDA40400EADD085728131C24FF1 = "Vahvistettu Impakti Puku"
 	AC3283684F5686709949AC97DB07A184 = "Vahvistetut sähköporat"
 	B8A48C7145EF4BB4CD7B01ACDA8D9A33 = "Hylkää kutsu"
@@ -4212,7 +4204,7 @@ BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a smal
 
 NEW WEAPONS: SCOUT
 ----------------------------
-M1000 BOLT-ACTION CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
+M1000 CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
 
 ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
 
@@ -4260,7 +4252,7 @@ The Retirement system has received a fairly significant overhaul. The changes ar
 
 GUNNER: SHIELD GENERATOR 
 ----------------------------
-The Gunner has swapped his DET PACK for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
+The Gunner has swapped his DET PACK (C4) for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
 
 
 EGGHUNT TWEAK

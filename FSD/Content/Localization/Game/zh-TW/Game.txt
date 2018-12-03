@@ -1,7 +1,7 @@
 22 namespaces
-3448 values
+3441 values
 
-Namespace Global (4319 keys)
+Namespace Global (4309 keys)
 	2559D78C40005E5221F26093CB976283 = " 採集 {Collected}／{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " 我摔下去了！"
 	31D60A1449082F9AB6DC15844F3810F6 = " 需求"
@@ -171,7 +171,6 @@ Namespace Global (4319 keys)
 	576597B04EA7D46FF9D82494EEFD7A08 = "給我和弟兄們來一輪「代醉羔羊」！"
 	F03E93AD4CD752D828C09F9814300F00 = "次要目標達成，任務完成後獎勵將轉入帳戶內。"
 	816E62B24EDA725C5BD2A9A416F9BFDB = "輕巧的半自動小手槍，威力不容小覷。"
-	BD60E51B4D6FF4B88175E4AF1B8800D9 = "把鎂金屬混入照明彈的核心，增長燃燒時間。"
 	AA2A27EE494F708441CAEE8E848BA862 = "標配型破片手榴彈，只差裡頭不是破片，而是工業用氣密型強力黏膠。試過就懂了。"
 	73F3774A48A4448BB90A72A2F5FA7B50 = "標配型破片手榴彈。"
 	2F4B2DC34745B99FD01C5A86612FC319 = "用廢油桶改造成的全套裝甲。物盡其用的最佳典範！"
@@ -298,6 +297,7 @@ Namespace Global (4319 keys)
 	226C2AAB4B67FD617E741DB0A511E833 = "有誰想來跳支舞？？"
 	55C7909B4CB7E9D2F862A194905C2B41 = "有誰想來跳支舞？？"
 	C7D69A104593577209BE8DB171C97B9F = "有誰想來跳支舞？？"
+	F01FDFDE4CE00B8EBE5DBD90EC065143 = "Any projectile will blow up the Charged Projectile causing a bigger explosion dealing extra damage."
 	418A60D840C5A74217AA0CA79C5C33DA = "有沒人需要彈藥？這裡有硝團！"
 	AE37F170481C37D92EC1CC8D7AD1D6A1 = "啊嗷嗷！"
 	3AA3DBE246DB5A512675FFA2E70EEEF2 = "異種花"
@@ -732,7 +732,7 @@ Selection"
 	C663F89C4B24952F22CC4EA7FB6FA4DE = "公司約法，關我屁事！"
 	84B92DFB4FAF94769A5856AC74634B31 = "羅盤"
 	20C8A02940185CDFF614238B717122EA = "立即完成任務"
-	2D2069BC443941E42DDA6EAB928CEF75 = "完成單人任務以解鎖角色退休條件"
+	2D2069BC443941E42DDA6EAB928CEF75 = "Complete SOLO mission to unlock Character Promotion"
 	1F9EFFC54DA5C2B3F1202A8EA770E94E = "完成更多戰役任務以解鎖該行星區域。"
 	30E886374D703DA855B11AAB54C3B7D8 = "完成教學任務"
 	615B4ABB499CB21DC550E38EADA238DA = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
@@ -807,7 +807,6 @@ Selection"
 	9D6287354D2C3F1F914A85B350FA8015 = "控制台"
 	A0D0BE4D4BAF6E000C07FEBFE6A9CA37 = "操控方式"
 	C9E7EF6D418B1A59B4FF798E4FA72115 = "酷阿！"
-	C9B9FFE8481F725527979FAC745A67C8 = "冷卻"
 	BC783B7C43B2746F78E59AAB216E4B24 = "吐舌珊瑚"
 	948C78B54C22768342DE48B51687CAC2 = "集團陸戰隊"
 	25D9FFF548E361EB0B842F8185283F0D = "咳咳"
@@ -938,7 +937,6 @@ Selection"
 	2EA177CD4A6D3565FA123F944EC2817A = "對敵人造成更多的傷害"
 	632D19A34691605866581C85D69D4E9B = "對敵人造成更多的傷害"
 	6473476D424C3375CEB17FB829944BEB = "對敵人造成更多的傷害"
-	8C4C7C2640C44EF200DEE19B40323627 = "減少冷卻時間１秒"
 	DCD8A2974881A71E2A2FDE915F8525B6 = "搬東運西"
 	91E193C545ED6A5C63F13595EE935618 = "Deep Rock"
 	9E5DD4E242761E0B1389EE91FCB44936 = "寰宇勘探隊"
@@ -1081,7 +1079,6 @@ Selection"
 	B7F6BD9244821F3A4A4CC986DE400809 = "降落程序啟動，扣上你的安全帶！"
 	8F16427642A01822C5F6F78503597354 = "空降艙已抵達，該離開了！"
 	D691827C439F91E8AE25EE98B3B02C3E = "持續時間"
-	FFA00E414BC4579C0AA26D899EF23A91 = "持續時間"
 	156D2CB74CD0FA572456AEAAA4343674 = "矮人的職業名稱"
 	3EEA47DA449CA2E4EFB347A4F3AF4272 = "我不行了！"
 	8D0F5BD54C0C4CA11290868D3592FE0E = "我不行了！"
@@ -1911,12 +1908,9 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	90AA845242CCE865EE7BDDBF808B9C86 = "增加照明彈的備彈量 "
 	F9FABC2C41F96ADFC27AEEB9598C7413 = "增加閃光彈的總數 "
 	01E0966E42AD62591F083BB3DC9307E6 = "Increased chance to stagger the target on a hit"
-	BD46F62A4C45AC28F291619070FAAAB4 = "額外增長距離 5 公尺"
-	74449EC34E363CE275A77B8E76762A80 = "額外增長距離 5 公尺"
 	98194E414043789C3D650BBFD18EBAEF = "增加你能夠攜帶的照明彈"
 	49CCBDF749D12728ECC97F8FABC6AC39 = "Increases armor breaking capabilities of the plasma line"
 	1CD6C4AB4790067998617E9A55E78BBA = "Increases damage caused by a charged shot direct impact"
-	C9E9A62140D3C57DC4C34EB1001787DE = "滑索纜繩可及範圍增長 5 公尺"
 	0BC0F2504362D8A53D3274B859C4850F = "工業用護目鏡"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inert Uranium"
 	FAA3A91F4CCEB919666717A65087A572 = "瘟疫吐珠團"
@@ -2149,6 +2143,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	C09B96F04618D7DE4A03CF843410341B = "拜託…別再…提起這件任務了！"
 	733E9A174D7B7A7511A3F99D14E4093D = "從側面攻擊這醜八怪！"
 	B929F0A0429F96CDA0FEBCBD6C199000 = "升級 {character} {value} 次"
+	0FAABE984BD927CA3C39CF95A51E6125 = "License Upgrade: M1000 Classic"
 	6FE7C7724CE7FBDED1A2C7BB1E8B4A0E = "運載火箭準備升空！"
 	B9FC2BAE48678A278C0419BFD8412144 = "運載火箭已經接合！"
 	B209F21C4BF6BC3653AC55B3AFE45A8A = "運載火箭好了！"
@@ -2325,7 +2320,6 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	4F444D2642879909F978F894EEB3E8D1 = "熔火地核"
 	194016424EB41ED339DB3095A9FF9E16 = "熔火地核"
 	86161CC3412037FDC0F9ADAA4B6EFDDD = "完成熔火地核的任務"
-	D70583A9464818D718760293242B00DC = "鎂核心"
 	88B14DF044FEC12E9B9070928F477A09 = "磁力式急速冷卻"
 	49C7FAD249FE20FAC73765B876BBE29F = "磁吸石"
 	A37C1AE94F895FFB3C5698B9AE07AD71 = "磁吸石"
@@ -2356,8 +2350,6 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	87A57D1F4374E9011ADC5D9D1896DD2D = "配對失敗，請重試。"
 	3687A13B4D40D996CA1B6AACC84DE076 = "正在配對……"
 	DF399CD3486B65EDAE4558AFEF735D28 = "最大ＦＰＳ"
-	AA14CEC64F683044A398FDBB91F67F6B = "最大角度"
-	5518A67C45ABF7776B55918D7759BA30 = "最大距離"
 	9B18DF4E4F02653576EBD0A3300DA654 = "鬍子長密密，錢袋裝滿滿！"
 	145345C7423F4E9A20637C964292DBAE = "我們應該不至於死在這裡啦！"
 	F40A144645E1266C5FEEC7A29F68EBBC = "我"
@@ -2382,7 +2374,6 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	CCD4A85F4231C56E402568A26C45AB10 = "Mikhail Akopyan"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
 	8304ACFC4571775E2B3CD8BA0C5DE53F = "達成里程碑！"
-	67B7516B42F5585F57A881936E78D7B2 = "最小角度"
 	E6CB82524A37D80CF610EF8CFDC88867 = "採礦"
 	C974D1114477BC6FA7221985BA3B2309 = "採掘「戴席金屬」"
 	32CE81B14918228D7CFF75A15562A74F = "鑽探艙"
@@ -2949,6 +2940,7 @@ Management"
 	80F265644EC11DAC72EE8891872E567D = "製作人員"
 	572BCE714FB67F769DC2C890B03B46CA = "Professional Miner"
 	F4B3C8CD4331C60024A1988B921C780B = "實習程式設計員"
+	A83874AC4B78EA0D8FF696AC6DE34665 = "Promote the {class} once to unlock an extra perk slot"
 	3E4029C341275FD1723B09B92DC1E4A7 = "Promoting a character will RESET IT TO LEVEL 1.
 You will earn an HONOR BADGE and you will KEEP all progress on weapons, perks, credits, crafting materials, and vanity items."
 	3CBC5FB342A4D67CD79C37A662100986 = "Promotion Benefits"
@@ -3067,7 +3059,6 @@ You will earn an HONOR BADGE and you will KEEP all progress on weapons, perks, c
 	2912370E498E51A44CC5B2847A605136 = "區域"
 	670883724DC8BDBEC2F722827F2657F8 = "區域"
 	0970786D4CABB3ED983676B16132E5AD = "普通"
-	4FF9E7054AAD9F167995EBB523066300 = "強化纜繩"
 	37C1CBDA40400EADD085728131C24FF1 = "強化抗衝擊套裝"
 	AC3283684F5686709949AC97DB07A184 = "強化電鑽"
 	B8A48C7145EF4BB4CD7B01ACDA8D9A33 = "拒絕邀請"
@@ -3125,7 +3116,6 @@ You will earn an HONOR BADGE and you will KEEP all progress on weapons, perks, c
 	E22A279B4D4C92FB115A9E8B3B2FA685 = "補給到達！快去補充！"
 	3C625D624AC0652BA30C71A01117D1B8 = "已呼叫補給！"
 	67289C6E467DA8A9294AB5831058E1C2 = "補給艙"
-	A83874AC4B78EA0D8FF696AC6DE34665 = "將 {class} 退休一次以解鎖一個額外的專長欄位"
 	E00718EF427855EB5F9992B22A4128B5 = "退休，我來了，給我等著！"
 	68D57CF046190F38CE798FB707251BA1 = "空降艙準備回航。"
 	BFA2CE964EBA470A857FDBBC1B69761F = "要求召回"
@@ -4589,7 +4579,7 @@ BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a smal
 
 NEW WEAPONS: SCOUT
 ----------------------------
-M1000 BOLT-ACTION CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
+M1000 CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
 
 ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
 
@@ -4637,7 +4627,7 @@ The Retirement system has received a fairly significant overhaul. The changes ar
 
 GUNNER: SHIELD GENERATOR 
 ----------------------------
-The Gunner has swapped his DET PACK for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
+The Gunner has swapped his DET PACK (C4) for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
 
 
 EGGHUNT TWEAK

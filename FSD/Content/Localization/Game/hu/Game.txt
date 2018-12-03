@@ -1,7 +1,7 @@
 22 namespaces
-2779 values
+2774 values
 
-Namespace Global (3373 keys)
+Namespace Global (3365 keys)
 	2559D78C40005E5221F26093CB976283 = " Gyűjts össze {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Elestem!"
 	31D60A1449082F9AB6DC15844F3810F6 = " SZÜKSÉGES"
@@ -117,7 +117,6 @@ Namespace Global (3373 keys)
 	8D3766704F365EA7980CAB845A6D0848 = "Egy praktikus kompromisszum"
 	4E7C508047ADD04843661BA95F6CFA40 = "Egy kör Mactera Sört, légyszi!  "
 	F03E93AD4CD752D828C09F9814300F00 = "Másodlagos cél elérve! Bónuszt kaptok a számlátokra a küldetés befejezésekor."
-	BD60E51B4D6FF4B88175E4AF1B8800D9 = "Egy tömör magnézium magot hozzáadva megnöveli a jelzőfény égési idejét"
 	AA2A27EE494F708441CAEE8E848BA862 = "Egy szabványos repeszgránát, leszámítva, hogy srapnel helyett ipari erősségű levegőn aktiválódó ragasztóval van tele. A többit kitalálhatod."
 	73F3774A48A4448BB90A72A2F5FA7B50 = "Egy szabványos nagy robbanóerejű repeszgránát."
 	A7F15AA745B70AFC2E79B3821388FB32 = "A walking command center, the MK3 Heavy Engineer Suit means you'll never lose reception again. It's loaded up with so much top-of-the-line tech most of the eggheads can't even name it all."
@@ -199,6 +198,7 @@ Namespace Global (3373 keys)
 	3435543840BE7B60A1863B83E4F445A6 = "Bármilyen"
 	A39CF4124ED26D8289EA18A860B1C56A = "Bármilyen"
 	55C7909B4CB7E9D2F862A194905C2B41 = "Akar valaki táncolni??"
+	F01FDFDE4CE00B8EBE5DBD90EC065143 = "Any projectile will blow up the Charged Projectile causing a bigger explosion dealing extra damage."
 	418A60D840C5A74217AA0CA79C5C33DA = "Valakinek kell lőszer? Itt van nitra!"
 	3AA3DBE246DB5A512675FFA2E70EEEF2 = "Apoca virág"
 	5DA237464B71168C2174C9B82EC4685D = "Apoca Virág"
@@ -530,6 +530,7 @@ Selection"
 	CAA4B0924362837962737D9BE73322E8 = "Tömörített Föld"
 	E0F791B54B36121FA71673A0AD6CD11F = "Tömörített Föld"
 	84B92DFB4FAF94769A5856AC74634B31 = "Compass"
+	2D2069BC443941E42DDA6EAB928CEF75 = "Complete SOLO mission to unlock Character Promotion"
 	30E886374D703DA855B11AAB54C3B7D8 = "Complete the Tutorial Mission"
 	615B4ABB499CB21DC550E38EADA238DA = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
 	83081D9843C33EC34691B0929E1FDA5C = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
@@ -571,7 +572,6 @@ Selection"
 	3FDC9E054A4217D6E632378A7A9E7419 = "Játékvezérlő"
 	9D6287354D2C3F1F914A85B350FA8015 = "Irányítás"
 	A0D0BE4D4BAF6E000C07FEBFE6A9CA37 = "Irányítások"
-	C9B9FFE8481F725527979FAC745A67C8 = "Lehűlés"
 	19B0FDC340447FCFFD031E9417E3459F = "Hűtési ráta"
 	6D023CB74857A914C7AAE7A8D9394D92 = "Hűtési ráta"
 	BC783B7C43B2746F78E59AAB216E4B24 = "Korallnyelv"
@@ -686,7 +686,6 @@ Selection"
 	3B7D000F40DE38FDD7469498ABF505DB = "Több sebzést okoz az ellenségeknek"
 	632D19A34691605866581C85D69D4E9B = "Több sebzést okoz az ellenségeknek"
 	6473476D424C3375CEB17FB829944BEB = "Több sebzést okoz az ellenségeknek"
-	8C4C7C2640C44EF200DEE19B40323627 = "Csökkenti a lehűlés idejét 1 másodperccel"
 	91E193C545ED6A5C63F13595EE935618 = "Deep Rock"
 	9E5DD4E242761E0B1389EE91FCB44936 = "Deep Rock Galactic"
 	051C312645286ABC96D7ECA7D82823E7 = "Deep Rock really need to provide better equipment!"
@@ -813,7 +812,6 @@ Selection"
 	8F16427642A01822C5F6F78503597354 = "Leszállóegység kész - ideje indulni!"
 	7DD07AE8403119755FF99F98DF00E119 = "Időtartam"
 	D691827C439F91E8AE25EE98B3B02C3E = "Időtartam"
-	FFA00E414BC4579C0AA26D899EF23A91 = "Időtartam"
 	156D2CB74CD0FA572456AEAAA4343674 = "Törpe Osztály Neve"
 	3EEA47DA449CA2E4EFB347A4F3AF4272 = "Törp a földön!"
 	8D0F5BD54C0C4CA11290868D3592FE0E = "Törp a földön!"
@@ -1495,13 +1493,10 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	F9FABC2C41F96ADFC27AEEB9598C7413 = "Növeli a jelzőfények maximális számát "
 	0CFEAE20454AB5604AE6E78E874F090E = "Megnövelt pontosság"
 	01E0966E42AD62591F083BB3DC9307E6 = "Increased chance to stagger the target on a hit"
-	BD46F62A4C45AC28F291619070FAAAB4 = "Megnöveli a hatótávot 5 méterrel"
-	74449EC34E363CE275A77B8E76762A80 = "Megnöveli a hatótávot 5 méterrel"
 	98194E414043789C3D650BBFD18EBAEF = "Növeli a magaddal vihető jelzőfény lövedékek mennyiségét"
 	49CCBDF749D12728ECC97F8FABC6AC39 = "Increases armor breaking capabilities of the plasma line"
 	1CD6C4AB4790067998617E9A55E78BBA = "Increases damage caused by a charged shot direct impact"
 	361FED844443DA02EFFAD497231EED33 = "Növeli a maximális lőszert"
-	C9E9A62140D3C57DC4C34EB1001787DE = "Növeli a kötélpálya hatótávolságát 5 méterrel"
 	0BC0F2504362D8A53D3274B859C4850F = "Ipari védőszemüveg"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Élettelen Uránium"
 	FAA3A91F4CCEB919666717A65087A572 = "Blob fertőzés"
@@ -1702,6 +1697,7 @@ INDÍTÁSA"
 	733E9A174D7B7A7511A3F99D14E4093D = "Próbáljuk meg oldalba támadni a rusnya rohadékot!"
 	50DE9EF3457906E42504C3861DA702A2 = "Endedélyfrissítés: "Viharfej" Nehéz Autoágyú"
 	89BD74AC45CAAAC4462552B936D5920F = "Engedélyfrissítés: Krióágyú"
+	0FAABE984BD927CA3C39CF95A51E6125 = "License Upgrade: M1000 Classic"
 	6FE7C7724CE7FBDED1A2C7BB1E8B4A0E = "A kiemelő rakéta készen áll a felszállásra!"
 	B9FC2BAE48678A278C0419BFD8412144 = "Kiemelőrakéta csatlakoztatva!"
 	B209F21C4BF6BC3653AC55B3AFE45A8A = "Kiemelőrakéta kész!"
@@ -1842,7 +1838,6 @@ INDÍTÁSA"
 	4F3B80154E7AE0D29C23CABCD30DB300 = "Kukac!"
 	4F444D2642879909F978F894EEB3E8D1 = "Magma"
 	194016424EB41ED339DB3095A9FF9E16 = "Magma mag"
-	D70583A9464818D718760293242B00DC = "Magnézium mag"
 	88B14DF044FEC12E9B9070928F477A09 = "Mágneses Hűtés"
 	49C7FAD249FE20FAC73765B876BBE29F = "Magnite"
 	A37C1AE94F895FFB3C5698B9AE07AD71 = "Magnite"
@@ -1868,8 +1863,6 @@ INDÍTÁSA"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "Meccskeresés Sikertelen, próbáld újra."
 	3687A13B4D40D996CA1B6AACC84DE076 = "Meccskeresés..."
 	DF399CD3486B65EDAE4558AFEF735D28 = "Max FPS"
-	AA14CEC64F683044A398FDBB91F67F6B = "Maximális Szög"
-	5518A67C45ABF7776B55918D7759BA30 = "Maximális távolság"
 	145345C7423F4E9A20637C964292DBAE = "Talán végül mégsem halunk meg!"
 	F40A144645E1266C5FEEC7A29F68EBBC = "Én"
 	855ACA5B4AF56C3FE6754297D1E6F3B1 = "Közepes"
@@ -1889,7 +1882,6 @@ INDÍTÁSA"
 	577E80A74DFA82EC8D80609BC2453AC6 = "Hatalmas rozmár"
 	CCD4A85F4231C56E402568A26C45AB10 = "Akopyan Mikhail"
 	1C51F6C1458C6B56EEE97BB4DBD4AD61 = "Mikkel Martin Pedersen"
-	67B7516B42F5585F57A881936E78D7B2 = "Minimális Szög"
 	E6CB82524A37D80CF610EF8CFDC88867 = "Bányászat"
 	C974D1114477BC6FA7221985BA3B2309 = "Bányássz Dystrum-ot"
 	32CE81B14918228D7CFF75A15562A74F = "Fúrófej"
@@ -2321,6 +2313,7 @@ Management"
 	572BCE714FB67F769DC2C890B03B46CA = "Szakértő Bányász"
 	588F5F5E40686F291BF8B9968E3C8213 = "Szakértő Bányász"
 	5A6F09434238DC8297E2BE980C20D7A8 = "Lövedék sebessége"
+	A83874AC4B78EA0D8FF696AC6DE34665 = "Promote the {class} once to unlock an extra perk slot"
 	3E4029C341275FD1723B09B92DC1E4A7 = "Az előléptetés a karaktert ELSŐ SZINTRE ÁLLÍTJA VISSZA.
 Kapni fogsz egy BECSÜLET KITŰZŐT és megtarthatod MINDEN eddig elért fegyvered, képességed, kredited, alapanygod és kinézet tárgyakat."
 	3CBC5FB342A4D67CD79C37A662100986 = "Előléptetés előnyei"
@@ -2421,7 +2414,6 @@ CSATLAKOZÁS"
 	492E7C56428382FB5AB22DBCFC14BE9D = "Refreshing"
 	2912370E498E51A44CC5B2847A605136 = "Régió"
 	670883724DC8BDBEC2F722827F2657F8 = "Régió"
-	4FF9E7054AAD9F167995EBB523066300 = "Megerősített kábel"
 	37C1CBDA40400EADD085728131C24FF1 = "Megerősített Ütődéselnyelő Ruházat"
 	AC3283684F5686709949AC97DB07A184 = "Megerősített Erő-Fúrók"
 	CDCEC88042CF9A3B9409D184848D81A0 = "Újratöltés"
@@ -3517,7 +3509,7 @@ BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a smal
 
 NEW WEAPONS: SCOUT
 ----------------------------
-M1000 BOLT-ACTION CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
+M1000 CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
 
 ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
 
@@ -3565,7 +3557,7 @@ The Retirement system has received a fairly significant overhaul. The changes ar
 
 GUNNER: SHIELD GENERATOR 
 ----------------------------
-The Gunner has swapped his DET PACK for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
+The Gunner has swapped his DET PACK (C4) for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
 
 
 EGGHUNT TWEAK
