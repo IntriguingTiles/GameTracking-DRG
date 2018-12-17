@@ -1,7 +1,7 @@
 22 namespaces
-4041 values
+4042 values
 
-Namespace Global (5106 keys)
+Namespace Global (5109 keys)
 	2559D78C40005E5221F26093CB976283 = " 收集 {Collected}／{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " 我倒下了！"
 	31D60A1449082F9AB6DC15844F3810F6 = " 要求"
@@ -47,6 +47,7 @@ Namespace Global (5106 keys)
 	E7421F294010B3B1D014D9AE9E4EF55B = "“小队伍能成大事业！”"
 	5E622BC54D68C4D38DAA71B3471B58BB = "%转换为火焰"
 	B94485674FAA715806DF9A99E2F7BFE1 = "已完成“洞穴水蛭群”警告"
+	ADB2DBC740B7437648BAB1982D55F2D8 = "已完成“自爆群袭”警告"
 	B7FBC38941D027EB0DC7E9925F5EF075 = "已完成“刁蝇瘟疫”警告"
 	03C22F084530B9BF96F680BF41F12B99 = "已完成“无前照灯”警告"
 	C07B5EF140411B14B2A8449718887F38 = "已完成“护盾瓦解”警告"
@@ -68,7 +69,6 @@ Namespace Global (5106 keys)
 	1D007D0B45A8323CE9559EA9491E7B12 = "+ “百万”伏特冲锋枪可供购买"
 	0F8E626A43933CB08AE9C18CFE0E99BD = "+ “雷暴云砧”重型双管机炮可供购买"
 	99914C684BA996CF46904B80B866DFD5 = "+1 奖励的特长栏位"
-	EF0DF8784599B5857CCDD39F43929517 = "+ 矿物交易终端权限"
 	9E48C15043BBDBD7AD465B9A8621B44A = "+ 解锁所有行星区域
 + 解锁所有任务类型"
 	B337CBCE43300150577A55BB67D4243D = "+ BRT7连发手枪可供购买"
@@ -82,6 +82,7 @@ Namespace Global (5106 keys)
 	60E15BAC41DCC919F2E12EB2EFF2AC7D = "+ 通过给角色重新练级来提升玩家等级"
 	967E05354936FC6CFE023AA670D5EAAC = "+ M1000经典可供购买"
 	D028C3274772ABACFCB8F39BF1D2362E = "+ 侦察兵晋升"
+	EF0DF8784599B5857CCDD39F43929517 = "+ Trade Terminal Accessible"
 	CA55556B4C389FB1E04612A3184E43AB = "+ 朱可夫NUK17可供购买"
 	71184CCD41D302C96EF8F78337EB6D16 = "+1"
 	A0E9B8BD4326D32C88CA96AC8DF2C2D2 = "+1"
@@ -229,8 +230,8 @@ Namespace Global (5106 keys)
 	4E7C508047ADD04843661BA95F6CFA40 = "来一轮刁蝇泡酒，谢谢！  "
 	576597B04EA7D46FF9D82494EEFD7A08 = "给我和这儿我的朋友来一轮醉鬼酒！"
 	F03E93AD4CD752D828C09F9814300F00 = "次要目标达成。奖励将在任务结束后打入你的帐户。"
-	64CC2099401910E2E661158953750474 = "A secondary weapon that can shoot explosive rockets.
-Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNER for manual activation."
+	64CC2099401910E2E661158953750474 = "可以发射爆炸性火箭弹的服务器。
+博斯科的人工智能还不足以处理这种武器，需要使用地形扫描仪来手动激活。"
 	316133814299B83CF3DDD582EEF3710A = "显著的流明提升，可以让一些最黑暗的洞穴产生质的变化。"
 	816E62B24EDA725C5BD2A9A416F9BFDB = "小巧、灵活的矮人使用的小巧、灵活的半自动手枪。比看起来更致命。"
 	4843649A458F8DFF5439E8A933A1429C = "照明弹添加了一个坚实的镁芯，可延长燃烧时间"
@@ -293,7 +294,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	FCC1FFB942717667602277AE770C434A = "激活终端"
 	3FE923C74735ACF961DD6BAEF5800D96 = "增加黄金"
 	435C08644ECE9E795BA0DD8D03AFCDBA = "添加硝石"
-	F59C1B7440F770ED71F994AD14E17A76 = "Adds cryogenic liquid to the explosion of the rocket. Cold slows down enemies and can eventually freeze them. The explosion deals almost no damage, but the area of effect increases.
+	F59C1B7440F770ED71F994AD14E17A76 = "向火箭弹爆炸中加入冰冻液体。低温能让敌人减速，并最终能冻住它们。爆炸几乎没有伤害，但效果范围会提升。
 "
 	EB4AEA0F4D36312985C7709CFE1CEA3D = "先进的冷却系统意味着更少的过热发生！真汉子不需要“短暂且受控的射击”，可惜你再也不能在枪管上烤午餐肉了。"
 	2F15FDAB410411F3DD4F8DB0F8EF1F50 = "怕黑？不用怕，有我呢。"
@@ -525,7 +526,6 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	FBF850D6471688907F907CAEE392CB17 = "酒保！来一轮红岩爆破手！"
 	580F2D4649B9855667A206960BF39B49 = "提升基础准确度，第一发高度精准"
 	B05A2A454906E2D4360BF8A79E9277EC = "提升基础准确度"
-	68C5E6794C164D06D156D4949EB0BF4B = "普通照明弹"
 	685964224EC0FB9FEB9EE286CF2A4D8E = "普通十字镐"
 	B5868CE640E758D1F2FA0DBA30971853 = "本身算是半个大胡子"
 	2223EE0D4985A95F10018887FEF4F431 = "我挂了！"
@@ -647,7 +647,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	A0E3B94940BCD0DA7277C3A354EE0563 = "球状大胡子"
 	D248460145F3994592B4F686F0331601 = "球状大胡子"
 	8E98230648BA7B1C6C87459FC1D491B6 = "子弹爆炸造成范围伤害"
-	AF0B555042EF433ED230889E1FEA2204 = "Bullets coming out of the primary weapon have a chance to electrocute."
+	AF0B555042EF433ED230889E1FEA2204 = "主武器发射的子弹有几率使敌人触电。"
 	143C634F49B6F6F21909A5BBA47BDC93 = "机枪过热时燃烧你一定半径内所有单位"
 	69C22B4C4F84F95A1DD5E3AA29F22E42 = "燃烧时间"
 	75B06D68482BF52E8F07348C5BC465B0 = "燃烧时间"
@@ -895,6 +895,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	90DA1BB8439888EC43D5F3AE1F7BD4AA = "紧实的泥土"
 	CAA4B0924362837962737D9BE73322E8 = "紧实的泥土"
 	E0F791B54B36121FA71673A0AD6CD11F = "紧实的泥土"
+	1B90A5C1470717449A119FB58DD748CA = "Company Benefits: Mineral Trading Network"
 	C663F89C4B24952F22CC4EA7FB6FA4DE = "公司的规章，滚蛋去吧！"
 	84B92DFB4FAF94769A5856AC74634B31 = "罗盘"
 	20C8A02940185CDFF614238B717122EA = "完成任务"
@@ -1472,6 +1473,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	87A3D0D446CE12B17681B5BE8CA7B0E3 = "特大号腰带"
 	24F06E494A8F50F6E35BB6B9E5D35CD3 = "额外生命"
 	5073E9CA427557824A8589B250A6DAD9 = "额外复活"
+	8D0872D04D0444AA27B732B6A16B583E = "额外复活"
 	BEBD5440451ACC2731CC1FBDEFD3AF0B = "额外火箭弹"
 	291965AC4A3E4F21FB9B91841B98F417 = "额外的滑索缆绳"
 	77D6AB4F4929A856637FFDA7BE807942 = "额外存矿"
@@ -2017,7 +2019,6 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	4AB5EC6542553D2C2391FDB784A799C6 = "高速能量"
 	7579577D41C089729BA3DA9B8AD9ED9D = "高速榴弹"
 	D735D2EB46F65852B9EAC8B886A23A3D = "高速子弹"
-	FE4F28CC495B46DEE70654A9E7B24336 = "强光照明弹"
 	D359D42F4FC6479486BB099F63919603 = "更高含水量"
 	F651A3FA477957437CD9A5A5E82F4450 = "更高含水量"
 	C74986F8400A37F568E000B7A16E4200 = "火箭弹爆炸有更高几率粉碎护甲。"
@@ -2296,7 +2297,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	613350A04AE7CC4C3AE7E7895E8F2957 = "提升准确度"
 	2777BA8B4255111701CDCF84E5ED629F = "提升护甲破坏"
 	2AEFBFAE432FE341F5B463845BDE3213 = "提升护甲破坏"
-	8694899D45AB5C509D7CF8A25CEFBD93 = "Improves Bosco's capabilities to mine minerals, dirt, or any kind of terrain"
+	8694899D45AB5C509D7CF8A25CEFBD93 = "提升博斯科挖掘矿物、泥土，或任何地形的速度"
 	94A869774A3929E30BC3189F3601E135 = "提升等离子线的护甲破坏能力"
 	CC6FF564484E9BD89B405B9CE08DA411 = "向机车头致敬。"
 	1CB6031C4932BA70E759A1A5E63916A8 = "为了表彰你的辛勤工作，你已获得晋升的资格。很少有矮人能够到达这一步。
@@ -2865,8 +2866,6 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	855ACA5B4AF56C3FE6754297D1E6F3B1 = "中"
 	DD5AB6B44494246A3F653DAF5BE1683B = "中"
 	2F60E2EB4E61C6C9A001BFAE3249368E = "中"
-	A9CE82284447B7C638FE839956AF84B6 = "中等强度照明弹"
-	D3C1F7CF4D9974718C201E816E4C4D82 = "中等强度照明弹"
 	B761872244EF2533B38621AC95034AE4 = "去找阎王报道吧，死爬虫！"
 	0E323DC64B1F437E3BFFAB8C9C876DD2 = "超大弹鼓"
 	66C20F754E1E5F5DD7BABCA937F15B3C = "欢乐曲眉"
@@ -2916,7 +2915,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	7291A611480E881E95370D857E5DEFBA = "采矿"
 	7CCBAD3442225360D935F3A4271837AF = "采矿探险"
 	FBE9BF614BF41D00F681DD93CFA4E25A = "已完成采矿探险"
-	523D22CF468D4BC7909424843D857E55 = "Mining Expert"
+	523D22CF468D4BC7909424843D857E55 = "采矿专家"
 	3EE542D845985E85A45D67B40EE793D8 = "挖掘速度"
 	5B46DB0F4B63F2A351A20D838A0D2368 = "采矿是件苦活，好消息是我们是矮人！"
 	3B5858E5416342C78758CFAEB9500692 = "导弹攻击"
@@ -3027,7 +3026,6 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	35BD4D194B4272C41487D1846A99EBB4 = "网络出错"
 	747D9D66462A834F081A129492AD4C34 = "刷新任务还需"
 	47713A8F484B1902AFE2D79C9BEDE9ED = "新的行星区域"
-	1B90A5C1470717449A119FB58DD748CA = "NEW TERMINAL: MINERAL TRADE"
 	C847D18F4BB605CE3D7162B04B2A3A0F = "新的 {mission} 任务复杂度"
 	44503DBB45E06EA0CCD286877C839C74 = "新的 {mission} 任务长度"
 	112CCE0943C0979CBE8B5DA03569E252 = "没有代币"
@@ -3089,6 +3087,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	B63AAE8C418C838D27FDD1964481155E = "硝石"
 	F9F56AD94B91A48ED2432689D63ED50E = "硝石＝弹药"
 	E5A36FA24D99B344104D83A4EAE92B4C = "硝石！"
+	5CCA8D0948F25989D6B9339428BD1363 = "否"
 	AE2F43D8452C5727F951A493A1B2DFE6 = "否"
 	D2FF5BC44340637E40958D806B85302B = "没有弹药"
 	738CD17E4E82744999AB1D8FCD127592 = "无胡子！"
@@ -3247,6 +3246,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	CE6FC0DC4807D1957DDACF82F69E5699 = "一杯叶子情人！……还有我能往里面兑些水吗？"
 	E51ADE8A4FDB509121F63B8F9A6A7FE2 = "解决一只！"
 	39DB91394D8AA4798DEBE3ACB62928A1 = "一个额外的复活套件来让倒地的矮人重新站起来。"
+	8F119F85466448EE6CF76493B3289680 = "一个额外的复活套件来让倒地的矮人重新站起来。"
 	5766E28648217C189877DBA135932EF4 = "最后再庆祝一次，我就把我的十字镐永远挂在墙上了！或者，好吧，直到我找到我自己的漂亮的大山洞……"
 	FE339F6341F03A13F040A4985F147F64 = "最后一个任务，然后我就要建自己的酒厂了……！"
 	96570AC5432878FA629835B2B9A38B56 = "再完成一个任务，战役任务线就结束了。保持下去。"
@@ -3648,7 +3648,6 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	F67CB83749A5BCFB71C2608DDF217F87 = "红帽"
 	FAD8EE1149D8F368BC7357846AE5FD3A = "红帽"
 	ECEC9CD3416C7905F945818884703B8A = "红色水晶"
-	6AA2EA8C429F9A1688CF62B1F8D81749 = "红色照明弹"
 	57FBDCFE423D118F7F7AFD9D4FB3791E = "红岩爆破手"
 	5C9058E840FE23D81FF24D92B40D1823 = "给每人都来杯红岩爆破手，赶快！"
 	172B72344D58F9ADC56B1D9528BDD5C8 = "红糖"
@@ -4094,6 +4093,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	4C8FCE0C4BD43ADDBB06A389F6D1D578 = "枪管起转时间"
 	570233834C9A3EA9FB7DE99C36B2EE39 = "枪管起转时间-0.3秒"
 	F11A713D400638403770249F8CC0CB00 = "瘟疫吐珠"
+	3E07E800427D520062C34DB7ECECF960 = "瘟疫吐珠喷射物"
 	9EA7C24843F105920BC2AAB6284DBCF3 = "瘟疫吐珠喷射物"
 	F232A240408E4D918179AB84B060017D = "瘟疫吐珠物"
 	0D17281B492113F2A2AC27A9804236A8 = "已击杀瘟疫吐珠"
@@ -4176,7 +4176,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	2654BE5B44AA861C6E69C78C3B7A89BB = "更强的爆炸造成更多伤害"
 	774B8BAF416E053F8A1F2CA1DF938738 = "更强的爆炸造成更多伤害"
 	950A42504F9FA4B21E07E682B097AD10 = "更强的爆炸造成更多伤害"
-	EC1FA43A4049047CC7AF0B928D3AD839 = "Stun"
+	EC1FA43A4049047CC7AF0B928D3AD839 = "击晕"
 	D0DAB98D493841D9850A08900383C8AE = "蠢虫子！放我下来！"
 	CBE206D2480E91C55707AD994A61C0B3 = "时髦又实用！"
 	D5AD36B446716E5D1B853C9E40088B91 = "时髦又实用！"
@@ -4260,6 +4260,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	775E11B84DD212A2CBC69287FFA33096 = "总量"
 	00CE953A4F1F61501826299288BB7B83 = "总花费："
 	7B02BB8F42863DC60748039091E0540A = "总价值："
+	CB11B8474705E97BAAA1AB8A63E2E402 = "TRAD101:"
 	B6DEF6A14352DAE8B7E6409DE15338B2 = "战术遮阳帽"
 	DDB1A5D7496B97C4740BF28975FB0A2C = "战术遮阳帽"
 	ED75CE1E40047A1B14DA27B4B2C53A0D = "战术遮阳帽"
@@ -4414,7 +4415,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	F146075D42CB441C7343E095E5C443D2 = "这一波就快完了。干掉剩下的，然后继续前进。"
 	CC981CE74634F69835F3E9A258946EB3 = "前面被堵住了！"
 	AD4E04554D68A11BA1EF46AC6B44BBCA = "{class} 现获准参加晋升资格认证任务"
-	A4A0574A445CF6855F2ADFAAD49B85D7 = "There are new items in the Accessory Shop"
+	A4A0574A445CF6855F2ADFAAD49B85D7 = "配件商店现在有了新物品"
 	2C6B59D24FFA5775320B82851C3DB2D3 = "这里有猫眼石！"
 	6DD12AD747A1A5B6A469928E1F356BC9 = "只能留一个"
 	C6D1C99946F11ABD538D6DB366219B13 = "这里有个刁虫母巢！"
@@ -4564,6 +4565,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	80CB8C464B790B42DD5A71A977557B43 = "摄入饮品总量"
 	2FB75F1C4956DD369CEF22B5F31878BA = "游客"
 	B2A25D10450C13A270C675B3B80591B1 = "游客"
+	1E12BE51496E0E6B644E809FA40113EF = "交易终端课程"
 	2BE8B2814B47077681751F9580C3A7D2 = "陷阱准备完毕！"
 	AB673AC14B68A00B8ECDF09DCF8280C8 = "陷阱准备完毕！"
 	3A34A1724AF6DFB95883CEA5D76E9F54 = "陷阱已布好！"
@@ -5007,6 +5009,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	EDD97CCF414530F5A2404DAD65C769AB = "你们都太漂亮了！"
 	13C0E24F45948387FDED388F638C68E6 = "是"
 	D1B4614641653BE9CC74D5B2EADA9CC4 = "是"
+	F662B1744A95B1999041DD808B3C409E = "是"
 	53AB6A9F43709818DF2C81A0546CA8D3 = "全部同意"
 	1E18D3F6435DE887134B6D82916984FD = "就是这样！"
 	5A1477E54026D958BF1DCD8F034F26C5 = "就是这样！"
@@ -5267,7 +5270,8 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "目标完成，可以通过矿骡呼叫空降舱！"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "目标完成，可以通过矿骡呼叫空降舱"
 
-Namespace PatchNotes (36 keys)
+Namespace PatchNotes (39 keys)
+	Update_20_ShortTitle = "更大，更好，博斯科"
 	Update_11_ShortTitle = "死亡与机枪"
 	Update_9_ShortTitle = "回头就开钻机！"
 	Update_14_ShortTitle = "全新异形"
@@ -5311,6 +5315,98 @@ Namespace PatchNotes (36 keys)
 - 修复了任务奖励窗口不显示鼠标的问题。
 "
 	Update_18.5_ShortTitle = "万圣节"
+	Update_20 = "节日快乐各位矿工们！
+
+酷斯星也迎来了圣诞节，我们也刚好为你们带来了圣诞礼物！而且我们能很高兴地说它分量十足！里面包括博斯科的硬核模组、医疗站、重做的武器模型和一大堆其它炫酷特征！
+
+献上所有美好祝愿，
+Ghost Ship开发团队！
+
+
+--- 更新说明 ---
+
+博斯科模组
+----------------------------
+你想要博斯科变成一台医疗无人机还是让它大杀四方？现在选择权都在你手上！
+
+和武器模组类似，博斯科现在也能购买并安装各种模组。这些模组会让你自定义无人机现有的一些参数，例如复活数或武器伤害，但我们同样也考虑加入一个特殊的副武器模式。一旦这个模组被激活，玩家可以用地形扫描仪瞄准并按[鼠标右键]（或左扳机键）然后博斯科就会向目标发射火箭弹。
+
+
+医疗站1.0
+----------------------------
+你和你的队友任务失败后，就会从医疗站醒来。一起战斗，同生共死！
+
+
+重做的武器模型
+----------------------------
+所有旧的武器模型都被重做，已和新武器搭配。帅才是第一位的！
+
+
+太空圣诞节
+----------------------------
+我们忍不住给太空钻台增添节日装饰的冲动。你还能购买限时头饰，向你的同伴装扮圣诞老人。请不要破坏装饰品！
+
+
+矿物交易终端战役任务
+----------------------------
+根据管理层指示，新员工不再拥有访问矿物交易终端的权限。你需要通过完成战役任务来证明自己！除了能获得访问权限外，玩家在完成战役任务后也会得到50铜矿和40玉石的奖励。
+
+
+存档恢复选项
+----------------------------
+你现在可以从选项菜单恢复你的存档。这只是概率极低的掉档事件发生后一个额外的补救措施。尽管管理层拒绝承认这种事件发生过！
+
+
+武器平衡：“疣猪”自动 210
+----------------------------
+- 基础伤害提升。
+- “超载送弹机制”射速降低，“大号弹丸”伤害提升
+- 基础重新装弹时间从2.3秒减少到2.0秒
+
+
+武器平衡：CRSPR 火焰喷射器
+----------------------------
+- 调整“火墙”升级以与直接向敌人喷射火焰更好地平衡。
+
+
+其它武器修复
+----------------------------
+- 用火墙点燃敌人并烧死现在应该正确地计入击杀数了
+- 修复短管霰弹枪不装备对应升级也会自动重新装弹的问题
+- 修复双持微冲在终端中的动画问题
+- 增添新的武器音效
+- 增添任务控制中心在所有武器和晋升战役任务完成后的语音
+- 更新武器图标：战斗霰弹枪、手枪、左轮手枪
+- 修复M1000满弹重新装填后不会重置缩放的问题
+- 修复双持微冲在复活后动画可能卡住的问题
+- 修复连发手枪在连发中切换武器会一直开火的问题
+- “硬直”被替换为“击晕”以避免困惑。
+
+
+修复和改进
+----------------------------
+- 任务选择终端移除屏幕闪烁效果
+- 修复配件 是/否 弹出窗口对控制器快捷键没反应的问题
+- 修复更改角色时太空钻台界面的问题
+- 改进后续加入的流程——你可以在关卡加载前选择角色，增添了返回按钮。
+- 修复在冰面行走相关的崩溃问题。
+- 修复加入过程中崩溃的问题
+- 修复后续加入崩溃问题
+- 修复与冰冻相关的崩溃问题
+- 修复加入游戏时崩溃的问题
+- 修复岩浆蛆虫不造成伤害的问题
+- 修复熔岩喷泉在爆炸时造成0伤害的问题
+- 无畏刁虫可以带来更多敌人
+- 修复客户端救人的延迟抖动问题
+- 对刚好在敌人上出生问题的反馈改进
+- 改进自爆刁虫要自爆时你将它爆头或冻住的爆炸逻辑。
+- 修复在定点提取任务中一些敌人爬上采矿平台会着火的问题
+- 修复气流和岩浆喷泉被摧毁后冒泡泡的音效仍然持续的问题
+- 向第三人称角色加入踢东西的动画。踢油桶从没有如此真实！
+
+
+
+"
 	Update_9 = "各位矿工你们好！
 
 距离《深岩银河》公开发售已经1星期了。我们办完了发售庆祝会（耶！），目前在努力制作新一轮更新。在游戏中我们设置了一个漂亮的反馈按钮，在此向上千名用过它的玩家表示我们由衷的感谢。你们的反馈给了我们莫大的帮助。在下面你们可以看到这次更新的内容。
@@ -6295,6 +6391,7 @@ Discord集成
 "
 	Update_18_Header = "更新18：雇佣机会 - 2018年10月11日"
 	Update_19_Header = "更新19：枪！很多的枪!"
+	Update_20_Header = "更新20：更大，更好，博斯科"
 	Update_9_Header = "更新9：回头就开钻机！ - 2018年3月9日"
 	Update_16_ShortTitle = "凛冬已至"
 
@@ -6336,7 +6433,7 @@ Namespace ST_GearUpgrades (33 keys)
 	T_ReloadSpeed = "快速发射器"
 	T_Recoil = "后坐缓冲器"
 	D_BlowThrough = "异形弹头设计用于以最小的能量损失穿透目标。换句话说：一发直接射穿几个敌人！"
-	T_StaggerChance = "硬直"
+	T_StaggerChance = "击晕"
 	T_RoFA = "超载送弹机制"
 	D_SpreadPerShot = "完美，精致的优化。我们召集了几个朋友并设法让这把枪的稳定性显著提高了。"
 	D_DamageA = "研发部的优秀人才忙了很久。你武器的整体伤害提高了。"
@@ -6417,7 +6514,7 @@ Namespace UI (59 keys)
 	BurstGun_Name = "BRT7连发手枪"
 	Back = "返回"
 	LineCutter_Name = "等离子碎切者"
-	ChargeBlaster_Desc = "子弹是上辈子的东西了。相反，为什么不用一把高度实验性反物质动力枪射出超载等离子弹从内到外地把你的敌人烤熟呢？可能发生的最坏情况是什么？（如果你发现了，请报告给研发部）"
+	ChargeBlaster_Desc = "Bullets are so last year. Why not incinerate your enemies from the inside out instead with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D)"
 	CaveComplexity = "洞穴复杂程度"
 	Close = "关闭"
 	Complexity = "复杂度"

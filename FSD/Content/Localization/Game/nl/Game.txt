@@ -1,5 +1,5 @@
 22 namespaces
-2124 values
+2125 values
 
 Namespace Global (2529 keys)
 	2559D78C40005E5221F26093CB976283 = " Verzamel {Collected} {Required} {Title}"
@@ -38,6 +38,7 @@ Namespace Global (2529 keys)
 	66A0823447C3CB00940092A9CB213262 = "+ Gunner Promotion"
 	967E05354936FC6CFE023AA670D5EAAC = "+ M1000 Classic available for purchase"
 	D028C3274772ABACFCB8F39BF1D2362E = "+ Scout Promotion"
+	EF0DF8784599B5857CCDD39F43929517 = "+ Trade Terminal Accessible"
 	757542D044AE5468809922ADDD77C794 = "+ 20%"
 	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
 	78DFA13846CB82653B1E9FB81E88F2F2 = "- BAAI LEEG -"
@@ -232,7 +233,6 @@ Je bent ook uitgerust met een extreem handige ZIPLINE LANCEERDER, jij en je team
 	94B3E16D4288D90D2A6A8E989B8ECEBF = "Schud je hoofd naar dit!"
 	3BCF4C82412D8245811BB1A732DF0BB7 = "Vaten zijn om alleen gelaten te worden, en niet mee worden geslingerd, geschopt, gooide, of op enigerlei andere manieren verplaatst te worden.  "
 	580F2D4649B9855667A206960BF39B49 = "Base accuracy improvement with pin-point accuracy on first shot"
-	68C5E6794C164D06D156D4949EB0BF4B = "Standaardflare"
 	685964224EC0FB9FEB9EE286CF2A4D8E = "Basis houweel"
 	2223EE0D4985A95F10018887FEF4F431 = "Die Klootzakken hebben mij geraakt!"
 	2EBD5AB5461DBCF508E0CE877D006A37 = "Of het nou een obstakel is of een koppige tegenstander, een ouderwetse springlading maakt het werk meestal af. Hou flink afstand voordat je de knop indrukt."
@@ -421,6 +421,7 @@ Selection"
 	38E4A63D4718F7FA626DB182D8AD964C = "Gemeenschap vertaald (76% klaar)"
 	6FBAE6DB4AAE26829458E58ADC59FF03 = "Samengeperst vuil"
 	90DA1BB8439888EC43D5F3AE1F7BD4AA = "Samengeperste aarde"
+	1B90A5C1470717449A119FB58DD748CA = "Company Benefits: Mineral Trading Network"
 	84B92DFB4FAF94769A5856AC74634B31 = "Compass"
 	2D2069BC443941E42DDA6EAB928CEF75 = "Complete SOLO mission to unlock Character Promotion"
 	30E886374D703DA855B11AAB54C3B7D8 = "Voltooi de Tutorial Missie"
@@ -1497,7 +1498,6 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	B523470642979373133EC488CA6A0CFA = "NAT STATUS"
 	35BD4D194B4272C41487D1846A99EBB4 = "NETWORK ERROR"
 	747D9D66462A834F081A129492AD4C34 = "Nieuwe missies in"
-	1B90A5C1470717449A119FB58DD748CA = "NEW TERMINAL: MINERAL TRADE"
 	07217D61454E51EA1CC7D388523A52ED = "GEEN MISSIE"
 	478D8E8B45CE2F0A3B9CE594CCE0971A = "GEEN UITBETALING"
 	6FD173E4411FB830D60DAF9D290ED966 = "NO REFUNDS!   NO REFILLS!   NO REGRETS! "
@@ -1821,7 +1821,6 @@ TOETREDING"
 	0A63371A46238FDEF454169B799A09E5 = "Rode Mantel"
 	5E4061FD4D0C516C8977F69D8A314F34 = "Rode Pet"
 	ECEC9CD3416C7905F945818884703B8A = "Red Crystal"
-	6AA2EA8C429F9A1688CF62B1F8D81749 = "Rode Flare"
 	172B72344D58F9ADC56B1D9528BDD5C8 = "Rode suiker"
 	1AF392094DAB5A8BBB75DBAE44532E96 = "Rood als de blood van je vijanden!!"
 	25198A0C4FB3F82B189C77BEF8B0DCE3 = "Rood zout!"
@@ -2138,6 +2137,7 @@ de bemanningsleden van het spookschip"
 	A508A0234EF76C0366B3B1AAE040C430 = "TOP HANGAR"
 	00CE953A4F1F61501826299288BB7B83 = "VOLLEDIGE PRIJS:"
 	7B02BB8F42863DC60748039091E0540A = "TOTALE WAARDE:"
+	CB11B8474705E97BAAA1AB8A63E2E402 = "TRAD101:"
 	B6DEF6A14352DAE8B7E6409DE15338B2 = "Tactisch viseer"
 	21DAE7D7486709617DC21592C24B4BD8 = "Versla de Brood Nexus!"
 	11BBF9744B95BBE028D58DB779AEF6B0 = "Neem voorzorgsmaatregelen!"
@@ -3437,10 +3437,11 @@ Namespace StatValues (7 keys)
 Namespace Techincal (1 keys)
 	ClosedAlpha = "Besloten Alpha"
 
-Namespace UI (23 keys)
+Namespace UI (24 keys)
 	Armor = "Bepantsering"
 	AssaultRifle = "Aanvalsgeweer"
 	Back = "Terug"
+	ChargeBlaster_Desc = "Bullets are so last year. Why not incinerate your enemies from the inside out instead with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D)"
 	CaveComplexity = "Grot ingewikkeldheid"
 	Close = "Sluiten"
 	HazardLevel = "Risico level"
