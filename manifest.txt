@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 3974627107748232537 / 12/21/2018 09:55:24
+Manifest ID / date     : 659571262832752442 / 01/03/2019 09:36:27
 Total number of files  : 3069
-Total number of chunks : 4812
-Total bytes on disk    : 1862423497
-Total bytes compressed : 1149000080
+Total number of chunks : 4811
+Total bytes on disk    : 1857797747
+Total bytes compressed : 1144807456
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -3106,7 +3106,7 @@ Total bytes compressed : 1149000080
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Config
-           383      1 528989DBD340F7A12076E6971DFE0EE262136F07     0 Engine/Programs/CrashReportClient/Config/DefaultEngine.ini
+           383      1 4670B19FF83B2B140F9DC0959FDD11BBD1AAB1C0     0 Engine/Programs/CrashReportClient/Config/DefaultEngine.ini
              0      0 0000000000000000000000000000000000000000    64 Engine/Shaders
              0      0 0000000000000000000000000000000000000000    64 Engine/Shaders/StandaloneRenderer
              0      0 0000000000000000000000000000000000000000    64 Engine/Shaders/StandaloneRenderer/D3D
@@ -3122,8 +3122,8 @@ Total bytes compressed : 1149000080
         513024      1 7C8E267E4CF22C2F2BEC1FBBF6D1534BA940C7A1     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      54581248     53 1DF1DF21F094C9739B3A934CF380E9E15F088858     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
-     394711040    378 EE60DE364FC377BF93006E66A52268CA7EB743FD     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
+      54581248     53 5EBBB8412F5189797B40D2685B96F69A43E7ED35     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+     394719232    380 DBCCE687EA889759AF3F26971C25CA456CA0C04F     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
        4327248      5 031766199999581C94CE46188777D3FBDA9E31D7     0 FSD/Binaries/Win64/dbgeng.dll
        1369936      2 EC3A7FD5861447D615968C51E507CD376A48BD6B     0 FSD/Binaries/Win64/dbghelp.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
@@ -3136,7 +3136,7 @@ Total bytes compressed : 1149000080
        4873431      5 22A36E73E654D66B5D15792C3BCBD2493616BAE0     0 FSD/Content/Movies/DRG_LogoIntro 720p30.mp4
        6213158      6 C717D643FB5771128CC000BB83DC07998C8CEC36     0 FSD/Content/Movies/Ghost Ship Logo Animation and Coffe stain 1080.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-     793562649    783 156A85E4D578BE60096E1AD8594064180868D93E     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+     788928707    780 4BB9DB7E0AB4872D07649D6ED83CC7893AA0DD7A     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins
@@ -3151,5 +3151,5 @@ Total bytes compressed : 1149000080
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64
         400392      1 0B9715D71EF16CA7EA9DDA0BAC6A3944CFA01955     0 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64/discord-rpc.dll
-          1070      1 8FA9F33088060AF6EBE106AB4544B5AAF5550210     0 Manifest_DebugFiles_Win64.txt
-        256736      1 EEC9D5CB53E415C596B466F09D5CE76F1C0A6AEA     0 Manifest_NonUFSFiles_Win64.txt
+          1070      1 9F8DB0CAF9BBFFE22822C5B218A913AC151583BD     0 Manifest_DebugFiles_Win64.txt
+        256736      1 22D6A4309F535105919C8489DBCCEDF28C4B33E1     0 Manifest_NonUFSFiles_Win64.txt
