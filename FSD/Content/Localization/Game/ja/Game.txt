@@ -1,15 +1,14 @@
-22 namespaces
-4252 values
+23 namespaces
+4308 values
 
-Namespace Global (5059 keys)
+Namespace Global (5098 keys)
 	2559D78C40005E5221F26093CB976283 = " 収集 {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " 落ちた！"
 	31D60A1449082F9AB6DC15844F3810F6 = " 要求"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = "サウンドデザイナー/音楽プロデューサー"
 	7A08710B44444ECFC61B76B9C1569163 = ""巨人の肩に乗っている間、ドワーフは更に遠くまで見える！""
 	83952EF040308BB9B237FDA3FA104D7D = ""巨人の肩に乗っている間、ドワーフは更に遠くまで見える！""
-	BED491E44D13CCC24A1BC9973DBCFB71 = ""集約データ"とは収集された全ての指標とデータが特定の機能または目的で収集された全データと共に、集約されている事を意味します。 \n
-従ってこのデータには、データを提供したユーザーを追跡する方法は含まれていません。\n\nこれらの集約情報は幅広い視点でプレイヤーはどのようにゲームを楽しんでいるかを認識でき、そして私達がより楽しいゲームを作製するのに使用されます。\n\nこの方法によって収集された全てのデータは完全匿名で StatHat を通じて管理され、決して第三者に共有されません。"
+	BED491E44D13CCC24A1BC9973DBCFB71 = ""Aggregated data" means all metrics and data we collect will be bundled\ntogether with all the data collected on a specific feature or subject.\nThis means this data don't contain any sort of trace from the user that\nprovided said data.\n\nThis kind of aggregate information will allow us to better understand\nin a broad view how players have fun with our game, and help us make it\nmore fun.\n\nAll data collected through this method is managed through StatHat with\nfull anonymity. That data will never be shared with any other third party."
 	4F6A260D44BFC3B210BB2B8CEA3B3B19 = ""二人とも勝手に喚いていろ。""
 	CFBD5A9446C706086671638BB02F2B9F = ""常に期待以上を出せ！""
 	6AEFCD0941308D95C5CA318E0EC0E0C2 = ""そして私は４頭の獣に囲まれ声を聴いた。そして私は見た、あの蒼ざめた馬を見よ。その馬にまたがる者、名を死という。そのとき、地獄が彼に続いて現れた。""
@@ -23,7 +22,7 @@ Namespace Global (5059 keys)
 	4646B0FE4D768FA780476DB527338557 = "”協力して掘るか - あるいは自分の墓穴を掘るか！”"
 	76FA93D64581AB707EC002B078704ECF = ""協力して掘るか
 あるいは自分の墓穴を掘るか！""
-	99A3FDFD4129EEC1371BEDAFC3678A83 = ""詳細データ"とは私達があなたのプレイ スタイルに関する情報を編集し、あなたや他の人々がゲームをもっとより楽しめるように使用する事を意味します。\n\n決して個人情報は保管や送信されません。\nまたこのデータで個人を追跡する事はできません。\nこの方法では、あなたのゲーム セッションに関する指標を連携させるために必要な全ての情報を匿名化します。\n連携された情報はあなたが誰であるかを知り得ずに、私達があなたはどのようにゲームを楽しんでいるかを理解するのに役立ちます。\n\nデータの収集中はあなたを追跡できないよう、あなたの IP を匿名化し僅かな地域情報のみを保持します。\n全ての情報は GoogleAnalytics を通じて処理され、決して第三者に共有されません。"
+	99A3FDFD4129EEC1371BEDAFC3678A83 = ""Granular data" means we will be able to compile information about\nyour play style and use that to make the game more fun to you and\npeople that play like you.\n\nNo personal information is ever stored or sent.\nThis data can not and will not be traced back to you.\nThrough this method we anonymize all required information required to\nconnect metrics about your game sessions.\nThis connected set of information allows us to better understand how\nyou play without ever needing to know who you are.\n\nDuring data collection we anonymize your IP and we maintain only a\nsmall amount of region information that can't be traced back to you.\nAll that information is handled through GoogleAnalytics and will\nnever be shared with any other third party."
 	1793CC5D45BE527563A3418D99FA338A = ""男らしいドワーフの中核をなすのは勤勉さです。あなたは自分がなれる最高のドワーフですか？""
 	2D32E1124D79B3E3DEC62BB9E756ED93 = ""男らしいドワーフの中核をなすのは勤勉さです。あなたは自分がなれる最高のドワーフですか？""
 	EAEFDFC54C5C246CE008F7B46DAE6871 = "「いいものは簡単に得られません！」"
@@ -85,7 +84,7 @@ Hoxxesはあなたの友人ではない！""
 	60E15BAC41DCC919F2E12EB2EFF2AC7D = "+ キャラクターのレベル アップで再びプレイヤー ランクのレベル アップが可能に"
 	967E05354936FC6CFE023AA670D5EAAC = "+ M1000 クラシックが購入可能に"
 	D028C3274772ABACFCB8F39BF1D2362E = "+ スカウトの昇進"
-	EF0DF8784599B5857CCDD39F43929517 = "+ Trade Terminal Accessible"
+	EF0DF8784599B5857CCDD39F43929517 = "+ 売買ターミナル利用資格"
 	CA55556B4C389FB1E04612A3184E43AB = "+ Zhukov NUK17 が購入可能に"
 	71184CCD41D302C96EF8F78337EB6D16 = "+1"
 	A0E9B8BD4326D32C88CA96AC8DF2C2D2 = "+1"
@@ -143,10 +142,11 @@ Hoxxesはあなたの友人ではない！""
 	A77BC014441BF383DCB769A54D647EBC = "00"
 	A8FD7DFD4EB3BD98D2A2F985A9D31668 = "00"
 	B009BD034DBA1052EDF10983836140D6 = "1"
-	BCBBDA65423104563FCC69AD9103A01A = "ジップラインを1つ追加する"
-	11168284465F5822F5AFBB936F248453 = "1. この作業が初回の場合は、数秒間お待ちください。
-2. Steam アプリを起動してください。
-3. Steam アプリ上でログインしてください。"
+	11168284465F5822F5AFBB936F248453 = "1. If this is the first time you see this wait a couple of seconds.
+2. Make sure your steam app is on.
+3. Make sure you are logged in on Steam.
+4. Restart Steam.
+5. Make sure neither the game, nor Steam is being blocked by your Anti-Virus or your Firewall."
 	76BE588544C152258F727580BED9EAEA = "10"
 	A4573D264F08E40556773CBE5AD56080 = "10"
 	D073A6D84A569479C9FEFEBB8DB23B0A = "10"
@@ -158,6 +158,8 @@ Hoxxesはあなたの友人ではない！""
 	84AF27F14D540C4984879B9634EC0744 = "100%"
 	F466257A4A397856683A34BF83E4CDCA = "101A:"
 	8CB95B314EA5D392B3FA18AB4783D9AC = "10M"
+	5C13CED149995033C0909C9F427E3971 = "10Primary Objective Goes Here"
+	F65AF55F427F5CD96EA091B84F30EE59 = "10Secondary Objective Goes Here"
 	1969DC9F4275BAF4A783BF8DB6BB0158 = "12"
 	AF57E8E54307407BBD4CE385378B51FA = "12"
 	BFD0C2FC438F8480BF7D8FBF3E9CAB32 = "12"
@@ -182,7 +184,7 @@ Hoxxesはあなたの友人ではない！""
 	4A38895441E16E1179AF48B9B4D6F45A = "3D アーティスト"
 	0D64808D4847E68080B0E696BA1C1B66 = "5,000クレジット獲得！"
 	63AFFF3E45F767CC011D269D00E571DB = "5,000クレジット獲得！"
-	86F38B004BD8526DF264E2B84F722651 = "ダメージの50%を火炎ダメージに変換"
+	86F38B004BD8526DF264E2B84F722651 = "50% damage converted to heat. This will reduce direct damage, but will set enemies on fire."
 	8A86FBA942812BB1C9A9528364981C49 = "534534534"
 	22F656894A40134D5B2E639A9123E0C4 = "5M"
 	3C0683FB4388F5D46ABEB48940D59946 = "6"
@@ -195,7 +197,6 @@ Hoxxesはあなたの友人ではない！""
 	F5B7152F447767F6502E55AC12FC195C = "帽子"
 	FD0DCC9D46112F8E43A87186E3EF73FE = "帽子"
 	54B42BD34E7B086F2FD0A4B05BE8FB06 = "つるつる"
-	D0DC22DE41563374D9FDB1A21E69FD4D = "1 体のドローン"
 	5626CFF946CD0D3F454BCDA834B9A62A = "新しいキャラクター"
 	628F94274CF7B9670987228A3F69CD94 = "支援ドローンが来るぞ！"
 	2D3B341E43269B3517DEE48ADE5C2BB7 = "敵の大群が君たちの方へ向かっている！戦いに 備えろ！"
@@ -230,8 +231,8 @@ Hoxxesはあなたの友人ではない！""
 	4E7C508047ADD04843661BA95F6CFA40 = "全員にマクテーラ ブリューを頼む！  "
 	576597B04EA7D46FF9D82494EEFD7A08 = "俺とここに居る友達にオウフ頼む！"
 	F03E93AD4CD752D828C09F9814300F00 = "セカンダリミッションが達成された。ミッション達成時にボーナスが君たちの口座に支給される。"
-	64CC2099401910E2E661158953750474 = "A secondary weapon that can shoot explosive rockets.
-Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNER for manual activation."
+	64CC2099401910E2E661158953750474 = "爆発するロケット弾を発射するセカンダリ武器。
+ボスコの AI は自ら操作できず、地形スキャナーを使い手動で有効化する必要がある。"
 	316133814299B83CF3DDD582EEF3710A = "ルーメンが大きく増加し、真っ暗の洞窟が見違える様に。"
 	816E62B24EDA725C5BD2A9A416F9BFDB = "小さくて軽いドワーフ用セミオートピストル。見た目よりも強力だ。"
 	4843649A458F8DFF5439E8A933A1429C = "フレアに固体マグネシウムコアが追加され、燃焼時間が増加する。"
@@ -244,7 +245,6 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	E37C1031413A95B3452BDA9470E2DF36 = "思慮深く澄まし顔の聡明な鉱夫用。"
 	A49151A643A9AF1ADD5E22AB35C54812 = "一級品。思想家の御用達。ロッキー マウンテンは何も証明せず、強くもないが売上を裏付ける。"
 	A7F15AA745B70AFC2E79B3821388FB32 = "歩く指揮センター、MK3 ヘビー エンジニア スーツは再び通信が失われる事が起き得ないを意味する。大量の最新鋭技術を搭載しているため、エリートでもその全てに命名できない程だ。"
-	4564CC6649D4D197405B098920E0B7D8 = "豊富"
 	09CD68EF4CCFD3F80C9F438F1A8590B2 = "ABYSS BAR"
 	3B127B1C41B552DF26505292024E7A48 = "ABYSS BAR"
 	B945D0E94F20DFA0E6C90DAF273D2A1C = "ABYSS BAR"
@@ -256,6 +256,8 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	7E2D33234A8BF8716D6FBFBFEA047EC7 = "全ての DISCORD レギュラー"
 	9B9AA6A7491F90B980C71C98DE2A59BB = "既に割り当て済"
 	C2D4C65A430223C08E507585B7DA73C5 = "APD"
+	C3CD0AE24CB9B3ED783E00967D20674C = "APD-B317"
+	6F017F9E4A37C608F3331CB551539E8F = "APD-B317 ドローン"
 	953BD7754CA18B0E7B567FB1569498D9 = "AR ヘッドセット"
 	AE27730B476987E33DE684ABDA93F9F0 = "AR ヘッドセット"
 	6F7162D44436E8E658699788E9F157C4 = "注意！"
@@ -268,6 +270,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	20718E284B583064865D9F8C475EAD81 = "アサインを中止しますか？"
 	6ED213DE4BB78447F8511AB44A682443 = "ミッション中止"
 	AEFBFF50450937B9A66EC5B2CA738B93 = "ずいぶん待たされたなデブちゃん!"
+	4564CC6649D4D197405B098920E0B7D8 = "豊富"
 	469A03DB4C33326F45B69F8D94783A6A = "アサインを受諾"
 	F02154C24469968B39A55185D412560B = "招待を受諾"
 	6D24CB7A422AFE0748B670920DD89BBD = "受諾！"
@@ -320,14 +323,15 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	6B1EFA834EAEAE27D66A5D94D8D83A95 = "視点を合わせる: [JUMP]"
 	8F99CD62437E2EF8567A3BBFAED0E31E = "生存"
 	217741C147D2D16EE379D1A916B2ABC2 = "全て"
-	03229574442F90EC8E655EB63912D030 = "全てのM.U.L.Eを確保！次はポッドを動かすんだ。最初にポッドとスペースリグ間に適切な通信を確立しろ。アップリンクをセットするんだ！"
+	03229574442F90EC8E655EB63912D030 = "All M.U.L.E.'s secured! Now to get the Pod working. First: Establishing a proper connection between the Pod and the Space Rig. Set up the Uplink!"
 	A35A2D1A427A4C3B2271BE8F1E5339DA = "全ての小型M.U.L.Eは動いている、いい仕事っぷりだ。準備が整ったら帰還開始の為に君のM.U.L.Eのボタンを押せ。"
-	C803B4EB49A28AA82A804096DA80E3B9 = "私達によって収集された全てのデータは完全に匿名化されています。復元し個人を追跡する事は出来ません。\nまた私達はあなた達のプライバシーとデータの安全性を保護するために全力を尽くします。"
+	C803B4EB49A28AA82A804096DA80E3B9 = "All data and any data collected by us is completely anonymous. It can not be used to be traced back to you.\nWe will always do everything in our power to ensure your privacy and the safety of your data."
 	60DF9F1A4D00D0960320E1BDF1622767 = "すべての卵が集まった！管理部も満足するだろう。エスケープポッドのボタンが作動したぞ！"
 	ADC3A444405EA9E563E081B7187A4DE9 = "一人はみんなのために、みんなは一つの目的のために！俺達は出来るぞ！"
 	6A644F85422236504F97D79B1EFB68FC = "どんな良い事にも終わりがあるんだ…"
 	B21830B545E9D42F5CC74B8511127994 = "いつもどおりの仕事だ。"
 	3BA1D1CB4E75D2827D2E58A2BD0BE482 = "全ノルマ達成、上出来だ。M. U. L. E. の応答装置を起動して帰ってこい。"
+	A304D89D45C82A109BB29BAE0E1A94AE = "多目的ドローン"
 	CBBF79184940D61037DC54B5F971149E = "多目的ドローン"
 	D92064BA45AE00CE973A47909DCDE540 = "Allan Rasmussen, Dino Patti, Jacek Oczki, Peter Andreasen, Everyone else from Press Play, Thomas Margaard Sørensen, Brian List, Univate, Christian Rask, Jakob Sillesen, Robert Jønsson, Interactive Danmark, Sofie Filt Læntver, All our colleagues at Coffee Stain Studio, Swipe Right, Kirsty Endfield, Michael Power and Natalie Bahbout, Epic Games, Sjoerd De Jong, Mike Gamble, MS ID@Xbox, Guy Richard, Neil Holmes, Graeme Miller, Nate Ahearn, Aaron Greenberg, Sebastien Tasserie,  デンマークの素晴らしいゲーム産業の皆さん、そして最後に私達を信じ、支えてくれた家族や友達。皆さん、ありがとうございました！"
 	4D61592E4A37CF2FC0F8088B9E5D7BF6 = "匿名データを許可"
@@ -373,6 +377,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	29CC26F540CC1A3E951CCC98CAAA77E5 = "何でも"
 	3435543840BE7B60A1863B83E4F445A6 = "誰でも"
 	A39CF4124ED26D8289EA18A860B1C56A = "誰でも"
+	B837DE3B456E99D06D95C29378DC596D = "全てのデコレーションは会社の資産と見なされ、丁寧に扱わなければならないぞ。"
 	226C2AAB4B67FD617E741DB0A511E833 = "誰か踊らないか？"
 	55C7909B4CB7E9D2F862A194905C2B41 = "誰か踊ろうぜ？？"
 	C7D69A104593577209BE8DB171C97B9F = "踊るヤツいねーのか？？"
@@ -382,8 +387,8 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	AE37F170481C37D92EC1CC8D7AD1D6A1 = "あっおっとっとっ！"
 	3AA3DBE246DB5A512675FFA2E70EEEF2 = "アポカ ブルーム"
 	5DA237464B71168C2174C9B82EC4685D = "アポカ ブルーム"
+	FBA82E064BE2914C079FBBADB5FEE707 = "Apoca Bloom Secondary Missions Completed"
 	F4CC3CD24B584D51C9E543A347B4CFCB = "アポカ ブルームはここだ！"
-	FBA82E064BE2914C079FBBADB5FEE707 = "アポカ ブルームのセカンダリ ミッションを完了"
 	C47A892E4A92F237FA104F86D9D2808A = "変更を適用"
 	89CBC0EF4F66282D3E48D587CAC33364 = "アクアークはここだ！"
 	B8C0C5CC4291AC52CA144CBAD9254D14 = "アクアーク"
@@ -392,11 +397,12 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	63625FDC4D99ABF20C20C5A6869C0BB7 = "昇進の心構えは出来ていますか？"
 	AE111BDC4C03B2F7ED3B39B5F2F63912 = "ゲームを終了しますか？"
 	E04CCC06428EA98F3706C4BE5568A5B5 = "ゲームを終了しますか？"
-	990CCCCC4A919063095FCFB885D928BF = "範囲冷凍ダメージ"
+	990CCCCC4A919063095FCFB885D928BF = "範囲冷却ダメージ"
 	17F8FFC44CC94EBC7A5B4EAC51DF9798 = "範囲ダメージ"
 	3BBC11B84DAA7EBDE287DC862B60841D = "範囲ダメージ"
 	8095E1FF47E225CDDB0BD184B172BD5E = "範囲燃焼"
 	9D2AF96142938B6FA72BB2A6A9270D57 = "効果範囲"
+	8D746ABA43F7F6104ED56A96E8E19FE3 = "あーもう、動きにくいな！"
 	DF6204D54CA63BB09F32DBA77506F424 = "Argghh"
 	E038C3494502B64BE34E1AAFA607CC63 = "あー…たっけぇな！"
 	EDBD964E4DEA99996EBE359534E28721 = "あー、急すぎる！"
@@ -424,7 +430,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	18E279544C34ACBC81C0EC9CFB00D9C7 = "あああ、俺のひげに何かある...！"
 	1E3933634C011B888A29A1A190BE5DB4 = "あああ、俺のひげに何かある...！"
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "アート ディレクター"
-	17E32D5547938A68AEE78ABB9D2F8CDC = "人工重力はリキャリブレーションされた。"
+	17E32D5547938A68AEE78ABB9D2F8CDC = "Artificial gravity has been re-established."
 	B625BD434046DDB7B2EFA799704BBE34 = "人工重力をリキャリブレーション中だ。"
 	5B0263FD4E3394D40F66B690B17852EC = "ベテラン鉱夫にはいつでもこのアサインをスキップできるようにしており、即時に全ての地域のミッション種類が解除されます。
 
@@ -526,7 +532,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	F203857B4DF7A320DCC8F1BCD7EF7845 = "バーテンダー！俺のチームにグリフィッド スラマーを！"
 	9CB6F859434C5084F69D9C9D4B4711C9 = "バーテンダー！冷たくて泡いっぱいのオイリー オウフを頼むぞ！"
 	FBF850D6471688907F907CAEE392CB17 = "バーテンダー！レッド ロック ブラスター頼む！"
-	580F2D4649B9855667A206960BF39B49 = "Base accuracy improvement with pin-point accuracy on first shot"
+	580F2D4649B9855667A206960BF39B49 = "初弾のピンポイント精度を含めて基礎精度が改善する"
 	B05A2A454906E2D4360BF8A79E9277EC = "基本精度が上昇する"
 	685964224EC0FB9FEB9EE286CF2A4D8E = "普通のつるはし"
 	B5868CE640E758D1F2FA0DBA30971853 = "もはや半分は顎ヒゲ"
@@ -541,7 +547,6 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	1C7CF05540FBF4B364BE0A8CEFC58BFA = "新たな装備カスタマイズ システムの為、以前の装備アップグレードは全てリセットされました。全クレジットと資源が返金されています。ハッピー アップグレード！:D"
 	739C730F4DC75A2B8FB068B01BE3EA1F = "当然の格好だろ？"
 	75EE201A4C886BBBDDF9F993134F8124 = "岩盤"
-	5427D07A4575820335E8C28DCDD6F054 = "崩壊開始"
 	CCD8C78A4198D202866F458CCD513560 = "ベージュ"
 	74DC149D45917EF3425C9FACA4E51660 = "バーザーカー"
 	9CA26B4E47B347DA7641BEB3658927C0 = "程よい重量バランス"
@@ -598,8 +603,6 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	1FD8809D480A77F13D00F3A620B6FCD7 = "よっしゃ!"
 	D2D51D284753BD8E018F26918D0ACCC1 = "ボリアンの灰の裂け目"
 	B55805B74AD51658258C84BB4307955F = "殺すために生まれた、ベイベー!"
-	6F017F9E4A37C608F3331CB551539E8F = "ボスコ"
-	C3CD0AE24CB9B3ED783E00967D20674C = "ボスコ"
 	C651A15E445DF06CC4F6B782D1F52F81 = "ボスコ—あれは何だ！"
 	7C70BF8A4A9023B47C9ECEBFAD16DE08 = "ボスコ航空支援"
 	44621F164DBE535B328B90B9F4478643 = "ボスコが来るぞ！"
@@ -648,7 +651,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	A0E3B94940BCD0DA7277C3A354EE0563 = "球状の髭"
 	D248460145F3994592B4F686F0331601 = "球状の髭"
 	8E98230648BA7B1C6C87459FC1D491B6 = "弾丸の爆発によって範囲ダメージを与える"
-	AF0B555042EF433ED230889E1FEA2204 = "Bullets coming out of the primary weapon have a chance to electrocute."
+	AF0B555042EF433ED230889E1FEA2204 = "プライマリ武器から発射される弾丸に電撃能力が追加される確率が生まれる。"
 	143C634F49B6F6F21909A5BBA47BDC93 = "ミニガンがオーバーヒート時に範囲内を全て燃やす"
 	69C22B4C4F84F95A1DD5E3AA29F22E42 = "燃焼時間"
 	75B06D68482BF52E8F07348C5BC465B0 = "燃焼時間"
@@ -728,7 +731,10 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	E2B17D4F4958B568729B6A8B87949191 = "もう持てない！"
 	FE21EA0942AE111E8B3E339806DA3B0A = "これ以上運べない!"
 	7BE484F54F47A29B851D70A7126E47A6 = "角度が急すぎて出来ない！"
+	C736203A484BC10F99649D914F76EA7F = "歩けない！"
+	0FFD6F734C379C30FD351888CBE132A4 = "視界が消えた！"
 	6EA6F8A54D666954C24606B53F554416 = "全部見えない！"
+	73F3B28C42BD801EE922A08EAA7C26AD = "目の前が真っ白だ！"
 	B41DA6B045BD7F27F6E43283E5B135B7 = "何も見えない！"
 	384C1A53441F292B61B12EB3737B7979 = "いても立ってもいられねぇよ！"
 	EEF4FDED4B944EF8956B3D83A814C75B = "動けない！"
@@ -745,14 +751,11 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	6646C9194E65D217184CE39025814731 = "帽子 - ガン メタル"
 	D5211E1E4EF79EE304DDB38A869D83F8 = "帽子 - ユニフォーム"
 	73B65D21444A0BFB316C25B9FAA33453 = "気をつけろ！"
-	4D2E14AB4BEDEE1D35FCCCA75D6AD0EC = "手持ちプラットフォームの数量を増やす"
 	8D3EFB56476AB1E9B975EF974EE04D6A = "追加のIFGを持つ"
 	E16F35EB4B272C039CEA058DA65A8CEA = "追加のIFGを持つ"
-	B01AD27143EDF3E44D2EF78F96A52E46 = "燃料の最大値が増加"
 	619D031E4C7B4F572B190EBF49E4CFBD = "グレネードの所持数増加"
 	68B0C36847C81E222575318A180570D4 = "手榴弾の持てる数が増えます。"
 	E1A6AA0446022A84AAE2F89A034CBB62 = "より多くの手榴弾を持てる"
-	60E56D8C41802B36F71AE98A54A14C6D = "プラットフォームの所持数を増加"
 	71C2F9314F6E2C74CEDFCBA4006AB906 = "カートが来るぞ！"
 	8A3C22A5421FDB9C7164B9A48F67446E = "かみそりではなくたがねで剃られている。"
 	55EB999248E0C1DBB463458D2526E10C = "カテゴリ タイトル"
@@ -781,11 +784,11 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	79E859BF443044FD4DEE9983C190FD98 = "チャージ速度"
 	7ED1A33F42EF9B74F07883BA8129F7C8 = "チャージ速度"
 	B283EE7B4F70B256A2A38A80D313357F = "チャージ速度"
-	29C14E7E434F0856B6B0C3B0364978A9 = "チャージ状態 "
+	29C14E7E434F0856B6B0C3B0364978A9 = "Charged"
 	5C451F5B406DA437028EDEB2E507CEC9 = "チャージ ダメージ"
 	7979159141F4EA5B0774E2B0FFC1AF1D = "当てて大爆発"
 	EAB7538E434FC82FAC687D8C10D2D595 = "チャージ発射物のスピード"
-	CB6EF4C64A8D5362C4591AB088323985 = "チャージされた発射物が飛んでいる間、近くの敵にダメージを与える"
+	CB6EF4C64A8D5362C4591AB088323985 = "チャージされたブラスタが飛んでいる間、近くの敵にダメージを与える"
 	34DE0C7143B48680943A5E85FFBA3EAB = "チャージ攻撃範囲"
 	05AD597446D27FCB2EFE3FA066215E00 = "チャージ ショットの弾薬消費量"
 	681BC1DF4E321D9260AD9A9328EBC700 = "チャージアップ時間"
@@ -829,7 +832,6 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	FDA005934F3D906787D37A8B7CBEFD27 = "クリックして Steam グループに参加!"
 	4E3A343F4A222EFB928E42BACC517BF7 = "クリックでXbox Clubに参加！"
 	0A9CC2254A69F4AF34290D8AB4E1D581 = "装弾数"
-	5518CA6947704F8F2D13D7A707300F72 = "装弾数"
 	ABF60DA849C2BB0FE75A0C9FA641E0FE = "装弾数"
 	59F03AF8498D17ED6646F190A30A9D6F = "装弾数が増加"
 	0CC8411B41D22BCC06F543922E3867AB = "近距離"
@@ -842,7 +844,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	7F426ECD4A9899E679454EB808303961 = "冷凍"
 	4918697C48E7D5A0DD45F3923D871A9D = "冷徹な心"
 	259723D1490F7709AFC70191330EAF3D = "冷たい輝き"
-	B1EF44FB492BB7EFCEF99186D8FE1D00 = "コールドストリームの到達距離"
+	B1EF44FB492BB7EFCEF99186D8FE1D00 = "噴射範囲"
 	0DF9FFE84A49C7C07ADD438A98A17458 = "収集 "
 	69C1F5094284B8F4416631868C6247B0 = "アポカ ブルームを採取"
 	43A8A9E84A3C3D37803C34BDF7F3FEB3 = "ブールー キャップを収集"
@@ -896,7 +898,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	90DA1BB8439888EC43D5F3AE1F7BD4AA = "圧縮された土"
 	CAA4B0924362837962737D9BE73322E8 = "圧縮された土"
 	E0F791B54B36121FA71673A0AD6CD11F = "圧縮された土"
-	1B90A5C1470717449A119FB58DD748CA = "Company Benefits: Mineral Trading Network"
+	1B90A5C1470717449A119FB58DD748CA = "会社のメリット: 鉱物売買ネットワーク"
 	C663F89C4B24952F22CC4EA7FB6FA4DE = "会社の規則なんぞクソ喰らえ！"
 	84B92DFB4FAF94769A5856AC74634B31 = "コンパス"
 	20C8A02940185CDFF614238B717122EA = "ミッション完了する"
@@ -907,6 +909,7 @@ Bosco's AI is not ready to handle this kind of weaponary, use the TERRAIN SCANNE
 	83081D9843C33EC34691B0929E1FDA5C = "昇進の資格を得るにはこのアサインを完了させてください。昇進はキャラクター選択ターミナルから可能です。また昇進は名誉バッジの獲得と、キャラクターのプレイヤー ランクを再び最大値にする唯一の方法です！"
 	A865D80D4B531828EB8F83AFAE93195D = "昇進の資格を得るにはこのアサインを完了させてください。昇進はキャラクター選択ターミナルから可能です。また昇進は名誉バッジの獲得と、キャラクターのプレイヤー ランクを再び最大値にする唯一の方法です！"
 	D259E88A4D157F88E20DEBBD15E6CACB = "昇進の資格を得るにはこのアサインを完了させてください。昇進はキャラクター選択ターミナルから可能です。また昇進は名誉バッジの獲得と、キャラクターのプレイヤー ランクを再び最大値にする唯一の方法です！"
+	038BE4D54F6B0B0C653786B20B625629 = "鉱物売買ターミナルを利用するにはこのアサインを完了させて下さい。発射ベイに設置されているこのターミナルでは、鉱物の売買が可能です。"
 	BC046F2B46846F82B0CBF5B5984967D7 = "警報「ケーブ リーチの密集地」のさなか {value} 回完了"
 	8C82B21F48B6FEA19AA7D1990445B21E = "警報「エクスプローダーの侵攻」のさなか {value} 回完了"
 	9CE32A174ADB3C2BCC5E55940D210844 = "警報「マクテーラ異常増殖」のさなか {value} 回完了"
@@ -965,14 +968,21 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 管理部"
 	009F2EB04FE3A9215B942AB56C07E4A0 = "おめでとう！管理部は君が新たな火器を扱えると判断し、君の武器ライセンスを更新したぞ！ "
 	A09B271D428D6FCF1DEE03BEEDE2A67A = "おめでとう！管理部が君にはもっと重要な仕事が出来ると判断した。惑星の奥深くへ探索できるよう許可が下りたぞ。"
+	36DE54D74420BE4709E354BADB542ECB = "おめでとう！管理部は君に売買ターミナルの利用権利を与えたぞ。これで鉱物の売買が可能になったが、気をつけておけ。売買は君の思い通りにはいかない、ギフト ショップではないからな。"
 	ED889B124A6D6728DCF16582D71666C6 = "おめでとう！君のアサインは終了し、またこれまでの報酬として新しいバニティー アイテムが与えられたぞ！ "
 	ABBB1246461DBEEA3E7D9594997E1FA5 = "おめでとう！君はアサインを終了させ、管理部も君が新たな責任を負えると考えたようだ！"
 	36F7EACA44D0E3814FA9419ABD2C8842 = "おめでとう！君は Deep Rock Galactic をボロ儲けさせ、管理部も感謝している。誇りに思え、これを体験するまでに生き延びたドワーフはそう多くない。Rock and Stone。"
 	56FC76C0431C03FC46B212988E5BA90B = "おめでとう！君は優れた鉱夫であると自ら証明した。我々は無理難題を投げかけてきたが、君は今の所まだバラバラになっていないようだ。管理部もその努力を認め、全てのハザードでの活動とボーナスを許可した。君はラッキーだ。"
 	8E7B19C9435311CCDB1670A1899E87EC = "おめでとう！君は Deep Rock Galactic で働く鉱夫として最高レベルに達した！君が望めば管理部もリタイアを認めるだろう。しかしその前に君は最終ミッションを行なわなければいけない。"
+	144329154A20B812AC06CC849EA6103E = "おめでとう！君にはクライオ キャノンのライセンスが与えられた！ドワーフにとってまさに丁度いいサイズの、ポータブル凍結機だ。それにあいにくにも目の前にあるものは全て急速冷凍させるが、飲み物を冷やすにはかなり便利だ。少なくとも、私はそう聞いているぞ…"
+	65834D6E41505C12B383BD9420B8D1BD = "おめでとう！君はかつての前任者達のように、血反吐、岩、そして弾丸を吐き出した。遠く、遠くまで旅をし、もがき苦しみ、そして昇進を手に入れた。管理部、そして私も君に敬意を表する。本当によくやった。Rock and Stone！"
 	2722AECA4735D8DFFD9759BD5E3BF7A5 = "おめでとう！君はアサインを終わらせ、最新のファッションを手に入れられるようになったぞ！"
+	70AE2339481A78ECF33FEDB58B29A336 = "おめでとう！君の素晴らしい働きは Deep Rock Galactic は今まで認知されていなかった。これを受け管理部も真摯に君の昇進を考慮しているが、先に君は最後のアサインを終わらせる必要がある。自らを証明しろ、昇進が君を待っている！"
 	9447139941E45B253812918D8FF58A17 = "おめでとう！君の功績はしばらく埋もれていたが、管理部は君が特殊任務へ就けるようにした。これでホクソセスの奥深くまで探索できるようになったぞ！"
+	9A8CE7A84CF2D30702375F8AFE07BFB3 = "おめでとう！武器ライセンスがアップグレードされた。試作プラズマ チャージャーだ。こいつの完成で研究開発部門の連中は沸き立っている…私が君だったら心配するほどにな。"
 	5A75018942CBC52A1F65E5AEC1DCECE0 = "おめでとう！君は Deep Rock Galactic での職務を果たし、君が望めばいつでもリタイア出来る。誇りに思ってくれ、これを成し遂げドワーフはほんの一握りしかいないからな。"
+	170D9A3E4911782FBF5D3B85B93B26E7 = "おめでとう！君無しでは会社が回らない事を自ら証明し、管理部も昇進を認めた！キャラクター選択ターミナルに行って、ただボタンを押せ。格別な昇進が君を待っているぞ…"
+	13A456CC4B6A7737ABC2D2A617774561 = "おめでとう！君は Deep Rock Galactic にとって必要な人材であると自ら証明した。管理部は君の昇進を認めているぞ！キャラクター選択ターミナルで報酬を受け取れ…"
 	6D02EF2E403E6CDD6ADDEDA968AA4EC8 = "おめでとう！すべてのドラム缶を発射台に保管できたぞ！素晴らしい！よくやった！では…仕事に戻れ。"
 	CAB0372F4E6E215056B512B437B2611E = "設置時間"
 	25056F7F45562623F05E8CA1FEFF1876 = "設置ツール"
@@ -985,6 +995,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	4963D2AF4C072FA9544FE3A7D769FD00 = "続ける"
 	7614849248E0B34F69C658B451622089 = "続ける"
 	A76E40CB48469A6D9B96A68C1848966A = "続ける"
+	50F2BB6D45E54D2C5104F78BF261EB8A = "次のミッションに進む"
 	2B880903409AD8B31C4573AD7B3B2502 = "カウントダウン "
 	3FDC9E054A4217D6E632378A7A9E7419 = "コントローラー"
 	9D6287354D2C3F1F914A85B350FA8015 = "コントロール"
@@ -996,7 +1007,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	0EF41BD14D1DC215CD834BA93FAE478C = "冷却レート"
 	19B0FDC340447FCFFD031E9417E3459F = "冷却レート"
 	6D023CB74857A914C7AAE7A8D9394D92 = "冷却レート"
-	ECD43B664806AEB1268EBA8D85CCD1E3 = "より速いクールダウン"
+	ECD43B664806AEB1268EBA8D85CCD1E3 = "クールダウンの高速化"
 	BC783B7C43B2746F78E59AAB216E4B24 = "コーラル タン"
 	948C78B54C22768342DE48B51687CAC2 = "企業戦士"
 	25D9FFF548E361EB0B842F8185283F0D = "ゴフン"
@@ -1094,7 +1105,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	52E82F9D448114EF8537CBAA98A19DB0 = "ドリラーの彫像"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "ドリラーの彫像"
 	CFA98D2341A585DF7A3E70A581FE5451 = "ドリラーの彫像"
-	A304D89D45C82A109BB29BAE0E1A94AE = "ドローン"
 	1714E8CA42591ED549A81C91A33BFE16 = "ドロォーン ドロォーン"
 	04EB654A440E24A574209CA06C0024F6 = "ダメージ"
 	0CB3B9E24A8C84A23840C2BF52BEF603 = "ダメージ"
@@ -1120,6 +1130,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	2F2298BA463BE32E5A077790A2DEA296 = "うお、俺めっちゃうま！！！ "
 	9BF941594897154747C3B694E1EABC8B = "畜生、ドリルがオーバーヒートした！ "
 	A64B40594981E028C8FCCEB1A5DDE72E = "畜生!"
+	994D340245B7D9084849AA8578AD5C83 = "このクソねばねばが！"
 	35A6A9C94406CDD8893D7988C77718C5 = "クソ野郎の Deep Rock Galactic め！"
 	0232110A474ECAF437B69591E70D3F81 = "忌々しいDeep Rock Galacticめ！"
 	2255807847614DC74BD770BA4AF0E013 = "クソ野郎のDeep Rock Galacticめ!"
@@ -1157,7 +1168,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	DB7D658A482C345FCB200DBFBD9438CC = "敵に与えるダメージが増加する"
 	DFB929C749778C4BE44435BF2030A9C6 = "敵に与えるダメージが増加する"
 	2D3249D04A8DD1FCD136418AEEF29603 = "集弾性を向上させる"
-	FD7C44B942FD30AC360BDDB10BD4CA10 = "クールダウン時間を 1 秒減少する"
 	DCD8A2974881A71E2A2FDE915F8525B6 = "深いポケット"
 	91E193C545ED6A5C63F13595EE935618 = "Deep Rock"
 	9E5DD4E242761E0B1389EE91FCB44936 = "Deep Rock Galactic"
@@ -1190,6 +1200,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	A4FA00164668543073CC25B813BDAA2F = "爆破成功！"
 	70BED7904D1D033440D647BC04BC7D2A = "発破！"
 	A3A181DF4AA030A80D841C8240F2C598 = "発破！"
+	D0DC22DE41563374D9FDB1A21E69FD4D = "ソロ鉱夫の採掘、照光、戦闘を補助するために研究開発部門で開発された。APD は完璧な同僚になるわけではないが、彼らより少し信頼性が高いことで知られている。また APD は一般的に "ボスコ" と呼ばれているが、管理部は装備を愛称で呼ぶ事は認めてない。擬人化は、機器が故障した場合に従業員の間で広がるうつ病の原因と知られているからだ。"
 	41D242CA429F2FF60FE943A761A436EA = "ダイアモンドだ!"
 	8B770D804C9142679C8D79946854C900 = "ダイアモンドがある!"
 	C8181DC2434D185AD5B3AA862C531CB1 = "誰か俺を乗り越えていったグリフィッドの数覚えてる奴いるか？"
@@ -1302,6 +1313,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	C48E0C784186017E1B8101A4F22C5D90 = "ドロップポッドの準備が完了した。諸君、仕事の時間だ。"
 	73DDA3644D4E1FD76E06A1AF6EEC294A = "ドロップポッド着陸、離陸準備よし！"
 	D9D92CB64796D72FB6189D96ACE5CEB1 = "ドロップポッド接近中！離れてろ！"
+	E5B256914AE6E1F791BB7197123B1B2B = "Drop Pod inbound! Stand clear!"
 	5D5E149A4A1A260067EBE589742083AE = "ドロップポッドは起動し、完全に機能している！君が居ようと居まいと1分で軌道上へ帰還する。ケツまくって機内へあがれ！"
 	603F65874D461BCA6D1521B1E7FD886E = "ドロップポッドがそちらに向かっている。持ちこたえろ。"
 	C04BF91B4CA454C6A8B5BEB82237843E = "ドロップポッドが向かっている。持ちこたえろ。"
@@ -1374,6 +1386,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	BAA3D81347FC18A43AF779A445EC7AF0 = "基本的だな。"
 	16468BEE4B3084ACFAE079A8054ACB8B = "感電ボーナス"
 	4EC29C8D450629F606642DB20C059C33 = "感電ボーナス"
+	26C533DD49DAFF73133D958D5F234AE7 = "感電する可能性"
 	1BBA6A92410AA32B9E70CCA81912F970 = "エレベータープラント"
 	B636802B447B3BD2406A0481871BC7D9 = "昇進の対象"
 	28446666412ED13D695913AC371C5625 = "標的を排除する:"
@@ -1388,8 +1401,8 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	E5B3A82840F6A15692609E9475E60174 = "空"
 	C62A007048417C4E1E43C2948AFA5B7F = "ボスコ試験機能を有効化"
 	CB2BB63F4DF987B78EBECC9C043E9D3D = "チュートリアル ヒントを表示"
-	C9E4147A4FA3B797FA7ADCBEAA356CAE = "Mixer インタラクティブ性を有効にすると、あなたの Mixer \n 配信視聴者があなたを治療したり、再補給の追加やさまざま怪物として \n 生成されます。"
-	2632AC3F4FED5EB41B6315875EFD90C6 = "Twitch インタラクティブを有効化するとあなたの配信の \n 視聴者が次に行うバイオームやミッションへ投票できます。"
+	C9E4147A4FA3B797FA7ADCBEAA356CAE = "Enabling Mixer Interactivity will allow viewers of your Mixer \n stream to spend Sparks to heal you, add resupplies and spawn \n various creatures."
+	2632AC3F4FED5EB41B6315875EFD90C6 = "Enabling Twitch Interactivity will allow viewers of your Twitch \n stream to vote on which biome or mission you will do next."
 	9113D50C470070B66C7D069A7EE4B663 = "崩壊終了"
 	305318414478607ABE93A989F8D75E0A = "殺害数"
 	E67758F5441CADB5013533B2CBD671AE = "弱体化フィールド内の敵は動作が遅くなると共に脆弱化します。"
@@ -1416,14 +1429,15 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	89C7523144ABD39253BB27BAFE26CB83 = "今すぐこのアイテムを装備しますか？"
 	57E6BB0F42206D722E6E1A866FC825D0 = "装備"
 	9708414843BB4080C9EA08803F014CD8 = "装備のアップグレードを購入しました"
-	E5B256914AE6E1F791BB7197123B1B2B = "エスケープポッド接近中！離れてろ！"
 	35C67A644D89A777FBF3F6A0AB186201 = "推定時間"
 	C756B4A64DB397B5EED924864553C3E8 = "殺すたびに銃の熱が低下する"
 	5FDE6E4B4587A781262BF0984C90049E = "ドワーフのレベルが１上がるごとにダッシュマークを１つ獲得します。
 ダッシュマークが４つ集まるとプレイヤーランクが上がります。"
 	A51190624912F34F9628E7A7B19C1047 = "みんなそれらの中から少なくとも一つ要るんだよ！"
 	CBD59AC44C2076F565A1E886D676FC7B = "みんな！注目してくれ！"
+	9B115B0E427EC72BD080DABD3AE2074B = "素晴らしい！ブリーチ カッター用の武器ライセンスがアップグレードされた！また採掘道具が新たな武器に変わったな。確かにホクソセスは革新を生み出しているようだ…"
 	C702A0F14FBF6418DD18C091766DF2DA = "素晴らしい働きだ！残り 1 つのミッションで新しい武器ライセンスを手に入れられるぞ。"
+	5946DEA644036E5B58AD1392F8BEEE13 = "素晴らしい！君は Deep Rock Galactic をボロ儲けさせ、管理部も感謝している。誇りに思え、昇進までに生き延びたドワーフはそう多くはないが、君はやり遂げたぞ！Rock and Stone！"
 	D62951114D9565B434339588C7C41CCD = "素晴らしい。ドロップポッドを向かわせるぞ。"
 	63E88FDF40A4538C5836BFAB0D014789 = "素晴らしい取引だ！"
 	5A1EAE5A4AD687C2C84AFFA2A4B75BA7 = "模範的な仕事だ。君たちは記録的な速さで目標を達成した。マインヘッドを打ち上げたら脱出缶を送る。"
@@ -1441,7 +1455,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	860AA6A54B91A73D575E8AAB551AF13A = "撃つと最後に放たれた発射体が爆発する"
 	2760B4D24420248535423580CAF28CB6 = "爆発する植物"
 	5EF8DBE945E73FE7391AF782BB959E6E = "爆発"
-	AA8F120D4A3213528FDAA6B10B6C1FC4 = "爆発"
 	B7D7DDDA420F094565F66E9E6DFE691A = "爆発耐性"
 	31851E9546D0347E28CDA2A8A77584F4 = "爆発でお別れだ"
 	E9EC970246B59E1814D725BA8F06239E = "爆発弾"
@@ -1467,10 +1480,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	5073E9CA427557824A8589B250A6DAD9 = "もう一つの蘇生"
 	8D0872D04D0444AA27B732B6A16B583E = "もう一度の蘇生"
 	BEBD5440451ACC2731CC1FBDEFD3AF0B = "ロケット増加"
-	291965AC4A3E4F21FB9B91841B98F417 = "追加ジップライン"
-	77D6AB4F4929A856637FFDA7BE807942 = "追加資源"
-	B0DE6FE246C95819C68ABCBBA424DC28 = "追加資源"
-	C088566241D93197365D3CB2BBCD5F19 = "追加燃料タンク"
 	55A2B3B34A5CBFF55F21B2BFE1AF75A9 = "採掘"
 	4F2765924295F9E459D7D4BC9514B43E = "離脱まで"
 	BBEED5E543ABACB0517FC6AE86BC39C0 = "離脱開始。よくやった。"
@@ -1507,8 +1516,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	A954FC824ADC9C3A396E6FBB26B5D298 = "高速第1段階ポンプ"
 	3B92DE784295EB7CDA1F299E0F3C32FC = "リロード速度上昇"
 	88F9A74747992A3986FBBC9FC28157F0 = "リロード速度上昇"
-	EBB44BE24CFA9DA8770678A81FD9B25A = "未使用時にドリルの冷却を早くする"
-	B2C956104BA61461E0D8A0BE9C82A8C4 = "より速いフォーカス"
+	B2C956104BA61461E0D8A0BE9C82A8C4 = "フォーカスの高速化"
 	4E587A484F194791A10713AB5D01E2EC = "リロード速度上昇"
 	EF5B6A2846090591EDA706BFC8061C89 = "リロード速度上昇"
 	0723604A4E5B4B165B1F618B14E1D908 = "場所を選ばずスカウトから愛用されている"
@@ -1518,7 +1526,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	5E5B093541932CB3739D1FA932DB9E59 = "フィードバック"
 	8021A8B441DBFDF85E3289898E222F58 = "フィードバック"
 	49267D7D45C5CECD73C716AE3B92C1AC = "フィードバックループ"
-	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "アップデート 19 にフィードバック"
+	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "Feedback on update 21"
 	B9AAF2AB45F343573C64B2802999CDB8 = "今は良くなってきた!"
 	C90D261E4FB756830866F584E8471FB2 = "良くなってきたのが分かる!"
 	AFA9E8754385E1518A6E42A12525EBD7 = "柵ができたぞ！"
@@ -1620,8 +1628,8 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	38C07ACD48934A49D0CE04B9D0890495 = "破片弾"
 	BF45DCA846F2AD1C3F963A89F78A08B7 = "Fran Avilés"
 	5DD21B47443D0492FE7B8D99247418A8 = "凍結を高速化する"
-	B18497B54F1CD8EE756AF2987151992B = "ものをより速く冷却する"
-	D90D656A4693AA92D3821B8675889ACB = "凍結のパワー"
+	B18497B54F1CD8EE756AF2987151992B = "凍結を高速化する"
+	D90D656A4693AA92D3821B8675889ACB = "凍結力"
 	15961D3B40DCAB1CBA4E05979A8C4563 = "味方! 味方だ!"
 	7C49DD0D4CF46237E1695295EC9FAC0D = "誤射だ！"
 	D8C85C96470B857C9186F59D67A731F9 = "フローズン"
@@ -1776,6 +1784,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	00CDC2814E5FF981C46300B068D682F5 = "グリフィッドの卵"
 	80639C5F4A78BBC44A8D73A49CDB4DE1 = "グリフィッドエクスプローダー"
 	7B4E597C4CE46978190B01BDF4DDA9D7 = "グリフィッド フロスト プラトリアン"
+	BE68E3DD472602BB09ECAC962BB341EB = "グリフィッド ホーダー"
 	DAC649E44C864E3F42BDD98F8C434126 = "対グリフィッド神経毒コーティング"
 	FA8F44C946CD7ABC7358039A193E66E7 = "グリフィッドプラトリアン"
 	46ACC5DB49459F62F66B59A004754A16 = "グリフィッド プレトリアンの攻撃だ！"
@@ -1784,7 +1793,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	F7464ADE4437E5B3F6902DB072133523 = "グリフィッドスウォーマー"
 	F842677547F73DCFC06EFD80D085CBF6 = "グリフィッド スウォーマー トンネル"
 	B8D8E4D846F02E721C4AC4A0B19118A4 = "グリフィッドトンネル"
-	4B8A3B6D4459A7039BEC88B7E6A5B4E2 = "グリフィッド ベテラン ウォーリアー"
 	EBE02D2E41935D99B0636AA8053E5CB5 = "グリフィッドウォーリアー"
 	1CF279344F67E8BC574EF5981DA77522 = "グリフィッドウェブスピッター"
 	EF2539364E0BBD773683F5BD0E0107D2 = "行けボスコ！"
@@ -1818,6 +1826,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	5C6DF65F446C7B89969017A738386B6A = "グー ボンバーが来るぞ！ "
 	7CE7B1F1428289A0B8AAFBA575417968 = "じゃあな、尊い鉱物達よ！"
 	3B5325364C40C370726CF9A8FA6C83D6 = "いい取引だ！"
+	452A367E4319D1FB5E3D2A9B0F8685D1 = "よくやった。武器ライセンスがアップグレードされたぞ！もし精度が全てと考えているなら、良い判断だ。君が M1000 クラシックを気に入ると私は確信している。"
 	619A5A814CFFA896CF713888B8329155 = "よくやった。アサインが上手く進んでいるようだな。"
 	B097AD6446192293E60F6DAFCD9DBEC9 = "綺麗にし続ける事を願うよ"
 	6307CD3042EA2C8FD54DFAA0588BC23B = "おはよう！クソッタレな世界！"
@@ -1832,6 +1841,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	FC1C5E3147ED3C80EDC195B9AA4FDDB9 = "いいぞ、チーム。我々は目標の半分まで達成した。残り半分だ。"
 	5637A86B4A5DBF30D6064DB572CA2542 = "よくやった、君たちをこちらに戻そう。"
 	FCB3B7DF4ACC95682B1BDFB0D2C0D429 = "よくやった、君たちをこちらに戻そう。"
+	41E7177C4B7021E9006E9DB8BB3E7140 = "よくやったな。管理部は君が我々のヘビー オートキャノン、"サンダーヘッド" を扱えると判断した。…だが自分で足をぶっ飛ばすなよ。こいつはとんでもなく衝撃が凄い。"
 	0BADAD5F46C59E5E9CF825B6632D2FBC = "よくやったな。管理部は君に新しい武器ライセンスの発行を許可した。自分の足を撃つなよ…"
 	60F3AB994A0BCD6BC747E1B766E5408F = "よくやった。目標達成だ！M.U.L.E. からエスケープポッドを呼べるぞ！ "
 	B41BD8B8452956E50A99F88CA674895B = "よくやった。目標達成だ！M.U.L.E. からエスケープポッドを呼べるぞ！ "
@@ -1892,6 +1902,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	AA5DA6384878C7D234339887759B6B39 = "熱"
 	7E486A12470C96225227A880AD9F8DB8 = "助けてくれ！"
 	EC16890749A927E0816630B3B42F35E4 = "助けてくれ！ヒゲに砂が入った！"
+	CE0A0DFA40DFCFD53C5ECDA179364303 = "ウゥゥグ"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "[Laserpointer] を押し続けレーザー ポインターを起動します"
 	96A8E6A14FEFCD974370709BCCF5FA74 = "[Laserpointer] を押し続けポイントした後、[Fire] を押してマーカーを設定します"
 	565BE2CA4157D153FE965A8438508B5B = "[Laserpointer] を押し続けポイント後、[Fire] を押してマーカーを設置する"
@@ -1905,10 +1916,13 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	8EB05D1D4CAC8EA907FF9CB896638929 = "非公開ゲームをホストする"
 	78AA4598413B0966965A5B81CD0CC24E = "公開ゲームをホストする"
 	40DD0DBB4C7BECA793D472BB978E6BBE = "人事がまた騒いでるぞ。「エイリアン異常発生」つってさ。処理するぞ。爆弾を持っていけ！"
+	E9F1C6D947B041CCFD6B41BA91F0C58A = "ウグググ"
+	A8AFC97E45510023584AA2B2E6A27141 = "ウウウッグ"
 	D1AAB5144A60C1CB76469B8710BC8BAF = "ヒュドラ"
 	7350CFB4480DC5425C63A09BFF0AAF3A = "クレジットの為に売らなきゃいけなかった！ "
 	6D7CFE1047CAE6AFDBB27D93DD3F3DF9 = "おいおい、俺無しでこいつらどうやってこの肥溜めをやってくんだ？"
 	EAE8A9154F0E44FB2BB347831B1207E6 = "ハッ、予想通りに終わったな！"
+	4D563C51409295E4CFE3869F314FDCB0 = "マジでキツかったな！"
 	2707F1734BB448FC03DFCF880F3DCD00 = "髪"
 	17B453774C596F888DD633ABFA394B5E = "触発引き金"
 	70AAA06043DC7BD630D669AC3B3CFC85 = "触発引き金"
@@ -1916,19 +1930,11 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	98EB44DD4B91B80E0F20E28FA22F97D3 = "あなたの青い目を破片や臓物から守るために便利な一品。"
 	43853D14403E8C70DB9FB7BC01350C91 = "持ちこたえろ、補給が向かっている。"
 	631B26D74487C6C769C74BACAA22F99A = "しっかりしろ。このウェーブは大方片付いた。残りを仕留めろ。"
-	D5899831467E63A983BD75B02C58739F = "硬化弾"
 	1428476D46204FB9B1EAA881E8436FD8 = "硬化弾"
 	9FB0E4E24B11742B31093589AD98CA31 = "硬化弾"
+	D5899831467E63A983BD75B02C58739F = "Hardened Rounds"
 	1468E7A5462C6F83AEB14ABFF14F6F50 = "強化ガラスのゴーグルと強化鋼。誰もあなたの頭を揺らせない。"
 	4D4D584A4B800FD186BAEDB67012406E = "強化ガラスのゴーグルと強化鋼。誰もあなたの頭を揺らせない。"
-	D234CB9A4CB33E35859A008D44C30B07 = "ハザード 1"
-	B4B917114A84B4B7F995BDBC8A2F9676 = "ハザード 1 - ローリスク"
-	9D37E9CA45B017DD9BD1B983E9BC4536 = "ハザード 2"
-	F6739FCE4A2054843B4184AA8A000173 = "ハザード 2 - チャレンジング"
-	53DC7BCE414A912859DA3EB4B80F4A6B = "ハザード 3"
-	ACC85EC044AF87F6DC13CCA5D4ED898F = "ハザード 3 - デンジャラス"
-	70E7F9674F493E5EA96CA191FD614CC4 = "ハザード 4"
-	B3022E03447A94E03051E0BBC072D07F = "ハザード 4 - エクストリーム"
 	7CFC9F3043146E985E0D809F6881BF36 = "ハザード ボーナス"
 	7466072345C05210268EDD9DC408CD72 = "ハザード ボーナス：+{bonus}%"
 	925B88C9473D02AD5A60A7B7547AFBA5 = "頭の揺れ"
@@ -1944,8 +1950,8 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	90629EDB4061CBE76AFF8BABF43F64A7 = "熱放射"
 	480604F643F988F51C0436BFADC6E998 = "熱は殺せ"
 	CBB0064744F3EBD40DEEB0B0CFDD2A9B = "あなたの周囲の半径5メートルをヒートアップする"
-	F2E7659C4EB2A535D1597F99F8DDB3B5 = "チャージ後の熱"
-	B5AA9A704EFADD2E3B85DEA8842E9F3F = "チャージ中の熱"
+	F2E7659C4EB2A535D1597F99F8DDB3B5 = "チャージ後の熱量"
+	B5AA9A704EFADD2E3B85DEA8842E9F3F = "チャージ中の熱量"
 	D548CF454D1EBCA33D4F6380FA13D2E8 = "ヘビー ドリル スーツ"
 	5AFE3D0A4C885C713F1E039BAFAAE675 = "丈夫なジャンプスター"
 	0A819D464766D21E79EE4C8CA013BEB1 = "頑丈な採掘ヘルメット"
@@ -2021,12 +2027,12 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	F23A351E4B564F602C0F2CADF34C8CBC = "ハムゥグググ"
 	9A01659847E0365AB366638A3501DC3E = "ホーガン"
 	5E1D5BA546EAE95ECC6D5788F57E902C = "[Flare] 長押し"
-	DE4D6AAB448AE6CF744DC796AE112689 = "[Laserpointer] を長押しでボスコのミサイル攻撃"
+	DE4D6AAB448AE6CF744DC796AE112689 = "[Laserpointer] を長押しでボスコのロケット攻撃"
 	58CCF54F44BB986B669FBCB984CE2CA9 = "[Laserpointer] 長押しで洞窟をスキャンする"
 	2BFF3FB24C513ED65A19FD91B5E08C13 = "[Mine] 長押しでつるはしを使用"
 	BCFE67FF42A1D718A84C3E8AF7B827B9 = "[Mine] 長押しでつるはしを使う。掘る鉱物の方を向く。"
 	AB713DA84A255DC0B9E69BB8F63D3767 = "[Shout] 長押し"
-	D040A1484FB26920A4264D88D439142A = "[Shout] を長押しでボスコのミサイル攻撃"
+	D040A1484FB26920A4264D88D439142A = "[Shout] を長押しでボスコのロケット攻撃"
 	E152CE3C4651EBDFED9E7BBE22D38573 = "[Shout] 長押しで洞窟をスキャンする"
 	30E82465429260C1E4F47E992AB1701A = "[Use] 長押し"
 	B3D7FAF044B6E17B765BB597E44ACBEC = "[Use] 長押し"
@@ -2069,6 +2075,8 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	3A35E91C4472DC693964859E4BA00EAE = "ホックスアイアン"
 	BBF194A847793B8D61F65B981D311276 = "ホックスアイアン"
 	6631D9B847BC5064556559AD8DF29E65 = "HrgHrm"
+	75C6D8DC4679143FE8F751B3C8D5FDB0 = "ウグググゥ"
+	9CBCF22C440AABD3C683B5825C955E24 = "ウググ…"
 	EB981AED420DF448E78A13B6FCF68B0C = "ふむ、これは良くないな…プレトリアの集団が君達の方へ移動していると確認した。"
 	475B05914598AF2ACF3F779E31ACF98B = "フンフ～ンフン～"
 	288C438D4BBE5EE9CCA086B99FC51E7C = "うーーーーーむ"
@@ -2080,7 +2088,11 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	966210AB4D134DD2005662A6DED913D1 = "ゴホン"
 	C41AEF634DC0F0093F0D10898DBEF572 = "ゴホン"
 	B4079BD94D5C57650CB3C0BCBC26D15B = "HrrHRMM"
+	0BF018F441BA791021C4CE9CDFCC9F11 = "ウムムム"
+	1F87952D457E6A134FFDA8B243EFF425 = "ウゥゥゥッ"
 	6FAE7DA3458715E0DAA11D935D8F092D = "フラァグググ"
+	1648DDF24EBDBDDCE0B8DEAFE101925E = "ウウウ"
+	4AE336994ED63AA09D40ACADFBBF0149 = "ウゥーグ"
 	753CADD54189504C5299619878C8B917 = "急げ！ドロップポッドは待ってくれないぞ！"
 	BAD2E7A64BE9CAC7F83BE9A4E2BC9A36 = "急げ！もう若くねえんだ 知ってんだろ！ "
 	3305C68D4E9BAA729DD29A8258303F74 = "はやくしろ！飽きてきたぞ！"
@@ -2088,11 +2100,13 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	71EA6BC04E6EFF169EA6EFB1FD1597D8 = "ヒドラの頭"
 	7B01BA6D4E2177EDAE58A9A9B75A22B9 = "俺達はやり遂げるぞ！"
 	BF78433640226D2E6D6271A32C72C134 = "思うに俺たちは成し得るぞ！"
+	40077DEF437E04A1D2E131A219B7DFE1 = "管理部が発射ベイにラドン ガスを流し込めと私に命令する前に、飾り付けを残しておく事をお勧めする。"
 	6425493B4EF2C236F4FC19987541A529 = "時間がないんだ！立ち去ろう！ "
 	9454439E4A02D62F8062B4A9EF8C9E10 = "俺すっげぇ！"
 	98B912784FC022D464B45E81B1FF194C = "俺ヤバイな！"
 	FA37CB1C4939E022D17010BE1EDB09B2 = "銀河の船旅はもう準備できてる！生まれ変わったらまた会おう！"
 	45D16DA2408719DB4169DC8734D8513F = "もうここを辞めて出て行く準備は出来てる！やったぜ！"
+	59D35EC346CAD1C8223ABE8A0CEE507E = "ハマっちまった！"
 	44670620493E470D3343C18289458F1F = "俺がモリーを呼んだ!"
 	29E8650542B5B74D49E91DB70AF75D41 = "俺がトロッコを呼んだぞ!"
 	FC1B0AA34DA3A072307323B4AC89F218 = "俺がM.U.L.E. を呼んだぞ!"
@@ -2135,6 +2149,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	3A579851475A288FF152AE88B30F898C = "オーバーヒートしないか見とかないと！"
 	82E981B84ACAE479718D9A9B7A4DE4DD = "いいチームだ！"
 	B4AA6A7041D094A4C986168DBBFC8A99 = "まだマシな方だ！"
+	DA6C13AF47996DD1C62614B8A213A303 = "まだ最悪ってほどじゃない！"
 	99A25A2B4239CFE4EBEBCC8522DF1342 = "ドワーフのように生き、ドワーフのように死ぬつもりだ！"
 	EDF2C707420B672A44B8F7BCC7A0CB43 = "ドワーフのように生き、ドワーフのように死ぬつもりだ！"
 	F66966BF43ED115B18C4B3B24F00D432 = "ドワーフみたいに生きて、ドワーフみたいに死ぬだろう！"
@@ -2196,6 +2211,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	5A55AFD44B2F49585D7E77B7D6FDF3BA = "仲間だ！落ち着け！"
 	A308B2B4414D4F8E2EEC4099AF5B9A8B = "高い所は怖いんだ！"
 	DF91BD804022ECC250D46E979F262914 = "女の子たち、俺は戻ったぞ!"
+	075EBE914921090FFB00BFBD50094D66 = "何も見えない！"
 	E2078A754D963EBF72960EBA6ED69E3C = "目が見えない！"
 	5CD74A394ECE21FD6B4CACB590415EFB = "やられた！"
 	6E5317474A045B49A09B0F9C4F0AE21B = "やられた!"
@@ -2220,6 +2236,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	384A1F8B47453927B9C5ABA82A365E11 = "弾切れだ!"
 	93E690544A035A89AD18DCA611E50880 = "撃ち尽くした!"
 	A575CA444D4ED14E91D290AB09CEF5F1 = "俺は麻痺した!"
+	042A81424FF0821972B4458BC38270C6 = "君を誇りに思う。入社以来、君はよくやってきた。まだ青ヒゲだった君を見た時、私はすぐに君が死んでしまうだろうと思いだしてしまった。それがどうだ、私の考えは完全に変わった…君は成長するどころか、それ以上にその能力を証明した。管理部が君を昇進させた事を喜んで伝えたい。Rock and Stone！よくやったな。"
 	87E9E30945010106A986FEA5A1AE4EA0 = "俺は戦闘…じゅ…準備ができてるぞ！今すぐあいつら出せ！"
 	8CEF73E64AD258D5D598B4A52BD4821E = "準備完了だ！"
 	31C8A8D7469927CEA8ABA19F7BEE2465 = "よろしくな!"
@@ -2235,7 +2252,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	A71F8B0A445CEE92B5253A8DD6AC0DE8 = "IFG"
 	9096D3A9460FED0BC936D8B3B8365E48 = "II"
 	E72B700842BA160CB2F066808B1059E9 = "進行中"
-	878D07B640CB9FB59A6342ADCC21EC0C = "非稼働"
 	2F1468914439D27056E058B2FD0F4293 = "接近中
 燃料電池"
 	CE21EAD448E542501C1BA686FAB1D2ED = "接近中
@@ -2252,6 +2268,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	A658C5A2488B238E0403478DD4695CE9 = "もみあげすらも背筋を伸ばせと怒鳴る。"
 	DC4FFF2349086E213EB75097C78E9DFB = "もみあげすらも背筋を伸ばせと怒鳴る。"
 	E48FFBA04C58162ADAE29F82AFFCA26C = "もし M.U.L.E. がエスケープポッドに接続されているなら、鉱石をエスケープポッドの横側から保管できます。"
+	A8ECC318424475B36092ECB225289BBC = "もしこれが続けば、管理部はバーを閉鎖するだろう！それでいいのか？"
 	7762816C4C6962EA5FD33EA302EB26C5 = "'叫べば'、ボスコは実行中の行動を中止しあなたの元へ戻ってきます。"
 	6EB7699D489A8409E516638AB982BE7B = "もし迷子になったら洞窟システムのスキャンを要請をしてみましょう。"
 	07E9341B4715E109B5E3A6A4E627F90B = "壁に変わった見た目の岩の破片が光っていたならそこを掘るんだ！宝が隠されているかもしれんぞ！"
@@ -2262,6 +2279,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	45C0084A4707AECDDE0E39AF949E3A43 = "すぐにミッションを開始"
 	0645A9594F688F770079D989D1E464E7 = "衝撃コンペンセーター"
 	1D2DAB3B4A255077E8F5BEA6D62DC992 = "申し分のない仕事だ。良い進歩を遂げている。ほとんどのドワーフがこれほどまでのことはできなかった。"
+	21F5887C432B0BA342DF618913B4D4CC = "目を開けられない！"
 	66F0E28D499A2369799491AF83FEBFC4 = "視界ゼロだ！"
 	5940DD09483FB8A41478868CFCB8D073 = "第 2 改良ステージ ポンプ"
 	7E6F0B8347031C0757DA40956D753056 = "精度を改良する"
@@ -2269,7 +2287,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	D06E3BD64B1886FA4E75489D35012BA4 = "改良型イジェクタ"
 	E5D9788F40F556CBF081F7A7C17CCDF9 = "改良型イジェクタ"
 	CCCF713A4196DAD4B1562B92E8B71976 = "人間工学の改善"
-	CC933A8345F3459C5054EC9C2ED55AC5 = "改良型混合物"
+	CC933A8345F3459C5054EC9C2ED55AC5 = "配合量の改良"
 	8F298F8044CCAE707C8E138574B2C08F = "改良型モーター"
 	B6E6975B403E09888EED96B989CB9A0D = "プラットフォームの安定性向上"
 	27319746485E0E3523C4448ACEF28101 = "改良型推進薬"
@@ -2288,6 +2306,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 昇進したキャラクターはレベル 1 に初期化されます。しかしながら武器とそのアップグレード、パーク、クレジット、クラフト資源、バニティー アイテムは全て維持されます。"
 	64FB15C24E8ED2B9E943BBAD29DFB59F = "君のパフォーマンスが認められ、セキュリティ レベルが更新された。君はホクソセス全地域へのアクセスが許可されている。おめでとう。"
 	075D59304D4A871CE33297A70D614FAC = "非稼働"
+	878D07B640CB9FB59A6342ADCC21EC0C = "Inactive"
 	994499E54F6ED7CDBCD36C91E2C5C9FA = "発火性化合物"
 	4DA0B11345F109DD53883E99D5F49000 = "来るぞ!"
 	68C7E9E14BAA5165E29BCF90BF3E033D = "来てるぞ！対処出来るもんでやつらをいぶってしまえ！"
@@ -2297,8 +2316,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	2309F9154FDE8A1E7D6FF0B9D405A9FD = "プラズマ サイズの増幅"
 	FE7EA87647CD44BB927C6D99D647EF31 = "プラズマ サイズの増幅"
 	76FA14EE41250691A1AC2C9AE6C904AE = "範囲の拡大"
-	856AD218490E543BD1858FBB55E5C7AF = "敵に与えるダメージを増やす"
-	E9695F744C20E534E2299799F0153171 = "敵に与えるダメージを増やす"
 	0A45047A4242961A8B1EE8813757ACAD = "フレアの所持量を増やす "
 	6A0D79C041A5FF4C38627F8192868332 = "フレアの最大所持数を増加します "
 	90AA845242CCE865EE7BDDBF808B9C86 = "フレアの所持量を増やす "
@@ -2308,20 +2325,17 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	0CFEAE20454AB5604AE6E78E874F090E = "精度の上昇"
 	DC858B214DC2316D4067C8AE06BD5D55 = "チャンバー圧の増加"
 	CA24D346422B0858B8EE8DB63AB98681 = "ロケットの爆発による効果範囲が拡大する"
-	01E0966E42AD62591F083BB3DC9307E6 = "攻撃を当てるとターゲットのよろめく確率が上昇する"
+	01E0966E42AD62591F083BB3DC9307E6 = "Increased chance to stun the target on a hit"
 	8CA7B7594E027FABCA3FEF9BC3F9D490 = "射撃レートが最大のときダメージ増加"
 	522FC91A4FDEB07BC77A0F8B52C6B9B3 = "ダメージを高めるよう燃料消費量を増加する"
 	40CC34B044F5A8C3086032B657F81575 = "連射速度の向上とジャイロ安定化が高速化する"
 	6F16DBFD45BB49FF0CD9AFB2416AD8C1 = "スプラッシュ ダメージを増加する"
-	AB673F424CEC0EB9C7CDEEAAB4615A3E = "射程を５メーター増加します"
-	E5AC1646455C5F87B866478AC35D4A75 = "射程を更に 5 メーター増加させる"
 	98194E414043789C3D650BBFD18EBAEF = "持てるフレア弾の上限を増やす"
 	49CCBDF749D12728ECC97F8FABC6AC39 = "プラズマ ラインによるアーマー破壊能力が向上する"
 	1CD6C4AB4790067998617E9A55E78BBA = "チャージ攻撃が直撃するとダメージが上昇する"
 	E78BCAE64D329F38800D59BA2241F972 = "通常弾頭でのダメージを増やす"
 	361FED844443DA02EFFAD497231EED33 = "最大弾薬数を増加させる"
 	3E18B1134C670D647922609933C5310C = "遠くを燃やせるよう炎の射程を増加させる。"
-	EE2805C144AC50675F46E092585DB394 = "ジップラインの射程が 5 メートル増加する"
 	6B397DB34DA86277449B6F9FF93665A8 = "ボスコが放てるロケットの所持数を増加させる。"
 	0BC0F2504362D8A53D3274B859C4850F = "工業用ゴーグル"
 	B0C5803743F78BB0458B7381D8CAFB64 = "不活性ウラン"
@@ -2349,7 +2363,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	77A386154B88F4F15C7FEEA354FAE763 = "鉄の意志"
 	4E840A724E756FC5F9E8C0B2BADF8054 = "鉄だ!"
 	4013F89940C29E93B31DDABF6CA77BDB = "俺だけっぽいのかスペース リグが傾いてんのか…？"
-	F2C9209C401BC1FD9E770FBFC41359BD = "それは燃える！"
+	F2C9209C401BC1FD9E770FBFC41359BD = "それ燃えるぞ！"
 	37293DFD4F26A0E9924BBEA4966E0042 = "君にこれを言うのは悲しいが、絶対にダメだ、ドラム缶は次のミッションに同行できない。"
 	2F738DC94DAD08BABAAD4F9C648E40F1 = "それ燃えるぞ！"
 	9EC852D642E1CF2F0E7041BF688727E4 = "あそこまで届かない！"
@@ -2365,13 +2379,13 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	10BC63654EB95F055E3EEC90CEFAEC06 = "ジャムった!"
 	22E4AF5B420D47F6910C608247FB56BE = "よく似合ってる"
 	593658B54B74B419A48B018DFC41C735 = "未使用時に圧の回復速度が上昇する"
-	0A86F56941B5897FC4E013B955F7B962 = "似合ってるよ"
+	0A86F56941B5897FC4E013B955F7B962 = "自分にお似合い"
 	0A2B36D74C76EABE1EB975949D5FABEC = "これをよく見せるにはかなりの努力がいる。"
 	24A6355C49EF808BC3D248AFA8AD9B1C = "これをよく見せるにはかなりの努力がいる。"
 	94AA871A484F4AA6F4C1D4BB00AAF51F = "これをよく見せるにはかなりの努力がいる。"
 	CF74A6D0489BCD7221B8FE9CE45E9F17 = "これをよく見せるにはかなりの努力がいる。"
 	D3D9EEC041FAEB70FFF71F87CE63E87A = "これをよく見せるにはかなりの努力がいる。"
-	F32A3EF648C5880806618BB243C210B7 = "ロケットが再び発射可能になるまでの時間が半減する。"
+	F32A3EF648C5880806618BB243C210B7 = "ロケットが再び発射可能になるまでの時間が減少する。"
 	7932D96046B006A79DD0CFA445B33AE9 = "持ってかれた！"
 	E79DE8574BC6D761870D9C8AD2511104 = "これとビールの二択だった!"
 	D3EB9A3B40B3D6BEDDA9FD851B87B446 = "俺だよ、この無能！"
@@ -2383,9 +2397,14 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	1458ADA94DBDBB79C749B0BDE33C08B1 = "結局大事なのは洞窟の安全確保だろ？"
 	D3BC5E074C970B3353809481ADC023A1 = "撃てるようにしたぞ！"
 	0D7D45894E6018D74F0EAB983EF3979E = "君が俺たちのチームに加わるのは素晴らしいことだ！"
+	6E018A944E8F3EC960841F87CBEA258B = "倒したぞ！やったな俺達！"
+	FBCC8A5446B26A72CB09AA9CA3BE8C72 = "殺したぞ！やったな！"
+	0F4294174812E4871D9D67BE83F22613 = "遂に倒したぞ！"
 	53CF8FEF453FD79F589CFFBE8A97C532 = "不気味なおばけの登場だ…！"
 	524BFE9F40190E592013B2884E98E0D0 = "ただの風だ！！！"
+	BCBA5EA144FC20A4B2AF5984A3EF6FAF = "こんなのそよ風だ！！！"
 	CCD372FB41EF89801ABD508BCE38210F = "準備ができた！"
+	B235A0E24E409B676F9D5DB60875A559 = "全然進めないぞ！"
 	3629A1C444A1E26FA04C5CA5A822AC54 = "ここはすごく暗いな…"
 	52AC22B6407C9C73B1D6AA95C78B2E29 = "ここはすごく暗いな…"
 	E54B443F49792D2B9C0B5BA7A61726DE = "遠すぎる！"
@@ -2419,6 +2438,8 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	D3371BC24214279C70A211B34649917A = "よくやった！君ならそのままうまくやり遂げられるだろう。"
 	15409AD14F1F57BFCB433E85F95B2D9F = "上出来だ！ M.U.L.E. のボタンが起動された。全員で家に帰るぞ！"
 	3ACAE4AF402D8F62564994983E525DE5 = "上手くいったな! M.U.L.E. のボタンが起動された。全員で家に戻るぞ、チーム!"
+	B25B1BB64E6F4F7DF0860EB2868EA5BD = "よくやったな。BRT7 バースト ガンの使用が承認されたぞ。ただ気をつけろ。こいつは予測不可能な死を招く。"
+	6B89030548788F96B398CDA0A3CFC160 = "上手く行ったな。君の武器ライセンスは Zhukov NUK17 が使えるようアップグレードされたぞ。こいつは精巧ではないが、洗練されたと言うと少し過大評価されている代物だ…"
 	DEE0EFC2496C287BB3FB78A75F427980 = "上出来だな。君の武器ライセンスがアップグレードされたと伝えられる事を嬉しく思う。アップグレード ターミナルを訪れてみてくれ。"
 	1F05D8E6411C92B6EBF1DFB2C44D0CAD = "参加"
 	25B4DFD84DE65AE763F57B836DF8933A = "参加"
@@ -2479,8 +2500,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	526E12D643563C61D9A1CA97FF7CACB4 = "{value} 体ドレットノートを倒す"
 	4CB149DA4DA9156275D738AB089FC2CD = "スピットボールインフェクターを {value} 体倒す"
 	CDD553D7444B69F4C327F58367C50A7C = "倒した敵の爆発%"
-	A6E23124418722B4529F28BE7F7CE4B3 = "キラードリラー"
-	B6CE073A4D4A5EBA71B1E68BADEAF090 = "キラードリラー"
 	C5CC47A0438B2098D1C7B98AE16E9A98 = "キラー フォーカス"
 	B8C97C2D440FCE3AFC4CE2BE3605CD0B = "敵を殺すと精度が向上する"
 	4F712AE34E32BCB06175B58E60470F34 = "ターゲットの弱点を狙い撃ちで殺すと、近くの生物は恐怖を感じて逃げるようになるだろう！"
@@ -2524,6 +2543,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	7D2A712B40336257DB0A15B919E3D88E = "レーザーポインター"
 	E688B4A04FC890C10729EAB45BA3D819 = "今日の1杯目はポッドまでビリだったドワーフのおごりな！"
 	9FE6422F4BFDC9886677C49255AD4C18 = "最後の手榴弾だ！"
+	D0923E8A47EC1E9AB06FF3B3C6CA4834 = "最後のミッションが終わると君が昇進する番だ。全てを出し切って管理部に認めさせろ。"
 	AFDBBBD64098AE715404DEB56DC587A4 = "最後はこのリーフ ラバーで終わりだ！"
 	03771CB741D6A8F7585D8CA572DF34A6 = "発射コントロールが発射チューブ内に不明な物体があると報告している。どうやらフォースフィールドを妨害しているようだ。何が起きたかわかるか？"
 	4774F72D4DDFD43AC87114A145289047 = "ソロミッションを開始"
@@ -2587,6 +2607,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	129FFA634AE01D7F89185EA4180BC4D1 = "ヤツらに痛い目見せてやろうぜ！"
 	CE4EDB6B40C905DFE1FC26A1F86FF70D = "あいつらに痛い目を見せてやろうぜ!"
 	1B82DDBF439821091226D596F8C2E9C8 = "離れるな！"
+	38CE78B74EB9EDB614E720B8B193C6EC = "纏まれ！"
 	49D18B464DAF172E2184BDABE12EA571 = "今後は離れるなよ！"
 	6071A7EE418497ED9948CBA6C30E03A6 = "こっちで一緒にするぞ！"
 	C09B96F04618D7DE4A03CF843410341B = "ただ…もう…二度とこのミッションの話はするな！"
@@ -2662,6 +2683,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	7F47EB964AE9AC0FB5ECA7847A904FEA = "射程が向上する"
 	22B8B49D4665B69EEFDD3DBCC2652F20 = "あのヒヨッコを見ろ、チートしてるぞ…ひ…ひ…ヒヨッコみたいにな!"
 	57F1C361421091DD955EB79880C0F16A = "これを見ろ！"
+	9211351A42993364965FAEAF1787CEAD = "こいつを見ろよ！"
 	EDBAAC90410B9F3FAA4086837DFE0147 = "壁にある茶色い土を探せ、近くの空洞への道を塞いでいる。"
 	4C36C795417048E41230B4952D5FDE85 = "ここを見ろ！"
 	2643F6364CF1CA3F93AC92A5A64FC37F = "見ろ、マクテーラ スポーンがあるぞ！"
@@ -2778,7 +2800,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	E1E6FC3E499E0E8617D98690D63948C5 = "モデレーター"
 	EA807C684450BB19B921639A3BA5D580 = "モデレーター"
 	A9132B7247ABD90C9481E0B20B97C07D = "M.U.L.Eの足"
-	8C7210B94148CC89BDD79A93A4BCFA0E = "MULEは運用可能だ。よくやった"
 	3DF99B2E4999F93C5F384D872E5BAF0B = "M.U.L.Eの電力が入っている。いい仕事だ。"
 	084D891E4FAF8D86DD63F3AE40B33ECB = "異変:"
 	8E528B6546FC4F5290FECBA070D3150D = "マクテーラ ブリュー"
@@ -2802,7 +2823,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	89E0839747EFD08DE922DBBC27057378 = "マグネシウム コア"
 	5049AD1E40B3EAF23AB69B93B0B6A47D = "磁気ベアリング"
 	738AA45E45B66323D82E0EA1272162DA = "磁気冷却"
-	88B14DF044FEC12E9B9070928F477A09 = "磁気冷却"
 	FA7DD0A74185D56ACA19CCB272A517D4 = "磁気冷却"
 	49C7FAD249FE20FAC73765B876BBE29F = "マグナイト"
 	A37C1AE94F895FFB3C5698B9AE07AD71 = "マグナイト"
@@ -2872,7 +2892,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	EC9FC44642BC027CA1DEAC874E312128 = "小型 Mule を発見した！"
 	F1FB582C44694DCE9E034CA2BB4BAC27 = "マインヘッドが発射した。マインヘッドが安全になった時にエスケープポッドが来るだろう。持ちこたえろ。"
 	6F33D46540B469187F686FA6185EE2FA = "マインヘッド発射。君たちの付近で激しい活動を検知した、エスケープポッドが到着するまで陣形を維持しろ。"
-	0DEC79714D5A010A1B93F398EC66C794 = "ドリルヘッドが戻ってきている。離脱できるようになるだろう。私達が君たちを回収できるまで必ず持ちこたえていてくれ。"
+	0DEC79714D5A010A1B93F398EC66C794 = "ドリル ヘッドは回収中だ。もうすぐ離脱できるようになるだろう。俺達が君らを回収出来るようになるまで厳しいだろうが耐えてくれ。"
 	AA3118044C4E189F96A24484037819DE = "ホロマイトを掘る"
 	B9B624C3483D9BF9F64B2DA615F04232 = "掘れ！"
 	A757B45145A0E7EEE5875B9E26A95465 = "弾薬のためにナイトラを掘るぞ!"
@@ -2896,9 +2916,9 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	7CCBAD3442225360D935F3A4271837AF = "採掘遠征"
 	FBE9BF614BF41D00F681DD93CFA4E25A = "遠征採掘を完了"
 	523D22CF468D4BC7909424843D857E55 = "採掘の達人"
-	3EE542D845985E85A45D67B40EE793D8 = "採掘速度"
+	AA8F120D4A3213528FDAA6B10B6C1FC4 = "Mining Speed"
 	5B46DB0F4B63F2A351A20D838A0D2368 = "採掘は重労働だが、俺達はドワーフだ！"
-	3B5858E5416342C78758CFAEB9500692 = "ミサイル攻撃"
+	89C9665C4C5C179318B78EAEF9BB7C12 = "ミッション完了"
 	9B6006C44FC0D4CA60085CA1516F2D85 = "ミッション コントロール"
 	BA4EB6AC430489BB03E2909FF293862C = "ミッション コントール、お前は無愛想な奴だ。これをお見舞いしてやるよ！"
 	009AEC2C4D9A417BE69EF4B6376CBCC6 = "ミッションが選択された - ドロップポッドが起動中 - 全員乗りこめ!"
@@ -2953,7 +2973,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	F3E44330438218DCB021E2AB804DFDCF = "敵に対してより効果的になる"
 	ECAB92CE48F2EFB63682669A17B4C9AF = "電撃ダメージをより多く与える"
 	70786CA0452E01014CC5E3AA67EF7D96 = "ストリームにより多くの氷を形成することで、より多くのダメージを与える"
-	7BE9FA03475FD899758F1F851D308C9E = "ストリームにより多くの氷を形成することで、より多くのダメージを与える"
+	7BE9FA03475FD899758F1F851D308C9E = "より多くの氷結成分を噴射しダメージを増加させる"
 	4FA3FCBB4DF4D48DC52FD092D25A63E3 = "弾薬ごとにより多くのペレット"
 	1CD875AA436767512261BFA237F77342 = "モーカイト"
 	47E9789E48473348B110688FDB99C13F = "モーカイト"
@@ -2982,12 +3002,12 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	7FB6FA4941DDECB9210B079209D7B8F0 = "良くなった！"
 	BE251AEF40EAD429C1D0E1BB1A9C45C0 = "M.U.L.E. は満杯だ！！もうモーカイトはいらないぞ！"
 	37E7E4F245E3BFA381798187F06571C1 = "M.U.L.E. がまた機能している！よくやった！"
+	8C7210B94148CC89BDD79A93A4BCFA0E = "Mule operational. Well done"
 	CD169B8F4540D97173D1A180A5C920B4 = "マルチプレイヤー セッションが終了しました"
 	363F35F64355EAC74E3A0F9F7476EE46 = "ムスカリのアングスティフォリア"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "キノコだ！"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "キノコだ！"
 	F7855C5E422A4EB627BE18A6DE59B1A9 = "音楽の音量"
-	30042EA7460E7195FAE2478BCF59B0C2 = "リロードする必要がある"
 	CF3CE9A34FE3E0266B35AF86199D82F5 = "俺の服を洗うのを忘れるなよ！"
 	15BC54F547626ECE1C9638AAE3958116 = "ギアのアップグレードを忘れるなよ！"
 	D34561254F824828A8B09AB13E3CFCFA = "ミュート"
@@ -3020,7 +3040,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	9B8586BC4414EFB0BAB5E38F6A9ADA2B = "チームミッション中は利用できません"
 	BEAFD9E145E1E7FE625C33AB9FFE6401 = "NOTIFICATION！"
 	84C945F848FA7F317C32F79C126EB5DC = "釘とテープ"
-	9EDF5DBF4849E85B6CF6B0B2A3B78AFF = "名称"
 	B3B744FB426F9073D61853AACCF2DBC5 = "名前"
 	4CC9CA27480CDCEB905D1C98A84FAF01 = "名前とクラス"
 	65F0C3784A451E1DE17EB89F1512D692 = "ここに名前"
@@ -3062,6 +3081,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	EC3C09D9464135146A4851AEB0CCA50C = "夜を刻む者"
 	F0EAD83746FF3A2E0D994CA25A6B0669 = "夜を刻む者"
 	F40458B94C28FCC4CDE8678B32ADE8E2 = "夜を刻む者"
+	9935AB7C40E9E0F4B476729E05016394 = "おやすみ、このクソ野郎！お前が消えても寂しくなんねぇよ！"
 	18685CF04FA97AB7BCEEEE9F775B4F6A = "ナイトラ"
 	7D6D504A4ED99AB7C3A32DB8F9BCDC2B = "ナイトラ"
 	B63AAE8C418C838D27FDD1964481155E = "ナイトラ"
@@ -3069,7 +3089,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	E5A36FA24D99B344104D83A4EAE92B4C = "ナイトラだ!"
 	5CCA8D0948F25989D6B9339428BD1363 = "いいえ"
 	AE2F43D8452C5727F951A493A1B2DFE6 = "いいえ"
-	D2FF5BC44340637E40958D806B85302B = "弾切れ"
 	738CD17E4E82744999AB1D8FCD127592 = "髭なし!"
 	6E3A90D2428BA97A1B2C8C977E25FFB9 = "ゲームが見つかりませんでした"
 	9A701E084E08F61657F94C9210B9696D = "ヘッドライトなし"
@@ -3088,16 +3107,14 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	F890235343A1F91E25E278A9671897B0 = "まともな鉱夫はそれ無しで家を離れないだろう。"
 	84023C444898C3165552E2A6CED91EDE = "記念ホール内では走るな！"
 	0FE4CC0C4C3A5DA72A8446A809590AA5 = "入れよ！"
-	7802D40B43A01821F6C955BBD347C5D2 = "なし"
 	4AB87D13424FA95FB6657990E5FB9458 = "うわぁああ"
 	37A5BAA140396EE910A7D38B291CFEBC = "だああああ！"
 	FDBBAE124E3D218793143E9D416B934C = "うわーーーーー"
 	3BCAD6D04A741CCF70D7F58C77690D15 = "うわぁあ"
 	6DB7536F47654EBAB8DDA8ACCF2ED0E6 = "ノーマル"
 	74D13FE94A82AB044ED0218B4515D516 = "ノーマル"
-	B7E8693D48943E06E3E77C9E29A44F0E = "通常ショットの跳弾"
-	929C00EA4DD2DA4B12C718B74F359085 = "通常ショットが壁で跳ね返る"
-	A3215453485159D8764D77A5990F8386 = "接地していない"
+	B7E8693D48943E06E3E77C9E29A44F0E = "通常攻撃の跳弾"
+	929C00EA4DD2DA4B12C718B74F359085 = "Normal shots bounce on all surfaces until they disappear."
 	7F99AF0C4FD0D46D49BC12A4D33A9F55 = "危険すぎ！"
 	012E832C41B0C601DA207982AE16EFB5 = "伝統的ではないが、ちょっとした気品を漂わせる髭だ。"
 	B30D619444DA46EB7B132597EBBC0C4F = "伝統的な髭ではないが、この髭は気品で満ちている"
@@ -3134,6 +3151,12 @@ But well done. :D
 	EB91CA46489DF7088568FFAFE7185750 = "何もない！"
 	15BD33EE46512A80FAA34489B2B37EDC = "お知らせ！"
 	4F889D684C3AFE8D1AC069A6A68F6111 = "これが本物の音楽だ！"
+	4908776C44912443716A5FB890D9180D = "さて、遂にあなたもトレーニングが終了した為、ここで社内横断鉱物売買ネットワークを紹介したいと思っています。DRG は従業員一人ひとりが目標を達成できるように図らい、また達成感と交流を促す事が重要であると考えています。
+
+簡潔に言えば、必要な物を購入し、不必要な物を売却して下さい。なお僅かな取引手数料は、DRG が行う管理、税、輸送、評価、手落ち、保険、税金、損害賠償、価格操作、広告、メンテナンス、賄賂、そして税金に割り当てられます。
+
+敬具
+管理部"
 	81192BAC43EAEC0E9910289D3B9E2DF3 = "いい買い物ができた！"
 	F6AC26424E66A86ECF11FD89929D26D9 = "難しくないぞ！俺たちで直せる！"
 	7FF8D25A4628B4EFE1C301A1037109A7 = "おい！今すぐ店を開け！"
@@ -3178,6 +3201,7 @@ But well done. :D
 	134D283042E0C88A4DBBF7A0809D6256 = "よっしゃ！"
 	35E3B2F044AA5109C619F295872F562E = "いいぞ！"
 	CA557EDB4435615E0A90D59738C4DF10 = "やった！"
+	F0A532634E709E6A8B2267BFB12F0A51 = "そうだよ、これ俺が話してたやつだ！"
 	15FB9644403E6D03ACF31F9C3E302D8A = "お、あれいいね!"
 	6B582CFF4A1DC45C99AD00A0B26E9C3D = "よっしゃー！"
 	42FA9A114706890F4004FC87639D1286 = "もう一杯必要だ…飲むぞ！"
@@ -3226,9 +3250,11 @@ But well done. :D
 	CE6FC0DC4807D1957DDACF82F69E5699 = "リーフ ラバーひとつ！…あと薄める用の水くれるか！"
 	E51ADE8A4FDB509121F63B8F9A6A7FE2 = "一匹倒した！"
 	39DB91394D8AA4798DEBE3ACB62928A1 = "無能なドワーづを再び起こせるよう、蘇生キットを 1 つ搭載する。"
+	8F119F85466448EE6CF76493B3289680 = "無能なドワーフを再び起こせるよう、蘇生キットを 1 つ余分に搭載する。"
 	5766E28648217C189877DBA135932EF4 = "やっと達成だ、これでつるはしを置けるぞ！ま、それもいい感じのデケェ洞窟を見つけるまでだがな…"
 	FE339F6341F03A13F040A4985F147F64 = "最後のミッション、終わったら俺は自分の醸造所を作るんだ…！"
 	96570AC5432878FA629835B2B9A38B56 = "アサイン終了まであとミッション 1 つだ。その調子で続けろ。"
+	55F9A4114AE7FB01BCEAAD9117C86EBF = "後たった 1 つのミッションで君は新しい武器ライセンスを手に入れられるぞ。その調子で続けろ。"
 	5FF8D81747E9F0DDE613469664B89123 = "DRGで古くから愛されてきた1対のパワードリルは圧倒的な掘削力を誇り、あなたの仕事を効率的に進めることでしょう。ただし、決して仲間に向けてはいけません。"
 	92B400A946D61D5F92F789BE8C04148C = "DRGの武器庫の中で最も先進的な道具の一つ、自立式セントリーガンは害虫駆除を行うのに必ず役立つだろう。"
 	932D2A1848A5A5650900C2BB19182FA4 = "DRGの武器庫の中で最も先進的な道具の一つ、自立式セントリーガンは害虫駆除を行うのに必ず役立つだろう。"
@@ -3268,8 +3294,8 @@ But well done. :D
 	F63322B34353B1D0A2F1CDB616C277A4 = "自然生成物"
 	F281BBBC4B2A9DC20A3527A0980B7A15 = "痛っ！痛っ！痛っ！"
 	3F74F79440BF376C9471EEBC88675AF5 = "痛え！気をつけろ！"
-	6D4ADC7E46B2B3F042B165B4C8F39259 = "我々のスキャナーでは大量のアクアークが埋蔵されている事を確認した。我々はできるだけ多くを採取可能なよう君たちを重装甲リフターと一緒に送る。また極めて大規模な生命反応をこのエリアで確認しているためテキパキとやれ！アクアークは壁の中から採取できる。青く光り輝く物を探せ。では仕事をしろ、チーム。"
-	84DC12DB43C45C6584DDA1A518B09C22 = "弾が切れた"
+	6D4ADC7E46B2B3F042B165B4C8F39259 = "Our scanners have picked up a MASSIVE deposit of Aquarq. We're sending you in alongside a heavily armed lifter to get as many out as possible. We're picking up extreme biosigns in the area, so keep it snappy! Aquarqs can be extracted from the walls. Search for a blue, shimmering light. Get it done, Team."
+	84DC12DB43C45C6584DDA1A518B09C22 = "弾切れ"
 	3C3DBC024C6A8754E00885B0812366C5 = "射程外"
 	012F528546ADA04D3FB5E4AB92C191A3 = "弾切れだ！"
 	5DC1A62D43E2DBEC920FE5962D2D2AB1 = "弾が無い！"
@@ -3312,7 +3338,6 @@ But well done. :D
 	E7D4FC6845EA5DB57D915FABF1D436DA = "PERKS"
 	E922A7AE4D9A3CD28D72A394E6955EA0 = "PERKS"
 	2F1A9D7B42E5D494358A6A81A7B51E6F = "'{Name}' を拾う"
-	A7A2C9074DD5E8B2297F81A5C71F4E08 = "マーカー設置"
 	C79595634378DAEEAB740BB8AF143D3B = "惑星の地域"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "惑星区域:"
 	C21850D74844EA192C1FCEBA601C6261 = "惑星の地域:"
@@ -3488,18 +3513,17 @@ But well done. :D
 	81E0BC0744111153025DBF8501E34FFA = "[Flare] を押してフレアを投げる"
 	83817D27458B1FD38B91E891A62BDD13 = "[Flare] を押してフレアを投げる"
 	AC0E91D64CFD044FB8D3788B0971644D = "[Flare] を押してフレアを投げる"
-	4FBE38BA403A6720237DC2B4D2A89DB5 = "[Mine] を押してターゲットに攻撃します。\n ボスコのミサイルは再び発射可能になるため、ためらわないで下さい！"
+	4FBE38BA403A6720237DC2B4D2A89DB5 = "Press [Mine] to fire at the target.\n Bosco's rockets recharge over time, so don't hold back!"
 	BA5458B242D384E6EBF620AC8C30F419 = "助けを求めるには [Shout] を押してください！"
 	F334DEDF463D4200DD790697DB9D8EDE = "[Use] 押す"
 	FE5F49FA471159E1EF9A82A98ECF454A = "[Use] 押す"
-	31189F5A4B39E07927CC46A744FA73FD = "[Use] で使う\n [Jump] で落とす"
+	31189F5A4B39E07927CC46A744FA73FD = "Press [Use] to use\n Press [Jump] to drop"
 	B1D59F3F4199E484B5418BBBA9C43328 = "圧力降下率"
 	AF34EE3140CA8E19872475B1E30D4A62 = "圧力上昇率"
 	9DCB71D348F4D3C52C5F69ACDE16A0E1 = "圧力波"
 	A1FAC359403A1149F96076BDD450AF2E = "前のアイテム"
 	4226F3E441BB2EE57136CCBA52CC3F17 = "価格"
 	3800EE604BF5CDFDDA766AAFD3F381FA = "プライマリ目標"
-	5C13CED149995033C0909C9F427E3971 = "Primary Objective Goes Here"
 	C47825164A92608BD6B41387D4406826 = "プライバシー"
 	C44D1B634ACC393D2D57F4AC35DDA48D = "試験採用期間"
 	43F85C6440C5BA5AA70A3A8AFE982DEA = "処理中"
@@ -3576,8 +3600,8 @@ But well done. :D
 	D603ED844F6C9AF9604F8C92DBB0B1C1 = "資源"
 	AF59C94D4E5CE3AAB9FABC8590789489 = "後退"
 	922B2C64400F83A12481AD854CD7DB9F = "ROUNDS"
+	767201A24BF05D53A61200984D6773B3 = "ソロ ゲームを開始"
 	215C6F6348821CFE23F4529451852E51 = "放射性"
-	DFBA5ECB4414B8146C621180A9226E46 = "放射性クリスタル"
 	2CBAAF624F3F0F9138D4399ADFBB8B26 = "立入禁止放射性区域"
 	3E7D93A7446668D2AD62E68258FBE70F = "立入禁止放射性区域: 放射性"
 	9743C42447E6D89184DA8CA861851955 = "立入禁止放射性区域: 放射性"
@@ -3596,7 +3620,6 @@ But well done. :D
 	DDFACEC14A890C0D6FF8E3A5935441F7 = "連射速度"
 	FA0F3E3F4D5A5936DBA7D98B1E98B28C = "連射速度 +0.7"
 	0A9105BE4A7A48B2D134D99DAFC64C71 = "何千年も高強度のガンマ線に晒されたこの地域は放射性の灰にまみれ老朽し、変異した植物が生息する地獄絵図だ。進む際には細心の注意を払い、特に帰還時に完全な除染作業を行う事を意識するんだ。"
-	CAF4DDA448880A0870324E82132BB5BE = "再加圧時間"
 	6449368B45642AB433AE0A8AD6BB702F = "RePres"
 	C9BF88714B063BD7BF72CABAB93F0B46 = "射程"
 	76885F274F366DD853C91897DDC53024 = "連射速度が最速にまで上昇"
@@ -3614,7 +3637,7 @@ But well done. :D
 	4148504943DF17CE763B44855C9F67BD = "キック理由:"
 	E4E4D95A4F78B46199F5DE86B986C73B = "重力のリキャリブレーションが始まっているぞ！"
 	FA7DB98E41EC94BC0A461EBC2ADEE21B = "セントリー呼び出し: 長押し"
-	10374DF344DA1706BD000F85A1661507 = "最近死んだ労働者は記念碑に追加されない。それでも俺達は彼らを誇りに思っている!"
+	10374DF344DA1706BD000F85A1661507 = "Recently deceased workers are not added to the memorial. But we honor them nonetheless!"
 	002F325142327853A68620911CA2D5F0 = "反動"
 	C0B38C464A486467E59A0AAFDA140E4C = "反動コンペンセイター"
 	3264FFDE445370F8768DCDBD53D8B233 = "Recording..."
@@ -3650,7 +3673,6 @@ But well done. :D
 	2912370E498E51A44CC5B2847A605136 = "地域"
 	670883724DC8BDBEC2F722827F2657F8 = "地域"
 	0970786D4CABB3ED983676B16132E5AD = "普通"
-	2DA3580E48CDF0252147B79901771C68 = "強化ケーブル"
 	37C1CBDA40400EADD085728131C24FF1 = "強化インパクト スーツ"
 	AC3283684F5686709949AC97DB07A184 = "強化型パワードリル"
 	B8A48C7145EF4BB4CD7B01ACDA8D9A33 = "招待を拒否"
@@ -3660,7 +3682,6 @@ But well done. :D
 	682D13CF436099F0AD10D7AA8728DE79 = "リロード速度"
 	14B374BA4708D00AFA2A0FA8C0020C0C = "リロード時間が -0.5 秒"
 	98AE45944E7E14ED418D48A2B9D4B4C6 = "リロード時間 -0.5 秒"
-	CEF059F44BA2828ACF7693BE43308685 = "装填中"
 	E29140374EFDB6BB52EFD7ABC5578577 = "装填中"
 	166DE0404FD33386A3862492B630EC90 = "リロード中！"
 	4716B7644646D5F732B325BFE0893DDE = "装填中!"
@@ -3685,6 +3706,7 @@ But well done. :D
 	A7FE785444AF97C555C51BBF7AA29603 = "修理"
 	272C3E79462B4517552EBFAE50BE0FB1 = "MULE 修理:"
 	A0C4A8E04654DAAAA443F69362DB6937 = "返信する"
+	CAF4DDA448880A0870324E82132BB5BE = "Repressurisation Time"
 	40C0AE6848595C6DB46A1FA68E1FFC95 = "カウンターをリセット"
 	046C7D9F4E22D85C44E58984A38E9634 = "進行を初期化"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "進行を初期化"
@@ -3756,6 +3778,10 @@ But well done. :D
 	95B441504C61497FB9CED89FFD5631AE = "ロカビリー"
 	ACBB47834BF736CCDC9848A4BAA68129 = "ロカビリー"
 	CA3490A84AEC6C21DFC5F0A358B2B30A = "ロカビリー"
+	5F932D7240B0C809227F3994453730EB = "ロケット"
+	F5CFC5EB44140A6383CFA9B112C8BB40 = "ロケット攻撃"
+	BF63DC094FB02BF675E6AE904210AE75 = "ロケット回復時間"
+	1C625C6E483DC14CC816FB994EDCADB8 = "ロケット [Mine]"
 	8C01BDE343C6D9A3F2493D8088C05EC9 = "ロケットの準備ができた！"
 	B5A0980B453847C0815F908798345B5F = "ロケットを要請した！"
 	98DDA8764FA4A8DDD5EEDDB3C6EA058F = "ロケット"
@@ -3786,7 +3812,6 @@ But well done. :D
 	4DCE8CB74A35F162148F5B9836ECD474 = "チームメイトに敬意を！"
 	ED9B518040CBB8F27AA79CA0AAC1B82F = "ゲーム ファイルを保存"
 	2D01D08A4D50DD01838FE8876DEEDC79 = "スキャン済みの素材"
-	790520484F7313D8EB7066B8DBCD61C4 = "貴重"
 	2987054D4A1449F27EB75694216C7F4F = "スカウト"
 	6A6730174C91259F749F5FA7A54DA0B8 = "スカウト"
 	3F85EC154DDD3D6A2BB6A3A010684B39 = "スカウトの彫像"
@@ -3800,6 +3825,7 @@ But well done. :D
 	E4FF77EE44E9499E1857ACB4159113A2 = "キャラクター選択"
 	AD59DBD9475E6D4731A8D09CF3B6E873 = "売る"
 	BA1752E340D755EDB91AEB807BF8E6FB = "売る"
+	9EDF5DBF4849E85B6CF6B0B2A3B78AFF = "SENTRY #X"
 	6F039FB445C35711427CECB5B36B56FC = "セントリー #{Index}"
 	2F0B95F842FBBAC40AF94BB03500DF97 = "セントリー到着まで:"
 	36406C1946B16048CA3139B8D47AF660 = "セッションが終了しました"
@@ -3854,6 +3880,7 @@ But well done. :D
 	CD1D9E11452EF2A5CEE207BECD852738 = "グリフィッド グラントの群れが君達に向かっているのを検知した！…見た限りでは…大群だな。"
 	77AFD9584E66529B88C9C29D36E753AA = "スキャナーはウェーブの減少を示している！直ちに残りを殺せ！"
 	FB8447694BB6FC5311B5078180FD23D6 = "スキャン完了だチーム、お前らは偵察に向かう。何か適当な岩石サンプルを採取してロケットに乗せ、基地に送れ。これ以上簡単な事は無い。"
+	790520484F7313D8EB7066B8DBCD61C4 = "希少"
 	B370475240429C6C29ACFB92395A561D = "チーム、偵察ミッションだ。お前の仕事は深く潜り、現地で適当なサンプルを回収してくるんだ。お前のスキャナーが場所を示してくれる。慎重に掘りそれらを上昇ポッドに乗せ、基地へ送れ。"
 	5300A9BC45200063B3BBD3ADEF03FDAB = "スクリーンモード"
 	0D1151694BA059000A939EA9BAFE7B8F = "スクロールスピード"
@@ -3867,7 +3894,6 @@ But well done. :D
 	D2BBAD444E93774E126EB9AD4C74304F = "Sebastian Badylak"
 	C6169E9042AB6F290499B497EFC487B7 = "セカンダリミッション完了"
 	BB0F2D5A4B346A4E388B3A9FE6A019A5 = "セカンダリ目標"
-	F65AF55F427F5CD96EA091B84F30EE59 = "Secondary Objective Goes Here"
 	D05D9F8448A250C8CC471EA780702EA9 = "セカンダリミッション完了。見事な仕事振りだ。"
 	B7EB5B9F4B301B9267ADEBB90E8A696D = "セカンダリミッションを達成した。ボーナスがほしければ生きて帰れ！"
 	938D697F467F5C5075F1C48E2DA85DA4 = "セカンダリミッション完了。さっさと仕事を片付けてくれ。"
@@ -3880,6 +3906,7 @@ But well done. :D
 	322D552D4A62E6A46507AA8403365847 = "隠れろ!"
 	1EEB043B49719C430321E7852F46E5A8 = "隠れろ！マクテーラがいるぞ！ "
 	FF4867CE49C19E1FA1CDD39BEE8EE219 = "グリフィッド グラントの巣をつついてしまったようだな。来るぞ、気をつけろ。"
+	F050839B4846A3774D80C5AEA7ECCD47 = "デイリー ミッションを選択"
 	D73FCD7B4EAC1BBF4ED3A4BBF656F9B3 = "送信者"
 	D538385C4E4C2157F03021A67AA27BAB = "ゲームプレイ情報を送信することで、ゲームの改善が可能になります。"
 	B07002E74C40ABC931AA47BC4413B5BF = "ドロップポッドを送り次第、カウントを開始する。いよいよだチーム。我々は誇りに思う！"
@@ -3966,7 +3993,7 @@ But well done. :D
 	0DDA5146464B8C870BC0BBB75639EEAE = "ショットガンによる衝撃波で 4m 以内に存在する弱敵を殺害 "
 	1F265C0E42D7207CB7ADDAA2361B3447 = "叫ぶ"
 	54BB2F3A48911056E6F7908A3BF25D0A = "叫ぶ"
-	C62B84974B2238D077DE7790E436ACAC = "チームメイトのために叫んであなたの元へ来れるようにしましょう! これはもしあなたとチームメイトが離れ離れになってしまった場合や、あなたが倒れ助けが必要なときに便利です。"
+	C62B84974B2238D077DE7790E436ACAC = "チームメイトの為に叫んであなたの元へ来れるようにしましょう！もしあなたとチームメイトが離れ離れになってしまった場合や、あなたが倒れ助けが必要なときに便利です。"
 	075479CB45BF3835DE1846A51811C954 = "FPS 値を表示"
 	3127F8A540D246D860D961AD1DBF602F = "HUD を表示"
 	C4292C7540A90C07387975BA879E2900 = "すべての統計情報を表示する"
@@ -3978,7 +4005,7 @@ But well done. :D
 	74B817F049005FEE695B2694908686FE = "ログインが変更されました"
 	ADFC64CD41433C1A817D5DB50257BE38 = "下にあるコミュニティに参加から私達のSteamグループに登録し 私達とゲームの発展を維持していきましょう - Hoxxes IVにある鉱山での仕事初日にてしっかりしたあなたの後押しとしてゲーム内5000クレジットを無料で獲得します！"
 	C26B43B84BB1149261499DB1FBD9F2DB = "サインアウト"
-	6E59C29A4D7AC946CFB2AEB86836B69A = "静かにしろ!"
+	6E59C29A4D7AC946CFB2AEB86836B69A = "Silence Please!"
 	19A4058E49EA0C335776D39AC7DBD80A = "シリケート ハーベスター"
 	0B2966BD4821E326CE1BC3843A01F447 = "シルバーフォックス"
 	82D5760A4D36C73A04E752BDC5DE965D = "単純"
@@ -4060,7 +4087,6 @@ But well done. :D
 	4C93435147CA874F0F30F4BBF8AB0CDA = "スポナーだ！"
 	C70C8E314426F21C5B4BC4AFE483E2D0 = "スペシャル"
 	EA0B42734194A9C5FE3AA3A215351B50 = "特殊攻撃"
-	BF63DC094FB02BF675E6AE904210AE75 = "特殊攻撃クールダウン"
 	967F49E34511F4D109FBF18D7E79AE3B = "特殊任務への資格を手にしたぞ。やったな。"
 	8A269CD24D0ABAB7421B02BB86CC99A1 = "[EquipResupply] を押して、ナイトラを消費し再補給ポッドを呼ぶ "
 	4D079CFB43BBC35831AFCD99ABA0DC4C = "クモの巣"
@@ -4081,7 +4107,6 @@ But well done. :D
 	F7110389483D348830E18EB5487D3997 = "ゴクゴク "
 	AF2D2FBF41BC8F5AC669EC96330FB5C8 = "バースト攻撃が全て命中するとターゲットがよろめくように"
 	3CBD50924C75449D6D2192828A2204FB = "凄まじい攻撃"
-	EC68742C496132E67AA122B7A2CF1DA8 = "凄まじい攻撃"
 	2B422A4E4C4343967BCB83B7C1D461C5 = "爆発範囲内に存在する生物がよろめくように"
 	353184534B6F71258C875EB8F8ECB4A5 = "爆発範囲内に存在する生物がよろめくように"
 	5068EAB547A6CE4323F2E3BB6BEE7359 = "スタラクタイト"
@@ -4118,6 +4143,7 @@ But well done. :D
 	A5CDF1C2473B168BBAFB30BFD6732708 = "行動を共にし仲間のドワーフを助けます。もしあなたがチームメイトから離れ倒れると、彼らはあなたを蘇生するために見つける事が出来ないかもしれません。"
 	5BE3CFFA4DB333BF398962A309FFF05C = "散らばるな、全方位を見ろ！"
 	98DC9BC64ACF95CFAA40A7A8F1308892 = "粘着性の炎の燃焼"
+	32AF945B478BF1C36F05FEB27F61AB80 = "粘着性の炎のダメージ"
 	4DB648DE4AE2D139150A068AD66C0CB7 = "粘着性の炎のダメージ"
 	19F150B04F432D6250EB728627E189B1 = "粘着性の炎の持続時間"
 	9F53C9C846FACD18E9845996D918433A = "粘着性の炎の持続時間"
@@ -4129,6 +4155,7 @@ But well done. :D
 	135F5425439DC193033DEB9273FB39CA = "粘着グレネード"
 	B8AF16AF42E516410EDFB998DB4D0E72 = "粘着性の炎の持続時間を伸ばす"
 	CDD6CD63413EE072A8211DAE5FECE3B7 = "粘着性の炎の持続時間を伸ばす"
+	5E1C53C5408EC91804852D900AEE3E69 = "ねばねばだ！"
 	92206576461C56145E67BA89C31DB40F = "砕石屋"
 	13AD28F84B4A1BB0A52512A47E0E2A20 = "岩の番人"
 	1EFA15554FF7D87C9B21F7A825E69EAA = "岩の番人"
@@ -4155,6 +4182,7 @@ But well done. :D
 	774B8BAF416E053F8A1F2CA1DF938738 = "強力な爆発でより多くのダメージを与える"
 	950A42504F9FA4B21E07E682B097AD10 = "強力な爆発でより多くのダメージを与える"
 	EC1FA43A4049047CC7AF0B928D3AD839 = "スタン"
+	EC68742C496132E67AA122B7A2CF1DA8 = "Stun Hit"
 	D0DAB98D493841D9850A08900383C8AE = "このクソ虫！俺を降ろせ！"
 	CBE206D2480E91C55707AD994A61C0B3 = "スタイリッシュで実用的！"
 	D5AD36B446716E5D1B853C9E40088B91 = "スタイリッシュで実用的！"
@@ -4173,7 +4201,6 @@ But well done. :D
 	6159899D4805477F3F13BE9CDFC1CE89 = "補給ポッド"
 	DBF0167142059A32A9FAE5A7929E5605 = "補給ポッドを送った。下がってろ。"
 	DEDED6D8430A4E96F5513EA6FF4BEDA6 = "補給ポッドが要請された。今すぐ発射する。"
-	784007044994CD995166B7BD8B5C697E = "補給要請確認。現在向かわせてる。"
 	96CF5A184760767A613FC0B4C3068B90 = "援護射撃してくれ!"
 	2D2336ED4FDC06EDADFD19B0E24F89B9 = "デンマーク映画協会 - ゲーム案"
 	6A58F52C4B5E9FDC75E895B3D2E18EB1 = "至高の鉱夫"
@@ -4291,6 +4318,7 @@ But well done. :D
 	965267984EA79F41CB656DAD20AE7CB7 = "効くぅ!"
 	CCEF48ED4518F2EA702873B0FE6986B3 = "初恋を思い出すぜ…"
 	4A70A40E4A60ECF1B9FA9FBA98401ED2 = "最悪だ!"
+	99E3AA0E42B207152518DE9FB1E5E911 = "カールがビールで酔っ払ったように、あいつは弾丸を食べ尽くしたな！"
 	367A94894D2ECC49A25AF9AAED158BAC = "お買い得だったわ！"
 	BAFE18B84E21A99DC52F0082A72E9F9A = "危なかったな！ありがとう、相棒！"
 	9D96CECC41B1BDCBF9D51D8EA9EE78E3 = "あれは俺の最後の手りゅう弾だった!"
@@ -4307,6 +4335,7 @@ But well done. :D
 	726B7CAF4E7A8D37416D93BBE6CA4260 = "もう入らない！バッグがいっぱいだ！"
 	776924444DAF224BA16FD3940D2E3709 = "もう入らない！バッグがいっぱいだ！"
 	4B7D8EDB4A1421BCED59FD9DB543E2F1 = "これで最後だ！フレアがなくなった！"
+	8B7095954EDB05F0EA4D6AB430E46D91 = "死んだな！俺達やり遂げたぞ！"
 	47B9330441C1A728175B4FAAC96C3886 = "大きな声で！"
 	116088A147D3D0801ECDFFA0A7620FE4 = "こいつは驚いたな。離脱ポッドを回収する。"
 	1FB765A04A059C834342A0994DBA7CD3 = "こいつは驚いたな。エスケープポッドを回収する。"
@@ -4346,24 +4375,25 @@ But well done. :D
 	552397DD45AE7FD8AEAE38AC2AD601CE = "ウェーブはかなり減ったようだ。よくやった、チーム。"
 	A14E3B244FE0E714FB89E79C77BCEC4D = "後ろが弱点だ!"
 	AB13B6864C42626D4C1F2F9E64E220E2 = "ホクソセスの虫は頑強だ、しかし君の頼りになる銃はもっと強い。"
+	29901C274BE58C623087A89C9643FA06 = "大きい奴ほど殺しにくかったな！"
 	75C48C51486448C2459B1C8324C497E1 = "スカウトの専門家も選ぶ一品。"
 	8C9D3C2245C2DCFC0B474DA982EB594A = "スカウトの専門家も選ぶ一品。"
 	C9203A8644D17AF12F2FA1A72B5BF437 = "この真夜中の空をまばゆい光を放つ宇宙の怒りが通り抜け、煌めきながら混ぜ合わっている。人はなぜ俺たちがカールを覚えているのかと尋ねる。人は彼が何を成し遂げたのかと尋ねる。デタラメ話にはスカル クラッシャー エールがあるがそれは責任の一部に過ぎない。勝手に考えるといい。用心しろ。"
+	650394EE41ACE93ACF33119DE345624C = "装飾は目で楽しむ為の物で、君の足で楽しむ物じゃないんだ！"
 	E7F5A4894FFAC827E80375B24D65CE32 = "デコレーションはお祝いの為に置かれているんだ。おもちゃじゃない。"
-	30B64C3A445D22AA500321AA5252CD8A = "卵が地形スキャナー上に現れます。\n [MapTool] 長押しで使えます。"
+	30B64C3A445D22AA500321AA5252CD8A = "The eggs will appear on the Terrain Scanner.\nHold [MapTool] to use it."
+	2B3F55EA4DF60D6F2B76488C4846053C = "The flare lasts longer"
+	634E27F54B80A4F565F39794C1C04AC2 = "The flare lasts longer"
+	B004560E4E6807047B1371B290756FC2 = "The flare lasts longer"
+	F9E32EE84480FF62CF209B87551D6916 = "The flare lasts longer"
 	D2E5E64A436D0B7E3A7D17A672C3006D = "そこの地面危ないぞ！"
 	D6B58FC042E403301BE0D4AC166F890D = "比類無き伝説の帽子。多くのドワーフが心の中に持っている、特別な場所の祝日を記念して。"
 	4ACB0D84456C00BEFFB4A7A9453C1E62 = "ウェーブの終わりが近づいている。平静を保て！"
-	2B3F55EA4DF60D6F2B76488C4846053C = "照明の持続時間が延長されます"
-	634E27F54B80A4F565F39794C1C04AC2 = "照明がより長く続きます"
-	B004560E4E6807047B1371B290756FC2 = "照明の持続時間がより長持ちします"
-	F9E32EE84480FF62CF209B87551D6916 = "照明の持続時間がより長持ちします"
 	4B4BAA624715C6F2FD31B894015641F9 = "発射されるラインがすぐさま変形し、至近距離での有用性が向上する"
 	1427F38744164A0EACBE5C9DF34C4A82 = "記念ホールは戦死者を弔うためにある。自由に歩いて敬意を払うことができるぞ。"
 	39BD1CF440B83EBA505AF9852120B3A0 = "M.U.L.E.がドロップポッドに呼び戻された！"
 	911620A14A68BCA957363AA95E336206 = "MK3 アーマーの袖が無い仕様。安価で比較的軽量だが、この快適なスーツは殆どの作戦で必要とされる防護性能をドリラーに提供している。いずれにせよ箱の上にある自賛宣伝は気にするな…"
 	3C91B4CC42E492A2B686CC842D9C2D65 = "DRG も認めた真のブリュー。苦くて酔いが回るが労働者を行動不能にさせるほど強くはない。"
-	57F6A1CB49D941FB48D8DF9FDC90D255 = "武器の全体的なダメージが増加される。"
 	6A26F9D647B828C478B187A6F32C0097 = "モンスタースレイヤーには完璧な見た目だ。"
 	C49E21D54F90751C68D12A9512EDA163 = "モンスター殺しに最適な外観。"
 	E27840C54B222B71D9DBD2A4E7657097 = "モンスター殺しに完璧な見た目。"
@@ -4372,6 +4402,7 @@ But well done. :D
 	4C18FAA74FA959B486D67DA3E57CCD59 = "濃縮された髭の力がこの偉大な口髭に宿っている"
 	7EC587584D26169914A2D0B3470C4A02 = "この素晴らしい髭は口の周りに集中している。"
 	DE29EFFA418089F83D173690D7719FA1 = "この素晴らしい髭は口の周りに集中している。"
+	57F6A1CB49D941FB48D8DF9FDC90D255 = "武器の主ダメージが増加される。"
 	F7A8E10240ECE2894E0771A20466B9BA = "放たれた発射体が爆発でその生命を終える"
 	0B341780426D5E08CF8361A16B7DB179 = "スキャナーがクリスマスツリーみたいに光ってきやがった。スウォームが来るぞ！"
 	D513566A466E768AE0768BAEA3C2EFA5 = "降下ポッドの座席は従業員専用だ、ドラム缶用じゃない。"
@@ -4426,12 +4457,12 @@ But well done. :D
 	F32BDEA848F6B085961F31B3F6F831EA = "そろそろ本気になるぞ！"
 	FB44C49540924FD27D82BF9914BD33E0 = "爆発するぞ！"
 	BDA0F55942248C6490A98996CFC3364E = "俺を殺せると思ったか？考え直せ！"
-	8ABC4BF842A91F992EF30DBEF35D0917 = "このエリアはまだ建設中だ、戻れ!"
+	8ABC4BF842A91F992EF30DBEF35D0917 = "This area is under construction, please turn around!"
 	075BBF7A4EB86BCE7C292DA2B7A4DF09 = "これは払う意味があるんだろうな…"
 	330EEDAF4B116692F400669C524E287D = "これは無価値だ！"
 	DEBAD51F4368C9CFB7F0C1B0D7B47ACA = "こいつは良い日々を過ごしてきたようだな！"
 	B451582B46FE5C77392587BFD2AAEAAB = "This is a  very very very very very very very looong notification"
-	1B87B67242F26197BDABE7830ECF0C34 = "これはサルベージミッションだ！以前のクルーが彼らのMiniM. U. L. Eとドロップポッドに加え命までを失くしてしまった。失われたM. U. L. Eを見つけ出し修復し、ドロップポッドを操作可能にして基地へ戻れ。重大な感染が予期される - 前任者みたいにしくじるんじゃないぞ！"
+	1B87B67242F26197BDABE7830ECF0C34 = "This is a Salvage mission! A previous crew lost their Mini Mules, their Drop Pod, and their lives in this cave. Find and repair the lost MULES, get the Drop Pod operational, and return to base. Expect heavy infestation - and try not to mess it up like your former colleagues!"
 	46D9EBF44D7383B4440A9BA6AF8393E4 = "こいつはデカい！ "
 	7D83E1E1444AF37A5FCEECA8402D4C18 = "ここはクソッタレな地獄だな。"
 	D0DE4BA24A4879FE5F74F4A65E2C4B1F = "これは敵だ！"
@@ -4449,8 +4480,11 @@ But well done. :D
 	DEBE49104D6A5E3528E52CB3DD75C628 = "こっちだ! 野郎ども!"
 	64B9103248D4DBBE8F1DBFA760C3C0CC = "おしまいだ！"
 	BB61701E4F722224305140B87DFC3C9F = "お終いだ野郎ども！"
+	673A79C24B5F9A70770AADA75FE6990D = "こうでなくてはな。最後のミッションの次は君の昇進だ。"
 	44B079EA478EB9F3C67F2D8CADA5A733 = "これだ: あと一回のミッションで俺は抜ける！"
 	850791354E075C0E0B47289C9E64882C = "これはスゲぇ面白いな！"
+	633235B24AD7857E205528B75C1FD456 = "足を取られてる！"
+	DB1FE9F047B64FB841A176B08C3A5991 = "これスゲェねばねばしてるぞ！"
 	DE6250304E97BF75FB2CC0A7F3876C99 = "ほんと肉体労働だな！"
 	694253C24F6695F0133FE4B0C741419C = "これは使い物にならない!"
 	E71118234E338E6F7CAA8CAA92424595 = "これは価値がない！"
@@ -4510,7 +4544,7 @@ But well done. :D
 	032D48EF45459E30EF0227AC62685F8C = "仲間に、闇に、生きて帰るために！"
 	519FFC414FE15AD04B861D9EEA236FC3 = "生き延びれた事に！…だって、本当だからな！"
 	406AA8F2428166CBA11C4A802034CD9B = "倒れた英雄たちへ - 敬意を表する！"
-	AECF2FA64A01380C3DE69CBF3499CC1E = "全ての個人情報を要請、または削除を要求するにはあなたの SteamID と共に\nprivacy@ghostship.dk まで電子メールを送信して下さい。\n\n私達は努めて迅速に対応しますが、\n要請と要求には最長 30 日間かかることがあります。"
+	AECF2FA64A01380C3DE69CBF3499CC1E = "To request all your personal data or request it's deletion please e-mail\nyour SteamID to us at privacy@ghostship.dk\n\nWe will do our best to help as soon as possible, but request and deletion\nof data can take up to 30 day."
 	EAE1DD63454C7FE343BE229577F79879 = "かつての帝国に！"
 	F2360E0C4B7B87A89C3C5597505223B0 = "英雄たちに！"
 	7E4A4F574FF9312E41FD20AA51C5E7C2 = "英雄たちに！"
@@ -4521,7 +4555,6 @@ But well done. :D
 	8858CDBF4BD864F504F7219952F28B9F = "HUDの切り替え"
 	488FC27F40A06DA3D001DF8593D87FFC = "ヘッドライト切り替え"
 	D9A0B9E34C2D88B66E2D42BCBEBE7F12 = "ヘッドライトを切り替え"
-	529C988B48970645025CFFAB90660163 = "急すぎる"
 	5CCE958B406EDA840A52C3AEF05D5DCC = "ツールチップ"
 	27B3D600467F841186B1D2AE95B6164C = "最高級品。"
 	2C3E010D472FCF3DBB2413AD035A3218 = "最高級品。"
@@ -4578,8 +4611,6 @@ But well done. :D
 	17E10C7744E0699B82D945B0F00A09B1 = "未知数の種類"
 	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "UNKNOWN TYPE {type}"
 	1DFF07CD499D9C20484D76BF57D90FD9 = "アンロック:"
-	BB67D3564D9DD910C2F2E597A020EF6B = "UPGRADE CATEGORY GOES HERE"
-	7E76742344F26DC6FF259391AF71CB96 = "UPGRADE NAME GOES HERE"
 	154D798349596E65C508169C1B0BD295 = "装備のアップグレード"
 	68B79960422B69C0689251A8A121BF01 = "アップリンク完了"
 	AA71AD6E4DAB34172A5F89A3300875DD = "アップリンク進行中"
@@ -4696,6 +4727,7 @@ But well done. :D
 	DC82A7B24ED62593B64A1BA3193D9A5B = "垂直同期"
 	84B3BDF34F48A9A72DFB4C95F92CE62A = "吸血鬼"
 	29D9D3A244777CC6D876659F3E3B5FB4 = "破壊行為には高額な罰金が課せられる。心に留めておけ。"
+	9ECFA429464F135CAB2C5E9DE9270067 = "装飾の破壊行為は容認されず、場合によっては勾留されるぞ！"
 	1ACEB567461C75D400D5D0905E6AD03B = "消し飛ばせ！"
 	F774521B4C88572CE16ADDBEA6E3FFC6 = "可変チャンバー圧"
 	44A3445A484377F58C5D6BBC70FFECF8 = "マウスの垂直感度"
@@ -4715,6 +4747,7 @@ But well done. :D
 	2D2A6357468F84A1FE3FC982E155948C = "ボイスチャット"
 	280D9A3F4132BEEEADCE44883D6600BC = "揮発性弾頭"
 	6A968257449EC187B7DC4D86058F66A0 = "揮発性フレアだ！"
+	DFBA5ECB4414B8146C621180A9226E46 = "Volatile Uranium"
 	6A7BE15848AA8D16105BBAB98413374B = "最高のボリューム"
 	A795C1634FE69D23165C53950AA6DB57 = "最高のボリューム"
 	304BA6E94038D292F1D38381696E66F4 = "投票終了まで: "
@@ -4759,11 +4792,13 @@ But well done. :D
 	5AA0B67F4055FBC0A69F73BD896CB383 = "警告: 本当に行いますか？はいを押すと全ての進捗を初期化します。"
 	C62786DF490AA8453D46389CAE1F9C6D = "警告: 本当に行いますか？アサイン中に行なわれたこれまでの進歩を全て失います！"
 	45BC46004B66AA4029A6CA9825BE7209 = "警報"
+	3359B17C4621B0C2165FF7AF227EFCD5 = "よく目に焼き付けておけ！"
 	6F5775294B412E940FF65DB8A09D7661 = "見て覚えろ！"
 	B5A19B0C4C4928E7AA15D79C658E02BE = "よく見とけ！"
 	5391F8914CDF37453B7DF7BEFC2FFD3B = "ふざけるな！"
 	459E073648FFC18BF191F8AD51C824FB = "気をつけろ、そのスウォーマー トンネルに近づくな！"
 	2712004C4726DA8EF06254B6E2D9A009 = "見ろよ、豚に不意打ち食らわされたぜ！"
+	19DB284E4EA524B7D3F057B90A5CDDE2 = "見ろよ！"
 	BB20A88D40F72FB59FE552B888414F08 = "見とけ！"
 	1D666C44467949B44A92C785FC1DE91D = "危ない!"
 	70129D6E49925B59264CDEB6602572C1 = "気をつけろ！"
@@ -4776,6 +4811,7 @@ But well done. :D
 	460655B049B0FF5D538285A5E3A5E7C9 = "スピットボーラーに気をつけろ!"
 	73247B67428D960100DAF58E726F7F7E = "群れに注意しろ！"
 	1022F64F4DFE4CB3A25DD3B510FB05C5 = "すげぇだろ！"
+	CB6E41B34E7EBB60C1D23D9BCE8ADD3D = "見ろよこれ！"
 	E1B74FFE44DBA34BBC3731B10990C86C = "どこ撃ってんだ！バカ！"
 	D950C57846DD2D43A6773AA7DA279F2B = "足元に注意しろ！ "
 	953BF9F543DDB92D548EA4B4003E9185 = "俺を撃つな！アホめ！"
@@ -4805,6 +4841,7 @@ Steam と Discord を通じて作業中です。
 	7454B0E24CA07FBCA20BFB8D239720BB = "お客さんだ!"
 	F28F18A6474590F3FA8938B3B0C5167A = "奴らが来たぞ!"
 	30C953244901EBB2C8FB2EB6BC012525 = "やったぞ！"
+	11AE48C645447B70AA14968E857640A7 = "やったぞ！カールも喜んでる筈だ！"
 	9C39D55144A52B6B61682285955D3A49 = "あのグー ボンバーを何とかするぞ！"
 	A73CCF4B469E12622BC945B6D797181E = "我々はグリフィッドの巣を突き止めた。ドレッドノートは蛹化のためにそこを利用する。
 今回のミッションは、繭を見つけて巣と共に破壊することだ。
@@ -4836,13 +4873,14 @@ Steam と Discord を通じて作業中です。
 	E063598B46B97B889D2AC089B0DF851C = "ドロップポッドを向かわせている! 着陸地点に向かえ!"
 	D8EBFFA1437113C21DCA369EA1BE0223 = "我々は地中深くにお前らを送っている、だから用心しろ。スキャナーはずっと下がった所のモーカイトと金の鉱脈をとりわけ指し示す。それを持って来い、連中ども。 "
 	F06A886F4C10AE421802E48843CB66EC = "我々はこの洞窟システムを全て読み取れなかった。だからちょっとばかしの迷宮に備えてくれ。目標は変わっていない、モーカイトをノルマ分採鉱し、生きて戻れ。"
-	4B5687F649A70D67781A13A3C167E696 = "アクアークで一杯の領域を検出した。全て持って帰る事が出来るぞ。青く光る壁を探し、アクアークを取り出せ。特別なヘビーリフターを送った。凄まじい抵抗が予想されるので、リフターには重火器が装備されているが、油断するな。単なる道具に過ぎない。"
+	4B5687F649A70D67781A13A3C167E696 = "We've detected an area filled with Aquarqs, and you get to bring them all back. Search for a blue shimmering light, and extract the Aquarq from within the walls. We've sent in a specialized heavy lifter. We're expecting heavy resistance, so the lifter's been equipped with heavy armaments, but keep focused - it's about the goods."
 	1F5CC1074A3AF1E92463338FB14859CB = "これまで私達は爆発的にゲームの開発を行ってきましたが、まだまだ完了していません。Hoxxes IV はまだ本当の秘密を打ち明けてはいないのです…"
 	ABC7EB534443EAF6872712A8E2FC84D4 = "これまで私達は爆発的にゲームの開発を行ってきましたが、まだまだ完了していません。Hoxxes IV はまだ本当の秘密を打ち明けてはいないのです…"
 	870475E94E4A39320CDEBA9357EC5495 = "弱点ボーナス"
 	13665D0E4DF4EC22BC92F0AA5DB0E879 = "弱体化フィールド"
 	43772FFD4EFD3BAED6D984AF805D4987 = "武器ライセンスのアサインが完了しました"
 	E113F0E44A1454117509788E03C58225 = "武器ライセンスがアップグレードされた！…試しに満足するまで君の仲間を撃つなよ？"
+	988E935042E6DD1E1ADC528A8DFD85FE = "武器ライセンスがアップグレードされたぞ！"スタビー" とも呼ばれるボルテージ SMG は装備ターミナルから購入できるぞ。これだけは言わしてくれ…ビリビリッとするほど最高の武器だ…"
 	72F586524E0F6D6506056298A19A0538 = "Weapon description"
 	F3800CAA4060BDECF8ED9CBFD8A7F763 = "ウィィィィ！"
 	1732EDD3443C16A8897B53AFAC41926E = "週末アスリート"
@@ -4856,12 +4894,14 @@ Steam と Discord を通じて作業中です。
 	E41FECD749AC1F0A07DA2D855EB22AED = "よくやった！セカンダリミッションを完了した！ "
 	C87EFB1B4AF0C269F51EE98F0B61AC77 = "よくやった！M.U.L.Eはまた動いているぞ！"
 	5DE680AC4DC28E343389F9925E60BEC8 = "よくやった、M.U.L.Eは修復された。"
+	916801354986AFF4E56E77BD11C0A403 = "よくやったな。昇進資格アサインが終わり、管理部も結果に満足している。キャラクター選択ターミナルで手続きを進めろ。"
 	8B6DABC642B3D44D3588279EF5AD6013 = "チーム、よくやった。ドレッドノートの脅威は排除された。M.U.L.E. の応答機を起動した後、エスケープポッドを迎えに行かせる。"
 	7266AE9E44FFE4E6AC8577AFC8AB36D0 = "よくやった、これで全部だ！ローンチコントロールを起動してマインヘッドを回収した後、エスケープポッドを送る！ "
 	B4151CEC48ECD782F729A1B2A8BE5B79 = "よくやったな。最後のミッションで君自身の能力を示さなければいけないと管理部は判断した。何匹かのグリフィッド ドレッドノートが我々の洞窟を住処にしている。そこで君にはそいつらを排除して貰いたい。幸運を祈る、君には運が必要だ。"
 	8E798285433E9C877B493790CFA65338 = "よくやった。アサイン ミッションの終了に近づいているぞ！"
 	A6DC4FDD42DF64AF4E18ADBE9FD21B04 = "おや、こんにちは！君は死んだと思ってたよ！"
 	2441F774439907E39C60C1AA78AAF73C = "おい、これを見ろ！"
+	A4FE07F442EEBFF3D54C40BEC0C15B51 = "凄いだろこいつ！"
 	CC81B3314D945D0B7721D292D7861486 = "なぁこれ見ろよ！"
 	BD94BDD545A4585DED8B8EACD9A82AC2 = "まぁ、時には勝ち、時には死ぬ！"
 	D72361B848B681335B468FA103723978 = "まぁ、時には勝ち、時には死ぬ！"
@@ -4993,12 +5033,15 @@ Steam と Discord を通じて作業中です。
 	C5ACC8EC4F43581855BE9EBE8B411169 = "お前はとびきりのバカだ！なんで俺を撃つんだ！"
 	76FAC6A44825A48DF2A12483FA999591 = "おまえはいいM.U.L.E. だな、モリー！"
 	6483648946FEBAB88EE971BF63D8ABA4 = "あなたはソロ ミッションを始めようとしています。ホスト中に始めるとチームメイト全員がキックされます！"
+	B651C01D4D27FD84AD4023A2E8F66948 = "もうすぐだ！あと 1 回ミッションを行うと名誉ある昇進が君を待っているぞ。"
+	29704FD543AD2AAA2BDEDEBEF9FDD1EE = "君は昇進資格の取得までもうすぐの所だ。あと 1 度の降下で君の評価が決まる。"
 	42A181434CE0896CB57DA38B901224C4 = "あと少しでウェーブを通過するぞ。行け、行け！"
 	891F0E4A46B837A2FF5B5B9B4C38484B = "おまえはおしまいだ！"
 	DCB9DB4A47600847C940649EAEA334C7 = "ミッションを危険にさらしているぞ！三角測量ゾーンへ戻れ！"
 	3C33F0F144DDC9C3CB1A47B07CE00181 = "君はミッションを危うくしている！燃料電池の近くに留まらないとだめだ！"
-	BC03C320434F3CC1AC0BC7BF70B9BA85 = "お前は制限区域に侵入している！直ちに引き返して仕事に戻れ！"
-	B7D2007C461E925E99F54AAFE707165D = "ここに入ってはならない！このエリアは普通の鉱夫の立入禁止だ！"
+	A6FF4B0D4BC100F324A48382062D76E0 = "素晴らしい働きだ！あとたった 1 つミッション終わらせるだけで、君の武器ライセンスがアップグレードされるぞ。"
+	BC03C320434F3CC1AC0BC7BF70B9BA85 = "You are trespassing! Please turn around and get some work done!"
+	B7D2007C461E925E99F54AAFE707165D = "You are trespassing! This area is off limits to regular miners!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "君たちはダンサーよりも優れた鉱夫になるのが望ましい。"
 	E715C48B459168248821088AC6F1734A = "セントリー ガンの弾薬をもっと持てるようになります"
 	31F3363F4BF2123346998D856F226E8A = "戦場により多くの弾薬を持っていくことができる。"
@@ -5013,6 +5056,7 @@ Steam と Discord を通じて作業中です。
 	EA6B14AB4DC910892F48F396AFD08B17 = "あなたは蹴られました。"
 	1FE4891041739A78C8853EA8CEBA103D = "主要業績評価指数ターミナルで獲得可能な PERK ポイントがあります"
 	9A204C7D48C4B06E33891C8E57E71BCC = "君は Deep Rock Galactic を十分潤した。管理部も君に敬意を表している。"
+	E44AE9D746A99F76187759A5181023D3 = "君は自ら Deep Rock Galactic にとって不可欠であり貴重な資産であると証明したな！管理部も君の働きに感謝し、名誉ある昇進を与えた。これは数少ない、素晴らしい瞬間だ。我々は君に敬意を表する。おめでとう。Rock and Stone！"
 	7385AADD42A9E20A78773E92E52A22E5 = "知っているだろうが、当社は時給制じゃない。働け！"
 	35CC851741DAC42CABD91A8ADFFEA2D2 = "三角測量ゾーンに留まらないといけないぞ！今すぐ戻れ！"
 	8771EC024183E2E67E167B93FBD8696A = "あなたはゲームに参加した収集から全体の25%を受け取ることができます。
@@ -5025,6 +5069,7 @@ Steam と Discord を通じて作業中です。
 	35D215D84E56BCDEACE563B29DC9C8A2 = "もっと欲しいか？！"
 	BE126F5D4D73405FAD5074A064CC10B4 = "もし何かをちゃんとやりたいんなら、自分でやるべきなんだよ！"
 	9C482FEB45E2D571EF5735871470C538 = "怪物たちを撃つのに忙しいドワーフに！補給ポッドから弾薬を得る速度が {value}% 高速化！"
+	8E56F2FB48C1B3F3F917BC9823426C82 = "お前のせいで管理部は休暇を取り消そうとしているぞ、俺の分も含めてな！頼むから装飾を破壊するな。"
 	42912B4F4C62EEF642AB77811D0FF517 = "以前にやったことがあるだろう。モーカイトを手に入れて、M.U.L.E. に入れて、戻ってくる。簡単だ。取り掛かってくれ。"
 	C5C889464B05842C864B54BA097A4D34 = "あなたは禁止処分を受けています。"
 	6872D5DE4945C0684C2C9AB8C3C230C3 = "君には深層部へのミッションに行ける許可が出たぞ。よくやったな。"
@@ -5084,11 +5129,11 @@ Steam と Discord を通じて作業中です。
 	CFB98DDB452E7744D555F382A8122F2B = "[CloseMenu] ゲームをやめる"
 	E9D9463E42928C3514755BAC259C5AA5 = "[CloseMenu] いいえ"
 	AEA347F74547383311956F963FE02E16 = "[Fire] + [Mine]: カメラの切り替え"
+	E18AF9B040442891E50EB9ADBA84DA8E = "[Fire] マーク"
+	DB2DB86B442380F09F7F85BDE6C3BA5A = "[Fire] マーク"
+	C30A43794F4B4C06D3C5638D33EAF1B7 = "[Fire] でマーカー設置"
 	F6BA6BD446E80C0AC686758A81D3C92B = "[IgnoreInvite] 無視"
 	433BBF6C47837D1D867AD7B699BD8B51 = "[LOCKED WEAPON]"
-	1648DDF24EBDBDDCE0B8DEAFE101925E = "[もだえ苦しむ]"
-	1F87952D457E6A134FFDA8B243EFF425 = "[もだえ苦しむ]"
-	9CBCF22C440AABD3C683B5825C955E24 = "[もだえ苦しむ]"
 	F62952864AC9BD5C00DDEA94DDF7A682 = "[MenuAction1] 更新"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] 続ける"
 	319FC2C243CD6989A597A8B314759BBD = "[OkMenu] 続ける"
@@ -5125,11 +5170,11 @@ Steam と Discord を通じて作業中です。
 	301860DA48B90CD11DF217A9827A49D2 = "採掘"
 	FA7FEDB540B38AB37FDDD295A75F40A7 = "nlfndslnlfsd"
 	2A9B65284667F1C34052D29006AF8437 = "セカンダリ武器"
-	32AF945B478BF1C36F05FEB27F61AB80 = "粘着性の炎のダメージ"
 	5B37A7E644003126D80116AF94D90F72 = "こちらはプライベートゲームになっています。"
 	57FC31744E660502A620D797A58ED1DA = "ティア数"
 	8F675C7B4972FBFB47946787B28DE51E = "イェッハー！"
 	B04D9DF947D4728DAE93018868F37D86 = "ヤッハー"
+	D25987CC487F61E029BA7D826BCFED72 = "イッハー！"
 	7BD55EB94DA3871F2D7F0E846B24C461 = "{0}  は 80 ナイトラを寄付した!"
 	F354574840C59FBC38BA7AAB38B76F05 = "{0} はあなたを治療した!"
 	EDDF00A14025884C10E0CF8FF51328F2 = "{0} は 3 匹のグリフィッド プリトリアンを生み出した"
@@ -5196,6 +5241,8 @@ Namespace Audio (3 keys)
 	Volume_Music = "音楽"
 	Volume_SFX = "効果音"
 
+Namespace AudioSettings (0 keys)
+
 Namespace Gear (7 keys)
 	Cooldown = "クールダウン"
 	Heat = "熱量"
@@ -5228,7 +5275,8 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "目標達成、M.U.L.Eから降下ポッドを呼べるぞ！"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "目標達成、M.U.L.Eから採掘ポッドを呼べるぞ！"
 
-Namespace PatchNotes (38 keys)
+Namespace PatchNotes (42 keys)
+	Update_20.1_ShortTitle = "強く、逞しい、ボスコ"
 	Update_20_ShortTitle = " 強く、逞しい、ボスコ"
 	Update_11_ShortTitle = "死と銃"
 	Update_9_ShortTitle = "またな！"
@@ -5273,6 +5321,189 @@ Namespace PatchNotes (38 keys)
 - キャンペーンの報酬ウィンドウ上でカーソルが消えてしまうのを修正しました。
 "
 	Update_18.5_ShortTitle = "ハロウィーン"
+	Update_20 = "ハッピー ホリデー！
+
+ホクソセスにもクリスマスが到来し、私達はホリデーを迎えた皆さんの為にプレゼントを用意しました！更に、たったこれだけではありません！何を隠そう、ボスコの大幅なカスタマイズ機能や医療室、武器モデルの刷新など無数の新たな機能があります！
+
+幸運をお祈りします。
+Ghost Ship チームより！
+
+
+--- パッチ ノート ---
+
+ボスコのカスタマイズ
+----------------------------
+ボスコを治療ドローンや殺人マシーンにしたいと思ったことは？出来るようになりました！
+
+武器がそうであるように、ボスコのカスタマイズも購入し装備を出来るようにしました。カスタマイズは既存の蘇生できる回数や武器ダメージ量の変更に留まりますが、特殊なセカンダリ攻撃を導入しました。カスタマイズが有効化されるとプレイヤーは地形スキャナーで指示した後に、[マウス右クリック] か (左トリガー) を押す事でボスコはロケットをターゲットに発射します。
+
+
+医療室 1.0
+----------------------------
+もしあなたかチームメイトがミッションで死ぬと、医療室で目が覚ます様になります。共に戦い、共に死のう！
+
+
+武器モデルの刷新
+----------------------------
+全ての古い武器は見た目のオーバーホールが施され、新品の様になりました。これは中身より外観が全てと考える人の為に行われました！
+
+
+宇宙でクリスマス
+----------------------------
+ホリデー用にスペース リグの飾り付けする事を私達は抑えきれませんでした。また期間限定のヘッドギアを購入し、フレンドのサンタ役としてもプレイできます。ただ飾り付けを壊さないで下さい！
+
+
+鉱物売買ターミナルのアサイン
+----------------------------
+経営陣からの命令により、新入社員は鉱物売買ターミナルの利用が禁止されました。再び利用するには、アサインで自らの価値を証明しなければいけません！なおアサイン完了時には、報酬として鉱物売買ターミナルへの利用権利と、50 個のクロッパ、それに 40 個のジャディズが付与されます。
+
+
+セーブゲームの復元オプション
+----------------------------
+オプション メニューからセーブゲームのデータを復元出来るようになりました。これは万が一、セーブされたデータが失われた場合に備えた安全策です。なお管理部はこれまでに起きた同様事象を認めていません！
+
+
+武器のバランス: "ウォートホッグ" オート 210
+----------------------------
+- 基礎ダメージを増加させました。
+- カスタマイズの過給装填機構による連射速度を低下させ、大口径ペレットによるダメージを増加させました。
+- 基礎リロード時間を 2.3 から 2.0 秒に低減させました。
+
+
+武器のバランス: CRSPR 火炎放射器
+----------------------------
+- 火炎放射器による付着する炎のアップグレードは、ターゲットを直接燃焼とのバランスが取られました。
+
+
+その他武器の修正
+----------------------------
+- 粘着性炎によって敵を殺害する際に、敵を燃やして正しく焼死させるようになりました。
+- ソードオフ ショットガンはパークを装備していなくても常に自動リロードしているのを修正しました。
+- 装備ターミナル内のデュアル ピストルのアニメーションを修正しました。
+- 新しい武器の音を追加しました。
+- 全ての武器と昇進アサイン用に、ミッション コントロールのセリフを追加しました。
+- コンバット ショットガンとピストル、リボルバーにある武器のアイコンを更新しました。
+- M1000 で最大装填数までリロードしてもズームが元に戻らないのを修正しました。
+- 蘇生後はデュアル ピストルの射撃アニメーションが動かなくなるのを修正しました。
+- バーストでピストルを撃っている際に武器を切り替えれると、ずっと撃ち続けているのを修正しました。
+- 混乱を引き起こす原因となっている “よろめき” は “スタン” に改名されました。
+
+
+修正と改良
+----------------------------
+- ミッション選択画面からちらつくモニターを削除しました。
+- アクセサリーのはい/いいえ選択画面はコントローラーのショートカットに反応していないのを修正しました。
+- キャラクターを変更する際にスペース リグにあるユーザー インターフェイスの問題を修正しました。
+- 後から接続する際のフローを改良し、マップをプレイする前にキャラクターを選択可能になったり、戻るボタンを追加しました。
+- 氷の上を歩行に関連していたクラッシュを修正しました。
+- 途中接続のクラッシュを修正しました。
+- 後から接続する際のクラッシュを修正しました。
+- 凍結に関連していたクラッシュを修正しました。
+- ゲームへ接続時にクラッシュするを修正しました。
+- マグマ マゴットは一切のダメージを与えていないのを修正しました。
+- 溶岩の間欠泉は爆発時にダメージ 0 を与えているのを修正しました。
+- ドレッドノートはよりたくさんの敵を生成出来るようにしました。
+- クライアントのびっくりさせるような蘇生を修正しました。
+- フィードバックに基づき敵の生成を改良しました。
+- エクスプローダーの爆発とヘッドショットか、凍らせた際のロジックを改良しました。
+- 地点採掘において一部の敵はマイニング プラットフォームの上を歩くと燃えてしまうのを修正しました。
+- 空気と溶岩の間欠泉にあるぶくぶくという音は、間欠泉が壊れた後も残っているのを修正しました。
+- 三人称視点に蹴るアニメーションを追加しました。これほどドラム缶を蹴飛ばすのがかなり現実的になった事はありません！
+
+
+
+"
+	Update_20.1 = "鉱夫の皆さん、あけましておめでとう！
+2018 年の Deep Rock Galactic は爆発的な躍進を遂げましたが、まだ終わりではありません！私達が思う、銀河の中で最高のコミュニティに参加して下さり、皆さんに感謝しています。2019 年でも開発を続けていき、皆さんも引き続き参加してくれる事を願っています。
+
+それでは。
+Ghost Ship チーム 
+
+
+--- パッチ ノート ---
+
+アップデート 20.1
+----------------------------
+ホリデーが過ぎ去り、全ての季節限定アイテムが取り除かれました！またいくつかのクラッシュのバグを修正し、再び ‘P’ キーを操作へ割り当てられるようにしています。その他はほとんどアップデート 20 と同様です。
+ 
+
+ボスコのカスタマイズ
+----------------------------
+ボスコを治療ドローンや殺人マシーンにしたいと思ったことは？出来るようになりました！
+
+武器がそうであるように、ボスコのカスタマイズも購入し装備を出来るようにしました。カスタマイズは既存の蘇生できる回数や武器ダメージ量の変更に留まりますが、特殊なセカンダリ攻撃も導入しています。カスタマイズが有効化されるとプレイヤーは地形スキャナーで指示した後に、[マウス右クリック] か (左トリガー) を押す事でボスコはロケットをターゲットに発射します。
+
+
+医療ベイ 1.0
+----------------------------
+もしあなたかチームメイトがミッションで死ぬと、医療ベイで目が覚ます様になります。共に戦い、共に死のう！
+
+
+武器モデルの刷新
+----------------------------
+全ての古い武器は見た目のオーバーホールが施され、新品の様になりました。これは中身より外観が全てと考える人の為に行われました！
+
+
+鉱物売買ターミナルのアサイン
+----------------------------
+経営陣からの命令により、新入社員は鉱物売買ターミナルの利用が禁止されました。再び利用するには、アサインで自らの価値を証明しなければいけません！なおアサイン完了時には、報酬として鉱物売買ターミナルへの利用権利と、50 個のクロッパ、それに 40 個のジャディズが付与されます。
+
+
+セーブゲームの復元オプション
+----------------------------
+オプション メニューからセーブゲームのデータを復元出来るようになりました。これは万が一、セーブされたデータが失われた場合に備えた安全策です。なお管理部はこれまでに起きた同様事象を認めていません！
+
+
+武器のバランス: "ウォートホッグ" オート 210
+----------------------------
+- 基礎ダメージを増加させました。
+- カスタマイズの過給装填機構による連射速度を低下させ、大口径ペレットによるダメージを増加させました。
+- 基礎ダメージを増加させました。カスタマイズの過給装填機構による連射速度を低下させました。
+- カスタマイズの大口径ペレットのダメージを増加させました。
+- 基礎リロード時間を 2.3 から 2.0 秒に低減させました。
+
+
+武器のバランス: CRSPR 火炎放射器
+----------------------------
+- 火炎放射器による粘着性炎のアップグレードは、ターゲットを直接燃焼とのバランスが取られました。
+
+
+その他武器の修正
+----------------------------
+- 粘着性炎によって敵を殺害する際に、正しく敵を燃やして焼死させるようになりました。
+- ソードオフ ショットガンはパークを装備していなくても常に自動リロードしているのを修正しました。
+- 装備ターミナル内のデュアル ピストルのアニメーションを修正しました。
+- 新しい武器の音を追加しました。
+- 全ての武器と昇進アサイン用に、ミッション コントロールのセリフを追加しました。
+- コンバット ショットガンとピストル、リボルバーにある武器のアイコンを更新しました。
+- M1000 で最大装填数までリロードしてもズームが元に戻らないのを修正しました。
+- 蘇生後はデュアル ピストルの射撃アニメーションが動かなくなるのを修正しました。
+- バーストでピストルを撃っている際に武器を切り替えれると、ずっと撃ち続けているのを修正しました。
+- 混乱を引き起こす原因となっている “よろめき” は “スタン” に改名されました。
+
+
+修正と改良
+----------------------------
+- ミッション選択画面からちらつくモニターを削除しました。
+- アクセサリーのはい/いいえ選択画面はコントローラーのショートカットに反応していないのを修正しました。
+- キャラクターを変更する際にスペース リグにあるユーザー インターフェイスの問題を修正しました。
+- 後から接続する際のフローを改良し、マップをプレイする前にキャラクターを選択可能になったり、戻るボタンを追加しました。
+- 氷の上を歩行に関連していたクラッシュを修正しました。
+- 途中接続のクラッシュを修正しました。
+- 後から接続する際のクラッシュを修正しました。
+- 凍結に関連していたクラッシュを修正しました。
+- ゲームへ接続時にクラッシュするのを修正しました。
+- マグマ マゴットは一切のダメージを与えていないのを修正しました。
+- 溶岩の間欠泉は爆発時にダメージ 0 を与えているのを修正しました。
+- ドレッドノートはよりたくさんの敵を生成出来るようにしました。
+- クライアントのびっくりさせるような蘇生を修正しました。
+- フィードバックに基づき敵の生成を改良しました。
+- エクスプローダーの爆発とヘッドショットか、凍らせた際のロジックを改良しました。
+- 地点採掘において一部の敵はマイニング プラットフォームの上を歩くと燃えてしまうのを修正しました。
+- 空気と溶岩の間欠泉にあるぶくぶくという音は、間欠泉が壊れた後も残っているのを修正しました。
+- 三人称視点に蹴るアニメーションを追加しました。これほどドラム缶を蹴飛ばすのがかなり現実的になった事はありません！
+- 武器と昇進アサイン用に、新しいミッション コントロールのセリフを追加しました。
+"
 	Update_9 = "こんにちは 鉱夫のみなさん！
 Deep Rock Galacticは公開されて１週間が経ちました。私達は素晴らしいスタートを切り（やった！）、今は次のアップデートに向けて頑張っています。ゲーム内ではフィードバックボタンを設置しましたが、とても多くの方に利用していただき本当にありがとうございました。これらのフィードバックは私たちの大きな助けになります。今回のアップデートについては以下をお読みください。
 
@@ -6043,7 +6274,7 @@ Taem Camsの一回目の反復 - あなたが無能力になっている間チ�
 - 13314 Crowdinの全言語を更新しました
 - 13319 ピッケルは敵意のないオブジェクトを打つことにあまり積極的ではない
 - 13320 修正：グラップリングフックがグラップルモードで動かなくなる
-- 13328 ボスコは現在採掘を命令された時、より小さな鉱石の鉱脈を検出可能になった\r- 13329 修正：コントロールレイアウトにコントローラーレイアウトが含まれるようになった(再度)
+- 13328 ボスコは現在採掘を命令された時、より小さな鉱石の鉱脈を検出可能になった\- 13329 修正：コントロールレイアウトにコントローラーレイアウトが含まれるようになった(再度)
 - 13338 ボスコは現在、あなたが採掘中邪魔をしなくなった
 - 13339 スペースリグに新しいスイッチがあるが、何だろうか？
 - 13341 機能：ダウンカメラモード、復活を待っている間、またはゲームが終了するまでプレイヤーを循環します。もうわけなく死体を見つめない！
@@ -6258,6 +6489,7 @@ Taem Camsの一回目の反復 - あなたが無能力になっている間チ�
 "
 	Update_18_Header = "アップデート 18: JOB OPPORTUNITIES - 2018.10.11"
 	Update_19_Header = "アップデート 19: 銃！たくさんの銃！"
+	Update_20.1_Header = "UPDATE 20.1: 強く、逞しい、ボスコ - 2019.01.03"
 	Update_20_Header = "UPDATE 20: 強く、逞しい、ボスコ"
 	Update_9_Header = "アップデート 9: またな！ -  2018.03.09"
 	Update_16_ShortTitle = "冬来る"
@@ -6281,10 +6513,10 @@ Namespace ST_GearUpgrades (33 keys)
 	T_BlowThrough = "貫通弾"
 	T_BiggerPellets = "2 倍サイズのバックショット弾"
 	T_ExtraAmmo = "拡張弾薬バッグ"
-	D_ReloadSpeed = "経験、訓練、そして違法なデザインの「調整」で、銃を大幅に高速でリロードさせる。"
+	D_ReloadSpeed = "勘、訓練、そしてちょっとばかしの非合法な "調整"で、銃がかなり早く再装填される。"
 	D_AreaSize = "爆発するぞ！ 効果範囲が広がる。(「安全な距離」という言葉を心に留めておくことを勧める)"
-	D_Heat = "火をつけろ！ はるかに速くものが燃えるよう設定します。世界が燃えるのを見るときだ...！"
-	T_SpreadPerShot = "浮遊するドラム缶"
+	D_Heat = "燃やせ！より早く燃やせるようになる。世界が火の海になるのを見る時間だ…！"
+	T_SpreadPerShot = "フローティング バレル"
 	T_ClipSizeA = "大容量弾倉"
 	T_LoadedShells = "大容量弾"
 	T_DamageA = "高速弾"
@@ -6297,21 +6529,21 @@ Namespace ST_GearUpgrades (33 keys)
 	D_AreaDamage = "大大爆発だ！効果範囲内のダメージが上昇！"
 	T_ArmorDamage = "貫通弾"
 	D_Recoil = "品質工学、最高のレーザー切り出し部品、献身的な研究開発部の愛情深い手入れ。銃の反動が大幅に減少する。"
-	T_ReloadSpeed = "速射排出装置"
+	T_ReloadSpeed = "速射イジェクタ"
 	T_Recoil = "反動ダンパー"
 	D_BlowThrough = "エネルギー損失を最小限に抑え、ターゲットを貫通するように設計した弾丸だ。言い換えると、一発で何体も撃ち抜け！"
 	T_StaggerChance = "スタン"
 	T_RoFA = "過給装填機構"
 	D_SpreadPerShot = "甘い、甘い最適化。何人かの友人を呼び、この銃の安定性を大幅に改善した。"
 	D_DamageA = "研究開発の有能な奴らが頑張ってくれたぞ。武器の全体ダメージが増加する。"
-	D_ClipSizeA = "これの利点はクリップや弾倉、燃料タンクが常に大容量仕様になることだ。"
+	D_ClipSizeA = "The good thing about clips, magazines, ammo drums, fuel tanks ...you can always get bigger variants."
 	T_ArmorDamageShotgun = "タングステンで覆われたバックショット弾"
 	D_RoFA = "我々は君の銃をオーバークロックさせた。早く撃てるぞ。何も聞くな。ただ楽しめ。それと管理部には何も言うな、頼むぞ。"
 	D_ProjectileSpeed = "我々は銃の排出機構を大きくした。発射物は今、より高速で発射される。 "
 	D_ArmorDamage = "これは自慢の逸品、アーマー裂きだ。デカい虫のアーマーをバターのように切り裂く。これより最高の物はないぞ？"
 	D_ExtraAmmo = "サンドイッチを持っていくのを諦めなければいけないが、弾薬所持数が増加するぞ！"
 
-Namespace StatValues (51 keys)
+Namespace StatValues (52 keys)
 	AccuracyWhileMoving = "移動中の精度"
 	RadialDamage = "範囲ダメージ"
 	ArmorDamageMultiplier = "アーマー破壊ボーナス"
@@ -6329,7 +6561,6 @@ Namespace StatValues (51 keys)
 	DirtMining = "土の採掘"
 	Duration = "持続時間"
 	FearFactor = "恐怖の要因"
-	FlameDuration = "炎の持続時間"
 	FlareDuration = "フレアの持続時間"
 	FocusedShotFearFactor = "フォーカスショットの恐怖%"
 	FocusSpeed = "フォーカス速度"
@@ -6338,6 +6569,7 @@ Namespace StatValues (51 keys)
 	Health = "体力"
 	AccuracyMultiplier = "精度の上昇"
 	Stability = "安定性の上昇"
+	MagazineSize = "弾倉サイズ"
 	MaxAmmo = "最大弾薬数"
 	MaxFlares = "最大フレア"
 	MaxFuel = "最大燃料"
@@ -6358,8 +6590,9 @@ Namespace StatValues (51 keys)
 	SentryAmmoCapacity = "セントリー弾薬量"
 	Shield = "シールド"
 	MovmentPenalty = "スローダウン強度"
-	StaggerChance = "よろめき確率"
-	StaggerDuration = "よろめき持続時間"
+	FlameDuration = "粘着性の炎の持続時間"
+	StaggerChance = "スタンする確率"
+	StaggerDuration = "スタンの効果時間"
 	UseDuration = "持続時間を使用"
 	Weakening = "攻撃力低下"
 	WeakpointDamage = "弱点ダメージボーナス"
@@ -6367,11 +6600,14 @@ Namespace StatValues (51 keys)
 Namespace Techincal (1 keys)
 	ClosedAlpha = "クローズド アルファ"
 
-Namespace UI (59 keys)
+Namespace UI (65 keys)
 	Minigun_Name = ""リード ストーム" パワード ミニガン"
 	SMG_Name = ""スタビー" ボルテージ SMG"
 	AutoCannon_Name = ""サンダーヘッド" 重機関砲"
+	FlareLarge_Desc = "超強力になったフレアだ！これは最も暗い洞窟を照らし出す程のパワフルさと、最も気難しいドワーフの瞳に輝きを取り戻させる程だ。これが嫌いな奴はいるのか？"
 	AutoCannon_Desc = "見た目はおかしいが壊滅的な力がある武器だ。こいつの遅い連射速度はベルト給弾される .50 口径タングステン弾による高いダメージを実現させている。サンダーヘッドは熟練した死刑執行人が、まるで時間の過ぎる様に、いとも簡単に死もたらす厳粛な武器になっている。"
+	FlareMedium_Desc = "通常の DRG 緊急フレアを改良した仕様だ。従来より点灯時間が伸び、明るさも増しておりどちらも世界最高レベルの性能だ。なお DRG は長い間、光に晒され怒り狂ってしまった地域固有の動物相による損害を一切、負わないとする。"
+	FlareBasic_Desc = "標準的なフレアであり、なんら特筆すべき事は無い。点火し、構えて、投げるだけだ！ 7 年連続で従業員が選ぶ不可欠な装備、第 1 位に君臨し続けている。"
 	Anomalies = "異常"
 	Armor = "アーマー"
 	WeaponLicense_Desc = "惑星間掘削業として、DRG は従業員の全員が任務を達成出来るよう、多様な最高のツールを手に入れられるべきという理念があります。あなたの素晴らしい働きとたゆまぬ努力によって、あなたの武器ライセンスをアップグレードできる資格が与えられました。
@@ -6380,8 +6616,9 @@ Namespace UI (59 keys)
 	AssaultRifle = "アサルトライフル"
 	BurstGun_Name = "BRT7 バースト ガン"
 	Back = "戻る"
+	FlareBasic_Name = "通常のフレア"
 	LineCutter_Name = "ブリーチ カッター"
-	ChargeBlaster_Desc = "Bullets are so last year. Why not incinerate your enemies from the inside out instead with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D)"
+	ChargeBlaster_Desc = "弾丸は既に時代遅れだ。その代わりとして、現在も実験中である反物質給電式プラズマ ボルトで奴らを内側から焼却するのはどうだ？一体どんな最悪な事になるだろうか？ (もし見つけたら、研究開発部へ報告してくれ)。"
 	CaveComplexity = "洞窟の複雑さ"
 	Close = "閉じる"
 	Complexity = "複雑さ"
@@ -6392,9 +6629,11 @@ Namespace UI (59 keys)
 	HazardLevel = "ハザードレベル"
 	HeavyWeapon = "ヘビーウェポン"
 	HighExplosive = "高性能爆薬"
+	FlareLarge_Name = "高輝度フレア"
 	Length = "長さ"
 	M1000_Name = "M1000 クラシック"
 	CryoCannon_Desc = "誰もが覚えている限り狂った天才たちがこいつを完成させようと試行錯誤していたが、ついに我々の若い研究開発者達が成し遂げた！持ち運びでき (ドワーフなら)、君が想像している通りの代物だ。一筋の冷却粒子を放つ。持って行け。"
+	FlareMedium_Name = "中輝度フレア"
 	Mission = "ミッション"
 	MissionLength = "ミッションの長さ"
 	BurstGun_Desc = "サブマシンガンより精度が良く小型ショットガンよりパワーを持つ BRT (または "バート" と呼ばれる) は、コレクターと愛好家の間で高く評価されている、非常に貴重な武器だ。 "
@@ -6415,7 +6654,7 @@ Namespace UI (59 keys)
 	Spacerig = "スペースリグ"
 	SMG = "サブマシン ガン"
 	SupportTool = "サポートツール"
-	LineCutter_Desc = "ブリーチ カッターは道行く先に存在するほぼ全ての異生物を薙ぎ払うほど強力な、超音速で充填されたプラズマ体を射出する。原型は採掘道具であり、堆積物を掘る為の物だったが肉と骨を切り開く道具として劇的に生まれ変わった。今ではしばしば素晴らしい成果を上げているぞ！"
+	LineCutter_Desc = "The Breach Cutter releases directional blasts of sonically-charged plasma powerful enough to deal with any alien in your path. Originally a mining tool, it's now been frequency-tuned to crack open flesh and bone rather than the sediment deposits it was designed for - often with quite spectacular results!"
 	M1000_Desc = "DRG に制式採用されている M1000 は百年もの間、その姿を変えていない。高威力、適切な連射速度に…そしてこの "ピーン" という音だ。典型的な "壊れていないものを直すな" である。"
 	Throwable = "投てき物"
 	Warnings = "警報"

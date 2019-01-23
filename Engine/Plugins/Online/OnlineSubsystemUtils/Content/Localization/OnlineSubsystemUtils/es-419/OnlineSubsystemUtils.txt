@@ -1,10 +1,28 @@
-4 namespaces
-0 values
+3 namespaces
+20 values
 
-Namespace Engine (0 keys)
+Namespace EPartyReservationResult (10 keys)
+	Accepted = "Aceptado"
+	InvalidReservation = "Solicitud de reserva errónea"
+	DuplicateReservation = "Se detectó una reserva duplicada."
+	FullGame = "Partida completa"
+	ReservationNotFound = "Sin reservas"
+	NoResponse = "No hay respuesta"
+	DeniedResponse = "No se están aceptando conexiones"
+	ContainsExistingPlayers = "Los miembros del grupo ya están en sesión"
+	BannedResponse = "Jugador expulsado"
+	GeneralError = "Error desconocido"
 
-Namespace EPartyReservationResult (0 keys)
+Namespace K2Node (3 keys)
+	FlushLeaderboards = "Descartar marcadores"
+	K2Node_LeaderboardFlush_Tooltip = "Descarta los marcadores de una sesión"
+	LeaderboardFlushCategory = "Marcador|En línea"
 
-Namespace K2Node (0 keys)
-
-Namespace NetworkErrors (0 keys)
+Namespace NetworkErrors (7 keys)
+	GenericBeaconConnectionFailed = "Error al conectar con la señal."
+	BeaconSpawnFailureError = "Error al unirse, no se pudo generar la señal."
+	BeaconSpawnClientWorldPackageNameError = "Error al unirse, ClientWorldPackageName existente."
+	BeaconSpawnExistingActorError = "Error al unirse, actor de señal existente."
+	BeaconSpawnNetGUIDAckError2 = "Error al unirse, no hay actor en NetGUIDAck."
+	BeaconSpawnNetGUIDAckError1 = "Error al unirse, no hay objeto de host en NetGUIDAck."
+	BeaconSpawnUnexpectedError = "Error al unirse, mensaje de control inesperado."

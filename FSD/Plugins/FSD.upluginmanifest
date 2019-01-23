@@ -290,7 +290,6 @@
 				"DocsURL": "http://gamednastudio.com/plugins/docs/GoogleAnalytics_UserGuide.pdf",
 				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1b3f6c0fc07648b18758f7b883358b3e",
 				"SupportURL": "mailto:support@gamednastudio.com",
-				"EngineVersion": "4.19.0",
 				"EnabledByDefault": true,
 				"CanContainContent": false,
 				"Installed": true,
@@ -384,36 +383,6 @@
 			}
 		},
 		{
-			"File": "../../../FSD/Plugins/Nvidia/Ansel/Ansel.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Nvidia Ansel Photography Plugin",
-				"Description": "Plugin to support Ansel Photography",
-				"Category": "Photography",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "Ansel",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win32",
-							"Win64"
-						]
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Media/MfMedia/MfMedia.uplugin",
 			"Descriptor": 
 			{
@@ -461,6 +430,36 @@
 			}
 		},
 		{
+			"File": "../../../FSD/Plugins/Nvidia/FSDAnsel/FSDAnsel.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 2,
+				"VersionName": "1.1",
+				"FriendlyName": "FSD Nvidia Ansel Photography Plugin",
+				"Description": "Plugin to support Ansel Photography",
+				"Category": "Photography",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "FSDAnsel",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
+						"WhitelistPlatforms": [
+							"Win32",
+							"Win64"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../FSD/Plugins/discordrpc/DiscordRpc.uplugin",
 			"Descriptor": 
 			{
@@ -487,6 +486,59 @@
 							"Linux",
 							"Mac"
 						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../FSD/Plugins/FSDEditorTools/UpgradeEditor/UpgradeEditor.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Upgrade Editor",
+				"Description": "Editor for Upgrades in DRG",
+				"Category": "FSDEditor",
+				"CreatedBy": "Axel",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "UpgradeEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/AI/AISupport/AISupport.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "AISupport",
+				"Description": "A simple plugin that makes sure your project loads AIModule and NavigationSystem at runtime",
+				"Category": "AI",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AISupportModule",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
 					}
 				]
 			}
@@ -596,15 +648,15 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Enterprise/DatasmithContent/DatasmithContent.uplugin",
+			"File": "../../../Engine/Plugins/Editor/MeshEditor/MeshEditor.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
-				"Version": 182,
-				"VersionName": "0.182",
-				"FriendlyName": "DatasmithContent",
-				"Description": "Content for Datasmith Importer.",
-				"Category": "Unreal Studio",
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Mesh Editor",
+				"Description": "Mesh editing system",
+				"Category": "Editor",
 				"CreatedBy": "Epic Games, Inc.",
 				"CreatedByURL": "http://epicgames.com",
 				"DocsURL": "",
@@ -614,9 +666,307 @@
 				"CanContainContent": true,
 				"Modules": [
 					{
-						"Name": "DatasmithContent",
+						"Name": "MeshEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "PolygonModeling",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "EditableMesh",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/EditableMesh/EditableMesh.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Editable Mesh",
+				"Description": "A mesh with rich runtime editing features",
+				"Category": "Rendering",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "EditableMesh",
 						"Type": "Runtime",
 						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Enterprise/DatasmithContent/DatasmithContent.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Datasmith Content",
+				"Description": "Content for Datasmith Importer.",
+				"Category": "Unreal Studio",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "https://docs.unrealengine.com/en-US/Studio/Datasmith",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "DatasmithContent",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit"
+					},
+					{
+						"Name": "DatasmithContentEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Enterprise/VariantManagerContent/VariantManagerContent.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Variant Manager Content",
+				"Description": "Data classes and assets for the Variant Manager enterprise plugin",
+				"Category": "Unreal Studio",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "https://docs.unrealengine.com/en-US/Studio/Datasmith",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "VariantManagerContent",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Alembic Importer (Experimental)",
+				"Description": "Support importing Alembic files",
+				"Category": "Importers",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "AlembicImporter",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac",
+							"Linux"
+						]
+					},
+					{
+						"Name": "AlembicLibrary",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac",
+							"Linux"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "GeometryCache",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Experimental/GeometryCache/GeometryCache.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Geometry Cache (Experimental)",
+				"Description": "Support for distilled Geometry animations",
+				"Category": "Importers",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "GeometryCacheEd",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64"
+						]
+					},
+					{
+						"Name": "GeometryCacheSequencer",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64"
+						]
+					},
+					{
+						"Name": "GeometryCache",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "GeometryCacheTracks",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Experimental/AppleImageUtils/AppleImageUtils.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Apple Image Utils",
+				"Description": "Utilities that operate on CIImage, CVPixelBuffer, IOSurface, etc.",
+				"Category": "Experimental",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "AppleImageUtils",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"BlacklistPlatforms": [
+							"TVOS"
+						]
+					},
+					{
+						"Name": "AppleImageUtilsBlueprintSupport",
+						"Type": "Developer",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac",
+							"Linux"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Experimental/AppleVision/AppleVision.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Apple Vision API",
+				"Description": "Allows you to issue computer vision api calls for textures (camera data or render targets)",
+				"Category": "Experimental",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "AppleVision",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "AppleVisionBlueprintSupport",
+						"Type": "Developer",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "AppleImageUtils",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Experimental/BackChannel/BackChannel.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1",
+				"FriendlyName": "BackChannel",
+				"Description": "BackChannel is an experimetal plugin that allows external tools and apps to query for and push data into a running Unreal session.",
+				"Category": "Experimental",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "BackChannel",
+						"Type": "RuntimeNoCommandlet",
+						"LoadingPhase": "Default",
+						"BlacklistPlatforms": [
+							"HTML5"
+						]
 					}
 				]
 			}
@@ -806,7 +1156,13 @@
 					{
 						"Name": "MediaCompositingEditor",
 						"Type": "Editor",
-						"LoadingPhase": "Default"
+						"LoadingPhase": "PostEngineInit"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "ImgMedia",
+						"Enabled": true
 					}
 				]
 			}
@@ -879,13 +1235,19 @@
 				"SupportURL": "",
 				"EnabledByDefault": true,
 				"CanContainContent": false,
+				"SupportedPrograms": [
+					"UnrealFrontend"
+				],
 				"Modules": [
 					{
 						"Name": "TcpMessaging",
-						"Type": "RuntimeAndProgram",
+						"Type": "Runtime",
 						"LoadingPhase": "PreDefault",
 						"BlacklistPlatforms": [
 							"HTML5"
+						],
+						"WhitelistPrograms": [
+							"UnrealFrontend"
 						]
 					}
 				]
@@ -908,6 +1270,11 @@
 				"SupportURL": "",
 				"EnabledByDefault": true,
 				"CanContainContent": false,
+				"SupportedPrograms": [
+					"UnrealFrontend",
+					"UnrealCollaborationServer",
+					"UnrealLightmass"
+				],
 				"Modules": [
 					{
 						"Name": "UdpMessaging",
@@ -915,6 +1282,11 @@
 						"LoadingPhase": "PreDefault",
 						"BlacklistPlatforms": [
 							"HTML5"
+						],
+						"WhitelistPrograms": [
+							"UnrealFrontend",
+							"UnrealCollaborationServer",
+							"UnrealLightmass"
 						]
 					}
 				]
@@ -943,6 +1315,37 @@
 						"Name": "ActorSequence",
 						"Type": "Runtime",
 						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Netcode Unit Test",
+				"Description": "A unit testing framework for testing the UE4 netcode, primarily for bugs and exploits",
+				"Category": "Networking",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "NetcodeUnitTest",
+						"Type": "Developer",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Linux"
+						]
 					}
 				]
 			}
@@ -984,6 +1387,38 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Portal/LauncherChunkInstaller/LauncherChunkInstaller.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Launcher Chunk Installer",
+				"Description": "Chunk installer module that hooks into launcher",
+				"Category": "Launcher",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "LauncherChunkInstaller",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Linux",
+							"Mac"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Runtime/AudioCapture/AudioCapture.uplugin",
 			"Descriptor": 
 			{
@@ -1006,7 +1441,9 @@
 						"Type": "Runtime",
 						"LoadingPhase": "Default",
 						"WhitelistPlatforms": [
-							"Win64"
+							"Win64",
+							"Lumin",
+							"Mac"
 						]
 					},
 					{
@@ -1073,37 +1510,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Runtime/ImmediatePhysics/ImmediatePhysics.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Immediate Mode Physics",
-				"Description": "Immediate Mode Physx Integration",
-				"Category": "Physics",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "ImmediatePhysics",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "ImmediatePhysicsEditor",
-						"Type": "Developer",
-						"LoadingPhase": "PreDefault"
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Runtime/RuntimePhysXCooking/RuntimePhysXCooking.uplugin",
 			"Descriptor": 
 			{
@@ -1125,6 +1531,123 @@
 						"Name": "RuntimePhysXCooking",
 						"Type": "Runtime",
 						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/WebMMoviePlayer/WebMMoviePlayer.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Movie Player for WebM files",
+				"Description": "Movie Player for WebM files",
+				"Category": "Movie Players",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "WebMMoviePlayer",
+						"Type": "RuntimeNoCommandlet",
+						"LoadingPhase": "PreLoadingScreen",
+						"BlacklistPlatforms": [
+							"Win32",
+							"XboxOne",
+							"PS4",
+							"IOS",
+							"Android",
+							"HTML5",
+							"TVOS",
+							"Switch",
+							"Lumin"
+						],
+						"BlacklistTargets": [
+							"Server"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "WebMMedia",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Media/WebMMedia/WebMMedia.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "WebM Video Player",
+				"Description": "",
+				"Category": "Media Players",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "WebMMedia",
+						"Type": "RuntimeNoCommandlet",
+						"LoadingPhase": "PostEngineInit",
+						"BlacklistPlatforms": [
+							"Win32",
+							"XboxOne",
+							"PS4",
+							"IOS",
+							"Android",
+							"HTML5",
+							"TVOS",
+							"Switch",
+							"Lumin"
+						],
+						"BlacklistTargets": [
+							"Server"
+						]
+					},
+					{
+						"Name": "WebMMediaEditor",
+						"Type": "Editor",
+						"LoadingPhase": "PostEngineInit"
+					},
+					{
+						"Name": "WebMMediaFactory",
+						"Type": "Editor",
+						"LoadingPhase": "PostEngineInit"
+					},
+					{
+						"Name": "WebMMediaFactory",
+						"Type": "RuntimeNoCommandlet",
+						"LoadingPhase": "PostEngineInit",
+						"BlacklistPlatforms": [
+							"Win32",
+							"Mac",
+							"XboxOne",
+							"PS4",
+							"IOS",
+							"Android",
+							"HTML5",
+							"TVOS",
+							"Switch",
+							"Lumin"
+						],
+						"BlacklistTargets": [
+							"Server"
+						]
 					}
 				]
 			}

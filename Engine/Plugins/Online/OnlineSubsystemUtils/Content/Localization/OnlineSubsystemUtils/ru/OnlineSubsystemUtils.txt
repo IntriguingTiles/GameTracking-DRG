@@ -1,10 +1,28 @@
-4 namespaces
-0 values
+3 namespaces
+20 values
 
-Namespace Engine (0 keys)
+Namespace EPartyReservationResult (10 keys)
+	Accepted = "Принято"
+	InvalidReservation = "Неверный запрос резерва"
+	DuplicateReservation = "Обнаружен дублирующий резерв"
+	FullGame = "Нет мест в игре"
+	ReservationNotFound = "Нет резерва"
+	NoResponse = "Нет ответа"
+	DeniedResponse = "Не принимает подключения"
+	ContainsExistingPlayers = "Участники группы уже в сеансе игры"
+	BannedResponse = "Игрок заблокирован"
+	GeneralError = "Неизвестная ошибка"
 
-Namespace EPartyReservationResult (0 keys)
+Namespace K2Node (3 keys)
+	FlushLeaderboards = "Сбросить список лидеров"
+	K2Node_LeaderboardFlush_Tooltip = "Сбрасывает список лидеров сессии"
+	LeaderboardFlushCategory = "Список лидеров|онлайн"
 
-Namespace K2Node (0 keys)
-
-Namespace NetworkErrors (0 keys)
+Namespace NetworkErrors (7 keys)
+	GenericBeaconConnectionFailed = "Не удалось подключиться к маяку."
+	BeaconSpawnFailureError = "Ошибка подключения: не удалось разместить маяк."
+	BeaconSpawnClientWorldPackageNameError = "Ошибка подключения: ClientWorldPackageName уже существует."
+	BeaconSpawnExistingActorError = "Ошибка подключения: действующий объект маяка уже существует."
+	BeaconSpawnNetGUIDAckError2 = "Ошибка подключения: отсутствует действующий объект в NetGUIDAck."
+	BeaconSpawnNetGUIDAckError1 = "Ошибка подключения: отсутствует объект хоста в NetGUIDAck."
+	BeaconSpawnUnexpectedError = "Ошибка подключения: неожиданное сообщение управления."

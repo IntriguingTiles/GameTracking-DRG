@@ -1,10 +1,28 @@
-4 namespaces
-0 values
+3 namespaces
+20 values
 
-Namespace Engine (0 keys)
+Namespace EPartyReservationResult (10 keys)
+	Accepted = "Aceito"
+	InvalidReservation = "Solicitação de reserva incorreta"
+	DuplicateReservation = "Reserva duplicada detectada"
+	FullGame = "Jogo cheio"
+	ReservationNotFound = "Sem reserva"
+	NoResponse = "Sem resposta"
+	DeniedResponse = "Não aceitando conexões"
+	ContainsExistingPlayers = "Membros do grupo já estão em sessão"
+	BannedResponse = "Jogador banido"
+	GeneralError = "Erro desconhecido"
 
-Namespace EPartyReservationResult (0 keys)
+Namespace K2Node (3 keys)
+	FlushLeaderboards = "Limpar placares"
+	K2Node_LeaderboardFlush_Tooltip = "Limpa placares de uma sessão"
+	LeaderboardFlushCategory = "Online|Placar"
 
-Namespace K2Node (0 keys)
-
-Namespace NetworkErrors (0 keys)
+Namespace NetworkErrors (7 keys)
+	GenericBeaconConnectionFailed = "Falha de conexão com o marco."
+	BeaconSpawnFailureError = "Falha ao entrar. Impossível gerar marco."
+	BeaconSpawnClientWorldPackageNameError = "Falha ao entrar. ClientWorldPackageName existente."
+	BeaconSpawnExistingActorError = "Falha ao entrar. Ator de marco existente."
+	BeaconSpawnNetGUIDAckError2 = "Falha ao entrar. Sem ator no NetGUIDAck."
+	BeaconSpawnNetGUIDAckError1 = "Falha ao entrar. Sem objeto no NetGUIDAck."
+	BeaconSpawnUnexpectedError = "Falha ao entrar. Mensagem de controle inesperada."

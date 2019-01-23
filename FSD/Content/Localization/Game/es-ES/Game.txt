@@ -1,14 +1,14 @@
-22 namespaces
-4224 values
+23 namespaces
+4237 values
 
-Namespace Global (5099 keys)
+Namespace Global (5108 keys)
 	2559D78C40005E5221F26093CB976283 = " Recoger {Collected}/{Required}{Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " ¡Me caí!"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESARIO"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Diseñador de sonido/Productor de música"
 	7A08710B44444ECFC61B76B9C1569163 = ""¡Un enano ve más allá cuando va a hombros de gigantes!""
 	83952EF040308BB9B237FDA3FA104D7D = ""¡Un enano ve más allá cuando va a hombros de gigantes!""
-	BED491E44D13CCC24A1BC9973DBCFB71 = ""datos agregados" significa que todas las métricas y datos que recopilamos serán agrupados\njunto con todos los datos recopilados en una característica o tema específico.\nEsto significa que estos datos no contienen ningún tipo de seguimiento sobre el usuario que\nproporcionó dichos datos.\n\nEste tipo de información agregada nos ayudará a entender mejor\ncomo los jugadores se divierten jugando a nuestro juego, y ayudarlos a hacerlo\n aún más divertido.\n\nTodos los datos recopilados mediante este método se manipulan mediante StatHat con \ntotal anonimato. Estos datos nunca se compartirán con terceros."
+	BED491E44D13CCC24A1BC9973DBCFB71 = ""Aggregated data" means all metrics and data we collect will be bundled\ntogether with all the data collected on a specific feature or subject.\nThis means this data don't contain any sort of trace from the user that\nprovided said data.\n\nThis kind of aggregate information will allow us to better understand\nin a broad view how players have fun with our game, and help us make it\nmore fun.\n\nAll data collected through this method is managed through StatHat with\nfull anonymity. That data will never be shared with any other third party."
 	4F6A260D44BFC3B210BB2B8CEA3B3B19 = ""Ah, vayan a hervir sus cabezas, ustedes dos.""
 	CFBD5A9446C706086671638BB02F2B9F = ""¡Siempre entrega más de lo esperado!""
 	6AEFCD0941308D95C5CA318E0EC0E0C2 = ""Y oí una voz en medio de las cuatro bestias. Y miré, y vi un caballo pálido. Y su nombre que estaba sentado sobre él era la muerte, y el infierno lo siguió""
@@ -21,7 +21,7 @@ Todos los datos almacenados con este método se gestionan a través de StatHat d
 	77187D6F417505F2992A93908FEF653F = "Revólver pesado "Bulldog""
 	4646B0FE4D768FA780476DB527338557 = ""¡Cavad juntos o cavaos vuestra propia tumba!""
 	76FA93D64581AB707EC002B078704ECF = ""¡Cavad juntos o cavaos vuestra propia tumba!""
-	99A3FDFD4129EEC1371BEDAFC3678A83 = ""Datos granulares" significa que podremos recopilar información sobre\ntu estilo de juego para lograr una experiencia de juego más divertida tanto para ti y\ncomo para gente que juega como tu .\n\nNingún dato será guardado o enviado.\nEstos datos no pueden i tampoco deben ser vinculados rastreados.\nMediante este método anonimizamos toda la información requerida para \nconectar métricas sobre tus sesiones de juego.\nEsta información nos permite comprender mejor como\njuegas sin llegar a saber nunca quien eres.\n\nMientras se recopilan los datos tu IP queda oculta y solo mantenemos una\npequeña cantidad de información regional la cual no puede ser rastreada.\nToda esta información es manejada por GoogleAnalytics y \nnunca será compartida con terceros."
+	99A3FDFD4129EEC1371BEDAFC3678A83 = ""Granular data" means we will be able to compile information about\nyour play style and use that to make the game more fun to you and\npeople that play like you.\n\nNo personal information is ever stored or sent.\nThis data can not and will not be traced back to you.\nThrough this method we anonymize all required information required to\nconnect metrics about your game sessions.\nThis connected set of information allows us to better understand how\nyou play without ever needing to know who you are.\n\nDuring data collection we anonymize your IP and we maintain only a\nsmall amount of region information that can't be traced back to you.\nAll that information is handled through GoogleAnalytics and will\nnever be shared with any other third party."
 	1793CC5D45BE527563A3418D99FA338A = ""El trabajo duro está en el corazón de todos los enanos de sangre roja. ¿Eres el mejor enano que podrías ser?""
 	2D32E1124D79B3E3DEC62BB9E756ED93 = ""El trabajo duro está en el corazón de todos los enanos de sangre roja. ¿Eres el mejor enano que podrías ser?""
 	EAEFDFC54C5C246CE008F7B46DAE6871 = ""Las cosas buenas nunca son fáciles.""
@@ -82,7 +82,7 @@ Mientras recolectamos los datos tu IP queda oculta y solo mantenemos una pequeñ
 	60E15BAC41DCC919F2E12EB2EFF2AC7D = "+ AUMENTAR EL RANGO DEL JUGADOR NIVELANDO EL CARÁCTER DE NUEVO"
 	967E05354936FC6CFE023AA670D5EAAC = "+ M1000 Clásico disponible para compra"
 	D028C3274772ABACFCB8F39BF1D2362E = "+ Promoción de Explorador"
-	EF0DF8784599B5857CCDD39F43929517 = "+ Trade Terminal Accessible"
+	EF0DF8784599B5857CCDD39F43929517 = "+ Terminal de Comercio Accesible"
 	CA55556B4C389FB1E04612A3184E43AB = "+ Zhukov NUK17 disponible para compra"
 	71184CCD41D302C96EF8F78337EB6D16 = "+1"
 	A0E9B8BD4326D32C88CA96AC8DF2C2D2 = "+1"
@@ -140,10 +140,11 @@ Mientras recolectamos los datos tu IP queda oculta y solo mantenemos una pequeñ
 	A77BC014441BF383DCB769A54D647EBC = "00"
 	A8FD7DFD4EB3BD98D2A2F985A9D31668 = "00"
 	B009BD034DBA1052EDF10983836140D6 = "1"
-	BCBBDA65423104563FCC69AD9103A01A = "1 tirolina adicional que desplegar"
-	11168284465F5822F5AFBB936F248453 = "1. Si es la primera vez que ves esto, espera un par de segundos.
-2. Asegúrate de que tu aplicación Steam esté activada.
-3. Asegúrate de haber iniciado sesión en Steam."
+	11168284465F5822F5AFBB936F248453 = "1. If this is the first time you see this wait a couple of seconds.
+2. Make sure your steam app is on.
+3. Make sure you are logged in on Steam.
+4. Restart Steam.
+5. Make sure neither the game, nor Steam is being blocked by your Anti-Virus or your Firewall."
 	76BE588544C152258F727580BED9EAEA = "10"
 	A4573D264F08E40556773CBE5AD56080 = "10"
 	D073A6D84A569479C9FEFEBB8DB23B0A = "10"
@@ -155,6 +156,8 @@ Mientras recolectamos los datos tu IP queda oculta y solo mantenemos una pequeñ
 	84AF27F14D540C4984879B9634EC0744 = "100 %"
 	F466257A4A397856683A34BF83E4CDCA = "101A:"
 	8CB95B314EA5D392B3FA18AB4783D9AC = "10M"
+	5C13CED149995033C0909C9F427E3971 = "10Primary Objective Goes Here"
+	F65AF55F427F5CD96EA091B84F30EE59 = "10Secondary Objective Goes Here"
 	1969DC9F4275BAF4A783BF8DB6BB0158 = "12"
 	AF57E8E54307407BBD4CE385378B51FA = "12"
 	BFD0C2FC438F8480BF7D8FBF3E9CAB32 = "12"
@@ -180,7 +183,7 @@ Mientras recolectamos los datos tu IP queda oculta y solo mantenemos una pequeñ
 	0838C2284D6C18474F43F399A23E5E63 = "42"
 	0D64808D4847E68080B0E696BA1C1B66 = "¡5000 créditos reclamados!"
 	63AFFF3E45F767CC011D269D00E571DB = "¡5.000 Créditos reclamados!"
-	86F38B004BD8526DF264E2B84F722651 = "50% de daño convertido a daño por fuego"
+	86F38B004BD8526DF264E2B84F722651 = "50% damage converted to heat. This will reduce direct damage, but will set enemies on fire."
 	8A86FBA942812BB1C9A9528364981C49 = "534534534"
 	22F656894A40134D5B2E639A9123E0C4 = "5M"
 	3C0683FB4388F5D46ABEB48940D59946 = "6"
@@ -193,7 +196,6 @@ Mientras recolectamos los datos tu IP queda oculta y solo mantenemos una pequeñ
 	F5B7152F447767F6502E55AC12FC195C = "Una gorra"
 	FD0DCC9D46112F8E43A87186E3EF73FE = "Una gorra"
 	54B42BD34E7B086F2FD0A4B05BE8FB06 = "Un afeitado limpio"
-	D0DC22DE41563374D9FDB1A21E69FD4D = "Un dron"
 	5626CFF946CD0D3F454BCDA834B9A62A = "Un nuevo personaje"
 	628F94274CF7B9670987228A3F69CD94 = "¡Un dron de ayuda está en camino!"
 	2D3B341E43269B3517DEE48ADE5C2BB7 = "¡Un enjambre se dirige hacia vosotros! ¡Cargad!"
@@ -242,7 +244,6 @@ La IA de Bosco no está lista para manejar este tipo de armamento, usa el ESCÁN
 	E37C1031413A95B3452BDA9470E2DF36 = "Un estilo pensativo y sabio para el minero exigente."
 	A49151A643A9AF1ADD5E22AB35C54812 = "Un toque de clase. La bebida de un pensador. La Rocky Mountain no tiene nada que demostrar, pero de todos modos procede a hacerlo a pesar de su baja potencia."
 	A7F15AA745B70AFC2E79B3821388FB32 = "Un centro de comando ambulante, el Traje de Ingeniero Pesado MK3 significa que nunca más perderás la recepción. Está repleto de tanta tecnología de alta calidad que la mayoría de los cabezas de huevo ni siquiera pueden nombrar todos."
-	4564CC6649D4D197405B098920E0B7D8 = "ABUNDANTE"
 	09CD68EF4CCFD3F80C9F438F1A8590B2 = "BARRA DE ABISMO"
 	3B127B1C41B552DF26505292024E7A48 = "ABYSS BAR"
 	B945D0E94F20DFA0E6C90DAF273D2A1C = "BARRA DE ABISMO"
@@ -254,6 +255,8 @@ La IA de Bosco no está lista para manejar este tipo de armamento, usa el ESCÁN
 	7E2D33234A8BF8716D6FBFBFEA047EC7 = "TODOS NUESTROS REGULARS DE DISCORD"
 	9B9AA6A7491F90B980C71C98DE2A59BB = "YA ASIGNADOS"
 	C2D4C65A430223C08E507585B7DA73C5 = "DMF"
+	C3CD0AE24CB9B3ED783E00967D20674C = "DMF-B317"
+	6F017F9E4A37C608F3331CB551539E8F = "Dron DMF-B317"
 	953BD7754CA18B0E7B567FB1569498D9 = "Auriculares AR"
 	AE27730B476987E33DE684ABDA93F9F0 = "Auriculares AR"
 	6F7162D44436E8E658699788E9F157C4 = "¡ATENCIÓN!"
@@ -266,6 +269,7 @@ La IA de Bosco no está lista para manejar este tipo de armamento, usa el ESCÁN
 	20718E284B583064865D9F8C475EAD81 = "¿Abortar la asignación?"
 	6ED213DE4BB78447F8511AB44A682443 = "Abortar misión"
 	AEFBFF50450937B9A66EC5B2CA738B93 = "¡Ya era hora, gordaco!"
+	4564CC6649D4D197405B098920E0B7D8 = "Abundante"
 	469A03DB4C33326F45B69F8D94783A6A = "Aceptar la asignación"
 	F02154C24469968B39A55185D412560B = "Aceptar invitación"
 	6D24CB7A422AFE0748B670920DD89BBD = "Aceptado!"
@@ -317,14 +321,15 @@ La IA de Bosco no está lista para manejar este tipo de armamento, usa el ESCÁN
 	6B1EFA834EAEAE27D66A5D94D8D83A95 = "Alinear para ver: [JUMP]"
 	8F99CD62437E2EF8567A3BBFAED0E31E = "Viva"
 	217741C147D2D16EE379D1A916B2ABC2 = "Todo"
-	03229574442F90EC8E655EB63912D030 = "Todas las M.U.L.A.S aseguradas! Ahora haz que funcione la Cápsula. Primero: Establece una conexión adecuada entre la Cápsula y la Plataforma Espacial. Configura el Enlace Ascendente!"
+	03229574442F90EC8E655EB63912D030 = "All M.U.L.E.'s secured! Now to get the Pod working. First: Establishing a proper connection between the Pod and the Space Rig. Set up the Uplink!"
 	A35A2D1A427A4C3B2271BE8F1E5339DA = "Todas las MiniMULAS operacionales, buen trabajo. Presiona el botón en tu MULA principal para iniciar el regreso cuando estés listo."
-	C803B4EB49A28AA82A804096DA80E3B9 = "Todos los datos recogidos son anónimos. Estos datos no pueden ser usados par rastrear\nHaremos todo lo que esté a nuestro alcance para asegurar la privacidad y seguridad de tus datos."
+	C803B4EB49A28AA82A804096DA80E3B9 = "All data and any data collected by us is completely anonymous. It can not be used to be traced back to you.\nWe will always do everything in our power to ensure your privacy and the safety of your data."
 	60DF9F1A4D00D0960320E1BDF1622767 = "¡Se han recogido todos los huevos! La dirección quedará satisfecha. ¡Se ha activado el botón de la cápsula de escape!"
 	ADC3A444405EA9E563E081B7187A4DE9 = "¡Todos para uno y uno para todos! ¡Podemos hacer esto!"
 	6A644F85422236504F97D79B1EFB68FC = "Todas las cosas buenas llegan a su fin..."
 	B21830B545E9D42F5CC74B8511127994 = "Son gajes del oficio."
 	3BA1D1CB4E75D2827D2E58A2BD0BE482 = "Habéis cumplido todas las cuotas. Bien hecho, equipo. Activad el transpondedor en la MULA y volved a casa."
+	A304D89D45C82A109BB29BAE0E1A94AE = "Dron Multifunción"
 	CBBF79184940D61037DC54B5F971149E = "Dron Multifunción"
 	D92064BA45AE00CE973A47909DCDE540 = "Allan Rasmussen, Dino Patti, Jacek Oczki, Peter Andreasen, todos de Press Play, Thomas Margaard Sørensen, Brian List, Univate, Christian Rask, Jakob Sillesen, Robert Jønsson, Interactive Danmark, Sofie Filt Læntver, todos nuestros colegas de Coffee Stain Studio, Swipe Right, Kirsty Endfield, Michael Power and Natalie Bahbout, Epic Games, Sjoerd De Jong, Mike Gamble, MS ID@Xbox, Guy Richard, Neil Holmes, Graeme Miller, Nate Ahearn, Aaron Greenberg, Sebastien Tasserie, el resto de la industria de juegos danesa por ser increíble y, finalmente, a toda nuestra familia y amigos, que nos apoyaron y creyeron en nosotros. ¡Gracias a todos!"
 	4D61592E4A37CF2FC0F8088B9E5D7BF6 = "Permitir datos anónimos"
@@ -380,8 +385,8 @@ La IA de Bosco no está lista para manejar este tipo de armamento, usa el ESCÁN
 	AE37F170481C37D92EC1CC8D7AD1D6A1 = "Aooowww!"
 	3AA3DBE246DB5A512675FFA2E70EEEF2 = "Flor apoca"
 	5DA237464B71168C2174C9B82EC4685D = "Flor apoca"
+	FBA82E064BE2914C079FBBADB5FEE707 = "Apoca Bloom Secondary Missions Completed"
 	F4CC3CD24B584D51C9E543A347B4CFCB = "¡Flor Apoca aquí!"
-	FBA82E064BE2914C079FBBADB5FEE707 = "Misiones secundarias de Flores Apoca completadas"
 	C47A892E4A92F237FA104F86D9D2808A = "Aplicar cambios"
 	89CBC0EF4F66282D3E48D587CAC33364 = "Aquark aquí!"
 	B8C0C5CC4291AC52CA144CBAD9254D14 = "Aquarq"
@@ -395,6 +400,7 @@ La IA de Bosco no está lista para manejar este tipo de armamento, usa el ESCÁN
 	3BBC11B84DAA7EBDE287DC862B60841D = "Daño de Área"
 	8095E1FF47E225CDDB0BD184B172BD5E = "Área de calor"
 	9D2AF96142938B6FA72BB2A6A9270D57 = "Área de Efecto"
+	8D746ABA43F7F6104ED56A96E8E19FE3 = "Arggh... es difícil moverse!"
 	DF6204D54CA63BB09F32DBA77506F424 = "Argghh"
 	E038C3494502B64BE34E1AAFA607CC63 = "Argh, caro...!"
 	EDBD964E4DEA99996EBE359534E28721 = "Argh, muy inclinado!"
@@ -422,7 +428,7 @@ La IA de Bosco no está lista para manejar este tipo de armamento, usa el ESCÁN
 	18E279544C34ACBC81C0EC9CFB00D9C7 = "¡Ah! ¡Hay algo en mi barba...!"
 	1E3933634C011B888A29A1A190BE5DB4 = "Arrrgh, ¡hay algo en mi barba...!"
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "Director artístico"
-	17E32D5547938A68AEE78ABB9D2F8CDC = "La Gravedad Artificial ha sido reestablecida."
+	17E32D5547938A68AEE78ABB9D2F8CDC = "Artificial gravity has been re-established."
 	B625BD434046DDB7B2EFA799704BBE34 = "Gravedad Artificial recalibrandose."
 	5B0263FD4E3394D40F66B690B17852EC = "Como minero veterano, le ofrecemos la opción de omitir esta asignación en cualquier momento, lo que desbloqueará de inmediato todas las regiones y tipos de misión.
 
@@ -537,7 +543,6 @@ DE INSTRUCCIONES"
 	1C7CF05540FBF4B364BE0A8CEFC58BFA = "Debido al nuevo Sistema de modificación de equipo, se han reiniciado todas las mejoras antiguas de equipo que hayas comprado anteriormente. Todos los créditos y recursos gastados han sido reembolsados ​​a su cuenta. Feliz actualización! :D"
 	739C730F4DC75A2B8FB068B01BE3EA1F = "Porque, ¿por qué no?"
 	75EE201A4C886BBBDDF9F993134F8124 = "Sustrato rocoso"
-	5427D07A4575820335E8C28DCDD6F054 = "BeginCrack"
 	CCD8C78A4198D202866F458CCD513560 = "Beige"
 	74DC149D45917EF3425C9FACA4E51660 = "Berzerker"
 	9CA26B4E47B347DA7641BEB3658927C0 = "Mejor equilibrio del peso"
@@ -594,8 +599,6 @@ DE INSTRUCCIONES"
 	1FD8809D480A77F13D00F3A620B6FCD7 = "¡Buuuu!"
 	D2D51D284753BD8E018F26918D0ACCC1 = "Fisura de ceniza boreal"
 	B55805B74AD51658258C84BB4307955F = "¡Nacido para matar, nena!"
-	6F017F9E4A37C608F3331CB551539E8F = "Bosco"
-	C3CD0AE24CB9B3ED783E00967D20674C = "Bosco"
 	C651A15E445DF06CC4F6B782D1F52F81 = "Bosco, ¿qué es eso?"
 	7C70BF8A4A9023B47C9ECEBFAD16DE08 = "Apoyo Aéreo de Bosco"
 	44621F164DBE535B328B90B9F4478643 = "¡Bosco está en camino!"
@@ -704,7 +707,7 @@ DE INSTRUCCIONES"
 	F1632FDA4C5A034E31010BB013C0DFC4 = "CREDITOS:"
 	4DA615ED48FF4986039949B0A8527F2B = "Lanzallamas CRSPR"
 	676D53374AD5B06C0BACEBA35A63509C = "CTO"
-	008ACBF34E656893A4F67299B6290ABF = "ACTUALIZACIONES DE CICLO"
+	008ACBF34E656893A4F67299B6290ABF = "CICLAR ACTUALIZACIONES"
 	F7AE074E4FE5C46D5CFFEF96F6AE3750 = "CICLO DE ACTUALIZACIONES"
 	498464FE47554D17C5370887C677C032 = "Calculando la trayectoria orbital."
 	A3027FA440118D33CC7B32B6668E1353 = "Calibración completada, la gravedad regresa a los niveles ideales."
@@ -724,7 +727,10 @@ DE INSTRUCCIONES"
 	E2B17D4F4958B568729B6A8B87949191 = "¡No puedo llevar nada más!"
 	FE21EA0942AE111E8B3E339806DA3B0A = "¡No puedo llevar nada más!"
 	7BE484F54F47A29B851D70A7126E47A6 = "No puedo hacerlo, el ángulo es demasiado inclinado!"
+	C736203A484BC10F99649D914F76EA7F = "No puedo moverme! "
+	0FFD6F734C379C30FD351888CBE132A4 = "No puedo ver nada!"
 	6EA6F8A54D666954C24606B53F554416 = "No puedo ver nada!"
+	73F3B28C42BD801EE922A08EAA7C26AD = "No puedo ver nada!"
 	B41DA6B045BD7F27F6E43283E5B135B7 = "No puedo ver nada!"
 	384C1A53441F292B61B12EB3737B7979 = "Es imposible no bailar esta canción."
 	EEF4FDED4B944EF8956B3D83A814C75B = "¡No puedo moverme!"
@@ -741,14 +747,11 @@ DE INSTRUCCIONES"
 	6646C9194E65D217184CE39025814731 = "Gorra - Arma de fuego"
 	D5211E1E4EF79EE304DDB38A869D83F8 = "Gorra - Uniforme"
 	73B65D21444A0BFB316C25B9FAA33453 = "¡Cuidado!"
-	4D2E14AB4BEDEE1D35FCCCA75D6AD0EC = "Lleva incluso más plataformas"
 	8D3EFB56476AB1E9B975EF974EE04D6A = "Lleva más GIC"
 	E16F35EB4B272C039CEA058DA65A8CEA = "Lleva más GIC"
-	B01AD27143EDF3E44D2EF78F96A52E46 = "Lleva más combustible"
 	619D031E4C7B4F572B190EBF49E4CFBD = "Lleva más granadas"
 	68B0C36847C81E222575318A180570D4 = "Lleva más granadas"
 	E1A6AA0446022A84AAE2F89A034CBB62 = "Lleva más granadas"
-	60E56D8C41802B36F71AE98A54A14C6D = "Lleva más plataformas"
 	71C2F9314F6E2C74CEDFCBA4006AB906 = "¡El carrito está en camino!"
 	8A3C22A5421FDB9C7164B9A48F67446E = "Tallado con un cincel en lugar de una cuchilla de afeitar."
 	55EB999248E0C1DBB463458D2526E10C = "Título de la categoría"
@@ -776,7 +779,7 @@ DE INSTRUCCIONES"
 	79E859BF443044FD4DEE9983C190FD98 = "Velocidad de Carga"
 	7ED1A33F42EF9B74F07883BA8129F7C8 = "Velocidad de Carga"
 	B283EE7B4F70B256A2A38A80D313357F = "Velocidad de Carga"
-	29C14E7E434F0856B6B0C3B0364978A9 = "Cargado "
+	29C14E7E434F0856B6B0C3B0364978A9 = "Charged"
 	5C451F5B406DA437028EDEB2E507CEC9 = "Daño cargado"
 	7979159141F4EA5B0774E2B0FFC1AF1D = "Disparos cargados explotan al impactar"
 	EAB7538E434FC82FAC687D8C10D2D595 = "Velocidad de Proyectil Cargado"
@@ -824,7 +827,6 @@ DE INSTRUCCIONES"
 	FDA005934F3D906787D37A8B7CBEFD27 = "¡Haz clic para unirte al grupo de Steam!"
 	4E3A343F4A222EFB928E42BACC517BF7 = "Haz clic para unirte al Club Xbox!"
 	0A9CC2254A69F4AF34290D8AB4E1D581 = "Tamaño de cargador"
-	5518CA6947704F8F2D13D7A707300F72 = "Tamaño del cargador"
 	ABF60DA849C2BB0FE75A0C9FA641E0FE = "Tamaño del cargador"
 	59F03AF8498D17ED6646F190A30A9D6F = "Aumenta el tamaño del cargador"
 	0CC8411B41D22BCC06F543922E3867AB = "Cerrar"
@@ -891,7 +893,7 @@ DE INSTRUCCIONES"
 	90DA1BB8439888EC43D5F3AE1F7BD4AA = "Tierra compacta"
 	CAA4B0924362837962737D9BE73322E8 = "Tierra compacta"
 	E0F791B54B36121FA71673A0AD6CD11F = "Tierra compacta"
-	1B90A5C1470717449A119FB58DD748CA = "Company Benefits: Mineral Trading Network"
+	1B90A5C1470717449A119FB58DD748CA = "Beneficios de la Empresa: Red de Comercio de Minerales"
 	C663F89C4B24952F22CC4EA7FB6FA4DE = "Reglas de la compañia, mi trasero!"
 	84B92DFB4FAF94769A5856AC74634B31 = "Brújula"
 	20C8A02940185CDFF614238B717122EA = "Completar Misión"
@@ -902,6 +904,7 @@ DE INSTRUCCIONES"
 	83081D9843C33EC34691B0929E1FDA5C = "Completa esta tarea para ser elegible para la promoción. Recibirás tu promoción en la terminal de selección de personajes. ¡Obtener la promoción es la única forma de ganar MEDALLAS DE HONOR y subir el RANGO DE JUGADOR una vez que tu personaje está al máximo!"
 	A865D80D4B531828EB8F83AFAE93195D = "Completa esta tarea para ser elegible para la promoción. Recibirás tu promoción en la terminal de selección de personajes. ¡Obtener la promoción es la única forma de ganar MEDALLAS DE HONOR y subir el RANGO DE JUGADOR una vez que tu personaje está al máximo!"
 	D259E88A4D157F88E20DEBBD15E6CACB = "Completa esta tarea para ser elegible para la promoción. Recibirás tu promoción en la terminal de selección de personajes. ¡Obtener la promoción es la única forma de ganar MEDALLAS DE HONOR y subir el RANGO DE JUGADOR una vez que tu personaje está al máximo!"
+	038BE4D54F6B0B0C653786B20B625629 = "Completa esta Asignación para ganar acceso a la Terminal de Comercio de Minerales. Convenientemente ubicada en la Bahía de Lanzamiento, esta terminal te permite vender y comprar minerales."
 	BC046F2B46846F82B0CBF5B5984967D7 = "Completa {value} Advertencias de 'Grupo de sanguijuelas de cueva'"
 	8C82B21F48B6FEA19AA7D1990445B21E = "Completa {value} Advertencias de 'Infestación de Kamikazes'"
 	9CE32A174ADB3C2BCC5E55940D210844 = "Completa {value} Advertencias de 'Plaga Mactera'"
@@ -988,6 +991,7 @@ La Administración"
 	4963D2AF4C072FA9544FE3A7D769FD00 = "Continuar"
 	7614849248E0B34F69C658B451622089 = "Continuar"
 	A76E40CB48469A6D9B96A68C1848966A = "Continuar"
+	50F2BB6D45E54D2C5104F78BF261EB8A = "Continuar a la siguiente misión"
 	2B880903409AD8B31C4573AD7B3B2502 = "Continúa en "
 	3FDC9E054A4217D6E632378A7A9E7419 = "Mando"
 	9D6287354D2C3F1F914A85B350FA8015 = "Controles"
@@ -1097,7 +1101,6 @@ La Administración"
 	52E82F9D448114EF8537CBAA98A19DB0 = "ESTATUA DEL PERFORADOR"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "ESTATUA DE PERFORADOR"
 	CFA98D2341A585DF7A3E70A581FE5451 = "ESTATUA DE PERFORADOR"
-	A304D89D45C82A109BB29BAE0E1A94AE = "DRONE"
 	1714E8CA42591ED549A81C91A33BFE16 = "DRoonn Drooann"
 	04EB654A440E24A574209CA06C0024F6 = "Daño"
 	0CB3B9E24A8C84A23840C2BF52BEF603 = "Daño"
@@ -1123,6 +1126,7 @@ La Administración"
 	2F2298BA463BE32E5A077790A2DEA296 = "Maldición, soy bueno en esto!!! "
 	9BF941594897154747C3B694E1EABC8B = "¡Los malditos taladros se están sobrecalentando! "
 	A64B40594981E028C8FCCEB1A5DDE72E = "¡Maldita sea!"
+	994D340245B7D9084849AA8578AD5C83 = "Maldita cosa pegajosa!"
 	35A6A9C94406CDD8893D7988C77718C5 = "¡Maldito seas, Deep Rock Galactic!"
 	0232110A474ECAF437B69591E70D3F81 = "¡Malditos Deep Rock Galactic!"
 	2255807847614DC74BD770BA4AF0E013 = "¡Malditos Deep Rock Galactic!"
@@ -1160,7 +1164,6 @@ La Administración"
 	DB7D658A482C345FCB200DBFBD9438CC = "Inflige más daño a los enemigos"
 	DFB929C749778C4BE44435BF2030A9C6 = "Inflige más daño a los enemigos"
 	2D3249D04A8DD1FCD136418AEEF29603 = "Disminuida la propagación del disparo"
-	FD7C44B942FD30AC360BDDB10BD4CA10 = "Enfriamiento Disminuido en 1 Segundo"
 	DCD8A2974881A71E2A2FDE915F8525B6 = "Bolsillos profundos"
 	91E193C545ED6A5C63F13595EE935618 = "Deep Rock"
 	9E5DD4E242761E0B1389EE91FCB44936 = "Deep Rock Galactic"
@@ -1193,6 +1196,7 @@ La Administración"
 	A4FA00164668543073CC25B813BDAA2F = "¡Detonación correcta!"
 	70BED7904D1D033440D647BC04BC7D2A = "¡Detonación ejecutada!"
 	A3A181DF4AA030A80D841C8240F2C598 = "¡Detonación ejecutada!"
+	D0DC22DE41563374D9FDB1A21E69FD4D = "Desarrollado por R&D para apoyar a los mineros en solitario en la minería, la iluminación y los combates. El DMF no pretende ser un verdadero reemplazo de un compañero de trabajo, pero se sabe que es un poco más confiable. El DMF se conoce popularmente como 'Bosco', pero la Administración desaprueba el uso de apodos para los equipos. Se sabe que la personificación causa depresión entre los trabajadores en caso de mal funcionamiento del equipo."
 	41D242CA429F2FF60FE943A761A436EA = "¡Diamantes!"
 	8B770D804C9142679C8D79946854C900 = "¡Diamantes!"
 	C8181DC2434D185AD5B3AA862C531CB1 = "¡Alguien consiguió el número del Glifido que me atropelló?"
@@ -1305,6 +1309,7 @@ La Administración"
 	C48E0C784186017E1B8101A4F22C5D90 = "La cápsula de transporte ha finalizado el calentamiento de motores. Es hora de ponerse a trabajar, equipo."
 	73DDA3644D4E1FD76E06A1AF6EEC294A = "¡La cápsula de transporte ha aterrizado y está lista para despegar!"
 	D9D92CB64796D72FB6189D96ACE5CEB1 = "¡Se acerca la cápsula de transporte! ¡Hacedle sitio!"
+	E5B256914AE6E1F791BB7197123B1B2B = "Drop Pod inbound! Stand clear!"
 	5D5E149A4A1A260067EBE589742083AE = "Cápsula de Transporte encendida y totalmente operacional! Volverá a la orbita en un minuto con o sin ti. ¡Pongan sus traseros a bordo!"
 	603F65874D461BCA6D1521B1E7FD886E = "La cápsula de transporte está en camino. Aguantad."
 	C04BF91B4CA454C6A8B5BEB82237843E = "La cápsula de transporte está en camino. Aguantad."
@@ -1377,6 +1382,7 @@ La Administración"
 	BAA3D81347FC18A43AF779A445EC7AF0 = "Elemental."
 	16468BEE4B3084ACFAE079A8054ACB8B = "Bono de Electrocución"
 	4EC29C8D450629F606642DB20C059C33 = "Bonus de Electrocución"
+	26C533DD49DAFF73133D958D5F234AE7 = "Probabilidad de Electrocución"
 	1BBA6A92410AA32B9E70CCA81912F970 = "Planta elevadora"
 	B636802B447B3BD2406A0481871BC7D9 = "Elegible para Promoción"
 	28446666412ED13D695913AC371C5625 = "Eliminar objetivos:"
@@ -1390,8 +1396,8 @@ La Administración"
 	E5B3A82840F6A15692609E9475E60174 = "Vacío"
 	C62A007048417C4E1E43C2948AFA5B7F = "Activar función de prueba de Bosco"
 	CB2BB63F4DF987B78EBECC9C043E9D3D = "Habilitar consejos del tutorial"
-	C9E4147A4FA3B797FA7ADCBEAA356CAE = "Al habilitar la interactividad Mixer, los espectadores de los streams de Mixer \n podrán usar Sparks para curarte, agregar suministros y engendrar \n varias criaturas."
-	2632AC3F4FED5EB41B6315875EFD90C6 = "Habilitar Interactividad de Twitch permite a tus espectadores de Twitch votar en qué bioma o misión harás a continuación."
+	C9E4147A4FA3B797FA7ADCBEAA356CAE = "Enabling Mixer Interactivity will allow viewers of your Mixer \n stream to spend Sparks to heal you, add resupplies and spawn \n various creatures."
+	2632AC3F4FED5EB41B6315875EFD90C6 = "Enabling Twitch Interactivity will allow viewers of your Twitch \n stream to vote on which biome or mission you will do next."
 	9113D50C470070B66C7D069A7EE4B663 = "EndCrack"
 	305318414478607ABE93A989F8D75E0A = "Enemigos asesinados"
 	E67758F5441CADB5013533B2CBD671AE = "Los enemigos atrapados en el Campo de Debilidad son a la vez desacelerados y vulnerables."
@@ -1418,7 +1424,6 @@ La Administración"
 	89C7523144ABD39253BB27BAFE26CB83 = "Equipar este artículo ahora?"
 	57E6BB0F42206D722E6E1A866FC825D0 = "Equipo"
 	9708414843BB4080C9EA08803F014CD8 = "Mejoras de equipo compradas"
-	E5B256914AE6E1F791BB7197123B1B2B = "¡Se acerca la cápsula de transporte! ¡Hacedle sitio!"
 	35C67A644D89A777FBF3F6A0AB186201 = "Tiempo estimado"
 	C756B4A64DB397B5EED924864553C3E8 = "Cada muerte enfría el arma"
 	5FDE6E4B4587A781262BF0984C90049E = "Cada vez que aumenta el nivel de un enano, ganas una marca de tablero. 
@@ -1445,7 +1450,6 @@ Cuando haya acumulado 4 marcas, tu rango de jugador aumenta."
 	860AA6A54B91A73D575E8AAB551AF13A = "Explota el ultimo proyectil cuando uno nuevo es disparado"
 	2760B4D24420248535423580CAF28CB6 = "Planta explosiva"
 	5EF8DBE945E73FE7391AF782BB959E6E = "Explosión"
-	AA8F120D4A3213528FDAA6B10B6C1FC4 = "Explosión"
 	B7D7DDDA420F094565F66E9E6DFE691A = "Resistencia al Daño por Explosión"
 	31851E9546D0347E28CDA2A8A77584F4 = "Despedida Explosiva"
 	E9EC970246B59E1814D725BA8F06239E = "Munición Explosiva"
@@ -1471,10 +1475,6 @@ Cuando haya acumulado 4 marcas, tu rango de jugador aumenta."
 	5073E9CA427557824A8589B250A6DAD9 = "Reanimación Extra"
 	8D0872D04D0444AA27B732B6A16B583E = "Reanimación Extra"
 	BEBD5440451ACC2731CC1FBDEFD3AF0B = "Cohete extra"
-	291965AC4A3E4F21FB9B91841B98F417 = "Tirolinas adicionales"
-	77D6AB4F4929A856637FFDA7BE807942 = "Depósito adicional"
-	B0DE6FE246C95819C68ABCBBA424DC28 = "Depósito adicional"
-	C088566241D93197365D3CB2BBCD5F19 = "Tanque de combustible adicional"
 	55A2B3B34A5CBFF55F21B2BFE1AF75A9 = "Extraer"
 	4F2765924295F9E459D7D4BC9514B43E = "Extracción"
 	BBEED5E543ABACB0517FC6AE86BC39C0 = "Comienza la extracción. Buen trabajo."
@@ -1512,7 +1512,6 @@ DE TIRO"
 	A954FC824ADC9C3A396E6FBB26B5D298 = "1ª etapa más rápida de la bomba"
 	3B92DE784295EB7CDA1F299E0F3C32FC = "Recarga más Rápida"
 	88F9A74747992A3986FBBC9FC28157F0 = "Recarga más Rápida"
-	EBB44BE24CFA9DA8770678A81FD9B25A = "Las perforadoras se enfriarán más rápido cuando no se estén usando"
 	B2C956104BA61461E0D8A0BE9C82A8C4 = "Enfoque más rápido"
 	4E587A484F194791A10713AB5D01E2EC = "Recarga más Rápida"
 	EF5B6A2846090591EDA706BFC8061C89 = "Recarga más Rápida"
@@ -1523,7 +1522,7 @@ DE TIRO"
 	5E5B093541932CB3739D1FA932DB9E59 = "Comentarios"
 	8021A8B441DBFDF85E3289898E222F58 = "Feedback"
 	49267D7D45C5CECD73C716AE3B92C1AC = "Bucle de Retroalimentación"
-	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "Comentarios sobre la actualización 19"
+	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "Feedback on update 21"
 	B9AAF2AB45F343573C64B2802999CDB8 = "¡Ahora me siento mucho mejor!"
 	C90D261E4FB756830866F584E8471FB2 = "¡Me siento mucho mejor ahora!"
 	AFA9E8754385E1518A6E42A12525EBD7 = "¡Valla lista!"
@@ -1781,6 +1780,7 @@ DE TIRO"
 	00CDC2814E5FF981C46300B068D682F5 = "Huevo de glífido"
 	80639C5F4A78BBC44A8D73A49CDB4DE1 = "Kamikaze glífido"
 	7B4E597C4CE46978190B01BDF4DDA9D7 = "Pretor glífido congelado"
+	BE68E3DD472602BB09ECAC962BB341EB = "Glífido Recolector"
 	DAC649E44C864E3F42BDD98F8C434126 = "Revestimiento de Neurotoxinas "
 	FA8F44C946CD7ABC7358039A193E66E7 = "Pretor glífido"
 	46ACC5DB49459F62F66B59A004754A16 = "Glífidos Praetorianos atacando!"
@@ -1789,7 +1789,6 @@ DE TIRO"
 	F7464ADE4437E5B3F6902DB072133523 = "Invasor glífido"
 	F842677547F73DCFC06EFD80D085CBF6 = "Túneles de Glifidos Swarmer"
 	B8D8E4D846F02E721C4AC4A0B19118A4 = "Túnel de Glyphid"
-	4B8A3B6D4459A7039BEC88B7E6A5B4E2 = "Glífido Guerrero Veterano"
 	EBE02D2E41935D99B0636AA8053E5CB5 = "Guerrero glífido"
 	1CF279344F67E8BC574EF5981DA77522 = "Escupidor de telaraña glífido"
 	EF2539364E0BBD773683F5BD0E0107D2 = "¡Ve, Bosco!"
@@ -1899,6 +1898,7 @@ DE TIRO"
 	AA5DA6384878C7D234339887759B6B39 = "CALOR"
 	7E486A12470C96225227A880AD9F8DB8 = "¡AYUDA!"
 	EC16890749A927E0816630B3B42F35E4 = "¡AYUDA! ¡Tengo arena en mi barba!"
+	CE0A0DFA40DFCFD53C5ECDA179364303 = "HHRRRGG"
 	70A4A3534F4A41FD1D2D56B39DA7D810 = "MANTÉN PULSADO [Laserpointer] PARA ABRIR EL PUNTERO LÁSER"
 	96A8E6A14FEFCD974370709BCCF5FA74 = "MANTÉN [Laserpointer] PARA SEÑALAR, LUEGO PRESIONA [Fire] PARA HACER UNA MARCA"
 	565BE2CA4157D153FE965A8438508B5B = "MANTÉN PULSADO [Laserpointer] PARA SEÑALAR, LUEGO PULSA [Fire] PARA QUE BOSCO INTERACTÚE"
@@ -1912,10 +1912,13 @@ DE TIRO"
 	8EB05D1D4CAC8EA907FF9CB896638929 = "JUEGO DE ANFITRIÓN PRIVADO"
 	78AA4598413B0966965A5B81CD0CC24E = "JUEGO PUBLICO DE HOST"
 	40DD0DBB4C7BECA793D472BB978E6BBE = "Ya tenemos encima a RR. HH. otra vez. "Infestación alienígena", lo llaman. Encargaos. ¡Llevad explosivos!"
+	E9F1C6D947B041CCFD6B41BA91F0C58A = "HRGGG"
+	A8AFC97E45510023584AA2B2E6A27141 = "HRRRGG"
 	D1AAB5144A60C1CB76469B8710BC8BAF = "HIDRA"
 	7350CFB4480DC5425C63A09BFF0AAF3A = "¡Tuve que vender para obtener Créditos! "
 	6D7CFE1047CAE6AFDBB27D93DD3F3DF9 = "Ja, ¿cómo van a conseguirlo en este infierno sin mí?"
 	EAE8A9154F0E44FB2BB347831B1207E6 = "Ja, eso terminó tan bien como se podía esperar!"
+	4D563C51409295E4CFE3869F314FDCB0 = "¡Hah, esa estuvo difícil!"
 	2707F1734BB448FC03DFCF880F3DCD00 = "Cabello"
 	17B453774C596F888DD633ABFA394B5E = "Gatillo Fácil"
 	70AAA06043DC7BD630D669AC3B3CFC85 = "Gatillo Fácil"
@@ -1923,19 +1926,11 @@ DE TIRO"
 	98EB44DD4B91B80E0F20E28FA22F97D3 = "Útil para mantener metrallas y visceras fuera del alcance de tus ojos."
 	43853D14403E8C70DB9FB7BC01350C91 = "Aguantad, los suministros están en camino."
 	631B26D74487C6C769C74BACAA22F99A = "Aguantad, la horda ya casi ha terminado. Despachad lo que queda."
-	D5899831467E63A983BD75B02C58739F = "Munición Endurecida"
 	1428476D46204FB9B1EAA881E8436FD8 = "Rondas endurecidas"
 	9FB0E4E24B11742B31093589AD98CA31 = "Munición Endurecida"
+	D5899831467E63A983BD75B02C58739F = "Hardened Rounds"
 	1468E7A5462C6F83AEB14ABFF14F6F50 = "Gafas de vidrio endurecido y acero reforzado. Nadie va a sacudir tu cabeza."
 	4D4D584A4B800FD186BAEDB67012406E = "Gafas de protección de vidrio templado y acero reforzado. Nadie va a sacudirte la cabeza."
-	D234CB9A4CB33E35859A008D44C30B07 = "Peligro 1"
-	B4B917114A84B4B7F995BDBC8A2F9676 = "Peligro 1: bajo riesgo"
-	9D37E9CA45B017DD9BD1B983E9BC4536 = "Peligro 2"
-	F6739FCE4A2054843B4184AA8A000173 = "Peligro 2: desafiante"
-	53DC7BCE414A912859DA3EB4B80F4A6B = "Peligro 3"
-	ACC85EC044AF87F6DC13CCA5D4ED898F = "Peligro 3: peligroso"
-	70E7F9674F493E5EA96CA191FD614CC4 = "Peligro 4"
-	B3022E03447A94E03051E0BBC072D07F = "Peligro 4 - Extremo"
 	7CFC9F3043146E985E0D809F6881BF36 = "Bonificación de peligrosidad"
 	7466072345C05210268EDD9DC408CD72 = "Bonificación de peligrosidad: +{bonus}%"
 	925B88C9473D02AD5A60A7B7547AFBA5 = "Meneo de cabeza"
@@ -2028,12 +2023,12 @@ DE TIRO"
 	F23A351E4B564F602C0F2CADF34C8CBC = "Hmrggg"
 	9A01659847E0365AB366638A3501DC3E = "Hogan"
 	5E1D5BA546EAE95ECC6D5788F57E902C = "Mantén pulsado [Flare]"
-	DE4D6AAB448AE6CF744DC796AE112689 = "Mantén [Laserpointer] para ordenar a Bosco un ataque con misiles"
+	DE4D6AAB448AE6CF744DC796AE112689 = "Mantén [Laserpointer] para ordenar a Bosco un ataque con cohetes"
 	58CCF54F44BB986B669FBCB984CE2CA9 = "Mantén pulsado [Laserpointer] para escanear las cuevas"
 	2BFF3FB24C513ED65A19FD91B5E08C13 = "Mantén pulsado [Mine] para usar el pico"
 	BCFE67FF42A1D718A84C3E8AF7B827B9 = "Mantén pulsado [Mine] para usar el pico. Busca minerales para extraer."
 	AB713DA84A255DC0B9E69BB8F63D3767 = "Mantén pulsado [Shout]"
-	D040A1484FB26920A4264D88D439142A = "Mantén [Shout] para ordenar a Bosco un ataque con misiles"
+	D040A1484FB26920A4264D88D439142A = "Mantén [Shout] para ordenar a Bosco un ataque con cohetes"
 	E152CE3C4651EBDFED9E7BBE22D38573 = "Mantén pulsado [Shout] para escanear las cuevas"
 	30E82465429260C1E4F47E992AB1701A = "Mantén pulsado [Use]"
 	B3D7FAF044B6E17B765BB597E44ACBEC = "Mantén pulsado [Use]"
@@ -2072,10 +2067,12 @@ DE TIRO"
 	C041FF5B407A44DD171F28ADC75AE462 = "Caliente caliente caliente!"
 	B4A21BF24D4658D7C22D868465AEA596 = "¡Patata caliente!"
 	CE7E0F2644379AF1632BE292D0DE6924 = "HotKeys: A para ir a la pestaña anterior, S para ir a la siguiente"
-	BF59E23F431DFCE4B5B77780BE4F6437 = "¿Cuantos años tienes? Te comportas como un niño mal educado. Por favor, detente!"
+	BF59E23F431DFCE4B5B77780BE4F6437 = "¿Qué edad tienes? Te comportas como un niño mal educado. Por favor, detente!"
 	3A35E91C4472DC693964859E4BA00EAE = "Hierro Hox"
 	BBF194A847793B8D61F65B981D311276 = "Hierro Hox"
 	6631D9B847BC5064556559AD8DF29E65 = "Hrghrm"
+	75C6D8DC4679143FE8F751B3C8D5FDB0 = "Hrggg"
+	9CBCF22C440AABD3C683B5825C955E24 = "Hrggg"
 	EB981AED420DF448E78A13B6FCF68B0C = "Hrm, esto no se ve bien... acabamos de detectar un grupo de Praetorianos dirigiéndose hacia ti. Atrinchérense, Equipo."
 	475B05914598AF2ACF3F779E31ACF98B = "Hrmmhrhhhh!"
 	288C438D4BBE5EE9CCA086B99FC51E7C = "Hrmmmhm"
@@ -2087,7 +2084,11 @@ DE TIRO"
 	966210AB4D134DD2005662A6DED913D1 = "Hrpm"
 	C41AEF634DC0F0093F0D10898DBEF572 = "Hrpm"
 	B4079BD94D5C57650CB3C0BCBC26D15B = "HrrHRMM"
+	0BF018F441BA791021C4CE9CDFCC9F11 = "Hrrrrg"
+	1F87952D457E6A134FFDA8B243EFF425 = "Hrrrrg"
 	6FAE7DA3458715E0DAA11D935D8F092D = "¡Huraggg!"
+	1648DDF24EBDBDDCE0B8DEAFE101925E = "Hurrg"
+	4AE336994ED63AA09D40ACADFBBF0149 = "Hurrg"
 	753CADD54189504C5299619878C8B917 = "¡Apurad! ¡La cápsula de transporte no va a quedarse aquí toda la vida!"
 	BAD2E7A64BE9CAC7F83BE9A4E2BC9A36 = "¡Date prisa! ¡Ya sabes que no tengo todo el día! "
 	3305C68D4E9BAA729DD29A8258303F74 = "¡Date prisa! ¡Me aburro!"
@@ -2101,6 +2102,7 @@ DE TIRO"
 	98B912784FC022D464B45E81B1FF194C = "¡Soy increíble!"
 	FA37CB1C4939E022D17010BE1EDB09B2 = "¡Estoy listo para navegar la galaxia! ¡Nos vemos en otra vida!"
 	45D16DA2408719DB4169DC8734D8513F = "¡Estoy listo para dejar este trabajo y seguir adelante! ¡Oh si!"
+	59D35EC346CAD1C8223ABE8A0CEE507E = "¡Estoy atascado!"
 	44670620493E470D3343C18289458F1F = "¡He llamado a Molly!"
 	29E8650542B5B74D49E91DB70AF75D41 = "Llamé a la Vagoneta"
 	FC1B0AA34DA3A072307323B4AC89F218 = "¡Llamé a la MULA!"
@@ -2143,6 +2145,7 @@ DE TIRO"
 	3A579851475A288FF152AE88B30F898C = "¡He de vigilar el sobrecalentamiento!"
 	82E981B84ACAE479718D9A9B7A4DE4DD = "¡Tengo un buen presentimiento sobre este equipo!"
 	B4AA6A7041D094A4C986168DBBFC8A99 = "¡He experimentado peores!"
+	DA6C13AF47996DD1C62614B8A213A303 = "¡He experimentado peores!"
 	99A25A2B4239CFE4EBEBCC8522DF1342 = "¡He vivido como un enano y voy a morir como un enano!"
 	EDF2C707420B672A44B8F7BCC7A0CB43 = "¡He vivido como un enano y moriré como un enano!"
 	F66966BF43ED115B18C4B3B24F00D432 = "¡He vivido como un enano y moriré como un enano!"
@@ -2204,6 +2207,7 @@ DE TIRO"
 	5A55AFD44B2F49585D7E77B7D6FDF3BA = "Yo soy tu amigo, y espero que siga siendo así."
 	A308B2B4414D4F8E2EEC4099AF5B9A8B = "¡Tengo miedo a las alturas!"
 	DF91BD804022ECC250D46E979F262914 = "¡He vuelto, chicas!"
+	075EBE914921090FFB00BFBD50094D66 = "¡Estoy ciego!"
 	E2078A754D963EBF72960EBA6ED69E3C = "¡Estoy ciego!"
 	5CD74A394ECE21FD6B4CACB590415EFB = "¡Me han derribado!"
 	6E5317474A045B49A09B0F9C4F0AE21B = "¡Me han derribado!"
@@ -2245,7 +2249,6 @@ DE TIRO"
 	A71F8B0A445CEE92B5253A8DD6AC0DE8 = "GIC"
 	9096D3A9460FED0BC936D8B3B8365E48 = "II"
 	E72B700842BA160CB2F066808B1059E9 = "EN PROGRESO"
-	878D07B640CB9FB59A6342ADCC21EC0C = "INACTIVO"
 	2F1468914439D27056E058B2FD0F4293 = "EN CAMINO
 CELDAS DE COMBUSTIBLE"
 	CE21EAD448E542501C1BA686FAB1D2ED = "LLEGADA
@@ -2273,6 +2276,7 @@ CELDAS DE COMBUSTIBLE"
 	45C0084A4707AECDDE0E39AF949E3A43 = "Inicia inmediatamente la misión"
 	0645A9594F688F770079D989D1E464E7 = "Amortiguadores De Impacto"
 	1D2DAB3B4A255077E8F5BEA6D62DC992 = "Trabajo impecable. Estás haciendo un buen progreso. Los enanos menores no habrían llegado tan lejos."
+	21F5887C432B0BA342DF618913B4D4CC = "Imposible de ver!"
 	66F0E28D499A2369799491AF83FEBFC4 = "Imposible de ver!"
 	5940DD09483FB8A41478868CFCB8D073 = "Bomba de 2da etapa mejorada"
 	7E6F0B8347031C0757DA40956D753056 = "Precisión Mejorada"
@@ -2299,6 +2303,7 @@ CELDAS DE COMBUSTIBLE"
 Al Promover un personaje se REESTABLECERA SU NIVEL A 1. No obstante, mantendrás todo el progreso en armas, mejoras, habilidades, créditos, materiales de artesanía y artículos de vanidad."
 	64FB15C24E8ED2B9E943BBAD29DFB59F = "En reconocimiento a su desempeño, su nivel de seguridad ha sido mejorado. Se le ha otorgado acceso a nuevas regiones de Hoxxes. Felicitaciones, minero."
 	075D59304D4A871CE33297A70D614FAC = "Inactivo"
+	878D07B640CB9FB59A6342ADCC21EC0C = "Inactive"
 	994499E54F6ED7CDBCD36C91E2C5C9FA = "Compuesto Incendiario"
 	4DA0B11345F109DD53883E99D5F49000 = "¡Ahí vienen!"
 	68C7E9E14BAA5165E29BCF90BF3E033D = "¡Se acercan! ¡Dadles con todo lo que podáis!"
@@ -2308,8 +2313,6 @@ Al Promover un personaje se REESTABLECERA SU NIVEL A 1. No obstante, mantendrás
 	2309F9154FDE8A1E7D6FF0B9D405A9FD = "Aumentar el tamaño de la línea"
 	FE7EA87647CD44BB927C6D99D647EF31 = "Aumentar Tamaño de Linea"
 	76FA14EE41250691A1AC2C9AE6C904AE = "Aumentar Radio"
-	856AD218490E543BD1858FBB55E5C7AF = "Aumenta el daño infligido a los enemigos"
-	E9695F744C20E534E2299799F0153171 = "Aumenta el daño infligido a los enemigos"
 	0A45047A4242961A8B1EE8813757ACAD = "Aumentar la cantidad total de bengalas "
 	6A0D79C041A5FF4C38627F8192868332 = "Aumenta la cantidad total de bengalas "
 	90AA845242CCE865EE7BDDBF808B9C86 = "Aumenta la cantidad total de bengalas "
@@ -2319,20 +2322,17 @@ Al Promover un personaje se REESTABLECERA SU NIVEL A 1. No obstante, mantendrás
 	0CFEAE20454AB5604AE6E78E874F090E = "Mayor precisión"
 	DC858B214DC2316D4067C8AE06BD5D55 = "Presión de Cámara Aumentada"
 	CA24D346422B0858B8EE8DB63AB98681 = "Mayor área de efecto por la explosión del cohete."
-	01E0966E42AD62591F083BB3DC9307E6 = "Mayor posibilidad de aturdir al objetivo en un golpe"
+	01E0966E42AD62591F083BB3DC9307E6 = "Increased chance to stun the target on a hit"
 	8CA7B7594E027FABCA3FEF9BC3F9D490 = "Daño aumentado al alcanzar máxima cadencia de fuego"
 	522FC91A4FDEB07BC77A0F8B52C6B9B3 = "Tasa de consumo de combustible incrementada para aumentar el daño "
 	40CC34B044F5A8C3086032B657F81575 = "Cadencia de Fuego aumentada y Estabilización del Giro más rápida"
 	6F16DBFD45BB49FF0CD9AFB2416AD8C1 = "Daño por salpicadura aumentado"
-	AB673F424CEC0EB9C7CDEEAAB4615A3E = "Incrementa el rango en 5 metros"
-	E5AC1646455C5F87B866478AC35D4A75 = "Incrementa el rango en otros 5 metros"
 	98194E414043789C3D650BBFD18EBAEF = "Aumenta la cantidad de proyectiles de bengala que puedes llevar"
 	49CCBDF749D12728ECC97F8FABC6AC39 = "Aumenta las capacidades de rotura de armadura de la línea de plasma"
 	1CD6C4AB4790067998617E9A55E78BBA = "Aumenta el daño causado por un disparo cargado de impacto directo"
 	E78BCAE64D329F38800D59BA2241F972 = "Aumenta el daño causado por proyectiles normales"
 	361FED844443DA02EFFAD497231EED33 = "Aumenta la munición máxima"
 	3E18B1134C670D647922609933C5310C = "Aumenta el alcance de la llama para incineración a larga distancia."
-	EE2805C144AC50675F46E092585DB394 = "Aumenta el alcance de la tirolina en 5 metros"
 	6B397DB34DA86277449B6F9FF93665A8 = "Aumenta la cantidad total de cohetes que Bosco puede disparar antes de regenerarse."
 	0BC0F2504362D8A53D3274B859C4850F = "Gafas industriales"
 	B0C5803743F78BB0458B7381D8CAFB64 = "Uranio Inerte"
@@ -2382,7 +2382,7 @@ Al Promover un personaje se REESTABLECERA SU NIVEL A 1. No obstante, mantendrás
 	94AA871A484F4AA6F4C1D4BB00AAF51F = "Se necesita mucho esfuerzo para verse así de bien."
 	CF74A6D0489BCD7221B8FE9CE45E9F17 = "Se necesita mucho esfuerzo para verse así de bien."
 	D3D9EEC041FAEB70FFF71F87CE63E87A = "Se necesita mucho esfuerzo para verse así de bien."
-	F32A3EF648C5880806618BB243C210B7 = "Se necesita la mitad del tiempo para que los cohetes estén listos para disparar de nuevo."
+	F32A3EF648C5880806618BB243C210B7 = "Toma menos tiempo para que los cohetes estén listos para volver a disparar."
 	7932D96046B006A79DD0CFA445B33AE9 = "¡Me ha capturado!"
 	E79DE8574BC6D761870D9C8AD2511104 = "¡Era esto o cervezas!"
 	D3EB9A3B40B3D6BEDDA9FD851B87B446 = "¡Soy YO, tonto del culo!"
@@ -2394,9 +2394,14 @@ Al Promover un personaje se REESTABLECERA SU NIVEL A 1. No obstante, mantendrás
 	1458ADA94DBDBB79C749B0BDE33C08B1 = "Lo más importante es asegurar las cuevas, ¿sabes?"
 	D3BC5E074C970B3353809481ADC023A1 = "¡Armada y lista!"
 	0D7D45894E6018D74F0EAB983EF3979E = "¡Es fantástico que te unas al equipo!"
+	6E018A944E8F3EC960841F87CBEA258B = "¡Ha caído! Buen trabajo, compañeros!"
+	FBCC8A5446B26A72CB09AA9CA3BE8C72 = "¡Ha caído! ¡Lo conseguimos!"
+	0F4294174812E4871D9D67BE83F22613 = "¡Por fin está muerto! "
 	53CF8FEF453FD79F589CFFBE8A97C532 = "Se está volviendo horripilante aquí...!"
 	524BFE9F40190E592013B2884E98E0D0 = "¡Es una simple brisa!!!"
+	BCBA5EA144FC20A4B2AF5984A3EF6FAF = "¡Es una simple brisa!!!"
 	CCD372FB41EF89801ABD508BCE38210F = "¡Está listo!"
+	B235A0E24E409B676F9D5DB60875A559 = "¡Me está ralentizando!"
 	3629A1C444A1E26FA04C5CA5A822AC54 = "Esto está muy oscuro..."
 	52AC22B6407C9C73B1D6AA95C78B2E29 = "Qué oscuro está esto."
 	E54B443F49792D2B9C0B5BA7A61726DE = "¡Esta muy lejos!"
@@ -2492,8 +2497,6 @@ Al Promover un personaje se REESTABLECERA SU NIVEL A 1. No obstante, mantendrás
 	526E12D643563C61D9A1CA97FF7CACB4 = "Mata a {value} Dreadnaughts"
 	4CB149DA4DA9156275D738AB089FC2CD = "Mata a {value} Infectadores Escupebolas"
 	CDD553D7444B69F4C327F58367C50A7C = "Los objetivos muertos explotan %"
-	A6E23124418722B4529F28BE7F7CE4B3 = "Killer Driller"
-	B6CE073A4D4A5EBA71B1E68BADEAF090 = "Killer Driller"
 	C5CC47A0438B2098D1C7B98AE16E9A98 = "Enfoque asesino"
 	B8C97C2D440FCE3AFC4CE2BE3605CD0B = "Matar a un enemigo aumenta la precisión"
 	4F712AE34E32BCB06175B58E60470F34 = "¡Matar a tu objetivo con un disparo enfocado en el punto débil enviará a las criaturas cercanas huyendo de terror!"
@@ -2601,6 +2604,7 @@ TUTORIAL"
 	129FFA634AE01D7F89185EA4180BC4D1 = "¡Vamos a enseñarles lo que es el dolor!"
 	CE4EDB6B40C905DFE1FC26A1F86FF70D = "¡Vamos a enseñarles lo que es el dolor!"
 	1B82DDBF439821091226D596F8C2E9C8 = "¡Manteneos cerca!"
+	38CE78B74EB9EDB614E720B8B193C6EC = "¡Manteneos cerca!"
 	49D18B464DAF172E2184BDABE12EA571 = "¡Permanezcamos juntos a partir de ahora!"
 	6071A7EE418497ED9948CBA6C30E03A6 = "¡Vamos a trabajar juntos en este!"
 	C09B96F04618D7DE4A03CF843410341B = "Vamos... solo... nunca más hablemos sobre esta misión otra vez!"
@@ -2676,6 +2680,7 @@ TUTORIAL"
 	7F47EB964AE9AC0FB5ECA7847A904FEA = "Mayor alcance"
 	22B8B49D4665B69EEFDD3DBCC2652F20 = "¡Mira al novato, haciendo trampas como un... un... novato!"
 	57F1C361421091DD955EB79880C0F16A = "¡Mira eso!"
+	9211351A42993364965FAEAF1787CEAD = "¡Mira eso!"
 	EDBAAC90410B9F3FAA4086837DFE0147 = "Busca tierra marrón en las paredes: bloquea un túnel que da a una cueva cercana."
 	4C36C795417048E41230B4952D5FDE85 = "¡Mira aquí!"
 	2643F6364CF1CA3F93AC92A5A64FC37F = "¡Cuidado, tenemos Engendros Mactera!"
@@ -2791,7 +2796,6 @@ TUTORIAL"
 	E1E6FC3E499E0E8617D98690D63948C5 = "MODERADOR"
 	EA807C684450BB19B921639A3BA5D580 = "MODERADORES"
 	A9132B7247ABD90C9481E0B20B97C07D = "Pierna de MULA"
-	8C7210B94148CC89BDD79A93A4BCFA0E = "MULA operacional. Bien hecho"
 	3DF99B2E4999F93C5F384D872E5BAF0B = "MULA está encendiendo, buen trabajo."
 	084D891E4FAF8D86DD63F3AE40B33ECB = "MUTADOR:"
 	8E528B6546FC4F5290FECBA070D3150D = "Mactera Brew"
@@ -2815,7 +2819,6 @@ TUTORIAL"
 	89E0839747EFD08DE922DBBC27057378 = "Núcleo de Magnesio"
 	5049AD1E40B3EAF23AB69B93B0B6A47D = "Bolas magnéticas"
 	738AA45E45B66323D82E0EA1272162DA = "Refrigeración Magnética"
-	88B14DF044FEC12E9B9070928F477A09 = "Refrigeración magnética"
 	FA7DD0A74185D56ACA19CCB272A517D4 = "Refrigeración magnética"
 	49C7FAD249FE20FAC73765B876BBE29F = "Magnita"
 	A37C1AE94F895FFB3C5698B9AE07AD71 = "Magnita"
@@ -2909,9 +2912,9 @@ TUTORIAL"
 	7CCBAD3442225360D935F3A4271837AF = "Expedición de minería"
 	FBE9BF614BF41D00F681DD93CFA4E25A = "Expediciones de Minería Completadas"
 	523D22CF468D4BC7909424843D857E55 = "Experto en minería"
-	3EE542D845985E85A45D67B40EE793D8 = "Velocidad de minado"
+	AA8F120D4A3213528FDAA6B10B6C1FC4 = "Mining Speed"
 	5B46DB0F4B63F2A351A20D838A0D2368 = "La minería es un trabajo duro, ¡que bueno que somos enanos!"
-	3B5858E5416342C78758CFAEB9500692 = "Ataque de misiles"
+	89C9665C4C5C179318B78EAEF9BB7C12 = "Misión Completada"
 	9B6006C44FC0D4CA60085CA1516F2D85 = "Control de misiones"
 	BA4EB6AC430489BB03E2909FF293862C = "¡Control de la misión, ojete malhumorado, este es para ti!"
 	009AEC2C4D9A417BE69EF4B6376CBCC6 = "Misión seleccionada. Encendiendo la cápsula de transporte. ¡Subid, equipo!"
@@ -2995,12 +2998,12 @@ TUTORIAL"
 	7FB6FA4941DDECB9210B079209D7B8F0 = "¡Mucho mejor!"
 	BE251AEF40EAD429C1D0E1BB1A9C45C0 = "¡La Mula está llena! No es necesario más Morkita!"
 	37E7E4F245E3BFA381798187F06571C1 = "MULE es funcional de nuevo! Buen Trabajo!"
+	8C7210B94148CC89BDD79A93A4BCFA0E = "Mule operational. Well done"
 	CD169B8F4540D97173D1A180A5C920B4 = "La sesión terminó"
 	363F35F64355EAC74E3A0F9F7476EE46 = "Muscari Angustifolia"
 	7E074EF2477C71F8A1159B9DDA0AF53E = "¡Seta!"
 	E63E770D46F2BBC0FE09FEA4E04AA7C8 = "¡Seta!"
 	F7855C5E422A4EB627BE18A6DE59B1A9 = "Volumen de música"
-	30042EA7460E7195FAE2478BCF59B0C2 = "Debo recargar"
 	CF3CE9A34FE3E0266B35AF86199D82F5 = "¡Tengo que acordarme lavar la ropa!"
 	15BC54F547626ECE1C9638AAE3958116 = "¡Tengo que acordarme de mejorar mi equipo!"
 	D34561254F824828A8B09AB13E3CFCFA = "Desactivar"
@@ -3033,7 +3036,6 @@ TUTORIAL"
 	9B8586BC4414EFB0BAB5E38F6A9ADA2B = "NO DISPONIBLE DURANTE LAS MISIONES DE EQUIPO"
 	BEAFD9E145E1E7FE625C33AB9FFE6401 = "¡NOTIFICACIÓN!"
 	84C945F848FA7F317C32F79C126EB5DC = "Clavos + Cinta"
-	9EDF5DBF4849E85B6CF6B0B2A3B78AFF = "Nombre"
 	B3B744FB426F9073D61853AACCF2DBC5 = "Nombre"
 	4CC9CA27480CDCEB905D1C98A84FAF01 = "Nombre y Clase"
 	65F0C3784A451E1DE17EB89F1512D692 = "El nombre va aquí"
@@ -3075,6 +3077,7 @@ TUTORIAL"
 	EC3C09D9464135146A4851AEB0CCA50C = "Escultor Nocturno"
 	F0EAD83746FF3A2E0D994CA25A6B0669 = "Escultor Nocturno"
 	F40458B94C28FCC4CDE8678B32ADE8E2 = "Escultor Nocturno"
+	9935AB7C40E9E0F4B476729E05016394 = "Buenas noches, bastardo! ¡Nadie te extrañará!"
 	18685CF04FA97AB7BCEEEE9F775B4F6A = "Nitra"
 	7D6D504A4ED99AB7C3A32DB8F9BCDC2B = "Nitra"
 	B63AAE8C418C838D27FDD1964481155E = "Nitra"
@@ -3082,7 +3085,6 @@ TUTORIAL"
 	E5A36FA24D99B344104D83A4EAE92B4C = "¡Nitra!"
 	5CCA8D0948F25989D6B9339428BD1363 = "No"
 	AE2F43D8452C5727F951A493A1B2DFE6 = "No"
-	D2FF5BC44340637E40958D806B85302B = "Sin munición"
 	738CD17E4E82744999AB1D8FCD127592 = "¡Sin barba!"
 	6E3A90D2428BA97A1B2C8C977E25FFB9 = "No se han encontrado juegos"
 	9A701E084E08F61657F94C9210B9696D = "Sin luces principales"
@@ -3101,7 +3103,6 @@ TUTORIAL"
 	F890235343A1F91E25E278A9671897B0 = "Ningún minero respetable saldría de casa sin él."
 	84023C444898C3165552E2A6CED91EDE = "¡No se corre en el salón conmemorativo!"
 	0FE4CC0C4C3A5DA72A8446A809590AA5 = "¡No!"
-	7802D40B43A01821F6C955BBD347C5D2 = "Ninguno"
 	4AB87D13424FA95FB6657990E5FB9458 = "Noooo"
 	37A5BAA140396EE910A7D38B291CFEBC = "Noooo!"
 	FDBBAE124E3D218793143E9D416B934C = "Noooooo"
@@ -3109,8 +3110,7 @@ TUTORIAL"
 	6DB7536F47654EBAB8DDA8ACCF2ED0E6 = "Normal"
 	74D13FE94A82AB044ED0218B4515D516 = "Normal"
 	B7E8693D48943E06E3E77C9E29A44F0E = "Rebote de Balas Normales"
-	929C00EA4DD2DA4B12C718B74F359085 = "Los tiros normales rebotan en las paredes"
-	A3215453485159D8764D77A5990F8386 = "Sin conexión a tierra"
+	929C00EA4DD2DA4B12C718B74F359085 = "Normal shots bounce on all surfaces until they disappear."
 	7F99AF0C4FD0D46D49BC12A4D33A9F55 = "¡No es seguro!"
 	012E832C41B0C601DA207982AE16EFB5 = "No es una barba tradicional, pero añade un toque de clase."
 	B30D619444DA46EB7B132597EBBC0C4F = "No es una barba en el sentido tradicional, pero añade un toque de clase."
@@ -3132,8 +3132,8 @@ siento decirlo.
 Pero bien hecho. :D
 - Rob"
 	81B0842C41F7F68EAEC0E6A9F789FB97 = "Nada aquí todavía,
-me temo.\r 
-Pero bien hecho. :D\r 
+me temo.\ 
+Pero bien hecho. :D\ 
 - Rob"
 	FE577E2F45E9A912FE9357A1C12882EA = "¡Nada te detiene! ¡Te mueves un {value}% más rápido mientras cargas objetos pesados!"
 	627AA7E3401E96C63F6D51BBBCA584B3 = "¡Nada nos detendrá ahora!"
@@ -3146,6 +3146,12 @@ Pero bien hecho. :D\r
 	EB91CA46489DF7088568FFAFE7185750 = "¡Nada!"
 	15BD33EE46512A80FAA34489B2B37EDC = "¡Notificación!"
 	4F889D684C3AFE8D1AC069A6A68F6111 = "¡Esto sí que es música de verdad!"
+	4908776C44912443716A5FB890D9180D = "Ahora que has completado tu entrenamiento de introducción, la Administración se complace en presentar la Red de Comercio de Minerales de la compañia. DRG cree que es importante promover un sentido de logro y la camaradería entre sus empleados, así como ofrecer oportunidades para alcanzar los objetivos de cada empleado.
+
+Para simplificar: utilízalo para vender lo que no necesites y comprar lo que te haga falta. Ten en cuenta que un pequeño porcentaje de los ingresos se destinarán a DRG a cambio de administración, impuestos, transporte, valoración, supervisión, seguros, impuestos, almacenamiento, responsabilidades, posicionamiento en el mercado impulsor, publicidad, mantenimiento, tarifas legales e impuestos.
+
+- Saludos,
+La Administración"
 	81192BAC43EAEC0E9910289D3B9E2DF3 = "¡Eso sí que es dinero bien invertido!"
 	F6AC26424E66A86ECF11FD89929D26D9 = "¡Tuercas y tornillos! ¡Podemos arreglarlo!"
 	7FF8D25A4628B4EFE1C301A1037109A7 = "¡¡OYE!! ¡ABRE EL BAR OTRA VEZ AHORA MISMO!"
@@ -3190,6 +3196,7 @@ Pero bien hecho. :D\r
 	134D283042E0C88A4DBBF7A0809D6256 = "¡Oh, sí!"
 	35E3B2F044AA5109C619F295872F562E = "¡Oh si!"
 	CA557EDB4435615E0A90D59738C4DF10 = "¡Oh si!"
+	F0A532634E709E6A8B2267BFB12F0A51 = "Oh sí, a eso me refería!"
 	15FB9644403E6D03ACF31F9C3E302D8A = "¡Ah, así me gusta!"
 	6B582CFF4A1DC45C99AD00A0B26E9C3D = "Ohh Jaah!"
 	42FA9A114706890F4004FC87639D1286 = "Ohh, necesito otro... ¡por supuesto que sí!"
@@ -3282,7 +3289,7 @@ La Dirección"
 	F63322B34353B1D0A2F1CDB616C277A4 = "Material orgánico"
 	F281BBBC4B2A9DC20A3527A0980B7A15 = "¡Ay! ¡Ay! ¡Ay!"
 	3F74F79440BF376C9471EEBC88675AF5 = "¡Au! ¡Cuidado!"
-	6D4ADC7E46B2B3F042B165B4C8F39259 = "Nuestros escáneres han detectado un depósito GIGANTESCO de aquarq. Os vamos a enviar allí junto a un cohete cargado y con armamento pesado para que saquéis todo lo que podáis. Estamos detectando múltiples bioseñales en la zona, así que mejor que seáis breves. Los aquarqs se pueden extraer de las paredes. Buscad una luz azul titilante. ¡Cumplid con vuestra tarea, equipo!"
+	6D4ADC7E46B2B3F042B165B4C8F39259 = "Our scanners have picked up a MASSIVE deposit of Aquarq. We're sending you in alongside a heavily armed lifter to get as many out as possible. We're picking up extreme biosigns in the area, so keep it snappy! Aquarqs can be extracted from the walls. Search for a blue, shimmering light. Get it done, Team."
 	84DC12DB43C45C6584DDA1A518B09C22 = "Sin munición"
 	3C3DBC024C6A8754E00885B0812366C5 = "Fuera de rango"
 	012F528546ADA04D3FB5E4AB92C191A3 = "¡Sin munición!"
@@ -3326,7 +3333,6 @@ La Dirección"
 	E7D4FC6845EA5DB57D915FABF1D436DA = "HABILIDADES"
 	E922A7AE4D9A3CD28D72A394E6955EA0 = "HABILIDADES"
 	2F1A9D7B42E5D494358A6A81A7B51E6F = "RECOGER '{Name}'"
-	A7A2C9074DD5E8B2297F81A5C71F4E08 = "MARCADOR DE LUGAR"
 	C79595634378DAEEAB740BB8AF143D3B = "REGIÓN PLANETARIA"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "REGIÓN PLANETARIA:"
 	C21850D74844EA192C1FCEBA601C6261 = "REGIÓN PLANETARIA:"
@@ -3502,18 +3508,17 @@ La Dirección"
 	81E0BC0744111153025DBF8501E34FFA = "Pulsa [Flare] para lanzar una bengala"
 	83817D27458B1FD38B91E891A62BDD13 = "Pulsa [Flare] para lanzar una bengala"
 	AC0E91D64CFD044FB8D3788B0971644D = "Pulsa [Flare] para lanzar una bengala"
-	4FBE38BA403A6720237DC2B4D2A89DB5 = "Presiona [Mine] para disparar al objetivo. \n Los misiles de Bosco se recargan con el tiempo, ¡así que no te contengas!"
+	4FBE38BA403A6720237DC2B4D2A89DB5 = "Press [Mine] to fire at the target.\n Bosco's rockets recharge over time, so don't hold back!"
 	BA5458B242D384E6EBF620AC8C30F419 = "¡Presione [Shout] para pedir ayuda!"
 	F334DEDF463D4200DD790697DB9D8EDE = "Pulsa [Use]"
 	FE5F49FA471159E1EF9A82A98ECF454A = "Pulsa [Use]"
-	31189F5A4B39E07927CC46A744FA73FD = "Pulsa [Use] para usar\n Pulsa [Jump] para soltar"
+	31189F5A4B39E07927CC46A744FA73FD = "Press [Use] to use\n Press [Jump] to drop"
 	B1D59F3F4199E484B5418BBBA9C43328 = "Tasa de caída de presión"
 	AF34EE3140CA8E19872475B1E30D4A62 = "Tasa de aumento de presión"
 	9DCB71D348F4D3C52C5F69ACDE16A0E1 = "Ola de Presión"
 	A1FAC359403A1149F96076BDD450AF2E = "Artículo anterior"
 	4226F3E441BB2EE57136CCBA52CC3F17 = "Precio"
 	3800EE604BF5CDFDDA766AAFD3F381FA = "Objetivo principal"
-	5C13CED149995033C0909C9F427E3971 = "El objetivo primario va aquí"
 	C47825164A92608BD6B41387D4406826 = "Privacidad"
 	C44D1B634ACC393D2D57F4AC35DDA48D = "Período de prueba"
 	43F85C6440C5BA5AA70A3A8AFE982DEA = "Procesando"
@@ -3590,8 +3595,8 @@ RÁPIDO"
 	D603ED844F6C9AF9604F8C92DBB0B1C1 = "RECURSOS"
 	AF59C94D4E5CE3AAB9FABC8590789489 = "MARCHA ATRÁS"
 	922B2C64400F83A12481AD854CD7DB9F = "MUNICIONES"
+	767201A24BF05D53A61200984D6773B3 = "JUGAR EN SOLITARIO"
 	215C6F6348821CFE23F4529451852E51 = "Radioactivo"
-	DFBA5ECB4414B8146C621180A9226E46 = "Cristal Radioactivo"
 	2CBAAF624F3F0F9138D4399ADFBB8B26 = "Zona de exclusión radiactiva"
 	3E7D93A7446668D2AD62E68258FBE70F = "Zona de exclusión radioactiva: Radioactiva"
 	9743C42447E6D89184DA8CA861851955 = "Zona de exclusión radioactiva: Radioactiva"
@@ -3610,7 +3615,6 @@ RÁPIDO"
 	DDFACEC14A890C0D6FF8E3A5935441F7 = "Cadencia de Fuego"
 	FA0F3E3F4D5A5936DBA7D98B1E98B28C = "Cadencia de Tiro +0.7"
 	0A9105BE4A7A48B2D134D99DAFC64C71 = "Devastada por miles de años de radiación gamma de alta intensidad, esta región del planeta se ha convertido en un verdadero infierno de cenizas radiactivas repleto de una flora decrépita y mutada. Muévete con mucho cuidado y, sobre todo, no olvides realizar un procedimiento de desintoxicación completo a tu regreso."
-	CAF4DDA448880A0870324E82132BB5BE = "Tiempo de Represurización"
 	6449368B45642AB433AE0A8AD6BB702F = "RePres"
 	C9BF88714B063BD7BF72CABAB93F0B46 = "Alcanzar"
 	76885F274F366DD853C91897DDC53024 = "Alcanza la cadencia de fuego mas rápido"
@@ -3628,7 +3632,7 @@ RÁPIDO"
 	4148504943DF17CE763B44855C9F67BD = "Razón dada:"
 	E4E4D95A4F78B46199F5DE86B986C73B = "¡La recalibración de la gravedad está comenzando!"
 	FA7DB98E41EC94BC0A461EBC2ADEE21B = "Regresar Centinelas: Mantener"
-	10374DF344DA1706BD000F85A1661507 = "Los trabajadores recientemente fallecidos no se añaden al monumento conmemorativo, ¡pero los honramos igualmente!"
+	10374DF344DA1706BD000F85A1661507 = "Recently deceased workers are not added to the memorial. But we honor them nonetheless!"
 	002F325142327853A68620911CA2D5F0 = "Retroceso"
 	C0B38C464A486467E59A0AAFDA140E4C = "Compensador de Retroceso"
 	3264FFDE445370F8768DCDBD53D8B233 = "Grabando..."
@@ -3664,7 +3668,6 @@ RÁPIDO"
 	2912370E498E51A44CC5B2847A605136 = "Región"
 	670883724DC8BDBEC2F722827F2657F8 = "Región"
 	0970786D4CABB3ED983676B16132E5AD = "Normal"
-	2DA3580E48CDF0252147B79901771C68 = "Cable Reforzado"
 	37C1CBDA40400EADD085728131C24FF1 = "Traje antiimpacto reforzado"
 	AC3283684F5686709949AC97DB07A184 = "Perforadoras eléctricas reforzadas"
 	B8A48C7145EF4BB4CD7B01ACDA8D9A33 = "Rechazar invitación"
@@ -3674,7 +3677,6 @@ RÁPIDO"
 	682D13CF436099F0AD10D7AA8728DE79 = "Velocidad de Recarga"
 	14B374BA4708D00AFA2A0FA8C0020C0C = "Tiempo de recarga -0.5 segundos"
 	98AE45944E7E14ED418D48A2B9D4B4C6 = "Tiempo de Recarga -0.5 segundos"
-	CEF059F44BA2828ACF7693BE43308685 = "Recargando"
 	E29140374EFDB6BB52EFD7ABC5578577 = "Recargando"
 	166DE0404FD33386A3862492B630EC90 = "¡Recargando!"
 	4716B7644646D5F732B325BFE0893DDE = "¡Recargando!"
@@ -3699,6 +3701,7 @@ RÁPIDO"
 	A7FE785444AF97C555C51BBF7AA29603 = "Reparar"
 	272C3E79462B4517552EBFAE50BE0FB1 = "Reparar MULAS:"
 	A0C4A8E04654DAAAA443F69362DB6937 = "Respuesta presionada"
+	CAF4DDA448880A0870324E82132BB5BE = "Repressurisation Time"
 	40C0AE6848595C6DB46A1FA68E1FFC95 = "Reiniciar contador"
 	046C7D9F4E22D85C44E58984A38E9634 = "Reiniciar progreso"
 	AC0A3263441ABB2DE90DA2A767A38F8D = "Reiniciar progreso"
@@ -3770,6 +3773,10 @@ RÁPIDO"
 	95B441504C61497FB9CED89FFD5631AE = "Rockabilly"
 	ACBB47834BF736CCDC9848A4BAA68129 = "Rockabilly"
 	CA3490A84AEC6C21DFC5F0A358B2B30A = "Rockabilly"
+	5F932D7240B0C809227F3994453730EB = "Cohete"
+	F5CFC5EB44140A6383CFA9B112C8BB40 = "Ataque de Cohetes"
+	BF63DC094FB02BF675E6AE904210AE75 = "Tiempo de regen. de cohetes"
+	1C625C6E483DC14CC816FB994EDCADB8 = "Cohete [Mine]"
 	8C01BDE343C6D9A3F2493D8088C05EC9 = "¡El cohete está listo!"
 	B5A0980B453847C0815F908798345B5F = "¡Cohete pedido!"
 	98DDA8764FA4A8DDD5EEDDB3C6EA058F = "Cohetes"
@@ -3800,7 +3807,6 @@ RÁPIDO"
 	4DCE8CB74A35F162148F5B9836ECD474 = "¡SALUDA TUS COMPAÑEROS DE EQUIPO!"
 	ED9B518040CBB8F27AA79CA0AAC1B82F = "GUARDAR ARCHIVOS DE JUEGO"
 	2D01D08A4D50DD01838FE8876DEEDC79 = "MATERIAL ESCANEADO"
-	790520484F7313D8EB7066B8DBCD61C4 = "ESCASO"
 	2987054D4A1449F27EB75694216C7F4F = "EXPLORADOR"
 	6A6730174C91259F749F5FA7A54DA0B8 = "EXPLORADOR"
 	3F85EC154DDD3D6A2BB6A3A010684B39 = "ESTATUA DEL EXPLORADOR"
@@ -3814,6 +3820,7 @@ MISIÓN"
 	E4FF77EE44E9499E1857ACB4159113A2 = "SELECCIONAR PERSONAJE"
 	AD59DBD9475E6D4731A8D09CF3B6E873 = "VENDER"
 	BA1752E340D755EDB91AEB807BF8E6FB = "VENDER"
+	9EDF5DBF4849E85B6CF6B0B2A3B78AFF = "SENTRY #X"
 	6F039FB445C35711427CECB5B36B56FC = "CENTINELA n.º {Index}"
 	2F0B95F842FBBAC40AF94BB03500DF97 = "CENTINELA EN CAMINO:"
 	36406C1946B16048CA3139B8D47AF660 = "SESIÓN CERRADA"
@@ -3868,6 +3875,7 @@ MISIÓN"
 	CD1D9E11452EF2A5CEE207BECD852738 = "¡Los escáneres acaban de captar un enjambre de Glífidos Gruñidores en dirección a ti!... Hay... muchos de ellos."
 	77AFD9584E66529B88C9C29D36E753AA = "Los escáneres muestran que la horda se está reduciendo. Acabad con el resto, ya."
 	FB8447694BB6FC5311B5078180FD23D6 = "Escáneres en marcha, equipo. Os vais de exploración. Encontrad muestras adecuadas de roca y enviadlas a la base fijándolas a cohetes. No hay nada más simple."
+	790520484F7313D8EB7066B8DBCD61C4 = "Escaso"
 	B370475240429C6C29ACFB92395A561D = "Misión de exploración, equipo. Vuestro trabajo consiste en bajar a las profundidades y reunir muestras adecuadas de los estratos locales. Los escáneres os indicarán dónde están. Extraedlos, ponedles cohetes, y enviadlos de vuelta a la base."
 	5300A9BC45200063B3BBD3ADEF03FDAB = "Modo de pantalla"
 	0D1151694BA059000A939EA9BAFE7B8F = "Velocidad de desplazamiento"
@@ -3881,7 +3889,6 @@ MISIÓN"
 	D2BBAD444E93774E126EB9AD4C74304F = "Sebastian Badylak"
 	C6169E9042AB6F290499B497EFC487B7 = "Misiones Secundarias Completadas"
 	BB0F2D5A4B346A4E388B3A9FE6A019A5 = "Objetivo secundario"
-	F65AF55F427F5CD96EA091B84F30EE59 = "El Objetivo Secundario Va Aquí"
 	D05D9F8448A250C8CC471EA780702EA9 = "Objetivo secundario cumplido. Buen trabajo."
 	B7EB5B9F4B301B9267ADEBB90E8A696D = "Objetivo secundario cumplido. ¡Vuelve a casa para obtener tu bonificación!"
 	938D697F467F5C5075F1C48E2DA85DA4 = "Objetivo secundario cumplido. Ahora termina el trabajo."
@@ -3894,6 +3901,7 @@ MISIÓN"
 	322D552D4A62E6A46507AA8403365847 = "¡A cubierto!"
 	1EEB043B49719C430321E7852F46E5A8 = "¡Busca cobertura! ¡Los Macteras están aquí! "
 	FF4867CE49C19E1FA1CDD39BEE8EE219 = "Parece que hemos perturbado un nido de Glífidos Gruñidores. Prepárate, se dirigen hacia ti."
+	F050839B4846A3774D80C5AEA7ECCD47 = "Seleccionar Misión Diaria"
 	D73FCD7B4EAC1BBF4ED3A4BBF656F9B3 = "Remitente"
 	D538385C4E4C2157F03021A67AA27BAB = "El envío de estadísticas del juego nos permite mejorar el juego para todos."
 	B07002E74C40ABC931AA47BC4413B5BF = "Enviamos la cápsula de transporte; empieza la cuenta atrás. Se acabó, equipo. ¡Demostrad lo que valéis!"
@@ -3981,7 +3989,7 @@ MISIÓN"
 	0DDA5146464B8C870BC0BBB75639EEAE = "Los disparos de escopeta matan a los enemigos débiles dentro de 4 metros "
 	1F265C0E42D7207CB7ADDAA2361B3447 = "Gritar"
 	54BB2F3A48911056E6F7908A3BF25D0A = "Gritar"
-	C62B84974B2238D077DE7790E436ACAC = "¡Grita a tus compañeros de equipo para que te encuentren! Es útil si os separáis y no os veis, o si os derriban y necesitáis ayuda."
+	C62B84974B2238D077DE7790E436ACAC = "¡Grita a tus compañeros de equipo para que te encuentren! Es útil si se separan y no pueden encontrarse, o si estás incapacitado y necesitas ayuda."
 	075479CB45BF3835DE1846A51811C954 = "Mostrar contador de FPS"
 	3127F8A540D246D860D961AD1DBF602F = "Mostrar HUD"
 	C4292C7540A90C07387975BA879E2900 = "Mostrar todas las estadísticas"
@@ -3993,7 +4001,7 @@ MISIÓN"
 	74B817F049005FEE695B2694908686FE = "Inicio de sesión cambiado"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Regístrese en nuestro Grupo Steam a continuación para unirse a la Comunidad y mantenerse al día con nosotros a medida que continuamos expandiendo el juego, y reclame su recompensa gratuita de 5.000 créditos en el juego para darle un impulso masivo durante sus primeros días en el trabajo en el minas de Hoxxes IV!"
 	C26B43B84BB1149261499DB1FBD9F2DB = "Has cerrado sesión"
-	6E59C29A4D7AC946CFB2AEB86836B69A = "¡Silencio, por favor!"
+	6E59C29A4D7AC946CFB2AEB86836B69A = "Silence Please!"
 	19A4058E49EA0C335776D39AC7DBD80A = "Cosechador de Silicato"
 	0B2966BD4821E326CE1BC3843A01F447 = "Zorro Plateado"
 	82D5760A4D36C73A04E752BDC5DE965D = "Fácil"
@@ -4075,7 +4083,6 @@ MISIÓN"
 	4C93435147CA874F0F30F4BBF8AB0CDA = "¡Un engendro!"
 	C70C8E314426F21C5B4BC4AFE483E2D0 = "Especial"
 	EA0B42734194A9C5FE3AA3A215351B50 = "Ataque especial"
-	BF63DC094FB02BF675E6AE904210AE75 = "Enfriamiento de ataque especial"
 	967F49E34511F4D109FBF18D7E79AE3B = "Incursiones Especiales desbloqueadas. Bien hecho."
 	8A269CD24D0ABAB7421B02BB86CC99A1 = "Gasta nitra para llamar a una cápsula de suministros pulsando [EquipResupply] "
 	4D079CFB43BBC35831AFCD99ABA0DC4C = "Telaraña"
@@ -4096,7 +4103,6 @@ MISIÓN"
 	F7110389483D348830E18EB5487D3997 = "Sschlup schluup "
 	AF2D2FBF41BC8F5AC669EC96330FB5C8 = "Atontar al objetivo si se aciertan todas las balas de una explosión"
 	3CBD50924C75449D6D2192828A2204FB = "Golpe Aturdidor"
-	EC68742C496132E67AA122B7A2CF1DA8 = "Golpe Aturdidor"
 	2B422A4E4C4343967BCB83B7C1D461C5 = "Aturde a las criaturas dentro del radio de explosión"
 	353184534B6F71258C875EB8F8ECB4A5 = "Aturde a las criaturas dentro del radio de explosión"
 	5068EAB547A6CE4323F2E3BB6BEE7359 = "Estalactita"
@@ -4133,6 +4139,7 @@ MISIÓN"
 	A5CDF1C2473B168BBAFB30BFD6732708 = "Manteneos juntos y ayuda a tus compañeros enanos. Si huyes de tus compañeros de equipo y te derriban, tal vez no puedan encontrarte y revivirte."
 	5BE3CFFA4DB333BF398962A309FFF05C = "¡Mantenganse juntos, cubran todos los ángulos!"
 	98DC9BC64ACF95CFAA40A7A8F1308892 = "Quemadura de llama pegajosa"
+	32AF945B478BF1C36F05FEB27F61AB80 = "Daño de llama pegajosa"
 	4DB648DE4AE2D139150A068AD66C0CB7 = "Daño de llama pegajosa"
 	19F150B04F432D6250EB728627E189B1 = "Duración de la llama pegajosa"
 	9F53C9C846FACD18E9845996D918433A = "Duración de la llama pegajosa"
@@ -4144,6 +4151,7 @@ MISIÓN"
 	135F5425439DC193033DEB9273FB39CA = "Granada adherente"
 	B8AF16AF42E516410EDFB998DB4D0E72 = "Duración de Llamas Pegajosas aumentado"
 	CDD6CD63413EE072A8211DAE5FECE3B7 = "Aumento de la duración de llamas pegajosas"
+	5E1C53C5408EC91804852D900AEE3E69 = "¡Pegajoso!"
 	92206576461C56145E67BA89C31DB40F = "Tritura Piedras "
 	13AD28F84B4A1BB0A52512A47E0E2A20 = "Guardia de Piedra"
 	1EFA15554FF7D87C9B21F7A825E69EAA = "Guardia de Piedra"
@@ -4170,6 +4178,7 @@ MISIÓN"
 	774B8BAF416E053F8A1F2CA1DF938738 = "Una explosión más fuerte que causa más daño"
 	950A42504F9FA4B21E07E682B097AD10 = "Una explosión más fuerte que causa más daño"
 	EC1FA43A4049047CC7AF0B928D3AD839 = "Aturdir"
+	EC68742C496132E67AA122B7A2CF1DA8 = "Stun Hit"
 	D0DAB98D493841D9850A08900383C8AE = "Estúpido insecto! ¡Bájame!"
 	CBE206D2480E91C55707AD994A61C0B3 = "Elegante y práctico!"
 	D5AD36B446716E5D1B853C9E40088B91 = "Elegante y práctico!"
@@ -4188,7 +4197,6 @@ MISIÓN"
 	6159899D4805477F3F13BE9CDFC1CE89 = "Cápsula de suministros"
 	DBF0167142059A32A9FAE5A7929E5605 = "Cápsula de suministros lanzada. Es mejor que retrocedáis."
 	DEDED6D8430A4E96F5513EA6FF4BEDA6 = "Cápsula de suministros requerida. Lanzando ahora."
-	784007044994CD995166B7BD8B5C697E = "Se ha pedido la entrega de suministros y va de camino."
 	96CF5A184760767A613FC0B4C3068B90 = "¡Fuego de apoyo, por favor!"
 	2D2336ED4FDC06EDADFD19B0E24F89B9 = "Apoyado por el Danish Film Institute - The Games Scheme"
 	6A58F52C4B5E9FDC75E895B3D2E18EB1 = "Minero Supremo"
@@ -4235,7 +4243,7 @@ MISIÓN"
 	A144BE024D2F793246E9EBA6B51DDEAB = "TEXTO"
 	939943974F5DFB141EF3A68DFB08266B = "GRACIAS por apoyar el desarrollo inicial de DEEP ROCK GALACTIC. Es todo un orgullo haber creado este juego y esperamos que lo disfrutes, pero recuerda que esta es una versión prelanzamiento, por lo que encontrarás errores y problemas de estabilidad. Eso quiere decir que es posible que algunas partes del juego, como las funciones de Xbox Live (como el chat y el modo multijugador) no funcionen bien (o, directamente, no funcionen). Dado que se trata de una versión prelanzamiento, ni Microsoft ni el editor se comprometen a proporcionar un servicio de atención al jugador."
 	E0550F8045300AF2AFCAB09D70C74A6B = "GRACIAS por apoyar el desarrollo inicial de DEEP ROCK GALACTIC. Es todo un orgullo haber creado este juego y esperamos que lo disfrutes, pero recuerda que esta es una versión prelanzamiento, por lo que encontrarás errores y problemas de estabilidad. Eso quiere decir que es posible que algunas partes del juego, como las funciones de Xbox Live (como el chat y el modo multijugador) no funcionen bien (o, directamente, no funcionen). Dado que se trata de una versión prelanzamiento, ni Microsoft ni el editor se comprometen a proporcionar un servicio de atención al jugador."
-	41E2CF244D78C269B5C83D9401825CFC = "GRACIAS por apoyar el desarrollo inicial de DEEP ROCK GALACTIC. Es todo un orgullo haber creado este juego y esperamos que lo disfrutes, pero recuerda que esta es una versión ALPHA y vas a encontrar HORRORES (y a algunos no podrás dispararles). Por último, SED AMABLES con los demás. Al fin y al cabo, se trata de un juego COOPERATIVO.\r - El equipo de The Ghost Ship"
+	41E2CF244D78C269B5C83D9401825CFC = "GRACIAS por apoyar el desarrollo inicial de DEEP ROCK GALACTIC. Es todo un orgullo haber creado este juego y esperamos que lo disfrutes, pero recuerda que esta es una versión ALPHA y vas a encontrar HORRORES (y a algunos no podrás dispararles). Por último, SED AMABLES con los demás. Al fin y al cabo, se trata de un juego COOPERATIVO.\ - El equipo de The Ghost Ship"
 	6941416A40FA65C3858D979B8346F73A = "EL BAR DEL ABISMO"
 	DF9152664C7BADD3A97A6F95722CFDAF = "EL PUNTERO LÁSER"
 	F2D6EA3F47F4966988542E87C6C8191B = "THE PUBLIC CLOSED-ALPHA HAS ENDED!"
@@ -4314,6 +4322,7 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	965267984EA79F41CB656DAD20AE7CB7 = "Eso era justo lo que necesitaba."
 	CCEF48ED4518F2EA702873B0FE6986B3 = "Esta me recuerda a mi primer amor..."
 	4A70A40E4A60ECF1B9FA9FBA98401ED2 = "¡Vaya mierda!"
+	99E3AA0E42B207152518DE9FB1E5E911 = "¡Esa cosa comía balas, como Karl bebía cervezas!"
 	367A94894D2ECC49A25AF9AAED158BAC = "¡Eso fue una ganga!"
 	BAFE18B84E21A99DC52F0082A72E9F9A = "¡Por un pelo! ¡Gracias, amigo!"
 	9D96CECC41B1BDCBF9D51D8EA9EE78E3 = "¡Esa era mi última granada!"
@@ -4330,6 +4339,7 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	726B7CAF4E7A8D37416D93BBE6CA4260 = "¡Ya está! ¡La bolsa está llena!"
 	776924444DAF224BA16FD3940D2E3709 = "¡Eso es! ¡La bolsa está llena!"
 	4B7D8EDB4A1421BCED59FD9DB543E2F1 = "¡Se acabó, no me quedan bengalas!"
+	8B7095954EDB05F0EA4D6AB430E46D91 = "¡Eso es! ¡Lo conseguimos!"
 	47B9330441C1A728175B4FAAC96C3886 = "¡Qué ruido!"
 	116088A147D3D0801ECDFFA0A7620FE4 = "Un evento para recordar. Llamando a cápsula de escape."
 	1FB765A04A059C834342A0994DBA7CD3 = "Un evento para recordar. Llamando a cápsula de escape."
@@ -4369,25 +4379,25 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	552397DD45AE7FD8AEAE38AC2AD601CE = "La horda se ha reducido significativamente. Bien hecho, equipo."
 	A14E3B244FE0E714FB89E79C77BCEC4D = "¡La parte de atrás es su punto débil!"
 	AB13B6864C42626D4C1F2F9E64E220E2 = "Las bestias de Hoxxes son duras, pero tu arma de confianza es aún más dura."
+	29901C274BE58C623087A89C9643FA06 = "¡Cuanto más grandes son, más duro caen!"
 	75C48C51486448C2459B1C8324C497E1 = "La elección de los exploradores que saben lo que quieren."
 	8C9D3C2245C2DCFC0B474DA982EB594A = "La elección de los exploradores que saben lo que quieren."
 	C9203A8644D17AF12F2FA1A72B5BF437 = "La furia cósmica de un millar de soles furiosos se desarrolla a través de esta concocción resplandeciente de color negro medianoche. La gente pregunta por qué recordamos a Karl. La gente pregunta qué lo convirtió en una leyenda. Se rumorea que Skull Crusher Ale es, al menos en parte, culpable. Haz de eso lo que quieras. Ten cuidado."
 	650394EE41ACE93ACF33119DE345624C = "Las decoraciones están hechas para disfrutarlas con tus ojos, ¡no con tus pies!"
 	E7F5A4894FFAC827E80375B24D65CE32 = "Las decoraciones están ahí para contribuir a un ambiente festivo, no son juguetes."
-	30B64C3A445D22AA500321AA5252CD8A = "Los huevos aparecerán en el Escáner de Terreno.\nMantén [MapTool] para usarlo."
+	30B64C3A445D22AA500321AA5252CD8A = "The eggs will appear on the Terrain Scanner.\nHold [MapTool] to use it."
+	2B3F55EA4DF60D6F2B76488C4846053C = "The flare lasts longer"
+	634E27F54B80A4F565F39794C1C04AC2 = "The flare lasts longer"
+	B004560E4E6807047B1371B290756FC2 = "The flare lasts longer"
+	F9E32EE84480FF62CF209B87551D6916 = "The flare lasts longer"
 	D2E5E64A436D0B7E3A7D17A672C3006D = "¡El suelo es peligroso!"
 	D6B58FC042E403301BE0D4AC166F890D = "El incomparable sombrero de leyenda, que conmemora un día festivo con un lugar muy especial en el corazón de la mayoría de los enanos."
 	4ACB0D84456C00BEFFB4A7A9453C1E62 = "Se os aproxima la última parte de la horda. ¡Mantened la calma!"
-	2B3F55EA4DF60D6F2B76488C4846053C = "La luz dura más"
-	634E27F54B80A4F565F39794C1C04AC2 = "La luz dura más"
-	B004560E4E6807047B1371B290756FC2 = "La luz dura más"
-	F9E32EE84480FF62CF209B87551D6916 = "La luz dura más"
 	4B4BAA624715C6F2FD31B894015641F9 = "La línea del proyectil se abre casi inmediatamente y se vuelve más útil a un rango más cercano"
 	1427F38744164A0EACBE5C9DF34C4A82 = "El pabellón conmemorativo es donde honramos a los caídos en la batalla. Puedes caminar por aquí y presentar tus respetos."
 	39BD1CF440B83EBA505AF9852120B3A0 = "¡Han llamado a la mula para que vuelva a la cápsula de transporte!"
 	911620A14A68BCA957363AA95E336206 = "La versión de bajo coste de la avanzada línea de armadura MK3. Barato y liviano (comparativamente hablando), este traje cómodo le proporcionará a un Perforador toda la protección que necesita para la mayoría de las operaciones. O eso dice en la caja..."
 	3C91B4CC42E492A2B686CC842D9C2D65 = "La bebida original aprobada por DRG. Amargo y embriagador, aunque no tan fuerte como para incapacitar a la fuerza de trabajo."
-	57F6A1CB49D941FB48D8DF9FDC90D255 = "El daño total del arma se ve incrementado."
 	6A26F9D647B828C478B187A6F32C0097 = "El look perfecto para matar monstruos."
 	C49E21D54F90751C68D12A9512EDA163 = "El look perfecto para matar monstruos."
 	E27840C54B222B71D9DBD2A4E7657097 = "El look perfecto para matar monstruos."
@@ -4396,6 +4406,7 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	4C18FAA74FA959B486D67DA3E57CCD59 = "El poder de una barba completa concentrada en un poderoso bigote."
 	7EC587584D26169914A2D0B3470C4A02 = "El poder de una barba completa concentrada en un poderoso bigote."
 	DE29EFFA418089F83D173690D7719FA1 = "El poder de una barba completa concentrada en un poderoso bigote."
+	57F6A1CB49D941FB48D8DF9FDC90D255 = "El daño primario del arma se ve incrementado."
 	F7A8E10240ECE2894E0771A20466B9BA = "El proyectil explota al final de su ciclo de vida"
 	0B341780426D5E08CF8361A16B7DB179 = "El escáner acaba de iluminarse como un árbol de Navidad. ¡Se acerca un enjambre!"
 	D513566A466E768AE0768BAEA3C2EFA5 = "Los asientos de la cápsula de transporte son solo para los empleados, no para los barriles."
@@ -4450,12 +4461,12 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	F32BDEA848F6B085961F31B3F6F831EA = "¡Las cosas se van a poner serias!"
 	FB44C49540924FD27D82BF9914BD33E0 = "¡Esto está a punto de estallar!"
 	BDA0F55942248C6490A98996CFC3364E = "¿Crees que puedes matarme? ¡Piénsalo dos veces!"
-	8ABC4BF842A91F992EF30DBEF35D0917 = "Esta zona está en construcción, ¡da la vuelta!"
+	8ABC4BF842A91F992EF30DBEF35D0917 = "This area is under construction, please turn around!"
 	075BBF7A4EB86BCE7C292DA2B7A4DF09 = "Mejor que sean créditos bien gastados..."
 	330EEDAF4B116692F400669C524E287D = "¡Esto no tiene valor!"
 	DEBAD51F4368C9CFB7F0C1B0D7B47ACA = "¡Esto ha visto días mejores!"
 	B451582B46FE5C77392587BFD2AAEAAB = "Esta es una notificación muy, muy, muy, muuuy larga"
-	1B87B67242F26197BDABE7830ECF0C34 = "Esta es una misión de salvamento! Un equipo anterior perdió sus MiniMULAS, su Cápsula de Transporte y sus vidas en esta cueva. Encuentra y repara las MULAS perdidas, pon en funcionamiento la Cápsula de Transporte y regresa a la base. Aguarda una infestación intensa - y trata de no estropearla como tus antiguos colegas!"
+	1B87B67242F26197BDABE7830ECF0C34 = "This is a Salvage mission! A previous crew lost their Mini Mules, their Drop Pod, and their lives in this cave. Find and repair the lost MULES, get the Drop Pod operational, and return to base. Expect heavy infestation - and try not to mess it up like your former colleagues!"
 	46D9EBF44D7383B4440A9BA6AF8393E4 = "¡Este es grande! "
 	7D83E1E1444AF37A5FCEECA8402D4C18 = "Esto es un maldito infierno."
 	D0DE4BA24A4879FE5F74F4A65E2C4B1F = "¡Es enemigo!"
@@ -4476,6 +4487,8 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	673A79C24B5F9A70770AADA75FE6990D = "Esto es todo, minero. Una última mision y estarás listo para una buena promoción."
 	44B079EA478EB9F3C67F2D8CADA5A733 = "Eso es todo: ¡Una última misión y me largo!"
 	850791354E075C0E0B47289C9E64882C = "¡Esto es realmente interesante!"
+	633235B24AD7857E205528B75C1FD456 = "¡Esto me está ralentizando!"
+	DB1FE9F047B64FB841A176B08C3A5991 = "¡Esto es tan pegajoso!"
 	DE6250304E97BF75FB2CC0A7F3876C99 = "Este es un trabajo sediento!"
 	694253C24F6695F0133FE4B0C741419C = "¡Esto es inútil!"
 	E71118234E338E6F7CAA8CAA92424595 = "¡Esto no vale para nada!"
@@ -4535,7 +4548,7 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	032D48EF45459E30EF0227AC62685F8C = "¡A los compañeros, a la oscuridad y a volver con vida!"
 	519FFC414FE15AD04B861D9EEA236FC3 = "¡Por nuestra supervivencia continua!... Sí, ya ¡jajaja!"
 	406AA8F2428166CBA11C4A802034CD9B = "A nuestros héroes caídos: ¡os rendimos homenaje!"
-	AECF2FA64A01380C3DE69CBF3499CC1E = "Para solicitar todos tus datos personales o solicitar su eliminación, por favor envíanos un e-mail con\ntu SteamID a la dirección privacy@ghostship.dk\n\nHaremos todo lo posible para ayudar lo antes posible, pero la solicitud y la eliminación\nde los datos puede tardar hasta 30 días."
+	AECF2FA64A01380C3DE69CBF3499CC1E = "To request all your personal data or request it's deletion please e-mail\nyour SteamID to us at privacy@ghostship.dk\n\nWe will do our best to help as soon as possible, but request and deletion\nof data can take up to 30 day."
 	EAE1DD63454C7FE343BE229577F79879 = "Para los imperios de antaño!"
 	F2360E0C4B7B87A89C3C5597505223B0 = "¡A los caídos!"
 	7E4A4F574FF9312E41FD20AA51C5E7C2 = "¡Por los caídos!"
@@ -4546,7 +4559,6 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	8858CDBF4BD864F504F7219952F28B9F = "Alternar HUD"
 	488FC27F40A06DA3D001DF8593D87FFC = "Alternar faros"
 	D9A0B9E34C2D88B66E2D42BCBEBE7F12 = "Alternar faros"
-	529C988B48970645025CFFAB90660163 = "Demasiado inclinado"
 	5CCE958B406EDA840A52C3AEF05D5DCC = "Consejo de herramienta"
 	27B3D600467F841186B1D2AE95B6164C = "El mejor de su clase."
 	2C3E010D472FCF3DBB2413AD035A3218 = "El mejor de su clase."
@@ -4604,8 +4616,6 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	17E10C7744E0699B82D945B0F00A09B1 = "TIPO DESCONOCIDO"
 	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "TIPO DESCONOCIDO {type}"
 	1DFF07CD499D9C20484D76BF57D90FD9 = "DESBLOQUEADO:"
-	BB67D3564D9DD910C2F2E597A020EF6B = "LA CATEGORÍA DE ACTUALIZACIÓN VA AQUÍ"
-	7E76742344F26DC6FF259391AF71CB96 = "AQUÍ VA EL NOMBRE DE LA ACTUALIZACIÓN"
 	154D798349596E65C508169C1B0BD295 = "MEJORA TU EQUIPO"
 	68B79960422B69C0689251A8A121BF01 = "ENLACE ASCENDENTE COMPLETADO"
 	AA71AD6E4DAB34172A5F89A3300875DD = "PROGRESO DE ENLACE ASCENDENTE"
@@ -4742,6 +4752,7 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	2D2A6357468F84A1FE3FC982E155948C = "Chat de voz"
 	280D9A3F4132BEEEADCE44883D6600BC = "Balas volátiles"
 	6A968257449EC187B7DC4D86058F66A0 = "Bengalas Volátiles!"
+	DFBA5ECB4414B8146C621180A9226E46 = "Volatile Uranium"
 	6A7BE15848AA8D16105BBAB98413374B = "Volumen para morirse."
 	A795C1634FE69D23165C53950AA6DB57 = "Volumen para morirse."
 	304BA6E94038D292F1D38381696E66F4 = "El voto termina en: "
@@ -4786,11 +4797,13 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	5AA0B67F4055FBC0A69F73BD896CB383 = "Advertencia: ¿Estás seguro? al presionar SI, se reestablecerá TODO tu progreso."
 	C62786DF490AA8453D46389CAE1F9C6D = "Advertencia: ¿Estás seguro? ¡Perderás todo el progreso en esta asignación!"
 	45BC46004B66AA4029A6CA9825BE7209 = "Advertencias"
+	3359B17C4621B0C2165FF7AF227EFCD5 = "¡Mira y aprende!"
 	6F5775294B412E940FF65DB8A09D7661 = "¡Mira y aprende!"
 	B5A19B0C4C4928E7AA15D79C658E02BE = "¡Mira y aprende!"
 	5391F8914CDF37453B7DF7BEFC2FFD3B = "¡Cuidado!"
 	459E073648FFC18BF191F8AD51C824FB = "Cuidado, no te acerques a esos túneles de Swarmer!"
 	2712004C4726DA8EF06254B6E2D9A009 = "¡Cuidado, pedazo de cegato!"
+	19DB284E4EA524B7D3F057B90A5CDDE2 = "Mírame ahora!"
 	BB20A88D40F72FB59FE552B888414F08 = "Mírame ahora!"
 	1D666C44467949B44A92C785FC1DE91D = "¡Cuidado!"
 	70129D6E49925B59264CDEB6602572C1 = "¡Cuidado!"
@@ -4803,6 +4816,7 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	460655B049B0FF5D538285A5E3A5E7C9 = "¡Cuidado con el escupebolas!"
 	73247B67428D960100DAF58E726F7F7E = "¡Cuidado con el enjambre!"
 	1022F64F4DFE4CB3A25DD3B510FB05C5 = "¡Mira esto!"
+	CB6E41B34E7EBB60C1D23D9BCE8ADD3D = "¡Mira esto!"
 	E1B74FFE44DBA34BBC3731B10990C86C = "¡Mira a dónde disparas! ¡Imbécil!"
 	D950C57846DD2D43A6773AA7DA279F2B = "¡Mira dónde pisas! "
 	953BF9F543DDB92D548EA4B4003E9185 = "¡Mira dónde disparas! ¡Idiota!"
@@ -4832,6 +4846,7 @@ Sentimos mucho el inconveniente y agradecemos tu paciencia mientras lo arreglamo
 	7454B0E24CA07FBCA20BFB8D239720BB = "¡Tenemos compaňía!"
 	F28F18A6474590F3FA8938B3B0C5167A = "¡Tenemos compaňía!"
 	30C953244901EBB2C8FB2EB6BC012525 = "¡Le hemos dado!"
+	11AE48C645447B70AA14968E857640A7 = "¡Lo conseguimos! ¡Karl estaría orgulloso!"
 	9C39D55144A52B6B61682285955D3A49 = "¡Tenemos que lidiar con ese Bombardero Pegajoso!"
 	A73CCF4B469E12622BC945B6D797181E = "Hemos localizado un nido de glífidos. Los acorazados van allí a convertirse en crisálidas, de forma que vuestro objetivo principal es localizar sus capullos y destruirlos, así como a los bichos que tienen dentro, por todos los medios necesarios. Llevad mucha munición: son duros de pelar."
 	926998B24C3D5839AE17E09E96F6E828 = "Te hemos proporcionado un Dron Multifunción cuyo nombre es Bosco. Bosco te ayudará en esta y otras misiones en solitario. Si lo usas bien, hará la mitad del trabajo por ti. Tu objetivo es localizar y traer una muestra considerable de Morkita. Ahora, ¡Manos a la obra!"
@@ -4861,7 +4876,7 @@ Puedes cambiar los ajustes en cualquier momento, en el menú de Opciones."
 	E063598B46B97B889D2AC089B0DF851C = "¡Vamos a enviar la cápsula de transporte! ¡Dirigíos a la ZA!"
 	D8EBFFA1437113C21DCA369EA1BE0223 = "Os vamos a enviar a las zonas más profundas, así que estad alerta. Los escáneres indican vetas particularmente densas de morkita y oro más abajo. ¡Traedlos!"
 	F06A886F4C10AE421802E48843CB66EC = "No hemos podido obtener una lectura clara de este sistema de cuevas en concreto, así que preparaos para entrar en un laberinto. No obstante, el objetivo no ha cambiado: cumplid vuestras cuotas de morkita y volved con vida."
-	4B5687F649A70D67781A13A3C167E696 = "Hemos detectado un área llena de aquarqs, y os toca recuperarlos todos. Busca una luz azul titilante y extrae el aquarq del interior de las paredes. Hemos enviado una plataforma de perforación especializada. Esperamos una gran resistencia, por lo que la plataforma lleva armamento pesado, pero no os desconcentréis: lo importante es la mercancía."
+	4B5687F649A70D67781A13A3C167E696 = "We've detected an area filled with Aquarqs, and you get to bring them all back. Search for a blue shimmering light, and extract the Aquarq from within the walls. We've sent in a specialized heavy lifter. We're expecting heavy resistance, so the lifter's been equipped with heavy armaments, but keep focused - it's about the goods."
 	1F5CC1074A3AF1E92463338FB14859CB = "Hemos tenido una explosión desarrollando el juego muy lejana y no hemos terminado todavía - Hoxxes IV aún no ha empezado a dar para arriba sus secretos reales todavía..."
 	ABC7EB534443EAF6872712A8E2FC84D4 = "Nos lo pasamos de maravilla desarrollando el juego hasta ahora, y aún no hemos terminado. Hoxxes IV ni siquiera ha empezado a mostrar sus verdaderos secretos todavía..."
 	870475E94E4A39320CDEBA9357EC5495 = "Bonus de punto débil"
@@ -4889,6 +4904,7 @@ Puedes cambiar los ajustes en cualquier momento, en el menú de Opciones."
 	8E798285433E9C877B493790CFA65338 = "Bien hecho. ¡Te estás acercando a completar tu asignación!"
 	A6DC4FDD42DF64AF4E18ADBE9FD21B04 = "¡Mira quién está ahí! ¡Pensé que habías muerto!"
 	2441F774439907E39C60C1AA78AAF73C = "Bueno, mira esto!"
+	A4FE07F442EEBFF3D54C40BEC0C15B51 = "Bueno, mira esto!"
 	CC81B3314D945D0B7721D292D7861486 = "Bueno, mira esto!"
 	BD94BDD545A4585DED8B8EACD9A82AC2 = "Bueno, unas veces se gana y otras se muere."
 	D72361B848B681335B468FA103723978 = "Bueno, unas veces se gana y otras, se muere."
@@ -5027,8 +5043,8 @@ Puedes cambiar los ajustes en cualquier momento, en el menú de Opciones."
 	DCB9DB4A47600847C940649EAEA334C7 = "Estás poniendo en peligro la misión! ¡Regresa a la zona de triangulación!"
 	3C33F0F144DDC9C3CB1A47B07CE00181 = "¡Estás poniendo en peligro la misión! ¡Necesitas estar cerca de las Celdas de Combustible!"
 	A6FF4B0D4BC100F324A48382062D76E0 = "Usted está haciendo buenos progresos. Sólo completa una misión más y te habrás asegurado una nueva licencia de armas."
-	BC03C320434F3CC1AC0BC7BF70B9BA85 = "¡No tienes autorización! ¡Da la vuelta yhaz algo productivo!"
-	B7D2007C461E925E99F54AAFE707165D = "¡No tienes autorización! ¡Los mineros normales no pueden pasar a esta zona!"
+	BC03C320434F3CC1AC0BC7BF70B9BA85 = "You are trespassing! Please turn around and get some work done!"
+	B7D2007C461E925E99F54AAFE707165D = "You are trespassing! This area is off limits to regular miners!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "Espero que seáis mejores mineros que bailarines."
 	E715C48B459168248821088AC6F1734A = "Puedes llevar más munición para las Armas Centinelas"
 	31F3363F4BF2123346998D856F226E8A = "Puedes llevar más munición contigo a la batalla."
@@ -5115,11 +5131,11 @@ Puedes cambiar los ajustes en cualquier momento, en el menú de Opciones."
 	CFB98DDB452E7744D555F382A8122F2B = "[CloseMenu] Salir del juego"
 	E9D9463E42928C3514755BAC259C5AA5 = "[CloseMenu] No"
 	AEA347F74547383311956F963FE02E16 = "[Fire] + [Mine]: Ciclo entre cámaras"
+	E18AF9B040442891E50EB9ADBA84DA8E = "[Fire] MARCAR"
+	DB2DB86B442380F09F7F85BDE6C3BA5A = "[Fire] Marcar"
+	C30A43794F4B4C06D3C5638D33EAF1B7 = "[Fire] COLOCAR MARCADOR"
 	F6BA6BD446E80C0AC686758A81D3C92B = "[IgnoreInvite] Ignorar"
 	433BBF6C47837D1D867AD7B699BD8B51 = "[ARMA BLOQUEADA]"
-	1648DDF24EBDBDDCE0B8DEAFE101925E = "[Esfuerzo medio]"
-	1F87952D457E6A134FFDA8B243EFF425 = "[Esfuerzo medio]"
-	9CBCF22C440AABD3C683B5825C955E24 = "[Esfuerzo medio]"
 	F62952864AC9BD5C00DDEA94DDF7A682 = "[MenuAction1] Actualizar"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] Continuar"
 	319FC2C243CD6989A597A8B314759BBD = "[OkMenu] Continuar"
@@ -5156,11 +5172,11 @@ Puedes cambiar los ajustes en cualquier momento, en el menú de Opciones."
 	301860DA48B90CD11DF217A9827A49D2 = "minado"
 	FA7FEDB540B38AB37FDDD295A75F40A7 = "nlfndslnlfsd"
 	2A9B65284667F1C34052D29006AF8437 = "arma secundaria"
-	32AF945B478BF1C36F05FEB27F61AB80 = "Daño de llama pegajosa"
 	5B37A7E644003126D80116AF94D90F72 = "esto se suponía que era un juego privado."
 	57FC31744E660502A620D797A58ED1DA = "número de nivel"
 	8F675C7B4972FBFB47946787B28DE51E = "¡Yiiiha!"
 	B04D9DF947D4728DAE93018868F37D86 = "yeahha!"
+	D25987CC487F61E029BA7D826BCFED72 = "¡Yiiiha!"
 	7BD55EB94DA3871F2D7F0E846B24C461 = "{0}  donó 80 nitra."
 	F354574840C59FBC38BA7AAB38B76F05 = "¡{0} te ha curado!"
 	EDDF00A14025884C10E0CF8FF51328F2 = "{0} ha engendrado 3 acorazados glífidos"
@@ -5230,6 +5246,8 @@ Namespace Audio (3 keys)
 	Volume_Music = "Música"
 	Volume_SFX = "Efectos de sonido"
 
+Namespace AudioSettings (0 keys)
+
 Namespace Gear (7 keys)
 	Cooldown = "Tiempo de enfriamiento"
 	Heat = "Calor"
@@ -5269,136 +5287,132 @@ Namespace PatchNotes (39 keys)
 	Update_14_ShortTitle = "FEATURE CREEP"
 	Update_12_ShortTitle = "VUELA EN 'FINANZAS"
 	Update_19_ShortTitle = "¡ARMAS! MUCHAS ARMAS"
-	Update_18.5 = "Buenas Nocheeeeees mineros! \ R
-\ r
-Halloween está sobre nosotros y hemos hecho una pequeña actualización para que usted consiga una sensación espeluznante! Realmente no consideramos esto como una verdadera actualización, ya que estamos trabajando en la próxima gran actualización que incluirá nuevas armas y un sistema de actualización y una renovación total de los precios de la vanidad y las actualizaciones. Tenemos tiempos emocionantes por delante! \ r
- \ r
---- PATCH NOTES --- \ r
-\ r
-HALLOWEEN \ r
--------------------------- - \ r
-- ¡Calabazas añadidas a la plataforma espacial para que puedas patear! \ r
+	Update_18.5 = "Buenas noooooooches, mineros!
+
+Halloween está sobre nosotros y hemos hecho una pequeña actualización espeluznante para tí! Realmente no consideramos esto como una verdadera actualización, ya que estamos trabajando en la próxima gran actualización que incluirá nuevas armas y un sistema de actualización y una renovación total de los precios de vanidad y las mejoras. Tiempos emocionantes por delante!
+
+--- NOTAS DEL PARCHE ---
+
+HALLOWEEN
+---------------------------
+- Calabazas añadidas a la plataforma espacial para que puedas patear!
 - Calabazas de truco o trato en las cuevas. ¡Prueba tu suerte aplastándolos!
-- ¡Venta limitada de cascos de calabaza! Boo muhahaha !!!! \ r
--. Banner en Abismo bar y luces regulables \ r
-\ r
-\ r
-JUBILACIONES Y CORRECCIÓN XP \ r
----------------- ------------ \ r
-Nos ha sorprendido realmente positivamente ver cuán bien se ha recibido el sistema de jubilación. Sin embargo, nunca tuvimos la intención de que las personas pasaran por un ciclo de jubilación completo tan rápido como podamos ver que algunos de ustedes están haciendo ahora (tan solo 4 horas). Nuestra intención es que la nivelación de un personaje al nivel de jubilación debería llevar mucho, mucho más tiempo. En este momento hemos realizado un montón de arreglos para el sistema existente, pero con la actualización 19 debería esperar un cambio mucho mayor en el sistema de Retirement y XP. Considérate advertido :-) \ r
-\ r
-- Evita dar rango de jubilación si tienes 0 XP \ r
-- Prevene varios clics en el carácter de jubilación en la interfaz de usuario \
-- Asignaciones de retiro retiradas de la misión \ r
-- Triple XP ahora es Double XP \ r
-\ r
-\ r
-REVISIONES Y MEJORAS \ r
+- Venta limitada de cascos de calabaza! Boo muhahaha !!!!
+- Banner en Bar Abismo y luces agradables
+
+
+JUBILACIÓN Y CORRECCIÓN DE PE
+----------------------------
+Nos ha sorprendido realmente positivamente ver cuán bien se ha recibido el sistema de jubilación. Sin embargo, nunca tuvimos la intención de que las personas pasaran por un ciclo de jubilación completo tan rápido como podemos ver que algunos de ustedes están haciendo ahora (tan solo 4 horas). Nuestra intención es que subir el nivel de un personaje al nivel de jubilación debería llevar mucho, mucho más tiempo. En este momento hemos realizado un montón de arreglos para el sistema existente, pero con la actualización 19 debería esperar un cambio mucho mayor en el sistema de Jubilación y PE. Considérate advertido :-)
+
+- Se ha prevenido el dar rango de jubilación si tienes 0 PE
+- Se ha prevenido dar varios clics en "retirar personaje" en la interfaz de usuario
+- Se han quitado las recompensas de misión de las Asignaciones de retiro
+- Triple PE ahora es Doble PE
+
+
+REVISIONES Y MEJORAS
 ---------------------------- \ r
-- Se solucionó el problema con el botón de invitación a la Discord Party y se evitaba que funcionara en algunos casos \ r
-- Se solucionó el problema al fallar la misión de Salvage durante la etapa de la cápsula de combustible
-- Se corrigió el indicador de daños en la pantalla \
-- Se corrigieron algunos problemas menores en Magma Quake \ r
-- Configuración de gráficos: deshabilitar la restauración de pantalla completa para evitar problemas con el mouse y no poder hacer clic en continuar en el juego \ r
-- Arreglar el caso de clientes que no se pueden cargar en join \ r
-- Arreglar la desaceleración de IFG del scout, se configuró incorrectamente a solo un 30% de ralentización, se restableció a 75% \ r
-- Lootbug drop nerfed. Se utiliza para soltar 15-25 valores de oro y Nitra - ahora cae 5-15. \ R
-- La misión de Eliminaciones fijas no siempre genera suficientes capullos. Dreadnought cocoon ahora se corta un espacio para sí mismo y tiene requisitos de creación menos estrictos
-- Corrección para que el cursor desaparezca en la ventana de recompensa de la campaña. \ R
+- Se solucionó el problema con el botón de invitación de Discord Party y se evitó que funcionara en algunos casos
+- Se solucionó el problema al fallar la misión de Salvamento durante la etapa de la cápsula de combustible
+- Se corrigió el indicador de daños se quedaba atascado en la pantalla
+- Se corrigieron algunos problemas menores de Terremotos de Magma
+- Configuración de gráficos: deshabilitada la restauración de pantalla completa para evitar problemas con el mouse y no poder hacer clic en continuar en el juego
+- Corregido un caso en que un cliente no cargaba al unirse
+- Corregida la desaceleración del IFG del Explorador, se configuró incorrectamente a solo un 30% de ralentización, se restableció a 75%
+- Reducido el drop de las Larvas de Botín. Usualmente soltaban 15-25 valores de oro y Nitra - ahora cae 5-15.
+- Corregida La misión de Eliminación no siempre genera suficientes capullos. Capullos de Dreadnought ahora se corta un espacio para sí mismo y tiene requisitos de creación menos estrictos
+- Corrección para que el cursor desaparezca en la ventana de recompensa de la campaña.
 "
 	Update_18.5_ShortTitle = "HALLOWEEN"
-	Update_20 = "¡Felices fiestas mineros! 
+	Update_20 = "¡Felices fiestas mineras!
 
-La Navidad ha llegado a Hoxxes y te traemos un regalo justo a tiempo para las vacaciones! Además, ¡nos complace anunciar que no es suave! En realidad, está cargado con DURAS modificaciones para Bosco, una Bahía Médica, modelos de armas renovadas y un millón de características interesantes. 
+La navidad ha llegado a Hoxxes y te traemos un regalo justo a tiempo para las vacaciones! Además, ¡nos complace anunciar que no es una ligera! En realidad, está cargado con DURAS modificaciones para Bosco, una Bahía Médica, modelos de armas remodeladas y un millón de características interesantes.
 
 Todos los mejores deseos,
 El equipo de Ghost Ship!
-
 
 --- NOTAS DEL PARCHE ---
 
 MODIFICACIONES DE BOSCO
 ----------------------------
-¿Necesitas que Bosco sea un Medi-Drone o una Máquina de Matar? Ahora, ¡todo depende de ti!
+¿Necesita que Bosco sea un Dron Médico o una Máquina de matar? Ahora todo depende de ti!
 
-igual que las armas, Bosco tiene acceso a modificaciones que se pueden comprar y equipar. Estos mods te permitirán personalizar el dron utilizando algunos de los parámetros existentes, como por ejemplo el número de reanimaciones o el daño con armas, pero también estamos introduciendo un fuego secundario especial. Una vez que la modificaciones esté activo, el jugador puede apuntar con el Escáner de Terreno y presionar [BOTÓN DERECHO DEL RATÓN] o (GATILLO IZQUIERDO) y Bosco disparará un cohete al objetivo.
+De manera similar a las armas, Bosco tiene acceso a los mods que se pueden comprar y equipar. Estos mods te permitirán personalizar el dron usando algunos de los parámetros existentes, como por ejemplo el número de reanimaciones o daño del arma, pero también estamos introduciendo un fuego secundario especial. Una vez que el mod está activo, el jugador puede apuntar con el escáner de terreno y presionar [BOTÓN DERECHO DEL RATÓN] o (GATILLO IZQUIERDO) y Bosco disparará un cohete al objetivo.
 
 
 BAHÍA MÉDICA 1.0
 ----------------------------
-Cuando tú y tus compañeros de equipo fallen una misión, se despertarán en el Bahía Médica. Luchar juntos, Fallar juntos!
+Cuando tú y tus compañeros de equipo fracasan una misión, te despertarás en la Bahía Médica. ¡Luchen juntos, fracasen juntos!
 
 
-DISEÑOS DE ARMAS REMODELADOS
+MODELOS DE ARMAS RENOVADOS
 ----------------------------
 Todas las armas antiguas han estado recibiendo una revisión gráfica y deben estar a la par con las nuevas. ¡Para aquellos que piensan que las apariencias son más importantes que la sustancia!
 
 
 NAVIDAD EN EL ESPACIO
 ----------------------------
-No pudimos ayudarnos a nosotros mismos y tuvimos que vestir la plataforma espacial para las vacaciones. También puedes comprar un sombrero limitado y jugar a Papá Noel con tus amigos. Por favor, no destruyas la decoración!
+No pudimos ayudarnos a nosotros mismos y tuvimos que vestir la plataforma espacial para las vacaciones. También puedes comprar un gorro limitado y jugar a Papá Noel con tus amigos. Por favor, no destruyas la decoración!
 
 
-ASIGNACIÓN DE TERMINAL DE COMERCIO MINERALES
+ASIGNACIÓN DE TERMINAL DE COMERCIO DE MINERALES
 ----------------------------
-Por ordenanza de la Administracion, los nuevos reclutas ya no tienen acceso directo a la Terminal de Comercio Minerales. ¡El acceso ahora se concede demostrando ser digno de completar una tarea! Además de conseguir el acceso a la terminal de Comercio, los jugadores serán recompensados con 50 Croppa y 40 Jadiz al finalizar.
+Por orden de la Administración, los nuevos reclutas ya no tienen acceso directo a la Terminal de Comercio de Minerales. ¡El acceso ahora se concede demostrando ser digno al completar una tarea! Además de obtener acceso a la Terminal de Comercio, los jugadores serán recompensados con 50 Croppa y 40 Jadiz al finalizar.
 
 
-OPCIÓN DE RESTAURACIÓN DE PROGRESO GUARDADO
+OPCIÓN DE RESTAURACIÓN DE PARTIDA
 ----------------------------
-Ahora puedes restaurar tu progreso guardado desde el Menú de opciones. Estas son solo medidas de seguridad adicionales en el improbable caso de que pierda sus datos guardados. ¡La Administración se niega a que esto haya sucedido!
+Ahora puedes restaurar tu partida guardada desde el Menú de opciones. Estas son solo medidas de seguridad adicionales en el improbable caso de que pierdas tus datos guardados. ¡La Administración se niega a que esto haya sucedido!
 
 
-BALANCE DE ARMAS: "WARTHOG" AUTO 210
+EQUILIBRIO DE ARMA: "WARTHOG" AUTO 210
 ----------------------------
-- Daño base aumentado.
-- Reducida la Cadencia de fuego de la modificación "Mecanismo de alimentación sobrealimentado"
-- Se incrementó el daño de la modificación "Perdigones más grandes" 
-- Se redujo el tiempo de recarga base de 2.3 a 2.0 
+- Daño base aumentado. \ r
+- Reducida la cadencia de fuego de la modificación "mecanismo de alimentación sobrealimentada"
+- Daño de la modificación "Perdigones más grandes"
+- Se redujo el tiempo de recarga base de 2.3 a 2.0
 
 
-BALANCE DE ARMAS: LANZALLAMAS CRSPR
+EQUILIBRIO DE ARMA: LANZALLAMAS CRSPR
 ----------------------------
-- Se ha ajustado la mejora del lanzallamas "Llamas Pegajosas" para estar mejor balanceado contra quemadura directa de objetivos.
+- Ajustada la mejora de Llamas Pegajosas del Lanzallamas para estar mejor balanceada contra quemadura directa de objetivos.
 
 
-OTROS ARREGLOS DE ARMAS
+OTRAS CORRECCIONES DE ARMAS
 ----------------------------
-- Matar enemigos con llamas pegajosas y prenderles fuego debería recompensar correctamente con una muerte
-- Corregido la escopeta recortada siempre se volvería a cargar automáticamente, incluso si no tuvieras la habilidad equipada
+- Matar enemigos con llamas pegajosas y prenderles fuego debería recompensar correctamente con un asesinato
+- Corregida la escopeta recortada siempre se volvía a cargar automáticamente, incluso si no tuviera la habilidad equipada
 - Corregida la animación de las pistolas duales en la terminal de equipo
 - Se agregaron nuevos sonidos de las armas
-- Se agregaron nuevas lineas de control de la Misión para todos asignaciones de armas y promociones
+- Se agregaron nuevas lineas de Control de la Misión para todas las asignaciones de armas y promociones
 - Iconos de armas actualizados: Escopeta de combate, Pistola, Revólver
-- Corregido el m1000 no reestablecia el zoom si se volvia a cargar con el clip completo
-- Corregida la animación de las Pistolas Duales, podian atascarse después de revivir
-- Corregida la Pistola de Disparo Rápido, podia seguir disparando si se cambiaba de armas durante una ráfaga
-- “Stagger” ha sido renombrado a “Stun” (Solo en Ingles), ya que causó cierta confusión
+- Corregida la m1000 no restablecía el zoom si se recargaba con un clip completo
+- Se corrigió la animación de disparos de las Pistolas Duales que podían atascarse después de revivir
+- Corregida La pistola de disparo rápido que seguía disparando si se cambiaba de armas durante a disparo
+- "Stagger" ha sido renombrado a "Stun" ya que causó cierta confusión. (Solo en Ingles)
 
 
-CORRECCIONES Y MEJORAS
+ARREGLOS Y MEJORAS
 ----------------------------
-- Se eliminaron los monitores parpadeantes de la selección de misiones
-- Se corrigió el Sí/No emergente de accesorios que no responde a los accesos directos del controlador
-- Se corrigió el problema de la interfaz de usuario de la Estación Espacial al cambiar personajes
-- Flujo de unión tardía mejorado: ahora puedes seleccionar tu personaje antes de que se cargue el nivel y se ha agregado un botón de retroceso.
-- Solucionado un fallo relacionado con caminar sobre hielo.
-- Arreglado un crasheo al unirse en progreso
-- Arreglado un crasheo relacionado al unirse tarde
-- Arreglado un crasheo relacionado a la congelación
-- Arreglado un crasheo al unirse al juego
-- Arreglada la larva de magma no hacia daño alguno
-- Arreglado el géiser de lava hacia 0 de daño al estallar
-- Dreadnought puede generar más enemigos
-- Arreglado la reanimacion agitada para clientes
-- Mejora el engendramiento en la retroalimentación de los enemigos
-- Mejora la lógica del Kamikaze cuando está a punto de explotar y le disparas en la cabeza o lo congelas.
-- Corregido algunos enemigos pueden incendiarse si caminan sobre la plataforma de mineria en Punto de Extracción
-- Corregido el sonido burbujeante del géiser de aire y de lava que permanecia después de ser destruido
-- Se agregó la animación de Patada a los personajes en tercera persona. Patear barriles nunca habia sido tan realista!
-
-
-
+- Se eliminaron los monitores parpadeantes en Selección de Misión
+- Se corrigió el Sí / No emergente que no respondía a los accesos directos del controlador
+- Se corrigió el problema de la interfaz de usuario de la plataforma espacial cuando se cambiaba de personaje
+- Mejora del flujo de unión tardía: ahora puedes seleccionar su personaje antes de que se cargue el nivel y se ha agregado un botón de retroceso
+- Corregida la falla relacionada con caminar sobre el hielo.
+- Corregido un crasheo a la unión en curso
+- Corregido un crasheo al unirse tarde
+- Corregido un crasheo relacionado con la congelación
+- Corregido un crasheo al unirse a una partida
+- Corregido el gusano de magma no hacia ningún daño
+- Corregido el géiser de lava que hacia 0 daño al explotar
+- Dreadnought puede engendrar más enemigos
+- Corregida una reanimación agitada para clientes
+- Mejorada el feedback de aparición en enemigos
+- Mejorada la lógica del kamikaze cuando está a punto de explotar y le disparas a la cabeza o lo congelas.
+- Corregidos algunos enemigos podian incendiarse si caminaban sobre la plataforma minera en Punto de Extracción
+- Corregido el sonido de burbujeo del géiser del aire y de lava que seguía oyendose después de ser destruido
+- Se agregó la animación de patada a los personajes en tercera persona. ¡Patear barriles nunca había sido más realistas!
 "
 	Update_9 = "Hola mineros!
 
@@ -5455,7 +5469,7 @@ Modo en Solitario
 - Bosco ahora recibe un aumento de velocidad del 250% cuando le pides que lo haga. También aumentó su aceleración de 300 a 550
 
 Balance de clase: se mejoró las herramientas del perforador
-- Lanzallamas: La capacidad de combustible aumentó de 160 a 270 unidades, y cada recipiente contiene 90 en lugar de 80 unidades. Eso significa que el lanzallamas ahora tiene combustible para tres recargas completas en lugar de dos, y cada recarga cuenta con más combustible\r.
+- Lanzallamas: La capacidad de combustible aumentó de 160 a 270 unidades, y cada recipiente contiene 90 en lugar de 80 unidades. Eso significa que el lanzallamas ahora tiene combustible para tres recargas completas en lugar de dos, y cada recarga cuenta con más combustible\.
 - Rango del lanzallamas aumentado de 8,5 millones a 10 m
 - Taladros de energía: el combustible aumentó de 30 de 35
 - Aumentada la velocidad de caminata mientras se perfora en un 10%
@@ -6214,46 +6228,62 @@ LISTA DE CAMBIOS
 - 13495 Escaladas las partículas del lanzallamas
 - 13503 Corregidos los medidores de profundidad para los biomas
 "
-	Update_10 = "Hola mineros,
+	Update_10 = "Hola mineros, 
 
-Tenemos otra actualización aquí con algunas correcciones importantes y un poco de contenido nuevo. Junto con estas actualizaciones más pequeñas, ahora estamos iniciando un mayor contenido y desarrollo de características. Más adelante, cuando revelemos una hoja de ruta más grande de las cosas por venir. r
-r
-NotaS de parche de------
+Tenemos otra actualización con algunas correcciones importantes y un poco de contenido nuevo. Junto con estas actualizaciones más pequeñas, ahora estamos iniciando un mayor desarrollo de contenido y funciones. Más sobre esto más adelante, cuando revelemos una hoja de ruta más grande de lo que vendrá.
 
-Comunidad solicitada FIXES
--Arreglados varios problemas con la sensibilidad del mouse. La sensibilidad no era la misma en la plataforma espacial y en una misión, ahora son las mismas. La sensibilidad tenía diferentes valores para horizontal y vertical, ahora se pueden configurar en opción. r
--Opción de búsqueda de la región de vapor. r
--El controlador de desconexión ya no desactiva el mouse y keyboards
--Prueba de corrección para el monitor primario (algo no probado!) r
--Gancho fijo de agarre vida infinita bug
+--- NOTAS DEL PARCHE ---
 
-Cave CONTENT
--Primera implantación de diferentes túneles para cada region\r planetaria
--Añadidos picos de cristal que pueden caer desde el techo en sal Pits
--Pegajosa Goo añadido al hongo Bogs
+CORRECCIONES SOLICITADAS POR LA COMUNIDAD
+- Se corrigieron varios problemas con la sensibilidad del mouse. La sensibilidad no era la misma en la Plataforma Espacial y en una Misión, ahora son lo mismo. La sensibilidad tenía diferentes valores para horizontal y vertical, ahora se pueden configurar en la opciones.
+- Opción de búsqueda por Región de Steam.
+- Desconectar el controlador ya no desactiva el mouse y el teclado
+- Corrección de prueba para el monitor primario (¡algo sin probar!)
+- Solucionado el problema de la vida infinita del gancho de agarre
 
-Misión MAP
--Nuevos iconos para la complejidad y la longitud. Ahora debería ser más obvio que la complejidad es un aumento de dificultad grave. r
--Iconos de complejidad ahora mostrado arriba misión icons
--El pago de la misión directamente muestra abajo misión icons
+CONTENIDO DE LAS CUEVAS
+- Primera implementación de diferentes túneles para cada región planetaria
+- Añadido picos cristalinos que pueden caer desde el techo en Pozos de Sal
+- Cosa pegajosa añadida en Ciénaga Hongosa
 
-Arma VIEWMODELS
--Cambiado ViewModel FOV para 100 a 90 r
--Vista en primera persona de las armas son ahora menos estirado r
--Reducción de recortes totales issues
+Mapa de Misiones
+- Nuevos iconos para la complejidad y Longitud. Ahora debería ser más evidente que la complejidad es un aumento de dificultad seria.
+- iconos de Complejidad ahora se muestran arriba del icono de Misión
+- pago por Misión se muestra directamente debajo de los iconos de la misión
 
-Scout TWEAKS/r
--Escopetas aserradas de 15 perdigones que infligen 6 daños cada uno-aumentado a 10 daño cada r
--Escopeta aserrada de munición máxima 30 balas-disminuido a 16 r
--Recortada escopeta de munición máxima de actualización-disminuido de + 10 a + 8 r
+ViewModels DE ARMAS
+- Cambiado el FOV del viewmodel de 100 al 90
+- vista en primera persona de las armas ahora son menos flexibles
+- Reducidos varios problemas de clipping
 
-Animación, sonidos y EFFECTS/r
--Pistola perforadora recarga Animations
--La pistola perforadora y la escopeta Scout ahora se consideran recargadas cuando se ajusta a la animación, no cuando termina la animación. Esto se implementará en otras armas cuando obtengan sus propias recargas. (falta la actualización de sonido) r
--Clients\r de fondo fijo de la consola
--Puntero láser GFX updater
--Fondo eliminado de Interact popups
--D."
+AJUSTES DEL EXPLORADOR
+- escopeta recortada dispara 15 perdigores causando 6 de daño cada uno - aumentado a 10 de daño cada una
+- escopeta recortada munición máxima era 30 balas - disminuyó a 16
+- escopeta recortada Mejora de munición máxima - disminuyó de +10 a +8
+
+ANIMACIÓN, SONIDOS Y EFECTOS
+- Animaciones de recarga de la pistola del perforador
+- La pistola del perforador y la escopeta del explorador ahora se consideran recargadas cuando se ajusta a la animación, no cuando la animación termina. Esto se implementará en otras armas cuando obtengan sus propias recargas. (Falta la actualización de sonido)
+- Se corrigieron las animaciones de fondo de la consola en los clientes
+- Efectos gráficos del Puntero láser actualizados
+- Fondo eliminado de las ventanas emergentes de interaccion
+- Efectos gráficos e Superposición de daños actualizados
+
+LOCALIZACIÓN
+- Se agregó más espacio entre las líneas de texto en los terminales (para idiomas acentuados)
+- Se actualizaron todos los idiomas desde Crowdin
+
+ARREGLOS MENORES
+- La lista de servidores por defecto no mostraba servidores con contraseña
+- Asteroides ya no tienen sombrado suave en la pantalla de carga!
+- El stick derecho del Controlador ahora se usa como rueda de desplazamiento del mouse
+- Eliminada la prueba de Steam Friend cuando se invita a amigos. Las sesiones privadas deberían manejarlo mejor ahora y estaba impidiendo que los clientes invitaran a amigos que no eran amigos del servidor.
+- Se solucionó que Molly no era Dorada en el Pabellón Conmemorativo cuando estaba desbloqueada
+- Molly y las arañas grandes ahora prefieran caminar por el piso
+- Arreglados crasheos relacionados con armas
+- Los enemigos ya no serán "aturdidos" por el daño físico (cuerpo a cuerpo)
+- Se corrigió la munición y el tamaño del Clip actualizadas no se aplicaba cuando ingresabas a la misión
+- Se cambió la escala de elementos en primera persona para que atraviesen menos con otros objetos."
 	Update_18_ShortTitle = "OFERTAS DE EMPLEO"
 	Update_13_ShortTitle = "CAMBIOS DE VIDA MENORES"
 	Update_15_ShortTitle = "ADVERTENCIA DE MUTACIÓN!"
@@ -6268,105 +6298,105 @@ Animación, sonidos y EFFECTS/r
 	Update_16_Header = "ACTUALIZACIÓN 16: EL INVIERNO HA LLEGADO - 29.08.2018"
 	Update_17_Header = "ACTUALIZACIÓN 17: OKTOBERFEST! - 20.9.2018"
 	Update_18.5_Header = "PARCHE 18.5: HALLOWEEN - 26.10.2018"
-	Update_18 = "ACTUALIZACIÓN 18: OPORTUNIDADES DE TRABAJO \ r
-\ r
-Howdy Miners! \ r
-hora de ponerse sus nuevos conjuntos de armaduras, tomar cervezas con beneficios y asumir nuevas y emocionantes tareas. El Oktoberfest ha terminado y hemos estado ocupados preparando una gran bolsa de características geniales para ti. ¡Disfrutar! \ r
-\ r
---- PATCH NOTES --- \ r
-\ r
-NUEVO SISTEMA DE ASIGNACIÓN \ r
------------------------- ---- \ r
-Nuestro objetivo con el sistema de asignación es crear un inicio más suave para los nuevos jugadores y, al mismo tiempo, crear entusiasmo para tener acceso a nuevo contenido. Las asignaciones en el futuro se utilizarán para desbloquear nuevos contenidos, como armas alternativas y regiones planetarias. \ R
-\ r \ n
-EL PERIODO DE PRUEBAS: \ r
-Cuando comienzas el juego por primera vez, ahora tienes que completar el Período de prueba en orden para demostrar su valía como minero. El Período de prueba es una asignación larga de 9 misiones y lo llevará a través de las diferentes regiones de Hoxxes y lo desafiará con varias misiones para completar. \ r
-\ r
-Puedes unirte a cualquier misión en la lista de servidores, independientemente de la finalización del Período de prueba. Completar misiones que forman parte de una tarea le otorga recompensas adicionales en forma de materiales de elaboración y créditos. Después de completar el Período de prueba, habrá desbloqueado todas las regiones, misiones y dificultades. \ r
-\ r
-ATENCION MINEROS VETERANOS! Los jugadores que hayan jugado anteriormente tendrán la opción de saltarse el Período de prueba de la terminal del Tablero de Asignaciones. \ r
-\ r
-\ r
-RETIRO \ r
----------------------------- \ r
-SOLICITUD DE RETIRO: Cuando te manda de un personaje en el nivel 20, tienes la opción de completar la Asignación de solicitud de retiro para ese personaje. Selecciónelo desde la Terminal de Asignación. Cuando haya completado la tarea, tendrá la opción de retirar ese personaje de la Terminal de selección de caracteres. \ r
-\ r
-RETIRAR UN DWARF: cuando retiras un personaje, ese personaje se restablecerá al nivel 1 y perderás todo el progreso en armas y mejoras para ese personaje. Sin embargo, mantendrás toda la progresión en beneficios, créditos, materiales de elaboración y artículos de tocador. La primera vez que se retire, también desbloqueará un espacio de beneficio adicional para ese personaje específico. Retirar un personaje es la única forma en que puedes aumentar tu rango de jugador por encima de 26, ya que necesitas ganar niveles de personaje para poder ganar rangos de jugador. También estamos considerando introducir desbloqueos de vanidad y otras características para los jugadores por encima del rango de jugador 26. \ r
-\ r
-\
-ACTUALIZACIONES DE MISIÓN \ r
------------------ ----------- \ r
-Para realizar una asignación sin problemas del Período de prueba y, en general, para mejorar la experiencia minera a largo plazo, hemos ajustado algunas de las misiones y las hemos simplificado y simplificado. versiones de ellos. \ r
-\ r
-EGG HUNT: Durante mucho tiempo hemos querido mejorar los tipos de misiones Egg Hunt y Search & Extract. Al final, decidimos simplemente fusionarlos. Aquí están los cambios: \ r
-\ r
-- La búsqueda de huevos ahora se lleva a cabo en un sistema de cuevas, similar a lo que solía encontrar en Search & Extract. \ r
-- En lugar de tener que correr y buscar los huevos, puede usar el Escáner de Terreno (mantenga presionado [M]) para detectar su ubicación. \ r
-- Tienes que recoger menos huevos que antes. \ r
-- La caza de huevos ahora tiene múltiples complejidades y longitudes. \ r
-- Se han eliminado Search & Extract por ahora. \ r
-- ¡Nos hemos resistido a la tentación de llamar a Egg Hunt para Search & Eggstract! \ r
-\
-SALVAGE MISSION \ r
-- Los sistemas de cuevas ahora pueden generar ambos medios y niveles de alta complejidad \ r
-- Longitud corta (Ensamble 2 MINI MULES) y larga (Ensamble 3 MINI MULES) \ r
-\
-ELIMINACIÓN \ r
-- Los sistemas de cuevas ahora pueden generar niveles de complejidad medios y altos \ r
-- Longitud corta (Kill 2 Dreadnoughts) y larga (Kill 3 Dreadnoughts) \ r
-\ r
-\
-BEER BUFFS \ r
---------------------- ------- \ r
-Buffs se han agregado a algunas de las cervezas y los precios se han ajustado: \ r
-\
-- RED ROCK BLASTER: + 30% a salud máxima \ r
-- SKULLCRUSHER ALE: + 50% Daño de pico \ R
-- MAROZO OSCURO: + 20% Morkite extraído \
-- GLAMPAL LLAVE: Una nueva cerveza sin pulir, pero todavía te hará feliz: -) \ r
-\ r
-cervezas con buffs tienen Se le ha dado un efecto de menor potencia, por lo que puede beber uno sin emborracharse. Esto se hace para evitar que usted siempre tener que beber del amante de la hoja especial si no quiere jugar con el efecto borracho en. \ R
-\ r
-Tenga en cuenta que las pieles de ante permanecerá después de beber especial del amante de la hoja. Y también tenga en cuenta que los Buffs no se apilarán. También debes tener en cuenta que las cervezas tienen cierta aleatoriedad en cuanto a lo duro que te afectan. \ r
-\ r
-\ r
-nuevo modelo para ASALTO RIFLE \ r
----------------------------- \ r
-Scouts asalto El rifle ha recibido una revisión del modelo, las animaciones y el sonido. \ r
-\ r
-\ r
-NUEVOS ARMORES \ r
----------------------------- \ r
-8 nuevas armaduras (llamadas MK3 Basic y Heavy) han sido implementados, listos para que los compre y equipe. Se desbloquearán en el rango de jugadores 10 y 12 respectivamente. si eres más bajo que el rango de jugador 8, solo verás la armadura MK2 en la tienda. \ r
-\
+	Update_18 = "ACTUALIZACIÓN 18: OPORTUNIDADES DE TRABAJO
 
-DIFICULTAD TWEAK \ r
------------------ ----------- \ r
-Se han ajustado los niveles de peligro para los juegos de 2 jugadores para que el salto de jugar solo a dos jugadores sea menos pronunciado. Factores de enemigos para juegos 2-jugador de escala se han ajustado de esta manera: Bajo riesgo 0,4-0,3, desafiante 0.5 y 0,4, Dangerous 0,75 hasta 0,66, Detalle de 1,0 a 0,9 \ r
-\ r
-La advertencia Mactera plaga se ha ajustado en el dificultad. Todavía se garantiza cierta locura, pero ahora debería ser menos punitiva. \ r
-\ r
-\
-REVISIONES Y MEJORAS \ r
----------------------------- \ r
-- Nuevo movimiento de baile Al escuchar el jukebox \ r
-- Zip-line fix. Ahora los clientes también obtienen un impulso al saltar de la línea zip \ r
-- Los archivos guardados no se sobrescriben si no hay conexión a Steam \ r
-- ¡La lista de servidores se agrega en Xbox! ¡Ahora debería ser mucho más fácil encontrar un equipo para jugar! \ r
-- Hemos deshabilitado que puede soltar un elemento transportado presionando [E]/ (X). Si quieres soltar un objeto transportado, ya sea alternar armas o lanzarlo presionando [BOTÓN IZQUIERDO DEL RATÓN] / (GATILLO DERECHO) \ r
-- El uso de Terrain Scanner ya no hace girar al jugador y el Pod de Escape se le ha agregado.
-- Se agregó pistolera lanzallamas en tercera persona \ r
-- Arreglar el retroceso. Se agregó antes de que se disparara el disparo, por lo que nunca podría ser totalmente preciso.
-- Solucione un caso en el que los clientes no puedan cargar el mapa. Resultando en atorado en la pantalla de carga
-- Detecta trozos y gemas que caen fuera del mundo y los devuelve \ R
-- Espacio Rig - No hay más luz azul en el podómetro cuando se lanza una misión
-- Se cambió la pancarta del Oktoberfest \ r
-- Juego de partida: los jugadores ya no pueden obtener XP extra por encima del límite
-- Estadísticas agregadas de la misión: Total de bebidas consumidas y Total de rondas de bebidas ordenadas
-- El modo de pantalla completa ahora se maneja correctamente y no se reinicia entre sesiones \ r
-- Sun agregó detrás de Planet Hoxxes en Space Rig. El modelo planetario también se actualizó ligeramente
-: los clientes ahora pueden abrir el mapa de la misión mientras están en un juego hospedado
-r
+Que tal, Mineros!!
+Hora de ponerse sus nuevos conjuntos de armaduras, tomar cervezas con buffos y asumir nuevas y emocionantes tareas. El Oktoberfest ha terminado y hemos estado ocupados preparando una gran bolsa de características geniales para ti. ¡Que lo disfrutes!
+
+--- NOTAS DEL PARCHE ---
+
+NUEVO SISTEMA DE ASIGNACIÓN
+----------------------------
+Nuestro objetivo con el sistema de asignación es crear un inicio más suave para los nuevos jugadores y, al mismo tiempo, crear entusiasmo para tener acceso a nuevo contenido. Las asignaciones en el futuro se utilizarán para desbloquear nuevos contenidos, como armas alternativas y regiones planetarias.
+
+PERIODO DE PRUEBAS:
+Cuando comienzas el juego por primera vez, ahora tienes que completar el Período de prueba en orden para demostrar tu valía como minero. El Período de prueba es una asignación larga de 9 misiones y te llevará a través de las diferentes regiones de Hoxxes y te desafiará con varias misiones para completar.
+
+Puedes unirte a cualquier misión en la lista de servidores, independientemente de la finalización del Período de prueba. Completar misiones que forman parte de una tarea te otorga recompensas adicionales en forma de materiales de elaboración y créditos. Después de completar el Período de prueba, habrás desbloqueado todas las regiones, misiones y dificultades.
+
+ATENCION MINEROS VETERANOS! Los jugadores que hayan jugado anteriormente tendrán la opción de saltarse el Período de prueba en la Terminal del Tablero de Asignaciones.
+
+
+RETIRO
+----------------------------
+SOLICITUD DE RETIRO: Cuando alcanzas el nivel máximo de un personaje en nivel 20, tienes la opción de completar la Asignación de solicitud de retiro para ese personaje. Selecciónalo desde la Terminal de Asignación. Cuando hayas completado la tarea, tendrás la opción de retirar ese personaje desde la Terminal de selección de Personajes.
+
+RETIRAR UN ENANO: cuando retiras un personaje, ese personaje se restablecerá al nivel 1 y perderás todo el progreso en armas y mejoras para ese personaje. Sin embargo, mantendrás toda la progresión en habilidades, créditos, materiales de elaboración y artículos de tocador. La primera vez que se retire, también desbloqueará un espacio de habilidad adicional para ese personaje específico. Retirar un personaje es la única forma en que puedes aumentar tu rango de jugador por encima de 26, ya que necesitas ganar niveles de personaje para poder ganar rangos de jugador. También estamos considerando introducir desbloqueos de vanidad y otras características para los jugadores por encima del rango de jugador 26.
+
+
+ACTUALIZACIONES DE MISIONES
+----------------------------
+Para realizar una asignación sin problemas del Período de prueba y, en general, para mejorar la experiencia minera a largo plazo, hemos ajustado algunas de las misiones e hicimos versiones de ellas más simples y más complejas.
+
+BÚSQUEDA DE HUEVOS: Durante mucho tiempo hemos querido mejorar los tipos de misiones Búsqueda de Huevos y Buscar y Extraer. Al final, decidimos simplemente fusionarlos. Aquí están los cambios:
+
+- La búsqueda de huevos ahora se lleva a cabo en un sistema de cuevas, similar a lo que solía encontrar en Buscar y Extraer.
+- En lugar de tener que correr y buscar los huevos, puedes usar el Escáner de Terreno (mantenga presionado [M]) para detectar su ubicación.
+- Tienes que recoger menos huevos que antes.
+- La búsqueda de huevos ahora tiene múltiples complejidades y longitudes.
+- Se ha eliminado Buscar y Extraer por ahora.
+- ¡Nos hemos resistido a la tentación de llamar Búsqueda de Huevos como Buscar & Eggstraer!
+
+MISIÓN DE SALVAMENTO
+- Los sistemas de cuevas ahora pueden generar niveles de complejidad medios y altos
+- Longitud corta (Salva 2 MINI MULAS) y larga (Salva 3 MINI MULAS)
+
+ELIMINACIÓN
+- Los sistemas de cuevas ahora pueden generar niveles de complejidad medios y altos
+- Longitud corta (Mata 2 Dreadnoughts) y larga (Mata 3 Dreadnoughts)
+
+
+BUFFOS DE CERVEZAS
+----------------------------
+Buffos se han agregado a algunas de las cervezas y los precios se han ajustado:
+
+- RED ROCK BLASTER: + 30% a salud máxima
+- SKULLCRUSHER ALE: + 50% Daño de pico
+- MORKITA OSCURA: + 20% Morkite extraído
+- GLYPHID SLAMMER: Una nueva cerveza sin pulir, pero todavía te hará feliz :-)
+
+Se le ha dado a las Cervezas con buffos un efecto de menor potencia, por lo que puedes beber uno sin emborracharse. Esto se hace para evitar que siempre tengas que un Leaf Lover Special si no quieres jugar con el efecto borracho.
+
+Ten en cuenta que los efectos permanecerán incluso después de beber un Leaf Lover's Special. Y también ten en cuenta que los Buffos no se apilarán. También debes tener en cuenta que las cervezas tienen cierta aleatoriedad en cuanto a lo duro que te afectan.
+
+
+NUEVO MODELO PARA EL RIFLE DE ASALTO
+----------------------------
+El Rifle de Asalto del Explorador ha recibido una revisión del modelo, las animaciones y el sonido.
+
+
+NUEVAS ARMADURAS
+----------------------------
+8 nuevas armaduras (llamadas MK3 Básica y Pesada) han sido implementados, listos para que los compres y equipes. Se desbloquearán en los rango de jugador 10 y 12 respectivamente. si eres más bajo que el rango de jugador 8, solo verás la armadura MK2 en la tienda.
+
+
+AJUSTES EN LA DIFICULTAD
+----------------------------
+Se han ajustado los niveles de peligro para las sesiones de 2 jugadores para que el salto de jugar solo a dos jugadores sea menos pronunciado. Factores de escala de enemigos para sesiones de 2-jugador se han ajustado de esta manera: Bajo riesgo 0,4-0,3, desafiante 0.5 y 0,4, Peligroso 0,75 hasta 0,66, Extremo de 1,0 a 0,9
+
+La advertencia de Plaga Mactera se ha ajustado en la dificultad disminuyendolo. Todavía se garantiza cierta locura, pero ahora debería ser menos punitiva.
+
+
+CORRECCIONES Y MEJORAS
+----------------------------
+- Nuevo movimiento de baile al escuchar la caja musical
+- Correcciones de la Tirolina. Ahora los clientes también obtienen un impulso al saltar de la tirolina\ r
+- Los archivos guardados no se sobrescriben si no hay conexión a Steam
+- ¡Se agregó la lista de servidores en Xbox! ¡Ahora debería ser mucho más fácil encontrar un equipo para jugar!
+- Hemos deshabilitado el soltar un elemento transportado presionando [E]/ (X). Si quieres soltar un objeto transportado, alterna entre armas o lánzalo presionando [BOTÓN IZQUIERDO DEL RATÓN] / (GATILLO DERECHO)
+- Usar el Escáner de Terreno ya no hace girar al jugador y se le agregó la Cápsula de Transporte.
+- Se agregó recarga de pistolero al lanzallamas en tercera persona
+- Corregido el retroceso. Se agregaba antes de que se disparara, por lo que nunca podría ser totalmente preciso.
+- Corregido un caso en el que los clientes no podian cargar el mapa. Resultando en quedarse atascado en la pantalla de carga
+- Detecta trozos y gemas que caen fuera del mundo y los devuelve
+- Plataforma Espacial - No hay más luz azul en la Cápsula de Transporte cuando se lanza una misión
+- Se cambió la pancarta del Oktoberfest
+- Partida guardada: los jugadores ya no pueden obtener PE extra por encima del límite
+- Agregadas Estadísticas de la misión: Total de bebidas consumidas y Total de rondas de bebidas ordenadas
+- El modo de pantalla completa ahora se maneja correctamente y no se reinicia entre sesiones
+- Se agregó un Sol detrás del planeta Hoxxes en la Plataforma Espacial. El modelo planetario también se actualizó ligeramente
+- Los clientes ahora pueden abrir el mapa de misiones mientras están en un juego hospedado
+
 "
 	Update_18_Header = "ACTUALIZACIÓN 18: OFERTAS DE EMPLEO - 11.10.2018"
 	Update_19_Header = "ACTUALIZACIÓN 19: ¡ARMAS! ¡MUCHAS ARMAS!"
@@ -6416,14 +6446,14 @@ Namespace ST_GearUpgrades (33 keys)
 	T_RoFA = "Mecanismo de alimentación superalimentado"
 	D_SpreadPerShot = "Dulce, dulce optimización. Llamamos a algunos amigos y logramos mejorar significativamente la estabilidad de esta arma."
 	D_DamageA = "La buena gente en R&D ha estado ocupada. El daño total de tu arma aumenta."
-	D_ClipSizeA = "Lo bueno de los clips, cargadores, tambores de munición, tanques de combustible... siempre se pueden obtener variantes más grandes."
+	D_ClipSizeA = "The good thing about clips, magazines, ammo drums, fuel tanks ...you can always get bigger variants."
 	T_ArmorDamageShotgun = "Perdigones Cubiertos de Tungsteno"
 	D_RoFA = "Hemos pirateado tu pistola. Dispara más rápido. No preguntes. Solo disfrútalo. Tampoco deberías decírselo a la Dirección, por favor."
 	D_ProjectileSpeed = "Actualizamos los mecanismos de expulsión de su arma, por lo que los proyectiles ahora se disparan a una velocidad mucho mayor. "
 	D_ArmorDamage = "Estamos orgullosos de este. Destrucción de armadura. Rompe esa placa de alto impacto de esos grandes bicho como mantequilla. ¿Qué podría ser mejor?"
 	D_ExtraAmmo = "Has tenido que eliminar algo de almacenamiento de bocadillos, ¡pero tu capacidad total de munición ha aumentado!"
 
-Namespace StatValues (51 keys)
+Namespace StatValues (52 keys)
 	AccuracyWhileMoving = "Precisión al Moverse"
 	RadialDamage = "Daño de Área"
 	ArmorDamageMultiplier = "Bonus de Rotura de Armadura"
@@ -6441,7 +6471,6 @@ Namespace StatValues (51 keys)
 	DirtMining = "Extracción de tierra"
 	Duration = "Duración"
 	FearFactor = "Factor de Miedo"
-	FlameDuration = "Duración de la llama"
 	FlareDuration = "Duración de la bengala"
 	FocusedShotFearFactor = "% Miedo de Disparo Enfocado"
 	FocusSpeed = "Velocidad de Enfoque"
@@ -6450,6 +6479,7 @@ Namespace StatValues (51 keys)
 	Health = "Salud"
 	AccuracyMultiplier = "Precisión Aumentada"
 	Stability = "Mayor Estabilidad"
+	MagazineSize = "Tamaño del Cargador"
 	MaxAmmo = "Munición máx."
 	MaxFlares = "Bengalas máx."
 	MaxFuel = "Combustible máx."
@@ -6470,8 +6500,9 @@ Namespace StatValues (51 keys)
 	SentryAmmoCapacity = "Munición Centinela"
 	Shield = "Escudo"
 	MovmentPenalty = "Fuerza de ralentización"
-	StaggerChance = "Oportunidad de Aturdir"
-	StaggerDuration = "Duración de Aturdimiento"
+	FlameDuration = "Duración de la llama pegajosa"
+	StaggerChance = "Posibilidad de Aturdir"
+	StaggerDuration = "Duración de aturdimiento"
 	UseDuration = "Duración de uso"
 	Weakening = "Fuerza debilitante"
 	WeakpointDamage = "Bonus de Daño por Punto Débil"
@@ -6479,11 +6510,14 @@ Namespace StatValues (51 keys)
 Namespace Techincal (1 keys)
 	ClosedAlpha = "Alfa cerrada"
 
-Namespace UI (59 keys)
+Namespace UI (65 keys)
 	Minigun_Name = "Minigun con motor "Tormenta de plomo""
 	SMG_Name = "SMG Voltaico "Stubby""
 	AutoCannon_Name = "Cañón Pesado Automático "Thunderhead""
+	FlareLarge_Desc = "Una bengala en esteroides! Lo suficientemente poderoso como para iluminar incluso las cuevas más oscuras, y de seguro para poner un brillo en el ojo del enano más malhumorado. ¿Qué no se podría amar?"
 	AutoCannon_Desc = "Un arma peculiar pero devastadora. La lenta velocidad del fuego se compensa con un gran daño, entregadas con alegría por las rondas de tungsteno calibre .50 alimentadas por correa. El Thunderhead es un arma sombría para el ejecutor sofisticado, que entrega la muerte tan inexorablemente como el paso del tiempo."
+	FlareMedium_Desc = "Una versión mejorada de la edición estándar de Bengalas de Emergencia DRG. Se ilumina con más brillo y permanece encendido por mucho más tiempo, lo mejor de ambos mundos. Nota: DRG no se hace responsable de los daños causados por la furia de la fauna local expuesta a luces desconocidas durante mucho tiempo."
+	FlareBasic_Desc = "Una bengala de uso estándar, nada especial. Tómalo, túercelo, lánzalo, ¡es tan simple como eso! Clasificado como el número 1 entre las selecciones de los empleados como Equipo Esencial por 7 años consecutivos."
 	Anomalies = "Anomalías"
 	Armor = "Armadura"
 	WeaponLicense_Desc = "Como conglomerado minero interplanetario, DRG cree que nuestros empleados deben tener acceso a una amplia gama de las mejores herramientas para llevar a cabo las tareas que se les han asignado. A través de su arduo trabajo y sus diligentes esfuerzos, usted ha sido considerado un posible candidato para una actualización de su licencia de armas. 
@@ -6492,8 +6526,9 @@ Completando este breve curso de formación se comprobará esto con seguridad y s
 	AssaultRifle = "Fusil de asalto"
 	BurstGun_Name = "Pistola de Disparo Rápido BRT7"
 	Back = "Atrás"
+	FlareBasic_Name = "Bengala básica"
 	LineCutter_Name = "Corta Brechas"
-	ChargeBlaster_Desc = "Bullets are so last year. Why not incinerate your enemies from the inside out instead with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D)"
+	ChargeBlaster_Desc = "Las balas son tan antiguas. ¿Por qué no incinerar a tus enemigos desde adentro hacia afuera con un arma que funciona con antimateria, altamente experimental, y que dispara flechas de plasma de gran potencia? ¿Qué es lo peor que podría pasar? (Si te enteras, por favor repórtalo a R&D)"
 	CaveComplexity = "Complejidad de la cueva"
 	Close = "Cerrar"
 	Complexity = "Complejidad"
@@ -6504,9 +6539,11 @@ Completando este breve curso de formación se comprobará esto con seguridad y s
 	HazardLevel = "Nivel de peligrosidad"
 	HeavyWeapon = "Arma pesada"
 	HighExplosive = "Explosivos potentes"
+	FlareLarge_Name = "Bengala de Alta Intensidad"
 	Length = "Longitud"
 	M1000_Name = "M1000 Clásico"
 	CryoCannon_Desc = "Los genios locos han intentado perfeccionar este implemento durante mucho tiempo, ¡pero nuestros muchachos en R&D parecen haberlo perfeccionado! Prácticamente portátil (Al menos para un enano), hace exactamente lo que piensas: es un rayo congelador. Enséñaselos."
+	FlareMedium_Name = "Bengala de Intensidad Media"
 	Mission = "Misión"
 	MissionLength = "Duración de la misión"
 	BurstGun_Desc = "Más preciso que un SMG, con el poder de detención de una pequeña escopeta, el BRT (o "Burt", como a veces se llama) es muy apreciado entre los coleccionistas y conocedores por igual. "
@@ -6527,7 +6564,7 @@ Completando este breve curso de formación se comprobará esto con seguridad y s
 	Spacerig = "Plataforma espacial"
 	SMG = "Subfusil ametralladora"
 	SupportTool = "Herramienta de apoyo"
-	LineCutter_Desc = "El Corta Brechas libera ráfagas direccionales de plasma cargado de sonido lo suficientemente potente como para lidiar con la mayoría de los extraterrestres que se interponen en tu camino. Originalmente una herramienta minera, ahora ha sido ajustada con una frecuencia para agrietar la carne y los huesos en lugar de los depósitos de sedimentos para los que fue diseñada, ¡a menudo con resultados espectaculares!"
+	LineCutter_Desc = "The Breach Cutter releases directional blasts of sonically-charged plasma powerful enough to deal with any alien in your path. Originally a mining tool, it's now been frequency-tuned to crack open flesh and bone rather than the sediment deposits it was designed for - often with quite spectacular results!"
 	M1000_Desc = "El diseño original del rifle de precisión de modelo M1000, distribuido por DRG data de cientos de años, prácticamente sin cambios. Alto daño, tasa de fuego respetable... y el "Ping". Un buen ejemplo de "si no está roto, no lo arregles"."
 	Throwable = "Desechable"
 	Warnings = "Advertencias"
