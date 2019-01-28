@@ -1,7 +1,7 @@
-23 namespaces
-2942 values
+20 namespaces
+2944 values
 
-Namespace Global (3673 keys)
+Namespace Global (3677 keys)
 	2559D78C40005E5221F26093CB976283 = " Sesbírejte {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Upadl jsem!"
 	31D60A1449082F9AB6DC15844F3810F6 = " POŽADOVANÉ"
@@ -382,6 +382,7 @@ TERMINÁL"
 	44A9485743DCAA32182B3AA9D8F68179 = "Modrý Krystal"
 	9DB339DA4EF3DB520AC831B94049DC86 = "Modrý Krystal"
 	E6AA352F49A9ABDFE75EEE9E699AB88F = "Modrý Krystal"
+	3BEDFA604A0B9EAC6119C1B020A02ECB = "Bonus damage against Mactera aliens"
 	08ABC5934937DB5304D75AA94448252C = "Boo, podvodník!"
 	023F6F644D05A18A96FC9085B6E72E4F = "Boolo Cap"
 	901244004B556F636D389C9D91BB21F4 = "Boolo Cap"
@@ -1036,6 +1037,7 @@ Když získáš 4 Dash Marky tak se tvůj herní rank zvýší."
 	9A854D4C4B871627F8643DA203783824 = "Zavřít Hru"
 	14E9CFFA456B38B15AAD3C812FE0BA07 = "Výstup na plochu"
 	AA09D158453C1D6160A530B89F427E90 = "Výstup na plochu"
+	8FAF78B040163FAD823EA2B0310AE884 = "Expanded Fuel Tanks"
 	15F3D9A3470B0C1CC3F480A1CF92EFBF = "Rozšíření kapacity hořlavého paliva"
 	49F9980B4A0F4348E53800B723DE72E8 = "Odborník na těžení"
 	8DAAA1AD439C5BDFBCAF559799F1B719 = "Expertní manipulace s kýblem! Nyní vysypáváš cennosti do MULE a Výsadkového Modulu o {value}% rychleji!"
@@ -1641,6 +1643,7 @@ USTUPTE!"
 	45C0084A4707AECDDE0E39AF949E3A43 = "Mise začíná ihned"
 	0645A9594F688F770079D989D1E464E7 = "Tlumiče Dopadu"
 	21F5887C432B0BA342DF618913B4D4CC = "Nelze vidět!"
+	F551621B4FD4EF4FA0939DBFE98951CB = "Improved Alignment"
 	27319746485E0E3523C4448ACEF28101 = "Vylepšené pohonné hmoty"
 	8694899D45AB5C509D7CF8A25CEFBD93 = "Improves Bosco's capabilities to mine minerals, dirt, or any kind of terrain"
 	CC6FF564484E9BD89B405B9CE08DA411 = "Na počest motorové hlavě."
@@ -2031,6 +2034,7 @@ PROGRAM"
 	FB366B194EDBF10284140D81FD3FBCC0 = "Zamoření Makterami"
 	8A79295A43386BA5A8106BB9125BB620 = "Zplozenec Maktera"
 	5ADEE3184749131394CC1DBFE8E35AC1 = "Zplozenec Maktera!"
+	6D3AB8A04DC17BDB2E2D74959CB0B25E = "Mactera Toxin-Coating"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	E0E051F74E00F5C9A4CC2680847DF607 = "Červ"
 	4F3B80154E7AE0D29C23CABCD30DB300 = "Červ!"
@@ -2158,7 +2162,7 @@ PROGRAM"
 	A16DABD64A7B24C75F47F99D995DEB8B = "Morkite nalezen!"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Kvóta pro Morkite splněna! Tohle bylo prvotřídní dolování, týme! Únikové tlačítko na M.U.L.E je aktivováno."
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite!"
-	79C599094EB6D6E6E02200AFC58E0859 = "Většina nepřátel má slabá místa kde kulky dělají více škody a někteří nepřátelé mají vnější kostru kde tvoje kulky nedělají žádné škody. "
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points that are extra vulnerable to your weapons. Beware, however...some have armored exoskeletons that take NO damage from your weapons."
 	D4E386474FE73B00C05BE59853B5263B = "Knír"
 	5553884E4B6E6F00ADC8F985F6F4219A = "Hněte sebou, chlapi! Jdeme na planetu!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "Pohyb!"
@@ -3774,8 +3778,6 @@ Namespace [C224757A4A89B00671BAE2B133BCF435] (1 keys)
 Namespace Audio (1 keys)
 	Volume_SFX = "SFX"
 
-Namespace AudioSettings (0 keys)
-
 Namespace Gear (4 keys)
 	Cooldown = "Cooldown"
 	NotAvailable_Short = "N/A"
@@ -3784,10 +3786,6 @@ Namespace Gear (4 keys)
 
 Namespace Inventory (1 keys)
 	Full = "Plný"
-
-Namespace MaterialExpression (2 keys)
-	Color = "Barva"
-	Parameters = "Parametry"
 
 Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "Cíle Splněny. Výsadkový modul teď může být přivolán na M.U.L.E!"
@@ -4756,8 +4754,6 @@ Namespace UI (27 keys)
 	Close_Controller = "[CloseMenu] Zavřít"
 	No_Controller = "[CloseMenu] Ne"
 	Yes_Controller = "[OkMenu] Ano"
-
-Namespace UMG (0 keys)
 
 Namespace Units (3 keys)
 	Meters_Unit = "m"

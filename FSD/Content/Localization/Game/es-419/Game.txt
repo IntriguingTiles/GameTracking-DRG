@@ -1,7 +1,7 @@
-23 namespaces
-3113 values
+20 namespaces
+3105 values
 
-Namespace Global (3650 keys)
+Namespace Global (3654 keys)
 	2559D78C40005E5221F26093CB976283 = " Recoger {Collected}/{Required}{Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " ¡Me caí!"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESARIO"
@@ -379,6 +379,7 @@ INFORME"
 	9DB339DA4EF3DB520AC831B94049DC86 = "Cristal azul"
 	E6AA352F49A9ABDFE75EEE9E699AB88F = "Cristal azul"
 	36467CDC4EAA77B59E01BB864C9548A3 = "Daño extra contra Glífidos"
+	3BEDFA604A0B9EAC6119C1B020A02ECB = "Bonus damage against Mactera aliens"
 	08ABC5934937DB5304D75AA94448252C = "¡Boo, tramposo!"
 	023F6F644D05A18A96FC9085B6E72E4F = "Boolo Cap"
 	901244004B556F636D389C9D91BB21F4 = "Boolo Cap"
@@ -1038,6 +1039,7 @@ Cuando haya acumulado 4 marcas de tablero tu rango de jugador aumenta."
 	9A854D4C4B871627F8643DA203783824 = "Sal del juego"
 	14E9CFFA456B38B15AAD3C812FE0BA07 = "Salir al escritorio"
 	AA09D158453C1D6160A530B89F427E90 = "Salir al Escritorio"
+	8FAF78B040163FAD823EA2B0310AE884 = "Expanded Fuel Tanks"
 	15F3D9A3470B0C1CC3F480A1CF92EFBF = "Amplía la capacidad de combustible inflamable"
 	49F9980B4A0F4348E53800B723DE72E8 = "Minero Experto"
 	8DAAA1AD439C5BDFBCAF559799F1B719 = "Expert bucket handling! You now deposit valuables into the MULE and Drop Pod {value}% faster!"
@@ -1630,6 +1632,7 @@ DE TIRO"
 	0645A9594F688F770079D989D1E464E7 = "Amortiguadores De Impacto"
 	1D2DAB3B4A255077E8F5BEA6D62DC992 = "Trabajo impecable. Estás haciendo un buen progreso. Los enanos menores no habrían llegado tan lejos."
 	5940DD09483FB8A41478868CFCB8D073 = "Bomba de 2da etapa mejorada"
+	F551621B4FD4EF4FA0939DBFE98951CB = "Improved Alignment"
 	27319746485E0E3523C4448ACEF28101 = "Propulsor mejorado"
 	2777BA8B4255111701CDCF84E5ED629F = "Mejorada la rotura de armaduras"
 	8694899D45AB5C509D7CF8A25CEFBD93 = "Improves Bosco's capabilities to mine minerals, dirt, or any kind of terrain"
@@ -2013,6 +2016,7 @@ TUTORIAL"
 	FB366B194EDBF10284140D81FD3FBCC0 = "Mactera Plague"
 	8A79295A43386BA5A8106BB9125BB620 = "Engendro Mactera"
 	5ADEE3184749131394CC1DBFE8E35AC1 = "Engendro Mactera!"
+	6D3AB8A04DC17BDB2E2D74959CB0B25E = "Mactera Toxin-Coating"
 	569B58A84052F88185EBC9B75908FEC8 = "Macteras, una pila de ellos, dirigiéndose hacia ustedes.! Prepárense!"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	E0E051F74E00F5C9A4CC2680847DF607 = "Gusano"
@@ -2132,7 +2136,7 @@ TUTORIAL"
 	A16DABD64A7B24C75F47F99D995DEB8B = "¡Morkite encontrado!"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Quota de Morkite completada! Eso era minería de primera clase, equipo! Botón de escape en la M.U.L.E está activado."
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite!"
-	79C599094EB6D6E6E02200AFC58E0859 = "La mayoría de los enemigos tienen puntos débiles donde tus balas hacen más daño y algunos enemigos tienen exoesqueletos, donde tus balas no hacen daño. "
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points that are extra vulnerable to your weapons. Beware, however...some have armored exoskeletons that take NO damage from your weapons."
 	D4E386474FE73B00C05BE59853B5263B = "Bigote"
 	5553884E4B6E6F00ADC8F985F6F4219A = "¡Prepárense, gente! ¡Nos acercamos al planeta!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "¡Muévanse!"
@@ -3767,8 +3771,6 @@ Namespace Audio (3 keys)
 	Volume_Music = "Música"
 	Volume_SFX = "Efectos de sonido"
 
-Namespace AudioSettings (0 keys)
-
 Namespace Gear (7 keys)
 	Cooldown = "Enfriamiento"
 	Heat = "Calor"
@@ -3780,22 +3782,6 @@ Namespace Gear (7 keys)
 
 Namespace Inventory (1 keys)
 	Full = "Lleno"
-
-Namespace MaterialExpression (14 keys)
-	Color = "Color"
-	Constants = "Constantes"
-	Coordinates = "Coordenadas"
-	Custom = "Personalizado"
-	Depth = "Profundidad"
-	Functions = "Funciones"
-	MaterialAttributes = "Atributos del material"
-	Math = "Matemáticas"
-	Parameters = "Parámetros"
-	Particles = "Partículas"
-	Texture = "Textura"
-	Utility = "Utilidad"
-	VectorOps = "VectorOps"
-	Vectors = "Vectores"
 
 Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "Objetivos completados, ¡Ya puedes llamar a la Cápsula de Transporte en la M.U.L.A!"
@@ -4764,8 +4750,6 @@ Namespace UI (27 keys)
 	Close_Controller = "[CloseMenu] Cerrar"
 	No_Controller = "[CloseMenu] No"
 	Yes_Controller = "[OkMenu] Sí"
-
-Namespace UMG (0 keys)
 
 Namespace Units (3 keys)
 	Meters_Unit = "m"

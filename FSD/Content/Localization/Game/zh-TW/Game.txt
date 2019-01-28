@@ -1,7 +1,7 @@
-23 namespaces
-3492 values
+20 namespaces
+3483 values
 
-Namespace Global (4343 keys)
+Namespace Global (4347 keys)
 	2559D78C40005E5221F26093CB976283 = " 採集 {Collected}／{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " 我摔下去了！"
 	31D60A1449082F9AB6DC15844F3810F6 = " 需求"
@@ -486,6 +486,7 @@ Bosco's AI is not ready to handle this kind of weaponry, use the TERRAIN SCANNER
 	44A9485743DCAA32182B3AA9D8F68179 = "深藍水晶"
 	9DB339DA4EF3DB520AC831B94049DC86 = "藍色水晶"
 	E6AA352F49A9ABDFE75EEE9E699AB88F = "藍色水晶"
+	3BEDFA604A0B9EAC6119C1B020A02ECB = "Bonus damage against Mactera aliens"
 	08ABC5934937DB5304D75AA94448252C = "作弊哦，噓！"
 	023F6F644D05A18A96FC9085B6E72E4F = "暴露蘑菇"
 	901244004B556F636D389C9D91BB21F4 = "暴露蘑菇"
@@ -1221,6 +1222,7 @@ Selection"
 	9A854D4C4B871627F8643DA203783824 = "離開遊戲"
 	14E9CFFA456B38B15AAD3C812FE0BA07 = "關閉遊戲"
 	AA09D158453C1D6160A530B89F427E90 = "關閉遊戲"
+	8FAF78B040163FAD823EA2B0310AE884 = "Expanded Fuel Tanks"
 	49F9980B4A0F4348E53800B723DE72E8 = "Expert Miner"
 	8DAAA1AD439C5BDFBCAF559799F1B719 = "儲礦桶駕輕就熟！現在向空降艙以及礦驢存礦速度加快 {value}%！"
 	7B29805243CBBBF28CB75C93F1AC17B8 = "自毀螂蛛壓境！"
@@ -1925,6 +1927,7 @@ Selection"
 	0645A9594F688F770079D989D1E464E7 = "緩衝補償器"
 	1D2DAB3B4A255077E8F5BEA6D62DC992 = "無可挑剔。你正漸入佳境。幾乎沒什麼矮人能辦到如此。"
 	66F0E28D499A2369799491AF83FEBFC4 = "完全看不見阿！"
+	F551621B4FD4EF4FA0939DBFE98951CB = "Improved Alignment"
 	8694899D45AB5C509D7CF8A25CEFBD93 = "Improves Bosco's capabilities to mine minerals, dirt, or any kind of terrain"
 	CC6FF564484E9BD89B405B9CE08DA411 = "向搖滾天王致敬。"
 	1CB6031C4932BA70E759A1A5E63916A8 = "In recognition of all your hard work, DRG have made you eligible for promotion. Very few dwarves make it this far.
@@ -2355,6 +2358,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	FB366B194EDBF10284140D81FD3FBCC0 = "螂蠅瘟疫"
 	8A79295A43386BA5A8106BB9125BB620 = "刺針螂蠅"
 	5ADEE3184749131394CC1DBFE8E35AC1 = "刺針螂蠅!"
+	6D3AB8A04DC17BDB2E2D74959CB0B25E = "Mactera Toxin-Coating"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	E0E051F74E00F5C9A4CC2680847DF607 = "蛆蟲"
 	4F3B80154E7AE0D29C23CABCD30DB300 = "蛆蟲！"
@@ -2497,7 +2501,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	28A2FF2947395FEF10C2FD91AAA7121B = "墨菱石數量達標！小隊挖得漂亮！礦騾的回航按鈕已啟用。"
 	9E571B65445C928ABD523ABF00EB6DAF = "墨菱石需求量已達標！"
 	313CA2134D73053B2711D3A5510C1E94 = "墨菱石！"
-	79C599094EB6D6E6E02200AFC58E0859 = "大部分敵人有弱點，子彈打中傷害更大；部分敵人有防彈的外骨骼。 "
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points that are extra vulnerable to your weapons. Beware, however...some have armored exoskeletons that take NO damage from your weapons."
 	9B1654C6431D8A1F5EAA83991FF5C3A5 = "同軸機槍設置好了！"
 	E42F2F63428883B7A6C15AACE2FC3388 = "同軸機槍就位！ "
 	84DEB86F4720C733085E61992AB19213 = "同軸機槍準備就緒！"
@@ -4476,8 +4480,6 @@ Namespace Audio (3 keys)
 	Volume_Music = "音樂"
 	Volume_SFX = "音效"
 
-Namespace AudioSettings (0 keys)
-
 Namespace Gear (7 keys)
 	Cooldown = "冷卻"
 	Heat = "過熱"
@@ -4489,22 +4491,6 @@ Namespace Gear (7 keys)
 
 Namespace Inventory (1 keys)
 	Full = "滿載"
-
-Namespace MaterialExpression (14 keys)
-	Color = "顏色"
-	Constants = "常數"
-	Coordinates = "坐標"
-	Custom = "自訂"
-	Depth = "深度"
-	Functions = "功能"
-	MaterialAttributes = "素料屬性"
-	Math = "數式"
-	Parameters = "參數"
-	Particles = "微塵"
-	Texture = "材質"
-	Utility = "函數"
-	VectorOps = "向量選項"
-	Vectors = "向量"
 
 Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "完成目標！利用礦騾呼叫空降艙！"
@@ -5589,9 +5575,6 @@ Namespace UI (40 keys)
 	Continue_Controller = "[CloseMenu] 繼續"
 	No_Controller = "[CloseMenu] 否"
 	Yes_Controller = "[OkMenu] 是"
-
-Namespace UMG (1 keys)
-	TextBlockDefaultValue = "文本方塊"
 
 Namespace Units (3 keys)
 	Meters_Unit = "公尺"

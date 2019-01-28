@@ -1,7 +1,7 @@
-23 namespaces
-2620 values
+20 namespaces
+2610 values
 
-Namespace Global (3064 keys)
+Namespace Global (3068 keys)
 	2559D78C40005E5221F26093CB976283 = " Indsamle {Collected}/{Required} {Title}"
 	31D60A1449082F9AB6DC15844F3810F6 = "KRÆVES"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Lyd Designer/ Musik Producer"
@@ -285,6 +285,7 @@ TERMINAL"
 	44A9485743DCAA32182B3AA9D8F68179 = "Blå krystal"
 	9DB339DA4EF3DB520AC831B94049DC86 = "Blå krystal"
 	E6AA352F49A9ABDFE75EEE9E699AB88F = "Blå Krystal"
+	3BEDFA604A0B9EAC6119C1B020A02ECB = "Bonus damage against Mactera aliens"
 	08ABC5934937DB5304D75AA94448252C = "Bøh, din snyder!"
 	023F6F644D05A18A96FC9085B6E72E4F = "Boolohat"
 	901244004B556F636D389C9D91BB21F4 = "Boolo Cap"
@@ -844,6 +845,7 @@ Når du har opnået 4 point, stiger du en en rank på din spiller."
 	9A854D4C4B871627F8643DA203783824 = "Afslut Spil"
 	14E9CFFA456B38B15AAD3C812FE0BA07 = "Afslut til skrivebordet"
 	AA09D158453C1D6160A530B89F427E90 = "Afslut til skrivebordet"
+	8FAF78B040163FAD823EA2B0310AE884 = "Expanded Fuel Tanks"
 	49F9980B4A0F4348E53800B723DE72E8 = "Expert Miner"
 	8DAAA1AD439C5BDFBCAF559799F1B719 = "Expert bucket handling! You now deposit valuables into the MULE and Drop Pod {value}% faster!"
 	2760B4D24420248535423580CAF28CB6 = "Eksploderende plante"
@@ -1354,6 +1356,7 @@ TRÆD TIL SIDE!"
 	07E9341B4715E109B5E3A6A4E627F90B = "Hvis du ser en glødende væg eller en mur med særlige vragrester, så grav der! Der kan være skjulte skatte indeni."
 	1422D3AB49B2BE4AEF2B2D9A742574F1 = "Illustrator & UI kunstner"
 	0645A9594F688F770079D989D1E464E7 = "Nedfalds kompensator"
+	F551621B4FD4EF4FA0939DBFE98951CB = "Improved Alignment"
 	8694899D45AB5C509D7CF8A25CEFBD93 = "Improves Bosco's capabilities to mine minerals, dirt, or any kind of terrain"
 	1CB6031C4932BA70E759A1A5E63916A8 = "In recognition of all your hard work, DRG have made you eligible for promotion. Very few dwarves make it this far.
 
@@ -1674,6 +1677,7 @@ TUTORIAL"
 	EA807C684450BB19B921639A3BA5D580 = "MODERATORER"
 	084D891E4FAF8D86DD63F3AE40B33ECB = "MUTATOR:"
 	FB366B194EDBF10284140D81FD3FBCC0 = "Mactera Plague"
+	6D3AB8A04DC17BDB2E2D74959CB0B25E = "Mactera Toxin-Coating"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	E0E051F74E00F5C9A4CC2680847DF607 = "Maddike"
 	4F3B80154E7AE0D29C23CABCD30DB300 = "Maddike!"
@@ -1774,7 +1778,7 @@ TUTORIAL"
 	A16DABD64A7B24C75F47F99D995DEB8B = "Morkite fundet!"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Morkite kvote opnået! Det var førsteklasse minedrift, team! Tilbagekaldeses-knappen på M.U.L.E.'en er aktiveret."
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite!"
-	79C599094EB6D6E6E02200AFC58E0859 = "De fleste fjender har svage punkter hvor dine skud gør mere skade og nogle fjender har exoskeletter, hvor dine skud ikke gør nogen skade. "
+	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points that are extra vulnerable to your weapons. Beware, however...some have armored exoskeletons that take NO damage from your weapons."
 	D4E386474FE73B00C05BE59853B5263B = "Overskæg"
 	5553884E4B6E6F00ADC8F985F6F4219A = "Slap af gutter! Vi ankommer snart til planeten!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "Fart på!"
@@ -3159,8 +3163,6 @@ Namespace Audio (3 keys)
 	Volume_Music = "Musik"
 	Volume_SFX = "Lydeffekter"
 
-Namespace AudioSettings (0 keys)
-
 Namespace Gear (7 keys)
 	Cooldown = "Nedkøling"
 	Heat = "Varme"
@@ -3172,22 +3174,6 @@ Namespace Gear (7 keys)
 
 Namespace Inventory (1 keys)
 	Full = "Fuld"
-
-Namespace MaterialExpression (14 keys)
-	Color = "Farve"
-	Constants = "Konstanter"
-	Coordinates = "Koordinater"
-	Custom = "Brugerdefineret"
-	Depth = "Dybde"
-	Functions = "Funktioner"
-	MaterialAttributes = "Materialeegenskaber"
-	Math = "Matematik"
-	Parameters = "Parametre"
-	Particles = "Partikler"
-	Texture = "Tekstur"
-	Utility = "Brugbarhed"
-	VectorOps = "Vektorfunktioner"
-	Vectors = "Vektor"
 
 Namespace Missions (0 keys)
 
@@ -4250,9 +4236,6 @@ Namespace UI (27 keys)
 	Close_Controller = "[CloseMenu] Luk"
 	No_Controller = "[CloseMenu] Nej"
 	Yes_Controller = "[OkMenu] Ja"
-
-Namespace UMG (1 keys)
-	TextBlockDefaultValue = "Tekst Blok"
 
 Namespace Units (3 keys)
 	Meters_Unit = "m"
