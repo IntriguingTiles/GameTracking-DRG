@@ -1,7 +1,7 @@
 20 namespaces
-3105 values
+3121 values
 
-Namespace Global (3654 keys)
+Namespace Global (3665 keys)
 	2559D78C40005E5221F26093CB976283 = " Recoger {Collected}/{Required}{Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " ¡Me caí!"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESARIO"
@@ -90,7 +90,6 @@ Namespace Global (3654 keys)
 	5C13CED149995033C0909C9F427E3971 = "10Primary Objective Goes Here"
 	F65AF55F427F5CD96EA091B84F30EE59 = "10Secondary Objective Goes Here"
 	1969DC9F4275BAF4A783BF8DB6BB0158 = "12"
-	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
 	A6A17BE34F9EDC3124434C809161A714 = "2 estorninos y un oscuro nido de cuervo hay allí."
 	99CD26B24BF6817DD1A4978034CA179D = "2.000 rondas de uranio empobrecido... ¡oh, sí...!"
@@ -194,6 +193,7 @@ Bosco's AI is not ready to handle this kind of weaponry, use the TERRAIN SCANNER
 	F59C1B7440F770ED71F994AD14E17A76 = "Adds cryogenic liquid to the explosion of the rocket. Cold slows down enemies and can eventually freeze them. The explosion deals almost no damage, but the area of effect increases.
 "
 	2F15FDAB410411F3DD4F8DB0F8EF1F50 = "¿Temes a la oscuridad? No temas, me tienes a mi."
+	9CF20CBD403D59846B0D1F86C6A7222F = "Desfogue Agresivo"
 	AB720B0A418C85C6D5C63C91ACAA718E = "Acceleracion de Apuntado"
 	8789350B4D1E22B62CE45F9EFB77C6AC = "Sensibilidad para Apuntar"
 	B70492484F35CE8C204DC5AD77C95F52 = "No hay hombre que pueda quitarte lo que es tuyo."
@@ -244,6 +244,7 @@ Bosco's AI is not ready to handle this kind of weaponry, use the TERRAIN SCANNER
 	55C7909B4CB7E9D2F862A194905C2B41 = "¿Alguien quiere bailar??"
 	F01FDFDE4CE00B8EBE5DBD90EC065143 = "Any projectile will blow up the Charged Projectile causing a bigger explosion dealing extra damage."
 	418A60D840C5A74217AA0CA79C5C33DA = "¿Alguien necesita munición? ¡Hay un nitra aquí!"
+	01488CFD4170BFD726E71DBE35D3FF52 = "Daño de AoE en rotura de escudo"
 	0733C16D4153DC823A1DC3B01AA4F68B = "Miedo en AdE"
 	3AA3DBE246DB5A512675FFA2E70EEEF2 = "Apoca Bloom"
 	5DA237464B71168C2174C9B82EC4685D = "Apoca Bloom"
@@ -256,6 +257,7 @@ Bosco's AI is not ready to handle this kind of weaponry, use the TERRAIN SCANNER
 	AE111BDC4C03B2F7ED3B39B5F2F63912 = "¿Estás seguro?"
 	E04CCC06428EA98F3706C4BE5568A5B5 = "¿Estás seguro?"
 	17F8FFC44CC94EBC7A5B4EAC51DF9798 = "Daño de área"
+	9D2AF96142938B6FA72BB2A6A9270D57 = "Área de Efecto"
 	DF6204D54CA63BB09F32DBA77506F424 = "Argghh"
 	646C5ACC4A28804AB62A87A064D26A99 = "Armed"
 	9AB27BBF43BAD1423A289BA3148CA5C1 = "Armado"
@@ -572,7 +574,6 @@ Selection"
 	0CA1BCD64DF715E003401EA491942D09 = "Recoger {amount} {resource}"
 	69606828404C54B4230618A0FE348CDF = "Recoger {amount} {resource}"
 	8B822AB84AB570127A9AFDB23F2348E0 = "Recoger {amount} {resource}"
-	E43ADE69478A0CD6F6FA449B94996A98 = "Recoger {amount} {resource}"
 	2C2AD3B542580D19302C62A1C1DB9E0B = "Recoger {amount}/{required}{resource}"
 	6F80AA9449DB3236766ABDB2954B99DC = "Posiciones de combate! ¡El enjambre está aquí!"
 	EB6AB6CC4E948FE640E464BF0528DD6D = "Combine las herramientas a disposición del equipo para atravesar terrenos difíciles. "
@@ -764,6 +765,7 @@ La Administración"
 	CB3C54DA4F2C3004FB4678B795175AF9 = "TALADRADORA"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "ESTATUA DE TALADRADOR"
 	1714E8CA42591ED549A81C91A33BFE16 = "DRoonn Drooann"
+	9D18D26448F24508C9BCFCAE5B647A24 = "Huevo diario "
 	04EB654A440E24A574209CA06C0024F6 = "Daño"
 	0CB3B9E24A8C84A23840C2BF52BEF603 = "Daño"
 	0E8980524B030DC3BE2A8CB569D18156 = "Daño"
@@ -812,6 +814,7 @@ La Administración"
 	17DFCFE2486582C5680A22A580E5AAC7 = "Panal Deeptora "
 	2974756F40C48748E76939B4171D036E = "Enjambre de Deeptora"
 	C55C17E9436F1DE5466438950931C189 = "Controles predeterminados"
+	44EB8CCD45F0541602747D97DA7BE5DF = "Delay"
 	7DD07AE8403119755FF99F98DF00E119 = "Delay"
 	99DE4F374F07C18A3F1703807B3A46D2 = "Entregado por"
 	18DE5B0A44CE63349F6EE0A23D2E2794 = "Demolicionista reportándose para el deber...!"
@@ -1062,6 +1065,7 @@ Cuando haya acumulado 4 marcas de tablero tu rango de jugador aumenta."
 	24F06E494A8F50F6E35BB6B9E5D35CD3 = "Vida Extra"
 	5073E9CA427557824A8589B250A6DAD9 = "Extra Revive"
 	BEBD5440451ACC2731CC1FBDEFD3AF0B = "Extra Rocket"
+	005A9FD64CA99276DA70E6BD1CDC5EA2 = "Tanque de combustible extra"
 	55A2B3B34A5CBFF55F21B2BFE1AF75A9 = "Extraer"
 	4F2765924295F9E459D7D4BC9514B43E = "Extracción"
 	BBEED5E543ABACB0517FC6AE86BC39C0 = "Extracción comenzando. Buen trabajo."
@@ -1442,6 +1446,7 @@ DE TIRO"
 	03D47B79403A8F8AF9E95CBEC62090C2 = "Alto"
 	3D8512F244889533244578B03F883B63 = "Alto"
 	CF7327794B0E258F0E2216AE8286456A = "Alto"
+	9D0AD0414B329E66ABDF4B8C9704FF3B = "Explosión de alta frecuencia"
 	1E3ACC0049C2E6F222DECBB2B0CF5FD2 = "Eyector de alta presión"
 	4AB5EC6542553D2C2391FDB784A799C6 = "Energía de Alta Velocidad"
 	DA5046C44AC47E614D524996C1173AA0 = "Hightened Senses"
@@ -1649,7 +1654,7 @@ Al Promover un personaje RESTABLECERÁ SU NIVEL A 1. No obstante, mantendrás to
 	90AA845242CCE865EE7BDDBF808B9C86 = "Aumenta la cantidad total de bengalas "
 	F9FABC2C41F96ADFC27AEEB9598C7413 = "Aumenta la cantidad total de bengalas "
 	0CFEAE20454AB5604AE6E78E874F090E = "Mayor precisión"
-	01E0966E42AD62591F083BB3DC9307E6 = "Increased chance to stun the target on a hit"
+	01E0966E42AD62591F083BB3DC9307E6 = "Incrementa la posibilidad de aturdir al objetivo en un golpe"
 	40CC34B044F5A8C3086032B657F81575 = "Cadencia de Fuego aumentada y Estabilización del Giro más rápida"
 	6F16DBFD45BB49FF0CD9AFB2416AD8C1 = "Increased splash damage"
 	98194E414043789C3D650BBFD18EBAEF = "Aumenta la cantidad de proyectiles de bengalas que puedes llevar"
@@ -1901,6 +1906,7 @@ TUTORIAL"
 	783D1CBB46145BCC67B24CAE31EBB53E = "Melena larga"
 	DCC74F6F4910817C50724DA07C22BEAC = "Capacidad de comunicación de largo alcance y pantalla táctil táctica. Muy cibernético."
 	EA979F304EE6D756FDF2BC9E1292D061 = "Capacidad de comunicación de largo alcance y pantalla táctil táctica. Muy cibernético."
+	9D0288CF499D42C4FE9B98AB2DE6C134 = "Cable más largo"
 	0674DC3C4915133BB580D58D00A2B7B0 = "Línea de plasma más larga"
 	B73A2BF24D256D2500DA5AA6A5B4A6B6 = "Longer plasma line"
 	22B8B49D4665B69EEFDD3DBCC2652F20 = "¡Mira a ese novato, haciendo trampa como un... un... novato!"
@@ -1920,7 +1926,6 @@ TUTORIAL"
 	EF01094A4C724929456D668A7F41DD77 = "Escarabajo"
 	8CC378B1434DDB77A263478980DCAFFC = "¡Escarabajo aquí! "
 	77B1E4544FAB8FEC3B388FA6A2C239F1 = "Larvas de botín asesinados"
-	765B21E041E57274B5044DB3865481AF = "Lose heat faster when drilling enemies"
 	14DF284D42A6A089E82FB9AAEBF771DD = "Equipamiento Perdido"
 	38A352D84AF190E753529A81D7FD5211 = "Conexión con el servidor perdida"
 	597D27244B3BAB229FC8208E850EFA38 = "¡Alto y claro!"
@@ -2138,6 +2143,7 @@ TUTORIAL"
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite!"
 	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points that are extra vulnerable to your weapons. Beware, however...some have armored exoskeletons that take NO damage from your weapons."
 	D4E386474FE73B00C05BE59853B5263B = "Bigote"
+	9CF81717447DBF29BEE00D9DA3090828 = "Te mueves más rápido por un corto tiempo después de matar a un enemigo"
 	5553884E4B6E6F00ADC8F985F6F4219A = "¡Prepárense, gente! ¡Nos acercamos al planeta!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "¡Muévanse!"
 	30D2A4894E6CF7E90329B7ACCA48A50A = "¡Muévete! ¡Va a explotar!"
@@ -2566,6 +2572,7 @@ Ganarás una MEDALLA DE HONOR y también MANTENDRÁS todo el progreso en armas, 
 	7A2127474021B39017E373ADEA6C6C6E = "Presiona [PushToTalk] para Hablar"
 	D86D2FCB42E381EC8E85D092B639CF14 = "Presiona para hablar"
 	FB453B1944F3A303D7CE728B215D8699 = "Presiona para hablar"
+	BA35A6794521F32A15B9849DAF3E96D8 = "Q'ronar Shellback"
 	4F009E9E484DAF24B819B69C82444A9A = "QA & responsable de comunidad"
 	4C37D3F0483CD2623E7B27B036BABE09 = "UNIRSE \ 
 RÁPIDO"
@@ -3273,6 +3280,7 @@ Como se dijo anteriormente, TODAS las claves del Alfa Cerrado serán revocadas a
 	7D3ECC6941A5B9B36579C3B532AFE83F = "Es hora de una fría, una vez hecho esto."
 	3A4704F1477EBE6619327BA19F734466 = "Es hora de una ronda de control de plagas, equipo. Tenemos Dreadnought Cocoons en nuestros escáneres, y deben erradicarlos antes de que se conviertan en algo aún peor. Mi consejo: trae mucha munición, pueden dar un golpe."
 	92CA3E4B4E3514AB473B06B16336AA0A = "¡Tiempo para la acción!"
+	A8D8917442A42E2FF92940B306C5BED3 = "Time that must elapse before an effect or function is triggered"
 	F21187F54C31DC48B3231193CECD4018 = "¡Hora de minar!"
 	DEA5063F4DC950931F410980D9FE7B3B = "Es hora de recoger un poco de oro!"
 	9F8B95494EDCF9BB83E751B9D761881D = "¡Hora de depositar!"
@@ -3533,6 +3541,7 @@ Puedes cambiar los ajustes en cualquier momento, en el menú de Opciones."
 	A6DC4FDD42DF64AF4E18ADBE9FD21B04 = "Bueno, ¡hola! ¡Pensé que estabas muerto!"
 	BD94BDD545A4585DED8B8EACD9A82AC2 = "Bueno, algunas veces ganas, algunas veces mueres!"
 	D72361B848B681335B468FA103723978 = "Bueno, algunas veces ganas y algunas veces mueres!"
+	9D12841440A9422C1F99EE90B1428F23 = "Bueno, a veces ganas, a veces terminas en la enfermería!"
 	11DA0A614346C7826E4CBBB35EE3CFE9 = "Casi lamentamos enviar empleados aquí abajo, pero las recompensas son demasiado buenas para ignorarlas. Por eso, ¡te damos la bienvenida a la Ciénaga Hongosa! Una zona verdaderamente horrible, en la que no encontraras más que limo, moho, bichos que pican, hongos, barro muy apestoso y líquenes corrosivos. "
 	278D71A84C55A70D99457BA0B3FF78AD = "¡A qué están esperando! ¡Vamos!"
 	6171A26D4DFEFDBFA308A0BC1B543B44 = "¡Qué es esto!"
@@ -3651,6 +3660,7 @@ Esto es parecido a una misión fallida."
 	CCE5F04F40C1FC01D53040B300704262 = "¡Te has unido! ¡Haz clic para reclamar tus 5.000 créditos!"
 	1D2930994DDAC364B264C3A2CBB45DBD = "¡Ustedes... ustedes chicos son increíbles!"
 	32CA7EB849F7B28CEFCCECB273563BA8 = "¡Ustedes... ustedes chicos son increíbles!"
+	765B21E041E57274B5044DB3865481AF = "Your drills cool when drilling enemies!"
 	4C5DCE4C4254BBEBBA554883E64C2A3B = "¡Tu personalidad amistosa es, literalmente, un escudo! ¡Recibes un 50 % menos de daño al recibir fuego amigo!"
 	C8DEB9DB423364FDA87B2A9D2D292323 = "Tu inventario está lleno"
 	8C8EB983438517248BE7F2A4D6C445FA = "Tu misión está lista, la cápsula está preparada. ¡Súbanse a la capsula de transporte!"
@@ -3697,6 +3707,7 @@ Esto es parecido a una misión fallida."
 	AF30D96944D109CA061825B083DE6AFC = "[SelectCharacter] Switch to Character"
 	116503804DD7B2053932DF8A013E92FE = "[SelectCharacter] Cambiar la clase"
 	84A642794D675810407F91B2A380BD40 = "[UPGRADE NAME]"
+	028DBE394BF32C605502E5AC39F53BBC = "una lista de todos los encuentros"
 	F8EAE16E4F7BE7C1EC17B0ABF5ABB6A3 = "asd"
 	8B2149564AD35C1FF62E0CACBB0A0D3C = "gfdgfdgfd"
 	C90938654584A3EB0B1E6791A21050FD = "gfdgfdgfd"
@@ -3787,7 +3798,8 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "Objetivos completados, ¡Ya puedes llamar a la Cápsula de Transporte en la M.U.L.A!"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "Objetivos Completados, la Cápsula de Minería ya puede ser llamada en la M.U.L.A"
 
-Namespace PatchNotes (16 keys)
+Namespace PatchNotes (19 keys)
+	Update_21_ShortTitle = "DIE HARDER!"
 	Update_14_ShortTitle = "FEATURE CREEP"
 	Update_20 = "Happy Holidays Miners! 
 
@@ -3879,6 +3891,184 @@ FIXES AND IMPROVEMENTS
 - Fix Air and Lava geyser bubbling sound staying around after getting destroyed
 - Kick animation added to third person characters. Barrel kicking has never been more realistic!
 - New Mission Control speaks for weapon and promotion assignments
+"
+	Update_21 = "Hello Miners!
+With this update, we are introducing more insane challenges - a new LETHAL difficulty level for you to master, multiple new enemies, Mastery and Skins for weapons, and a gazillion other fixes and improvements.
+
+Lunch Break is over! It’s time to go to work!
+
+- The Ghost Ship Team 
+
+--- PATCH NOTES ---
+
+
+NEW ENEMIES
+-----------------------------------
+BET-C - THE BATTLE M.U.L.E.
+Deep Rock Galactic didn’t invest much in the safety system of their BET-C series of combat M.U.L.E.’s. It only takes a few Xynarch Charge-Sucker parasites licking the robot’s circuits to turn them against the dwarves. In that situation, BET-C’s fast-tracking auto-turret and grenade launcher could become a major threat for any expedition. If you find an infected model, aim for the attached organisms and, once they are eradicated, carefully hammer BET-C until it turns into a trustworthy companion for the rest of the mission.
+
+Q’RONAR SHELLBACK 
+The Q’ronar Shellback is a deadly creature that you might bump into in the Radioactive and Salty regions of Hoxxes. Their tough shells and fast movement speed make them quite hard to kill - try to dodge its rolling attack and kill the Shellback when it stops to spray poison venom at you. 
+
+NAEDOCYTE SHOCKER
+The Naedocyte Shocker is a strange alien flying jellyfish-like creature. The often appear in large swarms and is preferably dealt with before they get close enough to zap you with electrical shocks. So far they’ve been spotted in the regions of Dense Biozone and the Glacial Strata.  
+
+
+NEW DIFFICULTY LEVEL
+-----------------------------------
+By popular demand, we’ve added a LETHAL new difficulty setting only for the most masochistic and badass dwarves out there! We hope you have “fun”... :D
+
+
+OVERALL DIFFICULTY REVAMP
+-----------------------------------
+GENERAL SPAWN LOGIC: The general logic behind how we handle spawns has gotten a big overhaul - balancing waves is now a much more exact and controllable thing for us. This is actually the biggest of all changes we’ve done to the difficulty system, but also the hardest to explain in detail - maybe we’ll do a blog post on this in the future :-)
+
+MISSION SPECIFIC ENEMY TYPES: The Mission Generator now also pre-selects the specific mix of enemies players will encounter in a given mission. Instead of randomly selecting from every enemy type available in the game, players will now face themed swarms of enemies. This change won’t be particularly visible right now, but will serve to improve the overall feel and flow of the enemy swarms as we add more enemy types to the game.
+
+The goal here is to make each mission feel a lot more unique, as well as making it more attractive for players to pursue a more strategic approach - if you have a rough idea of what awful things you might face down in the depths, you stand a better chance of going in as prepared as you can be.
+
+TIME: As a rule, lowering the time between spawning enemy waves means more enemies in general, which results in an overall higher difficulty. Knowing this, we’ve made a few changes to how we time waves:
+- Time elapsed before the first wave appears is based on Difficulty - so higher Difficulty means the first wave arrives faster.
+- Subsequent waves will also spawn faster depending on difficulty level.
+
+SPEED: Attack speed, projectile speed, and movement speed of enemies are increased for the highest difficulties.
+
+ENVIRONMENTAL HAZARDS: You now take more damage from environmental dangers on higher difficulties.
+
+YOU GET THE WAVES YOU DESERVE: Multiple waves are now allowed to spawn at the same time and do not cancel each other out.
+- Example 1: Digging two eggs out in Egg hunt will generate two small waves instead of only one. 
+- Example 2: You can not cancel a wave in progress by calling in the drop pod
+
+IMPORTANT BUGFIX! It turned out Difficulty scaling from 3 to 4 players was not working before - meaning that a 4 player game was as easy as a 3 player game. That is fixed now - so you should feel an overall increase in difficulty for 4 player games on all difficulties. We’ll, of course continue to monitor and tweak as needed.
+
+
+UI IMPROVEMENTS
+-----------------------------------
+NEW ENEMY HEALTH BAR
+We’ve completely revamped the way we put health bars on enemies. Now it will show when the player is aiming at an enemy and it will do it on top of that enemy (instead of in the center of the screen). Additionally, it displays the damage applied to the enemy with every shot.
+
+NEW MISSION READOUT BAR
+The Mission Readout Bar visible on the Space Rig has been updated with more information about the mission in progress, as well as gotten a graphical overhaul.
+
+
+NEW BIOME CONTENT
+-----------------------------------
+In The Salt Pits Region, you’ll now start seeing fragile Salt Platforms - stand on them, but be careful. They’re not tested for dwarf girth. 
+Meanwhile in the Sandblasted Corridors, a Spiky Plant has started sprouting. And yes, it is both spiky and deadly. 
+
+
+PREVENT LATE JOIN DUPLICATION
+-----------------------------------
+You want a diverse team? You don't like teams with three Engineers? The Host now has the option to select “PREVENT LATE JOIN DUPLICATION” from the Escape menu and Options menu. Selecting this option means players LATE JOINING your game will need to select a character class not currently in play. 
+
+Please note: This option does NOT restrict character selection on the Space Rig - we leave that up to you guys to figure out among yourselves. 
+
+
+MORE EQUIPMENT MODIFICATIONS
+-----------------------------------
+The new Modification System has now been implemented for the traversal tools. That means more customization for the Power Drills, the Platform Gun, the Zipline Gun, and the Grappling Gun. Furthermore, your armor modding opportunities also got some tender, loving care...
+
+
+WEAPON MASTERY AND SKINS
+-----------------------------------
+A Weapon Mastery Bar has been added to all gear - as you unlock mods for a given piece of gear, your Mastery with it increases. At certain levels of Mastery, you’ll gain free bonuses. For now the bonuses are restricted to Skins, and only for the primary and secondary weapon slots. Each weapon has three unlockable skins to get.
+
+The majority of our time with this has been spent on getting the system up and running, but we definitely intend to expand on the Skins System as we move a bit further ahead - you can expect other ways than just through the weapon masteries to earn skins in the future. 
+
+
+WEAPON TWEAKS & FIXES
+-----------------------------------
+Yes, we have been both buffing and nerfing a lot of the weapons and here is a compiled list of changes!
+
+PLASMA CHARGER:
+- Flying Nightmare damage no longer stacks on top of direct hit damage.
+- Bouncy Projectiles also bounce on enemies.
+- Charged Shot base area of effect reduced.
+- Normal shot damage increased.
+- Plasma Charger and other projectile weapons no longer ignores armor. Now they have to break it.
+
+"LEAD STORM” POWERED MINIGUN:
+- Base total ammunition increased.
+- Oversized Drum mod value increased.
+- Hot Bullets mod activates earlier.
+- Cold As The Grave mod no longer goes to a set value every time. As originally intended, it will now reduce the heat of the gun a certain amount per kill.
+- Aggressive Venting mod now works as intended.
+
+BRT7 BURST FIRE GUN:
+- Default effectiveness against armor reduced.
+
+DEEPCORE GK2:
+- Armor Penetration mod value increased.
+
+JURY-RIGGED BOOMSTICK:
+- Rate of fire mod renamed to "Double Trigger".
+
+"WARTHOG” AUTO 210:
+- Armor Breaking mod damage increased.
+- Stun Chance mod increased.
+- Turret Whip damage increased.
+
+"STUBBY " VOLTAIC SMG
+- Electrocution Bonus mod value reduced.
+
+DEEPCORE 40MM PGL:
+- Armor Breaking mod more effective.
+- High Capacity Magazine value increased.
+- Stun Hit mod renamed. Chances increased.
+- Incendiary Compound mod decreases the direct damage taken by enemies, but it will set them on fire.
+- Pressure Wave value fixed.
+
+BREACH CUTTER:
+- Extra Ammo mod value reduced.
+- Damage tweaks to compensate for the frame rate dependency fix.
+- Adjustments to the projectile to make it framerate independent.
+
+CRYO CANNON:
+- Sticky Ice cold effect reduced.
+- Base freezing power reduced.
+- Total ammo increased.
+
+CRSPR FLAMETHROWER:
+- Increased base damage.
+- Decreased base Rate of Fire.
+- Decreased base tank capacity.
+- Decreased tank capacity upgrade.
+- Decreased base sticky flames duration.
+- Decreased sticky flames duration upgrades.
+- Increased direct damage upgrade.
+- Increased direct burn upgrade.
+- Increased targets explode upgrade chance.
+
+SUBATA 120: 
+- Mactera Neurotoxin mod effect increased.
+
+
+UPDATED UNREAL ENGINE VERSION TO 4.21
+-----------------------------------
+For quite some time, we have been stuck with Unreal Engine 4.19, but we finally managed to update the engine to 4.21. It seems to have fixed a lot of GPU crashes. Happy days!
+
+
+MISC.
+-----------------------------------
+- Alien Egg Collection mission should now properly distribute the eggs in the mission area.
+- Assignment missions can now include Mission Modifiers. For difficult assignments, higher complexity missions will be preferred.
+- Fixed Restore Save pop-up showing up unnecessarily for ultrawide monitors.
+- Small adjustment to Steam warning message.
+- Fixed a LOT of spelling errors (Yes, we know. Keep sending ‘em our way if you spot any :D).
+- Attempt to fix voice chat issues.
+- A maximum of 2 voice lines for waking up in Medibay will now be played.
+- Umanite and Inert Uranium materials now look a lot more distinct from each other.
+- Landing in Sticky Goo reduces fall damage.
+- Fixed a bug with area damage falloff.
+- Friendly fire modification added to Bosco.
+- Glyphid Warriors, Spitters, and Web Spitters now don't always run away from explosions. It is chance based on different resistances depending on the enemy.
+- Mactera should no longer die just from being frozen.
+- Spitballers weak points now correctly take additional damage from weapons that do extra damage to weak points.
+- Fix hanging grunt scream.
+- Doubled the number of enemies that are able to target one player.
+- Acid Spitters now properly do Poison Damage. (Yes we know - expect a name change here later… :D )
+- Management has approved fixing critical mesh clipping of gantries near Abyss Bar.
+
 "
 	Update_19 = "Hello Miners! 
 
@@ -4667,6 +4857,7 @@ FIXES AND IMPROVEMENTS
 - Clients can now open the mission map while in a hosted game
 
 "
+	Update_21_Header = "UPDATE 21: DIE HARDER!"
 
 Namespace Progression (6 keys)
 	ClassLevel = "Nivel de la Clase"
@@ -4682,9 +4873,10 @@ Namespace Resistances (4 keys)
 	Fire = "Resistencia al Fuego"
 	Poison = "Resistencia al Veneno"
 
-Namespace ST_GearUpgrades (4 keys)
+Namespace ST_GearUpgrades (5 keys)
 	D_StaggerChance = "Hit 'em so hard they can't recover! Every shot you fire has a chance to stop the target in it's tracks."
 	D_BlowThrough = "Shaped projectiles designed to over-penetrate targets with a minimal loss of energy. In other words: Fire straight through several enemies at once!"
+	D_ShieldRegenSpeed = "Shield regenerates at a much faster rate but after a longer initial delay."
 	T_StaggerChance = "Stun"
 	D_ClipSizeA = "The good thing about clips, magazines, ammo drums, fuel tanks ...you can always get bigger variants."
 

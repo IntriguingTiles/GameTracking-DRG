@@ -1,7 +1,7 @@
 20 namespaces
-4365 values
+4378 values
 
-Namespace Global (5300 keys)
+Namespace Global (5310 keys)
 	2559D78C40005E5221F26093CB976283 = " Raccogli {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Sono caduto!"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESSARIO"
@@ -163,7 +163,6 @@ Durante la raccolta dei dati, rendiamo anonimo il tuo IP e disponiamo solo di un
 	1969DC9F4275BAF4A783BF8DB6BB0158 = "12"
 	AF57E8E54307407BBD4CE385378B51FA = "12"
 	BFD0C2FC438F8480BF7D8FBF3E9CAB32 = "12"
-	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
 	D7EFCA3748861AC3325AC9B7EF8FCDAB = "15"
 	46BF6C22426F51C24E23D4A0541916A8 = "15M"
@@ -602,7 +601,7 @@ DI ISTRUZIONI"
 	9DB339DA4EF3DB520AC831B94049DC86 = "Cristallo Blu"
 	E6AA352F49A9ABDFE75EEE9E699AB88F = "Cristallo Blu"
 	36467CDC4EAA77B59E01BB864C9548A3 = "Danno bonus contro i Glyphid"
-	3BEDFA604A0B9EAC6119C1B020A02ECB = "Bonus damage against Mactera aliens"
+	3BEDFA604A0B9EAC6119C1B020A02ECB = "Danno bonus contro gli alieni Mactera"
 	91C3975A4EE31FF91BAC3BA07551A547 = "Danno da fuoco bonus ai bersagli in fiamme"
 	B8DB1AC5402F6B8427EB7AA8523AE5AF = "Bonus Oro estratto"
 	E131A6A44A750D97F848C7B26FA35B23 = "Bonus Nitra estratto"
@@ -662,6 +661,7 @@ DI ISTRUZIONI"
 	1CB4D80743318442C308D2A14B857E9C = "Costruzione al {progress}% completa"
 	251FA98341B86380F1B7FE815D790818 = "Costruisce più velocemente"
 	84EFB56C4B7743BB0738C2B559DBD9B4 = "Si monta più rapidamente"
+	05A790C44DF82D2A88B302BD75DFC82B = "Gli ammortizzatori integrati rendono la caduta meno dolorosa."
 	F1DE328E4F32FC002F5894B15B02F0AF = "Gli ammortizzatori anti-shock rendono la caduta meno dolorosa."
 	C967120044BDB528B0AAA68928C37494 = "Bulbo pieno"
 	0187503E429D0D844DE504AD1153A970 = "Barba Folta"
@@ -773,6 +773,7 @@ DI ISTRUZIONI"
 	CD632DD94A019AC3011D17877F561796 = "Cappello - Rosso Chiaro"
 	6646C9194E65D217184CE39025814731 = "Berretto - Arma Metallica"
 	D5211E1E4EF79EE304DDB38A869D83F8 = "Cappello - Uniforme"
+	691C6F1B400FB28CEABC5A9732597C62 = "Capacità"
 	73B65D21444A0BFB316C25B9FAA33453 = "Attenzione!"
 	9DA3E8D145D105239E9A238772134C36 = "Può portare ancora più piattaforme"
 	8D3EFB56476AB1E9B975EF974EE04D6A = "Trasporta più di GIC"
@@ -880,7 +881,6 @@ Personaggio"
 	0CA1BCD64DF715E003401EA491942D09 = "Raccogli {amount} {resource}"
 	69606828404C54B4230618A0FE348CDF = "Raccogli {amount} {resource}"
 	8B822AB84AB570127A9AFDB23F2348E0 = "Raccogli {amount} {resource}"
-	E43ADE69478A0CD6F6FA449B94996A98 = "Raccogliere {amount} {resource}"
 	2C2AD3B542580D19302C62A1C1DB9E0B = "Raccogliere {amount}/{required} {resource}"
 	6F80AA9449DB3236766ABDB2954B99DC = "Alle postazioni di combattimento! Lo sciame è qui!"
 	EB6AB6CC4E948FE640E464BF0528DD6D = "Combinate gli strumenti a disposizione della squadra per attraversare terreni difficili. "
@@ -954,6 +954,7 @@ Personaggio"
 	34BC57334D8B596B15074CBA7FAED9DE = "Completate {value} Caccie alle Uova"
 	35030837442AC4F5DF9903B7FD0312C5 = "Completate {value} Eliminazioni"
 	E8FB039A42A80925B9B49886231BD1CA = "Completa {value} Missioni a Pericolo 3 o Maggiore "
+	E6DE65D847ECC198B626FF95AF48C143 = "Completa {value} Missioni a Pericolo 5 "
 	B68A4C7049F6922DABB4589B0FD033D3 = "Completa {value} Spedizioni Minerarie"
 	D0D98D9E431ACCB7357B6E943D52162A = "Completate {value} Missioni"
 	442E7C8549592572BCDADABEA3A79526 = "Completa {value} Missioni nelle Caverne Cristalline"
@@ -1083,7 +1084,6 @@ La Gestione"
 	B30C12434A5F8E02A131E8A6D903A542 = "Crediti"
 	6D72FAF94418F9AF292CBE9ABDC6D17F = "I crediti sono stati ritirati. Capsula di rifornimento in arrivo."
 	F86CEA9045E0447697A5129A19A9C6E0 = "Crediti alla Nostra Community"
-	BA35A6794521F32A15B9849DAF3E96D8 = "Creep-Louse Adolescente"
 	DEA8B04C44BB57535CA4E398DEF783B4 = "Cresta"
 	CAA5A22A4E6EF0CCA9BC6FAAD88DE603 = "Surriscaldamento Critico"
 	81F477394FD1960C89BA93BEB72D7577 = "Debolezza critica"
@@ -1214,6 +1214,7 @@ La Gestione"
 	17DFCFE2486582C5680A22A580E5AAC7 = "Favo di Deeptora "
 	2974756F40C48748E76939B4171D036E = "Sciame Deeptora"
 	C55C17E9436F1DE5466438950931C189 = "Controlli di Default"
+	44EB8CCD45F0541602747D97DA7BE5DF = "Delay"
 	7DD07AE8403119755FF99F98DF00E119 = "Ritardo"
 	99DE4F374F07C18A3F1703807B3A46D2 = "Consegnato da"
 	18DE5B0A44CE63349F6EE0A23D2E2794 = "Demolitore a rapporto...!"
@@ -1323,7 +1324,6 @@ La Gestione"
 	A1B6E81D4EDC6FF49D483B9378F9039D = "Corazzato!"
 	5615688E4D9D8C364150C791BB22BEF6 = "Corazzati spazzati via - per ora. Bel lavoro, squadra. Premete il bottone di rientro sul MULE quando siete pronti, e vi tiriamo su."
 	DFEF36A247A6C2272A2D52A8EC908B24 = "Trapana più veloce"
-	FEA4A006477BE60D51B728BFFD6276CA = "Trapana più veloce"
 	97A3653E445548AB98C752BCD03C6AD0 = "Trapanali e Grigliali!"
 	65082D9F453F3316D327788612CEB5EB = "Drone arrivato!"
 	594A7D6C47E8A9ABA04BF9B83E3A4A6B = "Il drone è qui!"
@@ -1362,7 +1362,6 @@ La Gestione"
 	B64D576F48C8AF3A46F3E280F20DB223 = "Sequenza di sbarco avviata!"
 	B7F6BD9244821F3A4A4CC986DE400809 = "Sequenza di sbarco avviata! Allacciate le cinture!"
 	8F16427642A01822C5F6F78503597354 = "Capsula da Sbarco pronta - tempo di andarsene!"
-	44EB8CCD45F0541602747D97DA7BE5DF = "Durata"
 	D691827C439F91E8AE25EE98B3B02C3E = "Durata"
 	868A67D84E782BE15D1D4E8D01DAE858 = "Nome Classe Nano"
 	3EEA47DA449CA2E4EFB347A4F3AF4272 = "Nano a terra!"
@@ -1490,7 +1489,7 @@ Quando collezioni 4 evidenze il tuo rango giocatore incrementa."
 	14E9CFFA456B38B15AAD3C812FE0BA07 = "Torna al Desktop"
 	AA09D158453C1D6160A530B89F427E90 = "Torna al Desktop"
 	2CB080484B4C916DA8265DA3B1ECC54C = "Tamburo di Munizioni Ingrandito"
-	8FAF78B040163FAD823EA2B0310AE884 = "Expanded Fuel Tanks"
+	8FAF78B040163FAD823EA2B0310AE884 = "Serbatoi di carburante Aumentati"
 	15F3D9A3470B0C1CC3F480A1CF92EFBF = "Aumenta il quantitativo di combustibile infiammabile"
 	49F9980B4A0F4348E53800B723DE72E8 = "Minatore Esperto"
 	D0C851E94B40C04C23EF87AE3A699251 = "Minatore Esperto"
@@ -1603,6 +1602,7 @@ DI FUOCO"
 	1F4DC08E482A8C495789C9B0A809297E = "Spara per metterlo in atto!"
 	16B75D65445DA07DFAAD58B15A5947C3 = "Fuoco a volontà!"
 	68FB6B7643BFE31BB5A59594C7E5E2C3 = "Bomba in buca!"
+	044096554B99804952A4B9A8864D7A21 = "Fuoco alle polveri! L'Armatura Reattiva di Lusso addolcisce qualunque esplosione."
 	45AA03EC4427E8D19AA31B9EF9805349 = "Fuoco alle polveri! L'Armatura Reattiva di Lusso addolcisce qualunque esplosione."
 	641DF381432B5F79E23BFDADBA39708B = "Spari più proiettili in ogni raffica"
 	E03F911D40D16AFB01608D8808387F2D = "Fuoco!"
@@ -1652,6 +1652,7 @@ DI FUOCO"
 	FCBF5A8045796B4A5E690DA961AE62C6 = "Per fuoco tattico"
 	69E800E7423BFFD58AEBB590F614D287 = "Per il professionista. Corrisponde all'armatura attualmente indossata."
 	946817F9422FDCF44323F880416FA7E9 = "Per chi la preferisce la carne poco cotta. Le fiamme infliggeranno la metà di danni."
+	8C7C97544B02007446405BBF9B12E2F1 = "Per coloro che preferiscono la carne poco cotta. Le fiamme infliggeranno la metà di danni."
 	0B78F5004D92D132A1395FB917D75B76 = "Per quelli con una disposizione allegra."
 	D1CAEFAC4D0E244CD508E3B4D42F1DF6 = "Per le armi che utilizzano energia invece di proiettili, l'efficienza energetica di ogni colpo può essere migliorata."
 	015A05994C4643A09E7188AF1F882C16 = "La Fortificazione è pronta!"
@@ -2010,6 +2011,7 @@ DI FUOCO"
 	C5776A50489801226E37328215A1B4DD = "Pericolo 5: Letale"
 	7CFC9F3043146E985E0D809F6881BF36 = "Bonus Rischio"
 	7466072345C05210268EDD9DC408CD72 = "Bonus Rischio: +{bonus}%"
+	14DCDE084168C7C01E2F07880D9BC856 = "Sistema Hazmat"
 	925B88C9473D02AD5A60A7B7547AFBA5 = "Sobbalzo Testa"
 	0CA6A36C437B1754AA820195A90B724C = "Testo di Frontespizio"
 	90FAC95F49069A73A8ACE2B759DD98EA = "Testo di Frontespizio"
@@ -2362,7 +2364,7 @@ STAI INDIETRO!"
 	66F0E28D499A2369799491AF83FEBFC4 = "Impossibile vedere!"
 	5940DD09483FB8A41478868CFCB8D073 = "2a Fase di Pompa Migliorata"
 	7E6F0B8347031C0757DA40956D753056 = "Precisione Migliorata"
-	F551621B4FD4EF4FA0939DBFE98951CB = "Improved Alignment"
+	F551621B4FD4EF4FA0939DBFE98951CB = "Allineamento Migliorato"
 	D06E3BD64B1886FA4E75489D35012BA4 = "Eiettore Migliorato"
 	E5D9788F40F556CBF081F7A7C17CCDF9 = "Eiettore migliorato"
 	CCCF713A4196DAD4B1562B92E8B71976 = "Ergonomia Migliorata"
@@ -2387,6 +2389,7 @@ STAI INDIETRO!"
 Promuovere un personaggio LO RIPORTERÀ A LIVELLO 1. però MANTERRAI tutti i progressi sulle armi, migliorie, abilità, crediti, materiali di lavorazione e articoli cosmetici."
 	64FB15C24E8ED2B9E943BBAD29DFB59F = "In riconoscimento delle tue prestazioni, il tuo livello di sicurezza è stato aumentato. Ti è stato concesso l'accesso a nuove regioni di Hoxxes. Congratulazioni, minatore."
 	6B7CB6B040E9D9BFEB0BC397AE36FADF = "Nelle armi con meccaniche di surriscaldamento, alcune modifiche possono influenzare la velocità di recupero da quello stato."
+	A674E248438ADE3BB67D899E82B27EB6 = "In entrata {InRate} KB/s, in uscita {OutRate} KB/s"
 	075D59304D4A871CE33297A70D614FAC = "Inattiva"
 	878D07B640CB9FB59A6342ADCC21EC0C = "Inattiva"
 	994499E54F6ED7CDBCD36C91E2C5C9FA = "Miscela Incendiaria"
@@ -2805,7 +2808,6 @@ TUTORIAL"
 	8CC378B1434DDB77A263478980DCAFFC = "Insetto Premio qui! "
 	77B1E4544FAB8FEC3B388FA6A2C239F1 = "Insetto Prezioso Ucciso"
 	C09E93CE42058A3090AA3E85399D309D = "Signore delle Profondità"
-	765B21E041E57274B5044DB3865481AF = "Raffreddamento più veloce durante la perforazione dei nemici"
 	14DF284D42A6A089E82FB9AAEBF771DD = "Equipaggiamento Perso"
 	38A352D84AF190E753529A81D7FD5211 = "Persa connessione al server"
 	597D27244B3BAB229FC8208E850EFA38 = "Forte e chiaro!"
@@ -2914,7 +2916,7 @@ TUTORIAL"
 	FB366B194EDBF10284140D81FD3FBCC0 = "Piaga Mactera"
 	8A79295A43386BA5A8106BB9125BB620 = "Prole di Mactera"
 	5ADEE3184749131394CC1DBFE8E35AC1 = "Prole di Mactera!"
-	6D3AB8A04DC17BDB2E2D74959CB0B25E = "Mactera Toxin-Coating"
+	6D3AB8A04DC17BDB2E2D74959CB0B25E = "Rivestimento da Tossine Mactera"
 	569B58A84052F88185EBC9B75908FEC8 = "Mactera, un sciame intero, si dirigono verso di voi. Preparatevi!"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	CDE31F87459CEF2C55D4D58B0680371B = "Miglioria alla capacità del caricatore"
@@ -3043,6 +3045,7 @@ TUTORIAL"
 	96E6DEFA4D093CABD8D3B8A4201CFB34 = "Missioni"
 	807A896D4764FA22029B40B69BF5188D = "Missioni Completate"
 	611133B24CBE09AA7BAFA3A1C5BBF3D9 = "Missioni Completate a Rischio 3 o Superiore"
+	25E414BB47848C61AE91B2A99988C662 = "Missioni Completate a Rischio 5"
 	3796F5BA47DABAC727A3869531B4D7D9 = "Mixer Login"
 	421A198642CC485C6E16ACB86B505CD2 = "Logout da Mixer"
 	21B57D6646B6AA3FFC297CA33C763A83 = "Mmh, ne avevo bisogno!"
@@ -3097,7 +3100,7 @@ TUTORIAL"
 	28A2FF2947395FEF10C2FD91AAA7121B = "Quota di Morkite raggiunta! Escavazione di prima classe, squadra! Bottone di fuga sul M.U.L.E. attivato."
 	9E571B65445C928ABD523ABF00EB6DAF = "Quantitativo di Morkite richiesta già raggiunto!!"
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite!"
-	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points that are extra vulnerable to your weapons. Beware, however...some have armored exoskeletons that take NO damage from your weapons."
+	79C599094EB6D6E6E02200AFC58E0859 = "La maggior parte dei nemici ha punti deboli che sono più vulnerabili alle tue armi. Attenzione, però... alcuni hanno esoscheletri corazzati che non subiscono alcun danno dalle tue armi."
 	9B1654C6431D8A1F5EAA83991FF5C3A5 = "Arma Montata e pronta!"
 	E42F2F63428883B7A6C15AACE2FC3388 = "Arma Montata attivata! "
 	84DEB86F4720C733085E61992AB19213 = "Arma montata operativa!"
@@ -3436,7 +3439,6 @@ La Gestione"
 	AD5E854B489923D1E8198094D115EF4B = "Qui! Questo Mini Mule ha bisogno di riparazioni!"
 	B87111104BA33C9090D56B947D41CD8D = "Qualità Generale"
 	9C060B6448CD7B7345C880A2B4D58D4B = "Motore sovralimentato"
-	E67FCA0A46F276ADBA1DD982929248F6 = "Motore sovralimentato"
 	41D0760646E8C1303547DFBAD06A1A8B = "Proiettili Sovraccaricati"
 	6B3BF8B148D57215523F0A97F3F3BDFC = "Proiettili Sovraccaricati"
 	1FF6C8DA495918762EE0E3ADE3B22C14 = "Il generatore di scudo è sovraccarico"
@@ -3573,6 +3575,7 @@ La Gestione"
 	77A501E44D470850D5D4DABE679EAFFC = "Raccogli"
 	E58C168B4B0765162D721EAFDDB0271E = "Raccogliere"
 	17854F534E086F5BEE4C4090AF6B7738 = "Massima precisione sul primo colpo"
+	225CF0104F908812E8ECD382B4E16749 = "Ping {ping}, in entrata {InRate} KB/s, in uscita {OutRate} KB/s"
 	76A8D0624745DD7017D1CF97E4AEB989 = "Rosa"
 	6F74A43C47DF738B85E92E91EC833A23 = "Cristallo Rosa"
 	A42E36984252D484303E988DF786E440 = "Cristallo Rosa"
@@ -3656,6 +3659,7 @@ La Gestione"
 	B1D59F3F4199E484B5418BBBA9C43328 = "Rateo di Perdita della Pressione"
 	AF34EE3140CA8E19872475B1E30D4A62 = "Rateo di Aumento della Pressione"
 	9DCB71D348F4D3C52C5F69ACDE16A0E1 = "Ondata di Pressione"
+	6CBA3AD2476B5E68F24020920C4D9107 = "Previeni la duplicazione dei personaggi che si uniscono durante la partita"
 	A1FAC359403A1149F96076BDD450AF2E = "Oggetto precedente"
 	4226F3E441BB2EE57136CCBA52CC3F17 = "Prezzo"
 	3800EE604BF5CDFDDA766AAFD3F381FA = "Obiettivo Primario"
@@ -3702,6 +3706,7 @@ Guadagnerai un DISTINTIVO D'ONORE e manterrai tutti i progressi su armi, abilit�
 	FB453B1944F3A303D7CE728B215D8699 = "Premere per parlare"
 	2F492010444C14DCE2D2DB9841081A2B = "Mettimi giù! "
 	5FE9FE7649FBA2AB55DD9A882CB32526 = "Q per cambiare arma"
+	BA35A6794521F32A15B9849DAF3E96D8 = "Q'ronar Shellback"
 	4F009E9E484DAF24B819B69C82444A9A = "QA & Manager della Community"
 	4C37D3F0483CD2623E7B27B036BABE09 = "PARTITA
 VELOCE"
@@ -3760,6 +3765,7 @@ VELOCE"
 	6449368B45642AB433AE0A8AD6BB702F = "RiPress"
 	C9BF88714B063BD7BF72CABAB93F0B46 = "Portata"
 	76885F274F366DD853C91897DDC53024 = "Raggiungi il rateo di fuoco massimo più velocemente"
+	6DA1BD1B4FD3E2E6C428138A79921CCC = "Armatura Reattiva"
 	F9E6E9364EBC3229BB1DCCB57A917CB4 = "Armatura Reattiva"
 	4E44F53D4DDE44D2F54010AC09506DC3 = "Onda d'Urto Reattiva"
 	CE2B6CB7492AB99905D8659AFABD9268 = "Pronto"
@@ -3801,6 +3807,7 @@ VELOCE"
 	C82B6B104F4886D99ACEB0AE75CDEBB3 = "Zucchero rosso!"
 	E20D2459498C4EF3D1C624BDD7AF0B09 = "Zucchero rosso!"
 	AC6CE04D479431221B4324A21939B47F = "Riduce la velocità con cui l'arma si surriscalda quando stai conservando un colpo caricato"
+	C84678394F7FA93C9EA406A269995E72 = "Riduce il danno causato dal veleno."
 	83E2EA684FD79938D13434939A276900 = "Puzza di stile. O denaro. Di Entrambi in realtà."
 	761586C14EE3CCA7F69712804CE964F2 = "Rifinito"
 	3366355F4B8C52F96AF4E7A7314EDA8E = "Flusso di Plasma Rifinito"
@@ -4125,6 +4132,7 @@ MISSIONE"
 	C9794CD74D900AFB615054A733BD9CBB = "Scudo alzato!"
 	1B5A861E440E5C3DB544FAA04AD871BF = "Scudo!"
 	A9911C0C40F804A5310DB78EFF2FF591 = "Scudi piazzati!"
+	B49D0CE044EB650787DFE4B894548F78 = "Assorbitori di Shock"
 	BFF99FC8403150FB445DDDB831EE150C = "Assorbitori di Shock"
 	8FBF1B42418AA56CC3F77A947CC69DBE = "Il composto antiurto riduce i danni da caduta"
 	A2CCAC2B4C63033A17B48581294BE220 = "Spara a LORO, non a ME!!"
@@ -4150,6 +4158,7 @@ MISSIONE"
 	C62B84974B2238D077DE7790E436ACAC = "Urla ai tuoi compagni di squadra per farli accorrere! E' utile se si viene divisi e non ci si riesce a trovare o se si è incapacitati e serve aiuto."
 	075479CB45BF3835DE1846A51811C954 = "Mostra contatore FPS"
 	3127F8A540D246D860D961AD1DBF602F = "Mostra HUD"
+	566802114721F4EE497EF2B3718D166A = "Mostra Statistiche di Rete"
 	C4292C7540A90C07387975BA879E2900 = "Visualizza tutte le statistiche"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Mostra ai tuoi amici cosa hai trovato"
 	D0E809FE415757354E08C9A6C291E826 = "Mostra la tua gratitudine o semplicemente di ai tuoi compagni di squadra quanto siano fantastici!"
@@ -4448,6 +4457,7 @@ MISSIONE"
 	FA8F99064E366F561C0135A97B4C881C = "Lavoro di squadra e birra ci terranno insieme!"
 	E7D48AB04F7249B465DB8D9ADC835450 = "Lavoro di squadra. Ecco cosa fa girare il grande motore dell'industria!"
 	6C7161BE454C40F23CFC2E9067BEB6B7 = "Techno"
+	A096EEB4410C787D70EDFD90BF5A1947 = "Isolamento Termico"
 	704D55734F30FF0C240B5D95033A3BED = "Bonus di riduzione del danno da caduta temporaneo dopo aver rilasciato il rampino"
 	4C3F704B4F6585273365F58B271926EA = "Velocità di movimento bonus dopo aver svuotato un caricatore"
 	E3F39FEB49C35CD35E533691EBE82D52 = "Bonus alla velocità di movimento temporaneo dopo aver rilasciato il rampino"
@@ -4550,7 +4560,6 @@ MISSIONE"
 	4F7A63814A530CB4CD09798823BE3784 = "Il calore proveniente da alcuni pericoli e armi aumenterà la temperatura dei nemici. se raggiunge il punto di combustione inizieranno a bruciare, subendo danno nel tempo finché l'effetto sarà attivo. alcuni nemici sono più resistenti al calore rispetto ad altri, alcuni richiederanno un esposizione maggiore a fonti di calore per di incendiarsi. allo stesso modo, alcuni nemici si raffreddano più velocemente, quindi estingueranno le fiamme prima di altri."
 	D6B58FC042E403301BE0D4AC166F890D = "L'incomparabile cappello della leggenda, che commemora una vacanza in un posto molto speciale nel cuore della maggior parte dei nani."
 	4ACB0D84456C00BEFFB4A7A9453C1E62 = "L'ultima ondata sta per arrivare. Mantenete la calma!"
-	A8D8917442A42E2FF92940B306C5BED3 = "La durata di certi proiettili e effetti può essere prolungata."
 	4B4BAA624715C6F2FD31B894015641F9 = "La linea che il proiettile si apre diventa quasi immediatamente più utile a distanza ravvicinata"
 	E20274D848C3FE6C3A8571BC741F4249 = "La capacità massima di carico determina la quantità di munizioni che puoi trasportare all'inizio della missione e il massimo di cui puoi rifornirti."
 	1427F38744164A0EACBE5C9DF34C4A82 = "Il padiglione commemorativo è dove Onoriamo i caduti. Sentiti libero di fare un giro e porgi i tuoi omaggi."
@@ -4682,6 +4691,7 @@ MISSIONE"
 	7D3ECC6941A5B9B36579C3B532AFE83F = "Mi prenderò una birra ghiacciata, quando avrò finito."
 	3A4704F1477EBE6619327BA19F734466 = "E' tempo di un round a Controlla l'Infestazione, squadra. Abbiamo Bozzoli di Corazzati sui nostri scanner, e dovrete eradicarli prima che si trasformino in qualcosa di molto peggio. Il mio consiglio: Portate pacchi di munizioni - sono duri a morire."
 	92CA3E4B4E3514AB473B06B16336AA0A = "Tempo di entrare in azione!"
+	A8D8917442A42E2FF92940B306C5BED3 = "Time that must elapse before an effect or function is triggered"
 	F21187F54C31DC48B3231193CECD4018 = "Tempo di Scavare!"
 	DEA5063F4DC950931F410980D9FE7B3B = "Tempo di raccogliore un po' d'oro!"
 	9F8B95494EDCF9BB83E751B9D761881D = "Tempo di immagazzinare!"
@@ -5257,6 +5267,7 @@ Questo è uguale ad una missione fallita."
 	72AC2B6A4F0763A48B9F15BC5D55EFA3 = "Voi... voi ragazzi siete fantastici!"
 	C51971284D961C2A6E2D49A7A97838DD = "Il tuo bonus Incarico è a portata di mano. Solo un'ultima missione."
 	A64D138C462257FFAA82B1B965EBAF7B = "Sembra che la tua sessione di Steam abbia problemi di caricamento."
+	765B21E041E57274B5044DB3865481AF = "Your drills cool when drilling enemies!"
 	4C5DCE4C4254BBEBBA554883E64C2A3B = "La tua personalità amichevole è letteralmente uno scudo! Prendi il 50% di danni in meno dal fuoco amico!"
 	C8DEB9DB423364FDA87B2A9D2D292323 = "L'inventario è pieno"
 	8C8EB983438517248BE7F2A4D6C445FA = "Missione selezionata, la capsula è pronta - sali a bordo della Capsula da Sbarco!"
@@ -5307,7 +5318,6 @@ Questo è uguale ad una missione fallita."
 	E9D9463E42928C3514755BAC259C5AA5 = "[CloseMenu] No"
 	AEA347F74547383311956F963FE02E16 = "[Fire] + [Mine]: Scorri tra le visuali"
 	205AED9949420AA495E6DBA6AC4E5FA2 = "[fuoco] Equipaggia"
-	2C1FF27D4BC4496B4D5DE48D1EAE4665 = "[Fire] Equipaggia skin"
 	E18AF9B040442891E50EB9ADBA84DA8E = "[Fire] CONTRASSEGNA"
 	DB2DB86B442380F09F7F85BDE6C3BA5A = "[Fire] Contrassegna"
 	C30A43794F4B4C06D3C5638D33EAF1B7 = "[Fire] POSIZIONA INDICATORE"
@@ -5451,6 +5461,7 @@ Namespace PatchNotes (45 keys)
 	Update_20.1_ShortTitle = "PIÙ GRANDE, PIÙ BELLO, PIÙ BOSCO"
 	Update_20_ShortTitle = "PIÙ GRANDE, MIGLIORE, BOSCO"
 	Update_11_ShortTitle = "DEAD AND GUN"
+	Update_21_ShortTitle = "DIE HARDER!"
 	Update_9_ShortTitle = "CI SCAVIAMO DOPO!"
 	Update_14_ShortTitle = "CON L'AGGIUNTA DI CREEP"
 	Update_12_ShortTitle = "FLIES N 'FINANCE"
@@ -5768,9 +5779,183 @@ Problemi Generali Risolti
 - Risolto: Non puoi più modificare i consigli durante il caricamento!
 -  La mappa non si aggiornava correttamente al cambiare del terreno
 "
-	Update_21 = "Ciao minatori!
+	Update_21 = "Hello Miners!
+With this update, we are introducing more insane challenges - a new LETHAL difficulty level for you to master, multiple new enemies, Mastery and Skins for weapons, and a gazillion other fixes and improvements.
 
-Aggiornamento Deep Rock Galactic 21
+Lunch Break is over! It’s time to go to work!
+
+- The Ghost Ship Team 
+
+--- PATCH NOTES ---
+
+
+NEW ENEMIES
+-----------------------------------
+BET-C - THE BATTLE M.U.L.E.
+Deep Rock Galactic didn’t invest much in the safety system of their BET-C series of combat M.U.L.E.’s. It only takes a few Xynarch Charge-Sucker parasites licking the robot’s circuits to turn them against the dwarves. In that situation, BET-C’s fast-tracking auto-turret and grenade launcher could become a major threat for any expedition. If you find an infected model, aim for the attached organisms and, once they are eradicated, carefully hammer BET-C until it turns into a trustworthy companion for the rest of the mission.
+
+Q’RONAR SHELLBACK 
+The Q’ronar Shellback is a deadly creature that you might bump into in the Radioactive and Salty regions of Hoxxes. Their tough shells and fast movement speed make them quite hard to kill - try to dodge its rolling attack and kill the Shellback when it stops to spray poison venom at you. 
+
+NAEDOCYTE SHOCKER
+The Naedocyte Shocker is a strange alien flying jellyfish-like creature. The often appear in large swarms and is preferably dealt with before they get close enough to zap you with electrical shocks. So far they’ve been spotted in the regions of Dense Biozone and the Glacial Strata.  
+
+
+NEW DIFFICULTY LEVEL
+-----------------------------------
+By popular demand, we’ve added a LETHAL new difficulty setting only for the most masochistic and badass dwarves out there! We hope you have “fun”... :D
+
+
+OVERALL DIFFICULTY REVAMP
+-----------------------------------
+GENERAL SPAWN LOGIC: The general logic behind how we handle spawns has gotten a big overhaul - balancing waves is now a much more exact and controllable thing for us. This is actually the biggest of all changes we’ve done to the difficulty system, but also the hardest to explain in detail - maybe we’ll do a blog post on this in the future :-)
+
+MISSION SPECIFIC ENEMY TYPES: The Mission Generator now also pre-selects the specific mix of enemies players will encounter in a given mission. Instead of randomly selecting from every enemy type available in the game, players will now face themed swarms of enemies. This change won’t be particularly visible right now, but will serve to improve the overall feel and flow of the enemy swarms as we add more enemy types to the game.
+
+The goal here is to make each mission feel a lot more unique, as well as making it more attractive for players to pursue a more strategic approach - if you have a rough idea of what awful things you might face down in the depths, you stand a better chance of going in as prepared as you can be.
+
+TIME: As a rule, lowering the time between spawning enemy waves means more enemies in general, which results in an overall higher difficulty. Knowing this, we’ve made a few changes to how we time waves:
+- Time elapsed before the first wave appears is based on Difficulty - so higher Difficulty means the first wave arrives faster.
+- Subsequent waves will also spawn faster depending on difficulty level.
+
+SPEED: Attack speed, projectile speed, and movement speed of enemies are increased for the highest difficulties.
+
+ENVIRONMENTAL HAZARDS: You now take more damage from environmental dangers on higher difficulties.
+
+YOU GET THE WAVES YOU DESERVE: Multiple waves are now allowed to spawn at the same time and do not cancel each other out.
+- Example 1: Digging two eggs out in Egg hunt will generate two small waves instead of only one. 
+- Example 2: You can not cancel a wave in progress by calling in the drop pod
+
+IMPORTANT BUGFIX! It turned out Difficulty scaling from 3 to 4 players was not working before - meaning that a 4 player game was as easy as a 3 player game. That is fixed now - so you should feel an overall increase in difficulty for 4 player games on all difficulties. We’ll, of course continue to monitor and tweak as needed.
+
+
+UI IMPROVEMENTS
+-----------------------------------
+NEW ENEMY HEALTH BAR
+We’ve completely revamped the way we put health bars on enemies. Now it will show when the player is aiming at an enemy and it will do it on top of that enemy (instead of in the center of the screen). Additionally, it displays the damage applied to the enemy with every shot.
+
+NEW MISSION READOUT BAR
+The Mission Readout Bar visible on the Space Rig has been updated with more information about the mission in progress, as well as gotten a graphical overhaul.
+
+
+NEW BIOME CONTENT
+-----------------------------------
+In The Salt Pits Region, you’ll now start seeing fragile Salt Platforms - stand on them, but be careful. They’re not tested for dwarf girth. 
+Meanwhile in the Sandblasted Corridors, a Spiky Plant has started sprouting. And yes, it is both spiky and deadly. 
+
+
+PREVENT LATE JOIN DUPLICATION
+-----------------------------------
+You want a diverse team? You don't like teams with three Engineers? The Host now has the option to select “PREVENT LATE JOIN DUPLICATION” from the Escape menu and Options menu. Selecting this option means players LATE JOINING your game will need to select a character class not currently in play. 
+
+Please note: This option does NOT restrict character selection on the Space Rig - we leave that up to you guys to figure out among yourselves. 
+
+
+MORE EQUIPMENT MODIFICATIONS
+-----------------------------------
+The new Modification System has now been implemented for the traversal tools. That means more customization for the Power Drills, the Platform Gun, the Zipline Gun, and the Grappling Gun. Furthermore, your armor modding opportunities also got some tender, loving care...
+
+
+WEAPON MASTERY AND SKINS
+-----------------------------------
+A Weapon Mastery Bar has been added to all gear - as you unlock mods for a given piece of gear, your Mastery with it increases. At certain levels of Mastery, you’ll gain free bonuses. For now the bonuses are restricted to Skins, and only for the primary and secondary weapon slots. Each weapon has three unlockable skins to get.
+
+The majority of our time with this has been spent on getting the system up and running, but we definitely intend to expand on the Skins System as we move a bit further ahead - you can expect other ways than just through the weapon masteries to earn skins in the future. 
+
+
+WEAPON TWEAKS & FIXES
+-----------------------------------
+Yes, we have been both buffing and nerfing a lot of the weapons and here is a compiled list of changes!
+
+PLASMA CHARGER:
+- Flying Nightmare damage no longer stacks on top of direct hit damage.
+- Bouncy Projectiles also bounce on enemies.
+- Charged Shot base area of effect reduced.
+- Normal shot damage increased.
+- Plasma Charger and other projectile weapons no longer ignores armor. Now they have to break it.
+
+"LEAD STORM” POWERED MINIGUN:
+- Base total ammunition increased.
+- Oversized Drum mod value increased.
+- Hot Bullets mod activates earlier.
+- Cold As The Grave mod no longer goes to a set value every time. As originally intended, it will now reduce the heat of the gun a certain amount per kill.
+- Aggressive Venting mod now works as intended.
+
+BRT7 BURST FIRE GUN:
+- Default effectiveness against armor reduced.
+
+DEEPCORE GK2:
+- Armor Penetration mod value increased.
+
+JURY-RIGGED BOOMSTICK:
+- Rate of fire mod renamed to "Double Trigger".
+
+"WARTHOG” AUTO 210:
+- Armor Breaking mod damage increased.
+- Stun Chance mod increased.
+- Turret Whip damage increased.
+
+"STUBBY " VOLTAIC SMG
+- Electrocution Bonus mod value reduced.
+
+DEEPCORE 40MM PGL:
+- Armor Breaking mod more effective.
+- High Capacity Magazine value increased.
+- Stun Hit mod renamed. Chances increased.
+- Incendiary Compound mod decreases the direct damage taken by enemies, but it will set them on fire.
+- Pressure Wave value fixed.
+
+BREACH CUTTER:
+- Extra Ammo mod value reduced.
+- Damage tweaks to compensate for the frame rate dependency fix.
+- Adjustments to the projectile to make it framerate independent.
+
+CRYO CANNON:
+- Sticky Ice cold effect reduced.
+- Base freezing power reduced.
+- Total ammo increased.
+
+CRSPR FLAMETHROWER:
+- Increased base damage.
+- Decreased base Rate of Fire.
+- Decreased base tank capacity.
+- Decreased tank capacity upgrade.
+- Decreased base sticky flames duration.
+- Decreased sticky flames duration upgrades.
+- Increased direct damage upgrade.
+- Increased direct burn upgrade.
+- Increased targets explode upgrade chance.
+
+SUBATA 120: 
+- Mactera Neurotoxin mod effect increased.
+
+
+UPDATED UNREAL ENGINE VERSION TO 4.21
+-----------------------------------
+For quite some time, we have been stuck with Unreal Engine 4.19, but we finally managed to update the engine to 4.21. It seems to have fixed a lot of GPU crashes. Happy days!
+
+
+MISC.
+-----------------------------------
+- Alien Egg Collection mission should now properly distribute the eggs in the mission area.
+- Assignment missions can now include Mission Modifiers. For difficult assignments, higher complexity missions will be preferred.
+- Fixed Restore Save pop-up showing up unnecessarily for ultrawide monitors.
+- Small adjustment to Steam warning message.
+- Fixed a LOT of spelling errors (Yes, we know. Keep sending ‘em our way if you spot any :D).
+- Attempt to fix voice chat issues.
+- A maximum of 2 voice lines for waking up in Medibay will now be played.
+- Umanite and Inert Uranium materials now look a lot more distinct from each other.
+- Landing in Sticky Goo reduces fall damage.
+- Fixed a bug with area damage falloff.
+- Friendly fire modification added to Bosco.
+- Glyphid Warriors, Spitters, and Web Spitters now don't always run away from explosions. It is chance based on different resistances depending on the enemy.
+- Mactera should no longer die just from being frozen.
+- Spitballers weak points now correctly take additional damage from weapons that do extra damage to weak points.
+- Fix hanging grunt scream.
+- Doubled the number of enemies that are able to target one player.
+- Acid Spitters now properly do Poison Damage. (Yes we know - expect a name change here later… :D )
+- Management has approved fixing critical mesh clipping of gantries near Abyss Bar.
+
 "
 	Update_19 = "Hello Miners! 
 
@@ -6550,7 +6735,6 @@ SISTEMAZIONI MINORI
 	Update_13_ShortTitle = "CAMBIAMENTI MINORI ALLA VITA"
 	Update_15_ShortTitle = "PERICOLO MUTAZIONE!"
 	Update_17_ShortTitle = "OKTOBERFEST!"
-	Update_21_ShortTitle = "TITOLO BREVE"
 	Update_10_ShortTitle = "VISIONE A TUNNEL?"
 	Update_10_Header = "AGGIORNAMENTO 10: VISIONE A TUNNEL? - 16.03.2018"
 	Update_11_Header = "AGGIORNAMENTO 11: MORTE E ARMI - 23.03.2018"
@@ -6666,7 +6850,7 @@ FIX E MIGLIORAMENTI
 	Update_19_Header = "AGGIORNAMENTO 19: ARMI! MOLTE ARMI!"
 	Update_20.1_Header = "AGGIORNAMENTO 20.1: PIÙ GRANDE, PIÙ BELLO, PIÙ BOSCO - 03.01.2019"
 	Update_20_Header = "AGGIORNAMENTO 20: PIÙ GRANDE, MIGLIORE, BOSCO"
-	Update_21_Header = "AGGIORNAMENTO 21: INTESTAZIONE"
+	Update_21_Header = "UPDATE 21: DIE HARDER!"
 	Update_9_Header = "AGGIORNAMENTO 9: CI TRIVELLIAMO PIU' TARDI! - 09.03.2018"
 	Update_16_ShortTitle = "È ARRIVATO L'INVERNO"
 
@@ -6684,7 +6868,8 @@ Namespace Resistances (4 keys)
 	Fire = "Resistenza al Fuoco"
 	Poison = "Resistenza all'Avvelenamento"
 
-Namespace ST_GearUpgrades (46 keys)
+Namespace ST_GearUpgrades (48 keys)
+	T_MineralCapacity = "Borsa per minerali più grande"
 	D_BiggerPellets = "Pallettoni più grandi e più pesanti fatto a mano da un nano specialista. Non accettare sostituti."
 	T_BlowThrough = "Proiettili Perforanti"
 	T_ShieldRegenSpeed = "Convertitore potenziato"
@@ -6714,7 +6899,7 @@ Namespace ST_GearUpgrades (46 keys)
 	T_Recoil = "Riduce il Rinculo"
 	D_BlowThrough = "Proiettili cavi progettati per attraversare completamente molteplici bersagli con solo una minima perdita di energia. In altre parole: Puoi colpire molteplici nemici con un colpo!"
 	D_ShieldRegenDelay = "Lo scudo inizia a rigenerarsi prima."
-	D_ShieldRegenSpeed = "Lo scudo si rigenera più velocemente dopo il ritardo iniziale."
+	D_ShieldRegenSpeed = "Shield regenerates at a much faster rate but after a longer initial delay."
 	T_ShieldDamage = "Onda d'urto"
 	T_ShieldStun = "Scarica elettrostatica"
 	T_StaggerChance = "Stordire"
@@ -6728,6 +6913,7 @@ Namespace ST_GearUpgrades (46 keys)
 	D_ProjectileSpeed = "Abbiamo truccato i meccanismi di espulsione della tua arma, adesso i proiettili sono sparati a una velocità molto più alta. "
 	D_ArmorDamage = "Siamo orgogliosi di questo. Triturazione di armature. Attraversa l'armatura di quegli insetti come fosse burro. Cosa potrebbe essere meglio?"
 	D_ShieldStun = "Ogni volta che il tuo scudo si rompe, rilascia una scarica statica che ha la possibilità di stordire i nemici vicini."
+	D_MineralCapacity = "È possibile raccogliere più di ogni minerale prima di dover depositare."
 	D_ExtraAmmo = "Hai dovuto rinunciare a un po dello spazio per i tuoi panini, ma puoi trasportare più munizioni!"
 	D_ShieldDamage = "Il tuo scudo si rompe violentemente, danneggiando tutti i nemici intorno a te nel processo."
 	D_StrongerShield = "Il tuo scudo può assorbire più danni prima di rompersi."

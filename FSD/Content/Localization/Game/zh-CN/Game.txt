@@ -1,7 +1,7 @@
 20 namespaces
-4204 values
+4216 values
 
-Namespace Global (5316 keys)
+Namespace Global (5327 keys)
 	2559D78C40005E5221F26093CB976283 = " 收集 {Collected}／{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " 我倒下了！"
 	31D60A1449082F9AB6DC15844F3810F6 = " 要求"
@@ -164,7 +164,6 @@ Namespace Global (5316 keys)
 	1969DC9F4275BAF4A783BF8DB6BB0158 = "12"
 	AF57E8E54307407BBD4CE385378B51FA = "12"
 	BFD0C2FC438F8480BF7D8FBF3E9CAB32 = "12"
-	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
 	D7EFCA3748861AC3325AC9B7EF8FCDAB = "15"
 	46BF6C22426F51C24E23D4A0541916A8 = "15M"
@@ -605,7 +604,7 @@ Namespace Global (5316 keys)
 	9DB339DA4EF3DB520AC831B94049DC86 = "蓝色水晶"
 	E6AA352F49A9ABDFE75EEE9E699AB88F = "蓝色水晶"
 	36467CDC4EAA77B59E01BB864C9548A3 = "对刁虫的额外伤害"
-	3BEDFA604A0B9EAC6119C1B020A02ECB = "Bonus damage against Mactera aliens"
+	3BEDFA604A0B9EAC6119C1B020A02ECB = "对刁蝇的额外伤害"
 	91C3975A4EE31FF91BAC3BA07551A547 = "对点燃目标造成额外火焰伤害"
 	B8DB1AC5402F6B8427EB7AA8523AE5AF = "奖励采掘黄金"
 	E131A6A44A750D97F848C7B26FA35B23 = "奖励采掘硝石"
@@ -666,6 +665,7 @@ Namespace Global (5316 keys)
 	1CB4D80743318442C308D2A14B857E9C = "搭建已完成 {progress}%"
 	251FA98341B86380F1B7FE815D790818 = "更快搭建"
 	84EFB56C4B7743BB0738C2B559DBD9B4 = "更快搭建"
+	05A790C44DF82D2A88B302BD75DFC82B = "内置减震器，可减少坠落伤害。"
 	F1DE328E4F32FC002F5894B15B02F0AF = "内置减震器，可减少坠落伤害。"
 	C967120044BDB528B0AAA68928C37494 = "球状大胡子"
 	0187503E429D0D844DE504AD1153A970 = "球状大胡子"
@@ -777,6 +777,7 @@ Namespace Global (5316 keys)
 	CD632DD94A019AC3011D17877F561796 = "鸭舌帽 - 鲜红色"
 	6646C9194E65D217184CE39025814731 = "鸭舌帽 - 枪金属色"
 	D5211E1E4EF79EE304DDB38A869D83F8 = "鸭舌帽 - 制式"
+	691C6F1B400FB28CEABC5A9732597C62 = "容量"
 	73B65D21444A0BFB316C25B9FAA33453 = "小心！"
 	9DA3E8D145D105239E9A238772134C36 = "携带甚至更多平台"
 	8D3EFB56476AB1E9B975EF974EE04D6A = "携带更多 IFG 手雷"
@@ -884,7 +885,6 @@ Namespace Global (5316 keys)
 	0CA1BCD64DF715E003401EA491942D09 = "收集 {amount} {resource}"
 	69606828404C54B4230618A0FE348CDF = "收集 {amount} {resource}"
 	8B822AB84AB570127A9AFDB23F2348E0 = "收集 {amount} {resource}"
-	E43ADE69478A0CD6F6FA449B94996A98 = "收集 {amount} {resource}"
 	2C2AD3B542580D19302C62A1C1DB9E0B = "收集 {amount}／{required} {resource}"
 	6F80AA9449DB3236766ABDB2954B99DC = "各就各位！虫群来袭！"
 	EB6AB6CC4E948FE640E464BF0528DD6D = "合成工具帮助队伍翻阅各种险峻地形。 "
@@ -958,6 +958,7 @@ Namespace Global (5316 keys)
 	34BC57334D8B596B15074CBA7FAED9DE = "完成 {value} 个虫蛋收集任务"
 	35030837442AC4F5DF9903B7FD0312C5 = "完成 {value} 个消灭任务"
 	E8FB039A42A80925B9B49886231BD1CA = "完成 {value} 个三级或以上风险等级的任务 "
+	E6DE65D847ECC198B626FF95AF48C143 = "完成 {value} 个五级风险任务 "
 	B68A4C7049F6922DABB4589B0FD033D3 = "完成 {value} 个采矿探险"
 	D0D98D9E431ACCB7357B6E943D52162A = "完成 {value} 个任务"
 	442E7C8549592572BCDADABEA3A79526 = "完成 {value} 个水晶洞穴任务"
@@ -1218,6 +1219,7 @@ Namespace Global (5316 keys)
 	17DFCFE2486582C5680A22A580E5AAC7 = "雷鸣蜂巢 "
 	2974756F40C48748E76939B4171D036E = "雷鸣蜂群"
 	C55C17E9436F1DE5466438950931C189 = "默认控制"
+	44EB8CCD45F0541602747D97DA7BE5DF = "Delay"
 	7DD07AE8403119755FF99F98DF00E119 = "延迟"
 	99DE4F374F07C18A3F1703807B3A46D2 = "交付者："
 	18DE5B0A44CE63349F6EE0A23D2E2794 = "爆破手前来报到……！"
@@ -1327,7 +1329,6 @@ Namespace Global (5316 keys)
 	A1B6E81D4EDC6FF49D483B9378F9039D = "无畏刁虫！"
 	5615688E4D9D8C364150C791BB22BEF6 = "无畏刁虫被消灭了，至少暂时是这样。干得好，伙计们。准备好后按矿骡的返航按钮，我们就来接你们。"
 	DFEF36A247A6C2272A2D52A8EC908B24 = "更快挖掘"
-	FEA4A006477BE60D51B728BFFD6276CA = "更快挖掘"
 	97A3653E445548AB98C752BCD03C6AD0 = "钻它们，烤它们！"
 	65082D9F453F3316D327788612CEB5EB = "机器人到了！"
 	594A7D6C47E8A9ABA04BF9B83E3A4A6B = "机器人来了！"
@@ -1366,7 +1367,6 @@ Namespace Global (5316 keys)
 	B64D576F48C8AF3A46F3E280F20DB223 = "降落程序正在启动！"
 	B7F6BD9244821F3A4A4CC986DE400809 = "降落程序正在启动！扣好安全带！"
 	8F16427642A01822C5F6F78503597354 = "空降舱已启动完毕，是时候出发了！"
-	44EB8CCD45F0541602747D97DA7BE5DF = "持续时间"
 	D691827C439F91E8AE25EE98B3B02C3E = "持续时间"
 	156D2CB74CD0FA572456AEAAA4343674 = "矮人职业名称"
 	868A67D84E782BE15D1D4E8D01DAE858 = "矮人职业名称"
@@ -1495,7 +1495,7 @@ Namespace Global (5316 keys)
 	14E9CFFA456B38B15AAD3C812FE0BA07 = "退回桌面"
 	AA09D158453C1D6160A530B89F427E90 = "退回桌面"
 	2CB080484B4C916DA8265DA3B1ECC54C = "扩容弹鼓"
-	8FAF78B040163FAD823EA2B0310AE884 = "Expanded Fuel Tanks"
+	8FAF78B040163FAD823EA2B0310AE884 = "扩容油箱"
 	15F3D9A3470B0C1CC3F480A1CF92EFBF = "携带更多易燃燃料"
 	49F9980B4A0F4348E53800B723DE72E8 = "专家矿工"
 	D0C851E94B40C04C23EF87AE3A699251 = "专家矿工"
@@ -1608,6 +1608,7 @@ Namespace Global (5316 keys)
 	1F4DC08E482A8C495789C9B0A809297E = "全力开火！"
 	16B75D65445DA07DFAAD58B15A5947C3 = "小心手雷！"
 	68FB6B7643BFE31BB5A59594C7E5E2C3 = "小心炸弹！"
+	044096554B99804952A4B9A8864D7A21 = "小心爆炸！先进的反应装甲层能够阻挡任何爆炸的一半伤害。"
 	45AA03EC4427E8D19AA31B9EF9805349 = "小心爆炸！先进的反应装甲层能够阻挡任何爆炸的一半伤害。"
 	641DF381432B5F79E23BFDADBA39708B = "每次连发射出更多子弹"
 	E03F911D40D16AFB01608D8808387F2D = "开火！"
@@ -1657,6 +1658,7 @@ Namespace Global (5316 keys)
 	FCBF5A8045796B4A5E690DA961AE62C6 = "为战术射击定制"
 	69E800E7423BFFD58AEBB590F614D287 = "为专业而生。和你穿的铠甲搭配。"
 	946817F9422FDCF44323F880416FA7E9 = "专为那些经常烧到自己的人设计。火焰造成的伤害减半。"
+	8C7C97544B02007446405BBF9B12E2F1 = "专为那些经常烧到自己的人设计。火焰造成的伤害减半。"
 	0B78F5004D92D132A1395FB917D75B76 = "给那些有愉快心情的人。"
 	D1CAEFAC4D0E244CD508E3B4D42F1DF6 = "对于使用能量而不是子弹的武器，每发的能量消耗可以被减少。"
 	015A05994C4643A09E7188AF1F882C16 = "堡垒准备就绪！"
@@ -2016,6 +2018,7 @@ Namespace Global (5316 keys)
 	7CFC9F3043146E985E0D809F6881BF36 = "风险奖励"
 	7466072345C05210268EDD9DC408CD72 = "风险奖励：＋{bonus}％"
 	C02F0D934E5B05229F21F084E6C16E20 = "Ｘ 级风险：預告"
+	14DCDE084168C7C01E2F07880D9BC856 = "生化系统"
 	925B88C9473D02AD5A60A7B7547AFBA5 = "镜头摇动"
 	0CA6A36C437B1754AA820195A90B724C = "页眉文本"
 	90FAC95F49069A73A8ACE2B759DD98EA = "页眉文本"
@@ -2370,7 +2373,7 @@ Namespace Global (5316 keys)
 	66F0E28D499A2369799491AF83FEBFC4 = "看不见了！"
 	5940DD09483FB8A41478868CFCB8D073 = "改良二级泵"
 	7E6F0B8347031C0757DA40956D753056 = "提升准确度"
-	F551621B4FD4EF4FA0939DBFE98951CB = "Improved Alignment"
+	F551621B4FD4EF4FA0939DBFE98951CB = "改良准线"
 	D06E3BD64B1886FA4E75489D35012BA4 = "改良发射器"
 	E5D9788F40F556CBF081F7A7C17CCDF9 = "改良发射器"
 	CCCF713A4196DAD4B1562B92E8B71976 = "改良人体工程学"
@@ -2395,6 +2398,7 @@ Namespace Global (5316 keys)
 晋升一名角色将重置其等级为1。但你会保留所有武器、升级、特长、代币、矿石材料和时装物品的进度。"
 	64FB15C24E8ED2B9E943BBAD29DFB59F = "为了表彰你的优异表现，你的安全级别已提升。你已被授权访问酷斯星的新区域。祝贺你，矿工。"
 	6B7CB6B040E9D9BFEB0BC397AE36FADF = "对于会过热的武器，一些组件可以影响武器从该状态中恢复的速度。"
+	A674E248438ADE3BB67D899E82B27EB6 = "接受 {InRate} KB/s，发送 {OutRate} KB/s"
 	075D59304D4A871CE33297A70D614FAC = "待机"
 	878D07B640CB9FB59A6342ADCC21EC0C = "待机"
 	994499E54F6ED7CDBCD36C91E2C5C9FA = "燃烧性复合物"
@@ -2813,7 +2817,6 @@ Namespace Global (5316 keys)
 	8CC378B1434DDB77A263478980DCAFFC = "这里有掠夺虫！ "
 	77B1E4544FAB8FEC3B388FA6A2C239F1 = "已击杀掠夺虫"
 	C09E93CE42058A3090AA3E85399D309D = "深渊领主"
-	765B21E041E57274B5044DB3865481AF = "钻击敌人时更快散热"
 	14DF284D42A6A089E82FB9AAEBF771DD = "遗失的装备"
 	38A352D84AF190E753529A81D7FD5211 = "失去与服务器的连接"
 	597D27244B3BAB229FC8208E850EFA38 = "清晰响亮！"
@@ -2922,7 +2925,7 @@ Namespace Global (5316 keys)
 	FB366B194EDBF10284140D81FD3FBCC0 = "刁蝇瘟疫"
 	8A79295A43386BA5A8106BB9125BB620 = "吐刺刁蝇"
 	5ADEE3184749131394CC1DBFE8E35AC1 = "吐刺刁蝇！"
-	6D3AB8A04DC17BDB2E2D74959CB0B25E = "Mactera Toxin-Coating"
+	6D3AB8A04DC17BDB2E2D74959CB0B25E = "刁蝇毒素涂层"
 	569B58A84052F88185EBC9B75908FEC8 = "一大群刁蝇正朝你们方向而去。做好准备！"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	CDE31F87459CEF2C55D4D58B0680371B = "弹匣容量调整"
@@ -3051,6 +3054,7 @@ Namespace Global (5316 keys)
 	96E6DEFA4D093CABD8D3B8A4201CFB34 = "任务"
 	807A896D4764FA22029B40B69BF5188D = "已完成任务"
 	611133B24CBE09AA7BAFA3A1C5BBF3D9 = "已完成三级或以上风险等级的任务"
+	25E414BB47848C61AE91B2A99988C662 = "已完成五级风险任务"
 	3796F5BA47DABAC727A3869531B4D7D9 = "Mixer 登录"
 	421A198642CC485C6E16ACB86B505CD2 = "Mixer 注销"
 	21B57D6646B6AA3FFC297CA33C763A83 = "嗯，我刚好需要那个！"
@@ -3105,7 +3109,7 @@ Namespace Global (5316 keys)
 	28A2FF2947395FEF10C2FD91AAA7121B = "墨菱石目标已达成！各位干得漂亮！矿骡的“逃生”按钮已激活。"
 	9E571B65445C928ABD523ABF00EB6DAF = "墨菱石目标早就达成了！！"
 	313CA2134D73053B2711D3A5510C1E94 = "墨菱石！"
-	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points that are extra vulnerable to your weapons. Beware, however...some have armored exoskeletons that take NO damage from your weapons."
+	79C599094EB6D6E6E02200AFC58E0859 = "大多数敌人都有弱点，更容易受到你武器的伤害。但要小心……一些敌人有装甲外骨骼，你的武器造不成任何伤害。"
 	9B1654C6431D8A1F5EAA83991FF5C3A5 = "机枪准备好了！"
 	E42F2F63428883B7A6C15AACE2FC3388 = "机枪已架好！ "
 	84DEB86F4720C733085E61992AB19213 = "机枪架好准备用了！"
@@ -3442,7 +3446,6 @@ Namespace Global (5316 keys)
 	AD5E854B489923D1E8198094D115EF4B = "这边来！这个迷你矿骡需要修理！"
 	B87111104BA33C9090D56B947D41CD8D = "整体质量"
 	9C060B6448CD7B7345C880A2B4D58D4B = "过载马达"
-	E67FCA0A46F276ADBA1DD982929248F6 = "过载马达"
 	41D0760646E8C1303547DFBAD06A1A8B = "过载弹药"
 	6B3BF8B148D57215523F0A97F3F3BDFC = "过载弹药"
 	1FF6C8DA495918762EE0E3ADE3B22C14 = "过载护盾发生器"
@@ -3579,6 +3582,7 @@ Namespace Global (5316 keys)
 	77A501E44D470850D5D4DABE679EAFFC = "拿起"
 	E58C168B4B0765162D721EAFDDB0271E = "拾取物"
 	17854F534E086F5BEE4C4090AF6B7738 = "点射第一发高度精准"
+	225CF0104F908812E8ECD382B4E16749 = "延迟 {ping}，接受 {InRate} KB/s，发送 {OutRate} KB/s"
 	76A8D0624745DD7017D1CF97E4AEB989 = "粉色"
 	6F74A43C47DF738B85E92E91EC833A23 = "粉色水晶"
 	A42E36984252D484303E988DF786E440 = "粉色水晶"
@@ -3662,6 +3666,7 @@ Namespace Global (5316 keys)
 	B1D59F3F4199E484B5418BBBA9C43328 = "压力下降速率"
 	AF34EE3140CA8E19872475B1E30D4A62 = "压力恢复速率"
 	9DCB71D348F4D3C52C5F69ACDE16A0E1 = "压力波"
+	6CBA3AD2476B5E68F24020920C4D9107 = "防止后续加入角色重复"
 	A1FAC359403A1149F96076BDD450AF2E = "上一物品"
 	4226F3E441BB2EE57136CCBA52CC3F17 = "价格"
 	3800EE604BF5CDFDDA766AAFD3F381FA = "主要目标"
@@ -3708,6 +3713,7 @@ Namespace Global (5316 keys)
 	FB453B1944F3A303D7CE728B215D8699 = "按键说话"
 	2F492010444C14DCE2D2DB9841081A2B = "把我放下来！ "
 	5FE9FE7649FBA2AB55DD9A882CB32526 = "按Q来循环切换武器"
+	BA35A6794521F32A15B9849DAF3E96D8 = "Q'ronar Shellback"
 	4F009E9E484DAF24B819B69C82444A9A = "测试员兼社区经理"
 	4C37D3F0483CD2623E7B27B036BABE09 = "快速
 加入"
@@ -3766,6 +3772,7 @@ Namespace Global (5316 keys)
 	6449368B45642AB433AE0A8AD6BB702F = "压力恢复"
 	C9BF88714B063BD7BF72CABAB93F0B46 = "射程"
 	76885F274F366DD853C91897DDC53024 = "更快达到最大射速"
+	6DA1BD1B4FD3E2E6C428138A79921CCC = "反应装甲"
 	F9E6E9364EBC3229BB1DCCB57A917CB4 = "反应装甲"
 	4E44F53D4DDE44D2F54010AC09506DC3 = "反应性冲击波"
 	CE2B6CB7492AB99905D8659AFABD9268 = "就绪"
@@ -3807,6 +3814,7 @@ Namespace Global (5316 keys)
 	C82B6B104F4886D99ACEB0AE75CDEBB3 = "红糖！"
 	E20D2459498C4EF3D1C624BDD7AF0B09 = "红糖！"
 	AC6CE04D479431221B4324A21939B47F = "降低维持充能时武器过热的速度"
+	C84678394F7FA93C9EA406A269995E72 = "减少毒素造成的伤害。"
 	83E2EA684FD79938D13434939A276900 = "阶级的差异，还是金钱的？肯定必居其一。"
 	761586C14EE3CCA7F69712804CE964F2 = "精致"
 	3366355F4B8C52F96AF4E7A7314EDA8E = "改良等离子流"
@@ -4131,6 +4139,7 @@ Namespace Global (5316 keys)
 	C9794CD74D900AFB615054A733BD9CBB = "护盾已启动！"
 	1B5A861E440E5C3DB544FAA04AD871BF = "护盾！"
 	A9911C0C40F804A5310DB78EFF2FF591 = "护盾已放置！"
+	B49D0CE044EB650787DFE4B894548F78 = "减震器"
 	BFF99FC8403150FB445DDDB831EE150C = "减震器"
 	8FBF1B42418AA56CC3F77A947CC69DBE = "冲击吸收材料可减少坠落伤害"
 	A2CCAC2B4C63033A17B48581294BE220 = "向它们开枪！不是我！"
@@ -4156,6 +4165,7 @@ Namespace Global (5316 keys)
 	C62B84974B2238D077DE7790E436ACAC = "呼叫队友可让他们过来帮你！这在队伍走散或你倒地需要帮助时十分有用。"
 	075479CB45BF3835DE1846A51811C954 = "显示帧率"
 	3127F8A540D246D860D961AD1DBF602F = "显示 HUD"
+	566802114721F4EE497EF2B3718D166A = "显示网络状态"
 	C4292C7540A90C07387975BA879E2900 = "显示所有统计信息"
 	BEA156E64ECB2A82334E2C900D8A0582 = "让伙计们知道你发现了什么"
 	D0E809FE415757354E08C9A6C291E826 = "对你的队友们表示感谢，或者直接告诉他们有多棒！"
@@ -4454,6 +4464,7 @@ Namespace Global (5316 keys)
 	FA8F99064E366F561C0135A97B4C881C = "团结和啤酒会让我们在一起！"
 	E7D48AB04F7249B465DB8D9ADC835450 = "团队合作。这是保持行业引擎运转的原因！"
 	6C7161BE454C40F23CFC2E9067BEB6B7 = "铁克诺"
+	A096EEB4410C787D70EDFD90BF5A1947 = "绝热涂层"
 	704D55734F30FF0C240B5D95033A3BED = "抓钩松开后能获得暂时性坠落伤害减免"
 	4C3F704B4F6585273365F58B271926EA = "射空弹匣后获得暂时性移速加成"
 	E3F39FEB49C35CD35E533691EBE82D52 = "抓钩松开后能获得暂时性移速加成"
@@ -4561,7 +4572,6 @@ Namespace Global (5316 keys)
 	4F7A63814A530CB4CD09798823BE3784 = "来自环境灾害和武器的热量会提升敌人的温度。如果达到燃点，敌人身上就会着火并受到持续伤害。一些敌人比其它敌人更耐热，需要更长时间将它们暴露在热源下才能引燃。同样，一些敌人有更快的冷却速度，它们着火的持续时间会更短。"
 	D6B58FC042E403301BE0D4AC166F890D = "无与伦比的传奇帽子，纪念一个在大多数矮人心中有非常特殊地位的假期。"
 	4ACB0D84456C00BEFFB4A7A9453C1E62 = "最后一波正在迫近，保持镇定！"
-	A8D8917442A42E2FF92940B306C5BED3 = "特定发射物的寿命和特殊效果的作用时间都可被延长。"
 	4B4BAA624715C6F2FD31B894015641F9 = "等离子线几乎瞬间展开，在近距离变得更有用"
 	E20274D848C3FE6C3A8571BC741F4249 = "最大携弹能力决定了你在任务开始时携带的弹药总量以及你可以再补给的最大弹药数量。"
 	1427F38744164A0EACBE5C9DF34C4A82 = "纪念堂是缅怀罹难矿工的地方，请随意参观、悼念。"
@@ -4693,6 +4703,7 @@ Namespace Global (5316 keys)
 	7D3ECC6941A5B9B36579C3B532AFE83F = "下班后要去喝一杯。"
 	3A4704F1477EBE6619327BA19F734466 = "伙计们，又到新一轮除虫时间了。扫描仪发现大量刁虫虫茧，你们必须在它们孵化之前消灭它们。那里是个虫窝，所以建议你们弹药要带充足。"
 	92CA3E4B4E3514AB473B06B16336AA0A = "准备行动！"
+	A8D8917442A42E2FF92940B306C5BED3 = "Time that must elapse before an effect or function is triggered"
 	F21187F54C31DC48B3231193CECD4018 = "该去挖矿了！"
 	DEA5063F4DC950931F410980D9FE7B3B = "该收集一些黄金了！"
 	9F8B95494EDCF9BB83E751B9D761881D = "该去存矿了！"
@@ -5269,6 +5280,7 @@ Namespace Global (5316 keys)
 	72AC2B6A4F0763A48B9F15BC5D55EFA3 = "你们……你们这些家伙真棒！"
 	C51971284D961C2A6E2D49A7A97838DD = "你的战役奖励已经近在咫尺了。只需再完成一个任务。"
 	A64D138C462257FFAA82B1B965EBAF7B = "你的Steam会话加载似乎有一些问题。"
+	765B21E041E57274B5044DB3865481AF = "Your drills cool when drilling enemies!"
 	4C5DCE4C4254BBEBBA554883E64C2A3B = "你友善的性格确实是个盾牌！你受到的友军伤害降低50%！"
 	C8DEB9DB423364FDA87B2A9D2D292323 = "你的背包已满！"
 	8C8EB983438517248BE7F2A4D6C445FA = "任务已选择，空降舱已启动，快登机吧！"
@@ -5322,7 +5334,6 @@ Namespace Global (5316 keys)
 	E9D9463E42928C3514755BAC259C5AA5 = "[CloseMenu] 否"
 	AEA347F74547383311956F963FE02E16 = "[Fire] + [Mine]：切换视角"
 	205AED9949420AA495E6DBA6AC4E5FA2 = "[Fire] 装备"
-	2C1FF27D4BC4496B4D5DE48D1EAE4665 = "[Fire] 装备皮肤"
 	E18AF9B040442891E50EB9ADBA84DA8E = "[Fire] 标记"
 	DB2DB86B442380F09F7F85BDE6C3BA5A = "[Fire] 标记"
 	C30A43794F4B4C06D3C5638D33EAF1B7 = "[Fire] 放置标记"
@@ -5472,6 +5483,7 @@ Namespace PatchNotes (45 keys)
 	Update_20.1_ShortTitle = "更大，更好，博斯科"
 	Update_20_ShortTitle = "更大，更好，博斯科"
 	Update_11_ShortTitle = "死亡与机枪"
+	Update_21_ShortTitle = "DIE HARDER!"
 	Update_9_ShortTitle = "回头就开钻机！"
 	Update_14_ShortTitle = "全新异形"
 	Update_12_ShortTitle = "飞蝇和交易系统"
@@ -5782,9 +5794,183 @@ Ghost Ship开发团队！
 - 修复了可以在加载时修改提示文本的问题！
 - 修复了地形扫描仪在地形改变时不会正确更新的问题
 "
-	Update_21 = "各位矿工你们好！
+	Update_21 = "Hello Miners!
+With this update, we are introducing more insane challenges - a new LETHAL difficulty level for you to master, multiple new enemies, Mastery and Skins for weapons, and a gazillion other fixes and improvements.
 
-深岩银河更新21
+Lunch Break is over! It’s time to go to work!
+
+- The Ghost Ship Team 
+
+--- PATCH NOTES ---
+
+
+NEW ENEMIES
+-----------------------------------
+BET-C - THE BATTLE M.U.L.E.
+Deep Rock Galactic didn’t invest much in the safety system of their BET-C series of combat M.U.L.E.’s. It only takes a few Xynarch Charge-Sucker parasites licking the robot’s circuits to turn them against the dwarves. In that situation, BET-C’s fast-tracking auto-turret and grenade launcher could become a major threat for any expedition. If you find an infected model, aim for the attached organisms and, once they are eradicated, carefully hammer BET-C until it turns into a trustworthy companion for the rest of the mission.
+
+Q’RONAR SHELLBACK 
+The Q’ronar Shellback is a deadly creature that you might bump into in the Radioactive and Salty regions of Hoxxes. Their tough shells and fast movement speed make them quite hard to kill - try to dodge its rolling attack and kill the Shellback when it stops to spray poison venom at you. 
+
+NAEDOCYTE SHOCKER
+The Naedocyte Shocker is a strange alien flying jellyfish-like creature. The often appear in large swarms and is preferably dealt with before they get close enough to zap you with electrical shocks. So far they’ve been spotted in the regions of Dense Biozone and the Glacial Strata.  
+
+
+NEW DIFFICULTY LEVEL
+-----------------------------------
+By popular demand, we’ve added a LETHAL new difficulty setting only for the most masochistic and badass dwarves out there! We hope you have “fun”... :D
+
+
+OVERALL DIFFICULTY REVAMP
+-----------------------------------
+GENERAL SPAWN LOGIC: The general logic behind how we handle spawns has gotten a big overhaul - balancing waves is now a much more exact and controllable thing for us. This is actually the biggest of all changes we’ve done to the difficulty system, but also the hardest to explain in detail - maybe we’ll do a blog post on this in the future :-)
+
+MISSION SPECIFIC ENEMY TYPES: The Mission Generator now also pre-selects the specific mix of enemies players will encounter in a given mission. Instead of randomly selecting from every enemy type available in the game, players will now face themed swarms of enemies. This change won’t be particularly visible right now, but will serve to improve the overall feel and flow of the enemy swarms as we add more enemy types to the game.
+
+The goal here is to make each mission feel a lot more unique, as well as making it more attractive for players to pursue a more strategic approach - if you have a rough idea of what awful things you might face down in the depths, you stand a better chance of going in as prepared as you can be.
+
+TIME: As a rule, lowering the time between spawning enemy waves means more enemies in general, which results in an overall higher difficulty. Knowing this, we’ve made a few changes to how we time waves:
+- Time elapsed before the first wave appears is based on Difficulty - so higher Difficulty means the first wave arrives faster.
+- Subsequent waves will also spawn faster depending on difficulty level.
+
+SPEED: Attack speed, projectile speed, and movement speed of enemies are increased for the highest difficulties.
+
+ENVIRONMENTAL HAZARDS: You now take more damage from environmental dangers on higher difficulties.
+
+YOU GET THE WAVES YOU DESERVE: Multiple waves are now allowed to spawn at the same time and do not cancel each other out.
+- Example 1: Digging two eggs out in Egg hunt will generate two small waves instead of only one. 
+- Example 2: You can not cancel a wave in progress by calling in the drop pod
+
+IMPORTANT BUGFIX! It turned out Difficulty scaling from 3 to 4 players was not working before - meaning that a 4 player game was as easy as a 3 player game. That is fixed now - so you should feel an overall increase in difficulty for 4 player games on all difficulties. We’ll, of course continue to monitor and tweak as needed.
+
+
+UI IMPROVEMENTS
+-----------------------------------
+NEW ENEMY HEALTH BAR
+We’ve completely revamped the way we put health bars on enemies. Now it will show when the player is aiming at an enemy and it will do it on top of that enemy (instead of in the center of the screen). Additionally, it displays the damage applied to the enemy with every shot.
+
+NEW MISSION READOUT BAR
+The Mission Readout Bar visible on the Space Rig has been updated with more information about the mission in progress, as well as gotten a graphical overhaul.
+
+
+NEW BIOME CONTENT
+-----------------------------------
+In The Salt Pits Region, you’ll now start seeing fragile Salt Platforms - stand on them, but be careful. They’re not tested for dwarf girth. 
+Meanwhile in the Sandblasted Corridors, a Spiky Plant has started sprouting. And yes, it is both spiky and deadly. 
+
+
+PREVENT LATE JOIN DUPLICATION
+-----------------------------------
+You want a diverse team? You don't like teams with three Engineers? The Host now has the option to select “PREVENT LATE JOIN DUPLICATION” from the Escape menu and Options menu. Selecting this option means players LATE JOINING your game will need to select a character class not currently in play. 
+
+Please note: This option does NOT restrict character selection on the Space Rig - we leave that up to you guys to figure out among yourselves. 
+
+
+MORE EQUIPMENT MODIFICATIONS
+-----------------------------------
+The new Modification System has now been implemented for the traversal tools. That means more customization for the Power Drills, the Platform Gun, the Zipline Gun, and the Grappling Gun. Furthermore, your armor modding opportunities also got some tender, loving care...
+
+
+WEAPON MASTERY AND SKINS
+-----------------------------------
+A Weapon Mastery Bar has been added to all gear - as you unlock mods for a given piece of gear, your Mastery with it increases. At certain levels of Mastery, you’ll gain free bonuses. For now the bonuses are restricted to Skins, and only for the primary and secondary weapon slots. Each weapon has three unlockable skins to get.
+
+The majority of our time with this has been spent on getting the system up and running, but we definitely intend to expand on the Skins System as we move a bit further ahead - you can expect other ways than just through the weapon masteries to earn skins in the future. 
+
+
+WEAPON TWEAKS & FIXES
+-----------------------------------
+Yes, we have been both buffing and nerfing a lot of the weapons and here is a compiled list of changes!
+
+PLASMA CHARGER:
+- Flying Nightmare damage no longer stacks on top of direct hit damage.
+- Bouncy Projectiles also bounce on enemies.
+- Charged Shot base area of effect reduced.
+- Normal shot damage increased.
+- Plasma Charger and other projectile weapons no longer ignores armor. Now they have to break it.
+
+"LEAD STORM” POWERED MINIGUN:
+- Base total ammunition increased.
+- Oversized Drum mod value increased.
+- Hot Bullets mod activates earlier.
+- Cold As The Grave mod no longer goes to a set value every time. As originally intended, it will now reduce the heat of the gun a certain amount per kill.
+- Aggressive Venting mod now works as intended.
+
+BRT7 BURST FIRE GUN:
+- Default effectiveness against armor reduced.
+
+DEEPCORE GK2:
+- Armor Penetration mod value increased.
+
+JURY-RIGGED BOOMSTICK:
+- Rate of fire mod renamed to "Double Trigger".
+
+"WARTHOG” AUTO 210:
+- Armor Breaking mod damage increased.
+- Stun Chance mod increased.
+- Turret Whip damage increased.
+
+"STUBBY " VOLTAIC SMG
+- Electrocution Bonus mod value reduced.
+
+DEEPCORE 40MM PGL:
+- Armor Breaking mod more effective.
+- High Capacity Magazine value increased.
+- Stun Hit mod renamed. Chances increased.
+- Incendiary Compound mod decreases the direct damage taken by enemies, but it will set them on fire.
+- Pressure Wave value fixed.
+
+BREACH CUTTER:
+- Extra Ammo mod value reduced.
+- Damage tweaks to compensate for the frame rate dependency fix.
+- Adjustments to the projectile to make it framerate independent.
+
+CRYO CANNON:
+- Sticky Ice cold effect reduced.
+- Base freezing power reduced.
+- Total ammo increased.
+
+CRSPR FLAMETHROWER:
+- Increased base damage.
+- Decreased base Rate of Fire.
+- Decreased base tank capacity.
+- Decreased tank capacity upgrade.
+- Decreased base sticky flames duration.
+- Decreased sticky flames duration upgrades.
+- Increased direct damage upgrade.
+- Increased direct burn upgrade.
+- Increased targets explode upgrade chance.
+
+SUBATA 120: 
+- Mactera Neurotoxin mod effect increased.
+
+
+UPDATED UNREAL ENGINE VERSION TO 4.21
+-----------------------------------
+For quite some time, we have been stuck with Unreal Engine 4.19, but we finally managed to update the engine to 4.21. It seems to have fixed a lot of GPU crashes. Happy days!
+
+
+MISC.
+-----------------------------------
+- Alien Egg Collection mission should now properly distribute the eggs in the mission area.
+- Assignment missions can now include Mission Modifiers. For difficult assignments, higher complexity missions will be preferred.
+- Fixed Restore Save pop-up showing up unnecessarily for ultrawide monitors.
+- Small adjustment to Steam warning message.
+- Fixed a LOT of spelling errors (Yes, we know. Keep sending ‘em our way if you spot any :D).
+- Attempt to fix voice chat issues.
+- A maximum of 2 voice lines for waking up in Medibay will now be played.
+- Umanite and Inert Uranium materials now look a lot more distinct from each other.
+- Landing in Sticky Goo reduces fall damage.
+- Fixed a bug with area damage falloff.
+- Friendly fire modification added to Bosco.
+- Glyphid Warriors, Spitters, and Web Spitters now don't always run away from explosions. It is chance based on different resistances depending on the enemy.
+- Mactera should no longer die just from being frozen.
+- Spitballers weak points now correctly take additional damage from weapons that do extra damage to weak points.
+- Fix hanging grunt scream.
+- Doubled the number of enemies that are able to target one player.
+- Acid Spitters now properly do Poison Damage. (Yes we know - expect a name change here later… :D )
+- Management has approved fixing critical mesh clipping of gantries near Abyss Bar.
+
 "
 	Update_19 = "Hello Miners! 
 
@@ -6567,7 +6753,6 @@ Discord集成
 	Update_13_ShortTitle = "生命值系统微调"
 	Update_15_ShortTitle = "突变警告！"
 	Update_17_ShortTitle = "啤酒节！"
-	Update_21_ShortTitle = "短标题"
 	Update_10_ShortTitle = "隧道景观？"
 	Update_10_Header = "更新10：隧道景观？ - 2018年3月16日"
 	Update_11_Header = "更新11：死亡与机枪 - 2018年3月23日"
@@ -6682,7 +6867,7 @@ Discord集成
 	Update_19_Header = "更新19：枪！很多的枪!"
 	Update_20.1_Header = "更新20.1：更大，更好，博斯科 - 2019年1月3日"
 	Update_20_Header = "更新20：更大，更好，博斯科"
-	Update_21_Header = "更新21：标题"
+	Update_21_Header = "UPDATE 21: DIE HARDER!"
 	Update_9_Header = "更新9：回头就开钻机！ - 2018年3月9日"
 	Update_16_ShortTitle = "凛冬已至"
 
@@ -6700,7 +6885,8 @@ Namespace Resistances (4 keys)
 	Fire = "火焰抗性"
 	Poison = "毒物抗性"
 
-Namespace ST_GearUpgrades (46 keys)
+Namespace ST_GearUpgrades (48 keys)
+	T_MineralCapacity = "大号矿袋"
 	D_BiggerPellets = "手工制作的更大更重的弹丸，供专业矮人使用。不接受替代品。"
 	T_BlowThrough = "穿透性子弹"
 	T_ShieldRegenSpeed = "升压转换器"
@@ -6730,7 +6916,7 @@ Namespace ST_GearUpgrades (46 keys)
 	T_Recoil = "后坐缓冲器"
 	D_BlowThrough = "异形弹头设计用于以最小的能量损失穿透目标。换句话说：一发直接射穿几个敌人！"
 	D_ShieldRegenDelay = "护盾更快开始恢复。"
-	D_ShieldRegenSpeed = "在初始延迟后护盾会更快恢复。"
+	D_ShieldRegenSpeed = "Shield regenerates at a much faster rate but after a longer initial delay."
 	T_ShieldDamage = "冲击波"
 	T_ShieldStun = "静电冲击波"
 	T_StaggerChance = "击晕"
@@ -6744,6 +6930,7 @@ Namespace ST_GearUpgrades (46 keys)
 	D_ProjectileSpeed = "我们强化了你的枪的发射结构，弹药现在的射出速度比原来高了一大截。 "
 	D_ArmorDamage = "我们为这个感到自豪。护甲撕裂。像切开黄油一样撕裂那些大虫子的高密度外骨骼。还有什么可以更好？"
 	D_ShieldStun = "当你的护盾被破坏时会释放一道静电冲击波，有几率击晕附近的敌人。"
+	D_MineralCapacity = "你在矿袋存满前可收集更多的每种矿物。"
 	D_ExtraAmmo = "你不得不放弃一些三明治储备，但你的总弹药量增加了！"
 	D_ShieldDamage = "你的护盾猛烈地爆开，对周围所有敌人造成伤害。"
 	D_StrongerShield = "你的护盾在被破坏前可吸收更多伤害。"

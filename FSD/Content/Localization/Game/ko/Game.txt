@@ -1,7 +1,7 @@
 20 namespaces
-4298 values
+4309 values
 
-Namespace Global (5299 keys)
+Namespace Global (5308 keys)
 	2559D78C40005E5221F26093CB976283 = " {Collected}/{Required} {Title} 을(를) 수집하시오"
 	3E2E82954782E77A2F596AB7FEA09136 = " 나 떨어졌어!"
 	31D60A1449082F9AB6DC15844F3810F6 = " 필요함"
@@ -163,7 +163,6 @@ Namespace Global (5299 keys)
 	1969DC9F4275BAF4A783BF8DB6BB0158 = "12"
 	AF57E8E54307407BBD4CE385378B51FA = "12"
 	BFD0C2FC438F8480BF7D8FBF3E9CAB32 = "12"
-	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
 	D7EFCA3748861AC3325AC9B7EF8FCDAB = "15"
 	46BF6C22426F51C24E23D4A0541916A8 = "15M"
@@ -663,6 +662,7 @@ Namespace Global (5299 keys)
 	1CB4D80743318442C308D2A14B857E9C = "건설 {progress}% 완료"
 	251FA98341B86380F1B7FE815D790818 = "더 빠르게 건설합니다"
 	84EFB56C4B7743BB0738C2B559DBD9B4 = "빠르게 건설합니다"
+	05A790C44DF82D2A88B302BD75DFC82B = "충격 흡수 장치가 내장되어 추락 시의 고통을 덜어줍니다."
 	F1DE328E4F32FC002F5894B15B02F0AF = "충격 흡수 장치가 내장되어 추락 시의 고통을 덜어줍니다."
 	C967120044BDB528B0AAA68928C37494 = "둥글납작하고 풍성한 수염"
 	0187503E429D0D844DE504AD1153A970 = "둥글납작하고 풍성한 수염"
@@ -774,6 +774,7 @@ Namespace Global (5299 keys)
 	CD632DD94A019AC3011D17877F561796 = "모자 - 다홍색"
 	6646C9194E65D217184CE39025814731 = "모자 - 건 메탈"
 	D5211E1E4EF79EE304DDB38A869D83F8 = "모자 - 유니폼"
+	691C6F1B400FB28CEABC5A9732597C62 = "용량"
 	73B65D21444A0BFB316C25B9FAA33453 = "조심해!"
 	9DA3E8D145D105239E9A238772134C36 = "좀 더 많은 플랫폼을 들고다닐 수 있습니다"
 	8D3EFB56476AB1E9B975EF974EE04D6A = "더 많은 IFG 소지량"
@@ -881,7 +882,6 @@ Namespace Global (5299 keys)
 	0CA1BCD64DF715E003401EA491942D09 = "{amount} {resource} 수집"
 	69606828404C54B4230618A0FE348CDF = "{amount} {resource} 를 수집하시오"
 	8B822AB84AB570127A9AFDB23F2348E0 = "{amount} {resource} 수집"
-	E43ADE69478A0CD6F6FA449B94996A98 = "{amount} {resource} 수집"
 	2C2AD3B542580D19302C62A1C1DB9E0B = "{amount}/{required} {resource} 을(를) 모으세요"
 	6F80AA9449DB3236766ABDB2954B99DC = "전투 위치로! 군단이 온다!"
 	EB6AB6CC4E948FE640E464BF0528DD6D = "팀의 재량에 따라 도구들을 결합해 어려운 지형을 통과할 수 있습니다. "
@@ -922,11 +922,11 @@ Namespace Global (5299 keys)
 	BCDD2CFA4E8D2067F837E19B511B63D0 = "평범한 소금"
 	3D271D7C4D840F36DB7A17A6D6CE5E6F = "커뮤니티가 번역했습니다"
 	38E4A63D4718F7FA626DB182D8AD964C = "커뮤니티 번역 (76% 완료)"
-	630A2CC9415CD85951BEA7917A271F53 = "탄탄한 흑벽"
-	6FBAE6DB4AAE26829458E58ADC59FF03 = "탄탄한 흑벽"
-	90DA1BB8439888EC43D5F3AE1F7BD4AA = "탄탄한 흑벽"
-	CAA4B0924362837962737D9BE73322E8 = "탄탄한 흑벽"
-	E0F791B54B36121FA71673A0AD6CD11F = "탄탄한 흑벽"
+	630A2CC9415CD85951BEA7917A271F53 = "탄탄한 흙벽"
+	6FBAE6DB4AAE26829458E58ADC59FF03 = "탄탄한 흙벽"
+	90DA1BB8439888EC43D5F3AE1F7BD4AA = "탄탄한 흙벽"
+	CAA4B0924362837962737D9BE73322E8 = "탄탄한 흙벽"
+	E0F791B54B36121FA71673A0AD6CD11F = "탄탄한 흙벽"
 	1B90A5C1470717449A119FB58DD748CA = "회사 혜택: 광물 거래 네트워크"
 	C663F89C4B24952F22CC4EA7FB6FA4DE = "회사 규정, 엿이나 먹어라!"
 	84B92DFB4FAF94769A5856AC74634B31 = "나침반"
@@ -955,6 +955,7 @@ Namespace Global (5299 keys)
 	34BC57334D8B596B15074CBA7FAED9DE = "알 추적을 {value} 번 완료하세요"
 	35030837442AC4F5DF9903B7FD0312C5 = "섬멸 임무를 {value} 번 완료하세요"
 	E8FB039A42A80925B9B49886231BD1CA = "위험도 3 혹은 그 이상으로 {value} 번 완료하세요 "
+	E6DE65D847ECC198B626FF95AF48C143 = "위험도 5 에서 {value} 번 임무를 완료하세요 "
 	B68A4C7049F6922DABB4589B0FD033D3 = "채광 원정을 {value} 번 완료하세요"
 	D0D98D9E431ACCB7357B6E943D52162A = "임무를 {value} 번 완료하세요"
 	442E7C8549592572BCDADABEA3A79526 = "크리스탈라인 동굴에서 {value} 번 임무를 완료하세요"
@@ -1084,7 +1085,6 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	B30C12434A5F8E02A131E8A6D903A542 = "제작진"
 	6D72FAF94418F9AF292CBE9ABDC6D17F = "결제 완료되었네. 보급 포드 강하 중."
 	F86CEA9045E0447697A5129A19A9C6E0 = "Credits to Our Community"
-	BA35A6794521F32A15B9849DAF3E96D8 = "크립 라우스 애덜레선트"
 	DEA8B04C44BB57535CA4E398DEF783B4 = "모히칸"
 	CAA5A22A4E6EF0CCA9BC6FAAD88DE603 = "치명적 과열"
 	81F477394FD1960C89BA93BEB72D7577 = "치명적인 약점"
@@ -1215,6 +1215,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	17DFCFE2486582C5680A22A580E5AAC7 = "딥토라 벌집"
 	2974756F40C48748E76939B4171D036E = "딥토라 스웜"
 	C55C17E9436F1DE5466438950931C189 = "기본 컨트롤"
+	44EB8CCD45F0541602747D97DA7BE5DF = "Delay"
 	7DD07AE8403119755FF99F98DF00E119 = "지연률"
 	99DE4F374F07C18A3F1703807B3A46D2 = "의해 전달됨"
 	18DE5B0A44CE63349F6EE0A23D2E2794 = "데몰리셔니스트 명 받았습니다...!"
@@ -1324,7 +1325,6 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	A1B6E81D4EDC6FF49D483B9378F9039D = "드레드노트!"
 	5615688E4D9D8C364150C791BB22BEF6 = "드레드노트들을 처리했어 - 지금은 말이지. 잘했네, 대원들. 준비가 되면 MULE의 귀환 버튼을 눌러, 그러면 우리가 데리러 가지."
 	DFEF36A247A6C2272A2D52A8EC908B24 = "드릴 속도"
-	FEA4A006477BE60D51B728BFFD6276CA = "더 빠르게 분쇄합니다"
 	97A3653E445548AB98C752BCD03C6AD0 = "굽고 삶아주지!"
 	65082D9F453F3316D327788612CEB5EB = "드론이 도착했습니다!"
 	594A7D6C47E8A9ABA04BF9B83E3A4A6B = "드론이 여기 있다!"
@@ -1363,7 +1363,6 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	B64D576F48C8AF3A46F3E280F20DB223 = "강하 시퀸스 개시!"
 	B7F6BD9244821F3A4A4CC986DE400809 = "강하 시퀸스 개시! 어서 안전벨트를 착용하도록!"
 	8F16427642A01822C5F6F78503597354 = "강하 포드 준비 완료 - 떠날 시간이다!"
-	44EB8CCD45F0541602747D97DA7BE5DF = "지속시간"
 	D691827C439F91E8AE25EE98B3B02C3E = "지속시간"
 	868A67D84E782BE15D1D4E8D01DAE858 = "드워프 클래스 이름"
 	3EEA47DA449CA2E4EFB347A4F3AF4272 = "나 쓰러졌어!"
@@ -1604,6 +1603,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	1F4DC08E482A8C495789C9B0A809297E = "효력사!"
 	16B75D65445DA07DFAAD58B15A5947C3 = "수류탄 투척!"
 	68FB6B7643BFE31BB5A59594C7E5E2C3 = "수류탄 투척!"
+	044096554B99804952A4B9A8864D7A21 = "전방 수류탄! 멋진 반응성 장갑이 모든 폭발의 피해를 반감시켜줍니다."
 	45AA03EC4427E8D19AA31B9EF9805349 = "전방 수류탄! 멋진 반응성 장갑이 모든 폭발의 피해를 반감시켜줍니다."
 	641DF381432B5F79E23BFDADBA39708B = "매 점사 시 더 많은 탄을 발사함"
 	E03F911D40D16AFB01608D8808387F2D = "발사!"
@@ -1653,6 +1653,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	FCBF5A8045796B4A5E690DA961AE62C6 = "전술 사격 전용"
 	69E800E7423BFFD58AEBB590F614D287 = "전문가를 위한 모자입니다. 당신이 현재 착용한 방어구와 딱 맞아 떨어집니다."
 	946817F9422FDCF44323F880416FA7E9 = "그들은 미디움 레어를 선호합니다. 화염 피해량이 절반으로 줄어듭니다."
+	8C7C97544B02007446405BBF9B12E2F1 = "미디움 레어를 선호하는 사람들을 위해. 화염 피해량이 절반으로 줄어듭니다."
 	0B78F5004D92D132A1395FB917D75B76 = "쾌활한 성격 소유자를 위한 눈썹"
 	D1CAEFAC4D0E244CD508E3B4D42F1DF6 = "총알 대신에 에너지를 사용하는 무기의 경우 모든 발사의 에너지 효율성을 향상시킬 수 있습니다."
 	015A05994C4643A09E7188AF1F882C16 = "방어 준비 완료!"
@@ -2011,6 +2012,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	C5776A50489801226E37328215A1B4DD = "위험도 5 - 치명적"
 	7CFC9F3043146E985E0D809F6881BF36 = "위험도 보너스"
 	7466072345C05210268EDD9DC408CD72 = "위험도 보너스: +{bonus} %"
+	14DCDE084168C7C01E2F07880D9BC856 = "방호 시스템"
 	925B88C9473D02AD5A60A7B7547AFBA5 = "머리 흔들림"
 	90FAC95F49069A73A8ACE2B759DD98EA = "머리글 텍스트"
 	AB82FD6A422E7E92C1E1D38D31538002 = "머리글 텍스트"
@@ -2387,6 +2389,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 캐릭터를 승진시키면 레벨 1로 초기화됩니다. 당신의 무기와 강화, 당신의 퍽, 크레딧, 제작 재료 및 외형 아이템에 대한 모든 진행도는 유지될 것입니다."
 	64FB15C24E8ED2B9E943BBAD29DFB59F = "자네의 실적이 인정되어, 보안 등급이 한 단계 올라갔네. Hoxxes의 새 지역에 대한 접근 권한이 부여되었네. 축하하네, 광부."
 	6B7CB6B040E9D9BFEB0BC397AE36FADF = "과열되는 무기의 경우, 일부 개조 부품이 무기가 그 상태에서 회복되는 속도에 영향을 줄 수 있습니다."
+	A674E248438ADE3BB67D899E82B27EB6 = "In {InRate} KB/s, Out {OutRate} KB/s"
 	075D59304D4A871CE33297A70D614FAC = "비활성 상태"
 	878D07B640CB9FB59A6342ADCC21EC0C = "비활성 상태"
 	994499E54F6ED7CDBCD36C91E2C5C9FA = "소이탄 화합물"
@@ -2805,7 +2808,6 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	8CC378B1434DDB77A263478980DCAFFC = "여기 루트 버그가 있어! "
 	77B1E4544FAB8FEC3B388FA6A2C239F1 = "죽인 루트 버그"
 	C09E93CE42058A3090AA3E85399D309D = "삽질의 제왕"
-	765B21E041E57274B5044DB3865481AF = "적들을 분쇄시키면 빠르게 냉각됩니다."
 	14DF284D42A6A089E82FB9AAEBF771DD = "분실된 장비"
 	38A352D84AF190E753529A81D7FD5211 = "서버와의 연결이 끊어졌습니다."
 	597D27244B3BAB229FC8208E850EFA38 = "이해하기 쉬운 대화수단이지!"
@@ -2940,7 +2942,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	BE7220884C71C491BEAA77890F67A888 = "경영진은 이번 일로 항의 편지를 받게될거야!"
 	A14DDD2A44A64E72A7BB928B25831D6F = "경영진은 자네가 더 어려운 도전에 대해 준비가 됐다고 믿고있네, 그리고 자넨 구조 작업을 위한 허가를 받았어. 그들을 실망시키지 말게."
 	59367B3E408977420445739971EEE004 = "필수 업데이트 활성화됨"
-	EA5ACFD1480073F4BEE6CDA33C7748BB = "많은 적들은 딱딱한 표피를 가지고있어 피해를 줄이거 나 총알을 완전히 차단합니다. 그 부위는 신체를 보호하며 어떠한 종류의 피해로도 파손될 수 있습니다. 아무리 그래도, 갑피 파괴 능력을 가진 투사체가 갑피를 파괴하는데에 탁월합니다."
+	EA5ACFD1480073F4BEE6CDA33C7748BB = "많은 적들은 딱딱한 표피를 가지고있어 피해를 줄이거나 총알을 완전히 차단합니다. 그 부위는 신체를 보호하며 어떠한 종류의 피해로도 파손될 수 있습니다. 아무리 그래도, 갑피 파괴 능력을 가진 투사체가 갑피를 파괴하는데에 탁월합니다."
 	733C15B24399675475D0C9A08A57F964 = "지도"
 	4FFCD57D4CECA5DC37F262A7A3C18B37 = "스캐너로 벽을 표시하면 보스코가 그곳으로 가서 빛을 밝혀줍니다."
 	0B5A239F4B406C69902945B68B022CCB = "표시했어!"
@@ -3043,6 +3045,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	96E6DEFA4D093CABD8D3B8A4201CFB34 = "임무"
 	807A896D4764FA22029B40B69BF5188D = "임무 완료"
 	611133B24CBE09AA7BAFA3A1C5BBF3D9 = "위험도 3 혹은 그 이상으로 임무 완료하기"
+	25E414BB47848C61AE91B2A99988C662 = "위험도 5 에서 임무 완료하기"
 	3796F5BA47DABAC727A3869531B4D7D9 = "Mixer 로그인"
 	421A198642CC485C6E16ACB86B505CD2 = "Mixer 로그아웃"
 	21B57D6646B6AA3FFC297CA33C763A83 = "Mmh, 난 이게 필요했어!"
@@ -3234,7 +3237,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	6DB7536F47654EBAB8DDA8ACCF2ED0E6 = "보통"
 	74D13FE94A82AB044ED0218B4515D516 = "보통"
 	B7E8693D48943E06E3E77C9E29A44F0E = "일반 사격 탄력"
-	929C00EA4DD2DA4B12C718B74F359085 = "기본 발사는 사라질 때까지 모든 표면에서 튀어오릅니다."
+	929C00EA4DD2DA4B12C718B74F359085 = "기본 발사체는 사라질 때까지 모든 표면에서 튕겨나옵니다."
 	E5730AC64C1501C0A426DA8F96AA6CBB = "비쌈"
 	7F99AF0C4FD0D46D49BC12A4D33A9F55 = "꽐라됨!"
 	012E832C41B0C601DA207982AE16EFB5 = "전통적인 의미의 턱수염은 아니지만, 이것은 약간의 품격을 더 해줍니다."
@@ -3437,7 +3440,6 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	AD5E854B489923D1E8198094D115EF4B = "여기야! 이 미니 Mule은 수리가 필요하다구!"
 	B87111104BA33C9090D56B947D41CD8D = "전체 품질"
 	9C060B6448CD7B7345C880A2B4D58D4B = "과충전 모터"
-	E67FCA0A46F276ADBA1DD982929248F6 = "과충전 모터"
 	41D0760646E8C1303547DFBAD06A1A8B = "과충전 탄"
 	6B3BF8B148D57215523F0A97F3F3BDFC = "과충전 탄"
 	1FF6C8DA495918762EE0E3ADE3B22C14 = "과충전된 보호막 생성기"
@@ -3658,6 +3660,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	B1D59F3F4199E484B5418BBBA9C43328 = "압력 감소율"
 	AF34EE3140CA8E19872475B1E30D4A62 = "압력 상승율"
 	9DCB71D348F4D3C52C5F69ACDE16A0E1 = "압력파"
+	6CBA3AD2476B5E68F24020920C4D9107 = "접속 지연시 캐릭터 복사 방지"
 	A1FAC359403A1149F96076BDD450AF2E = "이전 아이템"
 	4226F3E441BB2EE57136CCBA52CC3F17 = "가격"
 	3800EE604BF5CDFDDA766AAFD3F381FA = "주요 목표"
@@ -3704,6 +3707,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	FB453B1944F3A303D7CE728B215D8699 = "눌러서 말하기"
 	2F492010444C14DCE2D2DB9841081A2B = "날 내려놔! "
 	5FE9FE7649FBA2AB55DD9A882CB32526 = "Q 를 눌러 무기 바꾸기"
+	BA35A6794521F32A15B9849DAF3E96D8 = "Q'ronar Shellback"
 	4F009E9E484DAF24B819B69C82444A9A = "QA & 커뮤니티 매니저"
 	4C37D3F0483CD2623E7B27B036BABE09 = "빠른
 참가"
@@ -3762,6 +3766,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	6449368B45642AB433AE0A8AD6BB702F = "재가압"
 	C9BF88714B063BD7BF72CABAB93F0B46 = "사정거리"
 	76885F274F366DD853C91897DDC53024 = "최대 발사속도에 더 빨리 도달합니다"
+	6DA1BD1B4FD3E2E6C428138A79921CCC = "반응 장갑"
 	F9E6E9364EBC3229BB1DCCB57A917CB4 = "반응 장갑"
 	4E44F53D4DDE44D2F54010AC09506DC3 = "반응성 충격파"
 	CE2B6CB7492AB99905D8659AFABD9268 = "준비"
@@ -3803,6 +3808,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	C82B6B104F4886D99ACEB0AE75CDEBB3 = "레드 슈거다!"
 	E20D2459498C4EF3D1C624BDD7AF0B09 = "레드 슈거다!"
 	AC6CE04D479431221B4324A21939B47F = "충전된 탄을 유지하는 동안 무기가 과열되는 속도를 줄입니다"
+	C84678394F7FA93C9EA406A269995E72 = "독으로부터받는 피해를 감소시킵니다."
 	83E2EA684FD79938D13434939A276900 = "좀 있어보이는 냄새를 풍깁니다. 아님 돈냄새던가, 둘 중 하나겠죠, 정말루요."
 	761586C14EE3CCA7F69712804CE964F2 = "세련된"
 	3366355F4B8C52F96AF4E7A7314EDA8E = "정밀한 플라즈마 공급"
@@ -4127,6 +4133,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	C9794CD74D900AFB615054A733BD9CBB = "보호막 작동!"
 	1B5A861E440E5C3DB544FAA04AD871BF = "보호막이다!"
 	A9911C0C40F804A5310DB78EFF2FF591 = "보호막이 배치됐다!"
+	B49D0CE044EB650787DFE4B894548F78 = "충격 흡수제"
 	BFF99FC8403150FB445DDDB831EE150C = "충격 흡수제"
 	8FBF1B42418AA56CC3F77A947CC69DBE = "충격 흡수 화합물이 낙하 피해를 줄입니다"
 	A2CCAC2B4C63033A17B48581294BE220 = "쟤들을 쏘라고, 나 말고!!"
@@ -4152,6 +4159,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	C62B84974B2238D077DE7790E436ACAC = "동료들이 당신에게 오게하려면 소리 치십시오! 고립되어서 서로를 찾을 수 없을 때나 쓰러져서 도움이 필요할 때 유용할 것입니다."
 	075479CB45BF3835DE1846A51811C954 = "FPS 카운터 표시"
 	3127F8A540D246D860D961AD1DBF602F = "HUD 출력"
+	566802114721F4EE497EF2B3718D166A = "네트워크 통계 표시"
 	C4292C7540A90C07387975BA879E2900 = "모든 통계 표시"
 	BEA156E64ECB2A82334E2C900D8A0582 = "친구에게 당신이 발견한 것을 보여주세요"
 	D0E809FE415757354E08C9A6C291E826 = "팀원들에게 감사의 마음을 표현하거나 간단하게 그들이 얼마나 멋진지 알려주세요!"
@@ -4378,7 +4386,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	8663DE104ABC1FF7910089A35A6C6359 = "군단이다! 놈들이 왔어!"
 	714B23C14DACCEFFB1C8268FF3C9CACD = "스워머 터널이 여기있다, 조심해!"
 	F4954EFF4CE86B70400816AB8DACAD78 = "스워머 터널이다!"
-	B14EDEF34D465EA2AD6BC5936DE38F83 = "스워머들이 온다! 저 쪼끄만 놈들은 으깨버리라고!"
+	B14EDEF34D465EA2AD6BC5936DE38F83 = "스워머들이 온다! 저 쪼끄만 놈들을 으깨버리라고!"
 	0EAD20154FCD2A6E5607B4B72A9EE2C6 = "스워머들이야, 대원들. 개떼같이 그쪽으로 몰려드는군. 준비해둬."
 	A272CAF5416877386404BC9ABDFA75AF = "설탕 치아"
 	074E5ED2464BFFB22B3D28A05547229A = "좋았어!"
@@ -4458,6 +4466,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	FA8F99064E366F561C0135A97B4C881C = "팀 워크와 맥주가 우릴 돈독하게 만들어줄거야!"
 	E7D48AB04F7249B465DB8D9ADC835450 = "팀워크. 이것이 산업을 유지시키는 위대한 엔진이죠!"
 	6C7161BE454C40F23CFC2E9067BEB6B7 = "Techno"
+	A096EEB4410C787D70EDFD90BF5A1947 = "단열 처리"
 	704D55734F30FF0C240B5D95033A3BED = "그래플링 건을 해제한 후 일시적으로 낙하피해량 경감 효과를 받게됩니다"
 	4C3F704B4F6585273365F58B271926EA = "탄창을 비운 후 임시 이동 속도 보너스"
 	E3F39FEB49C35CD35E533691EBE82D52 = "그래플링 건을 해제한 후 일시적으로 이동속도 증가 효과를 받게됩니다"
@@ -4566,7 +4575,6 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	4F7A63814A530CB4CD09798823BE3784 = "일부 위험 요소와 무기로부터 오는 열은 적의 온도를 상승시킵니다. 연소 지점에 도달하면 효과가 지속되는 동안 시간이 지남에 따라 화염이 터져 파손됩니다. 어떤 적들은 다른 종 보다 더 많은 열 저항력을 보유하고 있으며, 발화시키기 위해서는 열원에 더 오래 노출 될 필요가 있습니다. 같은 이유로, 몇몇 적들은 더 빨리 냉각시키기 때문에 다른 종들 보다 더 빨리 소화됩니다."
 	D6B58FC042E403301BE0D4AC166F890D = "비교 불가능한 전설의 모자, 대부분의 드워프들의 마음 속 매우 특별한 장소의 기념일을 기념합니다."
 	4ACB0D84456C00BEFFB4A7A9453C1E62 = "지금 마지막 공세가 가고있네. 대열을 유지해!"
-	A8D8917442A42E2FF92940B306C5BED3 = "특정 투사체의 효과와 지속시간이 연장 될 수 있습니다."
 	4B4BAA624715C6F2FD31B894015641F9 = "투사체가 거의 즉시 전개되어 근거리에서 좀 더 유용해집니다"
 	E20274D848C3FE6C3A8571BC741F4249 = "최대 보유량은 당신이 임무를 시작할 때 휴대하는 탄약의 양과 재충전 할 수있는 최대 탄약의 양을 결정합니다."
 	1427F38744164A0EACBE5C9DF34C4A82 = "기념관은 경의를 표하는 곳일세. 자유롭게 돌아다니고 자네의 존경심을 표해주게."
@@ -4698,6 +4706,7 @@ DRG에서 최선의 최선을 다할뿐입니다. 코스는 67%의 낙오율을 
 	7D3ECC6941A5B9B36579C3B532AFE83F = "이 일이 끝나면 한 잔 해야겠군."
 	3A4704F1477EBE6619327BA19F734466 = "해충 박멸시간이다 대원들. 스캐너에 드레드노트 고치가 포착됐어, 상황이 더 나빠지기 전에 박멸해야 할걸세. 내 조언은: 탄약을 두둑히 챙기고 - 아주 벌집으로 만들어버리는거지."
 	92CA3E4B4E3514AB473B06B16336AA0A = "움직일 시간이군!"
+	A8D8917442A42E2FF92940B306C5BED3 = "Time that must elapse before an effect or function is triggered"
 	F21187F54C31DC48B3231193CECD4018 = "채굴할 시간입니다!"
 	DEA5063F4DC950931F410980D9FE7B3B = "금을 좀 모을 시간이군!"
 	9F8B95494EDCF9BB83E751B9D761881D = "담을 시간이다!"
@@ -5272,6 +5281,7 @@ ROCK & STONE!"
 	72AC2B6A4F0763A48B9F15BC5D55EFA3 = "너...너네들 정말 멋져!"
 	C51971284D961C2A6E2D49A7A97838DD = "이제 한 임무만 더 마치면 되네. 자네의 과제 보너스가 코앞에 다가왔어."
 	A64D138C462257FFAA82B1B965EBAF7B = "당신의 스팀 세션에 로딩 문제가 있는 것 같습니다."
+	765B21E041E57274B5044DB3865481AF = "Your drills cool when drilling enemies!"
 	4C5DCE4C4254BBEBBA554883E64C2A3B = "당신의 박애주의적인 성격은 그야말로 방패입니다! 당신은 아군 오사로부터 50%의 경감된 피해를 받습니다!"
 	C8DEB9DB423364FDA87B2A9D2D292323 = "당신의 가방이 가득찼습니다."
 	8C8EB983438517248BE7F2A4D6C445FA = "임무 준비 완료, 포드 준비 완료 - 강하 포드에 탑승하도록!"
@@ -5322,7 +5332,6 @@ ROCK & STONE!"
 	E9D9463E42928C3514755BAC259C5AA5 = "[CloseMenu] 아니오"
 	AEA347F74547383311956F963FE02E16 = "[Fire] + [Mine]: 카메라 전환"
 	205AED9949420AA495E6DBA6AC4E5FA2 = "[Fire] 장비"
-	2C1FF27D4BC4496B4D5DE48D1EAE4665 = "[Fire] 피부 변경"
 	E18AF9B040442891E50EB9ADBA84DA8E = "[Fire] 마크"
 	DB2DB86B442380F09F7F85BDE6C3BA5A = "[Fire] 마크"
 	C30A43794F4B4C06D3C5638D33EAF1B7 = "[Fire] 마커 남기기"
@@ -5465,6 +5474,7 @@ Namespace PatchNotes (45 keys)
 	Update_20.1_ShortTitle = "크고, 아름다운, 보스코"
 	Update_20_ShortTitle = "크고, 아름다운, 보스코"
 	Update_11_ShortTitle = "데드 앤 건"
+	Update_21_ShortTitle = "DIE HARDER!"
 	Update_9_ShortTitle = "드릴 넌 나중에!"
 	Update_14_ShortTitle = "FEATURE CREEP"
 	Update_12_ShortTitle = "파리들과 재정"
@@ -5789,9 +5799,183 @@ Co-op 세션
 - Fixed: 로딩하는 동안 힌트 텍스트를 더 이상 편집할 수 없도록 했습니다
 - 지형 변화가 맵 툴에 올바르게 업데이트 안되는 현상 수정
 "
-	Update_21 = "안녕하세요 광부여러분!
+	Update_21 = "Hello Miners!
+With this update, we are introducing more insane challenges - a new LETHAL difficulty level for you to master, multiple new enemies, Mastery and Skins for weapons, and a gazillion other fixes and improvements.
 
-Deep Rock Galactic 업데이트 21
+Lunch Break is over! It’s time to go to work!
+
+- The Ghost Ship Team 
+
+--- PATCH NOTES ---
+
+
+NEW ENEMIES
+-----------------------------------
+BET-C - THE BATTLE M.U.L.E.
+Deep Rock Galactic didn’t invest much in the safety system of their BET-C series of combat M.U.L.E.’s. It only takes a few Xynarch Charge-Sucker parasites licking the robot’s circuits to turn them against the dwarves. In that situation, BET-C’s fast-tracking auto-turret and grenade launcher could become a major threat for any expedition. If you find an infected model, aim for the attached organisms and, once they are eradicated, carefully hammer BET-C until it turns into a trustworthy companion for the rest of the mission.
+
+Q’RONAR SHELLBACK 
+The Q’ronar Shellback is a deadly creature that you might bump into in the Radioactive and Salty regions of Hoxxes. Their tough shells and fast movement speed make them quite hard to kill - try to dodge its rolling attack and kill the Shellback when it stops to spray poison venom at you. 
+
+NAEDOCYTE SHOCKER
+The Naedocyte Shocker is a strange alien flying jellyfish-like creature. The often appear in large swarms and is preferably dealt with before they get close enough to zap you with electrical shocks. So far they’ve been spotted in the regions of Dense Biozone and the Glacial Strata.  
+
+
+NEW DIFFICULTY LEVEL
+-----------------------------------
+By popular demand, we’ve added a LETHAL new difficulty setting only for the most masochistic and badass dwarves out there! We hope you have “fun”... :D
+
+
+OVERALL DIFFICULTY REVAMP
+-----------------------------------
+GENERAL SPAWN LOGIC: The general logic behind how we handle spawns has gotten a big overhaul - balancing waves is now a much more exact and controllable thing for us. This is actually the biggest of all changes we’ve done to the difficulty system, but also the hardest to explain in detail - maybe we’ll do a blog post on this in the future :-)
+
+MISSION SPECIFIC ENEMY TYPES: The Mission Generator now also pre-selects the specific mix of enemies players will encounter in a given mission. Instead of randomly selecting from every enemy type available in the game, players will now face themed swarms of enemies. This change won’t be particularly visible right now, but will serve to improve the overall feel and flow of the enemy swarms as we add more enemy types to the game.
+
+The goal here is to make each mission feel a lot more unique, as well as making it more attractive for players to pursue a more strategic approach - if you have a rough idea of what awful things you might face down in the depths, you stand a better chance of going in as prepared as you can be.
+
+TIME: As a rule, lowering the time between spawning enemy waves means more enemies in general, which results in an overall higher difficulty. Knowing this, we’ve made a few changes to how we time waves:
+- Time elapsed before the first wave appears is based on Difficulty - so higher Difficulty means the first wave arrives faster.
+- Subsequent waves will also spawn faster depending on difficulty level.
+
+SPEED: Attack speed, projectile speed, and movement speed of enemies are increased for the highest difficulties.
+
+ENVIRONMENTAL HAZARDS: You now take more damage from environmental dangers on higher difficulties.
+
+YOU GET THE WAVES YOU DESERVE: Multiple waves are now allowed to spawn at the same time and do not cancel each other out.
+- Example 1: Digging two eggs out in Egg hunt will generate two small waves instead of only one. 
+- Example 2: You can not cancel a wave in progress by calling in the drop pod
+
+IMPORTANT BUGFIX! It turned out Difficulty scaling from 3 to 4 players was not working before - meaning that a 4 player game was as easy as a 3 player game. That is fixed now - so you should feel an overall increase in difficulty for 4 player games on all difficulties. We’ll, of course continue to monitor and tweak as needed.
+
+
+UI IMPROVEMENTS
+-----------------------------------
+NEW ENEMY HEALTH BAR
+We’ve completely revamped the way we put health bars on enemies. Now it will show when the player is aiming at an enemy and it will do it on top of that enemy (instead of in the center of the screen). Additionally, it displays the damage applied to the enemy with every shot.
+
+NEW MISSION READOUT BAR
+The Mission Readout Bar visible on the Space Rig has been updated with more information about the mission in progress, as well as gotten a graphical overhaul.
+
+
+NEW BIOME CONTENT
+-----------------------------------
+In The Salt Pits Region, you’ll now start seeing fragile Salt Platforms - stand on them, but be careful. They’re not tested for dwarf girth. 
+Meanwhile in the Sandblasted Corridors, a Spiky Plant has started sprouting. And yes, it is both spiky and deadly. 
+
+
+PREVENT LATE JOIN DUPLICATION
+-----------------------------------
+You want a diverse team? You don't like teams with three Engineers? The Host now has the option to select “PREVENT LATE JOIN DUPLICATION” from the Escape menu and Options menu. Selecting this option means players LATE JOINING your game will need to select a character class not currently in play. 
+
+Please note: This option does NOT restrict character selection on the Space Rig - we leave that up to you guys to figure out among yourselves. 
+
+
+MORE EQUIPMENT MODIFICATIONS
+-----------------------------------
+The new Modification System has now been implemented for the traversal tools. That means more customization for the Power Drills, the Platform Gun, the Zipline Gun, and the Grappling Gun. Furthermore, your armor modding opportunities also got some tender, loving care...
+
+
+WEAPON MASTERY AND SKINS
+-----------------------------------
+A Weapon Mastery Bar has been added to all gear - as you unlock mods for a given piece of gear, your Mastery with it increases. At certain levels of Mastery, you’ll gain free bonuses. For now the bonuses are restricted to Skins, and only for the primary and secondary weapon slots. Each weapon has three unlockable skins to get.
+
+The majority of our time with this has been spent on getting the system up and running, but we definitely intend to expand on the Skins System as we move a bit further ahead - you can expect other ways than just through the weapon masteries to earn skins in the future. 
+
+
+WEAPON TWEAKS & FIXES
+-----------------------------------
+Yes, we have been both buffing and nerfing a lot of the weapons and here is a compiled list of changes!
+
+PLASMA CHARGER:
+- Flying Nightmare damage no longer stacks on top of direct hit damage.
+- Bouncy Projectiles also bounce on enemies.
+- Charged Shot base area of effect reduced.
+- Normal shot damage increased.
+- Plasma Charger and other projectile weapons no longer ignores armor. Now they have to break it.
+
+"LEAD STORM” POWERED MINIGUN:
+- Base total ammunition increased.
+- Oversized Drum mod value increased.
+- Hot Bullets mod activates earlier.
+- Cold As The Grave mod no longer goes to a set value every time. As originally intended, it will now reduce the heat of the gun a certain amount per kill.
+- Aggressive Venting mod now works as intended.
+
+BRT7 BURST FIRE GUN:
+- Default effectiveness against armor reduced.
+
+DEEPCORE GK2:
+- Armor Penetration mod value increased.
+
+JURY-RIGGED BOOMSTICK:
+- Rate of fire mod renamed to "Double Trigger".
+
+"WARTHOG” AUTO 210:
+- Armor Breaking mod damage increased.
+- Stun Chance mod increased.
+- Turret Whip damage increased.
+
+"STUBBY " VOLTAIC SMG
+- Electrocution Bonus mod value reduced.
+
+DEEPCORE 40MM PGL:
+- Armor Breaking mod more effective.
+- High Capacity Magazine value increased.
+- Stun Hit mod renamed. Chances increased.
+- Incendiary Compound mod decreases the direct damage taken by enemies, but it will set them on fire.
+- Pressure Wave value fixed.
+
+BREACH CUTTER:
+- Extra Ammo mod value reduced.
+- Damage tweaks to compensate for the frame rate dependency fix.
+- Adjustments to the projectile to make it framerate independent.
+
+CRYO CANNON:
+- Sticky Ice cold effect reduced.
+- Base freezing power reduced.
+- Total ammo increased.
+
+CRSPR FLAMETHROWER:
+- Increased base damage.
+- Decreased base Rate of Fire.
+- Decreased base tank capacity.
+- Decreased tank capacity upgrade.
+- Decreased base sticky flames duration.
+- Decreased sticky flames duration upgrades.
+- Increased direct damage upgrade.
+- Increased direct burn upgrade.
+- Increased targets explode upgrade chance.
+
+SUBATA 120: 
+- Mactera Neurotoxin mod effect increased.
+
+
+UPDATED UNREAL ENGINE VERSION TO 4.21
+-----------------------------------
+For quite some time, we have been stuck with Unreal Engine 4.19, but we finally managed to update the engine to 4.21. It seems to have fixed a lot of GPU crashes. Happy days!
+
+
+MISC.
+-----------------------------------
+- Alien Egg Collection mission should now properly distribute the eggs in the mission area.
+- Assignment missions can now include Mission Modifiers. For difficult assignments, higher complexity missions will be preferred.
+- Fixed Restore Save pop-up showing up unnecessarily for ultrawide monitors.
+- Small adjustment to Steam warning message.
+- Fixed a LOT of spelling errors (Yes, we know. Keep sending ‘em our way if you spot any :D).
+- Attempt to fix voice chat issues.
+- A maximum of 2 voice lines for waking up in Medibay will now be played.
+- Umanite and Inert Uranium materials now look a lot more distinct from each other.
+- Landing in Sticky Goo reduces fall damage.
+- Fixed a bug with area damage falloff.
+- Friendly fire modification added to Bosco.
+- Glyphid Warriors, Spitters, and Web Spitters now don't always run away from explosions. It is chance based on different resistances depending on the enemy.
+- Mactera should no longer die just from being frozen.
+- Spitballers weak points now correctly take additional damage from weapons that do extra damage to weak points.
+- Fix hanging grunt scream.
+- Doubled the number of enemies that are able to target one player.
+- Acid Spitters now properly do Poison Damage. (Yes we know - expect a name change here later… :D )
+- Management has approved fixing critical mesh clipping of gantries near Abyss Bar.
+
 "
 	Update_19 = "Hello Miners! 
 
@@ -6573,7 +6757,6 @@ BOSCO는 이제부터 부활 횟수 50% 증가
 	Update_13_ShortTitle = "자잘한 생명력 변경들"
 	Update_15_ShortTitle = "뮤테이션 경고!"
 	Update_17_ShortTitle = "옥토버페스트!"
-	Update_21_ShortTitle = "SHORT TITLE"
 	Update_10_ShortTitle = "터널 비전?"
 	Update_10_Header = "업데이트 10: 터널 비전? - 16.03.2018"
 	Update_11_Header = "업데이트 11: 데드 앤 건 - 23.03.2018"
@@ -6688,7 +6871,7 @@ BOSCO는 이제부터 부활 횟수 50% 증가
 	Update_19_Header = "업데이트 19: 총! 더 많은 총!"
 	Update_20.1_Header = "업데이트 20.1: 크고, 아름다운, 보스코 - 03.01.2019"
 	Update_20_Header = "업데이트 20: 크고, 아름다운, 보스코"
-	Update_21_Header = "업데이트 21: 헤더"
+	Update_21_Header = "UPDATE 21: DIE HARDER!"
 	Update_9_Header = "업데이트 9: 또 채굴해요! - 09.03.2018"
 	Update_16_ShortTitle = "겨울이 왔다"
 
@@ -6706,7 +6889,8 @@ Namespace Resistances (4 keys)
 	Fire = "화염 저항"
 	Poison = "독 저항력"
 
-Namespace ST_GearUpgrades (46 keys)
+Namespace ST_GearUpgrades (48 keys)
+	T_MineralCapacity = "더 큰 광물가방"
 	D_BiggerPellets = "전문가 드워프의 크고 무서운 수제 벅샷. 대체물이 없죠."
 	T_BlowThrough = "관통탄"
 	T_ShieldRegenSpeed = "향상된 컨버터"
@@ -6736,7 +6920,7 @@ Namespace ST_GearUpgrades (46 keys)
 	T_Recoil = "반동 완충장치"
 	D_BlowThrough = "에너지 손실을 최소화하면서 목표물을 확실히 관통하도록 설계된 모양의 발사체. 다른 말로 하자면: 한 번에 여러 명의 적들을 뚫어버려라!"
 	D_ShieldRegenDelay = "보호막을 빠르게 다시 재생성합니다."
-	D_ShieldRegenSpeed = "보호막이 초기 지연시간 후 더 빠르게 재생합니다."
+	D_ShieldRegenSpeed = "Shield regenerates at a much faster rate but after a longer initial delay."
 	T_ShieldDamage = "충격파"
 	T_ShieldStun = "전기장 방출"
 	T_StaggerChance = "기절"
@@ -6750,6 +6934,7 @@ Namespace ST_GearUpgrades (46 keys)
 	D_ProjectileSpeed = "우리는 총의 사출 장치의 성능을 높였습니다. 이제 발사체가 더 빠른 속도로 발사됩니다. "
 	D_ArmorDamage = "우린 이것을 자랑스럽게 생각합니다. 갑피 자르기. 거대한 녀석의 충격 내성 갑피를 버터처럼 잘라버리세요. 이것보다 뛰어난것이 있을까요?"
 	D_ShieldStun = "보호막이 부서질 때마다 주변의 적을 기절시키는 전기장이 방출됩니다."
+	D_MineralCapacity = "수납이 필요하기 전까지 더 많은 광물들을 모을 수 있게 해줍니다."
 	D_ExtraAmmo = "샌드위치를 저장할 공간을 포기해야했지만, 총 탄약 용량이 증가했습니다!"
 	D_ShieldDamage = "보호막이 격렬하게 부서지며, 주변의 모든 적에게 피해를 줍니다."
 	D_StrongerShield = "보호막이 부서지기 전에 더 많은 피해를 흡수 할 수 있습니다."

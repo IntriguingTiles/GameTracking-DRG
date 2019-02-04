@@ -1,7 +1,7 @@
 20 namespaces
-4352 values
+4364 values
 
-Namespace Global (5339 keys)
+Namespace Global (5349 keys)
 	2559D78C40005E5221F26093CB976283 = " {Title}, зібрано: {Collected}/{Required}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Я впав!"
 	31D60A1449082F9AB6DC15844F3810F6 = " НЕОБХІДНІ"
@@ -167,7 +167,6 @@ Namespace Global (5339 keys)
 	1969DC9F4275BAF4A783BF8DB6BB0158 = "12"
 	AF57E8E54307407BBD4CE385378B51FA = "12"
 	BFD0C2FC438F8480BF7D8FBF3E9CAB32 = "12"
-	43B00D5B4C0D8E0D414CE7873E4EB3B7 = "1234"
 	C4B8C66743FF238BF80CF1B4C9581017 = "1234"
 	D7EFCA3748861AC3325AC9B7EF8FCDAB = "15"
 	46BF6C22426F51C24E23D4A0541916A8 = "15M"
@@ -613,7 +612,7 @@ Namespace Global (5339 keys)
 	9DB339DA4EF3DB520AC831B94049DC86 = "Синій кристал"
 	E6AA352F49A9ABDFE75EEE9E699AB88F = "Синій кристал"
 	36467CDC4EAA77B59E01BB864C9548A3 = "Додаткове пошкодження гліфідам"
-	3BEDFA604A0B9EAC6119C1B020A02ECB = "Bonus damage against Mactera aliens"
+	3BEDFA604A0B9EAC6119C1B020A02ECB = "Додаткове пошкодження мактерам"
 	91C3975A4EE31FF91BAC3BA07551A547 = "Додаткове пошкодження вогнем, підпаленим цілям"
 	B8DB1AC5402F6B8427EB7AA8523AE5AF = "Бонус видобутку золота"
 	E131A6A44A750D97F848C7B26FA35B23 = "Бонус видобутку нітри"
@@ -673,6 +672,7 @@ Namespace Global (5339 keys)
 	1CB4D80743318442C308D2A14B857E9C = "Збудовано на {progress}%"
 	251FA98341B86380F1B7FE815D790818 = "Швидше будується"
 	84EFB56C4B7743BB0738C2B559DBD9B4 = "Швидше будується"
+	05A790C44DF82D2A88B302BD75DFC82B = "Вбудовані амортизатори роблять падіння менш болісними."
 	F1DE328E4F32FC002F5894B15B02F0AF = "Вбудовані амортизатори роблять падіння менш болісними."
 	C967120044BDB528B0AAA68928C37494 = "Велика цибулина"
 	0187503E429D0D844DE504AD1153A970 = "Повна борода «бальбо»"
@@ -784,6 +784,7 @@ Namespace Global (5339 keys)
 	CD632DD94A019AC3011D17877F561796 = "Кашкет - яскраво-червоний"
 	6646C9194E65D217184CE39025814731 = "Кашкет - збройовий метал"
 	D5211E1E4EF79EE304DDB38A869D83F8 = "Кашкет - уніформа"
+	691C6F1B400FB28CEABC5A9732597C62 = "Ємність"
 	73B65D21444A0BFB316C25B9FAA33453 = "Обережно!"
 	9DA3E8D145D105239E9A238772134C36 = "Дозволяє нести ще більше платформ"
 	8D3EFB56476AB1E9B975EF974EE04D6A = "Дозволяє переносити більше ГПП"
@@ -891,7 +892,6 @@ Namespace Global (5339 keys)
 	0CA1BCD64DF715E003401EA491942D09 = "Зібрати: {resource} - {amount} штук"
 	69606828404C54B4230618A0FE348CDF = "Зібрати: {resource} - {amount} штук"
 	8B822AB84AB570127A9AFDB23F2348E0 = "Зібрати: {resource} - {amount} штук"
-	E43ADE69478A0CD6F6FA449B94996A98 = "Зібрати: {resource} - {amount} штук"
 	2C2AD3B542580D19302C62A1C1DB9E0B = "Зібрано: {resource} - {amount}/{required}"
 	6F80AA9449DB3236766ABDB2954B99DC = "На позиції! Рій вже тут!"
 	EB6AB6CC4E948FE640E464BF0528DD6D = "Комбінуйте інструменти всієї команди, щоби проходити крізь складні ділянки печер. "
@@ -965,6 +965,7 @@ Namespace Global (5339 keys)
 	34BC57334D8B596B15074CBA7FAED9DE = "Завершити {value} «Збирань яєць»"
 	35030837442AC4F5DF9903B7FD0312C5 = "Завершити {value} «Ліквідацій»"
 	E8FB039A42A80925B9B49886231BD1CA = "Завершити {value} завдань з рівнем ризику «3 або вище» "
+	E6DE65D847ECC198B626FF95AF48C143 = "Завершити {value} завдань з рівнем ризику 5 "
 	B68A4C7049F6922DABB4589B0FD033D3 = "Завершити {value} гірничих експедицій"
 	D0D98D9E431ACCB7357B6E943D52162A = "Завершити {value} місій"
 	442E7C8549592572BCDADABEA3A79526 = "Завершити {value} завдань у «Кристалічних печерах»"
@@ -1095,7 +1096,6 @@ Namespace Global (5339 keys)
 	B30C12434A5F8E02A131E8A6D903A542 = "Титри"
 	6D72FAF94418F9AF292CBE9ABDC6D17F = "Кредити списано. Капсула підтримки уже в дорозі."
 	F86CEA9045E0447697A5129A19A9C6E0 = "Вдячність нашій спільноті"
-	BA35A6794521F32A15B9849DAF3E96D8 = "Воша-плазун"
 	DEA8B04C44BB57535CA4E398DEF783B4 = "Гребінь"
 	CAA5A22A4E6EF0CCA9BC6FAAD88DE603 = "Критичний перегрів"
 	81F477394FD1960C89BA93BEB72D7577 = "Критична слабкість"
@@ -1226,6 +1226,7 @@ Namespace Global (5339 keys)
 	17DFCFE2486582C5680A22A580E5AAC7 = "Соти Диптори"
 	2974756F40C48748E76939B4171D036E = "Рій диптор"
 	C55C17E9436F1DE5466438950931C189 = "Керування за замовчуванням"
+	44EB8CCD45F0541602747D97DA7BE5DF = "Delay"
 	7DD07AE8403119755FF99F98DF00E119 = "Затримка"
 	99DE4F374F07C18A3F1703807B3A46D2 = "Доставлено"
 	18DE5B0A44CE63349F6EE0A23D2E2794 = "Підривник готовий до служби…!"
@@ -1335,7 +1336,6 @@ Namespace Global (5339 keys)
 	A1B6E81D4EDC6FF49D483B9378F9039D = "Дредноут!"
 	5615688E4D9D8C364150C791BB22BEF6 = "Дредноутів поки що немає. Ви впорались, командо. Натисніть кнопку повернення на МУЛІ, коли будете готові до вильоту."
 	DFEF36A247A6C2272A2D52A8EC908B24 = "Бурити швидше"
-	FEA4A006477BE60D51B728BFFD6276CA = "Бурити швидше"
 	97A3653E445548AB98C752BCD03C6AD0 = "Бурити і грилити!"
 	65082D9F453F3316D327788612CEB5EB = "Дрон прибув!"
 	594A7D6C47E8A9ABA04BF9B83E3A4A6B = "Дрон тут!"
@@ -1374,7 +1374,6 @@ Namespace Global (5339 keys)
 	B64D576F48C8AF3A46F3E280F20DB223 = "Запуск процедури висадки!"
 	B7F6BD9244821F3A4A4CC986DE400809 = "Ініціювання послідовності висадки! Застібніть паски безпеки!"
 	8F16427642A01822C5F6F78503597354 = "Рятувальна капсула готова - час йти!"
-	44EB8CCD45F0541602747D97DA7BE5DF = "Тривалість"
 	D691827C439F91E8AE25EE98B3B02C3E = "Тривалість"
 	156D2CB74CD0FA572456AEAAA4343674 = "Назва класу дварфа"
 	868A67D84E782BE15D1D4E8D01DAE858 = "Назва класу дварфа"
@@ -1503,7 +1502,7 @@ Namespace Global (5339 keys)
 	14E9CFFA456B38B15AAD3C812FE0BA07 = "Вийти на робочий стіл"
 	AA09D158453C1D6160A530B89F427E90 = "Вийти до робочого столу"
 	2CB080484B4C916DA8265DA3B1ECC54C = "Збільшений короб набоїв"
-	8FAF78B040163FAD823EA2B0310AE884 = "Expanded Fuel Tanks"
+	8FAF78B040163FAD823EA2B0310AE884 = "Розширені паливні баки"
 	15F3D9A3470B0C1CC3F480A1CF92EFBF = "Збільшує ємність для пального"
 	49F9980B4A0F4348E53800B723DE72E8 = "Експерт гірник"
 	D0C851E94B40C04C23EF87AE3A699251 = "Експерт гірник"
@@ -1615,6 +1614,7 @@ Namespace Global (5339 keys)
 	1F4DC08E482A8C495789C9B0A809297E = "Відкрити вогонь!"
 	16B75D65445DA07DFAAD58B15A5947C3 = "Кидаю гранату!"
 	68FB6B7643BFE31BB5A59594C7E5E2C3 = "Зараз як рвоне!"
+	044096554B99804952A4B9A8864D7A21 = "Зараз рвоне! Гарнюча, відбиваюча броня зведе нанівець половину ушкоджень від будь-якого вибуху."
 	45AA03EC4427E8D19AA31B9EF9805349 = "Зараз рвоне! Гарнюча, відбиваюча броня зведе нанівець половину ушкоджень від будь-якого вибуху."
 	641DF381432B5F79E23BFDADBA39708B = "Вистрілює більше куль в кожній черзі"
 	E03F911D40D16AFB01608D8808387F2D = "Вогонь!"
@@ -1664,6 +1664,7 @@ Namespace Global (5339 keys)
 	FCBF5A8045796B4A5E690DA961AE62C6 = "Для тактичної стрільби"
 	69E800E7423BFFD58AEBB590F614D287 = "Для професіонала. Збігається з одягненою бронею."
 	946817F9422FDCF44323F880416FA7E9 = "Для тих, хто віддає перевагу середній прожарці. Полум’я наноситиме лише половину пошкоджень."
+	8C7C97544B02007446405BBF9B12E2F1 = "Для тих, хто віддає перевагу середній прожарці. Полум’я наноситиме лише половину пошкоджень."
 	0B78F5004D92D132A1395FB917D75B76 = "Для тих кому щастить."
 	D1CAEFAC4D0E244CD508E3B4D42F1DF6 = "У зброї яка використовує енергію замість куль, можна збільшити енергетичну ефективність кожного пострілу."
 	015A05994C4643A09E7188AF1F882C16 = "Укріплення готові!"
@@ -2022,6 +2023,7 @@ Namespace Global (5339 keys)
 	C5776A50489801226E37328215A1B4DD = "Небезпека 5 - Смертельно"
 	7CFC9F3043146E985E0D809F6881BF36 = "Бонус небезпеки"
 	7466072345C05210268EDD9DC408CD72 = "Бонус небезпеки: +{bonus}%"
+	14DCDE084168C7C01E2F07880D9BC856 = "Система «Хазмат»"
 	925B88C9473D02AD5A60A7B7547AFBA5 = "Коливання голови"
 	0CA6A36C437B1754AA820195A90B724C = "Текст заголовку"
 	90FAC95F49069A73A8ACE2B759DD98EA = "Текст заголовку"
@@ -2374,7 +2376,7 @@ Namespace Global (5339 keys)
 	66F0E28D499A2369799491AF83FEBFC4 = "Неможливо щось розгледіти!"
 	5940DD09483FB8A41478868CFCB8D073 = "Покращення помпи 2-го рівня"
 	7E6F0B8347031C0757DA40956D753056 = "Покращена точність"
-	F551621B4FD4EF4FA0939DBFE98951CB = "Improved Alignment"
+	F551621B4FD4EF4FA0939DBFE98951CB = "Покращене вирівнювання"
 	D06E3BD64B1886FA4E75489D35012BA4 = "Покращений ежектор"
 	E5D9788F40F556CBF081F7A7C17CCDF9 = "Покращений ежектор"
 	CCCF713A4196DAD4B1562B92E8B71976 = "Покращена ергономіка"
@@ -2399,6 +2401,7 @@ Namespace Global (5339 keys)
 Відправлення персонажа на підвищення СКИНЕ ЙОГО РІВЕНЬ ДО 1. Натомість у вас ЗАЛИШИТЬСЯ весь прогрес по зброї з покращенням, вміння, кредити, матеріали для крафту, та речі оздоблення."
 	64FB15C24E8ED2B9E943BBAD29DFB59F = "В знак визнання вашої користі, ми збільшили ваш рівень безпеки. І тепер вам надано доступ до нових регіонів Хоксеса. Вітаємо, шахтарю."
 	6B7CB6B040E9D9BFEB0BC397AE36FADF = "У зброї з механікою перегрівання, деякі модифікації можуть впливати на швидкість відновлення зброї з цього стану."
+	A674E248438ADE3BB67D899E82B27EB6 = "Вхідний {InRate} КБ/с, Вихідний {OutRate} КБ/с"
 	075D59304D4A871CE33297A70D614FAC = "Неактивна"
 	878D07B640CB9FB59A6342ADCC21EC0C = "Неактивна"
 	994499E54F6ED7CDBCD36C91E2C5C9FA = "Запальна суміш"
@@ -2817,7 +2820,6 @@ Namespace Global (5339 keys)
 	8CC378B1434DDB77A263478980DCAFFC = "Жук-збирач тут! "
 	77B1E4544FAB8FEC3B388FA6A2C239F1 = "Вбито жуків-збирачів"
 	C09E93CE42058A3090AA3E85399D309D = "Володар глибин"
-	765B21E041E57274B5044DB3865481AF = "Швидше зменшує нагрівання, при бурінні ворогів"
 	14DF284D42A6A089E82FB9AAEBF771DD = "Втрачене обладнання"
 	38A352D84AF190E753529A81D7FD5211 = "Втрачено з’єднання з сервером"
 	597D27244B3BAB229FC8208E850EFA38 = "Гучно та виразно!"
@@ -2926,7 +2928,7 @@ Namespace Global (5339 keys)
 	FB366B194EDBF10284140D81FD3FBCC0 = "Нашестя мактер"
 	8A79295A43386BA5A8106BB9125BB620 = "Мактера-нереститель"
 	5ADEE3184749131394CC1DBFE8E35AC1 = "Мактера-нереститель!"
-	6D3AB8A04DC17BDB2E2D74959CB0B25E = "Mactera Toxin-Coating"
+	6D3AB8A04DC17BDB2E2D74959CB0B25E = "Покриття токсином від мактер"
 	569B58A84052F88185EBC9B75908FEC8 = "Велика купа мактер прямують до вас. Готуйтеся!"
 	D293220C45B158612C69FFAF19705285 = "Mads Hagemann Nielsen"
 	CDE31F87459CEF2C55D4D58B0680371B = "Відкоригована ємність магазину"
@@ -3055,6 +3057,7 @@ Namespace Global (5339 keys)
 	96E6DEFA4D093CABD8D3B8A4201CFB34 = "Місії"
 	807A896D4764FA22029B40B69BF5188D = "Місії завершено"
 	611133B24CBE09AA7BAFA3A1C5BBF3D9 = "Завершено місії на рівні небезпеки «3 або вище»"
+	25E414BB47848C61AE91B2A99988C662 = "Завершено місії на рівні небезпеки 5"
 	3796F5BA47DABAC727A3869531B4D7D9 = "Вхід у Mixer"
 	421A198642CC485C6E16ACB86B505CD2 = "Вийти із Mixer"
 	21B57D6646B6AA3FFC297CA33C763A83 = "Ммх, це те що мені потрібно!"
@@ -3109,7 +3112,7 @@ Namespace Global (5339 keys)
 	28A2FF2947395FEF10C2FD91AAA7121B = "Норма на моркіт виконана! Це була ідеально виконана робота! Кнопка евакуації на М.У.Л.і активована."
 	9E571B65445C928ABD523ABF00EB6DAF = "Моркіту вже вдосталь!!"
 	313CA2134D73053B2711D3A5510C1E94 = "Моркіт!"
-	79C599094EB6D6E6E02200AFC58E0859 = "Most enemies have weak points that are extra vulnerable to your weapons. Beware, however...some have armored exoskeletons that take NO damage from your weapons."
+	79C599094EB6D6E6E02200AFC58E0859 = "Більшість ворогів мають слабкі місця, які є особливо вразливими до вашої зброї. Будьте обережні... так як деякі вороги мають броньовані екзоскелети, які зупиняють пошкодження від вашої зброї."
 	9B1654C6431D8A1F5EAA83991FF5C3A5 = "Станкова гармата готова!"
 	E42F2F63428883B7A6C15AACE2FC3388 = "Станкову гармату розкладено! "
 	84DEB86F4720C733085E61992AB19213 = "Станкова гармата в бойовій готовності!"
@@ -3353,7 +3356,7 @@ But well done. :D
 	34D3B01243BE5B8813039DBB60F83C1B = "Октоберфест федора"
 	8E4D92504CC7BCDFA927A3937B2CB453 = "Старий добрий"
 	C108B2374C0EB82DEEBAD1ABB7463FB3 = "Оливковий кашкет"
-	C28E671A45A9BE49D0C173888F1C00DB = "На мапі в ТЕРМІНАЛІ МІСІЙ ви побачите опис кожного біому і які матеріли для обробки можете там знайти."
+	C28E671A45A9BE49D0C173888F1C00DB = "На мапі в ТЕРМІНАЛІ МІСІЙ ви побачите опис кожного біому і які матеріали для обробки можете там знайти."
 	7BF994A8421E1EE88429E3B954B9C08D = "Підказки на екрані"
 	C03801984EB9B6D7D536F3BACDE81C4F = "Завантаження бортового мейнфрейму."
 	8762E3E74B0D5CCF46FF81803FAAD508 = "Час від часу, такі виняткові співробітники, як ви, доводять свою цінність для компанії. Ми аплодуємо вашим зусиллям та бажаємо висловити нашу вдячність.
@@ -3448,7 +3451,6 @@ But well done. :D
 	AD5E854B489923D1E8198094D115EF4B = "Сюди! Цього міні-МУЛа треба полагодити!"
 	B87111104BA33C9090D56B947D41CD8D = "Загальні показники якості"
 	9C060B6448CD7B7345C880A2B4D58D4B = "Заряджений мотор"
-	E67FCA0A46F276ADBA1DD982929248F6 = "Заряджений мотор"
 	41D0760646E8C1303547DFBAD06A1A8B = "Заряджені снаряди"
 	6B3BF8B148D57215523F0A97F3F3BDFC = "Заряджені снаряди"
 	1FF6C8DA495918762EE0E3ADE3B22C14 = "Заряджений генератор щита"
@@ -3585,6 +3587,7 @@ But well done. :D
 	77A501E44D470850D5D4DABE679EAFFC = "Підняти"
 	E58C168B4B0765162D721EAFDDB0271E = "Підняти"
 	17854F534E086F5BEE4C4090AF6B7738 = "100% точності при першому пострілі"
+	225CF0104F908812E8ECD382B4E16749 = "Пінг {ping}, Вхідний {InRate} КБ/с, Вихідний {OutRate} КБ/с"
 	76A8D0624745DD7017D1CF97E4AEB989 = "Рожевий"
 	6F74A43C47DF738B85E92E91EC833A23 = "Рожевий кристал"
 	A42E36984252D484303E988DF786E440 = "Рожевий кристал"
@@ -3668,6 +3671,7 @@ But well done. :D
 	B1D59F3F4199E484B5418BBBA9C43328 = "Відсоткове зменшення тиску"
 	AF34EE3140CA8E19872475B1E30D4A62 = "Відсоткове збільшення тиску"
 	9DCB71D348F4D3C52C5F69ACDE16A0E1 = "Більший тиск у хвилі"
+	6CBA3AD2476B5E68F24020920C4D9107 = "Запобігає дублюванню персонажів при пізньому приєднанні"
 	A1FAC359403A1149F96076BDD450AF2E = "Попередній предмет"
 	4226F3E441BB2EE57136CCBA52CC3F17 = "Ціна"
 	3800EE604BF5CDFDDA766AAFD3F381FA = "Основна мета"
@@ -3714,6 +3718,7 @@ But well done. :D
 	FB453B1944F3A303D7CE728B215D8699 = "Натисніть, щоби говорити"
 	2F492010444C14DCE2D2DB9841081A2B = "Постав мене на місце! "
 	5FE9FE7649FBA2AB55DD9A882CB32526 = "Q, для перемикання зброї"
+	BA35A6794521F32A15B9849DAF3E96D8 = "Q'ronar Shellback"
 	4F009E9E484DAF24B819B69C82444A9A = "Менеджер якості та Менеджер спільноти"
 	4C37D3F0483CD2623E7B27B036BABE09 = "ШВИДКА
 ГРА"
@@ -3772,6 +3777,7 @@ But well done. :D
 	6449368B45642AB433AE0A8AD6BB702F = "Поновлення тиску"
 	C9BF88714B063BD7BF72CABAB93F0B46 = "Досяжність"
 	76885F274F366DD853C91897DDC53024 = "Швидше досягає максимального темпу стрільби"
+	6DA1BD1B4FD3E2E6C428138A79921CCC = "Відбиваюча броня"
 	F9E6E9364EBC3229BB1DCCB57A917CB4 = "Відбиваюча броня"
 	4E44F53D4DDE44D2F54010AC09506DC3 = "Реактивна ударна хвиля"
 	CE2B6CB7492AB99905D8659AFABD9268 = "Готовий"
@@ -3813,6 +3819,7 @@ But well done. :D
 	C82B6B104F4886D99ACEB0AE75CDEBB3 = "Червоний цукор!"
 	E20D2459498C4EF3D1C624BDD7AF0B09 = "Червоний цукор!"
 	AC6CE04D479431221B4324A21939B47F = "Зменшує перегрів під час утримання зарядженого пострілу"
+	C84678394F7FA93C9EA406A269995E72 = "Зменшує ушкодження від отрути."
 	83E2EA684FD79938D13434939A276900 = "Тхне званням, чи грошима. Першим, або другим — це точно."
 	761586C14EE3CCA7F69712804CE964F2 = "Вишукані"
 	3366355F4B8C52F96AF4E7A7314EDA8E = "Вдосконалений потік плазми"
@@ -4137,6 +4144,7 @@ But well done. :D
 	C9794CD74D900AFB615054A733BD9CBB = "Щит працює!"
 	1B5A861E440E5C3DB544FAA04AD871BF = "Щит!"
 	A9911C0C40F804A5310DB78EFF2FF591 = "Щити розміщено!"
+	B49D0CE044EB650787DFE4B894548F78 = "Амортизатори"
 	BFF99FC8403150FB445DDDB831EE150C = "Амортизатори"
 	8FBF1B42418AA56CC3F77A947CC69DBE = "Амортизуюча суміш зменшує пошкодження при падінні"
 	A2CCAC2B4C63033A17B48581294BE220 = "Стріляй в НИХ, в не в МЕНЕ!!!"
@@ -4162,6 +4170,7 @@ But well done. :D
 	C62B84974B2238D077DE7790E436ACAC = "Гукайте команді, щоби вона змогла до вас прийти! Це корисно, якщо ви розділилися та не можете знайти один одного. Або якщо вас поранили і потрібна допомога."
 	075479CB45BF3835DE1846A51811C954 = "Відображення FPS"
 	3127F8A540D246D860D961AD1DBF602F = "Показати HUD"
+	566802114721F4EE497EF2B3718D166A = "Показати статистику мережі"
 	C4292C7540A90C07387975BA879E2900 = "Показати всю статистику"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Покажи друзям, що ти знайшов"
 	D0E809FE415757354E08C9A6C291E826 = "Продемонструйте ввічливість, або принаймні скажіть команді, що вони класні!"
@@ -4461,6 +4470,7 @@ But well done. :D
 	FA8F99064E366F561C0135A97B4C881C = "Співпраця та пиво нас згуртовує!"
 	E7D48AB04F7249B465DB8D9ADC835450 = "Співпраця. Ось що є двигуном прогресу!"
 	6C7161BE454C40F23CFC2E9067BEB6B7 = "Техно"
+	A096EEB4410C787D70EDFD90BF5A1947 = "Температурна ізоляція"
 	704D55734F30FF0C240B5D95033A3BED = "Тимчасове зниження пошкодження від падіння, якщо відпуститися гарпуном"
 	4C3F704B4F6585273365F58B271926EA = "Тимчасове пришвидшення пересування після спорожнення обойми"
 	E3F39FEB49C35CD35E533691EBE82D52 = "Тимчасове додаткове збільшення руху, після використання гарпуна"
@@ -4568,7 +4578,6 @@ But well done. :D
 	4F7A63814A530CB4CD09798823BE3784 = "Тепло від деяких небезпек і зброї, підвищує температуру ворогів. Якщо вона досягне точки згоряння, вони будуть охоплені полум'ям, отримуючи пошкодження з часом, поки ефект триватиме. Деякі вороги більш стійкі до нагрівання аніж інші, тому для того, щоб загорітись, потрібно довше піддаватися джерелу тепла. Таким же чином, деякі вороги охолоджуються швидше і тому вони згасять полум'я раніше раніше за інших."
 	D6B58FC042E403301BE0D4AC166F890D = "Незрівнянний капелюх легенди, присвячений святу, що займає особливе місце в серці більшості дварфів."
 	4ACB0D84456C00BEFFB4A7A9453C1E62 = "Залишки ворогів наближаються. Тримайтесь там!"
-	A8D8917442A42E2FF92940B306C5BED3 = "Тривалість дії певних снарядів і ефектів може бути збільшена."
 	4B4BAA624715C6F2FD31B894015641F9 = "Снаряди стрічок розкриваються моментально, що стає кориснішим на ближній дистанції"
 	E20274D848C3FE6C3A8571BC741F4249 = "Максимальна вантажопідйомність визначає кількість боєприпасів, які ви носите з початку місії, а також максимум, який ви можете отримати з постачання."
 	1427F38744164A0EACBE5C9DF34C4A82 = "Меморіальний зал, де ми віддаємо честь полеглим. Ви також можете пройтись та віддати пошану."
@@ -4700,6 +4709,7 @@ But well done. :D
 	7D3ECC6941A5B9B36579C3B532AFE83F = "Коли закінчимо, підем на холодненьке."
 	3A4704F1477EBE6619327BA19F734466 = "Час для боротьби із шкідниками, командо. Ми помітили кокони дредноутів і ви маєте їх знищити перш ніж вони перетворяться на щось гірше. Моя порада: візьміть з собою багато набоїв, вони вам знадобляться."
 	92CA3E4B4E3514AB473B06B16336AA0A = "Настав час діяти!"
+	A8D8917442A42E2FF92940B306C5BED3 = "Time that must elapse before an effect or function is triggered"
 	F21187F54C31DC48B3231193CECD4018 = "Час копати!"
 	DEA5063F4DC950931F410980D9FE7B3B = "Час зібрати трохи золота!"
 	9F8B95494EDCF9BB83E751B9D761881D = "Час вивантажитись!"
@@ -4932,7 +4942,7 @@ But well done. :D
 	A4F3AC92462FC7DD787EBF84656BABBE = "Ветеран гірник"
 	DAA1EA37491C92351DEF7F91E54B51C0 = "Спостереження за"
 	809E655D4A757F85090DB4B6359A680D = "Відвідайте ТЕРМІНАЛ СПОРЯДЖЕННЯ на станції і витратіть там свої чесно зароблені кредити, на покращення обладнання!"
-	7ED249D745DD40186CB8C884C4A686F8 = "Завітайте до КРАМНИЦІ ОЗДОБЛЕНЬ, щоби витратити ваші кредити та мінерали на купівлю нових шоломів, броні та борід."
+	7ED249D745DD40186CB8C884C4A686F8 = "Завітайте до КРАМНИЦІ, щоби витратити ваші кредити та мінерали на купівлю нових шоломів, броні та борід."
 	2D2A6357468F84A1FE3FC982E155948C = "Голосовий чат"
 	280D9A3F4132BEEEADCE44883D6600BC = "Летючі кулі"
 	6A968257449EC187B7DC4D86058F66A0 = "Леткі спалахи!"
@@ -5276,6 +5286,7 @@ But well done. :D
 	72AC2B6A4F0763A48B9F15BC5D55EFA3 = "Ви… ви просто неймовірні!"
 	C51971284D961C2A6E2D49A7A97838DD = "Ваш бонус призначення є недоступним. Залишилась ще одна місія."
 	A64D138C462257FFAA82B1B965EBAF7B = "Схоже, що ваш сеанс Steam має проблеми з завантаженням."
+	765B21E041E57274B5044DB3865481AF = "Your drills cool when drilling enemies!"
 	4C5DCE4C4254BBEBBA554883E64C2A3B = "Ваша дружність для вас як - щит! Ви отримуєте на 50% менше пошкоджень від дружнього вогню!"
 	C8DEB9DB423364FDA87B2A9D2D292323 = "Ваш інвентар заповнено"
 	8C8EB983438517248BE7F2A4D6C445FA = "Місію обрано! Капсула готова - усі на борт!"
@@ -5326,7 +5337,6 @@ But well done. :D
 	E9D9463E42928C3514755BAC259C5AA5 = "[CloseMenu] Ні"
 	AEA347F74547383311956F963FE02E16 = "[Fire] + [Mine]: Перемикання між гравцями"
 	205AED9949420AA495E6DBA6AC4E5FA2 = "[Fire] Спорядити"
-	2C1FF27D4BC4496B4D5DE48D1EAE4665 = "[Fire] Спорядити скін"
 	E18AF9B040442891E50EB9ADBA84DA8E = "[Fire] МІТКА"
 	DB2DB86B442380F09F7F85BDE6C3BA5A = "[Fire] Мітка"
 	C30A43794F4B4C06D3C5638D33EAF1B7 = "[Fire] ПОСТАВИТИ МІТКУ"
@@ -5493,6 +5503,7 @@ Namespace PatchNotes (45 keys)
 	Update_20.1_ShortTitle = "«БІЛЬШЕ, КРАЩЕ, БОСКО»"
 	Update_20_ShortTitle = "«БІЛЬШЕ, КРАЩЕ, БОСКО»"
 	Update_11_ShortTitle = "МЕРТВІ ТА ЗБРОЯ"
+	Update_21_ShortTitle = "DIE HARDER!"
 	Update_9_ShortTitle = "ПОБУРИМО ПІЗНІШЕ!"
 	Update_14_ShortTitle = "ОСОБЛИВА ГАДИНА"
 	Update_12_ShortTitle = "МУХИ ТА ФІНАНСИ"
@@ -5810,9 +5821,183 @@ Namespace PatchNotes (45 keys)
 - Правка: усунено можливість редагування Підказки під час завантаження! 
 - Виправлено некоректне оновлення мапи при зміні території
 "
-	Update_21 = "Вітання, шахтарі!
+	Update_21 = "Hello Miners!
+With this update, we are introducing more insane challenges - a new LETHAL difficulty level for you to master, multiple new enemies, Mastery and Skins for weapons, and a gazillion other fixes and improvements.
 
-Оновлення Deep Rock Galactic №21
+Lunch Break is over! It’s time to go to work!
+
+- The Ghost Ship Team 
+
+--- PATCH NOTES ---
+
+
+NEW ENEMIES
+-----------------------------------
+BET-C - THE BATTLE M.U.L.E.
+Deep Rock Galactic didn’t invest much in the safety system of their BET-C series of combat M.U.L.E.’s. It only takes a few Xynarch Charge-Sucker parasites licking the robot’s circuits to turn them against the dwarves. In that situation, BET-C’s fast-tracking auto-turret and grenade launcher could become a major threat for any expedition. If you find an infected model, aim for the attached organisms and, once they are eradicated, carefully hammer BET-C until it turns into a trustworthy companion for the rest of the mission.
+
+Q’RONAR SHELLBACK 
+The Q’ronar Shellback is a deadly creature that you might bump into in the Radioactive and Salty regions of Hoxxes. Their tough shells and fast movement speed make them quite hard to kill - try to dodge its rolling attack and kill the Shellback when it stops to spray poison venom at you. 
+
+NAEDOCYTE SHOCKER
+The Naedocyte Shocker is a strange alien flying jellyfish-like creature. The often appear in large swarms and is preferably dealt with before they get close enough to zap you with electrical shocks. So far they’ve been spotted in the regions of Dense Biozone and the Glacial Strata.  
+
+
+NEW DIFFICULTY LEVEL
+-----------------------------------
+By popular demand, we’ve added a LETHAL new difficulty setting only for the most masochistic and badass dwarves out there! We hope you have “fun”... :D
+
+
+OVERALL DIFFICULTY REVAMP
+-----------------------------------
+GENERAL SPAWN LOGIC: The general logic behind how we handle spawns has gotten a big overhaul - balancing waves is now a much more exact and controllable thing for us. This is actually the biggest of all changes we’ve done to the difficulty system, but also the hardest to explain in detail - maybe we’ll do a blog post on this in the future :-)
+
+MISSION SPECIFIC ENEMY TYPES: The Mission Generator now also pre-selects the specific mix of enemies players will encounter in a given mission. Instead of randomly selecting from every enemy type available in the game, players will now face themed swarms of enemies. This change won’t be particularly visible right now, but will serve to improve the overall feel and flow of the enemy swarms as we add more enemy types to the game.
+
+The goal here is to make each mission feel a lot more unique, as well as making it more attractive for players to pursue a more strategic approach - if you have a rough idea of what awful things you might face down in the depths, you stand a better chance of going in as prepared as you can be.
+
+TIME: As a rule, lowering the time between spawning enemy waves means more enemies in general, which results in an overall higher difficulty. Knowing this, we’ve made a few changes to how we time waves:
+- Time elapsed before the first wave appears is based on Difficulty - so higher Difficulty means the first wave arrives faster.
+- Subsequent waves will also spawn faster depending on difficulty level.
+
+SPEED: Attack speed, projectile speed, and movement speed of enemies are increased for the highest difficulties.
+
+ENVIRONMENTAL HAZARDS: You now take more damage from environmental dangers on higher difficulties.
+
+YOU GET THE WAVES YOU DESERVE: Multiple waves are now allowed to spawn at the same time and do not cancel each other out.
+- Example 1: Digging two eggs out in Egg hunt will generate two small waves instead of only one. 
+- Example 2: You can not cancel a wave in progress by calling in the drop pod
+
+IMPORTANT BUGFIX! It turned out Difficulty scaling from 3 to 4 players was not working before - meaning that a 4 player game was as easy as a 3 player game. That is fixed now - so you should feel an overall increase in difficulty for 4 player games on all difficulties. We’ll, of course continue to monitor and tweak as needed.
+
+
+UI IMPROVEMENTS
+-----------------------------------
+NEW ENEMY HEALTH BAR
+We’ve completely revamped the way we put health bars on enemies. Now it will show when the player is aiming at an enemy and it will do it on top of that enemy (instead of in the center of the screen). Additionally, it displays the damage applied to the enemy with every shot.
+
+NEW MISSION READOUT BAR
+The Mission Readout Bar visible on the Space Rig has been updated with more information about the mission in progress, as well as gotten a graphical overhaul.
+
+
+NEW BIOME CONTENT
+-----------------------------------
+In The Salt Pits Region, you’ll now start seeing fragile Salt Platforms - stand on them, but be careful. They’re not tested for dwarf girth. 
+Meanwhile in the Sandblasted Corridors, a Spiky Plant has started sprouting. And yes, it is both spiky and deadly. 
+
+
+PREVENT LATE JOIN DUPLICATION
+-----------------------------------
+You want a diverse team? You don't like teams with three Engineers? The Host now has the option to select “PREVENT LATE JOIN DUPLICATION” from the Escape menu and Options menu. Selecting this option means players LATE JOINING your game will need to select a character class not currently in play. 
+
+Please note: This option does NOT restrict character selection on the Space Rig - we leave that up to you guys to figure out among yourselves. 
+
+
+MORE EQUIPMENT MODIFICATIONS
+-----------------------------------
+The new Modification System has now been implemented for the traversal tools. That means more customization for the Power Drills, the Platform Gun, the Zipline Gun, and the Grappling Gun. Furthermore, your armor modding opportunities also got some tender, loving care...
+
+
+WEAPON MASTERY AND SKINS
+-----------------------------------
+A Weapon Mastery Bar has been added to all gear - as you unlock mods for a given piece of gear, your Mastery with it increases. At certain levels of Mastery, you’ll gain free bonuses. For now the bonuses are restricted to Skins, and only for the primary and secondary weapon slots. Each weapon has three unlockable skins to get.
+
+The majority of our time with this has been spent on getting the system up and running, but we definitely intend to expand on the Skins System as we move a bit further ahead - you can expect other ways than just through the weapon masteries to earn skins in the future. 
+
+
+WEAPON TWEAKS & FIXES
+-----------------------------------
+Yes, we have been both buffing and nerfing a lot of the weapons and here is a compiled list of changes!
+
+PLASMA CHARGER:
+- Flying Nightmare damage no longer stacks on top of direct hit damage.
+- Bouncy Projectiles also bounce on enemies.
+- Charged Shot base area of effect reduced.
+- Normal shot damage increased.
+- Plasma Charger and other projectile weapons no longer ignores armor. Now they have to break it.
+
+"LEAD STORM” POWERED MINIGUN:
+- Base total ammunition increased.
+- Oversized Drum mod value increased.
+- Hot Bullets mod activates earlier.
+- Cold As The Grave mod no longer goes to a set value every time. As originally intended, it will now reduce the heat of the gun a certain amount per kill.
+- Aggressive Venting mod now works as intended.
+
+BRT7 BURST FIRE GUN:
+- Default effectiveness against armor reduced.
+
+DEEPCORE GK2:
+- Armor Penetration mod value increased.
+
+JURY-RIGGED BOOMSTICK:
+- Rate of fire mod renamed to "Double Trigger".
+
+"WARTHOG” AUTO 210:
+- Armor Breaking mod damage increased.
+- Stun Chance mod increased.
+- Turret Whip damage increased.
+
+"STUBBY " VOLTAIC SMG
+- Electrocution Bonus mod value reduced.
+
+DEEPCORE 40MM PGL:
+- Armor Breaking mod more effective.
+- High Capacity Magazine value increased.
+- Stun Hit mod renamed. Chances increased.
+- Incendiary Compound mod decreases the direct damage taken by enemies, but it will set them on fire.
+- Pressure Wave value fixed.
+
+BREACH CUTTER:
+- Extra Ammo mod value reduced.
+- Damage tweaks to compensate for the frame rate dependency fix.
+- Adjustments to the projectile to make it framerate independent.
+
+CRYO CANNON:
+- Sticky Ice cold effect reduced.
+- Base freezing power reduced.
+- Total ammo increased.
+
+CRSPR FLAMETHROWER:
+- Increased base damage.
+- Decreased base Rate of Fire.
+- Decreased base tank capacity.
+- Decreased tank capacity upgrade.
+- Decreased base sticky flames duration.
+- Decreased sticky flames duration upgrades.
+- Increased direct damage upgrade.
+- Increased direct burn upgrade.
+- Increased targets explode upgrade chance.
+
+SUBATA 120: 
+- Mactera Neurotoxin mod effect increased.
+
+
+UPDATED UNREAL ENGINE VERSION TO 4.21
+-----------------------------------
+For quite some time, we have been stuck with Unreal Engine 4.19, but we finally managed to update the engine to 4.21. It seems to have fixed a lot of GPU crashes. Happy days!
+
+
+MISC.
+-----------------------------------
+- Alien Egg Collection mission should now properly distribute the eggs in the mission area.
+- Assignment missions can now include Mission Modifiers. For difficult assignments, higher complexity missions will be preferred.
+- Fixed Restore Save pop-up showing up unnecessarily for ultrawide monitors.
+- Small adjustment to Steam warning message.
+- Fixed a LOT of spelling errors (Yes, we know. Keep sending ‘em our way if you spot any :D).
+- Attempt to fix voice chat issues.
+- A maximum of 2 voice lines for waking up in Medibay will now be played.
+- Umanite and Inert Uranium materials now look a lot more distinct from each other.
+- Landing in Sticky Goo reduces fall damage.
+- Fixed a bug with area damage falloff.
+- Friendly fire modification added to Bosco.
+- Glyphid Warriors, Spitters, and Web Spitters now don't always run away from explosions. It is chance based on different resistances depending on the enemy.
+- Mactera should no longer die just from being frozen.
+- Spitballers weak points now correctly take additional damage from weapons that do extra damage to weak points.
+- Fix hanging grunt scream.
+- Doubled the number of enemies that are able to target one player.
+- Acid Spitters now properly do Poison Damage. (Yes we know - expect a name change here later… :D )
+- Management has approved fixing critical mesh clipping of gantries near Abyss Bar.
+
 "
 	Update_19 = "Hello Miners! 
 
@@ -6597,7 +6782,6 @@ HUD
 	Update_13_ShortTitle = "ДРІБНІ ЖИТТЄВІ ЗМІНИ"
 	Update_15_ShortTitle = "ЗАГРОЗА МУТАЦІЇ!"
 	Update_17_ShortTitle = "ОКТОБЕРФЕСТ!"
-	Update_21_ShortTitle = "КОРОТКИЙ ЗАГОЛОВОК"
 	Update_10_ShortTitle = "ТУНЕЛЬНИЙ ЗІР?"
 	Update_10_Header = "ОНОВЛЕННЯ 10: ТУНЕЛЬНИЙ ЗІР?  -  16.03.2018"
 	Update_11_Header = "ОНОВЛЕННЯ 11: МЕРТВІ ТА ЗБРОЯ - 23.03.2018"
@@ -6712,7 +6896,7 @@ HUD
 	Update_19_Header = "ОНОВЛЕННЯ 19: ЗБРОЯ! БЕЗЛІЧ ЗБРОЇ!"
 	Update_20.1_Header = "ОНОВЛЕННЯ 20.1: «БІЛЬШЕ, КРАЩЕ, БОСКО» — 03.01.2019"
 	Update_20_Header = "ОНОВЛЕННЯ 20: «БІЛЬШЕ, КРАЩЕ, БОСКО»"
-	Update_21_Header = "Оновлення № 21: Заголовок"
+	Update_21_Header = "UPDATE 21: DIE HARDER!"
 	Update_9_Header = "ОНОВЛЕННЯ 9: ПОБУРИМО ПІЗНІШЕ!  -  09.03.2018"
 	Update_16_ShortTitle = "ЗИМА ПРИЙШЛА"
 
@@ -6730,7 +6914,8 @@ Namespace Resistances (4 keys)
 	Fire = "Вогнестійкість"
 	Poison = "Опір отруті"
 
-Namespace ST_GearUpgrades (46 keys)
+Namespace ST_GearUpgrades (48 keys)
+	T_MineralCapacity = "Більша торба для мінералів"
 	D_BiggerPellets = "Виготовлені дварфом, фахівцем з патронів, вони стали більшими та важчими і не використовують замінників."
 	T_BlowThrough = "Пробивні снаряди"
 	T_ShieldRegenSpeed = "Підсилений конвертер"
@@ -6760,7 +6945,7 @@ Namespace ST_GearUpgrades (46 keys)
 	T_Recoil = "Погашувач віддачі"
 	D_BlowThrough = "Загострені кулі, які були розроблені для надмірного проникнення в ціль із мінімальною втратою енергії. Іншими словами: проходять наскрізь декілька ворогів за раз!"
 	D_ShieldRegenDelay = "Щит починає відновлюватись швидше."
-	D_ShieldRegenSpeed = "Щит відновлюється швидше, після певної затримки."
+	D_ShieldRegenSpeed = "Shield regenerates at a much faster rate but after a longer initial delay."
 	T_ShieldDamage = "Ударна хвиля"
 	T_ShieldStun = "Статичний розряд"
 	T_StaggerChance = "Оглушення"
@@ -6774,6 +6959,7 @@ Namespace ST_GearUpgrades (46 keys)
 	D_ProjectileSpeed = "Ми підкрутили механізм викиду у твоїй зброї і тепер снаряди летять набагато швидше. "
 	D_ArmorDamage = "Краяння броні — це те, чим ми пишаємося! Ріжте ударостійкі пластини жуків, як ніж масло. Що може бути кращим?"
 	D_ShieldStun = "Коли ваш щит зруйнується, він вивільнює статичний розряд, який має шанс оглушити ворогів поблизу."
+	D_MineralCapacity = "Ви можете зібрати більше кожного мінералу, перш ніж потрібно буде вивантажити."
 	D_ExtraAmmo = "Вам доведеться відмовитись від місця під канапки, щоб збільшити загальну ємність під набої!"
 	D_ShieldDamage = "Ваш щит нагайно руйнується, та пошкоджує усіх ворогів навколо."
 	D_StrongerShield = "Ваш щит може поглинути більше пошкоджень перш ніж пропаде."
