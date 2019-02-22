@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 8996470714301895310 / 02/08/2019 14:40:52
+Manifest ID / date     : 4613654763509687397 / 02/22/2019 14:51:14
 Total number of files  : 117
-Total number of chunks : 2099
-Total bytes on disk    : 2095834364
-Total bytes compressed : 1211071360
+Total number of chunks : 2135
+Total bytes on disk    : 2121436864
+Total bytes compressed : 1236162640
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -126,8 +126,8 @@ Total bytes compressed : 1211071360
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Windows/DirectX/x64
          44752      1 669768620446F0AAC1A18EDA98CF6A8DECF1B8FC     0 Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/Win64
-      18264064     18 45E6553C40F49220FBF55662FE2D36533BB00B8D     0 Engine/Binaries/Win64/CrashReportClient.exe
-     117649408    113 A677225AA157F3615C2309EAB911F531E3ECF181     0 Engine/Binaries/Win64/CrashReportClient.pdb
+      18262016     18 3B4D7CCA6518D92DA0A8BAE5EF6D4791C9807ADE     0 Engine/Binaries/Win64/CrashReportClient.exe
+     117641216    113 20FA910704C3C1E4ED9E2CDBFA9F1C2783E81FB2     0 Engine/Binaries/Win64/CrashReportClient.pdb
        3693568      4 C2051E1573CCAA942FB4FF043386C989DF2DBF7E     0 Engine/Binaries/Win64/UnrealCEFSubProcess.exe
              0      0 0000000000000000000000000000000000000000    64 Engine/Config
           1528      1 713DB11186795CD938CC518A02A8E9A4AE1BEE01     0 Engine/Config/controller.vdf
@@ -139,13 +139,13 @@ Total bytes compressed : 1211071360
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content/Paks
-      12276126     14 7A9039F101687B4C40AE6311AD79AA907A57599E     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
+      12276127     14 BA692291F6DC10F27F99C571413AB3296163FB7B     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
              0      0 0000000000000000000000000000000000000000    64 FSD
         516096      1 49FE4F528D9251EC16AC884C2AD02D64EE10B6A7     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      59311104     58 91CF958CAC7A978F56816BD3C157FACE79B13C58     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
-     582488064    558 F5F14C4E7D317BCDD42535A1AB608FA8D20E61AA     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
+      59384832     57 0E988A79773783068430BABB6BA139217B95258C     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+     582995968    557 E2655420531E99A8546CAFAF371DB4C99CF61A5D     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
        4327248      5 031766199999581C94CE46188777D3FBDA9E31D7     0 FSD/Binaries/Win64/dbgeng.dll
        1369936      2 EC3A7FD5861447D615968C51E507CD376A48BD6B     0 FSD/Binaries/Win64/dbghelp.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
@@ -158,7 +158,7 @@ Total bytes compressed : 1211071360
        4873431      5 22A36E73E654D66B5D15792C3BCBD2493616BAE0     0 FSD/Content/Movies/DRG_LogoIntro 720p30.mp4
        6213158      6 C717D643FB5771128CC000BB83DC07998C8CEC36     0 FSD/Content/Movies/Ghost Ship Logo Animation and Coffe stain 1080.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-     830105262    812 AFE8D2BC73687E400C6B7C43C88DB9F8EE01192D     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+     855136369    850 61EFCAC7F26A231E58AE1716A45A277B9C2D40C8     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins
@@ -173,5 +173,5 @@ Total bytes compressed : 1211071360
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64
         400392      1 0B9715D71EF16CA7EA9DDA0BAC6A3944CFA01955     0 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64/discord-rpc.dll
-          1070      1 13C28A2D89CC63F10368532AF750633CF0A46166     0 Manifest_DebugFiles_Win64.txt
-          8612      1 4B9FE7917CD54C8C3A944575777AA57BB021E322     0 Manifest_NonUFSFiles_Win64.txt
+          1070      1 1937E7026AF3AA44F53B950BE9C191FDD977B3C1     0 Manifest_DebugFiles_Win64.txt
+          8612      1 7DC1586D5E07692A831E0F13A4A885E8B1DBAB4C     0 Manifest_NonUFSFiles_Win64.txt
