@@ -1,7 +1,7 @@
 20 namespaces
 4581 values
 
-Namespace Global (5437 keys)
+Namespace Global (5435 keys)
 	2559D78C40005E5221F26093CB976283 = " 収集 {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " 落ちた！"
 	31D60A1449082F9AB6DC15844F3810F6 = " 要求"
@@ -27,6 +27,7 @@ Namespace Global (5437 keys)
 	99A3FDFD4129EEC1371BEDAFC3678A83 = ""Granular data" means we will be able to compile information about\nyour play style and use that to make the game more fun to you and\npeople that play like you.\n\nNo personal information is ever stored or sent.\nThis data can not and will not be traced back to you.\nThrough this method we anonymize all required information required to\nconnect metrics about your game sessions.\nThis connected set of information allows us to better understand how\nyou play without ever needing to know who you are.\n\nDuring data collection we anonymize your IP and we maintain only a\nsmall amount of region information that can't be traced back to you.\nAll that information is handled through GoogleAnalytics and will\nnever be shared with any other third party."
 	1793CC5D45BE527563A3418D99FA338A = ""男らしいドワーフの中核をなすのは勤勉さです。あなたは自分がなれる最高のドワーフですか？""
 	2D32E1124D79B3E3DEC62BB9E756ED93 = ""男らしいドワーフの中核をなすのは勤勉さです。あなたは自分がなれる最高のドワーフですか？""
+	BDC7160C4EAF9E098458C0859B17BA71 = "「奴は黒い死んだ目をしてるんだ。人形みたいな目だ。奴がお前に近づいても、死んだ目をしてる。」ーーレクレメーター ヘルメットはシンプルなデザインで即座に敬意を集めずにはおかない。"
 	D548CF454D1EBCA33D4F6380FA13D2E8 = ""モール" アーマー リグ"
 	EAEFDFC54C5C246CE008F7B46DAE6871 = "「いいものは簡単に得られません！」"
 	EB62CAB8430D69879E92ACA6D499A6C3 = ""良い結果は簡単には得られない！""
@@ -221,7 +222,6 @@ Hoxxesはあなたの友人ではない！""
 	7C0156E34F81B48F66E458AC342DB543 = "999"
 	806FF60A48774EC55D6A34898FB61B8E = "9999"
 	5501A0744D28D36209CF0FAB1C5C3ECC = "<Hightlight>Rich</> Lock Message"
-	A1BAE1F14CB2C0A21DFDEC839ECD7558 = "<{style}>{text}</>"
 	F66754AB4135EDE8DD66018B417E1AF3 = "A"
 	F5B7152F447767F6502E55AC12FC195C = "帽子"
 	FD0DCC9D46112F8E43A87186E3EF73FE = "帽子"
@@ -1264,8 +1264,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	44EB8CCD45F0541602747D97DA7BE5DF = "遅延"
 	7DD07AE8403119755FF99F98DF00E119 = "遅延"
 	99DE4F374F07C18A3F1703807B3A46D2 = "発送元:"
-	000DAD554222CC7FECCFC8BCBCDBF329 = "DeluxMessage"
-	EDC0CDD84B9C9F0ED0A176B81B05ED38 = "DeluxName"
 	18DE5B0A44CE63349F6EE0A23D2E2794 = "爆破技師のお出ましだ…！"
 	0D8331334DD9FFFE16B4DB975A9E080A = "密集バイオゾーン"
 	0B9C58F542172778A7057FADD52AB778 = "密集バイオゾーンのミッションを改良"
@@ -1287,8 +1285,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	A4FA00164668543073CC25B813BDAA2F = "爆破成功！"
 	70BED7904D1D033440D647BC04BC7D2A = "発破！"
 	A3A181DF4AA030A80D841C8240F2C598 = "発破！"
-	8BD96DA24471159BE9537898A161BB33 = "DevMessage"
-	1A7F83A94866202EDAB667B31C1FAFE6 = "DevName"
 	D0DC22DE41563374D9FDB1A21E69FD4D = "ソロ鉱夫の採掘、照光、戦闘を補助するために研究開発部門で開発された。APD は完璧な同僚になるわけではないが、彼らより少し信頼性が高いことで知られている。また APD は一般的に "ボスコ" と呼ばれているが、管理部は装備を愛称で呼ぶ事は認めてない。擬人化は、機器が故障した場合に従業員の間で広がるうつ病の原因と知られているからだ。"
 	41D242CA429F2FF60FE943A761A436EA = "ダイアモンドだ!"
 	8B770D804C9142679C8D79946854C900 = "ダイアモンドがある!"
@@ -1429,7 +1425,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	FD1AE7E14CD23CC7781FCE88A384F850 = "ドワーフ"
 	CA44FBF949BA125FF7E8078C0210C5F1 = "ドワーフは簡単に死なない!"
 	E978D9A04051D52DB79C7BB45391CEE7 = "ドワーフはすぐに死なねぇぞ!"
-	BE15AD434664599A8929698AE29DA3E4 = "ドワーフは照準器を使わない。が、少しばかりの拡張現実オーバーレイ照準器があっても困る奴はいない。何にしたって使う側が困ることはないだろう。照準を向けられる側なら話は別だが。"
+	BE15AD434664599A8929698AE29DA3E4 = "ドワーフは照準器を使わない。が、少しばかりの AR オーバーレイ照準器があっても困る奴はいない。いずれにせよ使う側が困ることはないだろう。照準を向けられる側なら話は別だ。"
 	18300C0C47C8645278AA8D918484604F = "ダイナミック スタビライズ"
 	811989C5423687F09EC2028ADC81DEA4 = "ダイナミック スタビライズ"
 	38924DD543A1A393669A3E97A7EFD5C3 = "ディストラム"
@@ -1646,6 +1642,9 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	541442AB4BBDF3391A4044B944A72B9B = "柵を張った!"
 	F3281FDD4EB3745F9E23BE84A1D88C44 = "柵を設置した!"
 	4AF2DC904E0D8B1F2BD11F96B0C524EF = "フィールド メディック"
+	E87B327F4CDDAE4C2F450DAF425FF4F3 = "応急処置: アイパッチと頭蓋骨プレート"
+	FB36086540DEFD5FF7CE20A707F6E4A1 = "応急処置: ゴーグルと頭蓋骨プレート"
+	C2C272B34F03F30F3B36379F15BD3151 = "応急処置: 鼻当てと頭蓋骨プレート"
 	83E24FD9406A64B55CAD1B9EB150275D = "視野角"
 	96DA4840424F73DE3D6D71823BD98DAD = "Filename"
 	ECB694FD4D50A855CB3C388F38F93C3C = "Filename:"
@@ -1836,7 +1835,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	CFD5169D48BF7E9F7B7C94995F0CF436 = "お前ら、ゲームは終了だ!"
 	0DD0B4274FCA1F3F391374B9D9DDD38E = "ゲームは終わりだ、諸君！"
 	5D7942EC453139A60A45ED9808D00047 = "ゲームオーバーだ、お前たち！"
-	EB30DF944B73BBDA9D96B98DAAA73471 = "GameMessage"
 	B670B9694188B90C9E7174BC1F77112A = "ゲームプレイ"
 	8D35604448412C36F5CAE985DCA5C230 = "収集"
 	AB4E3F3A4DCECE8E5748589D99E5C92D = "エイリアンの卵を集める"
@@ -3323,8 +3321,6 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	74D13FE94A82AB044ED0218B4515D516 = "ノーマル"
 	B7E8693D48943E06E3E77C9E29A44F0E = "通常攻撃の跳弾"
 	929C00EA4DD2DA4B12C718B74F359085 = "通常攻撃では消失されるまで全ての地表上で跳弾します。"
-	E077701D4FC4AF3E15E987B6FCECF83B = "NormalMessage"
-	488501EA4695A6770572EA815B137901 = "NormalName"
 	E5730AC64C1501C0A426DA8F96AA6CBB = "手の届かない値段"
 	7F99AF0C4FD0D46D49BC12A4D33A9F55 = "危険すぎ！"
 	012E832C41B0C601DA207982AE16EFB5 = "伝統的ではないが、ちょっとした気品を漂わせる髭だ。"
@@ -3775,6 +3771,7 @@ But well done. :D
 	00C967844D3D4387C6FE2B85E72ECAB2 = "こいつは君のシールドを再生させると同時に、攻撃から身を守るエネルギー バブルを膨張させる。チーム全員が入れるほど中は快適だ！ただあまりくつろぎ過ぎるな…効果は長続きしない。"
 	8B1422284A0E06C8765ECE89457AC842 = "長時間の発電"
 	A83874AC4B78EA0D8FF696AC6DE34665 = "一度 {class} で昇進し、パークのスロットを拡張"
+	73D63BD44A73AB73DDED7E95F8071C9A = "着るホログラムの画期的製品として世に出たこのヘルメットは、Deep Rock Galactic 社の最も献身的な従業員だけに贈られます。少数にして頑健、精強な「スケルトン・クルー」だけに。"
 	3E4029C341275FD1723B09B92DC1E4A7 = "キャラクターの昇進はレベルを 1 にリセットします。
 加えて名誉バッジを獲得しますが、武器やパーク、クレジット、クラフト鉱物の進捗、そしてバニティー アイテムは維持されます。"
 	3CBC5FB342A4D67CD79C37A662100986 = "昇進のメリット"
@@ -3881,6 +3878,7 @@ But well done. :D
 	E4E4D95A4F78B46199F5DE86B986C73B = "重力のリキャリブレーションが始まっているぞ！"
 	FA7DB98E41EC94BC0A461EBC2ADEE21B = "セントリー呼び出し: 長押し"
 	10374DF344DA1706BD000F85A1661507 = "最近死んだ労働者は記念碑に追加されない。それでも俺達は彼らを誇りに思っている！"
+	A41C20C54C4B47C5BD71B59AA9329EE6 = "レクレメーター ヘルメット"
 	002F325142327853A68620911CA2D5F0 = "反動"
 	C0B38C464A486467E59A0AAFDA140E4C = "反動コンペンセイター"
 	3264FFDE445370F8768DCDBD53D8B233 = "Recording..."
@@ -4465,7 +4463,7 @@ But well done. :D
 	256A27CE4E1C7A140EE2FBB63CF61EE6 = "補給ポッドの要請確認。向かわせているぞ。"
 	96CF5A184760767A613FC0B4C3068B90 = "援護射撃してくれ!"
 	2D2336ED4FDC06EDADFD19B0E24F89B9 = "デンマーク映画協会 - ゲーム案"
-	564780DB4BC0B912BEC1FF90F5F944A7 = "サポーター エディション - 二倍に！"
+	564780DB4BC0B912BEC1FF90F5F944A7 = "サポーターエディション 100% 増量中！"
 	6A58F52C4B5E9FDC75E895B3D2E18EB1 = "至高の鉱夫"
 	6B99757D432CE48164B267ACB8C04B64 = "至高の鉱夫"
 	93481070407FA3FB1F9B3BB82F205398 = "至高の鉱夫"
@@ -4893,7 +4891,7 @@ But well done. :D
 	17E10C7744E0699B82D945B0F00A09B1 = "未知数の種類"
 	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "UNKNOWN TYPE {type}"
 	1DFF07CD499D9C20484D76BF57D90FD9 = "アンロック:"
-	273506A1407FF7C9D4788395C1357054 = "UPGRADE CATEGORY GOES HERE "
+	273506A1407FF7C9D4788395C1357054 = "UPGRADE CATEGORY GOES HERE"
 	2A0F07534F6FAE1A1AC181919021B449 = "UPGRADE NAME GOES HERE"
 	154D798349596E65C508169C1B0BD295 = "装備のアップグレード"
 	68B79960422B69C0689251A8A121BF01 = "アップリンク完了"
@@ -5064,15 +5062,15 @@ But well done. :D
 私達は心の底から、DEEP ROCK GALACTIC の早期アクセスを通じた開発をご支援下さり、感謝しています！
 
 - Ghost Ship 一同"
-	939943974F5DFB141EF3A68DFB08266B = "WELCOME, MINER!
-From the bottom of our hearts, thank you for supporting the early development of DEEP ROCK GALACTIC! 
+	939943974F5DFB141EF3A68DFB08266B = "鉱夫の皆様、ようこそ！
+ディープ ロック ギャラクティックの開発初期を支えていただいていることに心の底より感謝いたします！ 
 
-Do remember that this is a pre-release build - you will encounter bugs and stability issues. This means that some parts of the game, including Xbox Live features (like chat and multiplayer), might not function as expected (or might not function at all).
-Because this is a pre-release game, Microsoft and the publisher do not commit to providing customer support for the game."
-	E0550F8045300AF2AFCAB09D70C74A6B = "WELCOME, MINER!
-From the bottom of our hearts, thank you for supporting the early development of DEEP ROCK GALACTIC! 
+本作はまだ正式リリース前であることをご了承ください。安定性の問題やバグに突き当たることは十分にありえます。本ゲームのいくつかの部分、Xbox Live の要素（チャットやマルチプレイヤー）などは思ったように機能しない（もしくは全く機能しない）こともありえます。
+正式リリース前であるため、マイクロソフトやパブリッシャーはこのゲームのためのカスタマーサポートの提供に積極的ではありません。"
+	E0550F8045300AF2AFCAB09D70C74A6B = "鉱夫の皆様、ようこそ！
+ディープ ロック ギャラクティックの開発初期を支えていただいていることに心の底より感謝いたします！ 
 
-Do remember that this is a pre-release build - you will encounter bugs and stability issues. This means that some parts of the game, including Xbox Live features (like chat and multiplayer), might not function as expected (or might not function at all). Because this is a pre-release game, Microsoft and the publisher do not commit to providing customer support for the game."
+本作はまだ正式リリース前であることをご了承ください。安定性の問題やバグに突き当たることは十分にありえます。本ゲームのいくつかの部分、Xbox Live の要素（チャットやマルチプレイヤー）などは思ったように機能しない（もしくは全く機能しない）こともありえます。正式リリース前であるため、マイクロソフトやパブリッシャーはこのゲームのためのカスタマーサポートの提供に積極的ではありません。"
 	5F3F01E44C0D88616BA716AB815E26BE = "キック理由は何ですか？"
 	854D09DD4E3394FB8C668C93857DE524 = "なに！…せっかくいい気分になってきてるのに！"
 	AD82789544CC8B154E20519D7CA28D65 = "M.U.L.E. はどこ？"
@@ -5197,7 +5195,7 @@ Steam と Discord を通じて作業中です。
 	F3800CAA4060BDECF8ED9CBFD8A7F763 = "ウィィィィ！"
 	1732EDD3443C16A8897B53AFAC41926E = "週末アスリート"
 	EABB5E3E429B52D1DBD4F484AAA67C81 = "ウィークリー アサイン完了"
-	FA384A944208E481CD25BC9197D9E39D = "Weekly Priority Assignment"
+	FA384A944208E481CD25BC9197D9E39D = "今週の優先割当"
 	143CACC14BC9B8CCB2060FA28548AD9E = "鉱夫の方、ようこそ！"
 	EBA81F3D43CA217BF51B13A4D2F2BBE7 = "鉱夫達よ、惑星ホクセクスへようこそ - 絶好調であると信じているぞ。これが地下への最初の潜りとなり、ここでの我々の詳細な活動を学ぶチャンスを与えてくれるはずだ。君達の目的はモーカイトの大きなサンプルを見つけて回収する。さぁ富と栄光は君を待っている！始めてくれ！"
 	CA46EF6348F600262B35F2A04A53CA74 = "鉱夫の皆さん、惑星ホクセクスへようこそ！これが地下への最初の潜りとなり、私達のここでの詳細な活動を学ぶチャンスを与えてくれるはずです。"
@@ -5272,10 +5270,10 @@ Steam と Discord を通じて作業中です。
 	9B88D7B1477CF9C3250EDCB69C4DE794 = "仮想フルスクリーン"
 	208896814DD1122C53B4758EF15DB887 = "そいつにはもっと支払って欲しかった！"
 	DC3DAC6E45E49D057EBE2FAC57ACDEB3 = "俺について来い!"
-	D10A29C4404A8514CCCB06A303EDB275 = "With the level of incursion on Hoxxes increasing, Management has introducing the Weekly Prioroty Assignment system to combat the growing workload. It means more jobs done for the Corporation, and hefty dividends paid out to the dedicated employees taking on these priority tasks. This is as close as we'll get to win-win scenarios around here, Miners. Get on it. 
+	D10A29C4404A8514CCCB06A303EDB275 = "Hoxxes への侵入レベルの増大に伴い、増加する作業量に対応するため、管理部によって週間優先業務が導入されることになりました。導入により社に対するこれまで以上の貢献が達成され、優先業務を引き受ける献身的な社員には高額の配当金が支払われることになるでしょう。皆さん、Win-Winの状況はあと少しで達成されるところまで来ています。急いで取りかかってください。
 
-Regards,
-Management"
+敬具
+管理部"
 	8941EAA24DC82A068BE7DBAD6E53E720 = "今夜の食堂はどんなゲロが出てくるか楽しみだ！"
 	F1C565E647C016DEA126A18D066A8A88 = "今夜の食堂ではどんなヘドロを出してくるんだろうな！"
 	2D9F7A3145C7814F17E1CCB3FF0117AC = "うぅぅぅぅぅお！"
@@ -5616,7 +5614,7 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "目標達成、M.U.L.Eから降下ポッドを呼べるぞ！"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "目標達成、M.U.L.Eから採掘ポッドを呼べるぞ！"
 
-Namespace PatchNotes (47 keys)
+Namespace PatchNotes (49 keys)
 	Update_20.1_ShortTitle = "強く、逞しい、ボスコ"
 	Update_20_ShortTitle = " 強く、逞しい、ボスコ"
 	Update_11_ShortTitle = "死と銃"
@@ -7022,6 +7020,7 @@ BET-C へ修正
 	Update_13_ShortTitle = "体力に微調整"
 	Update_15_ShortTitle = "ミューテーション警報！"
 	Update_17_ShortTitle = "オクトーバーフェスト！"
+	Update_21.5_ShortTitle = "軌道に乗って一年間"
 	Update_10_ShortTitle = "視野が狭い？"
 	Update_10_Header = "アップデート 10: 視野が狭い？ - 2018.3.16"
 	Update_11_Header = "アップデート 11: 死と銃 -  2018.03.23"
@@ -7137,6 +7136,7 @@ BET-C へ修正
 	Update_20.1_Header = "UPDATE 20.1: 強く、逞しい、ボスコ - 2019.01.03"
 	Update_20_Header = "UPDATE 20: 強く、逞しい、ボスコ"
 	Update_21_Header = "アップデート 21: リーサルの到来"
+	Update_21.5_Header = "アップデート22: 軌道に乗って一年間"
 	Update_9_Header = "アップデート 9: またな！ -  2018.03.09"
 	Update_16_ShortTitle = "冬来る"
 
@@ -7162,7 +7162,7 @@ Namespace ST_GearUpgrades (53 keys)
 	T_ShieldRegenSpeed = "昇圧コンバーター"
 	T_ReviveInvulnerability = "ちょっと一息"
 	T_BiggerPellets = "2 倍サイズのバックショット弾"
-	Headwear_FieldRepairs_Desc = "ドワーフは頭骸骨のぶ厚さでとりわけ有名です。でも、時には「いかなるものでも止めることのできない力が、決して動かすことのできない物体と出会う」ということもあり……この話がどうなるかはお分かりでしょう。"
+	Headwear_FieldRepairs_Desc = "ドワーフは頭骸骨のぶ厚さでとりわけ有名です。でも、時には「何者も止めることのできない力が、いかなるものも動かすことのできない物体と出会う」ということもあり……この話がどうなるかはお分かりでしょう。"
 	T_ExtraAmmo = "拡張弾薬バッグ"
 	D_ReloadSpeed = "勘、訓練、そしてちょっとばかしの非合法な "調整"で、銃がかなり早くリロードされる。"
 	D_AreaSize = "爆発するぞ！ 効果範囲が広がる。(「安全な距離」という言葉を心に留めておくことを勧める)"
