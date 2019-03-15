@@ -1,7 +1,7 @@
 20 namespaces
-4453 values
+4489 values
 
-Namespace Global (5491 keys)
+Namespace Global (5502 keys)
 	2559D78C40005E5221F26093CB976283 = " {Title}: собрано {Collected}/{Required}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Я Упал!"
 	31D60A1449082F9AB6DC15844F3810F6 = " ТРЕБУЕТСЯ"
@@ -26,6 +26,7 @@ Namespace Global (5491 keys)
 	99A3FDFD4129EEC1371BEDAFC3678A83 = ""Granular data" means we will be able to compile information about\nyour play style and use that to make the game more fun to you and\npeople that play like you.\n\nNo personal information is ever stored or sent.\nThis data can not and will not be traced back to you.\nThrough this method we anonymize all required information required to\nconnect metrics about your game sessions.\nThis connected set of information allows us to better understand how\nyou play without ever needing to know who you are.\n\nDuring data collection we anonymize your IP and we maintain only a\nsmall amount of region information that can't be traced back to you.\nAll that information is handled through GoogleAnalytics and will\nnever be shared with any other third party."
 	1793CC5D45BE527563A3418D99FA338A = "«Тяжелая работа в крови у каждого дворфа. Ты уверен, что выкладываешься на все сто?»"
 	2D32E1124D79B3E3DEC62BB9E756ED93 = "«Тяжелая работа в крови у каждого дворфа. Ты уверен, что выкладываешься на все сто?»"
+	BDC7160C4EAF9E098458C0859B17BA71 = ""Безжизненные, черные, словно кукольные глаза. Все ближе и ближе - и словно покойник." Шлем мастера-утилизатора в своей простоте мгновенно вызывает уважение."
 	D548CF454D1EBCA33D4F6380FA13D2E8 = "Бронекостюм "Крот""
 	EAEFDFC54C5C246CE008F7B46DAE6871 = ""Хорошие вещи легко не даются!""
 	EB62CAB8430D69879E92ACA6D499A6C3 = ""Хорошие вещи легко не даются!""
@@ -63,6 +64,7 @@ Namespace Global (5491 keys)
 	886489DF440F20A403ACDE9B7B59F304 = "(4) Разведчик"
 	8F680F614C6FE54A955EF1A50B527193 = "(5) Неизвестный"
 	084972DA4367BB3126F09EA16F626036 = "(Агрессивно) О да, давайте сделаем это...!"
+	E383843E42C22B358EA39FB6FF6BA09E = "(Класс заблокирован)"
 	AC9CB43F455140B75237698785F7ECF3 = "(E) Выход"
 	C3C678454400B1BFB5D336A7E904BDC6 = "(R) Обновить персонажа"
 	79C854AD4881276E9A57FEB5109ED8AA = "(напевая) Монорельс, Монорельс, Монорельс!"
@@ -83,6 +85,8 @@ Namespace Global (5491 keys)
 	743B701443B2E95407A48793DB5D43DB = "+ Повышение Бурильщика"
 	70E89AD543F7A4B249C79A8C7D7AB23E = "+ Повышение Инженера"
 	EB9E838D46296A20D2D58F866ACFD50B = "+ Экспериментальный плазмозарядник доступен для покупки"
+	E16E40D847837BAE009ECE9C55294BE5 = "+ Дополнительные кредиты
++ Различные материалы для крафта"
 	66A0823447C3CB00940092A9CB213262 = "+ Повышение Стрелка"
 	F7C6C8D74BA2C606E57FFB820EAA8E1A = "+ ЗНАК ПОЧЁТА"
 	60E15BAC41DCC919F2E12EB2EFF2AC7D = "+ УВЕЛИЧЕНИЕ РАНГА ИГРОКА БЛАГОДАРЯ ПРОКАЧКЕ ПЕРСОНАЖА ЗАНОВО"
@@ -211,6 +215,11 @@ Namespace Global (5491 keys)
 	4F139CE2473B5CB7ABABA29118EB36A2 = "5 Здоровье"
 	50008DEF43F7561299241C869E05FAD9 = "5 Здоровье"
 	8A685A4E480B9FC59AA6F4956115EA49 = "5 Здоровье"
+	9E7857CB491408F2B8922899E3029B3F = "5 Здоровье"
+	AD60A91749DF1B96741E51B33C950ECB = "5 здоровья"
+	DDEF44AA4FD80102BE3A03BC7456CAE4 = "5 здоровья"
+	FB6FBFB34F2FB6CA0E3594936AF329BC = "5 здоровья"
+	FE2F37A743D04A48E4C8958AC6D4CB70 = "5 здоровья"
 	0D64808D4847E68080B0E696BA1C1B66 = "5.000 кредитов получено!"
 	63AFFF3E45F767CC011D269D00E571DB = "5.000 кредитов получено!"
 	86F38B004BD8526DF264E2B84F722651 = "50% урона превращается в тепло. Это уменьшит прямой урон, но подожжет врагов."
@@ -226,6 +235,7 @@ Namespace Global (5491 keys)
 	1C40AD8D4C07159650EA09B9CADCBADA = "99999 / 99999"
 	D03FB873468821CB45B5E8AC1169142C = ":"
 	F7F34C3849210BE3032D91916EBE8118 = ":"
+	5501A0744D28D36209CF0FAB1C5C3ECC = "<Hightlight>Rich</>Заблокировано"
 	F66754AB4135EDE8DD66018B417E1AF3 = "A"
 	F5B7152F447767F6502E55AC12FC195C = "Каска"
 	FD0DCC9D46112F8E43A87186E3EF73FE = "Каска"
@@ -271,7 +281,6 @@ Namespace Global (5491 keys)
 	F946FA4B4DAE331533CBA59544C0392F = "Увеличенная скорость перезарядки позволит вам использовать оружие быстрее после опустошения магазина или ручной перезарядки."
 	316133814299B83CF3DDD582EEF3710A = "Значительное увеличение яркости, которое может иметь значение в некоторых наиболее темных пещерах."
 	816E62B24EDA725C5BD2A9A416F9BFDB = "Маленький и легкий полуавтомат для маленьких и легких дворфов. Опаснее, чем кажется."
-	4843649A458F8DFF5439E8A933A1429C = "Фальшфейер оснащается твердым магниевым ядром, которое увеличивает продолжительность горения"
 	AA2A27EE494F708441CAEE8E848BA862 = "Обычная осколочная граната, вот только вместо шрапнели — сильнейший, затвердевающий на воздухе клей. Даже и не спрашивайте."
 	73F3774A48A4448BB90A72A2F5FA7B50 = "Стандартная осколочная граната."
 	2F4B2DC34745B99FD01C5A86612FC319 = "Набор брони, собранный из сломанных бочек. В хозяйстве все пригодится!"
@@ -289,7 +298,7 @@ Namespace Global (5491 keys)
 	1557E1D24CCF618B8B65659C0DA61CA2 = "ПРИЦЕЛИВАЙТЕСЬ ПЕРЕД СТРЕЛЬБОЙ!"
 	76A4C71F40A6600464CF538B0BA3EF0C = "ВНИМАНИЕ"
 	9D4A6C964766878937146DACFC05C03D = "ВСЕ"
-	7E2D33234A8BF8716D6FBFBFEA047EC7 = "СОСТАВ ГРУППЫ «REGULARS» В ДИСКОРДЕ"
+	7E2D33234A8BF8716D6FBFBFEA047EC7 = "ALL OUR DEDICATED DISCORD MINERS"
 	9B9AA6A7491F90B980C71C98DE2A59BB = "УЖЕ ИСПОЛЬЗУЕТСЯ"
 	C2D4C65A430223C08E507585B7DA73C5 = "МЦД"
 	C3CD0AE24CB9B3ED783E00967D20674C = "МЦД-Б317"
@@ -595,6 +604,7 @@ Namespace Global (5491 keys)
 	294BC0AB4FF97BD761A189BAC955208D = "Шарик"
 	2EBD5AB5461DBCF508E0CE877D006A37 = "Будь то препятствие или на удивление твердолобый противник, старый добрый заряд взрывчатки скорее всего справится с этим. Перед подрывом лучше отойти. Подальше."
 	A053E21A49434406567922AEB7F4ABE6 = "Соблюдайте тишину и проявите уважение к павшим!"
+	96C4F1564F1B57D4D09E7CA2234CE78F = "Шапочка - Зеленая"
 	D414D8B046988FD1CF5610B91FFC736C = "Шапочка - униформная"
 	384D191244AC7DCA6A25459FF2C2F0CA = "Шапочка - белая"
 	A2F1B5FD49796B8AAFF973B5A24ED0F1 = "Борода"
@@ -615,11 +625,6 @@ Namespace Global (5491 keys)
 	6DC59D154FA3DFAB5404239269434F67 = "Больше дробинок"
 	1A9F1C994DB33645910DE683E7C7A184 = "Увеличенная платформа"
 	0AAB50C342FDCB4D2AB423A47F13DB77 = "Больше радиус взрыва для заряженного выстрела"
-	13B037E84A0500B948C179B33E3998EA = "Увеличенный радиус взрыва"
-	18F8B3D1433ABDA54E219CAF09AB03E3 = "Увеличенный радиус взрыва"
-	4219FC504C86CBA153539DA836B0FB7A = "Увеличенный радиус взрыва"
-	64EA28E1445B3E213E7452A77935A481 = "Увеличенный радиус взрыва"
-	8F321AF8463E4FF2AA6989900DBF364A = "Увеличенный радиус взрыва"
 	2A322A9E4EACAB6CA2743883310D49FA = "Биозона"
 	D91333C14F135C02059BDA82F2E04B1F = "Бисмарк"
 	548B876240D52D5A39CAD0B8A9AE3C12 = "Бисмор"
@@ -761,6 +766,7 @@ Namespace Global (5491 keys)
 	CCD5A42B4899395A8E979AAF6192E5A4 = "ПЕРЕВОДЧИКИ ИЗ СООБЩЕСТВА"
 	C43759C34758D0A2EFFF3E81C874F6F8 = "ЗАВЕРШЕНО"
 	7E414F4C4FF198C3F86B93AF103217E7 = "ЗАВЕРШЕНА"
+	9D5804D945E193F068219EB19787CE42 = "ВЫПОЛНЕНО"
 	13AEF9FE48FED505521872B9A8A90466 = "НАГРАДА ЗА ЗАВЕРШЕНИЕ"
 	3D6E174142696818ED29D6804471583B = "СОЕДИНЕНИЕ ПОТЕРЯНО"
 	401FE2484B056208D64FE898A736C2CB = "СОЕДИНЕНИЕ ПОТЕРЯНО"
@@ -917,7 +923,6 @@ Namespace Global (5491 keys)
 	6D9B456243DA9B907D2B1CBFD042F53E = "Закрыть"
 	C48AD6AA40545C441F30C494C99EEA45 = "Закрыть"
 	EEEEFF164B271248EAF22AA0AD31E597 = "Закрыть"
-	A5249714428DC19ECC87E9822D877AD2 = "Cody Barnes (Dwarfurious)"
 	7F426ECD4A9899E679454EB808303961 = "Холод"
 	4918697C48E7D5A0DD45F3923D871A9D = "Холодный как могила"
 	259723D1490F7709AFC70191330EAF3D = "Морозное сияние"
@@ -1045,6 +1050,7 @@ Namespace Global (5491 keys)
 
 -С уважением, 
 Руководство"
+	E3E97B0F48FD741C82414D9AA269AD92 = "Поздравляем! Поручение выполнено!"
 	009F2EB04FE3A9215B942AB56C07E4A0 = "Поздравляем! Руководство считает, что вы готовы освоить новый тип оружия, и обновило вашу оружейную лицензию! "
 	A09B271D428D6FCF1DEE03BEEDE2A67A = "Поздравляем! Руководство уверено что вы готовы перейти на следующий уровень ответственности. Мы даём вам доступ к сложным экспедициям в ядро планеты."
 	36DE54D74420BE4709E354BADB542ECB = "Поздравляем! Руководство разрешило вам доступ к терминалу Рынка. Теперь вы можете покупать и продавать минералы, но знайте: Торговля идёт не в вашу пользу - это не сувенирный магазин."
@@ -1137,6 +1143,7 @@ Namespace Global (5491 keys)
 	DEA8B04C44BB57535CA4E398DEF783B4 = "Гребень"
 	CAA5A22A4E6EF0CCA9BC6FAAD88DE603 = "Критический перегрев"
 	81F477394FD1960C89BA93BEB72D7577 = "Критическая слабость"
+	9D754E42459E1ADABFFD7185D8684C3F = "Варианты существ"
 	A35FACD244DC0BA20F4A0BB551869C01 = "Кроппа"
 	E09D4A064EC5A72BACAB8CA3276A1FC8 = "Кроппа"
 	BCE24C72411920FE66007A836567DDF9 = "Здесь Кроппа!"
@@ -1191,19 +1198,11 @@ Namespace Global (5491 keys)
 	AAE482694DF537ECAA577BA7B353592F = "СЛИШКОМ МНОГО ПЬЕТ"
 	1714E8CA42591ED549A81C91A33BFE16 = "Дррррынн Дррррынн"
 	9D18D26448F24508C9BCFCAE5B647A24 = "Ежедневное яйцо "
-	04EB654A440E24A574209CA06C0024F6 = "Урон"
 	0CB3B9E24A8C84A23840C2BF52BEF603 = "Урон"
-	0E8980524B030DC3BE2A8CB569D18156 = "Урон"
-	4B75716E4B545D6172594F8C5B1D6CE5 = "Урон"
 	930A96794664525E6D326D840A77563A = "% Урона при макс. стабилизации"
 	8A8972C446EC1139347526B60B289F83 = "% урона в огонь"
 	84C75144421AC4802E4EBE92A7F0794D = "Урон +25"
 	51B7466F4CF291D1F39DD0B8A9EEA47D = "Урон обычным снарядом"
-	028BB5DC42B546CF810327A70515B5FF = "Радиус поражения"
-	14D7018545E85BC413D6AABF4365FBC6 = "Радиус поражения"
-	285D05114BE18E5FABAD2599B4E2F0F9 = "Радиус поражения"
-	8558D885453FCB187A76F4B3F31FB5A7 = "Радиус поражения"
-	A6573AD74A2E46C028E630A142A71251 = "Радиус поражения"
 	B855F25348B1D7495CB53EBD26207CC3 = "Урон по Горящим"
 	E6960D9D4314D4C2E87F418CEB9FE7CC = "Урон по Горящим"
 	B21AB3B74E5AE85FE4E7EBA9B75C99FF = "Бонус к урону последней пули если прошлые две попали"
@@ -1235,13 +1234,13 @@ Namespace Global (5491 keys)
 	1DC72A72440F98A585370693E37EAB94 = "Опасность и тьма! Мы идём!"
 	FB531602444A8989E3ED878D435CB815 = "Опасно! Не подходите близко!"
 	F1B7F84047CE1DBDEE77EB84A4E9B6D0 = "Daniel Kaplan"
-	53523FB045C3F3159F36B19DA4729D08 = "Danniela Goes de Aragão"
 	20CFB83B4AF58A96C27EA48D1B4119DD = "Темный Моркит"
 	0C373F314C1B99471C0B9D9E1D6EDED0 = "Темного Моркита каждому!"
 	EBCBE14B4504EC56C82A1F85F9F32BD7 = "Тьма - наш друг!"
 	CBC92B804862BDDA7286BF98D6BFD825 = "Тьма, я иду!"
 	9205D30F4D3C1655949079BE2F972D3B = "Темнота? Фигня."
 	8D38A16F4CC69C9099EE47B5492E25AA = "Орлиный глаз"
+	A1FC2B3548F21FF9B11C3AA77264CDB0 = "Крайний срок"
 	CBC63163480FABAF019231B7AEAD600E = "Дополнительный урон по электрошокированным целям"
 	C3FC680D4ED177DB6FD35796089C808B = "Наносит урон при прямом попадании"
 	5752FB294C08293A5867409459F50E7D = "Наносит больше урона"
@@ -1339,7 +1338,7 @@ Namespace Global (5491 keys)
 	F2A7C6E14E38A8083F53C68B83D15287 = "Своё дело делает."
 	0603F0CF436ADDAC1BD057B23A73549F = "Своё дело делает..."
 	53E04FA04441E4ED1758FAB8E1303B55 = "Своё дело делает..."
-	5E74E6ED470F09DA350E0BA7E59C981A = "Dominik Stau, Cody Barne, Jake, Mathias von der Heide, Kert Tin, Stefano Giacchetti Aravena,Jacen Toal, brent B., Jon Navarro, Kory Small, Isabelle Chan, Jonathan Marquis, Tristan Caron, Timothy Mackenzie, Paul P, Julia V, Timothy Mackenzie, Asher Blair, Stijn van Rijen, Christopher Allan Walker, Evan Gradzewicz, Maxime Riou, Dominic G, Ludovic Hamelin, Mark Haseley, Timo leander spykman, Jestin Edward Mammen, Michael McDougall, Sivokho Dmitry, Theodor Heiling, Nikita, Dexter Spenik, michael harrop, Ben Llewellyn, Cory Watts, Nathan Williams, Luke McComas, James, Christophe Mateos, Jordan Thomas Brockway, Jaimee Lavery, Callum Newman, Michael Deskar, Ron Moshe, Bo Yuan Zheng, Danniela Goes, Ricky Spence, William Freeman, Will Pritchatt, Felix Schiller, Erwin Bell, Erik Stüwe, Colton williams, Artem A. Dedov, Alesh Holubec, Matej Vlk, Lim Zi Hao, MIguel Angel, Rafael Aragão, Philip Mørch."
+	5E74E6ED470F09DA350E0BA7E59C981A = "Dominik Stau, Cody Barnes, Jake, Mathias von der Heide, Kert Tin, Stefano Giacchetti Aravena,Jacen Toal, brent B., Jon Navarro, Kory Small, Isabelle Chan, Jonathan Marquis, Tristan Caron, Timothy Mackenzie, Paul P, Julia V, Timothy Mackenzie, Asher Blair, Stijn van Rijen, Christopher Allan Walker, Evan Gradzewicz, Maxime Riou, Dominic G, Ludovic Hamelin, Mark Haseley, Timo leander spykman, Jestin Edward Mammen, Michael McDougall, Sivokho Dmitry, Theodor Heiling, Nikita, Dexter Spenik, michael harrop, Ben Llewellyn, Cory Watts, Nathan Williams, Luke McComas, James, Christophe Mateos, Jordan Thomas Brockway, Jaimee Lavery, Callum Newman, Michael Deskar, Ron Moshe, Bo Yuan Zheng, Danniela Goes, Ricky Spence, William Freeman, Will Pritchatt, Felix Schiller, Erwin Bell, Erik Stüwe, Colton williams, Artem A. Dedov, Alesh Holubec, Matej Vlk, Lim Zi Hao, MIguel Angel, Rafael Aragão, Philip Mørch and many more..."
 	B219BE384F814BFA0BE202916D737E46 = "Не подходите близко или рой нападет!"
 	1AD1206B472E1D5F65809BB04E039AC0 = "Места больше нету!"
 	3D671FEE48E3B9B92C65588BF9523D9C = "Места нетути!"
@@ -1382,12 +1381,11 @@ Namespace Global (5491 keys)
 	FFF44FA643A75D7456070EA053E850F8 = "Бури быстрее."
 	97A3653E445548AB98C752BCD03C6AD0 = "Просверли и прожарь!"
 	6283C41245AC6270DE89789AEA9599C3 = "Бурильщик"
-	6F017F9E4A37C608F3331CB551539E8F = "Drone Modification"
+	6F017F9E4A37C608F3331CB551539E8F = "Модификации дрона"
 	65082D9F453F3316D327788612CEB5EB = "Дрон прибыл!"
 	594A7D6C47E8A9ABA04BF9B83E3A4A6B = "Дрон прибыл!"
 	5D11775D4098373B80395E970421929F = "Дрон заказан!"
 	3E9CBD324005C70D4FE845896B38EEB2 = "Дрон, за работу!"
-	2FBDF89B419048D332D18CBFD99C8CBE = "drong"
 	1B5AA3414AD3A4B0FB3D81876D35C098 = "Друпи-старатель"
 	24485A4E421985E76D17858BA2FCCE8A = "Друпи-старатель"
 	72148A4A4AF5B94638C9A7B1A4C73FA1 = "Друпи-старатель"
@@ -1430,7 +1428,7 @@ Namespace Global (5491 keys)
 	FD1AE7E14CD23CC7781FCE88A384F850 = "Дворфы"
 	CA44FBF949BA125FF7E8078C0210C5F1 = "Дворфы так легко не умирают!"
 	E978D9A04051D52DB79C7BB45391CEE7 = "Дворфы так легко не умирают!"
-	BE15AD434664599A8929698AE29DA3E4 = "Dwarves don't use sights. But, a bit of AR overlay never hurt anyone. Well, not the ones using it anyway. It's another story for those it's aimed at."
+	BE15AD434664599A8929698AE29DA3E4 = "Дворфы не используют прицелы, но немного дополненной реальности еще никому не повредило. Ну, по крайней мере, не тем, кто ее использует. Для тех, в кого прицеливаются, это уже другая история."
 	18300C0C47C8645278AA8D918484604F = "Динамическая Стабилизация"
 	811989C5423687F09EC2028ADC81DEA4 = "Динамическая стабилизация"
 	38924DD543A1A393669A3E97A7EFD5C3 = "Диструм"
@@ -1443,7 +1441,6 @@ Namespace Global (5491 keys)
 	6784ED5E43EF9CA3EC716EBF32F7BE2C = "Т  е  р  м  и  н  а  л     п  е  р  с  о  н  а  л  а"
 	8EF0CA524766EE480DE1CE8C4BC56610 = "Т  е  р  м  и  н  а  л     п  е  р  с  о  н  а  л  а"
 	555F8E5A4DDBB8BD3DC1F2AAFD117009 = "ЭККОМ функционирует."
-	73BD18F84823845B7227508F66A947CB = "РЕДАКТОРЫ"
 	FA272FD64B90E88738DD95AEC2E5BB66 = "ИСПЫТАНИЕ ВРАГА"
 	3E7AEFBD413BA377F0C7E696F2148876 = "ИНЖЕНЕР"
 	5A5338684DA9A8EA67A6D7A111345EA4 = "ИНЖЕНЕР"
@@ -1502,6 +1499,7 @@ Namespace Global (5491 keys)
 	CB2BB63F4DF987B78EBECC9C043E9D3D = "Включить подсказки"
 	C9E4147A4FA3B797FA7ADCBEAA356CAE = "Enabling Mixer Interactivity will allow viewers of your Mixer \n stream to spend Sparks to heal you, add resupplies and spawn \n various creatures."
 	2632AC3F4FED5EB41B6315875EFD90C6 = "Enabling Twitch Interactivity will allow viewers of your Twitch \n stream to vote on which biome or mission you will do next."
+	9977DBBF4AE4FD43AFE58D9D7B49C31E = "Варианты контакта"
 	9113D50C470070B66C7D069A7EE4B663 = "EndCrack"
 	305318414478607ABE93A989F8D75E0A = "Убито врагов"
 	E67758F5441CADB5013533B2CBD671AE = "Враги, попавшие в ослабляющее поле, замедляются и становятся уязвимыми."
@@ -1533,6 +1531,7 @@ Namespace Global (5491 keys)
 	E41E65EF4B3D8D12A32E189C8113C100 = "Каждый патрон дробовика содержит внутри дробинки. Увеличение количества дробинок увеличит потенциальный урон, а также шансы поразить цель."
 	A51190624912F34F9628E7A7B19C1047 = "Неплохо бы каждому таким обзавестись!"
 	CBD59AC44C2076F565A1E886D676FC7B = "Народ! Посмотрите все сюда!"
+	E7BD9E364121F33A2E1339A33FB12223 = "Злой глаз"
 	0366331A4901F18D0028DC96650B9591 = "Память об ушедшей эпохе."
 	9B115B0E427EC72BD080DABD3AE2074B = "Отличная работа! Лицензия на оружие обновлена для Разрывателя! Еще одно горное снаряжение, превращенное в оружие. Хокссес точно порождает инновации..."
 	C702A0F14FBF6418DD18C091766DF2DA = "Отлично сработано! Еще одна миссия, и вы получите новую оружейную лицензию."
@@ -1644,9 +1643,13 @@ Namespace Global (5491 keys)
 	541442AB4BBDF3391A4044B944A72B9B = "Устанавливаю заграждение!"
 	F3281FDD4EB3745F9E23BE84A1D88C44 = "Устанавливаю заграждение!"
 	4AF2DC904E0D8B1F2BD11F96B0C524EF = "Полевой медик"
+	E87B327F4CDDAE4C2F450DAF425FF4F3 = "Полевое снаряжение: Глазная повязка и пластина в черепе"
+	FB36086540DEFD5FF7CE20A707F6E4A1 = "Полевое восстановление"
+	C2C272B34F03F30F3B36379F15BD3151 = "Полевая хирургия: скобка на нос, пластина в череп"
 	83E24FD9406A64B55CAD1B9EB150275D = "Угол обзора"
 	96DA4840424F73DE3D6D71823BD98DAD = "Имя файла"
 	ECB694FD4D50A855CB3C388F38F93C3C = "Имя файла:"
+	F4AF25AA4B49ED59B4C3F0A5CE6AC159 = "Фильтры"
 	6E1245814EA1D86534832BB284EE1AFD = "Найти миссию"
 	6CF81BFA46F8BEF357F59AA0D8432BFE = "Найти яйца"
 	66A7BD9F4745F011CC23D4982F605BC2 = "Стрельба"
@@ -1889,7 +1892,7 @@ Namespace Global (5491 keys)
 	C39A53824CD0A502D5870A847160F259 = "Дайте мне и моей команде этого чудного варева "Скалистая гора"! "
 	71173FEE4A8514F7C787F6A1F220E33C = "Ледниковый"
 	BF7701854BA46A204F98F39E42504DD5 = "Ледяные наслоения"
-	6887A03E43FB7FF3FB1DDD8B79529BD1 = "Glacial Strata Missions Completed"
+	6887A03E43FB7FF3FB1DDD8B79529BD1 = "Миссий в Ледяных Наслоениях завершено"
 	BA548C114C600F794B4452893B927F52 = "Рад поработать с тобой!"
 	F5CD873D490CEA95217CA497B45AB6F2 = "Светящееся дерево"
 	8707365348F9DE561F41489C63A69173 = "Глоулит"
@@ -2223,6 +2226,7 @@ Namespace Global (5491 keys)
 	9966AD4A44AD6E9FFCBD318734D0A72C = "Горячий Рок"
 	C041FF5B407A44DD171F28ADC75AE462 = "Горячо, горячо, горячо!"
 	B4A21BF24D4658D7C22D868465AEA596 = "Играешь с огнем!"
+	CE7E0F2644379AF1632BE292D0DE6924 = "Горячие клавиши: A - предыдущая, S - следующая закладка"
 	BF59E23F431DFCE4B5B77780BE4F6437 = "Сколько вам лет? Вы ведете себя как невоспитанные дети. Пожалуйста - хватит!"
 	3A35E91C4472DC693964859E4BA00EAE = "Гидроксид железа"
 	BBF194A847793B8D61F65B981D311276 = "Гидроксид железа"
@@ -2496,7 +2500,6 @@ Namespace Global (5491 keys)
 	6F16DBFD45BB49FF0CD9AFB2416AD8C1 = "Больший урон по области"
 	3BE04B664CD44DE06C1A088B1BB9A277 = "Увеличивает дальность на 5 метров"
 	AF09C89142E7C88E0BEB488A5FFF50BA = "Увеличивает дальность еще на 5 метров"
-	98194E414043789C3D650BBFD18EBAEF = "Увеличивает запас факелов, который вы можете нести"
 	49CCBDF749D12728ECC97F8FABC6AC39 = "Увеличивает эффективность разрушения брони плазменным лучом"
 	1CD6C4AB4790067998617E9A55E78BBA = "Увеличенный урон прямым попаданием заряженного выстрела"
 	E78BCAE64D329F38800D59BA2241F972 = "Увеличивает урон, наносимый обычными снарядами"
@@ -2534,7 +2537,7 @@ Namespace Global (5491 keys)
 	79A6798C4CEF2B1600C6E887E9515E7F = "Железный страж"
 	A45A12DC4CE2D137F0FDC7A3431C9AA9 = "Железный страж"
 	FE94187E48C3CA01794F5C8553E3114F = "Железный страж"
-	77A386154B88F4F15C7FEEA354FAE763 = "Стальные яйца"
+	77A386154B88F4F15C7FEEA354FAE763 = "Железная Воля"
 	4E840A724E756FC5F9E8C0B2BADF8054 = "Железо!"
 	4013F89940C29E93B31DDABF6CA77BDB = "Эт-т прост' я или с-станция покачн-нулась?"
 	F2C9209C401BC1FD9E770FBFC41359BD = "Жжет!"
@@ -2626,10 +2629,8 @@ Namespace Global (5491 keys)
 	0A092B88401FDB6A51C415BEA78A6829 = "Присоединитесь к нам в Дискорде"
 	8EDFA0B64D376829A679E9A83BDAE8DC = "Присоединяйтесь к нам в Дискорде"
 	25AC47A54926568C5D9B47A55D1E3953 = "Jonas Møller"
-	64A4F35A418766479CC93B8B968DC41E = "Jonathan Marquis (Commander)"
 	C07A78D54F5A8F8B4CC005AF95ABE2AE = "Музыкальный автомат"
 	46AE9892470EF6292357C3BF15D0A162 = "Музыкальный автомат ВКЛ/ВЫКЛ"
-	F08DCB4542F3DE15809B44AE32878E13 = "Juliia V  (eviilgirraffeey)"
 	0A05696842905CDAE9E436A856D458C8 = "Прыжок"
 	9E212D744187E27EB4CD2E9900B25B07 = "Jump to next room"
 	3C117BFD4C41C3D2DC6565B241F1B301 = "Самодельная «бум-палка»"
@@ -2717,7 +2718,6 @@ Namespace Global (5491 keys)
 	A58587444D096FC60CC81D9393CF222E = "Увеличенный пояс"
 	ACEBED9B442F1592CCE6E4A01140B3E3 = "Увеличенный пояс"
 	D39452B7424B32EB3F300DBEDFB632B5 = "Больше конденсаторы"
-	9A19A3834CDEC7A40FE1C6A09F3B69FD = "Увеличенный запас факелов"
 	3575F3B1497CCBAB275DDD93E848B342 = "Увеличенная загрузка"
 	BF03609549AC4A96E925E0AF3A6976D1 = "Больше взрывчатки"
 	AF042BD043456FAD8DAC3FA0892FDFD9 = "Выше давление в камере"
@@ -2859,6 +2859,7 @@ Namespace Global (5491 keys)
 	783D1CBB46145BCC67B24CAE31EBB53E = "Длинная грива"
 	DCC74F6F4910817C50724DA07C22BEAC = "Тактический инфо-дисплей и возможность дальней связи. Очень кибернетично."
 	EA979F304EE6D756FDF2BC9E1292D061 = "Тактический инфо-дисплей и возможность дальней связи. Очень кибернетично."
+	A12008CB461EE7A1ED99C6838078C394 = "Длинное наименование параметра:"
 	46C35A1B441A22D99CB7FFBF92B740DD = "Долгобород"
 	8D41F2BE4A6B05604FACD38DF0C590E9 = "Долгобород"
 	9158E84D47EF8F1F0285AB8BD479A5A0 = "Долгобород"
@@ -2983,10 +2984,6 @@ Namespace Global (5491 keys)
 	97F28C39413A4747B3AD6995F243F715 = "Костюм стрелка MK3 - тяжелый"
 	F79DC65A48321510BA3E0DA33552B843 = "Костюм разведчика MK3 - базовый"
 	5DFBDDFE495D0E47CCA33893B18AB6CB = "Костюм разведчика MK3 - тяжелый"
-	137C1D66401339A9B79739BD304651E2 = "МОДЕРАТОР"
-	C382CD114CDAEF8EC279118336523B8B = "МОДЕРАТОР"
-	DC8D0D634672228A49E7A28C7D5B4F78 = "МОДЕРАТОР"
-	E1E6FC3E499E0E8617D98690D63948C5 = "МОДЕРАТОР"
 	EA807C684450BB19B921639A3BA5D580 = "МОДЕРАТОРЫ"
 	A9132B7247ABD90C9481E0B20B97C07D = "Нога МУЛа"
 	084D891E4FAF8D86DD63F3AE40B33ECB = "МУТАТОР:"
@@ -3008,8 +3005,7 @@ Namespace Global (5491 keys)
 	4F444D2642879909F978F894EEB3E8D1 = "Магмовый"
 	C7734D5B442B07A838FF71BE85CA28AA = "Миссий в магмовых пещерах завершено"
 	194016424EB41ED339DB3095A9FF9E16 = "Магматическое ядро"
-	89E0839747EFD08DE922DBBC27057378 = "Магниевое ядро"
-	5049AD1E40B3EAF23AB69B93B0B6A47D = "Магнитные подшипники"
+	5049AD1E40B3EAF23AB69B93B0B6A47D = "Magnetic Bearings"
 	738AA45E45B66323D82E0EA1272162DA = "Магнитное охлаждение"
 	83F3C67144D8300BBB95A391050F4131 = "Магнитное охлаждение"
 	FA7DD0A74185D56ACA19CCB272A517D4 = "Магнитное охлаждение"
@@ -3041,6 +3037,7 @@ Namespace Global (5491 keys)
 	7F3774744110C529977A40864E3F4545 = "Шахтер-мастер"
 	E89D15154FCE07422998869BBF75318A = "Шахтер-мастер"
 	A48D3EBB455A194C282A898E330A58DA = "Общая громкость"
+	5A5F53B5439529B28F4D259C89F8B8A5 = "Уровень Мастерства"
 	87A57D1F4374E9011ADC5D9D1896DD2D = "Не удалось подключиться. Попробуйте снова."
 	3687A13B4D40D996CA1B6AACC84DE076 = "Подбор игроков..."
 	9C2319174E556ABDB2F513BE726CA094 = "Макс. боезапас +75"
@@ -3085,7 +3082,7 @@ Namespace Global (5491 keys)
 	EC9FC44642BC027CA1DEAC874E312128 = "Мини-мул обнаружен!"
 	F1FB582C44694DCE9E034CA2BB4BAC27 = "Буровая установка запущена. Эвакуационная капсула прибудет, как только буровая установка окажется в безопасности. Держитесь!"
 	6F33D46540B469187F686FA6185EE2FA = "Буровая установка запущена. Неподалеку от вас обнаружена высокая активность врага. Удерживайте позиции, пока не прибудет эвакуационная капсула."
-	0DEC79714D5A010A1B93F398EC66C794 = "Mine head returning. Escape can inbound. Expect heavy resistance until we can pick you up."
+	0DEC79714D5A010A1B93F398EC66C794 = "Буровая установка возвращается. Эвакуационная капсула скоро будет. Ожидайте тяжелого сопротивления, пока мы вас не заберем."
 	AA3118044C4E189F96A24484037819DE = "Добыть голомит"
 	B9B624C3483D9BF9F64B2DA615F04232 = "Копай!"
 	A757B45145A0E7EEE5875B9E26A95465 = "Добывайте нитру и пополняйте боезапас!"
@@ -3235,6 +3232,7 @@ Namespace Global (5491 keys)
 	112CCE0943C0979CBE8B5DA03569E252 = "НЕТ КРЕДИТА"
 	35BD958D4B90107633306AAF066EE571 = "НЕТ МЕДИЦИНСКОЙ СТРАХОВКИ"
 	07217D61454E51EA1CC7D388523A52ED = "МИССИЯ НЕ ВЫБРАНА"
+	200708214C87098A72C5C1B379FE3463 = "ПРОХОДА НЕТ!"
 	478D8E8B45CE2F0A3B9CE594CCE0971A = "БЕЗ ОПЛАТЫ"
 	6FD173E4411FB830D60DAF9D290ED966 = "БЕЗ ВОЗВРАТА! БЕЗ ДОЛИВА! БЕЗ СОЖАЛЕНИЙ! "
 	52F453194448B1A9E0462AA9A24415FC = "СЕРВЕРА НЕ НАЙДЕНЫ"
@@ -3388,6 +3386,7 @@ But well done. :D
 	A7347FCE42AA0741688B22B84E467B55 = "Предмет задачи"
 	188C8D0C4F4889FB92465E82CA64B562 = "Целевой минерал"
 	4BA4444640F78D6541AE3F9F84B0626C = "Целевой минерал"
+	44672A91414644E3731409B9818BE2F7 = "Название задачи"
 	76FFCCF2422EFDF8C53B4AA4FAF7F73D = "Здесь показывается название цели"
 	7FC138054F995CCD8934039DFE0B1B69 = "Цель задания"
 	A6E039B0425AAC3C4CE590BCA12255CB = "Цель задания"
@@ -3497,6 +3496,7 @@ But well done. :D
 	854C01D44A5E7EE81044B5907A100F89 = "Открыть карту"
 	8E8C8DA14D3D2162A85247B46C7A2B72 = "Открыть карту"
 	DFAF837A45849CFAFE010589D31D5162 = "Открытый NAT"
+	C1BC99D34459105F2A3226B8FE72BEAF = "Открыть слот {ClassLocked}"
 	1C79C0044CA22A07CE0061AAE33DB491 = "OptionName"
 	25FDE2DC47E6E00CD26E3C958625B882 = "OptionName"
 	2E4A9A3B4CE8BBE6EBC80D9C802F13AC = "Настройки"
@@ -3618,11 +3618,10 @@ But well done. :D
 	2F9328D54501F01017A1E6AC1B58ACDF = "Объявление: на борту станции запрещено вынимать оружие из кобуры."
 	5E9412934F88C3BB4BF5A1971856A1E6 = "Объявление: на борту станции запрещено вынимать оружие из кобуры."
 	1411FE9A4B79DBE937E7E4BF133AB43D = "Объявление: если вы это читаете, значит вы из тех, кого мы хотим видеть в группе «Regulars» в Дискорде! Зарегистрируйтесь сейчас!"
-	3A17C6BD420792CEA89172B1D10DB0CD = "PSA:: Aree youu reaadingg thiis? TThen  you'rre tthe kkind  of pplayeer wee wannt foor thhe exxclussive  "Reggularrs"-ggroupp on  Disccord!! Siggn upp noww!"
 	4AA2E7F245398FF57B4FB3B23A23C154 = "Объявление: если вы это читаете, значит вы из тех, кого мы хотим видеть в группе «Regulars» в Дискорде! Зарегистрируйтесь сейчас!"
-	C401038F442E3A8DE93A8D8C601443D3 = "Объявление: если вы это читаете, значит вы из тех, кого мы хотим видеть в группе «Regulars» в Дискорде! Зарегистрируйтесь сейчас!"
 	4244CE9148B8905A6F7B8D87E8477672 = "Объявление: завтрак отменен. Челнок с беконом задерживается."
 	BA7783EA41735D6A9693A9BA8991855B = "Объявление: Эль "Темный Моркит"! То, что нужно дворфу!"
+	DE3F1A50468DB335C4349AAB2B094C40 = "Известно, что чрезмерное использование Q-Mining приводит к потере зрения!"
 	BC752D3842589EB58137D2B017CF5E33 = "Объявление: смывайте за собой. Давайте не будем повторять ИНЦИДЕНТ."
 	1212E53C487800C3669FF6B62708550F = "Объявление: в бар «Бездна» снова завезли "Давитель глифидов"!"
 	999F07B549F88442E1491E814404F2FF = "Объявление: гигиена — это важно. Пожалуйста, мойтесь хотя бы раз в 30 орбитальных циклов."
@@ -3770,13 +3769,14 @@ But well done. :D
 	572BCE714FB67F769DC2C890B03B46CA = "Профессиональный шахтер"
 	588F5F5E40686F291BF8B9968E3C8213 = "Профессиональный шахтер"
 	3B7327D24CC1B36E56940898D1DDB4B2 = "Профиль"
-	F4B3C8CD4331C60024A1988B921C780B = "Programmer Intern"
+	F4B3C8CD4331C60024A1988B921C780B = "Programmer"
 	5A6F09434238DC8297E2BE980C20D7A8 = "Скорость снаряда"
 	A99CB7A84ADABE0CF57BFF8F06F96138 = "Увеличение времени существования снаряда"
 	A81295E44B1B1C7D74EB31B2A9AD817E = "Снаряды с этим свойством будут отскакивать от стен."
 	00C967844D3D4387C6FE2B85E72ECAB2 = "Создает энергетический пузырь, который частично защищает вас от урона и одновременно восстанавливает ваши щиты. Вмещает всю команду! Только не слишком расслабляйтесь... эффект действует недолго."
 	8B1422284A0E06C8765ECE89457AC842 = "Длительная выработка энергии"
 	A83874AC4B78EA0D8FF696AC6DE34665 = "Повысьте {class} один раз чтобы открыть доп. ячейку навыков"
+	73D63BD44A73AB73DDED7E95F8071C9A = "Считается прорывом в носимой голографии, этот шлем выдается только самым преданным сотрудникам DRG. Экипаж Скелетов - Малочисленные, Крепкие, Сильные."
 	3E4029C341275FD1723B09B92DC1E4A7 = "Повышение персонажа СБРОСИТ УРОВЕНЬ НА 1.
 Вы получите ЗНАК ПОЧЁТА и вы СОХРАНИТЕ весь прогресс по оружию, навыкам, кредитам, материалам и украшениям."
 	3CBC5FB342A4D67CD79C37A662100986 = "Преимущества повышения"
@@ -3864,6 +3864,7 @@ But well done. :D
 	0A9105BE4A7A48B2D134D99DAFC64C71 = "Изуродованный тысячелетиями интенсивной гамма-радиации, этот регион планеты — филиал ада из радиоактивной пыли и полумертвых мутировавших растений. Продвигайтесь с осторожностью. Самое главное — обязательно пройдите процедуру дезактивации по возвращении."
 	44F3189F4AA06FD17750A992263A6CD4 = "Разоритель"
 	C817A7F94F580AA64988109B6AE44A5C = "Разоритель"
+	6449368B45642AB433AE0A8AD6BB702F = "Регулятор давления"
 	C9BF88714B063BD7BF72CABAB93F0B46 = "Дальность"
 	76885F274F366DD853C91897DDC53024 = "Максимальная скорострельность достигается быстрее"
 	6DA1BD1B4FD3E2E6C428138A79921CCC = "Активная броня"
@@ -3883,6 +3884,7 @@ But well done. :D
 	E4E4D95A4F78B46199F5DE86B986C73B = "Рекалибровка гравитации начинается!"
 	FA7DB98E41EC94BC0A461EBC2ADEE21B = "Отозвать турели: Удерживать"
 	10374DF344DA1706BD000F85A1661507 = "Недавно скончавшиеся работники не появляются в мемориале. Но мы все равно чтим их память!"
+	A41C20C54C4B47C5BD71B59AA9329EE6 = "Шлем мастера-утилизатора"
 	002F325142327853A68620911CA2D5F0 = "Отдача"
 	C0B38C464A486467E59A0AAFDA140E4C = "Компенсатор отдачи"
 	3264FFDE445370F8768DCDBD53D8B233 = "Запись..."
@@ -3930,7 +3932,7 @@ But well done. :D
 	CDCEC88042CF9A3B9409D184848D81A0 = "Перезарядка"
 	E0370FFB4CA904EDB77FEDA7E4B2E5AE = "Перезарядить турель"
 	682D13CF436099F0AD10D7AA8728DE79 = "Скорость перезарядки"
-	14B374BA4708D00AFA2A0FA8C0020C0C = "Время перезарядки -0.5 секунды"
+	14B374BA4708D00AFA2A0FA8C0020C0C = "Время перезарядки меньше на 0.5 секунды"
 	98AE45944E7E14ED418D48A2B9D4B4C6 = "Время перезарядки -0.5 секунд"
 	E29140374EFDB6BB52EFD7ABC5578577 = "Перезарядка"
 	166DE0404FD33386A3862492B630EC90 = "Перезаряжаюсь!"
@@ -3945,7 +3947,7 @@ But well done. :D
 	48818EB5420FD4A894E19786D5501074 = "Перезаряжаюсь! Прикройте меня!"
 	4DBF5FCA46C226DAF720B49F54DF6805 = "Перезаряжаюсь, прикройте!"
 	C9DD9C3749680AF60B1F0EBA022F9A90 = "Перезаряжаюсь, прикройте меня!"
-	3E0784654137C6697947F48C2324D53B = "Автоматически перезаряжается когда не используется более 5 секунд"
+	3E0784654137C6697947F48C2324D53B = "Reloads automatically when unequipped for longer than 5 seconds"
 	E198139F4350F17CBCB6F38FC89B9F96 = "Перебазировка запрошена"
 	6DFDC2154C161DF2A8DB8D86948DFC49 = "Переместить"
 	D0B9772242CFC839ABDD478D638A0415 = "Не забывайте поглядывать наверх! На потолке могут прятаться всякие жуки."
@@ -4102,6 +4104,7 @@ But well done. :D
 	5FC0F6924D087A16F27B18AAED4BA1C8 = "СБРОС ПРИПАСОВ"
 	9BD4EB3E451653B82526479AED69BE96 = "КАПСУЛА СНАБЖЕНИЯ"
 	6043CCEC494174813635F0ACE85D4188 = "КАПСУЛА СНАБЖЕНИЯ"
+	7E9820B74BC17B2E8BE0BCA16617778F = "Версия "ДЛЯ СПОНСОРОВ""
 	4C1078084199AD9AEBE69E956297150B = "ВЫЖИЛ"
 	EEE4AF9040DAF7D535A066A4B3B775E8 = "СИСТЕМНЫЕ ОШИБКИ:"
 	0B2F803C49D4B80FDE0012A0ACAA818B = "Безопасность превыше всего"
@@ -4197,6 +4200,7 @@ But well done. :D
 	D113572B49FEE703DA805F8F0CC3CE57 = "Пароль сервера (необязательно)"
 	F37B35D947A56F8B160775A736545913 = "Тип сервера"
 	7432770249C4159DEE3ADC8F0B110BF8 = "Сессии больше не существует"
+	B53150AF4A84C786D53B588E14352274 = "Установить усиление от пива"
 	5E2AB5AE464F33A90DA5CEB929B3BAB6 = "Качество теней"
 	DB58886145BF6BDAB036C395F911E20D = "Неглубокий грот"
 	747173D64F9157494B3D118E61F17F64 = "Пули особой формы, разработанные для прохождения сквозь цель!"
@@ -4263,7 +4267,8 @@ But well done. :D
 	0B2966BD4821E326CE1BC3843A01F447 = "Серебряный лис"
 	82D5760A4D36C73A04E752BDC5DE965D = "Легко"
 	E7A7EFB048FCFB08F921D9B8ED9C22ED = "Симулировать игроков"
-	DEBDCEFD4D3BFEC8E2C139BFF09E8063 = "Skin Name Goes Here"
+	F3D06ABD4FBDDF040F74C7B3B3C5DDB7 = "Команда скелета"
+	DEBDCEFD4D3BFEC8E2C139BFF09E8063 = "Здесь должно быть название костюма."
 	46573B23423FDA0318A225832E2A872F = "Скин: "{Skin Name}""
 	F6A9665340F8EAFD2DF2939F833F21D9 = "Пропустить"
 	AF7BE2A94C8080D8FD40FCA86587E8F1 = "Отменить Поручение?"
@@ -4315,6 +4320,7 @@ But well done. :D
 	1FB3123D451B74CB69B80295F36DBB2F = "Некоторые модели просто не выходят из моды."
 	56F6346849C3E221A8E540B2A590E7F8 = "Некоторые модели просто не выходят из моды. Стилизован для соответствия вашей броне."
 	A506986645B225895E75E296FDA8B353 = "Некоторые части врагов получают больше урона. Оптимизированные снаряды будут наносить еще больше урона, когда будут попадать в эти части."
+	E9FA68D84FBA2EE8EC8E9CB5DCC33AB0 = "Какой-то парень"
 	E5CB2FC143C4DA459B85058A081298B2 = "Кто-нибудь! На помощь!"
 	946258A048D09051C286F296447045BA = "Кто-нибудь, подлатайте меня!"
 	02D9A33C419F1C33C445B19209F4F7A6 = "К вам приближается что-то очень большое! Будьте готовы к худшему!"
@@ -4386,6 +4392,7 @@ But well done. :D
 	A5586DDD4AFDD9EF11C3C9B988DE4491 = "Statt FPSS"
 	07DE74034CD3BA78C4F1FBBAAFFA810C = "Statt UNIIT"
 	6D79A70F401FCD9010AE56AD80AA37AB = "Имя параметра сюда:"
+	BB4FCAD04D7057244F3A98801BB7761C = "Название параметра:"
 	5662999D4193EA1F75848DB5C772F9C4 = "Статистика"
 	17A16DC946BDED47290EB29361E74088 = "Не подходите!"
 	96F64940432BD4B63CEA578646586E70 = "Стоим спина к спине, держите этих букашек на приличном расстоянии!"
@@ -4436,10 +4443,6 @@ But well done. :D
 	536A9CF2425EB806C58EB799BD076A9A = "Сильная спина"
 	82076A304CC7D32F397E6491D9FC5E2B = "Нужна очень сильная шея"
 	34890D784C231A14D5A391B98CB0A5EC = "Усиленная система охлаждения"
-	1B8395E5452CDDC4D27EE3A70A790E58 = "Усиленный взрыв, наносящий больше урона"
-	2654BE5B44AA861C6E69C78C3B7A89BB = "Усиленный взрыв, наносящий больше урона"
-	774B8BAF416E053F8A1F2CA1DF938738 = "Усиленный взрыв, наносящий больше урона"
-	950A42504F9FA4B21E07E682B097AD10 = "Усиленный взрыв, наносящий больше урона"
 	EC1FA43A4049047CC7AF0B928D3AD839 = "Оглушение"
 	EC68742C496132E67AA122B7A2CF1DA8 = "Оглушающий удар"
 	D0DAB98D493841D9850A08900383C8AE = "Тупой жук! Отпусти меня!"
@@ -4466,7 +4469,7 @@ But well done. :D
 	256A27CE4E1C7A140EE2FBB63CF61EE6 = "Ящик с припасами был заказан и уже в пути."
 	96CF5A184760767A613FC0B4C3068B90 = "Поддержите огнем, ребята!"
 	2D2336ED4FDC06EDADFD19B0E24F89B9 = "При поддержке Датского киноинститута по программе The Games Scheme"
-	564780DB4BC0B912BEC1FF90F5F944A7 = "Supporter Edition - now 100% bigger!"
+	564780DB4BC0B912BEC1FF90F5F944A7 = "Версия "для Спонсоров" - теперь в 2 раза больше!"
 	6A58F52C4B5E9FDC75E895B3D2E18EB1 = "Верховный шахтер"
 	6B99757D432CE48164B267ACB8C04B64 = "Верховный шахтер"
 	93481070407FA3FB1F9B3BB82F205398 = "Верховный шахтер"
@@ -4877,6 +4880,8 @@ As  statted eearliier,  ALL  the  Clossed-AAlphaa keyys wiill bbe reevokeed beef
 	2AC16FA946FE159B3D58CD8C8D795B36 = "Триангуляция - 50%."
 	AB0FB7094A1866388416969422C6FACC = "Триангуляция 75% Почти готово!"
 	24585C1D46FFD281571C26B603FEFA97 = "Сладость или гадость"
+	8ED965424FA0ADCF53DDDC8A1CB8BF86 = "Непрерывная подзарядка"
+	D8C3C5CE441A8D550DAA7BB27B0ABDD2 = "Форсированное восстановление щита"
 	03E6DCBF4EFF2F19BB08068D40943794 = "Смотри, куда стреляешь, китобой!"
 	DC4D296640D9AA783BD7E680AE35B9C0 = "Палец на курке опять чешется."
 	912A8E8A4DD2BCF0AAF5E099AC3F1F27 = "Топливо тройной фильтрации"
@@ -4891,19 +4896,19 @@ As  statted eearliier,  ALL  the  Clossed-AAlphaa keyys wiill bbe reevokeed beef
 	5C2231EE417988E7BFBD9FB46A49FD5B = "Начало тоннеля"
 	1EDADB44474A39113AB73499873F50CB = "Плётка для турели"
 	31EB54AF4A245D48E3A916BDCC6E7EF0 = "Турели и взрывы... Вы по адресу."
-	A77D4926491B8CDF61FF909C89BB6926 = "Tuteshnij (украинский), Jakub Nechvátal (чешский и испанский), Nathan Friebe (немецкий), Oliwier Masiukiewicz (польский), EgorKaskader (русский), Mbgny (шведский), Pierre MILLOT (французский), xsSplater (русский), Till Kottmann (немецкий), FireVuk (венгерский), UA2hk (традиционный и упрощённый китайский),  Yamila Castro (испанский), Kispiricsi (венгерский), Paladin (русский), Danniela Aragão (бразильский португальский), lc_freegold (испанский), Tomasz Bielenda (польский), Luis Felipe Tejada de los Santos (латиноамериканский испанский), Otto-Emil Valentin (финский и русский), Athila (испанский, латиноамериканский испанский), classicarma (японский), TheBuildingDwarf (нидерландский), keigin (японский), Sunny M (хорватский), Robin ten Wolde (нидерландский), Victor Mayorga (латиноамериканский испанский), MuffinInACup (хорватский, русский), Sirio Cilia (итальянский) и многие другие..."
 	F6A4B09E462200AC756772A1AAA27A45 = "Обучающих миссий завершено"
 	9A61F70547193A0C3AD9AA8D08999655 = "В два раза тяжелее, в два раза больше проблемных мест. Зато в ней вы очевидно более... массивны."
 	D9FBA456402E88468082B9B7226543A7 = "Взаимодействие c Twitch"
 	B30701CC4879D7445F2E2F8C830A71E0 = "Войти в Twitch"
 	E82470B14E1E2F2FCA49FAB5CA74EE21 = "Выйти из Twitch"
 	68D364CF4183DF3F945DD99F3F3A53B8 = "Type Contents Here"
+	A77D4926491B8CDF61FF909C89BB6926 = "UA2, mjrDrake, Tuteshnij, classicarma, Mike_Smith, e.ray, federico.gropplero, Darklinux94, 1407ehdgh, Matejko124, elesis1204, _Paladin_, Zeuzere, Tuteshnij, Jakub Nechvátal, Nathan Friebe, Oliwier Masiukiewicz, EgorKaskader, Mbgny, Pierre MILLOT, xsSplater, Till Kottmann, FireVuk, UA2hk, Yamila Castro, Kispiricsi, Paladin, Danniela Aragão, lc_freegold, Tomasz Bielenda, Luis Felipe Tejada de los Santos, Otto-Emil Valentin, Athila, classicarma, TheBuildingDwarf, keigin, Sunny M, Robin ten Wolde, Victor Mayorga, MuffinInACup, Sirio Cilia and many more..."
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "Интерфейс"
 	B9B8DF3947F5817463C75E91163945B2 = "Размер интерфейса"
 	17E10C7744E0699B82D945B0F00A09B1 = "НЕИЗВЕСТНЫЙ ТИП"
 	E86FD1D54A227EB56D9CC3BE8E5D9C17 = "НЕИЗВЕСТНЫЙ ТИП {type}"
 	1DFF07CD499D9C20484D76BF57D90FD9 = "РАЗБЛОКИРОВАНО:"
-	273506A1407FF7C9D4788395C1357054 = "UPGRADE CATEGORY GOES HERE"
+	273506A1407FF7C9D4788395C1357054 = "КАТЕГОРИЯ УЛУЧШЕНИЙ"
 	2A0F07534F6FAE1A1AC181919021B449 = "НАЗВАНИЯ УЛУЧШЕНИЙ СЮДА"
 	154D798349596E65C508169C1B0BD295 = "УЛУЧШАЙТЕ СНАРЯЖЕНИЕ"
 	68B79960422B69C0689251A8A121BF01 = "СВЯЗЬ УСТАНОВЛЕНА"
@@ -4998,6 +5003,7 @@ As  statted eearliier,  ALL  the  Clossed-AAlphaa keyys wiill bbe reevokeed beef
 	A6FCC3234C482F2C2566C29085D157AF = "Нестабильный лед"
 	CFDDAB214B6DA680B1F3659D7E9F4438 = "Нестабильный лед"
 	C2F6E14944027FE080FFBDA8F154153E = "Нетронутый"
+	B3C29C2D45F2DBB881CD33A2E5B4EBC4 = "Улучшить снаряжение"
 	A95D23FB4C3D83017928E8B1DF11544A = "Улучшить до издания «Поддержи игру»"
 	ABFAE684490081995B47F9A5545C8A5E = "Улучшенные конденсаторы"
 	0D9BDBDE4AFA74782B6A0A93AC848941 = "Улучшенное соединение"
@@ -5014,6 +5020,7 @@ As  statted eearliier,  ALL  the  Clossed-AAlphaa keyys wiill bbe reevokeed beef
 	2F8B11D5409C76EA293AB182CE32DB22 = "Используйте [-MoveRight] + [+MoveRight] Чтобы вырваться"
 	2A8042F941F719E47FB6CFAEC2008E75 = "Используйте [MoveRightRate] Чтобы Вырваться"
 	4C00DDD243A216F0336201B7EB60440A = "Используйте лазерный указатель, чтобы приказать Боско добывать минералы или атаковать определенного врага."
+	2EF13B2D4A1EE3F26B9D4C9DBB09D254 = "Тестируется"
 	88ED55324ED7EDDD65B8768C6514E5D9 = "Утгх-хба-баб!"
 	E774537144FDAC79580E7F92E1A2B9ED = "Ууухх!"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "ОЗВУЧКА"
@@ -5038,6 +5045,7 @@ As  statted eearliier,  ALL  the  Clossed-AAlphaa keyys wiill bbe reevokeed beef
 	10246BE04BE7FFC4ED29AD8489174AB2 = "Сама скрытность"
 	67B818674B721E052DFEEF81146999D1 = "Сама скрытность"
 	68B709344A8627F954B1E2B3BAF3458D = "Сама скрытность"
+	B0691CAA42CD6A8640F6798539E4A361 = "Очень длинное наименование параметра:"
 	67AE798B45E7F17D3B1023A7EC8E5B6A = "Ветеран-разгрузчик"
 	9904C45B4E94485D260BCDB11658ED01 = "Шахтер-ветеран"
 	A4F3AC92462FC7DD787EBF84656BABBE = "Шахтер-ветеран"
@@ -5072,19 +5080,19 @@ As  statted eearliier,  ALL  the  Clossed-AAlphaa keyys wiill bbe reevokeed beef
 От всего сердца благодарим Вас за поддержку в раннем доступе разработки DEEP ROCK GALACTIC!
 
 - Команда The Ghost Ship"
-	939943974F5DFB141EF3A68DFB08266B = "WELCOME, MINER!
-From the bottom of our hearts, thank you for supporting the early development of DEEP ROCK GALACTIC! 
+	939943974F5DFB141EF3A68DFB08266B = "ДОБРО ПОЖАЛОВАТЬ, ШАХТЁР!
+От всего сердца благодарим вас за поддержку DEEP ROCK GALACTIC на ранних стадиях разработки!
 
-Do remember that this is a pre-release build - you will encounter bugs and stability issues. This means that some parts of the game, including Xbox Live features (like chat and multiplayer), might not function as expected (or might not function at all).
-Because this is a pre-release game, Microsoft and the publisher do not commit to providing customer support for the game."
-	E0550F8045300AF2AFCAB09D70C74A6B = "WELCOME, MINER!
-From the bottom of our hearts, thank you for supporting the early development of DEEP ROCK GALACTIC! 
-
-Do remember that this is a pre-release build - you will encounter bugs and stability issues. This means that some parts of the game, including Xbox Live features (like chat and multiplayer), might not function as expected (or might not function at all). Because this is a pre-release game, Microsoft and the publisher do not commit to providing customer support for the game."
+Помните, что это пред-релизная версия, а значит вас ожидают баги и проблемы со стабильностью. Также это значит, что некоторые части игры, включая функции Xbox Live (например чат и мультиплеер), могут работать не так, как от них этого ожидается (а могут и вовсе не работать).
+По тем же причинам корпорация Microsoft и издатель не обязуются оказывать игрокам поддержку."
+	E0550F8045300AF2AFCAB09D70C74A6B = "Добро пожаловать шахтер! 
+От всей души мы благодарим тебя за поддержку ранних наработок DEEP ROCK GALACTIC!
+Помните что это ранние наработки и вы встретитесь с багами и падениями стабильности. Это значит некоторые части игры, включая возможности XBOX Live (чат и кооператив), могут не работать как предполагалось (или не работать вообще). Из-за этого, Microsoft и издатель не будут проводить поддержку игры."
 	5F3F01E44C0D88616BA716AB815E26BE = "ПО КАКОЙ ПРИЧИНЕ ВЫГНАТЬ ИГРОКА?"
 	854D09DD4E3394FB8C668C93857DE524 = "ЧТО!.... Я только начал входить во вкус!"
 	AD82789544CC8B154E20519D7CA28D65 = "ГДЕ ЖЕ МУЛ?"
 	59CCF50E402946BD5586429996098406 = "ТУТ ВЫ ДОБИРАЕТЕСЬ ДО САМОГО ДНА!"
+	73BD18F84823845B7227508F66A947CB = "WIKI EDITORS"
 	6B7486604089657BFBD268ADA9C0494B = "ОЛЦ.БУР"
 	AD325CDE4CDA9F7A237D95B584EA5762 = "ОЛЦ.БУР"
 	2703622941EDC42449BF0A9AFCC384E1 = "ОЛЦ.ИНЖ"
@@ -5204,7 +5212,8 @@ Do remember that this is a pre-release build - you will encounter bugs and stabi
 	EFC98B774051997322EF0C99C706E251 = "Оружие с этим свойством имеет шанс моментально остановить движение врага."
 	F3800CAA4060BDECF8ED9CBFD8A7F763 = "Уиии!"
 	1732EDD3443C16A8897B53AFAC41926E = "Атлет-любитель"
-	FA384A944208E481CD25BC9197D9E39D = "Weekly Priority Assignment"
+	EABB5E3E429B52D1DBD4F484AAA67C81 = "Еженедельное поручение выполнено"
+	FA384A944208E481CD25BC9197D9E39D = "Еженедельное приоритетное задание"
 	143CACC14BC9B8CCB2060FA28548AD9E = "Добро пожаловать на борт, шахтер!"
 	EBA81F3D43CA217BF51B13A4D2F2BBE7 = "Добро пожаловать на планету Хокссес, шахтер - мы надеемся, вы покажете лучшее, на что способны! Это будет ваш первый спуск под землю. Используйте этот шанс, чтобы разобраться, что к чему. Ваша задача: найти и добыть крупный образец моркита. Помните, вас ждет богатство и слава! За дело!"
 	CA46EF6348F600262B35F2A04A53CA74 = "Добро пожаловать на планету Хокссес, шахтер! Это будет ваш первый спуск под землю. Используйте этот шанс, чтобы разобраться, что к чему."
@@ -5271,18 +5280,16 @@ Do remember that this is a pre-release build - you will encounter bugs and stabi
 	4871F7A44B1C3A719DFF1DA13514B004 = "Упси-дупси!"
 	FDA996A344EF6F88EA7EDDBF5AB787F5 = "Зачем стреляешь в меня, болван деревенский?"
 	3C07D8E843B7824385C59B8C7E69CDE2 = "Широкие платформы"
-	2A81975742048DAB7E0BCFBF5AA9097E = "Вики-редактор"
-	4B011737497087415FAEA3BD659F0C1D = "Вики-редактор"
 	D3A8B30F499CFCF8D0254A806A007048 = "Наверняка будет мешать, но кого это волнует!"
 	03E20E33421D936381FB10A84BDF1865 = "Время раскрутки"
 	009E910146A6E144BCF399AE8C2359C7 = "Оконный"
 	9B88D7B1477CF9C3250EDCB69C4DE794 = "Полноэкранный (в окне)"
 	208896814DD1122C53B4758EF15DB887 = "Вот бы мне платили больше за это!"
 	DC3DAC6E45E49D057EBE2FAC57ACDEB3 = "За мной!"
-	D10A29C4404A8514CCCB06A303EDB275 = "With the level of incursion on Hoxxes increasing, Management has introducing the Weekly Prioroty Assignment system to combat the growing workload. It means more jobs done for the Corporation, and hefty dividends paid out to the dedicated employees taking on these priority tasks. This is as close as we'll get to win-win scenarios around here, Miners. Get on it. 
+	D10A29C4404A8514CCCB06A303EDB275 = "На Обманке растет уровень угрозы, и руководство решило представить вам новую систему Еженедельных Приоритетных Заданий дабы снизить уровень трудовой нагрузки. Это означает, что будет выполнено больше задач корпоративного уровня, а лучшие и наиболее преданные общему делу сотрудники получат за это увесистые дивиденды. Беспроигрышно, взаимовыгодно, лучше не бывает. К делу, мастера.
 
-Regards,
-Management"
+С уважением,
+Руководство"
 	8941EAA24DC82A068BE7DBAD6E53E720 = "Интересно, что за бурду дают в столовой сегодня..."
 	F1C565E647C016DEA126A18D066A8A88 = "Интересно, что за бурду дают в столовой сегодня..."
 	2D9F7A3145C7814F17E1CCB3FF0117AC = "Ууоуууу!"
@@ -5311,7 +5318,6 @@ Management"
 	7D2C9DA64A8208E8A8BCCB8D2DA88049 = "Ксеногриб"
 	93F864CE43342B55DDD5ADBCDE950219 = "Ксеногриб"
 	D8BC90E341B3418BEF1CF09129996ADF = "Ксеногриб"
-	0E6583524F68E43B4276CFB7B32CDC44 = "XenyHazard³"
 	45CD0485491E21DC8B773885238D29AB = "Зинарх - поглотитель энергии"
 	B8468E94499A87FA2B7066893D300173 = "ДА!"
 	C73B22224119A155139950BC9B0B2C2B = "ВЫ СОБИРАЕТЕСЬ ВЫГНАТЬ"
@@ -5397,10 +5403,12 @@ Management"
 	7589FE60454A9D2BD29BC6BA2CE886A7 = "Вас выгнали"
 	EA6B14AB4DC910892F48F396AFD08B17 = "Вас выгнали"
 	1FE4891041739A78C8853EA8CEBA103D = "У вас есть доступные очки навыков на терминале КПП"
+	FB40AB62486C152E823D95A82CB5832D = "Вы завершили поручение! Поздравляем!"
 	9A204C7D48C4B06E33891C8E57E71BCC = "Вы внесли свой вклад в богатство Deep Rock Galactic, и руководство благодарит вас."
 	E44AE9D746A99F76187759A5181023D3 = "Вы зарекомендовали себя как важный и ценный актив для Deep Rock Galactic! Руководство ценит ваш вклад и предоставляет вам почетное повышение. Это весьма особое отношение, предусмотренное для немногих. Грейтесь в лучах славы сколько захотите - мы благодарны вам. Поздравляю, шахтер. Скала и камень!"
 	7385AADD42A9E20A78773E92E52A22E5 = "Знаете, у вас оплата не почасовая. За работу!"
 	462FDE1A4EF5B3C693F871BDDD99F019 = "Вы должны выполнить <Highlight>{assignment}</> поручение из <Highlight2>ДОСКИ ПОРУЧЕНИЙ</> прежде чем доступ к этим условиям работы будет разрешён."
+	8F12A5F24F4EBF3B3BAEB68C473061ED = "Необходимо выполнить задание <Highlight>{assignment}</> из <Highlight2>ASSIGNMENT BOARD</> для получения доступа в данную рабочую среду."
 	CE0DBD4A4410766258EEB7A6E4E69D98 = "Вы должны выполнить <Highlight>{assignment}</> поручение из <Highlight2>ДОСКИ ПОРУЧЕНИЙ</> прежде чем доступ к этим условиям работы будет разрешён."
 	35CC851741DAC42CABD91A8ADFFEA2D2 = "Вы должны оставаться внутри зоны триангуляции! Вернитесь!"
 	8771EC024183E2E67E167B93FBD8696A = "Вы получите 25% всех материалов, собранных с момента вашего подключения. 
@@ -5540,6 +5548,7 @@ Management"
 	8B2149564AD35C1FF62E0CACBB0A0D3C = "gfdgfdgfd"
 	C90938654584A3EB0B1E6791A21050FD = "gfdgfdgfd"
 	57FC7CA44CED73E8D8E44589B217CE12 = "заказывает капсулу снабжения!"
+	7339F7F04CFD0D2CBBFBB8A71CA7CF75 = "а вот <bold>some</> text <img id="smiley"/>"
 	86541B0A40CCE476E706A1A30915654F = "хммммррррр!"
 	D12EA8F6413DEC0338403682DB15C0FA = "Хр-рм-м!"
 	2AC2BC1B48A7771689F079A466E8EB83 = "хрммхрхррр!"
@@ -5551,6 +5560,7 @@ Management"
 	301860DA48B90CD11DF217A9827A49D2 = "добыто"
 	248F8AD547EF03FA798890849C32DB52 = "nlfnndslnnlfsdd"
 	FA7FEDB540B38AB37FDDD295A75F40A7 = "nlfndslnlfsd"
+	E1CEDB2D4131955D2B56EB9B95420200 = "ядовитое облачение"
 	2A9B65284667F1C34052D29006AF8437 = "Вторичное оружие"
 	D62DE31F47244ACBE33394AB4E4DF204 = "Острые кусочки должны быть внутри или снаружи?"
 	613887E74F0485DE6695A8875A86E06D = "testtseteet"
@@ -5568,6 +5578,7 @@ Management"
 	150CA1B2478EAE9692F4A2A9B4902BC9 = "{0} {level}"
 	7FC177B945BD25078AB3E6A86999F0AE = "{Current} / {Total}"
 	F82A86544F0D5422858FEE895287FD58 = "{Data}:"
+	2BFBCA92475FC912B4E4B3BCF316F295 = "{Header}{Delimiter}{Name}"
 	D801614348379559ECD4BA832619D5B2 = "{IntValue}"
 	ED890C684C3773DD0C9DAFBAFBBCBE59 = "{IntValue}"
 	06FA097444325B9586E76A93E5052FE1 = "{Minutes}:{Seconds}"
@@ -5664,7 +5675,7 @@ Namespace Missions (2 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "Задачи выполнены, Десантная капсула может быть вызвана на М.У.Л.е!"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "Задачи выполнены, шахтерскую капсулу теперь можно вызвать на М.У.Л.е"
 
-Namespace PatchNotes (43 keys)
+Namespace PatchNotes (47 keys)
 	Update_20.1_ShortTitle = "БОЛЬШЕ, ЛУЧШЕ, БОСКО"
 	Update_20_ShortTitle = "БОЛЬШЕ, ЛУЧШЕ, БОСКО"
 	Update_11_ShortTitle = "МЕРТВ И С ПУШКОЙ"
@@ -6786,10 +6797,134 @@ M.U.L.E. БЕЗОПАСНОЕ ИСПРАВЛЕНИЕ
 -Врагов больше не будет шатать из-за физического урона (Ближний бой)
 -Исправлен баг с улучшениями боекомплекта и обоймы, не применяющимися при входе в миссию
 -Изменены размеры предметов для уменьшения клиппинга в виде от первого лица."
+	Update_21.5 = "Шахтеры, время повеселится!
+
+Верьте или нет, Deep Rock Galactic существует уже ОДИН ПОЛНЫЙ ГОД. Мы запустились в РАННЕМ ДОСТУПЕ 28-го Февраля 2018 и это означает, что настало время это отпраздновать вместе с этим мини-обновлением! Разрабатывать игру и дополнять её новыми возможностями и контентом доставляло (и продолжает доставлять) настоящее удовольствие и мы очень тронуты отзывами и обзорами которые мы получили от вас. Благодарим вас за помощь с превращением Deep Rock Galactic в ПРЕКРАСНУЮ игру и нахождение в нашем сообществе. Тройное ура для вас, за будущее и СКАЛУ И КАМЕНЬ!
+
+С любовью,
+- The Ghost Ship Crew 
+
+--- ЗАМЕТКИ ПАТЧА ---
+
+ВЕЩИЧКИ В ЧЕСТЬ ПРАЗДНОВАНИЯ ГОДОВЩИНЫ 
+-----------------------------------
+ПЕРЕОБУВАНИЕ КОСМИЧЕСКОЙ ВЫШКИ: Космическая вышка была задекорирована и готова к вашей вечеринке!
+
+КОЛПАК ГОДОВЩИНЫ: Заберите свой лимитированный временем КОЛПАК ГОДОВЩИНЫ в Магазине снаряжения! Он не дороже грязи!* 
+*Он полностью схож с приоритетами качества которое вы ожидали от снаряжения DRG.
+
+СКИДКИ В БАРЕ "БЕЗДНА" - ЦЕЛЫЙ ДЕНЬ: Все напитки в баре "Бездна" стоят на половину дешевле в честь праздника, подарок от руководства DRG. Пейте ответственно и помните, что ваша страховка не покрывает травмы, полученные при работе с тяжелым шахтерским снаряжением во время интоксикации!
+
+
+ОБНОВЛЕННЫЙ НАБОР ПОДДЕРЖАВШЕГО 
+-----------------------------------
+Мы хотели добавить больше контента в набор поддержавшего на протяжении долгого времени и нет для этого времени лучше чем Годовщина! Здесь парочка плюшек, которые текущие и будущие обладатели увидят:
+
+СКИНЫ ДЛЯ ПОДДЕРЖАВШИХ
+Позолоченные скины для оружия для всех персонажей!
+
+ОЧЕНЬ ОСОБЕННЫЙ ШЛЕМ GHOST SHIP GAMES
+Этот шлем поддержавшего может быть слишком олдскульным для космоса, но он заставит выглядеть вас круто!  
+
+СПЕЦИАЛЬНЫЙ ДАВИТЕЛЬ ГЛИФИДОВ
+Обслуживать одного из поддерживающих всегда приятно! Как поддержавший вы получите специальную награду при заказе Давителей глифидов в баре "Бездна". 
+
+ЛУЧШЕЕ ОТОБРАЖЕНИЕ ПОДДЕРЖИВАЮЩИХ В ЧАТЕ
+Поддержавшие теперь могут окрасить свою иконку и имя в синий во время использования текстового чата. Разработчики получат имена, выделенные зеленым цветом, если вам повезет сыграть с одним из них :-) 
+
+
+ЕЖЕНЕДЕЛЬНЫЕ ПОРУЧЕНИЯ
+-----------------------------------
+Еженедельные поручения являются новым дополнением в систему поручений, где каждое новое поручение генерируется раз в неделю для выполнения вами. Завершите их и получите здоровенную выручку кредитами и минералами.
+
+
+БОЛЬШЕ ГОЛОВНЫХ УБОРОВ
+-----------------------------------
+Модный берет для вашего Стрелка? Готово. Классная, теплая шапочка, чтобы прикрыть эту лысую голову от замерзания? Вдвойне готово. Чугунный ирокез или железные пластины, прикрученные к вашему черепу? Мы вас услышали. Тринадцать новых головных уборов было добавлено для того, чтобы вы выглядели стильно в темноте.
+
+
+ИСПРАВЛЕНИЯ ДЛЯ БЕТ-СИ 
+-----------------------------------
+- Световое кольцо отображает радиус гранат БЕТ-СИ. 
+- Урон по своим(после преобразования) от БЕТ-СИ был уменьшен. Теперь БЕТ-СИ ощущается более дружественным компаньоном чем до этого.
+- Улучшения в поведении дружественного передвижения БЕТ-СИ, дабы прекратить ее сидение над игроками.
+
+
+УЛУЧШЕНИЯ В UI СПИСКА СЕРВЕРОВ
+-----------------------------------
+Список серверов получил крупный пересмотр ради лучшего охвата разных активных игр. Мы улучшили настройки фильтрации и добавили подсказки для лучшего описания различных иконок.
+
+
+ОБНОВЛЕНИЕ ГЕНЕРАЦИИ ПЕЩЕР
+-----------------------------------
+Было добавлено больше структур в генератор пещер, что приведет к большему количеству вариаций уровней на всех типах миссий . Дополнительные улучшения в системе прокладывания пещер приведут к тому, что вы сможете увидеть больше вариаций у уже существующих видов пещер.
+
+
+ПРОЧЕЕ.
+-----------------------------------
+- Исправлена ошибка при которой экран мог мерцать во время игры на картах GTX 970/980
+- Новая анимация проверки Сканера местности 
+- Исправлены некоторые словесные ошибки
+
+"
+	Update_21.5_Xbox = "Шахтеры, время повеселится!
+
+Верьте или нет, Deep Rock Galactic существует уже ОДИН ПОЛНЫЙ ГОД. Мы запустились в РАННЕМ ДОСТУПЕ 28-го Февраля 2018 и это означает, что настало время это отпраздновать вместе с этим мини-обновлением! Разрабатывать игру и дополнять её новыми возможностями и контентом доставляло (и продолжает доставлять) настоящее удовольствие и мы очень тронуты отзывами и обзорами которые мы получили от вас. Благодарим вас за помощь с превращением Deep Rock Galactic в ПРЕКРАСНУЮ игру и нахождение в нашем сообществе. Тройное ура для вас, за будущее и СКАЛУ И КАМЕНЬ!
+
+С любовью,
+- The Ghost Ship Crew 
+
+--- ЗАМЕТКИ ПАТЧА ---
+
+ВЕЩИЧКИ В ЧЕСТЬ ПРАЗДНОВАНИЯ ГОДОВЩИНЫ 
+-----------------------------------
+ПЕРЕОБУВАНИЕ КОСМИЧЕСКОЙ ВЫШКИ: Космическая вышка была задекорирована и готова к вашей вечеринке!
+
+КОЛПАК ГОДОВЩИНЫ: Заберите свой лимитированный временем КОЛПАК ГОДОВЩИНЫ в Магазине снаряжения! Он не дороже грязи!* 
+*Он полностью схож с приоритетами качества которое вы ожидали от снаряжения DRG.
+
+СКИДКИ В БАРЕ "БЕЗДНА" - ЦЕЛЫЙ ДЕНЬ: Все напитки в баре "Бездна" стоят на половину дешевле в честь праздника, подарок от руководства DRG. Пейте ответственно и помните, что ваша страховка не покрывает травмы, полученные при работе с тяжелым шахтерским снаряжением во время интоксикации!
+
+
+ЕЖЕНЕДЕЛЬНЫЕ ПОРУЧЕНИЯ
+-----------------------------------
+Еженедельные поручения являются новым дополнением в систему поручений, где каждое новое поручение генерируется раз в неделю для выполнения вами. Завершите их и получите здоровенную выручку кредитами и минералами.
+
+
+БОЛЬШЕ ГОЛОВНЫХ УБОРОВ
+-----------------------------------
+Модный берет для вашего Стрелка? Готово. Классная, теплая шапочка, чтобы прикрыть эту лысую голову от замерзания? Вдвойне готово. Чугунный ирокез или железные пластины, прикрученные к вашему черепу? Мы вас услышали. Тринадцать новых головных уборов было добавлено для того, чтобы вы выглядели стильно в темноте.
+
+
+ИСПРАВЛЕНИЯ ДЛЯ БЕТ-СИ 
+-----------------------------------
+- Световое кольцо отображает радиус гранат БЕТ-СИ. 
+- Урон по своим(после преобразования) от БЕТ-СИ был уменьшен. Теперь БЕТ-СИ ощущается более дружественным компаньоном чем до этого.
+- Улучшения в поведении дружественного передвижения БЕТ-СИ, дабы прекратить ее сидение над игроками.
+
+
+УЛУЧШЕНИЯ В UI СПИСКА СЕРВЕРОВ
+-----------------------------------
+Список серверов получил крупный пересмотр ради лучшего охвата разных активных игр. Мы улучшили настройки фильтрации и добавили подсказки для лучшего описания различных иконок.
+
+
+ОБНОВЛЕНИЕ ГЕНЕРАЦИИ ПЕЩЕР
+-----------------------------------
+Было добавлено больше структур в генератор пещер, что приведет к большему количеству вариаций уровней на всех типах миссий. Дополнительные улучшения в системе прокладывания пещер приведут к тому, что вы сможете увидеть больше вариаций у уже существующих видов пещер.
+
+
+ПРОЧЕЕ.
+-----------------------------------
+- Исправлена ошибка при которой экран мог мерцать во время игры на картах GTX 970/980
+- Новая анимация проверки Сканера местности 
+- Исправлены некоторые словесные ошибки
+
+"
 	Update_18_ShortTitle = "РАБОЧИЕ ПЕРСПЕКТИВЫ"
 	Update_13_ShortTitle = "НЕБОЛЬШИЕ ИЗМЕНЕНИЯ В ЖИЗНИ"
 	Update_15_ShortTitle = "ВНИМАНИЕ, МУТАЦИЯ!"
 	Update_17_ShortTitle = "ОКТОБЕРФЕСТ!"
+	Update_21.5_ShortTitle = "ОДИН ГОД НА ОРБИТЕ"
 	Update_10_ShortTitle = "ТУННЕЛЬНОЕ ЗРЕНИЕ?"
 	Update_10_Header = "ОБНОВЛЕНИЕ 10: ТУННЕЛЬНОЕ ЗРЕНИЕ? - 16.03.2018"
 	Update_11_Header = "ОБНОВЛЕНИЕ 11: СМЕРТЬ И ПУШКА - 23 ИЮНЯ 2018"
@@ -6904,7 +7039,8 @@ FIXES AND IMPROVEMENTS
 	Update_19_Header = "ОБНОВЛЕНИЕ 19: ПУШКИ! МНОГО ПУШЕК!"
 	Update_20.1_Header = "ОБНОВЛЕНИЕ 20.1: БОЛЬШЕ, ЛУЧШЕ, БОСКО  - 03.01.2019"
 	Update_20_Header = "ОБНОВЛЕНИЕ 20: БОЛЬШЕ, ЛУЧШЕ, БОСКО"
-	Update_21_Header = "UPDATE 21: GOING LETHAL"
+	Update_21_Header = "UPDATE 21: Теперь опаснее"
+	Update_21.5_Header = "ОБНОВЛЕНИЕ 22: ОДИН ГОД НА ОРБИТЕ"
 	Update_9_Header = "ОбНОВЛЕНИЕ 9: ПОБУРИМ ПОЗЖЕ! - 09.03.2018"
 	Update_16_ShortTitle = "ЗИМА ПРИШЛА"
 
@@ -6922,7 +7058,7 @@ Namespace Resistances (4 keys)
 	Fire = "Сопротивление огню"
 	Poison = "Сопротивление яду"
 
-Namespace ST_GearUpgrades (50 keys)
+Namespace ST_GearUpgrades (53 keys)
 	Headwear_Beret = "Напоминание о вашей службе."
 	T_MineralCapacity = "Большая сумка для минералов"
 	D_BiggerPellets = "Больше и тяжёлее, собранные дворфами вручную патроны. Замене не подлежат."
@@ -6936,6 +7072,7 @@ Namespace ST_GearUpgrades (50 keys)
 	D_AreaSize = "Сейчас рванёт! Радиус взрыва увеличен. (Мы советуем вам принять термин "безопасная дистанция" ближе к сердцу)"
 	D_Heat = "Зажги! Вы поджигаете все намного быстрее. Время смотреть, как мир горит...!"
 	T_SpreadPerShot = "Плавающий ствол"
+	T_MoreHealth = "Накачанный"
 	T_ClipSizeA = "Магазин большой ёмкости"
 	T_LoadedShells = "Патроны большого объёма"
 	T_DamageA = "Высокоскоростные патроны"
@@ -6945,8 +7082,10 @@ Namespace ST_GearUpgrades (50 keys)
 	T_RoFB = "Улучшенная газовая система"
 	T_ShieldRegenDelay = "Улучшенный генератор"
 	T_DamageB = "Больше калибр патронов"
+	Headwear_Beanie = "Тут иногда становится холодно."
 	D_LoadedShells = "Пришлось проявить творческое мышление, но мы наконец-то придумали, как запихнуть больше дробинок в каждый патрон. Только...обращайтесь с осторожностью, они могут выбить вам глаз."
 	T_StrongerShield = "Более ёмкие Конденсаторы"
+	D_MoreHealth = "Увеличение максимального здоровья."
 	D_AreaDamage = "Больше кайфа! Увеличивает урон по площади!"
 	T_StrongerShield2 = "Сверхзарядник"
 	T_ArmorDamage = "Бронебойные снаряды"
@@ -6974,7 +7113,7 @@ Namespace ST_GearUpgrades (50 keys)
 	D_ShieldDamage = "Ваш щит при разрушении взрывается, нанося урон врагам вокруг вас."
 	D_StrongerShield = "Ваш щит может поглотить больше урона."
 
-Namespace StatValues (52 keys)
+Namespace StatValues (53 keys)
 	AccuracyWhileMoving = "Точность в движении"
 	RadialDamage = "Урон по области"
 	ArmorDamageMultiplier = "Бонус разрушения брони"
@@ -6983,6 +7122,7 @@ Namespace StatValues (52 keys)
 	BurstCount = "Размер очереди"
 	BurstRateOfFire = "Скорость очереди"
 	CarriedAmount = "Запас"
+	CarryCapacity = "Ёмкость карманов"
 	ClipSize = "Размер обоймы"
 	Cooldown = "Время восстановления"
 	CoolingRate = "Скорость охлаждения"
@@ -7031,7 +7171,7 @@ Namespace StatValues (52 keys)
 Namespace Techincal (1 keys)
 	ClosedAlpha = "Закрытая альфа"
 
-Namespace UI (71 keys)
+Namespace UI (72 keys)
 	Minigun_Name = "Миниган «Свинцовый шторм»"
 	SMG_Name = "Электрический ПП «Крепыш»"
 	AutoCannon_Name = "Тяжелая автопушка "Грозовая туча""
@@ -7092,6 +7232,7 @@ Namespace UI (71 keys)
 	SupportTool = "Вспомогательные инструменты"
 	LineCutter_Desc = "Разрыватель высвобождает направленные взрывы сверхскоростной заряженной плазмы, достаточно мощные, чтобы разделаться с любым чужим у вас на пути. Частота этого изначально шахтерского инструмента была подстроена, чтобы вместо осадочных отложений, для разбивания которых он был задуман, вскрывать плоть и кости - с довольно эффектными результатами!"
 	CompanySpecial_NAME = "Фирменный специальный"
+	SupporterGold_NAME = "Приверженец"
 	M1000_Desc = "Оригинальный дизайн образца винтовки М1000 производства DRG существует не одну сотню лет, практически не изменившись. Высокий урон, достойная скорострельность... и этот звук "Дзынь". Превосходная иллюстрация для поговорки "Не чини то, что не сломано"."
 	Throwable = "Метательное"
 	Warnings = "Предупреждения"
