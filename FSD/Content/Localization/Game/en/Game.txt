@@ -1,11 +1,12 @@
-20 namespaces
-4524 values
+16 namespaces
+4586 values
 
-Namespace Global (5593 keys)
+Namespace Global (5675 keys)
 	2559D78C40005E5221F26093CB976283 = " Collect {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " I Fell!"
 	31D60A1449082F9AB6DC15844F3810F6 = " REQUIRED"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer/ Music Producer"
+	CC99101A43D27CD0B6D56484C12AC71D = " The sentry can fire more shots before refilling."
 	7A08710B44444ECFC61B76B9C1569163 = ""A Dwarf sees farther while standing on the shoulders of Giants!""
 	83952EF040308BB9B237FDA3FA104D7D = ""A Dwarf sees farther while standing on the shoulders of Giants!""
 	BED491E44D13CCC24A1BC9973DBCFB71 = ""Aggregated data" means all metrics and data we collect will be bundled\ntogether with all the data collected on a specific feature or subject.\nThis means this data don't contain any sort of trace from the user that\nprovided said data.\n\nThis kind of aggregate information will allow us to better understand\nin a broad view how players have fun with our game, and help us make it\nmore fun.\n\nAll data collected through this method is managed through StatHat with\nfull anonymity. That data will never be shared with any other third party."
@@ -273,6 +274,7 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	10EBE9914309B112BED94D8ACB15BFE8 = "A custom revolver firing rounds so large it only holds 4 shots. More or less nothing can stand before a direct hit from one of these 26mm monstrosities."
 	7ADCE52D4766E4E062B4F0A68DF64E45 = "A delightful, tangy brew. In accordance with DRG's "Don't Ask, Don't Tell"-guidelines, the Mactera Brew quickly rose to prominence among the crew - as long as everyone agreed not to discuss the ingredients..."
 	A51AF99C49FC325E4128D4BB8F23F943 = "A dependable, hefty weapon. Usually not the first choice of proper dwarves, but the combination of heft, weight, and satisfying boom makes it worthwhile all the same."
+	7E42D87B4FEBDCB183B1ABB15E696902 = "A design variatiation with greatly increased shot power and a focused scan angle."
 	86A03D794F56F55E13FFD190FE8F3031 = "A dwarf never dies!"
 	20946E854610B5BE26AAD5B4CFCCD185 = "A few springs, a few magnets, a few black market fuel cells - you now take {value}% less fall damage!"
 	1D1DC6B34CA7252027F1308C86BBC410 = "A nice headset"
@@ -402,10 +404,10 @@ Bosco's AI is not ready to handle this kind of weaponry, use the TERRAIN SCANNER
 	7F17A1C141AB22014757A0828AD2F06D = "Already?! That's just...awww... :("
 	32599FD848D3FB5C7AE606B4DE552614 = "Alright, Team: You're going after eggs this time - alien eggs. You can't miss 'em - they're big and they glow. Get the eggs, stow 'em in Molly, and get back alive."
 	9173545D4CCCE8F8431C579742A4ED6B = "Alright, that's it! We got all the Morkite we need!"
+	83DBDB404C01FA12EDFA7B9635EA0BDC = "Also known as the "The Pincushion", the MK5 Engineer Suit is another technological marvel. It has more glowy and blinky bits than any other Engineer suit currently out there, and that's gotta be good."
 	050447854ADDF505C53502914041EBB5 = "Always a bold move."
 	C51D643D48DA37D69FDEC0BDFCECC33A = "Amalie Bach Capp"
 	A7AFE10842613D034C552C945F68C416 = "Amethyst"
-	13F23518479F333BF2B7049DED38A20F = "Ammo"
 	1CB313AD4E447638C4FAFABA352B5A0F = "Ammo taken!"
 	E977075D43332C7F328973A1C4FB8212 = "Ammo:"
 	A13E31724B152BF53958568AC2187067 = "Ammunition Resource"
@@ -422,6 +424,8 @@ Bosco's AI is not ready to handle this kind of weaponry, use the TERRAIN SCANNER
 	B8EA404A4382DF5AD989A08C16A1EB30 = "An adventurous mix of a cheap, powerful ale with an equally cheap, powerful energy drink. The result is almost, but not quite, entirely undrinkable. But it sure does put a spring in your step."
 	DD1215F14B9E6DA94F08B1AB687608BA = "An agile dwarf is a live dwarf! You now sprint {value}% faster!"
 	7788FB28487AD6E60942BA8B6CF01865 = "An extra perk slot is now available for the {class}"
+	85D7BCEC4BE68DBC849081B25F1CFA7D = "An old-world addage says to "Be Prepared" - and the MK5 Scout Suit does not disappoint. Kevlar-reinforced vest and harness, steel-clawed boots, handy flare-pockets - they even included an extra sandwich pouch!"
+	7C074FDD478201911E9981806EDD5E73 = "An upgraded model with more of a punch."
 	46F8058E4ACB60C590309687C83A8ECD = "Ancestors, that was a bad fricking show...!"
 	B42C3E4142DE9B8DA735678256571B02 = "Ancient"
 	20AAF4014565DAB702E236A3D5489BAE = "And it went boom!"
@@ -429,6 +433,7 @@ Bosco's AI is not ready to handle this kind of weaponry, use the TERRAIN SCANNER
 	F8CC47174E118AF9199141905042A50F = "And there they are. Swarm! Kill 'em, Team!"
 	521401FF46284A4B5250129644FE3B2D = "Angle"
 	2C3A5C4C41A533EFFCFF7CA59785B001 = "Another Perk for me!"
+	BE6F7F0F44D42BD691F737A0ED7DE25C = "Another breakthrough from R&D. The MK5 Drill Suit is a masterpiece of engineering - the comfort of a leather armchair, wrapped in a titanium-alloy exoskeleton."
 	31EC13E7477E120CF9C039B48DBEFFF2 = "Another day at the office"
 	E8AB45F7445EE777F08F1F84CDB28539 = "Another day at the office!"
 	350C44A44A7B62B5309BB6B87E6034B4 = "Another day! Another dime!"
@@ -464,7 +469,7 @@ Bosco's AI is not ready to handle this kind of weaponry, use the TERRAIN SCANNER
 	17F8FFC44CC94EBC7A5B4EAC51DF9798 = "Area Damage"
 	3BBC11B84DAA7EBDE287DC862B60841D = "Area Damage"
 	8095E1FF47E225CDDB0BD184B172BD5E = "Area Heat"
-	9D2AF96142938B6FA72BB2A6A9270D57 = "Area of effect"
+	9D2AF96142938B6FA72BB2A6A9270D57 = "Area of Effect"
 	8D746ABA43F7F6104ED56A96E8E19FE3 = "Arggh... it is hard to move!"
 	DF6204D54CA63BB09F32DBA77506F424 = "Argghh"
 	E038C3494502B64BE34E1AAFA607CC63 = "Argh, expensive...!"
@@ -477,6 +482,7 @@ Bosco's AI is not ready to handle this kind of weaponry, use the TERRAIN SCANNER
 	F7CC7831491F17B2B07BFB8409084573 = "Armed and ready!"
 	04A8FE29421A0B0B2A935BBC4E6E09C7 = "Armed!"
 	5EA04C2442C0D7F21C5ECA96A9C54E66 = "Armed!"
+	7DDD6698496CC4D83DFD29BA040A354E = "Armor"
 	D176308541863A29511C2481D3B6678E = "Armor"
 	67364CBE4C00150D03A20EBEEACD1A0F = "Armor Break"
 	9A78E1364E263F55A79177BE91A7A8C2 = "Armor Breaking"
@@ -525,8 +531,8 @@ PLEASE NOTE! When you have skipped The Probationary Period you will never get to
 	668ABFEF48EC05534A14B79017E30299 = "Assignment mission completed."
 	19323ED84A8EA8997995DEB5993D9D8A = "Assignment mission completed. You are performing well."
 	9696BD334FD18A50445A059F2032519E = "Assignment: "
+	2AE5653A4DBBA144CD5591ADB1F1CD3F = "Assignments"
 	8EC065F5490529525AAE019EC3D47173 = "Assignments"
-	A88BF5B34ADCA74E7A637C8D1F3B5170 = "Assignments"
 	3F5A7D9444C6C21AFEBFFF999FFF1D32 = "Assignments Completed"
 	52C91EF941026FEA658ED495FB2CF58B = "At least one of our xenogeologists quit in a rage when research started on this region. Instead of having conventional polar ice caps, and in violation of all physical laws we know of, the continental plates of Hoxxes rest on top of a planetwide permafrost layer several miles deep. As always, DRG recommends a “don’t ask” approach when dealing with the peculiarities of Hoxxes’ makeup."
 	562081CA48E01E51B47280AA0BA37557 = "At least one of you has to remain by the charging Fuel Cells! Get back there!"
@@ -620,6 +626,7 @@ TERMINAL"
 	D414D8B046988FD1CF5610B91FFC736C = "Beanie - Uniform"
 	384D191244AC7DCA6A25459FF2C2F0CA = "Beanie - White"
 	A2F1B5FD49796B8AAFF973B5A24ED0F1 = "Beard"
+	830AEAAF47666DADEAE682A110105976 = "Beards"
 	1C7CF05540FBF4B364BE0A8CEFC58BFA = "Because of the new Gear Modification System, all old gear upgrades you might have bought have been reset. All credits and resources spent have been refunded to your account. Happy upgrading! :D"
 	739C730F4DC75A2B8FB068B01BE3EA1F = "Because why not?"
 	75EE201A4C886BBBDDF9F993134F8124 = "Bed Rock"
@@ -731,8 +738,8 @@ TERMINAL"
 	4FE5A65547F7CF81AB458EBBBA491392 = "Build"
 	93691B8445BD80B844D432A8BAE2FE83 = "Build"
 	1CB4D80743318442C308D2A14B857E9C = "Building {progress}% Done"
-	251FA98341B86380F1B7FE815D790818 = "Builds faster"
-	84EFB56C4B7743BB0738C2B559DBD9B4 = "Builds faster"
+	B6442D194106F63075C9CFA2BFCA2D94 = "Builds faster"
+	D99A937E4EF05671A867689FF1DAD3EE = "Builds faster"
 	05A790C44DF82D2A88B302BD75DFC82B = "Built-in shock absorbers make falling less painful."
 	F1DE328E4F32FC002F5894B15B02F0AF = "Built-in shock absorbers makes falling less painful."
 	C967120044BDB528B0AAA68928C37494 = "Bulbous Full"
@@ -821,10 +828,10 @@ TERMINAL"
 	26F7EBCE4A1E5809DF70FA8C5BFFFB58 = "Can carry more ammo"
 	9F9D196742793CD434999683B3A887A9 = "Can carry one more explosive pack"
 	D1380CDC45D2D31870743F8DDBCA9752 = "Can carry one more explosive pack"
-	BE34C0F346A824213878F2ADF79F3771 = "Can fire more shots before refilling."
 	3D99EDF04AB17237E9DD0C8B4D64A583 = "Can move faster while drilling"
 	8A3770DE422EB958ED417981A1EBB959 = "Can move faster while drilling"
 	1447D74F462B7563ADB6A9B2ADB9DBF3 = "Can reach a higher top speed on the zipline"
+	4C9104994CA82CBB2F93AB81B92B7349 = "Can to deploy two seperate sentries at once."
 	1240821043CB03B543418580DBD968A0 = "Can use drills sooner after an overheat"
 	C49B0168468043C648B7BC831A8E2F07 = "Can you even see past the bling?"
 	7BAF9D2B4818411D661824A25964C62F = "Can't Afford"
@@ -880,7 +887,6 @@ TERMINAL"
 	D9183E714A4962AC135C848D8565DC77 = "Chance to scare creatures next to a bullet impact"
 	680035C84A8FE25FB3E69E9E1EA13804 = "Chance to scare enemies far from the blast"
 	CDB4D3D34EF0F23DA8C81CAE59603B88 = "Chance to scare nearby creatures whenever you shoot"
-	215AEBDA4C2E14FF169F5EAADDF3CEE8 = "Chance to stagger the target"
 	C894AE8A4EA7A1CE30273E850A34DBAE = "Change Account"
 	02A2AF5D49BF8321CF7300A39F12AA0F = "Character"
 	D5DDDF8A43A71B5228B575827C97286B = "Character
@@ -1304,12 +1310,15 @@ Management"
 	17DFCFE2486582C5680A22A580E5AAC7 = "Deeptora Honeycomb "
 	2974756F40C48748E76939B4171D036E = "Deeptora Swarm"
 	C55C17E9436F1DE5466438950931C189 = "Default Controls"
+	6042CC9148779F0EEDD417953DC52DC6 = "Defender System"
+	E6CEDF9041163D975B5E25B74EA947C1 = "Defender System"
 	44EB8CCD45F0541602747D97DA7BE5DF = "Delay"
 	7DD07AE8403119755FF99F98DF00E119 = "Delay"
 	99DE4F374F07C18A3F1703807B3A46D2 = "Delivered by"
 	18DE5B0A44CE63349F6EE0A23D2E2794 = "Demolitionist reporting for duty...!"
 	0D8331334DD9FFFE16B4DB975A9E080A = "Dense Biozone"
 	0B9C58F542172778A7057FADD52AB778 = "Dense Biozone Missions Completed"
+	83E0B31F47EE43E49D5DA3B186BA4A8A = "Deploy Time"
 	567197FC47E2B7A939B55D90FA510CCB = "Deposit"
 	5F213AC34534738253556290BCFEC9F8 = "Deposit-time!"
 	697CCCF6428B77621835D993AB3FD824 = "Depositing minerals!"
@@ -1497,6 +1506,7 @@ Management"
 	5FB1DE214CAC78EB32A958ABB9B0D20E = "EXTRACTION"
 	D37404E244342AA47588AFAA6B86F192 = "EXTRACTION"
 	549595484CBC60678D58B3ABD575C24B = "Eahh "
+	8DE93F804D286AD244AC3C9C30966097 = "Eahh "
 	06A3915F42002FD4D8BC1CB29B175277 = "Easy piecy!"
 	2D0D0F2C49874BC4C64011B6A247DFFF = "Eat it!"
 	3760C8C349C949A4A3D5EC9F9C8A09A5 = "Eat lead!"
@@ -1584,6 +1594,8 @@ Management"
 	9A854D4C4B871627F8643DA203783824 = "Exit Game"
 	14E9CFFA456B38B15AAD3C812FE0BA07 = "Exit to Desktop"
 	AA09D158453C1D6160A530B89F427E90 = "Exit to Desktop"
+	9BD6F711474FA1E9880B2595589D0D46 = "Expanded Ammo Capacity"
+	E54F9E714197B46F9CE58DBB86096FE9 = "Expanded Ammo Capacity"
 	2CB080484B4C916DA8265DA3B1ECC54C = "Expanded Ammo Drum"
 	8FAF78B040163FAD823EA2B0310AE884 = "Expanded Fuel Tanks"
 	15F3D9A3470B0C1CC3F480A1CF92EFBF = "Expands flammable fuel capacity"
@@ -1591,6 +1603,7 @@ Management"
 	D0C851E94B40C04C23EF87AE3A699251 = "Expert Miner"
 	8DAAA1AD439C5BDFBCAF559799F1B719 = "Expert bucket handling! You now deposit valuables into the MULE and Drop Pod {value}% faster!"
 	7B29805243CBBBF28CB75C93F1AC17B8 = "Exploder Infestation!"
+	DDCB6B384B039C1FD434B4BB70DCD4CB = "Exploder Nexus"
 	860AA6A54B91A73D575E8AAB551AF13A = "Explodes last projectile when a new one is fired"
 	2760B4D24420248535423580CAF28CB6 = "Exploding Plant"
 	5EF8DBE945E73FE7391AF782BB959E6E = "Explosion"
@@ -1633,6 +1646,7 @@ Management"
 	FBC56EC14C9ED2DBD48FFB944EC978EA = "Extraction commencing. Good work."
 	C481BFC6424B494027870F96B42C54E6 = "Exudes an intangible air of Liberty and Sass."
 	7DB1E130473D2A5E48818F929C7ABC5E = "EyeBrow"
+	587AAFF54768C62AD8FDD39ED2F20EAB = "EyeBrows"
 	EA46E064406064AC5AB37FB0E5E515B5 = "Eyes peeled, they can come from anywhere!"
 	FB8E761346D3DD8189B599AD56F932D6 = "Eyes up, the Swarmers are on you!"
 	4F15107A46521A2C5E256D92A9B43A0E = "FAILED"
@@ -1660,6 +1674,7 @@ RANGE"
 	83F0CF834850314792804BB40DD22041 = "Fancy ammo"
 	A1A771A24AEECC5455425EAB3D5D32E2 = "Fancy pants!"
 	E51B3F744507E303C14E08A0352FA0D4 = "Far"
+	E172C5DC46EBBDAB3855E4801D851CC1 = "Fast Charging Capacitors"
 	7D521ECD4893F139A20BB7AD9DB63426 = "Fast Regeneration"
 	3E073F7541C83715AD26FA81CF557F73 = "Fast flare production"
 	A8464FDC48B600862605F2A7EDEBEC0D = "Fast movement"
@@ -1893,11 +1908,13 @@ RANGE"
 	D31B847247DED5617E5C2681845E748B = "Gather Strange Eggs"
 	FDB8843646D85AA05045F8B428271FFC = "Gather Valuable Gems"
 	682EC367469D543B309A51BEF75FDE20 = "Gear Modifications"
-	0994EA3D466CF054B2D0D095E7D12323 = "Gear Shop"
+	5B79C20340A27DA7239D1CBDA564B8A7 = "Gear Shop"
+	7F5B1A7247901FB7746643AB517207D7 = "Gemini System"
 	D730604344FA218E573C85AD68F64FA6 = "Generic Hero"
 	84FC1167418CEECD8D955488BF962A5D = "Genres"
 	7AC69B314DD05927A93F4F962018626E = "Get Ready To Do Overtime!"
 	427BE56A4269926A9467099CEC4853C3 = "Get Ready, Team. Horde of Glyphid Swarmers, heading your way! Get your stomping boots on."
+	063888F548E11C45A98831AD614661E0 = "Get away"
 	3436865248C898FBDFD363B8B39E86F8 = "Get away"
 	6D83331B469951C046AB5BB24A6DB7F9 = "Get back here you bastards!"
 	CA7E87F142401B841A66A4BF79F67EB3 = "Get back here you bastards!"
@@ -1947,8 +1964,8 @@ RANGE"
 	1B5C4A4040B223424D25698737E369A6 = "Glyhip Slammers for everyone!....it's Slammin' Time, yaaar!"
 	982AF46A48E701384C5F98A182112822 = "Glyphid Acid Queen"
 	07354CFF48694F6D7AC6C5B6F916FD6C = "Glyphid Acidspitter"
-	EBD577AF46AF667F7B95578D0650C703 = "Glyphid Big Exploder"
 	78A1347C4F52EE7C46C0B2A20817600D = "Glyphid Brood Nexus"
+	2CA71E28400981693DA0ACBE30C64EC5 = "Glyphid Bulk Detonator"
 	5C9234CB474311595C2FD88ECA8A29C2 = "Glyphid Cocoon"
 	930DC15B429030108FA44586BA126D60 = "Glyphid Dreadnought"
 	530DC0724C29F24DE24F8E876DD63A24 = "Glyphid Dreadnought is here!"
@@ -1957,7 +1974,12 @@ RANGE"
 	00CDC2814E5FF981C46300B068D682F5 = "Glyphid Egg"
 	80639C5F4A78BBC44A8D73A49CDB4DE1 = "Glyphid Exploder"
 	7B4E597C4CE46978190B01BDF4DDA9D7 = "Glyphid Frost Praetorian"
+	D2DE72634C0D92EF71DB7789410498B1 = "Glyphid Frost Praetorian"
+	B2CDED2342A999AA246D22A257C8703B = "Glyphid Grunt"
+	0C9366DB45C288A7821A0BA84A05C5E6 = "Glyphid Grunt Guard"
+	A6125EE14629DD8FEE9823989ED888E3 = "Glyphid Grunt Slasher"
 	BE68E3DD472602BB09ECAC962BB341EB = "Glyphid Hoarder"
+	AA9D70B24278C12425803A9E9CA9116D = "Glyphid Menace"
 	DAC649E44C864E3F42BDD98F8C434126 = "Glyphid Neurotoxin Coating"
 	FA8F44C946CD7ABC7358039A193E66E7 = "Glyphid Praetorian"
 	46ACC5DB49459F62F66B59A004754A16 = "Glyphid Praetorians attcking!"
@@ -1965,10 +1987,11 @@ RANGE"
 	3A5120BF4D390769D306CDA81164622E = "Glyphid Slammer"
 	2D6855C74EF93BAC1C9C04861F2F1C7B = "Glyphid Spawn"
 	7264F5314B7568C009316EAA26625514 = "Glyphid Spawn"
+	B859209C46843DAA680672904956B2E4 = "Glyphid Spawn"
 	F7464ADE4437E5B3F6902DB072133523 = "Glyphid Swarmer"
 	F842677547F73DCFC06EFD80D085CBF6 = "Glyphid Swarmer Tunnels"
 	B8D8E4D846F02E721C4AC4A0B19118A4 = "Glyphid Tunnel"
-	04690FEF43F11457C40889849F410B23 = "Glyphid Veteran Warrior"
+	985A963940A27E7329FEAABF2D80181C = "Glyphid Warden"
 	EBE02D2E41935D99B0636AA8053E5CB5 = "Glyphid Warrior"
 	1CF279344F67E8BC574EF5981DA77522 = "Glyphid Webspitter"
 	EF2539364E0BBD773683F5BD0E0107D2 = "Go Bosco!"
@@ -1997,6 +2020,7 @@ RANGE"
 	19BA6775465847840682BC9F5D4EC225 = "Golden Bugs"
 	C6860B7B4B22BE401402DE9EDC105586 = "Golden Cap"
 	07F6168340A5682C9BBB5C8966DEEB03 = "Golden Helmet"
+	123ACF6C41F7EC46D18786AAA3B493EC = "Golden Loot Bug"
 	4A083C354CE66519DB1D27963CC86C38 = "Golden Visor"
 	81FAF0134D924E13E01A639E08BA9561 = "Gonna need some more flares!"
 	5C6DF65F446C7B89969017A738386B6A = "Goo Bomber incoming! "
@@ -2112,6 +2136,7 @@ RANGE"
 	17B453774C596F888DD633ABFA394B5E = "Hair Trigger"
 	70AAA06043DC7BD630D669AC3B3CFC85 = "Hair Trigger"
 	CA2577B2490F58125B613A8FAFE9EB8E = "Hair3"
+	F81B4BE84BEABCEAD69416843E81C1A3 = "HairColor"
 	98EB44DD4B91B80E0F20E28FA22F97D3 = "Handy for keeping shrapnel and offal out of your baby blues."
 	43853D14403E8C70DB9FB7BC01350C91 = "Hang in there, supplies are on the way."
 	631B26D74487C6C769C74BACAA22F99A = "Hang in there, the wave is almost dealt with. Dispatch whatever's left."
@@ -2139,6 +2164,7 @@ RANGE"
 	3DD6968A416158C5D9A35CA590B04827 = "Hazard X - Trailer"
 	C02F0D934E5B05229F21F084E6C16E20 = "Hazard X - Trailer"
 	14DCDE084168C7C01E2F07880D9BC856 = "Hazmat System"
+	8A2A1FFE4425E690EDB444982D510564 = "HeadWear"
 	925B88C9473D02AD5A60A7B7547AFBA5 = "Headbob"
 	0CA6A36C437B1754AA820195A90B724C = "Header Text"
 	0DFF194D4A45675C546B63ADD8FF629C = "Header Text"
@@ -2497,12 +2523,14 @@ STAND BACK!"
 	5940DD09483FB8A41478868CFCB8D073 = "Improved 2nd Stage Pump"
 	7E6F0B8347031C0757DA40956D753056 = "Improved Accuracy"
 	F551621B4FD4EF4FA0939DBFE98951CB = "Improved Alignment"
+	F054B6C64E7093A4C8C39C91BC1EF282 = "Improved Efficiency"
 	D06E3BD64B1886FA4E75489D35012BA4 = "Improved Ejector"
 	E5D9788F40F556CBF081F7A7C17CCDF9 = "Improved Ejector"
 	CCCF713A4196DAD4B1562B92E8B71976 = "Improved Ergonomics"
 	CC933A8345F3459C5054EC9C2ED55AC5 = "Improved Mixture"
 	8F298F8044CCAE707C8E138574B2C08F = "Improved Motor"
 	B6E6975B403E09888EED96B989CB9A0D = "Improved Platform Stability"
+	3523C93349629D716BBCB799C6783466 = "Improved Projector"
 	27319746485E0E3523C4448ACEF28101 = "Improved Propellant"
 	64F5E9D6483DCF1AE0B971976AC124EA = "Improved Recharger"
 	0FCC11C14BA710F246BF77BF3956D34F = "Improved Shield Generator"
@@ -2529,10 +2557,11 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	4DA0B11345F109DD53883E99D5F49000 = "Incoming!"
 	68C7E9E14BAA5165E29BCF90BF3E033D = "Incoming! Smoke 'em if you got 'em!"
 	9CA72414491975B1B6059BB4B5F6A254 = "Incrases area damage for the charged projectile explosion"
-	A9C473894EB36B219F9353A9A3FA6D3C = "Increase Duration"
+	EF1C60504B5467CE30AB23B3BE93A077 = "Increase Charge Count"
+	FF14BA7F47D019082E6209BE45712E4F = "Increase Duration"
 	2309F9154FDE8A1E7D6FF0B9D405A9FD = "Increase Line Size"
 	FE7EA87647CD44BB927C6D99D647EF31 = "Increase Line Size"
-	76FA14EE41250691A1AC2C9AE6C904AE = "Increase Radius"
+	2AC68421409908F634F7728C275B6CF4 = "Increase Radius"
 	353B31AF4B4FA7DB686E23BB718392A4 = "Increase damage inflicted on enemies"
 	9FDEC3BB4EFF7ACE7C8F48A8D26DD7BF = "Increase damage inflicted on enemies"
 	0A45047A4242961A8B1EE8813757ACAD = "Increase the total amount of flares "
@@ -2573,7 +2602,7 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	2C2284EF45735B0D23345B891AF418FF = "Infestation problems? Automated turrets, mate."
 	7BA8C18C4FAFE7DCAC7DBDAFCC50CAE5 = "Infesting Parasite"
 	3867F75744148E7F74092ABC89B7DAF5 = "Info"
-	92AD67DA4E31C57CB12C6CB66AB9A201 = "Info"
+	5B6F32D54E41B035384E62B2CA1075AC = "Info"
 	33526BA54D6FBFC30091B7B9E89039A8 = "InfoText"
 	D6C7F4E84ECA96758E570C821E55BACA = "Information"
 	7E0755F9425217DABC8E6AB89B2656AC = "Inner Dead Zone"
@@ -2769,12 +2798,13 @@ TUTORIAL"
 	776EEDF74F5A67D8128954AA3C43A93F = "Lack of Resources!"
 	E612E7A1483E43042EB651808C262332 = "Language"
 	3675313745838E7EA1DF2DBB8023B806 = "Lapeirousia Serrulata"
-	B021245C4ED985858EA887B7D06D5792 = "Large Ammo Bag"
+	4CE0A4814117F2D92DB56980D8DBBABE = "Large Ammo Bag"
 	8B793060411891FB19C34FB3DB29DE1F = "Larger Battery"
 	489D3C314ADF81C59FCBE7BA66A13AE0 = "Larger Belt"
 	9E5515644E360F6FD5B604B5E5CB78DF = "Larger Belt"
 	A58587444D096FC60CC81D9393CF222E = "Larger Belt"
 	ACEBED9B442F1592CCE6E4A01140B3E3 = "Larger Belt"
+	1988FDBB452BE567ED936B95D2CBA2EB = "Larger Capacitors"
 	D39452B7424B32EB3F300DBEDFB632B5 = "Larger Capacitors"
 	3F045CFF442C6BDE28B4F5AD3BD0E2D5 = "Larger Flare Quiver"
 	3575F3B1497CCBAB275DDD93E848B342 = "Larger Payload"
@@ -2789,6 +2819,7 @@ TUTORIAL"
 	9FE6422F4BFDC9886677C49255AD4C18 = "Last grenade!"
 	D0923E8A47EC1E9AB06FF3B3C6CA4834 = "Last mission and you are up for a promotion. Give it all you got and Management will be impressed."
 	AFDBBBD64098AE715404DEB56DC587A4 = "Last one to finish is a pointy eared leaf lover!"
+	AFDD8D2C452CFCD313AE25A4FAD2E525 = "Lasting Effect"
 	03771CB741D6A8F7585D8CA572DF34A6 = "Launch Control reports foreign objects in the launch tube. It appears that something is interfering with the forcefield. Would you happen to know anything about it?"
 	4774F72D4DDFD43AC87114A145289047 = "Launch SOLO mission"
 	6E1DC7B840DE3BEC3890A49E15DB85CB = "Launch Tutorial"
@@ -3045,6 +3076,10 @@ TUTORIAL"
 	97F28C39413A4747B3AD6995F243F715 = "MK3 Gunner Suit - Heavy"
 	F79DC65A48321510BA3E0DA33552B843 = "MK3 Scout Suit - Basic"
 	5DFBDDFE495D0E47CCA33893B18AB6CB = "MK3 Scout Suit - Heavy"
+	A7CFA35F4192E1F0E6B43991A4F9B8D5 = "MK5 Drill Suit"
+	84C21C32481BB8B3E7572A811E6837D6 = "MK5 Engineer Suit"
+	DEFFF80543E96CC286A6809B75F6409E = "MK5 Gunner Suit"
+	7DE6384246559A2195C669BE04B95E41 = "MK5 Scout Suit"
 	EA807C684450BB19B921639A3BA5D580 = "MODERATORS"
 	A9132B7247ABD90C9481E0B20B97C07D = "MULE Leg"
 	084D891E4FAF8D86DD63F3AE40B33ECB = "MUTATOR:"
@@ -3084,6 +3119,7 @@ TUTORIAL"
 	BE7220884C71C491BEAA77890F67A888 = "Management are gonna get a sternly worded letter over this!"
 	A14DDD2A44A64E72A7BB928B25831D6F = "Management believes you are ready for a tougher challange, and you have been cleared for Salvage Operations. Don't disappoint them."
 	59367B3E408977420445739971EEE004 = "Mandatory Update Available"
+	754E7FDA485CA086798C2AB1973710FE = "Manual Targeting"
 	EA5ACFD1480073F4BEE6CDA33C7748BB = "Many enemies present hard surfaces that will reduce the damage taken or completely block a shot. Those parts have health and can be broken by any kind of damage. However, projectiles with Armor Breaking capabilities excel at breaking armor."
 	733C15B24399675475D0C9A08A57F964 = "Map"
 	4FFCD57D4CECA5DC37F262A7A3C18B37 = "Mark a wall with your scanner to make Bosco go there and light it up."
@@ -3158,7 +3194,7 @@ TUTORIAL"
 	DB7AF605434CFF87704E799DE6090780 = "Mineral Chimney"
 	615849A54B3E4F7C05257CA775439D28 = "Mineral Mania"
 	ED349303421AD96236304EB6D32179DF = "Mineral Refinery"
-	C9C0DD054A1578E3E0BB97B56DABD9A4 = "Mineral Trade"
+	9F8CB57147851690CB4AEC954FCCD024 = "Mineral Trade"
 	FF249D1545DF2C5F1C085FA7F4A516FA = "Minerals Mined"
 	5479020F464007CE95CF51BAE3B36018 = "Minerals bought!"
 	B5208C1E4B96924DB09BAD8D1515F5AB = "Minerals mined by team"
@@ -3179,7 +3215,7 @@ TUTORIAL"
 	9B6006C44FC0D4CA60085CA1516F2D85 = "Mission Control"
 	BA4EB6AC430489BB03E2909FF293862C = "Mission Control, you surly bugger, this one's for you!"
 	009AEC2C4D9A417BE69EF4B6376CBCC6 = "Mission Selected - powering up the Drop Pod - Get on board Team!"
-	137F510F481ADAD4023AEA9B7CA31390 = "Mission Selection"
+	717D370F4D2A6131567A3FAC3F380CCD = "Mission Selection"
 	06527C344A30B6777AC76591AC9D50CA = "Mission Statistics"
 	0F5DEE5E4760C31F00CA03B68EBA6C1C = "Mission Time"
 	87ED4E2C4334C3C6D6D835BE1FEFF8C0 = "Mission complete. Director's talking of bonus."
@@ -3241,6 +3277,7 @@ TUTORIAL"
 	70786CA0452E01014CC5E3AA67EF7D96 = "More ice formation in stream causing more damage"
 	7BE9FA03475FD899758F1F851D308C9E = "More ice formation in stream causing more damage"
 	4FA3FCBB4DF4D48DC52FD092D25A63E3 = "More pellets in each shell"
+	92A692304E8BF7CDAE964FAEC9F2F25F = "More recharges"
 	1CD875AA436767512261BFA237F77342 = "Morkite"
 	47E9789E48473348B110688FDB99C13F = "Morkite"
 	E2C0F7274C29BC11161B4CA7B78DAC1D = "Morkite"
@@ -3255,6 +3292,7 @@ TUTORIAL"
 	84DEB86F4720C733085E61992AB19213 = "Mounted gun operational!"
 	CB8FEB734804F56B51009E938294580A = "Mounted gun, oh yeah!"
 	D4E386474FE73B00C05BE59853B5263B = "Moustache"
+	15671591427575923597598FAAE7D7C6 = "Moustaches"
 	9CF81717447DBF29BEE00D9DA3090828 = "Move faster for a short time after killing an enemy"
 	5553884E4B6E6F00ADC8F985F6F4219A = "Move it guys! We're going planetside!"
 	07F9C8E548BA49B47B70AC9B3FD2E858 = "Move it!"
@@ -3441,6 +3479,7 @@ Simply put: Use it to sell off what you don't need, and buy what you're missing.
 - Regards,
 Management"
 	81192BAC43EAEC0E9910289D3B9E2DF3 = "Now that's money well spend!"
+	325152F549C84E508A8B8E9910D85BCB = "Number of Sentries"
 	F6AC26424E66A86ECF11FD89929D26D9 = "Nuts and bolts! We can fix it!"
 	7FF8D25A4628B4EFE1C301A1037109A7 = "OI!! OPEN THAT BAR AGAIN RIGHT NOW!"
 	1B4C0B1F44A09BF4050CB9879A0C9A79 = "OK"
@@ -3473,6 +3512,7 @@ Management"
 	4860D28C4B26DDF0D4B33CABAD76BC6E = "Off we go! "
 	CF8F160C43A82DB71C73A8ACB1D6D20F = "Offering more armor at a significantly reduced weight while maintaining flexibility, this suit is superior to its' predecessors in almost every single way. Plus, we've been told it looks swish as hell."
 	4A68B6014D09DF8B55C26A88E307047B = "Offf "
+	86ECB5B840C4F957AEDB7D9F243D47E2 = "Offf "
 	5FCB25C74703BA52FFA6BB813B533543 = "Office Manager"
 	24E5BD4547E139A2C953A5B517597E20 = "Oh Shit!"
 	33D8AA494C197647EDD9EFA2BF6BC4CB = "Oh Shit!"
@@ -3579,6 +3619,8 @@ Management"
 	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Orbital Relay"
 	E188CD9A4447D90B16A773B3578B3A16 = "Order Resupply"
 	BCF3BEB34D63AE4315D8BAA3AF3F6317 = "Orders from management: Stop dancing and get to it!"
+	3C5F34D0436E2B98FD13338659B30B2F = "Organic Material"
+	55372B224AFBE73F4A6F798CF1108DDE = "Organic Material"
 	67A295D34BF936AD221F2C8D04C42ADC = "Organic Material"
 	F63322B34353B1D0A2F1CDB616C277A4 = "Organic Material"
 	F281BBBC4B2A9DC20A3527A0980B7A15 = "Ouch! Ouch! Ouch!"
@@ -3712,6 +3754,7 @@ Management"
 	09926EE44B057C628C8A9F9DD2518ADC = "PURCHASE"
 	75AEE9034DCA596364116A8C5F01C1FA = "PURCHASE ITEM"
 	E6E6A7FA45E549ACC240BBB03FD777DE = "Packs a bigger punch! Exellent for making swiss cheese out of bugs."
+	1FA854014B9BBAB2849AF99B0714CB7C = "Paint a target with your laser pointer and the LMG will take care of the rest."
 	E5770A0541F8F4742828E383C9F4C13E = "Pale"
 	B2160EDB43377EFE48DF89910159E4EA = "Party Hat - Year One"
 	5CDF4D02428CEFD5EEA1FBB669567A35 = "Passable work, Miner! You will be a good fit for our operations, and Management will be pleased that they were correct in putting their faith in you. Return to base and let's get you into the fray properly. Press the button on the M.U.L.E. to call in the Escape Pod."
@@ -3857,6 +3900,7 @@ You will earn an HONOR BADGE and you will KEEP all progress on weapons, perks, c
 	3A49023D49669C27F3CD2899E980A8E5 = "Promotion Qualification - Gunner"
 	F86043E3460E000F7A2E75B25CC10B44 = "Promotion Qualification - Scout"
 	3D35AE1246D81902E6884F8281F0DD56 = "Prospector"
+	973D71F74965C33786C0C9898DA8DB26 = "Protection Time After Leaving"
 	7CE4083F464B7A52C42471A6C55B47AF = "Proximity Trigger"
 	7210F4FD414853F3D672ECA0C77495F6 = "Prs."
 	95275C9B475CA7865B7DD4B6232134A0 = "Pudo Shell"
@@ -3888,9 +3932,10 @@ JOIN"
 	0338C3054A70C29FD07535AE40EDB5B5 = "Quad Pickaxe"
 	5955496342E4D68BBEE85390FBC75697 = "Quantrite"
 	B0D52CD1414F0024FB175DAF791A9B99 = "Quantrite"
-	6BE7B5D9422CDDF960DD96B8FD1BDF64 = "Quick Deploy"
+	0568BA8F48530D1D4E6259B04C512310 = "Quick Deploy"
+	13AAE4D944AAD13BB200C4BEB06424F7 = "Quick Deploy"
+	A3D7306F46CD15C96CEE8CA2C3BDA571 = "Quick Deploy"
 	FD6EDA894206403458101AB8C11C05F0 = "Quick Deploy"
-	FD9C7A88490A3B0EE35F0DB8B4989250 = "Quick Deploy"
 	01F83FC04B82BB89A8CB63946E838CF8 = "Quiet, please."
 	7394E13A440D1AD36D1BD0A93B0B3889 = "Quota 50% achieved. Good job."
 	01FCC6B044B89A767304CEA6958764D8 = "Quota already met!"
@@ -3955,6 +4000,8 @@ JOIN"
 	E4E4D95A4F78B46199F5DE86B986C73B = "Recalibration of gravity is commencing!"
 	FA7DB98E41EC94BC0A461EBC2ADEE21B = "Recall Sentries: Hold"
 	10374DF344DA1706BD000F85A1661507 = "Recently deceased workers are not added to the memorial. But we honor them nonetheless!"
+	30E8BC0A41034977EB3DFCA6F883FAAD = "Recharge Count"
+	68A9679640ACA3C68162E2B91EED00E8 = "Recharge Time"
 	A41C20C54C4B47C5BD71B59AA9329EE6 = "Reclamator Helmet"
 	002F325142327853A68620911CA2D5F0 = "Recoil"
 	C0B38C464A486467E59A0AAFDA140E4C = "Recoil Compensator"
@@ -3984,6 +4031,7 @@ JOIN"
 	AC6CE04D479431221B4324A21939B47F = "Reduces how fast the weapon overheats when holding a charged shot"
 	C84678394F7FA93C9EA406A269995E72 = "Reduces the damage taken from poison."
 	83E2EA684FD79938D13434939A276900 = "Reeks of class. Or money. Either or, really."
+	794EEBF440B399A93901C6B8110F6AB4 = "Refill a turret's ammo faster."
 	761586C14EE3CCA7F69712804CE964F2 = "Refined"
 	3366355F4B8C52F96AF4E7A7314EDA8E = "Refined Plasma Flow"
 	EED843D84B53B9B82127A484C6996E00 = "Refresh"
@@ -4001,6 +4049,7 @@ JOIN"
 	B8A48C7145EF4BB4CD7B01ACDA8D9A33 = "Reject Invite"
 	EF85D40F433CDB5FC77513BA4ECAD05E = "Rejected!"
 	CDCEC88042CF9A3B9409D184848D81A0 = "Reload"
+	E5C7F9CF464A7ECC8596DCAABB89552D = "Reload Ammo Per Second"
 	E0370FFB4CA904EDB77FEDA7E4B2E5AE = "Reload Sentry"
 	682D13CF436099F0AD10D7AA8728DE79 = "Reload Speed"
 	14B374BA4708D00AFA2A0FA8C0020C0C = "Reload time -0.5 seconds"
@@ -4247,6 +4296,7 @@ MISSION"
 	C5377CF047C33035F213CCB51DA3E488 = "Senior Programmer"
 	FC7DDDAA45F8C62F1B756EA9D07D782B = "Senior QA Manager"
 	45B0820A47DBB0D1C035889E6B8FCDC6 = "Sentry #{Index}"
+	7DCF3F634FDD95C67DDA7CAE6D26874F = "Sentry Ammo Capacity"
 	4EEAB1CC43F33C841C95B1BBD13C3466 = "Sentry Gun"
 	538437774710F097E0155E8510920D7F = "Sentry Gun"
 	5D9F4F0942A0CBCAF875FC91CEAAEF6B = "Sentry Gun"
@@ -4297,6 +4347,12 @@ MISSION"
 	6661A69540A47C5038584D834DF32F89 = "Shield Regenerator!"
 	0706429B4444B40E3563A6B1FDA31F76 = "Shield begins recahrging early but the  charge rate is slow"
 	793D708D46738E302C364580BABF42A2 = "Shield begins recahrging early but the  charge rate is slow"
+	3A183DC64E4E049093A8FBB1611AAC3D = "Shield lasts longer"
+	487573FD41DDD5C96076FFABE643B725 = "Shield lasts longer"
+	25E40DDF440524E1784CF286F52A64E5 = "Shield protects a larger area"
+	EDA87CC141B48794B82996836E65A2EF = "Shield protects a larger area"
+	AF9CB524416C57C8A6306697BD33ADDD = "Shield recharges faster"
+	E80529BF451F422F8056B9B6FB14085B = "Shield recharges faster"
 	C9794CD74D900AFB615054A733BD9CBB = "Shield up!"
 	1B5A861E440E5C3DB544FAA04AD871BF = "Shield!"
 	A9911C0C40F804A5310DB78EFF2FF591 = "Shields placed!"
@@ -4333,6 +4389,7 @@ MISSION"
 	D0E809FE415757354E08C9A6C291E826 = "Show your gratitude or simply just tell your teammate how awesome they are!"
 	6F8E7DA142C073026E3E94BF12BF26D5 = "Shrapnel Rounds"
 	1D51B1B745E3A1B0D2F23E8D4336D337 = "Sick Enemies"
+	E21B6FE241EA30E885D8B8BEC824F6A6 = "SideBurns"
 	79D7327245D2EDDF1062F1BA8D28FDE8 = "Sideburn"
 	74B817F049005FEE695B2694908686FE = "Sign In changed"
 	ADFC64CD41433C1A817D5DB50257BE38 = "Sign up for our Steam Group below to join the Community and keep up to date with us as we continue expanding the game - and claim your free reward of 5.000 in-game Credits to give you a massive boost through your first days at work in the mines of Hoxxes IV!"
@@ -4343,6 +4400,7 @@ MISSION"
 	82D5760A4D36C73A04E752BDC5DE965D = "Simple"
 	E7A7EFB048FCFB08F921D9B8ED9C22ED = "Simulate players"
 	F3D06ABD4FBDDF040F74C7B3B3C5DDB7 = "Skeleton Crew"
+	0AC6F1114B92DBFA9C0750A19F31DF65 = "Skin Color"
 	DEBDCEFD4D3BFEC8E2C139BFF09E8063 = "Skin Name Goes Here"
 	46573B23423FDA0318A225832E2A872F = "Skin: "{Skin Name}""
 	F6A9665340F8EAFD2DF2939F833F21D9 = "Skip"
@@ -4418,8 +4476,10 @@ MISSION"
 	9E8C76B04813D0B0AAA63B863B1E9C0C = "Spawn Goo bomber"
 	E38CBCD0477740FFA23417BC284E47D6 = "Spawn Grunt Pack"
 	390811154CFCFBD7B1C75D8793B564F0 = "Spawn Infected Mule"
-	B29A02B141CD822255A6ACAE3F730A15 = "Spawn quake"
+	B29A02B141CD822255A6ACAE3F730A15 = "Spawn Quake"
+	D81FAE2149293D024CA7088014C79A00 = "Spawn Sand Storm"
 	4C93435147CA874F0F30F4BBF8AB0CDA = "Spawner!"
+	3D2018E5464DDB93CB224784CEA50171 = "Special"
 	C70C8E314426F21C5B4BC4AFE483E2D0 = "Special"
 	EA0B42734194A9C5FE3AA3A215351B50 = "Special Attack"
 	967F49E34511F4D109FBF18D7E79AE3B = "Special Incursions are now unlocked. Well done."
@@ -4435,6 +4495,7 @@ MISSION"
 	570233834C9A3EA9FB7DE99C36B2EE39 = "Spinup Time -0.3 seconds"
 	F11A713D400638403770249F8CC0CB00 = "Spitball Infector"
 	3E07E800427D520062C34DB7ECECF960 = "Spitball Infector Projectile"
+	509474ED4D573709D3A3818863279650 = "Spitball Infector Projectile"
 	73CEFA4D4DC2E76AC8A94AA786FA43A2 = "Spitball Infector Projectile"
 	9EA7C24843F105920BC2AAB6284DBCF3 = "Spitball Infector Projectile"
 	A12976504749AA7B993AD796BE225FF9 = "Spitball Infector Projectile"
@@ -4445,7 +4506,6 @@ MISSION"
 	8D69F0B4473B4F90F0BFFE938D1567F9 = "Square"
 	F7110389483D348830E18EB5487D3997 = "Sschlup schluup "
 	AF2D2FBF41BC8F5AC669EC96330FB5C8 = "Stagger target if all shots in a burst hit"
-	3CBD50924C75449D6D2192828A2204FB = "Staggering Hit"
 	0A4A0C224F251E3C1B48DC9F00F42165 = "Staggers creatures far from the blast"
 	2B422A4E4C4343967BCB83B7C1D461C5 = "Staggers creatures within the blast radius"
 	353184534B6F71258C875EB8F8ECB4A5 = "Staggers creatures within the blast radius"
@@ -4515,6 +4575,7 @@ MISSION"
 	B12099C64CA67C198F6C87AEC57A3C77 = "Strange bug here!"
 	1E7A69884E200D7DAF91A18D7FE5A6DA = "Strange thing!"
 	73DC2C284570F12CA9790D812A600EE1 = "Streamelined Integrity Check"
+	38432C1B42FB9E9EC7AE9ABBA4F97F25 = "Streamlined Integrity Check"
 	3A99A4B94110720A3415E0A4D6B56515 = "Strict NAT"
 	E5C74ED147632F98F5A66FB87D234EBD = "Strong"
 	5CBBEA9C464DC37807AC59B94A9A5C05 = "Strong Arm"
@@ -4540,6 +4601,7 @@ MISSION"
 	FCB673C4403BFE61CCA1ACBE54EA903D = "Super Blowthrough Rounds"
 	5ACF7561493BB07579C456915533907D = "Supercaliberballisticexplosialidocious!"
 	9054E6DF4C60C9712D8888804B7D2631 = "Supercaliberballisticexplosialidocious!"
+	AED7E5E040430A1BAEEDA3B57C6CFEF8 = "Supercharged Coils"
 	212BB9A846D499CB684FD291B585269B = "Supercharged Motor"
 	E6A81CED4A0D2ED94EA3F88FFBEE51C5 = "Superior dwarven engineering means you can cram even more bullets into your gun!"
 	5C21530C4D54C67AD029EAAA237EE6D6 = "Supplies are on the way!"
@@ -4629,10 +4691,12 @@ SELECT"
 	0D673C0B4DA57AB638B9C0BE47F3AA51 = "Take out that Mactera Grabber!"
 	11BBF9744B95BBE028D58DB779AEF6B0 = "Take precautions!"
 	C73025114FA5E25D51527D8F4131047E = "Take that!"
+	53F1A868424321F352FC509F0B62B588 = "Takes less time to build a sentry."
 	07A9F24C4E178E4548E66D918480CFE1 = "Tank Size"
 	A7390456445A5A88DAB362B53BEE2579 = "Tank Size"
 	6E38FBD54B1E774F2B95EDBF000A5439 = "Tanks are dry!"
 	15D059EE46A10501EBFBED9C8F28505B = "Target"
+	757D8A9549873873D92D07A85D0F2A79 = "Target Prioritisation"
 	14B0BF7B429451A7CA13068A643D989F = "TargetFound"
 	7227DB4E45CF05D9D3674AA3B55B838E = "Targets Explode"
 	D1F63CD14C6C5CBBABA9FE9C66A3DDFE = "Targets killed from direct damage has a chance to explode"
@@ -4651,7 +4715,6 @@ SELECT"
 	1BD2E05D457E49212DF5DE847998B11B = "Text"
 	37F2DFE440CF84EC0D3A1D894E907D4A = "Text"
 	BAA651EF4F25A6259BDCABB053ECD92E = "Text"
-	64078A604EAD890DB502AC88B4E962F9 = "Text Block"
 	1194A02B4C5A462BD2870E82679547DF = "Text46"
 	DDEA41514CD3F70125210DBA75E5A0E7 = "Texture Resolution"
 	5CE46EAA420AA488674B78B4459C2D29 = "Thank you for buying DEEP ROCK GALACTIC, and for being part of our journey!"
@@ -4724,6 +4787,7 @@ As stated earlier, ALL the Closed-Alpha keys will be revoked before launch."
 	49B9AE6C44B820C39293DCAFCEBD2AD8 = "The M.U.L.E. will automatically follow you after a while, but you can always call for it."
 	E8BEA7054EA9AB6ACB9AC7952D946C3D = "The M.U.L.E.'s are heading back. Follow them and let's get that Drop Pod fixed!  Remember you can always deposit on the side of the droppod!"
 	B607F04F45EF5FFAE8ACFFADA89026D8 = "The MK3 line of mining gear is top of the line, and even this cut-down version offers several improvements over previous suits. It features heavy-duty powercells built straight into the plating, as well as handy pockets for snacks - not to mention an FM-radio in the collar."
+	02D367C647443B7BC2BCF597B5F60EF4 = "The MK5 Gunner Suit bears several similarities to old-world tortoises, which is completely fitting. It is a suit for the discerning gunner, offering both protection, mobility, and handy guard rails for lesser dwarves to shiveringly cling on to while you lay down the law."
 	DCDA9DC949887F8DE364D3810121CC7B = "The Oily Oaf. A classic. While one of the lighter drinks available, the rich, buttery aftertaste coupled with the low price tag means the Oaf is here to stay."
 	BDC555B04347B711E259F19A7EC00A5F = "The Resupply is here!"
 	CDE0369F485F0684E9852696C226DC60 = "The Salt Pits of Hoxxes was once the location of a huge underground lake. It dried up billions of years ago and left huge crystallized deposits of red salt. Red salt - though worthless - tastes really good on Glyphid omelettes."
@@ -4775,6 +4839,8 @@ As stated earlier, ALL the Closed-Alpha keys will be revoked before launch."
 	F7A8E10240ECE2894E0771A20466B9BA = "The projectile explodes at the end of its lifecycle"
 	0B341780426D5E08CF8361A16B7DB179 = "The scanner just lit up like a christmas tree. We got a swarm incoming!"
 	D513566A466E768AE0768BAEA3C2EFA5 = "The seats in the Drop Pod are meant for employees only - not barrels."
+	008B3917490E42DC2F7802896ED7C91F = "The sentry can fire more shots before refilling."
+	0BA570FA44694F4556C5EC91253A803B = "The shield's protective properties  linger for a few seconds after you leave the shield."
 	96F13203494F014D1C9D70A44CED3D4C = "The size of the clip, the magazine or the tank affects the amount of projectiles that can be shot before needing to reload."
 	C9717D60437F9175FCF297A5BB04B8C1 = "The stream of incoming enemies is practically eradicated, and you're still alive. Well done!"
 	A6A1B8604498416ED8688BA6230F6489 = "The swarm is upon you!"
@@ -4974,7 +5040,6 @@ As stated earlier, ALL the Closed-Alpha keys will be revoked before launch."
 	2869C6C145037D634D8A2CAD9E3F54FF = "Tritium!"
 	E71CAE244D36CF328031A4A673BA29E5 = "Troels Jørgensen"
 	8040F61D483E03C188C39F81340B7285 = "Tumorous Growth"
-	FCF8DFC1427518DFEB21019A9726EEB5 = "Tumorous Growth"
 	F74083284F0C1321EA6ABA918D59E826 = "Tungsten Rounds"
 	116D233D41509BF5069A109CAD6A3A08 = "Tungsten!"
 	3415CA6F42A3077063615085CD9DFA69 = "Tungsten!"
@@ -5090,7 +5155,7 @@ As stated earlier, ALL the Closed-Alpha keys will be revoked before launch."
 	A6FCC3234C482F2C2566C29085D157AF = "Unstable Ice"
 	CFDDAB214B6DA680B1F3659D7E9F4438 = "Unstable Ice"
 	C2F6E14944027FE080FFBDA8F154153E = "Untouched"
-	B3C29C2D45F2DBB881CD33A2E5B4EBC4 = "Upgrade Gear"
+	526245574CD50194E47FB4B22916D051 = "Upgrade Gear"
 	A95D23FB4C3D83017928E8B1DF11544A = "Upgrade to Supporter Edition"
 	ABFAE684490081995B47F9A5545C8A5E = "Upgraded Capacitors"
 	0D9BDBDE4AFA74782B6A0A93AC848941 = "Upgraded Connection Joint"
@@ -5115,6 +5180,8 @@ As stated earlier, ALL the Closed-Alpha keys will be revoked before launch."
 	84B3BDF34F48A9A72DFB4C95F92CE62A = "Vampire"
 	29D9D3A244777CC6D876659F3E3B5FB4 = "Vandalism can and will result in a significant fine. Consider yourself warned."
 	9ECFA429464F135CAB2C5E9DE9270067 = "Vandalism of the decorations will not be tolerated and can result in detention! "
+	F363500342CA152C95DCE49955786D3B = "Vanity"
+	D5697E8248DD1C6E12330AA77E12B438 = "Vanity Type"
 	1ACEB567461C75D400D5D0905E6AD03B = "Vaporize it!"
 	F774521B4C88572CE16ADDBEA6E3FFC6 = "Variable Chamber Pressure"
 	0E54659E462ED2B0D1724FA30C0A6E59 = "Version: XXXXXX"
@@ -5369,6 +5436,7 @@ You can change these settings any time in the options menu."
 	BA163EEE4FD897577841958ABC33989E = "Whoever set those prices needs to get their ass kicked..."
 	4871F7A44B1C3A719DFF1DA13514B004 = "Whoopsy dooopsy!"
 	FDA996A344EF6F88EA7EDDBF5AB787F5 = "Why are you shooting at me, you slackjawed dimwit?"
+	5F4FCE9F42D8D9AB39C70DB1F7F2D1BD = "Widemouth Refill Port"
 	3C07D8E843B7824385C59B8C7E69CDE2 = "Wider Platforms"
 	D3A8B30F499CFCF8D0254A806A007048 = "Will probably get in the way but who cares!"
 	03E20E33421D936381FB10A84BDF1865 = "Wind up time"
@@ -5399,7 +5467,6 @@ Management"
 	DB37AE6549921FCBA0AF8CA1B7B77100 = "XP:"
 	9E75409545EBE3EC3B5BC3A01E004F60 = "XX:XX"
 	E785505044B9145971F7EBA0C8B099AC = "XXX"
-	1A893C9E4D656F6ECD85FAAD3A04935B = "XXX m"
 	033A71EB409CEECD2D754AAC20E5C885 = "Xbox club joined!"
 	200CDB03454FBFB06EEB4FA87041E671 = "Xenofungus"
 	2FD27A6843E305BB24D524990C2331FB = "Xenofungus"
@@ -5423,6 +5490,7 @@ Management"
 	78F0360B4B39BD42C1B5CBB03EA5933C = "Yeah, I don't so much "scout" as make this operation possible."
 	D0C5284742C2B2C44B03B7A9E294FEC0 = "Yeah, I got a grappling hook. Whatchu gonna do about it?"
 	3A34BF7C423F889B999A0DAAE9FD2303 = "Yeah, let's do better next time!"
+	1170235149AF9685F48E1AAD2A211268 = "Yeahh"
 	B7957532485EEF8CF0E65F824BF12A67 = "Yeahh"
 	5812FE9B4B3AEA03559878846EC74DE9 = "Yeahh!"
 	5F5BB83745695747D23B8F8F7BB69251 = "Yeahh!"
@@ -5469,7 +5537,7 @@ Management"
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "You are trespassing! Please turn around and get some work done!"
 	B7D2007C461E925E99F54AAFE707165D = "You are trespassing! This area is off limits to regular miners!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "You boys better be better miners than you are dancers."
-	E715C48B459168248821088AC6F1734A = "You can carry more ammo for the Sentry Guns"
+	3D3C544D44A11B598935C28FA7F84F6F = "You can carry more ammo for the Sentry Guns"
 	31F3363F4BF2123346998D856F226E8A = "You can carry more ammo with you into battle."
 	FD657B3B481B306FD255C4AE8780566E = "You can kick barrels harder than any Dwarf who does not have this perk!"
 	32E67FE9406320B0C0226FA6475494C3 = "You can point at things with your Laser Pointer and draw your team mates attention to points of interest."
@@ -5641,6 +5709,7 @@ Note: This option does NOT restrict character selection on the Space Rig!"
 	57FC7CA44CED73E8D8E44589B217CE12 = "has ordered a resupply pod!"
 	7339F7F04CFD0D2CBBFBB8A71CA7CF75 = "here's <bold>some</> text <img id="smiley"/>"
 	86541B0A40CCE476E706A1A30915654F = "hmmhhhrhhh!"
+	CAD43EEE45309A742AF88AA234B3996C = "hrmm "
 	D12EA8F6413DEC0338403682DB15C0FA = "hrmm "
 	2AC2BC1B48A7771689F079A466E8EB83 = "hrmmhrhhhr!"
 	E4BB53BC45BCF0949E4F16912BAD82E3 = "https://discord.gg/DRG"
@@ -5665,11 +5734,23 @@ Note: This option does NOT restrict character selection on the Space Rig!"
 	B04D9DF947D4728DAE93018868F37D86 = "yeahha!"
 	D25987CC487F61E029BA7D826BCFED72 = "yeahha!"
 	7BD55EB94DA3871F2D7F0E846B24C461 = "{0}  donated 80 Nitra!"
+	80F37BFF4033D23B2811D7BF582DEF1E = "{0}  has ordered a Dark Morkite!"
+	7EE2FE3043C9034369D8DE92E19411CD = "{0}  ordered a Leaflovers!"
+	7ACDF0E54D9D382EE07DC2AC574A2FDB = "{0} gave you all full ammo!"
+	319416B74C6A52A88030D4A1FCAD35D4 = "{0} has ordered a Gliphyd Slammer!"
+	2F27FAC44848CBBBCEF00F8471D86751 = "{0} has ordered a Red Rock Blaster!"
 	F354574840C59FBC38BA7AAB38B76F05 = "{0} healed you!"
+	2DFB160546271DD5921A278EF318006F = "{0} spawned 2 Glyphid Acid Spitter!"
+	A6CB31ED4FFF92A958E8CC90ADE02760 = "{0} spawned 2 Glyphid Web Spitter!"
+	985627B24193E0E012C00697D38B0434 = "{0} spawned 2 Mactera Spawn!"
 	EDDF00A14025884C10E0CF8FF51328F2 = "{0} spawned 3 Glyphid Praetorians"
 	2A28CAE6448EE9D6B7C4EEA91070071B = "{0} spawned a Glyphid Dreadnought!"
+	A55C637A41EA819F8F03F49291FEF98E = "{0} spawned a Glyphid Grunt!"
 	94F849C443D5C265BA3136A8C30EDD8E = "{0} spawned a Loot Bug!"
-	A55C637A41EA819F8F03F49291FEF98E = "{0} spawned a grunt!"
+	12508FAC412AD508EA18E8AFBEB092FA = "{0} spawned a Mactera Bomber!"
+	60BE8C5248B74D70FFFFFA9FC26564D0 = "{0} spawned a Mactera Grabber!"
+	49204DBD42AC753534ED7CAF46477781 = "{0} spawned a Shellback!"
+	604D0A23468E97AB5DF061A9DF5BEA27 = "{0} threw confetti up in the air!"
 	150CA1B2478EAE9692F4A2A9B4902BC9 = "{0} {level}"
 	7FC177B945BD25078AB3E6A86999F0AE = "{Current} / {Total}"
 	F82A86544F0D5422858FEE895287FD58 = "{Data}:"
@@ -5699,9 +5780,10 @@ Note: This option does NOT restrict character selection on the Space Rig!"
 	D8895C264F44EBCC27A02587BD9DE59D = "{percent}%"
 	431ED5D34AD665D6533C4F8CFCAD0F7E = "{ping} {0}"
 	533EE6F94B160B14259FA38874DDC88D = "{text}:"
-	788888424461E45DA7931EA42A6CA18F = "{value} {unit}"
+	31660647465D1EF0615DA1993191BB26 = "{value} {unit}"
 	842C4AFE4D8A01633BA906B37D033AA3 = "{value} {unit}"
 	A71FA8654E647CF9393EA3BA24E7A36E = "{value} {unit}"
+	C154C24F4696EBADD1458BB5A0F558AD = "{value} {unit}"
 	C777823E4E0F7B660E07D993DFABC267 = "{value} {unit}"
 	CFEE090B46AB9414E12099BD0BF8212E = "{value} {unit}"
 	EC4E3C574DA8C29B444D4BAC553263BB = "{value} {unit}"
@@ -5709,46 +5791,8 @@ Note: This option does NOT restrict character selection on the Space Rig!"
 	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Sorry, this was meant to be a private game.”"
 	1E90675449F7DE82A5F809A0AF0814C1 = "▼"
 
-Namespace [/Script/FSD] (27 keys)
-	736F31C8400B0D301672149F62B3D0EA = "Authorized Miner"
-	425433424CD61C41FF201F8AFDC1D927 = "Elite Miner"
-	C376F0C142C836C9DB6A71A1FB556D2D = "Elite Miner"
-	04885E9645973670747FCBA06F079F4E = "Expert Miner"
-	7E73045D4394814A84FF2E8213211A4B = "Expert Miner"
-	6C63A76A4D93C0A8A23746BD3AAFCF16 = "Greenbeard"
-	000659A84215FF81E92BADB73F941FB6 = "Legendary Miner"
-	5F82D00841F03281C128479526C557C8 = "Legendary Miner"
-	6D96EAFF4415DC0D119CA997BB30F791 = "Legendary Miner"
-	70EDC4CB4AFA9BDED5E2D4B9FAA037CC = "Legendary Miner"
-	9221E2B840CAFC4B4DD1399660B73288 = "Legendary Miner"
-	BA60A657425BC669F4E59B9911CBB6A7 = "Legendary Miner"
-	ECBEE1D94B9AAF71FAB95DA3AA05C2D9 = "Legendary Miner"
-	0DD3E45C4C1E6AD379417C922633499D = "Lord of the Deep"
-	A95A9D324D63C66DFE36C286FDD7C7CA = "Master Miner"
-	C8220ABB46C68ED988D81B9724FF28D4 = "Master Miner"
-	5C169DF7469AAB0B5F00B89FEBE26451 = "Professional Miner"
-	FB1B0DC64F3D73C3F994158DDA992A03 = "Professional Miner"
-	796977224BA54746E5579E850E590234 = "Rookie Miner"
-	B4E63ABD4AB3FB9185FCCC8E54F4D71E = "Senior Miner"
-	34A706AD4E2C304F5C3DFFA5969FCC69 = "Supreme Miner"
-	C1D3B27249B9F0403E342E850C30CE28 = "Supreme Miner"
-	AA53A92E4016BAC833FB7A8847B7B06F = "Ultimate Miner"
-	CCF9ACFA42DA2F205AFA3594E8A858C7 = "Ultimate Miner"
-	FF3DBBF6450EAFF31BFEB0B514673E0B = "Ultimate Miner"
-	065E398D453B7309A82A4387F0D1061C = "Veteran Miner"
-	4B55CC4E4F1CEF12A1FA8D9253C9B35E = "Veteran Miner"
-
 Namespace [3BEB23BA4E78A0E98FAC8F9F5A078653] (1 keys)
 	E6C290DA4493A7CAE570E0AE29454EEF = "Molly"
-
-Namespace [549A31CD4D1F52DD389F629ABE70C645] (1 keys)
-	B2AB376749FF37B1F6C3BC9323108209 = "Drop Pod"
-
-Namespace [B46C50E5440F2B992D3C7F868709F288] (1 keys)
-	97F57C9F48C6B190F268138007432026 = "Drop Pod"
-
-Namespace [C224757A4A89B00671BAE2B133BCF435] (1 keys)
-	841F9B17491CE5B3EE4035BB1EED8A4F = "Drop Pod"
 
 Namespace Audio (3 keys)
 	Volume_Master = "Master"
@@ -5767,11 +5811,179 @@ Namespace Gear (7 keys)
 Namespace Inventory (1 keys)
 	Full = "Full"
 
-Namespace Missions (2 keys)
+Namespace Missions (3 keys)
 	1A529F4C4EFB003AE422AABE7B47CAF6 = "Objectives Complete, Drop Pod can be called in on the M.U.L.E!"
+	682A9B9D4909165730B2F988308E0BA3 = "Objectives Complete, Drop Pod can be called in on the M.U.L.E!"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "Objectives Complete, Mining pod can now be called on the M.U.L.E"
 
-Namespace PatchNotes (49 keys)
+Namespace PatchNotes (52 keys)
+	Update_23 = "Alright, Miners - gather ‘round and shut up!
+
+It appears ol’ Hoxxes still has plenty of surprises in store for us - over the last month or so, Scanners have picked up a slew of new and disturbing biosigns. We expect you all to face a significantly wider variety of wildlife down in the caves, so DOUBLE CHECK YOUR GEAR, and BRING ALL THE GRENADES YOU CAN CARRY. DRG isn’t in the business of being knife-eared cowards though, so get to it, and let’s get those quotas met!
+
+With regards from Management,
+- The Ghost Ship Crew
+
+--- PATCH NOTES ---
+
+A GAZILLION NEW ENEMIES
+-----------------------------------
+GLYPHID MENACE
+- This distant cousin of the Glyphid Acidspitter is both smarter, faster, and more aggressive. It’ll burrow into the ground between firing off devastating volleys of corrosive goo, making for a high-priority target when spotted.
+
+GLYPHID WARDEN
+- This mysterious Glyphid sends out waves of spores to its nearby kin, reinvigorating and buffing them. Better take it out quick.
+
+GLYPHID BULK DETONATOR
+- A sickening horror of the deep. It’s Bulky and it Detonates. You’ll know it when you see it - and then you’ll likely die. You have been warned.
+
+NAYAKA TRAWLER
+- The first species encountered of this awful breed of Hoxxes wildlife. The Trawler has been observed in the Sandblasted Corridor Region and it burrows through sand at high speeds, aiming to catch prey in its’ extended maws as it passes. Don’t stand in front of it. 
+
+GLYPHID GRUNT SLASHER
+- A more durable version of its weaker cousin, the Grunt. Plus...its long-bladed legs deal thrice the damage. Nasty buggers
+
+GLYPHID GRUNT GUARD
+- Another variation of the Glyphid Grunt. This one is heavily armored and has twice the health.
+
+RADIOACTIVE GLYPHID PRAETORIAN
+- In the Radioactive Zone, Praetorians have mutated and now do radiation damage! Better keep your distance.
+
+RADIOACTIVE GLYPHID EXPLODER
+- Exploding with radiation! ‘Nough said! 
+
+RADIOACTIVE GLYPHID SWARMERS
+- They glow in the dark and are radioactive - they’re small enough that the radiation they emit isn’t enough to affect a healthy dwarf, however. 
+
+
+ENEMY TWEAKS
+-----------------------------------
+GLYPHID DREADNOUGHT OVERHAUL
+- New behavior: If the players are hidden in a small hole, the Dreadnought will now destroy the terrain until it gets to them. Can’t stop me now!
+- New attack: Swarmer Egg. Besides the fireball, the Dreadnaught will shoot a projectile full of swarmers. If hits the players, it will also cover them with pheromones, turning them into the target of new enemy swarmer spawns.
+- Regenerating armor. Make sure to attack it while it’s vulnerable. Health values have been modified to conform to this new system.
+- An all-new Boss Health Bar lets you know when you are facing a serious challenge. For the moment it’s only for the new and improved Dreadnought, but it’s almost like we have plans to use it for more things in the future, isn’t it? :>
+- Fixed the bug that would allow you to trap the Dreadnought using the Gunner’s shield
+- All its attacks and behaviors have been tweaked. The Dreadnaught is now more aggressive, more responsive, and more dangerous. Management wishes you luck.
+
+Q’RONAR SHELLBACK
+- Rolling periods are now shorter so it will open up more often to shoot (which almost means more chances for players to shoot it).
+- Armor resistance and base health reduced.
+- It can only be found in Salt Pits now. Radioactive Exclusive Zone didn’t feel like a healthy place to settle down.
+
+CAVE LEECH 
+- Received a much-needed model and animation overhaul. Now grabbier than ever!
+
+NAEDOCYTE SHOCKERS
+- All new model and animations. 
+
+BET-C BATTLE MULE
+- BET-C’s grenades have proper models and improved shaders
+- BET-C now moves away if there are players too close to her for a few seconds
+
+MISCELLANEOUS ENEMY TWEAKS
+- Enemies now only use melee attacks that are in range to actually do damage
+- Glyphids have received several new attack animations
+- Glyphid Warriors have been renamed to Glyphid Grunt, because that’s what everyone kept calling them. Also, it fits. :>
+
+
+MISSION TWEAKS
+----------------------------------- 
+DIFFICULTY
+- Difficulty slightly reduced on 2-3 player games on Hazard Level 3-5
+
+ELIMINATION MISSION
+- The location of the cocoons will no longer be displayed using an icon, now they appear on the terrain scanner
+- Cocoons are more evenly distributed throughout the map
+- New debris has been added in the vicinity of the Cocoons, in case you had trouble spotting the 15 ton, pulsating, gurgling, alien egg
+
+SALVAGE MISSION
+- Defense Zones have been increased a bit in size
+
+EGG COLLECTION
+- Reduced Egg Collection goals depending on Cave Complexity from 5, 8, 10 to 4, 6, 8 
+
+POINT EXTRACTION
+- Slightly increased spawn rates
+- Wave music added to the announced waves
+
+
+CLEARER GEM FRAGMENT INDICATION
+-----------------------------------
+- The glowing bits around embedded crystals like, Aquarq, Jadiz etc. now only glow when said item is close. No more returning to already mined spots!
+
+
+MORE GEAR MODS
+-----------------------------------
+- We are still in the process of adding mods to all the gear and we are slowly getting there. After this update, only the Pick Axe, Flares and the Grenades are left to do. 
+
+LMG GUN PLATFORM
+- Number of turrets, target prioritization, build speed, scan angle. You are a special snowflake and now your automated killing machine can be too.
+
+SATCHEL CHARGE
+- Have you ever thrown down a Satchel Charge only to regret it immediately? Well, now you can install a kill switch for safe disarming and retrieval. Plus many other mods like carve size and fear effects.
+
+FLARE GUN
+- More flares? Longer burn time? Auto-reload? Illuminate the situation with these and other mods.
+
+SHIELD GENERATOR
+- Customize the size, duration and recharge time of your happy place.
+
+Please note: You have been refunded credits and minerals invested in previous upgrades!
+
+STATUS EFFECTS ON HEALTH BAR
+-----------------------------------
+Enemies’ health bars now display status effects such as being electrocuted, etc. They also show temperature variations so players can now know how far from bursting into flames or freezing they are.
+
+
+VANITY
+-----------------------------------
+MK5 ARMOR SETS
+- Management has approved the introduction of an all-new set of armor for the most experienced employees to procure - the mighty Mark 5! 
+
+1ST PERSON ARMOR
+- All first-person animations now display the correct armor!
+
+SUPPORTER GEAR MORE GOLDIER
+- By popular request, the Supporter Upgrade Armor and Weapons have gotten a material overhaul - now more goldier than ever!
+
+
+BOSCO QUALITY OF LIFE IMPROVEMENTS
+-----------------------------------
+- It will now try to position himself below cave leeches, and not above them
+- It will be less glued to the floor when fighting except versus cave leeches
+- It will not fire if something other than enemies is blocking his line of sight
+- Doubled the frequency of Bosco checking if he should get out of the way
+
+
+NEW MISC MODELS, SHADERS, AND ANIMATIONS
+-----------------------------------
+- New Mallet model for all your building and repair needs
+- New Beacons for Supply Pods
+- New third person animations make it easier to see if a teammate is currently checking the Terrain Scanner
+- Attempt to fix light bug on Stasis Grenade
+
+
+MISC.
+-----------------------------------
+- Fix crash related to people joining and being immediately grabbed
+- Added a third-person animation to players looking at the Terrain Scanner
+- Fix spelling error in Mini-gun upgrade
+- Fix DisableMasterEQ setting to work correctly 
+- Work on reducing server list backend load
+- The Cryo Cannon’s feedback sounds have been made louder and easier to hear
+- The One Year Celebration is over! If you missed getting the One Year Celebration hat while it was available, tough beans! 
+- Also, Management has returned beer prices to normal. Drink responsibly (because it’s expensive!).
+- Sand and Ice geysers should no longer blow you out of the Drop Pod
+- Fixed Mixer Praetorians not working properly
+- Fixed Mixer spawning 4 times the amount of enemies it was intended
+- Fixed Mixer viewer name not properly working
+- Introducing new enemies to Mixer integration: Mactera Spawn, Mactera Grabber, Mactera Bomber, Acid Spitter, Web Spitter, and Shellback
+- Introducing new assists to Mixer integration: Resupply of ammo
+- Introducing mixer integration in the Space Rig: Buy the streamer beers, explode confetti
+- Exploders’ footsteps sound volume increased
+- Reduced the spawn amount of radioactive crystals
+"
 	Update_20.1_ShortTitle = "BIGGER, BETTER, BOSCO"
 	Update_20_ShortTitle = "BIGGER, BETTER, BOSCO"
 	Update_11_ShortTitle = "DEAD AND GUN"
@@ -5818,6 +6030,7 @@ FIXES AND IMPROVEMENTS
 - Fix for cursor disappearing on campaign reward window.
 "
 	Update_18.5_ShortTitle = "HALLOWEEN"
+	Update_23_ShortTitle = "HORRORS OF HOXXES"
 	Update_20 = "Happy Holidays Miners! 
 
 X-MAS has come to Hoxxes and we are bringing you a gift just in time for the Holidays!  Furthermore, we’re happy to announce that it’s not a soft one! Actually, it’s loaded with HARD mods for Bosco, a Medibay, Revamped Weapon Models and a gazillion other cool features! 
@@ -7292,6 +7505,7 @@ FIXES AND IMPROVEMENTS
 	Update_20_Header = "UPDATE 20: BIGGER, BETTER, BOSCO"
 	Update_21_Header = "UPDATE 21: GOING LETHAL"
 	Update_21.5_Header = "UPDATE 22: ONE YEAR IN ORBIT"
+	Update_23_Header = "UPDATE 23: HORRORS OF HOXXES"
 	Update_9_Header = "UPDATE 9: DRILL YOU LATER!  -  09.03.2018"
 	Update_16_ShortTitle = "WINTER HAS COME"
 
@@ -7327,7 +7541,7 @@ Namespace ST_GearUpgrades (53 keys)
 	T_ClipSizeA = "High Capacity Magazine"
 	T_LoadedShells = "High Capacity Shells"
 	T_DamageA = "High Velocity Rounds"
-	D_StaggerChance = "Hit 'em so hard they can't recover! Every shot you fire has a chance to stop the target in it's tracks."
+	D_StaggerChance = "Hit 'em so hard they can't recover! Every shot has a chance to stop the target in it's tracks."
 	D_WeakspotDamage = "Hit 'em where it hurts! Literally! We've upped the damage you'll be able to do to any creature's fleshy bits. You're welcome."
 	T_WeakspotDamage = "Hollow-Point Bullets"
 	T_RoFB = "Improved Gas System"
