@@ -1,5 +1,5 @@
 16 namespaces
-2424 values
+2426 values
 
 Namespace Global (2833 keys)
 	2559D78C40005E5221F26093CB976283 = " Verzamel {Collected} {Required} {Title}"
@@ -2923,7 +2923,7 @@ Namespace Inventory (1 keys)
 
 Namespace Missions (0 keys)
 
-Namespace PatchNotes (20 keys)
+Namespace PatchNotes (21 keys)
 	Update_23 = "Alright, Miners - gather ‘round and shut up!
 
 It appears ol’ Hoxxes still has plenty of surprises in store for us - over the last month or so, Scanners have picked up a slew of new and disturbing biosigns. We expect you all to face a significantly wider variety of wildlife down in the caves, so DOUBLE CHECK YOUR GEAR, and BRING ALL THE GRENADES YOU CAN CARRY. DRG isn’t in the business of being knife-eared cowards though, so get to it, and let’s get those quotas met!
@@ -4067,6 +4067,163 @@ MINOR FIXES
 - Changed Item scale in first person so that they clip less with other objects."
 	Update_15_ShortTitle = "MUTATION WARNING!"
 	Update_17_ShortTitle = "OKTOBERFEST!"
+	Update_24 = "Take your seats, Miners! 
+
+We got new grenades, eye candy, personal drop pods, a bunch of new enemies, and a TON of gear tweaks to brief you about, so grab a brew and listen up! 
+
+Also - look out for the [COMMUNITY REQUESTS] - these are things you guys have been very adamant in talking about and bringing to our notice, so keep up the good work! It is, as always, very appreciated. :D
+
+--- PATCH NOTES ---
+
+GRENADE LOADOUT
+-----------------------------------
+The boys and gals in R&D have been hard at work once more! All the old grenades have been reworked, and a ton of new ones have been added. Each class can now unlock up to three distinct types of class-specific throwables, with the potential for more to come in future Updates.
+- Engineer: L.U.R.E, Plasma Burster, Proximity Mine
+- Gunner: Sticky Grenade, Incendiary Grenade, Cluster Grenade
+- Scout: IFG, Cryo Grenade, Pheromone Canister
+- Driller: Impact Axe, HE Grenade, Neurotoxin Grenade
+
+
+LOADING SCREEN MAKEOVER
+-----------------------------------
+We’ve finally gotten our new orbital drone cameras installed, enabling much better and varied scenic views of mining crews descending to the surface of Hoxxes at the beginning of each mission.
+
+
+END SCREEN MAKEOVER
+-----------------------------------
+The End Screen shown at the end of each mission has gotten a much-needed overhaul as well. Now you get to pose and display all your lovely cosmetics in full 3D while the mission data ticks up!
+
+
+STEAM ACHIEVEMENTS
+-----------------------------------
+They’ve been a long time coming, but they’re finally here! 50+ Steam Achievements have been added to the game, ready to be unlocked! We’ve strived to make them retroactive anywhere it made sense.
+
+
+NEW MOBS
+-----------------------------------
+NAEDOCYTE BREEDER
+Imagine a floating bag of slime, constantly spewing out pulsing egg-sacks full of ravenous young. They may look like gentle giants (depending on how much you like tentacles), but trust us when we say you want to take these oozing blimps out quick.
+
+NAEDOCYTE HATCHLING
+The result of leaving the Naedocyte Breeders to do their thing. We’ve run into more developed varieties of these before, but this is the first time we’ve ever encountered them in their larval state. They are hatched ravenously hungry, so mind yourselves that you don’t get overrun.
+
+Q’RONAR YOUNGLINGS
+Younger and softer variation of the Shellbacks. Unlike their more solitary-minded mature state, the Q’ronar Younglings hunt in packs. Do not underestimate them.
+
+GOLDEN LOOTBUG
+Now, this is an interesting one. Unlike the common Lootbug, this particular breed gorge themselves on gold alone. Management has no qualms with employees taking them out for sport and personal gain. 
+
+HUULI HOARDER
+This rare beastie seems like a bit of an oddity among the otherwise mostly hostile Hoxxes fauna. Often referred to as “The Clown Car”, the Huuli Hoarder is an abject coward and will run away from any potential threat once startled. However, like the common Lootbug, they subside solely on a diet of precious minerals - as in, taking them out will net you a tidy profit, just take care that you don’t let it separate you from your team.
+
+
+LATE JOIN DROP POD
+-----------------------------------
+[COMMUNITY REQUEST] Let it not be said that Management does not care about employee complaints. Joining a mission already in progress now dumps you into a personal drop pod, letting you safely land in the mission area instead of utilizing the horribly unreliable teleportation technology used so far. As with the Supply Pod, it is recommended to keep a safe distance to the landing zone. 
+
+
+BETTER DISCORD INTEGRATION
+-----------------------------------
+Sign up for the Miner’s Union and join our wonderful Discord community directly from the Space Rig! We have bigger plans for this down the line, but for now, you can use it to see the number of active members and such.
+
+
+MISSIONS AND ASSIGNMENTS
+-----------------------------------
+- [COMMUNITY REQUEST] The Mission Map now displays Assignment Icons for every team member, making it easier to choose which missions to go on.
+- [COMMUNITY REQUEST] The Hazard 5 Unlock Assignment now requires you to play the associated missions on Hazard 4 difficulty
+- [COMMUNITY REQUEST] Dwarves leaving a game will now drop a resource pouch with any materials they had in their inventory
+- [COMMUNITY REQUEST] Added an option to opt Bosco out of solo missions at the Drone Modification Terminal
+
+
+UI AND CONTROLS
+-----------------------------------
+- Personal Temperature HUD overhaul
+- [COMMUNITY REQUEST] Added option to disable Mouse Smoothing
+- Improved gear stats display in the Equipment Terminal
+
+
+PICKAXE POWER ATTACK
+-----------------------------------
+Surrounded by awful bitey things? Let them know how you feel about that! While having your pick out, hit Fire to unleash a devastating Power Attack. There’s a cooldown on it, so spend it wisely.
+
+
+MODELS AND AUDIO
+-----------------------------------
+- New Heavy Sentry model for Engineers
+- New Sentry models for the Minehead
+- New Floodlight models for the Minehead
+- Several new enemy and weapon sounds
+- New Hoxxes model shown on Space Rig
+
+
+GEAR TWEAKS
+-----------------------------------
+PICKAXE
+- Fixed the Q-mining exploit
+
+“THUNDERHEAD HEAVY AUTOCANNON
+- Fixed a bug with Autocannon fire rate not resetting
+- Fixed Autocannon lighter barrel assembly mod
+- Tweaked Autocannon fire rate to increase in a more linear manner
+- Removed Stun mod
+
+“LEAD STORM” POWERED MINIGUN
+- Decreased Stun mod chance
+- Decreased Stun duration
+- Fixed Aggressive Venting modification to properly function as client
+
+DEEPCORE GK2 
+- Renamed Stagger to Stun
+- Gear stats now display the weapon's stun on weak point hit functionality correctly
+
+EXPERIMENTAL PLASMA CHARGER
+- Renamed Normal Shots Bounce mod to Bouncy Plasma
+- Renamed Charged Projectile Explodes mod to Unstable Containment Field
+- Increased Radius and Damage of Unstable Containment Field implosion
+- Fixed some EPC shots doing "generic" damage
+
+“BULLDOG” HEAVY REVOLVER
+- Removed Stun Mod (anyone who purchased it will get a refund)
+- Added stun chance as an inherent property of the gun
+
+JURY-RIGGED BOOMSTICK
+- Stun Mod proc chance increased
+- Tungsten Pellets Mod armor damage multiplier increased
+- Blast Wave description made more clear (hopefully)
+- Blowthrough Mod changed to Super Blowthrough (can penetrate multiple targets)
+- Fixed Blast Wave mod to work consistently
+
+ZHUKOV NUK17
+- Removed the Stun mod (anyone who purchased it will get a refund)
+- Rearranged some of the other mods to better balance the potential builds
+- Increased the accuracy penalty while moving
+- Increased the speed with which accuracy is regained
+- Decreased accuracy spread when shooting
+- Increased Tier 4 Expanded Ammo Bags mod from +100 to +150 ammo
+
+M1000 CLASSIC
+- Added a tutorial hint for Focused Shot
+- Fixed Stun modification to work properly
+
+BREACH CUTTER
+- Fixed the Breach Cutter so it no longer damages the player if fired directly downwards
+
+
+MISC TWEAKS
+-----------------------------------
+- Deeptora Honeycomb is no longer immune to fire
+- Glyphid Praetorian acid gas can now be lit on fire again
+- Fixed cases of mission weapon assignment completed not being counted correctly
+- Fixed some invisible colliders in levels displaying as ‘Unknown Material’
+- Credits pages now change properly
+- Fixed a bug that caused a floating Shield Generator or Satchel Charge to appear at the - location of the spawn point
+- Fixed some bugs related to saluting while reloading
+- Fixed certain armors that caused the player’s arms to be invisible at the beginning of a mission
+- Fixed the revive progress bar so it no longer stays on the screen if another player starts and cancels the revive process
+- [MIXER Interactivity] Resupplying Ammo now works
+- Super Blowthrough modifications changed from 10 penetrations to 3 for all weapons that have them
+- Added a failsafe for Shield Generators that fail to deploy
+"
 	Update_11_Header = "UPDATE 11: DEAD AND GUN  -  23.03.2018"
 	Update_14_Header = "UPDATE 14: FEATURE CREEP - 15.06.2018"
 	Update_15_Header = "UPDATE 15: MUTATION WARNING! - 04.07.2018"
@@ -4185,9 +4342,10 @@ Namespace ST_GearUpgrades (5 keys)
 	T_StaggerChance = "Stun"
 	D_ClipSizeA = "The good thing about clips, magazines, ammo drums, fuel tanks ...you can always get bigger variants."
 
-Namespace StatValues (14 keys)
+Namespace StatValues (15 keys)
 	AccuracyWhileMoving = "Accuracy While Moving"
 	ArmorDamageMultiplier = "Armor Breaking"
+	RadialRange = "Effect Radius"
 	FocusedShotFearFactor = "Focus Shot AoE Fear"
 	FocusedShotDamageBonus = "Focused Shot Damage Bonus"
 	FocusedShotStaggerChance = "Focused Shot Stun Chance"
