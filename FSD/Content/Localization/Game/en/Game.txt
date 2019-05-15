@@ -1,7 +1,7 @@
 16 namespaces
-4727 values
+4730 values
 
-Namespace Global (5868 keys)
+Namespace Global (5874 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        reset        "
 	2559D78C40005E5221F26093CB976283 = " Collect {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " I Fell!"
@@ -237,7 +237,9 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	C7962BE54367A88EA7181D8F8D10C1CD = "20M"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
 	34E9C17149E0544F4C02FB930C555046 = "25"
+	C8C8FA844A598EED7A8CDF865E490061 = "25"
 	7FB217F84E32C73CEA0D3FA40996ECF7 = "254"
+	F1F5624A461A1AB5105DC7B4EBF333B4 = "3"
 	FE9692E84DAA6BE7E6600FB5D388627C = "3"
 	C4074DC14285A41787355CA8FC85F54B = "3...2...1...heading for orbit."
 	54BDDF7F41A853E640B6A69D9FADAB31 = "3.4"
@@ -267,6 +269,8 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	22F656894A40134D5B2E639A9123E0C4 = "5M"
 	3C0683FB4388F5D46ABEB48940D59946 = "6"
 	8A2374214CE5A3A0B4CBD3B911E5D1A1 = "6"
+	F4D0ED8F450D8A58458103BFB5763227 = "6"
+	ED2269A84C2EB5B6445102B1E59652F3 = "7.5"
 	8D0264F44BB72A9B5C7606897F346A5D = "75%"
 	C5837C0E4FEA824B3B62749063D03F98 = "8"
 	4481267D4D9CE4FF894F86AF991A6126 = "99"
@@ -1084,12 +1088,12 @@ Selection"
 	1F9EFFC54DA5C2B3F1202A8EA770E94E = "Complete more Campaign missions to unlock this planetary zone."
 	30E886374D703DA855B11AAB54C3B7D8 = "Complete the Tutorial Mission"
 	866996BF4B3EFAB21BDE07BF2AC5C53B = "Complete the Weekly Assignment and earn yourself a nice, fat bonus! "
+	C5850CB4456B81F771CBCF9AD0B137BF = "Complete this assignment on Haz 4 to unlock Hazard Level 5. Haz 5 is more brutal than any of the other difficulties and is meant to only challenge the best of the best...as the saying goes. Get ready to die - Play Haz 5! "
 	615B4ABB499CB21DC550E38EADA238DA = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
 	83081D9843C33EC34691B0929E1FDA5C = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
 	A865D80D4B531828EB8F83AFAE93195D = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
 	D259E88A4D157F88E20DEBBD15E6CACB = "Complete this assignment to become eligible for promotion. You will recieve your promotion from the Character Selection terminal. Getting promoted is the only way to earn HONOR BADGES and level Player Rank once your character is maxed out!"
 	038BE4D54F6B0B0C653786B20B625629 = "Complete this assignment to gain access to the Mineral Trade Terminal. Conveniently located in the Launch Bay, this terminal allows you to sell and buy minerals."
-	C5850CB4456B81F771CBCF9AD0B137BF = "Complete this assignment to unlock Hazard Level 5. Haz 5 is more brutal than any of the other difficulties and is meant to only challenge the best of the best...as the saying goes. Get ready to die - Play Haz 5! "
 	BC046F2B46846F82B0CBF5B5984967D7 = "Complete {value} 'Cave Leech Cluster' Warnings"
 	8C82B21F48B6FEA19AA7D1990445B21E = "Complete {value} 'Exploder Infestation' Warnings"
 	9CE32A174ADB3C2BCC5E55940D210844 = "Complete {value} 'Mactera Plague' Warnings"
@@ -1302,6 +1306,7 @@ Management"
 	0CB3B9E24A8C84A23840C2BF52BEF603 = "Damage"
 	3CDED292467CC3EFD2E70988E1EA7C1D = "Damage"
 	75546D1F46A042A26EEC15A2E30BF535 = "Damage"
+	92BC9D5C4894822B75583B92DE168664 = "Damage"
 	ADD9F31D4053CA45ECAFBE8A34C1B955 = "Damage"
 	8A8972C446EC1139347526B60B289F83 = "Damage % as Fire"
 	84C75144421AC4802E4EBE92A7F0794D = "Damage +25"
@@ -1321,8 +1326,8 @@ Management"
 	88458F1742B7E6F178A843B8AF0F9A32 = "Damage radius increase"
 	E6960D9D4314D4C2E87F418CEB9FE7CC = "Damage vs Burning"
 	1C83E43C44562D584DD7F0842EBD83B8 = "Damage vs Electrically Affected"
+	F6968873496B78CE5E0D2183341BA44E = "Damage vs Mactera"
 	692C536E46A3158DD10DA385DC1A2943 = "Damge Vs Glyphid"
-	F6968873496B78CE5E0D2183341BA44E = "Damge vs Mactera"
 	856164F147B4CF0422EFBCA90AB51F9B = "Dammit, I need the Credits!"
 	2F2298BA463BE32E5A077790A2DEA296 = "Damn I am good at this!!! "
 	9BF941594897154747C3B694E1EABC8B = "Damn drills are overheating! "
@@ -2787,8 +2792,8 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	C88EED05498F94263F87A7BE460E5D23 = "Its overheated!"
 	E6174AC14E7AC62FF7793EA3819D539B = "Its overheated!"
 	B1F7707B47DC2986A009CE82CBB58243 = "JOIN FAILED"
-	1A7B55F0412A98B3FC888992CD5E0816 = "JOIN THE SYNDICATE!"
 	10818873404643BBF058788B9937419E = "JOIN THE UNION!"
+	3D78E52940B740CCC3053D8C64046728 = "JOIN THE UNION!"
 	417430B447DBFFD976D35A95FA9177E5 = "JOINING..."
 	D24533094ADB1094ACD24089C302F2B1 = "JOINING..."
 	EBB49D5F46565AAFA9818680FBB96C27 = "Jaarggh!"
@@ -4112,6 +4117,7 @@ JOIN"
 	922B2C64400F83A12481AD854CD7DB9F = "ROUNDS"
 	767201A24BF05D53A61200984D6773B3 = "RUN SOLO GAME"
 	215C6F6348821CFE23F4529451852E51 = "Radioactive"
+	1A9B89E842F52FE93EB2CFB2DD1E6F0E = "Radioactive Area"
 	2CBAAF624F3F0F9138D4399ADFBB8B26 = "Radioactive Exclusion Zone"
 	083EB4E74914219E2F964E874C2660CF = "Radioactive Exclusion Zone Missions Completed"
 	3E7D93A7446668D2AD62E68258FBE70F = "Radioactive Exclusion Zone: radioactive"
@@ -5368,7 +5374,7 @@ As stated earlier, ALL the Closed-Alpha keys will be revoked before launch."
 	9507617048BFD644D6492281954EF055 = "Very few dwarves these days live long enough to reach retirement. You have been an excellent employee. Do clean out your cabin before catching the shuttle out, we have new recruits coming in at first light."
 	83F25C7C46CC8B2DF5A12D8E723E925D = "Very few dwarves truly have what it takes to work the hardest and most lethal work environments Hoxxes has to offer. By the way - part of what it takes is equal doses of stupidity, recklessness and exellent combat skills! 
 
-Prove yourself worthy and we will grant you access to Hazard Level 5 missions. 
+Prove yourself worthy on Haz 4 and we will grant you access to Hazard Level 5 missions. 
 
 
 - Regards, 
@@ -8115,9 +8121,10 @@ Namespace ST_GearUpgrades (63 keys)
 	D_ShieldDamage = "Your shield breaks violently, damaging all enemies around you in the process."
 	D_StrongerShield = "Your shield can absorb more damage before breaking."
 
-Namespace StatValues (56 keys)
+Namespace StatValues (58 keys)
 	AccuracyWhileMoving = "Accuracy While Moving"
 	RadialDamage = "Area Damage"
+	ArmingDelay = "Arming Time"
 	ArmorDamageMultiplier = "Armor Breaking"
 	BatterySize = "Battery Capacity"
 	BladeExtentionDelay = "Blade Extention Delay"
@@ -8132,6 +8139,7 @@ Namespace StatValues (56 keys)
 	CoolingRate = "Cooling Rate"
 	Damage = "Damage"
 	DamageRadius = "Damage Radius"
+	DanceMoves = "Dance Moves"
 	DirtMining = "Dirt Mining"
 	Duration = "Duration"
 	RadialRange = "Effect Radius"
