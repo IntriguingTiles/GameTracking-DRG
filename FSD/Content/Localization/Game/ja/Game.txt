@@ -1,13 +1,14 @@
 16 namespaces
-4779 values
+4818 values
 
-Namespace Global (5729 keys)
+Namespace Global (5775 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        リセット        "
 	2559D78C40005E5221F26093CB976283 = "{Title} を採取 {Collected}/{Required}"
 	3E2E82954782E77A2F596AB7FEA09136 = " 落ちた！"
 	31D60A1449082F9AB6DC15844F3810F6 = " 要求"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = "サウンドデザイナー/音楽プロデューサー"
 	CC99101A43D27CD0B6D56484C12AC71D = "セントリー ガンは弾薬補充をせずにより多くの弾を撃てようになる。"
+	EBEDE2D9465877E849383DAA17F82F1A = "！アサインの必要条件が満たされていません！"
 	2660CB0147BB176C7BED4CA8F8D87563 = ""ドワーフがかなたを見渡せたのだとしたら、それはひとえに巨人の肩の上に乗っていたからだ！""
 	7A08710B44444ECFC61B76B9C1569163 = ""巨人の肩に乗っている間、ドワーフは更に遠くまで見える！""
 	83952EF040308BB9B237FDA3FA104D7D = ""巨人の肩に乗っている間、ドワーフは更に遠くまで見える！""
@@ -64,7 +65,7 @@ Hoxxesはあなたの友人ではない！""
 	BF4E93D848DF3F6E714D29B132D18534 = "”失敗よりも悪いことは決して一位を取ろうとしないことだ！”"
 	EDA89EE543B3644013BD668C2B6B994A = "”失敗よりも悪いことは決して一位を取ろうとしないことだ！”"
 	FE3AF71A4B4652C9E84187A1EB7F1678 = "”失敗よりも悪いことは決して一位を取ろうとしないことだ！”"
-	432B2F5F4E1BE02385DA2E8E0FAD1CBC = ""我々はできる!""
+	432B2F5F4E1BE02385DA2E8E0FAD1CBC = ""Yes, You Can!""
 	64EC61C944E03B358AF914AE7EDB71B2 = ""Yes, You Can!""
 	D60FF3AB433FFE22A040AFB968CBDD65 = ""Yes, You Can!""
 	510508C743787EB05411369832A6AD9B = ""君は小さなチームでも凄い事が出来る！""
@@ -230,7 +231,9 @@ Hoxxesはあなたの友人ではない！""
 	C7962BE54367A88EA7181D8F8D10C1CD = "20M"
 	5B57C9F04F8E0BBB21034E86657BD31F = "23"
 	34E9C17149E0544F4C02FB930C555046 = "25"
+	C8C8FA844A598EED7A8CDF865E490061 = "25"
 	7FB217F84E32C73CEA0D3FA40996ECF7 = "254"
+	F1F5624A461A1AB5105DC7B4EBF333B4 = "3"
 	FE9692E84DAA6BE7E6600FB5D388627C = "3"
 	C4074DC14285A41787355CA8FC85F54B = "3...2...1...軌道へ向かう。"
 	54BDDF7F41A853E640B6A69D9FADAB31 = "3.4"
@@ -259,6 +262,8 @@ Hoxxesはあなたの友人ではない！""
 	22F656894A40134D5B2E639A9123E0C4 = "5M"
 	3C0683FB4388F5D46ABEB48940D59946 = "6"
 	8A2374214CE5A3A0B4CBD3B911E5D1A1 = "6"
+	F4D0ED8F450D8A58458103BFB5763227 = "6"
+	ED2269A84C2EB5B6445102B1E59652F3 = "7.5"
 	8D0264F44BB72A9B5C7606897F346A5D = "75%"
 	4481267D4D9CE4FF894F86AF991A6126 = "99"
 	7A9337FF4E185D2A828E8EBBE4F53DE8 = "99"
@@ -298,6 +303,7 @@ Hoxxesはあなたの友人ではない！""
 	74F3549648D46EE659CC2CAC30F2C0DD = "この仕様では発射力を大幅に向上させ、スキャン角度を狭めます。"
 	86A03D794F56F55E13FFD190FE8F3031 = "ドワーフは不死身だ！"
 	20946E854610B5BE26AAD5B4CFCCD185 = "バネ数個と磁石、あと闇市場にあった燃料電池 - 落下ダメージが {value}% 減少！"
+	465D196E4E1C00E322F2F88C7C7D1EEB = "大型の破片グレネードは広範囲に渡って大量の破片を撒き散らす。"
 	EEFDA4EC4E8BD1F66E88E18B7D4DB706 = "鉱夫一人が君に合流中だ！"
 	5069DB2C409EB2FDC399549E3191D8AE = "君のチームに新しい鉱夫が来るぞ！"
 	1D1DC6B34CA7252027F1308C86BBC410 = "いいヘッドセット"
@@ -447,8 +453,10 @@ Hoxxesはあなたの友人ではない！""
 	533CF1E24270C823FC0725A75FCA6A04 = "安くて強いエールと同じくらい安く強いエナジー ドリンクを大胆にミックス。ほぼ全て飲み干せない代物だが、春の軽やかな足取りになるのは確実だ。"
 	B8EA404A4382DF5AD989A08C16A1EB30 = "安くて強いエールを、これまた安くて強いエナジードリンクと冒険的にミックスした一杯。まともに飲めるものではなくなっているが、まともでなければ飲めないことはない。ともあれ、間違いなくはずむ足取りをもたらしてくれるだろう。"
 	DD1215F14B9E6DA94F08B1AB687608BA = "敏捷なドワーフは生き続ける！走る速度が {value}% 上昇します！"
+	BAAB460B45DD1BFAEBFF28932B0B55A0 = "追加の鉱夫が君のチームに配置されたぞ！"
 	7788FB28487AD6E60942BA8B6CF01865 = "{class} で新しいパーク スロットを利用できます"
 	85D7BCEC4BE68DBC849081B25F1CFA7D = "旧世界の格言に曰く、「備えよ」。MK5スカウトスーツは期待を裏切りません。ケブラー繊維で強化されたベストにベルト、鋼鉄製の爪を備えたブーツに便利なフレアー入れ、それから特大の弁当袋もついてますよ！"
+	941378E041BA4246F73372AB59E66035 = "従来型より高威力で長射程、搭載可能な弾薬も多い上位モデル。"
 	46F8058E4ACB60C590309687C83A8ECD = "俺の前世は、最悪な見せ物だったわ…！"
 	B42C3E4142DE9B8DA735678256571B02 = "エンシャント"
 	20AAF4014565DAB702E236A3D5489BAE = "ドカンといくぜ！"
@@ -638,6 +646,7 @@ Hoxxesはあなたの友人ではない！""
 	FBF850D6471688907F907CAEE392CB17 = "バーテンダー！レッド ロック ブラスター頼む！"
 	580F2D4649B9855667A206960BF39B49 = "初弾のピンポイント精度を含めて基礎精度が改善する"
 	4D6B634543BF3ECAE99850B637DC74AE = "基本精度が上昇する"
+	5402EFC34F31033A241C43A2942CCEAE = "基本精度が上昇する"
 	685964224EC0FB9FEB9EE286CF2A4D8E = "普通のつるはし"
 	B5868CE640E758D1F2FA0DBA30971853 = "もはや半分は顎ヒゲ"
 	2223EE0D4985A95F10018887FEF4F431 = "野郎やりやがったな！"
@@ -738,12 +747,13 @@ Hoxxesはあなたの友人ではない！""
 	BE61ED7A41EAFA55C1AB70B284CCA0B5 = "ボスコー！助けてくれ！"
 	F51513B7435332FDDF5C5DB7D527DDA9 = "友よ、乾杯だ！"
 	C4DC7A7E42DEFC1130EA07A91EDEA515 = "買った!"
-	B7E8693D48943E06E3E77C9E29A44F0E = "Bouncy Plasma"
+	B7E8693D48943E06E3E77C9E29A44F0E = "弾性プラズマ"
 	3E18980D4D123CFCD60BF78F8CDB3488 = "ブリーチ カッター"
 	584A00F1416B4A11380A10B24F56109F = "プラットフォーム崩壊"
 	81544BB24CE398D57DA880A35B9205B1 = "百年もの間存在する階級の垣根を超える、この高級品は悪党も紳士でも身に着けられる。最近の DRG の採用ポリシーを考えると、後者はほとんど存在しない。"
 	50B0D6E54E06DF0FEF4FC7B668BBFAB2 = "呼吸植物"
 	5D3B4CA0496C1A4C197289BBD2560DCE = "毒を吸い込んでも生体への影響が半分になります。 "
+	4154F4FA47E9DE4B87CC71A7A2543295 = "ボスコを連れて行く"
 	C7879A534856AC46637E919866BCF417 = "来いよ、野郎共め！"
 	2B9EAE3540CF9B0CDD1C9CA12E94D008 = "痛ぇだろ！"
 	F0F53AE9430AD821982800B6448D0DDA = "故障"
@@ -790,7 +800,7 @@ Hoxxesはあなたの友人ではない！""
 	B1CEBEAE4E21A659422B96BB0C89C722 = "バースト"
 	7818CDC84B5FCB0C240724ADA28722B8 = "バースト ダメージ"
 	2336780C4D0E27323363A2A619D2BC19 = "バースト スタン"
-	FBE670E64D48C3DC4423339ACB6AC864 = "Burst Stun Duration"
+	FBE670E64D48C3DC4423339ACB6AC864 = "バーストによるスタン時間"
 	74FBA3CD4233856197B3C18899D69C01 = "バースト"
 	675791DE42ED7F86D33455988C185A3E = "ビジネス デベロッパー"
 	78E696ED4498D39A3F40F78A02B2D097 = "ビジネスデベロッパー"
@@ -800,6 +810,7 @@ Hoxxesはあなたの友人ではない！""
 	6CC1E9DB477FBCA4779D839291853693 = "グェップ！"
 	736C063A4DFF6F2079DF84B42B55480A = "ゲェェプ！"
 	EFAD25E240DD9D8B12B242B009117556 = "なんて見苦しい奴だ！"
+	E6160A6A498A599B1B17908317F6F1C2 = "はいを押すと Discord サーバーへ接続する為に外部ブラウザを開きます。実行しますか？"
 	4608597C487C0EF357FBF39B1AA23F01 = "髭に誓って！"
 	1B46DDC24DFC16B5668A859F5FA4A6D0 = "ヒゲによって、素晴らしい取引だ！"
 	4AFAB2704DA6415436E40FAC0CF2ABD1 = "ヒゲとともに、それは高価だ！"
@@ -822,7 +833,7 @@ Hoxxesはあなたの友人ではない！""
 	2F398B704E1BEF3212BD1EA75AFB8FE9 = "冷たい"
 	E6E61B81404C88BDD079ECB44324AEFE = "冷たい"
 	FA3EF5F94DF0453A1C5D899B6A455976 = "冷たい"
-	B74FA7A14783DBAD111E7380996AD57D = "報酬を集めよう！"
+	B74FA7A14783DBAD111E7380996AD57D = "報酬を獲得しよう！"
 	3F0C9EF54B76216708530B9257D6584F = "収集した鉱物:"
 	1369F3BA450BAE70F40123AAE96240EC = "コミュニティ テスター"
 	CCD5A42B4899395A8E979AAF6192E5A4 = "コミュニティ翻訳"
@@ -969,6 +980,7 @@ Hoxxesはあなたの友人ではない！""
 	47EB687F4529CFBDBCFD699056AC7F7A = "クワントライトの塊"
 	E94E8AB94E59FCAF5BB9B499682073D1 = "レッド シュガーの塊"
 	EC7C73A0400EAEB5501D12863298DDC5 = "ユマナイトの塊"
+	FBC3C20041B38BD2A239D381DB199EB1 = "鉱夫コミュニティ ターミナルから 5,000 クレジットを獲得しよう！"
 	16610875439EB1D7FF78C8AFE60BC6B6 = "君の組合資金を獲得しよう"
 	545ADD99430A1848AE73ED9FA1CCBE67 = "貰った！"
 	CCAE4EA549842149659D608F55032565 = "クラスレベル"
@@ -1059,7 +1071,7 @@ Hoxxesはあなたの友人ではない！""
 	1F9EFFC54DA5C2B3F1202A8EA770E94E = "この惑星の地域をアンロックするには、より多くのキャンペーン ミッションを完了して下さい。"
 	30E886374D703DA855B11AAB54C3B7D8 = "チュートリアル ミッション完了"
 	866996BF4B3EFAB21BDE07BF2AC5C53B = "ウィークリー アサインを完了させ、多額のボーナスを獲得しましょう！"
-	C5850CB4456B81F771CBCF9AD0B137BF = "Complete this assignment on Haz 4 to unlock Hazard Level 5. Haz 5 is more brutal than any of the other difficulties and is meant to only challenge the best of the best...as the saying goes. Get ready to die - Play Haz 5! "
+	C5850CB4456B81F771CBCF9AD0B137BF = "ハザード レベル 5 を解除するにはハザード レベル 4 でこのアサインを終了させて下さい。ハザード 5 はこれまでのどんなハザードよりも過酷であるがゆえ、真の精鋭だけがチャレンジ可能です。覚悟ができたら、ハザード 5 をプレイしましょう！"
 	615B4ABB499CB21DC550E38EADA238DA = "昇進の資格を得るにはこのアサインを完了させてください。昇進はキャラクター選択ターミナルから可能です。また昇進は名誉バッジの獲得と、キャラクターのプレイヤー ランクを再び最大値にする唯一の方法です！"
 	83081D9843C33EC34691B0929E1FDA5C = "昇進の資格を得るにはこのアサインを完了させてください。昇進はキャラクター選択ターミナルから可能です。また昇進は名誉バッジの獲得と、キャラクターのプレイヤー ランクを再び最大値にする唯一の方法です！"
 	A865D80D4B531828EB8F83AFAE93195D = "昇進の資格を得るにはこのアサインを完了させてください。昇進はキャラクター選択ターミナルから可能です。また昇進は名誉バッジの獲得と、キャラクターのプレイヤー ランクを再び最大値にする唯一の方法です！"
@@ -1097,6 +1109,7 @@ Hoxxesはあなたの友人ではない！""
 	EB1B8A3542443FF3561615B2AB486FFE = "探索と採掘ミッションを {value} 個を完了"
 	55D0A66F44FCB63A9805AC859C63B095 = "セカンダリー目標を {value} 個完了"
 	ABB1711B462C4065956566A43CCFC221 = "武器ライセンスのアサインを {value} 回完了"
+	51DA9A6C4403E8FD3AA281B7F078319F = "このミッションを完了させると、現在のアサインが進行します"
 	69CDC4B94DCF8A3C69B7D3B5D3D54601 = "複雑"
 	3CBB49644C5709B4996B328729913FD2 = "複雑さ :"
 	50D474F14B57DB617FE351996FF9B90A = "コンポーザー"
@@ -1275,8 +1288,9 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	0CB3B9E24A8C84A23840C2BF52BEF603 = "ダメージ"
 	3CDED292467CC3EFD2E70988E1EA7C1D = "ダメージ"
 	75546D1F46A042A26EEC15A2E30BF535 = "ダメージ"
+	92BC9D5C4894822B75583B92DE168664 = "ダメージ"
 	ADD9F31D4053CA45ECAFBE8A34C1B955 = "ダメージ"
-	8A8972C446EC1139347526B60B289F83 = "Damage % as Fire"
+	8A8972C446EC1139347526B60B289F83 = "ダメージ % を炎に"
 	84C75144421AC4802E4EBE92A7F0794D = "ダメージ +25"
 	55094DE043282C0F20824786A10CE624 = "ダメージ ボーナス"
 	E139C3B24EDE7B2DCB4A8F9DA645CB5D = "ダメージ ボーナス"
@@ -1288,12 +1302,12 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	BCCC1B3A448637AAFB9CE8A9F8CF058F = "ダメージ半径"
 	2BDD724540F12E17F1E5299230624F7E = "連射時は撃たれ強く"
 	B855F25348B1D7495CB53EBD26207CC3 = "燃焼中の敵へのダメージ"
-	4EC29C8D450629F606642DB20C059C33 = "Damage Vs Electrocuted"
+	4EC29C8D450629F606642DB20C059C33 = "感電中の敵へのダメージ"
 	B21AB3B74E5AE85FE4E7EBA9B75C99FF = "最初の 2 発が当たると、最終弾にダメージ ボーナスを与える"
 	F6194789486BF7F6C6CF5AB079B017DC = "最大安定時はダメージが増加する"
 	88458F1742B7E6F178A843B8AF0F9A32 = "ダメージ範囲が増加する"
-	E6960D9D4314D4C2E87F418CEB9FE7CC = "Damage vs Burning"
-	F6968873496B78CE5E0D2183341BA44E = "Damage vs Mactera"
+	E6960D9D4314D4C2E87F418CEB9FE7CC = "燃焼中の敵へのダメージ"
+	F6968873496B78CE5E0D2183341BA44E = "対マクテーラ ダメージ"
 	692C536E46A3158DD10DA385DC1A2943 = "グリフィッドへのダメージ"
 	856164F147B4CF0422EFBCA90AB51F9B = "クソッ、クレジットが要るんだ！"
 	2F2298BA463BE32E5A077790A2DEA296 = "うお、俺めっちゃうま！！！ "
@@ -1717,7 +1731,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	CE58EBBB406063288737A99BAEC62D1E = "全員に無料ルート!"
 	8F7BDD2D4C55CBDB1B128FB9532AB6A5 = "サーバーへの接続に失敗しました"
 	FAB52F0E4F03CAA4BEAD089D2337E961 = "サーバーへの接続に失敗しました"
-	84BAB4AF4EB0A092E879AA8835F67DE1 = "警告: 会社の所有物を破損もしくは破壊した場合、月末に加害者の賃金から差し引かれます。"
+	84BAB4AF4EB0A092E879AA8835F67DE1 = "警告: 会社の所有物を破損もしくは破壊すると、月末に加害者の賃金から差し引くぞ。"
 	6406D2C14D907D54330DA3B46D466F0E = "落下ダメージ軽減"
 	8A02328440ACDC3297273D83F07ABE8B = "落下ダメージ耐性"
 	8D3138AD4A84EBD51BD9C29677936836 = "ドロップポッドへ撤退だ！"
@@ -1881,6 +1895,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	576DA4C74C4A78F910C594B10D80A691 = "燃料電池は完全に充電された。ドロップポッドのエンジンは起動している。死守しろ。君とお宝を引き上げる準備はほぼ出来ている。"
 	018FDDD14D9F40E3BD25EE852261BD94 = "燃料電池が到着した! それを組み立てるんだ！"
 	7643B019456C4E3C2729C9AB1A142655 = "燃料準備完了、行けるぞ！"
+	6F411380499242B76D7883AB909633D8 = "連射時のダメージ ボーナス"
 	99E810C44C040791CCF5D7BEDC7CE155 = "フル サーバー リスト"
 	CD3BB4BB43866AB17E91319D41AC5467 = "フル サーバー リスト"
 	251024574D3DDFB05907DFB0FD9FF410 = "フルスクリーン"
@@ -1902,6 +1917,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	178132E04F1251CBF786328BA329F2AD = "宝石だ! 宝石を見つけた!"
 	B75EF0174A3AD49AC62BA2BDC2DA9A2C = "弾薬補充"
 	BDE91C1943D8679F17E677AECD8ED96F = "弾薬補充"
+	5E41C46749B33F80931C9FA2FF238F4B = "弾を取ろう 弾を取ろう 弾を取ろう 弾を取ろう 弾を取ろう"
 	06AEBC064E7F2B55F1E0C4917BC51EA6 = "GIANT STATUE"
 	5F69D03A4A4499EA901CDCA92D43623C = "GIANT STATUE"
 	9DB5513346CF4D3FA02E419941A77843 = "GIANT STATUE"
@@ -2288,6 +2304,8 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	17A66EEC472017653848E88FEE1927F9 = "ちょっと聞いて！"
 	D93E421F4E6FBDB80BA48B82976DEF65 = "HggHrrmmm"
 	CCA392A741C551B85295C99A6B3A87B2 = "よっ！前に会ったか？"
+	2E0929614CF986EDAC91B0B0D0EAAEE6 = "よう！"
+	36896A4048AFB8933B41FAB4BD37BEFB = "よろしくな！"
 	119FF8F54FE7D440180A52B454AA08AB = "よぉ！"
 	1EE91DE24C5C358DDD1343A3FDFFB70B = "隠れた宝石なんてある訳ねえよ！"
 	67F5F9164D5E8EBD98CBCFB062F73EE6 = "頭を隠せ"
@@ -2441,6 +2459,8 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	1B1C52704063E85B5EFCD59E936D552E = "預ける物がある！"
 	138D93DF40491A16B10D38BD166E0446 = "オーバーヒートに気をつけなきゃならんな！"
 	3A579851475A288FF152AE88B30F898C = "オーバーヒートしないか見とかないと！"
+	974B5C844C66FAFBDA8F35B4F4DB4634 = "このチームは良さそうだ！"
+	CFB9B03E402B38C2B5B54190251CEA77 = "このチームは良さそうだ！"
 	B4AA6A7041D094A4C986168DBBFC8A99 = "まだマシな方だ！"
 	DA6C13AF47996DD1C62614B8A213A303 = "まだ最悪ってほどじゃない！"
 	99A25A2B4239CFE4EBEBCC8522DF1342 = "ドワーフのように生き、ドワーフのように死ぬつもりだ！"
@@ -2664,6 +2684,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	5B6F32D54E41B035384E62B2CA1075AC = "情報"
 	D6C7F4E84ECA96758E570C821E55BACA = "情報"
 	7E0755F9425217DABC8E6AB89B2656AC = "インナー デッド ゾーン"
+	1D8C955C4917746FA84DA7B3ED72BAE4 = "中程度の効果範囲をもち周囲の温度を即座に低下させる手榴弾。Hoxxesの野生生物のほとんどを瞬間冷凍する。爆破地点に入ってしまった不運なDRG作業員も冷凍される。"
 	68CFD86F4AA9B419BECBD387958FA8D7 = "即時に資源の採掘"
 	529E36954564FA15CC26859581A40BB0 = "強度"
 	BEB252BF48876693928A6FA0F25C7825 = "アーマーほんとにひどく干渉する"
@@ -2743,6 +2764,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	E6174AC14E7AC62FF7793EA3819D539B = "オーバーヒートした！"
 	B1F7707B47DC2986A009CE82CBB58243 = "参加失敗"
 	10818873404643BBF058788B9937419E = "組合に入ろう！"
+	3D78E52940B740CCC3053D8C64046728 = "組合に入ろう！"
 	417430B447DBFFD976D35A95FA9177E5 = "参加中…"
 	D24533094ADB1094ACD24089C302F2B1 = "参加中です…"
 	EBB49D5F46565AAFA9818680FBB96C27 = "Jaarggh!"
@@ -2909,6 +2931,8 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	2219575A456D708CF545E8AEDC9E703E = "俺に掘らせてくれ！"
 	28CE7D554021BB354AB2D58B7C4FBFE3 = "もっと楽しもうぜ！"
 	532C311C4B1AA25AB616FEB22BABDF97 = "光あれ！"
+	AAD889DA48AD7FC07D6419B40F544B46 = "さぁ "
+	69EC762C4463E8578E9007A8C30248DA = "始めようぜ！"
 	36550EE942D2A55EC54322916EF28CA8 = "それ、持って帰ろうぜ！"
 	D83972C542DE682C9575E698F7731194 = "それ建てるぞ！ "
 	963E85E347BEA555A94A49986161AA44 = "このレール セクションを建てよう "
@@ -3032,6 +3056,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	C40E50EB485EBCEBC6C1CE87ED2293C9 = "こんなものを見つけたぞ！"
 	C58C6C5C49FEA64CF17D77B0231F5B01 = "こんなものを見つけたぞ！"
 	2AD0E96B442FA353F645EC928227E84D = "見ろ!"
+	B517529C4DA0A5100AC5C78F54957100 = "お前と働けるのは楽しみだ！"
 	7D1DF4CA4C8EF66CD1C71EA72D9283CB = "どうやら膨大なグリフィッド プレトリアンが君たちに向けて移動しているようだ。今できるだけの準備をしろ。"
 	BEFFF8834091FE1E5E00EBA430BD1025 = "見た目も匂いもうんこみたいだ！"
 	CBBD34D54848C33BF11B95ABDEA6900E = "やわらかい土がここにあるぞ!"
@@ -3202,11 +3227,11 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	9C2319174E556ABDB2F513BE726CA094 = "燃料搭載量 +75"
 	9DADE2684511F6CD4C0D258B3DDD8D88 = "燃料搭載量 +75"
 	BE01A3ED43032A86934C19AA2AE3928F = "最大角度"
-	DF399CD3486B65EDAE4558AFEF735D28 = "最大 FPS"
+	DF399CD3486B65EDAE4558AFEF735D28 = "FPS 上限"
 	7AFFDEAB40E999C2DB09C9B4123AB083 = "燃料搭載量"
 	C500471445EF7E9F13876D95F39E130D = "燃料搭載量"
 	0D9AD6764E6AA571621F0CAC4222EC74 = "最高速度"
-	930A96794664525E6D326D840A77563A = "Max Stabilization Damage Bonus"
+	930A96794664525E6D326D840A77563A = "最大安定時のダメージ ボーナス"
 	C4F266834E31307943B61CBD01CADC55 = "最大索敵距離"
 	BCE6E962454B3FE8D2387C8D24D3D169 = "最大弾薬数 +2"
 	C585CAAC418A9943AB6830A8FA69AE7B = "最大弾薬数 +80"
@@ -3454,6 +3479,7 @@ DRG には選ばれし者だけが加入できるという事を認識して下�
 	99713863477AD945D0AFDEA9C7D4BFCE = "次こそ…次こそは…！"
 	50E7238448AA043798B5C8903BD5EF55 = "いい感じに油たっぷりだ！"
 	851C36BB403B59B67BEEE18175D03C77 = "立派な髭だな！"
+	88E7E9E947C62F4102BA1C8A8CB675E2 = "よろしく！"
 	A83FCF0747AA2FDDF3E1619605B02F1A = "よろしくな！"
 	250AE178416AF1CDC56D3D85447C1876 = "いい曲だ！"
 	84D2E31A47F4D7FD121FB8891634258C = "上出来だ！アサイン完了！"
@@ -3855,6 +3881,7 @@ But well done. :D
 	351ECF6C48FBA149DD85C692DC491F20 = "パーク ポイント獲ったぞ！"
 	BCDAC86B4BB46DEFAA40BCA4276771BF = "パークを手に入れた！"
 	6E3CCDBA45E666EEEAD8D1B65661921C = "パーク"
+	4E464151445EE73C037165A49DD06497 = "パーソナル ドロップポッド"
 	90F6E7AF4937F933D7ECBDA8749E1099 = "フェロモン キャニスター"
 	868EE84E43B87E04D71C6E94B26EC9C2 = "ふー、今日は空気が重いな…！"
 	E5DAA1CF486CBC6FBFD9C19060354800 = "Philip Mygind"
@@ -3961,7 +3988,7 @@ But well done. :D
 	B1D59F3F4199E484B5418BBBA9C43328 = "圧力降下率"
 	AF34EE3140CA8E19872475B1E30D4A62 = "圧力上昇率"
 	9DCB71D348F4D3C52C5F69ACDE16A0E1 = "圧力波"
-	6CBA3AD2476B5E68F24020920C4D9107 = "遅れて接続するキャラクターの重複を防止"
+	6CBA3AD2476B5E68F24020920C4D9107 = "後から接続するキャラクターの重複を防止"
 	C1AA33BB4EE5E8FA3641A9994DCFF837 = "後から接続時はキャラクター重複を禁止"
 	A1FAC359403A1149F96076BDD450AF2E = "前のアイテム"
 	4226F3E441BB2EE57136CCBA52CC3F17 = "価格"
@@ -3976,7 +4003,7 @@ But well done. :D
 	F4B3C8CD4331C60024A1988B921C780B = "プログラマー"
 	5A6F09434238DC8297E2BE980C20D7A8 = "弾速"
 	A99CB7A84ADABE0CF57BFF8F06F96138 = "発射物の寿命を増加"
-	A81295E44B1B1C7D74EB31B2A9AD817E = "Projectiles with this property will bounce off solid surfaces."
+	A81295E44B1B1C7D74EB31B2A9AD817E = "この特性を持つ発射体は硬い表面の上で跳ね返ります。"
 	00C967844D3D4387C6FE2B85E72ECAB2 = "こいつは君のシールドを再生させると同時に、攻撃から身を守るエネルギー バブルを膨張させる。チーム全員が入れるほど中は快適だ！ただあまりくつろぎ過ぎるな…効果は長続きしない。"
 	8B1422284A0E06C8765ECE89457AC842 = "長時間の発電"
 	A83874AC4B78EA0D8FF696AC6DE34665 = "一度 {class} で昇進し、パークのスロットを拡張"
@@ -3989,8 +4016,9 @@ But well done. :D
 	DA6CF5DA4A65F417ADBEE081E3514C73 = "昇進資格 - エンジニア"
 	3A49023D49669C27F3CD2899E980A8E5 = "昇進資格 - ガンナー"
 	F86043E3460E000F7A2E75B25CC10B44 = "昇進資格 - スカウト"
-	3D35AE1246D81902E6884F8281F0DD56 = "プロスペクター"
+	3D35AE1246D81902E6884F8281F0DD56 = "探鉱者"
 	973D71F74965C33786C0C9898DA8DB26 = "シールド外での効果残存時間"
+	32BED0C246C076A795A7C192D7691B18 = "恐慌発生率"
 	0B53EB24472BC04B1909A3994FA4959E = "近接グレネード"
 	8C39DAEF459C0033299918BD54AFD96D = "近接地雷"
 	7CE4083F464B7A52C42471A6C55B47AF = "近接信管"
@@ -4056,6 +4084,7 @@ But well done. :D
 	922B2C64400F83A12481AD854CD7DB9F = "ROUNDS"
 	767201A24BF05D53A61200984D6773B3 = "ソロ ゲームを開始"
 	215C6F6348821CFE23F4529451852E51 = "放射性"
+	1A9B89E842F52FE93EB2CFB2DD1E6F0E = "放射性エリア"
 	2CBAAF624F3F0F9138D4399ADFBB8B26 = "放射線管理区域"
 	083EB4E74914219E2F964E874C2660CF = "放射線管理区域のミッション完了"
 	3E7D93A7446668D2AD62E68258FBE70F = "放射線管理区域: 放射能汚染"
@@ -4073,6 +4102,7 @@ But well done. :D
 	B544FA014B5E5813A0CBA09A7D5FA415 = "レア植物"
 	DDFACEC14A890C0D6FF8E3A5935441F7 = "連射速度"
 	FA0F3E3F4D5A5936DBA7D98B1E98B28C = "連射速度 +0.7"
+	547CAC7342FC93C6DEC5DEA198025182 = "連射速度が上昇する"
 	0A9105BE4A7A48B2D134D99DAFC64C71 = "何千年も高強度のガンマ線に晒されたこの地域は放射性の灰にまみれ老朽し、変異した植物が生息する地獄絵図だ。進む際には細心の注意を払い、特に帰還時に完全な除染作業を行う事を意識するんだ。"
 	44F3189F4AA06FD17750A992263A6CD4 = "略奪者"
 	C817A7F94F580AA64988109B6AE44A5C = "略奪者"
@@ -4127,6 +4157,7 @@ But well done. :D
 	AC6CE04D479431221B4324A21939B47F = "チャージ ショットを溜めていると、武器がオーバー ヒートする速度を低下させる"
 	C84678394F7FA93C9EA406A269995E72 = "毒ダメージを軽減します。"
 	83E2EA684FD79938D13434939A276900 = "雰囲気重視派。もしくはお金の為。何れにせよどちらかなのは確か。"
+	37E07B614E1A9D09D4900EBAEC648366 = "セントリーへの給弾が高速化される。"
 	761586C14EE3CCA7F69712804CE964F2 = "おしゃれ風"
 	3366355F4B8C52F96AF4E7A7314EDA8E = "精巧なプラズマ フロー"
 	EED843D84B53B9B82127A484C6996E00 = "更新"
@@ -4145,6 +4176,7 @@ But well done. :D
 	FCD31D4D469ABB9C60A35ABCF7C342BE = "増援が向かっているぞ！"
 	B8A48C7145EF4BB4CD7B01ACDA8D9A33 = "招待を拒否"
 	EF85D40F433CDB5FC77513BA4ECAD05E = "拒否！"
+	276A92D24D775A65E0A31E9E355B4F74 = "Hoxxes IV固有の生命体だけに効くよう調合された遅効性の毒ガスを放出する。注意： 高可燃性"
 	CDCEC88042CF9A3B9409D184848D81A0 = "リロード"
 	E5C7F9CF464A7ECC8596DCAABB89552D = "秒間装弾数"
 	FA15073042C6A8B221E7968C0163401D = "セントリーをリロード"
@@ -4211,6 +4243,7 @@ But well done. :D
 	3C625D624AC0652BA30C71A01117D1B8 = "補給を要請した!"
 	67289C6E467DA8A9294AB5831058E1C2 = "再補給ポッド"
 	E00718EF427855EB5F9992B22A4128B5 = "リタイアか、やるぞ！"
+	3C6D3279436EE018EBC0BB876ADF0FE2 = "斧の回収"
 	68D57CF046190F38CE798FB707251BA1 = "エスケープポッドを回収する。"
 	11428FC646EB4A21DAC13B9238BF72BC = "回収を指示"
 	DC53FE5144AE597A3EB999BBF2C05646 = "ドロップポッドへ戻る"
@@ -4282,6 +4315,7 @@ But well done. :D
 	9EE00D54476E2E4A4AEA949ABABEDE81 = "走る"
 	E630A3AE4EDF03AC2C0A4F9512ADF753 = "物陰まで走れ!"
 	FC685B0444600C2F88CDCAAAA3A930DE = "弾切れは最悪だ！補給ポッドを要請できるようにナイトラを集めよう！ "
+	01760E4344660A2A2E955F9001C3FDF9 = "弾切れは最悪だ！ナイトラを集めて補給ドロップを呼べ！弾切れは最悪だ！ナイトラを集めて補給ドロップを呼べ！弾切れは最悪だ！ナイトラを集めて補給ドロップを呼べ！弾切れは最悪だ！ナイトラを集めて補給ドロップを呼べ！"
 	579F864343092779B68C77935DFE241A = "錆びついたヘルメット"
 	4DCE8CB74A35F162148F5B9836ECD474 = "チームメイトに敬意を！"
 	ED9B518040CBB8F27AA79CA0AAC1B82F = "ゲーム ファイルを保存"
@@ -4351,6 +4385,7 @@ But well done. :D
 	6899C9BF4C4EA8CA476B9B96004C66B2 = "助けてくれ！"
 	3B8547F74947774957B2B998CFBD8F02 = "機械に助けられちまった！屈辱的だ！"
 	DFB1AF4745AEDD631D3FB581FFDB61E6 = "俺にダメだと！？…そんな事言う奴は他にいない！"
+	3BA59BEE4B944D2061F6CEBF989958EC = "スキャン範囲"
 	17379A0E41AA44A751A2A7B813E3339C = "スキャナーが大きな揺れを検知した。お前らの方に向かっているぞ。備えろ。"
 	37D7CE614143F531CC3D49A4E555AF12 = "スキャナーがグリフィッドドレッドノートの繭の群生を発見したので、素早く対応する為に君達を派遣した。あのデカブツがこのエリアにおける我々の作業を中止させる前に排除しろ。出来る事なら大体の四肢がまだくっついた状態で戻ってくるんだ。"
 	E835A5FD46F5963C1140DAA9DB50A738 = "スキャナーがグリフィッド スウォーマーの集団を検知したぞ！奴らが目を覚ましたようだ。気をつけろ！"
@@ -4386,6 +4421,7 @@ But well done. :D
 	F050839B4846A3774D80C5AEA7ECCD47 = "デイリー ミッションを選択"
 	D538385C4E4C2157F03021A67AA27BAB = "ゲームプレイ情報を送信することで、ゲームの改善が可能になります。"
 	B07002E74C40ABC931AA47BC4413B5BF = "ドロップポッドを送り次第、カウントを開始する。いよいよだチーム。我々は誇りに思う！"
+	CBADA72D482A4035F0D586AA85F9D641 = "虫けらを追い返せ！"
 	3C31E2F84124F4325FBB88870E536113 = "シニア アニメーター"
 	3B3F04B54BBC2EBDDD9CFCA46171226C = "シニア アーティスト"
 	EB8644B24647D0872EF6B7AFBDCCAE9B = "シニア ゲーム デザイナー"
@@ -4436,6 +4472,7 @@ But well done. :D
 	90E1670A44E4F8B85B88279B30350276 = "シールドの崩壊"
 	9BBBF4974FB4DD7B8FFAA9AC5C068A41 = "シールド ジェネレーター"
 	878F98034078BF2678FF31919FDDA11D = "シールド有効時間"
+	E5EC40E24C303156A49EAB8330E371C8 = "シールド オーバーチャージャー"
 	FF9ED1E4420DB76737D8ECB01A6E85D6 = "シールドの大きさ"
 	E9BBD41E4A46DE6816FA64B574107E84 = "シールド範囲を二倍"
 	034BAFBA41BE772CA234289AC9EF2F97 = "1 秒あたりのシールド再生"
@@ -4547,9 +4584,9 @@ But well done. :D
 	38FA37804B0B164ED82D96AE48D5F065 = "ソロ"
 	B2E1265A42C5AB5F4D2CEC9B85194128 = "ソロミッション完了"
 	B40221884B79B44599A279908B225246 = "闇の威圧を出している。"
-	1C7CF05540FBF4B364BE0A8CEFC58BFA = "Some gear mods you've purchased have been reset due to feature development, and must be unlocked again.
+	1C7CF05540FBF4B364BE0A8CEFC58BFA = "購入した一部の装備カスタマイズはアップデートでリセットされましたが、再び購入可能です。
  
-Any credits and resources spent have been refunded to your account. Happy modding! :D"
+全てのクレジットと資源は口座に返却されています。ハッピー カスタマイズ！(^^)"
 	1FB3123D451B74CB69B80295F36DBB2F = "流行り遅れにならない定番の一品。"
 	56F6346849C3E221A8E540B2A590E7F8 = "流行り遅れにならない定番の一品。アーマーと組み合わせてバッチリだ。"
 	A506986645B225895E75E296FDA8B353 = "一部の敵はより多くのダメージを受けます。ターゲットの弱点に特化した発射体を当たると、敵をなお一層痛めつけられます。"
@@ -4690,7 +4727,7 @@ Any credits and resources spent have been refunded to your account. Happy moddin
 	EC1FA43A4049047CC7AF0B928D3AD839 = "スタン"
 	EC68742C496132E67AA122B7A2CF1DA8 = "スタン"
 	6301D2814837BD1B2F5A81803AF768EB = "スタン グレネード"
-	AF2D2FBF41BC8F5AC669EC96330FB5C8 = "Stun target if all shots in a burst hit"
+	AF2D2FBF41BC8F5AC669EC96330FB5C8 = "バースト攻撃が全て命中するとターゲットがスタンするように"
 	D0DAB98D493841D9850A08900383C8AE = "このクソ虫！俺を降ろせ！"
 	CBE206D2480E91C55707AD994A61C0B3 = "スタイリッシュで実用的！"
 	D5AD36B446716E5D1B853C9E40088B91 = "スタイリッシュで実用的！"
@@ -4751,7 +4788,7 @@ Any credits and resources spent have been refunded to your account. Happy moddin
 	7619D8004800B2FB339A57AD814FA511 = "[Shout] を押してボスコを呼ぶ"
 	236E3D9E474CD042A3FA6CA232273DDA = "チーム"
 	6E4FAFEF4D3D0E173C794FAAF6DD3A72 = "チーム"
-	8B047A81471E758D081B44A65B18C0B2 = "チーム倉庫"
+	8B047A81471E758D081B44A65B18C0B2 = "チーム総保管物"
 	AE66380E409563A1BF5CAE973528CEFC = "チームワークが重要！"
 	365C77A54A278546EDE12CA8FCE40FB6 = "チームワークの重要性"
 	4097330946AE9998B69F0BBC3CECE451 = "テスト"
@@ -4795,6 +4832,7 @@ Any credits and resources spent have been refunded to your account. Happy moddin
 	A7390456445A5A88DAB362B53BEE2579 = "タンク容量"
 	6E38FBD54B1E774F2B95EDBF000A5439 = "タンクが空だ！"
 	15D059EE46A10501EBFBED9C8F28505B = "ターゲット"
+	3687AE304A975F7AF28A8DBC2ED0BAC5 = "目標の脅威判定"
 	14B0BF7B429451A7CA13068A643D989F = "目標発見"
 	7227DB4E45CF05D9D3674AA3B55B838E = "ターゲットが爆発"
 	D1F63CD14C6C5CBBABA9FE9C66A3DDFE = "直接ダメージで殺された対象は、爆発する場合がある"
@@ -4879,6 +4917,7 @@ Any credits and resources spent have been refunded to your account. Happy moddin
 	B607F04F45EF5FFAE8ACFFADA89026D8 = "MK3 は鉱夫用ギアの中で最も高級品であり、この廉価版でさえ他のアーマーよりいくつか改良点が加えられている。頑丈な動力電池がプレートに組み込まれ、FM ラジオを襟に入っているのは勿論の事、スナックを入れるポケットもある。"
 	02D367C647443B7BC2BCF597B5F60EF4 = "MK5ガンナースーツは旧世界の亀に似ていて、体にぴったりフィットする。違いの分かるガンナーのためのアーマーであり、防御力と機動力を兼ね備えている。命令を言いつける時に震える小物ドワーフがしがみつくのにいい手すりもついている。"
 	DCDA9DC949887F8DE364D3810121CC7B = "昔からのオイリー オウフ。軽めな飲み物の一つではあるが、濃厚で後味にバターを感じる美味しさと低価格帯が相まって、酔っぱらいが帰らない。"
+	3F0A521F446BE3345EA1978F4EAC3231 = "多かれ少なかれプラズマ バースターは期待に応えるだろう。起爆すると即座に熾烈な 4 つのプラズマを放つ。必ずヒゲから離しておけ。"
 	BDC555B04347B711E259F19A7EC00A5F = "補給が来たぞ！"
 	CDE0369F485F0684E9852696C226DC60 = "ホクソセスの塩坑はかつて巨大な地下湖だった。そこには数十億年前に乾燥し、大規模に結晶化した赤い塩の堆積物が残されている。赤い塩には市場価値がなくてもグリフィッド オムレツに合わすとかなり美味だ。"
 	9E30AD4649558B6A4B2BFBACF90C9750 = "スカウトは重い装備を着ない。だが 2 トン級ドレッドノート 3 匹が近くにいれば、たまには着たくなるだろう。気をつけろ。"
@@ -4914,7 +4953,7 @@ Any credits and resources spent have been refunded to your account. Happy moddin
 	4B4BAA624715C6F2FD31B894015641F9 = "発射されるラインがすぐさま変形し、至近距離での能力が向上する"
 	E20274D848C3FE6C3A8571BC741F4249 = "最大容量はミッション開始時に所持している弾薬量と、補給できる弾薬量を決定します。"
 	1427F38744164A0EACBE5C9DF34C4A82 = "記念ホールは戦死者を弔うためにある。自由に歩いて敬意を払うことができるぞ。"
-	39BD1CF440B83EBA505AF9852120B3A0 = "M.U.L.E.がドロップポッドに呼び戻された！"
+	39BD1CF440B83EBA505AF9852120B3A0 = "M.U.L.E. をドロップ ポッドに呼び戻したぞ！"
 	911620A14A68BCA957363AA95E336206 = "MK3 アーマーの袖が無い仕様。安価で比較的軽量だが、この快適なスーツは殆どの作戦で必要とされる防護性能をドリラーに提供している。いずれにせよ箱の上にある自賛宣伝は気にするな…"
 	3C91B4CC42E492A2B686CC842D9C2D65 = "DRG も認めた真のブリュー。苦くて酔いが回るが労働者を行動不能にさせるほど強くはない。"
 	6A26F9D647B828C478B187A6F32C0097 = "モンスタースレイヤーには完璧な見た目だ。"
@@ -4930,7 +4969,7 @@ Any credits and resources spent have been refunded to your account. Happy moddin
 	0B341780426D5E08CF8361A16B7DB179 = "スキャナーがクリスマスツリーみたいに光ってきやがった。スウォームが来るぞ！"
 	D513566A466E768AE0768BAEA3C2EFA5 = "ドロップポッドの座席は従業員専用だ、ドラム缶用じゃない。"
 	E2688312493C4BD08B39E09648B96F7B = "セントリーは弾薬補充をせずにより多くの弾を撃てようになる。"
-	0BA570FA44694F4556C5EC91253A803B = "シールドの防御効果は、シールドを離れても数秒間持続する。"
+	0BA570FA44694F4556C5EC91253A803B = "シールドの効果終了後、もう1度シールドが出現する"
 	96F13203494F014D1C9D70A44CED3D4C = "クリップやマガジン、タンクの容量はリロードを行わずに撃てる量へ影響します。"
 	C9717D60437F9175FCF297A5BB04B8C1 = "群れの勢いはほぼなくなった。君もまだ生きている。よくやった！"
 	A6A1B8604498416ED8688BA6230F6489 = "群れが向かっている！"
@@ -4984,6 +5023,7 @@ Any credits and resources spent have been refunded to your account. Happy moddin
 	F32BDEA848F6B085961F31B3F6F831EA = "そろそろ本気になるぞ！"
 	FB44C49540924FD27D82BF9914BD33E0 = "爆発するぞ！"
 	BDA0F55942248C6490A98996CFC3364E = "俺を殺せると思ったか？考え直せ！"
+	B36B13344733677C059352AA3AD96C83 = "このL.U.R.E(Laser Utility Refraction Emitter)は、付近の全ての敵を引き付けるハンサムなホログラムを写し出すぞ。敵との距離を離したい時に有効だ。注意：破壊されると壊滅的な電撃を放ちます。"
 	8ABC4BF842A91F992EF30DBEF35D0917 = "このエリアはまだ建設中だ、戻れ！"
 	075BBF7A4EB86BCE7C292DA2B7A4DF09 = "これは払う意味があるんだろうな…"
 	330EEDAF4B116692F400669C524E287D = "これは無価値だ！"
@@ -5241,12 +5281,13 @@ Any credits and resources spent have been refunded to your account. Happy moddin
 	E48F95F54597B6464AB7019CD7D57AFC = "解除: スカウト レベル 25"
 	26AB3AB84A59216A284A158F2C27C181 = "アンロックした！"
 	790CD48846F0BE89F64B7CA517FFA956 = "ミュート解除"
-	7979159141F4EA5B0774E2B0FFC1AF1D = "Unstable Containment Field"
+	7979159141F4EA5B0774E2B0FFC1AF1D = "不安定格納フィールド"
 	0EB38662449FB7A32E603E85AB1114E0 = "今にも崩れそうな結晶"
 	2D3A27094C5330CD483F8C955E302A89 = "不安定な爆発物"
 	A6FCC3234C482F2C2566C29085D157AF = "今にも崩れそうな氷"
 	CFDDAB214B6DA680B1F3659D7E9F4438 = "今にも崩れそうな氷"
 	C2F6E14944027FE080FFBDA8F154153E = "無傷"
+	7EB9BADA4A11C5A8F599A180AA95C5CD = "昇進しよう！"
 	526245574CD50194E47FB4B22916D051 = "ギアのアップグレード"
 	A95D23FB4C3D83017928E8B1DF11544A = "サポーター エディションにアップグレード"
 	ABFAE684490081995B47F9A5545C8A5E = "性能向上型コンデンサ"
@@ -5281,13 +5322,13 @@ Any credits and resources spent have been refunded to your account. Happy moddin
 	0E54659E462ED2B0D1724FA30C0A6E59 = "Version: XXXXXX"
 	44A3445A484377F58C5D6BBC70FFECF8 = "マウスの垂直感度"
 	9507617048BFD644D6492281954EF055 = "ほんのごく僅かなドワーフだけがリタイアするまで生き延びてこれなかった。君は素晴らしい従業員だ。我々は新入社員を夜明けに迎え入れるから、シャトルを出る前にキャビンを清掃しておいてくれ。"
-	83F25C7C46CC8B2DF5A12D8E723E925D = "Very few dwarves truly have what it takes to work the hardest and most lethal work environments Hoxxes has to offer. By the way - part of what it takes is equal doses of stupidity, recklessness and exellent combat skills! 
+	83F25C7C46CC8B2DF5A12D8E723E925D = "ホクソセスの持つ最も過酷な労働環境で働く為には、ほんの僅かな一握りしかいない真のドワーフになることです。なお真のドワーフとは愚かであり、向こう見ずであり、そして優れた戦闘スキルの素質が備わっていることを指します！
 
-Prove yourself worthy on Haz 4 and we will grant you access to Hazard Level 5 missions. 
+ハザード 4 で自らの能力を証明し、ハザード レベル 5 ミッションのアクセス権を獲得して下さい。
 
 
-- Regards, 
-Management"
+- 敬具
+管理部"
 	DA486CC0432841353D021396815673FD = "最近の流行り"
 	5566E67A476CF5E36272B7A7E36CF03C = "とても先進的"
 	10246BE04BE7FFC4ED29AD8489174AB2 = "とても目立たない"
@@ -5453,6 +5494,8 @@ Steam と Discord を通じて作業中です。
 	ABC7EB534443EAF6872712A8E2FC84D4 = "これまで私達は爆発的にゲームの開発を行ってきましたが、まだまだ完了していません。Hoxxes IV はまだ本当の秘密を打ち明けてはいないのです…"
 	870475E94E4A39320CDEBA9357EC5495 = "弱点ボーナス"
 	10C2B6E04825038C14AC4392C89DFA57 = "弱体化フィールド"
+	494E8BBB4FCD3C099DAB76B90D959E2A = "弱点"
+	50495DBB400A385C3414FD950629F618 = "弱点"
 	43772FFD4EFD3BAED6D984AF805D4987 = "武器ライセンスのアサインを完了"
 	E113F0E44A1454117509788E03C58225 = "武器ライセンスがアップグレードされた！…試しに満足するまで君の仲間を撃つなよ？"
 	988E935042E6DD1E1ADC528A8DFD85FE = "武器ライセンスがアップグレードされたぞ！"スタビー" とも呼ばれるボルテージ SMG は装備ターミナルから購入できるぞ。これだけは言わしてくれ…ビリビリッとするほど最高の武器だ…"
@@ -5502,6 +5545,7 @@ Steam と Discord を通じて作業中です。
 	DF6E40534F79E678DD373F9926C7416D = "その壁の上にあるのは何だ?"
 	DE5459DA4D54425AED8168AA6E7E3F62 = "このミッションが終わったらホクソセスとはバイバイして、隠居生活だ！"
 	B4B6B9254E60DF119D63319DEE7C420B = "銃弾と鈍器では物足りない場合、轟き粘るナパームの海が効きます。あなたの顔にはほぼ付かないのでご安心を。"
+	2ED48428426BB69918FCFB8F07000864 = "グレネードが一発ではうまくいきそうにない時にどうぞ。要するにこれはあなたの手の平の中のハルマゲドンです。"
 	8C39D8614BA42BC6B5CE179E0C8B63B2 = "ミッションを選択時には「警報」と「異変」が表示されます。警告ではミッションがより困難になりますが、成功時には報酬にボーナスが上乗せされます。なお異変は殆どの場合、洞窟システムにとって有利になる事象です。"
 	8BBAF5AA458CECDFAB381EAC68092AF3 = "いまいましい虫を家族のように感じ始めたら、それは終わりのときだとわかってる！"
 	2F75409A483967E91BE9FCB13964A46F = "これが終わったら、絶対に自分の鉱山を持つんだ。成功してあいつらに見せつけてやる！"
@@ -5600,11 +5644,13 @@ Steam と Discord を通じて作業中です。
 	6793D137418C5C32E44B8AB87A8686D7 = "ウェーイ！"
 	6916DE064F2C49F7CEF139A866B8461A = "イェーイ！"
 	924F02AA4E6835DAE84542AE43D1543A = "イエッーイ！"
+	9939C65B4E3B0532821CF6B0BA83BA5D = "イェーイ！"
 	A75990E544B21E67E3D13D815CC138E7 = "イェェェ！"
 	B8839DA64938254E8EEE1386B0E0B587 = "ヤァァァァ！"
 	CDCE1C0440F87D6DEB4F05B70D7F12A6 = "イェェア！"
 	DF90E3584CD7F14EA2C45EB626630546 = "イェェア！"
 	E4BDFBBE42F788575DBFE785C13F79B2 = "イェェア！"
+	F0A101774AAE64C506887EBA9BCA336B = "イェーイ！"
 	F35984BE472EEA9CDFD667957AB13763 = "イェーーイ！"
 	5306BFD04C6559D9DA64E0B62CE7CF9C = "イーーーーーーハァッ！"
 	40949E4E4067A8DF2CEBD197340DB446 = "イーーハァ！"
@@ -5877,191 +5923,189 @@ Namespace Missions (4 keys)
 	1010646B4BFAEF7DC7D7B0AC7CF9AD7A = "目標達成、M.U.L.E から採掘ポッドを呼べるぞ"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "目標達成、M.U.L.Eから採掘ポッドを呼べるぞ！"
 
-Namespace PatchNotes (53 keys)
-	Update_23 = "Alright, Miners - gather ‘round and shut up!
+Namespace PatchNotes (56 keys)
+	Update_23 = "﻿よし鉱夫、黙って集まれ！
 
-It appears ol’ Hoxxes still has plenty of surprises in store for us - over the last month or so, Scanners have picked up a slew of new and disturbing biosigns. We expect you all to face a significantly wider variety of wildlife down in the caves, so DOUBLE CHECK YOUR GEAR, and BRING ALL THE GRENADES YOU CAN CARRY. DRG isn’t in the business of being knife-eared cowards though, so get to it, and let’s get those quotas met!
+そこに古くから鎮座するホクソセスにまだまだ秘密を抱えているようだ。先月くらいから、スキャナーは新たな不穏な生物反応を検知している。我々は君たちが洞窟に潜む全ての虫共に接触することを期待しているぞ。君の装備を確認し、持てる全てのグレネードを取れ。DRG はナイフ耳をした臆病者の会社ではない。すぐに取り掛かって、四半期目標を達成しろ！
 
-With regards from Management,
-- The Ghost Ship Crew
+管理部より
+- The Ghost Ship 一同
 
---- PATCH NOTES ---
+--- パッチ ノート ---
 
-A GAZILLION NEW ENEMIES
+膨大な新たなる敵
 -----------------------------------
-GLYPHID MENACE
-- This distant cousin of the Glyphid Acidspitter is both smarter, faster, and more aggressive. It’ll burrow into the ground between firing off devastating volleys of corrosive goo, making for a high-priority target when spotted.
+グリフィッド メネス
+- こいつはグリフィッド アシッドスピッターの縁い親戚ですが、より賢く、早く、そしてもっと攻撃的です。優先目標を発見した際には強力な腐食性のベトベトを作り、発射するまで地面の巣穴に潜みます。
 
-GLYPHID WARDEN
-- This mysterious Glyphid sends out regenerative waves of spores to its nearby kin, reinvigorating and buffing them. Better take it out quick.
+グリフィッド ウォーデン
+- この神秘的なグリフィッドは近くの生物に胞子を送り出し、再活性化させ彼らを強化します。素早く倒すことをおすすめします。
 
-GLYPHID BULK DETONATOR
-- A sickening horror of the deep. It’s Bulky and it Detonates. You’ll know it when you see it - and then you’ll likely die. You have been warned.
+グリフィッド バルク デトネーター
+-深淵に潜む吐き気を催すほどの生物で、体格が大きく、爆発します。もし見れば恐らく死ぬでしょう。警告はしました。
 
-NAYAKA TRAWLER
-- The first species encountered of this awful breed of Hoxxes wildlife. The Trawler has been observed in the Sandblasted Corridor Region and it burrows through sand at high speeds, aiming to catch prey in its’ extended maws as it passes. Don’t stand in front of it. 
+ナヤカ トローラー
+- この醜い種はこれまでのホクソセスの野生生物の中で、初めての種となります。トローラーはサンドブラストの回廊で確認されており、高速で砂を掘り起こしながら伸ばした口で獲物を汲み取うとしています。前に立たないようにして下さい。
 
-GLYPHID GRUNT SLASHER
-- A more durable and fast version of its weaker cousin, the Grunt. Plus...its long-bladed legs deal thrice the damage. Nasty buggers! 
+グリフィッド グラント スラッシャー
+- 軟弱なグラントの親戚ですが、より丈夫で高速です。それに、鋭く長い脚で 3 倍のダメージ力があります。嫌な虫だな！
 
-GLYPHID GRUNT GUARD
-- Another variation of the Glyphid Grunt. This one is heavily armored and has twice the health but is a bit slower than a normal Grunt.
+グリフィッド グラント ガード
+- グリフィッド グラントの一種で、通常のグラントに比べると少し動きは鈍いですが、分厚い装甲と体力が 2 倍になっています。
 
-RADIOACTIVE GLYPHID PRAETORIAN
-- In the Radioactive Zone, Praetorians have mutated and now do radiation damage! Better keep your distance.
+ラジオアクティブ グリフィッド プレトリアン
+- 放射性区域ではプレトリアンが変異しており、放射線損傷を引き起こします！距離を取りましょう。
 
-RADIOACTIVE GLYPHID EXPLODER
-- Exploding with radiation! ‘Nough said! 
+ラジオアクティブ グリフィッド エクスプローダー
+- 爆発して放射線を撒き散らします！これ以上もう何も言わなくていいでしょう！
 
-RADIOACTIVE GLYPHID SWARMERS
-- They glow in the dark and are radioactive - they’re small enough that the radiation they emit isn’t enough to affect a healthy dwarf, however. 
+ラジオアクティブ グリフィッド スウォーマー
+- 放射線区域の闇の中で成長しており、小さなままですが健康なドワーフを傷つけるのには十分な働きをします。
 
 
-ENEMY TWEAKS
+敵の微調整
 -----------------------------------
-GLYPHID DREADNOUGHT OVERHAUL
-- New behavior: If the players are hidden in a small hole, the Dreadnought will now destroy the terrain until it gets to them. Can’t stop me now!
-- New attack: Swarmer Egg. Besides the fireball, the Dreadnaught will shoot a projectile full of swarmers. If hits the players, it will also cover them with pheromones, turning them into the target of new enemy swarmer spawns.
-- Regenerating armor. Make sure to attack it while it’s vulnerable. Health values have been modified to conform to this new system.
-- An all-new Boss Health Bar lets you know when you are facing a serious challenge. For the moment it’s only for the new and improved Dreadnought, but it’s almost like we have plans to use it for more things in the future, isn’t it? :>
-- Fixed the bug that would allow you to trap the Dreadnought using the Gunner’s shield
-- All its attacks and behaviors have been tweaked. The Dreadnaught is now more aggressive, more responsive, and more dangerous. Management wishes you luck.
-- More Nitra is spawning in elimination missions since you will need more ammo to take down a Dreadnought.
-- Fix so 2 Dreadnoughts can’t spawn in Point Extraction at the same time
-- Supply Pods won’t instakill a Dreadnought anymore - it still deals a good chunk of damage though.
-- Dreadnought's fireball damage reduced
-- Tweaks to Dreadnought's behavior for solo play
+グリフィッド ドレッドノートのオーバーホール
+- 新しい挙動としてもしプレイヤーが小さな穴に隠れていると、ドレッドノートはプレイヤーを見つけるまで地面を破壊し続けます。もう誰も止められない！
+- 新しい攻撃として、火球とは別にスウォーマーでいっぱいの卵を吐き出します。もしプレイヤーに当たるとプレイヤーはフェロモンで覆われ、スウォーマー スポーンから湧いてきた新たなスウォームに襲われます。
+- アーマーが再生されるようになりました。脆弱な時に攻撃し続けましょう。この新システムにあわせて体力値を変更しています。
+- 全くの新しいボス体力バーで、現在の状況を分かりやすくしました。今の所、新しく改良されたドレッドノートのみですが将来的には他のものにも適用するかもしれません :>。
+- ガンナーのシールドを使ってドレッドノートを罠に嵌めることができるバグを修正しました。
+- 全ての攻撃と挙動を微調整しました。ドレッドノートはよりもっと攻撃的になり、反応が良くなり、更に危険になりました。管理部はあなたの幸運を祈っています。
+- 殲滅ミッションではドレッドノートを倒す為に沢山の弾薬が必要になった為、ナイトラをもっと多く生成するようにしました。
+- 地点採掘でドレッドノートが 2 匹同時に湧かないようにしました。
+- ドレッドノートをサプライ ポッドで即死できないようにしましたが、十分なダメージを与えられます。
+- ドレッドノートの火球のダメージを削減しました。
+- ソロ プレイ時におけるドレッドノートの挙動を微調整しました。
 
-Q’RONAR SHELLBACK
-- Rolling periods are now shorter so it will open up more often to shoot (which almost means more chances for players to shoot it).
-- Armor resistance and base health reduced.
-- It can only be found in Salt Pits now. Radioactive Exclusive Zone didn’t feel like a healthy place to settle down.
+クローナー シェルバック
+- ローリングの時間を短くし、もっと撃たれやすくしました (プレイヤーがもっと撃ちやすくなるということになります)。
+- アーマーを壊れやすくし、基礎体力を削減しました。
+- 塩の坑道でのみ発見できるようにしました。放射性管理区域は生息地として、健康に悪いようです。
 
-CAVE LEECH 
-- Received a much-needed model and animation overhaul. Now grabbier than ever!
+ケイブ リーチ
+- モデルとアニメーションにオーバーホールを行い、これまで以上にグラバー風になりました！
 
-NAEDOCYTE SHOCKERS
-- All new model and animations. 
+ナードサイト ショッカー
+- モデルとアニメーションが全て新しいものになりました。
 
-BET-C BATTLE MULE
-- BET-C’s grenades have proper models and improved shaders
-- BET-C now moves away if there are players too close to her for a few seconds
-- BET-C no longer turns into an unkillable murder machine if the parasites die too quickly
+BET-C バトル M.U.L.E.
+- BET-C のグレネードに正しいモデルを与え、シェーダーを改良しました
+- BET-C はプレイヤーに近づき過ぎたまま数秒間経つと、離れるようになりました
+- BET-C は敵生物を即死させると、誰も殺さない殺人マシンになっていたのを止めました
 
-MISCELLANEOUS ENEMY TWEAKS
-- Enemies now only use melee attacks that are in range to actually do damage
-- Grabber only screams if its target is valid
-- Chance of getting a generic scripted wave increased compared to special scripted waves
-- Tweaked all the Glyphids blood particles. They are now much more visible
-- Glyphids have received several new attack animations
-- Glyphid Warriors have been renamed to Glyphid Grunt, because that’s what everyone kept calling them. Also, it fits. :>
-
-
-MISSION TWEAKS
------------------------------------ 
-DIFFICULTY
-- Difficulty slightly reduced on 2-3 player games on Hazard Level 3-5
-
-ELIMINATION MISSION
-- The location of the cocoons will no longer be displayed using an icon, now they appear on the terrain scanner
-- Cocoons are more evenly distributed throughout the map
-- New debris has been added in the vicinity of the Cocoons, in case you had trouble spotting the 15 ton, pulsating, gurgling, alien egg
-
-SALVAGE MISSION
-- Defense Zones have been increased a bit in size
-
-EGG COLLECTION
-- Reduced Egg Collection goals depending on Cave Complexity from 5, 8, 10 to 4, 6, 8 
-
-POINT EXTRACTION
-- Slightly increased spawn rates
-- Wave music added to the announced waves
+その他の敵の微調整
+- 敵は近接攻撃でダメージを与えられる時だけ、近接攻撃をするようになりました
+- グラバーは目標が有効の時だけ叫ぶようにしました
+- スクリプト化特殊ウェーブにあわせて、スクリプト化通常ウェーブの確率を増やしました
+- 全グリフィッドの血パーティクルを微調整し、もっと見えやすくしました
+- グリフィッドへ新たにいくつか攻撃アニメーションを追加しました
+- グリフィッド ウォーリアはグリフィッド グラントへ改名されました。これは皆がそう呼んでいるためであり、またそちらのほうが相応しいからです。:->
 
 
-CLEARER GEM FRAGMENT INDICATION
+ミッションの微調整
 -----------------------------------
-- The glowing bits around embedded crystals like, Aquarq, Jadiz etc. now only glow when said item is close. No more returning to already mined spots!
+難易度
+- ハザード レベル 3-5 で、プレイヤーが 2-3 人の際は難易度を僅かに減少させました
+
+殲滅ミッション
+- 繭の位置をアイコンで表示せず、地形スキャナー上で表示するようにしました
+- 繭はマップ全体を使って配置されるようにしました
+- 繭の付近に、危機を感じ取れるよう巨大な重量物や脈動、揺れ、エイリアンの卵といった痕跡を追加しました。
+
+回収ミッション
+- 防衛範囲を僅かに広げました
+
+卵刈り
+- 必要な卵の量を洞窟の難易度に応じて削減するようになり、5、8、10 から 4、6、8 になりました。
+
+地点採掘
+- 生成値を僅かに上昇させました
+- アナウンス ウェーブにウェーブ音楽を追加しました
 
 
-MORE GEAR MODS
+宝石の破片表示を明確に
 -----------------------------------
-- We are still in the process of adding mods to all the gear and we are slowly getting there. After this update, only the Pick Axe and the Grenades are left to do. 
+- アクアークやジャディズといった、埋没している宝石の周りに輝く破片を出現させるようにしました。現在は埋まっているアイテムの周辺だけ光るようになります。これにより既に採掘された場所へ再び戻ることが無くなります！
 
-LMG GUN PLATFORM
-- Number of turrets, target prioritization, build speed, scan angle. You are a special snowflake and now your automated killing machine can be too.
 
-SATCHEL CHARGE
-- Have you ever thrown down a Satchel Charge only to regret it immediately? Well, now you can install a kill switch for safe disarming and retrieval. Plus many other mods like carve size and fear effects.
+装備カスタマイズを拡張
+- 我々は現在も全ての装備に対してカスタマイズを追加しており、ゆっくりと進んでいます。このアップデート後は、残すところつるはしとグレネードのみとなっています。
 
-FLARE GUN
-- More flares? Longer burn time? Auto-reload? Illuminate the situation with these and other mods.
+LMG プラットフォーム
+- タレットの数や目標選定、弾速、走査範囲を追加しました。あなたは大量殺戮者であり、あなたの機械もそうなのです。
 
-SHIELD GENERATOR
-- Customize the size, duration and recharge time of your happy place.
+サッチェル チャージ
+- サッチェル チャージを投げてすぐに後悔したことは？現在は無効化して安全に解除できるようになりました。また大きさや恐怖興亜kと言ったカスタマイズも実装しました。
 
-Please note: You have been refunded credits and minerals invested in previous upgrades!
+フレア ガン
+- もっと明かりが欲しい？しかも長く燃やしたい？自動リロードも？カスタマイズで周囲をより明るく照らせるようにしました。
 
-STATUS EFFECTS ON HEALTH BAR
+シールド発生器
+- 大きさや持続時間、充電時間をお好みに合わせて変更できるようになりました。
+
+注: これまでのアップグレード費用と資源は返金されています！
+
+体力バーに状態表示
 -----------------------------------
-Enemies’ health bars now display status effects such as being electrocuted, etc. They also show temperature variations so players can now know how far from bursting into flames or freezing they are.
+敵の体力バーには感電といった状態を表示するようにしました。また温度も併せて表示しており、プレイヤーはどのくらい熱いのか、寒いのかを知れるようにしました。
 
 
-VANITY
+バニティー
 -----------------------------------
-MK5 ARMOR SETS
-- Management has approved the introduction of an all-new set of armor for the most experienced employees to procure - the mighty Mark 5! 
+MK5 アーマー セット
+- 管理部は熟練した従業員に全くの新しいアーマー セット、Mark 5 の導入を承認しました！
 
-1ST PERSON ARMOR
-- All first-person animations now display the correct armor!
+一人称視点から見るアーマー
+- 一人称視点用のアニメーションは、正しくアーマーを表示するようになりました！
 
-SUPPORTER GEAR MORE GOLDIER
-- By popular request, the Supporter Upgrade Armor and Weapons have gotten a material overhaul - now more goldier than ever!
+サポーター用の装備をもっと華やかに
+- 多くの要望にお答えして、サポーター アップグレード アーマーと武器にマテリアルのオーバホールを行い、金ピカになりました！
 
 
-BOSCO QUALITY OF LIFE IMPROVEMENTS
+ボスコの完成度を向上
 -----------------------------------
-- It will now try to position himself below cave leeches, and not above them
-- It will be less glued to the floor when fighting except versus cave leeches
-- It will not fire if something other than enemies is blocking his line of sight
-- Doubled the frequency of Bosco checking if he should get out of the way
+- ケーブ リーチの上ではなくその下へ移動するようにしました
+- 戦闘時にケーブ リーチを除き、床へ張り付かないようにしました
+- 敵への射線が通っていない場合は撃たないようにしました
+- ボスコが邪魔になっているかどうかの確認頻度を 2 倍にしました
 
 
-NEW MISC MODELS, SHADERS, AND ANIMATIONS
+新しいその他のモデルやシェーダー、アニメーション
 -----------------------------------
-- New Mallet model for all your building and repair needs
-- New Beacons for Supply Pods
-- New third person animations make it easier to see if a teammate is currently checking the Terrain Scanner
-- Attempt to fix light bug on Stasis Grenade
+- 設置と修理時に使われるトンカチに新モデルを追加しました。
+- サプライ ポッドに新しいビーコンを追加しました
+- チームメイトが地形スキャナーを確認しているかどうかを判別しやすいよう、新しい三人称視点用アニメーションを地形スキャナーに追加しました
+- グレネードにある光源バグの修正を試みました
 
 
-MISC.
------------------------------------
-- Fix crash related to people joining and being immediately grabbed
-- Added a third-person animation to players looking at the Terrain Scanner
-- Fix spelling error in Mini-gun upgrade
-- Fix DisableMasterEQ setting to work correctly 
-- Work on reducing server list backend load
-- The Cryo Cannon’s feedback sounds have been made louder and easier to hear
-- The One Year Celebration is over! If you missed getting the One Year Celebration hat while it was available, tough beans! 
-- Also, Management has returned beer prices to normal. Drink responsibly (because it’s expensive!).
-- Sand and Ice geysers should no longer blow you out of the Drop Pod
-- Fixed Mixer Praetorians not working properly
-- Fixed Mixer spawning 4 times the amount of enemies it was intended
-- Fixed Mixer viewer name not properly working
-- Introducing new enemies to Mixer integration: Mactera Spawn, Mactera Grabber, Mactera Bomber, Acid Spitter, Web Spitter, and Shellback
-- Introducing new assists to Mixer integration: Resupply of ammo
-- Introducing mixer integration in the Space Rig: Buy the streamer beers, explode confetti
-- Exploders’ footsteps sound volume increased
-- Reduced the spawn amount of radioactive crystals
-- Better attenuation for the jukebox
-- Scout Grenade IFG FX tweaked
-- Chatbox: System Messages now green and bold, general line height slightly lowered.
-- Mission success music reactivated
-- Fix Linecutter performance
-- Fixed a bug that caused players with Ironwill to not show as downed in their player portraits after dying
-- Fixed trader terminal assignment showing that you completed it one mission too early
-- Tweaked sounds for shield
-- Fixed the cave leech sense bug that caused the sensing UI to get stuck on a players screen
+その他
+- プレイヤーが接続し、すぐにグラバーに掴まれる事でクラッシュするのを修正しました
+- プレイヤーが地形スキャナーを見ていることが分かりやすいよう、三人称視点用アニメーションを追加しました
+- ミニガンのアップグレードにある誤字を修正しました
+- マスター EQ 無効設定が正しく動作するように修正しました
+- サーバー リストにあるバックエンドの読み込みを削減しました
+- クライオ キャノンの稼働音を大きくし、聞き取りやすくしました
+- 1 周年記念が終了！もし記念帽子を逃してしまったのなら、残念ですが仕方がありません！
+- また、管理部はビールを通常価格に戻しました。(高額になっている為！) 責任を持って飲んで下さい。
+- 砂と氷の間欠泉がドロップ ポッドを吹き飛ばさないようにしました
+- Mixer のプレトリアンが正しく動作していないのを修正しました
+- Mixer は敵を 4 回生成しているのを修正しました
+- Mixer の視聴者名が正しく動作していないのを修正しました
+- Mixer 統合が敵に新しく対応しました: マクテーラ スポーンとマクテーラ グラバー、マクテーラ ボンバー、アシッド スピッター、ウェブ スピッター、シェルバック
+- Mixer 統合が新しいアシストに対応しました: 弾薬の補給
+- スペース リグに Mixer 統合を行いました: 配信者にビールの購入と紙吹雪の爆発
+- エクスプローダーの足音を大きくしました
+- 放射性クリスタルの生成量を減らしました
+- ジュークボックスの減衰を改善しました
+- スカウトの IFG の FX を微調整しました
+- チャット欄に表示されるシステム メッセージを太字の緑色にし、また通常メッセージの行の高さを僅かに低くしました
+- ミッション成功時の音楽を再有効化しました
+- ブリーチ カッターのパフォーマンスを修正しました
+- 鉄の意志を装備しているプレイヤーは死んでも、プレイヤーの状態表示は倒れた状態にならないバグを修正しました
+- 鉱物売買ターミナルのアサインでミッションが早く終わると、完了と表示されてしまうのを修正しました
+- シールド用の音を微調整しました
+- ケイブ リーチの探知を示す UI がプレイヤー画面に残り続けるバグを修正しました
 
 
 "
@@ -6069,6 +6113,7 @@ MISC.
 	Update_20_ShortTitle = " 強く、逞しい、ボスコ"
 	Update_11_ShortTitle = "死と銃"
 	Update_9_ShortTitle = "またな！"
+	Update_24_ShortTitle = "爆発的な成長"
 	Update_14_ShortTitle = "新たな怪物"
 	Update_12_ShortTitle = "FLIES N' FINANCE"
 	Update_21_ShortTitle = "リーサルの到来"
@@ -7473,162 +7518,314 @@ BET-C へ修正
 	Update_17_ShortTitle = "オクトーバーフェスト！"
 	Update_21.5_ShortTitle = "軌道に乗って一周年"
 	Update_10_ShortTitle = "視野が狭い？"
-	Update_24 = "Take your seats, Miners! 
+	Update_24_Xbox = "鉱夫は席に座れ！
 
-We got new grenades, eye candy, personal drop pods, a bunch of new enemies, and a TON of gear tweaks to brief you about, so grab a brew and listen up! 
+我々は新たなグレネードや目の保養、パーソナル ドロップ ポッド、新しいいくつもの敵、そして大量に装備へ微調整を施したから君に説明しよう。ビールを持ってよく聞け！
 
-Also - look out for the [COMMUNITY REQUESTS] - these are things you guys have been very adamant in talking about and bringing to our notice, so keep up the good work! It is, as always, very appreciated. :D
+また [コミュニティからの要望] は、コミュニティが断固として主張し我々に提示したものです。これからも続けて下さい！そしてもちろん、とても感謝しています。:D
 
---- PATCH NOTES ---
+--- パッチ ノート ---
 
-GRENADE LOADOUT
+グレネード装備
 -----------------------------------
-The boys and gals in R&D have been hard at work once more! All the old grenades have been reworked, and a ton of new ones have been added. Each class can now unlock up to three distinct types of class-specific throwables, with the potential for more to come in future Updates.
-- Engineer: L.U.R.E, Plasma Burster, Proximity Mine
-- Gunner: Sticky Grenade, Incendiary Grenade, Cluster Grenade
-- Scout: IFG, Cryo Grenade, Pheromone Canister
-- Driller: Impact Axe, HE Grenade, Neurotoxin Grenade
+研究開発の奴らがまたよくやってくれた！全てのグレネードが作り直され、全くの新武器が実装されました。各クラスは 3 つの異なるクラス特有の投てき武器を使えるようになります。アップデートで更に多くのグレネードが追加されるかもしれません。
+- エンジニア: L.U.R.E、プラズマ バースター、近接地雷
+- ガンナー: 粘着グレネード、焼夷グレネード、クラスター グレネード
+- スカウト: IFG、クライオ グレネード、フェロモン キャニスター
+- ドリラー: インパクト アックス、HE グレネード、神経毒グレネード
 
 
-LOADING SCREEN MAKEOVER
+読み込み画面の変更
 -----------------------------------
-We’ve finally gotten our new orbital drone cameras installed, enabling much better and varied scenic views of mining crews descending to the surface of Hoxxes at the beginning of each mission.
+ついに新たな軌道ドローン カメラを導入し、各ミッションの開始時にホクソセスに降り立つ従業員と一緒に、風光明媚な地表を眺められるようになりました。
 
 
-END SCREEN MAKEOVER
+終了画面の変更
 -----------------------------------
-The End Screen shown at the end of each mission has gotten a much-needed overhaul as well. Now you get to pose and display all your lovely cosmetics in full 3D while the mission data ticks up!
+各ミッションの最後に表示される、終了画面も同様に見直しが必要とされていた所です。ミッションの統計と一緒に 3D 画面で自分のスキンやポーズを表示するようにしました！
 
 
-STEAM ACHIEVEMENTS
+新しいモブ
 -----------------------------------
-They’ve been a long time coming, but they’re finally here! 50+ Steam Achievements have been added to the game, ready to be unlocked! We’ve strived to make them retroactive anywhere it made sense.
+ナードサイト ブリーダー
+スライムの塊が浮きながら、脈打つように卵塊を吐き出しながら酷く飢えた幼体を想像してみて下さい。彼らは優しい巨人のよう (あなたが触手好きかどうかによりますが) に見えますが、もしすぐにこの垂れた飛行船を取り除きたい時は、私達を信じなさい。
+
+ナードサイト ハッチリング
+ナードサイト ブリーダーに任せた結果です。私達は既にこの種と遭遇済みですが、この幼虫とはまだありません。これは飢えのあまり孵化している為、これにオーバーランしないようにしましょう。
+
+クローナー ヤングリング
+シェルバックスの幼体で柔らかい亜種です。単体で活動する成体とは極めて異なり、クローナー ヤングリングは群れて狩りを行います。こいつらを過小評価するべきではないでしょう。
+
+ゴールデン ルートバグ
+これは興味を起こさせるでしょう。通常のルートバグとは異なり、この特定品種は金単体だけで豪華に育ちます。管理部は従業員がスポーツや個人的にこの種を連れて行くことを憂慮していません。
+
+フーリ ホーダー
+ホクソセスに生息する動物種のほとんどが敵対的ですが、この稀少種は少し異なるようです。しばしば“クラウン カー”とも呼ばれるフーリ ホーダーは臆病で、潜在的な危機を感じるとすぐに逃げ出します。通常のルートバグのようにもっぱら鉱物を主食としています。倒すとある程度の利益を得られますが、熱中するあまりチームと離れ離れにならないよう注意して下さい。
 
 
-NEW MOBS
+合流時にドロップ ポッド
 -----------------------------------
-NAEDOCYTE BREEDER
-Imagine a floating bag of slime, constantly spewing out pulsing egg-sacks full of ravenous young. They may look like gentle giants (depending on how much you like tentacles), but trust us when we say you want to take these oozing blimps out quick.
-
-NAEDOCYTE HATCHLING
-The result of leaving the Naedocyte Breeders to do their thing. We’ve run into more developed varieties of these before, but this is the first time we’ve ever encountered them in their larval state. They are hatched ravenously hungry, so mind yourselves that you don’t get overrun.
-
-Q’RONAR YOUNGLINGS
-Younger and softer variation of the Shellbacks. Unlike their more solitary-minded mature state, the Q’ronar Younglings hunt in packs. Do not underestimate them.
-
-GOLDEN LOOTBUG
-Now, this is an interesting one. Unlike the common Lootbug, this particular breed gorge themselves on gold alone. Management has no qualms with employees taking them out for sport and personal gain. 
-
-HUULI HOARDER
-This rare beastie seems like a bit of an oddity among the otherwise mostly hostile Hoxxes fauna. Often referred to as “The Clown Car”, the Huuli Hoarder is an abject coward and will run away from any potential threat once startled. However, like the common Lootbug, they subside solely on a diet of precious minerals - as in, taking them out will net you a tidy profit, just take care that you don’t let it separate you from your team.
+[コミュニティからの要望] 管理部は従業員の安全を考慮していないという訳ではありません。ミッション途中で参加するには、これまでのように恐ろしく不安定なテレポート技術ではなくパーソナル ドロップ ポッドへ詰め込まれ、安全にミッション地域へ移動できます。着陸地点では、補給ポッドのように距離を取ることをお勧めします。
 
 
-LATE JOIN DROP POD
+DISCORD 統合の改善
 -----------------------------------
-[COMMUNITY REQUEST] Let it not be said that Management does not care about employee complaints. Joining a mission already in progress now dumps you into a personal drop pod, letting you safely land in the mission area instead of utilizing the horribly unreliable teleportation technology used so far. As with the Supply Pod, it is recommended to keep a safe distance to the landing zone. 
+スペースリグから直接、鉱夫組合に加入し我々の素晴らしい Discord コミュニティへ入れるようになりました！我々はもっと手を加える予定ですが、今の所アクティブなメンバー数を確認できます。
 
 
-BETTER DISCORD INTEGRATION
+ミッションとアサイン
 -----------------------------------
-Sign up for the Miner’s Union and join our wonderful Discord community directly from the Space Rig! We have bigger plans for this down the line, but for now, you can use it to see the number of active members and such.
+- [コミュニティからの要望] ミッション マップには全てのチームメイトにアサイン アイコンを表示し、次にどのミッションが選ばれるか分かりやすくしました
+- [コミュニティからの要望] ハザード 5 の解除アサインにはハザード 4 ミッションのプレイを必須にしました
+- [コミュニティからの要望] ドワーフがゲームから抜けると、抜けたドワーフが持っていた資源を入れた資源ポーチを落とすようにしました
+- [コミュニティからの要望] ドローン カスタマイズ ターミナルからソロ ミッションにボスコを連れて行くかどうかを決定できるオプションを追加しました
 
 
-MISSIONS AND ASSIGNMENTS
+UI とコントロール
 -----------------------------------
-- [COMMUNITY REQUEST] The Mission Map now displays Assignment Icons for every team member, making it easier to choose which missions to go on.
-- [COMMUNITY REQUEST] The Hazard 5 Unlock Assignment now requires you to play the associated missions on Hazard 4 difficulty
-- [COMMUNITY REQUEST] Dwarves leaving a game will now drop a resource pouch with any materials they had in their inventory
-- [COMMUNITY REQUEST] Added an option to opt Bosco out of solo missions at the Drone Modification Terminal
+- 個人用気温 HUD をオーバホールしました
+- [コミュニティからの要望] マウス スムージングを無効化するオプションを追加しました
+- 装備ターミナル内で装備の状態表示を改良しました
 
 
-UI AND CONTROLS
+つるはしのパワー アタック
 -----------------------------------
-- Personal Temperature HUD overhaul
-- [COMMUNITY REQUEST] Added option to disable Mouse Smoothing
-- Improved gear stats display in the Equipment Terminal
+噛み付く何かに囲まれたことは？その時の気持ちを奴らに味あわせてやりましょう！つるはしで掘りながら攻撃ボタンを押すことで、パワー アタックをお見舞いできます。クールダウン時間があるため、賢く活用して下さい。
 
 
-PICKAXE POWER ATTACK
+モデルと音
 -----------------------------------
-Surrounded by awful bitey things? Let them know how you feel about that! While having your pick out, hit Fire to unleash a devastating Power Attack. There’s a cooldown on it, so spend it wisely.
+- エンジニアのヘビー セントリーに新しいモデルを追加しました
+- マインヘッドのセントリーに新しいモデルを追加しました
+- マインヘッドに新しい投光器のモデルを追加しました
+- いくつか新しい敵と武器の音を追加しました
+- スペースリグ上で表示されるホクソセスに新しいモデルを追加しました
 
 
-MODELS AND AUDIO
+装備の微調整
 -----------------------------------
-- New Heavy Sentry model for Engineers
-- New Sentry models for the Minehead
-- New Floodlight models for the Minehead
-- Several new enemy and weapon sounds
-- New Hoxxes model shown on Space Rig
+つるはし
+- 2 倍の速さで掘れる悪用方法を修正しました
 
+“サンダーヘッド重機関砲
+- 機関砲の連射速度がリセットされないバグを修正しました
+- 機関砲のカスタマイズ、軽量バレル アセンブリを修正しました
+- 機関砲を微調整し連射速度を基準並みになるよう増やしました
+- カスタマイズからスタンを削除しました
 
-GEAR TWEAKS
------------------------------------
-PICKAXE
-- Fixed the Q-mining exploit
+“リード ストーム” パワー ミニガン
+- カスタマイズ、スタンの確率を削減しました
+- スタンの持続時間を削減しました
+- カスタマイズ、アグレッシブ ベントがクライアントで正しく動作するよう修正しました
 
-“THUNDERHEAD HEAVY AUTOCANNON
-- Fixed a bug with Autocannon fire rate not resetting
-- Fixed Autocannon lighter barrel assembly mod
-- Tweaked Autocannon fire rate to increase in a more linear manner
-- Removed Stun mod
+ディープコア GK2
+- よろめきからスタンへ名前を変更しました
+- 装備状態は弱点攻撃でスタンが起きると正しく武器によるものと表示するようにしました
 
-“LEAD STORM” POWERED MINIGUN
-- Decreased Stun mod chance
-- Decreased Stun duration
-- Fixed Aggressive Venting modification to properly function as client
+試作プラズマ チャージャー
+- 通常跳弾を弾性プラズマに名前を変更しました
+- カスタマイズのチャージ爆発弾頭を不安定格納フィールドに名前を変更しました
+- 不安定格納フィールドの爆発範囲とダメージを増加させました
+- 撃っても "普通の" ダメージを与えているのを修正しました
 
-DEEPCORE GK2 
-- Renamed Stagger to Stun
-- Gear stats now display the weapon's stun on weak point hit functionality correctly
+“ブルドッグ” "ブルドッグ" ヘビー リボルバー
+- カスタマイズからスタンを削除しました (購入していた場合は返金されます)
+- 固有の特性能力としてスタンを追加しました
 
-EXPERIMENTAL PLASMA CHARGER
-- Renamed Normal Shots Bounce mod to Bouncy Plasma
-- Renamed Charged Projectile Explodes mod to Unstable Containment Field
-- Increased Radius and Damage of Unstable Containment Field implosion
-- Fixed some EPC shots doing "generic" damage
-
-“BULLDOG” HEAVY REVOLVER
-- Removed Stun Mod (anyone who purchased it will get a refund)
-- Added stun chance as an inherent property of the gun
-
-JURY-RIGGED BOOMSTICK
-- Stun Mod proc chance increased
-- Tungsten Pellets Mod armor damage multiplier increased
-- Blast Wave description made more clear (hopefully)
-- Blowthrough Mod changed to Super Blowthrough (can penetrate multiple targets)
-- Fixed Blast Wave mod to work consistently
+ソードオフ ショットガン
+- カスタマイズのスタン確率を上昇させました
+- カスタマイズのタングステン ペレットがアーマーに与えるダメージの係数を上昇させました
+- 衝撃波の説明をもっと分かりやすくしました (うまくいけば)
+- カスタマイズの貫通弾を高貫通弾に変更しました (複数の目標を貫通できます)
+- カスタマイズの衝撃波が一貫した動作になるよう修正しました
 
 ZHUKOV NUK17
-- Removed the Stun mod (anyone who purchased it will get a refund)
-- Rearranged some of the other mods to better balance the potential builds
-- Increased the accuracy penalty while moving
-- Increased the speed with which accuracy is regained
-- Decreased accuracy spread when shooting
-- Increased Tier 4 Expanded Ammo Bags mod from +100 to +150 ammo
+- カスタマイズからスタンを削除しました (購入していた場合は返金されます)
+- 一部のカスタマイズを再配置して、組み合わせしやすいようにしました
+- 移動中の精度減少度を増加させました
+- 精度が回復する速度を増加させました
+- 射撃時の精度減少を低減させました
+- ティア 4 のカスタマイズ、拡張弾薬バッグの弾薬量を +100 から +150 に増やしました
 
-M1000 CLASSIC
-- Added a tutorial hint for Focused Shot
-- Fixed Stun modification to work properly
+M1000 クラシック
+- フォーカス ショットにチュートリアルのヒントを追加しました
+- カスタマイズのスタンを正しく動作するように修正しました
 
-BREACH CUTTER
-- Fixed the Breach Cutter so it no longer damages the player if fired directly downwards
+ブリーチ カッター
+- ブリーチ カッターを真下に向けて撃つとダメージを受けてしまうのを修正しました
 
 
-MISC TWEAKS
+その他の微調整
 -----------------------------------
-- Deeptora Honeycomb is no longer immune to fire
-- Glyphid Praetorian acid gas can now be lit on fire again
-- Fixed cases of mission weapon assignment completed not being counted correctly
-- Fixed some invisible colliders in levels displaying as ‘Unknown Material’
-- Credits pages now change properly
-- Fixed a bug that caused a floating Shield Generator or Satchel Charge to appear at the - location of the spawn point
-- Fixed some bugs related to saluting while reloading
-- Fixed certain armors that caused the player’s arms to be invisible at the beginning of a mission
-- Fixed the revive progress bar so it no longer stays on the screen if another player starts and cancels the revive process
-- [MIXER Interactivity] Resupplying Ammo now works
-- Super Blowthrough modifications changed from 10 penetrations to 3 for all weapons that have them
-- Added a failsafe for Shield Generators that fail to deploy
+- デュプトラの蜂巣は火に耐えられなくなりました
+- グリフィッド プレトリアンのガスは再び燃え上がるようにしました
+- 武器アサイン ミッションの完了数が正しく数えられていない場合があるのを修正しました
+- 床にある一部の透明な衝突判定が ‘Unknown Material’ と表示されているのを修正しました
+- クレジット ページが正しく切り替わるようにしました
+- シールド ジェネレーターやサッチェル チャージが生成される場所によって、浮いてしまうバグを修正しました
+- リロード中の敬礼に関連したいくつかのバグを修正しました
+- 特定のアーマーはミッション開始時にプレイヤーの腕を透明にしている原因になっていた為、修正
+- 蘇生の進捗を示すバーはもしほかのプレイヤーが蘇生を始め、中止すると画面上に残り続けてしまうのを修正しました
+- [MIXER インタラクション] 弾薬の補給が動作するようにしました
+- カスタマイズ、高貫通弾を持つ全ての武器で貫通できる数を 10 から 3 に変更しました
+- シールド ジェネレーターの展開失敗にフェイルセーフを追加しました
+"
+	Update_24 = "鉱夫は席に座れ！
+
+我々は新たなグレネードや目の保養、パーソナル ドロップ ポッド、新しいいくつもの敵、そして大量に装備へ微調整を施したから君に説明しよう。ビールを持ってよく聞け！
+
+また [コミュニティからの要望] は、コミュニティが断固として主張し我々に提示したものです。これからも続けて下さい！そしてもちろん、とても感謝しています。:D
+
+--- パッチ ノート ---
+
+グレネード装備
+-----------------------------------
+研究開発の奴らがまたよくやってくれた！全てのグレネードが作り直され、全くの新武器が実装されました。各クラスは 3 つの異なるクラス特有の投てき武器を使えるようになります。アップデートで更に多くのグレネードが追加されるかもしれません。
+- エンジニア: L.U.R.E、プラズマ バースター、近接地雷
+- ガンナー: 粘着グレネード、焼夷グレネード、クラスター グレネード
+- スカウト: IFG、クライオ グレネード、フェロモン キャニスター
+- ドリラー: インパクト アックス、HE グレネード、神経毒グレネード
+
+
+読み込み画面の変更
+-----------------------------------
+ついに新たな軌道ドローン カメラを導入し、各ミッションの開始時にホクソセスに降り立つ従業員と一緒に、風光明媚な地表を眺められるようになりました。
+
+
+終了画面の変更
+-----------------------------------
+各ミッションの最後に表示される、終了画面も同様に見直しが必要とされていた所です。ミッションの統計と一緒に 3D 画面で自分のスキンやポーズを表示するようにしました！
+
+
+STEAM 実績
+-----------------------------------
+ようやく登場しました！50 以上の Steam 実績をゲームに追加し、解除できるようにしました！合理的であれば遡及して解除できるようにしています。
+
+
+新しいモブ
+-----------------------------------
+ナードサイト ブリーダー
+スライムの塊が浮きながら、脈打つように卵塊を吐き出しながら酷く飢えた幼体を想像してみて下さい。彼らは優しい巨人のよう (あなたが触手好きかどうかによりますが) に見えますが、もしすぐにこの垂れた飛行船を取り除きたい時は、私達を信じなさい。
+
+ナードサイト ハッチリング
+ナードサイト ブリーダーに任せた結果です。私達は既にこの種と遭遇済みですが、この幼虫とはまだありません。これは飢えのあまり孵化している為、これにオーバーランしないようにしましょう。
+
+クローナー ヤングリング
+シェルバックスの幼体で柔らかい亜種です。単体で活動する成体とは極めて異なり、クローナー ヤングリングは群れて狩りを行います。こいつらを過小評価するべきではないでしょう。
+
+ゴールデン ルートバグ
+これは興味を起こさせるでしょう。通常のルートバグとは異なり、この特定品種は金単体だけで豪華に育ちます。管理部は従業員がスポーツや個人的にこの種を連れて行くことを憂慮していません。
+
+フーリ ホーダー
+ホクソセスに生息する動物種のほとんどが敵対的ですが、この稀少種は少し異なるようです。しばしば“クラウン カー”とも呼ばれるフーリ ホーダーは臆病で、潜在的な危機を感じるとすぐに逃げ出します。通常のルートバグのようにもっぱら鉱物を主食としています。倒すとある程度の利益を得られますが、熱中するあまりチームと離れ離れにならないよう注意して下さい。
+
+
+合流時にドロップ ポッド
+-----------------------------------
+[コミュニティからの要望] 管理部は従業員の安全を考慮していないという訳ではありません。ミッション途中で参加するには、これまでのように恐ろしく不安定なテレポート技術ではなくパーソナル ドロップ ポッドへ詰め込まれ、安全にミッション地域へ移動できます。着陸地点では、補給ポッドのように距離を取ることをお勧めします。
+
+
+DISCORD 統合の改善
+-----------------------------------
+スペースリグから直接、鉱夫組合に加入し我々の素晴らしい Discord コミュニティへ入れるようになりました！我々はもっと手を加える予定ですが、今の所アクティブなメンバー数を確認できます。
+
+
+ミッションとアサイン
+-----------------------------------
+- [コミュニティからの要望] ミッション マップには全てのチームメイトにアサイン アイコンを表示し、次にどのミッションが選ばれるか分かりやすくしました
+- [コミュニティからの要望] ハザード 5 の解除アサインにはハザード 4 ミッションのプレイを必須にしました
+- [コミュニティからの要望] ドワーフがゲームから抜けると、抜けたドワーフが持っていた資源を入れた資源ポーチを落とすようにしました
+- [コミュニティからの要望] ドローン カスタマイズ ターミナルからソロ ミッションにボスコを連れて行くかどうかを決定できるオプションを追加しました
+
+
+UI とコントロール
+-----------------------------------
+- 個人用気温 HUD をオーバホールしました
+- [コミュニティからの要望] マウス スムージングを無効化するオプションを追加しました
+- 装備ターミナル内で装備の状態表示を改良しました
+
+
+つるはしのパワー アタック
+-----------------------------------
+噛み付く何かに囲まれたことは？その時の気持ちを奴らに味あわせてやりましょう！つるはしで掘りながら攻撃ボタンを押すことで、パワー アタックをお見舞いできます。クールダウン時間があるため、賢く活用して下さい。
+
+
+モデルと音
+-----------------------------------
+- エンジニアのヘビー セントリーに新しいモデルを追加しました
+- マインヘッドのセントリーに新しいモデルを追加しました
+- マインヘッドに新しい投光器のモデルを追加しました
+- いくつか新しい敵と武器の音を追加しました
+- スペースリグ上で表示されるホクソセスに新しいモデルを追加しました
+
+
+装備の微調整
+-----------------------------------
+つるはし
+- 2 倍の速さで掘れる悪用方法を修正しました
+
+“サンダーヘッド重機関砲
+- 機関砲の連射速度がリセットされないバグを修正しました
+- 機関砲のカスタマイズ、軽量バレル アセンブリを修正しました
+- 機関砲を微調整し連射速度を基準並みになるよう増やしました
+- カスタマイズからスタンを削除しました
+
+“リード ストーム” パワー ミニガン
+- カスタマイズ、スタンの確率を削減しました
+- スタンの持続時間を削減しました
+- カスタマイズ、アグレッシブ ベントがクライアントで正しく動作するよう修正しました
+
+ディープコア GK2
+- よろめきからスタンへ名前を変更しました
+- 装備状態は弱点攻撃でスタンが起きると正しく武器によるものと表示するようにしました
+
+試作プラズマ チャージャー
+- 通常跳弾を弾性プラズマに名前を変更しました
+- カスタマイズのチャージ爆発弾頭を不安定格納フィールドに名前を変更しました
+- 不安定格納フィールドの爆発範囲とダメージを増加させました
+- 撃っても "普通の" ダメージを与えているのを修正しました
+
+“ブルドッグ” "ブルドッグ" ヘビー リボルバー
+- カスタマイズからスタンを削除しました (購入していた場合は返金されます)
+- 固有の特性能力としてスタンを追加しました
+
+ソードオフ ショットガン
+- カスタマイズのスタン確率を上昇させました
+- カスタマイズのタングステン ペレットがアーマーに与えるダメージの係数を上昇させました
+- 衝撃波の説明をもっと分かりやすくしました (うまくいけば)
+- カスタマイズの貫通弾を高貫通弾に変更しました (複数の目標を貫通できます)
+- カスタマイズの衝撃波が一貫した動作になるよう修正しました
+
+ZHUKOV NUK17
+- カスタマイズからスタンを削除しました (購入していた場合は返金されます)
+- 一部のカスタマイズを再配置して、組み合わせしやすいようにしました
+- 移動中の精度減少度を増加させました
+- 精度が回復する速度を増加させました
+- 射撃時の精度減少を低減させました
+- ティア 4 のカスタマイズ、拡張弾薬バッグの弾薬量を +100 から +150 に増やしました
+
+M1000 クラシック
+- フォーカス ショットにチュートリアルのヒントを追加しました
+- カスタマイズのスタンを正しく動作するように修正しました
+
+ブリーチ カッター
+- ブリーチ カッターを真下に向けて撃つとダメージを受けてしまうのを修正しました
+
+
+その他の微調整
+-----------------------------------
+- デュプトラの蜂巣は火に耐えられなくなりました
+- グリフィッド プレトリアンのガスは再び燃え上がるようにしました
+- 武器アサイン ミッションの完了数が正しく数えられていない場合があるのを修正しました
+- 床にある一部の透明な衝突判定が ‘Unknown Material’ と表示されているのを修正しました
+- クレジット ページが正しく切り替わるようにしました
+- シールド ジェネレーターやサッチェル チャージが生成される場所によって、浮いてしまうバグを修正しました
+- リロード中の敬礼に関連したいくつかのバグを修正しました
+- 特定のアーマーはミッション開始時にプレイヤーの腕を透明にしている原因になっていた為、修正
+- 蘇生の進捗を示すバーはもしほかのプレイヤーが蘇生を始め、中止すると画面上に残り続けてしまうのを修正しました
+- [MIXER インタラクション] 弾薬の補給が動作するようにしました
+- カスタマイズ、高貫通弾を持つ全ての武器で貫通できる数を 10 から 3 に変更しました
+- シールド ジェネレーターの展開失敗にフェイルセーフを追加しました
 "
 	Update_10_Header = "アップデート 10: 視野が狭い？ - 2018.3.16"
 	Update_11_Header = "アップデート 11: 死と銃 -  2018.03.23"
@@ -7746,6 +7943,7 @@ MISC TWEAKS
 	Update_21_Header = "アップデート 21: リーサルの到来"
 	Update_21.5_Header = "アップデート22: 軌道に乗って一周年"
 	Update_23_Header = "アップデート 23: ホクソセスの恐怖"
+	Update_24_Header = "アップデート 24: 爆発的な成長"
 	Update_9_Header = "アップデート 9: またな！ -  2018.03.09"
 	Update_16_ShortTitle = "冬来る"
 
@@ -7763,7 +7961,7 @@ Namespace Resistances (4 keys)
 	Fire = "炎耐性"
 	Poison = "毒耐性"
 
-Namespace ST_GearUpgrades (61 keys)
+Namespace ST_GearUpgrades (62 keys)
 	Headwear_Beret = "かつての従軍を思い出させる物。"
 	T_Pickaxe_PA_Cooldown = "程よい重量バランス"
 	T_MineralCapacity = "大きな鉱物バッグ"
@@ -7802,6 +8000,7 @@ Namespace ST_GearUpgrades (61 keys)
 	D_Recoil = "品質工学、最高のレーザー切り出し部品、献身的な研究開発部の愛情深い手入れ。銃の反動が大幅に減少する。"
 	T_ReloadSpeed = "速射イジェクタ"
 	T_Recoil = "反動ダンパー"
+	T_Pickaxe_PA_Damage = "ぎざぎざ刃のつるはし"
 	D_BlowThrough = "エネルギー損失を最小限に抑え、ターゲットを貫通するように設計した弾丸だ。言い換えると、敵を撃ち抜け！"
 	D_SuperBlowThrough = "エネルギー損失を最小限に抑え、ターゲットを貫通するように設計した弾丸だ。言い換えると、一発で何体も撃ち抜け！"
 	D_ShieldRegenDelay = "シールドがより早く回復します。"
@@ -7826,11 +8025,12 @@ Namespace ST_GearUpgrades (61 keys)
 	D_ShieldDamage = "シールドが派手に壊れ、周囲に存在する全ての敵にダメージを与えます。"
 	D_StrongerShield = "シールは消失する前により多くのダメージを吸収できます。"
 
-Namespace StatValues (55 keys)
-	AccuracyWhileMoving = "Accuracy While Moving"
+Namespace StatValues (57 keys)
+	AccuracyWhileMoving = "移動中の精度"
 	RadialDamage = "範囲ダメージ"
 	ArmorDamageMultiplier = "アーマー壊し"
 	BatterySize = "バッテリー容量"
+	BladeExtentionDelay = "ブレード展開時間"
 	Bullets = "弾丸"
 	BurstCount = "バースト量"
 	BurstRateOfFire = "バースト速度"
@@ -7842,6 +8042,7 @@ Namespace StatValues (55 keys)
 	CoolingRate = "冷却率"
 	Damage = "ダメージ"
 	DamageRadius = "ダメージ半径"
+	DanceMoves = "踊りのキレ"
 	DirtMining = "土の採掘"
 	Duration = "持続時間"
 	RadialRange = "効果範囲"
