@@ -172,38 +172,6 @@
 						"Type": "Developer",
 						"LoadingPhase": "PreDefault"
 					}
-				],
-				"Plugins": [
-					{
-						"Name": "AssetManagerEditor",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Asset Manager Editor",
-				"Description": "Editor UI and utilities for managing and auditing Assets on disk",
-				"Category": "Editor",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "AssetManagerEditor",
-						"Type": "Developer",
-						"LoadingPhase": "PreDefault"
-					}
 				]
 			}
 		},
@@ -460,6 +428,152 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Runtime/Spatialization/Spatialization.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Spatialization",
+				"Description": "Plugin featuring a variety of basic audio spatialization solutions.",
+				"Category": "Audio",
+				"CreatedBy": "Epic Games",
+				"CreatedByURL": "epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "Spatialization",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "SpatializationEditor",
+						"Type": "Editor",
+						"LoadingPhase": "PostEngineInit"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/Synthesis/Synthesis.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Synthesis and DSP Effects",
+				"Description": "A variety of realtime synthesizers and DSP source and submix effects.",
+				"Category": "Audio",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "Synthesis",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "SynthesisEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/TimeSynth/TimeSynth.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Time Synth",
+				"Description": "A synth used to play strongly-timed, sample-accurate audio clips.",
+				"Category": "Audio",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "TimeSynth",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "TimeSynthEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/FX/Niagara/Niagara.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Niagara",
+				"Description": "Niagara effect systems.",
+				"Category": "FX",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "NiagaraCore",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "Niagara",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "NiagaraShader",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit"
+					},
+					{
+						"Name": "NiagaraVertexFactories",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit"
+					},
+					{
+						"Name": "NiagaraEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "NiagaraEditorWidgets",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../FSD/Plugins/discordrpc/DiscordRpc.uplugin",
 			"Descriptor": 
 			{
@@ -606,6 +720,95 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Developer/AnimationSharing/AnimationSharing.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Animation Sharing",
+				"Description": "Plugin to create Shared Animation systems using the Master-Child pose functionality",
+				"Category": "Programming",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "AnimationSharing",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "AnimationSharingEd",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "SignificanceManager",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/SignificanceManager/SignificanceManager.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Significance Manager",
+				"Description": "The significance manager plugin provides an extensible framework for allowing games to calculate the significance of an object and change behavior in response.",
+				"Category": "Programming",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "SignificanceManager",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Asset Manager Editor",
+				"Description": "Editor UI and utilities for managing and auditing Assets on disk",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AssetManagerEditor",
+						"Type": "Developer",
+						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Editor/CryptoKeys/CryptoKeys.uplugin",
 			"Descriptor": 
 			{
@@ -679,69 +882,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Editor/MeshEditor/MeshEditor.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Mesh Editor",
-				"Description": "Mesh editing system",
-				"Category": "Editor",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"Modules": [
-					{
-						"Name": "MeshEditor",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "PolygonModeling",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "EditableMesh",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/EditableMesh/EditableMesh.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Editable Mesh",
-				"Description": "A mesh with rich runtime editing features",
-				"Category": "Rendering",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "EditableMesh",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Enterprise/DatasmithContent/DatasmithContent.uplugin",
 			"Descriptor": 
 			{
@@ -788,7 +928,7 @@
 				"MarketplaceURL": "",
 				"SupportURL": "",
 				"EnabledByDefault": true,
-				"CanContainContent": true,
+				"CanContainContent": false,
 				"IsBetaVersion": true,
 				"Modules": [
 					{
@@ -1193,7 +1333,10 @@
 				"Plugins": [
 					{
 						"Name": "ImgMedia",
-						"Enabled": true
+						"Enabled": true,
+						"WhitelistTargets": [
+							"Editor"
+						]
 					}
 				]
 			}
@@ -1218,8 +1361,8 @@
 				"Modules": [
 					{
 						"Name": "WmfMedia",
-						"Type": "RuntimeNoCommandlet",
-						"LoadingPhase": "PreLoadingScreen",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
 						"WhitelistPlatforms": [
 							"Win32",
 							"Win64"
@@ -1303,7 +1446,7 @@
 				"CanContainContent": false,
 				"SupportedPrograms": [
 					"UnrealFrontend",
-					"UnrealCollaborationServer",
+					"UnrealMultiUserServer",
 					"UnrealLightmass"
 				],
 				"Modules": [
@@ -1316,7 +1459,7 @@
 						],
 						"WhitelistPrograms": [
 							"UnrealFrontend",
-							"UnrealCollaborationServer",
+							"UnrealMultiUserServer",
 							"UnrealLightmass"
 						]
 					}
@@ -1346,6 +1489,11 @@
 						"Name": "ActorSequence",
 						"Type": "Runtime",
 						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "ActorSequenceEditor",
+						"Type": "Editor",
+						"LoadingPhase": "PostEngineInit"
 					}
 				]
 			}
@@ -1470,12 +1618,7 @@
 					{
 						"Name": "AudioCapture",
 						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Lumin",
-							"Mac"
-						]
+						"LoadingPhase": "Default"
 					},
 					{
 						"Name": "AudioCaptureEditor",
@@ -1508,6 +1651,32 @@
 				"Modules": [
 					{
 						"Name": "CableComponent",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/EditableMesh/EditableMesh.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Editable Mesh",
+				"Description": "A mesh with rich runtime editing features",
+				"Category": "Rendering",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "EditableMesh",
 						"Type": "Runtime",
 						"LoadingPhase": "Default"
 					}

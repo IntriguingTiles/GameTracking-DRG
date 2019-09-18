@@ -1,5 +1,6 @@
-657 namespaces
-5182 values
+7062 entries
+730 namespaces
+5724 values
 
 Namespace Global (596 keys)
 	4B0118694F87069CBD082CB627E7F3E2 = "++"
@@ -632,6 +633,15 @@ Namespace ActorEditorUtils (3 keys)
 Namespace ActorSequence (1 keys)
 	DisplayName = "{0} ({1})"
 
+Namespace AdvancedCopyReportDialog (7 keys)
+	AdvancedCopyReportWindowTitle = "Advanced Copy Asset Report"
+	CancelButton = "Cancel"
+	GenerateDependenciesToCopy = "Generate Dependencies to Copy"
+	OkButton = "OK"
+	AdvancedCopyDesc = "The following files will be copied to {0} and references to copied files will be fixed up."
+	GenerateDependenciesToCopyTooltip = "Toggle whether or not to search for dependencies. Toggling this will rebuild the destination list."
+	NoValidSources = "You have not selected any valid sources for advanced copying."
+
 Namespace AIBlueprintHelperLibrary (2 keys)
 	SimpleMoveErrorNoComp = "SimpleMove failed for {0}: missing components"
 	SimpleMoveErrorMovement = "SimpleMove failed for {0}: movement not allowed"
@@ -739,6 +749,11 @@ The launch images will be scaled to fit the device in the active orientation. Ad
 	AdrenoHelpText = "{0}
 {1}"
 
+Namespace AnimationSharingSetupCustomization (3 keys)
+	EnumIndexValue = "Enum Index {EnumIndex}"
+	None = "None"
+	EnumStateSearchLabel = "State"
+
 Namespace AnimInstance (1 keys)
 	AnimInstance_SlotNode = "SLOTNODE: '{0}' in animation instance class {1} already exists. Remove duplicates from the animation graph for this class."
 
@@ -774,6 +789,10 @@ Namespace AppleARKitLiveLink (2 keys)
 Namespace AppleDynamicRHI (2 keys)
 	OpenGLNotSupportedTitle = "OpenGL Not Supported"
 	OpenGLNotSupported. = "You must have a Metal compatible iOS or tvOS device with iOS 8 or later to launch this app."
+
+Namespace ARKit (2 keys)
+	ARKitSettingsName = "Apple ARKit"
+	ARKitSettingsDescription = "Configure the Apple ARKit plug-in."
 
 Namespace AssetCheck (1 keys)
 	TextureError_NonUniqueLightingGuid = "Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue."
@@ -821,7 +840,12 @@ If you quit without saving references will be broken!"
 	ReferenceUpdateSlowTask = "Updating Asset References"
 	AssetRenameFailure = "{AssetName} - {FailureReason}"
 
-Namespace AssetTools (52 keys)
+Namespace AssetTools (68 keys)
+	AdvancedCopy_FailedCustomValidate = "Advanced Copy failed because the validation rules set in {0} failed."
+	AdvancedCopy_DuplicatedSource = "Advanced Copy failed because {0} was being copied over itself."
+	AdvancedCopy_DestinationEqualsSource = "Advanced Copy failed because {0} was being copied over the source file {1}."
+	AdvancedCopy_DuplicateDestinations = "Advanced Copy failed because {0} was being duplicated in two locations, {1} and {2}."
+	AdvancedCopyPackages_CompletePage = "Advanced content copy completed successfully!"
 	MigratePackages_AlreadyExists = "An asset already exists at location {0} would you like to overwrite it?"
 	AnimationAssetCategory = "Animation"
 	AssetToolsLogLabel = "Asset Tools"
@@ -830,10 +854,12 @@ Namespace AssetTools (52 keys)
 	ChooseDiffTool = "Choose Diff Tool"
 	MigrateToFolderTitle = "Choose a destination Content folder"
 	MigratePackages_CompletePage = "Content migration completed successfully!"
+	AdvancedCopyPackages_CopyErrorsSuccesslistPage = "Copied Successfully"
 	MigratePackages_CopyErrorsSuccesslistPage = "Copied Successfully"
 	MigratePackages_CopyErrors = "Copied {0} files. Some content could not be copied."
 	MigratePackages_CopyErrorsPage = "Copy Errors"
 	MigratePackages_CopyingFiles = "Copying Files..."
+	AdvancedCopying = "Copying files and dependencies..."
 	DeletingNoSCCConnection = "Could not check for deleted file. No connection to source control available!"
 	CreateANewObject = "Create a new object"
 	ImportObjectAlreadyExists_SameClass = "Do you want to overwrite the existing asset?
@@ -860,30 +886,41 @@ Please see Output Log for details."
 	MaterialAssetCategory = "Materials & Textures"
 	MediaAssetCategory = "Media"
 	MiscellaneousAssetCategory = "Miscellaneous"
+	AdvancedCopyPackages_NoFilesToMove = "No files were found to move"
 	MigratePackages_NoFilesToMove = "No files were found to move"
 	PhysicsAssetCategory = "Physics"
+	AdvancedCopyPrepareSlowTask = "Preparing Files for Advanced Copy"
+	AdvancedCopy_PreparingDependencies = "Preparing dependencies for {0}"
 	SaveAssetDialogTitle = "Save Asset As"
+	AdvancedCopyPackages_SourceControlErrorsList = "Some files reported source control errors."
 	MigratePackages_SourceControlErrorsList = "Some files reported source control errors."
+	AdvancedCopyPackages_CopyErrorsSuccesslist = "Some files were copied successfully."
 	MigratePackages_CopyErrorsSuccesslist = "Some files were copied successfully."
 	SoundAssetCategory = "Sounds"
+	AdvancedCopyPackages_SourceControlErrorsListPage = "Source Control Errors"
 	MigratePackages_SourceControlErrorsListPage = "Source Control Errors"
 	DiffFail = "The currently set diff tool '{0}' could not be run. Would you like to set a new diff tool?"
 	MigratePackagesReportTitle = "The following assets will be migrated to another content folder."
 	InvalidFactory = "The new asset wasn't created because the supplied factory does not support the supplied class."
 	MustSupplyClassOrFactory = "The new asset wasn't created due to a problem finding the appropriate factory or class for the new asset."
 	InvalidSourceObject = "The new asset wasn't created due to a problem finding the object to duplicate."
+	AdvancedCopyPackages_EngineContent = "Unable to copy Engine asset {0}. Engine assets cannot be copied using Advanced Copy."
 	MigratePackages_EngineContent = "Unable to migrate Engine asset {0}. Engine assets cannot be migrated."
 	UserInterfaceAssetCategory = "User Interface"
 	AssetNameInUseByMap = "You can not create an asset named '{0}' because there is already a map file with this name in this folder."
 	AssetSpecificOptionsMenuHeading = "{0} Actions"
+	AdvancedCopyPackages_SourceControlError = "{0} could not be added to source control"
 	MigratePackages_SourceControlError = "{0} could not be added to source control"
 	MigratePackages_NonContentFolder = "{0} does not appear to be a game Content folder. Migrated content will only work properly if placed in a Content folder. Would you like to place your content here anyway?"
+	AdvancedCopyPackages_PackageMissing = "{0} does not exist on disk."
 	MigratePackages_PackageMissing = "{0} does not exist on disk."
 
-Namespace AssetTypeActions (260 keys)
+Namespace AssetTypeActions (270 keys)
 	DataTable_MissingRowStructListEntry = "* {0} (Row Structure: {1})"
+	AnimSequence_AddAnimationModifier = "Add Animation Modifier(s)"
 	AssetTypeActions_AimOffset = "Aim Offset"
 	AssetTypeActions_AimOffset1D = "Aim Offset 1D"
+	AnimCurveCompressionSettings_CompressTooltip = "All animation sequences that use these settings will be compressed."
 	Skeleton_RetargetTooltip = "Allow all animation assets for this skeleton retarget to another skeleton."
 	AssetTypeActions_VectorFieldAnimated = "Animated Vector Field"
 	AssetTypeActions_AnimBlueprint = "Animation Blueprint"
@@ -892,7 +929,10 @@ Namespace AssetTypeActions (260 keys)
 	AssetTypeActions_AnimMontage = "Animation Montage"
 	AssetTypeActions_AnimSequence = "Animation Sequence"
 	AssetTypeActions_AnimationAsset = "AnimationAsset"
+	AssetTypeActions_AnimationSharingSetup = "AnimationSharingSetup"
+	AnimSequence_AddAnimationModifierTooltip = "Apply new animation modifier(s)."
 	Warning_RemoveVertexColors = "Are you sure you want to remove vertex colors from all selected meshes?  There is no undo available."
+	FAssetTypeActions_SkeletalMesh_NeedSkinning_ToolTip = "Asset geometry was imported, the skinning need to be validate"
 	SkeletalMesh_AssignSkeleton = "Assign Skeleton"
 	SkeletalMesh_AssignSkeletonTooltip = "Assigns a skeleton to the selected meshes."
 	AssetTypeActions_Texture = "BaseTexture"
@@ -916,6 +956,8 @@ Namespace AssetTypeActions (260 keys)
 	AssetTypeActions_CurveLinearColor = "Color Curve"
 	AssetTypeActions_CompositeCurveTable = "Composite Curve Table"
 	FAssetTypeActions_CompositeDataTable = "Composite Data Table"
+	AnimCurveCompressionSettings_Compress = "Compress"
+	AnimCurveCompressionSettings_Compressing = "Compressing '{0}' animations"
 	DataTable_MissingRowStructTitle = "Continue?"
 	ParticleSystem_ConvertToSeeded = "Convert To Seeded"
 	ParticleSystem_ConvertToSeededTooltip = "Convert all modules in this particle system to random seeded modules"
@@ -974,6 +1016,7 @@ Namespace AssetTypeActions (260 keys)
 	AssetTypeActions_TextureRenderTargetCube = "Cube Render Target"
 	AssetTypeActions_Curve = "Curve"
 	AssetTypeActions_CurveLinearColorAtlas = "Curve Atlas"
+	AssetTypeActions_AnimCurveCompressionSettings = "Curve Compression Settings"
 	AssetTypeActions_CurveTable = "Curve Table"
 	AssetTypeActions_DataAsset = "Data Asset"
 	AssetTypeActions_DataTable = "Data Table"
@@ -1149,12 +1192,14 @@ Otherwise you will lose any extra track that is in the new mesh."
 	AssetTypeActions_CurveVector = "Vector Curve"
 	AssetTypeActions_VectorField = "Vector Field"
 	AssetTypeActions_VolumeTexture = "Volume Texture"
+	AnimCurveCompressionSettings_CompressWarning = "Warning"
 	AnimSequenceBase_OpenInNewWindowTooltip = "Will always open asset in a new window, and not re-use existing window. (Shift+Double-Click)"
 	MergeSkeletonDlgDescription = "Would you like to add following bones to the skeleton?"
 	CreateSkeletonOrAssign = "You need to create a Skeleton or assign one in order to open this in Persona."
 	AnimationBlueprintDiff = "{0} - Animation Blueprint Diff"
 	Blueprint Diff = "{0} - Blueprint Diff"
 	AssetRemapFailure = "{AssetName} - {FailureReason}"
+	AnimCurveCompressionSettings_CompressWarningText = "{NumAnimSequences} animation sequences are about to compress."
 	LoadBlueprint_FailedLog = "{ObjectName} could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed!"
 
 Namespace AssetTypeActions_StaticMesh (15 keys)
@@ -1182,6 +1227,10 @@ Namespace AtlasVisualizer (7 keys)
 	PageX = "Page {0}"
 	SelectAPage = "Select a page"
 	ZoomLevelPercent = "Zoom Level: {0}"
+
+Namespace Audio (2 keys)
+	XAudio2Error = "Failed to initialize audio. This may be an issue with your installation of XAudio 2.7. XAudio2 is available in the DirectX End-User Runtime (June 2010)."
+	XAudio2Missing = "XAudio2.7 is not installed. Make sure you have XAudio 2.7 installed. XAudio 2.7 is available in the DirectX End-User Runtime (June 2010)."
 
 Namespace AudioSettings (2 keys)
 	DefaultSettingsName = "Default"
@@ -1291,6 +1340,10 @@ Namespace BasicMathExpressionEvaluator (3 keys)
 	ModZero = "Modulo zero"
 	UnrecognizedResult = "Unrecognized result returned from expression"
 
+Namespace BlendSpaceBase (2 keys)
+	EmptyAnimationData2 = " has sample with no animation. Recommend to remove sample point or set new animation."
+	EmptyAnimationData1 = "The BlendSpace "
+
 Namespace Blueprint (3 keys)
 	MigrationWarning = "Blueprint {0} has been migrated and requires re-saving to avoid import errors"
 	LevelScriptNativizationReason = "Level Blueprints cannot be nativized."
@@ -1313,8 +1366,9 @@ Namespace CheatManager (2 keys)
 	OwnCamera = "Viewing from own camera"
 	ViewPlayer = "Viewing from {0}"
 
-Namespace CineCameraComponent (1 keys)
-	CustomFilmbackFormat = "Custom ({0}mm x {1}mm)"
+Namespace CineCameraComponent (2 keys)
+	CustomFilmbackFormat = "Custom ({0}mm x {1}mm) | Zoom: {1}mm | Av: {2}"
+	PresetFormat = "FilmbackPreset: {0} | Zoom: {1}mm | Av: {2}"
 
 Namespace CLionSourceCodeAccessor (2 keys)
 	CLionDisplayName = "CLion"
@@ -1453,7 +1507,7 @@ Namespace ColorThemesViewer (13 keys)
 Namespace ColorTrashWidget (1 keys)
 	MouseOverToolTip = "Delete Color"
 
-Namespace CommonDisplayMode (76 keys)
+Namespace CommonDisplayMode (84 keys)
 	Mode_1080i50 = "1080i50"
 	Mode_1080i5994 = "1080i5994"
 	Mode_1080i60 = "1080i60"
@@ -1465,6 +1519,11 @@ Namespace CommonDisplayMode (76 keys)
 	Mode_1080p50 = "1080p50"
 	Mode_1080p5994 = "1080p5994"
 	Mode_1080p60 = "1080p60"
+	Mode_1080sf2398 = "1080sf2398"
+	Mode_1080sf24 = "1080sf24"
+	Mode_1080sf25 = "1080sf25"
+	Mode_1080sf2997 = "1080sf2997"
+	Mode_1080sf30 = "1080sf30"
 	ModeRes_16DCI = "16K DCI"
 	ModeRes_2DCI = "2K DCI"
 	ModeRes_2Full = "2K Full"
@@ -1527,9 +1586,12 @@ Namespace CommonDisplayMode (76 keys)
 	Mode_PAL = "PAL"
 	ModeRes_PAL = "PAL SD"
 	Mode_PALp = "PALp"
+	Interlaced_Short = "i"
+	Progressive_Short = "p"
+	ProgressiveSegmentedFrame_Short = "psf"
 	Undefined_Resolution = "{0}x{1}"
-	Undefined_Mode = "{0}x{1}x{2}"
-	Undefined_ModeResolution = "{0}x{1}x{2}x{3}"
+	Undefined_ModeResolution = "{0}x{1}x{2}{3}"
+	Undefined_Mode = "{0}x{1}{2}"
 
 Namespace CommonFrameRates (28 keys)
 	FPS_100 = "100 fps"
@@ -1565,11 +1627,195 @@ Namespace CompositeCurveTables (1 keys)
 	FoundLoopError = "Cyclic dependency found. Table {0} depends on itself. Please fix your data"
 
 Namespace CompositeDataTables (2 keys)
+	ParentsIncludesOtherRowStructError = "Composite table '{0}' must have the same row struct as it's parent tables. See output log for list of invalid rows."
 	FoundLoopError = "Cyclic dependency found. Table {0} depends on itself. Please fix your data"
-	ParentsIncludesOtherRowStructError = "Parent tables must have the same row struct as this table. Please fix your data. See log for details."
 
 Namespace CompressionMemorySummary (1 keys)
 	CompressingTaskStatusMessageFormat = "Compressing {AnimSequenceName} ({ProgressNumerator}/{ProgressDenominator})"
+
+Namespace Concert (7 keys)
+	CanCheckoutFileFailure = "Can't check-out file '{0}' from source control when persiting sandbox state!"
+	AddFileFailure = "Failed to add file '{0}' to source control when persiting sandbox state!"
+	CheckoutFileFailure = "Failed to check-out file '{0}' from source control when persiting sandbox state!"
+	CopyFileFailure = "Failed to copy file '{0}' (from '{1}') when persiting sandbox state!"
+	DeleteSCCFileFailure = "Failed to delete file '{0}' from source control when persiting sandbox state!"
+	DeleteFileFailure = "Failed to delete file '{0}' when persiting sandbox state!"
+	RevertFileFailure = "Failed to revert file '{0}' to source control when persisting sandbox state!"
+
+Namespace ConcertActivity (13 keys)
+	UnknownUser = "Unknown"
+	PackageLongText = "{DisplayText} Package Revision: {PackageRevision}."
+	TransactionLongText = "{DisplayText} Transaction Index: {TransactionIndex}. Transaction Title: {TransactionTitle}."
+	PackageAdded = "{UserName} created the package {PackageName}."
+	TransactionCreate = "{UserName} created {ObjectName} in {PackageName}."
+	PackageDeleted = "{UserName} deleted the package {PackageName}."
+	TransactionDelete = "{UserName} deleted {ObjectName} in {PackageName}."
+	ClientJoined = "{UserName} joined the session."
+	ClientLeaved = "{UserName} left the session."
+	Transaction = "{UserName} modified {Object} in {PackageName}."
+	PackageRenamed = "{UserName} moved the package {PackageOldName} to {PackageNewName}."
+	TransactionRename = "{UserName} renamed {OldObjectName} to {NewObjectName} in {PackageName}."
+	PackageUpdated = "{UserName} saved the package {PackageName}."
+
+Namespace ConcertClient (12 keys)
+	AttemptingRemoteConnection = "Attempting Remote Connection..."
+	ConnectedToSessionFmt = "Connected to Session '{0}'"
+	ConnectingToSessionFmt = "Connecting to Session '{0}'..."
+	ConnectionAborted = "Connection Process Aborted."
+	CreatedSessionFmt = "Created Session '{0}'"
+	CreatingSessionFmt = "Creating Session '{0}'..."
+	DeletedSessionFmt = "Deleted Session '{0}'"
+	DeletingSessionFmt = "Deleting Session '{0}'..."
+	FailedToConnectToSessionFmt = "Failed to Connect to Session '{0}'"
+	FailedToCreateSessionFmt = "Failed to Create Session '{0}'"
+	FailedToDeleteSessionFmt = "Failed to Delete Session '{0}'"
+	RemoteConnectionAttemptAborted = "Remote Connection Attempt Aborted."
+
+Namespace ConcertClientInfo (3 keys)
+	DeviceName = "Device Name: {0}"
+	PlatformName = "Platform Name: {0}"
+	UserName = "User Name: {0}"
+
+Namespace ConcertClientTransactionManager (5 keys)
+	ConcertTransactionEvent = "Concert Transaction Event"
+	ReplayingTransactionFmt = "Replaying Transaction {0}"
+	ReplayingTransactionForPackageFmt = "Replaying Transaction {0} for {1}"
+	ReplayingTransactionsForPackageFmt = "Replaying Transactions for {0}..."
+	ReplayingTransactions = "Replaying Transactions..."
+
+Namespace ConcertClientWorkspace (5 keys)
+	ApplyingSynchronizedPackages = "Applying Synchronized Packages..."
+	ApplyingSynchronizedTransactions = "Applying Synchronized Transactions..."
+	SynchronizedPackageFmt = "Synchronized Package {0}..."
+	SynchronizedTransactionFmt = "Synchronized Transaction {0}..."
+	SynchronizingWorkspace = "Synchronizing Workspace..."
+
+Namespace ConcertDataStoreTests (3 keys)
+	BarKey = "BarText"
+	FooKey = "FooText"
+	HelloKey = "HelloText"
+
+Namespace ConcertFrontend (47 keys)
+	ConcertUserDisplayNameOnDevice = "'{0}' ({1}) on {2}"
+	ConcertUserNameOnDevice = "'{0}' on {1}"
+	LaunchUnrealMultiUserServerError_AlreadyRunning = "An Unreal Multi-User Server instance is already running."
+	ConcertWVHistory = "Asset history..."
+	ConcertFrontendSyncSettingsDescription = "Configure the Multi-User Transactions settings."
+	ConcertFrontendSettingsDescription = "Configure the Multi-User settings."
+	SessionInfoClients = "Connected Clients: {0}"
+	LaunchUnrealMultiUserServerError_ExecutableMissing = "Could not find the executable. Have you compiled the Unreal Multi-User Server?"
+	LaunchUnrealMultiUserServerErrorTitle = "Failed to Launch the Unreal Multi-User Server"
+	PersistChangeFailedHeader = "Failed to Persist Session Changes"
+	SourceControlSubmitFailed = "Failed to check in persisted files!"
+	FailedPersistNotification = "Failed to persist session files. Reported {0} {0}|plural(one=error,other=errors)."
+	ConnectDefault = "Go Live"
+	ConnectDescription = "Join a default Multi-User session matching your settings"
+	LaunchedUnrealMultiUserServer = "Launched Unreal Multi-User Server"
+	LaunchingUnrealMultiUserServer = "Launching Unreal Multi-User Server..."
+	ConcertWVLock = "Lock Asset(s)"
+	ConcertWVLockTooltip = "Lock the asset(s) for editing."
+	MyLock_Tooltip = "Locked by you"
+	OtherLock_Tooltip = "Locked by: {0}"
+	ConcertModifiedByUser_Tooltip = "Modified by {0}"
+	ConcertModifiedByNumUsers_Tooltip = "Modified by {0} other users"
+	AssetConcertActionsMenuHeading = "Multi-User"
+	ConcertCommands = "Multi-User"
+	ConcertLogLabel = "Multi-User"
+	Concert_ContextMenu = "Multi-User"
+	BrowserTabTitle = "Multi-User Browser"
+	ConcertToolbarMenu_Tooltip = "Multi-User Commands"
+	ConcertFrontendSettingsName = "Multi-User Editing"
+	ConcertToolbarMenu = "Multi-User Menu"
+	ActiveSessionTabTitle = "Multi-User Session"
+	ConcertFrontendSyncSettingsName = "Multi-User Transactions"
+	ConcertToolbarMenu_Label = "Multi-User Utilities"
+	SourceControlNoSubmitFail = "No file to submit after persisting!"
+	BrowserTooltipText = "Open the Multi-User session browser"
+	ActiveSessionTooltipText = "Open the active session tab"
+	PersistSubmitWindowTitle = "Persist & Submit Files"
+	ConcertWVPersist = "Persist Session Changes..."
+	ConcertWVPersistTooltip = "Persist the session changes and prepare the files for source control submission."
+	PersistingChanges = "Persisting Session Changes"
+	SeeMessageLog = "See Message Log"
+	PersistChangeSuccess = "Succesfully persisted session files"
+	PersistChangeSuccessHeader = "Successfully Persisted Session Changes"
+	ConcertWVUnlock = "Unlock Asset(s)"
+	ConcertWVUnlockTooltip = "Unlock the asset(s)."
+	ConcertWVHistoryToolTip = "View the asset's session history."
+	AssetsHistory = "{0}'s history."
+
+Namespace ConcertFrontend.PersistPanel (8 keys)
+	CancelButton = "Cancel"
+	ChangeListDesc = "Changelist Description"
+	ChangeListDescWarning = "Changelist description is required to submit"
+	FileColumnLabel = "File"
+	KeepFilesCheckedOut = "Keep Files Checked Out"
+	OKButtonPersist = "Persist"
+	OKButtonSubmit = "Submit"
+	SubmitToSourceControl = "Submit to Source Control"
+
+Namespace ConcertInstanceInfo (1 keys)
+	InstanceName = "Instance Name: {0}"
+
+Namespace ConcertMain (3 keys)
+	Error_InvalidBaseRevisionFmt = "Invalid base revision (expected '{0}', got '{1}')"
+	Error_InvalidEngineVersionFmt = "Invalid engine version (expected '{0}', got '{1}')"
+	Error_InvalidProjectNameFmt = "Invalid project name (expected '{0}', got '{1}')"
+
+Namespace ConcertPresenceManager (3 keys)
+	HidePresenceToolTip = "Hide the presence for this client
+Hold Ctrl to propagate this visibility change to all connected clients."
+	JumpToPresenceToolTip = "Jump to the presence location of this client"
+	ShowPresenceToolTip = "Show the presence for this client
+Hold Ctrl to propagate this visibility change to all connected clients."
+
+Namespace ConcertServer (5 keys)
+	Error_EmptySessionName = "Empty session name"
+	Error_InvalidPerms_NotOwner = "Not the session owner."
+	Error_SessionAlreadyExists = "Session already exists"
+	Error_SessionDoesNotExist = "Session does not exist."
+	Error_UnknownSession = "Unknown session"
+
+Namespace ConcertServerInfo (2 keys)
+	AdminEndpointId = "Admin Endpoint ID: {0}"
+	ServerName = "Server Name: {0}"
+
+Namespace ConcertSessionClientInfo (1 keys)
+	ClientEndpointId = "Client Endpoint ID: {0}"
+
+Namespace ConcertSessionInfo (6 keys)
+	OwnerUserName = "Owner User Name: {0}"
+	ServerEndpointId = "Server Endpoint ID: {0}"
+	BaseRevision = "Session Base Revision: {0}"
+	SessionName = "Session Name: {0}"
+	ProjectName = "Session Project: {0}"
+	CompatibleVersion = "Session Version: {0}"
+
+Namespace ConcertSyncClient (5 keys)
+	ValidatingWorkspace_Failed = "The workspace validation request failed. Please check your source control settings."
+	ValidatingWorkspace_Aborted = "The workspace validation request was aborted."
+	ValidatingWorkspace_Canceled = "The workspace validation request was canceled."
+	ValidatingWorkspace_LocalChanges = "This workspace has local changes. Please submit or revert these changes before attempting to connect."
+	ValidatingWorkspace = "Validating Workspace..."
+
+Namespace ConsoleSlateDebugger (17 keys)
+	FocusCause_Cleared = "Cleared"
+	SetInputFilter = "Enable or Disable specific filters"
+	FocusChanging = "Focus Changing"
+	FocusCause_Mouse = "Mouse"
+	MouseCaptured = "Mouse Captured"
+	NavEventFormat = "Nav: {0}:{1} | {2} -> {3}"
+	FocusCause_Navigation = "Navigation"
+	FocusCause_OtherWidgetLostFocus = "OtherWidgetLostFocus"
+	FocusCause_SetDirectly = "SetDirectly"
+	CaptureStack = "Should we capture the stack when there are events?"
+	StartDebugger = "Starts the debugger."
+	StopDebugger = "Stops the debugger."
+	FocusCause_WindowActivate = "WindowActivate"
+	WarningEventFormat = "{0} (Widget: {1})"
+	InputEventFormat = "{0} - ({1}) - [{2}]"
+	StateChangeEventFormat = "{0} : {1}"
+	FocusEventFormat = "{0}({1}:{2}) - {3} -> {4}"
 
 Namespace ConstraintComponent (5 keys)
 	BadBoneNameToConstraint = "Couldn't find bone {0} for ConstraintComponent {1}."
@@ -1607,7 +1853,32 @@ Namespace ControlRig (2 keys)
 Namespace ControlRigBindingTrack (1 keys)
 	TrackName = "Bound"
 
-Namespace Core (67 keys)
+Namespace ControlRigBlueprintUtils (1 keys)
+	UnitsCategory = "Units"
+
+Namespace ControlRigGraphNode (6 keys)
+	AddArrayElementTransaction = "Add Array Element"
+	ClearArrayTransaction = "Clear Array"
+	InsertArrayElementTransaction = "Insert Array Element"
+	RemoveArrayElementTransaction = "Remove Array Element"
+	ArrayPinFormat = "[{0}]"
+	NodeFullTitleFormat = "{0}
+{1}"
+
+Namespace ControlRigGraphSchema (11 keys)
+	GraphEd_BreakSinglePinLink = "Break Pin Link"
+	GraphEd_BreakPinLinks = "Break Pin Links"
+	ConnectResponse_Disallowed_Self = "Cannot link a pin to itself"
+	ConnectResponse_Disallowed_Direction_Input = "Cannot link input pin to input pin"
+	ConnectResponse_Disallowed_Direction_Output = "Cannot link output pin to output pin"
+	ConnectResponse_Disallowed_Different_Types = "Cannot link pins of differing types"
+	ConnectResponse_Disallowed_SameNode = "Cannot link two pins on the same node"
+	ConnectResponse_Allowed = "Connect"
+	ConnectResponse_Replace_Child = "Replace child connection(s)"
+	ConnectResponse_Replace_Input = "Replace connection"
+	ConnectResponse_Replace_Parent = "Replace parent connection"
+
+Namespace Core (65 keys)
 	OverwriteReadOnly = "'{0}' is marked read-only.  Would you like to try to force overwriting it?"
 	FirstCmdArgMustBeGameName = "'{0}' must exist and contain a DefaultEngine.ini."
 	BadProperty = "'{Message}': Bad or missing property '{PropertyName}' when trying to call {FunctionName}"
@@ -1665,7 +1936,6 @@ Try to find the chain of references to that object (may take some time)?"
 	MismatchedGameNames = "The name of the .uproject file ('{0}') must match the name of the project passed in the command line ('{1}')."
 	Transform = "Translation: {T} Rotation: {R} Scale: {S}"
 	True = "True"
-	SymbolsInTitleMemory2 = "Turn "Profiling Mode" on in Dev Home or Xbox One Manager to fix this."
 	Vector3_CompactZeroVector = "V(0)"
 	Vector3_CompactX = "V(X={X})"
 	Vector3_CompactXY = "V(X={X}, Y={Y})"
@@ -1675,7 +1945,6 @@ Try to find the chain of references to that object (may take some time)?"
 	Vector3_CompactYZ = "V(Y={Y}, Z={Z})"
 	Vector3_CompactZ = "V(Z={Z})"
 	VerifyPackage_Scope = "Verifying '{0}'"
-	SymbolsInTitleMemory = "WARNING: Symbols for crash callstacks are using up title memory!"
 	Vector2 = "X={X} Y={Y}"
 	Vector3 = "X={X} Y={Y} Z={Z}"
 	Yes = "Yes"
@@ -1693,12 +1962,21 @@ Namespace Core.MessageLog (8 keys)
 	AggregateMessageTokenFormatter = "{0} {1}"
 	SeverityMessageTokenFormatter = "{0}:"
 
-Namespace Core.Tests.TextFormatTest (5 keys)
+Namespace Core.Tests.TextFormatTest (9 keys)
+	TextStringificationTest_Bear = "Bear"
 	RebuildFTextTest1_Ipsum = "Ipsum"
 	RebuildFTextTest1_Lorem = "Lorem"
+	TextStringificationTest_Lorem = "Lorem"
 	RebuildOrderedText1 = "{0} "Lorem Ipsum" {1}"
+	TextStringificationTest_FmtO = "{0} weighs {1}kg"
+	TextStringificationTest_FmtN = "{Animal} weighs {Weight}kg"
 	RebuildTextLayer2 = "{NamedLayer1} | {OrderedLayer1} | {FTextNumber} | {Number} | {DateTime} | {Percent} | {Currency}"
 	RebuildNamedText1 = "{String1} "Lorem Ipsum" {String2}"
+
+Namespace CoreAsyncTaskNotification (3 keys)
+	NotificationState_Failure = "Failure"
+	NotificationState_Pending = "Pending"
+	NotificationState_Success = "Success"
 
 Namespace CoreUObject (4 keys)
 	FixingUpReferences = "Fixing-Up References"
@@ -1715,6 +1993,14 @@ Namespace CrashReportClient (5 keys)
 	UploaderReady = "Ready to send to server"
 	ServerNotAvailable = "Server not available - report will be stored for later upload"
 	NoDebuggingSymbols = "You do not have any debugging symbols required to display the callstack for this crash."
+
+Namespace CreateSessionDetails (6 keys)
+	HintSessionName = "Enter a name"
+	HintSaveSessionAsName = "Enter a save name"
+	LoadSaveFilter = "Load Save"
+	SaveSessionAsFilter = "Save Session As"
+	SaveSessionAsWillRemplaceASave = "The previous save will be replaced."
+	SaveSessionAsWontSave = "The session won't be saved."
 
 Namespace CurveEditor (1 keys)
 	CurveDataUpdate = "Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update {0}"
@@ -1746,12 +2032,11 @@ Namespace DerivedDataBackendGraph (2 keys)
 Namespace DerivedDataCache (1 keys)
 	PathTooLong = "Cache path {0} is longer than {1} characters...please adjust [DerivedDataBackendGraph] paths to be shorter (this leaves more room for cache keys)."
 
-Namespace DesktopPlatform (6 keys)
+Namespace DesktopPlatform (5 keys)
 	BuildingUBT = "Building UnrealBuildTool..."
 	CompilingProject = "Compiling project..."
 	FileExtension = "File extension:"
 	GeneratingProjectFiles = "Generating project files..."
-	InvalidateMakefiles = "Invalidating makefiles..."
 	CleaningProject = "Removing stale build products..."
 
 Namespace Developer.MessageLog (10 keys)
@@ -1789,6 +2074,93 @@ Namespace DiscoveringAssetsDialog (3 keys)
 	CancelButton = "Cancel"
 	DiscoveringAssetsDialog = "Discovering Assets..."
 	DiscoveringAssets = "Please wait while assets are being discovered."
+
+Namespace DisplayClusterInput (85 keys)
+	nDisplayInputSubCateogry = "nDisplay"
+	nDisplayAmpersand = "nDisplay Ampersand"
+	nDisplayAnalogHintFmt = "nDisplay Analog {0}"
+	nDisplayApostrophe = "nDisplay Apostrophe"
+	nDisplayAsterix = "nDisplay Asterisk"
+	nDisplayBackslash = "nDisplay Backslash"
+	nDisplayBackSpace = "nDisplay Backspace"
+	nDisplayButtonHintFmt = "nDisplay Button {0}"
+	nDisplayCapsLockShort = "nDisplay Caps"
+	nDisplayCapsLock = "nDisplay Caps Lock"
+	nDisplayCaret = "nDisplay Caret"
+	nDisplayColon = "nDisplay Colon"
+	nDisplayComma = "nDisplay Comma"
+	DeletenDisplayShort = "nDisplay Del"
+	nDisplayDelete = "nDisplay Delete"
+	nDisplayDollar = "nDisplay Dollar"
+	nDisplayDown = "nDisplay Down"
+	nDisplayEnd = "nDisplay End"
+	nDisplayEnter = "nDisplay Enter"
+	nDisplayEquals = "nDisplay Equals"
+	EscapenDisplayShort = "nDisplay Esc"
+	nDisplayEscape = "nDisplay Escape"
+	nDisplayExclamation = "nDisplay Exclamation"
+	nDisplayF1 = "nDisplay F1"
+	nDisplayF10 = "nDisplay F10"
+	nDisplayF11 = "nDisplay F11"
+	nDisplayF12 = "nDisplay F12"
+	nDisplayF2 = "nDisplay F2"
+	nDisplayF3 = "nDisplay F3"
+	nDisplayF4 = "nDisplay F4"
+	nDisplayF5 = "nDisplay F5"
+	nDisplayF6 = "nDisplay F6"
+	nDisplayF7 = "nDisplay F7"
+	nDisplayF8 = "nDisplay F8"
+	nDisplayF9 = "nDisplay F9"
+	nDisplayHome = "nDisplay Home"
+	nDisplayHyphen = "nDisplay Hyphen"
+	InsertnDisplayShort = "nDisplay Ins"
+	nDisplayInsert = "nDisplay Insert"
+	nDisplayLeft = "nDisplay Left"
+	nDisplayLeftAlt = "nDisplay Left Alt"
+	nDisplayLeftBracket = "nDisplay Left Bracket"
+	nDisplayLeftCommand = "nDisplay Left Cmd"
+	nDisplayLeftControl = "nDisplay Left Ctrl"
+	nDisplayLeftParantheses = "nDisplay Left Parantheses"
+	nDisplayLeftShift = "nDisplay Left Shift"
+	nDisplayMultiply = "nDisplay Num *"
+	nDisplayAdd = "nDisplay Num +"
+	nDisplaySubtract = "nDisplay Num -"
+	nDisplayDecimal = "nDisplay Num ."
+	nDisplayDivide = "nDisplay Num /"
+	nDisplayNumPadZero = "nDisplay Num 0"
+	nDisplayNumPadOne = "nDisplay Num 1"
+	nDisplayNumPadTwo = "nDisplay Num 2"
+	nDisplayNumPadThree = "nDisplay Num 3"
+	nDisplayNumPadFour = "nDisplay Num 4"
+	nDisplayNumPadFive = "nDisplay Num 5"
+	nDisplayNumPadSix = "nDisplay Num 6"
+	nDisplayNumPadSeven = "nDisplay Num 7"
+	nDisplayNumPadEight = "nDisplay Num 8"
+	nDisplayNumPadNine = "nDisplay Num 9"
+	nDisplayNumLock = "nDisplay Num Lock"
+	nDisplayPageDown = "nDisplay Page Down"
+	nDisplayPageUp = "nDisplay Page Up"
+	nDisplayPause = "nDisplay Pause"
+	nDisplayPeriod = "nDisplay Period"
+	PageDownnDisplayShort = "nDisplay PgDn"
+	PageUpnDisplayShort = "nDisplay PgUp"
+	nDisplayQuote = "nDisplay Quote"
+	nDisplayRight = "nDisplay Right"
+	nDisplayRightAlt = "nDisplay Right Alt"
+	nDisplayRightBracket = "nDisplay Right Bracket"
+	nDisplayRightCommand = "nDisplay Right Cmd"
+	nDisplayRightControl = "nDisplay Right Ctrl"
+	nDisplayRightParantheses = "nDisplay Right Parantheses"
+	nDisplayRightShift = "nDisplay Right Shift"
+	nDisplayScrollLock = "nDisplay Scroll Lock"
+	nDisplaySemicolon = "nDisplay Semicolon"
+	nDisplaySlash = "nDisplay Slash"
+	SpaceBarnDisplayShort = "nDisplay Space"
+	nDisplaySpaceBar = "nDisplay Space Bar"
+	nDisplayTab = "nDisplay Tab"
+	nDisplayUnderscore = "nDisplay Underscore"
+	nDisplayUp = "nDisplay Up"
+	nDisplayKeyboardSubCateogry = "nDisplayKeyboard"
 
 Namespace DlgNewGeneric (1 keys)
 	ContentBrowser_CannotDeleteReferenced = "{0} wasn't created.
@@ -1863,12 +2235,14 @@ Namespace EditorNotification (1 keys)
 Namespace Emitter (1 keys)
 	MapCheck_Message_ParticleSystemComponentNull = "Emitter actor has NULL ParticleSystemComponent property - please delete"
 
-Namespace Engine (37 keys)
+Namespace Engine (39 keys)
 	BuildingCompressedAudioTaskStatus = "Building compressed audio format {AudioFormat} hash {Hash} wave {SoundNodeName}..."
 	UpdateReflectionCapturesForX = "Building reflection captures for {0}"
 	UpdateReflectionCaptures = "Building reflection captures..."
 	BuildingStaticMeshStatus = "Building static mesh {StaticMeshName}..."
 	BuildTextureStatus = "Building textures: {TextureName} ({TextureFormatName}, {TextureResolutionX}X{TextureResolutionY})"
+	CacheMaterialInstanceShadersMessage = "Caching material instance shaders"
+	CacheMaterialShadersMessage = "Caching material shaders"
 	ChangingPreviewRenderingLevelMessage = "Changing Preview Rendering Level"
 	CompressionMemorySummary = "Compressed {NumberOfAnimations} Animation(s)
 
@@ -1929,7 +2303,7 @@ Make sure to save the package and distribute to everyone using this material."
 	CompressionWorstAnimationSummary = "{AvgError} in Animation {AnimName}"
 	CompressionWorstBoneSummary = "{BoneError} in Animation {BoneErrorAnimName}, Bone : {BoneErrorBoneName}(#{BoneErrorBone}), at Time {BoneErrorTime}"
 
-Namespace Engine.BufferVisualizationMaterials (21 keys)
+Namespace Engine.BufferVisualizationMaterials (22 keys)
 	BaseAmbientOcclusionMat = "Ambient Occlusion"
 	BaseColorMat = "Base Color"
 	BaseCustomDepthMat = "Custom Depth"
@@ -1950,6 +2324,7 @@ Namespace Engine.BufferVisualizationMaterials (21 keys)
 	BaseShadingModelMat = "Shading Model"
 	BaseSpecularMat = "Specular"
 	BaseSubsurfaceColorMat = "Subsurface Color"
+	Velocity = "Velocity"
 	BaseWorldNormalMat = "World Normal"
 
 Namespace EngineInit (1 keys)
@@ -2020,13 +2395,14 @@ Limit to {AngleValue} angle both sides on {ArcDirection}"
 	SimpleGridDescriptionWithProjection = "{Description}, {ProjectionDescription}"
 	GeometryBriefDescription = "{ExtentDescription} {ProjectionTraceDesc} on {Channel}"
 
-Namespace ErrorChecking (18 keys)
+Namespace ErrorChecking (19 keys)
 	MapCheck_Message_DuplicateLevelInfo = "Duplicate level info"
 	MapCheck_Message_LightComponentNull = "Light actor has NULL LightComponent property - please delete!"
 	MapCheck_Message_RebuildLighting = "Maps need lighting rebuilt"
 	MapCheck_Message_VolumeActorCollisionComponentNULL = "Volume actor has NULL collision component - please delete"
 	MapCheck_Message_VolumeActorZeroRadius = "Volume actor has a collision component with 0 radius - please delete"
 	bForceNoPrecomputedLightingIsEnabled = "bForceNoPrecomputedLighting is now enabled, build lighting once to propagate the change (will remove existing precomputed lighting data)."
+	IsDataValid_Failed_CheckDefaultSubobjectsInternal = "{0} failed CheckDefaultSubobjectsInternal()"
 	MapCheck_Message_BrushComponentNull = "{ActorName} : Brush has NULL BrushComponent property - please delete"
 	MapCheck_Message_NonCoPlanarPolys = "{ActorName} : Brush has non-coplanar polygons"
 	MapCheck_Message_BrushZeroPolygons = "{ActorName} : Brush has zero polygons - please delete"
@@ -2209,6 +2585,9 @@ Namespace FbxAutomationBuilder (14 keys)
 	PlanComboBox = "Select a test plan."
 	TellTestPlanIsReadOnly = "The test plan you try to modify is read only, you will not be able to save your changes."
 
+Namespace FDeviceBrowserDefaultPlatformWidgetCreator (1 keys)
+	DeviceAdderFailedToAddDeviceMessage = "Failed to add the device!"
+
 Namespace FDeviceManagerModule (2 keys)
 	DeviceManagerTabTitle = "Device Manager"
 	DeviceManagerTooltipText = "View and manage connected devices."
@@ -2298,14 +2677,22 @@ Namespace FLinuxTargetPlatformModule (2 keys)
 	TargetSettingsName = "Linux"
 	TargetSettingsDescription = "Settings for Linux target platform"
 
+Namespace FLiveLinkCurveDebugUIModule (4 keys)
+	RuntimeSettingsDescription = "Configure the Live Link Curve Debugger Plugin"
+	LiveLinkCurveDebugTitle = "Live Link Curve Debugger"
+	RuntimeSettingsName = "Live Link Curve Debugger"
+	LiveLinkCurveDebugTooltipText = "Open the Live Link Curve Debugger tab."
+
 Namespace FLogVisualizerModule (2 keys)
 	AIToolsSettingsDescription = "General settings for UE4 AI Tools."
 	AIToolsSettingsName = "Visual Logger"
 
-Namespace FLuminPlatformEditorModule (4 keys)
+Namespace FLuminPlatformEditorModule (6 keys)
+	LuminVulkanQualitySettingsName = "Lumin Material Quality - Vulkan"
 	RuntimeSettingsName = "Magic Leap"
 	SDKSettingsName = "Magic Leap SDK"
 	RuntimeSettingsDescription = "Project settings for MagicLeap apps"
+	LuminVulkanQualitySettingsDescription = "Settings for Lumin Vulkan material quality."
 	SDKSettingsDescription = "Settings for Magic Leap SDK (for all projects)"
 
 Namespace FMacTargetPlatformModule (2 keys)
@@ -2314,6 +2701,13 @@ Namespace FMacTargetPlatformModule (2 keys)
 
 Namespace FMagicLeapCameraPreviewFactoryModule (1 keys)
 	MediaPlayerDisplayName = "MagicLeap Camera Preview"
+
+Namespace FMagicLeapMediaCodecFactoryModule (5 keys)
+	MediaPlayerDisplayName = "MagicLeap Media Codec"
+	NoSchemeFound = "No URI scheme found"
+	PrecachingNotSupported = "Precaching is supported for local files only"
+	SchemeNotSupported = "The URI scheme '{0}' is not supported"
+	ExtensionNotSupported = "The file extension '{0}' is not supported"
 
 Namespace FMagicLeapMediaFactoryModule (4 keys)
 	MediaPlayerDisplayName = "MagicLeap Media"
@@ -2348,9 +2742,10 @@ Namespace FModuleManager (2 keys)
 Namespace FMovieSceneLiveLinkSource (1 keys)
 	MovieSceneLiveLinkSourceType = "Sequencer Live Link ({0})"
 
-Namespace FNiagaraConstants (51 keys)
+Namespace FNiagaraConstants (57 keys)
 	SubImageIndexDesc = "A value from 0 to the number of entries in the table of SubUV images."
 	IDDesc = "Engine managed particle attribute that is a persistent ID for each particle."
+	UniqueIDDesc = "Engine managed particle attribute that is a unique ID for each particle. The ID is incremented for each new particle spawned."
 	RibbonLinkOrderDesc = "Explicit order for linking particles within a ribbon. Particles of the same ribbon id will be connected into a ribbon in incrementing order of this attribute value."
 	GlobalSpawnCountScale = "Global Spawn Count Scale. Should only be used in System scripts."
 	GlobalSystemCountScale = "Global System Count Scale. Should only be used in System scripts."
@@ -2375,6 +2770,7 @@ Namespace FNiagaraConstants (51 keys)
 	NormalizedAgeDesc = "The age in seconds divided by lifetime in seconds. Useful for animation as the value is between 0 and 1."
 	MeshOrientParamDesc = "The axis-angle rotation to be applied to the mesh particle."
 	ColorDesc = "The color of the particle."
+	EngineSystemTickCount = "The current tick of this system simulation."
 	MinDistanceToCamera = "The distance from the owner component to the nearest local player viewpoint."
 	ExecutionState = "The execution state of the systems owner. Takes precedence over the systems internal execution state."
 	ExecCountDesc = "The index of this particle in the read buffer."
@@ -2384,12 +2780,14 @@ Namespace FNiagaraConstants (51 keys)
 	SystemNumInstances = "The number of instances of the this system currently ticking. Should only be used in System scripts."
 	EmitterNumParticles = "The number of particles for this emitter at the beginning of simulation. Should only be used in Emitter scripts."
 	EnginePositionDesc = "The owning component's position in world space."
+	EngineRotationDesc = "The owning component's rotation in world space."
 	EngineScaleDesc = "The owning component's scale in world space."
 	EngineVelocityDesc = "The owning component's velocity in world space."
 	PositionDesc = "The position of the particle."
 	SpriteRotDesc = "The screen aligned roll of the particle in degrees."
 	SpriteSizeDesc = "The size of the sprite quad."
 	TimeSinceRendered = "The time in seconds that have passed since this system was last rendered."
+	EmitterTotalSpawnedParticles = "The total number of particles spawned for this emitter at the beginning of this simulation. Should only be used by the particle spawn script the assign unique IDs."
 	VelocityDesc = "The velocity in cm/s of the particle."
 	EngineRealTimeDesc = "Time in seconds since level began play, but IS NOT paused when the game is paused, and IS NOT dilated/clamped."
 	EngineTimeDesc = "Time in seconds since level began play, but IS paused when the game is paused, and IS dilated/clamped."
@@ -2397,7 +2795,9 @@ Namespace FNiagaraConstants (51 keys)
 	EngineSystemTimeDesc = "Time in seconds since the system was first created. Managed by the NiagaraSystemInstance in code."
 	AliveParamDesc = "Used to determine whether or not this particle instance is still valid or if it can be deleted."
 	MaterialRandomParamDesc = "Used to drive the Particle Random node in the Material Editor. Without this set, any Particle Randoms will get 0.0."
+	LightExponentParamDesc = "Used to drive the attenuation of the light when using a Light renderer without inverse squared falloff enabled."
 	LightRadiusParamDesc = "Used to drive the radius of the light when using a Light renderer."
+	LightVolumetricScatteringParamDesc = "Used to drive the volumetric scattering intensity of the light when using a Light renderer."
 	UVScalerParamDesc = "Used to multiply the generated UVs for Sprite renderers."
 	CamOffsetParamDesc = "Used to offset position in the direction of the camera. The value is multiplied by the direction vector from the camera to the particle."
 
@@ -2412,12 +2812,25 @@ Namespace FProjectLauncherModule (2 keys)
 	ProjectLauncherTooltipText = "Open the Project Launcher tab."
 	ProjectLauncherTabTitle = "Project Launcher"
 
-Namespace FPS4MediaTracks (1 keys)
-	StreamDisplayNameFormat = "Stream {0}"
-
-Namespace FPS4PlatformEditorModule (2 keys)
-	TargetSettingsName = "PlayStation 4"
-	TargetSettingsDescription = "PlayStation 4 project settings"
+Namespace FriendlyShaderPlatformNames (18 keys)
+	Android_ES2_loc = "Android ES2"
+	Android_ES31_loc = "Android ES31"
+	Android_Vulkan_ES31_loc = "Android Vulkan ES31"
+	Generic_ES2_loc = "ES2"
+	Generic_ES31_loc = "ES31"
+	Lumin_Vulkan_ES31_loc = "Lumin Vulkan ES31"
+	Lumin_Vulkan_SM5_loc = "Lumin Vulkan SM5"
+	iOS_Metal_Mace_31_loc = "Metal ES31"
+	Metal_SM5_loc = "Metal SM5"
+	Playstation_4_loc = "PlayStation 4"
+	Generic_SM4_loc = "SM4"
+	Generic_SM5_loc = "SM5"
+	Switch_loc = "Switch"
+	Switch_Forward_loc = "Switch Forward"
+	WebGL_ES2_loc = "WebGL ES2"
+	XBox_One_loc = "XBox One"
+	iOS_ES2_loc = "iOS ES2"
+	iOS_Metal_Mace_2_loc = "iOS Metal ES2"
 
 Namespace FSessionFrontendModule (2 keys)
 	FrontendTooltipText = "Open the Session Frontend tab."
@@ -2465,22 +2878,6 @@ Namespace FSlateRemoteModule (2 keys)
 	SlateRemoteSettingsDescription = "Configure the Slate Remote plug-in."
 	SlateRemoteSettingsName = "Slate Remote"
 
-Namespace FSwitchMediaFactoryModule (4 keys)
-	NoSchemeFound = "No URI scheme found"
-	MediaPlayerDisplayName = "Switch Media Player"
-	SchemeNotSupported = "The URI scheme '{0}' is not supported"
-	ExtensionNotSupported = "The file extension '{0}' is not supported"
-
-Namespace FSwitchMediaTracks (2 keys)
-	AudioTrackDisplayNameFormat = "Audio Track {0}"
-	VideoTrackDisplayNameFormat = "Video Track {0}"
-
-Namespace FSwitchPlatformEditorModule (4 keys)
-	ControllerSettingsDescription = "Button bindings for all JOY CON modes"
-	RuntimeSettingsDescription = "Settings and resources for the Switch platform"
-	RuntimeSettingsName = "Switch"
-	ControllerSettingsName = "Switch JOY CON Bindings"
-
 Namespace FTcpMessagingModule (2 keys)
 	TcpMessagingSettingsDescription = "Configure the TCP Messaging plug-in."
 	TcpMessagingSettingsName = "TCP Messaging"
@@ -2512,10 +2909,6 @@ Namespace FWmfMediaFactoryModule (7 keys)
 Namespace FWmfMediaTracks (1 keys)
 	UnnamedStreamFormat = "Unnamed Track (Stream {0})"
 
-Namespace FXboxOnePlatformEditorModule (2 keys)
-	TargetSettingsName = "Xbox One"
-	TargetSettingsDescription = "Xbox One project settings"
-
 Namespace GameplayCuePathWarning (1 keys)
 	GameplayCuePathWarningTitle = "Invalid GameplayCue Path"
 
@@ -2540,6 +2933,14 @@ Namespace GameplayEffect (5 keys)
 
 Namespace GameplayStatics (1 keys)
 	CollisionUVNoSupport = "Calling FindCollisionUV but 'Support UV From Hit Results' is not enabled in project settings. This is required for finding UV for collision results."
+
+Namespace GameplayTagManager (6 keys)
+	GameplayTagContext = "Tag"
+	EndWithPeriod = "Tag ends with ."
+	EndWithSpace = "Tag ends with space"
+	EmptyStringError = "Tag is empty"
+	StartWithPeriod = "Tag starts with ."
+	StartWithSpace = "Tag starts with space"
 
 Namespace GameplayTagsSettings (1 keys)
 	UnableToAddRestrictedTagSource = "Unable to add restricted tag source {0}. It may already be in use."
@@ -2620,7 +3021,7 @@ Namespace GraphEditor (2 keys)
 	ObjectGraphPin_Browse = "Show the selected asset in the content browser."
 	ObjectGraphPin_Use = "Use content browser selection."
 
-Namespace HeadMountedDisplay (12 keys)
+Namespace HeadMountedDisplay (13 keys)
 	CVarText_MixLayerPriorities = "By default, Face-Locked Stereo Layers are always rendered on top of any other layer position types.
 Set this to a non-zero value to disable this behavior (not supported on all platforms.)"
 	CVarText_HiddenAreaMask = "Enable or disable hidden area mask
@@ -2630,6 +3031,8 @@ Set this to a non-zero value to disable this behavior (not supported on all plat
 	CCommandText_EnableHMD = "Enables or disables the HMD device. Use 1, True, or Yes to enable, 0, False or No to disable."
 	CCommandText_EnableStereo = "Enables or disables the stereo rendering. Use 1, True, or Yes to enable, 0, False or No to disable."
 	CCommandText_TrackingOrigin = "Floor or 0 - tracking origin is at the floor, Eye or 1 - tracking origin is at the eye level."
+	CCommandText_ForceTracking = "If set, head tracking is enabled even when stereo rendering is disabled.
+May not be supported by all XR implementations."
 	CCommandText_HMDVersion = "Prints version information for the current HMD device."
 	CVarText_HMDStatus = "Reports the current status of the head tracking."
 	CVarText_HMDResetPosition = "Reset the position of the head mounted display."
@@ -2932,7 +3335,7 @@ Namespace Internationalization (2 keys)
 	InvariantCultureDisplayName = "Invariant Language (Invariant Country)"
 	ComputerMemoryFormatting = "{Number} {Unit}"
 
-Namespace IOSTargetSettings (90 keys)
+Namespace IOSTargetSettings (91 keys)
 	IOSUpgradeInfoMessage = "<RichTextBlock.TextHighlight>Note to users from 4.6 or earlier</>: We now <RichTextBlock.TextHighlight>GENERATE</> an Info.plist when building, so if you have customized your .plist file, you will need to put all of your changes into the below settings. Note that we don't touch the .plist file that is in your project directory, so you can use it as reference."
 	CertificateMessage = "<RichTextBlock.TextHighlight>Note</>: If no certificate is selected then the one in green will be used to sign the IPA."
 	ProvisionMessage = "<RichTextBlock.TextHighlight>Note</>: If no provision is selected the one in green will be used to provision the IPA."
@@ -2943,9 +3346,10 @@ Namespace IOSTargetSettings (90 keys)
 	CertificateLabel = "Certificate"
 	CertificateListNameColumnHeader = "Certificate"
 	ProvisionListDistributionColumnHeader = "Distribution"
+	iOSMetalShaderVersion1_1 = "Enabling Metal Shader Standard v1.1 increases the minimum operating system requirement for Metal from iOS 8.0 or later to iOS 9.0 or later. This does not affect tvOS."
 	iOSMetalShaderVersion2_0 = "Enabling Metal Shader Standard v2.0 increases the minimum operating system requirement for Metal from iOS 10.0/tvOS 10.0 or later to iOS/tvOS 11.0 or later."
 	iOSMetalShaderVersion2_1 = "Enabling Metal Shader Standard v2.1 increases the minimum operating system requirement for Metal from iOS 10.0/tvOS 10.0 or later to iOS/tvOS 12.0 or later."
-	MetalMRTStandardv1.2 = "Enabling the Desktop Forward Renderer Metal requires Shader Standard v1.2."
+	MetalMRTStandardv1.2 = "Enabling the Desktop Forward Renderer Metal requires Shader Standard v2.0 which increases the minimum operating system requirement for Metal from iOS 10.0 or later to iOS 11.0 or later."
 	CertificateListExpiresColumnHeader = "Expires"
 	ProvisionListFileColumnHeader = "File"
 	GLES2Deprecation = "GLES2 will no longer be supported in 4.17."
@@ -3145,17 +3549,11 @@ Namespace LauncherWorker (8 keys)
 	LauncherCookOnTheFlyDesc = "Starting cook on the fly server"
 	LauncherCompletionDesc = "UAT post launch cleanup"
 
-Namespace LeapPlugin (10 keys)
-	LeapLeftGrab = "Leap Left Grab"
-	LeapLeftPalmPitch = "Leap Left Palm Pitch"
-	LeapLeftPalmRoll = "Leap Left Palm Roll"
-	LeapLeftPalmYaw = "Leap Left Palm Yaw"
-	LeapLeftPinch = "Leap Left Pinch"
-	LeapRightGrab = "Leap Right Grab"
-	LeapRightPalmPitch = "Leap Right Palm Pitch"
-	LeapRightPalmRoll = "Leap Right Palm Roll"
-	LeapRightPalmYaw = "Leap Right Palm Yaw"
-	LeapRightPinch = "Leap Right Pinch"
+Namespace LeapMotion (4 keys)
+	LeapGrabL = "Leap (L) Grab"
+	LeapPinchL = "Leap (L) Pinch"
+	LeapGrabR = "Leap (R) Grab"
+	LeapPinchR = "Leap (R) Pinch"
 
 Namespace LevelActor (2 keys)
 	MapCheck_Message_RepairedPaintedVertexColors = "Repaired painted vertex colors in {LoadTime} for {NumComponents} components in {LevelName}.  Resave map to fix."
@@ -3226,6 +3624,10 @@ Namespace LinuxWindow (6 keys)
 	SDLWindowCreationFailedLinuxTitle = "Unable to create an SDL window."
 	SDLWindowCreationFailedLinuxFmt = "Window creation failed (SDL error: '{0}'')"
 
+Namespace LiveCodingModule (2 keys)
+	LiveCodingSettingsName = "Live Coding"
+	LiveCodintSettingsDescription = "Settings for recompiling C++ code while the engine is running."
+
 Namespace LiveLinkModule (1 keys)
 	LiveLinkAnySource = "Any"
 
@@ -3270,7 +3672,9 @@ Namespace LocalizationSourceControl (11 keys)
 	SourceControlNotAvailable = "Source control server is currently not available."
 	FailedToCheckInFiles = "The checked out localization files could not be checked in."
 
-Namespace LocalizationTargetTypes (12 keys)
+Namespace LocalizationTargetTypes (15 keys)
+	EngineCannotUseProjectRootError = "Engine targets cannot use 'Project' as their path root."
+	EngineRootDisplayName = "Engine/"
 	ExcludePathNoWildcardError = "Exclude path does not specify a wild card ("*"). Append "*" or only the file at the exact specified directory will be excluded."
 	ExcludePathEmptyError = "Exclude path not specified. Use "." to specify the root directory."
 	FileExtensionEmptyError = "File extension not specified."
@@ -3283,6 +3687,7 @@ Namespace LocalizationTargetTypes (12 keys)
 	NoMetaDataLocalizationKeyPlaceHolderError = "No place holders used. All generated keys will conflict!"
 	SearchDirectoryNonExistentError = "Search directory does not exist."
 	SearchDirectoryEmptyError = "Search directory not specified. Use "." to specify the root directory."
+	ProjectRootDisplayNameFmt = "{0}/"
 
 Namespace LocTextHelper (10 keys)
 	Error_LoadArchive_DeserializeFile = "Failed to deserialize archive '{0}'."
@@ -3313,6 +3718,23 @@ Namespace LogVisualizerApp (2 keys)
 
 Namespace LogVisualizerReport (1 keys)
 	WindowTitle = "Log Visualizer Report"
+
+Namespace LuminTargetSettingsDetails (15 keys)
+	BuildFolderLabel = "Build Folder"
+	CertificateFile = "Certificate File"
+	CertificateFilePathLabel = "Certificate File Path"
+	PickCertificateFileDialogTitle = "Choose a certificate"
+	FolderDialogTitle = "Choose a directory"
+	LuminMissingPrivKeyFile = "Could not find private key file."
+	IconModelLabel = "Icon Model"
+	IconPortalLabel = "Icon Portal"
+	LuminPlatformName = "Magic Leap"
+	OpenBuildFolderButton = "Open Build Folder"
+	OpenManifestFolderButton_Tooltip = "Opens the folder containing the build files in Explorer or Finder (it's recommended you check these in to source control to share with your team)"
+	PickCertificateButton_Tooltip = "Select the certificate to use for signing a distribution package. The file will be copied to the project build folder."
+	PickIconModelButton_Tooltip = "Select the icon model to use for the application. The files will be copied to the project build folder."
+	PickIconPortalButton_Tooltip = "Select the icon portal to use for the application. The files will be copied to the project build folder."
+	Warning = "Warning"
 
 Namespace MacPlatform (1 keys)
 	FileManagerName = "Finder"
@@ -3454,11 +3876,17 @@ Namespace MatineeToLevelSequence (11 keys)
 	MatineeToLevelSequence_ConfirmText = "Open Matinee"
 	ShowMessageLogHyperlink = "Show Output Log"
 
+Namespace MediaBundle (1 keys)
+	MediaOpenFailedError = "The media failed to open. Check Output Log for details!"
+
 Namespace MediaBundleActorErrorChecking (4 keys)
 	MapCheck_Message_BundleMaterialNone = "{ActorName} : Bundle ({BundleName}) has an invalid Material"
 	MapCheck_Message_BundleMediaPlayerNone = "{ActorName} : Bundle ({BundleName}) has an invalid MediaPlayer"
 	MapCheck_Message_BundleMediaTextureNone = "{ActorName} : Bundle ({BundleName}) has an invalid MediaTexture"
 	MapCheck_Message_BundleLensDisplacementMapNone = "{ActorName} : Bundle ({BundleName}) has an invalid lens displacement map"
+
+Namespace MediaCapture (1 keys)
+	MediaCaptureFailedError = "The media failed to capture. Check Output Log for details!"
 
 Namespace MediaFrameworkUtilities (2 keys)
 	MediaProfilesDescription = "Configure the Media Profile."
@@ -3467,13 +3895,16 @@ Namespace MediaFrameworkUtilities (2 keys)
 Namespace MediaIOCoreDefinitions (1 keys)
 	Invalid = "<Invalid>"
 
-Namespace MediaIOCoreDeviceProvider (15 keys)
+Namespace MediaIOCoreDeviceProvider (18 keys)
+	FMediaIOInputConfigurationKeyToText = " - Key[{0}{1}]"
 	FMediaIOOutputConfigurationKeyToText = " - Key[{0}{1}]"
 	FMediaIOOutputConfigurationRefToText = " - Ref[{0}{1}]"
 	Invalid = "<Invalid>"
 	External = "External"
 	FMediaIOOutputConfigurationToText = "Fill - {0} [device{1}/{2}{3}/{4}]{5}{6}"
+	FMediaIOInputConfigurationToText = "Fill - {0} [device{1}/{2}{3}/{4}{5}]"
 	FreeRun = "FreeRun"
+	HDMI = "HDMI"
 	In = "In"
 	Out = "Out"
 	Dual = "dual"
@@ -3516,11 +3947,12 @@ Namespace MeshMergeUtils (10 keys)
 	InstanceMergePredictedResultsNone = "The current settings will not result in any instanced meshes being created"
 	InstanceMergePredictedResults = "The current settings will result in {0} instanced static mesh components ({1} actors will be replaced)"
 
-Namespace MeshUtils (13 keys)
+Namespace MeshUtils (14 keys)
 	ActorNameSingular = ""{0}""
 	ActorNamePlural = "Actors"
 	AutomaticMeshReductionPlugin = "Automatic"
 	AutomaticProxyLODMeshReductionPlugin = "Automatic"
+	AutomaticSkeletalMeshReductionPlugin = "Automatic"
 	ConvertToStaticMeshPickName = "Choose New StaticMesh Location"
 	ConvertSelectedActorsToStaticMeshTooltip = "Convert the selected actor's meshes to a new Static Mesh asset. Supports static and skeletal meshes."
 	ConvertSelectedActorsToStaticMeshText = "Convert {0} To Static Mesh"
@@ -3572,23 +4004,7 @@ Namespace MetalRHI (5 keys)
 	ShaderPlatformUnavailableTitle = "Shader Platform Unavailable"
 	ShaderVersionUnsupportedTitle = "Shader Version Unsupported"
 	ShaderPlatformUnavailable = "Shader platform: {ShaderPlatform} was not cooked! Please enable this shader platform in the project's target settings."
-	ShaderVersionUnsupported = "The current OS version does not support {Version} required by the project. You must upgrade to {RequiredOS} to run this project."
-
-Namespace MiscSwitchMessages (14 keys)
-	Connected = "Connected"
-	Disallowed = "Disallowed"
-	Disconnected = "Disconnected"
-	Down = "Down"
-	DualJoyCon = "Dual JoyCon"
-	Handheld = "Handheld"
-	HandheldMessage = "Handheld: {0}"
-	LeftJoyCon = "Left JoyCon"
-	LocalCommunication = "Local Communication"
-	NifmModeMessage = "Nifm/Network Status: {0}"
-	ControllerMessage = "Player {0}: {1}"
-	Pro = "Pro"
-	RightJoyCon = "Right JoyCon"
-	Up = "Up"
+	ShaderVersionUnsupported = "The current OS version does not support {ShaderVersion} required by the project. You must upgrade to {RequiredOS} to run this project."
 
 Namespace MobilePatchingUtils (19 keys)
 	Error_Unknown = "An unknown error ocurred"
@@ -3638,8 +4054,8 @@ Namespace MoviePlayerTestLoadingScreen (1 keys)
 	LoadingComplete = "Loading complete!"
 
 Namespace MovieScene (2 keys)
+	MarkedFrameCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 	LegacyOutOfBoundsError = "Encountered time ({0} seconds) that is out of the supported range with a resolution of {1}fps. Saving this asset will cause loss of data. Please reduce MovieScene.LegacyConversionFrameRate and re-load this asset."
-	IncompatibleDataWarning = "Property size mismatch for property '{0}'. Expected '{1}', found '{2}'. Recreate the track with the new property type."
 
 Namespace MovieScene2DTransformSection (5 keys)
 	AngleText = "Angle"
@@ -3651,11 +4067,20 @@ Namespace MovieScene2DTransformSection (5 keys)
 Namespace MovieScene3DAttachTrack (1 keys)
 	TrackName = "Attach"
 
+Namespace MovieScene3DAttachTrackRecorderFactory (1 keys)
+	DisplayName = "Attach Track"
+
 Namespace MovieScene3DPathSection (1 keys)
 	TimingArea = "Timing"
 
 Namespace MovieScene3DPathTrack (1 keys)
 	TrackName = "Path"
+
+Namespace MovieScene3DTransformTrackRecorderFactory (1 keys)
+	DisplayName = "Transform Track"
+
+Namespace MovieSceneAnimationTrackRecorderFactory (1 keys)
+	DisplayName = "Animation Track"
 
 Namespace MovieSceneAudioSection (2 keys)
 	PitchText = "Pitch"
@@ -3694,6 +4119,11 @@ Namespace MovieSceneClipboard (3 keys)
 	KeyDisplayFormat_Single = "Clipboard from {0} (1 key)"
 	KeyDisplayFormat_Multiple = "Clipboard from {0} ({1} keys)"
 
+Namespace MovieSceneComposureExportTrack (3 keys)
+	DefaultName = "Export Output"
+	RenamedPass_Format = "Export {0} [Internal - Source: {1}]"
+	InternalPass_Format = "Export {0} [Internal]"
+
 Namespace MovieSceneControlRigSection (1 keys)
 	WeightChannelText = "Weight"
 
@@ -3729,7 +4159,7 @@ Namespace MovieSceneLevelVisibilityTrack (1 keys)
 	DisplayName = "Level Visibility"
 
 Namespace MovieSceneLiveLinkSection (1 keys)
-	LinkLinkCurveFormat = " Transform {0} - {1}"
+	LinkLinkCurveFormat = "{0} : {1}"
 
 Namespace MovieSceneLiveLinkSource (1 keys)
 	MovieSceneLiveLinkSourceStatus = "Active"
@@ -3749,6 +4179,12 @@ Namespace MovieSceneNameableTrack (1 keys)
 Namespace MovieSceneParticleTrack (1 keys)
 	DisplayName = "Particle System"
 
+Namespace MovieSceneParticleTrackRecorderFactory (1 keys)
+	DisplayName = "Particle System Track"
+
+Namespace MovieScenePropertyTrackTrackRecorderFactory (1 keys)
+	DisplayName = "Property Track"
+
 Namespace MovieSceneSkeletalAnimationSection (3 keys)
 	RootMotionFixUp1 = "The Animation "
 	WeightChannelName = "Weight"
@@ -3762,6 +4198,9 @@ Namespace MovieSceneSlomoTrack (1 keys)
 
 Namespace MovieSceneSpawnTrack (1 keys)
 	TrackName = "Spawned"
+
+Namespace MovieSceneSpawnTrackRecorderFactory (1 keys)
+	DisplayName = "Spawn Track"
 
 Namespace MovieSceneStringTrack (1 keys)
 	TrackName = "Strings"
@@ -3780,6 +4219,9 @@ Namespace MovieSceneTransformSection (7 keys)
 
 Namespace MovieSceneVisibilityTrack (1 keys)
 	DisplayName = "Visibility"
+
+Namespace MovieSceneVisibilityTrackRecorderFactory (1 keys)
+	DisplayName = "Visibility Track"
 
 Namespace NativeCodeGenerationTool (16 keys)
 	NoConvertedDependencies = "
@@ -3892,6 +4334,14 @@ Namespace NiagaraDataInterfaceStaticMesh (5 keys)
 	GetVertexPositionDesc = "Returns the local space vertex position for the passed vertex."
 	GetVertexPositionWSDesc = "Returns the world space vertex position for the passed vertex."
 	CPUAccessNotAllowedError = "This mesh needs CPU access in order to be used properly.({0})"
+
+Namespace NiagaraDataInterfaceVectorField (6 keys)
+	AnimatedVectorFieldsNotSupportedError = "Animated vector fields are not supported."
+	CPUAccessNotAllowedErrorSummary = "CPU access error"
+	AnimatedVectorFieldsNotSupportedErrorSummary = "Invalid vector field type."
+	VectorFieldNotLoadedError = "No Vector Field is loaded."
+	VectorFieldNotLoadedErrorSummary = "No Vector Field is loaded."
+	CPUAccessNotAllowedError = "This Vector Field needs CPU access in order to be used properly.({0})"
 
 Namespace NiagaraEmitterHandle (2 keys)
 	NoLastMergedSourceErrorMessage = "This emitter has no 'LastMergedSource' so changes can't be merged in."
@@ -4119,17 +4569,18 @@ Namespace PerforceSourceControl.State (24 keys)
 	Conflicted_Tooltip = "The files(s) have local changes that need to be resolved with changes submitted to the Perforce depot"
 	Unknown = "Unknown"
 
-Namespace Photography (7 keys)
+Namespace Photography (9 keys)
 	control_bloomintensity = "Bloom Intensity"
 	control_bloomscale = "Bloom Scale"
+	control_dofbluramount = "Blur Distance km"
+	control_dofblurradius = "Blur Radius"
 	control_chromaticaberration = "Chromatic Aberration"
 	control_doffocaldistance = "Focus Distance"
 	control_doffocalregion = "Focus Region"
 	control_dofscale = "Focus Scale"
-	control_motionbluramount = "Motion Blur"
+	control_dofsensorwidth = "Focus Sensor"
 
-Namespace PhysicsAsset (2 keys)
-	ConflictSyncAsync = "Physics Asset had both sync and async bodies. Defaulting to sync scene only. If you'd like to use async change UseAsyncScene on the PhysicsAsset:{0}"
+Namespace PhysicsAsset (1 keys)
 	BoneMissingFromSkelMesh = "The SkeletalMesh is missing bone '{0}' needed by this PhysicsAsset."
 
 Namespace PhysicsInterface_PhysX (3 keys)
@@ -4192,9 +4643,6 @@ Namespace PlatformInfo (45 keys)
 	TVOSTargetPlatDisplay = "tvOS"
 	TVOSTargetPlatDisplayClient = "tvOSClient"
 
-Namespace PlayerController (1 keys)
-	PlayerControllerPossessAuthorityOnly = "Possess function should only be used by the network authority for {0}"
-
 Namespace PluginDescriptor (7 keys)
 	FailedToLoadDescriptorFile = "Failed to open descriptor file '{0}'"
 	FailedToReadDescriptorFile = "Failed to read file. {0}"
@@ -4222,12 +4670,14 @@ Would you like to disable it? You will no longer be able to open assets that wer
 	PluginModuleIncompatible = "Plugin '{0}' failed to load because module '{1}' does not appear to be compatible with the current version of the engine.  The plugin may need to be recompiled."
 	LoadIncompatibleDependencyPlugin = "The '{0}' plugin is required by the '{1}' plugin, but was designed for build {2}. Attempt to load it anyway?"
 	LoadIncompatiblePlugin = "The '{0}' plugin was designed for build {1}. Attempt to load it anyway?"
-	DisablePluginMessage_NotFound = "This project requires the '{0}' plugin, which could not be found.
+	DisablePluginMessage_NotFound = "This project requires the '{0}' plugin, which could not be found. Would you like to disable it and continue?
 
-Would you like to disable it? You will no longer be able to open any assets created using it."
+If you do, you will no longer be able to open any assets created with it. If not, the application will close."
 	DisablePluginMessage_MissingDependency = "This project requires the '{0}' plugin, which has a missing dependency on the '{1}' plugin.
 
-Would you like to disable it? You will no longer be able to open any assets created using it."
+Would you like to disable it?
+
+If you do, you will no longer be able to open any assets created with it. If not, the application will close."
 	DownloadPluginMessage = "This project requires the {0} plugin.
 
 Would you like to download it from the Unreal Engine Marketplace?"
@@ -4343,17 +4793,6 @@ Namespace ProjectManager (6 keys)
 Namespace PropertyEditor (1 keys)
 	MultipleValues = "Multiple Values"
 
-Namespace PS4 (1 keys)
-	DynamicRHIFailure = "PS4RHI failure?"
-
-Namespace PS4MediaFactoryModule (6 keys)
-	PS4MediaSettingsDescription = "Configure the PS4 Media plug-in."
-	NoSchemeFound = "No URI scheme found"
-	MediaPlayerDisplayName = "PS4 AvPlayer"
-	PS4MediaSettingsName = "PS4 Media"
-	SchemeNotSupported = "The URI scheme '{0}' is not supported"
-	ExtensionNotSupported = "The file extension '{0}' is not supported"
-
 Namespace Python (1 keys)
 	PythonErrorTitle = "Python Error"
 
@@ -4400,6 +4839,27 @@ Namespace RawInputPlugin (30 keys)
 	GenericUSBController_Button9 = "GenericUSBController Button 9"
 	RawInputSettingsSection = "Raw Input"
 
+Namespace RayTracingDebugVisualizationMenuCommands (19 keys)
+	Barycentrics = "Barycentrics"
+	BaseColor = "BaseColor"
+	BlendingMode = "BlendingMode"
+	CustomData = "CustomData"
+	DiffuseColor = "DiffuseColor"
+	GBufferAO = "GBufferAO"
+	HitKind = "HitKind"
+	IndirectIrradiance = "IndirectIrradiance"
+	Ior = "Ior"
+	Metallic = "Metallic"
+	Opacity = "Opacity"
+	PrimitiveLightingChannelMask = "PrimitiveLightingChannelMask"
+	Radiance = "Radiance"
+	Roughness = "Roughness"
+	ShadingModelID = "ShadingModelID"
+	Specular = "Specular"
+	SpecularColor = "SpecularColor"
+	World Normal = "World Normal"
+	World Position = "World Position"
+
 Namespace RealtimeProfileLineGraph (4 keys)
 	PauseProfilingButton = "Pause"
 	StartProfilingButton = "Start"
@@ -4440,6 +4900,23 @@ Namespace Renderer (21 keys)
 Devices that have an A7 are iPhone 5S, iPad Air, and iPad mini with Retina display. Any device older than those will not work."
 	LinuxCannotLoadLibGLText = "Unable to dynamically load libGL"
 	ViewLocked = "VIEW LOCKED"
+
+Namespace RendererSettings (1 keys)
+	Skin Cache Disabled = "Ray Tracing requires enabling skin cache. Do you want to automatically enable skin cache now?"
+
+Namespace SActiveSession (12 keys)
+	SessionConnectedClients = "Connected Clients"
+	StatusConnectedFmt = "Connected: {0}"
+	StatusDisconnected = "Disconnected"
+	UserDisplayName = "Display Name"
+	SessionHistory = "History"
+	LeaveCurrentSessionToolTip = "Leave the current session"
+	UserLevel = "Level"
+	ResumeCurrentSessionToolTip = "Resume receiving updates from the current session"
+	SuspendCurrentSessionToolTip = "Suspend receiving updates from the current session"
+	StatusSuspendedFmt = "Suspended: {0}"
+	UserPresence = "User Presence"
+	ClientDisplayNameIsYouFmt = "{0} (You)"
 
 Namespace SAutomationGraphicalResultBox (4 keys)
 	AutomationGraphicalDuration = "{Duration}s"
@@ -4575,6 +5052,40 @@ Namespace SCollisionAnalyzer (20 keys)
 Namespace SComboBox (1 keys)
 	ContentWarning = "No Content Provided"
 
+Namespace SConcertBrowser (28 keys)
+	ServerList = "Available Servers"
+	SessionList = "Available Sessions"
+	CreateSessionCancelButtonText = "Cancel"
+	CreateSessionCancelTooltip = "Cancel the creation of this session."
+	ServerIgnoreSessionRequirementsTooltip = "Careful this server won't verify that you have the right requirements before you join a session"
+	StatusConnectedServerUnknown = "Connected (Server Unknown)"
+	ClientList = "Connected Clients"
+	StatusConnectedFmt = "Connected: {0} on {1}"
+	CreateSessionCreateButtonText = "Create"
+	CreateSessionWindowLabel = "Create A Session"
+	CreateSession = "Create Session"
+	CreateSessionToolTip = "Create a new session on the selected server"
+	CreateSessionConfirmationTooltip = "Create the session."
+	DeleteSessionConfirmationTitle = "Delete Session Confirmation"
+	DeleteSessionToolTip = "Delete this session"
+	StatusDisconnected = "Disconnected"
+	DeleteSessionConfirmationMessage = "Do you really want to delete the session "{0}" from the server "{1}"?"
+	CreateSessionConfirmationTooltipWhenDisabled = "Enter a name for the session."
+	JoinSessionToolTip = "Join this session"
+	LeaveCurrentSessionToolTip = "Leave the current session"
+	LeaveSessionToolTip = "Leave this session"
+	ResumeCurrentSessionToolTip = "Resume receiving updates from the current session"
+	ResumeSessionToolTip = "Resume receiving updates from this session"
+	ActiveSessionToolTip = "See the current active session"
+	SuspendCurrentSessionToolTip = "Suspend receiving updates from the current session"
+	SuspendSessionToolTip = "Suspend receiving updates from this session"
+	StatusSuspendedFmt = "Suspended: {0} on {1}"
+	ClientDisplayNameIsYouFmt = "{0} (You)"
+
+Namespace SConcertScrollBox (2 keys)
+	ScrollToEndToolTip = "Scroll to the end of the list."
+	ScrollToStartToolTip = "Scroll to the start of the list."
+
 Namespace ScreenshotComparison (9 keys)
 	AddAllNewReports = "Add All New Reports"
 	AddAllNewReportsTooltip = "Adds all new screenshots contained in the reports."
@@ -4644,17 +5155,18 @@ Namespace SDeviceBrowserContextMenu (3 keys)
 	OwnershipMenuHeading = "Ownership"
 	RemoteControlMenuHeading = "Remote Control"
 
-Namespace SDeviceBrowserDeviceAdder (10 keys)
+Namespace SDeviceBrowserDefaultPlatformAddWidget (6 keys)
 	DeviceNameToolTip = "A display name for this device. Once the device is connected, this will be replaced with the device's actual name."
-	AddButtonText = "Add"
 	DeviceIdLabel = "Device Identifier:"
 	DisplayNameLabel = "Display Name:"
-	DeviceAdderFailedToAddDeviceMessage = "Failed to add the device!"
 	UserPasswordLabel = "Password:"
-	PlatformLabel = "Platform:"
-	SelectAPlatform = "Select a Platform"
 	DeviceIdToolTip = "The device's unique identifier. Depending on the selected Platform, this can be a host name, an IP address, a MAC address or some other platform specific unique identifier."
 	UserNameLabel = "User:"
+
+Namespace SDeviceBrowserDeviceAdder (3 keys)
+	AddButtonText = "Add"
+	PlatformLabel = "Platform:"
+	SelectAPlatform = "Select a Platform"
 
 Namespace SDeviceBrowserDeviceListRow (5 keys)
 	RemotelyHint = "(remotely)"
@@ -4937,9 +5449,11 @@ Namespace SFrameRatePicker (2 keys)
 	MultipleValuesText = "<multiple values>"
 	CustomFramerateDisplayLabel = "Custom"
 
-Namespace SGitSourceControlSettings (26 keys)
+Namespace SGitSourceControlSettings (28 keys)
 	CreateGitAttributes = "Add a .gitattributes file to enable Git LFS"
 	CreateGitIgnore = "Add a .gitignore file"
+	CreateReadme_Tooltip = "Add a README.md file"
+	CreateReadme = "Add a basic README.md file"
 	ConfigureOrigin_Tooltip = "Configure the URL of the default remote 'origin'"
 	CreateGitAttributes_Tooltip = "Create and add a '.gitattributes' file to enable Git LFS"
 	CreateGitAttributesAll_Tooltip = "Create and add a '.gitattributes' file to enable Git LFS for the whole 'Content/' directory (needs Git LFS extensions to be installed)."
@@ -4980,8 +5494,8 @@ Namespace ShaderFormatsPropertyDetails (22 keys)
 	D3DES31 = "Direct3D (ES3.1, Mobile Preview)"
 	D3DSM4 = "Direct3D 10 (SM4)"
 	D3DSM5 = "Direct3D 11+ (SM5)"
-	MetalSM5 = "Mac Metal Desktop Renderer with Tessellation (SM5, Metal 1.2+, macOS Sierra 10.12.6 or later)"
-	MetalSM5_NOTESS = "Mac Metal Desktop Renderer without Tessellation (SM5, Metal 1.2+, macOS Sierra 10.12.6 or later)"
+	MetalSM5 = "Mac Metal Desktop Renderer with Tessellation (SM5, Metal 2.0+, macOS High Sierra 10.13.6 or later)"
+	MetalSM5_NOTESS = "Mac Metal Desktop Renderer without Tessellation (SM5, Metal 2.0+, macOS High Sierra 10.13.6 or later)"
 	MetalES3.1 = "Mac Metal High-End Mobile Preview (ES3.1)"
 	MetalES2 = "Mac Metal Low-End Mobile Preview (ES2)"
 	MetalMRTMac = "Mac Metal iOS/tvOS Desktop Renderer Preview (SM5)"
@@ -5008,17 +5522,6 @@ Namespace Shotgun (5 keys)
 	ShotgunCombo_Label = "Shotgun"
 	ShotgunSettingsName = "Shotgun"
 	Shotgun_ContextMenu = "Shotgun"
-
-Namespace SimplygonMeshReduction (1 keys)
-	SimplygonProxyLOD_ProxyLOD = "Generating Proxy Mesh using Simplygon"
-
-Namespace SimplygonSwarm (5 keys)
-	RequiredFileNotFoundMessage = "A required file could not be found:
-{File}"
-	SimplygonSwarm_ProxyLOD = "Generating Proxy Mesh using Simplygon Swarm"
-	SimplygonSwarm_GenerateData = "Generating Simplygon Processing Data"
-	SimplygonSwarm_CreateSPL = "Generating Simplygon Processing Settings"
-	SimplygonSwarm_UploadData = "Uploading Processing Data to Simplygon Swarm Server"
 
 Namespace SkeletalMeshActor (4 keys)
 	MapCheck_Message_SkeletalMeshNull = "Skeletal mesh actor has NULL SkeletalMesh property"
@@ -5049,12 +5552,21 @@ Namespace Slate (4 keys)
 	CommandText_DeleteResources = "Flushes and deletes all resources created by Slate's RHI Resource Manager."
 	SearchHint = "Search"
 
+Namespace SlateAsyncTaskNotification (2 keys)
+	CancelButton = "Cancel"
+	CloseButton = "Close"
+
 Namespace SlateCore (1 keys)
 	ComboBoxMissingOnGenerateWidgetMethod = "Please provide a .OnGenerateWidget() handler."
 
 Namespace SlateD3DRenderer (2 keys)
 	ProblemWithGraphicsCard = "There is a problem with your graphics card. Please ensure your card meets the minimum system requirements and that you have the latest drivers installed."
 	UnsupportedVideoCardErrorTitle = "Unsupported Graphics Card"
+
+Namespace SlateDebugging (3 keys)
+	SetUserFocusFailed = "Attempting to focus a widget that isn't in the tree and visible. If your intent is to clear focus use ClearUserFocus()"
+	SetUserFocusFailedAll = "Attempting to focus a widget that isn't in the tree and visible. If your intent is to clear focus use ClearUserFocus()"
+	FailedToCaptureMouse = "Failed To Mouse Capture"
 
 Namespace SlateFileDialogsNamespace (15 keys)
 	SlateFileDialogsCancel = "Cancel"
@@ -5090,8 +5602,23 @@ Namespace SlateTestSuite (1 keys)
 Namespace SlateWidgetStyleSet (1 keys)
 	LoadingError = "Encountered multiple Slate Widget Styles with the same name. Name: '{0}', First Asset: '{1}',  Second Asset: '{2}'."
 
+Namespace SLevelSequenceTakeEditor (6 keys)
+	AddNewSource = "Add New {0} Source"
+	SourcesMenuSection = "Available Sources"
+	MissingActorOrComponentName = "MissingActorOrComponentName"
+	TakeRecorderRecordedPropertiesTitle = "Recorded Properties"
+	AddNewSource_Text = "Source"
+	CategoryFormatString = "{0} ({1})"
+
 Namespace SListView (1 keys)
 	BrokenUIMessage = "OnGenerateWidget() not assigned."
+
+Namespace SLiveLinkCurveDebugUI (5 keys)
+	LiveLinkSubjectNameHeader = "Currently Viewing: {0}"
+	CurveName = "Curve Name"
+	CurveValue = "Curve Value"
+	LiveLinkSubjectName = "Live Link Subject Name:"
+	NoCurvesForSubject = "No Curve Data"
 
 Namespace SmartSnapping (2 keys)
 	View_Extension_PlanarSnap_Enable = "Enable Planar Snapping"
@@ -5413,6 +5940,18 @@ Namespace SOutputLog (16 keys)
 	ShowAllCategories = "Show All"
 	OutputLogVerbosityHeading = "Verbosity"
 	ShowWarnings = "Warnings"
+
+Namespace SPackageDetails (10 keys)
+	ActionColumnHeaderName = "Action"
+	PackageActionAdd = "Add"
+	PackageActionDelete = "Delete"
+	InvalidPackageAction = "Invalid Action"
+	ModifiedByColumnHeaderName = "ModifiedBy"
+	NameColumnHeaderName = "Name"
+	PackageActionRename = "Rename/Move"
+	RevisionFlagsHeaderName = "Revision"
+	PackageActionSave = "Save"
+	UnknownUser = "Unknown"
 
 Namespace SpawnRegister (1 keys)
 	NotSupported = "Not supported"
@@ -5921,7 +6460,7 @@ Namespace SProjectLauncherUnrealProjectPicker (8 keys)
 	SelectProjectText = "Select..."
 	AnyProjectActionHint = "This profile can be used on any project."
 
-Namespace SProjectLauncherValidation (20 keys)
+Namespace SProjectLauncherValidation (26 keys)
 	NoBuildConfigurationSelectedError = "A Build Configuration must be selected."
 	NoBuildGameSelectedError = "A Project must be selected."
 	DeployedDeviceGroupRequired = "A device group must be selected when deploying builds."
@@ -5933,13 +6472,19 @@ Namespace SProjectLauncherValidation (20 keys)
 	CopyToDeviceRequiresCookByTheBookError = "Deployment by copying to device requires 'By The Book' cooking."
 	LaunchDeviceIsUnauthorized = "Device is unauthorized or locked."
 	GeneratingHttpChunkDataRequiresGeneratingChunks = "Generate Chunks must be selected to Generate Http Chunk Install Data."
+	GeneratingChunksRequiresCookByTheBook = "Generating Chunks requires cook by the book mode."
 	GeneratingHttpChunkDataRequiresValidDirectoryAndName = "Generating Http Chunk Install Data requires a valid directory and release name."
+	GeneratingMultiLevelPatchesRequiresGeneratePatch = "Generating multilevel patch requires generating patch."
+	GeneratingPatchesCanOnlyRunFromByTheBookCookMode = "Generating patch requires cook by the book mode."
 	InvalidLaunchProfile = "Invalid Launch Profile."
 	NoLaunchRoleDeviceAssigned = "One or more launch roles do not have a device assigned."
 	ShippingDoesntSupportCommandlineOptionsCantUseCookOnTheFly = "Shipping doesn't support commandline options and can't use cook on the fly"
+	StagingBaseReleasePaksWithoutABaseReleaseVersion = "Staging base release pak files requires a base release version to be specified"
 	InitialCultureNotAvailable = "The Initial Culture selected for launch is not in the build."
 	InitialMapNotAvailable = "The Initial Map selected for launch is not in the build."
 	NoArchiveDirectorySpecifiedError = "The archive step requires a valid directory."
+	NoPackageDirectorySpecified = "The deployment requires a package directory to be specified."
+	MalformedLaunchCommandLine = "The specified launch command line is not formatted correctly."
 	GeneratingChunksRequiresUnrealPak = "UnrealPak must be selected to Generate Chunks."
 	UnversionedAndIncrimental = "Unversioned build cannot be incremental."
 
@@ -6061,6 +6606,9 @@ Namespace SSessionFrontend (7 keys)
 	SessionFrontendMenuGroupName = "Session Frontend"
 	WindowMenuLabel = "Window"
 
+Namespace SSessionHistory (1 keys)
+	InvalidActivity = "INVALID_ACTIVITY"
+
 Namespace SSettingsEditor (30 keys)
 	AllPropertiesLink = "All Settings"
 	SaveAsDefaultUserConfirm = "Are you sure you want to update the default settings?"
@@ -6177,13 +6725,74 @@ Namespace STableViewTesting (33 keys)
 	TreeContextMenuLabel = "Tree Context Menu"
 	UnsupprtedColumnText = "Unsupported Column: {0}"
 
-Namespace StaticMesh (3 keys)
+Namespace STakePresetAssetEditor (2 keys)
+	SavePresetButton = "Save this take preset"
+	NewRecording = "Start a new recording using this Take Preset as a base"
+
+Namespace STakeRecorderCockpit (19 keys)
+	EnterSlateDescription_Hint = "<description>"
+	EnterSlate_Hint = "<slate>"
+	UnknownError = "An unknown error occurred when trying to start recording"
+	AddMarkedFrame = "Click to add a marked frame while recording"
+	GetNextAvailableTakeNumber = "Click to get the next available take number."
+	SlateLabel = "SLATE"
+	SetDescription_Transaction = "Set Description"
+	SetDuration_Transaction = "Set Duration"
+	SetNextTakeNumber_Transaction = "Set Next Take Number"
+	SetTakeNumber_Transaction = "Set Take Number"
+	SetSlate_Transaction = "Set Take Slate"
+	NewRecording = "Start a new recording using this Take as a base"
+	TakeLabel = "TAKE"
+	DuplicateTakeNumber_1 = "The following Level {0}|plural(one=Sequence, other=Sequences) {0}|plural(one=was, other=were) also recorded with take {1} of {2}"
+	ErrorWidget_NoSources = "There are no currently enabled sources to record from. Please add some above before recording."
+	ErrorWidget_NoSequence = "There is no sequence to record from. Please re-open Take Recorder."
+	Modify Slate = "Unlock to modify the slate information for this prior recording."
+	ErrorWidget_NoSlate = "You must enter a slate to begin recording."
+	ErrorWidget_InvalidPath = "{0} is not a valid asset path. {1}"
+
+Namespace STakeRecorderPanel (18 keys)
+	Warning_NewTake = "Are you sure you want to create a new empty take setup? Your current changes will be discarded."
+	Warning_RevertChanges = "Are you sure you want to revert changes? Your current changes will be discarded."
+	Add = "Create a New Take"
+	ImportPreset_MenuSection = "Import Preset"
+	ImportPreset_Transaction = "Import Take Preset"
+	NewTake_Transaction = "New Take"
+	NewTakePreset = "NewTakePreset"
+	NoPresets_Warning = "No Presets Found"
+	PresetsToolbarButton = "Presets"
+	Back = "Return Back to the Pending Take"
+	RevertChanges_Transaction = "Revert Changes"
+	RevertChanges_Text = "Revert all changes made to this take back its original state (either its original preset, or an empty take)."
+	ReviewLastRecording = "Review the Last Recording"
+	SaveAsPreset = "Save As Preset"
+	SaveAsPreset_Text = "Save As Preset"
+	SaveTakePresetDialogTitle = "Save Take Preset"
+	SaveAsPreset_Tip = "Save the current setup as a new preset that can be imported at a later date"
+	ShowUserSettings_Tip = "Show/Hide the general user settings for take recorder"
+
+Namespace STakeRecorderSources (4 keys)
+	DeleteSelection = "Delete Selected {0}|plural(one=Source, other=Sources)"
+	DisableSources = "Disable Recording {0}|plural(one=Source, other=Sources)"
+	EnableSources = "Enable Recording {0}|plural(one=Source, other=Sources)"
+	CategoryFormatString = "{0} ({1})"
+
+Namespace StaticMesh (5 keys)
 	LoadError_BadMinLODOverride = "Min LOD override of {MinLOD} for {Platform} is out of range 0..{MinAvailLOD} and has been adjusted to {MinAvailLOD}. Please verify and resave the asset."
 	LoadError_BadMinLOD = "Min LOD value of {MinLOD} is out of range 0..{MinAvailLOD} and has been adjusted to {MinAvailLOD}. Please verify and resave the asset."
 	StaticMeshMaterialChanged = "StaticMesh: Material changed"
+	ConfirmRequiredAdjacency = "Using a tessellation material required the adjacency buffer to be computed.
+Do you want to set the adjacency options to true?
 
-Namespace StaticMeshActor (4 keys)
-	MapCheck_Message_StaticMeshNull = "Static mesh actor {ActorName} has NULL StaticMesh property"
+	SaticMesh: {0}
+	LOD Index: {1}
+	Material: {2}"
+	ConfirmRequiredAdjacencyNoLODIndex = "Using a tessellation material required the adjacency buffer to be computed.
+Do you want to set the adjacency options to true?
+
+	SaticMesh: {0}
+	Material: {1}"
+
+Namespace StaticMeshActor (3 keys)
 	MapCheck_Message_StaticMeshComponent = "Static mesh actor {ActorName} has NULL StaticMeshComponent property - please delete"
 	MapCheck_Message_SameLocation = "{ActorName0} is in the same location as {ActorName1}"
 	MapCheck_Message_VertexColorsNotMatchOriginalMesh = "{ActorName} (LOD {LODIndex}) has hand-painted vertex colors that no longer match the original StaticMesh ({StaticMeshName})"
@@ -6642,7 +7251,7 @@ Namespace SVisualLoggerToolbar (12 keys)
 	StartDebuggerTooltip = "Starts recording and collecting visual logs"
 	StopLogger = "Stop"
 
-Namespace SWidgetReflector (43 keys)
+Namespace SWidgetReflector (44 keys)
 	RemoteWidgetSnapshotAbortedNotificationText = "Aborted Remote Widget Snapshot"
 	Address = "Address"
 	AppScale = "Application Scale: "
@@ -6680,6 +7289,7 @@ Namespace SWidgetReflector (43 keys)
 	RemoteWidgetSnapshotPendingNotificationText = "Waiting for Remote Widget Snapshot Data"
 	EnableWidgetCaching = "Widget Caching"
 	WidgetDetailsTab = "Widget Details"
+	WidgetEventsTab = "Widget Events"
 	WidgetHierarchyTab = "Widget Hierarchy"
 	WidgetName = "Widget Name"
 	CBP = "[CBP]"
@@ -6704,7 +7314,7 @@ Namespace SWizard (8 keys)
 	NextButtonLabel = "Next"
 
 Namespace Synthesis (1 keys)
-	Common = "Common"
+	Synth = "Synth"
 
 Namespace TabCommands (1 keys)
 	DockingTabCommands = "Docking Tab Commands"
@@ -6716,13 +7326,75 @@ Namespace TabManager (2 keys)
 	LocalWorkspaceRoot = "Local Workspace Root"
 	TabIdFormat = "{TabType} : {InstanceIdNumber}"
 
-Namespace TargetManager (4 keys)
-	TMCancel = "Cancel"
-	TMCancelToolTip = "Cancel this dialog."
-	IgnoredDevice = "Error Communicating with {0}.
-Device will be ignored for remainder of session."
-	TargetManager_Notification_Unresponsive = "Target Manager interface seems unresponsive.
-Interacting with development kits via Device Manager tab may fail."
+Namespace TakeMetaData (10 keys)
+	Description_Label = "Description"
+	LevelPath_Label = "Map"
+	LevelPath_Tip = "Map used for this take"
+	Slate_Label = "Slate"
+	Take_Label = "Take #"
+	Slate_Tip = "The slate that this level sequence was recorded with"
+	Take_Tip = "The take number of this recorded level sequence"
+	Timestamp_Tip = "The time that this take was started"
+	Timestamp_Label = "Timestamp"
+	Description_Tip = "User-specified description for this take"
+
+Namespace TakePresetActions (1 keys)
+	TakePreset_Label = "Take Recorder Preset"
+
+Namespace TakePresetToolkit (2 keys)
+	WorldCentricTabPrefix = "Take "
+	AppLabel = "Take Preset Editor"
+
+Namespace TakeRecorder (12 keys)
+	RecordingInProgressError = "A recording is currently in progress."
+	BrowseToAsset = "Browse To..."
+	FailedToOpenSequencerError = "Failed to open Sequencer for asset '{0}."
+	NoSlateSpecifiedError = "No slate specified."
+	ProcessingTransforms = "Processing Transforms"
+	CancelledText = "Recording Cancelled"
+	CompleteText = "Recording Complete"
+	CountdownText = "Recording in {0}s..."
+	RecordingText = "Recording..."
+	ToggleSequencer_Tip = "Show/Hide the Level Sequence that is used for setting up this take"
+	StopButton = "Stop"
+	RecordingTitleFormat = "Take {0} of slate {1}"
+
+Namespace TakeRecorderBlueprintLibrary (1 keys)
+	UnknownError = "An unknown error occurred when trying to start recording"
+
+Namespace TakeRecorderCommands (1 keys)
+	Common = "Common"
+
+Namespace TakeRecorderModule (15 keys)
+	UnknownError = "An unknown error occurred when trying to start recording"
+	ProjectSettings_Description = "Configure project-wide defaults for take recorder."
+	TakeRecorderSequenceEditorSettingsDescription = "Configure the look and feel of the Take Recorder Sequence Editor."
+	UserSettings_Description = "Configure user-specific settings for take recorder."
+	TakeRecorderOpenMap_Label = "Open Map"
+	OpenInTakeRecorder_Label = "Open in Take Recorder"
+	TakeBrowserTab_Tooltip = "Open the Take Browser UI"
+	TakeRecorderTab_Tooltip = "Open the main Take Recorder UI."
+	TakeRecorderOpenMap_Tooltip = "Opens the map used to create this Level Sequence Asset"
+	OpenInTakeRecorder_Tooltip = "Opens this level sequence asset in Take Recorder"
+	ProjectSettings_Label = "Take Recorder"
+	TakeRecorderTab_Label = "Take Recorder"
+	UserSettings_Label = "Take Recorder"
+	TakeRecorderSequenceEditorSettingsName = "Take Recorder Sequence Editor"
+	TakesBrowserTab_Label = "Takes Browser"
+
+Namespace TakeRecorderSources (6 keys)
+	AddSpecificActor = "Add '{0}'"
+	AddCurrentActorSelection = "Add Current Selection ({0} actors)"
+	AddSources = "Add Recording {0}|plural(one=Source, other=Sources)"
+	ActorList_Tip = "Add a new recording source from an actor in the current world"
+	ChooseActor = "Choose Actor:"
+	ActorList_Label = "From Actor"
+
+Namespace TakeRecorderUtils (1 keys)
+	InvalidPathError = "{0} is not a valid asset path."
+
+Namespace TakesBrowser (1 keys)
+	ToggleTakeBrowser_Tip = "Show/Hide the Takes Browser"
 
 Namespace TaskGraph (24 keys)
 	FailedExportMessage = "Could not write profile data to file"
@@ -6916,6 +7588,18 @@ Namespace UICommands.AutomationTest (12 keys)
 	ErrorFilter_ToolTip = "Toggle Error Filter"
 	WarningFilter_ToolTip = "Toggle Warning Filter"
 	WarningFilter = "Warnings"
+
+Namespace UICommands.ConcertFrontend (10 keys)
+	OpenActiveSession = "Active Session..."
+	GoLive = "Go Live"
+	GoLive_ToolTip = "Join the default Multi-User session"
+	LaunchServer = "Launch Multi-User Server"
+	LaunchServer_ToolTip = "Launch a local Multi-User server"
+	OpenSettings = "Multi-User Settings..."
+	OpenBrowser_ToolTip = "Open the Multi-User session browser"
+	OpenSettings_ToolTip = "Open the Multi-User settings"
+	OpenActiveSession_ToolTip = "Open the active session tab"
+	OpenBrowser = "Session Browser..."
 
 Namespace UICommands.DeviceDetailsCommands (20 keys)
 	Claim = "Claim"
@@ -7127,6 +7811,12 @@ Namespace UICommands.TabCommands (4 keys)
 	CloseMinorTab_ToolTip = "Closes the current window's active minor tab"
 	CloseMajorTab_ToolTip = "Closes the focused major tab"
 
+Namespace UICommands.TakeRecorderCommands (4 keys)
+	StartRecording_ToolTip = "Start recording"
+	StartRecording = "StartRecording"
+	StopRecording_ToolTip = "Stop recording"
+	StopRecording = "StopRecording"
+
 Namespace UKismetAnimationLibrary (1 keys)
 	AnimationLibraryWarning = "Animation Library Warning"
 
@@ -7154,18 +7844,21 @@ Namespace UKismetMathLibrary (14 keys)
 	ClampSecondsToMinTimespan = "Seconds value {SecondsValue} is less than minimum seconds TimeSpan can represent. Clamping to MinValue."
 	NegativeSqrtWarning = "Square root of negative number"
 
-Namespace UMG (39 keys)
+Namespace UMG (40 keys)
 	NotValidClass = "Abstract, Deprecated or Replaced classes are not allowed to be used to construct a user widget. {UserWidgetClass} is one of these."
 	AddToPlayerScreen_NoPlayer = "AddToPlayerScreen Failed.  No Owning Player!"
 	Common = "Common"
 	WidgetClassNull = "CreateWidget called with a null class."
 	NotUserWidget = "CreateWidget can only be used on UUserWidget children. {UserWidgetClass} is not a UUserWidget."
 	NoPlayer = "CreateWidget cannot be used on Player Controller with no attached player. {PlayerController} has no Player attached."
-	Extra = "Extra"
+	Error_CompilationError = "EntryWidget BP [{0}] has not compiled successfully"
+	Error_NonBPEntryWidget = "EntryWidgetClass [{0}] is not a Blueprint class"
 	Input = "Input"
 	Lists = "Lists"
 	Misc = "Misc"
 	NoCookedWidgetTree = "No Cooked Widget Tree! {0}"
+	Error_MissingEntryWidgetClass = "No EntryWidgetClass specified on this list.
+Even if doing custom stuff, this is always required as a fallback."
 	NoWidgetTree = "Null Widget Tree {0}"
 	NotLocalPlayer = "Only Local Player Controllers can be assigned to widgets. {PlayerController} is not a Local Player Controller."
 	Optimization = "Optimization"
@@ -7182,8 +7875,6 @@ Namespace UMG (39 keys)
 	NoPlayerControllerToFocus = "The PlayerController is not a valid local player so it can't focus the widget."
 	WidgetAlreadyHasParent = "The widget '{0}' already has a parent widget.  It can't also be added to the viewport!"
 	WidgetAlreadyOnScreen = "The widget '{0}' was already added to the screen."
-	Error_MissingEntryWidgetClass = "There is no EntryWidgetClass specified on this list.
-Even if doing custom stuff, this is always required as a fallback."
 	TemplatingFailed = "This class can not be created using the fast path, because the property {0} on {1} references {2}.  You probably are missing 'Instanced' or the 'Transient' flag on this property in C++."
 	ThisWidgetDoesntSupportFocus = "This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true."
 	RemoveFromParentWithNoParent = "UWidget::RemoveFromParent() called on '{0}' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())"
@@ -7202,6 +7893,9 @@ Namespace UMGAnimation (1 keys)
 Namespace UMGEditor (2 keys)
 	Uncategorized = "Uncategorized"
 	NonVariableLabelFormat = "[{BaseName}]{Metadata}"
+
+Namespace UMovieSceneAnimationTrackRecorderSettings (1 keys)
+	DefaultAnimationTrackName = "RecordedAnimation"
 
 Namespace UNiagaraDataInterfaceTexture (3 keys)
 	TextureDimsDesc = "Get the dimensions of mip 0 of the texture."
@@ -7503,7 +8197,7 @@ Namespace UnrealClient (2 keys)
 	HighResScreenshotSavedAs = "High resolution screenshot saved as"
 	HighResScreenshotTooBig = "The high resolution screenshot multiplier is too large for your system. Please try again with a smaller value!"
 
-Namespace UnrealEd (260 keys)
+Namespace UnrealEd (263 keys)
 	Error = "!"
 	GameWindowTitleDebugInfo = "({PlatformArchitecture}-bit {BuildConfiguration} {RHIName})"
 	Error_InvalidFilename = "A file/folder may not match any of the following : 
@@ -7557,7 +8251,8 @@ Fix the error then click Ok to retry."
 	SavingPackage_CompressingTexture = "Compressing texture:  {0}"
 	ConsoleHelpExported = "ConsoleHelp.html was saved as"
 	ConstraintsSF = "Constraints"
-	SplashScreen_CopyrightInfo = "Copyright © 1998-2018   Epic Games, Inc.   All rights reserved."
+	DuplicateObjects = "Copy Objects"
+	SplashScreen_CopyrightInfo = "Copyright © 1998-2019   Epic Games, Inc.   All rights reserved."
 	Error_CouldntLaunchPIEClient = "Couldn't Launch PIE Client: {0}"
 	Error_CouldntSpawnPlayer = "Couldn't spawn player: {0}"
 	Error_CouldntWriteToFile_F = "Couldn't write to file '{0}'. Maybe file is read-only?"
@@ -7671,6 +8366,7 @@ Fix the error then click Ok to retry."
 	PainCausingVolumeSF = "Pain Causing"
 	Paper2DSpritesSF = "Paper 2D Sprites"
 	ParticlesSF = "Particle Sprites"
+	PathTracing = "Path tracing"
 	CollisionPawn = "Pawn"
 	PhysicsVolumeSF = "Physics"
 	PivotSF = "Pivot"
@@ -7691,6 +8387,7 @@ Fix the error then click Ok to retry."
 	QuadOverdrawSF = "Quad Overdraw"
 	RandomSubUVForGPUEmitter = "Random SubUV interpolation is not supported with GPU particles."
 	RayTracedDistanceFieldShadows = "Ray Traced Distance Field Shadows"
+	RayTracingDebug = "Ray tracing debug"
 	RectLightsSF = "Rect Lights"
 	ReflectionEnvironmentSF = "Reflection Environment"
 	ReflectionOverrideSF = "Reflections"
@@ -7780,10 +8477,12 @@ Namespace UnrealEditor (7 keys)
 	OutputLogTab = "Output Log"
 	ApplicationTitle = "Unreal Editor"
 
-Namespace UnrealEngine (20 keys)
+Namespace UnrealEngine (23 keys)
 	DisableAllScreenMessagesToSuppress = "'DisableAllScreenMessages' to suppress"
 	BlueprintInLevelHadCompileErrorMessage = "BLUEPRINT COMPILE ERROR"
 	CsvProfilerFrameFmt = "CsvProfiler frame: {0}"
+	CsvProfilerWriteFmt = "CsvProfiler, please wait, writing file... Total frames: {0}"
+	FrameProRecording = "FramePro Recording"
 	HLOD_CLUSTERS_NEED_TO_BE_REBUILT_FMT = "HLOD CLUSTERS NEED TO BE REBUILT ({0} unbuilt {0}|plural(one=object,other=objects))"
 	LIGHTING_NEEDS_TO_BE_REBUILT_FMT = "LIGHTING NEEDS TO BE REBUILT ({0} unbuilt {0}|plural(one=object,other=objects))"
 	MEMPROFILINGWARNINGLLM = "LLM enabled without Debug Memory enabled!"
@@ -7799,6 +8498,7 @@ Namespace UnrealEngine (20 keys)
 	TEXTURE_STREAMING_NEEDS_TO_BE_REBUILT_FMT = "TEXTURE STREAMING NEEDS TO BE REBUILT ({0} {0}|plural(one=component,other=components), {1} {1}|plural(one="resource ref",other="resource refs"))"
 	TEXTURE_STREAMING_POOL_OVER_BUDGET_FMT = "TEXTURE STREAMING POOL OVER {0} BUDGET"
 	TracingProfilerFrameFmt = "TracingProfiler frame: {0}"
+	ViewModeShadersCompilingFmt = "View Mode Shaders Compiling ({0})"
 	VisLogRecordingActive = "VisLog recording active"
 	LLMWARNING = "WARNING: Running with Debug Memory Enabled!"
 
@@ -7815,8 +8515,81 @@ Namespace UObjectToolTips (5 keys)
 	CameraFilmbackSettings:SensorHeight = "Vertical size of filmback or digital sensor, in mm."
 	LevelSequenceSnapshotSettings:ZeroPadAmount = "Zero pad frames"
 
+Namespace USDImportPlugin (27 keys)
+	ConflictWithAssetPathAndMeshes = "Actor has an asset path '{0} but also contains meshes {1} to import. Meshes will be ignored"
+	MultipleAssetsForASingleActor = "Actor type '{0}' only supports one asset but {1} assets were imported.   The first imported asset '{2}' was assigned to the actor"
+	USDOptionWindow_Cancel = "Cancel"
+	USDOptionWindow_Cancel_ToolTip = "Cancels importing this USD file"
+	CouldNotFindUnrealActorClass = "Could not find Unreal Actor Class '{0}' for USD prim '{1}'"
+	CouldNotFindUnrealAssetPath = "Could not find Unreal Asset '{0}' for USD prim '{1}'"
+	CouldNotFindActorFactory = "Could not find an actor type to spawn for '{0}'"
+	CouldNotFindProperty = "Could not find property '{0}' for prim '{1}'"
+	CouldNotImportUSDFile = "Could not import USD file {0}
+ {1}"
+	IncompatibleType = "Could not set property '{0}'.  Unreal type '{1}' is incompatible with USD type '{2}'"
+	FindingActorsToSpawn = "Finding Actors To Spawn"
+	USDOptionWindow_Import = "Import"
+	ImportingUSDMesh = "Importing Mesh {0} of {1}"
+	ImportingUSDMeshes = "Importing USD Meshes"
+	ImportingUSDScene = "Importing USD Scene"
+	InvalidMapValueProperty = "Map property value '{0}' could not be set. Missing Key or Value"
+	IncompatibleMapValueProperty = "Map property value '{0}' has multiple values but is not a structure"
+	NoActorsFoundError = "Nothing was imported.  No actors were found to spawn"
+	MissingObjectPropertyValue = "Property '{0}' could not be set.  Could not find object {1}"
+	InvalidPropertyNoConversion = "Property '{0}' could not be set.  No conversion exists between Unreal Type '{1}' and USD type '{2}'"
+	SpawningActor = "SpawningActor {0}/{1}"
+	SpawningActors = "SpawningActors"
+	DuplicateMeshFound = "The mesh path '{0}' was found more than once.  Duplicates will be ignored"
+	IncompatibleArrayTypes = "Tried to set ArrayProperty '{0}' from non-array USD attribute '{1}'"
+	MissingEnumValue = "Tried to set EnumProperty '{0}' with invalid enum entry '{1}'"
+	USDImportSettings = "USD Import Options"
+	StaticMeshesMustBeTriangulated = "{0} is not a triangle mesh. Static meshes must be triangulated to import"
+
+Namespace UserDefinedImageCaptureProtocol (2 keys)
+	InvalidBMPExport = "Unable to write the specified render target (stream '{0}' is {1}bit) as BMP. BMPs must be supplied 8bit render targets."
+	InvalidJPGExport = "Unable to write the specified render target (stream '{0}' is {1}bit) as JPG. JPGs must be supplied 8bit render targets."
+
 Namespace UStaticMesh (1 keys)
 	CollisionPrimsTooltip = "The number of collision primitives in the static mesh"
+
+Namespace UTakeRecorderActorSource (7 keys)
+	ActorLabel = "Actor (None)"
+	CamerasCategoryLabel = "Cameras"
+	FinalizingTrackRecorder = "Finalizing Section Recorder {0}/{1}"
+	ProcessingActor = "Generating MovieScene Data for Actor {0}"
+	InvalidActorDescription = "No Target Specified"
+	PostProcessingTrackRecorder = "Post Processing Track Recorders"
+	ActorDescriptionFormat = "{0} Properties {1} Components"
+
+Namespace UTakeRecorderLevelSequenceSource (1 keys)
+	LevelSequenceLabel = "Level Sequence (None)"
+
+Namespace UTakeRecorderLevelVisibilitySource (2 keys)
+	Label = "Level Visibility"
+	DefaultLevelVisibilityTrackName = "Recorded Level Visibility"
+
+Namespace UTakeRecorderMicrophoneAudioSource (2 keys)
+	Label = "Microphone Audio"
+	DefaultAudioTrackName = "Recorded Audio"
+
+Namespace UTakeRecorderNearbySpawnedActorSource (7 keys)
+	LabelInfiniteProximity = "(within any distance)"
+	LabelBoundedProximityFormat = "(within {0})"
+	LabelAllActors = "All Nearby Spawned Actors"
+	LabelNoActors = "No Nearby Spawned Actors"
+	LabelFilteredActors = "Some Nearby Spawned Actors"
+	LabelSourceCountInfiniteProximityFormat = "{0} Actors"
+	LabelSourceCountBoundedProximityFormat = "{0} Actors (within {1})"
+
+Namespace UTakeRecorderPlayerSource (1 keys)
+	Label = "Player"
+
+Namespace UTakeRecorderWorldSource (1 keys)
+	Label = "World"
+
+Namespace VirtualProductionUtilities (2 keys)
+	MapCheck_Message_CinematicCameraNull = "The Root Actor has doesn't have a Cinematic Camera Actor set."
+	RootSpriteInfo = "VP Root Actor"
 
 Namespace VisualizeRenderTargets (1 keys)
 	UnknownColumnName = "N/A"
@@ -7837,13 +8610,18 @@ Namespace VisualStudioCodeSourceCodeAccessor (2 keys)
 	VisualStudioDisplayDesc = "Open source code files in Visual Studio Code"
 	VisualStudioDisplayName = "Visual Studio Code"
 
-Namespace VisualStudioSourceCodeAccessor (6 keys)
+Namespace VisualStudioSourceCodeAccessor (8 keys)
 	VisualStudioDisplayDesc = "Open source code files in Visual Studio"
 	UsingVisualStudio2015 = "Open source code files in Visual Studio 2015"
 	UsingVisualStudio2017 = "Open source code files in Visual Studio 2017"
+	UsingVisualStudio2019 = "Open source code files in Visual Studio 2019"
 	VisualStudioDisplayName = "Visual Studio"
 	VisualStudio2015 = "Visual Studio 2015"
 	VisualStudio2017 = "Visual Studio 2017"
+	VisualStudio2019 = "Visual Studio 2019"
+
+Namespace VPBookmark (1 keys)
+	BookmarkDisplayNameFormat = "({0}) {1}"
 
 Namespace VulkanRHI (2 keys)
 	UnableToInitializeVulkanLinuxTitle = "Unable to initialize Vulkan."
@@ -7864,6 +8642,17 @@ Namespace WebBrowserHandler (1 keys)
 
 Namespace WidgetBlock (1 keys)
 	CustomControl = "Custom Control"
+
+Namespace WidgetEventLog (9 keys)
+	FocusCause_Cleared = "Cleared"
+	FocusChanging = "Focus Changing"
+	FocusCause_Mouse = "Mouse"
+	FocusCause_Navigation = "Navigation"
+	None = "None"
+	FocusCause_OtherWidgetLostFocus = "OtherWidgetLostFocus"
+	FocusCause_SetDirectly = "SetDirectly"
+	FocusCause_WindowActivate = "WindowActivate"
+	FocusEventFormat = "{0}({1}:{2}) - {3} -> {4}"
 
 Namespace WidgetGallery (63 keys)
 	AddBreadCrumbLabel = "Add"
@@ -7936,12 +8725,13 @@ Namespace WidgetGallery (63 keys)
 Namespace WidgetMaterialTrackUtilities (1 keys)
 	BrushMaterialName = "Brush Material"
 
-Namespace WidgetReflectorNode (5 keys)
+Namespace WidgetReflectorNode (6 keys)
 	WidgetClippingNo = "No"
 	WidgetClippingOnDemand = "On Demand"
 	WidgetClippingYes = "Yes"
 	WidgetClippingYesAlways = "Yes (Always)"
 	WidgetClippingYesWithoutIntersecting = "Yes (No Intersect)"
+	WidgetTypeAndName = "{0} ({1})"
 
 Namespace WidgetSnapshotVisualizer (5 keys)
 	PickSnapshotWidget = "Pick Snapshot Widget"
@@ -7992,16 +8782,6 @@ Namespace World (1 keys)
 
 Namespace x (1 keys)
 	ClickMe = "ClickMe!"
-
-Namespace XboxOne (1 keys)
-	DynamicRHIFailure = "XboxOneRHI failure?"
-
-Namespace XboxOneTargetSettingsDetails (5 keys)
-	AppLogoLabel = "Application Logo"
-	AppSmLogoLabel = "Application Small Logo"
-	AppSplashLabel = "Application Splash Screen"
-	AppWdLogoLabel = "Application Wide Logo"
-	PackageLogoLabel = "Package Logo"
 
 Namespace XCodeSourceCodeAccessor (2 keys)
 	XCodeDisplayDesc = "Open source code files in XCode"

@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -201,6 +201,22 @@
 		},
 		{
 			"Name": "FSDAnsel",
+			"Enabled": true
+		},
+		{
+			"Name": "Spatialization",
+			"Enabled": true
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": true
+		},
+		{
+			"Name": "TimeSynth",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
 			"Enabled": true
 		}
 	]
