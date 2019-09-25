@@ -1,6 +1,6 @@
-5621 entries
+5620 entries
 16 namespaces
-4364 values
+4362 values
 
 Namespace Global (5326 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        zurücksetzen        "
@@ -109,7 +109,6 @@ Während der Datensammlung anonymisieren wir deine IP und wir behalten nur eine 
 	E16E40D847837BAE009ECE9C55294BE5 = "+ Extra Credits
 + Zufällige Produktionsmineralien"
 	66A0823447C3CB00940092A9CB213262 = "+ Schützenbeförderung"
-	60E15BAC41DCC919F2E12EB2EFF2AC7D = "+ ERHÖHE DEN SPIELERRANG DURCH DAS LEVELN VON CHARAKTEREN"
 	967E05354936FC6CFE023AA670D5EAAC = "+ M1000 Klassisch zum Kauf erhältlich"
 	D028C3274772ABACFCB8F39BF1D2362E = "+ Späherbeförderung"
 	EF0DF8784599B5857CCDD39F43929517 = "+ Mineralienbörse zugänglich"
@@ -596,6 +595,7 @@ TERMINAL"
 	39BF9E024B1D619C392F4AAE234B42E8 = "Streumunition"
 	98CA17EE48031E27F612C78BBDEC93A0 = "Streumunition"
 	66CC85DD4E5D3550FE6424938DEAD7CC = "Streumunition"
+	E39A2F344D2541CBF0D7D392E375CA68 = "Extra Feuerschaden gegen betroffene Ziele"
 	36467CDC4EAA77B59E01BB864C9548A3 = "Extraschaden gegen Glyphiden"
 	3BEDFA604A0B9EAC6119C1B020A02ECB = "Extraschaden gegen Mactera aliens"
 	B8DB1AC5402F6B8427EB7AA8523AE5AF = "Extra Gold abgebaut"
@@ -663,6 +663,7 @@ TERMINAL"
 	47F4369A4F93EFE087D78497F67C26DB = "Massensprenger eliminiert! "
 	8E98230648BA7B1C6C87459FC1D491B6 = "Kugel detonieren, wodurch ein Schadensradius entsteht"
 	AF0B555042EF433ED230889E1FEA2204 = "Kugeln, die aus der Primärwaffe kommen, haben eine Chance zu elektrifizieren."
+	9A3AE0AC4B0543EC9AC773AE3CA67138 = "Kugeln der Barmherzigkeit"
 	569E41784D01F681AE82818F1FC12017 = "Kugeln prallen an Oberflächen in nahe Gegner ab"
 	A0C414D04966A137F55EA8AAF8285995 = "Geschosse mit Durchschlag penetrieren das erste Ziel und treffen Ziele dahinter."
 	143C634F49B6F6F21909A5BBA47BDC93 = "Verbrenne alles um dich herum und lass Gegner wegrennen wenn die Minigun überhitzt"
@@ -986,6 +987,7 @@ Auswahl"
 	8B60D40344840BA14299A0B557678EE0 = "Erschütternde Explosion"
 	41834695495CE30DBC9AC683B075F0DB = "Kondensiertes Plasma"
 	16468BEE4B3084ACFAE079A8054ACB8B = "Leitfähige Kugeln"
+	713F1F554E7C91E5E3F8B6A0FFE7B6D6 = "Leitfähige Kugeln"
 	BCCB50E044ECB3C3CC8667A2F3FC994D = "Leitfähige Kugeln"
 	1D33C1DD4E7E05A7B05C43A2891DDCA9 = "Mission bestätigen"
 	4750630D4A5AC287745EBFA9EBD64C77 = "Bestätigter Scan: Glyphid-Dreadnought auf Abfangkurs. Macht euch bereit, Team."
@@ -2031,7 +2033,6 @@ STAND"
 	372C8563467828CFE34384AB34B46D42 = "Gefahrenstufe 2 - Anspruchsvoll"
 	B52FEAD341C1031EF6CE6DB55924A483 = "Gefahrenstufe 3"
 	5761FF9E4B34DD9909A9958EFF611646 = "Gefahrenstufe 3 - Gefährlich"
-	5CA8964145A72E8C9C7B538A1E6F15E7 = "Gefahrenstufe 3.5"
 	5621A86749117088CB73ACBAC8543172 = "Gefahrenstufe 4"
 	13861CA34087B3D48A909F9A943F51D3 = "Gefahrenstufe 4 - Extrem"
 	24EA14CB40121D07BB13D38441BA7CA3 = "Gefahrenstufe 5"
@@ -2435,9 +2436,6 @@ TITEL TEXT EINFÜGEN"
 	49CCBDF749D12728ECC97F8FABC6AC39 = "Verbessert die panzerbrechenden Eigenschaften der Plasma-Linie"
 	CC6FF564484E9BD89B405B9CE08DA411 = "Zu Ehren eines Motorheads."
 	CFA35854426C6D179503EC99A36E32AD = "Bei den meisten Waffen erhöht jeder Schuss die Ausbreitung, sodass das Schießen weniger genau wird, wenn du Feuer hältst. Dies wird durch das Fadenkreuz mitgeteilt."
-	1CB6031C4932BA70E759A1A5E63916A8 = "In Anerkennung deiner harten Arbeit, hat dich DRG für eine Beförderung berechtigt. Sehr wenige Zwerge schaffen es so weit.
-
-Beim befördern eines Charakters SETZT DU IHN AUF LEVEL 1 ZURÜCK. Du behälst jedoch jeglichen Fortschritt bei Waffen, Boni, Credits, Produktionsmaterialien und Eitelkeitsgegenständen bei."
 	64FB15C24E8ED2B9E943BBAD29DFB59F = "In Anerkennung deiner Leistung wurde deine Sicherheitsstufe aktualisiert. Du hast Zugang zu neuen Regionen von Hoxxes erhalten. Glückwunsch, Minenarbeiter."
 	6BAA912D459D2EE8FA333DA2677092A3 = "Inaktiv"
 	CE3CBCD3481C868C0066A1A4331A2B08 = "Inaktiv"
@@ -3095,6 +3093,7 @@ TERMINAL"
 	1F79957A482DE619BC3A4B99D73D64D9 = "Mehr Schaden"
 	8F642AA24841338637B2F38556FD77A2 = "Mehr Schaden, explodiert aber wenn beschädigt"
 	D5F16D894ADFB7F84FEA37A9F48266D8 = "Erhöht den Schaden gegen Feinde"
+	36ADC1574F999A7BDFB52EBCF6AACD6F = "Mehr Schaden gegen Ziele, welche sich in einem elektrischen Feld befinden"
 	C68A3A42429B0687D1DF2FACFE3494CD = "Mehr Schaden an Zielen, die sich in einem elektrischen Feld befinden"
 	1536B141421D12787B7CD0A60367F7BF = "Effektiver gegen Gegner"
 	19FC0BD245D060029DF313AE9B864244 = "Effektiver gegen Gegner"
@@ -4304,9 +4303,7 @@ Jegliche Credits und Ressourcen die dafür ausgegeben wurden, wurden deinem Acco
 	358BDB9D4F78C3187A2469AED6AF0B04 = "Streuungsrotation"
 	8D69F0B4473B4F90F0BFFE938D1567F9 = "Quadrat"
 	F7110389483D348830E18EB5487D3997 = "Sschlurp schluurp "
-	4509C98340803B414A1F2EA2FF24FE9E = "Ebene beginnt"
 	01303A9F415BEB7C86CF288B62ADF794 = "Ebene Eins, Team! Eure Ziele sind vorbereitet und ihr könnt sie angehen wie ihr wollt - solange ihr sie alle erfüllt! Das Management wünscht euch eine sichere und produktive Tiefenexpedition."
-	0FC1AF974575A43DF6D58AAEE24CAA49 = "Ebene {stage}/{total}"
 	353184534B6F71258C875EB8F8ECB4A5 = "Bringt Kreaturen im Explosionsradius zum Taumeln"
 	5068EAB547A6CE4323F2E3BB6BEE7359 = "Stalaktit"
 	645C0CC641385F1BD4E7C4B38AEFD9F8 = "Stalaktit"
@@ -5435,6 +5432,7 @@ Hinweis: Diese Option schränkt die Charakterauswahl auf dem Raumschiff NICHT ei
 	46E68BF4476CCF45889B6CAB6C071D50 = "{0}-Stufe erreicht!"
 	F0ABB87F46441F18848ABF8CD0ECC9F9 = "{Text} ({Percentage}% abgeschlossen)"
 	B453B7264A4F2ADD7CB2AC9D0918FC0B = "{class} Beförderung"
+	B050D188481243FA7B13B6AE3C084C42 = "{count} Gold gesammelt"
 	688288124DAF4F9715A8629D81F87C35 = "{levelrequirement} erforderlich!"
 	4432A1B649946560A378BD859844C006 = "{name} Lizenz"
 	4B20B5A64B15DE68A93A28AA3869E2BF = ""Ich fürchte keinen Mann, kein Tier oder Übel, Brüder.""
@@ -5462,7 +5460,7 @@ Namespace Missions (4 keys)
 	1010646B4BFAEF7DC7D7B0AC7CF9AD7A = "Ziele erfüllt, der Bohrkopf kann jetzt am M.U.L.E. gerufen werden"
 	6A7283AA4D89A5DC0B4EEBA8E77B1B74 = "Ziele erfüllt, die Transportkapsel kann jetzt am M.U.L.E. gerufen werden"
 
-Namespace PatchNotes (48 keys)
+Namespace PatchNotes (47 keys)
 	Update_20.1_ShortTitle = "GRÖSSER, BESSER, BOSCO"
 	Update_20_ShortTitle = "GRÖSSER, BESSER, BOSCO"
 	Update_11_ShortTitle = "TOT UND GEWEHR"
@@ -6402,289 +6400,6 @@ Auch wenn er das wirklich will, kann Bosco euch nicht immer von einer Höhlenkle
 
 GESUNDHEITSPUNKTE DER MACTERA-BRUT WURDEN ERHÖHT
 In einem fortdauernden Versuch, die Mactera-Brut zu perfektionieren, haben wir ihre Gesundheitspunkte von 180 auf 210 erhöht. Denkt daran Deckung zu benutzen und auf den Schwachpunkt zu zielen!
-"
-	Update_25 = "Hi Miners,
-Puh! Ihr wart lange Zeit geduldig mit uns, aber Update 25 - unser bisher ambitioniertestes Update - ist endlich da! Tiefenexpeditionen, noch mehr Ausrüstung, Belohnungen für spät im Spiel, Tonnen an neuen Skins, Frachtkisten, überholte Bartphysik....oh Junge, Minenarbeiter - das ist ein großer. Unsere Bärte sind allein 15 Zentimeter gewachsen während wir diese Patchnotes geschrieben haben.
-
-
---- PATCH NOTES ---
-
-TIEFENEXPEDITIONEN
-----------------------------
-Wenn du ein Zwerg bist, der immer auf der Suche nach neuen Abenteuern ist, haben wir genau die richtige Gelegenheit für dich. Als beförderter Zwerg wurdest du als würdig erachtet, besonderen Zugang zu den wöchentlichen Tiefenexpeditionen zu erhalten - drei aufeinander folgende jeweils konstante Missionen, bei denen Munition und Gesundheit zur nächsten Mission übergehen. In Tiefenexpeditionen musst du in jeder Phase zwei Ziele erreichen und die Chancen, Mutatoren zu begegnen, sind sehr hoch. Jede der drei Stufen einer Tiefenexpedition gewährt dir nach Abschluss Belohnungen, die von Mineralien bis hin zu den neuen Matrixkernen reichen. Während du die Tieftauchgänge der Woche so oft wie du willst absolvieren und deine Bestzeit verbessern kannst, denk daran, dass die Belohnungen nur einmal pro Woche eingelöst werden können.
-
-
-MATRIXKERNE
-----------------------------
-Du wirst nicht gut genug bezahlt? Wir geben deiner Deep Rock Galactic Gehaltsabrechnung einen Schub. Matrixkerne sind die Eckpfeiler der neuen Belohnungen, die in Deep Rock Galactic eingeführt wurden. In Update 25 erhältst du Geprägte Matrixkerne - Matrixkerne mit bereits vordefiniertem Inhalt, mit denen du Waffenübertaktungen oder herrliche neue Bärte und Helme schmieden kannst. In Update 26 werden wir eine Möglichkeit vorstellen, leere Matrixkerne zu prägen, aber mehr dazu, wenn wir dem näher kommen.
-
-
-DIE SCHMIEDE
-----------------------------
-Der Ort, an den du mit deinem Geprägten Matrixkern gehen und ihn zu etwas Nützlichem schmieden kannst. Beachte auch, dass das Schmieden von Geprägten Matrixkernen deine Schmiedekunst erhöht und dir noch mehr Matrixkerne einbringt. Es ist Hammerzeit! 
-
-
-WAFFENÜBERTAKTUNGSKERNE
-----------------------------
-Wenn du größere Explosionen oder neue Wege gesucht hast, um ganze Tunnel mit blutrünstigen Glyphiden zu zerkleinern, dann wirst du die Upgrades lieben, die du für dein Arsenal freischalten wirst. Waffenübertaktungen reichen von grundlegenden, aber kleinen Verbesserungen wie der Erhöhung der Magazinkapazität bis hin zu völlig neuen Möglichkeiten, die gesamte Waffenfunktionalität zu modifizieren.
-Mit deinem Granatwerfer radioaktiven Flächenschaden verursachen? Dafür gibt es eine Übertaktung. Gewinne mehr Airtime, während du durch das VIsier des M1000-Gewehrs zielst? Dafür gibt es eine Übertaktung. Die Feinde mit Eissplittern aus deiner Kryokanone zerfetzen? Du hast es erraten. Dafür gibt es eine Übertaktung.
-
-
-KOSMETISCHE KERNE
-----------------------------
-Mit Update 25 verdoppeln wir die Anzahl der glorreichen Gesichtsbehaarung und anderer Kosmetikartikel. Wenn du dachtest, dass dein aktueller Bart der zwerghafteste war, der er sein konnte... Junge, haben wir eine haarige Nachricht für dich.
-
-
-FRACHTKISTEN
-----------------------------
-Es geht aber nicht nur um die Tiefenexpeditionen. Seien Sie auf der Hut vor verlorenen Frachtkisten in den Höhlen normaler Missionen - sie enthalten bekanntlich reichlich Mineralien und Waffenskins!
-
-
-NEUE MUTATOREN
-----------------------------
-
-WARNUNGEN
-----------------------------
-WENIG SAUERSTOFF: Wie der Titel schon sagt - halte den Atem an und versuch nicht zu sterben, bevor du einen Sauerstofftank erreichst.
-
-TÖDLICHE FEINDE: Die Außerirdischen sind heute besonders launisch. Alle Feinde verursachen deutlich mehr Schaden.
-
-REGENERATIVE KÄFER: Ich will das haben, was sie haben. Alle Feinde regenerieren ihre Gesundheit, wenn du sie verwundet hast und sie nicht sofort ausschaltest.
-
-PARASITÄTEN: Nun, es wird noch schlimmer. Die Außerirdischen an diesem Ort sind einfach.... ugh.... nur voller wütender, parasitärer Würmer. 
-
-HEIMGESUCHTE HÖHLE: Es gibt....Etwas... in dieser Höhle. Es jagt dich. Unerbittlich. Und es wird einfach...nicht...sterben! Bleib nicht stehen. Schau nicht hinter dich. Es ist genau dort und kommt ständig auf dich zu.
-
-ANOMALIEN
-----------------------------
-VOLATILE EINGEWEIDE: Du dachtest, Explodiererbefall sei schlimm? Nun, was auch immer diese armen Kreaturen befallen hat, hat hier überhand genommen. Jedes Alien explodiert. Einfach schrecklich. 
-
-
-BARTPHYSIK
-----------------------------
-Herrliche Gesichtsbehaarung ist das Markenzeichen eines guten Zwerges. Wir haben eine verbesserte Bartphysik hinzugefügt, um das großartige Gefühl zu verstärken, einen richtigen Zwergenbart zu haben.
-
-
-MEHR ZWERGENRUFE
-----------------------------
-Nichts ist zwergischer, als Dinge anzuschreien, also haben wir dem Mix eine ganz neue Reihe von Sprüchen hinzugefügt. Es gibt neue Schreie für Spezialangriffe, Grüße, Granatenwürfe, Laserpointer und vieles mehr.  
-
-
-BIOME
-----------------------------
-- Neuer Tropfregen-Effekt. Er kann oft in der dichten Biozone und selten in kristallinen Höhlen vorkommen. 
-- Das Bewegen durch tiefen Schnee in den Gletscherschichten ist jetzt weniger anstrengend - Du solltest eine deutliche Erhöhung der Bewegungsgeschwindigkeit bemerken.
-
-
-KUGELSPUREN
-----------------------------
-Sie machen Waffenverzug, Rückstoß und andere Features sichtbarer, so dass der Effekt bestimmter Mods und Overclocks deutlich erkennbar ist. Außerdem finden wir sie sehen gut aus.
-
-
-WÖCHENTLICHE KERNJAGD
-----------------------------
-Für die erfahrenen Zwerge, die ein wenig Geld für Bartzubehör nebenbei verdienen wollen, gibt es jetzt wöchentliche Kernjagd-Aufgaben für beförderte Zwerge. Wenn du diese abschließt, wirst du sowohl einen Waffenübertaktungskern als auch einen kosmetischen Kern erhalten. Bleib stark und stilvoll.
-
-
-KEINE "SCHWEBENDEN INSELN" MEHR 
-----------------------------
-Seltsame Anomalien verursachten ein schwerkraftabweisendes Verhalten, bei dem Kristalle, Schmutz und andere Biomelemente schwebten, wenn sie von ihren Ankerpunkten getrennt waren. Das tun sie nicht mehr. Kein Festhalten mehr an winzigen kleinen Teilen von schwimmendem Gestein nach dem Graben!
-
-
-ANPASSBARES HUD
-----------------------------
-Weniger ist manchmal mehr. Es gibt eine ganze Reihe neuer Optionen für die HUD-Anpassung, mit denen du einstellen kannst, was angezeigt wird und was nicht ganz nach deinen Wünschen ist - einschließlich dynamischer Optionen, um Elemente erscheinen zu lassen, wenn sie relevant sind, und zu verschwinden, wenn sie es nicht sind.
-
-
-INTERPLANETARE UNION DER MINENARBEITER
-----------------------------
-Die Interplanetare Union der Minenarbeiter hat endlich ihren Weg nach Hoxxes IV für Discord-Anwender gefunden. Wenn du einem der drei Unionsverbünde beitrittst, kannst du sowohl auf spezifische Verbundsziele als auch auf ein gemeinsames Ziel hinarbeiten. Es gibt von der Union genehmigte Belohnungen zu sammeln!
-
-
-WIRF WIE EIN ATHLET
-----------------------------
-Als Bergarbeiter ist Präzision in jeder Hinsicht gefragt, und so haben wir dem Spiel einen neuen Wurfmechanismus hinzugefügt. Klicke, um ein gehaltenes Objekt loszulassen, halte gedrückt, um deinen Wurf mit der gewünschten Kraft aufzuladen.
-
-
-WEAPON TWEAKS
-----------------------------
-
-SPÄHER
-----------------------------
-DEEPCORE GK2
-- Der Battle Cool Mod wurde repariert, um wie angekündigt zu funktionieren (er hat die Streuung pro Schuss eliminiert, aber ohne die Genauigkeit zurückzusetzen) 
-- Der Schnellfeuerauswerfer Mod wurde auf Ebene 1 verschoben und sein Wert für noch schnellere Nachladevorgänge erhöht
-- Eine neue Schadensmodifikation auf Stufe 3 wurde hinzugefügt, um den verlagerten Schnellfeuerauswerfer zu ersetzen.
-- Verminderter Wert der Stufe 2 Erhöhtes Kaliber mod
-- Verminderter Wert der beiden Erweiterte Munitionstasche mods
-- Erhöht die Anzahl der Basismunition.
-- Die Leistung des Rückstoßkompensator Mods wurde erhöht und beeinflusst nun sowohl den tatsächlichen Rückstoß als auch die Streuung pro Schuss.
-- Basisstreuung pro Schuss leicht erhöht.
-
-M1000 KLASSISCH
-- Ein Upgrade-Typ und eine Beschreibung für den Fokus-Modus des Gewehrs hinzugefügt
-- Verbesserte Ergonomie Mod zu Schnellladende Spulen umbenannt
-- Der Frei schwebender Lauf Mod wurde leicht verbessert, um besser mit den anderen zu konkurrieren
-- Neuer Sound für fokussierte Schüsse
-
-DUAL ZHUKOV NUK 17
-- Erhöhter Basisschaden
-- Der Wert des Mods Erhöhtes Kaliber wurde verringert, um die andere T3-Option besser anzupassen.
-- Erhöhte den Wert des Mods Überladener Vorschubmechanismus, um besser mit anderen Optionen konkurrieren zu können
-
-ZUSAMMENGESCHUSTERTES SCHIEßEISEN
-- Der Wert des Mods Geladene Patronen wurde verringert, um ein besseres Gleichgewicht mit anderen Optionen zu erreichen.
-- Erhöhte Anzahl von Basispellets zur Kompensation von Anpassungen an Geladene Patronen
-- Erhöhter Wert von Tier 1 Erweiterte Munitionstaschen Mod, um besser mit dem Schaden mod zu konkurrieren.
-
-SCHÜTZE
-----------------------------
-"BULLDOG" SCHWERER REVOLVER
-- Explosive Patronen verursachen jetzt mehr explosiven Schaden in einem größeren Radius, aber auf Kosten des direkten Schadens
-- Die Hohlspitzgeschosse wurden auf Tier 3\ verschoben.
-- Neurotoxin Mod vergiftet jetzt tatsächlich Feinde, anstatt einfach nur mehr direkten Schaden anzurichten
-- Deadeye Mod funktioniert jetzt sowohl beim Gehen als auch beim Sprinten, so dass du genau bleiben kannst, egal in welcher Situation.
-
-BRT
-- Die Verzögerung des Basis-Bursts wurde erhöht.
-- Erhöhter Basisschaden
-- Verminderter Wert der Erhöhtes Kaliber mod
-- Erhöhter Wert des Magazin mit hoher Kapazität Mod, um den Schadensmod besser abzugleichen
-- Der Wert des Burst Damage Mods wurde verringert, um die anderen Tier 5 Optionen besser anzupassen.
-- Der Längere Burst-Modus feuert nun alle Runden im Burst viel schneller ab
-- Der Wert des Hohlkugelgewehrs wurde leicht verringert, um es mit konkurrierenden Optionen in Einklang zu bringen.
-
-INGENIEUR
-----------------------------
-DEEPCORE 40MM PGL
-- Erhöhter Basisschaden
-- Der Wert des größeren Nutzlastmoduls wurde leicht verringert, um andere Tier-2-Optionen besser abzugleichen
-- Der Hausgemachter Sprengstoff Mod gibt nun einen Schadensbonus in einer Reichweite statt einer pauschalen Schadenszunahme. Dies erfordert den erneuten Kauf der Mod. Jeder, der die alte Version erworben hat, erhält automatisch eine Rückerstattung.
-- Die Dauer der Betäubung durch die Erschütternde Explosion mod wurde erhöht 
-
-BREACH CUTTER
-- Erhöhte Einsatzgeschwindigkeit 
-- Verlängerte die Verzögerungszeit für den Einsatz, um das zu kompensieren.
-- Der Schnelle Bereitstellung Mod wirkt sich nun korrekt auf die Bereitstellungszeit aus.
-- Verlängerte die Lebensdauer des Basisgeschosses leicht.
-- Einige der Mods wurden umbenannt, um dem Namensstil für andere Waffen besser zu folgen und die Funktionalität besser zu verdeutlichen
-- Einige der Mods neu angeordnet, um die Balance zwischen den Optionen zu verbessern.
-
-ANÄHERUNGSMINE
-- Jede Mine löst nun mehrfach eine Explosion aus. Auf diese Weise dienen sie besser dem Zweck, die Verteidigung zu planen, und ein einsamer Feind, der sie auslöst, ist nicht so eine Verschwendung. 
-
-BOHRER
-----------------------------
-KRYO-KANNONE
-- Erweiterte Reichweite des Kältestrahulgs mod zur Verbesserung der Benutzbarkeit
-- Steigerung des Wertes des Hoher Wassergehalt Mods, um besser mit den anderen Optionen konkurrieren zu können
-- Erhöhte Grundladezeit
-- Erhöhter Wert der 2. Stufe der Pumpe mod
-- Der Wert des Mods "Stärkere Kühleinheit" wurde verringert, um andere Tier-1-Optionen besser abzugleichen
-- Basisdruckverzögerung leicht erhöht
-- Verbesserung des Wertes des Umgangene Integritätsprüfung mod
-- Die übertaktete Auswurfturbine wurde von Stufe 3 auf Stufe 2 verschoben.
-- Druckaufbaugeschwindigkeit leicht verringert
-- Verbesserte den Wert des Pumpe der 1. Stufe mod, um besser mit anderen Optionen konkurrieren zu können
-- Eine Feuerratenmodulation auf Tier 3\ hinzugefügt.
-- EPC Hüpfgeschosse wurden repariert, die die Rüstung nicht richtig treffen.
-
-CRSPR FLAMMENWERFER
-- Upgrade Slot fünf, Wahl drei, Beschreibung sollte lauten: " Direkte Schäden haben eine Chance zu explodieren " statt " hat eine Chance zu explodieren".
-- Upgrade-Slot zwei, Wahl zwei, "dreifach gefilterter Kraftstoff" wird falsch geschrieben als "TRIPPLE".
-
-SUBATA120
-- Erhöhter Basisschaden
-
-EXPERIMENTALER PLASMA-LADER
-- Die meisten Mods wurden umbenannt, um der Namenskonvention für andere Waffen besser zu entsprechen.
-- Erhöhte Grundgeschwindigkeit des geladenen Schussprojektils
-- Erhöhter Wert des überladenen Plasmabeschleunigers (geladene Projektilgeschwindigkeit) mod
-- Verringerte den Rückstoß von normalen Schüssen.
-- Verminderte Schussstreuung.
-- Der Wert der Schadensaufwertung wurde von +6 auf +5 gesenkt, weil OCD
-- Die Grundgeschwindigkeit des normalen Geschosses wurde leicht erhöht.
-- Die erhöhte Partikelgeschwindigkeit (normale Geschossgeschwindigkeit) mod hinzugefügt.
-- Verminderter Wert der verbesserten Ladeeffizienz (Energiekosten für geladene Schüsse) mod
-- Die Anzahl der Basismunition wurde leicht gesenkt, um sie sauber in die Schusskosten (OCD wieder) zu teilen.
-- Der Wert des Größere Batterie Mods wurde leicht gesenkt.
-- Den "High Density Battery" Mod zu Tier 4 hinzugefügt für mehr Munitionsoptionen
-- Verringerte die Wärmemenge, die durch normale Schüsse erzeugt wurde.
-- Verringerte die Basiskühlrate der Waffe.
-- Repariert, dass normale Schüsse durch Panzerung gehen.
-
-SPRENGLADUNG
-- Es ist nicht mehr möglich, mehr als eine Ladung auf einmal zu platzieren. Der Schaden der Ladung wurde optimiert, um die mächtigste Explosion im Spiel zu sein. Es war nicht beabsichtigt, diesen Schaden in einem Bereich zu stapeln, und es beseitigt die Herausforderung, einige Arten von Feinden zu bekämpfen.
-
-
-SOUND
-----------------------------
-- Geysir-Sound zu laut/zu oft gespielt behoben
-- Der Klang des Naedocyte-Brüters hört jetzt auf, wenn er stirbt.
-
-
-ENEMIES
-----------------------------
-- [WUNSCH DER COMMUNITY] Feindliche Gesundheitsleisten zeigen nun alle Arten von Status-Effekten (Betäubung, Strahlung, Neurotoxin usw.) an.
-- Verbesserte Leistung aller Feinde und 10x Verbesserung bei Q'ronar
-- Die Schwachstellenkollision des Wärters wurde angepasst. Einige Treffer, die als Schwachstellentreffer gelten sollten wurden nicht korrekt registriert.
-- Naedocyte Schlüpflinge geändert, um sie mehr von den Schockern zu unterscheiden.
-- [WUNSCH DER COMMUNITY] Säurewolken explodieren jetzt aus allen Brandschadenquellen.
-- Repariert: Festsitzende Partikel von Massensprengern
-- Naedocytenschlüpfer und Schocker werden mit dem Laserpointer nicht korrekt markiert.
-- [WUNSCH DER COMMUNITY] Gesenkte Chance auf mehrere Massensprenger
-- Etwas weniger Anstieg des Feindesdrucks auf Punktextraktionen im Laufe der Zeit 
-- Die Größe der feindlichen Welle zu Beginn von Punkt Extraktion wurde verringert.
-- [WUNSCH DER COMMUNITY] Der Massensprenger greift die ersten 5 Sekunden nach dem Spawnen nicht an, um den Spielern ein kleines Fenster zu geben, um in eine sichere Entfernung zu gelangen.
-- Es wurde ein Fall behoben, in dem der Greifer schrie, aber keinen Spieler jagte
-- Einige Animationsoptimierungen für Bosco, Naedocyte Schlepper, BET-C und Naedocyte Brüter
-- Mactera Bomber Gummisäcke leuchten jetzt einzeln auf, wenn du auf sie schießt.
-- Die Parasiten auf BET-C können jetzt angezündet werden.
-- Ein Fehler wurde behoben, der BET-C nach dem Wechsel von Maschinengewehren zu Granatwerfer fast 5 Sekunden warten ließ
-
-
-KLEINE KORREKTUREN UND SONSTIGE VERÄNDERUNGEN
-----------------------------
-- Weiße Hintergründe in Menüs behoben
-- Das Einfrieren / Erwärmen-Benutzeroberflächensymbol wurde korrigiert und spiegelt sich nicht mehr ständig, wenn man sich in der Nähe einer Wärme- und einer Kältequelle befindet
-- Meilensteine hinzugefügt für die neuen Mutatoren
-- Mutatoren/Warnsymbole aktualisiert
-- Discord Mitarbeiter des Monats Bildschirm hinzugefügt
-- Behebung von Panzerschlagpartikeln, die nicht auf der Spitzhacke funktionieren
-- Kraftangriff kann nun aktiviert werden, wenn man auf Luft schlägt.
-- Wenn du eine Granate wirfst, wirst du nicht mehr die falsche Waffe herausholen.
-- Rauchspuren zu Hitscan-Waffen hinzugefügt.
-- Dem Zipline-Projektil eine lange Schraube hinzugefügt.
-- Anpassungen und Verbesserungen an [Ansel] und Kameramanager
-- Mehr heiße Quellen in Eishöhlen hinzugefügt
-- Tippfehler/Grammatik-Fixes für ein paar Mods
-- Neue Charakter-Vorstellungs-Videos hinzugefügt. Bohrer und Schütze hier!
-- Ansel in der Mission Komplettansicht korrigiert
-- Tragbare DInge sollten jetzt immer nutzbar sein, nachdem Bosco sie abgeholt hat.
-- Leicht veränderte Symbolfarbe für Eliminierungs- und Extraktionsmissionen, um nicht mit dem Warnungs Mutator Icon zu kollidieren.
-- Bosco kann jetzt angewiesen werden, richtig  auf Schlepper zu zielen.
-- Zusätzliche Option zur Barrierefreiheit im Steuerungsmenü, die es Spielern ermöglicht, einen Wert für die Mausempfindlichkeit ohne Einschränkungen manuell einzugeben
-- Es wurde eine Option hinzugefügt, um den Laserpointer durch Drücken der STRG-Taste fix an/aus zu schalten, per Anfrage der Community
-- Beitreten und Solo Optionen aus der Missionsauswahl versteckt, wenn bereits Spieler deiner Partie beigetreten sind
-- Option "Versuche neu zu verbinden" zum esc-Menü hinzugefügt
-- Nicht übersetzbare Textfelder in der Gedenkhalle etc. behoben.
-- Defektes Jukebox-Display SOLLTE repariert sein
-- Schildunterbrechung gibt dir jetzt mehr Basisgesundheit, um etwas weniger brutal zu sein.
-- Probleme beim Abladen in die MULE wurden behoben, wenn sie zu weit weg war, aber nah genug um die Interaktion zu zeigen.
-- Fix für Molly, die zu einer früheren Position zurückkehrt, wenn sie zur Transportkapsel gehen sollte.
-- Die meisten Fälle, in denen Molly die Transportkapsel nicht fand, wurden behoben.
-- Es wurden Fälle von Spitzhacken behoben, die zu Beginn der Mission in der Luft schwebten.
-- Rechtschreibfehler "jelous" in Missionsnamen behoben
-- Laserpointer bleibt nicht mehr stecken, wenn man salutiert.
-- Mögliche Behebung des blinkenden weißen Bildschirms auf Nvidia GTX 970 Karten
-- Es wurde ein Problem behoben, bei dem Charaktere ausgewählt wurden, nachdem  mit der Maus über sie gezogen wurden, und zwar im CHarakterauswahlterminal
-- Tippfehler in der Beschreibung der wöchentlichen Zuweisung behoben
-- Behoben, dass die 8-9-0-Tasten bei Neuzuweisung nicht mehr funktionieren.
-- Behoben: Der Handelsterminal-Auftrag gibt 0 Croppa
-- Behoben: Anzahl Hollomit erscheint nicht, wenn es sich um ein sekundäres Ziel handelt
-- Spawn-Kollision behoben (Schwärme vom Spawner) 
-- Behoben: Feinde können getroffen werden, nachdem sie tot sind.
-- Behoben: Klebrige Granate, die physischen Schaden anrichtet und Vergünstigungen auslöst.
 "
 	Update_11 = "Hallo Minenarbeiter,
 
