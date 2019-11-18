@@ -207,43 +207,6 @@
 			}
 		},
 		{
-			"File": "../../../FSD/Plugins/MixerPlugin/Mixer.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1",
-				"FriendlyName": "Mixer",
-				"Description": "Interact with participants on the Mixer broadcasting service",
-				"Category": "Misc",
-				"CreatedBy": "Microsoft",
-				"CreatedByURL": "www.microsoft.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": true,
-				"Installed": true,
-				"Modules": [
-					{
-						"Name": "MixerInteractivity",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "MixerInteractivityEditor",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "MixerInteractivityBlueprintNodes",
-						"Type": "Developer",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../FSD/Plugins/GoogleAnalytics/GoogleAnalytics.uplugin",
 			"Descriptor": 
 			{
@@ -574,6 +537,37 @@
 			}
 		},
 		{
+			"File": "../../../FSD/Plugins/FSDMixer/FSDMixer.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 2,
+				"VersionName": "1.1",
+				"FriendlyName": "FSD Mixer Plugin",
+				"Description": "Plugin to support Mixer",
+				"Category": "Other",
+				"CreatedBy": "Ghost Ship Games",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "FSDMixer",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win32",
+							"Win64"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../FSD/Plugins/discordrpc/DiscordRpc.uplugin",
 			"Descriptor": 
 			{
@@ -605,14 +599,14 @@
 			}
 		},
 		{
-			"File": "../../../FSD/Plugins/FSDEditorTools/UpgradeEditor/UpgradeEditor.uplugin",
+			"File": "../../../FSD/Plugins/FSDEditorTools/EditorBase/EditorBase.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
 				"Version": 1,
 				"VersionName": "1.0",
-				"FriendlyName": "Upgrade Editor",
-				"Description": "Editor for Upgrades in DRG",
+				"FriendlyName": "EditorBase",
+				"Description": "Editor Base for GSG Editors",
 				"Category": "FSDEditor",
 				"CreatedBy": "Axel",
 				"CreatedByURL": "",
@@ -624,7 +618,7 @@
 				"IsBetaVersion": true,
 				"Modules": [
 					{
-						"Name": "UpgradeEditor",
+						"Name": "EditorBase",
 						"Type": "Editor",
 						"LoadingPhase": "Default"
 					}

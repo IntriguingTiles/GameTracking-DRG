@@ -159,10 +159,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Mixer",
-			"Enabled": true
-		},
-		{
 			"Name": "AndroidPermission",
 			"Enabled": false
 		},
@@ -218,6 +214,18 @@
 		{
 			"Name": "Niagara",
 			"Enabled": true
-		}
+		},
+    {
+      "Name": "FSDMixer",
+      "Enabled": true
+    },
+    {
+      "Name": "OnlineSubsystemOddish",
+      "Enabled": false
+    },
+    {
+      "Name": "PlatformSubsystemOddish",
+      "Enabled": false
+    }
 	]
 }
