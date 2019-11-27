@@ -1,8 +1,8 @@
-5806 entries
+5814 entries
 15 namespaces
-4527 values
+4534 values
 
-Namespace Global (5518 keys)
+Namespace Global (5527 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        zurücksetzen        "
 	2559D78C40005E5221F26093CB976283 = " Sammelt {Collected}/{Required} {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Ich bin gefallen!"
@@ -373,7 +373,6 @@ Bosco's KI ist noch nicht bereit damit alleine umzugehen, nutze den TERRAINSCANN
 	1181DB1E41B8A40484A7D18F285950DC = "Ein beeindruckender Bart für einen beeindruckenden Zwerg."
 	3F254FC84E644A3046714DA785754E52 = "Ein beeindruckender Bart für einen beeindruckenden Zwerg."
 	85D7BCEC4BE68DBC849081B25F1CFA7D = "Ein altes Sprichwort besagt "Sei Vorbereitet" - Und der MK5 Späher-Anzug enttäuscht dich nicht. Kevlar-verstärkte Weste und Gurtzeug, Stahl-behauene Stiefel, praktische Leuchtfackeltaschen - die haben sogar eine extra Sandwich-Tasche eingebaut!"
-	14A4DDF2406BA8A1DD77ED9F75B85F26 = "Ein aktualisiertes Gehäuseprofil ermöglicht es Ihnen, eine weitere Runde in den Zylinder zu drücken und erhöht die maximale Feuerrate, aber all das Feilen und Bohren hat die reine Schadensleistung der Waffe beeinträchtigt."
 	941378E041BA4246F73372AB59E66035 = "Ein verbessertes Modell mit mehr Kraft, längerer Reichweite und größerer Munitionskapaziät."
 	DCDD61C84139F7B7C9C53B9CD1420192 = "Analysemaschine aktiviert! Kursiteninfizierte Feinde werden zu Ihrem Standort gelockt! Ernten Sie sie für flüchtige Kursite-Proben und stecken Sie sie in die Maschine! F&E ist sehr daran interessiert, sie in die Finger zu bekommen."
 	46F8058E4ACB60C590309687C83A8ECD = "Vorfahren, das war eine verdammt schlechte Vorstellung...!"
@@ -697,6 +696,7 @@ TERMINAL"
 	0FA8830343EFD49EDF9B4CB8980CD39C = "Kugelhölle"
 	8E98230648BA7B1C6C87459FC1D491B6 = "Kugel detonieren, wodurch ein Schadensradius entsteht"
 	AF0B555042EF433ED230889E1FEA2204 = "Kugeln, die aus der Primärwaffe kommen, haben eine Chance zu elektrifizieren."
+	089359FE43182D234A6761A464272709 = "Schüsse verwandeln sich in Schock-Minchen bei Bodenkontakt"
 	9A3AE0AC4B0543EC9AC773AE3CA67138 = "Kugeln der Barmherzigkeit"
 	569E41784D01F681AE82818F1FC12017 = "Kugeln prallen an Oberflächen in nahe Gegner ab"
 	A0C414D04966A137F55EA8AAF8285995 = "Geschosse mit Durchschlag penetrieren das erste Ziel und treffen Ziele dahinter."
@@ -888,6 +888,7 @@ Auswahl"
 	04096732492016AE69346EB2C7A41F9E = "Hole deine Belohnung von 5000 Credits bei jedem Minenarbeiter-Gesellschafts Terminal ab!"
 	6619A4ED436E69A0242C7E8010B4BC7C = "Fordere deine Unionsfinanzierung an"
 	545ADD99430A1848AE73ED9FA1CCBE67 = "Erhalten!"
+	0553FE1C49D9A85C8ADCFABF4F529EED = "Klassischer Flex"
 	B4669ADE429E75AFD9E8A691C914D852 = "Klassischer Minenarbeiterhelm - Uniform"
 	3FE9F273401543C0247490967A0E2FDD = "Klassischer Minenarbeiterhelm - Gelb"
 	E6091D33453BC448874457AB90A51E39 = "Echt elegant, Team. Jetzt ist aber Schluss."
@@ -1308,6 +1309,7 @@ Management"
 	8B770D804C9142679C8D79946854C900 = "Diamanten!"
 	6A295DD943E49FBE22ED409EDCF18041 = "Hat jemand einen Regenschirm dabei?"
 	C8181DC2434D185AD5B3AA862C531CB1 = "Hat jemand die Nummer des Glyphids aufgeschrieben, das mich angefahren hat?"
+	06305F38499EF9BB6EE8CF9F5E9EA19D = "War wohl nichts Freunde! Viel zu langsam!"
 	0964316241D641D66BDF78AFCB27812A = "Diese Mineralien hab ich nicht wirklich gebraucht!"
 	DCC66A314385F7C3A0B4F9ADC4299E54 = "Stirb, Widerling!"
 	5AC3AB554F0C8A2D30E599B8E3E1A992 = "Stirb wie deine Mutter!"
@@ -1339,6 +1341,7 @@ Management"
 	16D1CFBC4B03B4DAA1B0A69179792B85 = "Zurückgelegte Distanz"
 	F61C962A4D8522B7072EAFA9461465DB = "Verlasst NICHT die Triangulationszone! Wir verlieren euch!"
 	98BE548B422E3AA17442C2B16EB36EFB = "Machen oder sterben, das ist meine letzte Mission für Deep Rock!"
+	04BBF4194695F111B71769BD87B645F6 = "Hast du Canary vom Fass Lloyd?"
 	60E225D8464397BA2BBD87AD37BE6995 = "Hast du was es braucht um Teil der {0} zu sein?"
 	DBD7A3CD43BB7D79CB02E8B8EE5DF189 = "Erfüllt seinen Zweck."
 	FDE46E0240F71FF4A5BBA1880487918A = "Tut seine Arbeit"
@@ -1386,6 +1389,7 @@ Management"
 	97A3653E445548AB98C752BCD03C6AD0 = "Bohr sie und grill sie!"
 	6283C41245AC6270DE89789AEA9599C3 = "Bohrer"
 	6F017F9E4A37C608F3331CB551539E8F = "Drohnen Modifikationen"
+	0A189FD44BAEB48AE794B3894AEB787D = "Drohnenreplikator"
 	65082D9F453F3316D327788612CEB5EB = "Drohne eingetroffen!"
 	594A7D6C47E8A9ABA04BF9B83E3A4A6B = "Drohne ist da!"
 	5D11775D4098373B80395E970421929F = "Drohne ist bestellt!"
@@ -1422,7 +1426,6 @@ Management"
 	7DD07AE8403119755FF99F98DF00E119 = "Dauer"
 	D691827C439F91E8AE25EE98B3B02C3E = "Dauer"
 	156D2CB74CD0FA572456AEAAA4343674 = "Zwergenklassen Name"
-	868A67D84E782BE15D1D4E8D01DAE858 = "Zwergenklassen Name"
 	3EEA47DA449CA2E4EFB347A4F3AF4272 = "Zwerg am Boden!"
 	8D0F5BD54C0C4CA11290868D3592FE0E = "Zwerg am Boden!"
 	C38D11CA47DA522AAA247DB00910CD56 = "Zwerg am Boden!"
@@ -1498,7 +1501,6 @@ Management"
 	C81A06D345D59B695FEA899D616E3779 = "Elite Minenarbeiter"
 	C9DE99FF4A96C46B09572A8E8CCE1817 = "Elite Minenarbeiter"
 	21B159814148754819F408BDCC8170C4 = "Eingebettete Zünder"
-	D06BF19A4C6B10F2BEE9C8BF1ACEAC75 = "Eingebettete Kondensatoren in einem Kupferkern tragen die elektrische Ladung von den EM-Spulen, die für Fokusaufnahmen verwendet werden, und werden das Ziel bei einem Schwachpunkttreffer auf Stromschlag hinrichten, was zu einem Bonus für reduzierte Fokussierschäden führt."
 	E38A00AB4C7911097E8E57855DDB2946 = "Mitarbeiter Garderobe"
 	E5B3A82840F6A15692609E9475E60174 = "Leer"
 	CB2BB63F4DF987B78EBECC9C043E9D3D = "Tutorial-Tipps aktivieren"
@@ -1690,6 +1692,7 @@ STAND"
 	06BFE5824E0FC7214C0FED9DC5D2CCE0 = "Flutlicht steht!"
 	6C061DFE41C68F81A23CC09738BBDAFC = "Flutlicht bestellt!"
 	1905BCF9490CEF6D8AE6E99EB5009416 = "Flutlicht steht!"
+	02CFE116450C9F2C0D25B9BE89D71B88 = "Flugmodus"
 	B6EC1E8243666936D358DA9ACD991787 = "Flugmodus"
 	29D686274B3817EB6F04569C3608C457 = "Fliegender Albtraum"
 	BA3E57AA40B9A09F2C96EE948813FD44 = "Fliegender Albtraum"
@@ -1909,7 +1912,7 @@ STAND"
 	F2D97C564663BFE393E3BA9AB38F3777 = "Vergoldeter Meister"
 	FCC29F354EA51FCE13D04FB7CCCEBE97 = "Vergoldeter Meister"
 	91F089C841D19A3D76DF41A8F412594D = "Geht mir hier zur Hand beim Bauen!"
-	6EB07EF049107FAFE6B8CF9C2BCEFDB1 = "Gib uns Feedback"
+	00BD83F6438C7E6236C8DC906A4824B6 = "Gib\ Nitra (100)"
 	AF9D51AA4C79D7F91E01C8BA101DF287 = "Gib mir frische Luft!"
 	7620D7A64CDF6A7CD10221919EEADDA2 = "Gib mir etwas Licht!"
 	A9F73C994BF4BC81B638DDB1842E976F = "Gib mir etwas Licht! Genau da!"
@@ -2730,6 +2733,7 @@ Beim Befördern eines Charakters SETZT DU IHN AUF LEVEL 1 ZURÜCK. Du behälst j
 	8D7543224DEA7BE037EEF2B39859943D = "Rauswerfen"
 	9285CEE44DC9551C368DED962BB30B8E = "Treten"
 	0AE59B9845A5EA01D2CDA491BF4A9D64 = "Aus Spieloptionen geworfen"
+	00C59D0743D3A9F9F91A02BDF0F20BB4 = "Töte alle"
 	02C96D044E7E742486687BB747698106 = "Tötet Brut-Nexus"
 	72A8A9B7461C85B8E4F84D832D4B308B = "Tötet Massensprenger"
 	A47B1D624052783416C655B6A83A23F3 = "Tötet Höhlenkletten"
@@ -3163,7 +3167,6 @@ TERMINAL"
 	5B46DB0F4B63F2A351A20D838A0D2368 = "Bergbau ist harte Arbeit, gute Sache, dass wir Zwerge sind!"
 	4698DA944F4015FABA13E59A279D21F4 = "Abbaurate"
 	151551B348D0C298E08307A96FF9F44B = "Diverses"
-	059E16434A655C7FD6D80BBD9F44E848 = "Verfehlte Schüsse haben eine Chance abzuprallen und nahe Gegner zu treffen"
 	9B6006C44FC0D4CA60085CA1516F2D85 = "Kontrollzentrum"
 	BA4EB6AC430489BB03E2909FF293862C = "An alle im Kontrollzentrum, ihr grießgrämigen Saftsäcke, der hier ist für euch!"
 	009AEC2C4D9A417BE69EF4B6376CBCC6 = "Mission Ausgewählt - Transportkapsel wird gestartet - Kommt an Bord Team!"
@@ -3324,6 +3327,7 @@ TERMINAL"
 	1FE5D4784C696E07B441EEBFEEF81005 = "Nervengiftbeschichtung"
 	41B2EBE2459BEF412179089A6D413D9B = "Nervengift-Granate"
 	801BA77A4D781882A479418812A4C628 = "Mir ging's noch nie besser"
+	02BB253441D5A1465B27688AEDD0546E = "Mir ging's noch nie besser!"
 	DBBA53E84F566413D90533A0C67236BB = "Mir ging's noch nie besser!"
 	0A2228BA44E6966CE21B96B2E0448AB9 = "Gib niemals auf! Bleibe für {value} Sekunden funktionsfähig, nachdem du 0 Gesundheit erreicht hast ( 45 Sekunden Abklingzeit )"
 	8398F12D4C77D825A614B8951C564CBF = "Hätte nie gedacht, dass ich diesen Tag noch erleben darf! Eine letzte Mission und ich kann endlich meine eigene Brauerei aufbauen..."
@@ -3611,6 +3615,7 @@ Management"
 	9EC0FE4246353148B7F5F6A225ACF936 = "Auuu! Das tut weh!"
 	1F96254249D0610E653D639E266A4979 = "Ohhh....jaa!"
 	31D27D4840864D26823DBA8E386D88CB = "Ohhh...mein verfluchter Kopf..."
+	024459F04859B5638CB9D590AD5B0DE6 = "SCHMERZ"
 	9A32E60E4FE87DDAF805428EB0BE9D77 = "SCHMERZEN"
 	A4B75E864DB874BF192C4484B70AF96C = "SCHMERZEN"
 	B7908BFF40B093A2746CF3A051DB497F = "SCHMERZEN"
@@ -3622,6 +3627,7 @@ Management"
 	E7D4FC6845EA5DB57D915FABF1D436DA = "BONI"
 	E922A7AE4D9A3CD28D72A394E6955EA0 = "BONI"
 	2F1A9D7B42E5D494358A6A81A7B51E6F = "'{Name}' AUFHEBEN"
+	08994963430E1A17C669268675A9F2BE = "ORTSKATEGORIE"
 	C79595634378DAEEAB740BB8AF143D3B = "PLANETARE REGION"
 	20DF92BC4CD1B5B5ECE7C5B10E9C5637 = "PLANETARE REGION:"
 	741BD55D4E5B0C462C264AABB6B873A4 = "SPIELER-TITEL"
@@ -4601,6 +4607,7 @@ Jegliche Credits und Ressourcen die dafür ausgegeben wurden, wurden deinem Acco
 	DD299EC94F247ECC52247FBBC5803E27 = "Zum Charakter wechseln"
 	F270249D4B98E5158146E9A617A36D3D = "Zum Charakter wechseln"
 	00C88DFC40C265963FDD4DBD3679A870 = "Zur Klasse wechseln"
+	03566CEA46BA4A91DD3EEEAEF8EA2689 = "Sirupkegel"
 	61668E2B4AE4FBDE1C1094862D55F46B = "Es war die Nacht vor dem Weihnachtsabend und und durch die ganze Mine..."
 	0E6FDF684AF461D269E215A191289E87 = "DRÜCKE [Shout] UM AUF DICH AUFMERKSAM ZU MACHEN"
 	3E8D5A1F49894E7918B4F0B70CB2D74F = "DRÜCKE [Shout] UM AUF DICH AUFMERKSAM ZU MACHEN"
@@ -4664,6 +4671,7 @@ AUSWAHL"
 	198FCF984B3F5B06D002A198A8447E7F = "Test Ziel 2"
 	2D0AA4C0477C95ABB477829291A8D65E = "Test Ziel 2"
 	DDEA41514CD3F70125210DBA75E5A0E7 = "Texturauflösung"
+	04B20CB74772FFE3A32BC2A1050AA4CD = "Danke das du DEEP ROCK GALACTIC gekauft hast und uns auf dieser Reise begleitest!"
 	5CE46EAA420AA488674B78B4459C2D29 = "Danke, dass du DEEP ROCK GALACTIC gekauft hast und ein Teil unserer Reise bist!"
 	F95D6BF544A3E1F54625EEBACF519E64 = "Vielen Dank, dass du DEEP ROCK GALACTIC gekauft hast, und ein Teil unserer Reise bist!"
 	B26C86DF47481AA729A47795827C4556 = "Danke, Bruder! Du bist ein wahrer Freund!"
@@ -4683,6 +4691,7 @@ Wie bereits vorher erwähnt wurde, werden ALLE Closed-Alpha Keys vor dem Launch 
 	DCF2B4E84971F9A3F83BA4BB4963A4AC = "Diese gottverdammte Überhitzung!"
 	6D21AAD540699FFABF5D9CAFEEF9F378 = "Dieser Typ im Kontrollzentrum -Er hat wirklich einen gemütlichen Job!"
 	A86F50F846111F7A92F3AEBFBA14441A = "Dieser Typ im Kontrollzentrum - Er hat wirklich ein gemütlichen Job!"
+	00F0423B43D2D47FA9295CB2DD7E2576 = "Das war genau das Richtige!"
 	965267984EA79F41CB656DAD20AE7CB7 = "Das war genau das Richtige!"
 	CCEF48ED4518F2EA702873B0FE6986B3 = "Das erinnert mich an meine erste Liebe ..."
 	4A70A40E4A60ECF1B9FA9FBA98401ED2 = "Das nervt!"
@@ -5263,6 +5272,7 @@ Wir entschuldigen uns für die Unannehmlichkeiten und danken Euch für Eure Gedu
 	30C953244901EBB2C8FB2EB6BC012525 = "Wir haben es!"
 	059DE8D94B383F95DE59CCBB77324B46 = "Wir haben es! Huzzah!"
 	11AE48C645447B70AA14968E857640A7 = "Wir haben es geschafft! Karl wäre stolz!"
+	09E176984B0EFABD015311A835B5F676 = "Wir haben den Hoarder!"
 	9C39D55144A52B6B61682285955D3A49 = "Wir müssen uns um diesen Schleim-Bomber kümmern!"
 	A73CCF4B469E12622BC945B6D797181E = "Wir haben ein Glyphid-Nest lokalisiert. Die Dreadnoughts gehen sich da verpuppen, euer Hauptziel ist es also, die Kokons zu lokalisieren und sie zusammen mit ihren Bewohnern mit allen nötigen Mitteln zu zerstören. Nehmt genügend Munition mit - die können was einstecken."
 	926998B24C3D5839AE17E09E96F6E828 = "Wir haben dich mit einer Allzweck-Drohne ausgestattet. Spitzname: Bosco. Bosco wird dich auf dieser und anderen Einzelmissionen unterstützen. Setze ihn weise ein und er wird die Hälfte der Arbeit erledigen. Dein Ziel: Finde und bringe eine ordentliche Probe Morkit zurück. Leg los!"
@@ -5288,7 +5298,6 @@ Du kannst diese Einstellungen jederzeit im Optionsmenü ändern."
 	7901F74D493F5C1E01B3A0A5CFECA68E = "Wir waren so nah! Verdammt!"
 	B984190E4E8E8B10C3136F88EB20C27D = "Wir waren so nah dran! Verdammt!"
 	911B1D88451D52E4B5A8A2AC2D41E1EF = "Wir nehmen eine Runde Tunnel-Ratte. Und lass die Schwänze drinnen, Lloyd!"
-	619A441B4415952260186291C083D7FD = "Wir sind Wahnsinn!"
 	66AB36B245A0AE9C54AD7CA052FBA7B5 = "Wir sind Wahnsinn!"
 	519B7A83478ED16C42ADAAA0F0C481C1 = "Wir sind am Arsch!"
 	A500613340758903702143BF60C3ADE1 = "Wir sind am Arsch!"
@@ -5656,7 +5665,7 @@ Namespace Gear (7 keys)
 Namespace Inventory (1 keys)
 	Full = "Voll"
 
-Namespace PatchNotes (48 keys)
+Namespace PatchNotes (47 keys)
 	Update_20.1_ShortTitle = "GRÖSSER, BESSER, BOSCO"
 	Update_20_ShortTitle = "GRÖSSER, BESSER, BOSCO"
 	Update_11_ShortTitle = "TOT UND GEWEHR"
@@ -5975,130 +5984,6 @@ Verschiedenes
 - Fixed crash beim spät beitritt, wenn man beitritt während das level endet.
 - Fixed: Man kann nicht länger den Hinweis text editieren während dem laden!
 - Kartentool updated nicht korrekt wenn die umgebung sich ändert
-"
-	Update_26 = "Hallo Mineralien!
-Update 26 ist da! In diesem zweiten Teil des Endspiels haben wir ein neues System von Maschinen-Events hinzugefügt, das während normaler Missionen auftritt, eine dringend benötigte Überarbeitung und Erweiterung der Bar alle neuen Victory Moves sowie Skins für Bosco und deine Waffen, sowie eine absolute Menge kleiner Bugfixes, Optimierungen und Verbesserungen. Los geht's!
-
-
---- PATCH NOTES ---
-
-MACHINE EVENTS
-----------------------------
-- Deep Rock Galactic entwickelt strategische Operationen rund um den Planeten. Das Unternehmen ist besorgt über einige seltsame Mutationen, die die Kreaturen von Hoxxes sowie besondere Kristalle, die Scanner und andere Geräte in der Umlaufbahn beeinträchtigen. Um die Bedrohung zu beseitigen oder einfach nur Proben zu nehmen, müssen die Zwergenaktionen von Experten abgeschlossen werden. Wenn du auf einen stolperst, gib ihn los und hoffe, dass die Belohnung das Risiko wert ist!
-
-Drei verschiedene Maschinenereignisse sind in zufälligen Missionen zu finden: Infektion der Kursite, Steinmutation und Tritilyte Kristall. Jeder von ihnen bietet eine andere zeitliche Herausforderung, die abgeschlossen werden muss, um Zugang zu dem Core Infuser zu erhalten, in dem Blank Matrix Kerne verwendet werden können.
-
-- Um ein Maschine-Event zu aktivieren, muss der Spieler den Tritilyte-Schlüssel besitzen. Du wirst einen Tritilyte-Schlüssel besitzen, wenn du einen beworbenen Zwerg hast.
-
-
-BLANK MATRIX KERNE
-----------------------------
-- Leere Matrixkerne sind Teil der Belohnungen für Deep Dives und die Core Hunt Zuweisung. Der erste Abschnitt der beiden Deep Dives belohnt jetzt Blank Matrix-Kern anstelle von Mineral Cores. Sie können durch Maschinenereignisse in Überuhr oder kosmetische Matrixkerne umgewandelt werden, die in der Schmiede verwendet werden können.
-
-
-BAR & BESER OVERHAUL
-----------------------------
-- Neue Buff Biere mit Effekten in Mission zum heutigen Spezialpool hinzugefügt
-- Eine Tonne neuer Gag Biere zum Entsperren. Die Effekte dieser Biere funktionieren nur in der Weltraumbahn
-- Neue Preise für Biere basierend auf neuen Zutaten in Höhlen: Gerste Glühbirne, Yöstkegel, Malt Star und Starch-Nut.
-
-
-BOSCO-SKINS
-----------------------------
-- Sie können jetzt einen Blick nach Bosco. Im Moment gibt es zwei neue Bosco Skins, die durch Meisterschaft freigeschaltet werden: Cyber Ninja und Kriegsveteran
-
-
-VICTORY MOVES
-----------------------------
-- Alle Klassen beginnen mit 4 Standard-Bewegungen, die während des Missionsvollendeten Bildschirms nach einer erfolgreichen Mission gespielt werden. Spieler können ihren Lieblings-Zug im Mitarbeiter-Terminal ausrüsten.
-- 18 new unique Victory Moves have been added for players to unlock. Einige können als Belohnung in Frachtkisten gefunden werden, während andere als kosmetische Matrix-Kerne (von Deep Dives und Machine Events) gefälscht werden.
-
-
-NEUE WAPONSKIN
-----------------------------
-- Ein neues Set von Waffensatz, Neon Band, wurde zu den Güterkisten Belohnungen hinzugefügt
-
-
-WEAPON, MODS, VERCLOCKS BALANCE
-----------------------------
-M1000
-Um einen Spielstil zu unterstützen, in dem beide Feuermodi (Hipfire und Fokusaufnahmen) praktikabel sind und dem Spieler interessante Optionen bieten, Die Basiswerte der Waffe und verschiedene Mods wurden modifiziert und neu ausgeglichen. Fokussierte Schüsse verbrauchen 2 Geschosse, aber die Munitionskapazität der Waffe wurde erhöht.
-
-CRSPR FLAMETHROWER 
-Mods wurden neu angeordnet, um abwechslungsreichere Build-Optionen zu bieten.
-Basiswaffe
-- Erhöht die Geschwindigkeit, mit der sich die Flamme ausdehnt, so dass weniger Munition ausgegeben wird, wenn Ziele in Reichweite schießen
-- Verbesserter Schaden von klebrigen Flammen
-- Verbesserte Geschwindigkeit, mit der Feinde sich erhitzen, wenn sie klebige Flammen durchmachen
-
-Mods
-- Viele Mods neu angeordnet, um klebrige Flammenbauten lebensfähiger zu machen
-- Die Klebende Hitze- und Klebende Schaden Mods
-- Die zwei Sticky-Dauer-Mods wurden verbessert
-- Die Anzeige des Flammenwerfers im Ausrüstungsterminal wurde geändert, um wie die Kryocannon\ zu funktionieren
-
-Überuhren
-- Die Tank-Stream-DiffUser-OC-Strafe von niedrigerem Schaden zu einer langsameren Brandrate wurde geändert, um die inhärenten Munitionsstrafen der Benutzung des Flammenwerfers in großer Entfernung zu kompensieren
-- Fügt dem OC einen Schadensbonus für Sticky Flamme hinzu und ersetzte die Reichweite mit einer Munitionsstrafe
-
-
-ENEMÄSSIGEN
-----------------------------
-- Macteras ändern die Ziele beim Aufladen von Angriffen nicht mehr
-- Betäubt jetzt Angriffe von Mactera-Feinden ab
-- Neue Animation für betäubte Mactera-Feinde
-- Schwere Feinde wie Glyphid Praetorians sind widerstandsfähiger gegen Betäubung
-
-
-UI & HUD
-----------------------------
-- Die Gesundheitsleiste des Gegners kann jetzt mehr als 3 Statuseffekte anzeigen, ohne die Symbole zuzuschneiden.
-- Die Animation der Gesundheitsleiste des Gegners wurde geändert, damit der Name schneller verschwindet.
-- Benachrichtigungssystem für das Entsperren von Ausrüstungen (work-in-progress)
-
-
-MISC. & FIXEN
-----------------------------
-- Es wurde eine Option für den Späher hinzugefügt, um automatisch zu dem vorher ausgerüsteten Gegenstand zu wechseln, nachdem die Grappling Kanone verwendet wurde. Standardmäßig deaktiviert, kann es über das Optionsmenü aktiviert werden.
-- Die Satchelladung wurde korrigiert, so dass der Detonator jetzt in einem abgeschlossenen Zustand erscheint, wenn der Spieler nicht in Satchelladungen ist. 
-- Added some blinking lights to the Satchel Charge when detonating
-- Fehler behoben, der Deepcore 40mm PGL Modifikation „Proximity Trigger“ auf Bosco\ ausgelöst hat
-- Die Nachlade-Animation der Zhukov NUK17 wurde behoben, so dass die rechte Waffe die Patrone nicht mehr zufällig auswerfen kann.
-- Es wurde ein Fehler behoben, der dazu führte, dass überschüssige Mineralstücke nicht immer abgeholt wurden. Der Spieler sammelt nun auch automatisch überschüssige Mineralchunke während der Ablagerung in der M.U.L.E. 
-- Fehler behoben, der das Spiel nach Abschluss einer Aufgabe zum Space Rig gesperrt hat
-- Rechtschreibfehler im Feldmedizinperk\ wurde behoben
-- Deaktivierter Rauch vom Drop Pod beim Drop Pod in eine Mission
-- Behoben wurde der Schmiedemeister-Meilenstein um einen in dem was du erreichen musst
-- Es wurde ein Fehler behoben, der dazu führte, dass Feinde lange eingefroren wurden, wenn sie in der Nähe einer schwachen Wärmequelle waren. Dies war am häufigsten für die Glyphid Bulk Detonator on Point Exction
-- Das Aufheben von Gegenständen hat jetzt Animation und beinhaltet das Halten der Benutzen-Schaltfläche.
-- Betrunkene zu verteilen erhöht nun korrekt deinen Status, nicht die Hosts!
-- Das Ausgeben von Betrunkenen erhöht nicht mehr den abgestoßenen Status.
-- Einige Fehler im Zusammenhang mit der Wiederauffüllung mit der Satchel Ladung\ behoben
-- Fehler behoben, der den Spieler in bestimmten Fällen dazu veranlasst, einen Mineralbehälter anstelle eines Matrixkerns zu erhalten. (Benötigt viele Matrixkerne erhalten)
-- Fehler behoben, der den Spieler veranlasste, die Waffe zu wechseln, nachdem er eine Granate geworfen hat
-- Fehler mit den Gemeinschaftsbelohnungen behoben
-- Spieler werden im Schneesturm nicht länger langsamer werden
-- Nach der Befreiung von Eis eine kurze Immunität gegen Kälte hinzugefügt, um zu verhindern, dass Spieler aufeinanderfolgend eingefroren werden
-- Fehler behoben, der verhinderte, dass Granaten gekauft werden können
-- Aufgeladene fokussierte Schüsse werden beim Wechsel der Waffe\ nicht mehr abgebrochen
-- Flammenwerferpartikel wechseln jetzt korrekt mit Bereichsveränderungen und sehen auch in dritter Person richtig
-- Tödliche Feinde warnen Mutator erhöht den Schaden durch Projektile nicht mehr
-- Einige Fälle der berüchtigten Würfel Geländeartefakte
-- Missionsbelohnungen zeigen jetzt auf Gefahrenbonus in allen UI
-- Schnellverbindungs-Terminal wurde entfernt, da wir das Missionsterminal für passender halten, um Missionen beizutreten und sie zu beherbergen.
-- Fehler behoben, der den Drop Pod Countdown im Space Rig aktiviert hat, um vom Client\ neu ansiedeln zu können
-- Reparierte Bouncy Plasma Modifikation am experimentellen Plasma Ladegerät zeigt keine Auswirkungspartikel für Kunden
-- Die Änderung der besseren Gewichtsbilanz wird nach einem Neustart im Fadenkreuz nicht richtig angezeigt
-- Feste Änderungen an „Explosives Goodby“ und „Es kann nur eine geben“ für den Bruchschnitt
-- Ein Mikrosymbol wird jetzt angezeigt, wenn der lokale Player Sprachchat betreibt
-- Fehler behoben, der die Nachladeanimation der Zipline Gun ausgelöst hat, die in erster und dritter Person
-- Im Beutel verbleibende Mineralien werden jetzt am Ende der Mission hinzugefügt
-- Exploit behoben, der dazu führte, dass Wellen nicht ausgelöst wurden, wenn außerirdische Eier ausgegraben und sofort nach\ hinterlegt wurden
-- Einen Respawn-Knopf zum Escape-Menü in der Space Rig\ hinzugefügt
-- Zeitschriften und Brennstoffkanister sind jetzt gehäutet für die Deepcore GK2, Subata I20 und CRSPR Flammenwerfer auf die Haut auf der Waffe.
-- [Community-Anfrage] Alle Gantries auf dem Space Rig spielen endlich Fußabdruck-Töne!
-- Feste Schneesturm-Effekte
-- Neuer Meilenstein für das Entsperren von Spezialbieren
 "
 	Update_19 = "Hallo Bergleute! 
 
