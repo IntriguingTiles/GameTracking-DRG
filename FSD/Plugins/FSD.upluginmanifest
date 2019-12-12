@@ -558,11 +558,12 @@
 					{
 						"Name": "FSDMixer",
 						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win32",
-							"Win64"
-						]
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "FSDMixerBlueprintNodes",
+						"Type": "Developer",
+						"LoadingPhase": "Default"
 					}
 				]
 			}
