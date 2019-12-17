@@ -1,8 +1,8 @@
-6115 entries
+6110 entries
 17 namespaces
-4621 values
+4619 values
 
-Namespace Global (5810 keys)
+Namespace Global (5806 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        ponastavi        "
 	3E2E82954782E77A2F596AB7FEA09136 = " Padel sem!"
 	31D60A1449082F9AB6DC15844F3810F6 = " POTREBNO"
@@ -4219,10 +4219,6 @@ PRIDRUŽITEV"
 	B8A48C7145EF4BB4CD7B01ACDA8D9A33 = "Zavrni Povabilo"
 	EF85D40F433CDB5FC77513BA4ECAD05E = "Zavrnjeno!"
 	D7DAD84C4E69B1522E36958B034EFA11 = "Ne sekiraj se!"
-	3173F0354313AB7005D604B9A5759BB2 = "Relikvija"
-	3360F00149C02930325D318D0849D539 = "Relikvija"
-	CF0A1111494E89722870EAB664326761 = "Relikvija"
-	D656BFA14A744ACB56707E9458569B05 = "Relikvija"
 	CDCEC88042CF9A3B9409D184848D81A0 = "Repetiranje"
 	E5C7F9CF464A7ECC8596DCAABB89552D = "Repetirano Strelivo Na Sekundo"
 	47A800B348C8CECFDC057F8805E35316 = "Efekt Repetiranja"
@@ -5947,7 +5943,7 @@ Namespace OC_BonusAndDrawbackLines (25 keys)
 	Pen_RecoilMedium = "Močnjejše trzanje"
 	Pen_OverheatFaster = "Orožje se pregreje hitreje"
 
-Namespace PatchNotes (42 keys)
+Namespace PatchNotes (41 keys)
 	Update_20.1_ShortTitle = "VEČJI, BOLJŠI, BOSCO"
 	Update_20_ShortTitle = "VEČJI, BOLJŠI, BOSCO"
 	Update_11_ShortTitle = "SMRT IN PIŠTOLA"
@@ -6048,97 +6044,6 @@ POPRAVKI IN IZBOLJŠAVE
 - Popravek za oba gejzirja, kjer je zvočni učinek mehurčkov ostal po uničitvi
 - Dodana animacija za brcanje v tretji osebi. Brcanje sodov še nikoli ni bilo tako realistično!
 - Nov nadzornik misije ima dialog za orožne naloge in promocije.
-"
-	Update_9 = "Zdravo Rudarji!
-
-Deep Rock Galactic je do zdaj bil v divjini za 1 teden. Mi smo končali s praznovajem odlične objave igre (jaa!) in smo zdaj trdu na delu, da spravimo posodbitve ven. V igri imamo lep gumb za povratne informacije in veliko zahvalo za tisoče ljudi, ki ste že ta gumb izkoristili. Ta gumb je nam  v veliko pomoč. Spodaj lahko preberete o posodbitvi.
-
---- Vrtalec Izboljšave ---
-Vrtalec je menda najbolj unikaten poklic v Deep Rock Galactic, zato smo bili žalostni videti, da je naš vrtalec manj cenjen v primerjavi s ostalimi tremi poklici glede uporabnosti. Zaradi tega smo mu izboljšali njegov Plamenometalec in Vrtalnika. V podrobnih zapiskih popravkov spodaj si lahko ogledate točne spremembe glede statistike, kar vam lahko ponudi par namigov za boljšo uporabo Vrtalca.
-
---- Izplačilo pri Neuspešni Misiji & Odstranitvi ---
-Dve težavi sta se precej hitro pojavile: Nezadovoljstvo glede našega ravnanja s scenarijem za Neuspešno Misijo in njegovim izplačilom, in da so igralci lahko odstranjeni ob kateremkoli času med igranjem. Izdelali smo prvo različico za rešitev za obe težavi, ki sledita tako:
-
-Prvič, včasih je bilo tako, da pri neuspešni misiji SPLOH ni bilo izplačila. Zdaj bo neuspešna misija vam izplačala 25% mineralov, ki so bili shranjeni v Molly od takrat, kadar se je misija končala.
-
-Drugič, odstranitev iz misije bo isto opredeljena kot neuspešna misije, kjer boste dobili izplačilo odvisno od koliko mineralov je bilo shranjeno v Molly od takrat, kadar ste se pridružili seji.
-
-Od zdaj naprej se ni več možno pridružiti ali biti odstranjeni iz ekipe, kadar se pokliče Spustna Kapsula in se je pričelo zadnje odštevanje. To je samo poskus in bomo nadzirali izid - in to je preprost popravek, zato to lahko hitro odstranimo, če bo potrebno.
-
-Ob tem je izredno pomembno razumeti, kako Končane Misije delujejo. Morda bi si mislili, da so nagrade razdeljene med preživelimi. To ni res. Mi izračunamo skupno število in potem vsak igralec dobi isto nagrado, neodvisno od velikosti ekipe. Na vrh tega, vsak preživeli igralec doda Bonus Preživetja, kar je bil tudi povečan. "Ne pusti dvorfa za sabo" bi moral biti etos tukaj - več igralec preživi, večji bo bonus za vse!
-
-
-Mi smo se odločili, da ne bomo dodali volilno odstranitev s to posodbitvijo, čeprav je par igralcev zaprosilo za to. Inplementacija bi trajala precej dolgo, in mi nismo popolnoma prepričani, da je to pravilna smer, v katero bi hodili. Ob tem rečeno, obstajajo dobri argumenti za in proti tej funkcionalnosti in bomo nadaljevali nadziranje te situacije. Isto gre za volilni gumb na Molly.
-
---- Bosco ---
-Opisano v sezamu popravkov, Bosco je dobil precej opazno izboljšavo, in njegova sposobnost ubijanja Jamskih Pijavk se bi morala izboljšati. Napisali smo "se bi morala", saj bo ta težava potrebovala več truda, da se popolnoma odstrani, ampak bi morala biti vsaj boljša izkušnja za vse od zdaj naprej.
-
---- Izmenjalne Karte ---
-Od tega nam je malo nerodno. Izgleda, da moraš ročno objavit Izmenjalne Karte, ko objaviš novo igro na Steam. Ups. Gobra novica je, da so zdaj implementirane in se lahko pridobijo!
-
-
---- Načrt ---
-Med tednom smo imeli veliki sestanek glede povratnih informacij v Ghost Ship pisarni. Zbrali smo vso povratno informacijo od vas igralcev, prav tako pa tudi od razvojne ekipe in od naših partnerjev. Obstaja TOLIKO zanimivih stvari, ki bi jih lahko in bomo naredili za razširitev Deep Rock Galactic. Trenutno imamo nalogo, katere bi bile dodane v igro, v katerem vrstnem redu, in načrtujemo prikazati večji in bolj razumljiv načrt za naslednjih par mesecev čež naslednjih par tednov.
-
---- Seznam Popravkov ---
-
-Končana Misija
-- Bonus Preživetja je podvojen iz 75 kreditov na 150 kreditov za vsakega preživelega igralca
-- Neuspešna misija zdaj izplača 25% nagrade, odvisna od zbranih mineralov
-
-Večigralske seje
-- Če boste odstranjeni, bo to zdaj prikazalo kot Neuspešna Misija, kjer boste dobili izplačilo odvisno od prispevka
-- Dodan novi zaslon in informacije za Odstranitev in Odstranjevanje
-- Ne morate se več pridružiti seju po tem, ko je bila poklicana Spursna Kapsula
-- Ne morate več odstraniti igralca po tem, ko je bila poklicana Spustna Kapsula
-- Spremenjeno besedilo na Misijski Mapi glede javnih/zasebnih zaslonov
-- Preoblikovano besedilo na filtru Seznama Strežnikov, da prikaže javne igre in igre z geslom
-- Dodan kvadkratek za Privatni Strežnik na glavni meni
-- Dodano nakazilo, da se igralec pridružuje na skupinski pregled
-
-Solo način
-- Bosco bi vas zdaj moral bolj dosledno rešiti, ko vas zagrabi Jamska Pijavka
-- Bosco se zdaj lahko tudi igra z velikimi lučmi. On poleti in potem lahko vidite več kot prej :)
-- Bosco zdaj ima znižanje prijateljskega ognja 0.2 namesto 1.0
-- Bosco deli 100% večjo škodo (iz 3 na 6)
-- Bosco dobi 250% večjo hitrost premikanja, ko mu date ukaz. Dodatno mu je bilo povečan pospešek iz 300 na 550
-
-Popravki Poklicov: Izboljšana orodja Vrtalca
-- Kapaciteta za gorivo na Plamenometalcu povečana iz 160 na 270 enot, ter vsak rezervoar drži 90 namesto 80 enot. To pomeni, da ima zdaj plamenometalec dovolj doriva za tri polna repetiranja namesto dva, ter vsak drži več goriva.
-- Plamenometalčev domet povečan iz 8.5m na 10m
-- Vrtalniki: Kapaciteta goriva povečana iz 30 na 35
-- Povečana hitrost hoje med vrtanjem za 10%
-- Fizična škoda z vrtalniki je bila PODVOJENO, medtem ko je bila škoda vsakega napada znižana iz 10 zdravja na 8 zdravja (da odškoduje za dvojno hitrost napadanja)
-- Nadgradnja za fizično škodo vrtalnikov: iz 5 zdravja na 4 (da odškoduje za dvojno hitrost napadanja)
-
-Začetni zaslon
-- Dodani zapiski popravkov (to besedilo) na začetni zaslon
-- Besedilo in gumb za Steam skupino se ne prikažeta več, ko je bila nadgrada že sprejeta
-
-Zvok, Učinki & Animacije
-- Nedejavne animacije na Pištoli in Revolverju (ki se tudi vklopijo, ko repetirate medtem, ko imate poln časopis)
-- Novi zvok za Pljuvalca in Zakladno Žuželko
-- Spremenili dim plamenometalca nazaj na črno... Prej je bil bel, in to je bila napaka... Zdaj ponovno zgleda super!
-
-Votline
-- Več oblik votlin je bilo dodanih v naključni generator
-- Večja naključnost glede že obstoječih oblik votlin
-- Nova naravna nevarnost - Lepljiva pajčjevina. Ne zataknite se na njej!
-
-Lokalizacija
-- Dodan izbor jezika na začetni zaslon
-- Hrvaščina, Japonščina, Finščina in Italijanščina je bila dodana
-- Vsi jeziki posodobljeni (kot po navadi, nove stvari zaostanejo, ki bodo prikazale angleščino)
-- Posodobljeni krediti za prevajalsko skupnost
-- Dodani manjkajoči simboli za Polski jezik
-- Nekateri gumbi z besedilom se niso pravilno posodobili, ko je bil izbran novi jezik.
-
-Raznovrstni Popravki
-- Modni izdelki se včasih niso pravilno prikazali na dvorfih v terminalih
-- Tipka '5' je zdaj ponovno na voljo, da se ji lahko nastavi druga funkcionalnost
-- Popravljeno sesutje igre, ko se pozno pridružiš medtem, ko se level konča
-- Popravek: ne morate več spreminjat besedilo namigov med nalaganjem!
-- Orodje za zemljevid se ni pravilno posodabljal, ko se je teren spremenil
 "
 	Update_16 = "Zdravo, Rudarji! Smo nazaj na sedlu po lepih poletnih počitnicah in smo spravili ven novo posodobitev za vas. Odgovorili smo tem vročem vremenu, ki ga imamo, z ledeniškim biomom. Mislili smo, da je to najbolj očitna stvar za dodati. A ne? 
 

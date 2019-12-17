@@ -1,8 +1,8 @@
-8085 entries
+8072 entries
 24 namespaces
-6470 values
+6471 values
 
-Namespace Global (7625 keys)
+Namespace Global (7612 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        réinitialiser        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Démarrage de la boîte noire. Nous perdrons la connexion si vous vous éloignez trop, alors essayez de pas quitter la zone de triangulation indiquée !"
 	2559D78C40005E5221F26093CB976283 = " Récupérez {Title}"
@@ -1239,9 +1239,11 @@ Personnage"
 	2274BA614EB4940BF90EE3A74A36BE8D = "Morceau de bismor"
 	DA2C95EB40DEB312E2B524A167B931B0 = "Pépite de Croppa"
 	C313694649041EB2576DACB6428E77EF = "Pépite de Dystrum"
+	BB4444EB4033BF184FBEB5AB362A5BBA = "Pépite de perle d'enor"
 	6A6BD74A4037AA4EFF1CA0A3333EA524 = "Pépite d’Or"
 	A70A66F94137B2FB6BCEC1AAC4067B77 = "Pépite d'Hollomite"
 	C65E009D4DC69DBEB49751B4C59B4696 = "Pépite de fer"
+	6B442782428F0147A51B46AD7409B5CB = "Pépite de Jadiz"
 	BABDA3154D51612BE7A9FE8E2CBD0CE2 = "Pépite de Magnite"
 	EE0ACD444EE7CF696D1245AA1A2488A2 = "Pépite de Morkite"
 	125A17F544091695DF06DE8C034DBBCC = "Morceau de Nitra"
@@ -4518,9 +4520,9 @@ maximale"
 	35BD4D194B4272C41487D1846A99EBB4 = "ERREUR RÉSEAU"
 	747D9D66462A834F081A129492AD4C34 = "NOUVELLES MISSIONS DANS"
 	47713A8F484B1902AFE2D79C9BEDE9ED = "NOUVELLE ZONE PLANÉTAIRE"
-	DEB6A28C43F45AA57083108C27C61A30 = "NOUVELLE ZONE PLANÉTAIRE"
+	4B7D6FE040AA53493E4233ACC9D44725 = "NOUVELLE ZONE PLANÉTAIRE"
 	29AFDACB49D3FC658DE1438119224810 = "NOUVEAU {Type}:"
-	B6320AD1453B5B7D4C6ECF92BAC1504C = "NOUVEAU {mission} COMPLEXITÉ"
+	B6320AD1453B5B7D4C6ECF92BAC1504C = "NOUVELLE COMPLEXITÉ DE {mission}"
 	C847D18F4BB605CE3D7162B04B2A3A0F = "NOUVEAU {mission} COMPLEXITÉ"
 	44503DBB45E06EA0CCD286877C839C74 = "NOUVEAU {mission} LONGUEUR"
 	E975A12C4D1A4A2869B9C99561AE8608 = "NOUVEAU {mission} LONGUEUR"
@@ -5154,6 +5156,7 @@ Difficulté"
 	0E2AE04B4F991DAD6B59FFAE01DAEDD8 = "Pilote"
 	17854F534E086F5BEE4C4090AF6B7738 = "Précision parfaite au premier coup."
 	225CF0104F908812E8ECD382B4E16749 = "Ping {ping}, Montant {InRate} KB/s, Descendant {OutRate} KB/s"
+	36E20195437ADF880BBEAF9EA795D06C = "Cristal rose"
 	6F74A43C47DF738B85E92E91EC833A23 = "Cristal rose"
 	A42E36984252D484303E988DF786E440 = "Cristal rose"
 	E05357214AF20D0CE246CAA37A93B980 = "Cristal Rose"
@@ -5511,22 +5514,6 @@ Pioche"
 	60ADBB7842274CC2FF2123A1AA261627 = "Relâchez le bouton de tir pour inverser le mouvement du projectile "
 	276A92D24D775A65E0A31E9E355B4F74 = "Libère un nuage de toxines à action lente conçues pour affecter exclusivement la vie des autochtones d'Hoxxes IV. ATTENTION : HAUTEMENT INFLAMMABLE !"
 	460EE6CC4575840CB47DB7908F873C47 = "Libération des barres refroidissantes..."
-	3173F0354313AB7005D604B9A5759BB2 = "Relique"
-	3360F00149C02930325D318D0849D539 = "Relique"
-	5D8DDCBF4B9FEF7123C2818BD97D1B47 = "Relique"
-	5F1F0BA2497EA9C7421F79913781B9A9 = "Relique"
-	6121BBEE4C2EDDD30B59D4B8B333A8D5 = "Relique"
-	6ED4F60A4E2C25C5A07F6DB329F9FE49 = "Relique"
-	7370610E471AF92C1194969992705971 = "Relique"
-	8004195A46D23A24BAD43583E16CB1C3 = "Relique"
-	AE51EA6340DF161680F3339C1FB55DC9 = "Relique"
-	BC0D31C349D0E88CD0B9E1866EAC097A = "Relique"
-	C4E6504D4ED1ECE76210AFB295B42E6F = "Relique"
-	CF0A1111494E89722870EAB664326761 = "Relique"
-	D656BFA14A744ACB56707E9458569B05 = "Relique"
-	D717C19046A555BF342649994BE646E9 = "Relique"
-	EC8A091C4DE95470AD96AAAAD51DC788 = "Relique"
-	EF84ABE94A930C85764C639B3D044160 = "Relique"
 	D839B03B4D5E2B3B651B6AB64FEB6A67 = "Détente"
 	CDCEC88042CF9A3B9409D184848D81A0 = "Recharger"
 	E5C7F9CF464A7ECC8596DCAABB89552D = "Rechargement des munitions par seconde"
@@ -5765,6 +5752,7 @@ MISSION"
 	8927FE8C4A4565EE6285EBB5E478ECC2 = "Tristesse"
 	6F5F20634FA74304BB622B986091C8C8 = "Adaptée au travail"
 	0B2F803C49D4B80FDE0012A0ACAA818B = "La sécurité d'abord"
+	0F46D7934D2CCC88C01B4787DA35508F = "Cristal de sel"
 	86E75D32499410F03762EF98F5F05C0A = "Cristal de sel"
 	B096D3C741DF041CBB577CA293D87318 = "Cristal de sel"
 	EB00C35A43161D5342F909BAC8D8A7B1 = "Cristal de sel"
@@ -6391,7 +6379,6 @@ DES MISSION"
 	16A0DBA848E50883309F0D985A0B8B41 = "Abattez ce gardien ! Il protège la meute !"
 	11BBF9744B95BBE028D58DB779AEF6B0 = "Faites attention !"
 	BB17A4474B84B42F1103F5B23FFE45DE = "Subissez beaucoup moins de dégâts quand l'arme atteint la cadence de tir maximale."
-	59B8F9854B423DE29B56538892C51D0E = "Répondez au sondage !"
 	C73025114FA5E25D51527D8F4131047E = "Prends ça !"
 	368A995F46511270BCFBC3AE9A70F07C = "Prenez le mode concentré du M1000 et poussez le au maximum en refroidissant les munitions avant de tirer pour améliorer leur accélération à travers les bobines. Mais le liquide refroidissant supplémentaire dans les chargeurs limite le nombre maximal de munitions que vous pouvez emmener."
 	B89200484E7467C7B40E858EFADFAB05 = "Décollage !"
@@ -7914,7 +7901,7 @@ Namespace OC_BonusAndDrawbackLines (56 keys)
 	Pen_RecoilMedium = "Recul plus puissant"
 	Pen_OverheatFaster = "L'arme surchauffe plus vite"
 
-Namespace PatchNotes (62 keys)
+Namespace PatchNotes (61 keys)
 	Update_23 = "Très bien, mineurs - rassemblez-vous et fermez-la!
 
 Il semble que Hoxxes nous réserve encore de nombreuses surprises - au cours des derniers mois, les scanners ont détecté une série de nouveaux signes inquiétants. Nous nous attendons à ce que vous fassiez tous face à une plus grande variété d'animaux sauvages dans les grottes, alors DOUBLE VÉRIFICATION DE VOS ÉQUIPEMENT et apportez TOUTES LES GRENADES QUE VOUS POUVEZ PORTER. DRG n'engage pas des lache, alors allez-y, et atteignons ces quotas!!
@@ -8328,97 +8315,6 @@ CORRECTIONS ET AMÉLIORATIONS
 - Correction des geysers de lave qui restent après la destruction
 - Animation des coups ajoutée aux personnages en troisième personne. Mettre des coup dans les barils n'a jamais été aussi réaliste !
 - Le nouveau centre de contrôle parle des missions relatives aux armes et aux promotions.
-"
-	Update_9 = "Bonjour Mineurs!
-
-Deep Rock Galactic est maintenant sorti depuis une semaine. Nous avons fini de fêter cette sortie géniale (ouais !) et nous travaillons avec acharnement sur les mises à jour. Dans le jeu, il y a un bouton pratique pour nous envoyer vos retours, un grand merci aux milliers d'entre vous qui s'en sont servis. C'est d'une très grande aide. En dessous est écrit ce qui concerne la mise à jour.
-
---- Amélioration du foreur ---
-Le Foreur est sans doute la classe la plus unique dans Deep Rock Galactic, nous étions triste de voir que notre cher bulldoforeur était moins utilisé que les trois autres classes. Par conséquent nous avons réajusté son lance-flammes et ses foreuses. Dans la note détaillée de mise à jour, vous pourrez voir les changements exacts, ce qui pourrait aussi vous indiquer comment utiliser le foreur au mieux.
-
---- Butin pour les missions échouées & Expulsion ---
-Deux soucis sont apparus rapidement : une frustration quant à la manière dont le butin des missions échouées était géré, et le fait que les joueurs pouvaient être expulsés de la partie à n'importe quel moment. Nous avons fait une première modification pour apporter une solution à ces problèmes :
-
-Premièrement, quand on échouait une mission, on ne recevait AUCUNE compensation. Maintenant, en cas d'échec vous aurez une compensation de 25% des minéraux stockés dans Molly au moment où la mission se termine. 
-
-Deuxièmement, se faire expulser d'une équipe vous fera obtenir une "mission échouée", vous obtiendrez alors une compensation basée sur ce qui a été déposé dans Molly depuis que vous avez rejoint cette session. 
-
-Il est maintenant impossible de rejoindre ou de se faire expulser d'une équipe une fois que la capsule d'évacuation a été appelée et que le compte à rebours final a commencé. C'est un essai pour le moment et nous surveillerons les retours - c'est une modification légère qui sera facilement modifiable si besoin est.
-
-De plus, il est extrêmement important de comprendre comment fonctionne une mission accomplie. Vous pourriez penser que le butin est partagé entre les survivants. Ce n'est pas le cas. Nous calculons le total et chaque joueur dans la session obtient cette récompense, identique, qui ne tient pas compte de la taille de l'équipe. En plus, chaque joueur survivant ajoute un bonus de survivant, qui a lui aussi augmenté. “On ne laisse aucun nain derrière” devrait être le maître mot ici - plus de joueurs s'en tirent en vie,  plus grand est le bonus pour tout le monde !
-
-
-Nous avons choisi de ne pas implémenter l'expulsion par vote dans cette mise à jour, malgré la demande de certains joueurs . C'est assez long à implémenter, et nous ne sommes pas complètement convaincus que c'est la bonne direction à suivre. Ceci dit, il y a de bons arguments à la fois pour et contre ce système, et nous allons continuer d'y réfléchir. Il en va de même pour un bouton de vote sur Molly. 
-
---- Bosco ---
-En détails dans les notes du patch en dessous, Bosco a reçu une grosse amélioration, et sa capacité à tuer les sangsues devait être améliorée. Nous écrivons “devrait” car il va falloir plus de travail pour régler complètement le soucis, mais cela devrait quand même être une meilleure expérience à présent.
-
---- Cartes à échanger ---
-C'est un peu gênant. Il s'avère qu'il est nécessaire de publier manuellement les cartes à échanger quand on publie un jeu sur Steam. Oups. La bonne nouvelle c'est qu'elles sont maintenant implémentées et attendent d'être collectées !
-
-
---- Carte du développement---
-En milieu de semaine nous avons eu une grosse réunion concernant les retours ici, au bureau de Ghost Ship. Nous avons rassemblé tous vos retours, à vous les joueurs, ainsi que celui des développeurs et de nos partenaires. Il y a ÉNORMÉMENT de choses super que nous pouvons faire et que nous ferons pour agrandir Deep Rock Galactic. La tâche du moment est de savoir lesquelles mettre dans le jeu et dans quel ordre, et nous prévoyons de sortir une carte du développement plus grande et plus compréhensible pour les mois à venir, d'ici quelques semaines. 
-
----Détails du patch---
-
-Fin de la mission
-- Le bonus de survie est doublé de 75 crédits à 150 crédits par joueur survivant.
-- Une mission échouée donne maintenant une compensation de 25% basée sur les minéraux collectés.
-
-Sessions Co-op
-- Se faire expulser entraîne maintenant une mission échouée, avec une compensation basée sur la contribution.
-- Ajout de nouvelles informations relatives à l'expulsion et à se faire expulser.
-- Il est maintenant impossible de rejoindre une session après que la capsule d'évacuation ait été appelée.
-- Il est maintenant impossible d'expulser un joueur d'une session après que la capsule d'évacuation ait été appelée.
-- Modification du texte sur la carte des missions selon le flux privé/public.
-- La liste des serveurs a été retravaillée pour afficher les serveurs ouverts et ceux avec mot de passe.
-- Ajout d'une option serveur privé dans le menu échappe.
-- Ajout d'un indicateur pour l'équipe quand un joueur rejoint la partie.
-
-Mode Solo
-- Bosco devrait à présent mieux vous sauver des sangsues de grottes.
-- Bosco a maintenant accès à de plus gros projecteurs. Quand il s'y met, vous pourrez bien mieux voir qu'auparavant :).
-- Bosco a maintenant une réduction du feu ami d'une valeur 0.2 au lieu de 1.
-- Bosco inflige deux fois plus de dégâts (doublé de 3 à 6).
-- Bosco a maintenant une accélération de 250% quand vous lui donnez un ordre. Augmente également son accélération de 300 à 550.
-
-Équilibrage des classes : Amélioration des outils du Foreur.
-- La capacité en carburant du lance-flammes est augmentée de 160 à 270 unités, et chaque réservoir contient 90 au lieu de 80 unités. Cela signifie que le lance-flammes a maintenant assez de carburant pour trois recharges complètes au lieu de deux, et chacune contient plus de carburant.
-- Portée du lance-flammes augmentée de 8.5m à 10 m.
-- Foreuses : Carburant augmenté de 30 à 35.
-- Augmentation de la vitesse de déplacement pendant le forage de 10 %.
-- Dégâts de mêlée avec les foreuses : vitesse d'attaque DOUBLÉE, et les dommages infligés ont été abaissés de 10 à 8 (pour compenser la vitesse d'attaque doublée).
-- Mise à jour des dégâts en mêlée des foreuses : 5 à 4 (pour compenser la vitesse d'attaque doublée).
-
-Écran d'introduction
-- Ajout des notes de mises à jour (ce texte) sur l'écran d'informations.
-- Le texte & le bouton du groupe Steam n'apparaissent plus quand la récompense à déjà été obtenue.
-
-Sons, Effets & Animations
-- Animation d'inactivité pour le pistolet et le revolver (se déclenche également quand on recharge avec le plein de munitions).
-- Nouveau son pour le cracheur et la larve.
-- Modification de la fumée du lance-flammes pour du noir... Elle était blanche, et c'était une erreur... Maintenant elle en jette de nouveau !
-
-Grottes
-- Plus de formes de grottes ajoutées à la génération aléatoire.
-- Plus d'aléas dans les formes existantes des grottes.
-- Nouveau danger environnemental : toile collante. Ne vous faîtes pas prendre !
-
-Localisation
-- Ajout de la sélection de la langue sur l'écran d'information.
-- Croate, Finnois, Italien et Japonnais ajoutés.
-- Mise à jour de toutes les langues (comme d'habitude les nouveaux ajouts qui sont en attente de traduction seront affichés en anglais)
-- Mises à jour des crédits avec les nouveaux traducteurs de la communauté.
-- Rajout des caractères de police manquants en Polonais.
-- Correction de certains boutons qui ne se mettaient pas à jour après un changement de langue.
-
-Mises à jour diverses
--  Correction des cosmétiques qui n'apparaissaient pas sur les nains dans les terminaux.
-- La touche '5' est maintenant modifiable dans la ré-assignation des touches.
-- Correction d'un plantage si on rejoignait la partie juste à la fin du niveau.
-- Correction du texte de l'écran de chargement, on ne peut plus l'éditer pendant le chargement ! 
-- Correction de la carte qui ne se mettait pas toujours à jour quand le terrain changeait.
 "
 	Update_26 = "Salutation mineurs!
 La mise à jour n°26 est là ! Dans cette deuxième partie du contenu "Endgame", nous avons ajouté un tout nouveau système d'événements à rencontrer lors de missions normales, une refonte nécessaire et l'expansion du Bar, toutes les nouvelles poses de victoire, des skins pour Bosco et vos armes, ainsi qu'une tonne de corrections de bugs mineurs, de changements et d'améliorations. Au travail !
@@ -10905,7 +10801,7 @@ Namespace StatValues (63 keys)
 Namespace Techincal (1 keys)
 	ClosedAlpha = "Alpha fermée"
 
-Namespace UI (75 keys)
+Namespace UI (76 keys)
 	Minigun_Name = ""Lead Storm" Minigun Alimenté"
 	SMG_Name = ""Stubby" Voltaïque SMG"
 	AutoCannon_Name = "Canon lourd automatique "Thunderhead""
@@ -10939,6 +10835,7 @@ Le fait de terminer cette courte formation le certifiera et permet de déverroui
 	ChargeBlaster_Name = "Chargeur à plasma expérimental"
 	Failure = "ÉCHEC"
 	DefaultStriped_NAME = "Première bande"
+	Relic_NAME = "Quatrième relique"
 	GlobalSkin_1_NAME = "Skin Global 1"
 	Hazard = "Danger"
 	HazardLevel = "Niveau de danger"

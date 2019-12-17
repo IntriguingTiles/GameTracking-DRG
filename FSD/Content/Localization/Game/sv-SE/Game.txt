@@ -1,8 +1,8 @@
-4938 entries
+4923 entries
 19 namespaces
-3863 values
+3860 values
 
-Namespace Global (4747 keys)
+Namespace Global (4733 keys)
 	3E2E82954782E77A2F596AB7FEA09136 = " Jag föll!"
 	31D60A1449082F9AB6DC15844F3810F6 = " KRÄVS"
 	2660CB0147BB176C7BED4CA8F8D87563 = ""En dvärg ser längre ståendes på Jättarnas axlar!""
@@ -3437,19 +3437,6 @@ ANSLUTNING"
 	EF85D40F433CDB5FC77513BA4ECAD05E = "Nekad!"
 	D7DAD84C4E69B1522E36958B034EFA11 = "L-Yx-Behandling!"
 	276A92D24D775A65E0A31E9E355B4F74 = "Släpper ut ett moln av sakta fungerande gifter designade att speciellt påverka liv fött på Hoxxes IV. VARNING: VÄLDIGT BRANDFARLIGT!"
-	3173F0354313AB7005D604B9A5759BB2 = "Relik"
-	3360F00149C02930325D318D0849D539 = "Relik"
-	5D8DDCBF4B9FEF7123C2818BD97D1B47 = "Relik"
-	6121BBEE4C2EDDD30B59D4B8B333A8D5 = "Relik"
-	6ED4F60A4E2C25C5A07F6DB329F9FE49 = "Relik"
-	7370610E471AF92C1194969992705971 = "Relik"
-	8004195A46D23A24BAD43583E16CB1C3 = "Relik"
-	AE51EA6340DF161680F3339C1FB55DC9 = "Relik"
-	BC0D31C349D0E88CD0B9E1866EAC097A = "Relik"
-	C4E6504D4ED1ECE76210AFB295B42E6F = "Relik"
-	CF0A1111494E89722870EAB664326761 = "Relik"
-	D656BFA14A744ACB56707E9458569B05 = "Relik"
-	EC8A091C4DE95470AD96AAAAD51DC788 = "Relik"
 	CDCEC88042CF9A3B9409D184848D81A0 = "Ladda om"
 	47A800B348C8CECFDC057F8805E35316 = "Omladdningseffekt"
 	682D13CF436099F0AD10D7AA8728DE79 = "Omladdningshastighet"
@@ -4008,7 +3995,6 @@ DROP BAY"
 	0D673C0B4DA57AB638B9C0BE47F3AA51 = "Ta kål på den där Mactera Grabbern!"
 	16A0DBA848E50883309F0D985A0B8B41 = "Slå ut den där Väktaren! Den skyddar flocken!"
 	11BBF9744B95BBE028D58DB779AEF6B0 = "Var försiktiga!"
-	59B8F9854B423DE29B56538892C51D0E = "Svara på en undersökning!"
 	C73025114FA5E25D51527D8F4131047E = "Känn på den!"
 	B89200484E7467C7B40E858EFADFAB05 = "Avfärd!"
 	03861D8B40B73AA32B45BF8325758837 = "Tar mindre tid att bygga en vaktpost."
@@ -4821,7 +4807,7 @@ Namespace OC_BonusAndDrawbackLines (7 keys)
 	Bon_AmmoMedium = "Mer ammo"
 	Bon_NumPelletsMedium = "Mer hagel i varje hylsa"
 
-Namespace PatchNotes (33 keys)
+Namespace PatchNotes (32 keys)
 	Update_23 = "Okej gruvarbetare, samling och håll snattran!
 
 Det verkar som att gamla Hoxxes fortfarande har många överraskningar åt oss - sedan en månad tillbaka har våra skanners börjat notera ett gäng nya och oroväckande tecken på liv. Vi förväntar oss att ni kommer att möta en mycket mer varierad mängd "naturliv" nere i grottorna så DUBBELKOLLA ER UTRUSNING och TA MED SÅ MÅNGA GRANATER NI KAN BÄRA. DRG är inget företag för spetsörade fegisar, så det är bara att bita ihop, vi har kvoter att möta upp.
@@ -5232,97 +5218,6 @@ FIXES AND IMPROVEMENTS
 - Fix Air and Lava geyser bubbling sound staying around after getting destroyed
 - Kick animation added to third person characters. Barrel kicking has never been more realistic!
 - New Mission Control speaks for weapon and promotion assignments. 
-"
-	Update_9 = "Hej gruvarbetare!
-
-Deep Rock Galactic har varit ute i det vilda i en vecka. Vi har slutat fira vårt grymma släpp (yeah!) och nu arbetar vi med att få ut nya uppdateringar. I spelet har vi en fin feedback-knapp och tack till alla tusentals av er som redan har använt den. Det är till stor hjälp. Nedan kan ni se vad som är med i den här uppdateringen.
-
---- Driller Buffs ---
-The Driller is probably the most unique class in Deep Rock Galactic, so we were sad to see our iconic drilldozer valued below the other three classes in usefulness. Therefore, we have tweaked both his Flamethrower and Drills. In the detailed patch notes below, you can see the exact stat changes, which might also give you some hints on how to better utilize the Driller.
-
---- Payout on Mission Failed & Kicking ---
-Two issues pretty quickly started to show themselves: Dissatisfaction with the way we’ve handled a Mission Failed scenario in regards to payout, and the fact that players could be kicked from the team at any given time. We’ve worked out a first pass on a solution for both these, as listed below:
-
-Firstly, it used to be that failing a mission meant NO payout at all. Now, failing a mission will give you a compensation of 25% of the minerals stored in Molly at the time of the mission ending. 
-
-Secondly, getting Kicked from a team will result in a Mission Failed case, where you will receive compensation based on what was added to Molly since you joined that session. 
-
-It is now no longer possible to Join or being Kicked from a team once the Drop Pod has been called and the final countdown has begun. This is a test for now and we’ll monitor the outcome - and it’s a pretty easy fix, so we can quickly backpedal if needed.
-
-Also, it is extremely important to understand how Mission Complete works. You might think that the rewards are split out between survivors. They are not. We calculate the total and then each player in the session gets that same reward, regardless of the size of the team. On top of this, each surviving player adds a Survivor Bonus, which has been boosted also. “Leave No Dwarf Behind” should be the ethos here - the more players manage to get out alive, the greater the bonus for all involved!
-
-
-We have elected not to implement vote-kicking with this update, despite some players asking for it. It’s a fair bit of work to implement, and we are not completely convinced it is the way to go at this point. That said, there are good arguments both for and against this feature, and we will continue to monitor the situation. The same goes for a vote button on Molly. 
-
---- Bosco ---
-Detailed in the patch notes below, Bosco has received a fairly significant buff, and his ability to kill Cave Leeches should have been improved. We write “should” since this issue will need further work to squash fully, but it should at least be a better experience all round now.
-
---- Trading Cards ---
-This one is a bit embarrassing. Turns out you have to manually have to publish the Trading Cards when you launch a new game on Steam. Whoops. The good news is that they are implemented now and await harvesting!
-
-
---- Roadmap ---
-Midweek, we had a big feedback meeting here at the Ghost Ship office. We’ve gathered all the feedback from you, the players, as well as feedback from the dev team and our partners. There are SO MANY cool things we can and will do to expand Deep Rock Galactic. Task for now is to choose which ones go in the game, and in which order, and we plan to reveal a greater and more comprehensive road map for the coming months over the next few weeks. 
-
---- Patch Notes ---
-
-Mission End
-- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
-- Mission Failed now gives a 25% compensation reward based on minerals collected
-
-Co-op sessions
-- Getting kicked now results in Mission Failed, compensation based on contribution
-- Added a new flow and info for Kicking and getting Kicked
-- You can no longer Join a session after Drop Pod has been called
-- You can no longer Kick a player from a session after Drop Pod has been called
-- Tweaked text on Mission Map in regards to new public/ private flow
-- Reworded Server List filter to Show Open and Show Password Servers
-- Add Private Server checkbox in escape menu
-- Added indicator for a joining player to team view 
-
-Solo mode
-- Bosco should now save you from the cave leeches more consistently
-- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
-- Bosco now has friendly fire reduction 0.2 instead of 1
-- Bosco Deals 100 % more damage (doubled from 3 to 6)
-- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
-
-Class Balance: Buffed the Driller’s tools
-- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
-- Flamethrower Range upped from 8.5m to 10 m
-- Power Drills: Fuel upped from 30 to 35
-- Increased walk speed while drilling with 10 %
-- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
-- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
-
-Intro screen
-- Added patch notes (this text) to Intro screen
-- Text & Button for Steam group no longer shown when rewards have already been claimed
-
-Sound, Effects & Animations
-- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
-- New Spitballer sound and Maggot sound
-- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
-
-Caves
-- More cave shapes added to the random generator.
-- More randomness on existing cave shapes.
-- New sticky web environmental hazard. Don't get caught!
-
-Localization
-- Added language selection to Intro screen
-- Croatian, Finnish, Italian and Japanese added
-- All languages updated (as usual new features lagging behind, will show English)
-- Updated community translator credits
-- Added missing characters for Polish language.
-- Some buttons with text did not correctly update after a new language was selected.  
-
-Misc Fixes
-- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
-- Key '5' is now available for custom key bindings
-- Fix Late Join crash if joining right when the level ends. 
-- Fixed: you can no longer edit the Hint text while loading! 
-- Maptool not updating correctly when terrain changes
 "
 	Update_21 = "Hej gruvarbetare!
 Med den här uppdateringen introducerar vi fler galna utmaningar, en ny DÖDLIG svårighetsnivå för er att bemästra, flera nya fiender, Bemästrande och Utseende-system för vapen och en gaziljon andra fixar och förbättringar.
