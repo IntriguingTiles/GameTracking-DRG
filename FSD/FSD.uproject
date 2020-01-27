@@ -215,17 +215,25 @@
 			"Name": "Niagara",
 			"Enabled": true
 		},
-    {
-      "Name": "FSDMixer",
-      "Enabled": true
-    },
-    {
-      "Name": "OnlineSubsystemOddish",
-      "Enabled": false
-    },
-    {
-      "Name": "PlatformSubsystemOddish",
-      "Enabled": false
-    }
+		{
+			"Name": "FSDMixer",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemOddish",
+			"Enabled": false
+		},
+		{
+			"Name": "PlatformSubsystemOddish",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemPFP",
+			"Enabled": false
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		}
 	]
 }
