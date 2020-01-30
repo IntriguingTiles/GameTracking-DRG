@@ -1,6 +1,6 @@
-5145 entries
-16 namespaces
-4086 values
+5162 entries
+18 namespaces
+4103 values
 
 Namespace Global (4841 keys)
 	3E2E82954782E77A2F596AB7FEA09136 = " Elestem!"
@@ -1480,8 +1480,8 @@ Vezetőség"
 	43AFE4104C30D953BECF9BAF476972C3 = "Öszpontosított tűz!"
 	603FF67E4A43DE2BFE6AA8BA238C7979 = "Öszpontosított tűz!"
 	40F6C512426A8B130293E691960FF42E = "Összepontosított tűz erre az ellenségre!"
-	771A766446F48A188B85209E3942CC69 = "Öszpontosított Lövés"
-	DDBD1DCA4CB1A62FCA2B219874B5C72E = "Az Öszpontosított Lövés megszédíti a célpontot"
+	771A766446F48A188B85209E3942CC69 = "Összpontosított Lövés"
+	DDBD1DCA4CB1A62FCA2B219874B5C72E = "Az Összpontosított Lövés megszédíti a célpontot"
 	4B052848402DA216E4EF87AFB1F30BC6 = "Kövessük Mollyt!"
 	2CCA85A6469C23FC700D6C968A8CCBB8 = "Bosco, utánam!"
 	ACC9035642D555FBCFA68CBCFA1CD91C = "Kövessetek!"
@@ -1938,7 +1938,7 @@ Nitra (100)"
 	2E276464485F0D3A58F21DBC6C4CF88E = "Találatok"
 	4D83D4084B1D1A3913009CB9AD3F70B6 = "Ott üt ahol a legjobban fáj"
 	587AE6334CC50073827A1C93B6FD105F = "Tartsd lenyomva [Fire]"
-	955A5D9947B072265AC616801252F69A = "Tartsd nyomva a [Fire] gombot egy Öszpontosított Lövésre"
+	955A5D9947B072265AC616801252F69A = "Tartsd nyomva a [Fire] gombot egy Összpontosított Lövésre"
 	5E1D5BA546EAE95ECC6D5788F57E902C = "Tartsd lenyomva [Flare]"
 	DE4D6AAB448AE6CF744DC796AE112689 = "Utasítsd Boscot rakétacsapásra a [Laserpointer] lenyomásával"
 	58CCF54F44BB986B669FBCB984CE2CA9 = "Tartsd lenyomva a [Laserpointer] gommbot hogy átvizsgáld a bányajáratokat"
@@ -4973,6 +4973,22 @@ Namespace MutatorDescriptions (17 keys)
 	W_NoShields_Desc = "teszt"
 	W_RegenerativeEnemies_Desc = "teszt"
 
+Namespace OC_BonusAndDrawbackLines (14 keys)
+	Pen_FocusShotDamage = "Csökkentett öszpontosíttott lövés sebzés bónusz"
+	Pen_FuelTankCapacity = "Csökkentett tartály kapacitás"
+	Pen_NumPelletsMedium = "Kevesebb sörét minden hüvelyben"
+	Pen_ReloadTimeMedium = "Lassabb újratöltés"
+	Pen_DamageMedium = "Alacsonyabb sebzés"
+	Pen_RecoilHuge = "Hatalmas visszarúgás"
+	Pen_Reach = "Rövidebb működési táv"
+	Pen_DamageBig = "Jelentős sebzés csökkenés"
+	Pen_DirectDamage = "Jelentősen kisebb közvetlen sebzés"
+	Pen_MovementSpeed = "Lassabb mozgási sebesség lövés közben"
+	Pen_RoFMedium = "Lassabb tűzgyorsaság"
+	Pen_DamageSmall = "Kis sebzés csökkenés"
+	Pen_RecoilMedium = "Erősebb visszarúgás"
+	Pen_OverheatFaster = "Gyorsabb túlhevülés"
+
 Namespace PatchNotes (33 keys)
 	Update_20.1_ShortTitle = "NAGYOBB, JOBB, BOSCO"
 	Update_20_ShortTitle = "NAGYOBB, JOBB, BOSCO"
@@ -5030,6 +5046,10 @@ Namespace Resistances (4 keys)
 	Fire = "Tűzellenállás"
 	Poison = "Méregellenállás"
 
+Namespace Skins (2 keys)
+	Electric = "Egyéni Tervezésű"
+	Mech = "Mechanizált"
+
 Namespace ST_BrewingIngredients (9 keys)
 	Barley1 = "Árpa Hagyma"
 	Barley1Plural = "Árpa Hagymák"
@@ -5041,7 +5061,7 @@ Namespace ST_BrewingIngredients (9 keys)
 	Barley2 = "Élesztő Toboz"
 	Barley2Plural = "Élesztő Tobzok"
 
-Namespace ST_GearUpgrades (60 keys)
+Namespace ST_GearUpgrades (61 keys)
 	Headwear_Beret = "Szolgálatod emlékeztetője."
 	T_Pickaxe_PA_Cooldown = "Jobb súlyelosztás"
 	T_MineralCapacity = "Nagyobb Ásványzsák"
@@ -5070,6 +5090,7 @@ Namespace ST_GearUpgrades (60 keys)
 	D_LoadedShells = "Kreatívnak kellett lennünk, de végre kitaláltuk hogyan tegyünk több sörétet minden egyes hüvelybe. Csak...légy óvatos, hajlamosak kikapni a szemed."
 	T_StrongerShield = "Nagyobb kondenzátorok"
 	D_MoreHealth = "Max életerő növekedett."
+	D_RandomDamage = "Átlagosan több sebzés de egy kicsit következetlen."
 	T_StrongerShield2 = "Túltöltő"
 	T_Pickaxe_PowerAttack = "Erőtámadás"
 	D_Pickaxe_PA_Radius = "Az Erőtámadás nagyobb területre hat."
@@ -5126,8 +5147,8 @@ Namespace StatValues (55 keys)
 	FearFactor = "Félelem faktor"
 	FlareDuration = "Jelzőfény Időtartama"
 	FocusSpeed = "Öszpontosítási Idő"
-	FocusedShotDamageBonus = "Öszpontosított Lövés Sebzés Bónusz"
-	FocusedShotStaggerChance = "Öszpontosított Lövés Bénítás Esély"
+	FocusedShotDamageBonus = "Összpontosított Lövés Sebzés Bónusz"
+	FocusedShotStaggerChance = "Összpontosított Lövés Bénítás Esély"
 	FuseTime = "Gyújtó"
 	Health = "Életerő"
 	HeatupRateModifier = "Hőtermelés"

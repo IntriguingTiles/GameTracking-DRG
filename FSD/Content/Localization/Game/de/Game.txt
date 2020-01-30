@@ -1,8 +1,8 @@
-8066 entries
+8072 entries
 26 namespaces
-6457 values
+6465 values
 
-Namespace Global (7581 keys)
+Namespace Global (7582 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        zurücksetzen        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Blackbox startet und ist bereit. Wir verlieren die Verbindung wenn ihr nicht nah dran bleibt, also verlasst nicht die markierte Triangulationszone!"
 	2559D78C40005E5221F26093CB976283 = " Sammelt {Title}"
@@ -111,7 +111,7 @@ Während der Datensammlung anonymisieren wir deine IP und wir behalten nur eine 
 	E7421F294010B3B1D014D9AE9E4EF55B = ""Mit einem kleinen Team kann man große Dinge machen!""
 	5E622BC54D68C4D38DAA71B3471B58BB = "% In Feuer konvertiert"
 	B94485674FAA715806DF9A99E2F7BFE1 = "'Höhlenegel-Nest!' Warnungen abgeschlossen"
-	ADB2DBC740B7437648BAB1982D55F2D8 = ""Explodierer Befall" Warnungen abgeschlossen"
+	ADB2DBC740B7437648BAB1982D55F2D8 = ""Sprenger-Plage"-Warnungen abgeschlossen"
 	2D86B84447DF9721937B3887CC38B047 = "'Geisterhöhle' Warnungen abgeschlossen"
 	F016756B40412366200E4F811229E68B = "'Tödliche Gegner' Warnungen erledigt"
 	6E90983C48336910B89105A7DAD194F2 = "'Sauerstoffmangel' Warnungen abgeschlossen"
@@ -144,7 +144,7 @@ Allgemein"
 	671C07F24483E1E1F01C249A7B7C6C3B = "(P) Poweruser Modus"
 	C3C678454400B1BFB5D336A7E904BDC6 = "(R) Charakter neuladen"
 	79C854AD4881276E9A57FEB5109ED8AA = "(singt) Einschienenbahn, Einschienenbahn, Einschienenbahn!"
-	6C45AFD644F1BD03FFB094AC99E133F9 = "(flüsternd) Kann ich ein Blattliebhaber-Spezial haben?"
+	6C45AFD644F1BD03FFB094AC99E133F9 = "(flüsternd) Kann ich ein Leaf Lovers-Spezial haben?"
 	1B315FD042F69E6FEFF72BA7F39D5C01 = "* Alle Konten müssen vor der Beförderung mit DRG abgerechnet werden. Dies umfasst den Raum und die Verpflegung, den Verschleiß der Ausrüstung, die beschädigten Eigentümer von DRG sowie alles weitere, was du in der Bar angestellt hast. DRG ist schließlich keine Wohltätigkeitsorganisation."
 	9AAEE08740108161885DFAB73E240B7A = "*Gähn*...Ich könnte etwas Ruhe gebrauchen!"
 	423B14B54F3FD859EBD459ACDB32E0B9 = "*zerquetscht Nitra für mehr Saft*"
@@ -204,7 +204,7 @@ Allgemein"
 	1EA23435475E25C305E21581CFFA65CF = "- KEINE RESSOURCEN -"
 	A527354A4D6F6C17F98234B0C5D71123 = "- Keine Daten verfügbar -"
 	4587C8874C4D0E02BADC87A4CC3DB758 = "- Keine Mission ausgewählt -"
-	5E13AC564F116A8F6E888B9F611EB113 = "- Scanner außerhalb der Reichweite -"
+	5E13AC564F116A8F6E888B9F611EB113 = "- Scanner außer Reichweite -"
 	8275052142115DF3E33B5AAE2E040BBA = "----- MISSIONSSTATUS -----"
 	C154ACB2456607A2A049E492A7646C13 = "----- MISSIONSSTATUS -----"
 	58FE7FE743CD7C6F4393BB9ACFEE5177 = "-0,5 SPS Feuerrate"
@@ -223,7 +223,6 @@ Allgemein"
 	87F424944AEA4F4FBCFB6499FC873EEB = "...Hoffentlich hat meine Rüstung Rostschutz!"
 	9AF512714BB0301FF035358F1FD28568 = "...Das war vielleicht ein bisschen mehr, als wir stemmen können! "
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "// GELÄNDESCANNER MK3 \\"
-	7B2076844D80C85AAB1B9AA6253FB39C = "00：{mm}：{ss}"
 	D8E9AE8241A9E2145853FA9B8A84EF18 = "05: LADEN"
 	4C59518C42149AA59A4AAFACADBD2E59 = "1 zusätzliche Seilrutsche zum Aufstellen"
 	11168284465F5822F5AFBB936F248453 = "1. Wenn dies das erste Mal angezeigt wird, warte einige Sekunden.
@@ -269,17 +268,20 @@ Allgemein"
 <hi>5 Minuten Abklingzeit</>"
 	B49F7D3B48DABCA09F2DE38BAA78B0CA = "<active>AKTIV:</> <h>Einmal pro Mission</> kannst du ein Teammitglied <h>sofort wiederbeleben</>!"
 	537186F042730C83969253AE9CD2FFF2 = "<active>AKTIV:</> <h>{value} mal pro Mission</> kannst du dich vom <h>Griff eines Gegners befreien</> und ihn dabei erledigen! "
+	6AF6F4DF480C999E4A787BA0C032D553 = "<active>AKTIV:</> Bring den Schmerz mit einer blitzschnellen <h>Aufladung deiner Spitzhacken-Kraftattacke</>. 
+
+<hi>{minutes} Minuten Abklingzeit</>"
 	D9A447424FE6572DC4AF9A9195284267 = "<active>AKTIV:</> Rette dich mit einem <h>kurzen Geschwindigkeitsschub</> aus dem Schlamassel! 
 
 <hi>{value} Sekunden Abklingzeit</>"
-	476492CA47300BB137D80795A66108BC = "<active>AKTIV:</> Wenn du kampfunfähig wirst kannst du eine <h>Explosion verursachen</> und diesen Alien-Abschaum mit ins Grab zu reißen. 
+	476492CA47300BB137D80795A66108BC = "<active>AKTIV:</> Wenn du kampfunfähig wirst kannst du eine <h>Explosion verursachen</> und den Alien-Abschaum mit ins Grab reißen. 
 
 <hi>{minutes} Minuten Abklingzeit</>"
 	324298874E25B03DBB71F1A1D5FC6A4D = "<h>20% Schadensreduzierung</> innerhalb von <h>5m</> zum MULE!"
 	6BEE1B6941C65BFC465772A296A754A6 = "<h>30% Schadensreduzierung</> innerhalb von <h>5m</> zum MULE!"
 	82B0DC6C46DC1254E09B96AB193E66F3 = "<hi>{value} Sekunden Abklingzeit</>"
 	248D0B3048AB6FBCA13FA487D36A28B5 = "<title>Schmiedekunst</>
-Schmieden erhöht deine Schmiedekunst. Jeder volle Level wird mit einem gefüllten <highlight>Matrixkern</> belohnt."
+Schmieden erhöht deine Schmiedekunst. Jeder volle Level wird mit einem geladenen <highlight>Matrixkern</> belohnt."
 	58160F034862D67D03433691236E57AE = "Eine leere Blaupause"
 	888E211944D595E9A7BA4BAEB4B38B43 = "EINE GEFÄHRDUNG"
 	BDD16BB74A8DB84A365BFCA71A2B1F56 = "Hier fehlt Text! Erfreue dich an diesem Text bis er ersetzt wird! Das Management hat diesen temporären Text genehmigt! "
@@ -686,8 +688,8 @@ BITTE BEACHTE! Wenn du die Probezeit übersprungen hast, wirst du sie nie wieder
 	5312AAE843C0B2AB3294C087F8336207 = "Autorisierter Minenarbeiter"
 	BDFC0EC54E6B713949D2CBB2E0A74795 = "Autorisierter Minenarbeiter"
 	E4E30B6341BBDE1EAFF43893D1CCDB5E = "Autorisiere Nutzer..."
-	31DC219B4E143D32BD5C3BBEEB8A15E5 = "Liste automatisch aktualisieren"
-	D0A96E4646654D19C5D6CFA09A070838 = "Liste automatisch aktualisieren"
+	31DC219B4E143D32BD5C3BBEEB8A15E5 = "Aktualisiere Liste automatisch"
+	D0A96E4646654D19C5D6CFA09A070838 = "Aktualisiere Liste automatisch"
 	55EB682743980657612E31907A38E482 = "Automatisches Nachladen"
 	8F7CAA3F4C3B6AF6F35504AFA01E50AB = "Automatisches Nachladen"
 	B6D156E94F7A013BFFBC2B8F7A397DAD = "Automatisches Nachladen"
@@ -1337,10 +1339,10 @@ Auswahl"
 	397B900B49B75649D483C3B55784C585 = "Belohnungen einsammeln"
 	43F4C3D2491F39EA9F7180A158AD2588 = "Sammelt genug Nitra und ihr seid in der Lage eine Versorgungsskapsel anzufordern, die mit Munition und Erster Hilfe bestückt ist. Das Management empfiehlt, dass einem nicht die Munition ausgeht wenn eine Horde zwei Tonnen schwerer Spinnen angreift."
 	210E3D99431AC6DD0CE4DAB335E4D967 = "Sammle Fossilien"
-	0CA1BCD64DF715E003401EA491942D09 = "Sammle {amount} {resource}"
+	0CA1BCD64DF715E003401EA491942D09 = "Sammelt {amount} {resource}"
 	69606828404C54B4230618A0FE348CDF = "Sammle {amount} {resource}"
-	8B822AB84AB570127A9AFDB23F2348E0 = "Sammle {amount} {resource}"
-	2C2AD3B542580D19302C62A1C1DB9E0B = "Sammle {resource}"
+	8B822AB84AB570127A9AFDB23F2348E0 = "Sammelt {amount} {resource}"
+	2C2AD3B542580D19302C62A1C1DB9E0B = "Sammelt {resource}"
 	6B482E7F43B52FD15A5F45ACCE271FE2 = "Farb-Skins"
 	AFAE5A7B4AFBFFC17DC2FF891B4E6806 = "des Kolosses"
 	8E22419442D0FF962B5BC69602CD6666 = "Kolossale Wurzeln"
@@ -1424,7 +1426,7 @@ Ziele"
 	D259E88A4D157F88E20DEBBD15E6CACB = "Beende diesen Auftrag, um für eine Beförderung berechtigt zu sein. Du bekommst deine Beförderung vom Charakterauswahlsterminal. Befördert zu werden ist der einzige Weg, um EHRENZEICHEN zu erlangen und Spieler-Rang zu erhöhen, sobald dein Charakter maximales Level erreicht hat!"
 	038BE4D54F6B0B0C653786B20B625629 = "Schließe diesen Auftrag ab um Zugang zum Mineralienhandelsterminal zu bekommen. Günstig gelegen in der Startbucht, dieses Terminal erlaubt es dir Materialien zu kaufen und zu verkaufen."
 	BC046F2B46846F82B0CBF5B5984967D7 = "Erledige {value} 'Höhlenegel-Nest!' Warnungen"
-	8C82B21F48B6FEA19AA7D1990445B21E = "Schließe {value} 'Explodierer-Verseuchung!' Warnungen ab"
+	8C82B21F48B6FEA19AA7D1990445B21E = "Schließe {value} 'Sprenger-Plage'-Warnungen ab"
 	EEA75BB447101D4CB68F98BD14134F1E = "Erledige {value} 'Geisterhöhle' Warnungen"
 	EA69E8954CAA970DFA0501804E9B27F8 = "Erledige {value} 'Tödliche Gegner' Warnungen"
 	145D7E764B7069A1C723A6A3103EAC42 = "Erledige {value} 'Sauerstoffmangel' Warnungen"
@@ -1570,7 +1572,7 @@ Management"
 	3646707D4F7A43AE5CD989BF699CD718 = "Hust Hust"
 	9DF3DECF4E82498BF599798135455907 = "Hust!"
 	B19107E5496A014511F733B64D0CFF2B = "Hust!"
-	F404FE1E48878FD78768D48A812EDBEF = "Ein Blattliebhaber-Spezial bitte!"
+	F404FE1E48878FD78768D48A812EDBEF = "Ein Leaf Lovers-Spezial bitte!"
 	E8AB521D4D0131D69C1D06A2130655A9 = "Kann ich eine Runde pfiffiges Starkbier haben?"
 	D3E29E164817907E877A2291550F2D25 = "Könnte ein wenig Liebe brauchen!"
 	245D3575410E47BD98B073BB24D58A48 = "Kann mir hier verdammt nochmal mal jemand helfen?"
@@ -1812,8 +1814,8 @@ Management"
 	9907218D48C9FB9752389EAD19EFFCFD = "Tiefenexpedition gewählt! Hoffentlich weißt du, worauf du dich eingelassen hast!"
 	13776A4C49E5555C4F2153B1643687A5 = "Tiefenexpeditionen"
 	30E03DBE416DAF233849E9A100634FFA = "Tiefenexpeditionen"
-	447D669E45287B96B52BDEB70E717FF6 = "Tiefenexpeditionen"
-	FFD0693140936BDF95738A8A5903132F = "Tiefenexpeditionen"
+	447D669E45287B96B52BDEB70E717FF6 = "Tiefenexpedition"
+	FFD0693140936BDF95738A8A5903132F = "Tiefenexpedition"
 	0065051F46801A9794CDAA812ACF0DAD = "Tiefenexpeditionen abgeschlossen"
 	DCD8A2974881A71E2A2FDE915F8525B6 = "Tiefe Taschen"
 	741F9C764697A64C85EA609B55508704 = "Deep Rock Galactic hat bessere, sichere Ausrüstung zurückgehalten. Wenn wir die monatliche Quote Bitter-Edelsteine übertreffen, können wir das Management unter Druck setzen in besseres Equipment für dich und deine Zwergenkollegen zu investieren."
@@ -1861,7 +1863,7 @@ Management"
 	9366334746E82EA5911DEF8A8CA99FFD = "Beschreibung"
 	E12F16CC4AFA6B06CA2F44A282D6FE64 = "Beschreibung"
 	A3F5B7E74730B80F977237A17054CA3B = "Wüste"
-	CA103F7342D0B21BBBA40AA070F50127 = "Wüsten-Ranger"
+	CA103F7342D0B21BBBA40AA070F50127 = "Wüstenranger"
 	4ACAA9BC4B1CEC1C5DC6CE990F4A96A9 = "der Verzweiflung"
 	E0BC72E54AC8D060B550F58B2BE25C12 = "Zerstöre Molly"
 	CA7F2B4948D766D17747149E22B73D41 = "Alle Leuchtfackeln zerstören"
@@ -1967,6 +1969,7 @@ Management"
 	53350E58436ACAB6F2E4AFB95E738253 = "Runter damit!"
 	6A283C8D481ED192E578F49B90A9484A = "Runter damit!"
 	8BDB41C942DC824548A6838B06C2ACE1 = "Runter damit!"
+	503BDC0B4FB15CA4023AAE8CE818ACF1 = "Finale Explosion!"
 	E7F97DF94F26AEF1A0F20BB7FAF9E75A = "Untergang"
 	F7043EB1457408DDBB0E9FA4BC13DA9A = "Übertrage Transponderkoordinaten auf die Karte"
 	00755DD8402FF57962DFD48578B5D990 = "Drache"
@@ -2163,7 +2166,7 @@ Management"
 	82D756CE4DD9E31651A7FC962EB4270D = "Gegner sind gefroren!"
 	E0E9E86E4B1595346BE09E9FEAB6C696 = "Gegner verlangsamt!"
 	B0D6F34249C3D243212133A468AC740A = "Feinde werden es wenn möglich vermeiden, die Baumschaumplattform zu betreten."
-	31776F5C4332E59E3340DB9E75FD293B = "Gegner Gesundheit"
+	31776F5C4332E59E3340DB9E75FD293B = "Gegner Gesundheitsstatus"
 	8C41CBED4DBB161AAC13D48CE6818F04 = "Gegner!"
 	A7444BAE42B14DE6E67756AACAD6F114 = "Energieverbrauch"
 	D49CEF82455F4EFB61600C95DDD9792C = "Energieumleitung"
@@ -2237,7 +2240,7 @@ Management"
 	49F9980B4A0F4348E53800B723DE72E8 = "Minenarbeiter-Experte"
 	D0C851E94B40C04C23EF87AE3A699251 = "Experten Minenarbeiter"
 	F552F71F4CBE64FAC55B349F613AACE9 = "Experten-Minenarbeiter"
-	7B29805243CBBBF28CB75C93F1AC17B8 = "Explodierer-Verseuchung!"
+	7B29805243CBBBF28CB75C93F1AC17B8 = "Sprenger-Plage!"
 	13E3DB654CA3EDD1CD8736A9D34613B5 = "Explosive Pflanze"
 	2760B4D24420248535423580CAF28CB6 = "Explosive Pflanze"
 	B7D7DDDA420F094565F66E9E6DFE691A = "Widerstand gegen Explosionsschaden"
@@ -2413,6 +2416,7 @@ STAND"
 	34371EB644B6FB90C5A49F9ED7F0652E = "Flatter"
 	279FCA164EFBF1C30153D288E26FCFC2 = "Leuchtpistole"
 	15DF29774B6E7471CDA209A9182D4B0D = "Leuchtfackel abgefeuert!"
+	B4F94B3B4D7A1B11EE33B2B18CE2C469 = "Leuchtfackeln"
 	2795F58F488F169FCD451384D2CB11B4 = "Leuchtfackel / Scheinwerfer"
 	8A434DE4457A9F52082215894E737735 = "Taschenlampe"
 	F9E826314FB635C66FB76FB677F7318B = "Blendgranate"
@@ -2757,7 +2761,7 @@ Nitra (100)"
 	26F9EDEF42CC2F9965D9A897052C5535 = "des Glühens"
 	8707365348F9DE561F41489C63A69173 = "Glühleuchte"
 	BEF82DEC49069EF3FC4F568C210243E6 = "Leuchtendes Teil"
-	1B5C4A4040B223424D25698737E369A6 = "Glyphid-Knaller für alle!...Es ist Knaller Zeit, yaaar!"
+	1B5C4A4040B223424D25698737E369A6 = "Glyphid Slammer für alle! - Es ist Slammer-Zeit, yaaar!"
 	982AF46A48E701384C5F98A182112822 = "Glyphid-Säure-Königin"
 	07354CFF48694F6D7AC6C5B6F916FD6C = "Glyphid-Säurespucker"
 	78A1347C4F52EE7C46C0B2A20817600D = "Glyphid-Brut-Nexus"
@@ -2769,7 +2773,7 @@ Nitra (100)"
 	A916BA4C45BC4BD46B99AAADC4EB0A92 = "Glyphid-Dreadnought!"
 	DA4DD8CE41460F88F2276AB7AC8EA979 = "Glyphid-Dreadnought!"
 	00CDC2814E5FF981C46300B068D682F5 = "Glyphid-Ei"
-	80639C5F4A78BBC44A8D73A49CDB4DE1 = "Glyphid-Explodierer"
+	80639C5F4A78BBC44A8D73A49CDB4DE1 = "Glyphid-Sprenger"
 	7B4E597C4CE46978190B01BDF4DDA9D7 = "Glyphid-Eis-Schildwache"
 	D2DE72634C0D92EF71DB7789410498B1 = "Glyphid-Eis-Prätorianer"
 	B2CDED2342A999AA246D22A257C8703B = "Glyphid-Kämpfer"
@@ -2992,15 +2996,15 @@ Nitra (100)"
 	AB9DDD2A4B79FE5A2C6A7C84FC25B73E = "Hast du Azgaraz Ale versucht? Nein? Lloyd, das Übliche, bitte!"
 	3687AE304A975F7AF28A8DBC2ED0BAC5 = "System Falkenauge"
 	6D24F2B14E204C1C9964F4B4E235783D = "Gefahrenstufe 1"
-	DAF87DB8469294B0DEA524A2BA6ADFC6 = "Gefahrenstufe 1 - Geringes Risiko"
+	DAF87DB8469294B0DEA524A2BA6ADFC6 = "Gefahrenstufe 1 - Einfach"
 	C5E2701545B87769278518AF59C3CC9B = "Gefahrenstufe 2"
-	372C8563467828CFE34384AB34B46D42 = "Gefahrenstufe 2 - Anspruchsvoll"
+	372C8563467828CFE34384AB34B46D42 = "Gefahrenstufe 2 - Fordernd"
 	B52FEAD341C1031EF6CE6DB55924A483 = "Gefahrenstufe 3"
 	5761FF9E4B34DD9909A9958EFF611646 = "Gefahrenstufe 3 - Gefährlich"
 	5621A86749117088CB73ACBAC8543172 = "Gefahrenstufe 4"
 	13861CA34087B3D48A909F9A943F51D3 = "Gefahrenstufe 4 - Extrem"
 	24EA14CB40121D07BB13D38441BA7CA3 = "Gefahrenstufe 5"
-	C5776A50489801226E37328215A1B4DD = "Gefahr 5 - tödlich"
+	C5776A50489801226E37328215A1B4DD = "Gefahr 5 - Tödlich"
 	7CFC9F3043146E985E0D809F6881BF36 = "Gefahrenbonus"
 	7466072345C05210268EDD9DC408CD72 = "Gefahrenbonus: +{bonus}%"
 	3D9A362543A532E192C05B8B3180B107 = "Gefahrenstufe"
@@ -3096,7 +3100,7 @@ Bonzen"
 	CCA392A741C551B85295C99A6B3A87B2 = "Hallo, Kumpel! Habe ich dich schonmal gesehen?"
 	2E0929614CF986EDAC91B0B0D0EAAEE6 = "Hallo!"
 	36896A4048AFB8933B41FAB4BD37BEFB = "Hallo!"
-	C1F991AF44002BC979B36D860D3B9991 = "des Unsichtbarens"
+	C1F991AF44002BC979B36D860D3B9991 = "des Unsichtbaren"
 	1EE91DE24C5C358DDD1343A3FDFFB70B = "Verborgene Schätze, am Arsch!"
 	3B07995C4C92DDAC5D3ACC819C8F57F4 = "der Abscheulichkeit"
 	4AC7594B4BAAE774CDB02BBB552FF29B = "Versteck"
@@ -3600,7 +3604,7 @@ Beim Befördern eines Charakters setzt du ihn AUF LEVEL 1 ZURÜCK. Du behälst j
 	B0C5803743F78BB0458B7381D8CAFB64 = "Inaktives Uran"
 	FAA3A91F4CCEB919666717A65087A572 = "Infektor-Schleimblase"
 	3C532874493AF2A4F62C90993122FE96 = "des Infernalen"
-	2C2284EF45735B0D23345B891AF418FF = "Parasitenbefall? Automatische Geschütztürme, mein Freund."
+	2C2284EF45735B0D23345B891AF418FF = "Parasitenbefall? Automatische Geschütztürme, Kumpel!"
 	0786D45A453CF08A1F083AA73D0338EE = "der Infektion"
 	CA235A244E5EDEC88F615F9671FEBC0C = "Unendlich Lichter"
 	A98B5C124E35BA751D58F18CDF150245 = "der Grenzenlosigkeit"
@@ -3830,7 +3834,7 @@ Die Zeit ist knapp, Beeilung!"
 	BD1C69B74494E1D0EF78589CF349F5C2 = "Tötet den Shellback!"
 	02BF54C446227A454D99E7BC8ECF3077 = "Töte das riesige Monster!"
 	90F33953482FD1D7064858B5F2C24CDA = "Eliminiert {Title}"
-	E65D053843FE9C602EAF15AF6765F5A1 = "Eliminiert {count}/{target}"
+	E65D053843FE9C602EAF15AF6765F5A1 = "Eliminiert {count} {target}"
 	6ABE2E944F1D58DE0D952D95F6B5A114 = "Töte {value} Höhlenegel"
 	526E12D643563C61D9A1CA97FF7CACB4 = "Töte {value} Dreadnoughts"
 	4CB149DA4DA9156275D738AB089FC2CD = "Töte {value} Spitball-Infektoren"
@@ -3893,7 +3897,7 @@ STARTEN"
 	E688B4A04FC890C10729EAB45BA3D819 = "Der letzte Zwerg in der Kapsel zahlt die erste Runde!"
 	9FE6422F4BFDC9886677C49255AD4C18 = "Letzte Granate!"
 	D0923E8A47EC1E9AB06FF3B3C6CA4834 = "Letzte Mission und du bist für eine Beförderung bereit. Geb alles, was du hast, und das Management wird beeindruckt sein."
-	AFDBBBD64098AE715404DEB56DC587A4 = "Der Letzte ist ein spitzohriger Blattliebhaber!"
+	AFDBBBD64098AE715404DEB56DC587A4 = "Der Letzte ist ein spitzohriger Baumkuschler!"
 	F5C870DB415D00C07F3D13B0F7C48103 = "Letztes Spiel wurde unerwartet beendet."
 	99F91EE54A59965CCF90EF8DB0FDAF4F = "Der letzte Schuss verursacht doppelten Schaden"
 	AFDD8D2C452CFCD313AE25A4FAD2E525 = "Anhaltender Effekt"
@@ -3901,7 +3905,7 @@ STARTEN"
 	24E3B6104385AD8F626355923BC6791A = "Start in Richtung Orbit!"
 	79564CFA42A35871D08146B04D126B79 = "Lava-Geysir"
 	FEFF895A414D3AEC76290588CF272B45 = "Lava-Geysir"
-	2FEFC54D471270CF84A95CA29CAAFBF2 = "Bleisturm"
+	2FEFC54D471270CF84A95CA29CAAFBF2 = "Kugelhagel"
 	507927874AB5FD286D8DF18B8448F691 = "der Baumkuschler"
 	3432459745F2A85C6B168F8B2C24FDD7 = "Lasst keinen Zwerg zurück"
 	5E1BEB5342E799B920FCFBB260806BC2 = "Lasst keinen Zwerg zurück"
@@ -4197,10 +4201,8 @@ TERMINAL"
 	DEFFF80543E96CC286A6809B75F6409E = "MK5 Schützen-Anzug"
 	7DE6384246559A2195C669BE04B95E41 = "MK5 Späher-Anzug"
 	EA807C684450BB19B921639A3BA5D580 = "MODERATOREN"
-	8DA882644EAA54C1F1722BBC173B7F7D = "M.U.L.E."
 	A9132B7247ABD90C9481E0B20B97C07D = "M.U.L.E.-Bein"
 	CBBF3A71477247A304C7FA9D915149EC = "MULE-Beine"
-	7DB8794145CB4BC84DA2F49EFAE27D2C = "M.U.L.E.s"
 	084D891E4FAF8D86DD63F3AE40B33ECB = "MUTATION:"
 	8FFDD85647E1331C1A97469FDFBC6618 = "Maschine startet! Bereitmachen!"
 	85BB76CE4491CAF295B792A19AA5297A = "Maschinen-Ereignis abgeschlossen! Boojah!"
@@ -4264,7 +4266,7 @@ TERMINAL"
 	54D9182A49D91F55EC1BE587394B06A0 = "Markierung gesetzt!"
 	E56438A54AE637495C96148354542075 = "Marschall"
 	302002AC45FE19DDF8EF039EDB162C1D = "Hopfen stampfen..."
-	49AD88E64DF74DC04B619889CDF9B31E = "Massiv"
+	49AD88E64DF74DC04B619889CDF9B31E = "des Massiv"
 	C6560C774951318A56A03CB35BC4AB5A = "Massiver Zopf"
 	B39991B64BB7A003FB603F814E052119 = "Massiver Zopf - gepanzert"
 	CFB4996D4FE8E2953E8AD5A2DEEE68B6 = "Massiver Zopf - vergoldet"
@@ -4289,7 +4291,7 @@ Helligkeit"
 	9C2319174E556ABDB2F513BE726CA094 = "Maximale Munition +75"
 	9DADE2684511F6CD4C0D258B3DDD8D88 = "Maximale Munition +75"
 	BE01A3ED43032A86934C19AA2AE3928F = "Max Winkel"
-	DF399CD3486B65EDAE4558AFEF735D28 = "Max. FPS"
+	DF399CD3486B65EDAE4558AFEF735D28 = "Maximale FPS-Begrenzung"
 	7AFFDEAB40E999C2DB09C9B4123AB083 = "Maximaler Treibstoff"
 	C500471445EF7E9F13876D95F39E130D = "Maximaler Treibstoff"
 	0D9AD6764E6AA571621F0CAC4222EC74 = "Höchstgeschwindigkeit"
@@ -4382,7 +4384,7 @@ Helligkeit"
 	44109652413B689AD07B918FDE5E12EE = "Bergbau-Expedition"
 	234BEC3A45FFDA5A00500E92020897ED = "Bergbau-Expeditionen abgeschlossen"
 	FBE9BF614BF41D00F681DD93CFA4E25A = "Bergbau-Expeditionen abgeschlossen"
-	523D22CF468D4BC7909424843D857E55 = "Bergbau Experte"
+	523D22CF468D4BC7909424843D857E55 = "Bergbauexperte"
 	AA8F120D4A3213528FDAA6B10B6C1FC4 = "Abbaugeschwindigkeit"
 	5B46DB0F4B63F2A351A20D838A0D2368 = "Bergbau ist harte Arbeit, gute Sache, dass wir Zwerge sind!"
 	4698DA944F4015FABA13E59A279D21F4 = "Abbaurate"
@@ -4706,6 +4708,7 @@ Tritt uns bei, wenn du hast was es braucht um deine Zwergenbrüder zu beschütze
 	15F52D61401D575009C77C8C89C1E36A = "Neeiin... Keine Zeit mehr!"
 	FDBBAE124E3D218793143E9D416B934C = "Neiiiiin"
 	3BCAD6D04A741CCF70D7F58C77690D15 = "Neiiiiin!"
+	47133F584AD9418863651BBFF8019B99 = "Normale Eliminierung"
 	D2B56A43420B35AE9B6EF0ACCD3F2453 = "Ungeladene Geschossgeschwindigkeit"
 	AAA21255481CDE77AB9B8DA7831BA9D6 = "Hitzegeneration normaler Schüsse"
 	E89A49DB48E175F80D17E2B6752B257D = "Normale Schüsse erzeugen mehr Hitze"
@@ -4873,7 +4876,7 @@ Aus diesem Grund ziehen wir in Betracht, dich für eine Beförderung aufzustelle
 Management"
 	1691C1544A6F5EB4E1F2289D76C9968A = "Einer weniger!"
 	8609CA944A8413052C562086E7C47786 = "Einer weniger!"
-	CE6FC0DC4807D1957DDACF82F69E5699 = "Einen Blattliebhaber!...Und bitte mit etwas Wasser verdünnen!"
+	CE6FC0DC4807D1957DDACF82F69E5699 = "Einen Leaf Lovers!...Und bitte mit etwas Wasser verdünnen!"
 	42DE261F42F15615EE38CF85913A80E3 = "Ein großes Tech-Auge sieht alles!"
 	E51ADE8A4FDB509121F63B8F9A6A7FE2 = "Einer weniger!"
 	39DB91394D8AA4798DEBE3ACB62928A1 = "Ein extra Wiederbelebungskit um einen kampfunfähigen Zwerg wiederzubeleben."
@@ -5066,7 +5069,7 @@ Schwierigkeit"
 	DE3F1A50468DB335C4349AAB2B094C40 = "Ankündigung: Übermäßige Nutzung von Q-Bergbau kann zum Erblinden führen!"
 	BC752D3842589EB58137D2B017CF5E33 = "Ankündigung: Bitte spült nach dem Verwenden der Toiletten. Wir wollen nicht, dass sich der Vorfall nochmal wiederholt."
 	1212E53C487800C3669FF6B62708550F = "Ankündigung: Glyphid Slammer ist wieder in der Abgrund-Bar verfügbar!"
-	BD8C47E244935D522823E199E5F7EC23 = "Ankündigung: Glyphid Slammer ist wieder in der Abgrund-Bar verfügbar!"
+	BD8C47E244935D522823E199E5F7EC23 = "Ankündigung: Glyphid Slammer ist wieder in der Abyss Bar verfügbar!"
 	999F07B549F88442E1491E814404F2FF = "Ankündigung: Hygiene ist wichtig. Bitte dusche mindestens einmal in 30 Orbitalen Zyklen."
 	81BBB07C442CFF561D978D8518E85234 = "Ankündigung: Die Verwaltung bittet alle Angestellten eindringlich, nicht die Auslauföffnung an der Spitze des Hangars, zu betreten."
 	79F55F3945D00CA3F38F98B8B2088EEC = "Ankündigung: Morkit-Bier ist wieder in der Abgrund-Bar verfügbar!"
@@ -5192,7 +5195,7 @@ Anzahl"
 	35F188344DABAC671C11C8937ADF71BB = "Spieler 01"
 	0F78C4EB4A3EE2369FC305A969149010 = "Schild und Leben des Spielers"
 	574890704A93772F245BF9A87BDBD085 = "Spielericon, Name und Klasse"
-	435EEB79438294AB3E99DDA609858F68 = "Spieler Gegenstands-Auswahl"
+	435EEB79438294AB3E99DDA609858F68 = "Spieler Gegenstandsauswahl"
 	785D9C5B457170C98F25A898CAD6F1F2 = "Spielername "
 	2402573646A28C8B83194DB03F4377BC = "Spielerrang X erforderlich!"
 	7146C8E64854C0DB498B70AF7625379C = "Spielerrang zu niedrig!"
@@ -5404,7 +5407,7 @@ Spitzaxt"
 	D7351C03419BC3A35DA83AB86FDD2E2D = "FELS.....UND....STEIN!"
 	E1D80181453EC5C5859456805C2F4043 = "RAKETE!"
 	922B2C64400F83A12481AD854CD7DB9F = "KUGELN"
-	767201A24BF05D53A61200984D6773B3 = "STARTE SOLO SPIEL"
+	767201A24BF05D53A61200984D6773B3 = "STARTE SOLO-SPIEL"
 	4A82F147411FF196FE6F84A9DDAD1F5B = "Radialer Impulslaser"
 	215C6F6348821CFE23F4529451852E51 = "Radioaktiv"
 	1A9B89E842F52FE93EB2CFB2DD1E6F0E = "Radioaktive Zone"
@@ -5424,7 +5427,7 @@ Spitzaxt"
 	34EA9BA84272F067140D72BAF937DE78 = "Zufällig"
 	47E20CB64891C0CC766B798F32C9E3AF = "Zufälliger Schaden"
 	6614CC474667C50B36834CB6DB0E2A3E = "Zufälliger Schaden"
-	334548A749771F4D450CB19620B762B4 = "Ranger´s"
+	334548A749771F4D450CB19620B762B4 = "des Rangers"
 	17E63B2044D064E1722C6080CE4681B0 = "Schnell"
 	583BF43243CCBFDCFD54AABE47855FF5 = "Seltene Versteinerung"
 	45B03FB148FF0D7B60A7F18554D8A114 = "Seltene Gegenstände abgebaut"
@@ -5468,7 +5471,7 @@ Spitzaxt"
 	48D4ECE1430DFF12D4AE8FB2B67B808A = "Artefakte bergen"
 	00FA8A014A7310D90E1E55AC261F21EA = "Blackbox bergen"
 	8CB0584744B7F9B6F6951CB5428E6490 = "Blackboxdaten bergen"
-	A37ACE3B433DAAE798BA1DB7C09EFA9F = "Bergt {count} Black Boxen"
+	A37ACE3B433DAAE798BA1DB7C09EFA9F = "Bergt {count} Blackboxen"
 	1B44E36F49D774F8277929A7C9747240 = "Rot"
 	96CBCE3246D684272BFAD198AEEDE6AA = "Rot"
 	AB85234C4CFB8A482C5A5987B258338B = "der Schmiedeglut"
@@ -5549,10 +5552,10 @@ Spitzaxt"
 	A7FE785444AF97C555C51BBF7AA29603 = "Reparieren"
 	40F695754969797F5C66D39419804C8C = "Frachtkiste reparieren"
 	272C3E79462B4517552EBFAE50BE0FB1 = "M.U.L.E.s reparieren:"
-	A751835D433F8AF54FEDCB870983A8C6 = "Repariere Mini-M.U.L.E.s"
-	AA37A1A14885020C0151409D33B5ED51 = "Repariere Mini-M.U.L.E.s"
+	A751835D433F8AF54FEDCB870983A8C6 = "Repariert Mini-M.U.L.E.s"
+	AA37A1A14885020C0151409D33B5ED51 = "Repariert Mini-M.U.L.E.s"
 	BF860F3548FE248ACAD13EA86EFDE745 = "Auftrag abgeschlossen - Mini-Mule reparieren"
-	9006041F4C8BDD50B2D0338E9CB02B2F = "Repariere {count} Mini-M.U.L.E.s"
+	9006041F4C8BDD50B2D0338E9CB02B2F = "Repariert {count} Mini-M.U.L.E.s"
 	8BCC8F4E4B43B7820678ACAAFA89C299 = "Abweisender Zusatzstoff"
 	A0C4A8E04654DAAAA443F69362DB6937 = "Antwort gedrückt"
 	CAF4DDA448880A0870324E82132BB5BE = "Druckaufbauverzögerung"
@@ -5577,7 +5580,7 @@ Spitzaxt"
 	C47B378B4C8AE0A9AE6D5C8C8C9482AF = "Ressourcenname"
 	E211097040BAA294D90ED688B7846CF6 = "Ressourcenname"
 	0C86211045E5EF3A86FB13B26D110A08 = "Ressourcen"
-	346EF1CE4ABE4B837114A9BE2F72D872 = "Wiedereinsteigen"
+	346EF1CE4ABE4B837114A9BE2F72D872 = "Aufwachen"
 	042F6E094E1F44AB6C0B0E82AA0025C1 = "Neustarten"
 	A979F52A4C543DAC73A0B28D962F3DB0 = "Starte den Gravitationsgenerator neu!"
 	7B59860A481DA7D1731C21B3FFCF33B0 = "Standard wiederherstellen"
@@ -5776,7 +5779,7 @@ WÄHLEN"
 	F26F2303481D4CC67332B88403F32E8F = "Bergungseinsatz"
 	557B55E74F310E9E3CE1B99447B57EC1 = "Bergungseinsätze abgeschlossen"
 	EC069740491D88E1DCC0E1880E7D5FE3 = "Bergt {count} {objectName}"
-	4CB7BF034402D8F57BD2EAB4B357A7DC = "Berge {objectName}"
+	4CB7BF034402D8F57BD2EAB4B357A7DC = "Bergt {objectName}"
 	EDD1CF2745DED66530ADB79850A2EEBD = "Verwertbar"
 	E33A92404A739D001A62419E7B8B5680 = "Gleiche Feuerkraft aber in kleinerem Packet ergibt etwas bessere Genauigkeit und mehr Kugeln in jedem Magazin."
 	F24F2FA14CB352F109278BBFFF252C24 = "Heiligtum"
@@ -5972,10 +5975,10 @@ WÄHLEN"
 	566802114721F4EE497EF2B3718D166A = "Netzwerkstatistiken anzeigen"
 	C4292C7540A90C07387975BA879E2900 = "Alle Daten anzeigen"
 	E5E221554B198BC54A6F9482530A80E1 = "Zeige als {value} oder als {float_value} oder als {percent} oder als {percent_zerobased} oder als {minutes}"
-	51B694024716A2B5948CFFA996819C58 = "Zeige Infobildschirm beim Spielstart"
-	695EE26246EC1CD164A526AF516CBD7F = "Zeige Infobildschirm beim Spielstart"
-	9D2F5B534BD915484A1347B37F6B39E8 = "Zeige Infobildschirm beim Spielstart"
-	C8B7C1B44590D950BA6DC9B2FCD94830 = "Zeige Infobildschirm beim Spielstart"
+	51B694024716A2B5948CFFA996819C58 = "Infobildschirm beim Spielstart zeigen"
+	695EE26246EC1CD164A526AF516CBD7F = "Infobildschirm beim Spielstart zeigen"
+	9D2F5B534BD915484A1347B37F6B39E8 = "Infobildschirm beim Spielstart zeigen"
+	C8B7C1B44590D950BA6DC9B2FCD94830 = "Infobildschirm beim Spielstart zeigen"
 	BEA156E64ECB2A82334E2C900D8A0582 = "Zeige deinen Freunden was du gefunden hast"
 	6F8E7DA142C073026E3E94BF12BF26D5 = "Schrapnellrunden"
 	970541DB4519A3D0612ED48BCC84EDAC = "Umhüllung"
@@ -6241,7 +6244,7 @@ Beutelarve"
 	05B9885C423B01B38297E3A105324FE2 = "Hör auf mich anzugreifen! "
 	4108BA674EB34D51571AA38EF2242882 = "Hör damit auf! SOFORT!"
 	19E415D54FC6A5F2074390AA4395E25D = "Hört auf die Dekoration herumzutreten!"
-	53922E6744B42263475EC6BF138591FE = "Hör auf zu schießen, du spitzohriger Blattliebhaber!"
+	53922E6744B42263475EC6BF138591FE = "Hör auf zu schießen, du spitzohriger Baumkuschler!"
 	4243431441EEB2ED05BD15B42ED48DBC = "Seltsam"
 	CDF7F1484A34D44B43D8ED9440E15FE4 = "Merkwürdige Tasche"
 	B12099C64CA67C198F6C87AEC57A3C77 = "Seltsamer Käfer hier!"
@@ -6890,7 +6893,7 @@ Bosco"
 	2A0F07534F6FAE1A1AC181919021B449 = "VERBESSERUNGSNAME KOMMT HIER HER"
 	154D798349596E65C508169C1B0BD295 = "VERBESSERE DEINE AUSRÜSTUNG"
 	68B79960422B69C0689251A8A121BF01 = "VERBINDUNG HERGESTELLT"
-	AA71AD6E4DAB34172A5F89A3300875DD = "VERBINDUNGS-FORTSCHRITT"
+	AA71AD6E4DAB34172A5F89A3300875DD = "VERBINDUNGSFORTSCHRITT"
 	B6EE7EE54108938CF977B5ABEEFB9405 = "Uggh...das ging schnell in die Hose!"
 	EF7F3BF4405DAFECAB50EC9E099F4532 = "Igitt. Eklig."
 	9C0D06AC4EA9C5D7423BE687BFF8AF48 = "Umanit"
@@ -7017,7 +7020,7 @@ Bosco"
 	2D3A27094C5330CD483F8C955E302A89 = "Instabiler Sprengstoff"
 	A6FCC3234C482F2C2566C29085D157AF = "Instabiles Eis"
 	CFDDAB214B6DA680B1F3659D7E9F4438 = "Instabiles Eis"
-	ED5E26594424611E39C8A4B7ADCD1E45 = "Unstabile Übertaktung"
+	ED5E26594424611E39C8A4B7ADCD1E45 = "Instabile Übertaktung"
 	536A9CF2425EB806C58EB799BD076A9A = "Unaufhaltsam"
 	C2F6E14944027FE080FFBDA8F154153E = "Unberührt"
 	89638F2C4120C4BBDBD9CA84262450AC = "des Entschleierns"
@@ -7415,7 +7418,7 @@ Du kannst diese Einstellungen jederzeit im Optionsmenü ändern."
 	0734682D443A87D920EF0E86D34B5289 = "Warum mit EINEM Bart zufrieden geben wenn man ZWEI haben kann?"
 	ACF4AB72443D1DE33C6329A9AC8E3418 = "Warum sich mit EINEM Bart zufrieden geben wenn man ZWEI haben kann?"
 	C39EB77F4C12EA8976FE17991879F000 = "Warum mit EINEM Bart zufriedengeben, wenn du ZWEI haben kannst?"
-	1223B6F94B0288AAC95807B7328E0CAB = "Verhext"
+	1223B6F94B0288AAC95807B7328E0CAB = "des Verruchten"
 	BEE29C16496503241F24FE92AD72268D = "Abgefahren!"
 	E6BC0A73400076F8EB089E916A0CD6F8 = "der Weite"
 	3A8FF9794C64E1EC9C022999166E2B5E = "Großflächen-Slittergranate"
@@ -7816,14 +7819,14 @@ Namespace NewStringTable (29 keys)
 	MacteraBrewDESC = "Ein reitzender, würziger Trank. In Übereinstimmung mit DRGs "Frag nichts, sag nichts"-Richtlinien, stieg der Mactera Brew schnell im Ansehen der Crew - solange alle sich einig waren, nicht über die Zutaten zu sprechen..."
 	SlayerStoutDESC = "Ein seltenes und begehrtes Gebräu. Nach jahrhundertealter Tradition wurde dieses berauschende Ale nur von den stärksten, grimmigsten und absolut wildesten Zwergen von einst getrunken... Bevor sie in glorreiche Schlachten zogen, um ein ehrenhaftes Ende zu finden. Nichts für schwache Gemüter."
 	RockyMountainDESC = "Eine leichte Spur Klasse. Ein Getränk der Denker. Dieses berauschende Gebräu hinunterzustürzen verleiht dir das fantastische Gefühl des Eins-Sein mit dem Fels und Stein um dich herum, was dich wie durch Butter hindurchgraben lässt."
-	GlyphidSlammerDESC = "Ein abenteuerlicher Mix aus billigem, kräftigen Ale und genauso billigem, kräftigem Energy-Drink. Das Ergebnis ist ein fast - aber nicht ganz - komplett untrinkbares Gesöff. Aber es bringt ein Federn in deinen Gang."
+	GlyphidSlammerDESC = "Ein abenteuerlicher Mix aus billigem, kräftigen Ale und genauso billigem, kräftigem Energydrink. Das Ergebnis ist ein fast - aber nicht ganz - komplett untrinkbares Gesöff. Aber es bringt ein Federn in deinen Gang."
 	ArkenstoutDESC = "Ein uraltes, jahrhunderte lang überlieftertes Rezept, das nach Ehre, Gold und den Tagen von einst schmeckt. Am Besten serviert nahe des absoluten Nullpunkts."
 	BackbreakerStoutDESC = "Ein stärkender und schäumender Sud, der Elan und Vergnügen in jeden wahren Zwerges Blut entfacht!"
 	BlacklockDESC = "Ein unheilvolles Gemisch, so zähflüssig und schwarz als sei es aus dem Kern von Hoxxes selbst. Jegliche Gerüchte über verursachte psychedelische und halluzinogene Episoden sind reines Hörensagen. So behaupten sie zumindest..."
 	ToothgrinderDESC = "Zäh und klebrig wie Sirup, wird der Toothgrinder eine Kiefersperre verpassen und die Kehle zuschnüren. Ansonsten ist er ein ganz köstliches und beliebtes Bier."
 	GutWreckerDESC = "Zu gleichen Teilen Kohlenstoffdioxid, Nitritsäure und Ahornsyrup: der Gut Wrecker ist ein eigentümliches aber außergewöhnlich schmackhaftes Bier - wenn du ihn bei dir behalten kannst. Bekannt für sein besonderes Sprudeln."
 	BronzeheadBitterDESC = "Warum das lange Gesicht? Fühlst du dich etwas matt? Nun, das Bronzehead wird dir helfen, das Trübsal in gute alte ZWERGENWUT zu verwandeln! Bitte beachte, deine Versicherung kommt nicht für trunkenen Vandalismus auf."
-	FlintlockesDelightDESC = "Wie wirkt es bloß? Unheimliche Magie? Genmanipulation? Niemand weiß es. Flintelocke's Delight ist weit und breit der Favorit der Abbrucharbeiter.. Außerdem schmeckt es großartig - wenn du eine Vorliebe für Schießpulver hast."
+	FlintlockesDelightDESC = "Wie wirkt es bloß? Alte, schwarze Magie? Genmanipulation? Niemand weiß es. Flintelocke's Delight ist weit und breit der Favorit der Abbrucharbeiter. Außerdem schmeckt es großartig - wenn du eine Vorliebe für Schießpulver hast."
 	UnderhillDeluxeDESC = "In einer Höhle in der Erde, da lebte ein Braumeister. Nicht in einem schmutzigen, nassen Loch, in das die Enden von Würmern herabbaumelten und das nach Schlamm und Moder roch. Auch nicht etwa in einer trockenen Kieshöhle, die so kahl war, dass man sich nicht einmal niedersetzen oder gemütlich trinken konnte. Es war eine Brauerei, und das bedeutet Bier. Tatsächlich: dieses Bier. Und es ist herrlich."
 	KazAsrokAleDESC = "Ein Zwerg, der die alten glorreichen Schlachtrufe brüllt - mit einem Humpen Kaz Asrok Ale in der Hand - ist ein furchtbarer und wundervoller Anblick auf der Tanzfläche. Mit Vorsicht zu behandeln."
 	SeasonedMoonriderDESC = "Malzig und süß, ist der Seasoned Moonrider ein herausragendes Getränk, der deinen Schritt leicht werden lässt."
@@ -7900,7 +7903,7 @@ Namespace OC_BonusAndDrawbackLines (56 keys)
 	Pen_RecoilMedium = "Stärkerer Rückstoß"
 	Pen_OverheatFaster = "Waffe überhitzt schneller"
 
-Namespace PatchNotes (52 keys)
+Namespace PatchNotes (55 keys)
 	Update_20.1_ShortTitle = "GRÖSSER, BESSER, BOSCO"
 	Update_20_ShortTitle = "GRÖSSER, BESSER, BOSCO"
 	Update_11_ShortTitle = "TOT UND GEWEHR"
@@ -7908,6 +7911,7 @@ Namespace PatchNotes (52 keys)
 	Update_25_ShortTitle = "ENDGAME - Teil Eins"
 	Update_26_ShortTitle = "ENDGAME - Teil Zwei"
 	Update_14_ShortTitle = "FEATURES SCHLEICHEN SICH EIN"
+	Update_28_ShortTitle = "ALLES PERKY"
 	Update_12_ShortTitle = "FLIEGEN UND FINANZEN"
 	Update_21_ShortTitle = "WERDE TÖDLICH"
 	Update_19_ShortTitle = "WAFFEN! EINE MENGE WAFFEN"
@@ -8538,6 +8542,81 @@ SONSTIGES
 - Das Kontrollzentrum kündigt jetzt die Neukalibrierung der Gravitation an.
 - Der Gastgeber (Host) erreicht jetzt die selbe Höhe wie die anderen Spieler im Team (Client), wenn er springt (zuvor war sie niedriger).
 "
+	Update_28 = "Hallo Minenarbeiter,
+Alles Perky? Gut, denn UPDATE 28 ist hier, um euren Hunger mit einer saftigen Verbesserung zum Perksystem und dem ersten Teil der neuen Raumstation zu stillen. Außerdem bekommt ihr eine neue Methode, den Look eurer Waffen anzuassen, wie ihr wollt.
+
+Das aktuelle Ziel bei uns von Ghost Ship ist es, das Spiel für Version 1.0 fertigzustellen. Eine fortlaufende Aufgabe ist die Bessere Einführung ins Spiel für neue Spieler, aber auch das geplante Minenarbeiter-Handbuch das euch mehr über das Spiel beibringen soll. Zu guter Letzt gibt es noch jede Menge Quality of Life-Verbesserungen, die euch das Leben leichter machen sollen - das aber erst in Kürze. Lasst uns jetzt über Update 28 reden! Los geht’s!
+
+Grüße,
+Die Ghost Ship Crew
+
+--- PATCHNOTES ---
+
+ÜBERARBEITUNG DES PERKSYSTEMS
+----------------------------
+Perks können jetzt Aktiv oder Passiv sein. Passive Perks entsprechen den bisherigen Perks vor diesem Update: eine passive Verbesserung des betreffenden Attributs. Keine Aktivierung notwendig – Ausrüsten und es wirkt direkt. Aktive Perks hingegen benötigen eine Aktivierung durch den Spieler und haben entweder eine Abklingzeit oder eine begrenzte Anzahl an Nutzungen – oder sogar beides! Ihren limitierten Gebrauch gleichen wir aus, indem wir sie mächtiger machen als passive Perks.
+
+Außerdem führen wir mit Update 28 einige neue passive sowie aktive Perks ein, zusätzlich haben wir die Kosten und Voraussetzungen für alle bestehenden Perks angepasst. Das bedeutet, dass alle bisher gekauften Perks zurückgesetzt wurden, alle ausgegebenen Perkpunkte wurden euch wieder gutgeschrieben und alle Perks müssen neu von euch freigeschaltet werden.
+
+Wir hoffen ihr habt viel Spaß beim Spielen und Experimentieren mit dem neuen Perksystem; und freuen uns wie immer auf euer Feedback. 
+
+
+UMBAU DER RAUMSTATION
+----------------------------
+Die Raumstation wollten wir schon seit Langem umbauen. Das ist jedoch eine riesen Aufgabe, weshalb wir sie in Schritten absolvieren. Der erste und wichtigste Schritt kommt mit Update 28 – die komplette Neustrukturierung und Neuanordnung. So macht die Anordnung viel mehr Sinn, statt der alten identischen Terminals Seite an Seite. Die Anpassungen an der Raumstation werden nun mit jedem Update bis zum Beenden des Early Access und dem finalen Release fortschreiten und neue Terminals beinhalten (wie die Schmiede es zu erst erhielt).
+
+
+PAINTJOBS & FRAMEWORKS [WUNSCH DER COMMUNITY]
+----------------------------
+Manchmal bringen Bugs und Fehler auch Gutes! Wie einige Spieler bemerkten, konnten am Ausrüstungsterminal verschiedene Skins zusammengemischt werden. Nach euren Reaktionen haben wir uns dazu entschieden, dies als vollständiges Feature zu implementieren.
+
+Waffenskins sind nun in zwei Kategorien getrennt: Frameworks und Paintjobs. Frameworks ändern das Waffenmodel – sie fügen Sachen hinzu oder lassen es anders aussehen. Paintjobs ändert die Farbgebung und Textur der Waffe. Das erlaubt uns jede Menge mehr Kombinationen und sollte die Paintjobs zu wesentlich befriedigenderen Belohnungen aufwerten, da ihr Sie jetzt mit jedem Framework mischen könnt. Alle bestehenden Skins wurden hierfür optimiert und ihr behaltet alle bisher freigeschalteten Skins.
+
+
+LEERE MATRIXKERNE VS. MINERALIENPAKET [WUNSCH DER COMMUNITY]
+----------------------------
+Wenn du alle Übertaktungen freigeschaltet hattest, bekamst du bislang einen Mineralienpaket statt einer neuen Übertaktung. Statt dessen bekommst du jetzt einen leeren Matrixkern. Wir müssen euch zustimmen, dass das viel mehr Sinn macht, obwohl unsere Dauer-Minenarbeiter jetzt noch schneller durch die Inhalte brausen werden. 
+
+
+DIVERSES
+----------------------------
+- Beutelarven können jetzt lose Mineralstücke suchen und fressen!
+- Verbesserter Richtungsindikator für eingehenden Schaden am Spieler
+- Neue Ausrüstungswahl im Charakterwahl-Terminal
+- Neue Ausrüstungswahl im Charakterwahl-Bildschirm bei nachträglichen Missionsbeitritten
+- Neue Ausrüstungswahl im Zubehör-Laden
+- Neuer Soundeffekt für Schildregeneration
+- Neue Attacke für Glyphid-Unterdrücker: Kopfnuss 
+- Neuer Soundeffekt beim Werfen von Leuchtfackeln, wenn keine im Inventar vorhanden sind 
+- Versorgungskapseln haben nun eine gemeinsame Abklingzeit für alle Spieler, um versehentliche gleichzeitige Rufe zu verhindern
+- M.U.L.E. und Bosco sind nun auf dem Geländescanner sichtbar
+- Zwerge auf Seilrutschen sind jetzt weniger attraktiv für bodengebundene Gegner, dafür aber attraktiver für fliegende Gegner 
+- Neue Animation für Aufheben der Axt (Eigen- und Fremdansicht)
+- Neue Animation für Aufheben der C4-Sprengladung (Eigen- und Fremdansicht)
+- Blackboxen werden nun von der Schwerkraft beeinflusst
+- Goldene Insekten lassen beim Tod nun Goldstücke fallen, statt wie zuvor nur das Teamdepot zu füllen
+- Raumstation: Wir haben die Fenster abgedichtet um Weltraumspaziergänge zu unterbinden. (Schämt euch!)
+- Lautere Batterien für Transportkisten
+- Bessere Kollisionsabfrage für Transportkisten
+- Transportkisten: Umrisse sind nun bei Tastendruck von Tab sichtbar, vom Einsetzen der ersten Batterie, bis die Beute vom lokalen Spieler entnommen wurde.
+- Netzwerkfehler behoben, bei dem Clientspieler eine falsche Farbe der Transportkiste sahen
+- Mactera-Schnapper und Nayaka-Schlepper können sich nicht mehr mit pheromonbeworfenen Spitball-Infektoren und Brutnexen davonmachen.
+- Fehler behoben, bei dem die Seilrutsche Zwerge oder Gegner aufgespießt und dadurch lächerlich kurze Seilrutschen gespannt hat.
+- Fehler der "Kugelhagel" Hochleistungs-Minigun behoben, bei dem sie mehr Hitze bei kurzen Salven generierte
+- Fehler behoben: Infizierte Macteras lassen jetzt beim Gefrieren Kursite fallen 
+- Fehler mit Modularer Kammerjäger OMEN behoben, der einige Modulkombinationen sehr selten machte
+- Fehler mit Modularer Kammerjäger OMEN behoben, bei dem die Bombendrohnen alle die gleiche Neigung hatten
+- LMG-Gewehrplattform: Alte manuelle Zielsuche ersetzt durch Falkenaugensystem, welche die effektive Reichweite der Geschütze erhöht und zusätzlich manuelle Zielpriorisierung ermöglicht 
+- Die Annäherungsmine hat nach erster Auslösung jetzt 3 Minuten Wirkdauer
+- Zwergumrisse beim Rufen deaktiviert
+- Text beim Aufnehmen von C4 angepasst
+- [Translation] Übersetzung: Strings für unsere Communityübersetzer angepasst: Weakpoint Stun Chance / Duration 
+- Fehler behoben, der heftiges Kamerawackeln verursachte wenn Terrain unter der Versorgungskapsel abgebaut wurde
+- Absturz durch Pheromon-Granate behoben
+- Fehler behoben, der Granaten in den Händen kleben ließ, wenn beim Granatwurf ein Objekt aufgenommen wurde
+- Anpassbares HUD: Perk HUD-Icons erscheinen und verschwinden jetzt mit der Gesundheitsanzeige des Spielers 
+ 
+"
 	Update_16 = "Hallo Minenarbeiter! Wir sind zurück im Sattel nach ein bisschen lieblichen Sommerurlaub und haben einen neuen Patch für euch. Als antwort auf das ganze heiße Wetter das wir hatten war die offensichtlichste Sache die wir machen konnten ein Eis Biom hinzuzufügen. Richtig?
 
 --- PATCH NOTES---
@@ -8956,7 +9035,7 @@ MISC.
 	Update_18_ShortTitle = "ARBEITSMÖGLICHKEITEN"
 	Update_27_ShortTitle = "KLEINE GROSSE SACHEN"
 	Update_13_ShortTitle = "KLEINE LEBENSANPASSUNGEN"
-	Update_15_ShortTitle = "MUTATIONS WARNUNG!"
+	Update_15_ShortTitle = "MUTATIONSWARNUNG!"
 	Update_21.5_ShortTitle = "EIN JAHR IM ORBIT"
 	Update_10_ShortTitle = "TUNNELBLICK?"
 	Update_24_Xbox = "Setzt euch besser hin, Minenarbeiter! 
@@ -9274,16 +9353,20 @@ BEHANDLUNGEN UND VERBESSERUNGEN
 	Update_25_Header = "UPDATE 26: ENDGAME - Teil Eins"
 	Update_26_Header = "UPDATE 26: ENDGAME - Teil Zwei"
 	Update_27_Header = "UPDATE 27: KLEINE GROSSE SACHEN"
+	Update_28_Header = "UPDATE 28: ALLES PERKY"
 	Update_9_Header = "UPDATE 9: MAN BOHRT SICH SPÄTER! - 09.03.2018"
 	Update_16_ShortTitle = "WINTER IST HIER"
 
-Namespace PerkDescriptions (30 keys)
+Namespace PerkDescriptions (31 keys)
 	PERK_ThickSoles = "<active>AKTIV:</> Einige Federn, einige Magnete, einige Brennstoffzellen vom Schwarzmarkt - schon nimmst du <h>{value}% weniger Fallschaden</>!
 
 <hi>2 Minuten Abklingzeit</>"
 	PERK_DoubleJump = "<active>AKTIV:</> Erhalte einen <h>vertikalen Schub</> nachdem du springst!
 
 <hi>{value} Sekunden Abklingzeit</>"
+	PERK_IronWill = "<active>AKTIV:</> Gib niemals auf! Komme <h>einmal pro Mission</> zurück in dein <h>{value} Sekunden langes letztes Gefecht</> und kämpfe mit wutentbrannter Stärke, bevor du kampfunfähig zu Boden gehst!
+
+Im letzten Gefecht <h>läufst du schneller</>, <h>verursachst mehr Schaden</> und hast <h>Widerstand gegen Verlangsamung</>. Mach sie fertig!"
 	PERK_QuickRecovery = "<passive>PASSIV:</> Lasst keinen Zwerg zurück! Du belebst Teamkameraden <h>{float_value}% schneller</>!"
 	PERK_CaveLeechSense = "<passive>PASSIV:</>Du bekommst eine <h>Warnung</>, kurz bevor dich ein Gegner ergreift."
 	PERK_REsupplier_B = "Nach Nutzung einer Versorgungskapsel sind alle Waffen <h>sofort nachgeladen</>!"
@@ -9499,8 +9582,8 @@ Namespace StatValues (64 keys)
 Namespace Techincal (1 keys)
 	ClosedAlpha = "Geschlossene Alpha"
 
-Namespace UI (75 keys)
-	Minigun_Name = ""Bleisturm" Hochleistungs-Minigun"
+Namespace UI (76 keys)
+	Minigun_Name = ""Kugelhagel" Hochleistungs-Minigun"
 	SMG_Name = ""Stümmelchen" Voltaik SMG"
 	AutoCannon_Name = ""Donnerkopf" schwere Autokanone"
 	MissionStatus = "----- MISSIONSSTATUS -----"
@@ -9526,6 +9609,7 @@ Wenn Sie diesen kurzen Trainingskurs abschließen, stellen Sie dies sicher und s
 	Continue = "Fortfahren"
 	CryoCannon_Name = "Kryo-Kanone"
 	DeepDive = "Tiefenexpedition"
+	DeepCore_NAME = "Tiefenkern"
 	Armor_DESC = "Jeder Satz an DRG-Panzerung wird auf einen hochgradig modifizierbaren Basisanzug gesetzt, der die Eigenschaften der Panzerung stark verändern kann. Leider hat es F&E bis jetzt nicht geschafft, die Feuchtigkeitssammlung des Anzugs für mobile Alkoholproduktion zu verwenden."
 	ChargeBlaster_Name = "Experimenteller Plasma-Lader"
 	Failure = "GESCHEITERT"

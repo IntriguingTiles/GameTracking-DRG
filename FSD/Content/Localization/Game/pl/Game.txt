@@ -1,8 +1,8 @@
-8410 entries
+8436 entries
 26 namespaces
-6604 values
+6631 values
 
-Namespace Global (7896 keys)
+Namespace Global (7906 keys)
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Czarna skrzynka jest gotowa i rozpoczyna bootowanie. Utracimy połączenie, jeżeli nie będziecie blisko, więc nie opuszczajcie oznaczonej strefy triangulacji!"
 	2559D78C40005E5221F26093CB976283 = " Zbierz {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Spadłem!"
@@ -281,6 +281,14 @@ Ogólny"
 	4B6D0DCF4A773E5B6216CFA19D9817FC = "<active>AKTYWNA:</> <h>Oswój glyfidzkiego wojownika</> by został twoim wiernym towarzyszem. Możesz posiadać tylko jednego wojownika na raz. 
 
 <hi>5 minut czasu odnowienia</>"
+	B49F7D3B48DABCA09F2DE38BAA78B0CA = "<active>AKTYWNA:</><h>Raz w ciągu misji</> możesz <h>natychmiastowo postawić na nogi</> powalonego członka drużyny!"
+	537186F042730C83969253AE9CD2FFF2 = "<active>AKTYWNA:</> <h>{value} razy w ciągu misji</> możesz <h>uciec po tym jak zostaniesz porwany</>, zabijając przy okazji swojego oprawcę! "
+	6AF6F4DF480C999E4A787BA0C032D553 = "<active>AKTYWNA:</> Zadaj ból kilofem dzięki błyskawicznie szybkiemu <h>ładowaniu mocnego ataku</>. 
+
+<hi>{minutes} minut czasu odnowienia</>"
+	D9A447424FE6572DC4AF9A9195284267 = "<active>AKTYWNA:</> Wydostań się z kłopotów z pomocą <h>krótkiego przyśpieszenia</>.
+
+<hi>{value} sekund czasu odnowienia</>"
 	476492CA47300BB137D80795A66108BC = "<active>AKTYWNA:</> Możesz <h>wywołać eksplozję, gdy zostaniesz powalony</>, zabierając trochę pajęczych skurwieli ze sobą. 
 
 <hi>{minutes} minut czasu odnowienia</>"
@@ -746,6 +754,7 @@ UWAGA! Jeżeli pominiesz Okres próbny, nigdy go nie doświadczysz, dopóki nie 
 	5A85DE1140E707FCC2A38988D4DAEA30 = "ULEPSZONO LICENCJĘ PIWNĄ"
 	4CA396F145B211685401B4BFF7CBBAA1 = "NAZWA PIWA"
 	285150124FAB5138C3B5AB923D017B1B = "KROW-A"
+	DFEDCAF746A561C2E2C4D0A57D630C8A = "NAZWA BIOMU TUTAJ"
 	C2D6864E4BD7683088529AA7E6BBEEF1 = "BUM, BUM, o tutaj, Bosco!"
 	D261A3BE4530B46D9008A499F3F1AD08 = "PRZEBIJ SIĘ PRZEZ RDZEŃ"
 	E42716A645873C529455708D14B0E4DB = "TERMINAL
@@ -965,7 +974,7 @@ ODPRAWY"
 	C6C72C444505EE006CA604ACE8196DC3 = "Bosco, chodź tu!"
 	9CFDCE8C407BD6E6DFFF56BDA263E5D0 = "Bosco, pomóż mi to nieść!"
 	BE61ED7A41EAFA55C1AB70B284CCA0B5 = "Boscoo! Pomocy!"
-	B6C1785049DC37D1DE35D8A12C2B9AA7 = "Dno"
+	B6C1785049DC37D1DE35D8A12C2B9AA7 = "Nizina"
 	F51513B7435332FDDF5C5DB7D527DDA9 = "Do dna, przyjaciele!"
 	70ED44434DC6EAD5D04285B7F72C4C1F = "Zakupione!"
 	C4DC7A7E42DEFC1130EA07A91EDEA515 = "Zakupione!"
@@ -1240,7 +1249,7 @@ ODPRAWY"
 	138C5C72489506A08BA24D8D76C1B60F = "Średnica wydobycia"
 	8A3C22A5421FDB9C7164B9A48F67446E = "Wyciosane dłutem, a nie brzytwą."
 	23DEED7F4A42382C4ED3E5A8815DACDA = "Katakumba"
-	821198624C9FE124515B41BCF6706362 = "Połów"
+	821198624C9FE124515B41BCF6706362 = "Zarzutka"
 	55EB999248E0C1DBB463458D2526E10C = "Tytuł kategorii"
 	8C3337524BA8A5D96AC755AAE0031261 = "Nadciąga kawaleria. Nowy górnik w drodze!"
 	7194939B4A338E33C4ED3086A9CE35FC = "Koralowiec"
@@ -2776,6 +2785,7 @@ Zarząd"
 	5B79C20340A27DA7239D1CBDA564B8A7 = "Sklep ze sprzętem"
 	528A9EAD4E050AAD1E22938681921B1E = "Ulepszenia sprzętu"
 	247B39D04193F29BBD281A9A39D82DCE = "System Gemini"
+	7A18F036497A082B4251A89412089CAC = "Rzucaj klejnoty oraz inne <h>ciężkie przedmioty z {value}% większą</> siłą."
 	AF9CB524416C57C8A6306697BD33ADDD = "Szybsze ładowanie generatora"
 	E80529BF451F422F8056B9B6FB14085B = "Szybsze ładowanie generatora"
 	ABE6FE7B4CE28BFF870BF98C369C7EB6 = "Generyczny cytat biomu 2"
@@ -2864,6 +2874,7 @@ Nitra (100)"
 	78A1347C4F52EE7C46C0B2A20817600D = "Glyfidzka wylęgarnia robactwa"
 	20F258504DE304E7E7719792C3814CC9 = "Glyfid wybuszysko"
 	5C9234CB474311595C2FD88ECA8A29C2 = "Kokon pancernika"
+	C10CC2614A1169928DD830AE8340E263 = "Królewski Glyfid wybuszysko"
 	B47F83B54FC69617E7B8F3AAB56A65DD = "Glyfid pancernik"
 	530DC0724C29F24DE24F8E876DD63A24 = "Nadciąga Glyfid pancernik!"
 	A916BA4C45BC4BD46B99AAADC4EB0A92 = "Glyfid pancernik!"
@@ -3255,6 +3266,7 @@ prędkość"
 	0CACB4F9460B6020E5E002A7E6936FD6 = "Gromadziciel załatwiony!"
 	E396E9DA4A8A5FC39531AF8FB020505E = "Ładownia"
 	1F42D22546C09CFA0849EC84250A8E97 = "Trzymaj piłkę"
+	21C9F8304D2562590B90DCB24D283232 = "Przytrzymaj [<active>JUMP</>] po tym, jak zostaniesz powalony, by aktywować."
 	4A57FA844576D3368CA46F9D97460B96 = "Przytrzymaj [<active>GRANAT</>] po padnięciu by aktywować."
 	587AE6334CC50073827A1C93B6FD105F = "Przytrzymaj [Fire]"
 	955A5D9947B072265AC616801252F69A = "Przytrzymaj [Fire], aby oddać skupiony strzał"
@@ -5180,6 +5192,7 @@ Poz. trudności"
 	A4B75E864DB874BF192C4484B70AF96C = "BÓL"
 	B7908BFF40B093A2746CF3A051DB497F = "BÓL"
 	C688265942837DDEF12E26A907E40442 = "IMPREZOWY KRASNOLUD"
+	49E7339B46C6CCE5DD35629CCC449570 = "PASYWNA: Za każdym razem, gdy znajdujesz się w <h>odległości 4m</> od członka drużyny, wasze tarcze <h>ładują się o 50% szybciej</>!"
 	E43247564ACF43EFB9AFF4980B8DD23A = "WYPŁATA:"
 	D786C27F4359898A32B133ADE5E1F194 = "PUNKTY CECH"
 	5B80BEB04A9069960C2016A2F65431DA = "CECHY"
@@ -5318,6 +5331,7 @@ Poz. trudności"
 	152CBB1343A42DB40CD58E9371309757 = "Pasteryzowanie…"
 	91DC401E451315B30B7156A64094BCB6 = "Dróżka"
 	720CEB6E486DBF742DE3F9A974925C73 = "Debugowanie wytyczania ścieżek"
+	90AE54F84E0AD866710B3D9176154C53 = "Czata"
 	58D4BDA94B57F0C809B3F2837F90DBBA = "Okaż szacunek – bądź cicho!"
 	F606DA0A48BDC125F06F658CBBA48F9D = "Wypłata, chłopaki!"
 	264F74C44F4DAC9866C3FAA916CD571D = "Najwyższe obr./s"
@@ -6164,7 +6178,7 @@ POSTAĆ"
 	1B5A861E440E5C3DB544FAA04AD871BF = "Tarcza!"
 	A9911C0C40F804A5310DB78EFF2FF591 = "Tarcze ustawione!"
 	97FB80164F2D49196071D9A5B493A545 = "Błyszcząca"
-	75A370814CA1A630777F33B6704252D4 = "Szok"
+	75A370814CA1A630777F33B6704252D4 = "Dezorientacja"
 	B49D0CE044EB650787DFE4B894548F78 = "Amortyzatory"
 	BFF99FC8403150FB445DDDB831EE150C = "Amortyzatory"
 	8FBF1B42418AA56CC3F77A947CC69DBE = "Mieszanina amortyzująca wstrząsy, która zmniejsza obrażenia od upadku"
@@ -8086,12 +8100,13 @@ Namespace Audio (3 keys)
 	Volume_Music = "Muzyka"
 	Volume_SFX = "Efekty specjalne"
 
-Namespace CreatureAttacks (8 keys)
+Namespace CreatureAttacks (9 keys)
 	AttackTypeBite = "Ukąszenie"
 	CreatureTypeFlying = "Latający"
-	CreatureTypeGround = "Gleba"
+	CreatureTypeGround = "Ziemny"
+	AttackSpecialGroundStomp = "Tąpnięcie"
 	WeakpointHead = "Głowa"
-	ArmorImpenetrableFront = "Nieprzebijalny Przedni Pancerz"
+	ArmorImpenetrableFront = "Nieprzebijalny przód"
 	AttackTypeSlash = "Cięcie"
 	AttackTypeSpit = "Plucie"
 	CreatureTypeStationary = "Nieruchomy"
@@ -9278,22 +9293,43 @@ POPRAWKI I UDOSKONALENIA
 	Update_9_Header = "AKTUALIZACJA 9: WYWIERCĘ CIE PÓŹNIEJ! – 09.03.2018"
 	Update_16_ShortTitle = "PRZYSZŁA ZIMA"
 
-Namespace PerkDescriptions (16 keys)
+Namespace PerkDescriptions (31 keys)
+	PERK_ThickSoles = "<active>AKTYWNA:</> Kilka sprężyn, kilka magnesów oraz kilka ogniw paliwowych z czarnego rynku - teraz otrzymujesz <h>{value}% mniej obrażeń od upadku</>!
+
+<hi>2 minuty czasu odnowienia</>"
+	PERK_DoubleJump = "<active>AKTYWNA:</> Zrób <h> dodatkowe wzbicie się w powietrze</> po tym jak skoczysz!
+
+<hi>{value} sekund czasu odnowienia</>"
+	PERK_IronWill = "<active>AKTYWNA:</> Nigdy się nie poddawaj! <h>Raz w ciągu misji</> wstań z powrotem do walki z siłą i energią napędzaną gniewem na <h>{value} sekund</>, zanim padniesz na dobre!
+
+W tym stanie <h>poruszasz się szybciej</>, <h>zadajesz więcej obrażeń</> oraz jesteś <h>odporny na spowolnienia</>. Dobrze to wykorzystaj!"
 	PERK_QuickRecovery = "<passive>PASYWNA:</> Nie zostawiaj żadnego krasnoluda! Ożywiasz sojuszników <h>{float_value}% szybciej</>!"
+	PERK_CaveLeechSense = "<passive>PASYWNA:</> Otrzymasz <h>wczesne ostrzeżenie</>, gdy kreatura będzie miała zamiar cię złapać."
+	PERK_REsupplier_B = "Po uzupełnieniu zapasów wszystkie bronie są <h>natychmiastowo przeładowywane</>!"
 	PERK_WeekendAthlete = "Zwinny krasnolud to żywy krasnolud! Teraz biegasz {value}% szybciej!"
 	PERK_Berzerker = "Krasnoludzki gniew! Zadajesz +1 obrażeń w walce wręcz za każde {value} punktów zdrowia, których Ci brakuje!"
+	PERK_MarathonRunner_B = "Efekt aktywuje się po <h>{float_value} sekundach</> od rozpoczęcia biegu."
+	PERK_ExpertDepositor = "Fachowa obsługa wiader! <h>Deponujesz</> kosztowności do MUŁA i kapsuły desantowej <h>{value}% szybciej</>!"
 	PERK_BugThing = "Z jakiegoś powodu, kradniki wybuchają, kiedy znajdziesz się w <h>odległości {value}m</> od nich...!"
+	PERK_MarathonRunner = "Uzyskaj <h>zwiększoną prędkość sprintu o {percent_onebased}</>."
+	PERK_RedSugarRocks = "Zaczyna ci smakować! Otrzymuj <h>{value}% więcej zdrowia</> od spożywania czerwonego cukru!"
+	PERK_Vampire = "Dobrze, że pracujesz pod ziemią! <h>Odzyskasz {value} zdrowia</>, jeżeli zabijesz <h>średniej lub dużej wielkości</> kreaturę w walce wręcz!"
 	PERK_DeepPockets = "Nic nie zostawiaj! Każda twoja torba na minerały posiada <h>+{value} więcej miejsca na kosztowności</>!"
 	PERK_AdditionalActivePerkSlots = "Pniesz się do góry! Wyposaż aż do {value} aktywnych cech na raz!"
 	PERK_AdditionalPassivePerkSlots = "Pniesz się do góry! Wyposaż aż do {value} pasywnych cech na raz!"
 	PERK_Salute = "Nd."
 	PERK_Thorns = "Nd."
+	PERK_CaryingSpeed_B = "Nic cię nie zatrzyma! Efekty spowalniające powodowane przez otoczenia są <h>zmniejszone o {value}%</>!"
 	UI_EquipLocked_ByPromotion = "Awansuj {character} raz by odblokować ten slot."
 	PERK_Resupplier_C = "Zyskaj {value}% więcej zdrowia po uzupełnieniu zaopatrzenia."
 	PERK_ZiplineSpeed = "Dzięki kilku sprytnym usprawnieniom poruszasz się na tyrolce {value}% szybciej!"
+	PERK_FriendlyFire = "Dzięki sile przyjaźni oboje <h>otrzymujecie i zadajecie 50% mniej obrażeń</> od przyjaznego ognia!"
+	PERK_AutoReload = "Schowane bronie zostaną automatycznie przeładowane po upływie <h>{value} sekund</>."
 	UI_EquipLocked_ByPerk = "Ulepsz cechę {perk} by odblokować ten slot."
+	PERK_FlareThrower = "<h>Rzucasz flary z {value}% większą siłą</> niż przeciętny krasnolud! Siup!"
 	PERK_BarrelKicker = "Możesz kopać beczki mocniej, niż niejeden krasnolud, który nie posiada tej cechy!"
 	PERK_CarryingSpeed = "Poruszasz się <h>{value}% szybciej</> niosąc ciężkie obiekty!"
+	PERK_Resupplier = "Jesteś zapracowanym krasnoludem i masz robactwo do rozwalenia! Uzupełniaj amunicję i zdrowie <h>{value}% szybciej</> ze zrzutu zaopatrzenia."
 	PERK_CooldownGeneric = "{value} sekund czasu odnowienia."
 
 Namespace Progression (6 keys)
