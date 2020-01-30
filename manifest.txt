@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 90207876321599759 / 01/30/2020 10:51:04
+Manifest ID / date     : 5080390854855068431 / 01/30/2020 13:56:28
 Total number of files  : 128
-Total number of chunks : 2557
-Total bytes on disk    : 2538526903
-Total bytes compressed : 1565810496
+Total number of chunks : 2560
+Total bytes on disk    : 2538716933
+Total bytes compressed : 1565948400
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -147,13 +147,13 @@ Total bytes compressed : 1565810496
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content/Paks
-      11192922     13 95980C0E66436CED269F5BE185210313736C07C4     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
+      11192922     13 F9F2947F0F1BB3181AA502BBE6EA33490452F066     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
              0      0 0000000000000000000000000000000000000000    64 FSD
         517632      1 4A66A4E435BB71AEE796E8AE183440FE322D1481     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      59546112     57 A1C924619CD9F2B583E04CC155CE321886A297A7     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
-     639250432    613 25C4684BB810CADAECC956EF15451BED72AF5AC1     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
+      59549696     57 4EE231C72D137924431723C911AF0E09096203D0     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+     639291392    613 780EDBB5CC4253B3E7D2FF673F3BF1C55181816C     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
        4327248      5 031766199999581C94CE46188777D3FBDA9E31D7     0 FSD/Binaries/Win64/dbgeng.dll
        1369936      2 EC3A7FD5861447D615968C51E507CD376A48BD6B     0 FSD/Binaries/Win64/dbghelp.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
@@ -175,7 +175,7 @@ Total bytes compressed : 1565810496
       23800867     23 FFEBCBFD6DEFFF1C7A57F684A2626420E2A67AC5     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SaltPits_New.mp4
       25906254     25 F9D9627C3B1C996F0A8DDF433368E89398C781CB     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SandblastedCorridors_3_BrightnessUp_adjustcolor.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-     965460765    971 C4A05DB5C9E9ADDB27CAFC39B578337E93BA7A65     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+     965606251    974 5C7423D08AD0C718A760E2ADFBD5BC927BF53B3C     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins
@@ -190,5 +190,5 @@ Total bytes compressed : 1565810496
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64
         400392      1 0B9715D71EF16CA7EA9DDA0BAC6A3944CFA01955     0 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64/discord-rpc.dll
-          1216      1 1F1E6349AAACE6C6F6674D262111ABEB167C8B75     0 Manifest_DebugFiles_Win64.txt
-          9524      1 91A7B851DEB55A9BE88FFC1A0107467E7FE721E6     0 Manifest_NonUFSFiles_Win64.txt
+          1216      1 1E8CA71C95DB7D691D9400CB1C7C369CDD74A037     0 Manifest_DebugFiles_Win64.txt
+          9524      1 BEC2FE0CB2A4D0763B40CB02985798291EF46FE6     0 Manifest_NonUFSFiles_Win64.txt
