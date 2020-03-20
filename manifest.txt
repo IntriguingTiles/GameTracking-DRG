@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 575268915598575204 / 03/12/2020 12:27:04
-Total number of files  : 128
-Total number of chunks : 2599
-Total bytes on disk    : 2542823787
-Total bytes compressed : 1569584848
+Manifest ID / date     : 5938595656063993136 / 03/20/2020 14:11:36
+Total number of files  : 116
+Total number of chunks : 1824
+Total bytes on disk    : 1760664103
+Total bytes compressed : 1501535088
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -95,25 +95,15 @@ Total bytes compressed : 1569584848
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX3/Win64
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015
        1219072      2 4AF4F9660915A3C871DB3D136FC946930F0A8208     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.dll
-       8073216      8 7F155C7ACEE2E43EA2D2BE7D2034AA72383B37CE     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.pdb
        2009600      2 F4B991F59F429C6410AEF58BB54FD04B0C823AE9     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Destructible_x64.dll
-      11710464     12 A977CA30802EC3318A10EE3ABD415213265D1518     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Destructible_x64.pdb
        3329536      4 F613ED47B1ACCA18266811EB52EBA3B16A6FC2F7     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.dll
-      18755584     18 0785500566F54B4BE148EAC24E221F12546ACBC9     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.pdb
        1043968      1 2E95D457B7FFF13F245174F536A5E556017346C9     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.dll
-       7868416      8 91682A9A7DAD58B32AA6D1DE3A41E40669AF456D     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.pdb
         265728      1 026D77A9675DC0B185F98E6C40DA5A64A3B62C87     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.dll
-       2461696      3 109A6AF8486522B3B267653B4B56EB40957A12FC     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.pdb
        1598976      2 B32FED7A35F87263EBB94C9AE800AF28DF615B26     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll
-       9744384     10 97890479A18034B7AC0893C53B6E50DD10CE6FB8     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.pdb
         244736      1 55C35F5AA125C0BDE96069760F02A08F882F7371     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll
-       1921024      2 FAF864BDD3C25EB2CFE988ED58F0662DD229ACAE     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.pdb
        2106368      3 7C9F52425AF79EBE72CBE604DB6AB8F59B0800D1     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll
-      18075648     18 8BEFF4F2287B0039E8C3B0E9AE2E5C90D759AC68     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.pdb
          54784      1 944DBDDEC40D670EDC7F793F98804F365D06AEC4     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll
-        937984      1 3CAE091D5E09C23D13F2DB708311CB6951C726F4     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.pdb
         188928      1 DCA5B6FFA2D32D339ABFA3C5A651C205010E52DB     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll
-       2502656      3 2FA0438C7D865EB68C66FD616BDCF02382F2E8EF     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.pdb
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Steamworks
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Steamworks/Steamv139
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64
@@ -131,8 +121,7 @@ Total bytes compressed : 1569584848
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/libsndfile/Win64
        1810944      2 5D7013E9D4CAD2D9088F756FA2A692462FA230F7     0 Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/Win64
-      16343040     16 A853A541D699C32615805CBCBB43CD4D726987D3     0 Engine/Binaries/Win64/CrashReportClient.exe
-     130904064    125 E1400E12DCD3AA0AD75BDF4449623618D3ADA8EB     0 Engine/Binaries/Win64/CrashReportClient.pdb
+      16339968     16 C3C0194358E7D8F27FD3ABE1181EBC49B8BFEC61     0 Engine/Binaries/Win64/CrashReportClient.exe
        3693568      4 C2051E1573CCAA942FB4FF043386C989DF2DBF7E     0 Engine/Binaries/Win64/UnrealCEFSubProcess.exe
              0      0 0000000000000000000000000000000000000000    64 Engine/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Content/SlateDebug
@@ -147,13 +136,12 @@ Total bytes compressed : 1569584848
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content/Paks
-      11192922     13 98ED4EC2F15A161816FB60AC0B44342E27A3C0B4     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
+      11192852     13 FBCA3079B06D4568B996B28C279EB1C9E13E9A06     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
              0      0 0000000000000000000000000000000000000000    64 FSD
         517632      1 4A66A4E435BB71AEE796E8AE183440FE322D1481     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      59622400     57 619E8F2A3C96BC51A73B98852FA0C1E7638ADBA5     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
-     639856640    613 19D03736103485C82A2B5BE94D913AABF8696089     0 FSD/Binaries/Win64/FSD-Win64-Shipping.pdb
+      59881984     58 7913D858084324546298588EA0B96481B432545F     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
        4327248      5 031766199999581C94CE46188777D3FBDA9E31D7     0 FSD/Binaries/Win64/dbgeng.dll
        1369936      2 EC3A7FD5861447D615968C51E507CD376A48BD6B     0 FSD/Binaries/Win64/dbghelp.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
@@ -175,7 +163,7 @@ Total bytes compressed : 1569584848
       23800867     23 FFEBCBFD6DEFFF1C7A57F684A2626420E2A67AC5     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SaltPits_New.mp4
       25906254     25 F9D9627C3B1C996F0A8DDF433368E89398C781CB     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SandblastedCorridors_3_BrightnessUp_adjustcolor.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-     969075153   1013 1256DB0A0C432868F24B6E1C68C5064430042443     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+    1039470803   1058 C900C2F0B4AB76103489FE8149226A24C6B8473F     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins
@@ -190,5 +178,5 @@ Total bytes compressed : 1569584848
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64
         400392      1 0B9715D71EF16CA7EA9DDA0BAC6A3944CFA01955     0 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64/discord-rpc.dll
-          1216      1 076F813FAF29CD2447B0E7F44BF0021DFB32D0F1     0 Manifest_DebugFiles_Win64.txt
-          9524      1 36C01C11454E7E467615B78DDA0AEEBB7272300F     0 Manifest_NonUFSFiles_Win64.txt
+          1216      1 D61F8060F3178BBABA9EC4752FD5A4636AF629E2     0 Manifest_DebugFiles_Win64.txt
+          9524      1 18BAA7CFE6B902C6BAF60F8DE3EB3AE01A3E1C43     0 Manifest_NonUFSFiles_Win64.txt
