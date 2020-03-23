@@ -1,8 +1,8 @@
-5613 entries
+5619 entries
 25 namespaces
-4479 values
+4484 values
 
-Namespace Global (5342 keys)
+Namespace Global (5347 keys)
 	2559D78C40005E5221F26093CB976283 = " Samla {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Jag föll!"
 	31D60A1449082F9AB6DC15844F3810F6 = " KRÄVS"
@@ -94,6 +94,7 @@ Namespace Global (5342 keys)
 	944FDB8A456A8BD1475D9A8182BF7D66 = "...Har gravitationshgrunkan ballat ur igen...?"
 	96F5B0534168C8882174EA9F5FEAC9A6 = "...Har gravitationshgrunkan ballat ur igen...?"
 	610A35A6460AE74E8D2B5B9D80081A9A = "...Det är inte ett vapen om det inte väger mer än 100 pund."
+	01B9954B48CCE4505997BF8AADA5A6EA = "...Inte...än!"
 	87F424944AEA4F4FBCFB6499FC873EEB = "...Hoppas verkligen min rustning är rostskyddad!"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "-TERRÄNGSKANNER MK3-"
 	11168284465F5822F5AFBB936F248453 = "1. Om detta är första gången du ser detta vänta några sekunder.
@@ -176,7 +177,6 @@ Namespace Global (5342 keys)
 	6D74A279453F87A6EBCA26AB7A1DB1A7 = "En tidlös klassiker. Fastnar på alla ytor och exploderar kort efter att en fiende kommer in i utlösningsområdet. Om den inte hittar ett mål kan den desarmeras och plockas upp igen. Notera: Närhetsutlösaren kräver några sekunder för att kalibreras."
 	3B127B1C41B552DF26505292024E7A48 = "ABYSSBAR"
 	B945D0E94F20DFA0E6C90DAF273D2A1C = "ABYSSBAR"
-	CE7EA13B47FE39FB51EDFF815FD7DAA5 = "LÄGG TILL MIG I SPELET"
 	1557E1D24CCF618B8B65659C0DA61CA2 = "SIKTA INNAN DU SKJUTER!"
 	76A4C71F40A6600464CF538B0BA3EF0C = "VARNING"
 	9D4A6C964766878937146DACFC05C03D = "ALLA"
@@ -1407,7 +1407,6 @@ Ledningen"
 	8915FA1F490BB1FCAE9D13A3D975012A = "ANGE NAMN"
 	EEE4AF9040DAF7D535A066A4B3B775E8 = "FELLOGG"
 	B060EB024B64A3862DAEF98279BAA95A = "UTGÅNG"
-	57407B504CECBAE4EEA8F797E8BE1291 = "AVSLUTA SPELET"
 	3F4DEFCC4BA5454B1B801FA7A275FA4E = "AVSLUTA TILL SKRIVBORDET"
 	7D492C69476154C13DFDD59E087CF898 = "BRYT {Name}"
 	5FB1DE214CAC78EB32A958ABB9B0D20E = "EXFILTRERING"
@@ -1572,7 +1571,6 @@ Ledningen"
 	A56A849D4B90D3A0666D14B9E66F4132 = "SKJUT
 BANA"
 	BE490022454CA18B174733BAD6578595 = "FÖRSTA DAGEN PÅ HOXXES IV"
-	769FEE4E40E3A5428C4D6C98F62C7168 = "FÖLJ OSS PÅ STEAM"
 	066905D7493F5F71349759AD5C43CC08 = "FÖR STEN OCH BUMLING"
 	99BF416B466442F865831487B5B4979D = "TILL ROCK AND STONE"
 	B37292614CA4614BA887CE8D850CDC0A = "TILL ROCK AND STONE"
@@ -1612,6 +1610,7 @@ BANA"
 	49267D7D45C5CECD73C716AE3B92C1AC = "Feedbackloop"
 	2925DD334071A3B850213DBF5F7CCE20 = "Mår mycket bättre nu!"
 	B9AAF2AB45F343573C64B2802999CDB8 = "Mår mycket bättre nu!"
+	00D90D1F43A46576CCF88BB61EA2BA8F = "Känner du dig frusen? Eller har du sett ett spöke?"
 	2DD00BA144406B9537977589FAB695F2 = "Känner mig mycket bättre nu!"
 	C90D261E4FB756830866F584E8471FB2 = "Mår mycket bättre nu!"
 	1DCDD1574EC69833A2F3688BA47BF094 = "Staket"
@@ -1632,6 +1631,7 @@ BANA"
 	6A2F63204A5FED74CCA83A8D24812A50 = "Äntligen...."
 	4852233647F64F672DBB04AE4D2358D5 = "Fynd"
 	6E1245814EA1D86534832BB284EE1AFD = "Hitta Uppdrag"
+	00378AAA42B4ACD35E12E6AA8A0CD7AE = "Hitta kokongerna"
 	01FC054F43566406C476C5BEA346A9D6 = "Drick upp, gruvarbetare! Deep Dive börjar nu!"
 	66A7BD9F4745F011CC23D4982F605BC2 = "Skjut"
 	C0843732426F638136ED61BE0101DFD2 = "Brandsäker beläggning"
@@ -2351,6 +2351,7 @@ BANA"
 	ED4848FE44D8B4D54FDEB081ED219B8C = "Jag borde ropa på M.U.L.A!"
 	156C15964C35B6DD019299A464F3D435 = "Det luktar bacon!"
 	181C52914F4B278A18C5F98AE1D7F037 = "Det luktar bacon!"
+	01A5FC9E4A0ABB2758BD16B1A85F1C11 = "Jag låter som en förbannad trädkramare!"
 	940B4D534DD9B837F0E121B193F54109 = "Det där var bara otur!!"
 	0C70AB8A4587EEC6C10E25B7FF296883 = "Jag tror det är tillräckligt med kaffe för en dag."
 	2A005E294EBE2C1383E73CBB73B88016 = "Jag tror att det finns något här!"
@@ -2829,6 +2830,7 @@ HANDLEDNING"
 	C9258B324B4E2508F186AFBC917A469E = "Laddade"
 	6564A7DC419EB8FA511A8687187C7B44 = "Laddade skott"
 	59F15BE845DF3FE5E0ED7DA3CE4E1ED8 = "Laddade hylsor"
+	0185FE994364A819293EE78808EAB22F = "Utrustning"
 	045D54AA4686BDC54425E7A3D339EDF0 = "Lås Vertikal Muskänslighet"
 	34B308784C01C313AE5597AE94A62A21 = "Laddat och klart!"
 	66E3E7D947F72A05A557B38645726B9C = "Laddat och klart!"
@@ -3199,6 +3201,7 @@ HANDLEDNING"
 	D6E8E48E4F1A48BF1A23D481041AC11E = "Namn"
 	E502F363439982CA95E1BE8D17E6A17A = "Namn Här"
 	7E2E71124688CC4351F718BF59A4F5E3 = "Naturliga"
+	00864B4A44AB94DD692ADE8C456942E8 = "Navigiering"
 	A80AD3F144DDCE303CC3029AAE823552 = "Behöver en hand här!"
 	AA26052144FA22C473BCCCBD2BC89B6A = "Behöver en hand här!"
 	677F531444614426BFAABFBB3ABA5353 = "Jag behöver hjälp med detta!"
@@ -3500,7 +3503,6 @@ Men bra jobbat. :D
 	D87C8C21404AB445120EC381D254B634 = "FÖREDRAGEN REGION"
 	26FDD8C9457AF57F760EE6ADC035C4BC = "FÖRUTSÄTTNINGAR:"
 	F3155C474EF53C36803B23875CCECF17 = "TRYCK PÅ VALFRI TANGENT FÖR ATT FORTSÄTTA"
-	A7FA5FB342C218181CDE8DADE821FD8F = "TRYCK PÅ VALFRI TANGENT FÖR ATT AVSLUTA"
 	680CF46F443D5BB1D62DEDB346CB9C4C = "TRYCK [CallDonkey] FÖR ATT KALLA PÅ M.U.L.A."
 	726A354D42D77EA0A34584944346937A = "TRYCK [EquipResupply] FÖR ATT VÄLJA LEVERANSKAPSELN OCH TRYCK SEDAN [Fire] FÖR ATT BESTÄLLA"
 	9AD2FB414E12C8D2E3781DB47856BF5C = "TRYCK [EquipResupply] FÖR ATT VÄLJA LEVERANSKAPSELN OCH TRYCK SEDAN [Fire] FÖR ATT BESTÄLLA"
@@ -3511,7 +3513,6 @@ Men bra jobbat. :D
 	E501CABD480DE511EC843F83B6B411FB = "TRYCK [Fire] FÖR ATT BESTÄLLA"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "TRYCK PÅ [Flare] ATT KASTA ETT BLOSS"
 	E66F2965440023B51A13E5B5253ED0BC = "TRYCK [Jump] FÖR ATT FORTSÄTTA"
-	FD12F4A94EC35363633682B3B98ECBAE = "TRYCK [Jump] för ATT AVSLUTA"
 	54252A9A47A6776CFE924B93B30F5B44 = "TRYCK [Salute] FÖR ATT GÖRA HONNÖR"
 	7FABFBA24AAC4686FB3FCC9420150CF7 = "PRIVAT SPEL"
 	E6CE771943558977A67F7296A448F6B3 = "PROGRAMMERARE"
@@ -3830,6 +3831,7 @@ ANSLUTNING"
 	D46A6DFF491718FC1F5200A33CB428C4 = "Redo att döda några fler kryp!"
 	654D08654C3F79C50F3A87A9875A2D6C = "Redo att avgå!"
 	0F6DF48340A35842A22D4B8A99757AB4 = "Redo att skjuta!"
+	01D5B68441B885C478D26F87104DF13B = "Bakre Blad"
 	4148504943DF17CE763B44855C9F67BD = "Anledning:"
 	E4E4D95A4F78B46199F5DE86B986C73B = "Omkalibrering av gravtitationen påbörjas!"
 	10374DF344DA1706BD000F85A1661507 = "Nyligen avlidna arbetare läggs inte till på minnesplatsen, men vi hedrar dem ändå!"
@@ -4050,7 +4052,6 @@ UPPDRAG"
 	2357972345EAE02BE78AFEA8D7DAE3EF = "STÅ TILLBAKA!"
 	3A55282B4DEE1FE477966F9D9B0D5750 = "GÅ UNDAN!"
 	BFA73B7040990E638C65498EF041323D = "STÅ TILLBAKA!"
-	CB0732E24CC6D2BE0BF832B76408D80B = "STEAM PROFIL TILLLAGT"
 	12311F574A375670E60E5E9DD98FA75D = "DIREKT FRÅN UNDERJORDEN"
 	5FC0F6924D087A16F27B18AAED4BA1C8 = "LEVERANSKAPSEL"
 	9BD4EB3E451653B82526479AED69BE96 = "LEVERANSKAPSEL"
@@ -4486,6 +4487,7 @@ UPPDRAG"
 	6941416A40FA65C3858D979B8346F73A = "ABYSSBAREN"
 	DF9152664C7BADD3A97A6F95722CFDAF = "LASERPEKAREN"
 	BBF3B4054F29E874B222A2B140CE9C2C = "MINNESSAL "
+	67074A2E4BA678EE475E7AA88B7A1BE9 = "BUTIKEN"
 	0A66936C4BCDB9BCC809D69E6ABC6181 = "Det HÄR ....och en öl! Vad mer kan du önska!"
 	8EB5D5DE4B6B42A91E824D914C0F55B1 = "Detta är en test biom"
 	37EF676248101411CD827F953EB8D02D = "Timmer!"
@@ -4966,6 +4968,7 @@ DROP BAY"
 	2F8B11D5409C76EA293AB182CE32DB22 = "Tryck [-MoveRight] och sedan [+MoveRight] för att ta dig loss"
 	2A8042F941F719E47FB6CFAEC2008E75 = "Använd [MoveRightRate] För Att Slå Dig Loss"
 	0A63239C4AAD260AD43AB9B08F8CFD31 = "Använd eletronkretsen i kulsprutepistolen för att boosta dess avlossningshastighet men till bekostnad av träffsäkerheten."
+	0241B7884A94403E130F1596763117D5 = "Använd din utrustning"
 	78BE637E40436475A8505A945B87D880 = "Värdelösa"
 	29A7167A4E584AAB289BE7AD90737251 = "Använder Test"
 	2EF13B2D4A1EE3F26B9D4C9DBB09D254 = "Använder Test"
@@ -5135,6 +5138,7 @@ Du kan ändra dessa inställningar senare i inställningsmenyn."
 	143CACC14BC9B8CCB2060FA28548AD9E = "Välkommen ombord, gruvarbetare!"
 	CA46EF6348F600262B35F2A04A53CA74 = "Välkommen till planeten Hoxxes, gruvarbetare! Detta kommer att bli ditt första dyk ned i underjorden och det ger dig en chans att lära dig hur vårt arbete här går till."
 	69A0B72242F1E73749D7F8B45F30EA2D = "Välkommen till laget!"
+	1867142843310429266469A241F8B5A6 = "Välkommen, högt värderade kund!"
 	A2E6188C43040DC68AEE38A3448A14BC = "Brunnar"
 	2C932F39482CA907D85B8E935B54839B = "Väloljad Maskin"
 	34E5150544EC5DAFAFC7B09B238A6013 = "Bra gjort! Kärninfusion är aktiv!"
@@ -5356,6 +5360,7 @@ Detta är lika mycket som ett misslyckats uppdrag."
 	D136FF8441BE769512D6D08DE44C56CB = "[Visslar]"
 	381B1BA94FDC8D216E77A4BD324D71F8 = "borta"
 	57FC7CA44CED73E8D8E44589B217CE12 = "har beställt en leveranskapsel!"
+	4074296A4617138EB4C3E5AD936135D7 = "är öppen!"
 	44F2D16748B303B3AF5DB48C96EF1897 = "det är en spottbollare!"
 	8A2E5DD841937D0505DCB9B762C9C4E1 = "magiska armar"
 	301860DA48B90CD11DF217A9827A49D2 = "brutet"
@@ -5435,7 +5440,7 @@ Namespace OC_BonusAndDrawbackLines (10 keys)
 	Bon_DamageBig = "Betydande ökning av skadeverkan"
 	Pen_RecoilMedium = "Starkare rekyl"
 
-Namespace PatchNotes (34 keys)
+Namespace PatchNotes (35 keys)
 	Update_23 = "Okej gruvarbetare, samling och håll snattran!
 
 Det verkar som att gamla Hoxxes fortfarande har många överraskningar åt oss - sedan en månad tillbaka har våra skanners börjat notera ett gäng nya och oroväckande tecken på liv. Vi förväntar oss att ni kommer att möta en mycket mer varierad mängd "naturliv" nere i grottorna så DUBBELKOLLA ER UTRUSNING och TA MED SÅ MÅNGA GRANATER NI KAN BÄRA. DRG är inget företag för spetsörade fegisar, så det är bara att bita ihop, vi har kvoter att möta upp.
@@ -6568,6 +6573,82 @@ MISC.
 - Tweaked 'Player Down' HUD & team icons.
 - Mission Control now announces gravity recalibration.
 - The hosting player now jumps the same height as clients (was lower before).
+"
+	Update_28 = "Hej gruvarbetare!
+Sugen på förmåner? Bra, för Uppdatering 28 är här för att tillfredställa er med en köttig uppfräschning av hela förmånssystemet, första delen av vår nya design av Rymdstationen och några riktigt coola sätt att anpassa hur era vapen ser ut,
+
+Vårt fokus här på Ghost Ship är att göra spelet redo för 1.0. En del av av de pågående grejerna vi jobbar med handlar om en bättre upplevelse för nya spelare, samt den uppkommande Gruvarbetarmanualen som kommer att lära er mer om spelet. Sist men inte minst kommer vi att göra massor av livskvalitetsförbättringar - men det är i kommande uppdateringar, nu pratar vi om Uppdatering 28. Låt oss grotta ner oss!
+
+Vänligen,
+The Ghost Ship Crew
+
+Patchnotes på engelska följer nedan:
+
+--- PATCH NOTES ---
+
+PERK SYSTEM OVERHAUL
+----------------------------
+Perks can now either be Passive or Active. Passive Perks are pretty much what the Perks used to be. Equip one of these and you get a passive increase to a given stat. No activation needed - equip it and the benefit is just there. Active Perks, however, requires activation from you, and generally have either a Cooldown on their use or limited uses - sometimes even both! Their limited usability is compensated for by letting us make them more powerful.
+
+With Update 28 we are also introducing a bunch of new Perks, both Passive and Active, and have tweaked the costs and requirements for pretty much all of them. This means that all Perk purchases have been reset, any spent Perk Points have been refunded to you, and all Perks need to be unlocked once more.
+
+We hope you’ll have a lot of fun playing around and experimenting with the new Perk System, and as always we’re looking forward to hearing your feedback. 
+
+
+SPACE RIG REDESIGN
+----------------------------
+The Space Rig is something we’ve wanted to update for a long time. It is, however, a large task, and we will be doing it in steps. The first and most crucial step is what we’re doing in Update 28 - the overall rearranging and restructuring of the place, and getting everything in more contextually sound and meaningful positions instead of just having rows of identical terminals next to each other. Work on the Space Rig will continue from now on and up until we end Early Access and launch the game fully, and will include full terminal overhauls such as how we’ve treated the Forge by giving it a fully custom model from the get-go.
+
+
+PAINTJOBS & FRAMEWORKS [COMMUNITY REQUEST]
+----------------------------
+Sometimes good things come out of a bug! As some players have pointed out, a bug in the Equipment Terminal allowed you to merge some of the weapon skins together. We’ve decided to implement it as a full feature after seeing the response it’s been getting. 
+
+Weapon Skins are now divided into two distinct categories: Frameworks and Paintjobs. Frameworks change the actual model - adding or altering stuff on the weapon to make it look different. And Paintjobs is the overall coloring and texturing of the weapon. Making this split allows for a lot more combinations than were available so far, and should serve to make new Paintjobs feel a lot more rewarding to get than before since you can use it with any Framework. Every existing skin has gone through this revamp, and you get to keep anything you’ve already unlocked.
+
+
+BLANK CORES VS. RESOURCE CANISTERS [COMMUNITY REQUEST]
+----------------------------
+If you have obtained all Overclocks you used to get a resource core in place of an Overclock. You now get a blank core instead. We agree with you that it makes so much more sense, though it will make you guys who play a lot, burn through the content that much faster. 
+
+
+MISC.
+----------------------------
+- Lootbugs can now seek out and eat loose mineral chunks!!!
+- Overhauled the damage direction indicator
+- Added loadout selection to the Character Selection Terminal
+- Added loadout selection to the Character Selection screen when joining a mission in progress
+- Added new shield regeneration sound
+- Added a new headbutt attack to the Glyphid Oppressor
+- Added a new sound that plays if you have no flares when you try to throw one
+- Resupply Pods are now on a shared (short) cooldown to prevent multiple people accidentally ordering at the same time
+- M.U.L.E. and Bosco are now visible on the Terrain Scanner
+- Dwarves are now less attractive to walking enemies and more attractive to flying enemies when using a zipline
+- Added a first and third-person pickup animation to the Impact Axe
+- Added a first and third-person pickup animation to the Satchel Charge
+- Black Box objectives are now affected by gravity
+- Golden Bugs now drop a chunk of gold when they die instead of just adding it to the Team Depository
+- Space Rig: Fixed escape-holes around the window (shame on you!)
+- Increased the volume of the battery sounds for Cargo Crates
+- Improved the collider of the Cargo Crates
+- Cargo Crate outline is now visible on hold Tab from when you insert the first battery until the loot is collected for the local player
+- Fixed some networking problems with the Cargo Crate that made it have the wrong color for clients
+- Mactera Grabbers and Nayaka Trawlers can no longer grab Spitball Infectors and Brood Nexuses if they have been hit by a Pheromone Grenade
+- Fixed a bug that zipline can impact characters and enemies when it’s not supposed to, creating really short and silly ziplines
+- Fixed “Lead Storm” Powered Minigun getting extra heat if you fire in small bursts
+- Fixed Mactera Spawns not dropping Kursite if frozen
+- Fixed a bug that made some Omen Modular Exterminator module combinations rarer than others
+- Fixed Homing Drone modules of the Omen Modular Exterminator all tilting in the same direction when opened
+- LMG Gun Platform: Changed the Manual Targeting mod to the Hawkeye System mod which increases the effective range of the turret(s) on top of offering manual target prioritization
+- Proximity Mine now has a 3-minute lifespan after being triggered once
+- Disabled dwarves being outlined when shouting
+- Changed text from pickup to disarm when retrieving a Satchel Charge 
+- [Translation] Fixed Weakpoint Stun Chance / Duration could not be translated correctly
+- Fixed a camera shake issue with the Resupply Pod when the terrain beneath it got removed
+- Fixed a crash caused by the Pheromone Grenade
+- Fixed a bug that caused a grenade to stick to the player's hands if you are grabbed while throwing a grenade
+- Customizable HUD: Perk HUD icons now hide/show along with player health bar
+- Loadout selector added to The Accessory Shop
 "
 	Update_16 = "Hej gruvarbetare! I är tillbaka i sadeln efter en skön sommarsemester och har satt ihop en ny uppdatering åt er. Som svar på allt det varma vädret vi har haft tänkte vi att det uppenbara vore att lägga till ett isbiom. Eller? Patchnotes följer på engelska.
 
