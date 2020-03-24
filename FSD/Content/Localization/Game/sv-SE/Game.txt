@@ -1,8 +1,8 @@
-5619 entries
+5634 entries
 25 namespaces
-4484 values
+4495 values
 
-Namespace Global (5347 keys)
+Namespace Global (5350 keys)
 	2559D78C40005E5221F26093CB976283 = " Samla {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Jag föll!"
 	31D60A1449082F9AB6DC15844F3810F6 = " KRÄVS"
@@ -328,7 +328,6 @@ Namespace Global (5347 keys)
 	5EA04C2442C0D7F21C5ECA96A9C54E66 = "Beväpnad!"
 	18F8D2F14BB56B88465EEBB1385D7299 = "Rustning"
 	7DDD6698496CC4D83DFD29BA040A354E = "Rusning"
-	D176308541863A29511C2481D3B6678E = "Rustning"
 	9A78E1364E263F55A79177BE91A7A8C2 = "Pansarbrytande"
 	B66357CD41F3A347A5BFDE8AFC3B3179 = "Pansarbrytande"
 	D1429AA949433BE5BC01699B52AAECAB = "Pansarbrytande"
@@ -1413,6 +1412,7 @@ Ledningen"
 	D37404E244342AA47588AFAA6B86F192 = "EXFILTRERING"
 	8DE93F804D286AD244AC3C9C30966097 = "Blää "
 	14372B974C7C0643FBA3A6A7D8079483 = "Marker"
+	2F8BB18744DB3F9AFB75FFA5D16EADE7 = "Lätt som en plätt!"
 	06A3915F42002FD4D8BC1CB29B175277 = "Lätt som en plätt!"
 	2D0D0F2C49874BC4C64011B6A247DFFF = "Ät detta!"
 	3C03FEDC441AFF683A5F8C8FD52AE9A4 = "Smaka!"
@@ -1923,7 +1923,9 @@ BANA"
 	F81067EE458956C30ECFEEA99BC6915E = "Plågoglyfid! "
 	B1025BF846B5F071173E708DC5AF4395 = "Plågoglyfid! Ta skydd!"
 	DAC649E44C864E3F42BDD98F8C434126 = "Neurotoxinbeläggning"
+	2B96F94341425D47E84F5EA09A497B24 = "Förtryckarglyfid"
 	94D11585499A7AE4608D8BB1BE24D8C1 = "Förtryckarglyfid"
+	8491FC9C4F8CA9C4B26F96A71909CBC0 = "Förtryckarglyfid"
 	FA8F44C946CD7ABC7358039A193E66E7 = "Praetorglyfid"
 	8570F41541CC2BF69381E68E632A0C24 = "Praetorglyfid eliminerad!"
 	46ACC5DB49459F62F66B59A004754A16 = "Praetorglyfider anfaller!"
@@ -3518,6 +3520,7 @@ Men bra jobbat. :D
 	E6CE771943558977A67F7296A448F6B3 = "PROGRAMMERARE"
 	2595DDF2421600A4E23DBA930382415D = "BEFORDRAN"
 	D719A1FC4106A74F6CC295822915754A = "BEFORDRAN"
+	6718F1AA4B5E715ADEE99F8D63C78C48 = "RABATT TILLGÄNGLIG"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "BEFORDRAN VÄNTAR"
 	625637E14AE36161309A579AF48094B0 = "UPPGRADERINGSKOSTNAD"
 	0743DAE24CA986BE792E58B3FF6F12EA = "Mina"
@@ -5428,7 +5431,8 @@ Namespace NewStringTable (2 keys)
 	GlyphidSlammer = "Glyfidbonkare"
 	TunnelRat = "Tunnelråtta"
 
-Namespace OC_BonusAndDrawbackLines (10 keys)
+Namespace OC_BonusAndDrawbackLines (12 keys)
+	Pen_NoStun = "Kan inte bedöva målen"
 	Bon_ReloadSpeedMedium = "Snabbare omladdning"
 	Pen_NumPelletsMedium = "Färre hagel i varje hylsa"
 	Bon_DamageMedium = "Mer skada"
@@ -5438,9 +5442,10 @@ Namespace OC_BonusAndDrawbackLines (10 keys)
 	Bon_AmmoMedium = "Mer ammo"
 	Bon_NumPelletsMedium = "Mer hagel i varje hylsa"
 	Bon_DamageBig = "Betydande ökning av skadeverkan"
+	Bon_AmmoAndClipBig = "Rejält ökad magasin- och ammunitionskapacitet"
 	Pen_RecoilMedium = "Starkare rekyl"
 
-Namespace PatchNotes (35 keys)
+Namespace PatchNotes (37 keys)
 	Update_23 = "Okej gruvarbetare, samling och håll snattran!
 
 Det verkar som att gamla Hoxxes fortfarande har många överraskningar åt oss - sedan en månad tillbaka har våra skanners börjat notera ett gäng nya och oroväckande tecken på liv. Vi förväntar oss att ni kommer att möta en mycket mer varierad mängd "naturliv" nere i grottorna så DUBBELKOLLA ER UTRUSNING och TA MED SÅ MÅNGA GRANATER NI KAN BÄRA. DRG är inget företag för spetsörade fegisar, så det är bara att bita ihop, vi har kvoter att möta upp.
@@ -7700,6 +7705,7 @@ MISC.
 	Update_18_ShortTitle = "ARBETSMÖJLIGHETER"
 	Update_13_ShortTitle = "SMÅ FÖRÄNDRINGAR I LIVET"
 	Update_15_ShortTitle = "MUTERINGSVARNING!"
+	Update_29_ShortTitle = "BÖRJAN PÅ SLUTET"
 	Update_10_ShortTitle = "TUNNELSEENDE?"
 	Update_24_Xbox = "Sätt er ner gruvarbetare! 
 
@@ -8116,6 +8122,7 @@ FIXES AND IMPROVEMENTS
 - Clients can now open the mission map while in a hosted game
 
 "
+	Update_29_Header = "UPPDATERING 29: BÖRJAN PÅ SLUTET"
 	Update_9_Header = "UPPDATERING 9: BORRAR DIG SENARE! - 09.03.2018"
 
 Namespace PerkDescriptions (15 keys)
@@ -8187,16 +8194,24 @@ Namespace ST_BrewingIngredients (10 keys)
 	Barley2 = "Jästkon"
 	Barley2Plural = "Jästkoner"
 
-Namespace ST_GearUpgrades (18 keys)
+Namespace ST_GearUpgrades (26 keys)
 	T_Pickaxe_PA_Cooldown = "Bättre viktbalansering"
 	T_ReviveInvulnerability = "Andrum"
+	Class_Driller006 = "Koloss"
+	Class_Scout007 = "Mörka Ränder"
+	Class_Engineer008 = "Drake"
+	Class_Scout008 = "Drake"
+	Class_Engineer006 = "Glödgad Vrede"
 	D_AreaSize = "Tänt vare här! Ökad sprängradie. (Får man föreslå att tänka lite på "säkerhetsavståndet")"
+	_Supporter = "Förgylld"
 	T_MoreHealth = "Hälsosam"
 	T_LoadedShells = "Högkapacitetshylsor"
 	T_StaggerImprovement = "Förbättrad chock"
+	Class_Driller003 = "Intrikat Snidare"
 	Headwear_Beanie = "Ibland blir det kallt där nere."
 	D_LoadedShells = "Det krävdes lite kreativ tankekraft, men vi lyckades klura ut hur vi kan knöka i mer hagel i varje hylsa. Bara... ta det försiktigt, de riskerar att peta ut dina ögon."
 	D_MoreHealth = "Ökad maximal hälsa."
+	Class_Engineer001 = "Orange Nörd"
 	T_StrongerShield2 = "Överbelastare"
 	T_Pickaxe_PowerAttack = "Kraftattack"
 	D_Pickaxe_PA_Radius = "Kraftattacken träffar ett större område."

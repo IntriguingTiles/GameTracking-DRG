@@ -1,8 +1,8 @@
-8974 entries
+9009 entries
 32 namespaces
-7257 values
+7285 values
 
-Namespace Global (8406 keys)
+Namespace Global (8414 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        réinitialiser        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Démarrage de la boîte noire. Nous perdrons la connexion si vous vous éloignez trop, alors essayez de pas quitter la zone de triangulation indiquée !"
 	2559D78C40005E5221F26093CB976283 = " Récupérez {Title}"
@@ -657,7 +657,6 @@ La direction"
 	18F8D2F14BB56B88465EEBB1385D7299 = "Armure"
 	1B3D93004FF08662695639A803CE7312 = "Armure"
 	7DDD6698496CC4D83DFD29BA040A354E = "Armures"
-	D176308541863A29511C2481D3B6678E = "Armure"
 	67364CBE4C00150D03A20EBEEACD1A0F = "Rupture de l'armure"
 	6A42966D47A0CA219DFE168C279574D0 = "Rupture de l'armure"
 	9A78E1364E263F55A79177BE91A7A8C2 = "Rupture d'armure"
@@ -665,7 +664,6 @@ La direction"
 	D1429AA949433BE5BC01699B52AAECAB = "Rupture d'armure"
 	F0DE38714966A1841BC1D4B0F97018B3 = "Rupture d'armure"
 	CB0443E04F665DDD31FC3DB8593391B6 = "Dégâts d'armure +200%"
-	6BCACF774D94C756D13563B7D25F8E35 = "Peinture d'armure"
 	C254E60046E56376D1EDDCBC278A0C17 = "Munitions anti-blindage"
 	A70E38E74A3841A7BA2B738511D3732E = "Grenade déchiqueteuse d'armure"
 	A7FB72DE4595DC184DF351884294EFE9 = "Aisselle"
@@ -1150,7 +1148,7 @@ DE BRIEFING"
 	B1CEBEAE4E21A659422B96BB0C89C722 = "Rafale"
 	7818CDC84B5FCB0C240724ADA28722B8 = "Dégâts des rafales"
 	47CF878F4791A017768604BD9D895A85 = "Tir en rafale"
-	2336780C4D0E27323363A2A619D2BC19 = "Rafale Étourdissante"
+	2336780C4D0E27323363A2A619D2BC19 = "Rafale étourdissante"
 	FBE670E64D48C3DC4423339ACB6AC864 = "Durée de l’étourdissement"
 	E3F39FEB49C35CD35E533691EBE82D52 = "Accélération ! Utiliser le pistolet grappin vous donne un bonus temporaire de vitesse de déplacement quand vous atterrissez."
 	74FBA3CD4233856197B3C18899D69C01 = "Rafales"
@@ -1166,7 +1164,6 @@ DE BRIEFING"
 	188C5D974CE9DA86E1AD6296EE7709C0 = "En enlevant la matière superflue des chargeurs, vous les avez rendus plus léger, ce qui signifie qu'ils s'éjectent plus rapidement quand vous rechargez. En plus, les munitions circulent plus librement, augmentant légèrement la cadence de tir maximale."
 	FFC5DE234DBAA16C329EE6A5F3C26010 = "En améliorant l'efficacité des nœuds, vous pouvez augmenter les dégâts bruts sans trop de tracas. Et ils tiendront un peu plus longtemps aussi !"
 	EFAD25E240DD9D8B12B242B009117556 = "Par ma barbe... c’est immonde !"
-	F80382BF4A16EF00B1BBEC953DB17E9C = "En faisant passer un courant électrique dans le plasma, le rayon électrocute tout ce qu'il touche. Toutefois, cela réduit les dégâts bruts, et la structure massive de l'arme limite la taille des chargeurs."
 	6E478ACE4CDB941FEABA5AB7135B06A1 = "En appuyant sur OUI, vous serez amené sur un navigateur internet et invité à rejoindre notre serveur Discord. Voulez-vous continuer ?"
 	4608597C487C0EF357FBF39B1AA23F01 = "Par la Barbe !"
 	1B46DDC24DFC16B5668A859F5FA4A6D0 = "Par la barbe, une bonne transaction !"
@@ -1174,7 +1171,7 @@ DE BRIEFING"
 	7C5DFBF542A834CA7069A2AFBB01A1AA = "Par la Barbe, quelle est cette abomination ?!"
 	F927ED1A4625F80DE172F78BA5F0CBFB = "Par la Barbe, qu'est-ce que c'est que cette abomination ?!"
 	33C21B734F5AB0E7B809A2B838C295C1 = "Par ma barbe, un gisement de tritilyte ici ! Faut qu'on casse ce truc !"
-	9AA13C3A4A11CC63D6EF589FE9FB7EBE = "Vérification de l'intégrité contournée"
+	9AA13C3A4A11CC63D6EF589FE9FB7EBE = "Vérification de l'intégrité court-circuitée"
 	BD266C1B40DBB43D8E9572BC69BD2CF1 = "Vérification de l'intégrité contournée"
 	2EBFDE634B3D2CA60D78E18C4D5C46E9 = "COMPLEXITÉ DE LA GROTTE"
 	3CA45427473C7964356F1CBB9706D2B9 = "COMPLEXITÉ DE LA GROTTE"
@@ -1328,6 +1325,7 @@ DE BRIEFING"
 	3AC7565A4F6397043608ADB0A90A2407 = "Cellule"
 	14CB74224A1F42F14589888148B65708 = "Cave"
 	8BB73A4D409727DD1ED3D88404085060 = "Nécropole"
+	AEFC4EA748AA266CFE0D0DB27DD0C6B8 = "Certains types d'armes, comme les explosifs, peuvent<bold>effrayer</> les créatures pendant une courte période, en faisant des outils efficaces pour le <bold>contrôle de masse</>. Aussi, les créatures prenant la fuite deviennent des cibles vulnérables. Cependant, certains types de créatures sont moins faciles à effrayer et réagiront de manière différente."
 	BA343B3E487812ED3E9CCC884F7D55AA = "Réaction en chaîne"
 	E9C2B5C546CBF25E3792EA93A84B8D23 = "Réaction en chaîne"
 	41192DEC4114D77C2AC694BE8FD5047B = "Chambre"
@@ -2077,6 +2075,8 @@ La direction"
 	98BE548B422E3AA17442C2B16EB36EFB = "Mine ou crève, c'est ma dernière mission pour Deep Rock !"
 	04BBF4194695F111B71769BD87B645F6 = "As-tu du Canary à la pression, Lloyd ?"
 	60E225D8464397BA2BBD87AD37BE6995 = "Est ce que vous avez ce qu'il faut pour faire parti des {0} ?"
+	8FD44D484F6B5A68B3FE27B9ED432C15 = "Voulez-vous remplacer cette touche ?
+Cela va dé-assigner '{ActionName}'"
 	D868FC7B49CEA4B8A91903BEC7F295EA = "Il y a le même en noir ?"
 	8A3484E043F87B628190368C7B3B615E = "Il y a le même en rouge ?"
 	DBD7A3CD43BB7D79CB02E8B8EE5DF189 = "Fait le travail"
@@ -2522,7 +2522,7 @@ DE TIR"
 	CCCF713A4196DAD4B1562B92E8B71976 = "Bobines à chargement rapide"
 	3B92DE784295EB7CDA1F299E0F3C32FC = "Rechargement plus rapide"
 	88F9A74747992A3986FBBC9FC28157F0 = "Rechargement plus rapide"
-	5940DD09483FB8A41478868CFCB8D073 = "Lancement de turbine accéléré"
+	5940DD09483FB8A41478868CFCB8D073 = "Démarrage rapide de la turbine"
 	A8DCDC1F4A0C80B878AD0F83BE262C05 = "Chargement plus rapide"
 	B56824EE47D0B6E02DCEDC91401BBB17 = "Temps de recharge plus rapide et une garantie annulée"
 	6657CD234F70B88EDA3FDC90308AB0F3 = "Refroidissement plus rapide pour les foreuses au repos"
@@ -3021,9 +3021,11 @@ DE TIR"
 	F81067EE458956C30ECFEEA99BC6915E = "Menace glyphide ! "
 	B1025BF846B5F071173E708DC5AF4395 = "Menace glyphide ! À couvert !"
 	DAC649E44C864E3F42BDD98F8C434126 = "Revêtement neurotoxique anti-glyphides"
+	2B96F94341425D47E84F5EA09A497B24 = "Oppresseur glyphide"
 	94D11585499A7AE4608D8BB1BE24D8C1 = "Oppresseur glyphide"
 	FC92155F48A83B680D5E2EAF9A3CBC48 = "Oppresseur glyphide abattu !"
 	CBBE64A7455E77BFD7250A98A4E71BA2 = "Oppresseur glyphide ! Et qu'est-ce qu'on dit à oppression, les gars ??"
+	8491FC9C4F8CA9C4B26F96A71909CBC0 = "Oppresseur glyphide"
 	FA8F44C946CD7ABC7358039A193E66E7 = "Prétorien glyphide"
 	8570F41541CC2BF69381E68E632A0C24 = "Prétorien glyphide éliminé!"
 	46ACC5DB49459F62F66B59A004754A16 = "Attaque de prétoriens glyphides !"
@@ -3997,6 +3999,7 @@ Faire la promotion d'un personnage le RÉINITIALISE AU NIVEAU 1. Vous GARDEREZ t
 	49BBAD8643733BE12BA12099694922AB = "Voilà, c'est fixé !"
 	013AA61843DC55D04A16C7948EA8F7EB = "C'est attaché !"
 	18CF439D4FF43DB4F2AA4A9CE58C0C13 = "C'est gros, dangereux, et ça laisse des choses derrière. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+	CCCA01BD4AA0604A20819DA9C9ABFEED = "C'est gros, dangereux, et ça laisse des choses derrière. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 	DDB1313F47BA603A2DD295AAD7C93627 = "C'est bloqué !"
 	6BA8605E4E934EC72396E6A8767D742C = "Tout aussi mortel qu'adorable."
 	AA62C29E48FC83B65DF2B8897E3965C5 = "C’est dangereux !"
@@ -4151,6 +4154,7 @@ Il ne reste plus beaucoup de temps, dépêchez-vous !"
 	B5AFA6B34DCD92CADA435EB0D3CAA809 = "Clef"
 	76AE6DA0456ED2D59A9CBB902AD2D0F1 = "Raccourcis clavier"
 	3E5ADCD74510D668AD63A998BE7DA6F4 = "Indicateur Clé de Performance"
+	B5A923C84737E85ED4A74E9E9E66F012 = "Touche déjà assignée avec l'action '{ActionName}'"
 	85D437634433F8B99D05B683232CAE1D = "Souris et clavier"
 	0FD999C9434C8ED8D2DE66A28187EC4D = "Botter"
 	116899A540C11BC865ED8F84CA84DB4F = "Botter"
@@ -5552,6 +5556,7 @@ La Direction"
 	7FABFBA24AAC4686FB3FCC9420150CF7 = "PARTIE PRIVÉE"
 	BF55A2DD4B08D1A83D629EBE0A4E5A24 = "DÉCOMPTE DE LA PROGRESSION :"
 	2595DDF2421600A4E23DBA930382415D = "PROMOUVOIR"
+	6718F1AA4B5E715ADEE99F8D63C78C48 = "PROMOTION DISPONIBLE"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "PROMOTION EN ATTENTE"
 	625637E14AE36161309A579AF48094B0 = "COÛT DE PROMOTION"
 	9D0495E743DE52B3F57657B90B4B5D58 = "ENCLIN À EXPLOSER"
@@ -5902,6 +5907,7 @@ Vous gagnerez un BADGE d'HONNEUR et vous GARDEREZ tous les progrès sur les arme
 	D86D2FCB42E381EC8E85D092B639CF14 = "Appuyer pour parler"
 	FB453B1944F3A303D7CE728B215D8699 = "Appuyer pour parler"
 	1294EE834B875E9441A63281754F3C9A = "Amener le CPE à ses limites va vous donner beaucoup plus de dégâts aux tirs chargés mais au coût d‘une charge plus lente et d'une baisse dans l‘efficacité du refroidissement."
+	4FD856B04E3D6B262A724F9C37D20D5D = "Repoussant les limites, cet overclock augmente considérablement les dégâts produits mais l'arme n'étourdit plus et le contre-coup rend tout déplacement quasiment impossible."
 	2F492010444C14DCE2D2DB9841081A2B = "Repose moi ! "
 	E60A96FD4E462454789003B8D0A8669B = "Abrégez les souffrances des insectes avec un bonus aux dégâts contre les ennemis affectés."
 	BA35A6794521F32A15B9849DAF3E96D8 = "Q'ronar blindé"
@@ -6751,6 +6757,7 @@ MISSION"
 	778BBB024AC1983CA3EBC0918CDF1702 = "Cartouches éclatantes"
 	DDC8AA9140BF8C60BFA89685B2BF912C = "Fente"
 	258BC3B2464C7CD2FF919799D1687F6C = "Effrayant !"
+	3BA66C1D4F6C962F017E7EA0E04112F3 = "Avec une des terre les plus fertiles de tout Hoxxes, cette région abrite des espèces de plantes abondantes et variées. Toutefois, l'herbe omniprésente gène la visibilité."
 	0D217A5644C9A383C32429AEC54E88E9 = "Parfait !"
 	DE6746C24427FD97553217B8CA111996 = "J'asperge les insectes !"
 	6D26509F4F5C0C0B0C64CA940FE73ABF = "Propagation"
@@ -7073,6 +7080,7 @@ DES MISSION"
 	6DC70DE54844B3059E69FB9D1905F740 = "Merci !"
 	153C18C543DDB1E94190A28F87EBD8B8 = "Merci ! Je t'en dois une, mon frère !"
 	142893D144561C3D9E2C9B9FA1C8CE78 = "Merci, Bosco !"
+	8C64B3FA4E0C032A8DBB1CA1E268F13A = "Ce type au centre de contrôle à intérêt à me foutre la paix une fois que j'aurais mérité ma place...!"
 	F1EA3B7D413471D6FE0DB4B01BF608FC = "Ce type au centre de contrôle à intérêt à me foutre la paix une fois que j'aurais mérité ma place...!"
 	F62A21FF4548E519362AD9870527B0B6 = "Ce type au centre de contrôle à intérêt à me foutre la paix une fois que j'aurais mérité ma place...!"
 	B179FAF64355D84C7AB092AA0BC4F7B9 = "Cette fichue bière galactique ! J'ai une de ces migraine !"
@@ -7566,7 +7574,7 @@ La direction"
 	03E6DCBF4EFF2F19BB08068D40943794 = "Arrête de tirer n'importe où, tête de nœud !"
 	DC4D296640D9AA783BD7E680AE35B9C0 = "J'ai encore la détente qui me démange."
 	912A8E8A4DD2BCF0AAF5E099AC3F1F27 = "Carburant triple filtré"
-	8CD2AAE4488F499A02A9BAB0136DF54B = "Triple séparation de ligne"
+	8CD2AAE4488F499A02A9BAB0136DF54B = "Triple-ligne"
 	F6C35F74429B480FCECEFBB77D997E09 = "Triple tresses"
 	00ACCC7042C15E10987FC1B0229A2E3C = "Triple tresses - Blindées"
 	D59951914BA894937DF8ADBA06AF05E5 = "Triple tresses - Dorées"
@@ -8058,6 +8066,7 @@ Vous pouvez changer ce réglages a tout moment dans le menu des options."
 	EF6076BE455269F33A90799190836776 = "Arme prête."
 	7ACB32164BC986E95D98E2A0AD840F82 = "Les armes et les dangers ayant cet effet réduiront la vitesse des organismes en mouvement."
 	8B167CA1472C814633BB95AA07581A26 = "Les Armes avec capacités Peur peuvent effrayer les ennemis et les faisant fuir pendant un certain temps. Certains types d’ennemis sont plus courageux que d’autres, aussi leur faire peur n’est pas toujours assuré."
+	124637E94401560D890E7EBAC4F24664 = "Les armes possédant la capacité d'étourdissement vont brièvement <bold>interrompre</> les <bold>mouvements</> et <bold>attaques</> de toute créature qu'elles touchent - et quand on voit à quelles vitesse ces bestioles vont, chaque milliseconde compte. La mauvaise nouvelle c'est que certaines créatures peuvent elles aussi étourdir les nains."
 	EFC98B774051997322EF0C99C706E251 = "Les armes avec cette capacité auront une chance d'arrêter momentanément un ennemi dans sa trajectoire."
 	A3601A2F43E3E6286D3919953BD9D91A = "En portant ce bonnet fantaisiste de Noël, aucun doute que vous entrerez dans l'histoire."
 	C37DF90640E673672C31B99B2079E3DB = "En portant cette casquette fantaisie de Noël, aucun doute que vous entrerez dans l'histoire."
@@ -8648,7 +8657,7 @@ Namespace MinersManual (1 keys)
 Namespace Missions (1 keys)
 	0BFE0DE04F6F7554A68740AD8DC2B9D1 = "Objectif accompli, il est désormais possible de déployer la capsule d'extraction depuis la M.U.L.E"
 
-Namespace MutatorDescriptions (16 keys)
+Namespace MutatorDescriptions (17 keys)
 	W_Ghost_Desc = "Une créature lente, mais mortelle et invulnérable à été détectée dans la zone. Elle vous pourchassera inlassablement, durant toute la mission. Ne la laissez pas se rapprocher."
 	M_OxygenRich_Desc = "Un mélange spécial de gaz dans l'air rend les nains et les insectes plus rapides. Un des effets secondaire est de rendre la voix de tous le monde plus drôle que d'habitude."
 	W_RegenerativeEnemies_Desc = "Après quelques secondes sans prendre de dégâts, les créatures vont commencer à regagner de la vie."
@@ -8658,6 +8667,7 @@ Namespace MutatorDescriptions (16 keys)
 	W_LethalEnemies_Desc = "Les dégâts de corps à corps de tous les ennemis font beaucoup plus mal que d'habitude."
 	W_MacteraCave_Desc = "La plupart des menaces de cette mission viendront des airs, les cavernes sont pleines de macteras."
 	M_LowGravity_Desc = "Des irrégularités gravitationnelles mystérieuses ont conduit à une gravité réduite dan toute la zone de la mission."
+	W_InfestedEnemies_Desc = "Quelque chose mange les créatures locales depuis l'intérieur, et s'en prendra à vous dès que leurs hôtes mourront."
 	M_XXXP_Desc = "Une réussite donnera le double de l'expérience par rapport à une mission normale."
 	W_NoOxygen_Desc = "Cette zone a une concentration d'air respirable très basse. Les nains devront fréquemment remplir leurs réserves d'oxygène en se tenant près des bombonnes attachées à la M.U.L.E. et autres appareils."
 	M_RichInMinerals_Desc = "La zone de la mission comporte une concentration anormale des ressources régionales."
@@ -8697,10 +8707,11 @@ Namespace NewStringTable (29 keys)
 	RedRockBlasterDESC = "Quand il vous faut absolument, sans le moindre détour, tuer tout ce qui se trouve sur votre passage, n'acceptez rien d'autre. Composé de bière vieillie en fût, de sauce pimentée et d'un stimulant militaire, le Red Rock Blaster vous fera voir ROUGE !"
 	SmartStoutDESC = "Bien que la plupart des breuvages alcoolisées ont tendance à ralentir vos neurones, la Smart Stout, contre toute attente, procure l'effet inverse. Imbibez-vous d'une forte dose de cet épais nectar doré et vous résoudrez des équations d'insertions orbitales complexes plus vite que vous ne pourrez dire "Ce breuvage, je l'adore ! Un autre !". Comment ça se fait ? Il paraît que c'est scientifique. Il paraît."
 
-Namespace OC_BonusAndDrawbackLines (57 keys)
+Namespace OC_BonusAndDrawbackLines (59 keys)
 	Bon_RandomDamage = "Dégâts par tir aléatoires entre 80% et 140%"
 	Bon_AoEDamageSmall = "Un peu plus de dégâts de zone"
 	Bon_AmmoBig = "Beaucoup plus de munitions"
+	Pen_NoStun = "N'étourdit pas les cibles"
 	Pen_CoolingRate = "Taux de refroidissement diminué"
 	Pen_FocusShotDamage = "Réduction des dégâts bonus du tir concentré"
 	Pen_ClipSizeMedium = "Capacité du chargeur réduite"
@@ -8739,6 +8750,7 @@ Namespace OC_BonusAndDrawbackLines (57 keys)
 	Pen_DamageBig = "Diminution significative des dégâts"
 	Bon_ClipSizeBig = "Capacité de chargeur significativement accrue"
 	Bon_RoFBig = "Cadence de tir significativement plus grande"
+	Bon_AmmoAndClipBig = "Capacité de chargeur et munitions totales significativement accrues"
 	Pen_AmmoBig = "Significativement moins de munitions"
 	Pen_DirectDamage = "Dégâts directs significativement réduits"
 	Pen_ClipSizeBig = "Capacité du chargeur significativement réduite"
@@ -8756,7 +8768,7 @@ Namespace OC_BonusAndDrawbackLines (57 keys)
 	Pen_RecoilMedium = "Recul plus puissant"
 	Pen_OverheatFaster = "L'arme surchauffe plus vite"
 
-Namespace PatchNotes (67 keys)
+Namespace PatchNotes (70 keys)
 	Update_23 = "Très bien, mineurs - rassemblez-vous et fermez-la!
 
 Il semble que Hoxxes nous réserve encore de nombreuses surprises - au cours des derniers mois, les scanners ont détecté une série de nouveaux signes inquiétants. Nous nous attendons à ce que vous fassiez tous face à une plus grande variété d'animaux sauvages dans les grottes, alors DOUBLE VÉRIFICATION DE VOS ÉQUIPEMENT et apportez TOUTES LES GRENADES QUE VOUS POUVEZ PORTER. DRG n'engage pas des lache, alors allez-y, et atteignons ces quotas!!
@@ -10140,6 +10152,228 @@ DIVERS
 - Les nouvelles balises de la M.U.L.E. incluent une indication de direction
 - Ajout de la possibilité de trouver de vieilles capsules de ravitaillement lors des missions de récupération
 "
+	Update_29 = "Bonjour mineurs,
+C'est l'heure pour une nouvelle mise à jour alors que nous nous préparons pour la publication de la 1.0 ! L'objectif principal de cette mise à jour est d'améliorer la première expérience du jeu qu'auront les bleu-barbes, mais aussi beaucoup de choses pour les joueurs vétérans, telles que la personnalisation des armures, et le tout nouveau manuel du mineur, pour n'en citer que quelques-unes !
+
+
+L'équipe Ghost Ship
+
+--- NOTES DE MISE À JOUR ---
+
+PERSONNALISATION DE LA PIOCHE
+----------------------------
+Tout mineur à besoin d'une pioche, mais toutes les pioches n'ont pas besoin d'être identiques ! Trouvez et débloquez de nouvelles pièces pour personnaliser les six différentes parties de votre pioche, sans parler de toutes les nouvelles textures qui viennent avec. Cassez ces pierres avec du style !
+
+
+SACS À DOS PERDUS
+----------------------------
+Si vous trouvez du matériel perdu dans les grottes, essayez de trouver un casque qui clignote. Utilisez-le pour télécharger la position du sac à dos d'un nain perdu, et pouvoir le retrouver à l'aide du scanner de terrain. Ils sont toujours remplis de pièces de pioche et de minerais précieux. 
+
+
+REFONTE DE LA CAPSULE D'EXTRACTION
+----------------------------
+Soyons franc... La capsule avait besoin d'un lifting depuis longtemps. C'est fait, et il y a même les dés en peluche.
+
+
+NOUVELLES EXCLAMATIONS NAINES
+----------------------------
+BISMOR, BISMOR, BISMOR! Une bonne dose de nouvelles exclamations ont été ajoutées, incluant quelques phrases manquantes bien connues pour le pointeur laser !
+ 
+
+EXTERIEUR DE LA PLATEFORME SPATIALE
+----------------------------
+Saviez-vous que la baie de lancement ne représente qu'une petite partie de l'infrastructure de la plateforme ?
+
+
+MANUEL DU MINEUR
+----------------------------
+Missions, matériaux d'artisanat, types de dégâts, modificateurs d'armes... Il y a tant de systèmes différents dans DRG ! Ça peut être un peu lourd à digérer au début. Nous avons rassemblé autant d'informations que possible et créer des tonnes d'infographies pour faire un guide. Avec un peu de chance cela facilitera les premières heures de jeu. Il y a peut-être même des détails que les mineurs vétérans ne connaissent pas.
+
+Notre intention est que le manuel du mineur continue de s'agrandir avec de nouvelles entrées et chapitres au fur et à mesure de notre avancée.
+
+
+DIDACTICIEL AMÉLIORÉ
+----------------------------
+Miner est tellement plus amusant une fois que l'on en connaît les bases. Il y a maintenant un didacticiel tout neuf et bien plus simple, avec des consignes et des tâches claires. Mettons les bleu-barbes à niveau le plus vite possible, la direction veut voir les minerais couler à flot !
+
+
+REFONTE DU MENU "ECHAP" 
+----------------------------
+Avec l'ajout du manuel du mineur, nous avons décidé de refaire la totalité du menu "échap". L'onglet principal est celui de statut, où vous trouverez toutes les informations sur votre mission en cours, l'équipement que vous portez et votre équipe. Beaucoup de ces entrées sont directement reliées au manuel du mineur, pour que vous puissiez en savoir plus, par exemple, sur l'avertissement de mission en un seul clic.
+
+
+ICÔNES DE COSMÉTIQUES
+----------------------------
+Tous les cosmétiques, ceux du magasin comme ceux de la forge, ont maintenant une icône d'aperçu ! Elles sont parfaites pour les trier rapidement et pour éviter de les forger à l'aveugle, mais, le plus important, elles sont cool.
+
+
+NOUVEAUX GRADES DE PROMOTIONS & RÉCOMPENSES
+----------------------------
+Votre dévouement a dépassé les attentes de la direction et nous avons pris conscience qu'il nous fallait plus de grades de promotions ! Il y aura trois nouveaux niveaux de promotions : émeraude, saphir et diamant. De plus, en un acte de générosité jamais vu auparavant, nous avons décidé qu'il devrait y avoir des récompenses avec les promotions. Celles-ci seront, évidemment, accordées rétroactivement.
+
+
+PEINTURES POUR LES ARMURES [REQUÊTE COMMUNAUTAIRE]
+----------------------------
+Toutes les armures du jeu ont reçu la même différentiation entre les châssis et les textures que les armes ont reçues il n'y a pas longtemps. Plusieurs textures toutes neuves peuvent être trouvées dans les sacs à dos perdus, et il y en a plus en production. 
+
+
+ÉQUILIBRAGE DES ARMES
+----------------------------
+CANON AUTOMATIQUE LOURD “THUNDERHEAD”
+- Déplacement d'une partie des dégâts de l'overclock "tapis de bombes" vers l'arme de base et le modificateur "munitions à fragmentation"
+- Déplacement d'une partie du bonus de dégâts de zone de l'overclock "tapis de bombes" vers l'arme de base
+- Ajout d'un bonus de précision à l'overclock "grosse bertha"
+- Retrait de la pénalité à la cadence de tir de démarrage de l'overclock "grosse bertha", seule la cadence de de tir maximale reste affectée
+- Réduction de la pénalité de dégâts directs de l'overclock "charge de neurotoxines"
+- Légère augmentation de la réduction de dégâts à cadence de tir max du modificateur concerné
+
+AUTO 210 “WARTHOG”
+- Déplacement d'une partie des dégâts du modificateur "plus gros plombs" vers l'arme de base
+- Augmentation de la cadence de tir de base
+- Réduction du bonus de cadence de tir du modificateur "ajustements mineurs"
+- Augmentation du bonus du modificateur "mécanisme d'alimentation surchargé"
+- Retrait du modificateur "étourdissement amélioré" et augmentation de la durée de base de l'étourdissement sur point faible
+- Correction de l'affichage de la stat d'étourdissement
+
+SMG VOLTAÏQUE “STUBBY”
+- Réduction du recul, en particulier l'horizontal, pour qu'il soit plus facile de compenser à la main
+- Grande réduction de la dispersion maximale
+- Augmentation de la précision de base
+- Augmentation de dégâts de base
+- Tous les dégâts de base ont été rassemblés en un seul type
+- Augmentation de la probabilité d'électrisation de base
+
+Ajustements des modificateurs
+- Remplacement du mod "canon flottant" par un mod de réduction du recul
+- Augmentation du bonus pour le mod "condensateurs améliorés"
+- Retrait du mod "condensateurs plus grands"
+- Déplacement du mod "balles conductrices" au niveau 4
+- Retrait du mod "munitions surchargées" et ajout de son bonus à l'arme de base
+
+PISTOLET À RAFALES BRT7
+- Augmentation des dégâts de base
+- Baisse des munitions de base
+- Baisse de la rupture d'armure de base
+- Baisse du recul de base
+- Diminution de la dispersion maximale
+- Augmentation du chargeur de base
+
+Ajustements des modificateurs
+- Augmentation du bonus de dégâts pour le mod "munitions à haute vélocité"
+- Retrait du mod "dégâts des rafales"
+- Augmentation de la durée d'étourdissement du mod "rafale étourdissante"
+- Échange de place entre les mods "canon flottant" et "sécurité désactivée"
+- Augmentation du bonus pour le mod "éjecteur "quickfire""
+
+Ajustement de l'overclock
+- Augmentation du bonus de dégâts de l'overclock "cartouches expérimentales" pour fonctionner avec les nouveaux dégâts et compte de munitions de l'arme.
+
+CRYO CANON
+- Réduction du temps de préparation
+- Augmentation du temps de décharge
+- Augmentation de la portée de base
+- Augmentation de la vitesse à laquelle le jet atteint sa longueur maximale
+- Augmentation du pouvoir gelant de base
+- Augmentation des dégâts de base
+- Augmentation de la taille de base de la chambre de pressurisation
+- Réduction du délai de base de repressurisation
+- Correction des stats de dégâts et de pouvoir gelant qui étaient inversées.
+
+Ajustements aux mécaniques de froid
+- Les chasseurs macteras gèlent plus vite
+- Les ennemis ralentissent plus vite quand ils se refroidissent
+
+Ajustements des modificateurs
+- Regroupement des mods "chambre de pressurisation plus grande" et "augmentation de la pression de la chambre"
+- Amélioration de la valeur du mod "pompe secondaire" et renommage en "démarrage rapide de la turbine"
+- Augmentation de la valeur du mod "vérification de l'intégrité court-circuitée" pour qu'il annule le délai de repressurisation
+- Augmentation de la valeur du mod "turbine d'éjection overclockée"
+- Le mod "pompe primaire accélérée" est renommé en "recharge rapide de la chambre"
+- Baisse de la valeur du mod "mixture améliorée" et renommé en "mixture hypergelante"
+- Le mod "Teneur en eau plus élevée" est renommé en "mixture solide"
+- Augmentation de la puissance du mod "froid rayonnant"
+
+DÉCOUPEUR PLASMA
+- Augmentation de la largeur de base du rayon
+- Augmentation des dégâts de base
+- Passage de la stat de dégâts en DPS
+- Ralentissement de la vitesse de la ligne
+- Augmentation de la durée de vie du rayon
+- Le plasma étourdit les ennemis qu'il traverse
+- Baisse de la cadence de tir
+- Augmentation de la taille du chargeur
+- Augmentation de la "hitbox" du plasma pour qu'il soit plus permissif
+
+Ajustements des modificateurs
+- Augmentation de la valeur du mod "cohésion des lignes affaiblie"
+- Augmentation de la valeur du mod "production d'électricité prolongée"
+- Retrait d'un des mods de dégâts, et augmentation de celui restant
+- Ajout d'un mod pour rallonger le temps d'étourdissement
+- Retrait d'un des mods pour la taille du chargeur
+- Retrait d'un des mods de munitions, et augmentation de celui restant
+- Amélioration de l'effet du mod "déploiement rapide" pour qu'il affecte la vitesse et le délai de déploiement
+- Le mod "double-ligne" devient "triple ligne" pour couvrir une zone étendue autour de la ligne standard
+- Les mods "il ne peut y en avoir qu'un" et "adieu explosif" sont rassemblés, et déclencher l'explosion d'une ligne n'en tirera pas une autre en même temps. Les dégâts de l'explosion ont été réduits, mais elle laisse maintenant un champ résiduel de plasma qui blesse les ennemis sur le durée
+- Ajout du mod "trainée de plasma" qui ajoute une trainée de plasma résiduelle qui blesse les ennemis sur la durée
+- Repositionnement de beaucoup de mods
+- NOTE: Tous ceux qui avaient achetés les mods supprimés seront remboursés des crédits et des minéraux qu'ils ont dépensés.
+
+Ajustements d'overclocks
+- "Passe-lacet" devient un overclock instable et s'appelle désormais "mort tournoyante". Fait tourner le rayon tout en avançant lentement vers l'avant, infligeant une grande quantité de dégâts sur la durée.
+- "maître des roulis" ne fera pas tourner le rayon sur un clic, mais seulement si le bouton est maintenu. Relâcher le bouton fonctionne comme avant et arrête le roulement.
+- "Retour à l'envoyeur" n'a plus de pénalité de dégâts
+- "infernal" enflamme maintenant la plupart des ennemis en une passe et ne réduit plus la cadence de tir
+- "Croisement haute tension" est maintenant équilibré et n'a plus de pénalité de dégâts
+
+LGP 40MM DEEPCORE
+- Amélioration de la réactivité pour le déclenchement à proximité et correction de la description qui mentionnait un bonus de dégâts qui n'était pas utilisé.
+
+
+DIVERS
+----------------------------
+- Ajout de nouvelles animations de mort à la 1ère personne
+- Ajout d'une nouvelle attaque à l'oppresseur
+- Ajout de nouvelles animations au terminal des équipements
+- Ajout d'un nouveau design pour le terminal des accessoires, et renommage en magasin
+- Ajout d'un nouveau design pour le terminal d'échange de minéraux
+- Blocage de l'IA sous les grillages de la tête de forage pour empêcher les ennemis d'y aller
+- Refonte des indications du tutoriel
+- Les armes avec des dégâts de feu peuvent enflammer les nuages de gaz
+- La compétence des bottes planantes émet maintenant des particules depuis les bottes, et brûlera tout ennemi assez malchanceux pour être en dessous
+- Changement de nom : le "Grappling Gun" devient "Grappling Hook" (NDT : Pas de changement pour le français)
+- Changement de nom : le "Zipline Gun" devient "Zipline Launcher" (NDT : Pas de changement pour le français)
+- Les capsules de ravitaillement doivent tomber d'une certaine distance avant de faire des dégâts en touchant
+- Amélioration de plusieurs animations de course
+- Amélioration des succès de promotions pour qu'ils se déclenchent rétroactivement quand vous arrivez dans la plateforme et avez un nain promu. Plus besoin de promouvoir à nouveau.
+- Amélioration du bruitage de la compétence de sprint
+- Amélioration de la logique de la compétence "toujours prêt" quand activé chez les clients
+- Amélioration de la logique de génération des évènements de machine (NDT : nom temporaire) pour éviter que l'imprégnateur de noyaux ne disparaisse
+- Correction de plusieurs bugs liés au champ de vision, notamment celui des zhukovs
+- Correction d'un bug dans le succès des étapes
+- Correction d'un bug avec le bruit des haches de choc joué uniquement pour l'hôte
+- Correction d'un bug où les clients ne se voyaientt pas gelés quand ils l'étaient
+- Correction d'un bug qui provoquait un double bruit de pas à la première personne
+- Correction d'un bug qui empêchait certains effets de statut de s'afficher correctement sur les butinsectes
+- Correction d'un bug qui bloquait le scanner de terrain sur l'écran
+- Correction d'un bug qui empêchait l'animation de salut de se jouer à la 3ème personne en courant
+- Correction d'un bug qui permettait aux ramasseurs de silicate de monter sur les murs
+- Correction d'un bug qui affichait le compte à rebours de la volonté de fer prématurément
+- Correction d'un bug qui gardait la lumière de la détection de proximité du LGP 40mm DeepCore affichée une fois la grenade détruite
+- Correction d'un bug qui empêchait la compétence "sens aiguisés" de se déclencher après avoir été attrapé par un ennemi une première fois
+- Correction d'un bug où les projectiles pouvaient pousser les joueurs pendant un bref instant quand ils étaient proches. Particulièrement visible en regardant vers le bas puis en tirant
+- Correction d'un bug qui empêchait les barres de vie des ennemis d'afficher les tirs sur point faible au client
+- Correction d'un bug où les tourelles avec le mod "œil de faucon" continuaient de tirer sur le cadavre d'un ennemi marqué à l'infini
+- Correction d'un bug qui décalait certaines armes lors du salut
+- Correction d'un bug qui gardait ouvert le menu de choix des ensembles après avoir fermé un terminal
+- Correction d'un bug qui empêchait les skins de Bosco de s'afficher en mission
+- Correction d'un bug qui permettait à deux joueurs d'apprivoiser le même glyphide, lui retirant parfois ses textures
+- Correction d'un bug pour le succès "À la pointe" pour qu'il ne se déclenche plus prématurément quand il restait l'armure à améliorer
+- Correction d'un bug en utilisant à la fois les mods "Pointes de foreuse endurcies" et "Moteur suralimenté" sur les foreuses
+- Correction d'un bug qui provoquait un changement de couleur du réservoir du lance-flammes lors du rechargement
+- Correction d'un bug avec les geysers de vapeur qui provoquait des mouvements erratiques lorsqu'ils poussaient un joueur
+- Correction d'un bug où Bosco attaquait la capsule d'extraction quand marquée par le pointeur laser. Quel benêt ce Bosco
+- Correction d'un bug où les chasseurs macteras gardaient leur apparence d'attaque lorsqu'ils fuyaient
+"
 	Update_16 = "Salutations mineurs ! Après de belles vacances d'été, nous sommes remontés en selle pour vous concocter un nouveau patch. Pour répondre aux chaleurs caniculaires qui nous tombent dessus, quoi de mieux que d'ajouter un biome de glace ? C'est une bonne idée, non ?
 
 --- NOTES DE PATCH N°16 ---
@@ -11208,6 +11442,7 @@ MISC.
 	Update_15_ShortTitle = "DANGER DE MUTATION !"
 	Update_17_ShortTitle = "OKTOBERFEST !"
 	Update_21.5_ShortTitle = "UNE ANNÉE EN ORBITE"
+	Update_29_ShortTitle = "LE DÉBUT DE LA FIN"
 	Update_10_ShortTitle = "VISION TUNNEL?"
 	Update_24_Xbox = "Asseyez-vous, mineurs !
 
@@ -11649,6 +11884,7 @@ CORRECTIFS ET AMÉLIORATIONS
 	Update_26_Header = "MISE À JOUR N°26 : ENDGAME - Partie 2"
 	Update_27_Header = "MISE A JOUR 27 : PETITES GRANDES CHOSES"
 	Update_28_Header = "MISE À JOUR 28 : FOLIE DES COMPÉTENCES"
+	Update_29_Header = "MISE À JOUR 29: LE DÉBUT DE LA FIN"
 	Update_9_Header = "MISE A JOUR 9 : À LA PIOCHE-AINE ! - 09.03.2018"
 	Update_16_ShortTitle = "L'HIVER EST ARRIVÉ"
 
@@ -11767,22 +12003,35 @@ Namespace ST_BrewingIngredients (10 keys)
 	Barley2 = "Cône de levure"
 	Barley2Plural = "Cônes de levure"
 
-Namespace ST_GearUpgrades (70 keys)
+Namespace ST_GearUpgrades (93 keys)
 	Headwear_Beret = "Un souvenir de vos loyaux services."
+	Class_Scout006 = "Nageur de combat"
 	T_Pickaxe_PA_Cooldown = "Équilibre amélioré"
 	T_MineralCapacity = "Plus grand sac à minerais"
 	D_BiggerPellets = "De la chevrotine plus grosse et plus lourde fabriquée à la main par un spécialiste nain. N'acceptez rien d'autre."
 	T_BlowThrough = "Balles perforantes"
 	T_ShieldRegenSpeed = "Convertisseur boosté"
 	T_ReviveInvulnerability = "Espace vital"
+	Class_Driller002 = "Péte-craie"
 	D_Pickaxe_PowerAttack = "Exprimez votre rage de nain à travers votre pioche. Tout en maintenant le bouton minage enfoncé, appuyez sur le bouton feu pour activer."
+	Class_Driller001 = "Chocolat règne"
+	Class_Driller006 = "Colosse"
+	_CompanyStandard = "Couleurs de l'entreprise"
+	Class_Scout007 = "Bandes sombres"
+	Class_Gunner002 = "Désertique"
+	Class_Gunner007 = "Champs lointains"
 	T_BiggerPellets = "Très grosse chevrotine"
+	Class_Engineer002 = "Coureur poussièreux"
+	Class_Scout001 = "Vents poussiéreux"
 	Headwear_FieldRepairs_Desc = "Les nains sont réputés pour leurs crânes épais, entre autres. Mais parfois, "une force irrésistible rencontre une masse inébranlable"... Vous connaissez l'histoire."
+	Class_Engineer006 = "Furie ambrée"
 	T_ExtraAmmo = "Sacs de munitions agrandis"
 	D_ReloadSpeed = "L’expérience, l'entrainement et quelques «ajustements» dissimulés, permettent de recharger votre arme beaucoup plus rapidement."
 	D_AreaSize = "Tout le monde à couvert ! La zone d'effet est augmentée. (Nous vous conseillons de ne pas trop prendre le terme "distance de sécurité" à la légère)"
 	D_Heat = "Allumez le feu ! Vous incendiez les choses beaucoup plus rapidement. Il est temps de regarder le monde brûler...!"
 	T_SpreadPerShot = "Canon coulissant"
+	Class_Scout003 = "Tigre givré"
+	_Supporter = "Dorée"
 	T_ArmorDamage = "Munitions renforcées"
 	T_MoreHealth = "En bonne santé"
 	T_ClipSizeA = "Chargeur grande capacité"
@@ -11800,9 +12049,12 @@ Namespace ST_GearUpgrades (70 keys)
 	Headwear_Beanie = "Il peut faire frisquet, une fois tout en bas."
 	D_LoadedShells = "Il a fallu faire preuve de créativité, mais nous avons finalement découvert comment mettre davantage de chevrotine dans chaque cartouche. Juste ... manipulez-les avec précaution, elles risquent de vous faire perdre un œil."
 	T_StrongerShield = "Condensateurs plus grands"
+	Class_Gunner001 = "Orage citronné"
 	D_MoreHealth = "Santé max augmentée."
 	D_AreaDamage = "Plus pour le même prix ! Augmente les dégâts causés dans la zone d'effet !"
 	D_RandomDamage = "Plus de dégâts en moyenne mais c'est inconsistant."
+	Class_Driller007 = "Tout terrain"
+	Class_Driller004 = "Chemin boueux"
 	T_StrongerShield2 = "Surchargeur"
 	T_Pickaxe_PowerAttack = "Attaque puissante"
 	D_Pickaxe_PA_Radius = "Attaque Puissante affecte une zone plus large."
@@ -11817,18 +12069,25 @@ Namespace ST_GearUpgrades (70 keys)
 	D_ShieldRegenSpeed = "Le bouclier se régénère beaucoup plus rapidement, mais après un délai initial plus long."
 	T_Pickaxe_PA_Radius = "Onde de choc"
 	T_ShieldDamage = "Onde de choc"
+	Class_Driller005 = "Éclaboussure"
+	Class_Engineer005 = "Éclaboussure"
+	Class_Gunner005 = "Éclaboussure"
+	Class_Scout005 = "Éclaboussure"
 	T_ShieldStun = "Décharge statique"
 	T_StaggerChance = "Étourdir"
 	T_StaggerDuration = "Durée de l'étourdissement"
 	D_StaggerImprovement = "Étourdit les ennemis plus souvent et plus longtemps !"
 	D_StaggerDuration = "Les ennemis étourdis le restent plus longtemps."
+	Class_Scout004 = "Ombre subtile"
 	T_SuperBlowThrough = "Munitions super perforantes"
-	T_RoFA = "Mécanisme d'alimentation suralimenté"
+	T_RoFA = "Mécanisme d'alimentation surchargé"
 	D_SpreadPerShot = "Chère, chère optimisation. Nous avons fait appel à quelques amis et avons réussi à améliorer considérablement la stabilité de cette arme."
+	Class_Engineer004 = "Premier de la classe"
 	D_ReviveInvulnerability = "Invulnérabilité temporaire après avoir été réanimé."
 	D_Pickaxe_PA_Cooldown = "Grâce à une meilleure ergonomie, il faut moins d’efforts pour balancer votre pioche et, par conséquent, votre Attaque puissante se recharge plus rapidement."
 	D_DamageA = "Les bons p'tits gars de la R&D ont bien bossé. Les dégâts globaux de votre arme sont augmentés."
 	D_ClipSizeA = "Le truc cool à propos des chargeurs, des magasins, des tambours de munitions et des réservoirs de carburant... c'est que vous pouvez toujours en obtenir des plus gros."
+	Class_Engineer007 = "Chef de meute"
 	T_ArmorDamageShotgun = "Chevrotine plaquée Tungstène"
 	D_RoFA = "Nous avons trafiqué votre arme. Elle tire plus vite. Ne posez pas de questions. Profitez simplement. Aussi, n'en parlez pas à la direction, s'il vous plaît."
 	D_ProjectileSpeed = "Nous avons amélioré les mécanismes d’éjection de votre arme, de sorte que les projectiles sont maintenant tirés à une vitesse beaucoup plus élevée. "
@@ -12023,15 +12282,10 @@ Namespace Upgrades (22 keys)
 	37D1AC00426B307CE3968B9D6D802AA4 = "Plus de projectiles par tir"
 	8562D934401F0B67D1A3469F6FDE4946 = "Recharger moins souvent"
 
-Namespace Vanity (29 keys)
+Namespace Vanity (27 keys)
 	CleanShave = "Un rasage de près"
 	Armor = "Armures"
 	ArmorColor = "Couleur de l’Armure"
-	PROMO_PXP_B_BACKBLADE = "En signe de reconnaissance pour votre promotion, vous recevez une <highlight2>lame arrière de pioche</> légendaire.
-
-Customisez votre pioche depuis le <highlight>terminal de pioche</>.
-
-Miner est un travail d'amour !"
 	PROMO_PXP_E_HANDLE = "En signe de reconnaissance pour votre promotion, vous recevez une <highlight2>poignée de pioche</> légendaire.
 
 Customisez votre pioche depuis le <highlight>terminal de pioche</>.
@@ -12053,11 +12307,6 @@ Customisez votre pioche depuis le <highlight>terminal de pioche</>.
 
 Miner est un travail d'amour !"
 	PROMO_PXP_D_SHAFT = "En signe de reconnaissance pour votre promotion, vous recevez un <highlight2>manche de pioche</> légendaire.
-
-Customisez votre pioche depuis le <highlight>terminal de pioche</>.
-
-Miner est un travail d'amour !"
-	PROMO_PXP_A_FRONTBLADE = "En signe de reconnaissance pour votre promotion, vous recevez une <highlight2>lame avant de pioche</> légendaire.
 
 Customisez votre pioche depuis le <highlight>terminal de pioche</>.
 
