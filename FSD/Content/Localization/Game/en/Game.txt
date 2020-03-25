@@ -1,8 +1,8 @@
-9753 entries
+9762 entries
 33 namespaces
-7734 values
+7737 values
 
-Namespace Global (9083 keys)
+Namespace Global (9085 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        reset        "
 	248F3D37491744967A44008576B16FA9 = " (Steeve)"
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Black Box ready and booting. We'll lose the connection if you don't stick close by it, so try not to leave the Triangulation Zone marked!"
@@ -179,7 +179,6 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	B6271D0B47F17A19A158738F56F34E86 = "+1"
 	80F011474601EE73C5B127B1CE7438D4 = "+15 MORKITE"
 	17152481480CB98D8E08DDB1260B30EC = "+20%"
-	B00723A84BDC4F59F16124B3A564CD9A = "+{upgrade}"
 	91A4F1624CD6B77D656DA4A1880C6473 = ", "
 	2FC8392E4BFEE39D5B7F4DB9650CDC9A = "-"
 	99D0D81D4C2FF2A9FAD4C3A54756723F = "-"
@@ -410,6 +409,8 @@ During data collection we anonymize your IP and we maitain only a small amount o
 	D7563CB44DDC80861D98F6B4165956BF = "<ThrowCarriable/> and release to <bold>throw</> carried objects further."
 	AA45743241B4B881AD3AF5823231B881 = "<Title>You currently have no matrix cores to forge in the inventory.</> "
 	3E2B45CC4055FAFFE3F0599FA3B1C566 = "<UseLaserPointer/> and press <mine/> to fire <bold>Bosco's rockets</>."
+	EDAFC5AA4E8E883F4CE9F5B10267A06C = "<UseLaserPointer/> to equip this handy tool. It comes with a <bold>scanner</> that connects to the database of all scannable material on Hoxxes IV.
+It is also a exceptional <bold>communication device</> since you can mark minerals, threats or any other item you want to bring to your teammates' attention. Press <Fire/> while the Laser Pointer is equipped to use the mark function."
 	6AF6F4DF480C999E4A787BA0C032D553 = "<active>ACTIVE: </>Go berzerk for <h>10 seconds</> during which you get <h>boosted melee damage</> and a lightning-fast pickaxe <h>Power Attack recharge</>.
 
 <hi>{minutes} minute cooldown</>"
@@ -474,7 +475,7 @@ Forging increases your mastery. Every new level will award a <highlight>Matrix C
 	465D196E4E1C00E322F2F88C7C7D1EEB = "A large fragmentary grenade that sends shrapnel flying in a wide radius."
 	B6803AFB46E01275F490BC9AAF804D35 = "A less powerfull round together with a rebalancing of weight distribution, enlarged vents and a reshaped grip result in a rifle that is more controllable when hip-firing in quick succession but at the cost of pure damage output. As an added bonus you can carry more of the new ammunition."
 	91B8264A45609DAE2C2AA0B71433EB2C = "A little more oomph!"
-	28E358FD411932866FF071886AD6444D = "A low volume high pressure chamber paired with a high power pump improve the overall function rate of the weapon but lower the max duration of sustained flow."
+	28E358FD411932866FF071886AD6444D = "A low volume high pressure chamber paired with a high power pump increase the flow rate and repressurization speed but lower the max duration of sustained flow."
 	7D2D8FED4DFA2F96EA6A9DAFF0CFC525 = "A manual override lets you quickly slide down the zipline by holding the FORWARD key."
 	2751FAEA43B6457AF22147B478062FA6 = "A masterwork of engineering that improves charge speed and energy efficiency without affecting overall performance!"
 	EEFDA4EC4E8BD1F66E88E18B7D4DB706 = "A miner is on the way to join you!"
@@ -958,6 +959,7 @@ PLEASE NOTE! When you have skipped The Probationary Period you will never get to
 	8C2E41974074120A5126CA982552D32D = "BISMOOOOR!"
 	C2D6864E4BD7683088529AA7E6BBEEF1 = "BOOM, BOOM, right here, Bosco!"
 	25574FF04560C2804C3B5F88AEAA005E = "BREACH THE CORE"
+	3FFF568840CFD6200F506F98A744826B = "BREACH THE CORE"
 	E42716A645873C529455708D14B0E4DB = "BRIEFING
 TERMINAL"
 	B057590A47AFF6B6EFA565B1A4BD8148 = "BURP!"
@@ -2400,7 +2402,7 @@ This will unbind  '{ActionName}'"
 	97A3653E445548AB98C752BCD03C6AD0 = "Drill'em and grill'em!"
 	6283C41245AC6270DE89789AEA9599C3 = "Driller"
 	F6D21EBA42BEE396FE6FF68D54E8DFF1 = "Driller - Primary Weapon"
-	4A1E6412491E390E49F7DD8917C35979 = "Driller Companion"
+	7240456B4D1B4AE2A972179CFA5BDB4F = "Driller Companion"
 	00E726234A52DC12E3B2139D74B2BCD3 = "Driller's"
 	1FEB0ECE4DA8F4076311DFA0BC5FFFCA = "Drills"
 	47380187438EE364C6A56085EEC504A8 = "Drone Modification"
@@ -2494,6 +2496,7 @@ This will unbind  '{ActionName}'"
 	EEE4AF9040DAF7D535A066A4B3B775E8 = "ERROR LOGS"
 	B060EB024B64A3862DAEF98279BAA95A = "EXIT"
 	3F4DEFCC4BA5454B1B801FA7A275FA4E = "EXIT TO DESKTOP"
+	48A835F84792DEAF975B77ACD6EC64F3 = "EXIT ZONE"
 	7D492C69476154C13DFDD59E087CF898 = "EXTRACT {Name}"
 	5FB1DE214CAC78EB32A958ABB9B0D20E = "EXTRACTION"
 	D37404E244342AA47588AFAA6B86F192 = "EXTRACTION"
@@ -2613,7 +2616,7 @@ This will unbind  '{ActionName}'"
 	8C41CBED4DBB161AAC13D48CE6818F04 = "Enemy!"
 	A7444BAE42B14DE6E67756AACAD6F114 = "Energy Consumption"
 	D49CEF82455F4EFB61600C95DDD9792C = "Energy Rerouting"
-	0530C1E94B453B10E9F8E89733DB0BC9 = "Engineer Companion"
+	A40C3FA94C30BF71E528E7A0D29BDEB8 = "Engineer Companion"
 	3E6DFD63492CC69C6DD304B42A0AF115 = "Engineer's"
 	2B8BF7B84987D7D29AF3ABB938EF832D = "Enhancing Brew..."
 	7EB329F941233346A9DD2EB427C98690 = "Enor Pearl"
@@ -2723,6 +2726,7 @@ This will unbind  '{ActionName}'"
 	87A3D0D446CE12B17681B5BE8CA7B0E3 = "Extra Large Belt"
 	24F06E494A8F50F6E35BB6B9E5D35CD3 = "Extra Life"
 	5EFBFD904931ED40124065B8F77A13C9 = "Extra Perk Slot"
+	99445D1C4595716A2034DAB4542CFAB8 = "Extra Perk Slot"
 	5073E9CA427557824A8589B250A6DAD9 = "Extra Revive"
 	8D0872D04D0444AA27B732B6A16B583E = "Extra Revive"
 	BEBD5440451ACC2731CC1FBDEFD3AF0B = "Extra Rocket"
@@ -2980,8 +2984,8 @@ RANGE"
 	A42C000B46A88FEB31422EB505EEAF80 = "Forbidden"
 	511E140F47B8A5AA2A583FBDD20C1CEC = "Force"
 	10C79B5946D4E8A72924C1B26CBF544F = "Forge"
+	7BD9B3274FF3BED4CC6532A20F6BD966 = "Forge"
 	A0D4C48D4EF61866DE19CBAE92D05C44 = "Forge"
-	A8741D6B461E2720BA4C8F901CEF359A = "Forge"
 	AE4C6D354B238677CBF9CCBB74160BCA = "Forge History"
 	DDAAA63B4533237EA7A8FFACB86CCD67 = "Forge History"
 	5043F1E946293073A4D9699570F1620B = "Forge Inventory"
@@ -3496,7 +3500,7 @@ RANGE"
 	A43BAA84409D283ED96FD887239B78BE = "Gunk Seed!"
 	F2961EF142EEE96220C0BDAB612CD531 = "Gunk Seed!"
 	A91C217549A5958BC56FF7AECBB50D06 = "Gunk Seed, I want it!"
-	AA4990A14333C651CDEB5090F7EED9C6 = "Gunner Companion"
+	00EC03C943BF5906CE477999FFC71DC0 = "Gunner Companion"
 	5F94848F40D2794DBBFCFAB8E72B9180 = "Gunner's"
 	52153B044354FF2BF6455B8049E66EB0 = "Gutless"
 	DD449EE34433FF08A1B4789767FF811D = "Guts"
@@ -3760,8 +3764,6 @@ Rich"
 	86CEA5B64853B3D47B7EFB888D37CFE3 = "Hold"
 	E396E9DA4A8A5FC39531AF8FB020505E = "Hold"
 	21C9F8304D2562590B90DCB24D283232 = "Hold <JUMP/> after going down to activate."
-	EDAFC5AA4E8E883F4CE9F5B10267A06C = "Hold <LaserPointer/> to equip this handy tool. It comes with a <bold>scanner</> that connects to the database of all scannable material on Hoxxes IV.
-It is also a exceptional <bold>communication device</> since you can mark minerals, threats or any other item you want to bring to your teammates' attention. Press <Fire/> while the Laser Pointer is equipped to use the mark function."
 	347254614E1606C92C79C3B9EB343610 = "Hold <MapTool/> to check the <bold>Terrain Scanner</>. This will help you <bold>navigate the caves</> and locate important items."
 	0731798C466E1B45D9D6B0ADFF068BD8 = "Hold <Mine/> to use the <bold>Pickaxe</>. The <bold>Pickaxe</> is able to break all terrain. <bold>Precious resources</> will go to your personal inventory."
 	4A57FA844576D3368CA46F9D97460B96 = "Hold <grenade/> after going down to activate."
@@ -4263,7 +4265,6 @@ Getting a character promoted RESETS IT TO LEVEL 1. You will however KEEP all pro
 	7C4F1A5C4D720A1CAE15B296365866F6 = "Increased damage from sticky flames"
 	8CA7B7594E027FABCA3FEF9BC3F9D490 = "Increased damage when at max rate of fire"
 	8E43066B488EF003BEFAF9992AB05AFE = "Increased flow rate"
-	D77EECBC4785E42180E976B7AD723A1A = "Increased flow rate"
 	522FC91A4FDEB07BC77A0F8B52C6B9B3 = "Increased fuel consumption rate for more damage "
 	2373D2DF4554DC721531A2A38B2371B7 = "Increased normal shot damage"
 	253D85F7445F05A84D2696B18DF97F31 = "Increased range"
@@ -4599,6 +4600,7 @@ Time is limited, so hurry!"
 TUTORIAL"
 	4D439D31471DB70445A4549CFA83881C = "LAUNCH ROCKET"
 	107CD6FD44CECF4D3C6170821D1F7415 = "LEAVE NO DWARF BEHIND"
+	77AE2B2E48DED415EB4BC6A8DC403883 = "LEAVE NO DWARF BEHIND"
 	9ECD5B5847C1669C63B1FCBC2159B8DD = "LEAVE NO DWARF BEHIND"
 	3F946446424F814A2A928D910E828FBE = "LIGHT UP! "
 	BD7EA30E41800AC5F94B5A967BD28FCA = "LINECUTTER"
@@ -5418,7 +5420,7 @@ On the other hand, area of effect weapons or those based on streams of cold or f
 	35BD4D194B4272C41487D1846A99EBB4 = "NETWORK ERROR"
 	747D9D66462A834F081A129492AD4C34 = "NEW MISSIONS IN"
 	47713A8F484B1902AFE2D79C9BEDE9ED = "NEW PLANET ZONE"
-	C9AB099D447EF96BA866D9951482B5B7 = "NEW PLANET ZONE"
+	A4A52C3E4DA5D4A28B7AF8B14659B1C0 = "NEW PLANET ZONE"
 	53F99F6A490025C957D9CE81EAB2B927 = "NEW {AccessoryType}"
 	29AFDACB49D3FC658DE1438119224810 = "NEW {Type}:"
 	B6320AD1453B5B7D4C6ECF92BAC1504C = "NEW {mission} COMPLEXITY"
@@ -5801,7 +5803,7 @@ For that reason, we are considering to put you up for a promotion. However, in o
 Management"
 	22FF6A604C78E3E36DA08691A07F7BA0 = "Once the objective is met, use the button on M.U.L.E. to call the Drop Pod."
 	9B5F057C4CF3E2BDBD314D9EBF843EB6 = "Once the objective is met, use the button on M.U.L.E. to call the Drop Pod."
-	BAB94B284F8FF41177845FA6929DC8E2 = "Once the threats have been eliiminated, use the button on the M.U.L.E to call the Drop Pod."
+	BAB94B284F8FF41177845FA6929DC8E2 = "Once the threats have been eliminated, use the button on the M.U.L.E to call the Drop Pod."
 	1691C1544A6F5EB4E1F2289D76C9968A = "One Down!"
 	8609CA944A8413052C562086E7C47786 = "One Down!"
 	CE6FC0DC4807D1957DDACF82F69E5699 = "One Leaf Lover!...and can I get it thinned with some water!"
@@ -6086,6 +6088,7 @@ Management"
 	BA79427A40561787663B7D9520F743AE = "Pack Rat"
 	E6E6A7FA45E549ACC240BBB03FD777DE = "Packs a bigger punch! Exellent for making swiss cheese out of bugs."
 	DB2FD22A451F2752212D18A67D20E95E = "Paint Job"
+	CDACA2ED4D51B8F536C4C28CB7FF8495 = "Paint Job: {test}"
 	ECDDB6CB4D2A250D43FFF58E2EA0F4AD = "Paint a target with your laser pointer and the LMG will take care of the rest."
 	12427416404104A0D95949A986A9BC78 = "Paintjob"
 	21F940E04D33EFA0106DC6B094794410 = "Palace"
@@ -6352,12 +6355,6 @@ You will earn an HONOR BADGE and you will KEEP all progress on weapons, perks, c
 	3A49023D49669C27F3CD2899E980A8E5 = "Promotion Qualification - Gunner"
 	F86043E3460E000F7A2E75B25CC10B44 = "Promotion Qualification - Scout"
 	4863579B44E13FE5ECA66DB498FB9DFE = "Promotion Scout"
-	82F14BEF4C547648696CABB6CA739E50 = "Promotion Tier 1 - Bronze"
-	0934CC5B4373969371409AB0A8552EEA = "Promotion Tier 2 - Silver"
-	C82845124EB09EBE85095883D5EFE7F8 = "Promotion Tier 3 - Gold"
-	D164372548602FC7097201B778CC1F66 = "Promotion Tier 4 - Sapphire"
-	1D4206EF4D4B3C968066BDB2D5AEFF95 = "Promotion Tier 6 - Diamond"
-	2B28EF28477DC8395BC4CDACF57C3389 = "Promotion Tier Five - Emerald"
 	604B060E4BE2E77AE44922AC156A47CC = "Promotion Time! Ohh yeah...!"
 	EBF240D741CF56C5D340388F2046D4FF = "Promotion brings a number of perks with it...have a look below."
 	0E1C525A4B1BC1181F1B43A13BCD5F3F = "Propel yourself in the air using the blast from your shotgun"
@@ -6894,7 +6891,7 @@ MISSION"
 	790520484F7313D8EB7066B8DBCD61C4 = "Scarce"
 	15A1D16D4B0AE5B0C7F05585354D6DD6 = "Scarred"
 	7BC96C854FB94CBB9EA74BB9FD48E575 = "Scorched"
-	66566692462125FF46E13AA7BE7BB14A = "Scout Companion"
+	57747AAD46AB830B9BBCC38BF55D834A = "Scout Companion"
 	2B13136E4A8B1E202E4256B26CAD42E0 = "Scout's"
 	B370475240429C6C29ACFB92395A561D = "Scouting mission, Team. Your job: Get in deep, recover suitable samples of the local strata. Your scanners will point them out. Dig 'em loose, get some lifters on them, and send them back to base."
 	1C2AD5E7471EDC3BA67D6B84B98E4C34 = "Scream"
@@ -7391,10 +7388,10 @@ MISSION"
 	CDF7F1484A34D44B43D8ED9440E15FE4 = "Strange Bag"
 	B12099C64CA67C198F6C87AEC57A3C77 = "Strange bug here!"
 	1E7A69884E200D7DAF91A18D7FE5A6DA = "Strange thing!"
-	73DC2C284570F12CA9790D812A600EE1 = "Streamelined Integrity Check"
 	536BF1FC42CF64FA8DED6992457074DC = "StreamerMessage"
 	A8D47AE14BA4370625FD19BE02274CDB = "StreamerName"
 	38432C1B42FB9E9EC7AE9ABBA4F97F25 = "Streamlined Integrity Check"
+	73DC2C284570F12CA9790D812A600EE1 = "Streamlined Integrity Check"
 	3A99A4B94110720A3415E0A4D6B56515 = "Strict NAT"
 	A41FD2B642AE2A7E200E439C0F4473AB = "Strike"
 	E5C74ED147632F98F5A66FB87D234EBD = "Strong "
@@ -7535,6 +7532,7 @@ DROP BAY"
 MISSON
 SELECT"
 	FB611A7543CBE11CFFD5C7B8250146F7 = "TO HAB 15"
+	D312322D406F09FFEB3CDEBE97887CAA = "TODAY'S SPECIAL"
 	6D78F97148D00A21863CA0A15F38B516 = "TODAY'S SPECIAL will give you a small buff on your next mission. Buffs don't stack!"
 	302F36464C9761DABA2CCCA8C8F95CB1 = "TODO"
 	DBB551CD4653F8A642FEB5AF0BBD6B43 = "TOO DANGEROUS FOR PANTS"
@@ -7680,6 +7678,9 @@ SELECT"
 	65462CE04EDA7A6CDA3A289F5181C976 = "The <highlight2>Tritilyte Key</> gives you access to the <highlight>Deep Dive Terminal</>.
 
 You can now host and join <highlight2>Deep Dives</> and earn <highlight2>Matrix Cores</>, that can be used to forge Weapon Overclock, Cosmetics and Weapon Skins."
+	6AEB3BAB479C96205C0259A937A39CC0 = "The <highlight2>Tritilyte Key</> gives you access to the <highlight>Deep Dive Terminal</>.
+
+You can now host and join <highlight2>Deep Dives</> and earn <highlight2>Matrix Cores</>, that can be used to forge Weapon Overclock, Cosmetics and Weapon Skins."
 	CD3FEF7749F7C8D936D3A9A7A21FA125 = "The Ace of Spades"
 	A0BFE00641AE58A0C6F978A3C2EA88BD = "The Barrel Dispenser is over here! "
 	958CCCA1475B627EAE9827996ECCA8D5 = "The Black Box"
@@ -7728,6 +7729,7 @@ The Miner's Manual - never leave the Rig without it."
 	DA640E7946DB888514C2758535ED636A = "The Swarmers are here!"
 	4C729A51429F40D2B6D217B5C70E8EE2 = "The Thickest"
 	E001D8D245643280FD2903AB78B1611B = "The Tincan is surely hungry today!"
+	1F0DF2834FE526032BBEF9AB25F6F638 = "The Tritilyte Key"
 	DE13A74C4372643DA43218B6D3A2A605 = "The Tritilyte Key"
 	E555C20A4F820C47AFD4C78E9085ACD3 = "The Wave is almost over!"
 	552397DD45AE7FD8AEAE38AC2AD601CE = "The Wave is significantly diminished. Well done, Team."
@@ -8644,7 +8646,7 @@ You can change these settings any time in the options menu."
 	9928E1574FBA310B6FC697B153579434 = "Weapon Overclocks Forged"
 	5E6B849349A6387128BFE899180BEE42 = "Weapon Skin Set"
 	4D381BDA4C17F96EBAAADEB9BCD3C46E = "Weapon Skin: "{test}""
-	7281D73D455D540D7E948EB11E8B6570 = "Weapon Skin: "{test}""
+	7281D73D455D540D7E948EB11E8B6570 = "Weapon Skin: {test}"
 	9619555A49C63867786168B8A1E2BD6E = "Weapon Skins Forged"
 	72F586524E0F6D6506056298A19A0538 = "Weapon description"
 	EF6076BE455269F33A90799190836776 = "Weapon ready."
@@ -8988,6 +8990,10 @@ CONGRATULATIONS!
 <Highlight2>Breach The Core</>!
 
 Complete BREACH THE CORE to earn <highlight2>Infused Matrix Cores</> and get access to weekly <Highlight2>Core Hunts</>."
+	DF865C98428A8ADFB894FA8D3924CDBC = "You have been granted access to a new assignment:
+<Highlight2>Breach The Core</>!
+
+Complete BREACH THE CORE to earn <highlight2>Infused Matrix Cores</> and get access to weekly <Highlight2>Core Hunts</>."
 	26B7F8284A283072236CC8AAE9D04C56 = "You have been kicked"
 	7589FE60454A9D2BD29BC6BA2CE886A7 = "You have been kicked"
 	EA6B14AB4DC910892F48F396AFD08B17 = "You have been kicked"
@@ -9062,6 +9068,9 @@ Note: This option does NOT restrict character selection on the Space Rig!"
 	80CC462E4B221D36D04EA3A3226443DD = "Your movement slows down for a few seconds while using focus mode in the air."
 	770DD2A2432D7A9CBC2256BF4835843D = "Your new weapon license is within reach. Just one more mission to complete."
 	1495C6FA468B8322E8A8B8B1ED934D29 = "Your newly promoted Dwarf has earned an <highlight2>Extra Active Perk Slot</>!
+
+You can now equip <highlight2>two</> active perks. Choose wisely!"
+	D204F4B04AA745CB9B1075A5297027FC = "Your newly promoted Dwarf has earned an <highlight2>Extra Active Perk Slot</>!
 
 You can now equip <highlight2>two</> active perks. Choose wisely!"
 	AD49B3F44EDDEC1E11F918BD162129F1 = "Your objective for this mission is to <bold>mine 100 units of Morkite</>. The <bold>mission objectives</> are always displayed in the <bold>top right corner</>. "
@@ -10949,7 +10958,7 @@ MISC.
 - Loadout selector added to The Accessory Shop
 "
 	Update_29 = "Hello Miners,
-It’s time for another update as we’re ramping up for for full release! The main focus for this update has been on improving the first experience new Green beards will encounter, but we also got a lot of goodies for veteran players, such as Armors finally being able to get new Paintjobs, and an all new Miner’s Manual to name a few!
+It’s time for another update as we’re ramping up for full release! The main focus for this update has been on improving the first experience new Greenbeards will encounter, but we also have a lot of goodies for veteran players, such as Armors finally being able to get new Paintjobs, and an all-new Miner’s Manual to name a few!
 
 Cheers,
 The Ghost Ship Crew
@@ -10968,7 +10977,7 @@ If you see some lost gear scattered around the place, try to find a blinking hel
 
 DROP POD OVERHAUL
 ----------------------------
-Let’s be blunt...the Drop Pod has been in need of a facelift for a while. That has now happened - including Fuzzy Dice!
+Let’s be blunt… the Drop Pod has been in need of a facelift for a while. That has now happened - including Fuzzy Dice!
 
 
 NEW DWARF SHOUTS
@@ -10983,9 +10992,9 @@ Did you know that the Launch Bay is only a small part of the Spacerig infrastruc
 
 MINER’S MANUAL
 ----------------------------
-Missions, Crafting Resources, Damage Types, Weapon Mods... There are so many systems in DRG! It can be overwhelming at first. We collected as much information as we could and created a tone of new infographics to make a guide. Hopefully this will help during the first few hours of the game. There might even be some details veteran miners didn’t know.
+Missions, Crafting Resources, Damage Types, Weapon Mods... There are so many systems in DRG! It can be overwhelming at first. We collected as much information as we could and created a ton of new infographics to make a guide. Hopefully this will help during the first few hours of the game. There might even be some details veteran miners didn’t know.
 
-It’s the intention that the Miner’s Manual will continue to expand with new entries and chapters as we progress.
+It’s the intention that the Miner’s Manual will continue to expand with new entries and chapters in future updates.
 
 
 IMPROVED TUTORIAL
@@ -11003,11 +11012,6 @@ VANITY ICONS
 All cosmetic items, both from The Shop and The Forge, now have proper icon previews! They are perfect for quick sorting and to avoid “guess forging”, but, most importantly, they look cool.
 
 
-NEW PROMOTION RANKS & REWARDS
-----------------------------
-Your dedication has exceeded Management expectations and we have realized we need more levels of Promotion! There will be 3 new tiers of promotions: Emerald, Sapphire, and Diamond. Additionally, in an unprecedented act of generosity, we have decided that promotions should come with rewards. These will, of course, also be granted retroactively.
-
-
 ARMOR PAINTJOBS [COMMUNITY REQUEST]
 ----------------------------
 All the ingame Armor Sets have received the same split between Frameworks and Paintjobs that weapons got recently. Several brand new Armor Paintjobs can be found in the Lost Pack Encounters, with more to come further down the line. 
@@ -11015,7 +11019,6 @@ All the ingame Armor Sets have received the same split between Frameworks and Pa
 
 WEAPON BALANCE
 ----------------------------
-
 “THUNDERHEAD” HEAVY AUTOCANNON
 - Moved some of the AoE range bonus of Carpet Bomber OC to the Base Weapon and Shrapnel Rounds Mod
 - Moved some of the AoE damage bonus of Carpet Bomber OC to the Base Weapon
@@ -11030,7 +11033,11 @@ WEAPON BALANCE
 - Lowered the rate of fire bonus of the Miner Adjustments Mod
 - Increased the bonus of the Supercharged Feed Mechanism Mod
 - Removed the Improved Stun Mod and increased the base duration of a weakpoint stun
-- Fixed the stun chance stat display
+- Fixed the stun chance stat display to be more clear that the stun chance is calculated for every pellet that hits
+- Made it so the Minishells OC can't stun targets
+- Fixed crosshair misalignment
+- Fixed the Cycle Overload OC not affecting weapon spread properly
+- Lowered the spread penalty of the Cycle Overload OC
 
 “STUBBY” VOLTAIC SMG
 - Reduced recoil especially the horizontal recoil so it is now easier to manually compensate
@@ -11045,7 +11052,7 @@ Modification Tweaks
 - Improved the bonus of the Improved Capacitors Mod
 - Removed the Larger Capacitors Mod
 - Relocated the Conductive Bullets Mod to Tier 4
-- Removed the Overcharged Rounds Mod and added its bonus to the Base Weapon
+- Removed the Overcharged Rounds Mod and added some of it’s bonus to the Base Weapon
 
 BRT7 BURST FIRE GUN
 - Increased base damage
@@ -11071,7 +11078,7 @@ CRYO CANNON
 - Increased the base effective range
 - Increased the speed with which the spray extends to its effective range
 - Increased base freezing power
-- Increased base damage from
+- Increased base damage
 - Increased the base size of the pressure chamber
 - Lowered the base re-pressurisation delay
 - Fixed the weapon damage and freezing power stats displaying each other's values.
@@ -11090,13 +11097,24 @@ Modification Tweaks
 - Renamed the High Water Content Mod to Hard Mixture
 - Increased the power of the Cold Radiance Mod
 
+Overclock Tweaks
+- Added a flow rate bonus to the Flow OC
+- Increased the Ice Spear OC damage and it no longer depends on pressure, it's now always hits the same
+- Increased the Ice Spear OC ammo cost and it now always consumes the same amount and you can always shoot it as long as you have the ammo and the weapon is not repressurising
+- Tweaked Ice Spear OC damage and ammo cost
+- Increased the damage bonus and lowered the pressure drop penalty on the Ice Storm OC
+- Removed rate of fire bonus from Ice Storm OC
+- Added an ammo penalty to Ice Storm OC
+- Increased the radius and freezing power of the Snowball OC, like the Ice Spear the damage is now constant
+- Lowered the ammo cost of the Snowball OC, like Ice Spear the ammo cost stays constant
+- Increased Snowball OC ammo penalty
+
 BREACH CUTTER
 - Increased the base width of the plasma beam
 - Increased the base damage
 - Changed how damage is shown in the stats to a DPS value
 - Decreased line speed
 - Increased the plasma line life-span
-- The plasma beam now stuns enemies while it passes through them
 - Decreased the rate of fire
 - Increased the base magazine size
 - Increased the "hitbox" of the plasma beam so it is more forgiving
@@ -11123,7 +11141,16 @@ Overclock Tweaks
 - High Voltage Crossover is now a Balanced OC and no longer has a damage penalty
 
 DEEPCORE 40MM PGL
-- Improved the responsiveness of the Proximity Trigger Mod and fixed the description which referenced a damage bonus based on a time mechanic that was not actually being used.
+- Improved the responsiveness of the Proximity Trigger Mod and fixed the description which referenced a damage bonus based on a time mechanic that was not actually being used
+
+LEADSTORM MINIGUN
+- Improved how quickly the Burning Hell OC sets things on fire
+- The Leadstorm OC now removes the Minigun's stun ability and has a slightly lower 
+- Lowered the damage bonus on the Leadstorm OC a bit
+
+OTHER WEAPON TWEAKS
+- Made the Persistent Plasma effects always kill swarmers that go through them. This impacts both the EPC and the Breech Cutter.
+- Lowered the splash radius of the Pheromone Canister and lowered the number of enemies a pheromone-affected target can attract
 
 
 MISC.
@@ -11166,7 +11193,8 @@ MISC.
 - Fixed a bug that enabled two players to tame the same Glyphid, sometimes removing its textures
 - Fixed a bug in the State of the Art achievement so it no longer triggers prematurely when having all items upgraded fully except the armor
 - Fixed a bug when using both the Hardened Drill Tips and Supercharged Motor mods on the Reinforced Power Drills
-- Fixed a bug that caused the canister of the CRSPR Flamethrower to change color when reloading with some Weapon Frameworks
+- Fixed a bug that caused the canister of the CRSPR Flamethrower to change color when 
+reloading with some Weapon Frameworks
 - Fixed a bug with Air Geysers causing jittery movement for clients while pushed
 - Fixed a bug that caused Bosco to senselessly attack the Drop Pod if you marked it with the Laser Pointer. Silly Bosco
 - Fixed a bug that caused Mactera Spawns to look like they are in their attack stance while fleeing
@@ -12700,8 +12728,9 @@ While in this state you <h>move faster</>, <h>hit harder</>, and are <h>resistan
 	PERK_Resupplier = "You're a busy dwarf, got aliens to shoot! Stock up on Ammo and Health <h>{value}% faster</> at the Resupply Pod."
 	PERK_CooldownGeneric = "{value} seconds cooldown."
 
-Namespace PickAxe_SetNames (10 keys)
+Namespace PickAxe_SetNames (11 keys)
 	Set_03 = "Bug Hide"
+	Set_07 = "Carven Pride"
 	DefaultPickaxe = "Company Standard"
 	Set_04 = "Hammerblow"
 	Set_05 = "Incorruptible"
@@ -12786,7 +12815,7 @@ Namespace ST_BrewingIngredients (10 keys)
 	Barley2 = "Yeast Cone"
 	Barley2Plural = "Yeast Cones"
 
-Namespace ST_GearUpgrades (104 keys)
+Namespace ST_GearUpgrades (110 keys)
 	Headwear_Beret = "A reminder of your service."
 	Class_Scout006 = "Aqua Force"
 	Class_Scout002 = "Azure Draft"
@@ -12852,6 +12881,12 @@ Namespace ST_GearUpgrades (104 keys)
 	T_Pickaxe_PowerAttack = "Power Attack"
 	D_Pickaxe_PA_Radius = "Power Attack affects a larger area."
 	D_Pickaxe_PA_Damage = "Power Attack does more direct damage to your target."
+	Promotion01 = "Promotion Tier 1: Bronze"
+	Promotion02 = "Promotion Tier 2: Silver"
+	Promotion03 = "Promotion Tier 3: Gold"
+	Promotion04 = "Promotion Tier 4: Emerald"
+	Promotion05 = "Promotion Tier 5: Sapphire"
+	Promotion06 = "Promotion Tier 6: Diamond"
 	D_Recoil = "Quality engineering, the best lasercut parts, the tender loving care of a dedicated R&D Department. The recoil of your gun is drastically reduced."
 	T_ReloadSpeed = "Quickfire Ejector"
 	T_Recoil = "Recoil Dampener"
