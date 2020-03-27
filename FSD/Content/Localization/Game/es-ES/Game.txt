@@ -1,8 +1,8 @@
-9245 entries
+9263 entries
 32 namespaces
-7518 values
+7527 values
 
-Namespace Global (8614 keys)
+Namespace Global (8632 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        reiniciar        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Caja negra lista y ejecutándose. Perderemos la conexión si no os quedáis cerca, ¡así que intentad no abandonar la Zona de Triangulación marcada!"
 	2559D78C40005E5221F26093CB976283 = " Recoge {Title}"
@@ -219,6 +219,7 @@ Mientras se recopilan los datos, tu IP quedará oculta y solo mantenemos una peq
 	9AF512714BB0301FF035358F1FD28568 = "Quizás...fuera un poco más de lo que podíamos manejar... "
 	1B27B0104939B431683D9883594A6F80 = "...Espera, qué acaba de suceder?!"
 	B233414B44513EF94573E59A2DE673EF = "¡¿Qué es esta porquería de equipo que me han dado?!"
+	B5F609334A9EA1A6462E66A2C37575A4 = "¡¿Qué es esta porquería de equipo que me han dado?!"
 	DAB66E094D2AEA5EA8B7F8BD131C4500 = "¿Dónde estoy...? "
 	AE108194436345166503A5B96230CFB9 = "¡¿A quién demonios se le ocurrió que nos parecemos a eso?!"
 	3223EB854825FB2A2EAD44B6F52999CD = "Por qué me lo pasaré tan bien con esto..."
@@ -276,6 +277,8 @@ Mientras se recopilan los datos, tu IP quedará oculta y solo mantenemos una peq
 	D7563CB44DDC80861D98F6B4165956BF = "Mantén pulsado y luego suelta <ThrowCarriable/> para <bold>lanzar</> los objetos que estés cargado más lejos."
 	AA45743241B4B881AD3AF5823231B881 = "<Title>No tienes ningún Núcleo de Matriz en tu inventario para poder forjar.</> "
 	3E2B45CC4055FAFFE3F0599FA3B1C566 = "Pulsa <UseLaserPointer/> seguido de <mine/> para disparar los <bold>cohetes de Bosco</>."
+	EDAFC5AA4E8E883F4CE9F5B10267A06C = "Pulsa <UseLaserPointer/> para equipar esta herramienta útil. Viene equipada con un <bold>escáner</> que se conecta a la base de datos de todos los materiales analizados de Hoxxes IV.
+También es un <bold>dispositivo de comunicación</> de gran utilidad, dado que te permite marcar minerales, amenazas o cualquier otro objeto sobre el que quieras llamar la atención de tus compañeros. Pulsa <Fire/> mientras tienes el puntero láser equipado para usar la función de marcado."
 	6AF6F4DF480C999E4A787BA0C032D553 = "<active>ACTIVA: </>Libera tu rabia durante <h>10 segundos</>, durante los cuales obtendrás <h>una mejora de daño cuerpo a cuerpo</> y una <h>recarga ultrarrápida del Ataque Poderoso</> del pico.
 
 <hi>Enfriamiento: {minutes} minutos</>"
@@ -335,6 +338,7 @@ Al forjar, aumentarás tu dominio de la forja. Con cada nuevo nivel conseguido, 
 	1B7AAF54465AEC4521AE51BC2F963917 = "Un tono rojizo y saludable."
 	592E6A3447CDF5D565933785619ECF84 = "Una solución de alta tecnología para mejorar la tasa de enfriamiento eficientemente. El resultado es un aumento de la cantidad de disparos que se pueden realizar antes de un recalentamiento y una recuperación más rápida del mismo, además de una mayor duración manteniendo una carga máxima."
 	465D196E4E1C00E322F2F88C7C7D1EEB = "Una granada de fragmentación grande que esparcirá metralla en un radio amplio."
+	B6803AFB46E01275F490BC9AAF804D35 = "Gracias a una bala de menor poder destructivo, y junto con una nueva distribución del peso, aberturas de ventilación más grandes y una empuñadura con una nueva forma, se ha conseguido un rifle más controlable al disparar rápidamente sin apuntar, sacrificando daño puro. Además, podrás llevar más munición de este tipo."
 	91B8264A45609DAE2C2AA0B71433EB2C = "¡Un poco más de dakaaa!"
 	28E358FD411932866FF071886AD6444D = "Una cámara de pequeño volumen y alta presión, combinada con una bomba de gran propulsión, aumentará la tasa de flujo y la velocidad de represurización, aunque disminuyendo la duración máxima en flujo continuo."
 	7D2D8FED4DFA2F96EA6A9DAFF0CFC525 = "Una anulación manual te permitirá moverte rápidamente en la tirolina manteniendo pulsada la tecla ADELANTE."
@@ -404,7 +408,7 @@ La IA de Bosco no está preparada para manejar este tipo de armamento, así que 
 	C2D4C65A430223C08E507585B7DA73C5 = "DMF"
 	953BD7754CA18B0E7B567FB1569498D9 = "Casco de RA"
 	AE27730B476987E33DE684ABDA93F9F0 = "Casco de RA"
-	C474900647EC7697729407A60022B3C2 = "CORAZA"
+	C474900647EC7697729407A60022B3C2 = "BLINDAJE"
 	A4EFADD34D7E412BC7D130A519234E9B = "ATAQUE:"
 	6F7162D44436E8E658699788E9F157C4 = "¡ATENCIÓN!"
 	DE7D5DF741B76925D2DB0A8DC0724D09 = "ATENCIÓN:"
@@ -545,6 +549,7 @@ Pulsa <equip2/> para equipar el <bold>arma secundaria</>"
 	83DBDB404C01FA12EDFA7B9635EA0BDC = "También conocido como "El Alfiletero", el traje MK5 de ingeniero es otra maravilla tecnológica. Tiene más luces brillantes y parpadeantes que cualquier otro traje de Ingeniero, y eso tiene que ser bueno."
 	645361FE45A13CD44F055E8D75FF6347 = "Aunque el oro es el metal más noble de todos los metales nobles, sigue pudiendo formar una variedad de compuestos en estados de oxidación que varían entre -1 y +5."
 	050447854ADDF505C53502914041EBB5 = "Siempre un movimiento audaz."
+	B45C99D747B7FE62A64A418B9CC97DEB = "Revisa siempre tus reservas y las de tus compañeros. No se recomienda enfrentarte a una oleada de enemigos con una pistola sin munición. Comprueba los <bold>indicadores de munición </>con frecuencia en la pantalla del equipo."
 	A7AFE10842613D034C552C945F68C416 = "Amatista"
 	F01E27F8447F3AB50A9A0CB6CEAC1AB7 = "Munición"
 	1CB313AD4E447638C4FAFABA352B5A0F = "¡Munición recogida!"
@@ -607,6 +612,7 @@ La Directiva"
 	A39CF4124ED26D8289EA18A860B1C56A = "Cualquiera"
 	B837DE3B456E99D06D95C29378DC596D = "Todas y cada una de las decoraciones deben considerarse propiedad de la compañía, y deben tratarse con respeto."
 	0F2F3AAE433AA4C98D4258885F7091BD = "Cualquier criatura cubierta por la sustancia se convierte en un objetivo irresistible para cualquier tipo de vida salvaje de Hoxxes. Úsalo con extremo cuidado. Los chicos en R&D están muy orgullosos de este."
+	B868D3754398B689D2BEFD98E4C35E1F = "Cualquier enemigo que se acerque a menos de 5 m mientras disparas el criocañón comenzará a congelarse."
 	F01FDFDE4CE00B8EBE5DBD90EC065143 = "Cualquier impacto de alta energía desestabilizará el proyectil cargado, generando un área amplia de implosión. El débil campo creado para el proyectil requiere menos energía, por lo que el arma ya no se sobrecargará tras cada disparo cargado."
 	226C2AAB4B67FD617E741DB0A511E833 = "¿¿Alguien quiere bailar??"
 	55C7909B4CB7E9D2F862A194905C2B41 = "¿¿Alguien quiere bailar??"
@@ -824,7 +830,7 @@ DE INSTRUCCIONES"
 	E16950D84BB0749128EF9BB1F213B04E = "Atrás"
 	E9BA47754D89430BEEBA5C9756EE6D85 = "Atrás"
 	FE9E6B9444022CF44BD437BE13C15DEE = "Atrás"
-	1E02974D4BD015F60684E58D2038E6AF = "¡Levántate de nuevo, susurrador de rocas!"
+	1E02974D4BD015F60684E58D2038E6AF = "¡Levántate, susurra-rocas!"
 	940F4F8641DFEA24AA629EA88CA60FAD = "¡Aquí viene el apoyo!"
 	DDF9B4704CF085C09F85628E0A990205 = "¡Backbreaker Stout!"
 	E338EA8C45CF6EF401148A8C007BE33B = "¡Tengo una bolsa!"
@@ -1315,7 +1321,7 @@ Pulsa <UseLaserPointer/> para usar tu <bold>puntero láser</>, y pulsa <PressFir
 	82D0B59B46AA76C09D3C3188E42E3803 = "carnal"
 	F2F285B34561E1ACEBBE2B9121ED3B04 = "del depredador"
 	CB98456540CA97F308DF948626691D83 = "Larva carnívora"
-	4EA99AE94ED0C99768FC46B292578932 = "Bombardeo en Área"
+	4EA99AE94ED0C99768FC46B292578932 = "Bombardeo en área"
 	9DA3E8D145D105239E9A238772134C36 = "Puedes llevar aún más plataformas"
 	8D3EFB56476AB1E9B975EF974EE04D6A = "Lleva más GIC"
 	E16F35EB4B272C039CEA058DA65A8CEA = "Lleva más GIC"
@@ -1612,7 +1618,7 @@ de personaje"
 	7DF0FA5D4BFFDBBD015B9BBB47F07615 = "Completa {value} misiones en "Ciénagas Fúngicas""
 	5B22C1D447A7DB9CD6891689AAAE40D7 = "Completa {value} misiones en "Estratos Glaciales""
 	6F54937440371EA785D0808A47EC4779 = "Completa {value} misiones en "Núcleo de Magma""
-	0021AE12478B1DF39F2D09822C23B7EF = "Completa {value} Misiones en Zona de Exclusión Radiactiva"
+	0021AE12478B1DF39F2D09822C23B7EF = "Completa {value} misiones en la Zona de Exclusión Radiactiva"
 	C4B4027E48CE250CA66B3FA40158E267 = "Completa {value} misiones en "Pasillos Erosionados""
 	2939AF8C40B48D069EF1AEB4DC854E51 = "Completa {value} misiones en "Pozos de Sal""
 	C4B1BAF74198A3B6CE0054BC7405B0AA = "Completa {value} Extracciones"
@@ -1909,6 +1915,7 @@ La Directiva"
 	7B5D9F7C47A0CE16ABE3AF9DA014856D = "Tipos de daño"
 	B855F25348B1D7495CB53EBD26207CC3 = "Daño (enemigos ardiendo)"
 	B21AB3B74E5AE85FE4E7EBA9B75C99FF = "Bonificación de daño de la última bala si ambas aciertan en el objetivo"
+	F48E4D1E44304E14996FFD89A63CAE12 = "Es un tipo de daño centrado en un <bold>área</> que rodea al punto de impacto, normalmente mayor cuanto más cercano al centro de la zona. Es ideal para encargarse de <bold>grandes grupos</> de criaturas. Pero ten cuidado con tus compañeros enanos, su equipo es caro. La mayoría de las explosiones <bold>destruirán el terreno</> donde ocurra la detonación, haciendo que los minerales preciosos se desprendan en pedazos recolectables."
 	F6194789486BF7F6C6CF5AB079B017DC = "Daño aumentado al estabilizarse por completo"
 	88458F1742B7E6F178A843B8AF0F9A32 = "Aumento del radio de daño"
 	1C83E43C44562D584DD7F0842EBD83B8 = "Daño contra enemigos electrificados"
@@ -2036,7 +2043,7 @@ La Directiva"
 	567197FC47E2B7A939B55D90FA510CCB = "Depositar"
 	7C131D9D4BB606E3B2B022B4824E6A09 = "Deposítalos"
 	AA84FF434A3C2F2F2C96878609721EBD = "Descarga"
-	E5189426496B0549B24D7BA7EE12E3B0 = "Almacena tus objetos en el M.U.L.A. hasta que el equipo alcance la cuota necesaria."
+	E5189426496B0549B24D7BA7EE12E3B0 = "Descarga tus objetos en el M.U.L.A. hasta que el equipo alcance la cuota necesaria."
 	5F213AC34534738253556290BCFEC9F8 = "¡A depositar!"
 	977A74BB4CE74021C712AD9DF64C3035 = "Descargando"
 	AFDABC18448B1D626DF030AD24EECE6A = "Descargando"
@@ -2658,9 +2665,10 @@ DE TIRO"
 	2F5731324F47323E60EE8F9430271DA6 = "¡Por fin!"
 	6A2F63204A5FED74CCA83A8D24812A50 = "Por fin..."
 	746A9A084DE15280F6A084B92600A921 = "¡Por fin una oportunidad para aprender los pros y contras de este trabajo a mi propio ritmo!"
+	BB1788AB4E9989527CA78AAB2FE1B8E6 = "¡Por fin una oportunidad para aprender los pros y contras de este trabajo a mi propio ritmo!"
 	4852233647F64F672DBB04AE4D2358D5 = "Hallazgo"
 	6E1245814EA1D86534832BB284EE1AFD = "Encontrar misión"
-	192B13FC45C53B29F26A4088125FBD1C = "Encuentra y mina <bold>Oro</>"
+	192B13FC45C53B29F26A4088125FBD1C = "Encuentra y extrae <bold>oro</>"
 	6BFF762D4C154D1913E2449348DF06A5 = "Encuentra los aquarqs"
 	4B4A6C584CD0853320D4EB9F4E0CC259 = "Encuentra los huevos"
 	1B2A8B0144F947FF047DC294B1398FD5 = "Encuentra los mini-M.U.L.A."
@@ -3019,7 +3027,7 @@ DE TIRO"
 	4B4FE9AB4767260DD1180BA845A46672 = "¡Sacadme de aquí!"
 	9D1174E7474717CFB8EE048D35DA1900 = "Equipo, subid a bordo de la cápsula de transporte. ¡La misión está lista!"
 	FA5538854838AF5005475EA2403966BF = "¡Sube, que vamos a despegar!"
-	128FD84F4773CD6E275FC58FA420AB9D = "Apártense del caminooo!"
+	128FD84F4773CD6E275FC58FA420AB9D = "¡Fuera de mi camino!"
 	5C60D2D34EC253A9D518E5BC499FA72A = "¡Prepárate para el Acorazado!"
 	443806A642C6060253B43580CBE5D8A0 = "¡Prepárate para el jaleo!"
 	47D8D2C749C9DF3DACA95E85CDBCC0C9 = "¡Prepárate para el jaleo!"
@@ -3524,7 +3532,7 @@ Rich"
 	4D83D4084B1D1A3913009CB9AD3F70B6 = "Golpeando donde duele"
 	550ACB5F4CE441B6721F169823BA2141 = "Uhmm...me pregunto qué elegiría Karl..."
 	43BA877C45FC79B92C6D4282A1295387 = "Hmmm...quizás...o tal vez..."
-	7843165B415822DFD4063F9D91DE532D = "A ver qué tal..."
+	7843165B415822DFD4063F9D91DE532D = "¡Hmmmmm...!"
 	A83EC29E4536347C86BFBBAE2DAE7DB7 = "¡Pfm!"
 	0CACB4F9460B6020E5E002A7E6936FD6 = "¡Recolector abatido!"
 	86CEA5B64853B3D47B7EFB888D37CFE3 = "Mantén pulsado"
@@ -3771,7 +3779,7 @@ Rich"
 	ED4848FE44D8B4D54FDEB081ED219B8C = "¡Debería llamar a la M.U.L.A.!"
 	156C15964C35B6DD019299A464F3D435 = "¡Huelo a beicon!"
 	181C52914F4B278A18C5F98AE1D7F037 = "¡Huelo a beicon!"
-	01A5FC9E4A0ABB2758BD16B1A85F1C11 = "Sueno como un maldito abraza árboles!"
+	01A5FC9E4A0ABB2758BD16B1A85F1C11 = "¡Sueno como un maldito abraza-árboles!"
 	940B4D534DD9B837F0E121B193F54109 = "¡¡Creo que solo ha sido mala suerte!!"
 	0C70AB8A4587EEC6C10E25B7FF296883 = "Creo que es suficiente café por hoy."
 	2A005E294EBE2C1383E73CBB73B88016 = "¡Creo que aquí hay algo!"
@@ -3892,7 +3900,7 @@ INSERTAR TÍTULO"
 	6E9EB82D46877009AE2AC7A00649C376 = "Hielo "
 	8B6D0745445EAEBF979B5E8AB99708E2 = "Lanza de hielo"
 	AC4E2D424FC73B649629DBAAB3E77707 = "Lanza de hielo"
-	136B73AF4A78E9131980868F4448B92D = "Tormenta de Nieve"
+	136B73AF4A78E9131980868F4448B92D = "Tormenta de hielo"
 	3F7FA694455640C3E8E6D0A8D21BDBAD = "Identificar, apuntar, exterminar. Así es como se hace."
 	64BB3CFB44CD502967291392D369E4CE = "Si Deep Rock Galactic no puede darme lo que necesito, ¡me lo forjaré yo mismo!"
 	CA3E469C45CF0DDF415B3D8274E1D42F = "Si Deep Rock Galactic no puede darme lo que necesito, ¡me lo forjaré yo mismo!"
@@ -3922,7 +3930,7 @@ INSERTAR TÍTULO"
 	5928D3B94CFF655EADE1E68BABC3917A = "¡Ignorado!"
 	5637506445E8D1CD84104786F3DCB12F = "del iluminado"
 	1422D3AB49B2BE4AEF2B2D9A742574F1 = "Ilustrador y diseñador de interfaz"
-	3A30FDE8461A551070687C9197338D39 = "Imaginaos...Ey...¡EY¡...Qué tal...¿¿Qué tal si armamos a Molly??"
+	3A30FDE8461A551070687C9197338D39 = "Imaginaos...Ey...¡EY¡...Qué tal...¿¿Qué tal si instalamos armas en Molly??"
 	45C0084A4707AECDDE0E39AF949E3A43 = "Comienza la misión inmediatamente"
 	864130014772849FA7B3E5BC76D5853C = "Colgantes e inmensas"
 	4C44006F419858C7F88E0896AAFDB457 = "Impacto"
@@ -4068,6 +4076,7 @@ Al conseguir que un personaje ascienda, VOLVERÁ A TENER NIVEL 1. Sin embargo, M
 	68CFD86F4AA9B419BECBD387958FA8D7 = "Extrae recursos de forma instantánea"
 	E3902D034B734FE5F33D478ED74C8FAE = "Regenera instantáneamente todos los escudos en un área amplia, y otorga una reducción del daño recibido durante un corto periodo de tiempo."
 	6174731E4F3B8B4962A8E69F14D9F00D = "Acción"
+	CAD939554E086D2C7461878602D39093 = "Las corrientes de viento internas azotan constantemente las paredes de esta región, erosionando todo el terreno circundante. La arena compacta es el material menos resistente de Hoxxes IV, y podrás excavarla fácilmente con un pico."
 	122D31774C68D1148A3057A58E798D9F = "Unión de Mineros Interplanetarios"
 	6ECB481E4EE07298EC432AB751AD8458 = "Unión de Mineros Interplanetarios"
 	EFFC33974B8ADD594985FDB64E223AC4 = "Unión de Mineros Interplanetarios"
@@ -4094,7 +4103,7 @@ Al conseguir que un personaje ascienda, VOLVERÁ A TENER NIVEL 1. Sin embargo, M
 	8F2D6B9E4B9A8B703961DDBDD306510C = "¡Voluntad de hierro!"
 	4E840A724E756FC5F9E8C0B2BADF8054 = "¡Hierro!"
 	AF3694714A8A4B5F74C4D9B06B44BF74 = "irracional"
-	15D60EDE47C545DB33BF9DBDEDEE2787 = "Eso es todo lo que tienes?!"
+	15D60EDE47C545DB33BF9DBDEDEE2787 = "¡¿Eso es todo lo que tienes?!"
 	4013F89940C29E93B31DDABF6CA77BDB = "¿Zoy yo...o la platafodma ezpacial ze eztá inclinando?"
 	455C4B02481FF309CC81E4A18575CE8F = "Expidiendo licencia..."
 	F2C9209C401BC1FD9E770FBFC41359BD = "¡Quema!"
@@ -4355,7 +4364,7 @@ TUTORIAL"
 	A58587444D096FC60CC81D9393CF222E = "Cinturón más grande"
 	ACEBED9B442F1592CCE6E4A01140B3E3 = "Cinturón más grande"
 	1988FDBB452BE567ED936B95D2CBA2EB = "Condensadores más grandes"
-	D39452B7424B32EB3F300DBEDFB632B5 = "Condensadores más Grandes"
+	D39452B7424B32EB3F300DBEDFB632B5 = "Condensadores más grandes"
 	3F045CFF442C6BDE28B4F5AD3BD0E2D5 = "Carcaj de Bengalas más grande"
 	BF03609549AC4A96E925E0AF3A6976D1 = "Mayor carga útil"
 	AF042BD043456FAD8DAC3FA0892FDFD9 = "Cámara de presión más grande"
@@ -4425,7 +4434,7 @@ TUTORIAL"
 	AA185832441E4AE0F0B59D9DBEAAB33C = "¡Suéltame, bichejo!"
 	2219575A456D708CF545E8AEDC9E703E = "¡Deja que yo me encargue de excavar!"
 	5394253547D9FDAA897E57B287B8B493 = "¡Déjame que te rompa el cráneo!"
-	1B38CD344B0D8FFC7762319E89B25AF1 = "Déjame intentar esto!"
+	1B38CD344B0D8FFC7762319E89B25AF1 = "¡Déjame intentarlo!"
 	28CE7D554021BB354AB2D58B7C4FBFE3 = "¡Deja que fluyan los buenos tiempos!"
 	7DF9547A4CA4C8A5E3E097AD2CBF8C12 = "¡Toca tirar con los buenos recuerdos!"
 	F6E41BF4463E091CA7B61182B8FF0941 = "¡Que comience la caza!"
@@ -4515,7 +4524,7 @@ TUTORIAL"
 	24CA50AF48448C342380C987C955B765 = "¡Ilumina!"
 	3EA224774E8789474B6645B95DF3D1B0 = "¡Ilumina por allí!"
 	9A9D78FA4E3611C9F1D683858353C071 = "¡Luz! "
-	004B0C534810219E8421FDB08A9401AA = "Estuches ligeros"
+	004B0C534810219E8421FDB08A9401AA = "Cartuchos ligeros"
 	82E2DD1D46F2131CD101C0BE72D2B4E0 = "Cargadores ligeros"
 	8DBE0C7A445CEA353F2D8B9ED615DCEC = "Rondas ligeras"
 	0D91DBBE4880CA30024AA5AB5B2B26C3 = "Montaje para barriles más ligeros"
@@ -4640,7 +4649,7 @@ Pulsa <calldonkey/> o <JUMP/> mientras estés planeando para desactivarla."
 	2F4D45C14FA015883CEF63B90A45019E = "del perdedor"
 	14DF284D42A6A089E82FB9AAEBF771DD = "Equipo extraviado"
 	FF962555408128EABEAFEB910F5AA789 = "Equipo extraviado"
-	1C7CE9BD4CE80BB7CD2FD1978683B9EA = "Casco Perdido"
+	1C7CE9BD4CE80BB7CD2FD1978683B9EA = "Casco perdido"
 	38A352D84AF190E753529A81D7FD5211 = "Se ha perdido la conexión con el servidor"
 	E0D723A24BA68DD0B26C85AC2FD29810 = "¡Aquí hay equipo extraviado!"
 	2D58D5FC46B34B0CD6FF9A92A8B4862E = "¡Aquí hay un casco! ¡Voy a echarle un vistazo!"
@@ -4730,6 +4739,7 @@ Pulsa <calldonkey/> o <JUMP/> mientras estés planeando para desactivarla."
 	84C21C32481BB8B3E7572A811E6837D6 = "Traje MK5 de ingeniero"
 	DEFFF80543E96CC286A6809B75F6409E = "Traje MK5 de artillero"
 	E07631DB4A6783FDB5F98CBC0A1E0F97 = "Traje MK5 de explorador"
+	BE796FBF4933BBFD35F65184D876B645 = "¡MMMMMMhhhhhhhhhhh.....DAAAAAY OOHHH! Je. Qué extraño."
 	EA807C684450BB19B921639A3BA5D580 = "MODERADORES"
 	8DA882644EAA54C1F1722BBC173B7F7D = "M.U.L.A."
 	A9132B7247ABD90C9481E0B20B97C07D = "Pata de M.U.L.A."
@@ -4849,7 +4859,7 @@ Sin embargo, conviene recordar que las armas con daño en área o basadas en el 
 	855ACA5B4AF56C3FE6754297D1E6F3B1 = "Medicina"
 	DD5AB6B44494246A3F653DAF5BE1683B = "Medicina"
 	6B688B164B9390E127AE9FA24DF1B256 = "Urgencias"
-	149B48AE4A9B0135C99017BD57E1C126 = "Los médicos son para debiluchos!"
+	149B48AE4A9B0135C99017BD57E1C126 = "¡Los médicos son para debiluchos!"
 	2F60E2EB4E61C6C9A001BFAE3249368E = "Medio"
 	4016A2FC464255BD20511780426EC282 = "Media"
 	8B8B1C83488BFF7C16D08699D20C285C = "dócil"
@@ -4901,6 +4911,7 @@ Sin embargo, conviene recordar que las armas con daño en área o basadas en el 
 	B9B624C3483D9BF9F64B2DA615F04232 = "¡Extráelo!"
 	AE0FC5D34A4767866205E39BF153A49B = "¡Mina colocada!"
 	29B6A74046759786690BA4960F367292 = "Extraer la morkita y almacenarla en el M.U.L.A. ¡Ya lo he cogido!"
+	C3A92E7A4F133DB146A7F4A7CE962DD4 = "Extraer la morkita y almacenarla en el M.U.L.A. ¡Ya lo he cogido!"
 	A757B45145A0E7EEE5875B9E26A95465 = "Extraed la nitra para conseguir munición."
 	FECC26CB44DC934B523FB1819ABC1D81 = "¡Cuidado donde minas!"
 	333E88AA4B19BCCF7FF7E49BCA64DB03 = "Extrae {amount} dystrum"
@@ -4908,11 +4919,11 @@ Sin embargo, conviene recordar que las armas con daño en área o basadas en el 
 	510563CF4FE28E5D628FF686B553A0DA = "Extrae {amount} holomita"
 	17CE4B7142AC22E45FF246B923EBB305 = "Mina {value} rarezas"
 	568830134D82FF127080FA86249E4538 = "Plataforma de perforación en posición. ¡Cápsula de transporte en camino!"
-	730CB97F499C5F8FAB27179F089777DF = "Modificaciones para mineros"
+	730CB97F499C5F8FAB27179F089777DF = "Modificaciones de minería"
 	EE4BE1D2431FE36170FC0081A145C66F = "Comunidad Minera"
 	8B29FCAC43F67BCD5B93BE8FA3506CD6 = "¡Miner's Lament!"
 	10FA6AEF485C94A281B85BA9EB830C52 = "Manual del Minero"
-	FA85D9C545B6CAD312B8E4B08BD309CA = "Manual del minero"
+	FA85D9C545B6CAD312B8E4B08BD309CA = "Manual del Minero"
 	DB7AF605434CFF87704E799DE6090780 = "Chimenea mineral"
 	8605BBEB469F23C03845CEA6F4A41FFA = "Contenedor de minerales"
 	3EF7E0BF4D87614100CABD9FB8D6EFD1 = "Extracción de minerales"
@@ -4950,6 +4961,7 @@ Sin embargo, conviene recordar que las armas con daño en área o basadas en el 
 	5B46DB0F4B63F2A351A20D838A0D2368 = "Minar es un trabajo duro, ¡menos mal que somos enanos!"
 	4698DA944F4015FABA13E59A279D21F4 = "Tasa de minería"
 	CA59811F43BB8B6C416C80A36DB697C9 = "Recursos mineros"
+	E3AFDB7B49A05B673B30E594E28A22A4 = "Peludo, almizclado, astuto, oh viejo zorro."
 	ABE5BDFA4EFF6E4A92893FAB0942962E = "Asalto perfecto"
 	151551B348D0C298E08307A96FF9F44B = "Variados"
 	DB71FB074900D1699DB701A60FED5906 = "Misceláneo"
@@ -5266,6 +5278,7 @@ Sin embargo, conviene recordar que las armas con daño en área o basadas en el 
 	B7E84D224EA26259A3574B9E23B15974 = "¡No tengo bengalas preparadas! "
 	2523E0C64BEB833930ADC7AA662D50A0 = "No hay espacio disponible en el equipo"
 	9A8099B641AED930ABE3FFAC7ED054A7 = "Sin adornos ni nada excitante. Tienes mejores cosas de las que preocuparte."
+	D21AB94B4C317A8859E1168EA5084A16 = "Sin adornos ni nada excitante. Tienes mejores cosas de las que preocuparte."
 	41877C934449DDAFE44289B3D823CDB1 = "¡Sin combustible, sin taladros!"
 	E1CF7C354C6F4A95BE241A9BC520B025 = "¡Sin combustible no hay perforadoras!"
 	C7E6F17B482EBA15493FB2A7337755F3 = "Dejémosnos de bromas, vaya un espectáculo lamentable..."
@@ -5604,7 +5617,7 @@ La Directiva"
 	F95022EE48E06ADA01B576BBC5E0826B = "Generador de escudo sobrecargado"
 	053267634C8873B99D309BB01BEE1E51 = "Cabrestante sobrecargado"
 	7C1672724B8FF9F93266DEB11051C0E5 = "Sobrealimentador"
-	26F7E5BC4C0FD1CA8FE206BBEFC1E6D8 = "Turbina de Eyección Pirateada"
+	26F7E5BC4C0FD1CA8FE206BBEFC1E6D8 = "Turbina de eyección pirateada"
 	803A88C9486644ACBA542CB7FD4D5F4E = "Forzado del Mecanismo de Fuego"
 	2124C03B432A4AEB19E9CE8966CE8577 = "Pirateos"
 	D92AA94B470C861A452A2D920A0035B3 = "Pirateos"
@@ -6039,7 +6052,7 @@ Además, ganarás una INSIGNIA DE HONOR y también MANTENDRÁS todo el progreso 
 	697E104E473E2C386490D6B32D1E1B75 = "Rey Calabaza"
 	5ED96F4941F7D5D33059858F47E49A00 = "Compra {value} accesorios"
 	E86342954DB9D2E12F66EA808D1CEDE8 = "Compra {value} mejoras de equipo"
-	0017AA3449B1CFBAF3973BBD81E2A106 = "Comprar '{name}'?"
+	0017AA3449B1CFBAF3973BBD81E2A106 = "¿Comprar "{name}"?"
 	23BE0CF7486C9A656DE76CB665A09476 = "¿Comprar este objeto?"
 	A8A0F8444223B4D2F21A9EAD1C325820 = "¿Comprar esta mejora?"
 	DE0E122D42AE7312879E2A956BD5F752 = "¿Comprar {name}?"
@@ -6329,7 +6342,7 @@ RÁPIDO"
 	15BFD30D416ED26D01425A8C39DF1024 = "Regreso"
 	11428FC646EB4A21DAC13B9238BF72BC = "Regreso solicitado"
 	DC53FE5144AE597A3EB999BBF2C05646 = "Volver a la cápsula de transporte"
-	C720E51C4168B2010D91DBBA84F0726E = "Devolver al Remitente"
+	C720E51C4168B2010D91DBBA84F0726E = "Devolver al remitente"
 	D6F85DCA4B5AB6C249FD6E93D3A0824E = "¡Vuelve a la zona de triangulación! ¡Estamos perdiendo tu señal!"
 	E6A33C12485AE76C1D05758D276228AA = "¡Volved a la zona de triangulación! ¡Estamos perdiendo la conexión con vosotros!"
 	13C8F3C04C469C99C7D062B38EFC5236 = "Regresando"
@@ -6852,6 +6865,8 @@ Por suerte, la mayoría de las criaturas tienen <bold>puntos débiles</> a los q
 	79CA64E54521ADE90AD8CB8AC9B8F78E = "Algunas teorías aseguran que las variedades de glífidos más exóticas surgieron aquí."
 	E94C1C5F4FA889989E076FB626C646E1 = "Algunos órganos pueden <bold>romperse incluso antes de que la criatura muera</>. Sin embargo, sigue siendo una buena idea apuntar a esos órganos, dado que infligirás más daño al impactar en esos puntos. En ciertas ocasiones, al destruir en esas partes, <bold>deshabilitarás cierto tipo de ataques</> de esa criatura."
 	9DFA30CC400B4445C4C1C9B93D08BD4D = "Algunas armas y peligros medioambientales pueden disminuir la temperatura tanto de las criaturas como de los enanos. Cuando la temperatura sea lo suficientemente baja, el organismo <bold>se congelará</>. Las criaturas congeladas no pueden realizar ninguna acción ni moverse, y además recibirán daño adicional al ser golpeadas. Incluso antes de congelarse, las criaturas que estén a baja temperatura se verán ralentizadas."
+	CB578A744ADA95FA7F050F8A8E45B4CF = "Algunas armas y elementos medioambientales peligrosos pueden elevar la temperatura tanto de las criaturas hostiles como de los enanos. Si aumenta demasiado, la criatura o jugador <bold>arderá</>. El fuego daña al objetivo con el paso del tiempo. Cualquier ser vivo que esté ardiendo se convertirá en una <bold>fuente de calor</> que, con el tiempo, podrá prender fuego a otras criaturas cercanas. Tras unos segundos, la temperatura disminuirá y el fuego se extinguirá."
+	B7F083774F89B9BA4B239C901A04CE42 = "Algunas armas y elementos medioambientales peligrosos producen descargas eléctricas que pueden dañar tanto a las criaturas hostiles como a los jugadores. A veces, estas descargas pueden causar una <bold>electrocución</>. En este estado, el objetivo se verá <bold>ralentizado </> y recibirá <bold>daño a lo largo del tiempo</> hasta que el efecto desaparezca."
 	E9FA68D84FBA2EE8EC8E9CB5DCC33AB0 = "UnTioConUnNombreLargo"
 	E5CB2FC143C4DA459B85058A081298B2 = "¡Que alguien me ayude!"
 	946258A048D09051C286F296447045BA = "¡Que alguien me remiende un poco!"
@@ -6865,7 +6880,7 @@ Por suerte, la mayoría de las criaturas tienen <bold>puntos débiles</> a los q
 	CEA928A443558CD70C426F8E8FE22974 = "Lo siento, pequeño bicho, ¡es tu culpa ir por la vida lleno de recursos!"
 	1AF0128E488351B4A4C3B186BE5AF23D = "Lo siento, pero tengo mis razones."
 	9C3F704343CF00AA96D7BDA208EA1E48 = "Lo siento, pero tengo mis razones."
-	004AF67F43168EE9B52996893523320C = "Lo siento, pero no respondías."
+	004AF67F43168EE9B52996893523320C = "Lo sentimos, pero tu sistema no respondía."
 	CF58E7A74A765670A1472A9B80EF950C = "Lo siento, no respondías."
 	348545004DBDBA231C1011BC0AAA6951 = "Lo sentimos, esta partida iba a ser privada."
 	51FF329C4262F9EDE595F4A3B74C0FED = "Lo sentimos, esta partida es privada."
@@ -7080,7 +7095,7 @@ Por suerte, la mayoría de las criaturas tienen <bold>puntos débiles</> a los q
 	AED7E5E040430A1BAEEDA3B57C6CFEF8 = "Bobinas sobrecargadas"
 	212BB9A846D499CB684FD291B585269B = "Motor sobrecargado"
 	5115ACDB47086661D527BB87EC9CF48A = "Cámara de superenfriamiento"
-	CC933A8345F3459C5054EC9C2ED55AC5 = "Mezcla hipercongelante"
+	CC933A8345F3459C5054EC9C2ED55AC5 = "Mezcla supercongelante"
 	E6A81CED4A0D2ED94EA3F88FFBEE51C5 = "Usando una ingeniería enana superior, puedes meter aún más balas en tu arma."
 	5C21530C4D54C67AD029EAAA237EE6D6 = "¡Los suministros están en camino!"
 	0A69EBB5407CF7320E35C9BE9538DA61 = "Cápsula de suministros"
@@ -7264,7 +7279,7 @@ DE MISIONES"
 	B179FAF64355D84C7AB092AA0BC4F7B9 = "¡Maldita cerveza galáctica! ¡Me va a estallar la cabeza!"
 	BD38B2874BFF566F8A65F39EB020DF15 = "¡Este asqueroso recalentamiento!"
 	DCF2B4E84971F9A3F83BA4BB4963A4AC = "¡Es insufrible este sobrecalentamiento!"
-	F6546B24446BCBEC5F18E48F1B9332F4 = "¡Esto va aquí!"
+	F6546B24446BCBEC5F18E48F1B9332F4 = "¡Eso va aquí!"
 	6D21AAD540699FFABF5D9CAFEEF9F378 = "Ese tío del Control de Misión sí que tiene un trabajo relajado."
 	A86F50F846111F7A92F3AEBFBA14441A = "Ese tío del Control de Misión sí que tiene un trabajo relajado."
 	00F0423B43D2D47FA9295CB2DD7E2576 = "¡Justo lo que me hacía falta!"
@@ -7437,6 +7452,7 @@ Recuerda: no abandones la Plataforma Espacial sin tu copia del Manual del Minero
 	643FCFC64F8FF49D48BAD4927B2EA1AE = "El proyectil explotará al colapsar los nodos al final de su vida útil, dañando a cualquier desafortunado que esté en las proximidades y dejando un campo de plasma residual durante un corto periodo de tiempo. También podrás activar la explosión manualmente si pulsas el gatillo una segunda vez mientras el proyectil está en el aire."
 	A99CB7A84ADABE0CF57BFF8F06F96138 = "El proyectil podrá recorrer una mayor distancia antes de desintegrarse"
 	F6B73F1548D2983E644480A4C4FBF2F9 = "Los proyectiles del cañón de plataformas crearán una <bold>superficie transitable</> al impactar sobre cualquier terreno. Estas plataformas suelen ser la mejor manera de <bold>acceder a los minerales de las paredes</>. También pueden emplearse para <bold>construir puentes</>, <bold>cubrir agujeros del terreno</> y para muchas más cosas."
+	BA1333414BE848191A90898381EC8526 = "La región está repleta de conductos naturales de ventilación por los que soplan ráfagas de viento huracanado, que son lo suficientemente potentes como para empujarte en cualquier dirección. Además, te verás aleatoriamente azotado por tormentas de viento, que reducirán tu visibilidad y tu capacidad para moverte."
 	417B2EE34541F8D3BF2CC08C184A69AD = "¡El mensaje correcto para Control de Misión aún no está listo! Mientras tanto, escucha esto. La Directiva ha aprobado este procedimiento."
 	BB48F3BF457FDE27A82FB6B343262BDD = "¡El mensaje correcto para Control de Misión aún no está listo!"
 	0B341780426D5E08CF8361A16B7DB179 = "El escáner acaba de iluminarse como un árbol de Navidad. ¡Se acerca un enjambre!"
@@ -7495,6 +7511,7 @@ Recuerda: no abandones la Plataforma Espacial sin tu copia del Manual del Minero
 	74ECB81041819F78249F1198189A59CF = "Me están llamando desde el otro lado. ¡Adiós, chavales!"
 	F00796D6446B0337CD8FC88FC7D5FCAD = "Con estos nodos de plasma altamente modificados, convertirás todo el impulso frontal en impulso lateral, infligiendo daño continuo en la zona cercana al origen del disparo. Los rayos de plasma también tendrán una mayor duración, aunque infligirán menos daño por segundo y, al usar una munición más grande y pesada, tanto el tamaño del cargador como la capacidad total de munición se verán enormemente reducidos."
 	E96BE9CB41F7BBAD320601AF843F74B7 = "Estas grandes balas contienen mucha más carga explosiva, generando un gran aumento del daño pero también disminuyendo el espacio total para munición."
+	C2380D864D5FD5CD5A049A89A51072CC = "Podrán <bold>atravesar cualquier tipo de terreno</>, creando un túnel para el uso de todo el equipo. <bold>Desenterrar gemas ocultas</> y <bold>excavar tierra</> para encontrar un túnel por el que continuar son las típicas tareas en las que destacan estas herramientas. Sin embargo, en buenas manos, no hay absolutamente ningún obstáculo que se pueda resistir a un buen par de perforadoras."
 	B03C7ABE49A71F98F0836DA63D3A101E = "No serán tan dañinas ni tampoco podrás dispararlas rápidamente, ¡pero podrás cargar tu arma con un buen puñado más, eso seguro!"
 	2041A0AB4877FDF92C37C1B941B37F7D = "¡Se han ido sin mí! ¡Vaya mierda!"
 	0818320E409CF37BEF7F2C82A9146CE7 = "¡Estarán aquí pronto! Prepárense rápido, equipo!"
@@ -8275,7 +8292,7 @@ Podrás cambiar estos ajustes en cualquier momento desde el menú de opciones."
 	EBC8667D45802C2D5D3013BA15B17717 = "¡Bienvenidos a la excavación profunda, mineros! Vosotros firmasteis para venir, así que ya sabéis lo que hay: ¡completad vuestros dos objetivos y avanzad a la próxima etapa!"
 	428D570B429F398BCC6D858E90B36FB7 = "¡Bienvenidos a la excavación profunda, mineros! ¡Vuestros dos objetivos están listos! Si trabajáis, pronto estaréis excavando aún más profundo."
 	69A0B72242F1E73749D7F8B45F30EA2D = "¡Bienvenido al equipo!"
-	1867142843310429266469A241F8B5A6 = "¡Bienvenido, valioso cliente!"
+	1867142843310429266469A241F8B5A6 = "¡Bienvenido, estimado cliente!"
 	A2E6188C43040DC68AEE38A3448A14BC = "Pozo"
 	2C932F39482CA907D85B8E935B54839B = "Máquina Engrasada"
 	81C48FCB49EE3244F6C330848AF66C74 = "Máquina bien engrasada"
@@ -8554,6 +8571,7 @@ La Directiva"
 	BC03C320434F3CC1AC0BC7BF70B9BA85 = "¡Estás entrando en zona prohibida! Por favor, ¡date la vuelta y haz algo productivo!"
 	B7D2007C461E925E99F54AAFE707165D = "¡Acceso no autorizado! ¡Este área está fuera de los límites de acceso de los mineros normales!"
 	3D7F0FCE43AB40C0496AE7BF2AD7DA8D = "Espero que seáis mejores mineros que bailarines."
+	B48992E14B5A107583B46CA30C70C402 = "Puedes <bold>aprender más</> acerca de cómo encontrar minerales, tipos de misiones, tu equipo y cualquier otro aspecto del juego en el <bold>Manual del Minero</>. Podrás encontrar este manual en el <MenuButton/> menú principal."
 	FF6054A24723CE7B532F5CA7AFE23439 = "Puedes <bold>aprender más</> acerca de cómo encontrar minerales, tipos de misiones, tu equipo y cualquier otro aspecto del juego en el <bold>Manual del Minero</>. Podrás encontrar este manual en el <MenuButton/> menú principal."
 	2C90E9C64627506FF6F4F0A444608378 = "Puedes conseguirlos mediante:"
 	97DDAA9841B6855833DFA1B81D540CD6 = "Podéis relajaros, niñitas...¡ya me encargué del Arrastrero!"
@@ -8588,6 +8606,10 @@ La Directiva"
 	228EF18944B222D2F28566BF78336D92 = "¡Yo te cubro, muchacho!"
 	28A1F0644A9BAC3D5987E0A28A49E563 = "Debes gastar oro para obtener oro. Unas Pots o' Gold para el equipo, por favor."
 	8A21BF044A1DF585CD7F6A911E6608E4 = "Se te ha concedido acceso a un nuevo encargo:
+<Highlight2>Llegar al núcleo</>
+
+Completa LLEGAR AL NÚCLEO para conseguir <highlight2>núcleos de matriz cargados</> y para poder participar en las <Highlight2>Búsquedas de núcleos</> semanales."
+	DF865C98428A8ADFB894FA8D3924CDBC = "Se te ha concedido acceso a un nuevo encargo:
 <Highlight2>Llegar al núcleo</>
 
 Completa LLEGAR AL NÚCLEO para conseguir <highlight2>núcleos de matriz cargados</> y para poder participar en las <Highlight2>Búsquedas de núcleos</> semanales."
@@ -8704,7 +8726,7 @@ Ahora podrás equipar hasta <highlight2>dos</> aptitudes activas. ¡Escoge bien!
 	C742763F429919383A65EBAAAA8235AC = "¡Tirolina lista!"
 	D5181F05460AC5FAB69B7892D23F40C6 = "¡A volar!"
 	C085461244F2C49164869FA158CF0CE4 = "Acercar/ Alejar:"
-	2850D4F64F4FC2B6F80692845DED67F5 = "¡Zzzzzip, zoom!"
+	2850D4F64F4FC2B6F80692845DED67F5 = "¡Zzzzzip, zuuum!"
 	08AFD2A54452E85D44751FB6C986E0F9 = "[AcceptInvite] Sí"
 	BC60E551401AE9C7CB3314A09A8D6E1D = "[CallDonkey] INVITAR AMIGOS"
 	CBC751B94176CD566FA08599AF9751B0 = "[CallDonkey] INVITAR AMIGOS"
@@ -8749,7 +8771,7 @@ Ahora podrás equipar hasta <highlight2>dos</> aptitudes activas. ¡Escoge bien!
 	57FC7CA44CED73E8D8E44589B217CE12 = "ha solicitado una cápsula de suministros"
 	86541B0A40CCE476E706A1A30915654F = "¡Hmmhhhrhhh!"
 	2AC2BC1B48A7771689F079A466E8EB83 = "¡Hrmmhrhhhr!"
-	4074296A4617138EB4C3E5AD936135D7 = "¡Esta abierto!"
+	4074296A4617138EB4C3E5AD936135D7 = "está abierta!"
 	44F2D16748B303B3AF5DB48C96EF1897 = "¡Es un escupebolas!"
 	88DABDEB44BCFBD38978EC82A2FBBA10 = "L1"
 	E45621E1405FF5F7EC0B48857ADB048E = "L 3"
@@ -8859,7 +8881,7 @@ Namespace Inventory (1 keys)
 	Full = "Lleno"
 
 Namespace MinersManual (1 keys)
-	SeeInMM = "Consultar en el manual del minero"
+	SeeInMM = "Consultar Manual del Minero"
 
 Namespace Missions (1 keys)
 	0BFE0DE04F6F7554A68740AD8DC2B9D1 = "Objetivos completados, ya puedes solicitar una cápsula de minería en el M.U.L.A"
@@ -10344,246 +10366,246 @@ MISC.
 - Se ha añadido un HUD personalizable: los iconos de HUD de las aptitudes ahora se ocultan/muestran junto con la barra de salud del jugador
 - Se ha añadido un selector de conjuntos a la Tienda de Accesorios
 "
-	Update_29 = "Hola Mineros,
-¡Es hora de otra actualización ya que estamos preparándonos para el lanzamiento completo! El objetivo principal de esta actualización ha sido mejorar la primera experiencia que encontrarán los Barbaverde nuevos, pero también tenemos muchas cosas buenas para los jugadores veteranos, como nuevas Pinturas para las Armaduras y un nuevo Manual del Minero para nombrar unos pocos!
+	Update_29 = "Hola, mineros,
+Es hora de una nueva versión, ¡todo con vistas a seguir preparándonos para el lanzamiento final del juego! El principal objetivo de esta versión ha sido mejorar la primera experiencia que tendrán los "verduchos" con el juego, pero también tenemos muchas cosas para los jugadores más veteranos. Entre ellas, se incluye la posibilidad de añadir patrones de color a los trajes o el nuevo Manual del Minero, entre otras cosas. ¡Preparaos!
 
 Saludos,
-El Equipo de Ghost Ship Games
+El equipo de Ghost Ship Games
 
---- NOTAS DEL PARCHE ---
+--- NOTAS DE LA VERSIÓN ---
 
 PERSONALIZACIÓN DEL PICO
 ----------------------------
-Cada minero necesita un Pico, pero ningún pico debe lucir igual! encuentra y desbloquea nuevas partes para customizar cada una de las seis diferentes secciones de tu pico, sin mencionar un puñado de nuevas Pinturas también. ¡Rompe esas piedras con estilo!
+Todos los mineros necesitan un pico, ¡pero no hay necesidad para que los picos de dos mineros diferentes tengan que tener el mismo aspecto! Encuentra y desbloquea nuevas partes para personalizar cada una de las seis secciones diferentes de tu pico, sin mencionar que también se han añadido nuevos patrones de color para personalizarlo. ¡Rompe las rocas, pero con estilo!
 
 
-ENCUENTRO DE EQUIPO PERDIDO
+ENCUENTROS CON PAQUETES EXTRAVIADOS
 ----------------------------
-Si ve algún equipo perdido disperso por el lugar, intenta encontrar un casco que parpadee. Úsalo para descargar la ubicación de la mochila del enano perdido y rastrearlo usando tu Escáner de Terreno. Siempre están llenos de piezas de pico y minerales preciosos. 
+Si ves piezas de equipo dispersas por las cuevas, intenta primero encontrar un casco que brilla. Si lo usas, podrás descargar la localización del equipaje extraviado de su dueño y rastrear su ubicación usando el escáner de terrenos. Estos equipajes estarán repletos de partes para tu pico y de valiosos minerales. 
 
 
-RE-DISEÑO DE LA CÁPSULA DE TRANSPORTE
+CAMBIOS PROFUNDOS A LA CÁPSULA DE TRANSPORTE
 ----------------------------
-Seamos honestos... La Cápsula de Transporte estaba en la necesidad de un lavado de cara desde hace un tiempo. Eso ha sucedido ahora - incluyendo Dados de peluche!
+Hablaremos claro: la cápsula de transporte necesitaba un cambio desde hace ya bastante tiempo. Y por fin ha llegado ese momento. ¡Y además hemos incluido un dado de peluche!
 
 
-NUEVOS GRITOS DE ENANOS
+NUEVOS GRITOS PARA ENANOS
 ----------------------------
-BISMOR, BISMOR, BISMOR! Un montón de nuevos gritos han sido añadidos, ¡incluyendo algunos gritos notorios del puntero láser que faltaban!
+¡BISMOR, BISMOR, BISMOR! Se han añadido una gran cantidad de nuevos gritos para enanos, ¡incluyendo algunos importantes para el puntero láser!
  
 
 EXTERIOR DE LA PLATAFORMA ESPACIAL
 ----------------------------
-¿Sabías que la Bahía de Lanzamiento es solo una pequeña parte de la infraestructura de la Plataforma Espacial?
+¿Sabías que la bahía de lanzamiento es solo una pequeña parte de toda la infraestructura de la Plataforma Espacial?
 
 
 MANUAL DEL MINERO
 ----------------------------
-Misiones, Recursos de Elaboración, Tipos de Daño, Modificaciones de Armas... ¡Hay tantos sistemas en DRG! Puede ser abrumador al principio. Recopilamos tanta información como pudimos y creamos un montón de nuevas infografías para hacer una guía. Esperemos que esto ayude durante las primeras horas del juego. Incluso podría haber algunos detalles que los mineros veteranos no sabían.
+Misiones, materias primas, tipos de daño, Mods para armas... ¡Hay tantas cosas que aprender sobre DRG! Puede llegar a ser demasiado para los jugadores nuevos. Hemos recopilado toda la información que hemos podido, creando una enorme cantidad de infografías y creando una guía. Con suerte, esta guía te ayudará durante tus primeras horas de juego. Puede que incluso contenga algunos detalles que los mineros más veteranos desconocen.
 
-Es la intención que el Manual del Minero continúe expandiéndose con nuevas entradas y capítulos en futuras actualizaciones.
+Se prevé que este Manual del Minero siga expandiéndose con nuevas entradas y capítulos en versiones futuras.
 
 
 TUTORIAL MEJORADO
 ----------------------------
-La minería es mucho más divertida una vez que conoces los conceptos básicos. Ahora hay un Tutorial nuevo y más simplificado con instrucciones y tareas claras. ¡Pongamos a raya a los Barbaverdes lo antes posible, la Administración quiere ver que ese mineral fluya!
+Los trabajos de minería son más divertidos una vez que conoces todos los aspectos básicos de esta actividad. Ahora contarás con un tutorial nuevo y mejor estructurado, con instrucciones y tareas más claras. Hagamos que los verduchos aprendan lo más rápidamente posible. ¡La Directiva quiere que sus cuotas de mineral aumenten ya!
 
 
-RE-DISEÑO DEL MENÚ DE ESCAPE 
+CAMBIOS PROFUNDOS AL MENÚ PRINCIPAL (ESC)
 ----------------------------
-Con la inclusión del Manual del minero, decidimos rehacer todo el menú de Escape. La pestaña principal es el Estado, donde puedes leer toda la información sobre tu actual Misión, Equipamiento y Equipo. Muchos de los elementos enlazan directamente con el Manual del Minero, por lo que puede obtener más información sobre, por ejemplo, el Mutador de Advertencia de la Misión actual con solo un clic.
+Con la inclusión del Manual del Minero, hemos decidido reorganizar el menú principal (pulsando el botón ESC). La pestaña principal será el "Estado", y en ella podrás ver la información de tu misión, tu conjunto y tu equipo actuales. Muchos de los objetos ahora estarán conectados directamente con el Manual del Minero, por lo que podrás, por ejemplo, aprender más cosas sobre el mutador de alerta de la misión actual con un solo clic.
 
 
-ICONOS DE VANIDAD
+ICONOS DE PERSONALIZACIÓN
 ----------------------------
-¡Todos los artículos cosméticos, tanto de la Tienda como de La Forga, ahora tienen vistas previas de íconos adecuados! Son perfectos para una clasificación rápida y para evitar "adivinanzas", pero, lo más importante, se ven geniales.
+¡Ahora todos los objetos de personalización, tanto de la tienda como de la forja, tendrán previsualizaciones adecuadas para sus iconos! Estos iconos son perfectos para ordenar los objetos y para evitar la "forja sin información", pero mucho más importante: tiene un aspecto genial.
 
 
-PINTURAS DE ARMADURAS [PEDIDO DE LA COMUNIDAD]
+PATRONES DE COLOR PARA TRAJES [PETICIÓN DE LA COMUNIDAD]
 ----------------------------
-Todos los conjuntos de armadura en el juego han recibido la misma división entre Armazón y Pinturas que las armas obtuvieron recientemente. Se pueden encontrar varias nuevas Pinturas de Armadura en Encuentros de Equipo Perdido, con más por venir más adelante.
+Todos los conjuntos de trajes del juego han recibido la misma división en "variantes" y "patrones de color" que recibieron las armas recientemente. Podrás encontrar varios patrones de color para trajes en los Encuentros con Equipos Extraviados, a la espera de implementar muchos más en el futuro. 
 
 
-
-EQUILIBRIO DE ARMAS
+EQUILIBRADO DE ARMAS
 ----------------------------
-CAÑÓN PESADO AUTOMÁTICO "THUNDERHEAD"
-- Se movió parte de la bonificación de rango de AdE del Pirateo Bombardeo en Área al Arma Base y la mod. Rondas de Metralla
-- Se movió parte de la bonificación de daño de AdE del Pirateo Bombardeo en Área al Arma Base
-- Añadida una bonificación de precisión al Pirateo Big Bertha
-- Removida la penalización de la velocidad de disparo inicial al Pirateo Big Bertha, ahora solo la velocidad de disparo máxima es afectada
-- Reducida la penalización de daño directo en el Pirateo Cargamento de Neurotoxina
-- Aumentada ligeramente la bonificación de DR de la modificación Resistencia al Daño en Cadencia de Fuego Máxima
+CAÑÓN AUTOMÁTICO PESADO “THUNDERHEAD”
+- Se han movido parte de las bonificaciones del alcance del área de efecto desde el pirateo "Bombardeo en área" a las estadísticas básicas del arma y al Mod "Rondas de metralla"
+- Se han movido parte de las bonificaciones de daño en área desde el pirateo "Bombardeo en área" a las estadísticas básicas del arma
+- Se ha añadido una bonificación de precisión al pirateo "Gran Bertha"
+- Se ha eliminado la penalización a la velocidad de disparo inicial del pirateo "Gran Bertha", que ahora solo afectará a la velocidad máxima de disparo
+- Se ha reducido la penalización al daño directo del pirateo "Descarga de neurotoxinas"
+- Se ha aumentado ligeramente la bonificación de resistencia al daño del Mod "Resistencia al daño a máximo DPS"
 
-"WARTHOG" AUTO 210
-- Se movió algo de la bonificación de daño de la modificación Perdigones más Grandes al Arma Base
-- Aumentada la cadencia de fuego base
-- Reducida la bonificación de cadencia de fuego de la modificación Ajuste de Minero
-- Aumentada la bonificación de la modificación Mecanismo de Alimentación Sobrecargado
-- Removida la mod. Aturdimiento Mejorado e incrementada la duración base del aturdimiento a debilidades
-- Corregida la visualización de estadísticas de probabilidad de aturdimiento para que fuera más claro que la probabilidad de aturdimiento se calcula para cada perdigón que golpea
-- Ahora el Pirateo Minibalas no puede aturdir objetivos
-- Corregida la desalineación de la mira
-- Corregido el Pirateo Sobrecarga del Ciclo que no afectada la propagación del arma adecuadamente
-- Reducida la penalización de propagación del Pirateo Sobrecarga del Ciclo
+“WARTHOG” AUTO 210
+- Se ha movido parte de la bonificación al daño desde el Mod "Perdigones más grandes" a las estadísticas básicas del arma
+- Se ha aumentado la velocidad de disparo base
+- Se ha disminuido la bonificación a la velocidad de disparo del Mod "Modificaciones de minería"
+- Se ha aumentado la bonificación del Mod "Mecanismo de alimentación sobrecargado"
+- Se ha eliminado el Mod "Aturdimiento mejorado" y se ha aumentado la duración base de un aturdimiento por impacto en punto débil
+- Se ha corregido la pantalla que muestra la estadística de probabilidad de aturdimiento para informar de manera más clara acerca de que dicha probabilidad es calculada para cada perdigón que golpea al objetivo
+- Se ha modificado la mecánica del Mod "Minibalas" para que no pueda aturdir a los objetivos
+- Se ha corregido un error de alineación del punto de mira
+- Se ha corregido un error por el que el pirateo "Sobrecarga del ciclo" no afectaba a la dispersión del arma de manera correcta
+- Se ha disminuido la penalización a la precisión del pirateo "Sobrecarga del ciclo"
 
-SUBFUSIL VOLTAICO "STUBBY"
-- Reducido el retroceso, especialmente el retroceso horizontal para que sea más fácil compensarlo manualmente
-- Gran reducción de la propagación de disparo máximo
-- Mejorada la precisión base
-- Aumentado el daño base
-- Se ha consolidado todo el daño base en un tipo de daño
-- Aumentada la probabilidad de electrocución base
+SUBFUSIL VOLTAICO “STUBBY”
+- Se ha reducido el retroceso del arma (especialmente el horizontal), permitiendo compensarlo manualmente de manera más fácil
+- Se ha reducido enormemente la dispersión máxima por disparo
+- Se ha mejorado la precisión base
+- Se ha aumentado el daño base
+- Se han combinado todas las formas de daño base en un solo tipo de daño
+- Se ha aumentado la probabilidad base de electrocutar
 
-Ajuste de Modificaciones
-- Reemplazada la mod. Barril Flotante con una mod. de Reducción de Retroceso
-- Mejorada la bonificación de la mod. Capacitores Mejorados
-- Removida la mod. Capacitores más Grandes
-- Se movió la mod. Balas Conductivas al Nivel 4
-- Removida la mod. Rondas Sobrecargadas y añadida algo de su bonificación al Arma Base
+Cambios a los Mods
+- Se ha sustituido el Mod "Barril adaptable" por un Mod "Reducción del retroceso"
+- Se ha mejorado la bonificación del Mod "Condensadores mejorados"
+- Se ha eliminado el Mod "Condensadores más grandes"
+- Se ha reubicado el Mod "Balas conductoras" al nivel 4
+- Se ha eliminado el Mod "Rondas sobrecargadas" y se han añadido parte de sus bonificaciones a las estadísticas básicas del arma
 
-PISTOLA DE DISPARO EN RÁFAGA BRT7
-- Aumentado el daño base
-- Disminuida la munición base
-- Reducida la rotura de armadura base
-- Disminuido el retroceso base
-- Disminuida la propagación base
-- Aumentado el tamaño base del cargador
+PISTOLA DE RÁFAGA BRT7
+- Se ha aumentado el daño base
+- Se ha disminuido la munición base
+- Se ha disminuido la ruptura de blindaje base
+- See ha disminuido el retroceso base
+- Se ha disminuido la dispersión base
+- Se ha aumentado la capacidad base del cargador
 
-Ajustes de Modificaciones
-- Aumentada la bonificación de daño de la mod. Rondas de Alta Velocidad
-- Removida la mod. de Daño de Ráfaga
-- Aumentada la duración de aturdimiento de la mod. Ráfaga de Aturdimiento
-- Posiciones intercambiadas de la mod. Barril Flotante y la mod. Seguridad Desactivada
-- Aumentada la bonificación de la mod. Eyector de Fuego Rápido
+Cambios a los Mods
+- Se ha aumentado la bonificación de daño del Mod "Munición de alta velocidad"
+- Se ha eliminado el Mod "Daño de ráfaga"
+- Se ha aumentado la duración del aturdimiento del Mod "Aturdimiento por ráfaga"
+- Se han intercambiado las posiciones del Mod "Barril adaptable" y el Mod "Limitador desactivado"
+- Se ha aumentado la bonificación del Mod "Eyector de fuego rápido"
 
-Ajustes de Pirateos
-- Aumentada la bonificación de daño del Pirateo Rondas Experimentales para que funcione con los nuevos números de daño de arma y munición
+Cambios a los pirateos
+- Se ha aumentado la bonificación de daño del pirateo "Rondas experimentales" para que funcione correctamente con los nuevos valores de daño y de munición del arma
 
-CRIO-CAÑON
-- Reducido el tiempo de carga base
-- Aumentado el tiempo de descarga
-- Aumentado el rango efectivo base
-- Aumentada la velocidad con la que el rocio se extiende a su rango efectivo
-- Aumentado el poder de congelamiento base
-- Aumentado el daño base
-- Aumentado el tamaño base de la cámara de presión
-- Reducido el retraso base de la re-presurización
-- Corregida las estadísticas del daño del arma y el poder de congelamiento que mostraban los valores sobre la otra.
+CRIOCAÑÓN
+- Se ha reducido el tiempo de preparación base
+- Se ha aumentado el tiempo de descarga
+- Se ha aumentado el alcance efectivo base
+- Se ha aumentado la velocidad a la que la ráfaga se expande hasta su alcance máximo
+- Se ha aumentado la potencia de congelación base
+- Se ha aumentado el daño base
+- Se ha aumentado el tamaño base de la cámara de presión
+- Se ha disminuido el retraso base por represurización
+- Se ha corregido un error por el que el texto del daño y el poder de congelación del arma mostraban los valores intercambiados.
 
-Ajustes de la Mecánica de Frío
-- Los Engendro Mactera se congela un poco más rápido
-- Los Enemigos se ralentizan más rápido a medida que se enfrían
+Cambios a la mecánica de congelación
+- Ahora los enjambres mactera se congelarán ligeramente más rápido
+- Ahora los enemigos se ralentizarán más rápidamente mientras se enfrían
 
-Ajustes de Modificaciones
-- Combinadas las modificaciones Cámara de Presión más Grande y Presión de Cámara Aumentada
-- Mejorado el valor de la mod. 2da Etapa de bomba y renombrada como Giro de Turbina más Rápido
-- Aumentado el valor de la mod. Verificación de Integridad Omitida para que ahora elimine por completo el retraso de la re-presurización
-- Aumentado el valor de la mod. Turbina de Eyección Acelerada
-- Renombrada la mod. Bomba de 1era Etapa más Rápida como Cámara de Presión de Llenado Rápido
-- Reducido el valor de la mod. Mezcla Mejorada y renombrada como Mezcla de Sobreenfriamiento
-- Renombrada la mod. Mayor Contenido de Agua como Mezcla Dura
-- Aumentado el poder de la mod. Resplandor Frío
+Cambios a los Mods
+- Se ha combinado el Mod "Cámara de presión más grande" con el Mod "Presión de cámara aumentada"
+- Se ha aumentado el precio del Mod "Bomba secundaria mejorada" y se ha renombrado como "Inicio más rápido de turbina"
+- Se ha aumentado el precio del Mod "Verificación de integridad omitida", eliminando el retraso por represurización
+- Se ha aumentado el precio del Mod "Turbina de eyección pirateada"
+- Se ha renombrado el Mod "Bomba de etapa 1 más rápida" a "´Recarga rápida de presión en cámara"
+- Se ha reducido el precio del Mod "Mezcla mejorada" y se ha renombrado como "Mezcla supercongelante"
+- Se ha renombrado el Mod "Gran contenido en agua" como "Mezcla sólida"
+- Se ha aumentado la potencia del Mod "Resplandor frío"
 
-Ajustes de Pirateos
-- Añadido una bonificación de tasa de flujo al Pirateo Flujo
-- Aumentado el daño del Pirateo Lanza de Hielo y ya no depende de la presión, ahora siempre toca lo mismo
-- Aumentado el coste de munición del Pirateo Lanza de Hielo y ahora siempre consume la misma cantidad y puedes disparar mientras tengas munición y el arma no esté re-presurizando
-- Ajustado el daño y coste de munición del Pirateo Lanza de Hielo
-- Aumentada la bonificación de daño y reducida la penalización de caída de presión en el Pirateo Tormenta de Hielo
-- Removida la bonificación de cadencia de fuego del Pirateo Tormenta de Hielo
-- Añadida una penalización de munición al Pirateo Tormenta de Hielo
-- Aumentado el radio y poder de congelamiento del Pirateo Bola de Nieve, como Lanza de Hielo, ahora su daño es constante
-- Aumentada la penalización de munición del Pirateo Bola de Nieve
+Cambios a los pirateos
+- Se ha añadido una bonificación a la tasa de flujo del pirateo "Flujo"
+- Se ha aumentado el daño del pirateo "Lanza de hielo", que además ya no dependerá de la presión e infligirá siempre el mismo daño
+- Se ha aumentado el coste de munición del pirateo "Lanza de hielo", que además ahora consumirá la misma cantidad por disparo y que podrás disparar mientras te quede munición y el arma no esté represurizándose
+- Se han modificado los valores de daño y coste de munición del pirateo "Lanza de hielo"
+- Se ha aumentado la bonificación de daño y se ha reducido la penalización en la caída de presión para el pirateo "Tormenta de hielo"
+- Se ha eliminado la bonificación a la velocidad de disparo del pirateo "Tormenta de hielo"
+- Se ha añadido una penalización a la munición del pirateo "Tormenta de hielo"
+- Se ha aumentado el radio y el poder de congelación del pirateo "Bola de nieve", que al igual que la "Lanza de hielo" ahora mantendrá un valor constante de daño
+- Se ha disminuido el coste de munición del pirateo "Bola de nieve", que al igual que la "Lanza de hielo" ahora mantendrá un coste constante de consumo de munición
+- Se ha aumentado la penalización a la munición del pirateo "Bola de nieve"
 
-CORTA BRECHAS
-- Aumentado el ancho base del haz de plasma
-- Aumentado el daño base
-- Se ha cambiado cómo se muestra el daño en las estadísticas a un valor de Daño Por Segundo
-- Disminuida la velocidad de la linea
-- Aumentada el tiempo de vida de la linea de plasma
-- Disminuida la cadencia de fuego
-- Aumentada el tamaño base del cargador
-- Aumentado el "hitbox" del haz de plasma para que sea más indulgente
+CORTABRECHAS
+- Se ha aumentado la anchura base del rayo de plasma
+- Se ha aumentado el daño base
+- Se ha cambiado la forma de mostrar el daño en la pantalla de estadísticas, y ahora se muestra como un valor de DPS
+- Se ha disminuido la velocidad de la línea
+- Se ha aumentado la duración de la línea de plasma
+- Se ha disminuido la velocidad de disparo
+- Se ha aumentado el tamaño de cargador base
+- Se ha aumentado la zona de impacto ("hitbox") del rayo de plasma, permitiendo algo de error en la precisión al disparar
 
-Ajustes de Modificaciones
-- Aumentado el valor de la mod. Cohesión de Nodo Aflojada
-- Aumentado el calor de la mod. Generación de Energía Prolongada
-- Removida una de las mod. de daño y aumentado el valor de la restante
-- Añadida una mod. para extender la duración de aturdimiento
-- Removida una de las mod. de tamaño del cargador
-- Removida una de las mod. de Bolsa de Munición Expandida y aumentado el valor de la restante
-- Mejorado el efecto la mod. Despliegue Rápido y ahora solo afecta ambas a la velocidad de despliegue y el retraso de despliegue
-- Cambiada la línea de división doble a una línea de división triple que cubre un área más grande tanto arriba como ahora debajo de la línea estándar
-- Combinadas las mod. Solo Puede Haber Uno y Despedida Explosiva y se ha hecho que al disparar mientras hay una linea la hará detonar sin disparar una nueva. Disminuido el daño de la explosión pero ahora deja un campo de plasma residual que continua dañando enemigos con el paso del tiempo.
-- Añadida una mod. de Estela de Plasma que hace que el haz deje una estela de plasma residual que daña enemigos con el paso del tiempo
-- Reorganizadas muchas de las modificaciones
-- NOTA: Cualquiera que haya tenido las modificaciones removidas recibirá un reembolso de Minerales y Créditos que hayan gastado
+Cambios a los Mods
+- Se ha aumentado el precio de los Mods "Cohesión de nodo débil"
+- Se ha aumentado el precio del Mod "Generación de energía prolongada"
+- Se ha eliminado uno de los Mods de daño y se ha aumentado el precio del Mod restante
+- Se ha añadido un Mod que extiende la duración del aturdimiento
+- Se ha eliminado uno de los Mods para el tamaño del cargador
+- Se ha eliminado uno de los Mods "Cajas de munición más grandes" y se ha aumentado el precio del Mod restante 
+- Se ha mejorado el efecto del Mod "Despliegue rápido", que ahora afectará tanto a la velocidad de despliegue y al retraso de despliegue
+- Se ha modificado la línea de canal doble a una línea de canal triple, que cubrirá un área mayor tanto por encima como por debajo de la línea convencional
+- Se ha combinado los Mods "Solo puede quedar uno" y "Despedida explosiva", haciendo que al disparar con una línea detonarás esa línea y disparará una nueva. - Se ha disminuido el daño explosivo, pero ahora dejará un campo de plasma residual que seguirá dañando a los enemigos con el paso del tiempo.
+- Se ha añadido el Mod "Rastro de plasma", que hará que el rayo deje un rastro de plasma residual que infligirá daño continuo en el tiempo a los enemigos
+- Se han redistribuido varios Mods
+- NOTA: cualquier jugador que tuviera alguno de los Mods eliminados recibirá los minerales y los créditos que haya gastado para adquirirlos
 
-Ajustes de Pirateos
-- Yaw Man ahora es un Pirateo Inestable y fue renombrado como Muerte Giratoria. Causa que el haz gire mientras se mueve lentamente hacia adelante infligiendo mucho daño con el paso del tiempo en un área.
-- Control de Giro no hará girar el haz si haces click para disparar, solo si lo mantienes. Soltar el botón de disparo después de que el proyectil empiece a girar funciona como antes.
-- Devolver al Remitente ya no tiene penalización de daño
-- Inferno ahora enciende a la mayoría de enemigos en una pasada y ya no reduce la cadencia de fuego
-- Cruce de Alto Voltaje es ahora un Pirateo Balanceado y ya no tiene una penalización de daño
+Cambios a los pirateos
+- "Hombre sin puntería" se ha convertido en un pirateo inestable, y ha sido renombrado como "Muerte giratoria"\ El pirateo ahora hará que el rayo rote mientras se mueve lentamente hacia adelante, infligiendo mucho daño continuo en el tiempo en el área por la que pasa
+- "Control de giro" ya no hará rotar al rayo si solo pulsas el gatillo, solo lo hará si lo mantienes pulsado\ Al soltar el gatillo después de que el proyectil comience a girar hará que vuelva a dejar de hacerlo
+- "Devolver al remitente" ya no tiene una penalización al daño
+- "Infierno" ahora hará que la mayoría de los enemigos ardan con una sola pasada, y ya no reducirá tu cadencia de tiro.
+- "Enlace de alto voltaje" se ha convertido en un pirateo equilibrado, y ya no tiene una penalización al daño
 
-DEEPCORE 40MM PGL
-- Mejorada la sensibilidad de la mod. Explosivo por Proximidad y corregida la descripción que hacía referencia a una bonificación de daño basada en una mecánica de tiempo que no estaba siendo usada
+LANZAGRANADAS DEEPCORE 40MM
+- Se ha mejorado la sensibilidad del Mod "Disparador de proximidad", y se ha corregido la descripción que hacía referencia a una mecánica temporal de bonificación al daño que no ha sido implementada
 
-AMETRALLADORA TORMENTA DE PLOMO
-- Mejorada la rapidez con la que el Pirateo Infierno Ardiente prende fuego a las cosas
-- El Pirateo Tormenta de Plomo ahora elimina la habilidad de aturdimiento de la Ametralladora
-- Reducida ligeramente la bonificación de daño del Pirateo Tormenta de Plomo
+AMETRALLADORA MULTICAÑÓN "LEAD STORM"
+- Se ha mejorado la velocidad a la que el pirateo "Infierno ardiente" prende fuego a las cosas
+- El pirateo "Tormenta de plomo" ahora eliminará la capacidad de aturdimiento y tiene una
+- Se ha disminuido ligeramente la bonificación al daño del pirateo "Tormenta de plomo"
 
-OTROS AJUSTES DE ARMAS
-- Los efectos de Plasma Persistente siempre matan a los invasores que los atraviesan. Esto impacta a ambos CPE y Corta Brechas.
-- Reducido el radio de salpicadura del Frasco de Feromonas y reducido el número de enemigos que un objetivo afectado por la feromona puede atraer
+OTROS CAMBIOS A LAS ARMAS
+- Ahora, los residuos del pirateo "Plasma persistente" matarán a los enjambres que pase a través de ellos. Esto afectará tanto al CPE como al cortabrechas.
+- Se ha disminuido el radio de salpicadura del frasco de feromonas, y se ha disminuido el número de enemigos que puede atraer un objetivo bajo sus efectos
 
 
-MISC.
+OTROS CAMBIOS
 ----------------------------
-- Añadido una nueva animación de muerte en primera persona
-- Añadido un nuevo ataque al Opresor Glífido
-- Añadidas nuevas animaciones al equipar para la Terminar de Equipamiento
-- Añadido un nuevo diseño de terminal para la Terminal de Accesorios y fue renombrada a La Tienda
-- Añadido un nuevo diseño de terminal para la Terminal de Comercio de Minerales
-- Añadidos bloqueadores de camino bajo las plataformas del Cabezal de Perforación en Punto de Extracción para prevenir que los enemigos caminen por ahí
-- Re-diseñadas las Pistas del Tutorial
-- Las Armas que hacen daño de fuego ahora pueden encender nubes de gases
-- La Habilidad Botas Anti-gravedad ahora tiene partículas saliendo desde las botas y también quemará a cualquier criatura tan desafortunada de estar justo debajo de ti cuando las actives
-- Renombrada la Pistola de Ganchos como Gancho de Agarre
-- Renombrada la Pistola de Tirolinas como Lanzador de Tirolinas
-- Las Cápsulas de Suministros ahora necesita caer una distancia determinada antes de que comience a hacer daño al aterrizar
-- Mejoradas varias animaciones de correr
-- Mejorados los logros de promociones así ahora se activan retro-activamente cuando cargas la Plataforma Espacial y tienes un enano Ascendido. ¡No hay necesidad de Promover otra vez!
-- Mejorado el sonido de la habilidad Deslizar
-- Mejorada la logica de la habilidad Nacido para Matar cuando se activa en clientes
-- Mejorada la logica de generación de los Eventos de Máquina para prevenir que los Infusores de Núcleo desaparezcan
-- Corregidas varios errores relacionados con el campo de visión, incluyendo el campo de visión de los Zhukov NUK17
-- Corregido un error en el logro para Metas
-- Corregido un error con el sonido del Hacha de Impacto que solo sonaba para el anfitrión
-- Corregido un error que causaba que los clientes no se vieran a si mismos como congelados cuando lo estaban
-- Corregido un error que aveces causaba sonidos de paso dobles en primera persona
-- Corregido un error que evitaba que ciertos estados de efecto se vieran correctamente en las Larvas de Botín
-- Corregido un error que causaba que el Escáner de Terreno se quedara atascado en una vista
-- Corregido un error que evitaba que la animación de saludo se reprodujera en tercera persona mientras se corría
-- Corregido un error que permitía a los Cosechadores de Silicato caminar por las paredes
-- Corregido un error que causaba que la cuenta regresiva de Voluntad de Hierro se mostrara prematuramente
-- Corregido un error que causaba que la luz de la mod. Explosivo de Proximidad para el Lanzagranadas Deepcore 40MM se quedara después de que el proyectil se destruía
-- Corregido un error que evitaba que Sentidos Agudizados funcionara después de ser capturado por primera vez por un enemigo
-- Corregido un error que provocaba que los proyectiles empujaran al jugador a un lado por un corto periodo de tiempo al estar cerca. Esto era muy notable al mirar hacia abajo y disparar.
-- Corregido un error que evitaba que las barras de salud de enemigos indicaran correctamente golpes a un punto débil para los clientes
-- Corregido un error que causaba que la Plataforma de Ametralladora Ligera con la mod. Sistema Hawkeye dispare a los cuerpos marcados indefinidamente
-- Corregido un error que causaba que algunas armas se desplazaran al saludar con ciertas armas
-- Corregido un error que causaba que el menú Selector de Icono de Equipamiento se mantuviera abierto después de cerrar la Terminal
-- Corregido un error que evitaba que las Pieles de Bosco funcionaran en misiones
-- Corregido un error que permitía a dos jugadores domar al mismo Glífido, algunas veces removiendo sus texturas
-- Corregido un error en el logro Lo Último para que ya no se active prematuramente cuando se tiene todos los artículos mejorados al máximo excepto la armadura
-- Corregido un error cuando se usaban ambas modificaciones Puntas de Taladro Endurecidas y Motor Supercargado en las Perforadoras Eléctricas Reforzadas
-- Corregido un error que causaba que el bote del Lanzallamas CRSPR cambiara de color mientras se recargaba con algún Armazón de Arma
-- Corregido un error con los Geysers de Aire que causaban movimientos agitados para los clientes mientras son empujados
-- Corregido un error que causaba que Bosco atacara sin sentido a la Cápsula de Transporte si lo marcabas con el Puntero Láser. Tonto Bosco
-- Corregido un error que causaba que los Engendros Mactera se vieran en su posición de ataque mientras volaban
+- Se ha añadido una animación de muerte en primera persona
+- Se ha añadido un nuevo ataque al opresor glífido
+- Se han añadido nuevas animaciones de equipo a la terminal de Equipos
+- Se ha añadido un nuevo diseño de terminal para la terminal de Accesorios, y se ha renombrado como "La tienda"
+- Se ha añadido un nuevo diseño de terminal a la terminal de Comercio de Minerales
+- Se han añadido unas vallas de contención debajo de las plataformas de la perforadora en las misiones de Punto de Extracción para prevenir que los enemigos caminen por esa zona
+- Se han reescrito los textos de los consejos en el tutorial
+- Las armas que infligen daño de fuego ahora podrán incendiar nubes de gas
+- La aptitud "Botas antigravitatorias" ahora aplicará partículas sobre las botas y prenderá fuego a las desafortunadas criaturas que se encuentren debajo de ti cuando las actives
+- Se ha renombrado la "pistola de enganche" como "Gancho"
+- Se ha renombrado la "pistola de tirolina" como "Lanzatirolinas"
+- Las cápsulas de suministros ahora necesitan haber descendido una cierta distancia para poder infligir daño al aterrizar
+- Se han mejorado varias animaciones al correr
+- Se han mejorado los logros por asenso, activándose de forma retroactiva cuando aparezcas en la Plataforma Espacial con un enano ascendido\ ¡Ya no tendrás que ascender de nuevo!
+- Se ha mejorado el sonido al usar la aptitud "Carga"
+- Se ha mejorado la lógica aplicada a la aptitud "Nacido para matar" al activarse como jugador invitado
+- Se ha mejorado la lógica de aparición de los Eventos de Máquina para prevenir que los cargadores de núcleos desaparezcan
+- Se han corregido varios errores de campo visual, incluyendo el visor de los Zhukov NUK17
+- Se ha corregido un error en el logro por conseguir metas
+- Se ha corregido un error por el que el efecto de sonido del hacha de impacto solo se reproducía para el anfitrión
+- Se ha corregido un error que hacía que los jugadores invitados no pudieran ver su estado de "Congelado" al estar congelados
+- Se ha corregido un error por el que a veces se reproducían sonidos de pasos duplicados en primera persona
+- Se ha corregido un error que impedía que ciertos efectos de estado se mostraran correctamente al aplicarse sobre larvas de botín
+- Se ha corregido un error que hacía que el escáner de terrenos se quedara atascado en ciertas vistasç
+- Se ha corregido un error que impedía la reproducción de la animación de saludo en tercera persona al correr
+- Se ha corregido un error por el que los recolectores de silicatos caminaban sobre las paredes
+- Se ha corregid un error que causaba que la cuenta atrás de la aptitud "Voluntad de hierro" apareciera demasiado pronto
+- Se ha corregido un error que causaba que la luz del Mod "Disparador de proximidad" del lanzagranadas Deepcore 40MM permaneciese en el terreno tras explotar el proyectil
+- Se ha corregido un error que impedía que la aptitud "Sentidos agudizados" funcionase correctamente después de ser atrapado por un enemigo
+- Se ha corregido un error por el que los proyectiles podían empujar a un jugador momentáneamente al estar cerca. Este error era especialmente visible al disparar mientras mirabas hacia abajo
+- Se ha corregido un error que impedía que las barras de salud del enemigo indicaran correctamente los impactos en puntos débiles para los jugadores invitados
+- Se ha corregido un error que hacía que las torretas LMG con el Mod "Sistema Hawkeye" dispararan a los cadáveres enemigos indefinidamente tras ser marcados
+- Se ha corregido un error que hacía que ciertas armas se desajustaran al saludar mientras las tenías equipadas
+- Se ha corregido un error que hacía que el menú de selección de conjuntos permaneciese abierto incluso después de cerrar una terminal
+- Se ha corregido un error que impedía que los aspectos de Bosco se mostrasen correctamente en las misiones
+- Se ha corregido un error que permitía a dos jugadores domesticar al mismo glífido, lo que hacía que a veces desaparecieran parte de sus texturas
+- Se ha corregido un error en el logro "Lo último", que hacía que se activase demasiado pronto al mejorar todos los objetos al máximo excepto el traje
+- Se ha corregido un error al usar los Mods "Puntas de taladro endurecidas" y "Motor sobrecargado" a la vez en las perforadoras eléctricas reforzadas
+- Se ha corregido un error que hacía que el contenedor del lanzallamas CRSPR cambiara de color al recargar mientras usas ciertas variantes del arma
+- Se ha corregido un error que provocaba que los géiseres de aire indujeran un movimiento tembloroso en los jugadores invitados al ser empujados por ellos
+- Se ha corregido un error que hacía que Bosco atacara sin sentido a la cápsula de transporte si la marcabas con el puntero láser\ A Bosco le falta un tornillo...
+- Se ha corregido un error que hacía que los enjambres mactera mantenían su pose de ataque cuando huían de una zona
 "
 	Update_16 = "¡Hola, mineros! ¡Ya estamos de vuelta a la acción, después de unas agradables vacaciones de verano! Y hemos preparado una nueva versión para vosotros. En respuesta al clima caluroso que hemos tenido, nos dimos cuenta que lo mejor que podíamos hacer era...un bioma helado. Tiene lógica, ¿verdad?
 
@@ -12261,7 +12283,7 @@ Namespace ST_GearUpgrades (110 keys)
 	Class_Driller003 = "Excavador complejo"
 	Headwear_Beanie = "A veces hace frío ahí abajo."
 	D_LoadedShells = "Hizo falta algo de creatividad, pero finalmente encontramos la manera de empaquetar más perdigones en cada cartucho. Solo...ten cuidado. Podrías sacarte un ojo con ellos."
-	T_StrongerShield = "Condensadores más Grandes"
+	T_StrongerShield = "Condensadores más grandes"
 	Class_Gunner001 = "Trueno lima"
 	D_MoreHealth = "Salud máxima aumentada."
 	Class_Gunner004 = "Baluarte de mercurio"
