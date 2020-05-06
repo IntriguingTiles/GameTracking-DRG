@@ -1,8 +1,8 @@
-9230 entries
+9263 entries
 32 namespaces
-7448 values
+7476 values
 
-Namespace Global (8542 keys)
+Namespace Global (8567 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        réinitialiser        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Démarrage de la boîte noire. Nous perdrons la connexion si vous vous éloignez trop, alors essayez de pas quitter la zone de triangulation indiquée !"
 	2559D78C40005E5221F26093CB976283 = " Récupérez {Title}"
@@ -272,6 +272,8 @@ Lors de la collecte de données, nous anonymisons votre adresse IP et nous ne co
 	D7563CB44DDC80861D98F6B4165956BF = "<ThrowCarriable/> et relâchez pour <bold>lancer</> les objets transportés plus loin."
 	AA45743241B4B881AD3AF5823231B881 = "<Title>Vous n'avez actuellement pas de noyau matriciel à forger dans votre inventaire.</> "
 	3E2B45CC4055FAFFE3F0599FA3B1C566 = "<UseLaserPointer/> et appuyez sur <mine/> pour tirer les <bold>missiles de Bosco</>."
+	EDAFC5AA4E8E883F4CE9F5B10267A06C = "<UseLaserPointer/> pour prendre en main cet outil bien pratique. Il est équipé d'un <bold>scanner</> connecté à la base de données de toutes les matières présentes sur Hoxxes IV.
+C'est aussi un formidable <bold>outil de communication</> puisque vous pouvez marquer des minerais, des risques potentiels ou tout autre objet qui mérite l'attention de vos co-équipiers. Appuyez sur <Fire/> quand le pointeur est actif pour utiliser la fonction de marquage."
 	6AF6F4DF480C999E4A787BA0C032D553 = "<active>ACTIVE :</> Enragez-vous pendant <h>10 secondes</> durant lesquelles vous avez <h>plus de dégâts de mêlée</> et une <h>recharge de l'attaque puissante à la pioche</> rapide comme l'éclair.
 
 <hi>{minutes} minutes de rechargement</>"
@@ -568,6 +570,7 @@ Appuyez sur <equip2/> pour équiper <bold>l'arme secondaire</>"
 	8C27AC2A4D8A5EC66D45F5B7762B2F09 = "Un classique jamais démodé."
 	E5B8BCBF4D7094B8A589B3AA4884F8D4 = "Un classique jamais démodé."
 	E868673C423078E3FBACB491DB144886 = "Un classique jamais démodé."
+	4FB397D0444310B34EB994BCF7A1BF75 = "Une menace permanente dans cette région, du magma fluide jaillit régulièrement en grands panaches du sol. Une prudence extrême est conseillée."
 	BAAB460B45DD1BFAEBFF28932B0B55A0 = "Un mineur supplémentaire a été affecté à votre équipe !"
 	7788FB28487AD6E60942BA8B6CF01865 = "Un emplacement de compétence supplémentaire est maintenant disponible pour le {class}"
 	1181DB1E41B8A40484A7D18F285950DC = "Une barbe impressionnante pour un nain impressionnant."
@@ -639,6 +642,7 @@ La direction"
 	89CBC0EF4F66282D3E48D587CAC33364 = "Aquarq ici !"
 	157E5A864B37B810AD34D484F31AB999 = "Est-ce qu'on... est-ce qu'on est de retour ?"
 	5FC958634E2DC7B8BDBD6AA3E461371B = "Vous lisez ce message ? Alors vous êtes le genre de joueur que nous recherchons pour le groupe d’habitués sur Discord ! Inscrivez-vous dès maintenant !"
+	63625FDC4D99ABF20C20C5A6869C0BB7 = "Êtes-vous prêt à recevoir votre promotion ?"
 	7FFB17E2489A90F2BFF4EB86C16069EB = "Êtes vous sûrs ?"
 	AA66C43D4DE914A51012A38356803029 = "Êtes-vous sûr ?"
 	F77B4F3D4C4BE0311F61649212B457C3 = "Êtes vous sûr ?"
@@ -882,7 +886,6 @@ DE BRIEFING"
 	4D6B634543BF3ECAE99850B637DC74AE = "Augmentation de la précision de base"
 	5402EFC34F31033A241C43A2942CCEAE = "Augmentation de la précision de base"
 	A1BD6D4E4BD909B0E0269591CEB87EAD = "Basique"
-	685964224EC0FB9FEB9EE286CF2A4D8E = "Pioche Basique"
 	B5868CE640E758D1F2FA0DBA30971853 = "Essentiellement à moitié une barbe par eux même"
 	ECF757E94145E00D9D544EA963E7F454 = "Les bases"
 	893FB57549981069D8F1C498854E7774 = "Cuvette"
@@ -1345,7 +1348,7 @@ DE BRIEFING"
 	68B0C36847C81E222575318A180570D4 = "Transporte plus de grenades"
 	E1A6AA0446022A84AAE2F89A034CBB62 = "Permet d'emporter plus de grenades"
 	8A0DB18348ED624A5A4222A40C6CE7C1 = "Contient plus de plateformes"
-	1DE67B824099424A8BC7D18768E32521 = "Transportez les"
+	1DE67B824099424A8BC7D18768E32521 = "Faulty string"
 	71C2F9314F6E2C74CEDFCBA4006AB906 = "Le chariot est en route !"
 	3C3119D946E7FDB21C7326B5E4590392 = "Sculpture"
 	138C5C72489506A08BA24D8D76C1B60F = "Diamètre de l'excavation"
@@ -1372,6 +1375,7 @@ DE BRIEFING"
 	3AC7565A4F6397043608ADB0A90A2407 = "Cellule"
 	14CB74224A1F42F14589888148B65708 = "Cave"
 	8BB73A4D409727DD1ED3D88404085060 = "Nécropole"
+	AEFC4EA748AA266CFE0D0DB27DD0C6B8 = "Certains types de munitions, comme les explosifs, peuvent <bold>effrayer</> les créatures pendant une courte période, en faisant des outils efficaces pour le <bold>contrôle de masse</>. Aussi, les créatures prenant la fuite deviennent des cibles vulnérables. Cependant, certains types de créatures sont moins faciles à effrayer et réagiront de manière différente."
 	BA343B3E487812ED3E9CCC884F7D55AA = "Réaction en chaîne"
 	E9C2B5C546CBF25E3792EA93A84B8D23 = "Réaction en chaîne"
 	41192DEC4114D77C2AC694BE8FD5047B = "Chambre"
@@ -1830,6 +1834,7 @@ La direction"
 	A7B91E80417B52C49FE18DB25B22C213 = "Missions terminées dans les cavernes cristallines"
 	3E65DBB64D8E8EC8AEA63ABA752165F5 = "Formations cristallines"
 	5AF3719C405012A30245C2AF9EEDB9A0 = "Amoureux des cristaux"
+	5244E5C3404DAEF1C8AB568165EBB4A1 = "Des amas de cristaux peuvent être trouvés dans toute la région. Certaines variétés ont des propriétés luminescentes et d'autres déchargent de dangereuses accumulations d'électricité."
 	03AB4CE04BB287784E9F78A1343E9F1A = "Cristalline"
 	693BF19C4B62AF447AF28694BE933786 = "Cavernes cristallines"
 	80D28714487FE284DA6B7ABDE9B0879C = "Cavernes cristallines"
@@ -2487,6 +2492,7 @@ Cela va désassigner '{ActionName}'"
 	393364C6408C9BDE011921ACE01EB9F3 = "Munitions explosives"
 	E9EC970246B59E1814D725BA8F06239E = "Cartouches explosives"
 	6300ABC04493A303425600A49902DD69 = "Spore explosif"
+	E08C32B645439757D4B205BDCE80E1F4 = "Explosif"
 	7783085749CD0CDC322970917E01C05D = "Explosifs en place !"
 	1BB4763A42F000767AB83E89411F3EFE = "Explosifs !"
 	79A21A2049ABB2E9795084AAC9D5C340 = "Explosifs !"
@@ -3276,6 +3282,7 @@ DE TIR"
 	F8B289994CEF7BE97C77FBA799C845BA = "Hey, les gars !! Faut dé-carrer !"
 	793039314114122355CECEA4147C1297 = "Stabilisation gyroscopique"
 	F3D25A1E4C78B4FD1F727BA7342D4667 = "Stabilisation gyroscopique"
+	7E221AC940EB47FE64D5C5855D57A006 = "Hgh"
 	DF6266EE47E607B4413B4C93F140C5C4 = "H 4"
 	C43C4480414982D1ABA8968030485607 = "BP ON !"
 	DB16823948A80F418E8E649860D9DB48 = "Mélange HE"
@@ -3473,6 +3480,7 @@ Il est enfin temps de dire ROCK AND STONE au monde !
 	AB3ED9464C50AA5F4D4FE19250336883 = "Et c'est parti !"
 	BAC4C47E410D05AD9CB737BB20086067 = "C'est parti !"
 	EFE4C0CD4894D5F63EE58C852EF22D50 = "C'est parti !"
+	5470D5C548035FF52A25618C3F794839 = "Ici nous honorons ceux qui sont tombés, ceux vraiment dévoués aux profits de Deep Rock Galactic. Cet endroit respectable est aussi celui où les <bold>promotions</> sont attribuées."
 	0950F10E4B9516FF9FF0949EBDB442A7 = "Tiens ! Prends une balle dans la tronche !"
 	184B21EC4D55A5473A51369141BA47E5 = "Voilà de quoi faire joujou !"
 	EEF9839F409D83FF73DEAABBCDD9A42E = "Il y a de la croppa ici, récupérons-la !"
@@ -3489,7 +3497,7 @@ Il est enfin temps de dire ROCK AND STONE au monde !
 	17A66EEC472017653848E88FEE1927F9 = "Hé, écoute !"
 	1561F49B4226E8FC30FC119A1BE37DD3 = "Hé, c'est l'un de ces fossiles en forme d'escargot !"
 	BFEC9E214D000DD0D606B797B95F8851 = "Hé, quelqu'un a perdu du matériel ici !"
-	252CDC6D4C161E0D6057FCB47C8673D4 = "Hé, il y a une capsule cassée ici ! Il y aura peut être encore des munitions et d'autres trucs dedans !"
+	252CDC6D4C161E0D6057FCB47C8673D4 = "Faulty string"
 	854C017647598C7975337BA3D6F348E1 = "Hé, vous pouvez imprégner vos noyaux de matrice vierges ici !"
 	CCA392A741C551B85295C99A6B3A87B2 = "Salut mon gars ! On se connait ?"
 	2E0929614CF986EDAC91B0B0D0EAAEE6 = "Salut !"
@@ -3872,6 +3880,7 @@ Il est enfin temps de dire ROCK AND STONE au monde !
 	05BEE58949E04E15BFDE44AE11299C1F = "GCI"
 	1114C4374D8C4B62AA34879FEA1DD076 = "GCI"
 	F9A371BD425B2473444C889F84002F2E = "GCI !"
+	D9ACA5FD4D7CA6F4C8F24F80D88085B5 = "EN L'HONNEUR DE NOS HÉROS DISPARUS"
 	53A3869C46FDC214B30DCB94F26CEE23 = "EN COURS"
 	D3A4B4F349E8B5E1C2CBB38D1F65575C = "GRENADE INCENDIAIRE !"
 	2F1468914439D27056E058B2FD0F4293 = "EN APPROCHE
@@ -3916,6 +3925,7 @@ INSÉRER TITRE TEXTE"
 	8883561246CF4956C94547A282908F20 = "Si ça ne le démarre pas, donnez des coups de pioche !"
 	AE02D1A6493DFBC0E093C8A2D94E3E18 = "Si tu cherches l'imprégnateur de noyaux ? - Il est là !"
 	7762816C4C6962EA5FD33EA302EB26C5 = "Si vous appelez, Bosco abandonnera sa tâche actuelle et viendra à vous."
+	31E69D1043D8AD4C6955619F78850667 = "Si vous videz complètement la chambre de pressurisation, l'arme commencera immédiatement la repressurisation, et tant pis pour la sécurité !"
 	6EB7699D489A8409E516638AB982BE7B = "Si vous vous perdez, sortez votre pratique scanner de terrain pour vous repérer !"
 	07E9341B4715E109B5E3A6A4E627F90B = "Si vous remarquez d'étranges morceaux chatoyants dans les murs, essayez de creuser ici. Il y aura peut être des objets de valeurs juste sous la surface."
 	B44B3D8D4090842EEE24B18E4D18A513 = "Si vous me voyez courir ... Je suggère de me suivre ... eheheh ...!"
@@ -4384,7 +4394,7 @@ DIDACTICIEL"
 	D4BB53ED4CA08E1CE53AC19D4514F0AD = "Baie de lancement"
 	03771CB741D6A8F7585D8CA572DF34A6 = "La tour de contrôle rapporte la présence de corps étrangers dans le tube de lancement. Il semblerait que quelque chose interfère avec le champ de force. Auriez-vous une idée de ce dont il s'agit ?"
 	6C47B39C4E0FB99FD7CE5EA83E8D5895 = "Lancer le didacticiel"
-	1D1E58FB4E72FCB6320749A582EA6253 = "Les grenades lancées n'exploseront que si elles passent à proximité d'un ennemi où si elles s'arrêtent complètement. Note : Le détonateur à besoin d'un moment pour s'armer, indiqué par une lumière verte, puis la grenade fonctionnera normalement."
+	1D1E58FB4E72FCB6320749A582EA6253 = "Les grenades n'exploseront que si elles sont proches d'un ennemi ou si elles s'arrêtent complètement. Note : Le détonateur à besoin d'un moment pour s'armer, indiqué par une lumière jaune, puis la grenade fonctionnera normalement."
 	24E3B6104385AD8F626355923BC6791A = "Départ pour l'orbite !"
 	79564CFA42A35871D08146B04D126B79 = "Geyser de lave"
 	FEFF895A414D3AEC76290588CF272B45 = "Geyser de lave"
@@ -5038,6 +5048,7 @@ D'un autre côté, les armes à zone d'effet ou celles basées sur des jets de f
 	313CA2134D73053B2711D3A5510C1E94 = "Morkite !"
 	2FED06284A20D0DB2A7FE8B3AD4C6154 = "matinale"
 	647694E644244BF1593CB2ACA2B69F50 = "La plupart des créatures sont partiellement recouvertes d'armure. Un mineur efficace devrait apprendre les différents types d'armure et leur positionnement de façon à pouvoir optimiser ses techniques de combat et repenser son équipement."
+	43DEBA74461CE1BF3DE7E786FC5A52A6 = "La plupart des créatures sont vulnérables aux coups dans la tête, mais ça n'est pas le cas pour toutes. Puisque les tissus qui recouvrent les points faibles ont tendance à être plus fins, cherchez les signes révélateurs des fluides internes <bold>luminescents</>."
 	79C599094EB6D6E6E02200AFC58E0859 = "La plupart de la faune d'Hoxxes a des points vulnérables que vous pouvez exploitez. Cependant, certains ont aussi des exosquelettes blindés capables de résister à presque toutes les armes. Tirez judicieusement."
 	F29E9A674C1568EE2B2565AFB4C7CA36 = "La plupart des organismes exposés à la radioactivité subiront des <bold>dégâts sur la durée</>. Certaines créatures ont muté à la suite d'une exposition prolongée, devenant d'horribles menaces radioactives elles même."
 	ECC7FA234B875BBB6B78EF8214EEC8DD = "Assembler arme"
@@ -5068,6 +5079,7 @@ D'un autre côté, les armes à zone d'effet ou celles basées sur des jets de f
 	BE251AEF40EAD429C1D0E1BB1A9C45C0 = "La Mule est pleine ! Plus besoin de morkite !"
 	C3C25FC048461229EE84CD9AF37520DE = "Multi-boom !"
 	CD169B8F4540D97173D1A180A5C920B4 = "Session multijoueur terminée"
+	5346596B4BD1E919C3B53F9E76D6370D = "Plusieurs aléas dans cette région réduisent votre température corporelle, ce qui peut vous geler. Les sources chaudes locales causées par les gaz qui remontent depuis le cœur de la planète procurent des endroits indispensables pour vous réchauffer."
 	931C9B3B4BB9B8985E727D86DCA0BFFE = "Maman vous a laissé ces bracelets. Et vous allez les porter sacrebleu !"
 	6FDC4A9346E691890BD1D6A4495393C7 = "meurtrière"
 	6D8CD1054EC21548F4F753B20D23D9EA = "boueuse"
@@ -5272,6 +5284,7 @@ Rejoignez-nous si vous avez ce qu'il faut pour protéger vos camarades nains et 
 	0FE4CC0C4C3A5DA72A8446A809590AA5 = "Non !"
 	30EF93BE4F3AE2E091EE1FB7DD3DD0F8 = "noble"
 	09586CAF45BC5740FFCBCCA7CC8E05EB = "Aucun"
+	159887BB4E6AE630E98852BB2EA34B6C = "Aucune"
 	967EE89741C06B7A25E42EA855A203C8 = "Aucun"
 	E917CE0D472CD95193C9F395BC923B1C = "Aucun"
 	533017F242D8CDB43CBA9E837A5BC135 = "Rien ne peut nous arrêter !"
@@ -5616,6 +5629,7 @@ La Direction"
 	B7908BFF40B093A2746CF3A051DB497F = "DOULEUR"
 	C688265942837DDEF12E26A907E40442 = "NAIN FÊTARD"
 	E43247564ACF43EFB9AFF4980B8DD23A = "PAYE :"
+	06696F9D4443DD26F30DEFB645D4EEF0 = "COMPÉTENCES"
 	5B80BEB04A9069960C2016A2F65431DA = "COMPÉTENCES"
 	63D0361D4B68CE07E9D1D2BF398E5F16 = "COMPÉTENCES"
 	E922A7AE4D9A3CD28D72A394E6955EA0 = "COMPÉTENCES"
@@ -5677,6 +5691,7 @@ La Direction"
 	E66F2965440023B51A13E5B5253ED0BC = "APPUYEZ SUR [Jump] POUR CONTINUER"
 	54252A9A47A6776CFE924B93B30F5B44 = "APPUYEZ SUR [Salute] POUR SALUER"
 	7FABFBA24AAC4686FB3FCC9420150CF7 = "PARTIE PRIVÉE"
+	B02F8574471554F5DF0A04BB92B3D22A = "BÉBÉS DE LA PRODUCTION : Ida-Marie, Thor, Alva, Ellie, Theodor et Baldur - Bienvenue sur Terre !"
 	BF55A2DD4B08D1A83D629EBE0A4E5A24 = "DÉCOMPTE DE LA PROGRESSION :"
 	2595DDF2421600A4E23DBA930382415D = "PROMOUVOIR"
 	6718F1AA4B5E715ADEE99F8D63C78C48 = "PROMOTION DISPONIBLE"
@@ -5685,7 +5700,7 @@ La Direction"
 	9D0495E743DE52B3F57657B90B4B5D58 = "ENCLIN À EXPLOSER"
 	0743DAE24CA986BE792E58B3FF6F12EA = "MINE DE PROXIMITÉ"
 	3C5A008D4A9404236B3B6DA97B561600 = "ANNONCE : Un lance-grenade a été retrouvé au beau milieu de la cantine. Soyez prudents ! NE laissez PAS traîner vos armes lourdes entre chaque mission ! Rangez-les en lieu sûr."
-	664A6705417086F880DC3AB6EC26200A = "ANNONCE : Un lance-grenade a été retrouvé dans le réfectoire. Soyez prudents - Veuillez ranger votre artillerie lourde entre chaque mission."
+	664A6705417086F880DC3AB6EC26200A = "ANNONCE : Un lance-grenade a été retrouvé au beau milieu de la cantine. Soyez prudents ! NE laissez PAS traîner vos armes lourdes entre chaque mission ! Rangez-les en lieu sûr."
 	1B798D5E4B5DD828B8151A83C3E77B3F = "ANNONCE : Un lance-grenade a été retrouvé au beau milieu de la cantine. Soyez prudents ! NE laissez PAS traîner vos armes lourdes entre chaque mission ! Rangez-les en lieu sûr."
 	2D6116584500D086F81045BB2C295021 = "ANNONCE : TOUTES les armes doivent être rengainées ou rangées lorsque vous vous trouvez à bord de la plateforme spatiale."
 	2F9328D54501F01017A1E6AC1B58ACDF = "ANNONCE : TOUTES les armes doivent être rengainées ou rangées lorsque vous vous trouvez à bord de la plateforme spatiale."
@@ -5790,6 +5805,7 @@ La Direction"
 	6B8F0C9346F0E4383B37CB831050B470 = "Ramasser"
 	F1DAF32D40882FF52F3B299EAD8DC908 = "Ramasse-le, drone !"
 	DDC945E748F3658A17D139A89CDDE38B = "Ramasser"
+	685964224EC0FB9FEB9EE286CF2A4D8E = "Pioche"
 	B2D4D0CA44B84A06B2E32299C9AAFE9F = "Pioche"
 	CF70FFB744516D03BA2E18A0F230BAD8 = "Personnalisation de la pioche"
 	BE6B625844169F400F9E6C9EBB0192F5 = "Lanceur de surcharges pour pioche"
@@ -6091,6 +6107,7 @@ RAPIDE"
 	3E7D93A7446668D2AD62E68258FBE70F = "Zone d’exclusion radioactive : radioactif"
 	9743C42447E6D89184DA8CA861851955 = "Zone d’exclusion radioactive : radioactif"
 	DEC1751C4B1AE3EA99FA6982E37E41D7 = "Exploseur radioactif"
+	9B0D67424A66EC4C5FAC43866BFFDBC5 = "Prétorien radioactif"
 	3CDCFCEB4870921A1F9EB6AC63A8D608 = "Radioactivité"
 	F2CAC1EB428B1FFDCC47178A911BAE8A = "Rhyzomute"
 	FB5419C74E4875EAFD4A36AC70EE2CFA = "Rhyzomute"
@@ -6809,6 +6826,7 @@ MISSION"
 	A4E4EBE6475FB204A74F009661434BA0 = "Des Toothgrinders, sil te plaît ! On se rajeunit pas, hein !"
 	0EA4B56C4AB702FCBF966493E3236E35 = "Certaines attaques et explosions sont assez puissantes pour <bold>propulser un nain dans les airs</>. Méfiez vous en, vous pourriez atterrir à un endroit défavorable !"
 	0CEB84464B7521A2FB385C9CD5D4F1B2 = "Certaines créatures sont équipées d'une armure naturelle tellement épaisse que nous n'avons même pas trouvé comment l'égratigner - même un tir soutenu ne la pénètre pas, elle est <bold>indestructible</>. Heureusement, la plupart des créatures ont des <bold>points faibles</> où tirer. <bold>Les dégâts de zone</>, comme les explosions, sont une autre façon de s'occuper de ce genre de menace."
+	99D4C723403611AFA9594DBB25120554 = "Certaines créatures créent une carapace autour d'elles. Frapper ces carapaces <bold>ne les blessera pas autant</> qu'un coup direct dans la chair. Les <bold>carapaces peuvent être brisées</> révélant les parties vulnérables en dessous. Les munitions avec des capacités de rupture d'armure excelleront à briser l'armure légère et, en plus, le tir brisant la carapace infligera tous ses dégâts ."
 	7940A779482A62A5AE928180A581B8D2 = "Certains ennemis ont des organes sensibles exposés qui peuvent être <bold>détruits même avant que le créature ne soit morte</>. C'est une bonne idée de les viser car les dégâts infligés seront plus élevés. Pour certains ennemis, ces organes leur permettent de lancer des attaques spéciales. Les briser les empêchera de se servir de ces attaques."
 	538119EA49BEA5057A17A08586943A2A = "Des modifications poussées sur la préparation des tirs peut augmenter les dégâts purs de l'arme mais au prix d'une génération de chaleur augmentée pour chaque tir et d'une batterie plus petite."
 	1FB3123D451B74CB69B80295F36DBB2F = "Certains modèles ne se démodent pas."
@@ -7132,6 +7150,7 @@ MISSION"
 	BBF3B4054F29E874B222A2B140CE9C2C = "LE HALL COMMÉMORATIF "
 	67074A2E4BA678EE475E7AA88B7A1BE9 = "LA BOUTIQUE"
 	ECE42B7344543B4FC6A2F69FFB7525BA = "LE SCANNER DE TERRAIN"
+	E01EC51445B34B1690C5B6BD4ECACFAC = "ILS ONT AIDÉ À CONSTRUIRE CET ENDROIT "
 	0A66936C4BCDB9BCC809D69E6ABC6181 = "ÇA... et une bière ! Quoi d‘autre de plus !"
 	74CDE4984E90AEB051EACEB3CBB17901 = "CECI EST UNE NOTIFICATION TRÈS TRÈS TRÈS TRÈS TRÈS TRÈS TRÈS LONGUECECI EST UNE NOTIFICATION TRÈS TRÈS TRÈS TRÈS TRÈS TRÈS TRÈS LONGUE"
 	993A4F93491B685F523B89A97DE04700 = "ÇA !"
@@ -7363,6 +7382,7 @@ Le manuel du mineur - ne quittez pas la plateforme sans."
 	CFAEADED474F398FF46CD4A9C1838915 = "Le choix d'un pragmatique."
 	E27EDAE84472193E7757BCB664750792 = "Le choix d'un pragmatique."
 	64D8E3234397477DEF1EB49842726761 = "Le froid provenant de certains dangers et de certaines armes réduira la température des ennemis et les ralentira. Si l'effet du froid fait que les ennemis atteignent le point de congélation, ils seront immobilisés et plus vulnérables aux attaques pendant un certain temps. Certains ennemis sont plus résistants au froid que d’autres et prennent plus de temps à geler, et certains se réchauffent plus rapidement après avoir été gelés."
+	FE8B5E194884854A52365C996A46E5C7 = "Le confortable compartiment où vous passez vos nuits entre deux missions. Vous pouvez accéder au terminal ICP pour valider des <bold>étapes</> et débloquer des <bold>compétences</> depuis cet endroit."
 	650394EE41ACE93ACF33119DE345624C = "Les décorations sont faites pour être appréciées avec vos yeux, pas avec vos pieds !"
 	E7F5A4894FFAC827E80375B24D65CE32 = "Les décorations sont là pour contribuer à une ambiance de fête, ce ne sont pas des jouets."
 	92F797094DF281C5FDF110B5A1538BB3 = "Les dés sont pipés."
@@ -7402,6 +7422,7 @@ Le manuel du mineur - ne quittez pas la plateforme sans."
 	57F6A1CB49D941FB48D8DF9FDC90D255 = "Les dégâts principaux de l'arme sont augmentés."
 	643FCFC64F8FF49D48BAD4927B2EA1AE = "Le projectile explose à la fin de sa vie quand les extrémités s'effondrent, endommageant tout ce qui est suffisamment malchanceux pour être à proximité et laissant un champ de plasma résiduel pendant un court moment. Vous pouvez aussi manuellement déclencher l'explosion en appuyant sur la gâchette une deuxième fois pendant que le projectile est encore en vol."
 	A99CB7A84ADABE0CF57BFF8F06F96138 = "Le projectile peut se déplacer pendant une plus grande période de temps avant de s'effondrer"
+	F6B73F1548D2983E644480A4C4FBF2F9 = "Les projectiles tirés par le lance-plateforme créeront une <bold>surface praticable</> lors de la collision avec le terrain. Ces plateformes sont souvent le meilleur moyen <bold>d'accéder aux minerais sur les murs</>. Elles peuvent aussi être utilisées pour <bold>construire des ponts</>. <bold>boucher des trous</> et bien plus encore."
 	BA1333414BE848191A90898381EC8526 = "La région est parsemée de conduits naturels, qui soufflent des vents violents dans les cavernes, et sont suffisamment puissants pour vous projeter dans n'importe quelle direction. De plus, des tempêtes de vents sont fréquentes, et réduisent fortement la visibilité et les déplacement."
 	417B2EE34541F8D3BF2CC08C184A69AD = "Ce discours du centre de contrôle n'est pas encore prêt ! Voilà ce que vous entendez à la place. La direction approuve cette procédure ! "
 	BB48F3BF457FDE27A82FB6B343262BDD = "Le bon discours pour le contrôle de mission n'est pas encore prêt !"
@@ -7683,6 +7704,7 @@ La direction"
 	3BD1C77543C2158DF8420E9482838DCC = "Montant total de bières spéciales débloquées"
 	239F2341447502A49BB05A81EF4C5FA2 = "Total des dégâts"
 	558D98FC4C97E147298378B9F843A91D = "Total des dégâts"
+	B1BC59AB4687901FEB4DE8AC2B6552DE = "Bonus de risque total : +{bonus}%"
 	7FB06DEE435F06B24A275D8599047AFE = "Temps total de la mission"
 	5F5B194E4D3131ED17D43490EDF002D5 = "Total de boissons commandées"
 	80CB8C464B790B42DD5A71A977557B43 = "Total boissons consommées"
@@ -7801,6 +7823,7 @@ La direction"
 	2639BDA74F3ACD0974675696C0A860D1 = "Objet non identifié"
 	1CCE93164BD93498123304A5E8C9BE39 = "Objet non identifié"
 	BDBE27A34F437BC3E227DC9004C8D661 = "Chapitre du syndicat disponible au terminal de la communauté minière !"
+	C249CB1F4E6EB5D6321F079F49850445 = "Matériaux uniques"
 	18C077E540BB959128F4FC8BCB58D87D = "Inconnu"
 	4C56E7EF4CDB0281E9F9BFAD100A496D = "inconnue"
 	C48EE67048C0235A52DC57A5077BCE4B = "Inconnu"
@@ -8225,6 +8248,7 @@ Vous pouvez changer ce réglages a tout moment dans le menu des options."
 	4D381BDA4C17F96EBAAADEB9BCD3C46E = "Arme {type} : "{name}""
 	7ACB32164BC986E95D98E2A0AD840F82 = "Les armes et les dangers ayant cet effet réduiront la vitesse des organismes en mouvement."
 	8B167CA1472C814633BB95AA07581A26 = "Les Armes avec capacités Peur peuvent effrayer les ennemis et les faisant fuir pendant un certain temps. Certains types d’ennemis sont plus courageux que d’autres, aussi leur faire peur n’est pas toujours assuré."
+	124637E94401560D890E7EBAC4F24664 = "Les armes possédant la capacité d'étourdissement vont brièvement <bold>interrompre</> les <bold>mouvements</> et <bold>attaques</> de toute créature qu'elles touchent - et quand on voit à quelles vitesse ces bestioles vont, chaque milliseconde compte. La mauvaise nouvelle c'est que certaines créatures peuvent elles aussi étourdir les nains."
 	EFC98B774051997322EF0C99C706E251 = "Les armes avec cette capacité auront une chance d'arrêter momentanément un ennemi dans sa trajectoire."
 	A3601A2F43E3E6286D3919953BD9D91A = "En portant ce bonnet fantaisiste de Noël, aucun doute que vous entrerez dans l'histoire."
 	C37DF90640E673672C31B99B2079E3DB = "En portant cette casquette fantaisie de Noël, aucun doute que vous entrerez dans l'histoire."
@@ -8340,6 +8364,7 @@ Vous pouvez changer ce réglages a tout moment dans le menu des options."
 	FE58B8E444BDAF5056C38386CC958FEB = "Qui a deux pouces et une bonne affaire? CE mec ...!"
 	2B17F4944ABB55FB433033AB14BCC58E = "Whoa... Je sais tout sur tout ! Demandez moi quelque chose, vite ! Attendez...oh...c'est fini."
 	0FD8D3BD4E96FEF6335F66BC8F2FE4C3 = "Celui qui a inventé l'expression "En avoir pour son argent" devait penser à cette beauté. Pas chère, fiable, et sacrément dévastatrice."
+	42802C304FE14AF54D0FE69CB947FA88 = "Quiconque prétend que la vie végétale a besoin de la lumière du soleil n'a manifestement jamais mis les pieds dans cette région de Hoxxes. En effet, cette région est une forêt tropicale en bonne et due forme... sauf qu'elle est souterraine : des masses végétales putrides (et pour la plupart carnivores) produisent, dans les profondeurs de la croûte terrestre, de véritables microcosmes où la vie pullule. Soyez très prudents."
 	BA163EEE4FD897577841958ABC33989E = "Celui qui fixe ces prix devrait se faire botter le cul ..."
 	A5C0F0974E432FA13BD364B641466555 = "Whooo, crassus abattu ! Regardez tout cet or...!"
 	4CD1B089436C18ABF7C517BC63BF8455 = "Whooo, ça fait peur !"
@@ -8769,6 +8794,7 @@ Vous pouvez maintenant équiper <highlight2>deux</> compétences actives. Choisi
 	A1607E904D5B781D34E567A7A992DB56 = "{count} X Objectifs secondaires"
 	4432A1B649946560A378BD859844C006 = "Permis : {name}"
 	D5E9A15542F37B6EA8C9ACBC422AF9B4 = "Licence pour {name}"
+	35B3399745E54CB7255656835A1268D8 = "Faulty string"
 	4B20B5A64B15DE68A93A28AA3869E2BF = ""Frères, je ne crains aucun homme, aucune bête, ni aucun mal.""
 	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Désolé, cette partie aurait dû être privée.”"
 
@@ -8776,19 +8802,21 @@ Namespace Audio (2 keys)
 	Volume_Master = "Principal"
 	Volume_Music = "Musique"
 
-Namespace CreatureAttacks (34 keys)
-	AttackTypeAcidSpit = "Crachat acide"
-	SpecialAcidSpit = "Jet d'acide"
+Namespace CreatureAttacks (37 keys)
+	AttackTypeAcidSpit = "Crachat d'acide"
+	SpecialAcidSpit = "Souffle acide"
 	RangeArea = "Zone"
 	WeakPointBack = "Dos"
-	AttackTypeBite = "Mord"
+	AttackTypeBite = "Morsure"
+	AttackTypeBlobShot = "Tir collant"
 	ArmorBody&Legs = "Corps et pattes"
 	SpecialBombing = "Bombardement"
-	SpecialBreeding = "Reproduction"
-	SpecialBurrow = "Enterrement"
+	SpecialBreeding = "Ponte"
+	SpecialBurrow = "Enfouissement"
 	SpecialCripplingSlash = "Lacération incapacitante"
 	SpecialDash = "Sprint"
-	SpecialExploding = "Explose"
+	SpecialExploding = "Explosion"
+	AttackTypeFinnTackle = "Coup d'aileron"
 	CreatureTypeFlying = "Volant"
 	ArmorFrontBody&Legs = "Torse et pattes avant"
 	SpecialFrostSpraySpit = "Jet de salive glaçante"
@@ -8800,14 +8828,15 @@ Namespace CreatureAttacks (34 keys)
 	ArmorImpenetrableFront = "Face impénétrable"
 	AttackTypeJump = "Saut"
 	RangeMelee = "Corps-à-corps"
-	SpecialRadiator = "Irradiant"
+	SpecialRadiator = "Irradiation"
 	SpecialRageQuake = "Séisme enragé"
 	RangeRanged = "À distance"
 	AttackTypeRapidSpit = "Crachat rapide"
+	SpecialRollingStrike = "Charge roulante"
 	SpecialShock = "Choc électrique"
 	AttackTypeSlash = "Tranche"
 	SpecialSonicStomp = "Piétinement sonique"
-	AttackTypeSpit = "Crache"
+	AttackTypeSpit = "Crachat"
 	CreatureTypeStationary = "Stationnaire"
 	AttackTypeStingShot = "Tir piquant"
 	AttackTypeWebSpit = "Crachat de toile"
@@ -8848,12 +8877,13 @@ Namespace MinersManual (1 keys)
 Namespace Missions (1 keys)
 	0BFE0DE04F6F7554A68740AD8DC2B9D1 = "Objectif accompli, il est désormais possible de déployer la capsule d'extraction depuis la M.U.L.E"
 
-Namespace MutatorDescriptions (16 keys)
+Namespace MutatorDescriptions (17 keys)
 	W_Ghost_Desc = "Une créature lente, mais mortelle et invulnérable à été détectée dans la zone. Elle vous pourchassera inlassablement, durant toute la mission. Ne la laissez pas se rapprocher."
 	M_OxygenRich_Desc = "Un mélange spécial de gaz dans l'air rend les nains et les aliens plus rapides. Un des effets secondaire est de rendre la voix de tous le monde plus drôle que d'habitude."
 	W_RegenerativeEnemies_Desc = "Après quelques secondes sans prendre de dégâts, les créatures vont commencer à regagner de la vie."
 	M_ExterminationContract_Desc = "Toutes les morts valent de l'or, littéralement."
 	M_Weakspot_Desc = "Toucher les points faibles fait encore plus mal que d'habitude."
+	W_NoShields_Desc = "Des interférences magnétiques empêchent les boucliers de fonctionner."
 	W_LethalEnemies_Desc = "Les dégâts de corps à corps de tous les ennemis font beaucoup plus mal que d'habitude."
 	W_MacteraCave_Desc = "La plupart des menaces de cette mission viendront des airs, les cavernes sont pleines de macteras."
 	M_LowGravity_Desc = "Des irrégularités gravitationnelles mystérieuses ont conduit à une gravité réduite dans toute la zone de la mission."
@@ -8961,7 +8991,7 @@ Namespace OC_BonusAndDrawbackLines (62 keys)
 	Pen_RecoilMedium = "Recul plus puissant"
 	Pen_OverheatFaster = "L'arme surchauffe plus vite"
 
-Namespace PatchNotes (72 keys)
+Namespace PatchNotes (73 keys)
 	Update_30_Header = "SORTIE DE LA 1.0"
 	Update_30_ShortTitle = "SORTIE DE LA 1.0"
 	Update_23 = "Très bien, mineurs - rassemblez-vous et fermez-la!
@@ -9378,6 +9408,125 @@ CORRECTIONS ET AMÉLIORATIONS
 - Animation des coups ajoutée aux personnages en troisième personne. Mettre des coup dans les barils n'a jamais été aussi réaliste !
 - Le nouveau centre de contrôle parle à propos des missions relatives aux armes et aux promotions.
 "
+	Update_30 = "Salutations mineurs !
+Durant les deux derniers mois nous avons préparé Deep Rock Galactic à passer en 1.0. Nous avons passé la majorité de notre temps à rendre le jeu aussi prêt pour le lancement que possible - et cela sous-entend que nous nous sommes focalisé sur la correction de bugs et l'ajustement de valeurs en jeu. Vous avez pu déjà le constater durant la dernière vague de hotfixes, ce qui nous aide en nous laissant le temps de réagir à vos retours et nous permet d'avoir un jeu aussi stable que possible pour le lancement. \  
+
+Cela marque la fin de deux ans de développement en accès anticipé. Cela nous parait presque surréel, et nous n'aurions pas pu demander meilleur accompagnement que vous tous membres de la communauté. Nous sommes super, super excités de quitter l'accès anticipé et de voir où le jeu nous emmènera à partir de là. Et n'ayez crainte... Nous sommes bien loin d'avoir fini d'ajouter du contenu  à DRG ! 
+
+Rock And Stone!
+
+Sincères amitiés
+L'équipe Ghost Ship
+
+--- NOTES DE PATCH ---
+
+BANDE ORIGINALE VOL. II
+----------------------------
+Durant l'année dernière nous avons travaillé sur un second volume de la bande originale de DRG - et elle est finalement là - vous permettant de miner, combattre et groover sur 14 pistes entièrement nouvelles pleines de super synthé' et de basses ! Deep Rock Galactic a besoin d'investir dans de plus grosses baffles... MAINTENANT !\  
+
+
+NOUVEAUX RANGS DE PROMOTION
+----------------------------
+Croyez-le ou non il y a à présent 3 nouveaux rangs après l'or, lorsque vous promouvez vos nains : PLATINE, DIAMANT, LÉGENDAIRE ! Cela sera donc essentiellement une façon de se la péter pour les joueurs vétérans qui ont investi sang, sueur et énormément de temps dans Deep Rock Galactic. Nous vous saluons ! 
+
+
+AFFECTATIONS DE PRESTIGE
+----------------------------
+Au fur et à mesure que vous augmenterez votre rang de joueur, vous obtiendrez l'accès à des affectations de prestige spéciales. Les terminer vous récompensera avec des ensembles complets de pièces de pioche, de skins et de nouveaux couvre-chefs. Les missions de prestige seront débloquées aux rangs de joueur 20, 30, 40, 50, 60, 75 et 100. 
+
+Quelques mois auparavant, nous avions expérimenté le fait de vous offrir des cosmétiques lors de la promotion elle-même (certains d'entre vous l'avez peut-être essayé en version expérimentale), mais nous n'étions pas totalement satisfait avec ce système et avons plutôt opté pour une approche différente avec le déblocage des affectations de prestige en fonction de votre rang de joueur. 
+
+
+BIOMES
+----------------------------
+Les cavernes cristallines ont reçues plus de variétés de cristaux. C'est à présent - et plus que jamais - clair comme le cristal pourquoi elles sont nommées ainsi ! 
+
+
+REQUÊTES COMMUNAUTAIRES
+----------------------------
+Voici quelques fonctionnalités que nous avons ajoutées suite à la demande de notre public : 
+- Nous avons ajouté un motif doré classieux pour votre fidèle pioche dans l'édition supporter
+- Nous avons ajouté une barre d'ajustement du volume pour la voix du centre de contrôle. N'en parlez pas à la direction !
+- Nous avons amélioré l’échelle des mouvements de têtes pour que celle-ci s'applique à plus d'animations
+- Nous avons ajouté une barre d'ajustement séparée pour les effets de tremblement de caméra, pour que vous puissiez ajuster les mouvements de la caméra comme bon vous semble
+- Nous avons ajouté une option pour inverser l'axe X de la caméra quand vous êtes à terre
+
+
+DIVERS
+----------------------------
+- Ajout de quelques noms manquants avec le pointeur laser concernant les défis mécaniques
+- Ajout des notes de patch dans le menu "ECHAP" en jeu
+- Les défis mécaniques explosent quand la capsule leur tombe dessus à présent
+- Ajout de nouveaux sons d'ambiance partout dans le jeu
+- Ajout de nouveaux sons pour les terminaux dans la plateforme spatiale
+- Ajout de cristaux hexagonaux inclinés dans le biome des cavernes cristallines
+- Amélioration et mise-à-jour des sons du butinsecte
+- Remplacement des anciennes chaises dans la baie médicale par les nouveaux modèles
+- Optimisation des performances dans la plateforme spatiale
+- Les animations de rechargement sont maintenant jouées à la troisième personne lorsque vous sprintez
+- Ajout d'une zone de collision additionnelle sur la tête de forage lors des missions d'extraction pour éviter que les aquarqs ne disparaissent dans les foreuses situées sous la tête de forage
+- Les commandes de saisie pour les touches du clavier qui n'ont pas d’icône en jeu n'affichent plus un long nom, mais le caractère présent sur la touche du clavier elle-même
+- Amélioration de la loggique d'excavation de Bosco pour réduire sa tendance à faire un détour pour creuser de la terre compactée depuis l'autre côté
+- Correction d'un bug qui pouvait causer un mauvais compte de ce que vous aviez déposé pour les objectifs secondaires. Cela engendrait dans la plupart des cas une complétion prématurée des objectifs secondaires
+- Correction d'un bug qui permettait à de très larges vagues d'ennemis d'apparaitre dans les missions de point d'extraction lorsque qu’un défi mécanique était en cours
+- Ajustement de la taille et de la couleur de la police de caractère pour la fenêtre "Affectation terminée"
+- Correction de bugs dans la génération de terrain qui causait des tunnels ne menant pas complètement jusqu'aux caves.
+- Correction d'une erreur de textures dans les chambres individuelles
+- Correction d'un bug qui empêchait les joueurs d'héberger des parties après avoir remis à zéro leur progression
+- Correction d'un bug qui rendait la zone de collision des cracheurs infectieux dormants trop grande lors de l'utilisation du pointeur laser
+- Correction d'un bug qui causait des tirs dans des directions improbables par les cracheurs infectieux quand vous vous mettiez à couvert au moment où ils commençaient à tirer
+- Correction d'un bug qui provoquait la répétition du bruit de tir de l'arme d'un joueur qui se fait déconnecter alors qu'il tirait
+- Ajustement des capacités de navigation du terrain des pondeuses naedocytes pour éviter qu'elles se bloquent dans le terrain
+- Correction d'un bug avec le son émis par les roches au plafond dans la région des puits de sel
+- Correction d'un bug qui permettait à un joueur de saluer tout en utilisant le désintégrateur laser
+- Augmentation de la durée  de l'effet d'invincibilité pour les joueurs rejoignant en cours de partie à quelques secondes après l’atterrissage
+- Correction d'un bug laissant apparaitre des textures dans le scanner de terrain
+- Correction de plusieurs problèmes liés aux collisions dans la plateforme spatiale
+- Correction d'un bug qui permettait aux glyphides gelés de faire le cri qu'ils poussent quand inactifs.
+- Correction de la jauge de charge du cryo canon pour ne pas qu'elle tressaute autant qu'avant
+- Correction d'un bug qui provoquait la non mise à jour du niveau de danger pour les clients quand l'hébergeur ne changeait que la difficulté, mais pas la mission
+- Correction d'un bug qui permettait aux mini mules d'apparaitre au-dessus d'un défi mécanique
+- Correction d'un bug qui permettait à la capsule d'atterrir sous les défis mécaniques et autres objets similaires
+- Correction d'un bug qui provoquait la mauvaise mise à l'échelle du menu d'options graphiques pour l'échelle 4:3
+- Correction d'un bug qui provoquait la superposition des emplacements d'ensembles avec les textes de description
+- Ajustement de la position de la commande de saisie sur le terminal de promotion
+- Correction d'un bug qui causait le non affichage du nom sur l'écran des terminaux
+- Correction de nombreux problèmes de la notification "nouveaux articles disponibles" sur différents terminaux de la plateforme spatiale
+- Correction d'un bug qui rendait BET-C beaucoup trop agressive envers les glyphides fraichement apprivoisés en leur tirant dessus continuellement. On se calme, BET-C. 
+- Correction d'un bug qui rendait impossible la réanimation des joueurs s’ils mourraient sur la tyrolienne
+- Correction d'un bug qui permettait à la capsule d'atterrir à des endroits impossibles à atteindre comme le haut d'un tunnel creusé par une capsule de ravitaillement
+- Correction d'un bug où la compétence sprint s'activait de manière peu fiable pour les joueurs qui ont activé le paramètre "maintenir pour sprinter"
+- Correction d'un bug permettant aux joueurs à terre d'équiper le pointeur laser
+- Correction d'un bug qui causait la disparition subite des particules du lance flammes et du cryo canon si vous déséquipez l'arme tout en tirant
+- Correction d'un bug qui laissait les joueurs désarmés s’ils étaient interrompus pendant certaines actions
+- Correction d'un bug qui donnait des collisions aux pseudonymes Mixer qui pouvaient arrêter les balles
+- Les glyphides d'ébonite ne peuvent plus être pris pour cible par Bosco ou par les tourelles
+- Correction d'un bug qui permettait à la hache de choc de vous blesser sous certains angles
+- Correction d'un bug qui causait l'affichage d'aides didacticielles à propos de Bosco alors que Bosco n'était pas dans la mission
+- Correction d'un bug qui empêchait les animations de pioche d'être jouées en troisième personne après une attaque puissante
+- Correction d'un bug de synchronisation côté client qui permettait au générateur de bouclier de passer à travers les murs
+- Correction d'un bug lié aux statistiques concernant le nombre de noyaux de matrice que le joueur a forgé
+- Suppression d'un artéfact noir sur le terminal de personnalisation de la pioche
+- Correction de la musique d'extraction s’arrêtant trop tôt dans le cas où une vague apparait au moment où vous appelez la capsule
+- Correction du prix de la modification "rupture d'armure" pour le découpeur plasma
+- Augmentation de la distance d'affichage des éléments entourant les œufs d'alien
+- Correction d'un bug qui donnait un angle différent au personnage du scout et de l'ingénieur comparé au soldat et au foreur dans l'aperçu du personnage du menu "ECHAP"
+- Correction d'un bug où la confirmation "Touche déjà assignée avec" ne marchait pas
+- Modification de la description de la compétence berzerker pour qu'elle soit plus précise
+- Correction du message "restaurez la sauvegarde" pour qu'il soit un peu moins intrusif
+- Correction d'un bug qui permettait au BET-C de tirer à travers le bouclier du générateur de bouclier. Aussi les grenades rebondissent à présent sur le bouclier au lieu de passer directement à travers
+- Correction d'un bug qui provoquait chez le joueur un tir sans fin lors du retour en jeu après avoir appuyé sur "ECHAP"
+- Correction d'un bug qui causait parfois le non affichage des conseils lors du tutoriel sur la capsule de ravitaillement 
+- Correction d'un bug qui rendait impossible à compléter le conseil tutoriel sur le pointeur laser de BOSCO
+- Correction d'un bug qui décentrait le texte du terminal de commerce de minéraux
+- Correction d'un bug qui entrainait la non-descente de la capsule lors de l'arrivée dans une partie en cours
+- Correction de la récompense de maitrise de forge pour qu'elle affiche le nombre correct de de matrices si vous avez déjà tous les overclock et matrices cosmétiques
+- Ajout du Roumain et du Vietnamien dans la liste des langues supportées (travail en cours)
+- [XBOX] Correction d'un problème qui provoquait des avertissements lors de la déconnexion des manettes
+- [XBOX] Modifications de l’optimisation des effets de lumière
+- [BOUTIQUE MICROSOFT] Correction d'un bug qui empêchait la touche "retour arrière" de fonctionner lors du tchat
+
+"
 	Update_26 = "Salutation mineurs!
 La mise à jour n°26 est là ! Dans cette deuxième partie du contenu "Endgame", nous avons ajouté un tout nouveau système d'événements à rencontrer lors de missions normales, une refonte nécessaire et l'expansion du Bar, toutes les nouvelles poses de victoire, des skins pour Bosco et vos armes, ainsi qu'une tonne de corrections de bugs mineurs, de changements et d'améliorations. Au travail !
 
@@ -9673,7 +9822,7 @@ CORRECTIONS ET DIVERS
 - La foreuse de la capsule ne tue plus les ennemis qui passent en dessous en mission de récupération
 "
 	Update_21 = "Salutations mineurs !
-Avec cette mise à jour, nous introduisons plus de défis insensés - un nouveau niveau de difficulté LETHAL à maîtriser, de nouveaux ennemis, maîtrise et skins pour les armes, ainsi que de nombreuses autres corrections et améliorations.
+Avec cette mise à jour, nous introduisons plus de défis insensés - un nouveau niveau de difficulté MORTEL à maîtriser, de nouveaux ennemis, maîtrise et skins pour les armes, ainsi que de nombreuses autres corrections et améliorations.
 
 La pause déjeuner est terminée ! Il est temps d'aller au travail !
 
@@ -9696,7 +9845,7 @@ Le naedocyte paralysant est un étrange extraterrestre volant ressemblant à une
 
  - NOUVEAU NIVEAU DE DIFFICULTÉ -
 -----------------------------------
-À la demande générale, nous avons ajouté un nouveau niveau de difficulté LETHAL réservé aux nains les plus masochistes et les plus féroces ! Nous espérons que vous vous “amuserez”…
+À la demande générale, nous avons ajouté un nouveau niveau de difficulté MORTEL réservé aux nains les plus masochistes et les plus féroces ! Nous espérons que vous vous “amuserez”…
 
 
 REMANIEMENT DE LA DIFFICULTÉ GÉNÉRALE
@@ -9705,13 +9854,13 @@ LOGIQUE GÉNÉRALE D'APPARITION : La logique générale derrière comment nous g
 Gérer les vagues est maintenant une chose beaucoup plus précise et contrôlable pour nous.
 C’est en fait le plus gros changement que nous avons fait sur le système de difficulté mais aussi le plus compliqué à expliquer en détails - peut-être dans le futur, nous posterons un article à ce propos sur le site :-)
 
-TYPES D'ENNEMI SPÉCIFIQUE A LA MISSION : Maintenant le générateur de missions peut présélectionner un mélange spécifique d’ennemis que les joueurs affronteront dans une mission donnée. Au lieu de les sélectionner aléatoirement tous les types d’ennemis disponibles dans le jeu, les joueurs affronteront maintenant des vagues d’ennemis à thème. Ce changement ne sera pas particulièrement visible pour le moment, mais servira à améliorer le ressenti global des vagues d’ennemis, grâce également au fait que nous avons ajouté plus de types d’ennemis au jeu.
+TYPES D'ENNEMI SPÉCIFIQUE À LA MISSION : À présent le générateur de mission peut présélectionner un mélange spécifique d’ennemis que les joueurs affronteront dans une mission donnée. Au lieu de les sélectionner aléatoirement tous les types d’ennemis disponibles dans le jeu, les joueurs affronteront maintenant des vagues d’ennemis à thème. Ce changement ne sera pas particulièrement visible pour le moment, mais servira à améliorer le ressenti global des vagues d’ennemis, grâce également au fait que nous avons ajouté plus de types d’ennemis au jeu.
 
 Le but ici est de rendre chaque mission beaucoup plus unique, mais aussi plus attractive pour les joueurs pour qu’ils adoptent une approche beaucoup plus stratégique - si vous avez une idée plus précise des choses horribles que vous pourriez affronter dans les profondeurs, vous aurez de meilleures chances de vous y préparer en conséquence.
 
-TEMPS : En règle générale, réduire le temps entre la venue des vagues d’ennemis veux dire plus d’ennemis en général, ce qui résulte d'une augmentation globale de la difficulté. Sachant cela, nous avons fait quelques changements sur comment nous réglons le timing des vagues :
+TEMPS : En règle générale, réduire le temps entre la venue des vagues d’ennemis veux dire plus d’ennemis en général, ce qui résulte d'une augmentation globale de la difficulté. Sachant cela, nous avons fait quelques changements sur comment nous minutons des vagues :
 - Le temps qui passe avant l’apparition de la première vague est basé sur la difficulté de la mission - une difficulté plus élevée voudra dire que la première vague arrivera plus vite.
-- Les vagues suivantes paraîtront aussi plus vite en fonction du niveau de difficulté.
+- Les vagues suivantes apparaîtront aussi plus vite en fonction du niveau de difficulté.
 
 VITESSE : La vitesse des attaques, des projectiles et des mouvements des ennemis ont été augmentée pour les difficultés les plus élevées.
 
@@ -9727,7 +9876,7 @@ BUGFIX IMPORTANT ! L'échelonnement de la difficulté à 3 et 4 joueurs ne fonct
  AMÉLIORATIONS UI
  -----------------------------------
 BARRE DE VIE DES ENNEMIS
-Nous avons complètement remanié la manière dont les barres de vie des ennemis apparaissaient. Maintenant elle apparaîtra quand le joueur visera un ennemi et elle apparaîtra au dessus de lui (au lieu d'être au milieu de l'écran). En plus, cela affichera les dégâts subit par l'ennemi pour tout les tirs.
+Nous avons complètement remanié la manière dont les barres de vie des ennemis apparaissaient. Maintenant elle apparaîtra quand le joueur visera un ennemi et au dessus de lui (au lieu d'être au milieu de l'écran). En plus, cela affichera les dégâts subits par l'ennemi pour chaque tir.
 
 NOUVELLE BARRE DE MISSION
 La barre de mission visible sur la plateforme spatiale a été mise à jour pour afficher plus d'informations à propos de la mission en cours et a subit un remaniement graphique pour être plus lisible.
@@ -9752,7 +9901,7 @@ MAÎTRISE DES ARMES ET SKINS
 -----------------------------------
 Une barre de maîtrise d'arme a été ajoutée à tout votre équipement - au fur et à mesure que vous débloquez des améliorations, votre maîtrise va augmenter. A certains niveaux de maîtrises, vous débloquerez des bonus gratuitement. Pour le moment, ces bonus viennent sous la forme de skins et seulement pour les armes principales et secondaires. Chaque armes a 3 skins à débloquer.
 
-Ma majeure partie de notre temps a été utilisé pour préparer et faire fonctionner ce système, mais nous avons définitivement l'intention de l'étendre au fur et à mesure que nous avançons - dans le futur, vous pouvez vous attendre à bien d'autres manières d'obtenir des skins que par le simple système de maîtrise des armes.
+La majeure partie de notre temps a été utilisé pour préparer et faire fonctionner ce système, mais nous avons définitivement l'intention de l'étendre au fur et à mesure que nous avançons - dans le futur, vous pouvez vous attendre à bien d'autres manières d'obtenir des skins que par le simple système de maîtrise des armes.
 
 
 - AJUSTEMENTS DES ARMES -
@@ -9776,7 +9925,7 @@ CHARGEUR PLASMA EXPÉRIMENTAL :
 BRT7 PISTOLET À RAFALES:
 - Efficacité de base contre l'armure réduite.
 
-GK2 ABYSSAL :
+GK2 DEEPCORE :
 - La valeur de l'amélioration "Balles pénétrantes" a été augmentée.
 
 FUSIL À CANON SCIÉ TRAFIQUÉ :
@@ -9787,10 +9936,10 @@ FUSIL À CANON SCIÉ TRAFIQUÉ :
 - Amélioration "Chance d'étourdissement" augmenté.
 - Augmentation des dégâts de l'amélioration "Tourelle faucheuse".
 
-"STUBBY" SMG VOLTAÏQUE :
+SMG VOLTAÏQUE "STUBBY"  :
 - Valeur de l'amélioration du bonus d'électrocution réduite.
 
-40MM PGL ABYSSAL :
+LGP 40MM DEEPCORE :
 - L'amélioration de destruction d'armure est plus efficace.
 - Valeur de "Chargeur à grande capacité" augmentée.
 - Amélioration "Frappe étourdissante" renommée. Chances augmentées.
@@ -9827,7 +9976,7 @@ SUBATA 120 :
 Depuis quelques temps, nous étions coincé avec Unreal Engine 4.19, mais nous avons finalement réussi à l'actualiser vers la version 4.21. Il semble que cela ait corrigé un grand nombre de crash de GPU. Passez de bons moments !
 
 
-- MISC.
+- DIVERS
 -----------------------------------
 - Dans les mission de chasse aux œufs, les œufs devraient maintenant être correctement répartis dans la région.
 - Les missions d’affectation peuvent maintenant inclure des modificateurs de mission. Pour les missions d’affectation plus difficiles, des missions d’une complexité plus élevée seront choisi.
@@ -9852,34 +10001,34 @@ Depuis quelques temps, nous étions coincé avec Unreal Engine 4.19, mais nous a
 - Nouvelle fanfare quand vous êtes promu.
 
 "
-	Update_19 = "Bonjour les mineurs !
+	Update_19 = "Bonjour mineurs !
 
-Nous avons une nouvelle et grosse mise à jour à venir ! Cette fois avec une mise à niveau massive de votre arsenal, des améliorations du « système de mise à niveau » et une refonte du système de retraite ! Lisez tout à ce sujet ci-dessous ! Lock n ’Load!
+Nous avons une bonne grosse, et nouvelle mise à jour en approche ! Cette fois avec une amélioration massive de votre arsenal, des améliorations du « système de modification d'armes » et une refonte du système de retraite ! Lisez tout à ce sujet ci-dessous ! À mon commandement, feu !
 
 --- NOTES DE PATCH ---
 
 8 NOUVELLES ARMES
 ----------------------------
-DRG est heureux de vous informer que nous avons élargi notre liste de fournisseurs et qu’un nouveau catalogue d’armements plus fourni est disponible ! Afin d’obtenir des licences pour le nouvel équipement, vous devrez effectuer des attributions de licence d'arme. Une fois la licence obtenue, vous pourrez acheter l'arme en question. Les nouvelles armes suivantes sont maintenant disponibles :
+DRG est heureux de vous informer que nous avons élargi notre liste de fournisseurs et qu’un nouveau catalogue d’armements plus fourni vous a été mis à disposition ! Afin d’obtenir les licences pour ce nouvel équipement, vous devrez effectuer des affectations de licence d'arme. Une fois la licence obtenue, vous pourrez acheter l'arme en question. Les nouvelles armes suivantes sont maintenant disponibles :
 
 NOUVELLES ARMES : SOLDAT
 ----------------------------
 CANON AUTOMATIQUE LOURD "THUNDERHEAD" : 
-Une arme particulière mais dévastatrice. La cadence de tir lente est compensée par de lourds dégâts, délivrés avec joie par les cartouches en tungstène de calibre « .50 » alimentées par courroie. Le Thunderhead est une arme sombre pour le bourreau sophistiqué, livrant la mort aussi inexorablement que le temps lui-même.
+Une arme particulière mais dévastatrice. La cadence de tir lente est compensée par de lourds dégâts, délivrés avec joie par les cartouches en tungstène de calibre « .50 » alimentées par courroie. Le Thunderhead est une arme sombre pour le bourreau sophistiqué, livrant la mort aussi inexorablement que l'écoulement du temps lui-même.
 
 BRT7 PISTOLET À RAFALE : Plus précis qu'une SMG, doté de la puissance d'arrêt d'un petit fusil de chasse, le BRT (ou "Burt", comme on l'appelle parfois) est très prisé des collectionneurs et des connaisseurs.
 
 
 NOUVELLES ARMES : SCOUT
 ----------------------------
-M1000 CLASSIQUE : La conception originale du fusil de précision DRG de type "M1000" remonte à des centaines d'années, pratiquement inchangée. Dégâts élevés, cadence de tir respectable ... et ce "Ping". Un excellent exemple de "si ce n'est pas cassé, ne le répare pas".
+M1000 CLASSIQUE : La conception originale du fusil de précision DRG de type "M1000" remonte à des centaines d'années, pratiquement inchangée. Dégâts élevés, cadence de tir respectable... et ce "Ping". Un bel exemple de "si c'est pas cassé, ne le répare pas".
 
 ZHUKOV NUK17 : Pas sophistiquée, mais pas décevante non plus. La famille NUK de micro SMG jumelés a une longue et précieuse expérience. Pourtant, les connaisseurs s'accordent pour dire que le 17 figure parmi les meilleurs.
 
 
 NOUVELLES ARMES : INGÉNIEUR
 ----------------------------
-"STUBBY" VOLTAIC SMG: Alors quoi de mieux qu'une SMG? Une SMG qui tire des balles électriques ! Les gars de la R & D ont branché un prototype d’ArcGen dans les tripes de ce fidèle Subata 312, ce qui signifie qu’il déchaîne maintenant une tempête de mort électrifiée ! Mot d’avertissement : Tenir à l'écart de l'eau.
+SMG VOLTAÏQUE "STUBBY": Alors quoi de mieux qu'un SMG? Un SMG qui tire des balles électriques ! Les gars de la R&D ont branché un prototype d’ArcGen dans les tripes de ce fidèle Subata 312, ce qui signifie qu’il déchaîne maintenant une tempête de mort électrifiée ! Mot d’avertissement : Tenir à l'écart de l'eau.
 
 DÉCOUPEUR PLASMA : Le découpeur plasma émet des explosions directionnelles de plasma à charge acoustique suffisamment puissantes pour s’occuper de la plupart des aliens sur votre chemin. À l'origine un outil d'exploitation minière, il a été réglé à la fréquence voulue pour casser la chair et les os au lieu des dépôts de sédiments pour lesquels il avait été conçu - avec des résultats souvent spectaculaires ! 
 
@@ -9901,9 +10050,9 @@ Pour cette série de mises à niveau, le nouveau système a été implanté pour
 En outre, plus d'images fixes pour l’'équipement sur les terminaux : nous avons enfin mis en place un système de visualisation des modèles 3D rotatif !
 
 
-RÉÉVALUATION DES COSMÉTIQUES ET MODIFICATEURS D’ARMES
+RÉÉVALUATION DES COSMÉTIQUES ET AUGMENTATIONS D’ARMES
 ----------------------------
-Tous les cosmétiques et les améliorations d'armes ont été revalorisés ! Vous garderez tous les objets du vanity déjà déverrouillés. Toutes les mises à niveau d'armes ont été remboursées, ce qui vous permet de découvrir le nouveau système à votre guise.
+Tous les cosmétiques et les améliorations d'armes ont été revalorisés ! Vous garderez tous les objets cosmétiques déjà déverrouillés. Toutes les mises à niveau d'armes ont été remboursées, ce qui vous permet de découvrir le nouveau système à votre guise.
 
 
 PROMOTION : (ANCIENNEMENT RETRAITE) !
@@ -9913,7 +10062,7 @@ Le système de retraite a subi une refonte assez importante. Les changements son
 - “Retraite” a été reformulée en “Promotion”.
 - Le niveau maximum pour chaque nain est passé de 20 à 25.
 - La dernière mission du processus de promotion n’est plus obligatoirement une mission solitaire.
-- Promouvoir votre nain n'enlève plus vos progrès! Oui, vous avez bien lu - toutes les améliorations d’armes sont conservées ! La seule chose qui est réinitialisée est le niveau de votre personnage.
+- Promouvoir votre nain n'enlève plus vos progrès ! Oui, vous avez bien lu - toutes les améliorations d’armes sont conservées ! La seule chose qui est réinitialisée est le niveau de votre personnage.
 - Vous devez toujours effacer votre dette envers DRG avant d'obtenir une promotion.
 - Les titres pour les rangs de joueurs ont été étendus au rang 75 et de nombreux nouveaux titres ont été ajoutés.
 
@@ -9923,14 +10072,14 @@ SOLDAT: GÉNÉRATEUR DE BOUCLIER
 Le soldat a échangé son pack de C4 contre un générateur de bouclier. Celui-ci crée un champ de force qui maintient les insectes à distance et protège tout le monde à l’intérieur. Nous avons une réaction du soldat: « pour être honnête, partager du matériel avec le foreur c’est pas pour moi. Du coup j’ai demandé une faveur aux têtes d’œufs de la R&D pour qu’ils me fassent quelque chose de spécial – et ils sont revenus avec un putain de générateur de bouclier ! Maintenant je peux tranquillement tenir ma position tout en tuant des insectes à pléthore ! Bons moments ! ». 
 
 
-MODIFICATION DES CHASSES A L’ŒUF 
+MODIFICATION DES CHASSES AUX ŒUFS 
 ----------------------------
-Extraire des œufs lors des chasses à l’œuf a maintenant une probabilité de faire apparaître des groupes d’insectes en colère. Le nombre d’œufs que vous devez collecter a été un peu augmenté. 
+Extraire des œufs lors des chasses aux l’œuf a maintenant une probabilité de faire apparaître des groupes d’insectes en colère. Le nombre d’œufs que vous devez collecter a été un peu augmenté. 
 
 
-BUFFS DE BIERE
+BONUS DE BIÈRE
 ----------------------------
-LA BIERE SPECIALE DU JOUR : Une bière choisie au hasard sera disponible chaque jour à l'achat (elle est mise à jour lorsque la carte de mission reçoit de nouvelles missions). En outre, les buffs fonctionnent maintenant ! 
+LA BIÈRE SPÉCIALE DU JOUR : Une bière choisie au hasard sera disponible chaque jour à l'achat (elle est mise à jour lorsque la carte de mission reçoit de nouvelles missions). En outre, les bonus fonctionnent maintenant ! 
 
 
 ALIGNEMENT DU SCANNER DE TERRAIN
@@ -9940,7 +10089,7 @@ Avec le Scanner de Terrain actif, appuyez sur [SPACE] / (X) pour faire pivoter v
 
 VAGUES SPÉCIALES
 ----------------------------
-De temps en temps, vous pouvez maintenant rencontrer des vagues composées uniquement de prétoriens, macteras, guerriers Glyphides ou d'essaim. Il vous appartient de déterminer si ces vagues sont plus dures ou plus faciles que les vagues normales.
+De temps en temps, vous pouvez maintenant rencontrer des vagues composées uniquement de prétoriens, macteras, guerriers glyphides ou d'essaims. Il vous appartient de déterminer si ces vagues sont plus dures ou plus faciles que les vagues normales.
 
 
 CHANGEMENT DANS LES ENNEMIS
@@ -9949,7 +10098,7 @@ CHANGEMENT DANS LES ENNEMIS
 - Les prétoriens glyphides sont allés à la gym ! Leur santé a été améliorée de 50% et ils sont moins susceptibles de se faire tirer une balle dans la tête qu’avant : il est maintenant beaucoup plus important d’aller derrière eux et de leur tirer dans leurs grosses fesses.
 - Le son a été ajouté aux pas des glyphides explosifs. Écoutez attentivement et vous pouvez les entendre se faufiler derrière vous !
 - Suppression de l'effet de particules de feu lorsque d'autres ennemis sont touchés par le spray d'acide prétorien. Ce n'était pas censé être là et causait une chute des IPS importante.
-- modification du nombre d'ennemis apparaissant pour les parties à 2 joueurs pour Hazard 2 et 3.
+- modification du nombre d'ennemis apparaissant pour les parties à 2 joueurs pour les dangers 2 et 3.
 
 
 CORRECTIONS ET AMÉLIORATIONS
@@ -9958,19 +10107,19 @@ CORRECTIONS ET AMÉLIORATIONS
 - Les astuces sur l'écran de chargement ont été mises à jour avec 3 nouvelles astuces pour les jalons et les compétences, le scanner de terrain et les mutateurs de mission.
 - Ajout de plus de citations motivantes sur les écrans de la plateforme spatiale.
 - Bosco détermine maintenant l'angle de creusage des tunnels dans la terre par rapport aux visages des joueurs, plutôt que de leurs pieds, jusqu'au point indiqué. Cela devrait donner les résultats escomptés, en particulier lorsque vous vous tenez près de la terre.
-- Multiplicateurs de dommages sur les matériaux physiques modifiés pour être sur le matériau physique
-- Quand un joueur rejoint tardivement votre partie, il y a une période de grâce lors de laquelle leur tir ami est réduit de façon à ce qu’il fasse significativement moins de dégâts à vous et vos co-équipiers. 
-- Correction du menu de l'abyss bar qui ne se fermait pas correctement en appuyant sur ESC. 
-- Changement du symbole Acide en symbole Biohazard / Poison.
+- Multiplicateurs de dommages sur les Matériaux physiques modifiés pour être sur le matériau physique
+- Quand un joueur rejoint tardivement votre partie, il y a une période de grâce lors de laquelle leur tir ami est réduit de façon à ce qu’il fasse significativement moins de dégâts à vous et vos coéquipiers. 
+- Correction du menu de l'abyss bar qui ne se fermait pas correctement en appuyant sur ECHAP 
+- Changement du symbole Acide en symbole Danger biologique / Poison.
 - Meilleure prévention d'abus des torches.
 - Les torches créent maintenant des ombres !
 - Les grenades du lance grenade sont beaucoup plus visibles en l'air.
 - L’interface d’achat des articles affiche désormais toutes les ressources requises.
 - Le temps de refroidissement du Minigun a été modifié.
 - La mouche doit maintenant se tourner correctement lors des tirs.
-- Correction d'un bug qui faisait que Bosco abandonnait sa tâche légère dès qu'il y avait des ennemis à proximité du joueur.
+- Correction d'un bug qui faisait que Bosco abandonnait sa tâche d'illumination dès qu'il y avait des ennemis à proximité du joueur.
 - Les prétoriens mettent un peu plus de temps à brûler.
-- L’écran commémoratif n’empile plus les noms à générer et les diffuse tous en même temps si le framerate est faible.
+- L’écran commémoratif n’empile plus les noms à générer et les diffuse tous en même temps si le taux de rafraichissement est faible.
 "
 	Update_15 = "Salutations mineurs !
 Avant que nous partions pour quelques semaines de vacances, nous vous avons concocté une belle petite mutation du jeu pour vous tous !
@@ -11583,38 +11732,21 @@ MISC.
 "
 	Update_21.5_Xbox = "C'est la fête, mineurs !
 
-Croyez-le ou non, Deep Rock Galactic est maintenant en ligne depuis UNE ANNÉE. Nous avons lancé l'accès anticipé le 28 février 2018, ce qui signifie que c'est le moment de célébrer cet anniversaire avec cette mini-mise à jour ! Développer le jeu et le développer avec de nouvelles fonctionnalités et du nouveau contenu a été (et continue d’être) un plaisir absolu et nous sommes très impressionnés par les excellents commentaires et critiques que nous avons reçus de votre part. Merci à tous de nous avoir aidés à transformer Deep Rock Galactic en un jeu que pensons être INCROYABLE et de faire partie de cette merveilleuse communauté. Trois grands BRAVO à vous, à l’avenir et pour ROCK AND STONE !
+Croyez-le ou non, Deep Rock Galactic est maintenant en ligne depuis UNE ANNÉE. Nous avons lancé l'accès anticipé le 28 février 2018, ce qui signifie que c'est le moment de célébrer cet anniversaire avec cette mini-mise à jour ! Développer le jeu et l'agrandir avec de nouvelles fonctionnalités et du nouveau contenu a été (et continue d’être) un plaisir absolu et nous sommes très impressionnés par les excellents commentaires et critiques que nous avons reçus de votre part. Merci à tous de nous avoir aidés à transformer Deep Rock Galactic en un jeu que pensons être INCROYABLE et de faire partie de cette merveilleuse communauté. Trois grands BRAVO à vous, à l’avenir et pour ROCK AND STONE !
 
 Beaucoup d'amour,
 - L'équipe Ghost Ship
 
 --- NOTES DE MISE A JOUR ---
 
-CÉLÉBRATION DE LA PREMIÈRE ANNÉE
+CÉLÉBRATIONS DE LA PREMIÈRE ANNÉE
 -----------------------------------
-DÉCORATION DE LA PLATEFORME SPATIALE : La plateforme spatiale a été décoré et est prête pour la fête !
+DÉCORATION DE LA PLATEFORME SPATIALE : La plateforme spatiale a été décorée et est prête pour la fête !
 
-CHAPEAU DE CÉLÉBRATION DES UN AN : Prenez votre CHAPEAU limité au magasin de matériel ! C'est très bon marché !*
-*Il est évident que la qualité est du même niveau que celle des autres équipements de DRG.
+CHAPEAU DE CÉLÉBRATION DE LA PREMIÈRE ANNEE : Prenez votre CHAPEAU exclusif au magasin de matériel ! C'est très bon marché !*
+*Il est bien sûr au très haut standard de qualité que vous pouvez attendre de tout équipement DRG.
 
 HAPPY HOUR À L'ABYSS BAR - TOUTE LA JOURNÉE : Toutes les boissons à l'Abyss Bar sont à moitié prix pour la célébration, avec la permission de la direction de DRG. Buvez de façon responsable et rappelez-vous que votre assurance ne couvre pas les blessures lors de l'utilisation de machines minières lourdes en état d'ébriété !
-
-
-MISE À JOUR DU "SUPPORTER UPGRADE"
------------------------------------
-Nous voulions ajouter plus de contenu au "Supporter Upgrade" du jeu pendant une longue période et quelle meilleure occasion de le faire que ce premier anniversaire ! Voici les nouveautés que les propriétaires actuels et nouveaux vont maintenant recevoir :
-
-SKINS D'ARMES "SUPPORTER"
-Skins de supporter dorés pour les armes de tous les personnages !
-
-UN CASQUE "GHOST SHIP" TRÈS SPÉCIAL
-Ce casque de supporter est peut-être un peu trop ancien pour l'espace, mais il vous donne certainement une apparence cool !
-
-SPÉCIAL SUPPORTER : LA "GLYPHID SLAMMER"
-Servir l’un de nos supporters est toujours un plaisir ! En tant que supporter, vous recevrez un traitement spécial lors de la commande de "Glyphid Slammers" à l'Abyss Bar. 
-
-MEILLEURES EXPOSITIONS DES SUPPORTERS DANS LE CHAT
-Les supporters ont désormais leur nom et leur icône de support affichés en bleu lors de l'utilisation de la discussion en mode texte. Les développeurs ont leurs noms en vert si jamais vous êtes assez chanceux pour jouer avec l'un d'entre eux :-) 
 
 
 AFFECTATIONS HEBDOMADAIRES
@@ -11624,29 +11756,29 @@ Les affectations hebdomadaires sont un nouvel ajout au système des affectations
 
 PLUS DE CASQUES
 -----------------------------------
-Un béret accrocheur pour votre soldat ? Check. Un joli bonnet chaud pour couvrir cette tête chauve et glacée ? Double check. Une iroquoise en fonte ou des plaques de fer boulonnées à votre crâne ? Nous avons ça aussi ! Treize nouveaux couvre-chefs ont été ajoutés pour que vous ayez l’air classe dans le noir.
+Un béret aguicheur pour votre soldat ? Check. Un joli bonnet chaud pour couvrir cette tête chauve et glacée ? Double check. Une iroquoise en fonte ou des plaques de fer boulonnées à votre crâne ? Nous avons ça aussi ! Treize nouveaux couvre-chefs ont été ajoutés pour que vous ayez l’air classe dans le noir.
 
 
 CORRECTIONS POUR BET-C 
 -----------------------------------
-- Un anneau lumineux affiche la zone d’effet des grenades de BET-C. 
-- Les dégâts de tir ami de BET-C (une fois convertis) ont été réduits. Maintenant, BET-C se comporte un peu plus qu'avant comme un fidèle compagnon.
+- Un cercle lumineux indique la zone d’effet des grenades de BET-C. 
+- Les dégâts de tir ami de BET-C (une fois sous contrôle) ont été réduits. Maintenant, BET-C se comporte un peu plus comme un fidèle compagnon qu'auparavant.
 - Amélioration du comportement des mouvements alliés de BET-C, dans le but de lui faire arrêter de s'asseoir sur le joueur.
 
 
 AMÉLIORATIONS DE L’UI DE LA LISTE DE SERVEURS
 -----------------------------------
-La liste de serveurs a subi une refonte en profondeur, pour une meilleure vue d’ensemble des différents jeux actifs. Nous avons amélioré les options de filtrage et ajouté des info-bulles pour mieux expliquer les différentes icônes.
+La liste de serveurs a subi une refonte en profondeur, pour une meilleure vue d’ensemble des différentes parties en cours. Nous avons amélioré les options de filtrage et ajouté des info-bulles pour mieux expliquer les différentes icônes.
 
 
 ACTUALISATION DE LA GÉNÉRATION DES CAVES
 -----------------------------------
-D'autres structures ont été ajoutés au générateur de grottes, ce qui se traduira par une plus grande variété de niveaux dans tous les types de mission. De plus, les améliorations apportées aux systèmes sous-jacents signifient que vous devriez également voir plus de variations par rapport aux formes de grottes existantes.
+D'autres structures ont été ajoutées au générateur de grottes, ce qui se traduira par une plus grande variété de niveaux dans tous les types de mission. De plus, les améliorations apportées aux systèmes sous-jacents signifient que vous devriez également voir plus de variations par rapport aux formes de grottes existantes.
 
 
-MISC.
+DIVERS
 -----------------------------------
-- Correction d'un problème d'affichage d'un écran blanc pendant le jeu. , sur les cartes graphiques GTX 970/980
+- Correction d'un problème d'affichage d'un écran blanc pendant le jeu, sur les cartes graphiques GTX 970/980
 - Nouvelle animation pour la vérification du scanner de terrain
 - Correction de diverses erreurs d’orthographe
 
@@ -12427,12 +12559,14 @@ Namespace Techincal (2 keys)
 	ClosedAlpha = "Alpha fermée"
 	PatchNotes = "Notes de mise à jour"
 
-Namespace UI (104 keys)
+Namespace UI (107 keys)
 	Minigun_Name = "Minigun alimenté "Lead Storm""
 	SMG_Name = "SMG voltaïque "Stubby""
 	AutoCannon_Name = "Canon automatique lourd "Thunderhead""
+	RewardText_BlackCrag = "+ PEINTURE D'ARMURE : ROC NOIR
++ COUVRE-CHEF : MASQUE TRAQUEUR MACABRE MK3"
 	RewardText_RegalAegis = "+ PEINTURE D'ARMURE : ÉGIDE ROYALE
-+ COUVRE-CHEF : TRAQUEUR MACABRE MK2"
++ COUVRE-CHEF : MASQUE TRAQUEUR MACABRE MK2"
 	RewardText_ToxicDefender = "+ PEINTURE D'ARMURE : DÉFENSEUR TOXIQUE
 + COUVRE-CHEF : MASQUE TRAQUEUR MACABRE MK1"
 	RewardText_ChasmBorneCliffhanger = "+ ENSEMBLE DE PIOCHE : PIOLET GOUFFRE-NÉ"
@@ -12528,6 +12662,18 @@ Le fait de terminer cette courte formation le certifiera et permet de déverroui
 	Minigun_Desc = "Qu'y a-t-il de plus efficace que des balles ? Une PLUIE de balles, pardi ! Avec une cadence de tir de plus de 3500 coups/minute, le Minigun est le compagnon idéal des affrontements les plus violents."
 	WorkEnvironment = "Environnement de travail"
 	Yes = "Oui"
+	Prestige_Assignment_Description_PickaxeHunt = "Vous avez progressivement gravis les échelons et vous vous êtes révélé un atout important pour l'entreprise ! La direction vous en remercie avec un accès à une AFFECTATION SPÉCIALE DE PRESTIGE, pendant laquelle vous pourrez obtenir un ENSEMBLE COMPLET DE PIOCHE.
+
+Félicitation pour votre avancement !
+
+Cordialement,
+La direction"
+	Prestige_Assignment_description_ArmorHunt = "Vous avez progressivement gravis les échelons et vous vous êtes révélé un atout important pour l'entreprise ! La direction vous en remercie avec un accès à une AFFECTATION SPÉCIALE DE PRESTIGE, pendant laquelle vous pourrez obtenir une PEINTURE D'ARMURE et un CASQUE exclusifs.
+
+Félicitation pour votre avancement !
+
+Cordialement,
+La direction"
 	MustPromoteOne = "Vous devez <highlight>promouvoir</> au moins un personnage pour débloquer ce terminal."
 	Back_Controller = "[MenuBack] Retour"
 	Cancel_Controller = "[MenuBack] Annuler"
