@@ -1,12 +1,13 @@
-3224 entries
-4 namespaces
-2667 values
+3337 entries
+7 namespaces
+2755 values
 
-Namespace Global (3219 keys)
+Namespace Global (3329 keys)
 	2559D78C40005E5221F26093CB976283 = " Colectează {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Am căzut!"
 	31D60A1449082F9AB6DC15844F3810F6 = " NECESAR"
 	2660CB0147BB176C7BED4CA8F8D87563 = ""Un pitic vede mai departe stând pe umerii Giganților!""
+	BED491E44D13CCC24A1BC9973DBCFB71 = ""Date agregate" înseamnă că toți indicatorii și datele care le colectăm vor fi puse \n împreună cu toate datele colectate în legătură cu o anumită chestiune sau subiect.\nAsta înseamnă că aceste date nu vor conține niciun fel de legături cu utilizatorul care \na procurat aceste date.\n\nAceste tipuri de informații agregate ne vor permite să înțelegem mai bine \nmodul în care jucătorii noștri se distrează pe joc și ne va ajuta să îl facem\n și mai distractiv.\n\nToate datele colectate prin această metodă sunt gestionate prin StatHat cu\nanonimitate completă. Aceste date nu vor fi împărtășite cu alte terțe."
 	4F6A260D44BFC3B210BB2B8CEA3B3B19 = ""Ah, mergeți fierbeți-vă capetele, amândoi.""
 	37C1CBDA40400EADD085728131C24FF1 = "Armură "Baracuda""
 	18BBCB794432CDDBF4714B8D4CEC2CBA = ""Bărbighețate.""
@@ -49,6 +50,8 @@ Namespace Global (3219 keys)
 	5C5499904388DF049671A8B290DBE07E = "+1 Slot de Atribut Activ"
 	5E72403D48C5B2178802AC8880B0D8FC = "+Tăietor de Breșe disponibil de cumpărat"
 	3D99F6EB4599937050DF448CD930577E = "+Tun Criogenic disponibil de cumpărat"
+	E16E40D847837BAE009ECE9C55294BE5 = "+Extra Credite
++Minerale de Craftat Aleatorii"
 	66A0823447C3CB00940092A9CB213262 = "+Promovare Mitralior"
 	967E05354936FC6CFE023AA670D5EAAC = "+ M1000 Clasic disponibil de cumpărat"
 	04FD84F74534A09165323193EDE94860 = "+Sarcina Nouă: PENETREAZĂ NUCLEUL"
@@ -73,6 +76,7 @@ Namespace Global (3219 keys)
 	01B9954B48CCE4505997BF8AADA5A6EA = "...Nu...încă!"
 	1B27B0104939B431683D9883594A6F80 = "...Stai, ce s-a întâmplat?!"
 	3223EB854825FB2A2EAD44B6F52999CD = "...De ce mă amuză asta așa mult?"
+	3D8E690646CE44DEDBEDFBB17A53C979 = "...Ști...Wormhole Specials ar putea fi foarte utile dacă R&D ar pune niște efort în ele...!"
 	D256FD384EC6F9FB13D3DEA031C3FBC9 = "// SCANER TEREN MK3 \\"
 	4C59518C42149AA59A4AAFACADBD2E59 = "1 zipline în plus"
 	11168284465F5822F5AFBB936F248453 = "1. Dacă aceasta este prima dată când vezi acest mesaj, așteaptă câteva secunde.
@@ -100,6 +104,7 @@ Namespace Global (3219 keys)
 	2BC81FDF4DE11C99561AE89434662D41 = "<LaserPointer/>+<Fire/> Îl trimite pe Bosco să <bold>mineze minerale</>,<bold>să atace un inamic</> sau să <bold>lumineze</> o zonă din peșteră.
 
 <LaserPointer/>+<Mine/><bold>Lansează o rachetă</> în inamicul sau zona marcată (Modificarea Rachetă trebuie să fie instalată)"
+	3E2B45CC4055FAFFE3F0599FA3B1C566 = "<UseLaserPointer/> si apasa <mine/> pentru a trage cu <bold>rachetele lui Bosco</>."
 	476492CA47300BB137D80795A66108BC = "<active>ACTIVĂ:</><h>de 3 ori</> în fiecare misiune, poți activa o explozie neurologică<h>după ce ai fost incapacitat</>. Un câmp neuroelectric va electrocuta și speria inamicii.
 
 
@@ -128,7 +133,9 @@ Forjând îți crește nivelul de maestrie. Cu fiecare nivel nou vei primi un <h
 	15EBC151471522B1273F7D86593BC3EE = "Favorita piticilor și a oamenilor de munte."
 	484F524E4C6408891157C6B083C61FB6 = "Niște modificări pe ici pe colo și autotunul poate folosi gloanțe explozive! Daunele directe sunt mai scăzute, dar daunele colaterale și distanța îți permit să acoperi o zona cum nici o altă armă nu poate."
 	1B7AAF54465AEC4521AE51BC2F963917 = "O nuanță sănătoasă, roșiatică."
+	151D185C4FC9607CD34E6F91C936F809 = "O piesă de echipament avansată, echipată cu mai multă tehnologie decât un magazin de electronice. MK1 vine fără protecție pentru partea de jos a fetei, ideal pentru a-ți arăta barba."
 	465D196E4E1C00E322F2F88C7C7D1EEB = "O grenadă de fragmentare care explodează cu șrapnel într-o rază mare."
+	28E358FD411932866FF071886AD6444D = "O țeavă ușoară cu presiune înalta și sistemul pump-action de mare putere îmbunătățesc rata de flow și viteza de represurizare, dar reduc durata maximă a flowului continuu."
 	2751FAEA43B6457AF22147B478062FA6 = "O opera de artă a ingineriei care îmbunătățește viteza de încărcare și eficiența energiei fără a afecta randamentul!"
 	6018A1544DD88EBECCCB3F9F2E34AB29 = "O față impunătoare."
 	5069DB2C409EB2FDC399549E3191D8AE = "Un mîner nou se alătură echipei!"
@@ -153,6 +160,7 @@ Forjând îți crește nivelul de maestrie. Cu fiecare nivel nou vei primi un <h
 	25AD20854F09E105662D60859FB525F8 = "Un aspect sinistru și inspirant pentru piticul fițos."
 	4C566B5445CE29766B70E0BA1DEF169F = "ACTIVEAZĂ APĂRAREA"
 	1557E1D24CCF618B8B65659C0DA61CA2 = "ȚINTEȘTE ÎNAINTE SĂ TRAGI!"
+	0084F7B8485035A225B4F98C4221CDC4 = "TOATE PĂLĂRIILE DE EVENIMENT!"
 	7E2D33234A8BF8716D6FBFBFEA047EC7 = "TUTUROR MINERILOR DEDICAȚI DE PE DISCORD"
 	64AC22D041495013B57A1C9D5EDAC0AC = "PUNCTE DE ATRIBUT DISPONIBILE"
 	09C0CB8542CF0A0D60AAC48F877A44C0 = "PUNCTE DE ATRIBUT DISPONIBILE:"
@@ -162,6 +170,7 @@ Forjând îți crește nivelul de maestrie. Cu fiecare nivel nou vei primi un <h
 	469A03DB4C33326F45B69F8D94783A6A = "Acceptă Sarcina"
 	56FA9DFE4D983C17EC66EB857A27401F = "Aveți acces!"
 	0574A32B447B8758F98C799124DB72CE = "Acuratețe"
+	2FB3BE3E4710AB74A3224D840C537D4D = "Acuratețe"
 	1E9563BB4EAB5C9AC151C69F214CAAC1 = "Cumpără și echipează <bold>Modificări</> pentru <bold>armele</> și <bold>uneltele</> tale, alege <bold>grenade</>, echipează <bold>Atribute</> și multe altele. Aici este locul unde îți echipezi piticul să fie gata de acțiune. Nu uita să folosești funcția de <bold>seturi</> pentru a schimba rapid între echipamente."
 	110187364451A692C0CAB39BE0C191CD = "Sa trecem la actiune!"
 	0276A46F4D5DDA64411F348C644A1437 = "Activează Terminal"
@@ -207,10 +216,12 @@ Forjând îți crește nivelul de maestrie. Cu fiecare nivel nou vei primi un <h
 	0AAFEAD844F1BCDD332794B5457D6883 = "Ok, băgați până la fund și urcați la bord! Expediția Adâncă începe!"
 	050447854ADDF505C53502914041EBB5 = "Mereu o mișcare îndrăzneață."
 	1CB313AD4E447638C4FAFABA352B5A0F = "Muniție luată!"
+	1918B8AA47D09161A0EB5896D1C6ECC8 = "Printre cele mai spectaculoase priveliști pe Hoxxes, Cavernele de Cristal își merită numele. Cristale masive erup din fiecare suprafață, sclipind și strălucind în întuneric. Alas, cristalele mai mari sunt silicat fără valoare, dar multe depozite de minereuri prețioase împânzesc cavernele de asemenea."
 	370ECA6A4338B888CA263EB8341EA160 = "O secure pentru tine!"
 	7788FB28487AD6E60942BA8B6CF01865 = "Un loc de atribut în plus este disponibil pentru {class}"
 	1181DB1E41B8A40484A7D18F285950DC = "O barbă impresionantă pentru un pitic impresionant."
 	3F254FC84E644A3046714DA785754E52 = "O barbă impresionantă pentru un pitic impresionant."
+	14A4DDF2406BA8A1DD77ED9F75B85F26 = "Un profil al carcasei îmbunătățit permite două gloanțe în plus în cilindru și poți căra câteva gloanțe în plus cu tine, dar toate acele modificări au compromis acuratețea armei și durează mai mult să reîncarci."
 	46F8058E4ACB60C590309687C83A8ECD = "Strămoșilor, aia a fost o treabă dezamăgitoare...!"
 	29BCBC8D4F9729A68C0938BBBC39D431 = "Și Steeve s-a dus în raiul gândacilor!"
 	20AAF4014565DAB702E236A3D5489BAE = "Și a făcut boom!"
@@ -245,6 +256,7 @@ Forjând îți crește nivelul de maestrie. Cu fiecare nivel nou vei primi un <h
 	1892C3A7471A25AA222AFCA0BC694AF0 = "Arkenstout pentru mine și tovarășii mei!"
 	04A8FE29421A0B0B2A935BBC4E6E09C7 = "Armat!"
 	5EA04C2442C0D7F21C5ECA96A9C54E66 = "Armat!"
+	01F85E31457DDDA9AA24B282F10A9043 = "Armură"
 	18F8D2F14BB56B88465EEBB1385D7299 = "Armură"
 	1B3D93004FF08662695639A803CE7312 = "Armură"
 	67364CBE4C00150D03A20EBEEACD1A0F = "Spargere Armură"
@@ -282,6 +294,10 @@ IA LA CUNOȘTINȚĂ! Dacă sari peste Perioada de Probă nu o vei putea experime
 	5C5674C0403DF35ABAE6339A309F7B15 = "Atenție!"
 	208F769C440EF6834ECCCCAB49420E5D = "Atenție! Un Discurs al Centrului de Comandă lipsește aici!"
 	875D9643410E1E390DEA568FE89254D3 = "Atenție, a venit roiul de Mactera!"
+	26F5A4134348048A7FA117AB241D456C = "Atenție, mineri!
+Pe 13 Mai, Deep Rock Galactic părăsește în sfârșit stagiul de Early Access! A fost o călătorie incredibilă și nu am fi putut reuși fără voi, draga noastră comunitate. Ne-ați susținut tot acest drum cu teste, traduceri, feedback, idei, critici, memes, stream-uri, artă și trailere. Voi ați făcut posibilă vânzarea a peste un milion de copii ale jocului!
+
+Acum avem nevoie de voi mai mult că niciodată! Trebuie să dăm sfoară-n țară despre lansarea Deep Rock Galactic. Ce poți face să ajuți? Aici sunt niște idei:"
 	39B26B4F4EDE4FB0D90C42AC3279C05D = "Miner Autorizat"
 	524245084B7C09D52D8F16BECF647964 = "Miner Autorizat"
 	5312AAE843C0B2AB3294C087F8336207 = "Miner Autorizat"
@@ -308,6 +324,8 @@ IA LA CUNOȘTINȚĂ! Dacă sari peste Perioada de Probă nu o vei putea experime
 	33D880114EBA73EDB8E86BA1D227E434 = "Vești proaste, Echipă. O haită de Pretorieni se îndreaptă înspre voi. Fiți pregătiți."
 	2AABA5DD4FF5A2D1FC5DCF9DB0C5E6C3 = "Overclock Balansat"
 	20DD7FE8472B9E9299D36D928991E6B3 = "Face toți banii dacă mă întrebi pe mine!"
+	2D491DDD42FD4EE753B06B8BAD4BAB99 = "Glob de Orz"
+	39D1A1C8451CD6711C0E5D9CA685F46A = "Orz aici!"
 	35D12AFE4D32B99065BFB7984B7EA62F = "Distribuitor de butoaie"
 	3FC840C6487C4010213BE8874FB51F39 = "Cade Butoiul"
 	3BCF4C82412D8245811BB1A732DF0BB7 = "Butoaiele trebuie să fie lăsate in pace, nu să fie azvârlite, lovite, aruncate, sau mișcate în orice alt fel.  "
@@ -354,6 +372,7 @@ Stai mult în spate înainte să apeși butonul."
 	0DEB5DEB4A013B7BCA4DC29D443598F3 = "Bombă la Impact"
 	36467CDC4EAA77B59E01BB864C9548A3 = "Daune bonus împotriva Glyphizilor"
 	3BEDFA604A0B9EAC6119C1B020A02ECB = "Daune bonus împotriva extratereștrilor Mactera"
+	204BF7F84097D81E4D9C339777AC6FAA = "Daune în plus creaturilor amețite"
 	08ABC5934937DB5304D75AA94448252C = "Huoo, trișor!"
 	023F6F644D05A18A96FC9085B6E72E4F = "Ciupercă Boolo"
 	494600D8437A8ED04A7BAA97A27BDAD1 = "Ciupercă Boolo aici!"
@@ -391,6 +410,7 @@ Stai mult în spate înainte să apeși butonul."
 	27BD422A49595478AFF7159E2B628D9E = "Construiește"
 	0E2F48804ABB9F559C265BB94FBFDB7E = "Construiește Extractor"
 	05A790C44DF82D2A88B302BD75DFC82B = "Amortizoare integrate fac căderea mai puțin dureroasă."
+	0451890B43BEFF835053B5881977CEDD = "Detonator Masiv"
 	1BE8363B4A1DCF4F62E7D9885E74F540 = "Detonator Masiv la pământ!"
 	47F4369A4F93EFE087D78497F67C26DB = "Detonator Masiv eliminat! "
 	2ECAE05A430C48D3069EC39FC7EE8365 = "Detonator Masiv, băieți! Păstrați-vă distanța, e letal!"
@@ -420,8 +440,10 @@ Stai mult în spate înainte să apeși butonul."
 	023624E04256580815F77EB719B0A4B2 = "ÎNCHIDE"
 	0402F22242E9DA3BDCA0B6AA1D6B8704 = "ÎNCHIDE"
 	1FAAEA32472BA7A5077EF085675D2918 = "GRENADĂ CLUSTER!"
+	207A0FEB42D5556FA7C4068A46B03CFF = "RECE"
 	2F398B704E1BEF3212BD1EA75AFB8FE9 = "RECE"
 	6876438947E58658D795F18F29108369 = "RECE"
+	2861E3D14FF6F449A499798BCB96354E = "COLECTEAZĂ RECOMPENSĂ"
 	3F0C9EF54B76216708530B9257D6584F = "MATERIALE COLECTATE:"
 	1369F3BA450BAE70F40123AAE96240EC = "TESTERI AI COMUNITĂȚII"
 	7E414F4C4FF198C3F86B93AF103217E7 = "COMPLETĂ"
@@ -432,8 +454,10 @@ Stai mult în spate înainte să apeși butonul."
 	3AC07A124BB671598064218A10F5ACE5 = "CONTENT CREATORS CARE AU PROMOVAT DRG DE LA ÎNCEPUT"
 	05C687684F61839B278B38A8EEC14F11 = "NUMĂRĂTOARE:"
 	AAB81788461D4707D2132DB5D085A993 = "CREDITE CÂȘTIGATE"
+	F1632FDA4C5A034E31010BB013C0DFC4 = "CREDITE:"
 	4DA615ED48FF4986039949B0A8527F2B = "Aruncător de Flăcări CRSPR"
 	58B3F8C244663F8D38D4849256236CA5 = "STRAT: "
+	183148E4485A6844F0E8308BD2AC1B3A = "ÎN ASOCIAȚIE CU:"
 	0F5212A247BC4A1455A9B982718A7D16 = "Cabina #2"
 	0AF8F22346817DE4DBAD2BAA91B43965 = "Cabina #4"
 	498464FE47554D17C5370887C677C032 = "Calculează traiectoria orbitală."
@@ -442,6 +466,7 @@ Stai mult în spate înainte să apeși butonul."
 	4C16DD644898681322500F89F704C418 = "Cheamă M.U.L.E."
 	0D9F089647E752BECFDF81B830AE4AB7 = "Poate fi ridicat"
 	26F7EBCE4A1E5809DF70FA8C5BFFFB58 = "Poți căra mai multă muniție"
+	1725748C4B0C9CD67FF3B3A231FA138B = "Poți folosi două santinele deodată."
 	3D99EDF04AB17237E9DD0C8B4D64A583 = "Te poți mișca mai repede în timp ce minezi cu bormașina"
 	1240821043CB03B543418580DBD968A0 = "Poți folosi bormașinile mai devreme după ce s-au supraîncălzit"
 	234C91DC4ECA1331302DD8B1616804EC = "Nu-mi vine să cred ce novice am fost când am început aici..."
@@ -552,11 +577,11 @@ Stai mult în spate înainte să apeși butonul."
 	630A2CC9415CD85951BEA7917A271F53 = "Pământ Compact"
 	1B90A5C1470717449A119FB58DD748CA = "Beneficii ale Companiei: Rețea de Comerț pentru Minerale"
 	470185BC4267CFC3E2493C98CDB1F409 = "Busolă și Adâncime"
+	29786205402B635311BBE6A2510AADE8 = "Completează Nivele Maestrie de Craftat {value}"
 	170E396F49EB54700C419EB44A420604 = "Completeaza REALIZARI pentru a obtine Puncte de Atribut. Foloseste-le pentru a debloca ATRIBUTE. ATRIBUTELE pot fi echipate la TERMINALUL PENTRU ECHIPAMENT si schimbate oricand intre misiuni."
 	1F9EFFC54DA5C2B3F1202A8EA770E94E = "Completează mai multe misiuni de Campanie ca să deblochezi această zonă planetară."
 	30E886374D703DA855B11AAB54C3B7D8 = "Completeaza Tutorialul"
 	3B4BF05840CC550F7797DEA5A56CEA84 = "Completează Vânătoarea de Nucleu Săptămânală și obține încă un NUCLEU DE MATRIX INFUZAT!"
-	615B4ABB499CB21DC550E38EADA238DA = "Completează această sarcină pentru a deveni eligibil de o promovare. Vei primi promovarea de la Terminalul de Selectare a Caracterului. Promoția este singura modalitate de a primi INSIGNE DE ONOARE și a crește Rangul Jucătorului odată ce caracterul e la nivel maxim!"
 	038BE4D54F6B0B0C653786B20B625629 = "Completează această sarcina pentru a obține acces la Terminalul de Schimb al Mineralelor. Convenient plasat în Zona de Lansare, acest terminal îți permite să vinzi și să cumperi minerale."
 	145D7E764B7069A1C723A6A3103EAC42 = "Completează {value} Anomalii "Oxigen Scăzut""
 	3404C6C447EECBA96FBCE295100EFE29 = "Completează {value} Anomalii "Gândaci Regeneratori""
@@ -648,6 +673,7 @@ Managementul"
 	629A610740E0FDE531BB55AC97615931 = "Bombă Criogenică"
 	336AB793485D6F5FE06B80A9D9F02491 = "Spumătoare Criogenică"
 	282716E547F4662711E0AD80A327107D = "Grenadă Criogenică!"
+	3E65DBB64D8E8EC8AEA63ABA752165F5 = "Formațiuni de cristal"
 	5AF3719C405012A30245C2AF9EEDB9A0 = "Iubitor de Cristal"
 	03AB4CE04BB287784E9F78A1343E9F1A = "Cristaline"
 	693BF19C4B62AF447AF28694BE933786 = "Cavernele Cristaline"
@@ -657,6 +683,7 @@ Managementul"
 	4C80F7B34AFFBCF361FC1EAD7BB0B7DD = "Încărcător customizat care poate avea mai multă muniție, dar durează mai mult să fie reîncărcat."
 	38EA878D4B64F5729A208A889565861D = "Izolează-i și distruge-i. Așa se face."
 	44F703614B709E4962140EB6112994CB = "DDRRDDRRRDDDRRR (face ca și bormașina când mineaza)"
+	3447AEAA44CACE34202397A5596FE2D5 = "DRAGĂ SUPORTER DE EARLY ACCESS"
 	0FF517E44ADFDF7A07219AB944135B9A = "EXPEDIȚIE ADÂNCĂ"
 	2A3CCB494414004F319C08BB2ED555F2 = "EXPEDIȚIE ADÂNCĂ"
 	5EB0BC0B4AB9D94EBE8A059577D08CCB = "EXPEDIȚIILE ADÂNCI SUNT DISPONIBILE NUMAI ECHIPELOR CU MINERI PROMOVAȚI!"
@@ -685,6 +712,7 @@ Managementul"
 	1C83E43C44562D584DD7F0842EBD83B8 = "Daune împotriva Electrocutați"
 	4EC29C8D450629F606642DB20C059C33 = "Daune împotriva Electrocutați"
 	692C536E46A3158DD10DA385DC1A2943 = "Daune Vs Glyphid"
+	856164F147B4CF0422EFBCA90AB51F9B = "La naiba, am nevoie de credite!"
 	2F2298BA463BE32E5A077790A2DEA296 = "Sunt prea bun la asta!!! "
 	994D340245B7D9084849AA8578AD5C83 = "La naiba mâzgă lipicioasă!"
 	35A6A9C94406CDD8893D7988C77718C5 = "La naiba cu voi, Deep Rock Galactic!"
@@ -702,6 +730,7 @@ Managementul"
 	269650F344375F1C86527287DD187D80 = "Ghidon Dandy"
 	1DC72A72440F98A585370693E37EAB94 = "Pericol și întuneric! Pornim la drum!"
 	60521FC94727509430ED5ABEBCE27A0F = "Vegetație Periculoasă"
+	1B3265E9421D91BCF60CFF85167A41FD = "Sămânță lipicioasă acolo sus!"
 	0C373F314C1B99471C0B9D9E1D6EDED0 = "Dark Morkite pentru toată lumea!"
 	5267A7DE4BD5A48C1486D5AFE3A2F1D8 = "Cauzează daune bonus inamicilor amețiți, înghețați, electrocutați, otrăviți sau care ard"
 	5752FB294C08293A5867409459F50E7D = "Cauzează mai multe daune"
@@ -759,6 +788,9 @@ Managementul"
 	59DBF7C0412439480EF5CC862CC4907D = "Dezarmează"
 	141AB42943283CF82A16038BBF333C8E = "Dezarmează Mină"
 	04CF5DBF4DEA18514583758F68F913D2 = "Dezarmează și recuperează un explozibil nefolosit"
+	1420C04C4829EFB1D1E987A2D7CFFA72 = "Discord este o aplicație terțiară gratuită concepută pentru comunități de jocuri video.
+
+De asemenea este unul din locurile unde alegem să luăm legătură cu jucătorii grozavi din comunitate!"
 	46A79CFE4E475C7D27085CB722E85C55 = "Dezasamblează"
 	665C68DF48B231010EDB4B8B731C6BDE = "Distanță"
 	16D1CFBC4B03B4DAA1B0A69179792B85 = "Distanță Parcursă"
@@ -823,6 +855,8 @@ Managementul"
 	3F4DEFCC4BA5454B1B801FA7A275FA4E = "IEȘIRE LA ECRAN"
 	5FB1DE214CAC78EB32A958ABB9B0D20E = "EXTRACȚIE"
 	2BE901344380E4FD13C0E1817EAF5E20 = "Fiecare lovitură cauzează daune între valorile minime și maxime posibile."
+	2F8BB18744DB3F9AFB75FFA5D16EADE7 = "Floare la ureche!"
+	1A65FD6A4BB7788AF2E4778841F6983D = "Floare la ureche!"
 	06A3915F42002FD4D8BC1CB29B175277 = "Lejer ca pana!"
 	2D0D0F2C49874BC4C64011B6A247DFFF = "Ia de aici!"
 	3C03FEDC441AFF683A5F8C8FD52AE9A4 = "Ia de aici!"
@@ -857,6 +891,7 @@ Managementul"
 	21B159814148754819F408BDCC8170C4 = "Detonatoare Încorporate"
 	3C204BDB46D8E1A878C57E96A693D862 = "Detalii Angajat"
 	27755F2E4BEBF37DE356FF9B6B98397F = "Detalii Angajat"
+	2353D3534559AD7E057E289DD39163D9 = "Angajatul Lunii"
 	B11933C648D04F64A2C82E92DA6365C2 = "Nucleu de Matrix Goale"
 	21382B5D406F80429950BAA086D2E094 = "Nuclee de Matrix Goale"
 	015DC28A4D59F592C24C9BA2B4DB5CCD = "Pornește interacțiunea cu Mixer"
@@ -885,6 +920,8 @@ Managementul"
 	5A1EAE5A4AD687C2C84AFFA2A4B75BA7 = "O treabă exemplară. V-ați realizat Obiectivele în timp record. Lansați Capul Forator și vă vom trimite Conserva de Evacuare."
 	4611000647A490C6103965861717596F = "Capacitatea Muniției Crescută"
 	2CB080484B4C916DA8265DA3B1ECC54C = "Încărcător Mărit"
+	324FAE63443372ECF277C1B27AECDC00 = "Explozie de Plasmă Extinsă"
+	34DE0C7143B48680943A5E85FFBA3EAB = "Explozie de Plasmă Extinsă"
 	15F3D9A3470B0C1CC3F480A1CF92EFBF = "Mărește capacitatea combustibilului"
 	3A7342044367A854CE24DB91747B5CBC = "Miner Expert"
 	49F9980B4A0F4348E53800B723DE72E8 = "Miner Expert"
@@ -898,6 +935,7 @@ Managementul"
 	E1F0D6364F4AF5221E6B7F8A1BF4A561 = "Mustață Rafinată"
 	02E1C9F448CB2843D08C15B1169A738D = "Durata de viață a proiectilului extinsă"
 	1336D4F146BC3E5720227481028FFD9C = "Modificări prelungite schimbă modul de foc în runde de câte 5 pentru fiecare pistol. Sunt în total 10 gloanțe într-o fracțiune de secundă. Ka-Blam!"
+	1AE33F3E4EEA8CC557AAAD958F3EA0D8 = "Extermină {count}{target}"
 	63CFD42A449C5B01D2D77AB41387D402 = "Exterminare"
 	0AEE815B476DE7B5812AC6B57A661CF0 = "Extra Muniție"
 	2B9F743248037D4192960185E93F571F = "Extra Torță"
@@ -922,6 +960,7 @@ Managementul"
 	99BF416B466442F865831487B5B4979D = "PENTRU STÂNCĂ ȘI PIATRĂ"
 	2B40C4384C33B7335EE29C89112E5FA9 = "FORJA PREGĂTITĂ"
 	103B3E104BCC79B545151B89ECC52D88 = "FOSILĂ!"
+	3D477038463CC1BF01D953A3AA322761 = "BERE GRATIS PENTRU TOȚI!"
 	5AAEBB14446FCA58941CDEA9CBDE1D80 = "CASCĂ DE WEEKEND GRATIS"
 	26678DE346FE1D3497C8B4A83FD5C231 = "Fabulos de strălucitor."
 	6406D2C14D907D54330DA3B46D466F0E = "Reduce Daunele la Cădere"
@@ -930,6 +969,7 @@ Managementul"
 	537BA4864143A424F46B72BB1E1E3FD4 = "Viteză mărită după ce eliberezi"
 	4E587A484F194791A10713AB5D01E2EC = "Reîncărcare mai Rapidă"
 	590573574D967BE05F9D3AB23013E631 = "Teme-te de Rachetă"
+	17900F4045C274FA81CB8CAE32F939E4 = "Taxă:"
 	2925DD334071A3B850213DBF5F7CCE20 = "Mă simt mult mai bine acum!"
 	00D90D1F43A46576CCF88BB61EA2BA8F = "Ți-e puțin rece? Sau ai văzut o fantomă?"
 	0813F3424FCE268C029C248513C5155B = "Mă simt aventuros azi! Dă-mi un Wormhole Special!"
@@ -945,6 +985,7 @@ Managementul"
 	192B13FC45C53B29F26A4088125FBD1C = "Găsește și minează <bold>Aur</>"
 	1B2A8B0144F947FF047DC294B1398FD5 = "Gaseste Mini M.U.L.E.s"
 	00378AAA42B4ACD35E12E6AA8A0CD7AE = "Găsește coconurile"
+	3496E4DF482E0E2EEF87C28F0159F4AF = "Găsește locul"
 	01FC054F43566406C476C5BEA346A9D6 = "Terminați de băut, mineri! Expediția Adâncă va începe!"
 	66A7BD9F4745F011CC23D4982F605BC2 = "Trage"
 	16B75D65445DA07DFAAD58B15A5947C3 = "Capul jos!"
@@ -973,6 +1014,7 @@ Managementul"
 	40F6C512426A8B130293E691960FF42E = "Dați pe ăsta!"
 	4B052848402DA216E4EF87AFB1F30BC6 = "Urmăriți-o pe Molly!"
 	2CCA85A6469C23FC700D6C968A8CCBB8 = "Vino după mine, Bosco!"
+	3A5D54604334460219AB7F8CA61F1166 = "După mine, Steeve!!"
 	2FF4FE134555E1680EEF428080C2B9F8 = "Urmărește-mă!"
 	1F8D8C53402BA36AC5F157BAFDD14452 = "Pentru Karl!"
 	A641ECA14EF617F5787B2BB85EEDA8B4 = "Pentru Karl!"
@@ -1008,6 +1050,7 @@ Managementul"
 	1B2C47F84423CF9AEA4AE3BB750C37AF = "Gratis"
 	15961D3B40DCAB1CBA4E05979A8C4563 = "Aliat! ALIAT!"
 	1B055EBF42B76933892D0C8866A61BA1 = "Lama Frontală"
+	0E4156A24594A47C78475BA5A9FF1892 = "Pretorian de Gheață"
 	04A39B58425C721A5799F58E46C981AE = "La dracu!"
 	141804E64B37EEE1D95F2B9B24A5DEF6 = "Far pentru Celula de Alimentare"
 	2F3BE3144492FA9E3A22E984BC8C206F = "Celule cu Combustibil"
@@ -1148,6 +1191,7 @@ Managementul"
 	1CF279344F67E8BC574EF5981DA77522 = "Glyphid Scuipător de Pânză"
 	1DA4FDAD4611420BA2262F971D30B641 = "Mergi culege!"
 	64026FE94CCE541FD2E6F7A7EB0B28F1 = "Rostogolește-te pe autostradă, ciudățenie!"
+	3A9F780C497663A4175830BE7F0EE18A = "Mergi la <bold>Terminalul de Misiuni</> pentru a selecta o misiune"
 	077A0C7446B61A832DB19C87FC5C4CE0 = "Du-te, micuțule, du-te!"
 	3AE56BE04D6473324F730E8181A2EDE4 = "Pizda măsii! Am o piatră în cizma!"
 	565D1F3A4BC1A02D6BB0E9AFAFE7900E = "Pizda măsii! Am o piatră în cizma!"
@@ -1188,6 +1232,7 @@ Managementul"
 	1D0D31B944B735BA2EC78B803A3D91E4 = "Trebuie să aștept să se reîncarce!"
 	725883B04F3166D08F3CAE9DE6C61076 = "Apucător! Avem un Apucător aici!"
 	36D400584B1799CCE4D39D85347F4246 = "Cârlig de Agățat"
+	3AA24A2B4F4BE70B6685D58C4089CA62 = "Mizerabili fără boașe! Dați-mi băutura!"
 	42C7B5AF47C409AA81BFDDAA09B47680 = "Gravitația trebuie reparată! "
 	14081A724B141E0347424FBA0C723F7F = "Se pornește recalibrarea gravitației!"
 	245DDD604ED102970E4662A32B388196 = "Începe recalibrarea gravitației! Așteptați-vă la turbulențe!"
@@ -1195,6 +1240,7 @@ Managementul"
 	09BAAB8F454815E90A29AEB512A9D9B1 = "Grozav să te avem la bord!"
 	0AAB50C342FDCB4D2AB423A47F13DB77 = "Rază de explozie crescută pentru proiectilul încărcat."
 	684874F94679DAC9647B5C89364483EA = "Rază daunelor colaterale mărită"
+	3922CD5E441DFE491F04649A64E6F033 = "Durata razei crescută semnificativ"
 	00837CBD44B92A743B1A0AA60B8005AE = "Capacitatea cartușului mărită considerabil"
 	A833C9D54BCECB14D6AA4BBA3073A42D = "Cristal Verde"
 	15D31FEA4DA1482653F444A1C4A81337 = "Tubel Verde"
@@ -1252,10 +1298,30 @@ Managementul"
 	4084C3B442CD01D7B769EEBD65FDFC48 = "Încălzește-ne niște halbe pentru o rundă de Burning Love, te rog!"
 	0A819D464766D21E79EE4C8CA013BEB1 = "Cască de Minat Grea"
 	5F5AE3C648C4E9B2CC638FA85E7C5B1E = "Lovitor Puternic"
+	31F51D4341DCFFA3536A70ACC77ED3C2 = "Modificări intensive au făcut posibilă folosirea gloanțelor de autotun în revolver! Daunele sunt fenomenale, dar reculul este pe măsură și nu poți căra la fel de multe gloanțe. De asemenea, doar 3 gloanțe încap în cilindru, iar reîncărcarea este puțin mai înceată, dar acuratețea de baza e îmbunătățită."
 	670D5DA04E008D332F4A3881734505D4 = "Ajutoooor"
 	3A45EC6F4E89E2408CC980930EA72481 = "Heh, am făcut alegerea bună... deja devine obișnuință."
 	1485CCCF4E7AF945219C9389681E0AB3 = "Super tare!"
 	1CEC327D4FCC37923F77EF845CD94E1D = "Bună"
+	A1581FA74C2AF05F1A9EA8B8F3945D2B = "Salutări Mineri!
+
+Pe 13 Mai, Deep Rock Galactic părăsește în sfârșit stagiul de Early Access! A fost o călătorie incredibilă și nu am fi putut reuși fără voi, draga noastră comunitate. Ne-ați susținut tot acest drum cu teste, traduceri, feedback, idei, critici, memes, stream-uri, artă și trailere. Voi ați făcut posibilă vânzarea a peste un milion de copii ale jocului și v-ați asigurat că Deep Rock Galactic este deja mai mult decât ne-am fi imaginat vreodată!
+
+Acum avem nevoie de voi mai mult că niciodată! În aceste 14 zile până la lansare, trebuie să dăm sfoară-n țară despre lansarea Deep Rock Galactic. Trebuie să recrutăm pitici mineri și să îi antrenăm cum trebuie.
+Cum poți ajuta? Iată niște idei:
+
+Spune prietenilor că a venit în sfârșit timpul să ni se alăture
+Scrie un comentariu, un post sau dă un share despre Deep Rock Galactic
+Dă share și like la unul din fantasticele trailere făcute de fani pe măsură ce le postăm
+Dă share și like la anunțurile noastre
+Crează-ți propriul post despre Deep Rock în propria ta comunitate de gaming
+Fă stream jocului pe Twitch, Youtube, Mixer
+Joacă varianta experimentală a versiuni 1.0 și oferă-ne feedback
+
+A venit în sfârșit timpul să spunem PIATRĂ ȘI STÂNCĂ lumii!
+
+
+"
 	32F5AC9046030E719F222396530609D0 = "Salut!"
 	02F88C2D41AC58CB8E4F73941BA9DA59 = "Ajutați-mă, futuților!"
 	5348E01E455759BA56C94A81BF6EAD17 = "Iată-mă că vin!"
@@ -1263,6 +1329,7 @@ Managementul"
 	3C3DFD4645EED523B98CDC9B5EFD2570 = "Ăla-i!"
 	0950F10E4B9516FF9FF0949EBDB442A7 = "Ia de aici! Un glonț în față!"
 	184B21EC4D55A5473A51369141BA47E5 = "Ceva cu care să vă jucați!"
+	322E180D4AF1112B8BB851B47756AC2B = "Aici, niște Holomite, hai să-l luăm!"
 	60131980446553B934BBCD92E7FB3B3B = "Hey! Cred că te-am mai văzut înainte! Oare la bar aseară?"
 	17A66EEC472017653848E88FEE1927F9 = "Hey, Ascultă!"
 	1561F49B4226E8FC30FC119A1BE37DD3 = "Hei, e una din fosilele alea de zici că-i melc!"
@@ -1275,6 +1342,9 @@ Managementul"
 	1E3ACC0049C2E6F222DECBB2B0CF5FD2 = "Ejector de Înalta Presiune"
 	0536D6314ADE7311F54B159431B8F547 = "Sistem de Ejecție Rapid"
 	4AB5EC6542553D2C2391FDB784A799C6 = "Energie cu Viteză Mare"
+	3A6771D149159FFC5494088FC7DCCACC = "Bate palma!"
+	094413E843D28372F15185A9767DF0B4 = "Energie de Plasmă Încărcată mai Puternic"
+	195394254AD761C1F3C4A4AD58EEFFE4 = "Energie de Plasmă Încărcată mai Puternic"
 	5C451F5B406DA437028EDEB2E507CEC9 = "Energie de Plasmă Încărcată mai Puternic"
 	6ABFD5E74629370C21735493E7D047F7 = "Rata de foc crescută"
 	2E276464485F0D3A58F21DBC6C4CF88E = "Lovituri"
@@ -1326,6 +1396,7 @@ Managementul"
 	04A8E5674A83FB71301BECBFD63D8423 = "Huh, aș putea face asta și în somn...!"
 	3305C68D4E9BAA729DD29A8258303F74 = "Grăbește-te! Încep să mă plictisesc!"
 	34F864224E98E6022A7CA29F883C8065 = "Grăbește-te! Nu întineresc!"
+	103241834C06711DBB251E9750CBECE1 = "Colecționar Huuli"
 	61231DE84EBA38170B1A41A01156A2D6 = "Colecționar Huuli"
 	44ABBCFE4B1F39517FF2D9BD2B5B5AC1 = "Hyper Propulsor"
 	1AC8B1CC4040170485602A92C1E5FB62 = "Eu pun întrebările pe aici!"
@@ -1348,6 +1419,7 @@ Managementul"
 	5AD0BC664981269E548F0EBE6E9B4A29 = "Mă simt ca nou!"
 	0A61DF754836195827A620AC3CD90FDE = "Mă simt... Mă simt...uggh...Mă simt că dracu..."
 	21ADF2A540B42F40A3A7CAB96E8F754E = "Am găsit o fosilă!"
+	3AFADF3B46BFC4D66D9E3A84F3BF2F7D = "Am găsit o Nucă de Amidon!"
 	9F633AA6486350D51EE7BE8689F46805 = "Am găsit o venă de aur!"
 	3F47526F476E585DF1F0BA9D94D1C64D = "Am găsit o larvă! Nu călcați pe ea!"
 	60C5304740F2F7E1006B3A9D2972A01A = "Am găsit un ou!"
@@ -1453,10 +1525,12 @@ INSERT TEXT TITLU"
 	410657A9402CA628F5BB0DAA9A3CB6C7 = "Dacă un inamic este electrocutat, va fi încetinit și va lua daune minore cât timp efectul durează. Electrocuția este întâmplătoare."
 	4E1B4C414D078CC2DEE9CC93997600FC = "Dacă cineva merită o promovare, ăla sunt eu!"
 	5ABABFD54BEF65D73CF0B3BE4FA0C527 = "Dacă asta n-o să-i doară, mă pensionez. Glumesc. O să-i doară."
+	31E69D1043D8AD4C6955619F78850667 = "Dacă golești complet camera de presiune, arma va începe să se represurizeze imediat, la naiba cu siguranța!"
 	07E9341B4715E109B5E3A6A4E627F90B = "Dacă observi orice bucăți mici strălucind pe pereții unei peșteri, încearcă să sapi acolo. Este posibil să fie obiecte valoroase chiar sub suprafață."
 	0F2D01BA49B49FDDCF55F4B8CB4B27F6 = "Aprinde majoritatea inamicilor într-un singur proiectil"
 	45A04ED44137401D7016C38DFDD96755 = "Ignoră Invitația"
 	5928D3B94CFF655EADE1E68BABC3917A = "Ignorat!"
+	3A30FDE8461A551070687C9197338D39 = "Imaginează-ți...hey...HEY...de ce...nu punem arme pe Molly??"
 	2DE0C04747271DC179F626BC4AEDC6CC = "Secure de Impact"
 	41FAB0884137521FEC24E4B580E0C2CD = "Secure de Impact!"
 	0733C16D4153DC823A1DC3B01AA4F68B = "Frică AoE la Impact"
@@ -1507,6 +1581,7 @@ Promovând un caracter ÎL VA RESETA LA NIVELUL 1. Vei PĂSTRA tot progresul arm
 	361FED844443DA02EFFAD497231EED33 = "Mărește capacitatea muniției"
 	19B0FDC340447FCFFD031E9417E3459F = "Crește rata de răcire"
 	357FED3844F84C361F2276A6DDD9657A = "Crește rata de răcire"
+	0D0B2B7E4AF175BF337A67B22BDF9BAE = "Crește daunele directe pentru proiectilul încărcat."
 	61C765254F125F641AA7D799C942D626 = "Crește unghiul operațional al ziplineului"
 	3E18B1134C670D647922609933C5310C = "Crește distanța flăcărilor pentru incinerare la depărtare."
 	087142994B87DA3EFECE43BE9D3C0631 = "Mărește distanța zipline-ului cu 5 metri"
@@ -1553,6 +1628,7 @@ Promovând un caracter ÎL VA RESETA LA NIVELUL 1. Vei PĂSTRA tot progresul arm
 	49BBAD8643733BE12BA12099694922AB = "E atașată acum!"
 	013AA61843DC55D04A16C7948EA8F7EB = "E atașată!"
 	AA62C29E48FC83B65DF2B8897E3965C5 = "Este periculos!"
+	2CA95669492BF12B57D875B429793AF1 = "În sfârșit este timpul să spunem PIATRĂ ȘI STÂNCĂ lumii!"
 	10BC63654EB95F055E3EEC90CEFAEC06 = "S-a blocat!"
 	94AA871A484F4AA6F4C1D4BB00AAF51F = "Trebuie mult efort să arăți așa de bine."
 	35B007A241A3323D668D20859173B60E = "Se crede așa tare! O să MOARĂ foarte tare!"
@@ -1598,6 +1674,7 @@ Timpul e limitat, așa că grăbește-te!"
 	0A05696842905CDAE9E436A856D458C8 = "Sari"
 	5C10457541066C16019647B891018B74 = "Cizme Săritoare"
 	1AE94A344D8A3D5538650B8123DA3D4E = "Raid în Junglă"
+	BE48CE5642A391F03ED36AAB2CDE9572 = "Doar 2 credite!"
 	0B50612247455BE81E7AB78101273D5A = "Doar magnific"
 	466C19D5488C96D545B6309616C42909 = "Încă o misiune și am scăpat oficial de datorie. Abia aștept...oh da..."
 	19907B1343F15D21BECD1EA1237417C0 = "Arată-mi unde să trag!"
@@ -1612,6 +1689,8 @@ Timpul e limitat, așa că grăbește-te!"
 	06BB0D9B4F88710605D1EFB9C74911DE = "Liniște! "
 	0EC4DC934CAB54D8DF4445B678AFF85F = "Păstrați-vă calmul, capsula de evacuare este pe drum."
 	38C61178401D04329556CEBDAACAE41B = "Țineți rahații aia de pe mine și voi ține Echipa în viață."
+	1968679845DF826F5C05E894A2D568AE = "Ține gura închisă!"
+	3E5ADCD74510D668AD63A998BE7DA6F4 = "Indicatori Performanțe Cheie"
 	0FD999C9434C8ED8D2DE66A28187EC4D = "Șut"
 	116899A540C11BC865ED8F84CA84DB4F = "Șut"
 	1BEC7377436BD25C866F02BB43C73932 = "Lovește"
@@ -1751,6 +1830,7 @@ Ce să nu-ți placă?"
 	2643F6364CF1CA3F93AC92A5A64FC37F = "Aveți grijă, avem Pui de Mactera!"
 	2AD0E96B442FA353F645EC928227E84D = "Uite!"
 	3053995F4C60E8010C787C84218876D0 = "Uitați! Un infuzor de nucleu!"
+	3DBC79B64663250CDB5DD5B15B6BC06C = "Uite! O fosilă!"
 	1710B09A45FD8C1AC8ACC49387F7C786 = "Uite! Con de Drojdie!"
 	21BDAAFC4EBACCF3D2B0AFAABF516B5B = "Nod de Coeziune Slăbit"
 	2309F9154FDE8A1E7D6FF0B9D405A9FD = "Nod de Coeziune Slăbit"
@@ -1777,6 +1857,8 @@ Ce să nu-ți placă?"
 	3DF99B2E4999F93C5F384D872E5BAF0B = "M.U.L.E. se activează, bună treabă."
 	21EC381847CABC6E342A77B7C10DB1D5 = "SALĂ MEMORIALĂ"
 	2DDC61E64D3ADC79655B8C88A3C4AB51 = "REALIZĂRI"
+	18DD3711448CF8A88C17358F28561A9A = "MINUTE"
+	2CECDAB74EA89F89E2781EBD6AC5383F = "MISIUNE"
 	425FE5044989D63327E09A9305357CBE = "MISIUNE"
 	113127354D96B4A900DC8E9F1161C681 = "CENTRU DE COMANDĂ"
 	14055AEC4F169C40AEB47A80BC0D7CCC = "CENTRUL DE COMANDĂ"
@@ -1789,6 +1871,7 @@ Ce să nu-ți placă?"
 	5498FD6B46D4F741E82B31AF683A984A = "TIMP MISIUNE:"
 	75FA5E6D4D095E201683AB93BC493F80 = "MK2 Costum Inginer - Ornat"
 	48BD40FA4ED7D6C74D2FB68AA9D21F62 = "MK2 Costum Explorator - Ornat"
+	2A125C3C47835EDF00FEEC9511A788D4 = "MK3 Costum Inginer"
 	A7CFA35F4192E1F0E6B43991A4F9B8D5 = "MK5 Costum Excavator"
 	84C21C32481BB8B3E7572A811E6837D6 = "MK5 Costum Inginer"
 	DEFFF80543E96CC286A6809B75F6409E = "MK5 Costum Mitralior"
@@ -1820,6 +1903,7 @@ Ce să nu-ți placă?"
 	9DADE2684511F6CD4C0D258B3DDD8D88 = "Muniție Maximă +75"
 	0D9AD6764E6AA571621F0CAC4222EC74 = "Viteză Maximă"
 	A0FCFC8142B702450805A390C16A141A = "Recompensă Maximă:"
+	3B05B5B74673A81B378A828062864602 = "Poate asta?"
 	145345C7423F4E9A20637C964292DBAE = "Poate că nu o să murim până la urmă!"
 	6B688B164B9390E127AE9FA24DF1B256 = "Medical"
 	149B48AE4A9B0135C99017BD57E1C126 = "Medicii sunt pentru fătălăi!"
@@ -1975,6 +2059,7 @@ Alătură-te nouă dacă ai ceea ce îți trebuie pentru a-ți proteja camarazii
 	1FA9D6624E309659E831B988222CFAFA = "Fără daune în plus la punctul slab"
 	0FE4CC0C4C3A5DA72A8446A809590AA5 = "Nu!"
 	09586CAF45BC5740FFCBCCA7CC8E05EB = "Nimic"
+	159887BB4E6AE630E98852BB2EA34B6C = "Nimic"
 	533017F242D8CDB43CBA9E837A5BC135 = "Nimeni nu ne poate sta în cale!"
 	BA8464514C8B1F337FFABFB4FBD9043D = "Nimeni nu întrece ferocitatea Cățărătorilor de Peșteri! Ținta noastră este letală, pielea ca piatra, iar frica e inexistentă. Nicio peșteră nu e prea adâncă pentru un Cățărător, iar cu sânge, gloanțe și curaj, jurăm să ne protejăm camarazii Pitici. Nicio creatură, indiferent cât de mare, nu va sta între noi și comoară. În inima Frăției, forjăm cei mai puternici Pitici să confrunte cele mai întunecate provocări."
 	2E3A068A419279FC23794E9C7E6BB3C6 = "Nimeni nu întrece ferocitatea Cățărătorilor de Peșteri! Ținta noastră este letală, pielea ca piatra, iar frica e inexistentă. Nicio peșteră nu e prea adâncă pentru un Cățărător, iar cu sânge, gloanțe și curaj, jurăm să ne protejăm camarazii Pitici. Nicio creatură, indiferent cât de mare, nu va sta între noi și comoară. În inima Frăției, forjăm cei mai puternici Pitici să confrunte cele mai întunecate provocări.\n\nAlătură-te nouă dacă ai ceea ce îți trebuie pentru a-ți proteja camarazii și nu îți este teamă de pericolele din adâncuri!"
@@ -1994,6 +2079,7 @@ Din păcate.
 Dar felicitări. :D
 -Rob"
 	4A85A17F4C2170101AC2268AEE318C56 = "Nimic nu îmi amintește de o mușcătură de șarpe ca un Bronzehead Bitter...umple-o, Lloyd!"
+	03BF90374C4A36EBDA2EC5BEB85825C7 = "Nimic nu spune tradiție ca un Slayer Stout clasic."
 	627AA7E3401E96C63F6D51BBBCA584B3 = "Nimic nu ne va opri acum!"
 	29913B9E4A7724CDB555148A5B3AE98A = "Nimic!"
 	2C4CF78C459EE646F68DA29D639D6D91 = "Nimic!"
@@ -2008,6 +2094,7 @@ Dar felicitări. :D
 	2E862B604BBAA4BD9392BB9079F4151C = "O2....Acum!"
 	4D1E62FE423FBD203F47219CD2E18C65 = "Exterminator Modular OMEN"
 	21CF20FC4612DB493947ECBFE5856B60 = "COMANDĂ O RUNDĂ"
+	0F7B9F354614504E85C2649D06B09DD2 = "CAPACITOR SUPRAÎNCĂRCAT"
 	28BDEA754E00DAB67B30D8A00784EBEE = "Obiectiv"
 	658DFD8C4F583F234AC6D9A81C9FCE68 = "Obiectiv Complet! Toate ouăle au fost colectate!"
 	30F0F03D4688BD978B57B1875B4DC848 = "Obiectiv Complet! Apăsați butonul pe Catâr când sunteți gata și vom trimite o capsulă de evacuare să vă recupereze."
@@ -2017,7 +2104,9 @@ Dar felicitări. :D
 	76FFCCF2422EFDF8C53B4AA4FAF7F73D = "Numele Obiectivului Vine Aici"
 	4829ACDD410E23651DFFE886EF42BF50 = "Obiectiv complet, bună treabă! Butonul de întoarcere pe MULE a fost activat! "
 	5B7FACF645B05E29001EC99CC0C5D36D = "Obiectiv completat! Cota de ouă a fost atinsă și Managementul va fi mulțumit. Bună treabă!"
+	0195077B4ACDF7FBE31C60B4B202FA93 = "Material de Obiectiv"
 	06B42C2542B4E577B810CCA5E8A23451 = "Material de Obiectiv"
+	0F5F6AA14889438C8130D0A34E20F109 = "Material pentru obiectiv"
 	470465554C4CC236B02A698DC30AA621 = "Material de Obiectiv"
 	5C9904CC4755B49E3D758B90555EE60D = "Material de Obiectiv"
 	5DDB7F4B4B9ACE1A37063FA312FDED03 = "Material de Obiectiv"
@@ -2045,6 +2134,34 @@ Dar felicitări. :D
 	35ED2B844CCEBA099A553DBBB779A84D = "Ajutor pe Ecran"
 	06A341AC46782D91912F7086CB130BC9 = "Odată ce toate Aquarqs necesare sunt colectate, apasă butonul pentru a trimite încărcătura prețioasă acasă."
 	208ECEA547E389C333A511BAAD7F2F53 = "Odată ce toate obiectivele au fost reparate, returnează M.U.L.E.-ul la Capsula de Evacuare abandonată."
+	8762E3E74B0D5CCF46FF81803FAAD508 = "Din când în când, angajați excepționali ca și tine se dovedesc a fi adevărate atuuri pentru companie. Îți aplaudăm eforturile și dorim să ne exprimăm recunoștința.
+
+Din acest motiv, te-am luat în considerare pentru o promovare. Totuși, pentru a te califica complet, va trebui să completezi o scurtă serie de misiuni high-risk/high-reward. Aceste misiuni te vor ajuta de asemenea pentru a aduna resurse și orice altceva mai ai nevoie pentru a plăti toate facturile și/sau amenzile față de DRG.
+Contabilitatea înainte de o promovare poate fi garantată.
+
+-Toate cele bune,
+Managementul"
+	986E87284F7DA45D79751A8DF8DFEE24 = "Din când în când, angajați excepționali ca și tine se dovedesc a fi adevărate atuuri pentru companie. Îți aplaudăm eforturile și dorim să ne exprimăm recunoștința.
+
+Din acest motiv, te-am luat în considerare pentru o promovare. Totuși, pentru a te califica complet, va trebui să completezi o scurtă serie de misiuni high-risk/high-reward. Aceste misiuni te vor ajuta de asemenea pentru a aduna resurse și orice altceva mai ai nevoie pentru a plăti toate facturile și/sau amenzile față de DRG.
+Contabilitatea înainte de o promovare poate fi garantată.
+
+-Toate cele bune,
+Managementul"
+	FAA3E04641AABD0D764B3C88DF1FB4E3 = "Din când în când, angajați excepționali ca și tine se dovedesc a fi adevărate atuuri pentru companie. Îți aplaudăm eforturile și dorim să ne exprimăm recunoștința.
+
+Din acest motiv, te-am luat în considerare pentru o promovare. Totuși, pentru a te califica complet, va trebui să completezi o scurtă serie de misiuni high-risk/high-reward. Aceste misiuni te vor ajuta de asemenea pentru a aduna resurse și orice altceva mai ai nevoie pentru a plăti toate facturile și/sau amenzile față de DRG.
+Contabilitatea înainte de o promovare poate fi garantată.
+
+-Toate cele bune,
+Managementul"
+	FF24FD024955050809A7708370DB971A = "Din când în când, angajați excepționali ca și tine se dovedesc a fi adevărate atuuri pentru companie. Îți aplaudăm eforturile și dorim să ne exprimăm recunoștința.
+
+Din acest motiv, te-am luat în considerare pentru o promovare. Totuși, pentru a te califica complet, va trebui să completezi o scurtă serie de misiuni high-risk/high-reward. Aceste misiuni te vor ajuta de asemenea pentru a aduna resurse și orice altceva mai ai nevoie pentru a plăti toate facturile și/sau amenzile față de DRG.
+Contabilitatea înainte de o promovare poate fi garantată.
+
+-Toate cele bune,
+Managementul"
 	22FF6A604C78E3E36DA08691A07F7BA0 = "Odată ce obiectivul a fost atins, folosește butonul de pe M.U.L.E. pentru a chema capsula de evacuare."
 	1691C1544A6F5EB4E1F2289D76C9968A = "Una!"
 	42DE261F42F15615EE38CF85913A80E3 = "Un ochi mare tehnologic vede orice!"
@@ -2068,6 +2185,7 @@ Dar felicitări. :D
 	1C79C0044CA22A07CE0061AAE33DB491 = "NumeOpțiune"
 	25FDE2DC47E6E00CD26E3C958625B882 = "NumeOpțiune"
 	960E1C1744D21EAA23992B862CC21563 = "Opțiuni"
+	3B1E5B8E4543BEFBD861518D5A1A25EA = "Altitudine Orbitală"
 	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Releu Orbital"
 	4C00DDD243A216F0336201B7EB60440A = "Comandă-i lui Bosco să mineze minerale și să atace anumiți inamici folosind Indicatorul Laserul!"
 	3C5F34D0436E2B98FD13338659B30B2F = "Material Organic"
@@ -2099,6 +2217,7 @@ Dar felicitări. :D
 	024459F04859B5638CB9D590AD5B0DE6 = "DURERE"
 	A4B75E864DB874BF192C4484B70AF96C = "DURERE"
 	E43247564ACF43EFB9AFF4980B8DD23A = "PLATĂ:"
+	06696F9D4443DD26F30DEFB645D4EEF0 = "ATRIBUTE"
 	5B80BEB04A9069960C2016A2F65431DA = "ATRIBUTE"
 	63D0361D4B68CE07E9D1D2BF398E5F16 = "ATRIBUTE"
 	2F1A9D7B42E5D494358A6A81A7B51E6F = "RIDICĂ '{Name}'"
@@ -2109,6 +2228,7 @@ Dar felicitări. :D
 	680CF46F443D5BB1D62DEDB346CB9C4C = "APASĂ [CallDonkey] PENTRU A CHEMA M.U.L.E.-ul."
 	E66F2965440023B51A13E5B5253ED0BC = "APASĂ [Jump] PENTRU A CONTINUA"
 	54252A9A47A6776CFE924B93B30F5B44 = "APASĂ [Salute] SĂ SALUȚI"
+	B02F8574471554F5DF0A04BB92B3D22A = "PRODUCTION BABIES: Ida-Marie, Thor, Alva, Ellie, Theodor și Baldur - Bun venit pe Pământ!"
 	2595DDF2421600A4E23DBA930382415D = "PROMOVEAZĂ"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "PROMOVAREA AȘTEAPTĂ"
 	625637E14AE36161309A579AF48094B0 = "COST PROMOVARE"
@@ -2136,6 +2256,7 @@ Dar felicitări. :D
 	57F5AFF2491C3C0E0E5C82BDF3ED0CC0 = "PSA: Unitățile M.U.L.E. nu sunt conștiente și nici animale de companie. Numindu-le "Molly" nu va afecta programarea Catârului."
 	09926EE44B057C628C8A9F9DD2518ADC = "CUMPĂRĂ"
 	75AEE9034DCA596364116A8C5F01C1FA = "CUMPĂRĂ OBIECT"
+	12882B86409BF1460069629FF38ADADF = "Vopsea"
 	12427416404104A0D95949A986A9BC78 = "Vopsea"
 	431E88F046D1BE4C70EDEB9C141C0A54 = "Paraziți"
 	0455CC1045C42B807F56A4BDF28DD590 = "O parte glonț, o parte seringă, această muniție este foarte eficientă la a ameți majoritatea inamicilor."
@@ -2173,6 +2294,7 @@ Dar felicitări. :D
 	0DBC11CE48EB0479C8A7A99469A97850 = "Platformă!"
 	4B626AC0412D26C70065C1A6283D8E7D = "Platformă!"
 	4868704E4B9A96E147B2DD885321FD02 = "Pornește"
+	0F4949734D3DD51D6340BF89B0DA85A8 = "Joacă versiunea beta 1.0 în branch-ul experimental și spune-ne părerea ta"
 	35F188344DABAC671C11C8937ADF71BB = "Jucător 01"
 	0F78C4EB4A3EE2369FC305A969149010 = "Viața și Scutul Jucătorului"
 	574890704A93772F245BF9A87BDBD085 = "Poză Jucător, Nume și Clasă"
@@ -2187,6 +2309,7 @@ Dar felicitări. :D
 	37EEADF044CC37E1BB683FB490865CA4 = "Extracție"
 	3E89DA5443E686BEFEE7E9B96B9782F2 = "Cioc Ascuțit"
 	65E34C6D495D04A85C40C5922956E9BD = "Nobil Ascuțit"
+	3DC4C751431A4F2E3ECCDAA006B0C229 = "Otravă"
 	30A5398748D38725AB85058B268AD652 = "Rezistență la Otravă"
 	0EFB3CCC4EE8A158752FBBBF0A7C717D = "Otrăvește inamicii din raza daunelor explozive"
 	4365E990484B61DDC0D30E8C124E54CF = "Am omorât unul mare!"
@@ -2195,10 +2318,15 @@ Dar felicitări. :D
 	2214FA2D437E0C6C8F21DC89336DABF4 = "Atac Puternic"
 	5671BE934203657F0A391689AD4FC5A7 = "Reîncărcare Atac Puternic"
 	253C3BFE4AE66DBDB5A9E290E087124F = "Gata somnu' de amiază!"
+	3AF707B2459B3E6C5E1173ABD4C8F054 = "Activăm protecția la radiație."
+	01F5C4F745A153CC1B477AB3F2933A6C = "Pretorian"
 	042D2BD5443BC510B47193AB5489E21E = "Pretorian Mort! "
 	65DF5AA042A7B6EB4A635DBDA65F76C0 = "Pretorienii atacă! Dați pe ei!"
 	5A6584B140CF654F17EC2E86FCF2F384 = "Mineral Prețios (Credite)"
+	906E755D45F5E471256F948D8B0664E3 = "Mineral Prețios (Credite)"
 	22DD335446C3690FF8144CBD7FFF24B9 = "Mineral prețios (Credite)"
+	D9E0D1E04C4B36E11D91469123F9E71D = "Mineral prețios (Credite)"
+	F0C503074F399EB87A6C02B071210C38 = "Mineral prețios (Credite)"
 	0363493C4FC1FA48706D51B7C9B669C6 = "Precizie Terifiantă"
 	24DAAF424FC2165CB1CCE59A7BE6218E = "Pregătește un proiecil încărcat mult mai repede."
 	256FFE1F49A40D336F915BA43D44635F = "Pregătește un proiecil încărcat mult mai repede."
@@ -2253,6 +2381,7 @@ RAPIDĂ"
 	2A2B3DB84873DA07F70D46B46916BD4B = "Avem lucruri de făcut! Hai la treabă, băieți!"
 	1D9C0A5F4AC33C6143D7269DADCD7DA8 = "RECALIBRAREA GRAVITAȚIEI"
 	4B8CA5F34423E4E65EC7F6A671B54204 = "NUMĂRĂTOARE RECRUTĂRI:"
+	2B0745B644200C00FACC7A80D3D3377E = "PERIOADĂ DE RECRUTARE"
 	4C3FFDBA48E54ACF798BD4AC7A8F94BB = "ALIMENTARE COMPLETĂ"
 	3F43553145961EB979B54390F23F0536 = "PROCES REALIMENTARE"
 	0FE71808418CA41B8F7470A3F80533D1 = "DESCRIERE REGIUNE"
@@ -2275,12 +2404,12 @@ RAPIDĂ"
 	547CAC7342FC93C6DEC5DEA198025182 = "Creșterea Ratei de Foc"
 	0A9105BE4A7A48B2D134D99DAFC64C71 = "Răvășită de o mie de ani de expunere la radiație gama de intensitate crescută, această regiune a planetei este un iad radioactiv pustiit și decrepit cu floră mutant. Acționează cu grijă și asigura-te că treci prin tot procesul de detoxifiere la întoarcere."
 	44F3189F4AA06FD17750A992263A6CD4 = "Distrugător"
-	29786205402B635311BBE6A2510AADE8 = "Obtine Maiestrie de Craftat Nivel {value}"
 	46E57F26473383892A63FB855F7E13E3 = "Atinge rata de foc maximă mai rapid"
 	0987A141449A54263414569CC8EBB636 = "Gata să explodez!"
 	592D3B2D4A3C5A50A363F79039F29E1A = "Gata să explodez!"
 	654D08654C3F79C50F3A87A9875A2D6C = "Gata de plecare!"
 	0F6DF48340A35842A22D4B8A99757AB4 = "Gata de acțiune!"
+	3DD702324C2C0FEF5A5F7788B111FE55 = "Pregătit!"
 	01D5B68441B885C478D26F87104DF13B = "Lama din Spate"
 	4148504943DF17CE763B44855C9F67BD = "Motiv:"
 	63F905414CB1D6E0C1A57B8E07A4B23F = "Cheamă Înapoi Santinela"
@@ -2309,6 +2438,7 @@ RAPIDĂ"
 	E3E82CEE4BDF439CEE2B03BF07903128 = "Rata de Regenerare"
 	0970786D4CABB3ED983676B16132E5AD = "Normal"
 	62240F174A92CC9A098DF0890B28E07E = "Normal <Highlight>Evidențiat</><Bold>Bold</>"
+	089E4D1344B355DB156A92A696100B21 = "Gloanțele obișnuite ricoșează, te rog încearcă să nu te lovești pe tine sau pe alții încercând să faci scheme."
 	60ADBB7842274CC2FF2123A1AA261627 = "Dă drumul butonului de foc pentru a inversa mișcarea proiectilului "
 	276A92D24D775A65E0A31E9E355B4F74 = "Eliberează un nor de toxine cu acțiune înceată, create pentru a afecta exclusiv viațanativă de pe Hoxxes IV.
 ATENȚIE: FOARTE INFLAMANT!"
@@ -2371,6 +2501,7 @@ ATENȚIE: FOARTE INFLAMANT!"
 	6A4056CF4689488D31DEA2BDF8205C58 = "Piatră și stâncă!"
 	A4D2DC864F25C164AE44A4A3537D546C = "Piatră și stâncă!"
 	E490B3CB4201A173CCA4B492FD65DD15 = "Piatră și Stâncă!"
+	39A666054308588141A021B7F1F0D303 = "Piatră și Stâncă! Piatră și Stâncă! Piatră și Stâncă! Piatră și Stâncă! Piatră și Stâncă! ...Hmmm...Piatră și Stâncă!"
 	526C586A4C6CE1CCDE8E768C6EF57CFE = "Piatră și Stâncă... yaahhh!"
 	75A4D7DC420269D89D5041AE0A7A5941 = "Piatră și stâncă!"
 	16B1572B46484066229FDF8689B040D5 = "Tare ca piatra!"
@@ -2380,6 +2511,7 @@ ATENȚIE: FOARTE INFLAMANT!"
 	1C625C6E483DC14CC816FB994EDCADB8 = "Rachetă [Mine]"
 	5A2E802A492BE72F486337AE712A0AC2 = "Rachetă aici!"
 	015545FB4F17A5A2041C2FBFE52FBC76 = "Rachetă aici, Bosco!"
+	35FB13A14B3FD983A3E55B825E6DE1A1 = "Mergi adânc și ieși la suprafață! "
 	0D7900AE4801175F488DD6A8BA2B29F2 = "Proiectil care se rostogolește, dă drumul butonului de foc pentru a-l bloca în poziție"
 	5201A9904CC24AEE1CEBAE8F45AA5177 = "Miner Începător "
 	9FABAE1843E777A4457AF6A39889EA58 = "Miner Începător "
@@ -2477,6 +2609,7 @@ ATENȚIE: FOARTE INFLAMANT!"
 	14A8588A45AA9AF53F207982300F526D = "Regenerator de Scut pornit!"
 	5F0EDE404253C0E412143DBBF2149DC2 = "Regenerator de Scut pornit! Stați aproape de el!"
 	6661A69540A47C5038584D834DF32F89 = "Regenerator de Scut!"
+	0706429B4444B40E3563A6B1FDA31F76 = "Scutul începe să se reîncarce mai repede, dar la viteză redusă"
 	11C723924AF3A14423A99599942C5D9F = "Scut încărcat și pregătit!"
 	3A183DC64E4E049093A8FBB1611AAC3D = "Scutul durează mai mult"
 	487573FD41DDD5C96076FFABE643B725 = "Scutul durează mai mult"
@@ -2536,6 +2669,7 @@ ATENȚIE: FOARTE INFLAMANT!"
 	364186344C3EDB778F0129AF3467CCE7 = "Bună treabă, echipă! Timpul să mergem mai adânc."
 	227E630D46AF82BE8A54418C1C5C0CD7 = "Niște Rocky Malts la masă, te rog!"
 	0EA4B56C4AB702FCBF966493E3236E35 = "Unele atacuri și explozii sunt destul de puternice încât să <bold>propulseze un pitic în aer</>. Ai grijă la ele sau vei ateriza într-un loc nefavorabil!"
+	0CEB84464B7521A2FB385C9CD5D4F1B2 = "Unele creaturi sunt acoperite cu o armură naturală atât de groasă încât nu am găsit nici o modalitate de a o zgâria - nici măcar focul continuu nu o va penetra, este virtual <bold>indestructibilă</>. Din fericire, majoritatea creaturilor au <bold>puncte slabe</> în care să trageți. <bold>Daunele Colaterale</>, precum exploziile, sunt o altă modalitate de a vă ocupa de astfel de amenințări."
 	538119EA49BEA5057A17A08586943A2A = "Niște modificări intensive la modul în care gloanțele sunt pregătite pot crește daunele armei, dar fac ca arma să se încălzească cu fiecare glonț, iar bateria are o capacitate scăzută."
 	1FB3123D451B74CB69B80295F36DBB2F = "Unele modele sunt mereu la modă."
 	56F6346849C3E221A8E540B2A590E7F8 = "Unele modele nu ies din stil. Stilizat să ți se potrivească cu armură."
@@ -2578,6 +2712,7 @@ ATENȚIE: FOARTE INFLAMANT!"
 	69BF8BEC4C7EEF17725022A9F30700F6 = "Rămâneți în apropierea Celulelor de Alimentare!"
 	1C291F4B466A2680FACF3D9ABADEC242 = "Gheizer cu Aburi"
 	3AD42C1446AC9AC09F909182C4250534 = "Te-ai alăturat grupului de Steam!"
+	27FFAB64446F0C10BD2F0E8040C70EED = "Steve a murit onorabil!"
 	2B99ECBD464FD26993413DA12C3F4A5D = "Steeve a murit! A luptat bine!"
 	146A9A7B478F2EC962FEC8A68698FA7F = "La o parte, fătălăilor!"
 	5BE3CFFA4DB333BF398962A309FFF05C = "Stați împreună, acoperiți fiecare unghi!"
@@ -2621,6 +2756,7 @@ ATENȚIE: FOARTE INFLAMANT!"
 	5F6459E7494BDA8B9D0C7B81D1F27E20 = "Carcase Îndesate"
 	6301D2814837BD1B2F5A81803AF768EB = "Grenadă Amețitoare"
 	356DEB094A0E39BCE85AD7928DE45076 = "Amețește majoritatea țintelor pentru o perioadă prelungită de timp"
+	1F912BA34E0EA4FDA1594F94121B24DA = "Amețește ținta dacă toate gloanțele dintr-o rafală nimeresc"
 	0A4A0C224F251E3C1B48DC9F00F42165 = "Amețește creaturile îndepărtate de explozie"
 	2B422A4E4C4343967BCB83B7C1D461C5 = "Amețește creaturile în raza de explozie"
 	250E337E407CE7A1D195679E6B89485C = "Stilat și practic! Făcut să ți se potrivească armurii."
@@ -2667,6 +2803,7 @@ ATENȚIE: FOARTE INFLAMANT!"
 	18500CF541E0EC031ECCC39436FE9FE5 = "TITLU"
 	2A20341A4042C147722ABDAFA5B90C1A = "HANGARUL DE SUS"
 	00CE953A4F1F61501826299288BB7B83 = "Cost Total:"
+	21E6135B40D9D1D238C38C9ED36EBEC7 = "Completează Chestionarul"
 	312F590945ED4759B60ED781976640C6 = "Completează Chestionarul"
 	5C1FEEB749B38F3A5F42EF9E48964727 = "Luati-o usor! "
 	48F6311A4C51BF533B42FF92297ABBFE = "Mai puține daune dacă cazi de pe zipline"
@@ -2728,12 +2865,17 @@ Apasă <TerrainScanner/> pentru a folosi <bold>Scannerul de Teren</>."
 	668E416F46D9AF9A2F0C289C99C5579B = "Catârul lasă în urmă marcaje luminate cu verde în timp ce se întoarce la Capsula de Evacuare. Urmărește-le!"
 	49B9AE6C44B820C39293DCAFCEBD2AD8 = "M.U.L.E.-ul te va urmări automat după un timp, dar îi poți comanda să vină la orice moment."
 	02D367C647443B7BC2BCF597B5F60EF4 = "Costumul MK5 de Mitralior prezintă similarități cu țestoasele din lumea veche, ceea ce e perfect potrivit. Este un costum pentru mitraliorul aparte, oferind protecție, mobilitate și suport pentru piticii mai mici să se cațere în timp ce tu aplici legea."
+	066713714F99E5091DE58D8687075EDD = "Târnăcopul este cea mai importantă unealtă din arsenalul oricărui pitic. Folosește acest terminal pentru a <bold>instala modificări</> pe care le găsești și a-l personaliza."
 	4C729A51429F40D2B6D217B5C70E8EE2 = "Cel mai Gros"
+	1F0DF2834FE526032BBEF9AB25F6F638 = "Cheie de Tritilită"
 	552397DD45AE7FD8AEAE38AC2AD601CE = "Valul s-a micșorat considerabil. Bună treabă, Echipă."
 	6092B2D34014C93D581891AFC9DCC486 = "Aerul devine greu! "
 	A14E3B244FE0E714FB89E79C77BCEC4D = "Spatele îi punctul lui slab!"
 	13DE4CDA4BDE5D2C6D76E09D7460F63D = "Costumul de bază a oricărui Explorator. Un adevărat clasic și pilon principal al DRG de la conceperea să."
+	0CC7FE8F4875F1BB1E057EAF7FAF0800 = "Berea funcționează! Ascultați! Știu cum să fac ca și Capsula de Evacuare să vină exact la poziția noastră de fiecare dată când o chemăm! Asta o să ne facă viețile mult mai ușoare! ...NUUUU...Am pierdut-o!"
 	29901C274BE58C623087A89C9643FA06 = "Cu cât sunt mai mari, cu atât cad mai tare!"
+	315AD4724453438B5A7900BF23D41C41 = "Strălucirile albastre emanând din perete îți vor permite să găsești nestematele."
+	1FCF2B074F65531F692B1E866EFEFCA6 = "Încărcăturile generate de această mașinărie vor reîncarcă atacul puternic mult mai repede!"
 	650394EE41ACE93ACF33119DE345624C = "Decorațiunile sunt făcute să fie apreciate cu ochii, nu cu picioarele!"
 	2B3F55EA4DF60D6F2B76488C4846053C = "Torța durează mai mult"
 	634E27F54B80A4F565F39794C1C04AC2 = "Torța durează mai mult"
@@ -2836,6 +2978,8 @@ Managementul"
 	4AE91DA746F813E85D25C7BAE7ECEC2B = "E timpul să plecăm, îndreptați-vă spre capsula de evacuare!"
 	266E99B94698B95EC24507B847E270C0 = "Timpul să se facă lumină!"
 	03502B9C4D892783CCD757A7B27EE451 = "Timpul să ne reaprovizionăm!"
+	36BBFC574090F759190710880A38DE17 = "Timpul să le arăt din ce sunt făcut!"
+	149D7DEC4D45E19C086095980C9BA4B8 = "Timpul?? Îți arăt eu când e "timpul"!"
 	355ADBCD4CD1DD1BF7A003A830E5DA3C = "Întărire de Titan"
 	67C7B7AA47CF6D61AA61D191B41B37ED = "Titlu Merge Aici"
 	22C3BB204DE093DDD6CB909A357F80F7 = "Spre Aur!"
@@ -2862,6 +3006,7 @@ Managementul"
 	55F5C76A44BF9B0EFEDFFF961C0EC1DE = "Grenadă Toxică!"
 	17C696094B44437EB8B3BDB356C2D19F = "Toxicitate"
 	03B97AF94FD4C5AC8519A28728398838 = "Transfer complet! Punct de interes nou adăugat pe scannerul de teren!"
+	2C38D51E4B7C9270C3C7678BE96371A8 = "Transportul este pe drum. Expediția Adâncă progresează frumos!"
 	2BE8B2814B47077681751F9580C3A7D2 = "Capcana e pregătită!"
 	3A34A1724AF6DFB95883CEA5D76E9F54 = "Capcană amplasată!"
 	9516E93B47B6CBAB2EFF5891511E9D2A = "Capcană amplasată!"
@@ -2880,16 +3025,19 @@ Managementul"
 	0EF41BD14D1DC215CD834BA93FAE478C = "Radiator Modificat"
 	215F3B644C399F8D8C4DED90E6C87ED3 = "Pleată Dublă - Blindat"
 	014038E740624FB0EE8E989CB2DDA9C1 = "Pleată Dublă - Ornat"
-	A77D4926491B8CDF61FF909C89BB6926 = "UA2, mjrDrake, Tuteshnij, classicarma, Mike_Smith, e.ray, federico.gropplero, Darklinux94, 1407ehdgh, Matejko124, elesis1204, _Paladin_, Zeuzere, Tuteshnij, Jakub Nechvátal, Nathan Friebe, Oliwier Masiukiewicz, EgorKaskader, Mbgny, Pierre MILLOT, xsSplater, Till Kottmann, FireVuk, UA2hk, Yamila Castro, Kispiricsi, Paladin, Danniela Aragão, lc_freegold, Tomasz Bielenda, Luis Felipe Tejada de los Santos, Otto-Emil Valentin, Athila, classicarma, TheBuildingDwarf, keigin, Sunny M, Robin ten Wolde, Victor Mayorga, MuffinInACup, Sirio Cilia și mulți alții..."
+	A77D4926491B8CDF61FF909C89BB6926 = "MjrDrake, Tuteshnij, classicarma, Mike_Smith, e.ray, federico.gropplero, Patricio Pereira (Darklinux94), Matejko124, elesis1204, Paladin, Zeuzere, Tuteshnij, Jakub Nechvátal, Nathan Friebe, Oliwier Masiukiewicz, EgorKaskader, Mbgny, Pierre MILLOT, xsSplater, Till Kottmann, FireVuk, UA2hk, Yamila Castro, Kispiricsi, Paladin, Danniela Aragão, lc_freegold, Tomasz Bielenda, Luis Felipe Tejada de los Santos, Otto-Emil Valentin, Athila, classicarma, TheBuildingDwarf, keigin, Sunny M, Robin ten Wolde, Victor Mayorga, MuffinInACup, Sirio Cilia, Eliott G. (Azerty11235), Frang (1407ehdgh), Alberto Gómez Herrera, Ser_Pounce, Alexis N. (Mist), SplitSentro, fakiyo, Alejandro Brys (Odraza), Ilupuusikuniluusi, Jiune, Görkem Emrah Güler (gork7777), Switch X (switchx1), Mika Tuomaala (KiksuuZ), Sergii Raboshchuk (Fallenbard), Daniel Tom Sattler (Granheart), Cheng-Han Wu (na663321), Patryk D. (Dragon the Reaper), johnnywu0000, Kei Duy (GabrielMinus), Moldovan Antonio-Alex (DelgadoKenway), Léo W. (LeFrogPilot) și mulți alții..."
+	118B11FE4E85817465CD0EA578E49415 = "DEBLOCAT:"
 	1DFF07CD499D9C20484D76BF57D90FD9 = "DEBLOCAT:"
 	273506A1407FF7C9D4788395C1357054 = "CATEGORIA DE UPGRADEURI VINE AICI"
 	2A0F07534F6FAE1A1AC181919021B449 = "NUMELE DE UPGRADE VINE AICI"
 	154D798349596E65C508169C1B0BD295 = "UPGRADEAZĂ ECHIPAMENT"
 	68B79960422B69C0689251A8A121BF01 = "UPLINK COMPLET"
+	26398A884A2ED449D7C0758A6480AE77 = "Ugh, prindeți-l! Festerflea! "
 	258A3EE74D1E429298880C88BD69BD1D = "Underhill Deluxe pentru mine și amicii mei, te rog!"
 	084885604497CF870F7EF797D3541C92 = "Combustibil Nefiltrat"
 	2639BDA74F3ACD0974675696C0A860D1 = "Obiect Neidentificat"
 	1CCE93164BD93498123304A5E8C9BE39 = "Obiect Neidentificat"
+	18C077E540BB959128F4FC8BCB58D87D = "Necunoscut"
 	2B977B2B4C7DA9295728618ABC09CFEE = "Oroare Necunoscută"
 	2DBC89DE4AA6F440622B729107A45E8D = "Trage ambele gloanțe deodată"
 	6BE330CF4C1A62AA4812D1883C442FE9 = "Deblochează Comerțul Mineralelor la <highlight>Tabela de Sarcini</>"
@@ -3038,6 +3186,7 @@ PIATRĂ ȘI STÂNCĂ!"
 	1C7E7E8A4A9217673CD4489AD78FD812 = "Avertisment:"
 	3EDB561A456FEAA572AAE886843E07C8 = "Avertisment: Ești sigur? Apăsând Da va RESCRIE Salvarea Curentă. Această acțiune NU poate fi anulată."
 	5AA0B67F4055FBC0A69F73BD896CB383 = "Avertisment: Ești sigur? Apăsând Da îți va reseta TOT progresul."
+	01F74C6149AD72D906058FA35A669FA8 = "Avertisment: Ești pe punctul de a accesa Selectorul de Cont. Schimbând utilizatorul activ, va schimba și salvarea jocului, rezultând în posibile pierderi de date. Ești sigur că vrei să continui?"
 	45BC46004B66AA4029A6CA9825BE7209 = "Avertismente"
 	9C8B0FEE4AC9079EFA0E768BE56FA380 = "Privește asta!"
 	3359B17C4621B0C2165FF7AF227EFCD5 = "Privește și Învață!"
@@ -3098,9 +3247,12 @@ Poți schimba aceste setări oricând în meniul de opțiuni."
 	2B8EED234B8199F9836052876ABA6FDE = "Suntem bogați!"
 	4B5687F649A70D67781A13A3C167E696 = "Am detectat o zonă plină cu Aquarqs, iar voi aveți onoarea să le aduceți înapoi. Uitați-vă după lumini albastre sclipitoare și extrageți Aquarqul din ziduri. Am trimis un extractor specializat de mare greutate. Așteptăm rezistență masivă așa că extractorul a fost echipat cu armament, dar rămâneți concentrați - misiunea e despre lucrurile valoroase."
 	1F5CC1074A3AF1E92463338FB14859CB = "Ne-am distrat grozav creând acest joc până acum și nu suntem nici pe departe gata- Hoxxes IV nici măcar nu a început să își arate adevăratele secrete..."
+	3129A72641CCFA27FBFDE7BBAB641D17 = "Daune în punctul slab crescute"
 	36C5E600464AA381E540AAA545FCDE76 = "Puncte slabe"
+	059E16434A655C7FD6D80BBD9F44E848 = "Loviturile în punctul slab ricoșează întru-un inamic apropiat"
 	43772FFD4EFD3BAED6D984AF805D4987 = "Sarcini pentru Licența de Arme Completate"
 	5E6B849349A6387128BFE899180BEE42 = "Set Skinuri de Arme"
+	124637E94401560D890E7EBAC4F24664 = "Armele cu capabilități de Amețire vor <bold>întrerupe</> momentan <bold>mișcarea</> și <bold>atacurile</> oricărei creaturi lovite - iar având în vedere cât de rapide sunt unele bestii, fiecare milisecunda contează. Vestea proastă este că unii inamici pot de asemenea să amețească pitici."
 	1732EDD3443C16A8897B53AFAC41926E = "Atlet de Weekend"
 	351A1B504372CB4BD59337A7677721A0 = "Vânători de Nuclee Săptămânale Completate"
 	143CACC14BC9B8CCB2060FA28548AD9E = "Bun venit la bord, minerule!"
@@ -3133,6 +3285,7 @@ Poți schimba aceste setări oricând în meniul de opțiuni."
 	2CBC31B241DBCABD58EB20BF58FB917A = "Unde naiba-i bucata aia de pământ care trebuie săpată?"
 	0E57D4F04BB0BBE48CC940990FB1431C = "Unde-i catârul ăla nenorocit?"
 	5EE46AC74F371B5FB5DC4FAFA7580399 = "Ce Biom ar trebui să joc?"
+	39B781834A647682F1126A99D535241D = "În timp ce sarcina inițială este activă de la început, toate celelalte <bold>trebuie selectate</>. Acest terminal arată sarcinile care pot fi completate împreună cu ceilalți care în curând vor îndeplini cerințele. <bold>Doar o sarcină poate fi activă</> la orice moment, iar anulând o sarcină îi va reseta progresul."
 	453B15B54EB949E1AF81A9B629F6C63F = "În timp ce flora ar putea deține răspunsul la multe dintre secretele vieții, mediul hostil face că acele secrete să rămână fără răspuns."
 	391EC00944D3E9F1AD627180DF91198D = "Cristal Alb"
 	585A63DF428AC5458BA9ECABF851181D = "Cristal Alb"
@@ -3166,6 +3319,7 @@ Poți schimba aceste setări oricând în meniul de opțiuni."
 	31A3F72444E1262797B3768C66503479 = "Da!"
 	978EF71E430B6F91566F318EE7E05621 = "Da!"
 	5232AEE64D582E403B923EA414D2915A = "Așa, mâncați-vă între voi, Monștrilor! "
+	3A34BF7C423F889B999A0DAAE9FD2303 = "Yeah, hai să facem treabă mai bună dată viitoare!"
 	4529454D4C8550646011AD97C65333D2 = "Bla, bla, bla, treci la subiect!"
 	9BF658FB49C9D846AC376ABEF6EC4F20 = "Daa!"
 	03293BD94BF28AC483BCAE808C024207 = "Daaaa!"
@@ -3213,6 +3367,7 @@ Poți schimba aceste setări oricând în meniul de opțiuni."
 	3549C35A49D09BA17957648AF7A1B2FF = "Trebuie sa fi un fizicist ca sa intelegi cum functioneaza dar aceasta mica minunatie mareste viteza proiectilului normal de CPE."
 	223AC847439D0949B9A60A899966688D = "Trebuie să rămâneți în zona de triangulație! Întoarceți-vă acum!"
 	35CC851741DAC42CABD91A8ADFFEA2D2 = "Trebuie să rămâneți în zona de triangulație! Întoarceți-vă acum!"
+	0B7C53A440B7F302C9747D952608D396 = "Nu ar trebui să mănânci minerale prețioase! Vei ajunge să mori!"
 	23313371479A1EDF37E8A1BD31FF285E = "Nu ar trebui să mănânci minerale prețioase! Vei ajunge să mori!"
 	2C2116CF45A3A253EFA883B5144761FF = "Nu ar trebui să ai acces la asta. Ce se petrece?! O_O"
 	2161E24842AF7A087271D893471F6192 = "C**cat alunecos"
@@ -3228,6 +3383,9 @@ Poți schimba aceste setări oricând în meniul de opțiuni."
 	169FF20042CF099D895D19B6FAE78ADA = "Ești propriul tău inamic!"
 	42912B4F4C62EEF642AB77811D0FF517 = "Ați mai făcut asta înainte: Luați Morkite-ul, depozitați în MULE și îl aduceți înapoi. Simplu. Pe treabă."
 	6872D5DE4945C0684C2C9AB8C3C230C3 = "Ți s-a procurat accesul la misiuni de Incursiune cu risc major. Bună treabă, Minerule."
+	71B72EFE48FD74037A588F9F7B7749C8 = "Te-ai alăturat! Click pentru a-ți revendica cele 10.000 de Credite!"
+	8F4D89824206338FF0A6C8A644944815 = "Te-ai alăturat! Click pentru a-ți revendica cele 5.000 de Credite!"
+	CCE5F04F40C1FC01D53040B300704262 = "Te-ai alăturat! Click pentru a-ți revendica cele 5.000 de Credite!"
 	1D2930994DDAC364B264C3A2CBB45DBD = "Voi... voi băieți sunteți grozavi!"
 	32CA7EB849F7B28CEFCCECB273563BA8 = "Voi... voi băieți sunteți grozavi!"
 	074C353E472A49F00D0224B6F87579FE = "Caleașca pentru Expediția Adâncă este pe drum. Timpul trece. Mișcare, echipă."
@@ -3291,8 +3449,178 @@ Acum poți echipa <highlight2>două</> atribute active. Alege înțelept!"
 Namespace CreatureAttacks (1 keys)
 	AttackTypeSlash = "Taie"
 
+Namespace PatchNotes (1 keys)
+	Update_30 = "Salutări Mineri!
+Este fantastic ca într-un final să va urăm bun venit tuturor în Deep Rock Galactic 1.0! 
+
+Acesta marchează sfârșitul a peste doi ani de development în Early Access care au reprezentat o călătorie extraordinară! Nu ne puteam dori o comunitate mai bună care să ne însoțească în această călătorie. Dacă ești un jucător nou, fi liniștit deoarece munca grea în mine te așteaptă, alături de aventură, arme mari, bărbi splendide, monștri extratereștrii ... și bineînțeles - toți colegii tăi mineri pitici!
+
+Suntem super, super entuziasmați să ieșim din Early Access și să vedem unde se va îndrepta jocul de aici. Fiți fără grijă...nu suntem nici pe aproape de a ne opri din a adaugă lucruri noi în DRG!
+
+Piatră și Stâncă!
+
+Cu Drag,
+The Ghost Ship Crew
+
+--- INFORMAȚII PATCH ---
+
+SOUNDTRACK VOL. II
+----------------------------
+În ultimul an am lucrat la Vol. II din soundtrack-ul pentru DRG - și în final este aici - permițându-vă să minați, luptați și dansați pe 14 piese de synth și bass noi! Deep Rock Galactic trebuie să investească în niște difuzoare mai mari...ACUM!
+
+
+NOI NIVELE DE PROMOVARE
+----------------------------
+Ne credeți sau nu, acum sunt încă 3 nivele peste nivelul de aur, atunci când îți promovezi piticii: PLATINĂ, DIAMANT ȘI LEGENDAR! În principal este doar un motiv de mândrie pentru jucătorii super veterani care au investit sânge, sudoare și mult timp în Deep Rock Galactic. Vă salutăm!
+
+
+SARCINI DE PRESTIGIU
+----------------------------
+Pe măsură ce crești în rang, vei avea acces la sarcini de prestigiu. Completându-le vă vor recompensa cu seturi complete de părți pentru tarnacop, cosmetice pentru armuri și căști noi. Sarcinile de prestigiu sunt deblocate la rangurile 20, 30, 40, 50, 60, 75 și 100. 
+
+Cu câteva luni în urmă ne jucam cu ideea de a vă recompensa cu cosmetice la promovarea în sine (unii din voi probabil ați testat pe versiunea experimentală), dar nu ați fost neapărat mulțumiți cu sistemul, așa că am optat să implementăm sarcini de prestigiu bazate pe rangul de jucător.    
+
+
+BIOMURI
+----------------------------
+Cavernele Cristaline au mai multe variații de cristale. Acum e limpede ca și cristalul de ce își merită denumirea!
+
+
+CERERI ALE COMUNITĂȚII
+----------------------------
+Aici sunt o grămadă de funcții care le-am adăugat la cererea publicului: 
+-Am adăugat vopsea aurie pentru târnăcopul vostru de încredere, celor care au Pachetul de Suporter
+-Am adăugat o bară de volum separată pentru centrul de comandă. Nu le spune celor din Management!
+-Am ajustat modul în care scalează head bob-ul pentru a afecta mai multe animații!
+-Am adăugat un slider nou pentru camera shake, pentru a putea ajusta agitația pe placul tău!
+-Am adăugat opțiunea de a inversa axa X pentru cameră când ești la pământ
+
+
+ALTELE
+----------------------------
+- Am adaugat niste nume lipsa la indicatorul laser pentru masinariile de event
+- Am adaugat informatiile despre patch in meniul de escape
+- Masinariile de event explodeaza daca capsula de evacuare aterizeaza pe ele
+- Am adaugat sunete noi la terminalele din statia spatiala
+- Am adaugat cristale hex inclinate in biomul Cavernele Cristaline
+- Am actualizat si imbunatatit sunetele Lootbug-ului
+- Am inlocuit scaunele vechi din salonul medical cu modele noi
+- Am optimizat performanta in statia spatiala
+- Animatiile de reincarcare au loc acum in persoana a treia cand sprintezi
+- Am adaugat o colizine noua la capul forator in misiunile de extractie pentru a preveni Aquarqs din a disparea in burghiul de sub capul forator
+- Am adaugat o miscare de dans noua
+- Am adaugat Production Babies in credite 
+- Prompturile pentru butoane care nu au iconite nu vor mai arata doar un nume lung ci doar tasta butonului in sine
+- Rezolutia va trece la cea mai mica valoare daca jucatorul trece peste cea mai mare valoare disponibila in optiunile grafice
+- Grenazile si bombele Detonatorului Glyphid Masiv vor ricosa de pe bariera protectiva a generatorului de scut in loc sa treaca prin ea
+- Am readaugat mazga albastra din jurul scuipatorilor infectati la cererea publicului
+- Am redenumit "tarnacop obisnuit" in "tarnacop"
+- Am adaugat un sfat pentru tutorial care explica cum poti restarta tutorialul, pentru jucatorii care nu sar peste acesta sau nu il completeaza.
+- Am imbunatatit logica de sapare a lui Bosco pentru a-i reduce tendinta de a ocoli si a sapa de pe partea opusa a zidurilor de pamant compact
+- Am imbunatatit iconitele cosmetice pentru a arata cum trebuie efectele si culorile unor surse de lumina
+- Am redus la 13 obiectivul eventului de Infectie Kursite pentru confruntarea cu Mactera
+- Am ajustat rata de spawn a inamicilor mactera infectati cu kursite din masinaria de event, pentru a asigura ca poate fi completat mereu 
+- Am reparat un bug care cauza bormasinile intarite sa nu scoata sunet la prima lor folosire intr-o misiune
+- Am reparat un bug care cauza ca si caracterul selectat sa se schimbe in cel precedent la intoarcerea dintr-o misiune
+- Am reparat un bug care cauza eticheta de pe Red Rock Blaster sa fie vizibila in terminalul de selectie a caracterului fara buff
+- Grenada GCP nu va mai fi afisata ca unealta de ajutor in terminalul pentru echipament. Acum este categorizata corect ca si proiectil.
+- Am reparat un bug ca butoaiele explozive sa aiba un nume cand sunt afisate pe indicatorul laser
+- Am reparat un bug in care saritul de pe tiroliana era foarte inconsistent ca si client. Sarind si mergand inainte vor cauza o saritura de pe tiroliana, iar un simplu salt va rezulta in picaj obisnuit.
+- Am ajustat marimea fontului si culorile pentru fereastra de completare a sarcinii
+- Am reparat buguri in generarea terenului care cauzau ca tunelele sa nu duca complet la pesteri.
+- Am reparat o eroare la texturi in cabinele personale
+- Am reparat un bug care prevenea hostarea jocurilor dupa resetarea progresului
+- Am reparat un bug care cauza ca scuipatorii infectati sa traga in directii ciudate daca intrai la adapost cand incepea sa traga
+- Am reparat un bug care cauza sunetul de tragere a armei sa persiste daca un jucator se deconecta in timp ce tragea
+- Am ajustat pathfinding-ul breederului naedocit pentru a evita ca acesta sa treaca prin teren
+- Am reparat un bug la sunetul pietrelor de pe tavan in Grotele de Sare
+- Am reparat un bug care premitea jucatorului sa salute in timp ce folosea indicatorul laser
+- Am marit durata de invulnerabilitate pentru jucatorii care se alatura in mijlocul meciului pentru cateva secunde dupa ce aterizeaza.
+- Am reparat un bug cu decalurile fiind prezente pe indicatorul laser
+- Am reparat cateva probleme legate de coliziune pe statia spatiala
+- Am reparat un bug care cauza ca sunetele de asteptare ale glyphizilor sa se aude in timp ce erau inghetati
+- Am reparat contorul de pe tunul criogenic pentru a nu mai experimenta atata agitatie
+- Am reparat un bug care cauza nivelul de pericol sa nu fie actualizat pentru clienti daca hostul schimba doar nivelul de pericol si nu intreaga misiune
+- Am reparat un bug care cauza ca mini mules sa se spawneze deasupra masinariilor de event
+- Am reparat un bug care facea cauza capsula de evacuare sa aterizeze sub masinariile de event si alte obiecte similare
+- Am reparat un bug care cauza ca meniul de optiuni grafice sa nu se potriveaza cu ratia de aspect 4:3
+- Am reparat un bug care cauza sloturile de loadout sa se suprapuna cu descrierile
+- Am ajustat locatia promptului de activare pentru terminalul de promovare
+- Am reparat un bug care cauza unele terminale de pe statia spatiala sa nu arate un titlu pe monitorul acestora
+- Am reparat cateva notificari de tip "Noi Obiecte Disponibile" pe cateva terminale in statia spatiala
+- Am reparat un bug care cauza ca si BET-C sa fie extrem de agresiva catre noi gylphizi imblanziti, tragand in acestia constant. Nu mai fi asa geloasa, BET-C.
+- Am reparat un bug care cauza ca unii jucatori sa nu poata fi reinviati daca au murit in timp ce erau pe o tiroliana
+- Am reparat un bug care cauza ca si capsula de evacuare sa aterizeze in locatii imposibil de accesat, de exemplu in varful unui tunel de aprovizionare
+- Am reparat un bug cu abilitatea de Dash care se activa aiurea pentru jucatorii cu preferinte hold-to-sprint
+- Am reparat un bug care cauza ca indicatorul de laser sa fie echipat in jucatorii pusi la pamant
+- Am reparat un bug care cauza ca particulele de la  tunul criogenic si lansatorul de flacari sa dispara brusc daca schimbai arma in timp ce trageai
+- Am reparat un bug care cauza ca jucatorii sa fie dezarmati daca sunt intrerupti in timpul unor actiuni
+- Am reparat un bug care cauza ca etichetele de nume de la Mixer sa aiba coliziune si sa blocheze gloante
+- Glyphizi de ebonita nu mai pot fi atacati de catre Bosco sau santinele
+- Am reparat un bug care cauza ca securea de impact sa cauzeze daune si jucatorului la anumite unghiuri
+- Am reparat un bug care cauza hinturile de tutorial legate de Bosco sa apara si fara ca Bosco sa se afle in misiune
+- Am reparat un bug care prevenea animatiile tarnacopului in persoana a treia dupa un atac puternic
+- Am reparat o problema de sincrionizare pe partea clientului care cauza ca generatorul de scut sa cada prin teren
+- Am reparat un bug legat de statistici si cate nuclee de matrix a forjat un jucator
+- Am inlaturat un artefact negru pe terminalul tarnacopului
+- Am reparat muzica de extragere din a se opri prea devreme daca un val de inamici incepe exact inainte de a apasa butonul pentru a chema capsula de evacuare
+- Am reparat pretul pentru modul "Penetrare" pe taietorul de brese
+- Am marit draw distance-ul ramasitelor de oua extraterestre
+- Am reparat un bug care cauza preview-ul pentru Explorator si Inginer in meniul de ESC sa fie la un unghi diferit fata de Mitralior si Excavator
+- Am reparat un bug legat de functionalitatea confirmarii "Tasta deja in uz"
+- Am ajustat descrierea atributului Berserker pentru a fi mai precisa
+- Am reparat promptul pentru "Recupereaza Salvarea Jocului" sa fie mai putin deranjant
+- Am reparat un bug care permitea lui BET-C sa traga prin generatorul de scut
+- Am reparat un bug care cauza sa tragi la infinit cand reveneai in joc dupa ce apasai ESC
+- Am reparat un bug care cauza hintul pentru tutorialul de reaprovizionare sa nu fie tot timpul aratat 
+- Am reparat un bug care cauza ca tutorialul pentru indicatorul de laser a lui Bosco sa nu poata fi completat
+- Am reparat un bug care cauza textul de pe terminalul de schimbat minerale sa nu fie centrat
+- Am reparat un bug care cauza capsula de evacuare sa nu coboare daca te alaturai unui meci in progres
+- Am reparat displayul recompenselor pentru maiestria de forja pentru a arata nucleeele corecte in cazul in care ai toate overclocks si/sau toate nucleele cosmetice
+- Am adaugat Romana si Vietnameza la lista de limbi suportate (WIP)
+- Am reparat un bug care cauza ca tortele armei cu torte sa lase un collider de dimensiuni mici in spate daca acestea loveau alti jucatori
+- Am reparat un bug care cauza atacul puternic al tarnacopului sa nu cauzeze daune daca loveai in aer sau o textura ce nu apartine de teren sau inamic
+- Am reparat un bug care cauza ca atacul puternic al tarnacopului sa nu cauzeze daune inamicilor mai mari daca loveai parti indepartate de corp
+- Am reparat un bug care cauza deseori masinariile de event in Coridoarele Nisipoase sa pluteasca in aer
+- Am fixat overflowul si multe greseli de scriere in manualul minerului
+- Am fixat o greseala de scriere la pozitia de victorie "Incordare"
+- Am reparat un loc liber de sub jocul Barel Hoop pe statia spatiala
+- Am fixat marimea promptului de revendicare a recompensei pe terminalul comunitatii de mineri
+- Am modificat ca tarnacopul si tortele sa nu mai fie atat de mari in terminalul de echipament. Acum chiar incap pe ecran.
+- Am reparat un bug care causa ca graficele pe terminalul comunitatii de mineri sa fie taiate
+- Am cauzat un bug care cauza ecran negru in loc de avertismentul "Steam nu este pornit" la lansarea jocului
+- Am reparat un bug care bloca bormasinile intarite cand sapau prin teren. Acestea prioritizeaza saparea terenului peste lovirea inamicilor daca te uiti la terenul din fata ta
+- Am reparat un bug care cauza plantele explozive sa nu se genereze optim in Coridoarele Nisipoase
+- Am reparat un bug care cauza ecranul de incarcare pe nava spatiala sa se afiseze intre stagiile expeditiei adanci
+- Am reparat un bug care prevenea animatiile de ametire ale bombardierului de mazga mactera
+- Am reparat un bug care cauza probleme cand te alaturai in mijlocul meciului
+- Am reparat un bug pentru a preveni inamicii din a ataca sau prinde jucatori prin zidurile capsulei de evacuare
+- Am reparat un bug care permitea tiranului glyphid sa arunce jucatorii doborati
+- Am reparat un bug care cauza armelor cu burst sa continue rafala in mijlocul unei alte rafale daca arma era schimbata inainte de a termina toate gloantele din rafala respectiva
+- Am reparat un bug care cauza ca securile de impact sa nu aiba nume pe indicatorul laser
+- Am reparat amplasarea gresita a butonului de gravitatie pe nava spatiala
+- Am reparat un bug care permitea lootbug-ului sa poata misca in timp ce era inghetat
+- Am reparat un bug care cauza ca OC-ul "Gloante Super Subtiri" sa nu afiseze detaliile corect
+- Am reparat un bug care cauza ca securile de impact sa nu aiba sunet cand erau recuperate
+- Am reparat un bug care cauza stupurile deeptora sa nu fie afectate cum trebuie de otrava, radiatie si frig
+- Am reparat un bug care ii permitea lui BET-C sa traga in timp ce se afla intr-un zid
+- Am reparat thumbnail-ul pentru vopseaua "Incoruptibil" pe tarnacop
+- [XBOX] Am reparat o problema care cauza controllerele sa afiseze avertismente de signout cand se deconectau
+- [XBOX] Optimizari la sistemele de lumini
+- [XBOX] Am reparat un bug care preveneau butonul [B] din a fi inregistrat cum trebuie cand cumparai accesorii din magazin
+- [XBOX] Am reparat un bug care prevenea jucatorii din a parasi terminalul de promovare si cel de selectie a caracterului prin butonul [B]
+- [XBOX] Am reparat un bug care cauza unele prompturi de confirmare sa nu coopereze cu inputul de la controller
+- [MS STORE] Am reparat un bug care prevenea tasta backspace din a functiona pe text chat
+"
+
+Namespace Resources (1 keys)
+	Gold_Description = "Mineral prețios (Credite)"
+
 Namespace Skins (1 keys)
 	GlyphidHide = "Vânător de Trofee Glyphid"
+
+Namespace SpacerigTerms (1 keys)
+	Medbay = "Medical"
 
 Namespace UI (3 keys)
 	Hazard = "Pericol"
