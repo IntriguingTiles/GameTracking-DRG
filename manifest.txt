@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 5725216437421513826 / 06/10/2020 12:50:29
+Manifest ID / date     : 644449839124535350 / 06/12/2020 09:58:36
 Total number of files  : 116
-Total number of chunks : 2023
-Total bytes on disk    : 1913270621
-Total bytes compressed : 1651076992
+Total number of chunks : 2030
+Total bytes on disk    : 1913988817
+Total bytes compressed : 1651768480
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -136,12 +136,12 @@ Total bytes compressed : 1651076992
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content/Paks
-      11192864     13 24ED9882D44A151ADBD808222E17F8D586D1B6A9     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
+      11192864     13 988C450E8126EF1CD42F73C89E2736A9F8F12DED     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
              0      0 0000000000000000000000000000000000000000    64 FSD
         517632      1 4A66A4E435BB71AEE796E8AE183440FE322D1481     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      60083200     58 443D53673A4A36D25FA638167EAE3AD5A1C2E898     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+      60085248     58 66A274C6894D6D87A708514F6E2D5F1AE1296CEE     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
        4327248      5 031766199999581C94CE46188777D3FBDA9E31D7     0 FSD/Binaries/Win64/dbgeng.dll
        1369936      2 EC3A7FD5861447D615968C51E507CD376A48BD6B     0 FSD/Binaries/Win64/dbghelp.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
@@ -163,7 +163,7 @@ Total bytes compressed : 1651076992
       23800867     23 FFEBCBFD6DEFFF1C7A57F684A2626420E2A67AC5     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SaltPits_New.mp4
       25906254     25 F9D9627C3B1C996F0A8DDF433368E89398C781CB     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SandblastedCorridors_3_BrightnessUp_adjustcolor.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-    1191875069   1257 78A9BCAD50826610DBC9C23E10785C24FB7D65D8     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+    1192591217   1264 BA942BC9683294D7346C4936BF316C10F15D4D74     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins
@@ -178,5 +178,5 @@ Total bytes compressed : 1651076992
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64
         400392      1 0B9715D71EF16CA7EA9DDA0BAC6A3944CFA01955     0 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64/discord-rpc.dll
-          1216      1 384B8983646DDC23C7BCAD4351E59EC669FCDC45     0 Manifest_DebugFiles_Win64.txt
-          9524      1 B383DB6DDEEEBAC1F9D4AF17443E2BCFC0B05952     0 Manifest_NonUFSFiles_Win64.txt
+          1216      1 6CD63CF8047E596A73B7FB5DEC9E85B3C9B5CE4D     0 Manifest_DebugFiles_Win64.txt
+          9524      1 389A46BBC498F28D4764028BAB956265F4C0B8FE     0 Manifest_NonUFSFiles_Win64.txt
