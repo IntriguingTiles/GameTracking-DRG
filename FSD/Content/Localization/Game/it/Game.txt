@@ -1,8 +1,8 @@
-9495 entries
+9537 entries
 32 namespaces
-7612 values
+7653 values
 
-Namespace Global (8747 keys)
+Namespace Global (8788 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        resetta        "
 	C96469B045023AF918296D97182165AB = "        resetta        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Scatola Nera pronta e in accensione. Perderemo la connessione se non state vicino, quindi cercate di non lasciare la Zona di Triangolazione segnata!"
@@ -323,6 +323,8 @@ Forgiare aumenta la tua maestria. Ogni nuovo livello ti ricompenserà con un <hi
 	CE3FA55C46C3C84DFDF283BD02FD6295 = "Un cambiamento nella miscela di carburante insieme ad alcune modifiche pesanti all'unità di raffreddamento significano che congelerai meno e ucciderai di più con frammenti di ghiaccio affilati come rasoi. Tuttavia, la capacità della camera di pressione ne soffre. "
 	7435446A498DCA82AF5FBFBC1C21052D = "Una classica dimostrazione di cruda e subdola potenza."
 	D10328894C337CD79FD58B89B9F038CA = "Un classico secoli fa"
+	0AEF446B46A1CAFF96311EAF12282EC2 = "Parente dello Sputa Acido, lo Sputa Ragnatele è in grado di sparare globi di ragnatela estremamente appiccicosi che intrappoleranno e immobilizzeranno qualsiasi preda, permettendogli di raggiungere e uccidere con i loro tempi. Relativamente mansueto rispetto al resto della sua razza, ma comunque capace di essere letale durante un'assalto dello sciame."
+	D7D3012A4080802261AEB99A56D74FD3 = "Un parente del Detonatore Glyphid con una mutazione che fa rabbrividire. È letale tanto quanto suo cugino, essendo in grado di rilasciare la stessa onda d'urto devastante e un'esplosione nel suo raggio d'azione. Ma invece di distruggere l'ambiente circostante a causa dell'estremo calore rilasciato, avviene una reazione chimica molto particolare. Tutto quello che viene colpito dal raggio dell'esplosione di un Detonatore Crassus si trasforma in oro. Incredibile."
 	FAC643DB471C14DA5082A08DB3974379 = "Una conversione completa dell'arma per sparare proiettili molto compatti. Aumenta la dimensione delle munizioni e del caricatore e riduce il rinculo, ma al costo del danno puro ridotto."
 	4DCC75AA4AF7E72A261F73B7CDB1D4D7 = "Dei boccali di Canary, grazie!"
 	10EBE9914309B112BED94D8ACB15BFE8 = "Un revolver personalizzato che spara colpi talmente grossi da avere solo 4 proiettili. Quasi nulla può resistere ad un colpo diretto di uno di questi mostri da 26mm."
@@ -796,6 +798,7 @@ Ma adesso, abbiamo bisogno di voi più che mai! Dobbiamo far sapere al mondo del
 	9A7702554B1357270874E2BD029DC56C = "Torretta Automatica in arrivo!"
 	8D65B5C74686C2830625E8ADB997CA61 = "Torretta Automatica richiesta!"
 	5E0306A7409B35CD4209E3A886811A0B = "Fuoco Automatico"
+	D5CECB814E398CF289935FB479060317 = "Automa"
 	4A5096184B9F803F71901A93EA7714A6 = "Torretta automatica arrivata!"
 	154BF6EC48DDD68D17D99D9F9E4FEEAC = "Punti abilità disponibili:"
 	9E0401B9405BE9FA5B7951A8C362B3E6 = "Punti abilità disponibili:"
@@ -1545,7 +1548,7 @@ Personaggio"
 	4126990446E4412E7F139181D9C7F566 = "Combattimento"
 	428D1CAE4CC64C4A632217AF2202B95D = "Combattimento"
 	D236D4724DC3180099203A88AE4AD28C = "Mobilità in Combattimento"
-	9C91732342B8BE7D693DBC8DE063CEAB = "Consiglio di Combattimento"
+	9C91732342B8BE7D693DBC8DE063CEAB = "Consiglio di Combat."
 	6F80AA9449DB3236766ABDB2954B99DC = "Alle postazioni di combattimento! Lo sciame è qui!"
 	903372BC40BB7E9F118B14A97DFC7E2A = "Danni Combo"
 	5DD83DC24C1A6802DBE6C09ED510D448 = "Vieni a prendermi disgustoso insetto!"
@@ -3712,7 +3715,7 @@ Gioca alla versione 1.0 pre-rilascio nella Versione Sperimentale e dicci la tua
 	CDC237994EF10DAC827317AE01EDF4AB = "Spero che questo giorno sarà meglio di ieri!"
 	665339684E8DEE84F642BE93D03E79A4 = "Sensibilità Orizzontale del Mouse"
 	2D3616864CCD114C352D768524620CCF = "L'host ha sciolto la squadra"
-	5DB06C2E4767C351EEDBF3AAD02CD0EC = "Ospita: Solo Amici"
+	5DB06C2E4767C351EEDBF3AAD02CD0EC = "Host: Solo Amici"
 	474D2304485CCA3E89CAE2B8EB06330F = "Host: Pubblica"
 	030F6AD844949B06D0A3DC823B4008AB = "Host Pubblico"
 	62725DDA48CFD7061B7D9BB69399C458 = "Ostile!"
@@ -4285,12 +4288,15 @@ Vota per DRG e ottieni un Elmetto dell'Evento Speciale dal Negozio!
 	F785D5C641A9A9CDA271DB81A58229B1 = "È a terra! L'ha ucciso il lavoro di squadra secondo me!"
 	FBCC8A5446B26A72CB09AA9CA3BE8C72 = "È a terra! L'Abbiamo preso!"
 	705E97F140F280FD0FEBBFADE2F09ECE = "È a terra! L'Abbiamo preso! "
+	8BF4B32044FD541366243498656FBF85 = "Su Hoxxes è ognuno per sé, e la vita non vale niente. Tuttavia, qualsiasi mente malvagia abbia inventato queste cose, è veramente fuori di testa. Queste larve invasive si insedieranno in qualsiasi cosa biologica se gli viene data anche solo una mezza possibilità e si moltiplicheranno in modo aggressivo una volta trovato un bel nido. Elimina i portatori e le larve con estremo pregiudizio. Le storie che abbiamo sentito dai nostri predecessori su Hoxxes non sono per bambini."
 	0F4294174812E4871D9D67BE83F22613 = "Finalmente è morto! "
 	6098029E4A681287AEFD0DB4D938A4A4 = "Si sta facendo buio! "
 	53CF8FEF453FD79F589CFFBE8A97C532 = "Sta diventando spaventoso qui dentro...!"
 	524BFE9F40190E592013B2884E98E0D0 = "È solo una brezza!!!"
 	BCBA5EA144FC20A4B2AF5984A3EF6FAF = "È solo uno spiffero!!!"
 	090A524347890F5EDC2313ABDAEF06B1 = "È come se sapesse cosa farai prima che lo tu lo faccia, compensando il rinculo e diffusione del colpo ma il sistema richiede un rateo di fuoco minore e la culatta modificata riduce il danno complessivo."
+	210CFE234702C9B49C3A6B9CBD3C37A4 = "È stato a lungo teorizzato che il silicato organico noto come ebonite possa indurre effetti psicotropi, ma solo recentemente è stato visto infettare e fondamentalmente controllare varie sottospecie di glyphid locali. Come e perché ciò accada è ancora oggetto di accesi dibattiti, ma gli effetti sono chiari: peggiora ulteriormente i glyphid già pericolosi, coprendoli in strati di crescite ablative simili a rocce in grado di resistere praticamente a qualsiasi proiettile di calibro standard. L'unica soluzione che la R&S ha finora è quella di avvicinarsi con attrezzature minerarie sovralimentate come i picconi e letteralmente spezzare le creature con impatti fisici sostenuti. Questo è ovviamente molto pericoloso, ma è per questo che stiamo inviando i nani."
+	B9D9205D4B41FC332021DB98FF93169A = "È stato a lungo teorizzato che il silicato organico noto come ebonite possa indurre effetti psicotropi, ma solo recentemente è stato visto infettare e fondamentalmente controllare varie sottospecie di glyphid locali. Come e perché ciò accada è ancora oggetto di accesi dibattiti, ma gli effetti sono chiari: peggiora ulteriormente i glyphid già pericolosi, coprendoli in strati di crescite ablative simili a rocce in grado di resistere praticamente a qualsiasi proiettile di calibro standard. L'unica soluzione che la R&S ha finora è quella di avvicinarsi con attrezzature minerarie sovralimentate come i picconi e letteralmente spezzare le creature con impatti fisici sostenuti. Questo è ovviamente molto pericoloso, ma è per questo che stiamo inviando i nani."
 	530AC85E48E6076E28CADBAF7F418EFC = "È finita! L'abbiamo fatto secco per bene!"
 	CCD372FB41EF89801ABD508BCE38210F = "E' pronto!"
 	B235A0E24E409B676F9D5DB60875A559 = "Mi sta rallentando!"
@@ -5309,10 +5315,12 @@ D'altra parte, le armi ad area d'effetto e quelle basate su flussi freddi o di f
 	829D7D4D43C14CDAB4C4B883BFBEB5C8 = "Riproduttore Naedocita a terra!"
 	59F93C7E4F93D74F2E8C5E89FCB910BC = "Riproduttore Naedocita eliminato!"
 	2BBB86D74B4007345E5FE59A303DD561 = "Riproduttore Naedocita!"
+	A51FEF44428231A107771D800F3972FD = "I Riproduttori Naedociti fungono da navi madre del Collettivo Naedocita e forniscono un collegamento mentale costante tra tutti i Naedociti vicini. Sono noti per percorrere grandi distanze avanti e indietro per verificare la loro miriade di depositi di uova e mostrare un livello di solenne tenerezza che è quasi inaudito su Hoxxes. Tuttavia, il loro costante deposito di nuovi gruppi di uova costituisce una minaccia diretta per le operazioni di DRG e qualsiasi Riproduttore Naedocita deve essere sterminato a vista. Inoltre, nonostante le apparenze, sono deliziosi con uno spritz di limone."
 	877DA7B04E1FCD243FCFA8A634121CB0 = "Naedocita Cavernicolo"
 	EF6198904551C4B78A83A19B6EDE26D6 = "Piccolo di Naedocita"
 	F39DD3C940A4BA9F0EC6B0AD6B5EAE02 = "Uovo di Naedocita"
 	9E7E46A646D581B24D97748DD8C57FB9 = "Naedocita Elettrico"
+	1191C0424A1A35BCA0CE25946703F888 = "I Naedociti Elettrici sono i soldati del Collettivo Naedocita, che di solito si trovano a vagare in grandi sciami. Il loro obiettivo primario è quello di proteggere i loro Riproduttori, nonché di accumulare cariche elettrostatiche ambientali che servono sia come fonte primaria di nutrimento sia come principale metodo di attacco. Un gruppo molto singolare di nativi su Hoxxes, ma da non sottovalutare, nonostante il loro aspetto quasi carino. Abbiamo già perso molti minatori a causa loro."
 	9B8E7DC047DF83458926B6A1D5B9DC5D = "Riproduttore Naedocita"
 	50AF1A424AEEE741C7E140B4E9286AA7 = "Nooo...questo!"
 	84C945F848FA7F317C32F79C126EB5DC = "Chiodi + Nastro Adesivo"
@@ -6075,6 +6083,7 @@ La Direzione"
 	042D2BD5443BC510B47193AB5489E21E = "Pretoriano a terra! "
 	A7017FE64D544727470DACA1FE1327B7 = "Assalto dei pretoriani in arrivo! "
 	65DF5AA042A7B6EB4A635DBDA65F76C0 = "I Pretoriani stanno attaccando! Fategliela vedere!"
+	F96004D547224AD16372178E7E6D1B09 = "I Pretoriani nelle zone d'esclusione radioattive di Hoxxes mostrano la loro solita tenacia e adattabilità della loro razza illegittima. In poche parole, assorbono radiazioni come caramelle e le usano nei loro attacchi con conseguenze devastanti. È consigliata una distanza di sicurezza minima di almeno 15 metri in qualsiasi momento, sia il loro respiro radioattivo torci barbe che l'esplosione letale di radiazioni che rilasciano dopo la morte li rendono un formidabile nemico per il nano catturato alla sprovvista."
 	F3D7BC164295EDC11CEEC296CE69427F = "Veneratemi"
 	5A6584B140CF654F17EC2E86FCF2F384 = "Minerale Prezioso (Crediti)"
 	906E755D45F5E471256F948D8B0664E3 = "Minerale Prezioso (Crediti)"
@@ -6210,6 +6219,7 @@ Guadagnerai un DISTINTIVO D'ONORE e MANTERRAI tutti i progressi su armi, abilit�
 	BA35A6794521F32A15B9849DAF3E96D8 = "Onisco Q'ronar"
 	3641333547906F599E50448DBE0EF854 = "Onisco Q'ronar!"
 	0FDFBCBF4D09BBA9D1FC409AC83343B5 = "Q'ronar Giovane"
+	3272D9EE4FC1A777DC71A9886FF1331A = "I Q'ronar Giovani hanno le stesse pecche dei loro simili più anziani, se togliamo il fatto che non hanno ancora sviluppato l'abilità di sputarti dell'acido addosso e che la loro armatura non è nemmeno lontanamente resistente ai proiettili quanto quella degli adulti. Uccideteli a vista."
 	4F009E9E484DAF24B819B69C82444A9A = "QA & Manager della Community"
 	C84DE27F4181F34F7C371F9253E67E2F = "Tester QA"
 	4C37D3F0483CD2623E7B27B036BABE09 = "UNIONE
@@ -7004,6 +7014,7 @@ Le trecce sono la risposta - o, in questo caso, una treccia per dominarli tutti!
 	B40221884B79B44599A279908B225246 = "Sobrio e intimidatorio."
 	9F7CF14F4B657F916407A384E4760A81 = "Della Birra Azgaraz, grazie!"
 	9ECCC526469C972F90BAA195B77C7432 = "Amore Bruciante, grazie. E rendilo frizzante!"
+	CC5D8E8C45F19C3ABD381B9E5F5DCA33 = "Alcuni pretoriani si sono adattati al freddo gelido degli strati di permafrost di Hoxxes, sostituendo gran parte dei loro fluidi corporei con un composto organico non troppo diverso dall'antigelo commerciale. Il Pretoriano del gelo espirerà violentemente uno spruzzo congelante, in grado di bloccare quasi tutto davanti a lui, per poi tentare l'uccisione."
 	FFD1A99C491757B5CC34CD895F2F960B = "Un po di Rats dalla bottiglia Lloyd!"
 	C0584F2143AD87B6AF4EC6997C766ED5 = "Delle Rockbearer per la squadra Lloyd!"
 	227E630D46AF82BE8A54418C1C5C0CD7 = "Del Malto Roccioso per la tavolata, grazie!"
@@ -7041,7 +7052,7 @@ Le trecce sono la risposta - o, in questo caso, una treccia per dominarli tutti!
 	7F97A3E04517768226AAAFAAE2116ECF = "Volume Effetti Sonori"
 	9571618340ED09ABE651E1BE3D40B760 = "Motore Teleferica Potenziato"
 	30226DDE48D7C97FA099289C45F4110E = "Ci sono fonti radioattive in tutta l'area. Davvero pochi organismi riescono a sopravvivere in queste condizioni, perciò è presente un leggero strato di polvere che copre la maggior parte del terreno."
-	0CB5C61C419492BAE5A2BC80CB6E9474 = "Genera"
+	0CB5C61C419492BAE5A2BC80CB6E9474 = "Prole"
 	289910CA436F261AC3BC229281DCFE74 = "Genera"
 	6773C2644584E946B5F0DAB81D1C2BA3 = "Radiofaro del Punto di Spawn"
 	A8B57F344D4006273947E5BFC43B5FFC = "Genera Nemici"
@@ -7515,25 +7526,46 @@ Ora potrai ospitare ed unirti alle <highlight2>Immersioni Profonde</> e guadagna
 
 Ora puoi creare e unirti alle <highlight2>Immersioni Profonde</> e guadagnare <highlight2>Nuclei Matrice</>, che possono essere usati per forgiare Overclock per Armi, Cosmetici e Skin per Armi."
 	CD3FEF7749F7C8D936D3A9A7A21FA125 = "L'Asso di Picche"
+	86EAF605455BFA122BF52C933C21CDDB = "Lo Sputa Acido è un altro membro offensivo del terribile gene Glyphid. Le parti della bocca dello Sputa Acido si sono evolute in un meccanismo quasi a forma di balestra, permettendogli di penetrare gli intrusi con vili punte acide. Per aggiungere danno alla beffa, sono veloci, agili e aderiscono a soffitti e angoli bui. Dai la priorità alla loro eliminazione, possono causare danni enormi anche ad una squadra ben strutturata."
+	251CA1A64234245A9377D48F3DB3898C = "La piattaforma di armi autonome BET-C è un residuo dei primi tentativi di domare Hoxxes. Purtroppo, fu presto scoperto che una specie locale di parassiti, i succhiatori di carica Xynarch, non poteva chiedere niente di meglio che corrompere la programmazione delle unità BET-C rimpinzandosi del cablaggio di rame e della carica elettrica all'interno. Qualsiasi BET-C ancora lasciato su Hoxxes dovrebbe essere trattato con estrema cautela: questi mech sono stati progettati per affrontare il peggio di Hoxxes e devono essere trattati come tali. Tuttavia, se una squadra mineraria dovesse essere in grado di rimuovere i parassiti, potrebbe semplicemente ottenere un nuovo alleato temporaneo."
 	A0BFE00641AE58A0C6F978A3C2EA88BD = "Il Distributore di Barili è da questa parte! "
 	958CCCA1475B627EAE9827996ECCA8D5 = "La Scatola Nera"
 	53B881384F5D66E483A0D0BB2A18C186 = "La Taglierina da Sfondamento rilascia esplosioni direzionali di plasma caricato con cariche di energia abbastanza potenti da poter affrontare la maggior parte degli alieni sul tuo cammino. Originariamente uno strumento di scavo, ora è stato sintonizzato sulla frequenza per rompere carne e ossa piuttosto che per i depositi di sedimenti per cui è stato progettato, spesso con risultati piuttosto spettacolari!"
 	FB67E8944BE133B61BDEF6960AA5B321 = "Il Riproduttore espone il suo punto debole solo quando si Riproduce"
+	803ABF8342518A3753DD2AAFE95DA547 = "Il Nucleo Covata è uno dei grandi misteri di Hoxxes. Mentre sappiamo per certo che i Glyphid si schiudono dalle uova, queste protuberanze organiche maleodoranti espellono niente di meno che sciami di glyphid appena nati e famelici. Si ipotizza che il Nucleo Covata sia un genere completamente separato, in qualche modo in grado di replicare il DNA di altre specie e utilizzare i loro "schemi" per la propria protezione. Ad ogni modo, se ne incontri uno, eliminalo con estremo pregiudizio."
 	C5EA78A64081F0F78B26C0B6873826ED = "Il Bulldog"
+	99934C9F4B6EDFE1CC66D5BF2F0462B7 = "Lo Strisciante di Caverna è un docile membro della famiglia Naedocita. Sembrano fluttuare per lo più succhiando la carica statica dall'ambiente circostante, ed essendo per lo più ignari degli eventi che lo circondano. Sono innocui. "
+	CD44D93546BF074402B761AE56621469 = "La Sanguisuga di Caverna è la ragione della lunga campagna informativa su tutte le Stazioni Spaziali DRG "Stai attento, Guarda in alto". È un sacco immobile e tentacolato di grasso sospeso su soffitti appartati all'interno di caverne particolarmente scure, in attesa di qualcosa di carnoso e inconsapevole che passi e diventi uno spuntino ignaro. Come dice sempre Ranger Garfax: "STAI ATTENTO. GUARDA IN ALTO""
+	2E666FC54145240A07AE76917AC55464 = "Il Favo di Deeptora è la prova che non tutti gli artropodi crescono fino a misure gigantesche. Il Favo è una struttura organica facilmente riconoscibile, che può fare da casa anche a 10 milioni di droni Deeptora. Anche se non particolarmente pericoloso per i nani, è caldamente consigliato starci alla larga o di distruggerlo il più velocemente possibile con del fuoco sostenuto. Mortale o no, essere morso e punto da 100'000 insetti nello stesso momento non è mai divertente."
 	7BF891C9476B83B88EBB3C8E8E413593 = "Gli Scavatori di Sporcizia controlleranno ovunque! Raggiungeremo qualsiasi angolo, raccoglieremo qualsiasi minerale, e piazzeremo la nostra bandiera sul resto dei territori inesplorati. I Nani sono riusciti a raggiungere lo spazio profondo solo grazie al nostro desiderio costante di andare più in profondità. Gli Scavatori di Sporcizia scaveranno in profondità più di quanto qualsiasi nano abbia mai potuto sognare. Raggiungeremo il nucleo di ogni pianeta, per la Roccia e la Pietra!"
 	BDA60E0341790357F300C0BDC5F5E2CE = "Gli Scavatori di Sporcizia controlleranno ovunque! Raggiungeremo qualsiasi angolo, raccoglieremo qualsiasi minerale, e piazzeremo la nostra bandiera sul resto dei territori inesplorati. I Nani sono riusciti a raggiungere lo spazio profondo solo grazie al nostro desiderio costante di andare più in profondità. Gli Scavatori di Sporcizia scaveranno in profondità più di quanto qualsiasi nano abbia mai potuto sognare. Raggiungeremo il nucleo di ogni pianeta, per la Roccia e la Pietra!\n\nUnisciti a noi se l'esplorazione è quello che hai sempre voluto, e se reputi il richiamo di orizzonti lontani il richiamo più accattivante!"
+	B07F0FE34073431510E769AA7EA629F7 = "Le Pulci Marce nelle migliori delle ipotesi sono un fastidio, ma stanno rapidamente diventando un vero problema per le nostre operazioni. Sebbene relativamente innocue, sono conosciute per procreare a tassi esponenziali quando consentito, bloccando completamente le grotte di materiale organico e intasando costose attrezzature di estrazione. Qualsiasi dipendente che non elimina una Pulce Marcia a vista è soggetto a multe, rimproveri e peggio."
 	83DA1D3E47BB9896A10E68B4F3C70346 = "La Forgia"
 	D255EA4C42B9E62BC8F87BBFF5C76078 = "Il Franklin"
 	EEDDAA264AD231DE964E9DA8A3587EE2 = "I Frutti del mio lavoro!"
 	4FAE351F4602CE885CBE208EC0EC93F6 = "Il Guardiacaccia"
+	C4D5D4DA4AD3CC6EFB8D1FBA5140647B = "Il Glyphid Corazzato - il peggiore di tutti, e probabilmente la cosa peggiore che Hoxxes ci abbia lanciato. È veloce, intelligente, enorme e trasporta abbastanza bio-armi per combattere una piccola guerra. Presenta diversi metodi di attacco preferiti, tra cui il lancio di palle di fuoco oppure delle onde d'urto cataclismiche. Ha l'addome esposto per la dissipazione del calore come gran parte della sua specie, ma a differenza degli altri questo ha un guscio esterno duro che deve essere rotto prima di poter colpire le viscere più deboli. E per peggiorare le cose, è in grado di rigenerare detto guscio in pochi secondi. La principale raccomandazione di R&S per affrontare un Corazzato è semplice: Corri."
+	DB8DDB004C4F618BC2CC0BB3AA258813 = "Il Glyphid Esplosivo è una bestia curiosa e mortale, e alla R&S rimangono dubbiosi sul motivazione del loro comportamento: Se sia causato da un agente patogeno invasivo o sia dovuto all'evoluzione naturale. Ogni centimetro degli strati esterni del esplosivo è coperto da fragili vesciche di fluidi altamente volatili. Questi liquidi bruciano violentemente se miscelati, il che significa che un incontro ravvicinato può provocare sia ustioni di 3° grado dall'esplosione risultante, sia una grave lacerazione da schegge di chitina. R&S consiglia vivamente di tenerli a distanza di sicurezza - sono noti per tentare di scattare verso gli intrusi."
+	41EAD610414A67152F609E810D7FB728 = "Il Soldato Glyphid è il tipo di Glyphid più comune su Hoxxes, solitamente girano in branco. Piccoli (relativamente parlando) e agili, questi sono cacciatori molto agili e aggressivi, ostili verso chiunque si addentri nel loro territorio."
 	D66A736C4555F954C7313E91226A5B05 = "I Soldati Glyphid sono qui! Mostriamo loro la nostra stretta di mano speciale Squadra."
+	2E2F3F0641E31937FFDDAF9297431C6C = "La Guardia Glyphid è la mutazione di un soldato pesantemente rinforzata con le zampe frontali ricoperte di un denso strato di chitina molto resistente. Anche se il suo attacco non è più letale di un soldato comune la presenza di una Guardia in uno sciame va gestita con cautela, i suoi compagni meno resistenti sono abbastanza intelligenti da coprirsi dietro di loro."
+	98DCD041410F6ACD36DD14B12F96DBEE = "La Minaccia Glyphid non è, come si potrebbe supporre, un parente stretto del Glyphid Sputa Acido. Mentre i loro attacchi sono relativamente simili, in realtà rappresentano due rami completamente distinti dell'albero evolutivo dei Glyphid. La Minaccia è un problema esponenzialmente maggiore e mostra una raffinatezza quasi inaudita tra i suoi parenti. Si nasconde sui soffitti, celandosi alla vista, per poi emergere solo per sparare raffiche di esplosioni corrosive molto rapide a qualsiasi aspirante invasore. Da gestire con estremo pregiudizio."
+	01B9298B41262BD2DD31C394D521D647 = "L'Oppressore Glyphid è letteralmente un carro armato organico: Un pretoriano mostruosamente mutato, l'Oppressore è coperto in una chitina resistente ai colpi che rende inutile colpirlo frontalmente. Per fortuna, il loro addome rimane per la maggior parte esposto ad attacchi dai fianchi, ma non è certo una creatura che vuoi trovarti in spazi angusti. I loro arti sono abbastanza potenti da rompere la roccia come fosse burro, oltre ad essere in grado di produrre onde d'urto all'impatto. Stai molto attento alle tue mosse quando sei contro una di queste creature."
+	56A4840A4F22993459ABFAB0617008C7 = "Il Glyphid Pretoriano è due tonnellate di armatura, denti e artigli. È estremamente aggressivo e altamente territoriale. Vomita potenti spruzzi di veleno corrosivo ed è per lo più resistente ai proiettili dalla parte anteriore: entrambi ottimi motivi per tentare di attaccare i Pretoriani dal fianco. Inoltre, R&S consiglia di allontanarsi una volta che una di queste bestie muore: le loro sacche di veleno tendono a rompersi, coprendo l'area circostante in una mortale nuvola di vapore velenoso."
+	9557506D4E198B361A83FDB6B9A0CD08 = "L'Affettatore Glyphid è una mutazione più aggressiva del Soldato, equipaggiata con zampe mostruosamente grosse e mandibole in grado di rompere la maggior parte delle armature e stordire i nani più tosti. Sono perfino più aggressivi dei Soldati e sono un avversario terrificante da non sottovalutare mai."
+	9D5A46ED493861FB4DBAC6A87329139E = "Il Glyphid Assalitore è la più piccola variante nota di glyphid, appena fuori dallo stadio larvale e non ancora nel punto in cui sviluppa una significativa armatura. Sono abbastanza piccoli da essere principalmente eliminati con un singolo pestone o un proiettile ben posizionato, ma non lasciarti ingannare: i loro denti e artigli rimangono molto affilati e sono pienamente in grado di forare sia la pelle che le tute. Inoltre, saltano. La direzione raccomanda di indossare copricapo e occhiali protettivi quando si tratta di Assalitori."
+	CF8E972C4089A76F2D177B9387902BCD = "Il Guardiano Glyphid è una scoperta recente ed è una voce regale e terrificante nel catalogo in continua espansione della sottospecie Glyphid. Da ciò che la R&S ha raccolto, il Guardiano rilascia una miscela costante di feromoni che migliorano le prestazioni e il condizionamento telepatico di qualsiasi Glyphid nel suo raggio d'azione, aumentando enormemente le loro capacità di resistenza fisica. Una prospettiva terrificante, in realtà, data la rapida evoluzione delle specie di Glyphid, la Direzione raccomanda di uccidere ogni Guardiano che incontriamo. Immagina se mai evolvessero la capacità di influenzare le altre specie allo stesso modo."
 	96BD66AE4130384EE044F78F3FA2B574 = "Il <bold>dispositivo per l'attraversamento</> dell'Artigliere è un <bold>Fucile Spara-teleferiche</> che può essere utilizzato per superare buche ed altri ostacoli lungo il percorso. Premi <Equip3/> per <bold>equipaggiare il tuo strumento</>."
 	6D98BBFA4E2F389C147426919B030911 = "La versione della tuta MK3 per l'Artigliere incorpora un paio di innovazioni tecnologiche prese direttamente da R&D. Giunture ablative in Kevlar, giunture a zero-attrito, la lista continua e le teste d'uovo non possono che andare fiere di questa creazione."
+	57939F0E4C7C0FA6946A5ABDD274EEF3 = "L'Accumulatore Hooli è un docile erbivoro che mostra un tratto molto particolare per essere un nativo di Hoxxes: Non cercherà di ridurti in poltiglia. Invece, proverà a fuggire da qualsiasi tipo di conflitto, inclusa la possibile l'apparizione degli impiegati di DRG. Solitamente sarebbe meglio lasciarli in pace ma assorbono grandi quantità di minerali locali molto richiesti, perciò ucciderne uno equivale ad un bel bonus nella busta paga a fine missione."
 	CBDB1E31477DD016F971C1A1FA924788 = "Il GIC - o Generatore di Inibizione di Campo - è una delle ultime invenzioni della brava gente a R&S. Gettate uno di questi ragazzacci in mezzo ad un gruppo di insetti, e guardate come rallentano."
 	50FC4D3640CA7024816C1CB90BC14E4C = "L'Ascia da Impatto è una scelta da intenditore per il nano di domani. Compatta e facile da trasportare, si estende fino alla sua dimensione completa dopo essere stata lanciata, e scarica una raffica letale di elettricità all'impatto con un qualsiasi bersaglio vivente. Può essere recuperata in sicurezza dall'utente nel caso la sua mira non sia il massimo."
 	CA1A81CE43FBD8A749A8BCBDE1DFFE1A = "L'Unione dei Minatori Interplanetaria combatte per i diritti dei Nani Minatori in tutto il sistema del Rim Esterno! Unisciti ai nostri ranghi e fai la differenza per condizioni di lavoro decenti, ore di lavoro migliori, equipaggiamento che non ti esploda in mano, prodotti per capelli gratuiti e bevande meno costose! Per i Nani!"
 	D202C74A46223107A3D78F910770F286 = "L'Unione dei Minatori Interplanetaria combatte per i diritti dei Nani Minatori in tutto il sistema del Rim Esterno! Unisciti ai nostri ranghi e fai la differenza per condizioni di lavoro decenti, ore di lavoro migliori, equipaggiamento che non ti esploda in mano, prodotti per capelli gratuiti e bevande meno costose! Per i Nani!"
+	F5CDC12C4391BF56E8E76CB535338845 = "L'Erba-Tiranno Korlok è un agglomerato senziente di piante, in grado di lavorare insieme come fossero una cosa sola. Al centro, il cuore corazzato simile ad un mollusco della struttura, una fabbrica biologica che pulsa di cattive intenzioni. Circondato da germogli aggressive e attenti, pronti a sparare globuli di ichor pungente ai suoi avversari. Il Cuore mollusco proverà sempre a generare nuovi germogli, quindi cerca di distruggere questa dannata cosa prima che ne sputi fuori degli altri."
 	F68B3C6E49E17C8534E3279BE97F312E = "Il Puntatore Laser"
+	23E14161454A68641BE1E8A6D5E80022 = "Insetto Bottino è un termine affettivo coniato dagli impiegati di DRG per un'insetto docile, simile ad una larva avvistabile praticamente ovunque su Hoxxes, solitamente durante una delle sue tranquille passeggiate. Come altre creature su Hoxxes, la loro dieta consiste prevalentemente di silicati e roccia scistosa, il che vuol dire che le loro interiora tendono ad essere un deposito particolarmente ricco di minerali preziosi. Questa caratteristica li rende indigesti per le altre creature di Hoxxes, al punto da farli sentire sicuri verso qualsiasi creatura che si avvicini."
+	80A18F86492F2B92AC44939CBC52ABFB = "Insetto Bottino è un termine affettivo coniato dagli impiegati di DRG per un'insetto docile, simile ad una larva avvistabile praticamente ovunque su Hoxxes, solitamente durante una delle sue tranquille passeggiate. Come altre creature su Hoxxes, la loro dieta consiste prevalentemente di silicati e roccia scistosa, il che vuol dire che le loro interiora tendono ad essere un deposito particolarmente ricco di minerali preziosi. Questa caratteristica li rende indigesti per le altre creature di Hoxxes, al punto da farli sentire sicuri verso qualsiasi creatura che si avvicini."
 	7FF850FB48160411363934B3A419B674 = "Il M.U.L.E. è stato recuperato con successo. Fate in fretta, squadra! La Capsula da Sbarco non aspetterà per sempre!"
 	F40FCB9F4D89B70D3395DBB3BE9B4F5D = "Il M.U.L.E. è attraccato. Iniziata sequenza di lancio!"
 	B5F88B614F4D23D9FBB2E794B71A7DB9 = "Il M.U.L.E. è al sicuro! Deep Rock Galactic vi ringrazia per i vostri sforzi. Iniziata sequenza di lancio! "
@@ -7548,6 +7580,10 @@ Ora puoi creare e unirti alle <highlight2>Immersioni Profonde</> e guadagnare <h
 	C28E671A45A9BE49D0C173888F1C00DB = "Il TERMINALE DI MISSIONE ha una descrizione per ogni bioma e una lista di quali minerali puoi trovare all'interno di ognuno di essi."
 	B607F04F45EF5FFAE8ACFFADA89026D8 = "La linea MK3 di armature minerarie è il top della gamma e anche la versione ridotta offre numerosi miglioramenti rispetto alle tute precedenti. È dotata di celle di energia pesanti incorporate direttamente nella placcatura, nonché di pratiche tasche per spuntini - per non parlare di una radio FM nel collare."
 	02D367C647443B7BC2BCF597B5F60EF4 = "La Tuta da Artigliere MK5 ha parecchie somiglianze con le antiche tartarughe, il che calza a pennello. È una tuta per l'artigliere più esigente poiché offre protezione, mobilità e un comodo scorrimano dove i nani più piccoli possono aggrapparsi mentre tu fai capire chi comanda."
+	C08C559043183F85BFBB72B8FD3279D6 = "Il Bombardiere Mactera, il cugino gonfio e sovrappeso della Prole di Mactera. È un sacco grottesco di melma volante, che si tiene in alto mentre cerca di intrappolare tutti gli invasori in una melma appiccicosa prima di sparare dardi velenosi e pungenti alle sue vittime bloccate. Nulla di buono si può dire del Bombardiere Mactera, tranne per il fatto che ha punti deboli molto evidenti: i sacchi di melma sporgenti e esposti sui suoi lati. Spara a questi. Solo... non starci sotto quando lo fai."
+	58ADCB86462C1B284D6E5D89550C4B90 = "L'Arraffone Mactera è tra i più aggressivi dei Mactera. Cerca di piombare inosservato e raccogliere rapidamente una vittima ignara nei suoi arti lunghi e artigliati, dopodiché li fa cadere da una grande altezza sulle rocce sottostanti. Per qualche motivo questo comportamento è più accattivante se eseguito da uccelli terrestri, usando delle noci. Molti dipendenti segnalano un odio notevole per questa particolare razza, e per una buona ragione: i nani non sono noci!"
+	ADDE57BD418363DD5BC010B0F297C53E = "La Prole di Mactera è il più comune dei Mactera e illustra esattamente perché la posizione di DRG è quella di annientare completamente questa specie. Veloce, efficiente e assolutamente orribile, la Prole di Mactera farà del suo meglio per sopraffare i suoi nemici in numero, quindi entrerà in azione per liquidare e succhiare i resti usando una proboscide delle dimensioni e della forma approssimative di una baionetta della vecchia guerra. Spara per uccidere ogni volta che vedi uno di questi orrori volanti."
+	E62593B847EFA0A012B5D5AD3A890C6F = "I Mactera sono riusciti a trovare una nicchia per se stessi anche negli strati di permafrost freddi di Hoxxes, e il Mactera del Freddo Bombardiere è uno di questi adattamenti. Invece del pasticcio appiccicoso e caldo lasciato da suo cugino, questo ti intrappola in globi gelidi di schiuma a rapido indurimento. Si ipotizza che la schiuma sia in realtà una massa di microscopiche larve scavatrici, ma qualsiasi attività organica al suo interno cessa non appena quelle coperte al suo interno ritornano alle temperature normali."
 	F52D82A04BE7D4317B4D428A8D397DF4 = "La larva non è nient'altro che una larva, ma la confusione sia comprensibile, dato l'aspetto della creatura. Infatti, sono collettivi di creature simbiotiche più piccole, che lavorano insieme in modo da raggiungere la superficie del pianeta dove ambiscono a risucchiare radiazioni solari prima di tornare nelle profondità. Generalmente sono docili e inoffensivi, ma molti provano disgusto alla vista di queste creature e sentendo il loro odore incriminante scelgono di starci alla larga piuttosto che pestare per sbaglio l'equivalente di un pannolino sporco."
 	859C3A034BFDBBB6A971B3BFC687571D = "La Mezzanotte è vicina."
 	7F5A11AE40D1C4C048CFF18719B093EB = "Il Manuale del Minatore - un pezzo di letteratura indispensabile per molti impiegati di DRG! Nelle pagine di questo libretto tascabile, troverai informazioni importantissime su ogni aspetto della vita qui su Hoxxes IV con noi! 
@@ -7555,12 +7591,15 @@ Ora puoi creare e unirti alle <highlight2>Immersioni Profonde</> e guadagnare <h
 Sprofonda nella lettura di queste ricche guide sulle differenti regioni del pianeta, i preziosi minerali che si possono ottenere, e le guide approfondite su come diventare il miglior Minatore da Combattimento che puoi essere!
 
 Il Manuale del Minatore - mai uscire dalla Stazione senza."
+	B0D9BE964FE5C58C952BD194BB38B0BC = "Lo Squalo Nayaka è un onnivoro aggressivo che colpisce senza preavviso e tutti i dipendenti DRG dovrebbero prendersi il tempo necessario per conoscere bene i segni rivelatori di queste creature. Il Trawler ha sviluppato l'incredibile capacità di scavare nella roccia solida con tale facilità che si può dire che "nuota" attraverso il terreno stesso. Attaccheranno letteralmente tutto ciò che si muove, compresi i dipendenti DRG, e tenteranno di trascinare qualsiasi preda con loro nel terreno per essere fatta a pezzi dalla pietra demolita sul loro cammino. Un destino terribile, certo."
 	066713714F99E5091DE58D8687075EDD = "Il Piccone è lo strumento più importante nel repertorio di ogni nano. Usa il terminale per <bold>installare le parti</> che trovi e ti fanno sentire unico."
 	3F0A521F446BE3345EA1978F4EAC3231 = "Il Dispersore al Plasma fa più o meno quello che ti aspetti da un oggetto con un nome simile. Disperde 4 raffiche di plasma bollente in rapida successione dopo essere stata lanciata. Tenere lontana dalle barbe a tutti i costi."
+	99A987104882DECB873DAF8ABE37621B = "L'Onisco Q'ronar è un altro esempio di evoluzione che si scatena su Hoxxes. Fondamentalmente un insetto a forma di pillola da tre tonnellate con un brutto problema di reflusso gastrico. Si piega per formare una ruota ed è in grado di rotolare con grande velocità, usando il loro enorme peso e la robusta armatura per schiacciare qualsiasi cosa abbastanza sfortunata da essere sul loro cammino fino a ridurlo in poltiglia. E una volta che si stanca di ciò, potrebbe scatenare raffiche sfrigolanti di orribili globuli di acido intenso. Una creatura davvero orribile che dovrebbe essere evitata a tutti i costi."
 	BDC555B04347B711E259F19A7EC00A5F = "Il Rifornimento è qui!"
 	CDE0369F485F0684E9852696C226DC60 = "I Baratri Salati di Hoxxes una volta erano le dimore di un enorme lago sotterraneo. Esso si è prosciugato miliardi di anni fa e ha lasciato al suo posto degli enormi depositi di sale rosso cristallino. Il Sale rosso - anche se privo di valore - è molto gustoso sulle omelette di Glyphid."
 	9E30AD4649558B6A4B2BFBACF90C9750 = "L'Esploratore non è conosciuto per il suo equipaggiamento pesante. Ma a volte bisogna vestirsi adeguatamente, soprattutto se il lavoro è affrontare tre Dreadnought da 2 tonnellate a distanza ravvicinata. Stai al sicuro."
-	F30652A04EF35753392D79959047ABE6 = "La prole non può Scattare mentre sta caricando un'Attacco con Pungiglione, rendendolo un bersaglio più facile da colpire"
+	AFB3C793489CB7D3F9F0BB9F55F9C6EA = "L'Estrattore di Silicato è uno spettacolo raro su Hoxxes - una bestia veramente docile che non corre né tenta di ucciderti. In effetti, sembra per lo più ignaro di tutto, a parte la sua caccia rilassata per deliziosi oligoelementi e cristalli microscopici trovati nel terreno di Hoxxes. Sono grandi e amichevoli, la loro presenza è una tregua insolita ma benvenuta dal relativo caos circostante di Hoxxes."
+	F30652A04EF35753392D79959047ABE6 = "La prole non può Scattare mentre sta caricando un'Attacco Pungente, rendendolo un bersaglio più facile da colpire"
 	00A4F01C42005C8C2B6BEA8A9E714D06 = "L'Infettatore Sputapalle è impossibile da classificare come flora o fauna. Quello che si sa però, è che non apprezza i visitatori e, dopo essere stato svegliato, sparerà palle volanti di bile corrosiva a chiunque reputi un pericolo o un ospite non invitato nelle sue caverne. Immobile è bloccato al terreno della caverna da estesi arti-radici, non dovrebbero essere troppo pericolosi per i nani esperti. Detto questo, non dovrebbero mai venire dati per scontati, possono fare male."
 	AA52127E4C3212B3C7C2A584037B2E54 = "Lo Swanson"
 	DA640E7946DB888514C2758535ED636A = "Gli Sciami sono qui!"
@@ -7596,6 +7635,7 @@ Il Manuale del Minatore - mai uscire dalla Stazione senza."
 	E27EDAE84472193E7757BCB664750792 = "La scelta di una persona pragmatica."
 	64D8E3234397477DEF1EB49842726761 = "Il freddo proveniente da alcuni pericoli e armi riduce la temperatura dei nemici e li rallenta. Se l'effetto del freddo porta i nemici a raggiungere il punto di congelamento, i nemici saranno immobilizzati e più vulnerabili agli attacchi per un periodo di tempo. Alcuni nemici sono più resistenti al freddo rispetto ad altri e impiegheranno più tempo a congelarsi, e alcuni nemici si riscaldano più velocemente."
 	FE8B5E194884854A52365C996A46E5C7 = "Il comodo compartimento in cui spendi le nottate fra una missione e l'altra. Da qui puoi accedere al tuo terminale IPB per riscuotere i <bold>Traguardi</> e comprare <bold>Abilità</>."
+	6BC219B8438B186E7C4F01877588DE5A = "La teoria attuale è che il Glyphid Detonatore è ciò che accade quando un Esplosivo riesce a non esplodere in qualche modo durante la sua vita volatile, e di solito breve. Crescono fino a dimensioni enormi, la loro pelle si indurisce in una crosta densamente callosa in grado di resistere alla maggior parte dei calibri standard in modo sorprendente. Un certo numero di escrescenze pulsanti e tumultuose si trovano di solito lungo la schiena, il che funziona a nostro favore: focalizzare il fuoco su questi tumori provoca un trauma tremendo alle bestie. Ma anche quando vengono serviti con punti così deboli, si posizionano in cima alla classifica assoluta delle minacce che Hoxxes lancia alla nostra operazione. Uccidili in fretta e da lontano: avvicinati troppo e rilasceranno devastanti onde d'urto. E fedele al loro nome, riuscire a ucciderne uno si tradurrà in un'esplosione che potrà essere misurata sulla scala del kiloton."
 	650394EE41ACE93ACF33119DE345624C = "Le decorazioni sono fatte per essere godute con gli occhi, non con i piedi!"
 	E7F5A4894FFAC827E80375B24D65CE32 = "Le decorazioni sono dove sono per contribuire ad un'atmosfera festiva, non sono giocattoli."
 	92F797094DF281C5FDF110B5A1538BB3 = "I dadi sono pronti."
@@ -7984,6 +8024,7 @@ La Direzione"
 	4C0DD07D487FDDB296D6C18901A47BB2 = "Fai diventare l'area davanti alla minigun un posto ancora peggiore spostando tutti i gas di combustione in avanti. Però, si surriscalda molto velocemente."
 	D386419E40E41B9A9EEEFC836460203F = "Trasforma la tua Taglierina da Sfondamento in un attrezzo di morte ustionante e distruzione al costo di munizioni e rottura dell'armatura."
 	C38C13894A7D00E3BE014896D1C987A5 = "Riscaldiamo l'ambiente!"
+	B9677377434B4DBEC63682BE249D591E = "A quanto pare i fluidi volatili sviluppati dentro il comune Insetto Esplosivo sono molto reattivi alle radiazioni gamma. Gli Esplosivi che si trovano in aree radioattive sono illuminati di verde e lasciano dietro di loro delle nubi tossiche radioattive dopo la detonazione. Evitare a tutti i costi."
 	319CAADF4E3214944F11D18F07575D67 = "Torretta Arco"
 	D3AA77AE4DEECA98CD0DF5A6F96862A8 = "Scarica EM della torretta"
 	1EDADB44474A39113AB73499873F50CB = "Effetto Frusta"
@@ -9039,7 +9080,7 @@ Namespace CreatureAttacks (44 keys)
 	AttackTypeJump = "Salto"
 	ArmorTypeLight = "Leggera"
 	RangeMelee = "Corpo a corpo"
-	RangeMove = "Muovi"
+	RangeMove = "Mossa"
 	None = "Niente"
 	SpecialRadiator = "Radiatore"
 	SpecialRageQuake = "Terremoto d'ira"
@@ -9050,7 +9091,7 @@ Namespace CreatureAttacks (44 keys)
 	SpecialSonicStomp = "Pestone sonico"
 	AttackTypeSpit = "Sputo"
 	CreatureTypeStationary = "Stazionario"
-	AttackTypeStingShot = "Colpo di pungiglione"
+	AttackTypeStingShot = "Colpo pungente"
 	WeakpointTail = "Punta della Coda"
 	ArmorTop = "Parte Sup."
 	ArmorTypeUnbreakable = "Indistruttibile"
@@ -9235,7 +9276,7 @@ Namespace OC_BonusAndDrawbackLines (62 keys)
 	Pen_RecoilMedium = "Rinculo più potente"
 	Pen_OverheatFaster = "L'arma si surriscalda prima"
 
-Namespace PatchNotes (75 keys)
+Namespace PatchNotes (76 keys)
 	Update_30_Header = "LANCIO DELLA 1.0"
 	Update_30_ShortTitle = "LANCIO DELLA 1.0"
 	Update_23 = "Va bene, minatori: radunatevi intorno e state zitti!
@@ -9810,6 +9851,82 @@ VARIE
 - [XBOX] Risolto un bug nel Terminale promozione e nel Terminale selezione personaggi che impediva ai giocatori di uscire dal Terminale con la [B]
 - [XBOX] Risolto un problema per il quale alcune richieste di conferma non rispondevano con l'input del controller
 - [MS STORE] Risolto un bug che impediva il funzionamento di backspace durante le chat di testo
+"
+	Update_31 = "Salve minatori!
+È il momento del nostro primo aggiornamento post-lancio! E a proposito del lancio - un caloroso benvenuto a tutti i nuovi minatori! Speriamo che vi piaccia il gioco e vogliamo ringraziare tutti i veterani minatori che vi hanno aiutato a imparare i particolari sull'estrazione nello spazio profondo dal lancio.
+
+L'aggiornamento 31 si concentra principalmente sul fare un po' di pick-up dopo il lancio - aggiungendo alcune cose che abbiamo dovuto tagliare per il lancio a causa dei limiti di tempo, oltre a correggere una tonnellata di bug minori e maggiori e arresti anomali in base al vostro feedback. L'aggiornamento 32 aggiungerà nuovi tipi di missione, ma ne parleremo di più quando i nostri piani saranno più elaborati.
+
+Saluti,
+La Crew di Ghost Ship
+
+--- NOTE DELLA PATCH ---
+
+MANUALE DEL MINATORE: PAGINE SULLE CREATURE
+----------------------------
+Una parte ovvia del Manuale del minatore che abbiamo pianificato fin dall'inizio è una libreria completa di ogni creatura nel gioco. E ora è lì, piena zeppa di informazioni, consigli e persino un po' di conoscenza per le persone in quel genere di cose! Ogni voce di ogni creatura inizia bloccata e verrà rivelata quando la incontrerai in carne ed ossa.
+
+
+3 NUOVI OBIETTIVI SECONDARI
+----------------------------
+Abbiamo aggiunto tre nuovi obiettivi secondari di missione per rendere le cose un po' più vivaci
+
+SEMI APPICCICOSI: sparare alle sacche appiccicose sospese per liberare i preziosi semi appiccicosi all'interno!
+
+EBONOCI: Distruggi il guscio esterno duro e raccogli le noci all'interno!
+
+PULCI MARCE: Controllo dei parassiti - elimina questi piccoli insetti fastidiosi prima che inizino a moltiplicarsi!
+
+
+NUOVO NEMICO: ERBA-TIRANNO KORLOK
+----------------------------
+L'Erba-Tiranno è un nuovo nemico da incontrare nelle grotte. Elimina la crescita centrale del cuore prima che riesca a seminare l'area circostante con i suoi germogli! Dopo averlo distrutto, ricorda di depositare i frammenti di tiranno, che ti ricompenseranno con dei bei crediti e un bonus XP nella schermata di Completamento missione.
+ 
+
+AGGIORNAMENTI DEI BIOMI
+----------------------------
+La zona di esclusione radioattiva, la biozona densa e le paludi fungine hanno ottenuto un sacco di nuove forme aggiunte a loro. Enormi funghi, crescite simili a coralli e altro ancora: vai a esplorare per scoprire tutto!
+
+
+NUOVA BIRRA: SMART STOUT
+----------------------------
+Una nuova birra è pronta per essere sbloccata nel Bar Abyss, una volta raggiunto il grado 23 del giocatore. Bevila e rimarrai colpito da lampi momentanei di profonda comprensione...
+
+
+AGGIORNAMENTI ALLA STAZIONE
+----------------------------
+La Stazione Spaziale continua ad essere arricchita con più dettagli: è più sporca e più disordinata che mai! I guardaroba in particolare hanno ottenuto una revisione grafica che, si spera, dovrebbe farli risaltare un po' di più.
+
+- [RICHIESTA DELLA COMUNITÀ] Aggiunto un frigorifero al bar Abyss! Non mostra ancora fanart, ma stiamo esaminando le opzioni. :D
+
+
+VARI 
+----------------------------
+- Migliorati i materiali del Nucleo Covata
+- Il tablet dello Scanner per terreno ora ha il suo materiale con un'illuminazione delle emissioni corretta in terza persona
+- Le icone delle miniature delle armature nell'armadio ora vengono visualizzate con il loro lavoro di verniciatura predefinito, e non con quello equipaggiato
+- Le armature ora sono visualizzate in anteprima con i loro colori di base nel Negozio
+- Risolto un bug che impediva la visualizzazione dei caschi con la vernice corretta nel guardaroba
+- Risolto un bug che con i caricamenti dei personaggi causava proprietà errate delle armi dopo essere rientrati in una partita
+- Rinominati lo Sputa-acido e lo Sputa-ragnatele in Sputa Acido e Sputa Ragnatele
+- Le sanguisughe delle caverne ora abbassano il giocatore catturato a terra, dopo essere state uccise da Sensi Migliorati
+- Rinominato 'partita privata' in 'solo per gli amici'. La funzionalità è la stessa
+- Aggiunte statistiche e pietre miliari della missione ai tre nuovi obiettivi secondari
+- Rinominato Bombardiere del Ghiaccio Mactera in Bombaridere del Freddo Mactera
+- Miglioramenti vari al manuale del minatore
+- [Modalità fotosensibilità] Rimosse le luci lampeggianti dalla Perforatrice quando è pronta per il lancio
+- [Modalità fotosensibilità] Rimosse le luci lampeggianti dagli eventi macchina.
+- Aggiunto un fail-safe per i MULE bloccati sulla Capsula da Sbarco nelle Operazioni di Recupero
+- Risolto un bug che consentiva al rampino dell'esploratore di attaccarsi alle gemme e alla barriera protettiva del artigliere.
+- Risolto un bug con alcuni effetti di overclock non visualizzati per il client
+- Ottimizzato il materiale sull'Infettatore Sputapalle per renderlo meno riflettente a specchio
+- Risolto un bug con il posizionamento delle batterie delle Casse da Carico
+- Modificati alcuni messaggi del bot Union Discord per disabilitare il ping sul livello obiettivo raggiunto e aggiunto il ping al termine del periodo obiettivo
+- Corretti gli schermi dei terminali per mostrare e centrare correttamente i nomi lunghi
+- Spostato lo slot per il colore dei capelli in fondo all'elenco nel guardaroba
+- Aggiornata l'immagine del Jukebox nel Manuale del minatore
+- Risolto un bug che causava il blocco dei giocatori che avanzavano mentre ricevevano il popup "Riscuoti DLC"
+- Risolto un bug che causava il centramento forzato del cursore del mouse nella schermata di Completamento missione quando veniva visualizzato il pulsante "Continua"
 "
 	Update_26 = "Ciao Minatori!
 L'aggiornamento 26 è arrivato! In questa seconda parte della Fine dei Giochi, abbiamo aggiunto un nuovo sistema di Machine Events da affrontare durante le missioni normali, una revisione ed espansione molto necessarie del Bar, nuove Mosse Vittoriose, nonché skin sia per Bosco sia per le tue armi, più molte correzioni di bug minori, modifiche e miglioramenti. Mettiamoci al lavoro!
