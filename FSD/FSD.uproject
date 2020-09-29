@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.22",
+	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -37,6 +37,16 @@
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		},
+		{
+			"Name": "OnlineSubsystemPS4",
+			"Enabled": true,
+			"WhitelistPlatforms": [
+				"PS4"
+			],
+			"SupportedTargetPlatforms": [
+				"PS4"
+			]
+		},		
 		{
 			"Name": "Paper2D",
 			"Enabled": false
@@ -120,6 +130,10 @@
 		{
 			"Name": "AndroidMoviePlayer",
 			"Enabled": false
+		},
+		{
+			"Name": "WindowsMoviePlayer",
+			"Enabled": true
 		},
 		{
 			"Name": "AppleMoviePlayer",
@@ -216,10 +230,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "FSDMixer",
-			"Enabled": true
-		},
-		{
 			"Name": "OnlineSubsystemOddish",
 			"Enabled": false
 		},
@@ -233,6 +243,10 @@
 		},
 		{
 			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "ScriptPlugin",
 			"Enabled": true
 		}
 	]

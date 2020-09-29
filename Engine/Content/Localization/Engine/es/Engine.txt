@@ -1,42 +1,16 @@
-1784 entries
-274 namespaces
-1577 values
+1646 entries
+213 namespaces
+1504 values
 
-Namespace Global (34 keys)
-	3AC4C92E439E36E121F186950A9283B6 = "Coordenadas"
-	63496696496D067339F81087DDA00E38 = "Depurar"
-	647D778B45BC78B218DC9598B551DDC9 = "Depurar"
+Namespace Global (8 keys)
 	01A417F84D1896ED3A763B9B89A36C36 = "Texturas decorativas"
-	02B83F694A3D083052A0C896A3BCDC09 = "Predeterminado"
-	12A70B6B4FCDFEB93C7A09AB204D2414 = "Predeterminado"
-	39AC32ED4907177446E72990538223DF = "Predeterminado"
-	40B7016C44D364528E38F3B047857068 = "Predeterminado"
-	5F8815C94FE4BAB64FDE259E6F4B4A0F = "Predeterminado"
-	7447CBB7426C8E737976A9A180DCAA03 = "Predeterminado"
-	75E5612D49A49AD4C9E820958C77E100 = "Predeterminado"
-	841BE6BD47B312B3BD0E37AFE76A04B9 = "Predeterminado"
-	8C77908341D52F5455232E856A9BB0B3 = "Predeterminado"
-	A00F50AF424DB4B96C8F4F81DDB539CB = "Predeterminado"
-	DB3501DB4F1658F05CEB98A9B55368C3 = "Predeterminado"
-	F0987E024D20534A2CA05E90790196DA = "Predeterminado"
-	F3E350484E97D31886D43DB04BF271AC = "Predeterminado"
-	92BFD2FA46D03B74604DD4A15A2BB02C = "Densidad"
 	B79EB6CB41ECA56A3E3DE9917B55A663 = "Terreno"
 	5F4B74154524869C949B90BEE71C33C0 = "Iluminación"
-	690222054E91B3EF645B98BF2B1C0E9B = "Matemático"
-	A1E0B6A64822D4AE9F04D69BAB30F276 = "Matemático"
-	A49F2E4F4AAD60BB19B88588FEB0631F = "Matemático"
-	B0139B3342EACC31903386967BD011D0 = "Matemático"
-	BF6E093745BFB7E630868A890DB7738D = "Matemático"
 	9F1E79E34A80164D5AB90FB5C0769832 = "Reflejos"
 	AE4B977949471C5637DDB88F42DCFD66 = "Reflejos"
 	C02316054D51A7729C00149AA48D09BE = "Reflejos"
 	DD866417466DB2B2755A50B53514DBDF = "Reflejos"
 	E19E7CC74BD44BAE09C82A9DE2203A8D = "Reflejos"
-	86A5EA3B4AC55F65C038CA95BABFADF0 = "Degradación"
-	0D1D4F774D85555220506E97541F2968 = "Desplazamiento de la posición global"
-	7DAEBE9446059B546324759C25780BBD = "Desplazamiento de la posición global"
-	D8DA9A104A6702E3BBBC4C9E5FFB1914 = "Desplazamiento de la posición global"
 
 Namespace Actor (1 keys)
 	InvalidScale = "La escala '{0}' no es válida."
@@ -44,9 +18,6 @@ Namespace Actor (1 keys)
 Namespace ActorComponent (2 keys)
 	MapCheck_Message_AbstractClass = "{ComponentName}::{OwnerName} está obsoleto y debe eliminarse (la clase es abstracta)"
 	MapCheck_Message_DeprecatedClass = "{ComponentName}::{OwnerName} está obsoleto y debe eliminarse (la clase está obsoleta)"
-
-Namespace AdvancedCopyReportDialog (1 keys)
-	CancelButton = "Cancelar"
 
 Namespace AndroidRuntimeSettings (11 keys)
 	GooglePlayDeveloperPage = "Página del programador Android en los servicios Google Play"
@@ -60,9 +31,6 @@ Namespace AndroidRuntimeSettings (11 keys)
 	GooglePlayDeveloperPageTooltip = "Abre un página que trata sobre los servicios de Google Play"
 	ProjectProperties = "Propiedades del proyecto"
 	SettingsIcon_XHDPI = "Icono XHDPI"
-
-Namespace AnimationSharingSetupCustomization (1 keys)
-	None = "Ninguno"
 
 Namespace AnimNotifyState_Trail (4 keys)
 	NoneFirstSocket = "{0}: Debe asignar un primer nombre del punto de acople."
@@ -105,9 +73,8 @@ Continuar el cambio de nombre puede requerir cambios de código para solucionar 
 	RenameFailureTitle = "Los siguientes activos no pudieron renombrarse."
 	ReferenceUpdateSlowTask = "Referencias de actualización de activo"
 
-Namespace AssetTools (35 keys)
+Namespace AssetTools (32 keys)
 	MigratePackages_AlreadyExists = "Ya existe un activo en la ubicación {0} ¿desea sobrescribirlo?"
-	AnimationAssetCategory = "Animación"
 	MigrateToFolderTitle = "Elegir una carpeta de contenido de destino"
 	MigratePackages_CompletePage = "¡Migración de contenido finalizada con éxito!"
 	MigratePackages_CopyErrorsSuccesslistPage = "Copiado con éxito"
@@ -130,10 +97,9 @@ Ya existe un activo en la ubicación de importación: {0}"
 	ImportDialogTitle = "Importación"
 	ImportSlowTask = "Importando"
 	MigratePackages_NoFilesToMove = "No se encontraron archivos para mover"
+	PhysicsAssetCategory = "Físicas"
 	MigratePackages_SourceControlErrorsList = "Algunos archivos registraron errores de control de fuente."
-	AdvancedCopyPackages_CopyErrorsSuccesslist = "Algunos archivos se copiaron con éxito."
 	MigratePackages_CopyErrorsSuccesslist = "Algunos archivos se copiaron con éxito."
-	SoundAssetCategory = "Sonidos"
 	MigratePackages_SourceControlErrorsListPage = "Errores de control de código fuente"
 	MigratePackagesReportTitle = "Los siguientes activos se migrarán a otra carpeta de contenido."
 	InvalidFactory = "El activo nuevo no se ha creado porque la fábrica suministrada no es compatible con la clase suministrada."
@@ -141,12 +107,11 @@ Ya existe un activo en la ubicación de importación: {0}"
 	InvalidSourceObject = "El activo nuevo no se ha creado debido a un problema mientras encontraba el objeto a duplicar."
 	MigratePackages_EngineContent = "Imposible migrar el activo del motor {0}. Los activos del motor no se pueden migrar."
 	AssetNameInUseByMap = "No puede crear un activo nombrado '{0}', porque ya existe un archivo de mapa con este nombre en esta carpeta."
-	AssetSpecificOptionsMenuHeading = "{0} Acciones"
 	MigratePackages_SourceControlError = "{0} no se pudo añadir al control de código fuente"
 	MigratePackages_NonContentFolder = "{0} no parece ser una carpeta de contenido de juego. El contenido migrado solo funcionará correctamente si se ubica en una carpeta de contenido. ¿Desea ubicar su contenido aquí de todos modos?"
 	MigratePackages_PackageMissing = "{0} no existe en el disco."
 
-Namespace AssetTypeActions (147 keys)
+Namespace AssetTypeActions (144 keys)
 	AssetTypeActions_AimOffset = "Desplazamiento meta"
 	AssetTypeActions_AimOffset1D = "Desplazamiento meta 1D"
 	Skeleton_RetargetTooltip = "Permitir que todos los activos de animación para este esqueleto se enlacen a meta en otro esqueleto."
@@ -218,7 +183,6 @@ Namespace AssetTypeActions (147 keys)
 	Redirector_FindTarget = "Encontrar meta"
 	Redirector_FixUpTooltip = "Encuentra referenciadores a los redirectores seleccionados y si es posible, los vuelve a guardar. Luego elimina cualquier redirector que tenga todos sus referenciadores fijos."
 	Redirector_FindTargetTooltip = "Encuentra el activo que este redirector fija en el árbol de activos."
-	MaterialInstanceConstant_FindParentTooltip = "Encuentra el material en el que se basa esta instancia en el buscador de contenido."
 	MaterialFunction_FindMaterialsTooltip = "Encuentra los materiales que hacen referencia a esta función de material en el buscador de contenido."
 	AnimSequenceBase_FindSkeletonTooltip = "Encuentra el esqueleto para los activos seleccionados en el buscador de contenido."
 	AnimBlueprint_FindSkeletonTooltip = "Encuentra el esqueleto utilizado por los Blueprints de animación seleccionados en el buscador de contenido."
@@ -230,7 +194,6 @@ Namespace AssetTypeActions (147 keys)
 	NewImportTip = "Importar nuevo LOD"
 	RemapSkeletonFailed_InvalidAssetText = "Activo no válido"
 	InvalidClassToMakeBlueprintFrom = "Clase no válida con la que hacer un Blueprint."
-	LODLevel = "Nivel de detalle (LOD) {0}"
 	AssetTypeActions_LandscapeLayer = "Capa del terreno"
 	AssetTypeActions_World = "Nivel"
 	ExecuteEditDefaultsNewLogPage = "Cargando Blueprints"
@@ -249,12 +212,11 @@ Namespace AssetTypeActions (147 keys)
 	AssetTypeActions_PhysicalMaterial = "Material físico"
 	AssetTypeActions_PhysicsAsset = "Activo de físicos"
 	CreatePhysicsAssetMenuHeading = "Activo de físicos"
-	SkeletalMesh_NewPhysicsAssetMenu = "Activo de físicos"
-	Sound_PlaySound = "Reproducir"
 	CamerAnimPreviewCameraName = "Vista preliminar de la cámara - {0}"
 	CamerAnimPreviewPawnName = "Vista preliminar del peón - {0}"
 	AssetTypeActions_Redirector = "Redireccionador"
 	ReimportFontLabel = "Volver a importar"
+	LODLevel = "Nivel de detalle (LOD) {0}"
 	ReimportTip = "Volver a importar sobre el LOD existente"
 	AnimSequence_ReimportWithNewSource = "Volver a importar con nueva fuente"
 	AssetTypeActions_TextureRenderTarget2D = "Renderizar metas"
@@ -276,7 +238,7 @@ Namespace AssetTypeActions (147 keys)
 	SkeletonSubmenu_ToolTip = "Acciones relacionadas con el esqueleto"
 	AssetTypeActions_SlateBrush = "Pincel del cuadro"
 	AssetTypeActions_SlateStyle = "Estilo del widget del cuadro"
-	AssetTypeActions_StaticMesh = "Malla estática"
+	AssetTypeActions_StaticMesh = "Modelo estático"
 	AssetTypeActions_Struct = "Estructura"
 	AssetTypeActions_SubsurfaceProfile = "Perfil de subsuperficie"
 	AssetTypeActions_Texture2D = "Textura"
@@ -456,9 +418,6 @@ Namespace ColorThemesViewer (13 keys)
 Namespace ColorTrashWidget (1 keys)
 	MouseOverToolTip = "Eliminar color"
 
-Namespace CommonFrameRates (1 keys)
-	FPS_24_Description = "24 fps (película)"
-
 Namespace CompressionMemorySummary (1 keys)
 	CompressingTaskStatusMessageFormat = "Comprimiendo {AnimSequenceName} ({ProgressNumerator}/{ProgressDenominator})"
 
@@ -536,23 +495,19 @@ Namespace DesktopPlatform (4 keys)
 	GeneratingProjectFiles = "Generando archivos del proyecto..."
 	CleaningProject = "Eliminando productos de compilación vencidos..."
 
-Namespace Developer.MessageLog (8 keys)
+Namespace Developer.MessageLog (7 keys)
 	PageToolTip = "Elegir página de registro para visualizar"
 	ClearMessageLog = "Borrar"
 	ClearMessageLog_ToolTip = "Borrar los mensajes en este registro"
 	ShowToolTip = "Mostrar solo mensajes de los tipos seleccionados"
 	PageMenuLabel = "Página"
 	Show = "Mostrar"
-	DeviceRemoved = "¡El controlador de vídeo se cayó y fue reiniciado! Asegúrese de que sus controladores de vídeo están actualizados. Saliendo..."
 	PageMenuEntry_Tooltip = "Ver página: {PageName}"
 
 Namespace DeveloperToolbox (3 keys)
 	DisplayTextureAtlases = "Visualizar atlas de textura"
 	FlushFontCache = "Vaciar el caché de la fuente"
 	ReloadTextures = "Recargar las texturas"
-
-Namespace Dialogs (1 keys)
-	EAppReturnTypeOk = "ACEPTAR"
 
 Namespace DiscoveringAssetsDialog (3 keys)
 	CancelButton = "Cancelar"
@@ -582,14 +537,8 @@ Namespace DockTabStack (9 keys)
 Namespace DynamicRHI (1 keys)
 	NullDrvFailure = "¿Fallo de NullDrv?"
 
-Namespace EdGraph (10 keys)
+Namespace EdGraph (4 keys)
 	AddNode = "Añadir nodo"
-	EditNodeComment = "Cambiar el comentario del nodo"
-	MultiCommentHeader = "Grupo de comentario"
-	NodeComment_ToolTip = "Comentario para este nodo"
-	MultiCommentDesc = "Crear comentario de la selección"
-	CommentToolTip = "Crear una caja de comentarios ajustable en torno a una selección."
-	NodeCommentMenuHeader = "Comentario de nodo"
 	OuterMismatch = "tiene un outer diferente que el pin"
 	IsLinked = "está enlazado con el pin"
 	NotLinked = "no está enlazado recíprocamente con el pin"
@@ -751,9 +700,6 @@ Namespace EyeDroppperButton (2 keys)
 	EyeDropperButton_ToolTip = "Activa el cuentagotas para seleccionar un píxel coloreado de cualquier ventana."
 	EyeDropperEscapeCue_ToolTip = "Pulsar la tecla Esc para detener el cuentagotas"
 
-Namespace FDeviceBrowserDefaultPlatformWidgetCreator (1 keys)
-	DeviceAdderFailedToAddDeviceMessage = "¡Error al añadir el dispositivo!"
-
 Namespace FDeviceManagerModule (1 keys)
 	DeviceManagerTabTitle = "Gestor de dispositivos"
 
@@ -815,9 +761,6 @@ Namespace FSlateReflectorModule (1 keys)
 Namespace FunctionalTest (1 keys)
 	DefaultTimesUpMessage = "¡Se acabó el tiempo!"
 
-Namespace GameplayEffect (1 keys)
-	UnknownModifierMagnitude = "Desconocido"
-
 Namespace GameViewportClient (5 keys)
 	ConnectingMessage = "CONECTANDO"
 	LoadingMessage = "CARGANDO"
@@ -837,7 +780,7 @@ Namespace HierarchicalLODUtils (1 keys)
 Namespace HUD (1 keys)
 	PIE_Warning_Message_CanvasCallOutsideOfDrawCanvas = "Las funciones Canvas Draw solo podrán llamarse durante la manipulación del evento DrawHUD"
 
-Namespace InputKeys (71 keys)
+Namespace InputKeys (69 keys)
 	Acceleration = "Aceleración"
 	Android_Back = "Android Atrás"
 	BackSpace = "Retroceso"
@@ -884,7 +827,6 @@ Namespace InputKeys (71 keys)
 	LeftMouseButton = "Botón izquierdo del ratón"
 	LeftShift = "Shift izquierda"
 	MiddleMouseButton = "Botón central del ratón"
-	MouseSubCategory = "Ratón"
 	MouseScrollDown = "Rueda del ratón hacia abajo"
 	MouseScrollUp = "Rueda del ratón hacia arriba"
 	MouseX = "Ratón X"
@@ -908,7 +850,6 @@ Namespace InputKeys (71 keys)
 	ThumbMouseButton2 = "Botón lateral del ratón 2"
 	Tilt = "Inclinación"
 	Up = "Subir"
-	XBoxOneSubCateogry = "Xbox One"
 
 Namespace InstancedFoliage (1 keys)
 	MapCheck_Message_FoliageMissingStaticMesh = "Se han eliminado las instancias de follaje para una malla estática ausente."
@@ -916,12 +857,8 @@ Namespace InstancedFoliage (1 keys)
 Namespace Internationalization (1 keys)
 	InvariantCultureDisplayName = "Idioma invariable (país invariable)"
 
-Namespace IOSTargetSettings (19 keys)
-	AllCertificatesHyperLinkLabel = "Todo"
-	AllProvisionsHyperLinkLabel = "Todo"
+Namespace IOSTargetSettings (13 keys)
 	SpotlightIcon_Retina_iOS7 = "Icono SpotLight iOS7 Retina"
-	CertificateListStatusColumnHeader = "Estatus"
-	ProvisionListStatusColumnHeader = "Estatus"
 	SpotlightIcon_iOS7 = "Icono SpotLight iOS7"
 	AppIcon_iPadRetina_iOS6 = "Icono App iOS6 iPad Retina"
 	SpotlightIcon_iPadRetina_iOS6 = "Icono SpotLight iOS6 iPad Retina"
@@ -929,8 +866,6 @@ Namespace IOSTargetSettings (19 keys)
 	AppIcon_iPad_iOS6 = "Icono App iOS6 iPad"
 	SpotlightIcon_iPad_iOS6 = "Icono SpotLight iOS6 iPad"
 	AppIcon_iPad_iOS7 = "Icono App iOS7 iPad"
-	LaunchImage_iPadRetina_Landscape = "Iniciar el iPad Retina en horizontal"
-	LaunchImage_iPadRetina_Portrait = "Iniciar el iPad Retina en vertical"
 	SettingsIcon_iPhoneRetina = "Icono de ajustes iPhone Retina"
 	AppIcon_iPhoneRetina_iOS6 = "Icono App iOS6 iPhone Retina"
 	AppIcon_iPhoneRetina_iOS7 = "Icono App iOS7 iPhone Retina"
@@ -944,8 +879,7 @@ Namespace KismetMaterialLibrary (5 keys)
 	SetVectorParamOn = "SetVectorParameterValue llamado en"
 	WithInvalidParam = "con ParameterName '{ParamName}” no válido. Esto se debe probablemente a un error del Blueprint."
 
-Namespace Landscape (12 keys)
-	LandscapeSpline_ApplySplines = "Aplicar splines al terreno"
+Namespace Landscape (11 keys)
 	BeginDeletingLayerTask = "Eliminando capa"
 	BeginExportingGizmoDataTask = "Exportando datos gizmo"
 	BeginExportingLandscapeHeightmapTask = "Exportando mapa de altura del terreno"
@@ -979,16 +913,11 @@ Namespace LightMap2D (1 keys)
 Namespace Lightmass (1 keys)
 	LightmassError_FailedToAllocateShadowmapChannel = "Pérdida grave de rendimiento: Falló al asignar el canal del mapa de sombreado para la luz estacionaria debido a la superposición - ¡la luz volverá a las sombras dinámicas!"
 
-Namespace Linker (15 keys)
-	Sandbox = "El activo '{AssetName}' no está accesible en este entorno seguro"
-	PackageVersion = "No coincide la versión del activo '{AssetName}'"
+Namespace Linker (10 keys)
 	SandboxShort = "El activo no está accesible en este entorno seguro"
 	PackageVersionShort = "No coincide la versión del activo"
-	FilenameToPackage = "No puede convertir el nombre de archivo '{Filename}' a nombre de activo"
 	FilenameToPackageShort = "No puede convertir el nombre de archivo a nombre de activo"
 	FileNotFoundShort = "No puede encontrar el archivo"
-	FileNotFound = "No puede encontrar el archivo '{Filename}'"
-	PackageNotFound = "No puede encontrar el archivo para el activo '{AssetName}' mientras carga {PackageName}."
 	PackageNotFoundShort = "No puede encontrar el archivo para el activo."
 	PackageResolveFailed = "No puede resolver el nombre de activo"
 	FailedLoad_Message = "Error al cargar"
@@ -1007,20 +936,8 @@ Namespace LinkerLoad (6 keys)
 Namespace LinuxDynamicRHI (1 keys)
 	RequiredOpenGL = "Es necesario OpenGL 3.2 para ejecutar el motor."
 
-Namespace LiveLinkModule (1 keys)
-	LiveLinkAnySource = "Cualquiera"
-
-Namespace LocalizationServiceProgress (1 keys)
-	ContinueButtonLabel = "Continuar"
-
-Namespace LocalizationSourceControl (1 keys)
-	SourceControlNotAvailable = "El servidor de control del código fuente no está actualmente disponible."
-
 Namespace MacPlatform (1 keys)
 	FileManagerName = "Buscador"
-
-Namespace MagicLeapHandTracking (1 keys)
-	MagicLeapHandTrackingLiveLinkStatus = "Activo"
 
 Namespace MainMenu (1 keys)
 	WindowMenu = "Ventana"
@@ -1060,22 +977,12 @@ Namespace MaterialExpressions (3 keys)
 	CamRelativeWorldPositonText = "Posición global relativa de la cámara (sin desplazamientos de degradado)"
 	Error_CircularFunctionDependency = "No puede usar esta función material porque podría provocar una dependencia circular."
 
-Namespace MatineeToLevelSequence (1 keys)
-	MatineeToLevelSequence_CancelText = "Transformar"
-
 Namespace Merge (1 keys)
 	MergeFailedNoSourceControl = "Carga abortada de {0} de {1} porque el estado del control del código fuente fue invalidado"
 
 Namespace MergeTool (2 keys)
 	TabTitle = "Herramienta de fusión"
 	TooltipText = "Utilizada para mostrar varias versiones de un Blueprint que necesitan fusionarse en una única versión."
-
-Namespace MeshMergeUtils (1 keys)
-	CreateProxyMesh_GenerateProxy = "Generando malla del proxy"
-
-Namespace MeshUtils (2 keys)
-	ActorNamePlural = "Actores"
-	AutomaticSkeletalMeshReductionPlugin = "Automático"
 
 Namespace MessageDialog (3 keys)
 	DefaultMessageTitle = "Mensaje"
@@ -1117,28 +1024,6 @@ Namespace ModuleUI (8 keys)
 Namespace MoviePlayerTestLoadingScreen (1 keys)
 	LoadingComplete = "¡Carga completa!"
 
-Namespace MovieScene3DAttachTrack (1 keys)
-	TrackName = "Acoplar"
-
-Namespace MovieSceneCameraAnimTrack (1 keys)
-	TrackName = "Animación de la cámara"
-
-Namespace MovieSceneEventTrack (1 keys)
-	TrackName = "Eventos"
-
-Namespace MovieSceneMarginSection (1 keys)
-	LeftText = "Izquierda"
-
-Namespace MovieSceneTransformSection (2 keys)
-	RotationY = "Ángulo"
-	Rotation = "Rotación"
-
-Namespace MovieSceneVisibilityTrackRecorderFactory (1 keys)
-	DisplayName = "Pista de la visibilidad"
-
-Namespace NativeCodeGenerationTool (1 keys)
-	Generate = "Generar"
-
 Namespace NetworkErrors (6 keys)
 	GenericConnectionFailed = "Error de conexión."
 	HostClosedConnection = "El anfitrión cerró la conexión."
@@ -1161,20 +1046,6 @@ Namespace ParticleComponents (2 keys)
 
 Namespace ParticleModules (1 keys)
 	DistNotAllowedOnGPUFormat = "La distribución {0} en {1} está utilizando una distribución incompatible con los emisores GPU."
-
-Namespace PerforceSourceControl.State (1 keys)
-	Ignore = "Omitir"
-
-Namespace Photography (1 keys)
-	control_bloomscale = "Escala de brillo"
-
-Namespace PlatformInfo (6 keys)
-	LinuxClient = "Linux (solo cliente)"
-	LinuxServer = "Linux (servidor dedicado)"
-	MacClient = "Mac (solo cliente)"
-	MacServer = "Mac (servidor dedicado)"
-	WindowsClient = "Windows (solo cliente)"
-	WindowsServer = "Windows (servidor dedicado)"
 
 Namespace PluginDescriptor (6 keys)
 	FailedToLoadDescriptorFile = "Fallo al abrir el archivo descriptor '{0}'"
@@ -1242,9 +1113,6 @@ Namespace Renderer (3 keys)
 	BeginRecompileRendererTask = "Recompilando el módulo de renderización..."
 	ViewLocked = "VISTA BLOQUEADA"
 
-Namespace SActiveSession (1 keys)
-	SessionHistory = "Historial"
-
 Namespace SAutomationGraphicalResultBox (3 keys)
 	AutomationGraphicalToolTip = "{Name} 
 Duración: {Duration}s"
@@ -1274,14 +1142,13 @@ Namespace SBlueprintMerge (2 keys)
 	CancelMergeLabel = "Cancelar"
 	MergeWriteFailedError = "Error al escribir en los archivos fusionados, por favor, localice las copias de seguridad en {0}"
 
-Namespace SCAQueryDetails (7 keys)
+Namespace SCAQueryDetails (6 keys)
 	ResultListComponentHeader = "Componente"
 	QueryEnd = "Final:"
 	ShowMisses = "Muestra los perdidos"
 	QueryStart = "Iniciar:"
 	ResultListTimeHeader = "Tiempo"
 	ResultListTypeHeader = "Tipo"
-	MissReasonUnknown = "Desconocido"
 
 Namespace SceneComponent (3 keys)
 	AttachCycleWarning = "AttachTo: '{0}' ya anexado a '{1}', formaría un ciclo. Cancelando."
@@ -1291,9 +1158,6 @@ Namespace SceneComponent (3 keys)
 Namespace SceneRendering (2 keys)
 	OcclusionChild = "Oclusión"
 	RenderingFrozen = "Renderización congelada..."
-
-Namespace SCodeView (1 keys)
-	CustomColumnMode_ModuleName = "Módulo"
 
 Namespace SCollisionAnalyzer (8 keys)
 	QueryListFrameHeader = "Fotograma"
@@ -1307,9 +1171,6 @@ Namespace SCollisionAnalyzer (8 keys)
 
 Namespace SComboBox (1 keys)
 	ContentWarning = "Ningún contenido facilitado"
-
-Namespace SConcertBrowser (1 keys)
-	CreateSessionCreateButtonText = "Crear"
 
 Namespace SDataGraph (4 keys)
 	DataGraphSummary_CloseButton_TT = "Haga clic para detener el seguimiento de la estadística '{StatName}'"
@@ -1411,7 +1272,7 @@ Namespace SessionFrontend (3 keys)
 	ContextMenu.EditCommand = "Editar comando"
 	ContextMenu.EditName = "Editar nombre"
 
-Namespace SEventGraph (89 keys)
+Namespace SEventGraph (88 keys)
 	HistoryBack_Tooltip = "Retroceder a {0}"
 	FunctionDetails_CalledFunctions = "Funciones llamadas"
 	FunctionDetails_CallingFunctions = "Llamando funciones"
@@ -1467,7 +1328,6 @@ Namespace SEventGraph (89 keys)
 	ContextMenu_Header_Misc = "Varios"
 	MultipleSelection = "Selección múltiple"
 	ContextMenu_Header_Navigation = "Navegación"
-	None = "Ninguno"
 	NothingSelected = "Nada seleccionado"
 	ContextMenu_Header_Columns_ResetColumns = "Reiniciar columnas a predeterminado"
 	ContextMenu_ClearHistory = "Reiniciar a predeterminado"
@@ -1533,9 +1393,6 @@ Namespace SExternalImageReference (2 keys)
 	FileDescription = "Imagen externa"
 	ImageDescription = "imagen"
 
-Namespace SFilePathPicker (1 keys)
-	BrowseButtonToolTip = "Elegir un archivo de este ordenador"
-
 Namespace SFiltersAndPresets (23 keys)
 	AvgDesc = "Media: {0}"
 	CallsFramesPctDesc = "Llama a los fotogramas con la llamada: {0}"
@@ -1560,9 +1417,6 @@ Namespace SFiltersAndPresets (23 keys)
 	FilterSearchHint = "Escribir aquí para buscar estadísticas o grupos"
 	TypeDesc = "Tipo:"
 	ValueDesc = "Valor"
-
-Namespace SGitSourceControlSettings (1 keys)
-	GitUserName = "Nombre de usuario"
 
 Namespace ShaderCompilingManager (4 keys)
 	CompilingGlobalShaderStatus = "Compilando sombreadores globales..."
@@ -1590,9 +1444,6 @@ Namespace Slate (2 keys)
 Namespace SlateCore (1 keys)
 	ComboBoxMissingOnGenerateWidgetMethod = "Por favor, facilite un controlador .OnGenerateWidget()."
 
-Namespace SlateFileDialogsNamespace (1 keys)
-	SlateFileDialogsOpenDirectory = "Abrir directorio"
-
 Namespace SlateStyleSet (7 keys)
 	WrongWidgetStyleType = "El estilo del widget del cuadro “{0}” no es del tipo deseado. Deseado: '{1}', Real: '{2}'"
 	UknownBrush = "No pudo encontrar el pincel '{0}'."
@@ -1614,38 +1465,13 @@ Namespace SListView (1 keys)
 Namespace SMenuAnchor (1 keys)
 	NoMenuContent = "Ningún contenido de menú asignado; utilizar .MenuContent"
 
-Namespace SMergeAssetPickerView (1 keys)
-	RevisionNum = "Revisión {0}"
-
-Namespace SMessagingAddressTableRow (1 keys)
-	Never = "DORM Nunca"
-
-Namespace SMessagingBreakpoints (1 keys)
-	BreakpointListNameColumnHeader = "Nombre"
-
-Namespace SMessagingDebugger (1 keys)
-	ToolbarTabTitle = "Barra de Herramientas"
-
-Namespace SMessagingEndpoints (2 keys)
-	EndpointListBreakpointsColumnTooltip = "Puntos de rotura"
-	EndpointListNameColumnHeader = "Nombre"
-
-Namespace SMessagingTypes (1 keys)
-	TypeListNameColumnHeader = "Nombre"
-
 Namespace SMissingWidget (1 keys)
 	MissingWidget = "Widget perdido"
-
-Namespace SMultipleOptionTable (1 keys)
-	NoneHyperlinkLabel = "Ninguno"
 
 Namespace SoundNodeBranch (3 keys)
 	False = "Falso"
 	ParamUnset = "Parámetro no ajustado"
 	True = "Verdadero"
-
-Namespace SoundNodeDialoguePlayer (1 keys)
-	NoDialogueWave = "NINGUNO"
 
 Namespace SoundNodeSwitch (1 keys)
 	ParamUnset = "Parámetro no ajustado"
@@ -1689,12 +1515,6 @@ Namespace SourceControlProgress (3 keys)
 	ContinueButtonLabel = "Continuar"
 	LongTaskMessage = "La operación está tardando demasiado tiempo en finalizar. Haga clic en cancelar para detener la operación actual, puede intentarlo más tarde."
 
-Namespace SOutputLog (1 keys)
-	ShowWarnings = "Advertencias"
-
-Namespace SPackageDetails (1 keys)
-	ActionColumnHeaderName = "Acción"
-
 Namespace SPlatformSetupMessage (9 keys)
 	NeedsCheckoutButton = "Reservar"
 	MissingFilesButton = "Configurar ahora"
@@ -1718,7 +1538,7 @@ Namespace SpriteCategory (16 keys)
 	Misc = "Varios"
 	Navigation = "Navegación"
 	Notes = "Notas"
-	Physics = "Físicos"
+	Physics = "Físicas"
 	PlayerStart = "Salida del jugador"
 	Sky = "Cielo"
 	TargetPoint = "Puntos de destino"
@@ -1754,32 +1574,8 @@ Namespace SProfilerWindow (15 keys)
 	DescF_OfflineCapture_Started = "Comenzó a cargar un archivo ../../{Filename}"
 	DescF_ServiceSideCapture_Started = "Comenzó a recibir un archivo ../../{Filename}"
 
-Namespace SProjectLauncher (1 keys)
-	AdvancedButton = "Avanzado"
-
-Namespace SProjectLauncherArchivePage (1 keys)
-	FolderDialogTitle = "Elegir un directorio"
-
-Namespace SProjectLauncherBuildConfigurationSelector (1 keys)
-	DebugActionHint = "Depurar configuración."
-
-Namespace SProjectLauncherBuildPage (1 keys)
-	AdvancedAreaTitle = "Ajustes avanzados"
-
-Namespace SProjectLauncherCookedPlatforms (1 keys)
-	PlatformListPlatformNameColumnHeader = "Plataforma"
-
-Namespace SProjectLauncherDeployTargets (1 keys)
-	DeviceListDeviceColumnHeader = "Dispositivo"
-
-Namespace SProjectLauncherDeployTaskSettings (1 keys)
-	ProjectSectionHeader = "Proyecto"
-
-Namespace SProjectLauncherInstanceTypeSelector (1 keys)
-	DedicatedServer = "Servidor dedicado"
-
-Namespace SProjectLauncherProgress (1 keys)
-	SaveLogDialogFileError = "¡Fallo al abrir el archivo especificado para guardar!"
+Namespace SProjectLauncherSettings (1 keys)
+	BuildSectionHeader = "Renderizar"
 
 Namespace SReflectorToolTipWidget (4 keys)
 	ActualSize = "Tamaño actual"
@@ -1797,9 +1593,6 @@ Namespace SSessionBrowser (3 keys)
 	TerminateSessionDialogPrompt = "¿Está seguro de que quiere terminar esta sesión y sus instancias?"
 	AppGroupName = "Esta aplicación"
 	TerminateDeniedPrompt = "No está autorizado a terminar la sesión actualmente seleccionada porque pertenece a {0}"
-
-Namespace SSessionBrowserTreeRow (1 keys)
-	ThisApplicationSessionText = "Esta aplicación"
 
 Namespace SSessionConsoleCommandBar (4 keys)
 	PromoteConsoleCommandButtonTooltip = "Transformar comando en acceso directo"
@@ -2099,28 +1892,11 @@ Se ha empeñado en impedir que se pueblen estos Estados; obstaculizando las Leye
 Namespace STreeView (1 keys)
 	BrokenSetupMessage = "OnGenerateWidget() no asignado."
 
-Namespace SubversionSourceControl (1 keys)
-	Yes = "Sí"
-
-Namespace SubversionSourceControl.State (1 keys)
-	Unknown = "Desconocido"
-
 Namespace SVectorInputBox (4 keys)
 	MultipleValues = "Valores múltiples"
 	X_ToolTip = "Valor X"
 	Y_ToolTip = "Valor Y"
 	Z_ToolTip = "Valor Z"
-
-Namespace SVisualLogger (2 keys)
-	NewProjectBrowseTitle = "Elegir una ubicación del proyecto"
-	OpenProjectBrowseTitle = "Abrir proyecto"
-
-Namespace SVisualLoggerStatusView (1 keys)
-	VisLogTimestamp = "Tiempo"
-
-Namespace SVisualLoggerToolbar (2 keys)
-	FreeCamera = "Cámara"
-	ToggleGraphs = "Gráficos"
 
 Namespace SWidgetReflector (6 keys)
 	AppScale = "Escala de aplicación: "
@@ -2194,27 +1970,6 @@ Namespace Toolbox (4 keys)
 	DebugToolsTooltipText = "Abrir la pestaña de herramientas de depuración."
 	ModulesTooltipText = "Abrir la pestaña de los módulos."
 
-Namespace TutorialCategories (1 keys)
-	AnimationTitle = "Animación"
-
-Namespace UICommands.DeviceDetailsCommands (1 keys)
-	Remove = "Eliminar"
-
-Namespace UICommands.FMessagingDebuggerCommands (1 keys)
-	ContinueDebugger = "Continuar"
-
-Namespace UICommands.GenericCommands (2 keys)
-	Cut = "Cortar"
-	Rename = "Cambio del nombre"
-
-Namespace UICommands.MacMenu (2 keys)
-	Close_ToolTip = "Cerrar"
-	ShowAll = "Mostrar todo"
-
-Namespace UICommands.ProjectLauncherCommands (2 keys)
-	CreateBuild = "Diseñar"
-	DeleteProfile = "Eliminar"
-
 Namespace UMG (3 keys)
 	NativeWidgetHostText = "Anfitrión del widget del cuadro"
 	TextBlockDefaultValue = "Bloque de texto"
@@ -2231,14 +1986,13 @@ Namespace UnrealClient (2 keys)
 	HighResScreenshotSavedAs = "Captura de pantalla de alta resolución guardada como"
 	HighResScreenshotTooBig = "El multiplicador de captura de pantalla de alta resolución es demasiado grande para su sistema. ¡Por favor, inténtelo de nuevo con un valor más pequeño!"
 
-Namespace UnrealEd (75 keys)
+Namespace UnrealEd (66 keys)
 	VisualizeAOSF = "Oclusión del ambiente"
 	ReplaceExistingObjectInPackage_F = "Ya existe un objeto [{0}] de la clase [{1}] en el archivo [{2}].  ¿Desea reemplazar el objeto existente?  Si hace clic en “Sí', se eliminará el objeto existente.  De lo contrario, haga clic en 'No' y elija un nombre único para su nuevo objeto."
 	Module_LocationVertSurface_AutoFill = "Relleno automático de los nombre del hueso"
 	Module_LocationBoneSocket_AutoFill = "Relleno automático de los nombres del hueso/ranura"
 	SomeNotifiesWereNotCopiedF = "Debido a que la secuencia de destino era más corta, no se copiaron {0} avisos."
 	BlockingVolumeSF = "Bloqueo"
-	VisualizeBufferSF = "Visualización del búfer"
 	Error_RetryCompilation = "C++ compilation of module {0} failed!  Details in the log.  \\
 Fix the error then click Ok to retry."
 	Cancel = "Cancelar"
@@ -2250,7 +2004,6 @@ Fix the error then click Ok to retry."
 	Error_CouldntLaunchPIEClient = "No se ha podido iniciar el cliente de PIE (reproducción en el editor): {0}"
 	Error_CouldntSpawnPlayer = "No se ha podido generar el jugador: {0}"
 	CullDistanceVolumeSF = "Distancia seleccionada"
-	DecalsSF = "Texturas decorativas"
 	DuplicatedHardcodedName = "Duplicar nombre hardcoded: {0}"
 	Module_LocationBoneSocket_EditorMeshNoBones = "La malla del editor no tiene huesos."
 	Module_LocationBoneSocket_EditorMeshNoSockets = "La malla del editor no tiene puntos de acople."
@@ -2258,7 +2011,6 @@ Fix the error then click Ok to retry."
 	Error_FailedCreatePlayFromHerePlayerStart = "Error al crear el PlayerStart en la ubicación de inicio deseada."
 	Error_FailedCreateEditorPreviewWorld = "Error al crear el mundo de la vista preliminar del editor."
 	Error_FailedToBindShaderParameter = "¡Error al enlazar el parámetro del sombreador no opcional {0}! El parámetro o no está presente en el sombreador, o el compilador sombreador no funciona. ¡Será un informe de fallo con el LogShaders suprimido!"
-	InstancedFoliageSF = "Follaje"
 	Error_InputNamesMustBeUnique = "Los nombres de entrada de función deben ser únicos"
 	Error_OutputNamesMustBeUnique = "Los nombres de salida de función deben ser únicos"
 	Module_LocationSkelVertSurface_InheritVertexColorOnGPUError = "El color de vértice heredado no es compatible con los emisores GPU."
@@ -2272,7 +2024,6 @@ Fix the error then click Ok to retry."
 	LightmassCharacterIndirectDetailVolumeSF = "Detalle indirecto de carácter lightmass"
 	LightmassImportanceVolumeSF = "Importancia del lightmass"
 	SplashScreen_InitialStartupProgress = "Cargando..."
-	MAX_NETWORKED_HARDCODED_NAME Incorrect = "¡MAX_NETWORKED_HARDCODED_NAME está ajustado incorrectamente! (actualmente {0}, no debe ser mayor que {1}"
 	MassiveLODOverrideVolumeSF = "Supresión LOD masiva"
 	NavModifierVolumeSF = "Modificador Nav"
 	NavMeshBoundsVolumeSF = "Límites NavMesh"
@@ -2282,7 +2033,6 @@ Fix the error then click Ok to retry."
 	OK = "ACEPTAR"
 	PainCausingVolumeSF = "Causando daño"
 	PhysicsVolumeSF = "Físicos"
-	PivotSF = "Pivote"
 	PostProcessVolumeSF = "Posprocesamiento"
 	PrecomputedVisibilityVolumeSF = "Visibilidad precalculada"
 	PrecomputedVisibilityOverrideVolumeSF = "Suprimir la visibilidad precalculada"
@@ -2290,12 +2040,10 @@ Fix the error then click Ok to retry."
 	ProcessingSkeletalTriangles = "Procesando los triángulos de malla"
 	ProcessingSections = "Procesando las secciones"
 	RandomSubUVForGPUEmitter = "La interpolación SubUV aleatoria no es compatible con las partículas GPU."
-	RefractionSF = "Refracción"
 	Reverse = "Retroceder"
 	CollisionOnOpaqueEmitter = "La colisión de la profundidad de la escena no puede utilizarse en emisores con material opaco."
 	Module_ColorScaleOverLife_SetupParticleParam = "Configurar el parámetro de la partícula"
 	UVOverlay_F = "Mostrando canal UV {0} para el LOD {1}"
-	SnapSF = "Magnetizar"
 	SomeNotifiesWillNotBeCopiedQ = "Algunos avisos no se copiarán, debido a que la secuencia de destino no es suficientemente larga. ¿Continuar?"
 	SourceControl_ServerUnresponsive = "El control del código fuente no responde. Por favor, compruebe su conexión y vuelva a intentarlo."
 	AutomationTest_Success = "Correcto"
@@ -2303,8 +2051,6 @@ Fix the error then click Ok to retry."
 	Error_ParentalControls = "El nivel actual de los controles parentales no le permite ejecutar este juego."
 	DestSeqAlreadyContainsNotifiesMergeQ = "La secuencia de destino ya contiene {0} avisos. ¿Desea eliminarlos antes de copiar?"
 	TriggerVolumeSF = "Disparador"
-	CollisionVisibility = "Visibilidad"
-	VolumesSF = "Volúmenes"
 	Yes = "Sí"
 	YesToAll = "Sí a todo"
 	Error_RetryShaderCompilation = "{0}\\
@@ -2326,9 +2072,6 @@ Namespace UnrealEngine (7 keys)
 	PrepareMapChangeError = "¡PrepareMapChange tiene un nombre de nivel defectuoso! Comprobar el registro (etiquetado con PREPAREMAPCHANGE) para obtener información"
 	OutOfTextureMemory = "¡SE AGOTÓ LA MEMORIA DE TEXTURA, PREVISIBLEMENTE SE PERDERÁ Y SE COLGARÁ LA GPU!"
 
-Namespace UTakeRecorderNearbySpawnedActorSource (1 keys)
-	LabelSourceCountInfiniteProximityFormat = "{0} Actores"
-
 Namespace VisualizeRT (9 keys)
 	DepthColumnHeader = "Profundidad"
 	DimensionsColumnHeader = "Dimensiones"
@@ -2342,9 +2085,6 @@ Namespace VisualizeRT (9 keys)
 
 Namespace WidgetBlock (1 keys)
 	CustomControl = "Control personalizado"
-
-Namespace WidgetEventLog (1 keys)
-	None = "Ninguno"
 
 Namespace WidgetGallery (18 keys)
 	AddBreadCrumbLabel = "Añadir"
