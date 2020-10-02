@@ -1,8 +1,8 @@
-10265 entries
+10272 entries
 33 namespaces
-8318 values
+8329 values
 
-Namespace Global (9500 keys)
+Namespace Global (9506 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        resetta        "
 	C96469B045023AF918296D97182165AB = "        resetta        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Scatola Nera pronta e in accensione. Perderemo la connessione se non state vicino, quindi cercate di non lasciare la Zona di Triangolazione segnata!"
@@ -43,7 +43,7 @@ Tutti i dati raccolti attraverso questo metodo sono gestiti tramite StatHat con 
 	E0E303954037D0A08BD52BA7C89BD427 = ""O scavi insieme - o ti scavi la tomba!""
 	344608AF4AB651187F1233B6F8C1DC6F = ""Persino nelle profondità più gelide di Hoxxes IV, la vita trova un modo di esistere.""
 	561CC2CB40CBAAAB675EF5891A28E17D = ""Tutto ciò che non viene ucciso dalle radiazioni, diventa più forte.""
-	28A37DBD4556CA6593FCB19612C81F9C = "Armatura "Fox""
+	28A37DBD4556CA6593FCB19612C81F9C = "Armatura "Volpe""
 	BCB5CE944FA8FF4F3B1137B4EB5AE5B3 = ""Dagli tempo e il Fungo ti crescerà addosso.""
 	70FD9CD645105ACF9FA599BA79E805C8 = ""I Novellini che passano attraverso i tunnel di Magma, si lasciano dietro i loro scrupoli e un bel po' della loro pelle.""
 	2D32E1124D79B3E3DEC62BB9E756ED93 = ""Il duro lavoro è nel cuore di ogni nano dal sangue rosso. Sei il miglior nano che puoi ambire ad essere?""
@@ -543,6 +543,7 @@ L'IA di Bosco non è pronta a gestire questo tipo di armi, usa il PUNTATORE LASE
 	231B979D45EA53C0FD4DE6AB6ED71A00 = "Abilità Attive"
 	D11DDD844B16F8BE4ADD41897A7276E2 = "Abilità Attive"
 	9262C90B424241A9AC70079309113B89 = "Sistema di Stabilità Attivo"
+	E7F617D941F2F06D811DFAAF33032A39 = "Aggiungi segmento"
 	6E7DC3224323717E4D0FCFBFA555ED83 = "Aggiungendo il Peperoncino Habanero..."
 	2401527F45F43145C75DD58A31E97D75 = "Aggiungendo l'Ingrediente X..."
 	9EAEFECC4E0F57C466B73A9BBC5C7350 = "Aggiungendo Dolcificante..."
@@ -587,7 +588,7 @@ Puoi anche <bold>salutarlo</> premendo <Salute/>."
 	C2DDE6E545531F830458ED9178FBDAE8 = "Flora Aliena"
 	A059914040CB4EBF3E0D898E6927B0AB = "Fossile Alieno"
 	260C17EC484FDE2F69281FBF8ED5016C = "Feccia aliena!"
-	6B1EFA834EAEAE27D66A5D94D8D83A95 = "Allinea alla visuale: [JUMP]"
+	6B1EFA834EAEAE27D66A5D94D8D83A95 = "Allinea: [JUMP]"
 	299BED7B4263CCA2670157B7113E7BEB = "Tutto"
 	A409C3764DFDE233D90B83AA2FF3240F = "Tutti"
 	AD7B012B40FE168398E7FC8FB63D8BDB = "Tutte le taniche sono piene! Drilldozer pronto ad avanzare! "
@@ -609,11 +610,11 @@ Premi <equip2/> per equipaggiare l'<bold>Arma Secondaria</>"
 	47CC1630470D68C4C86FA9904710F044 = "Tutti i dati sono stati recuperati! Obiettivo completato! Ottima prestazione, Minatori!"
 	60DF9F1A4D00D0960320E1BDF1622767 = "Tutte le uova raccolte! La Direzione ne sarà felice. Il pulsante per la Capsula di Fuga è stato attivato!"
 	64E1F45942ECC978C508FB93D342A9FC = "Tutte le uova raccolte! Obiettivo completato! State andando bene."
-	3B72EF274DEBFF1CC76BA1ADC3BD1463 = "Attenzione ai proiettori!"
+	3B72EF274DEBFF1CC76BA1ADC3BD1463 = "Attenzione ai cristalli!"
 	ADC3A444405EA9E563E081B7187A4DE9 = "Tutti per uno, e uno per tutti! Possiamo farcela!"
 	6A644F85422236504F97D79B1EFB68FC = "Tutte le cose belle finiscono..."
 	B21830B545E9D42F5CC74B8511127994 = "Tutto in una giornata di lavoro."
-	957C92D4466963E13A1BD1A73315AE69 = "Luce verde! Tubature e pompe posizionate, e la Morkite liquida è in attesa. Torna alla raffineria e inizia la sequenza di pompaggio!"
+	957C92D4466963E13A1BD1A73315AE69 = "Sistemi sul verde! Tubature e pompe posizionate, e la Morkite liquida è in attesa. Torna alla raffineria e inizia la sequenza di pompaggio!"
 	359BF8524D67513E48AE5B8FE4CD3F8D = "Tutte le parti metalliche"
 	D7C8930440988BD9F9736182A8936FCB = "Tutta la Morkite necessaria è stata raccolta! Obiettivo completato!"
 	3BA1D1CB4E75D2827D2E58A2BD0BE482 = "Tutte le quote raggiunte, ben fatto squadra. Attivate il vostro transponder attraverso il MULE e tornate a casa."
@@ -678,7 +679,7 @@ Premi <equip2/> per equipaggiare l'<bold>Arma Secondaria</>"
 	591225604B87D8991590D2B50710F2F1 = "E poi ha fatto boom!"
 	42B6FDB74FAD676E9B4D5AA54451F988 = "E quello era l'ultimo - tutti i Mini Mule sono stati attivati! Ottimo lavoro squadra. Obiettivo completato!"
 	95650DFD49771CA8447A68BCC2C07AB8 = "E quello era l'ultimo! Bel lavoro squadra! Obiettivo Completato!"
-	22D732DD43E797F1DAC65C990354E218 = "Ecco che se ne va! Torniamo in orbita con te!"
+	22D732DD43E797F1DAC65C990354E218 = "Ecco che se ne va! Torna in orbita!"
 	F8CC47174E118AF9199141905042A50F = "Eccoli che arrivano. Sciame! Uccideteli squadra!"
 	9423BEC040F6A309882B7D88B484A30C = "E siamo al 50%."
 	24BF75834F259D80A77CCA9E44535621 = "E puoi anche tenerci un sandwich dentro!"
@@ -909,7 +910,7 @@ Ma adesso, abbiamo bisogno di voi più che mai! Dobbiamo far sapere al mondo del
 	3F12DEAE44FA09642CC737B266E6CF7E = "Uccisione con ascia!"
 	F75DBDB240F17296237292954E8F3095 = "Ascia su, ascia giù!"
 	207597684CDFFD148AC669AAB712AC1A = "Ascia lanciata!"
-	2842F6FF4F32C4515FE3469E0EE1B8C7 = "Tirate fuori le asce! Dobbiamo pensare ai proiettori!"
+	2842F6FF4F32C4515FE3469E0EE1B8C7 = "Tirate fuori i picconi! Dobbiamo pensare ai cristalli!"
 	668F03764820AE0064621BB12C5C948D = "Una Birra Azgaraz per curare il desiderio di casa, Lloyd."
 	F2FB5BE046585C34BCADB796C8C6154B = "Birra Azgaraz!"
 	2F4C03C54E3AF88E76419EA4FE9397FB = "INDIETRO"
@@ -918,6 +919,7 @@ Ma adesso, abbiamo bisogno di voi più che mai! Dobbiamo far sapere al mondo del
 	4CA396F145B211685401B4BFF7CBBAA1 = "NOME DELLA BIRRA"
 	82E0000A4E1E317CA7110F98F0A427A7 = "Il BET-C deve fermarsi per attivare il laser e sparare la Raffica di Precisione"
 	DFEDCAF746A561C2E2C4D0A57D630C8A = "NOME BIOMA QUI"
+	8DCD49104A81DDA80E3E5694736EBC1D = "BLOCCATA"
 	C2D6864E4BD7683088529AA7E6BBEEF1 = "BUM, BUM, qui, Bosco!"
 	25574FF04560C2804C3B5F88AEAA005E = "SFONDA IL NUCLEO"
 	3FFF568840CFD6200F506F98A744826B = "SFONDA IL NUCLEO"
@@ -1000,7 +1002,7 @@ DI ISTRUZIONI"
 	E7772B644C5F4A6306B38189DA3EEECB = "State pronti a tutto!"
 	9AB5661B44426908E238F0834F4A2D59 = "DPS Raggio"
 	373BD4274F602820DA2DBD8F7C2CE5C2 = "Il raggio gira e avanza lentamente, infliggendo danni costantemente"
-	895880954509B58788A917B660221338 = "Proiettori! Tagliateli, forza!"
+	895880954509B58788A917B660221338 = "Cristalli! Spaccateli, forza!"
 	96C4F1564F1B57D4D09E7CA2234CE78F = "Berretto - Verde"
 	D414D8B046988FD1CF5610B91FFC736C = "Berretto - Uniforme"
 	384D191244AC7DCA6A25459FF2C2F0CA = "Berretto - Bianco"
@@ -1018,7 +1020,7 @@ DI ISTRUZIONI"
 	24A76DAB42EA967C4944B685FC37F534 = "Ricetta della Birra"
 	B6085879441A041A50A6539549F344F9 = "Lancio della Birra"
 	E8AE3BEA4D9C33409DC81BA02E37853A = "Prima che mi dimentichi....Un giro di Birra Blackout Lloyd!"
-	56E6F1664E48779BE32A35A0A4B39920 = "Inizio tubatura {id}"
+	56E6F1664E48779BE32A35A0A4B39920 = "Inizio della tubatura {id}"
 	5F95DFFE4973DB9B9C5E2D8CFCD846F3 = "del principiante"
 	3DA275554F895A92CEF0D6B56D784817 = "Sparisci!"
 	11D68ADA4C38FEE2082642AA554B6838 = "Fidatevi di Steeve!"
@@ -1248,6 +1250,7 @@ DI ISTRUZIONI"
 	00141BF34BF3C64ED43DD08A1EF871B0 = "Costruisci"
 	93691B8445BD80B844D432A8BAE2FE83 = "Costruisci"
 	0E2F48804ABB9F559C265BB94FBFDB7E = "Costruisci Estrattore"
+	47E18A154D5BE9CBA34229B325A0D10E = "Costruisci la tubatura"
 	86E1780D4A5073EAC646FD80A56F659B = "Costruisci tubature"
 	72ED6BA449D8DD773694629F44160D98 = "Costruisci ogni segmento"
 	DBA09C7A479FBCEF308DB2883E9C15EF = "Costruiscilo!"
@@ -1342,6 +1345,8 @@ DI ISTRUZIONI"
 	5E8BBF3F422AB915A152BD9100797743 = "RISCUOTI LE TUE RICOMPENSE"
 	B8A06BB4428C92EC3A2631A8C2259D98 = "PUNTI ABILITÀ RISCUOTIBILI"
 	AA1B3D24461665D2DE736AB39C4BD728 = "CLASSE 01"
+	517C288845EB9C0738758AB53B9060D9 = "PULISCI"
+	AB86733A4013124CE707EC815B5E5380 = "PULISCI"
 	725D889043B63B21FA201CA9BAFF6C84 = "CARICAT."
 	023624E04256580815F77EB719B0A4B2 = "CHIUDI"
 	0402F22242E9DA3BDCA0B6AA1D6B8704 = "VICINA"
@@ -1365,6 +1370,7 @@ DI ISTRUZIONI"
 	7E414F4C4FF198C3F86B93AF103217E7 = "COMPLETATA"
 	9D5804D945E193F068219EB19787CE42 = "COMPLETATA"
 	13AEF9FE48FED505521872B9A8A90466 = "RICOMPENSA COMPLETAMENTO"
+	5893875045842B29089A5DA286CC3C15 = "RICOMPENSA PER IL COMPLETAMENTO"
 	3D6E174142696818ED29D6804471583B = "CONNESSIONE PERSA"
 	401FE2484B056208D64FE898A736C2CB = "CONNESSIONE PERSA"
 	5D07197E454C6A470C7D078C873BF4A1 = "CONNESSIONE PERSA"
@@ -2063,8 +2069,6 @@ La Direzione"
 	0D08A52249A921274DBFB3901186CF82 = "DISTANZA"
 	96485D0A40BE46D7101C4EB631B3D594 = "DISTANZA"
 	D79FE1A44C28EC9BB8E42AAA0FB426AF = "Campana da Immersione"
-	284D93274D93F917C46E94AE56EB9A5A = "DLC03 - Pacchetto Operaio"
-	6ED0CA2346F1032291A6B9BF2DC7742F = "DLC03 - Pacchetto Operaio"
 	5A62FBAF43BB88826C3F62AA57753708 = "VUOI DAVVERO SALTARE QUESTO INCARICO?"
 	CF8D55604CB3409970FE91AFBB036A45 = "VUOI ACQUISTARE QUESTO OGGETTO?"
 	9D9E9F09482824C4127F7DBAF27EA1F4 = "NON TOCCARE!"
@@ -2223,7 +2227,7 @@ La Direzione"
 	E1EE517846967BFFC6AB10B830ED84B4 = "con difetti"
 	D513BD264D814E81E088A88C7B0F653A = "Difendi"
 	D93396D042711A0E30ED05BE3D2AAB8E = "Obiettivi Difendi la Scatola Nera Completati"
-	060B74A347B218EAC468D8809805ECC3 = "Difendi Doretta!"
+	060B74A347B218EAC468D8809805ECC3 = "Difendete Doretta!"
 	711006B745E59077C150EE8E3A132484 = "Difendi Bersagli:"
 	6DCAB3804892BC5B43D9808B53E0B6DE = "Difendilo!"
 	2F4F3C09466037D14585C6B95BA2BBE3 = "Difendete il Drilldozer dai nemici in arrivo fino al completamento della perforazione."
@@ -2272,8 +2276,8 @@ La Direzione"
 	CA103F7342D0B21BBBA40AA070F50127 = "Ranger del Deserto"
 	4ACAA9BC4B1CEC1C5DC6CE990F4A96A9 = "miserabile"
 	9F719FC34EE8EE5D0B1CC7BE0D2C8C80 = "Distruggilo!"
-	839E0F9F4CCC31E5B086BFA7F60BD500 = "Distruggete i proiettori con i vostri picconi!"
-	69C7E8E84CBBDA197E7B028B19FE64F3 = "Distruggi i Proiettori! "
+	839E0F9F4CCC31E5B086BFA7F60BD500 = "Distruggete i cristalli con i vostri picconi!"
+	69C7E8E84CBBDA197E7B028B19FE64F3 = "Distruggete i cristalli! "
 	F2495B9B4E8FA03EC81A1BA8B4B7DD01 = "Distruggi la Covata dello Sciame!"
 	B45F239B4E904131F233DAAE721AF793 = "Distruggete i cristalli laser!"
 	27BD00D248928CF75219E3B91E7D62FF = "Distruggi lo Spitballer"
@@ -2359,7 +2363,7 @@ Ed è uno dei posti dove abbiamo scelto di rimanere in contatto con la nostra me
 	A776E0AC425E784A132C54A074AAF44F = "NON lasciare la zona di triangolazione! Ti stiamo perdendo!"
 	F61C962A4D8522B7072EAFA9461465DB = "NON lasciare la zona di triangolazione! Ti stiamo perdendo!"
 	98BE548B422E3AA17442C2B16EB36EFB = "La faccio o muoio, questa è la mia ultima missione per Deep Rock!"
-	013379F04FCE614CDB0E75B9052B44BD = "Lo senti? Quella risata maniacale che diventa sempre più incontenibile dentro di te? Deve essere liberatahahahah!"
+	013379F04FCE614CDB0E75B9052B44BD = "La senti? Quella risata maniacale che diventa sempre più incontenibile dentro di te? Deve essere liberatahahahah!"
 	04BBF4194695F111B71769BD87B645F6 = "Hai della Canary alla spina, Lloyd?"
 	60E225D8464397BA2BBD87AD37BE6995 = "Hai quello che serve per far parte di: {0}?"
 	371C10844F9EDD3AA80B019D5F81BF80 = "Vuoi cambiare 
@@ -2975,7 +2979,7 @@ DI FUOCO"
 	16B75D65445DA07DFAAD58B15A5947C3 = "Bomba in buca!"
 	68FB6B7643BFE31BB5A59594C7E5E2C3 = "Bomba in buca!"
 	C15F10D94439DB73A3E1DAA6EC84B417 = "Bomba in buca!"
-	044096554B99804952A4B9A8864D7A21 = "Fuoco alle polveri! L'Armatura Reattiva di Lusso addolcisce qualunque esplosione."
+	044096554B99804952A4B9A8864D7A21 = "Fuoco alle polveri! L'Armatura Reattiva di Lusso ammortizza qualunque esplosione."
 	45AA03EC4427E8D19AA31B9EF9805349 = "Fuoco alle polveri! L'Armatura Reattiva di Lusso addolcisce qualunque esplosione."
 	E03F911D40D16AFB01608D8808387F2D = "Fuoco!"
 	7C29570D450A79DEC208109EB6F63CE5 = "Palla di fuoco"
@@ -3041,7 +3045,7 @@ DI FUOCO"
 	43AFE4104C30D953BECF9BAF476972C3 = "Concentrate il fuoco!"
 	603FF67E4A43DE2BFE6AA8BA238C7979 = "Concentrate il fuoco!"
 	9385BB3D4069DEBE36F854B9594B9652 = "Concentratevi sul Detonatore Crassus!"
-	D8916FBF4DAAB6EE27184DA7C07C068E = "Concentratevi sui Proiettori di cristallo! "
+	D8916FBF4DAAB6EE27184DA7C07C068E = "Concentratevi sui Cristalli! "
 	C572AF1548EBB4679C39D89B66C4E9AD = "Concentratevi su quelli di Ebonite!"
 	19856FC8424F8B5ADA3734A4D008BAE8 = "Concentratevi sull'Oppressore!"
 	1280783449F950ECC73ED4B4695CF237 = "Concentratevi sulle rocce volanti!"
@@ -3524,7 +3528,7 @@ Ora...sono tornati!"
 	5CCABE744C0C6B1F0DAA10BDBEE2C198 = "Bel lavoro. Obiettivi Completati! La Capsula di Salvataggio può essere chiamata via M.U.L.E.!"
 	41E7177C4B7021E9006E9DB8BB3E7140 = "Ottimo lavoro. La Direzione crede che tu sia pronto a maneggiare un Cannone Pesante, il "Thunderhead" ...Sii attento a non farti staccare le gambe con un esplosione. Questo coso ha un bel rinculo."
 	0BADAD5F46C59E5E9CF825B6632D2FBC = "Bel lavoro. La Direzione ha confermato il completamento del corso per il Porto d'Armi. Non spararti sui piedi adesso..."
-	60F3AB994A0BCD6BC747E1B766E5408F = "Bel lavoro. Obiettivo Completato! La Capsula di Salvataggio può essere chiamata via MULE! "
+	60F3AB994A0BCD6BC747E1B766E5408F = "Bel lavoro. Obiettivo Completato! La Capsula di Fuga può essere chiamata dal MULE! "
 	B41BD8B8452956E50A99F88CA674895B = "Bel lavoro. Obiettivo Completato! La Capsula di Salvataggio può essere chiamata via MULE! "
 	455138F548F682BB531F48A544BF6B0A = "Bel lavoro. Stiamo inviando la Lattina. Immersione Profonda quasi completata!"
 	F0EB132F4D82E47A92BEDF88D0230119 = "Ottimo lavoro. Capsula da Sbarco in arrivo."
@@ -3612,7 +3616,7 @@ Ora...sono tornati!"
 	FE8D585043DCE7A98104FDA119BC90B4 = "Spettro Funebre - Mezzo Viso"
 	44B601544387CDA06D4EC9B858E18EFF = "Cupo e infame nel Perimetro Esterno."
 	ADD7668C4802B1BBB58E4DA3DED2E96B = "Sorriso"
-	2DF31DFE428FAB4E15232987147B39AB = "Scivola"
+	2DF31DFE428FAB4E15232987147B39AB = "Surfa"
 	D6F1128545E388222D0A849AA6AF9EF8 = "Per tutte le rocce, che disastro!"
 	160065CA466B02083BD6ED9A26658085 = "Superficie del Cavo Aderente"
 	998A06F14B2F26EEF2000FAD110E10B1 = "Grotta"
@@ -3791,7 +3795,7 @@ Ora...sono tornati!"
 	A54314414B260587E4313093D354B6E5 = "Colpi più pesanti danno una possibilità di stordire tutte le parti del corpo, non solo i punti deboli. Sparare a nemici già storditi con questo sovraccaricamento fa più danno."
 	182D24704E464FE2043620AD59F5D1CC = "pesante"
 	FCDC61CE4F29F45988A731873C68089F = "Spinterometro Pesante"
-	91A13EA54D504E0D90054F9BE7A7843B = "Lancio di carico pesante"
+	91A13EA54D504E0D90054F9BE7A7843B = "Carico pesante"
 	6B7CC70F47047AD62011B58E5CAB7CB5 = "Lavoro pesante"
 	5AFE3D0A4C885C713F1E039BAFAAE675 = "Avviatore Pesante"
 	0A819D464766D21E79EE4C8CA013BEB1 = "Casco da Minatore Robusto"
@@ -3855,7 +3859,7 @@ Gioca alla versione 1.0 pre-rilascio nella Versione Sperimentale e dicci la tua
 	9397364C43CF4212194B11A9B599341C = "Aiuto, mi ha preso! "
 	4319183844A43B786B22A78CABAB699D = "Ecco che arrivo!"
 	5348E01E455759BA56C94A81BF6EAD17 = "Arrivo!"
-	8EF020E0484C4882D544E690D1072407 = "Ecco che vado!"
+	8EF020E0484C4882D544E690D1072407 = "Guarda come vado!"
 	BF0A19014C2A783CE12407A103D22653 = "Qua, là e ovunque!"
 	AB876F1A4DDB32CD78442BAC6681BFD9 = "Arriva la disinfestazione!"
 	5B9DBF5242786E6D2FDE8F8237449508 = "Ecco che arriva!"
@@ -4141,7 +4145,7 @@ Gioca alla versione 1.0 pre-rilascio nella Versione Sperimentale e dicci la tua
 	E580B50D432CB2E4FCDF2B949AE68744 = "Mi piace l'aspetto di questo!"
 	4B65F2274109BD63B9B7218CE4929424 = "Mi piace come suona!"
 	73F5BF254FCA45FF2778DD80FCBA22DA = "Mi piacciono le cose che fanno Bum!"
-	A7D61A8641AD36D1F3FF3599FDA8A14E = "Adoro scivolare!"
+	A7D61A8641AD36D1F3FF3599FDA8A14E = "Adoro surfare!"
 	9DB85AD44C302EF504EDD89DAE84A07B = "Amo questo rampino!"
 	7C8464E54DC5E03BDFF23691D5421B4C = "Vi amo tutti!"
 	EC69F87B4A560471097321889D15110A = "Vi amo tutti!"
@@ -4363,9 +4367,9 @@ INSERISCI TITOLO"
 	864130014772849FA7B3E5BC76D5853C = "Pendenti Immense"
 	4C44006F419858C7F88E0896AAFDB457 = "Impatto"
 	73FA37DB4183381C99063CAC7C75CC6F = "Impatto"
-	2DE0C04747271DC179F626BC4AEDC6CC = "Ascia da Impatto"
-	F90FC0F748D1AE8E18D45AA7F0D6FF03 = "Ascia da Impatto"
-	41FAB0884137521FEC24E4B580E0C2CD = "Ascia da Impatto!"
+	2DE0C04747271DC179F626BC4AEDC6CC = "Ascia da lancio"
+	F90FC0F748D1AE8E18D45AA7F0D6FF03 = "Ascia da lancio"
+	41FAB0884137521FEC24E4B580E0C2CD = "Ascia da lancio!"
 	0733C16D4153DC823A1DC3B01AA4F68B = "AdE Paura Impatto"
 	1D2DAB3B4A255077E8F5BEA6D62DC992 = "Lavoro impeccabile. Stai facendo buoni progressi. Nani più deboli non sarebbero arrivati ​​così lontano."
 	301B9EE94301F8B5D3A32BA6A56FA93A = "del difetto"
@@ -4694,7 +4698,7 @@ e diventa più forte! L'Unione ti fornisce un fondo iniziale di 5000 crediti!
 
 NON SI ABBANDONA NESSUN NANO!"
 	AC0E11E2443BBB82089071B408C5F8B5 = "Gioia"
-	46AE9892470EF6292357C3BF15D0A162 = "Jukebox ON / OFF"
+	46AE9892470EF6292357C3BF15D0A162 = "Jukebox SI/ NO"
 	1C6D3E274B6BFC7EC937B6A2CD0D5360 = "Cartucce Jumbo"
 	0A05696842905CDAE9E436A856D458C8 = "Salto"
 	5C10457541066C16019647B891018B74 = "Salto Potenziato"
@@ -4802,7 +4806,7 @@ NON SI ABBANDONA NESSUN NANO!"
 	D858BB57455FECC89C8D85A2819B58E6 = "Radici di Korlok"
 	DBA488A54EE78931326D77B33674E870 = "Sputo di Korlok"
 	8DB10E00474944A3FEE9DDA5A0908F06 = "Germoglio Korlok"
-	F9B3937943240F9992B58D966046FD4F = "Tyrant-Erba Korlok"
+	F9B3937943240F9992B58D966046FD4F = "Erba-Tiranno Korlok"
 	7F52C98B4F89AF19D69EEA98B1D3D2FA = "Analizzatore di Kursite in accensione! I depositi Volatili di Kursite nell'area stanno infettando la fauna locale! Prendi quanti più campioni puoi dalle bestie infette, dobbiamo arrivare in fondo a questa faccenda!"
 	4752D77D4F72CF94D5652A9D8218B05F = "Radiofaro della Kursite attivato! Gli alieni infettati con la Kursite saranno attratti dalla vostra posizione - uccidili, prendi i campioni, e mettili nel macchinario per ulteriori analisi!"
 	C44D570D409909EFD9C305BBADC7E136 = "Blocco di Kursite"
@@ -5114,7 +5118,7 @@ Premi <calldonkey/> o <JUMP/> mentre sei sospeso per disattivarli."
 	22B8B49D4665B69EEFDD3DBCC2652F20 = "Guardate quel novellino, bara come un...un...novellino!"
 	57F1C361421091DD955EB79880C0F16A = "Guarda quello!"
 	9211351A42993364965FAEAF1787CEAD = "Guarda un po’!"
-	8652145141AFC5B1650523B87E70FF53 = "Guarda le scintille!"
+	8652145141AFC5B1650523B87E70FF53 = "Guarda che scintille!"
 	525EB5B144B3BE349920358A576DDA5F = "Cerca un posto alto per evitare la zona di pericolo"
 	4C36C795417048E41230B4952D5FDE85 = "Guarda qui!"
 	EC64A48941E0778C95C99E946A64A2FB = "Guardami negli occhi."
@@ -5157,7 +5161,7 @@ Premi <calldonkey/> o <JUMP/> mentre sei sospeso per disattivarli."
 	2F4D45C14FA015883CEF63B90A45019E = "del perdente"
 	000F565044D776AAE2BD398EDE4F046D = "Equipaggiamento perduto"
 	14DF284D42A6A089E82FB9AAEBF771DD = "Equipaggiamento Perso"
-	FF962555408128EABEAFEB910F5AA789 = "Equipaggiamento Perso"
+	FF962555408128EABEAFEB910F5AA789 = "Equipaggiamento perduto"
 	1C7CE9BD4CE80BB7CD2FD1978683B9EA = "Elmetto Perduto"
 	38A352D84AF190E753529A81D7FD5211 = "Connessione al Server persa"
 	E0D723A24BA68DD0B26C85AC2FD29810 = "Equipaggiamento perduto qui!"
@@ -5811,7 +5815,7 @@ D'altra parte, le armi ad area d'effetto e quelle basate su flussi freddi o di f
 	95D9D04E4E4A865165025D8FD4601E7E = "Niente carburante!"
 	FC1922FA475E6A04012A9B9051BFF609 = "Niente più granate qui!"
 	837EA16A4DE5664CB012F8A9592EA9FE = "Basta perdite!"
-	07C2279143FEBAA77843CDAF5795A9D6 = "Niente più mr. Tizio dei Dadi!"
+	07C2279143FEBAA77843CDAF5795A9D6 = "Niente più sig. Tizio dei Dadi!"
 	167C66754CC2BDFF61E533B9EC7B966F = "Non ho più spazio! È ora di depositare!"
 	D81B68C44A1F5BEE3FDE65A3442BC6DA = "Nessuna penalità di movimento in modalità concentrato"
 	84E6F9B94CDEF9BB5A0C62BCFB619EBD = "Non c'è bisogno di gioielli o altri abbellimenti per questa barba semplicemente gloriosa. Voglio dire, guardala!"
@@ -5924,15 +5928,15 @@ La Direzione"
 	B29CDC634C06C0D71AE84DBE4495213B = "Obiettivo completato! Dati recuperati con successo! Lavoro Eccellente, Minatori!"
 	A2D188A143C84D8EEC9EDD8C28769C4A = "Obiettivo Completato! La quantità di Morkite richiesta è stata recuperata!"
 	30F0F03D4688BD978B57B1875B4DC848 = "Obiettivo Completato! Premete il pulsante sul MULE quando siete pronti, e invieremo la Capsula da Sbarco per il recupero."
-	8FA9AE9342767D5974DA5CADCCB22253 = "Obiettivo Completato! Premete il pulsante sul MULE quando siete pronti, e invieremo la Capsula da Sbarco per il recupero."
+	8FA9AE9342767D5974DA5CADCCB22253 = "Obiettivo Completato! Premete il pulsante sul MULE quando siete pronti e invieremo la Capsula da Sbarco per tirarvi fuori da lì."
 	F4DDB320497C12A9535E318E7C0EDE2F = "Obiettivo Completato. I controlli di lancio sono attivi e aspettano un vostro input. Portiamolo a casa, squadra."
-	A7347FCE42AA0741688B22B84E467B55 = "Obiettivo"
+	A7347FCE42AA0741688B22B84E467B55 = "Oggetto (Obiettivo)"
 	188C8D0C4F4889FB92465E82CA64B562 = "Minerale Obiettivo"
-	AF4B799647481077AD2BBDA3E3C62AFA = "Minerale Obiettivo"
+	AF4B799647481077AD2BBDA3E3C62AFA = "Minerale (Obiettivo)"
 	44672A91414644E3731409B9818BE2F7 = "Nome dell'Obiettivo Va Qui"
 	76FFCCF2422EFDF8C53B4AA4FAF7F73D = "Nome dell'Obiettivo Va Qui"
-	4829ACDD410E23651DFFE886EF42BF50 = "Obiettivo completo, ben fatto! Il bottone di ritorno sul MULE è attivo! "
-	8F9EF97E429CEB80BB71E6A3B2D3376C = "Obiettivo raggiunto, ben fatto! Il bottone di ritorno sul MULE è attivo! "
+	4829ACDD410E23651DFFE886EF42BF50 = "Obiettivo completato, ben fatto! Il tasto per il ritorno sul MULE è stato attivato! "
+	8F9EF97E429CEB80BB71E6A3B2D3376C = "Obiettivo raggiunto, ben fatto! Il tasto per il ritorno sul MULE è stato attivato! "
 	8F1C9A1F470A5AD95AD71AA75BE507C2 = "Obiettivo completato! Tutti i Mini Mule sono stati riparati! Vi accompagneranno alla Capsula da Sbarco. Bel Lavoro."
 	B52577554F1CF9F8D38C05B6888F0CAA = "Obiettivo completato! La Minaccia dei Corazzati è stata eliminata!"
 	5B7FACF645B05E29001EC99CC0C5D36D = "Obiettivo completato! Le uova sono state recuperate e la Direzione ne sarà felice. Ben fatto!"
@@ -5940,7 +5944,7 @@ La Direzione"
 	470465554C4CC236B02A698DC30AA621 = "Materiale obiettivo"
 	5C9904CC4755B49E3D758B90555EE60D = "Materiale obiettivo"
 	5DDB7F4B4B9ACE1A37063FA312FDED03 = "Materiale obiettivo"
-	8525F1414F29FFA88CD1F5830B0DD479 = "Materiale obiettivo"
+	8525F1414F29FFA88CD1F5830B0DD479 = "Materiale (obiettivo)"
 	D4F3ED82438770D91321B4AC4C94C841 = "Materiale obiettivo"
 	0195077B4ACDF7FBE31C60B4B202FA93 = "Risorsa obiettivo"
 	0F5F6AA14889438C8130D0A34E20F109 = "Risorsa obiettivo"
@@ -6016,7 +6020,8 @@ Clicca qui per dare un'occhiata"
 	34D3B01243BE5B8813039DBB60F83C1B = "Fedora del Oktoberfest"
 	E8B832334C9C59E1B67E86B92B2B1314 = "di vecchia data"
 	249A9D7C49B894C48DB5D885AE263713 = "Sterminatore Modulare Omen!"
-	5BBA19D94AE1F70710C48891339C439C = "Proiettore Ommoran"
+	5BBA19D94AE1F70710C48891339C439C = "Cristallo Ommoran"
+	9BD06C004C5A0F4ADDEA528DFBC97952 = "Cristallo Ommoran"
 	F34ADE064419BF71BF1C2B84E31B6E3B = "Cuore di pietra Ommoran messo al sicuro!"
 	40909FD94326D150BEF34D8A5F845E8B = "Cuore di pietra Ommoran"
 	48186A864D629C62F12B2688BC51972D = "Cuore di pietra Ommoran"
@@ -6136,7 +6141,7 @@ La Direzione"
 	0C88F0D9439A9A86EC8A7D8A4CA880D4 = "Relè Orbitale"
 	4C00DDD243A216F0336201B7EB60440A = "Ordina a Bosco di scavare minerali e combattere contro nemici specifici utilizzando il Puntatore Laser!"
 	E188CD9A4447D90B16A773B3578B3A16 = "Richiedi Rifornimenti"
-	74AB3F064BD26D432194FB8AC54B2B7D = "Stazione di pompaggio ordinata!"
+	74AB3F064BD26D432194FB8AC54B2B7D = "Pompa ordinata!"
 	BCF3BEB34D63AE4315D8BAA3AF3F6317 = "Ordini dalla direzione: Smettetela di ballare e tornate a lavoro!"
 	3C5F34D0436E2B98FD13338659B30B2F = "Materiale Organico"
 	55372B224AFBE73F4A6F798CF1108DDE = "Materiale Organico"
@@ -6149,7 +6154,7 @@ La Direzione"
 	FE8D298B425AC9CFFD02ADA7FB7489FB = "I nostri più sentiti ringraziamenti e gratitudine. <3"
 	375687B34635F0F9EA9D61A3735D12F1 = "Gli insetti stanno distruggendo il nostro macchinario! Fateli fuori, subito!"
 	72D368C0495F4D0DC1854F9FB97E9981 = "Gli insetti stanno distruggendo il nostro macchinario! Fateli fuori, subito!"
-	814D68294D66ABE791A42F85C7A82AC5 = "Il nostro obiettivo è la Morkite liquida e stiamo mandando un raffineria per farvela riempire. Mettetevi al lavoro e pompate quei depositi fino a quando non rimarrà più nulla! Al lavoro, operai!"
+	814D68294D66ABE791A42F85C7A82AC5 = "Il nostro obiettivo è la Morkite liquida, perciò stiamo inviando una raffineria da riempire. Mettetevi al lavoro e pompate quei depositi fino all'ultima goccia! Al lavoro, operai!"
 	6D4ADC7E46B2B3F042B165B4C8F39259 = "I nostri scanner hanno captato un ENORME deposito di Aquarq. Vi stiamo inviando insieme ad un sollevatore pesantemente armato per estrarne quanto più possibile. Stiamo raccogliendo segnali biologici estremi in zona, quindi tenetevi pronti! L'Aquarq può essere estratta dalle pareti. Cercate una luce blu, scintillante. Completate il compito, Squadra."
 	2D1F2C3647ECEFDD247A8CADFE5E5EDF = "Munizioni Finite"
 	3C3DBC024C6A8754E00885B0812366C5 = "Fuori Portata"
@@ -6280,7 +6285,7 @@ La Direzione"
 	9D0495E743DE52B3F57657B90B4B5D58 = "TENDE A ESPLODERE"
 	0743DAE24CA986BE792E58B3FF6F12EA = "MINA DI PROSSIMITÀ"
 	3C5A008D4A9404236B3B6DA97B561600 = "Annuncio: E' stato trovato abbandonato nella sala da pranzo un lanciagranate. Per vostra sicurezza, vi preghiamo di stivare tutti gli armamenti pesanti tra una missione e l'altra."
-	1B798D5E4B5DD828B8151A83C3E77B3F = "Annuncio: E' stato trovato abbandonato nella sala da pranzo un lanciagranate. Per vostra sicurezza, vi preghiamo di stivare tutti gli armamenti pesanti tra una missione e l'altra."
+	1B798D5E4B5DD828B8151A83C3E77B3F = "Annuncio: Qualcuno ha lasciato nella sala da pranzo un lanciagranate. Per la vostra sicurezza, vi preghiamo di riporre tutti gli armamenti pesanti tra una missione e l'altra."
 	664A6705417086F880DC3AB6EC26200A = "Annuncio: E' stato trovato abbandonato nella sala da pranzo un lanciagranate. Per vostra sicurezza, vi preghiamo di stivare tutti gli armamenti pesanti tra una missione e l'altra."
 	2D6116584500D086F81045BB2C295021 = "Annuncio: Tutte le armi da fuoco devono essere rinfoderate o riposte tutte le volte che si è sulla Piattaforma Spaziale."
 	2F9328D54501F01017A1E6AC1B58ACDF = "Annuncio: Tutte le armi da fuoco devono essere rinfoderate o riposte tutte le volte che si è sulla Piattaforma Spaziale."
@@ -6398,7 +6403,7 @@ La Direzione"
 	D99A9A5745BE6BE64A4DBBB4387A6D60 = "Sovraccarichi per il Piccone! Prendeteli!"
 	0A57F0A54B19063BCB100EACB25D3E48 = "L'Attacco Potente del Piccone si ricarica più velocemente"
 	2153E9DF4A746299E0CF4290B439BEAA = "Piccone e aria condizionata."
-	A1AA5DBC46AC6F3EFF5F1C8BA658678B = "Prendete a picconate i Proiettori Ommoran!"
+	A1AA5DBC46AC6F3EFF5F1C8BA658678B = "Prendete a picconate i Cristalli Ommoran!"
 	E7A7B59540D55C111E0C1698A0DC8A67 = "{type} per il Piccone"
 	0C19AD9D4A0EFD06378C93B03597E404 = "Solo piccone! signori! Nessuno deve sparare a questi bastardi!"
 	7D7ED9604FEA7D0C8B51A58C2AD9B563 = "Abbassate i picconi, abbiamo finito di raccogliere Morkite!"
@@ -6635,7 +6640,7 @@ Guadagnerai un DISTINTIVO D'ONORE e MANTERRAI tutti i progressi su armi, abilit�
 	EBF240D741CF56C5D340388F2046D4FF = "La promozione porta un certo numero di abilità...dai un'occhiata qua sotto."
 	0E1C525A4B1BC1181F1B43A13BCD5F3F = "Lanciati in aria usando il colpo sparato del tuo fucile"
 	3D35AE1246D81902E6884F8281F0DD56 = "Cercatore d'Oro"
-	B3B9D6004293F13DAE9820BA54CD0025 = "Proteggete Doretta dai proiettori!"
+	B3B9D6004293F13DAE9820BA54CD0025 = "Proteggete Doretta dai cristalli!"
 	618CD686463A957326F3A6BEFAA0FA98 = "Proteggi Doretta dalle rocce volanti!"
 	37CAF8A749943A68612D57A3277CA9F5 = "Proteggete Doretta! "
 	5EB60A7249B4ED084B972B9A4BD93302 = "Proteggete e mantenete intatto il Drilldozer!"
@@ -6670,11 +6675,11 @@ Guadagnerai un DISTINTIVO D'ONORE e MANTERRAI tutti i progressi su armi, abilit�
 	C57604854765B85478765F89B9CD6126 = "Pompato e pronto ad uccidere!"
 	96DB03A644B3B8CACEA39DBD715BF7A3 = "Pompa"
 	510F376140735601F0F7B291F7FB1128 = "Pompa collegata alla Raffineria!"
-	ABE22FAC43BEEFBC2BA5A5AED3D02396 = "Pompa qui!"
+	ABE22FAC43BEEFBC2BA5A5AED3D02396 = "La pompa è qui!"
 	10DC126B4A5C615D89834ABA1E1CD6A6 = "Pompa lanciata! State lontani dalla zona d'impatto!"
 	678DEDF0451C6EF7F9FD2B825FDC8F0C = "Pompa richiesta e in arrivo!"
 	3C1C2C3F48547F4D368FCE84FDB4F700 = "Pompa!"
-	D7418E904629D1FDB004C2AF7486A354 = "Pompa qui, colleghiamola alla raffineria!"
+	D7418E904629D1FDB004C2AF7486A354 = "La pompa è arrivata, colleghiamola alla raffineria!"
 	C9793BEC455D6C3CFD04F2855A2C6E22 = "Zucca"
 	697E104E473E2C386490D6B32D1E1B75 = "Re delle Zucche"
 	D4750FE74069DAC1D56B00A3BB7142CA = "Il Punk non è morto."
@@ -6939,8 +6944,9 @@ RAPIDA"
 	8BCC8F4E4B43B7820678ACAAFA89C299 = "Additivo Repellente"
 	A0C4A8E04654DAAAA443F69362DB6937 = "Risposta premuta"
 	CAF4DDA448880A0870324E82132BB5BE = "Ritardo di ripressurizzazione"
-	7686B66C4322CF79E01E21A442FFB561 = "Richiesta accettata! State lontani - Stazione di pompaggio in arrivo! "
-	775EB2224DE2BD226317CDB44BF7C6CA = "Stazione di pompaggio richiesta!"
+	40848C9045FA737EA8BFEAAC982D2F75 = "Richiedi pompa"
+	7686B66C4322CF79E01E21A442FFB561 = "Richiesta accettata! State lontani - Pompa in arrivo! "
+	775EB2224DE2BD226317CDB44BF7C6CA = "Pompa richiesta!"
 	5FAC569A4A812469948283B973412265 = "Requisiti non soddisfatti!"
 	473BFC954B92795C0A7EE9B275806EE7 = "Riserva"
 	ED8BD1864A457214AF458ABB745FD6CD = "Riserva"
@@ -7198,7 +7204,7 @@ MISSIONE"
 	E33A92404A739D001A62419E7B8B5680 = "Stessa potenza ma in un pacchetto più piccolo che offre una precisione leggermente migliore e ti consente di mettere qualche colpo in più in ogni caricatore."
 	F24F2FA14CB352F109278BBFFF252C24 = "Santuario"
 	53C746184D65954505AC9D86E54586A3 = "Sabbia"
-	4715CF4040D90EE5FE63B89EEE112AAE = "Pietra di Sabbia"
+	4715CF4040D90EE5FE63B89EEE112AAE = "Blocco di sabbia"
 	29271C354D85D2093C76118FC791C5CA = "Sabbiati"
 	435276ED4055FFFBE0460BB171134929 = "Corridoi Sabbiati"
 	FA780DBA4A52D3BAB1E8F5A8C733AF75 = "Missioni nei Corridoi Sabbiati Completate"
@@ -7669,7 +7675,7 @@ La Direzione vi augura un'immersione sicura e produttiva."
 	FEA5744842062559ECC3DC87CBC6D719 = "Avvia una nuova Immersione Profonda"
 	34D1EA8C475A0C4DE346229541B617ED = "Comincia a congelare le cose appena premi il grilletto con un risposta quasi istantanea da parte della turbina."
 	570233834C9A3EA9FB7DE99C36B2EE39 = "Inizia ad uccidere insetti prima con una rotazione più veloce"
-	C6FE2A53489E16448C883588BBC8C691 = "Avvia il trapano"
+	C6FE2A53489E16448C883588BBC8C691 = "Avvia la trivella"
 	6D79A70F401FCD9010AE56AD80AA37AB = "Il nome dello stato va qui:"
 	BB4FCAD04D7057244F3A98801BB7761C = "Nome stat:"
 	5662999D4193EA1F75848DB5C772F9C4 = "Statistiche"
@@ -7744,7 +7750,7 @@ La Direzione vi augura un'immersione sicura e produttiva."
 	4108BA674EB34D51571AA38EF2242882 = "Smettila! ORA!"
 	19E415D54FC6A5F2074390AA4395E25D = "Smettila di calciare le decorazioni in giro!"
 	53922E6744B42263475EC6BF138591FE = "Smettila di sparare, amante delle foglie con le orecchie a punta!"
-	A29A94854B6DD52F67E6A297A5DB1979 = "Fermate i proiettori prima che attacchino!"
+	A29A94854B6DD52F67E6A297A5DB1979 = "Fermate i cristalli prima che attacchino!"
 	4243431441EEB2ED05BD15B42ED48DBC = "particolare"
 	CDF7F1484A34D44B43D8ED9440E15FE4 = "Strana Borsa"
 	B12099C64CA67C198F6C87AEC57A3C77 = "C'è uno strano insetto qui!"
@@ -7939,7 +7945,7 @@ MISSIONE"
 	5E5D93CE41FDFD00FDEBE5A203CD01B2 = "Prendi questo!"
 	C73025114FA5E25D51527D8F4131047E = "Prendi questo!"
 	368A995F46511270BCFBC3AE9A70F07C = "Porta la modalità precisa dell'M1000 all'estremo raffreddando i colpi prima di sparare per migliorare la loro accelerazione attraverso le molle, ma il liquido di raffreddamento extra nei caricatori limita la quantità di munizioni che puoi portare."
-	ECDD2CE3404856FD84BAFDBEA2C3F064 = "Togliete quei cristalli dal proiettore, veloce! Stanno per sparare al Dozer!"
+	ECDD2CE3404856FD84BAFDBEA2C3F064 = "Distruggete quei cristalli, veloci! Stanno per sparare al Dozer!"
 	B89200484E7467C7B40E858EFADFAB05 = "Partenza!"
 	03861D8B40B73AA32B45BF8325758837 = "Impieghi meno tempo per piazzare una torretta."
 	542393E346FA2827A7189CB62CB4F8AA = "I Soldati addomesticati infliggono <h>il {percent_onebased} in più di danni</> ai loro bersagli!"
@@ -8140,7 +8146,7 @@ Ora puoi creare e unirti alle <highlight2>Immersioni Profonde</> e guadagnare <h
 	50FC4D3640CA7024816C1CB90BC14E4C = "L'Ascia da Impatto è una scelta da intenditore per il nano di domani. Compatta e facile da trasportare, si estende fino alla sua dimensione completa dopo essere stata lanciata, e scarica una raffica letale di elettricità all'impatto con un qualsiasi bersaglio vivente. Può essere recuperata in sicurezza dall'utente nel caso la sua mira non sia il massimo."
 	CA1A81CE43FBD8A749A8BCBDE1DFFE1A = "L'Unione dei Minatori Interplanetaria combatte per i diritti dei Nani Minatori in tutto il sistema del Rim Esterno! Unisciti ai nostri ranghi e fai la differenza per condizioni di lavoro decenti, ore di lavoro migliori, equipaggiamento che non ti esploda in mano, prodotti per capelli gratuiti e bevande meno costose! Per i Nani!"
 	D202C74A46223107A3D78F910770F286 = "L'Unione dei Minatori Interplanetaria combatte per i diritti dei Nani Minatori in tutto il sistema del Rim Esterno! Unisciti ai nostri ranghi e fai la differenza per condizioni di lavoro decenti, ore di lavoro migliori, equipaggiamento che non ti esploda in mano, prodotti per capelli gratuiti e bevande meno costose! Per i Nani!"
-	F5CDC12C4391BF56E8E76CB535338845 = "L'Erba-Tiranno Korlok è un agglomerato senziente di piante, in grado di lavorare insieme come fossero una cosa sola. Al centro, il cuore corazzato simile ad un mollusco della struttura, una fabbrica biologica che pulsa di cattive intenzioni. Circondato da germogli aggressive e attenti, pronti a sparare globuli di ichor pungente ai suoi avversari. Il Cuore mollusco proverà sempre a generare nuovi germogli, quindi cerca di distruggere questa dannata cosa prima che ne sputi fuori degli altri."
+	F5CDC12C4391BF56E8E76CB535338845 = "L'Erba-Tiranno Korlok è un agglomerato senziente di piante, in grado di lavorare assieme come fossero una cosa sola. Al centro, il cuore corazzato simile ad un mollusco, una fabbrica biologica che pulsa di cattive intenzioni. Circondato da germogli aggressivi e attenti, pronti a sparare globuli di ichor pungente ai suoi avversari. Il Cuore mollusco proverà sempre a generare nuovi germogli, quindi cerca di distruggere questa dannata cosa prima che ne sputi fuori degli altri."
 	F68B3C6E49E17C8534E3279BE97F312E = "Il Puntatore Laser"
 	62C2B9B24FE43F47E84F7280F6144396 = "Estrazione della Morkite liquida in corso - la Raffineria e tutte le Pompe funzionano al meglio delle loro capacità. Attenzione: Il rumore attirerà gli animali locali, quindi state attenti e fate tutto quello che potete per proteggere e mantenere operativo l'equipaggiamento!"
 	B0F4B1B2426DEE3AFB3DB9911048EFC4 = "La Morkite liquida è qui!"
@@ -8175,17 +8181,17 @@ Il Manuale del Minatore - mai uscire dalla Stazione senza."
 	B0D9BE964FE5C58C952BD194BB38B0BC = "Lo Squalo Nayaka è un onnivoro aggressivo che colpisce senza preavviso e tutti i dipendenti DRG dovrebbero prendersi il tempo necessario per conoscere bene i segni rivelatori di queste creature. Il Trawler ha sviluppato l'incredibile capacità di scavare nella roccia solida con tale facilità che si può dire che "nuota" attraverso il terreno stesso. Attaccheranno letteralmente tutto ciò che si muove, compresi i dipendenti DRG, e tenteranno di trascinare qualsiasi preda con loro nel terreno per essere fatta a pezzi dalla pietra demolita sul loro cammino. Un destino terribile, certo."
 	09EE93E74FD10B6D9C77E2B3E8E6988D = "I Cristalli Ommoran stanno danneggiando il Drilldozer! Fateli fuori subito!"
 	F2DFE233476A99BE56F78B82D5CC7E0A = "Il cuore di pietra Ommoran sta preparando le difese! Occhio!"
-	AB06FCA64CA9AB23697F768B85E83304 = "L'Ommoran sta attaccando Doretta con i proiettori! "
+	AB06FCA64CA9AB23697F768B85E83304 = "L'Ommoran sta attaccando Doretta con i cristalli! "
 	60A6DE82403C8B2012596B9552DC640A = "L'Ommoran sta costruendo delle difese! Preparatevi!"
 	522531F74864DA580FE7509FB796533C = "L'Ommoran sta iniziando il suo attacco speciale! "
 	1733D24541D9892CDD9BD087DE41623C = "L'Ommoran si sta caricando per tirare delle rocce al Dozer! Fermatelo!"
 	ADA1DBEE45BFAFD883005D9A6DA74F0A = "L'Ommoran si sta difendendo! Impedite alle rocce di colpire il Dozer!"
-	7BB4E86C4023402397977AA8AD7BB7A4 = "L'Ommoran sta formando dei proiettori! Distruggeteli prima che attacchino il Dozer!"
+	7BB4E86C4023402397977AA8AD7BB7A4 = "L'Ommoran sta formando dei cristalli! Distruggeteli prima che attacchino il Dozer!"
 	9F87BBCA413B654C40A09388B2E02822 = "L'Ommoran sta per attaccare il Dozer con delle pietre! Fatele saltare in aria!"
-	CAC3DFA64E4CFD59F0EDB1BF50AD1EEA = "L'Ommoran sta estraendo proiettori dal terreno! Distruggeteli prima che riducano il Dozer in mille pezzi!"
+	CAC3DFA64E4CFD59F0EDB1BF50AD1EEA = "L'Ommoran sta estraendo dei cristalli dal terreno! Distruggeteli prima che riducano il Dozer in mille pezzi!"
 	3CA315C048C5DA99A8588488B3F3D244 = "L'Ommoran sta tirando rocce a Doretta!"
 	C1A2CF074D47CE5355B24AA7224B1777 = "Il Cuore di pietra Ommoran è dentro!"
-	066713714F99E5091DE58D8687075EDD = "Il Piccone è lo strumento più importante nel repertorio di ogni nano. Usa il terminale per <bold>installare le parti</> che trovi e ti fanno sentire unico."
+	066713714F99E5091DE58D8687075EDD = "Il Piccone è lo strumento più importante dei nani. Usa il terminale per <bold>installare le parti</> che trovi e che ti fanno sentire unico."
 	18006FCC4D56FA088D584DBBD0730446 = "Le tubature sono sotto attacco, proteggetele!"
 	7295BD3A45BD5EDD471C3DBCECA84F2C = "Le tubature sono sotto attacco, proteggetele!"
 	27F76A1E4B9634C9CF314BBAEB742FFB = "Le tubature sono bloccate! Dovete ripararle!"
@@ -8468,7 +8474,7 @@ La Direzione"
 	57D0D89E4DB426D756F9C5B471F79C18 = "Questo sembra davvero cazzuto!"
 	9AF6650A42F70BE0B76C84872DB23DFF = "Questa ha un aspetto delizioso!"
 	83C31E034D66F92866EBA89E2DDA6FB5 = "Questo è strano!"
-	1E1207414CC000EA869895B1EE4E8489 = "Il macchinario trita la Kursite dai nemici infetti!"
+	1E1207414CC000EA869895B1EE4E8489 = "Questo macchinario trita la Kursite dai nemici infetti!"
 	5B0C48AC4D5E6932839177BC20AA744F = "Questa può bruciacchiare una barba o due."
 	5906150D45C55697E0D1398FF0088E2D = "Questa missione è l'unica cosa rimanente tra me e la mia pensione! Facciamolo!"
 	8E22AD0A43C85806431545AB8D2D63A9 = "Ha bisogno di una riparazione!"
@@ -8657,7 +8663,7 @@ La Direzione"
 	37B1FA654556448659A31293F5E2DDBE = "reale"
 	BCDBEBFE42A7F30B113143BF15493809 = "Arrugginita ma Affidabile"
 	C8964B5C426454E37071E9AEC8F28B5F = "Prova a distruggere i Pod Curativi appena si generano"
-	9705808640FB2A43DB29B0B91BC359AB = "Prova a stare al passo!"
+	9705808640FB2A43DB29B0B91BC359AB = "Prova a starmi dietro!"
 	FBDD6E2E4FDE7288FB2002B839614F16 = "Stai provando a scappare da un nano che vuole i tuoi minerali? Non succederà, insetto."
 	8040F61D483E03C188C39F81340B7285 = "Crescita Tumorale"
 	F74083284F0C1321EA6ABA918D59E826 = "Munizioni al Tungsteno"
@@ -9013,7 +9019,7 @@ Ricorda che questa è una versione non finita perciò riscontrerai bug e problem
 	459E073648FFC18BF191F8AD51C824FB = "Attenzione, non avvicinatevi a quei Tunnel di Prole!"
 	2712004C4726DA8EF06254B6E2D9A009 = "Attento, maiale ciecato!"
 	3FC278184A262276DCB238B5F3CF7125 = "Guardami volare!"
-	D350F40B44DA82DE0367AD82BE8C2E3A = "Guardami andare!"
+	D350F40B44DA82DE0367AD82BE8C2E3A = "Guardami come vado!"
 	19DB284E4EA524B7D3F057B90A5CDDE2 = "Guardami ora!"
 	BB20A88D40F72FB59FE552B888414F08 = "Guardami ora!"
 	1D666C44467949B44A92C785FC1DE91D = "Attenzione!"
@@ -9025,7 +9031,7 @@ Ricorda che questa è una versione non finita perciò riscontrerai bug e problem
 	A47FFC33442116D73FAAE2972D01753C = "Attenzione! E' grosso e pericoloso!"
 	F82DB3074CAF41933BA1B6B8725CDDC6 = "Attenzione! E' grosso e pericoloso!"
 	EEEBA817415C0CD1718C33A746DA2986 = "Attenzione! Onisco Q'ronar!"
-	4FBCDEE9405634A43C19FA95B8C84DCB = "Attenzione, picco di energia! Ci sono dei proiettori! Distruggeteli!"
+	4FBCDEE9405634A43C19FA95B8C84DCB = "Attenzione, picco di energia! Ci sono dei cristalli! Distruggeteli!"
 	393E1BF541EF7AC7556EF4A5C9CBCB3F = "Attenzione, plasma caldo!"
 	1557AD264BEA1078D10D0CA7D8013C06 = "Occhio all'Arraffone!"
 	99BAB1A347633E5A99B0978A21E69277 = "Occhio alla granata incendiaria!"
@@ -9095,7 +9101,7 @@ Ci scusiamo per l'inconveniente e ti ringraziamo per la pazienza mentre risolvia
 	917B814C439D60AB12C9BD8D4B7B90E2 = "Abbiamo trovato un deposito di Tritilite qua!"
 	818792C84FC6DA1299D5699BB0589A4E = "Abbiamo una grossa orda di nemici in arrivo verso il Drilldozer! Difendetelo o morite provandoci! "
 	298AB21943D33151B2CBF0871B682276 = "Abbiamo un drone!"
-	44B2A3AB42A79BF80D425DAD83C91237 = "Abbiamo un enorme contrattempo in arrivo da voi, squadra. Preparatevi!"
+	44B2A3AB42A79BF80D425DAD83C91237 = "C'è un gran contrattempo diretto verso di voi, squadra. Preparatevi!"
 	D01471D648165B9555D9A9AEBB1F2FA2 = "Abbiamo una perdita! Trovatela e sistematela!"
 	A538ACCE44FF0051D113AF8A3BB2659D = "Abbiamo una tubatura che perde! Sistemiamola!"
 	3239B1A140F3CF999FB3299F7A4F2067 = "Abbiamo un nuovo minatore in arrivo!"
@@ -9149,7 +9155,7 @@ Ci scusiamo per l'inconveniente e ti ringraziamo per la pazienza mentre risolvia
 	B5901F9E44C8539122316FAFE17AB1F3 = "Dobbiamo riparare Doretta!"
 	1427C1D54DD43FE36728FDA6DE4A4095 = "Dobbiamo ripararlo! "
 	F2D5EF2A41E8AE388ECD67A15E3786E0 = "Dobbiamo cercare qui!"
-	9DBFFF23454755C55B0BD88FB3B82249 = "Dobbiamo eliminare i proiettori! "
+	9DBFFF23454755C55B0BD88FB3B82249 = "Dobbiamo eliminare i cristalli! "
 	47178EEA4E6605A5A1CDFE8B5C7FEB5B = "Abbiamo beccato un Glyphid Corazzato sul radar! Si sta avvicinando rapidamente!"
 	D31337B2482663381E5599914CC50640 = "Abbiamo beccato un Glyphid Corazzato sul radar! Si sta avvicinando rapidamente!"
 	1A20AB4D47A72448274AF49453E1ECB9 = "Abbiamo rilevato alcune vibrazioni sullo scanner! Potrebbe essere qualcosa di grosso! Meglio se ti prepari! "
@@ -10001,7 +10007,7 @@ Namespace OC_BonusAndDrawbackLines (63 keys)
 	Pen_RecoilMedium = "Rinculo più potente"
 	Pen_OverheatFaster = "L'arma si surriscalda prima"
 
-Namespace PatchNotes (78 keys)
+Namespace PatchNotes (79 keys)
 	Update_30_Header = "LANCIO DELLA 1.0"
 	Update_30_ShortTitle = "LANCIO DELLA 1.0"
 	Update_23 = "Va bene, minatori: radunatevi intorno e state zitti!
@@ -11847,6 +11853,182 @@ VARIE
 - Risolto un bug che causava a Bosco di attaccare insensatamente la capsula da sbarco se la contrassegnavi con il puntatore laser. Stupido Bosco
 - Risolto un bug che faceva apparire la Prole Mactera come come se fossero nella loro posizione di attacco durante la fuga
 "
+	Update_32 = "Salve Operai!
+
+È finalmente arrivato il momento del nostro primo importante aggiornamento post-lancio! Il piatto principale è costituito da due nuovi tipi di missione: Missione di scorta e Raffinazione sul posto. Entrambi i tipi di missione si concentrano su attrezzature minerarie pesanti che richiedono cure amorevoli e protezione da una squadra di nani che lavorano sodo! Il contorno include un sacco di nuovi cosmetici, un ulteriore bilanciamento delle armi, una necessaria revisione della scheda degli incarichi e molte altre cose. Bon appetit!
+
+È ora di ingrassare! Non c'è mai stato momento migliore per essere un minatore da combattimento che lavora per DRG. Ci vediamo nelle miniere!      
+
+Con amore,
+La Crew di Ghost Ship
+
+--- NOTE DELLA PATCH ---
+
+NUOVA MISSIONE: RAFFINAZIONE SUL POSTO
+----------------------------
+La direzione ha un nuovo obiettivo: La Morkite liquida. Ti stanno inviando insieme a una raffineria da riempire sul posto. Individua i pozzi di Morkite liquida e collegali alle Pompe industriali a inserzione orbitale, collegali alla raffineria costruendo enormi condutture tortuose e pompa quei depositi fino a prosciugarli! Oh, e le brave persone giù in R&S si sono sentite anche abbastanza generose da costruire un modo pratico per usare le condutture in modo da attraversare la zona in modo veloce, facile e SICURO *.
+
+*Controlla la clausola 3.15 del tuo contratto per saperne di più sulla definizione dell'azienda di "sicuro".
+
+
+NUOVA MISSIONE: MISSIONE DI SCORTA
+----------------------------
+In questa missione fortemente incentrata sul combattimento sarai inviato per ottenere un misterioso Cuore di pietra Ommoran! Solo il Drilldozer autonomo appositamente costruito può bucare il guscio esterno dell'Ommoran e rivelare il premio all'interno: l'inestimabile Cuore di pietra Ommoran. Il Drilldozer atterrerà a una distanza di sicurezza, quindi si posizionerà automaticamente sull'Ommoran. Il tuo compito è mantenere la dannata macchina al sicuro e alimentata mentre scava verso l'obiettivo. Proteggetelo con la vostra vita, minatori!
+
+
+NUOVO INCARICO: OPERAI AL LAVORO
+----------------------------
+Questo nuovo incarico funge da corso accelerato su come completare in sicurezza le nuove missioni e tornare in vita, e al completamento ti ricompenserà con dei nuovi fantastici copricapi. Cosa non c'è da amare?
+
+
+NUOVI COSMETICI
+----------------------------
+Attenzione, fanatici della moda! La nuova collezione autunnale è appena uscita con una bellissima selezione di nuove barbe, copricapi e acconciature! 27 nuovi cosmetici sono stati aggiunti al negozio, 11 nuovi cosmetici possono essere forgiati con i Nuclei matrice e 1 nuovo copricapo sarà ricompensato completando il nuovo incarico. 
+
+
+NUOVO DLC: ROUGHNECK PACK 
+----------------------------
+Se vuoi davvero rendere il tuo nano più duro, il nuovo Roughneck Pack fa per te. Ravviva il tuo aspetto con quattro nuovi set di armature uniche (uno per ogni classe), nuovi elmetti e nuove verniciature. Questo pacchetto è rivolto a coloro che non hanno voglia di vestirsi da marine spaziali e vogliono rimanere bloccati al lavoro subito! Infine, mostra quelle pistole figurative e quella selezione di tatuaggi che hai tenuto nascosti per così tanto tempo!
+
+Oltre alle armature, il pacchetto include due elmetti unici, oltre ad una nuova verniciatura per Bosco e il tuo piccone.
+
+
+COSMETICI CASUALI NEL GUARDAROBA
+----------------------------
+Parlando di moda... se sei una di quelle persone che non sa decidere quale casco indossare o come modellare la tua barba o forse hai semplicemente troppa paura di provare qualcosa di nuovo e audace, beh... abbiamo ottime notizie per te: Il guardaroba è stato dotato di nuovi tasti Randomizza - anche un completo intero per categoria. Provare combo nuove e inaspettate non è mai stato così facile!
+ 
+
+MIGLIORAMENTO VISIVO ALLA BACHECA DEGLI INCARICHI
+----------------------------
+DRG ha appena investito in una Bacheca degli incarichi migliorata. Goditi un layout elegante e più intuitivo mentre selezioni il tuo prossimo incarico!
+
+
+MODIFICA ALLE MECCANICHE DI LANCIO
+----------------------------
+CONTROLLI: Quando trasporti gemme e altri oggetti pesanti ora puoi lanciarli su entrambi [TASTO SINISTRO E DESTRO DEL MOUSE] su PC o [GRILLETTO DESTRO E SINISTRO] su XBox. Abbiamo apportato questa modifica per accogliere la tanica di carburante (utilizzata nella missione di scorta) che viene trasportata come una gemma ma ha anche funzionalità come un'arma o uno strumento. In futuro potremmo immaginare di farvi trovare altri strumenti e armi che potrebbero essere usati in modo simile.
+
+ANNULLAMENTO AUTOMATICO DEL LANCIO: Se non rilasci il pulsante di lancio dopo aver raggiunto la potenza di lancio massima, il lancio si annullerà automaticamente dopo poco tempo. 
+
+
+BILANCIAMENTO DELLE ARMI
+----------------------------
+LANCIAGRANATE DEEPCORE 40MM
+- Aumentata la soglia di rottura base delle armature del 100%
+- La riduzione del danno diretto della mod del composto incendiario ora influisce anche sulla rottura dell'armatura
+- Spostati alcuni dei bonus dell'area dell'effetto dal mod "Chiodi + nastro" all'arma base
+- Le statistiche Munizioni massime includono il proiettile nel lanciatore poiché non ci sono statistiche sulle dimensioni del caricatore per quest'arma
+
+Overclock Iper propellente
+- Bonus ai danni diretti aumentato
+- Mirino modificato quando l'OC è equipaggiato
+- Ora ha i suoi effetti di impatto e il suo percorso
+
+Overclock Composto RJ250
+- Fatto cadere il contraccolpo dell'OC più lontano dal centro dell'esplosione
+- Migliorato il controllo che un giocatore ha sull'angolo in cui verrà lanciato
+
+AUTOCANNONE PESANTE “THUNDERHEAD”
+Overclock Mobilità in combattimento
+- Aumentato il bonus alla velocità di movimento
+- Aggiunto un bonus di precisione
+
+TORRETTA PIATTAFORMA LEGGERA
+- Danno base aumentato da 5 a 6
+
+Aggiustamenti alle modifiche
+- Il sistema Gemini ora include 90 munizioni extra
+- Il bonus ai danni del sistema difensore è cambiato da percentuale a +5 fisso
+
+CONTENITORE DI FEROMONI
+- I nemici colpiti dai feromoni ora sono più attraenti del 50%
+
+
+NUOVI URLI
+----------------------------
+Sono state aggiunte nuove urla dei nani. Principalmente per le nuove missioni, ovviamente, ma abbiamo anche raccolto le grida del Puntatore laser mancanti e abbiamo aggiunto anche diverse nuove grida Roccia e Pietra al mix! 
+
+
+NUOVI TRAGUARDI E ACHIEVEMENT
+----------------------------
+Nuovi tipi di missione ovviamente significano nuovi traguardi, oltre a due nuovi achievement, uno per ogni tipo di missione.
+
+
+RICHIESTE DELLA COMUNITÀ
+----------------------------
+- I Semi appiccicosi e le Ebonoci utilizzate in alcuni degli obiettivi secondari hanno ora più luci, rendendoli più facili da individuare al buio.
+
+
+VARI
+----------------------------
+- Revisionata l'interfaccia della bacheca degli incarichi
+- [RICHIESTA DELLA COMUNITÀ] Aggiunta più varietà alla generazione di grotte in tutti i tipi di missione
+- [RICHIESTA DELLA COMUNITÀ] Aggiunta luce a Semi appiccicosi ed Ebonoci per renderli un po' più facili da localizzare
+- Aggiunto un nuovo modello per il secchio dei minerali
+- Aggiunti due achievement per i nuovi tipi di missione
+- Aggiunti 27 nuovi cosmetici al negozio
+- Aggiunti 11 nuovi cosmetici che possono essere forgiati con i Nuclei matrice
+- Aggiunto un nuovo copricapo come ricompensa per il completamento di un nuovo incarico
+- Aggiunte icone a determinati oggetti che non le avevano sul display del puntatore laser
+- Aggiunta l'animazione per Bosco quando lascia cadere qualcosa che sta trasportando
+- Aggiunta descrizione del Mini M.U.L.E. al Puntatore laser
+- Aggiunta la possibilità di interrompere un lancio ripristinando la forza se si tiene premuto il lancio per un paio di secondi
+- Aggiunta la statistica Durata a un numero di granate prive della statistica
+- Aggiunta la statistica Area a un paio di granate prive della statistica
+- Risolto il problema con la visualizzazione delle statistiche dal terminale dell'attrezzatura che mostrava la rottura dell'armatura quando non veniva modificata
+- Bosco ora si resetta per seguire il giocatore se viene afferrato o abbattuto
+- Bosco ora lancia gli oggetti che sta trasportando verso il giocatore se è abbastanza vicino, piuttosto che lasciarli cadere con noncuranza sulla sua posizione
+- L'ologramma sulla testa di Bosco ora scompare solo quando interrompe il compito che gli è stato ordinato di svolgere
+- Bosco dovrebbe ora trovare i minerali in un'area più coerente intorno a dove punti
+- Aumentata leggermente la quantità di Morkite generata nelle Immersioni profonde con Raccogli Morkite come obiettivo secondario
+- Aumentato un po' il suono di avviso di Poco ossigeno
+- Il suggerimento sull'ossigeno ora viene visualizzato ogni volta che inizi una missione con il mutatore "Attenzione" di Poco ossigeno
+- Diminuito il numero di zampe generate per Mini M.U.L.E. da 4 a 3
+- Migliorato il modo in cui ricaviamo lo spazio affinché la capsula di salvataggio della missione di salvataggio faccia parte della generazione delle caverne, rendendo il suo posizionamento più naturale
+- Migliorata la logica di generazione dei Mini M.U.L.E. cosi che siano posti solo sulla roccia
+- Migliorata la generazione delle gambe di Mini M.U.L.E.. Ad esempio, non si generano più nel ghiaccio nero
+- Tempeste di sabbia e terremoti migliorati ora influenzano anche la velocità di movimento dei nemici
+- Migliorata l'animazione dello sfalsamento per basarsi sulla durata dello sfalsamento
+- Migliorata la modalità di visualizzazione di diversi oggetti sul display del puntatore laser
+- Migliorato il movimento del M.U.L.E. 
+- Migliorato lo shader del colore della pelle
+- Capacità di Bosco migliorata di navigare verso gli oggetti che gli è stato ordinato di raccogliere
+- Migliorato il modello del Revolver pesante "Bulldog"
+- Migliorata l'animazione della mossa vittoriosa "flessione"
+- Gli eventi macchina non esplodono più vicino a una Capsula da sbarco poiché abbiamo migliorato la logica di generazione per impedire che si generino in posizioni che bloccano l'accesso alla Capsula da sbarco
+- Ottimizzato l'audio nella schermata di caricamento del tutorial
+- Ottimizzato il suono delle urla dell'Oppressore Glyphid
+- Ottimizzato l'audio dell'Erba-Tiranno Korlok
+- Suoni del puntatore laser ottimizzati
+- Ottimizzato il suono dell'impatto del bengala
+- Ottimizzato il suono quando si sblocca un nuovo bioma
+- [RICHIESTA DELLA COMUNITÀ] Risolti diversi problemi di sovrapposizione delle mesh nella Stazione Spaziale
+- Risolto un bug che impediva ai giocatori di superare determinati popup
+- Risolto un bug che causava la mancata visualizzazione della statistica Diffusione per colpo dell'M1000 Classico nel terminale dell'attrezzatura
+- Risolto un bug che causava il taglio del rumore di passi del M.U.L.E.
+- Risolto un bug che impediva la visualizzazione del popup di conferma durante l'acquisto di modifiche alle armi
+- Risolto un bug che impediva la chiusura dei popup di conferma per l'acquisizione di granate
+- Risolto un bug che consentiva ai giocatori che si univano in ritardo di atterrare su "luoghi importanti", come il Drop Pod, gli eventi macchina, ecc.
+- Risolto un bug che a volte impediva il lancio di boccali di birra
+- Risolto un bug che poteva impedire a Bosco di essere permanentemente non in grado di raccogliere oggetti
+- Risolto un bug che ha permetteva a un'arma di apparire nel guardaroba
+- Risolto un bug che causava la generazione dei nemici Kursite nella posizione dell'host piuttosto che nella posizione dell'evento macchina
+- Risolti bug simili in altri eventi macchina
+- Risolto un bug che abilitava la modifica del fuoco soppressivo del cannone automatico pesante "Thunderhead" per applicare la paura a Steeve
+- Risolto un bug che ha costretto Bosco a scavare sotto i semi appiccicosi che giacciono sul pavimento quando gli si ordinava di raccoglierli
+- Risolti diversi bug audio
+- Risolto un bug che consentiva all'Arraffone Mactera di afferrare un giocatore dopo che era stato congelato
+- Risolto un bug che consentiva ai cristalli elettrici di infliggere danni al giocatore quando gli si lanciavano contro le asce da lancio
+- Risolto un bug che causava il blocco di Semi appiccicosi per i client quando venivano colpiti dalla Capsula da sbarco
+- Risolto un bug che causava al M.U.L.E. di rimanere bloccato fino all'estrazione se qualcuno si disconnetteva durante il deposito
+- Risolto un bug che impediva alle sanguisughe di caverna di visualizzare correttamente lo stato congelato
+- Risolto un bug che impediva ai nemici uccisi all'istante di essere congelati per conteggiare le uccisioni totali
+- Risolto un bug che faceva mostrare in prima persona un'ombra fluttuante del piccone
+- Risolto un bug con la presence di Discord nei canali vocali di Discord
+- Risolto un bug che causava la permanenza di alcuni suoni dell'evento macchina sterminatore modulare OMEN per i client 
+- Risolto un bug che causava la visualizzazione errata del Overclock 'Stordito' dell'Auto 210 "Warthog"
+- [XBOX] Risolto un bug che causava il blocco del popup "Accesso modificato" che interrompeva il gioco se si dispone di una cattiva connessione del cavo del controller
+- [XBOX / WIN10] Migliorato il framework di rete per eliminare disconnessioni casuali e arresti anomali
+"
 	Update_16 = "Ciao minatori! Siamo tornati in sella dopo una piacevole vacanza estiva, e abbiamo preparato una nuova patch per voi. In risposta a tutti i biomi caldi che abbiamo, abbiamo pensato che la cosa più sensata da fare fosse aggiungere un bioma ghiacciato. Giusto?
 
 --- NOTE DELLA PATCH ---
@@ -13429,9 +13611,9 @@ Namespace Resources (12 keys)
 	Gold = "Oro"
 	Red_Sugar_Description = "Cristallo Curativo"
 	Gold_Melted = "Oro Sciolto"
-	Objective_Flora = "Flora Obiettivo"
-	Objective_Mineral = "Minerale Obiettivo"
-	Objective_Object = "Oggetto Obiettivo"
+	Objective_Flora = "Flora (Obiettivo)"
+	Objective_Mineral = "Minerale (Obiettivo)"
+	Objective_Object = "Oggetto (Obiettivo)"
 	OilShale = "Scisto bituminoso"
 	Worthless_Crystal = "Quarzo Comune"
 	Gold_Description = "Minerale Prezioso (Crediti)"
@@ -13621,7 +13803,7 @@ Namespace ST_GearUpgrades (140 keys)
 	D_ArmorDamage = "Siamo orgogliosi di questo. Triturazione di armature. Attraversa l'armatura di quegli insetti come fosse burro. Cosa potrebbe essere meglio?"
 	D_ShieldStun = "Ogni volta che il tuo scudo si rompe, rilascia una scarica statica che ha la possibilità di stordire i nemici vicini."
 	D_MineralCapacity = "È possibile raccogliere maggiori quantità di ogni minerale prima di dover depositare."
-	D_ExtraAmmo = "Hai dovuto rinunciare a un po dello spazio per i tuoi panini, ma puoi trasportare più munizioni!"
+	D_ExtraAmmo = "Hai dovuto rinunciare a un po' dello spazio per i tuoi panini, ma puoi trasportare più munizioni!"
 	D_ShieldDamage = "Il tuo scudo si rompe violentemente, danneggiando tutti i nemici intorno a te nel processo."
 	D_StrongerShield = "Il tuo scudo può assorbire più danni prima di rompersi."
 
@@ -13922,7 +14104,7 @@ Accedi al <highlight>Terminale del Guardaroba</> per equipaggiarlo.
 	HairColor = "Colore Capelli"
 	Head = "Testa"
 	Headwear = "Accessori Testa"
-	Moustache = "Baffo"
+	Moustache = "Baffi"
 	Paintjob = "Verniciatura"
 	PROMO_HELMET_SAPPHIRE = "Zaffiro dell'Orgoglio"
 	Sideburns = "Basette"
