@@ -1,8 +1,8 @@
-10279 entries
+10293 entries
 34 namespaces
-8373 values
+8387 values
 
-Namespace Global (9537 keys)
+Namespace Global (9551 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        réinitialiser        "
 	C96469B045023AF918296D97182165AB = "        réinitialiser        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Démarrage de la boîte noire. Nous perdrons la connexion si vous vous éloignez trop, alors essayez de pas quitter la zone de triangulation indiquée !"
@@ -505,6 +505,8 @@ L'IA de Bosco n'est pas prête à gérer ce genre d'armement, utilisez le POINTE
 	231B979D45EA53C0FD4DE6AB6ED71A00 = "Compétences actives"
 	D11DDD844B16F8BE4ADD41897A7276E2 = "Compétences actives"
 	9262C90B424241A9AC70079309113B89 = "Système de stabilisation active"
+	E6B07B25410BA3DE103893AB10F738B8 = "Actor Context
+(prévenir les traducteurs si vous voyez cette ligne)"
 	E7F617D941F2F06D811DFAAF33032A39 = "Ajouter une section"
 	6E7DC3224323717E4D0FCFBFA555ED83 = "Ajout d'une pincée de piment Habanero..."
 	2401527F45F43145C75DD58A31E97D75 = "Ajout de l'ingrédient X..."
@@ -4338,7 +4340,7 @@ INSÉRER TITRE TEXTE"
 	AE02D1A6493DFBC0E093C8A2D94E3E18 = "Si tu cherches l'imprégnateur de noyaux ? - Il est là !"
 	7762816C4C6962EA5FD33EA302EB26C5 = "Si vous appelez, Bosco abandonnera sa tâche actuelle et viendra à vous."
 	31E69D1043D8AD4C6955619F78850667 = "Si vous videz complètement la chambre de pressurisation, l'arme commencera immédiatement la repressurisation, et tant pis pour la sécurité !"
-	FD5188FB43829128E07C328AFEBC671E = "Salue tes frères, autrement tu resteras derrière !"
+	FD5188FB43829128E07C328AFEBC671E = "Si tu salues pas, tu rentres pas chez toi !"
 	6EB7699D489A8409E516638AB982BE7B = "Si vous vous perdez, sortez votre pratique scanner de terrain pour vous repérer !"
 	07E9341B4715E109B5E3A6A4E627F90B = "Si vous remarquez d'étranges morceaux chatoyants dans les murs, essayez de creuser ici. Il y aura peut être des objets de valeurs juste sous la surface."
 	B44B3D8D4090842EEE24B18E4D18A513 = "Si vous me voyez courir ... Je suggère de me suivre ... eheheh ...!"
@@ -5461,6 +5463,7 @@ D'un autre côté, les armes à zone d'effet ou celles basées sur des jets de f
 	7C9DDADD40757985D0955C8003490DFF = "Chargeurs minimaux"
 	7291A611480E881E95370D857E5DEFBA = "Minage"
 	B85350774A6AD58B03FB29B9C834A000 = "Minage"
+	939C0B56492B31CB063CFFBE94AFAC10 = "Miner du <bold>sucre rouge</> va <bold>régénérer votre santé</>. Le montant des soins dépend de la quantité minée."
 	44109652413B689AD07B918FDE5E12EE = "Expédition minière"
 	BDB428844B68EA8289C3F5A5A4A5EDFC = "Expédition minière"
 	234BEC3A45FFDA5A00500E92020897ED = "Expéditions minières terminées"
@@ -6299,7 +6302,7 @@ La Direction"
 	4AA2E7F245398FF57B4FB3B23A23C154 = "ANNONCE : Vous lisez ce message ? Alors vous êtes le genre de joueur que nous recherchons pour le groupe d’habitués sur Discord ! Inscrivez-vous dès maintenant !"
 	EE403E22403DE03A5E866EA8707694ED = "ANNONCE : Vous lisez ce message ? Alors vous êtes le genre de joueur que nous recherchons pour le groupe d’habitués sur Discord ! Inscrivez-vous dès maintenant !"
 	F62A6D90427540127B482092D4CF898C = "ANNONCE : Vous lisez ce message ? Alors vous êtes le genre de joueur que nous recherchons pour le groupe d’habitués sur Discord ! Inscrivez-vous dès maintenant !"
-	4244CE9148B8905A6F7B8D87E8477672 = "ANNONCE : Le petit déjeuner est annulé. La navette à bacon a été retardée."
+	4244CE9148B8905A6F7B8D87E8477672 = "ANNONCE : Le petit déjeuner est annulé. La navette à bacon est retardée."
 	BA7783EA41735D6A9693A9BA8991855B = "ANNONCE : La "Dark Morkite" ! Pour étancher la soif des Nains !"
 	C4B3FEAE45728BACB8571E8FFDD9F6F1 = "ANNONCE : La "Dark Morkite" ! Pour étancher la soif des Nains !"
 	1FD75E644979496F79803AB072F29110 = "ANNONCE : L'utilisation excessive de 'Q-Mining' rend aveugle !"
@@ -6768,6 +6771,12 @@ RAPIDE"
 	B38989744B0B3BFEDB3B4EB0F92EE587 = "Mélange RJ250"
 	D7351C03419BC3A35DA83AB86FDD2E2D = "ROCK......AND.... STONE !"
 	E1D80181453EC5C5859456805C2F4043 = "MISSILE !"
+	BF6415574FF60433112554B6DC8C4B2C = "Châssis d'armure DUR A CUIRE pour toutes les classes"
+	2D025CD34F14A78B70118B9E9B54D2CE = "Casque DUR A CUIRE en deux variantes"
+	F366FD00490F237538E3A18E654E4D36 = "Peinture DUR A CUIRE pour Bosco"
+	B59BBF0245C49B666D6BE488EE269648 = "Peinture DUR A CUIRE pour toutes les armures"
+	175B02664A1D1855AB59D6801DDFD268 = "Peinture DUR A CUIRE pour toutes les armes"
+	A3091E0D4DA819EA6406F9AB2761AC50 = "Peinture DUR A CUIRE pour votre pioche"
 	922B2C64400F83A12481AD854CD7DB9F = "MUNITIONS"
 	767201A24BF05D53A61200984D6773B3 = "LANCER JEU SOLO"
 	4A82F147411FF196FE6F84A9DDAD1F5B = "Canon à impulsion radiale"
@@ -6848,6 +6857,7 @@ RAPIDE"
 	AB85234C4CFB8A482C5A5987B258338B = "rouge"
 	ECEC9CD3416C7905F945818884703B8A = "Cristal rouge"
 	5C9058E840FE23D81FF24D92B40D1823 = "Des Red Rock Blasters pour tout le monde, pronto !"
+	4D0DDE1A4C0E25E7ACE52CAD71D7EF46 = "Se soigner au sucre rouge"
 	25198A0C4FB3F82B189C77BEF8B0DCE3 = "Sel rouge !"
 	647A9A4F4E10D3AE2C843180230821C3 = "Du sel rouge !"
 	5FCB0E0145483E8E4299DA974965F976 = "Sucre rouge ici, mais faites gaffe : ça rend accro !"
@@ -6924,6 +6934,7 @@ RAPIDE"
 	15C102484C0E9A6961FBC4A248F56025 = "Rappelez-vous d'utiliser vos torches ! Votre stock se recharge automatiquement en peu de temps, alors pas besoin de les conserver !"
 	1DAAF49F4B0EA63B9F0CDA839D62E2A1 = "Enlever réservoir"
 	2F93B735471DFB60DDC1E0AD79C40164 = "Décorticage des noix..."
+	F31517A949FDF257906B4ABCB1DCAF2A = "Enlever un segment de tuyau"
 	11BC8F5540F956105650F29654396606 = "Réparer"
 	4DC4999A43745297A23D1BA2EB8C8E03 = "Réparer"
 	67119BE74FF42F35025CF1A4B4F5C969 = "Réparer"
@@ -9561,10 +9572,13 @@ FÉLICITATIONS !
 	742CBEAC46C0F18D8B99CC9FDCA5C862 = "Vous pouvez transporter encore plus de munitions mais la cadence de tir a besoin d'être diminuée pour éviter l'enrayement et s'il vous plait, faites plus attention en rechargent."
 	3D3C544D44A11B598935C28FA7F84F6F = "Vous pouvez transporter plus de munitions pour les tourelles"
 	31F3363F4BF2123346998D856F226E8A = "Vous pouvez transporter plus de munition avec vous lors des combats."
+	EF7B3EE04D721D4571654288354281AC = "Vous pouvez ordonner à <bold>Bosco</> de finir la construction d'un <bold>tuyau</> que vous avez <bold>déjà mis en place</>."
+	B86063D14479D051A85F0DA8167C2ADF = "Vous pouvez ordonner à <bold>Bosco</> de miner des dépôts de <bold>schiste huileux</> difficiles à atteindre pour faciliter leur collection avec le <bold>bidon de carburant</> depuis le sol."
 	7BAA34654CA10FAE8E75C799C2BF0BB4 = "Vous pouvez juste SENTIR la positivité !"
 	5F271ED049C646F5389B62B7732CE103 = "Vous pouvez recharger extrêmement vite juste après avoir tué un ennemi."
 	32E67FE9406320B0C0226FA6475494C3 = "Vous pouvez utiliser votre pointeur laser pour attirer l'attention de vos camarades sur des points d’intérêt."
 	E3C40C054367190F9C71519090623C15 = "Vous pouvez presser <Equip2/> pour équiper votre <bold>arme secondaire</>. C'est un bon complément en plus de votre arme principale."
+	22FFCF9149DBF247BA101390C74BE41B = "Vous pouvez supprimer le <bold>dernier segment</> d'un tuyau en le frappant avec votre pioche."
 	4FB1570445693F893FD9A2A30AC2B8AA = "Vous pouvez refaire le didacticiel depuis le <bold>manuel du mineur</> dans la section <highlight>bien démarrer -> les bases</>.
 
 Appuyez sur <CloseMenu/> pour ouvrir le <bold>manuel du mineur</>"
@@ -9744,6 +9758,7 @@ Vous pouvez maintenant équiper <highlight2>deux</> compétences actives. Choisi
 	433BBF6C47837D1D867AD7B699BD8B51 = "[ARME VERROUILLÉE]"
 	EFB6796C44FBB6920A5BA98BC6E717F7 = "[MenuAction1] Actualiser"
 	F62952864AC9BD5C00DDEA94DDF7A682 = "[MenuAction1] Actualiser"
+	BDF08600479FFA876207ECA92D1B1518 = "[Mine] DÉCONSTRUIRE"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] Continuer"
 	319FC2C243CD6989A597A8B314759BBD = "[OkMenu] Continuer"
 	54B6DBEE47A15FEB3FCD99A24F4EA0B2 = "[OkMenu] Continuer"
@@ -11884,11 +11899,11 @@ du rechargement
 - Correction d'un bug où Bosco attaquait la capsule quand marquée par le pointeur laser. Quel benêt ce Bosco
 - Correction d'un bug où les chasseurs macteras gardaient leur apparence d'attaque lorsqu'ils fuyaient
 "
-	Update_32 = "Bonjour, Durs-à-cuire !
+	Update_32 = "Bonjour, durs à cuire !
 
 Il est enfin temps pour notre première mise à jour majeure post-lancement ! Le plat principal se compose de deux nouvelles missions : les escortes et le raffinage sur site. Les deux types de mission tournent autour de matériel de minage lourd qui réclame une douce attention et la protection d'une équipe de nains qui travaillent dur ! En accompagnement vous trouverez une tonne de nouveaux cosmétiques, plus d'équilibrage des armes, une refonte absolument nécessaire du terminal des affectations, et plein d'autres choses. Bon appétit (en français dans le texte) !
 
-C'est l'heure de se salir les mains ! Il n'a fait aussi bon être un mineur de combat pour DRG. Rendez-vous dans les mines !      
+C'est l'heure de se salir les mains ! Il n'y a jamais eu de meilleur moment pour être un mineur de combat travaillant pour DRG. Rendez-vous dans les mines !      
 
 Avec amour,
 L'équipe Ghost Ship
@@ -11897,17 +11912,17 @@ L'équipe Ghost Ship
 
 NOUVELLE MISSION : RAFFINAGE SUR SITE
 ----------------------------
-La direction a une nouvelle soif : la morkite liquide. Ils vous ont envoyé avec une raffinerie sur site à remplir. Repérez les puits de morkite liquide et posez-y des pompes industrielles à larguer depuis l'orbite, connectez-les à la raffinerie en construisant de longues et alambiquées tuyauteries, et assèchez-nous ces dépôts ! Ah, et la R&D s'est même sentie suffisamment généreuse pour vous construire un moyen d'utiliser les tuyaux pour des trajets rapides, faciles, et SÛRS*.
+La direction a une nouvelle soif : la morkite liquide. Ils vous ont envoyé avec une raffinerie à remplir. Repérez les puits de morkite liquide et posez-y des pompes industrielles à larguer depuis l'orbite, connectez-les à la raffinerie en construisant de longues et alambiquées tuyauteries, et assèchez nous ces dépôts ! Ah, et la R&D s'est même sentie suffisamment généreuse pour vous construire un moyen d'utiliser les tuyaux pour des trajets rapides, faciles, et SANS DANGERS*.
 
-*Voir la clause 3.15 de votre contrat pour une définition de sûr dans l'entreprise.
+*Voir la clause 3.15 de votre contrat pour une définition de "sans danger" dans l'entreprise.
 
 
 NOUVELLE MISSION : ESCORTE
 ----------------------------
-Dans cette mission fortement orientée sur le combat vous êtes envoyés pour obtenir la mystérieuse rochecoeur Ommoran ! Seul le drilldozer autonome pourra traverser la coquille extérieure de l'Ommoran et révéler le trophée à l'intérieur : la rochecoeur Ommoran. Le drilldozer va atterir à une distance de sécurité, et va ensuite se diriger automatiquement vers l'Ommoran. Votre travail sera de garder cette foutue machine en sécurité et avec de lui faire le plein tandis qu'elle creuse son chemin vers l'objectif. Protégez-la au péril de votre vie, mineurs !
+Dans cette mission fortement orientée sur le combat vous êtes envoyés pour obtenir une mystérieuse rochecœur d'ommoran ! Seul le drilldozer autonome pourra traverser la coquille extérieure de l'ommoran et révéler le trophée à l'intérieur : la rochecœur. Le drilldozer va atterrir à une distance de sécurité, et va ensuite se diriger automatiquement vers l'ommoran. Votre travail sera de garder cette foutue machine en sécurité et de lui faire le plein tandis qu'elle creuse son chemin vers l'objectif. Protégez-la au péril de votre vie, mineurs !
 
 
-NOUVELLE AFFECTATION : DURS-À-CUIRE AU TRAVAIL
+NOUVELLE AFFECTATION : DURS À CUIRE AU TRAVAIL
 ----------------------------
 Cette nouvelle affectation sert de cours accéléré pour compléter les nouvelles missions en sécurité et revenir en vie - et vous récompensera avec un nouveau chapeau sympathique à sa complétion. On ne peut qu'aimer.
 
@@ -11917,9 +11932,9 @@ NOUVEAUX COSMÉTIQUES
 Votre attention, victimes de la mode ! La nouvelle collection automnale vient d'arriver avec une nouvelle sélection de barbes, couvre-chefs et coiffures ! 27 nouveaux cosmétiques ont été ajoutés au magasin, 11 nouveaux cosmétiques peuvent être forgés avec des noyaux de matrice, et 1 nouveau chapeau sera accordé à la complétion de l'affectation. 
 
 
-NOUVEAU DLC : PACK DU DUR-À-CUIRE 
+NOUVEAU DLC : PACK DU DUR À CUIRE 
 ----------------------------
-Si vous voulez vraiment y aller à la dure, le nouveau pack Dur-à-cuire est fait pour vous. Pimentez votre apparence avec quatre nouvelles armures (une par classe), de nouveaux couvre-chefs et de nouvelles peintures. Ce pack est destiné à tous ceux qui ne supportent pas de s'habiller comme un space marine, et veulent attaquer le travail qu'il y a à faire ! Montrez enfin vos biscoteaux - ainsi que cette sélection de tatouages que vous avez gardés secrets pendant si longtemps !
+Si vous voulez vraiment y aller à la dure, le nouveau pack "Dur à cuire" est fait pour vous. Pimentez votre apparence avec quatre nouvelles armures (une par classe), de nouveaux couvre-chefs et de nouvelles peintures. Ce pack est destiné à tous ceux qui ne supportent pas de s'habiller comme un space marine, et veulent attaquer le travail qu'il y a à faire ! Montrez enfin vos biscoteaux - ainsi que cette sélection de tatouages que vous avez gardés secrets pendant si longtemps !
 
 En plus des armures, le pack vient avec deux casques uniques, ainsi qu'une nouvelle peinture pour Bosco et votre pioche.
 
@@ -11936,26 +11951,26 @@ DRG vient juste d'investir dans un nouveau terminal des affectations. Profitez d
 
 CHANGEMENT DE LA MÉCANIQUE DE LANCER
 ----------------------------
-CONTRÔLES : quand vous portez des gemmes ou des objets encombrants, vous pouvez désormais les lancer avec [LEFT AND RIGHT MOUSE BUTTON] sur PC ou [LEFT AND RIGHT TRIGGER] sur Xbox. Nous avons fait ce changement par rapport aux réservoirs de carburant qui sont portés comme des gemmes mais ont aussi une fonctionalité comme une arme ou un outil. Il est imaginable que dans le futur vous trouviez d'autres outils ou armes utilisables de façon similaire.
+CONTRÔLES : quand vous portez des gemmes ou des objets encombrants, vous pouvez désormais les lancer avec [LEFT AND RIGHT MOUSE BUTTON] sur PC ou [LEFT AND RIGHT TRIGGER] sur Xbox. Nous avons fait ce changement par rapport aux réservoirs de carburant qui sont portés comme des gemmes mais ont aussi une fonctionnalité comme une arme ou un outil. Il est imaginable que dans le futur vous trouviez d'autres outils ou armes utilisables de façon similaire.
 
 ANNULATION AUTOMATIQUE D'UN LANCER : Si vous ne relâchez pas le bouton de lancer après avoir atteint la puissance max, le lancer s'annulera après un court délai. 
 
 
 RÉÉQUILIBRAGE DES ARMES
 ----------------------------
-LPG 40MM DEEPCORE
+LGP 40MM DEEPCORE
 - Augmentation du brise-armure de base à 100%
 - La réduction de dégâts directs du modificateur "mélange incendiaire" s'applique désormais aussi au brise-armure
 - Déplacement d'une partie du bonus de zone d'effet de "clous et colle" à l'arme de base
 - La statistique de munition inclut désormais celle dans le canon car il n'y a pas de taille de chargeur sur cette arme
 
-Overclock Hyperpropulsé
+Overclock "Hyperpropulsé"
 - Augmentation significative du bonus de dégâts directs
 - Ajout d'une pénalité de munitions
 - Réticule de visée modifié quand l'overclock est équipé
 - A maintenant sa propre traînée et son propre effet à l'impact
 
-Overclock Mélange RJ250
+Overclock "Mélange RJ250"
 - Le repoussement s'accroît en fonction de la distance au centre de la zone d'impact
 - Amélioration du contrôle de l'angle avec lequel le joueur sera propulsé
 
@@ -11966,20 +11981,20 @@ DÉCOUPEUR PLASMA
 - Réduction de la portée verticale du mod "triple ligne"
 - Déplacement d'une partie de la largeur de la ligne de base au mod tier 2
 - Augmentation du temps de rechargement de base
-- Remplacement du mod de largeur de ligne du tier 3 par un mod de vitesse de rechargement (tous qui avaient achetés l'ancien mod seront remboursés)
+- Remplacement du mod de largeur de ligne du tier 3 par un mod de vitesse de rechargement (tous ceux qui avaient achetés l'ancien mod seront remboursés)
 - Ajustement des overclocks "Cartouches légères", "Croisement haute tension", "Mort tournoyante", "Retour à l'envoyeur" et "Infernal" par rapport à la nouvelle capacité du chargeur.
 
-Overclock Infernal
-- Embrase les cibles plus vite et les garde en feu pendant une période étendue.
+Overclock "Infernal"
+- Embrase les cibles plus vite et les garde enflammées pendant une période étendue.
 
-Overclock Mort tournoyante
-- Ajout d'un bonus de largeur de ligne
+Overclock "Mort tournoyante"
+- Ajout d'un bonus de longueur de ligne
 
 ZHUKOV NUK17
 - Augmentation du bonus de munitions pour le mod tier 1
 - Déplacement de quelques dégâts du mod au tier 3 à l'arme de base
 
-Overclock Détonateurs intégrés
+Overclock "Détonateurs intégrés"
 - Grande augmentation des dégâts infligés lors du rechargement
 - Changement du type de dégât de cinétique à interne
 - Augmentation de la pénalité de dégâts directs
@@ -11996,7 +12011,7 @@ CRYO CANON
 - Augmentation du bonus de munitions du mod au tier 2
 
 CANON LOURD AUTOMATIQUE "THUNDERHEAD"
-Overclock Mobilité de combat
+Overclock "Mobilité de combat"
 - Augmentation du bonus de vitesse de déplacement
 - Ajout d'un bonus de précision
 - Remplacement de la pénalité de dégâts par une pénalité sur la capacité du chargeur
@@ -12016,12 +12031,12 @@ TOURELLES AUTOMATIQUES LMG
 - Le système Defender a ses dégâts changés d'un pourcentage à un +5 fixe
 
 GK2 DEEPCORE
-Overclock Stabilité assistée par IA
+Overclock "Stabilité assistée par IA"
 - Donne un plus grand bonus aux tirs sur point faible
 - Augmente la pénalité aux dégâts
 
 SUBATA 120
-Overclock Détonateurs intégrés
+Overclock "Détonateurs intégrés"
 - Grande augmentation des dégâts infligés lors du rechargement
 - Changement du type de dégât d'explosif à interne
 - Retrait de la pénalité de dégâts
@@ -12048,7 +12063,7 @@ De nouveaux types de missions veulent bien sûr dire de nouvelles étapes, ainsi
 
 REQUÊTE DE LA COMMUNAUTÉ
 ----------------------------
-- Ajout de sources de lumières pour les grelots puants et les ébonoix, pour les rendre plus visbles dans le noir.
+- Ajout de sources de lumières pour les grelots puants et les ébonoix, pour les rendre plus visibles dans le noir.
 
 
 DIVERS
@@ -12065,11 +12080,11 @@ DIVERS
 - Ajout d'icônes manquantes au pointeur laser pour certains objets
 - Ajout d'une animation pour Bosco lorsqu'il lâche quelque chose qu'il transportait
 - Ajout d'une description pour les mini-M.U.L.E.s au pointeur laser
-- AJout de la possibilité d'annuler un lancer en maintenant le bouton de lancer pendant quelques secondes
+- Ajout de la possibilité d'annuler un lancer en maintenant le bouton de lancer pendant quelques secondes
 - Ajout de la statistique de durée à de nombreuses grenades qui ne la possédait pas
 - Ajout de la statistique de zone d'effet à quelques grenades qui ne la possédait pas
 - Bosco interrompt sa tâche et va chercher le joueur s'il est attrapé ou abattu
-- Bosco lance maintenant les objets vers le joueur si il est suffisament près de lui, au lieu de les laisser tomber par terre
+- Bosco lance maintenant les objets vers le joueur si il est suffisamment près de lui, au lieu de les laisser tomber par terre
 - L'hologramme au dessus de la tête de Bosco ne disparait que s'il change de tâche
 - Bosco devrait maintenant trouver les minerais dans un plus grand rayon autour de l'endroit pointé
 - Légère augmentation de la quantité de morkite dans les plongées abyssales si sa collecte est en objectif secondaire
@@ -12103,14 +12118,14 @@ DIVERS
 - Correction d'un bug qui empêchait les pop-ups de confirmation lors de l'achat de modifications d'armes
 - Correction d'un bug qui affichait une statistique de brise armure alors qu'elle n'était pas modifiée
 - Correction d'un bug qui empêchait le pop-up de confirmation d'achat des grenades de se fermer
-- Correction d'un bug qui permettait aux joueurs en retard d'atterir sur des points importants, tels que la capsule, les défis mécaniques, etc. 
+- Correction d'un bug qui permettait aux joueurs en retard d’atterrir sur des points importants, tels que la capsule, les défis mécaniques, etc. 
 - Correction d'un bug qui empêchait parfois les mugs de bière vides d'être jetés
 - Correction d'un bug qui empêchait Bosco de ramasser des objets de façon permanente
 - Correction d'un bug qui permettait à une arme d'apparaître dans la garde robe
-- Correction d'un bug qui permetait aux ennemis de kursite d'apparaître au début de la map plutôt qu'au défi mécanique
+- Correction d'un bug qui permettait aux ennemis de kursite d'apparaître au début de la map plutôt qu'au défi mécanique
 - Correction de bugs similaires dans d'autre défis mécaniques\
-- Correction d'un bug qui permettait à l'autocannon de faire peur à Steeve
-- Correction d'un bug qui demandait à Bosco de creuser sous un grelot puant au lieu de le rammasser
+- Correction d'un bug qui permettait au canon lourd automatique de faire peur à Steeve
+- Correction d'un bug qui demandait à Bosco de creuser sous un grelot puant au lieu de le ramasser
 - Correction de plusieurs bugs audio
 - Correction d'un bug qui permettait à l'attrapeur mactera de prendre un joueur après avoir été gelé
 - Correction d'un bug qui permettait aux cristaux électriques de renvoyer des dégâts au joueur si frappés par une hache de choc
@@ -12121,11 +12136,11 @@ DIVERS
 - Correction d'un bug qui affichait une ombre flottante de la pioche à la première personne
 - Correction d'un bug dans l'UI discord avec les salons vocaux
 - Correction d'un bug qui maintenait les sons de la tour O.M.E.N. pour les clients
-- Correction d'un bug qui affichait incorrectement l'overclock Assomoir du warthog
+- Correction d'un bug qui affichait incorrectement l'overclock "Assommoir" du warthog
 - Correction d'un bug qui empêchait parfois Bosco de correctement extraire des gemmes des murs
 - Correction d'un bug qui permettait de lancer une grenade en étant attrapé si vous teniez la grenade à la main juste avant de vous faire prendre
-- Correction d'un bug qui empechait les attrapeurs macteras de crier
-- [XBOX] Correction d'un bug qui affichait le pop-up 'signed-in changed*' dans le cas d'une mauvaise connection de manette (NDT : désolé, mais le traducteur joue sur PC et ne connait pas ce bug en vf)
+- Correction d'un bug qui empêchait les attrapeurs macteras de crier
+- [XBOX] Correction d'un bug qui affichait le pop-up 'signed-in changed*' dans le cas d'une mauvaise connexion de manette (NDT : désolé, mais le traducteur joue sur PC et ne connait pas ce bug en vf)
 - [XBOX/WIN10] Amélioration du netcode pour éliminer les déconnexions et crashs aléatoires
 
 "

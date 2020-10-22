@@ -1,8 +1,8 @@
-10421 entries
+10434 entries
 34 namespaces
-8702 values
+8717 values
 
-Namespace Global (9662 keys)
+Namespace Global (9674 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        reiniciar        "
 	C96469B045023AF918296D97182165AB = "        reiniciar        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Caja Negra preparada y arrancando. Perderemos la conexión si no te quedas cerca, ¡así que intenta no abandonar la Zona de Triangulación marcada!"
@@ -510,6 +510,7 @@ La IA de Bosco no está lista para manejar este tipo de armamento, usa el PUNTER
 	231B979D45EA53C0FD4DE6AB6ED71A00 = "Habilidades Activas"
 	D11DDD844B16F8BE4ADD41897A7276E2 = "Aptitudes Activas"
 	9262C90B424241A9AC70079309113B89 = "Sistema de Estabilidad Activo"
+	E6B07B25410BA3DE103893AB10F738B8 = "Contexto del actor"
 	E7F617D941F2F06D811DFAAF33032A39 = "Añadir Segmento"
 	6E7DC3224323717E4D0FCFBFA555ED83 = "Añadiendo Chile Habanero..."
 	2401527F45F43145C75DD58A31E97D75 = "Agregando Ingrediente X..."
@@ -3117,7 +3118,6 @@ DE TIRO"
 	511E140F47B8A5AA2A583FBDD20C1CEC = "Fuerza"
 	636EFE984E2CB29D61E735A17D86BFD0 = "Fuerza de la Retroalimentación"
 	10C79B5946D4E8A72924C1B26CBF544F = "Forja"
-	64E5376F470A6CB638C861BC9C5B5DD9 = "Forja"
 	A0D4C48D4EF61866DE19CBAE92D05C44 = "Forja"
 	AE4C6D354B238677CBF9CCBB74160BCA = "Historial de Forjado"
 	DDAAA63B4533237EA7A8FFACB86CCD67 = "Historial de Forja"
@@ -5535,6 +5535,7 @@ Sin embargo, las armas con daño en área o aquellas basadas en corrientes de fr
 	7C9DDADD40757985D0955C8003490DFF = "Cargadores Minúsculos"
 	7291A611480E881E95370D857E5DEFBA = "Minando"
 	B85350774A6AD58B03FB29B9C834A000 = "Minando"
+	939C0B56492B31CB063CFFBE94AFAC10 = "Al minar <bold>Azúcar Rojo</> se <bold>regenerará tu salud</>. La cantidad de salud curada depende de la cantidad extraída."
 	44109652413B689AD07B918FDE5E12EE = "Expedición de Minería"
 	BDB428844B68EA8289C3F5A5A4A5EDFC = "Expedición de Minería"
 	234BEC3A45FFDA5A00500E92020897ED = "Expediciones Mineras completadas"
@@ -6375,7 +6376,6 @@ La Administración"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "LA PROMOCIÓN ESPERA"
 	625637E14AE36161309A579AF48094B0 = "Costo de Ascenso"
 	3C2211C04C11826513D1028765628866 = "ASCENSOS"
-	B516298543C4296B0A99229D73DFE15B = "ASCENSOS"
 	9D0495E743DE52B3F57657B90B4B5D58 = "PROPENSO A ESTALLAR"
 	0743DAE24CA986BE792E58B3FF6F12EA = "MINA DE PROXIMIDAD"
 	3C5A008D4A9404236B3B6DA97B561600 = "Noticias: se ha encontrado un lanzagranadas abandonado en el comedor. Por la seguridad de todos, por favor almacena de forma adecuada tu equipo pesado entre misiones."
@@ -6861,6 +6861,12 @@ RÁPIDA"
 	B38989744B0B3BFEDB3B4EB0F92EE587 = "Compuesto RJ250"
 	D7351C03419BC3A35DA83AB86FDD2E2D = "¡ROCA.....Y.....PIEDRA!"
 	E1D80181453EC5C5859456805C2F4043 = "¡COHETE!"
+	BF6415574FF60433112554B6DC8C4B2C = "Armazón OBRERO para todas las Clases"
+	2D025CD34F14A78B70118B9E9B54D2CE = "Casco OBRERO en dos variantes"
+	F366FD00490F237538E3A18E654E4D36 = "Patrón de Colores de OBRERO para Bosco"
+	B59BBF0245C49B666D6BE488EE269648 = "Pintura OBRERO para todas las Armaduras"
+	175B02664A1D1855AB59D6801DDFD268 = "Patrón de Colores de OBRERO para todas las Armas"
+	A3091E0D4DA819EA6406F9AB2761AC50 = "Pintura OBRERO para tu Pico"
 	922B2C64400F83A12481AD854CD7DB9F = "MUNICIONES"
 	767201A24BF05D53A61200984D6773B3 = "JUGAR EN SOLITARIO"
 	4A82F147411FF196FE6F84A9DDAD1F5B = "Cañón de Pulso Radial"
@@ -6942,6 +6948,7 @@ RÁPIDA"
 	AB85234C4CFB8A482C5A5987B258338B = "Carmesí"
 	ECEC9CD3416C7905F945818884703B8A = "Cristal rojo"
 	5C9058E840FE23D81FF24D92B40D1823 = "Red Rock Blasters para todos, ¡pronto!"
+	4D0DDE1A4C0E25E7ACE52CAD71D7EF46 = "Curación por Azúcar Rojo"
 	25198A0C4FB3F82B189C77BEF8B0DCE3 = "¡Sal roja!"
 	647A9A4F4E10D3AE2C843180230821C3 = "¡Sal roja!"
 	5FCB0E0145483E8E4299DA974965F976 = "¡Aquí hay azúcar roja, pero cuidado! ¡Es altamente adictiva!"
@@ -7018,6 +7025,7 @@ RÁPIDA"
 	15C102484C0E9A6961FBC4A248F56025 = "¡Recuerda usar tus bengalas! Tu suministro se recarga automáticamente después de un corto periodo de tiempo, ¡así que no tienes que aferrarte a ellas!"
 	1DAAF49F4B0EA63B9F0CDA839D62E2A1 = "Remover Tanque"
 	2F93B735471DFB60DDC1E0AD79C40164 = "Removiendo Cáscaras de Nueces..."
+	F31517A949FDF257906B4ABCB1DCAF2A = "Remover un Segmento de Tubería"
 	11BC8F5540F956105650F29654396606 = "Reparar"
 	4DC4999A43745297A23D1BA2EB8C8E03 = "Reparar"
 	67119BE74FF42F35025CF1A4B4F5C969 = "Reparar"
@@ -9684,10 +9692,13 @@ La Directiva"
 	742CBEAC46C0F18D8B99CC9FDCA5C862 = "Podrás llevar más munición, pero la cadencia de fuego disminuirá para evitar que el cañón se atasque. Ten más cuidado cuando recargues."
 	3D3C544D44A11B598935C28FA7F84F6F = "Puedes llevar más munición para las Torretas Centinelas"
 	31F3363F4BF2123346998D856F226E8A = "Puedes llevar más munición contigo a la batalla."
+	EF7B3EE04D721D4571654288354281AC = "Puedes ordenar a <bold>Bosco</> que termine de construir una <bold>tubería</> que <bold>ya esté ensamblada</>."
+	B86063D14479D051A85F0DA8167C2ADF = "Puedes ordenar a <bold>Bosco</> que extraiga los depositos de <bold>Petróleo de Esquistos</> difíciles de alcanzar, y recolectarlos fácilmente con el <bold>Tanque de Combustible</> desde tierra."
 	7BAA34654CA10FAE8E75C799C2BF0BB4 = "¡Ya se puede OLER el positivismo!"
 	5F271ED049C646F5389B62B7732CE103 = "Podrás hacer recargas rápidas como el relámpago después de matar a un enemigo."
 	32E67FE9406320B0C0226FA6475494C3 = "Podrás apuntar a cualquier lugar con tu Puntero Láser y atraer la atención de tus compañeros hacia puntos de interés."
 	E3C40C054367190F9C71519090623C15 = "Puedes presionar <Equip2/> para equipar tu <bold>Arma Secundaria</>. Es un gran complemento para tu Arma Primaria."
+	22FFCF9149DBF247BA101390C74BE41B = "Podrás quitar el <bold>último segmento</> de una tubería golpeándolo con tu pico."
 	4FB1570445693F893FD9A2A30AC2B8AA = "Puedes reiniciar el nivel de Tutorial desde el <bold>Manual del Minero</>, en la sección <highlight>Primeros pasos->Lo básico</>.
 
 Presiona <CloseMenu/> para abrir el <bold>Manual del Minero</>"
@@ -9865,6 +9876,7 @@ Ahora puedes equipar <highlight2>dos</> habilidades activas. ¡Elige con prudenc
 	433BBF6C47837D1D867AD7B699BD8B51 = "[ARMA BLOQUEADA]"
 	EFB6796C44FBB6920A5BA98BC6E717F7 = "[MenuAction1] Actualizar"
 	F62952864AC9BD5C00DDEA94DDF7A682 = "[MenuAction1] Actualizar"
+	BDF08600479FFA876207ECA92D1B1518 = "[Mine] DESMONTAR"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] Continuar"
 	319FC2C243CD6989A597A8B314759BBD = "[OkMenu] Continuar"
 	54B6DBEE47A15FEB3FCD99A24F4EA0B2 = "[OkMenu] Continuar"
@@ -10136,7 +10148,7 @@ Namespace OC_BonusAndDrawbackLines (65 keys)
 	Pen_RecoilMedium = "Retroceso más fuerte"
 	Pen_OverheatFaster = "El arma se recalienta antes"
 
-Namespace PatchNotes (78 keys)
+Namespace PatchNotes (79 keys)
 	Update_30_Header = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_30_ShortTitle = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_23 = "De acuerdo, Mineros - ¡venid aquí y cerrad el pico unos minutos!
@@ -11990,6 +12002,252 @@ MISC.
 - Corregido un error con los Geysers de Aire que causaban movimientos agitados para los clientes mientras son empujados
 - Corregido un error que causaba que Bosco atacara sin sentido a la Cápsula de Transporte si lo marcabas con el Puntero Láser. Tonto Bosco
 - Corregido un error que causaba que los Engendros Mactera se vieran en su posición de ataque mientras volaban
+"
+	Update_32 = "¡Saludos, obreros!
+
+¡Ha llegado la hora de nuestra primera versión post-lanzamiento! El plato fuerte de esta versión es la inclusión de dos nuevos tipos de misión: la Tarea de Escolta y la Zona de Refinado. Ambos tipos de misión se centran en el uso de complejos equipos de minería industrial, ¡los cuales necesitan de los cuidados y protección de un equipo de enanos trabajadores! El segundo plato incluye una gran cantidad de cambios a elementos decorativos, equilibrado de armas, cambios de importancia al tablón de encargos y muchas otras cosas. ¡Bon appetit!
+
+¡Hora de ensuciarse las manos! No ha habido nunca un mejor momento para sentirse honrado de ser un minero de combate en la plantilla de DRG. ¡Nos vemos en las minas!
+
+
+Con amor,
+La tripulación de Ghost Ship Games
+
+--- NOTAS DE LA VERSIÓN ---
+
+NUEVO TIPO DE MISIÓN: ZONA DE REFINADO
+----------------------------
+La Administración está interesada en un nuevo tipo de recurso: la Morkita Líquida. Te enviarán allí junto con una Refinería para que lo llenes. Encuentra los pozos de Morkita Líquida y coloca unidades de bombeo industriales enviadas desde la órbita. Conéctalas a la refinería usando tuberías de gran tamaño, y bombea la morkita hasta dejar esos pozos secos. Ah, y la buena gente de I+D incluso se sintió lo suficientemente generosa y han creado una manera sencilla de manejar dichas tuberías para realizar un recorrido rápido, sencillo y "SEGURO".
+
+*Chequea la cláusula 3.15 de tu contrato para leer más sobre la definición de "seguro" según la compañía.
+
+
+NUEVO TIPO DE MISIÓN: TAREA DE ESCOLTA
+----------------------------
+¡En esta misión muy centrada en el combate, serás enviado a obtener una misteriosa Corarroca Ommoran! Solo el Perforadozer autónomo especialmente construido puede atravesar la carcasa exterior del Ommoran y revelar el premio en el interior: la invaluable Corarroca Ommoran. El Perforadozer aterrizará a una distancia segura y luego se dirigirá automáticamente al Ommoran. Tu trabajo es mantener esa maldita cosa segura y con suficiente combustible mientras se abre camino hacia el objetivo. ¡Protégenla con sus vidas, mineros!
+
+
+NUEVO TIPO DE ASIGNACIÓN: UN TRABAJO PARA OBREROS
+----------------------------
+Este nuevo tipo de Asignación sirve como curso de introducción a las nuevas misiones disponibles, facilitando que vuelvas a casa sano y salvo. Además, te recompensará con algunos cascos interesantes al completarlo. ¿Por qué no iba a gustarte esta nuevo asignación?
+
+
+NUEVOS ACCESORIOS
+----------------------------
+¡Atención, fanáticos de la moda! Ha llegado la nueva colección de otoño, ¡trayendo consigo una gran colección de barbas, casco y peinados nuevos! Un total de 27 nuevos accesorios han sido añadidos a la tienda, junto con 11 nuevos accesorios que pueden accederse mediante la creación de núcleos de matriz y un casco que puede obtenerse tras completar la nueva asignación incluida en la versión. 
+
+
+NUEVO DLC: PACK "PAQUETE OBRERO"
+----------------------------
+Si de verdad quieres parecer un obrero industrial, el paquete "Obrero" se encargará de ello. Cambia tu aspecto usando hasta cuatro nuevos conjuntos de armadura (uno por clase), nuevos cascos y pinturas. Este paquete está indudablemente diseñado para aquellos que no disfrutan vistiéndose como voluminosos marines espaciales y solo quieren tener el aspecto de un verdadero enano trabajador. ¡Por fin podrás lucir esos fuertes brazos de minero y tus tatuajes, siempre escondidos bajo innecesarias capas de ropa!
+
+Además de los trajes, el paquete viene con dos cascos únicos y con una nueva pintura para Bosco y para tu pico.
+
+
+CONJUNTOS ALEATORIOS DE ACCESORIOS EN EL ARMARIO
+----------------------------
+Y hablando de moda... si eres de los que no se decide por un solo tipo de casco, o por el estilo que te gusta más, por el tipo de barba que prefieres, etc... o si simplemente te da miedo probar algo nuevo y atrevido, entonces tenemos buenas noticias para ti. Ahora cuentas con nuevos botones de conjuntos aleatorios, que te equiparán completamente siguiendo ciertas categorías. ¡Probar cosas nuevas y descubrir combinaciones inesperadamente buenas nunca ha sido más fácil!
+ 
+
+CAMBIO VISUAL AL TABLÓN DE ASIGNACIONES
+----------------------------
+DRG acaba de invertir en una remodelación del aspecto del tablón de Asignaciones. Disfruta de una plantilla mucho más interesante e intuitiva, ¡y escoge tu próxima asignación cuidadosamente!
+
+
+CAMBIOS A LA MECÁNICA DE LANZAMIENTOS
+----------------------------
+CONTROLES: Ahora, al llevar una gema o cualquier otro objeto pesado, podrás lanzarla pulsando [CLIC IZQUIERDO O DERECHO] (si juegas en PC) o [PULSADOR IZQUIERDO O DERECHO] (si juegas en XBox). Hemos hecho este cambios para poder adaptarnos al Tanque de Combustible (que se usa en las misiones de Tarea de Escolta), que se transporta como una gema pero también tiene una función como si fuera un arma o herramienta. En el futuro, nos imaginamos a los enanos teniendo otras herramientas y armas que puedan usarse de la misma manera.
+
+AUTOCANCELACIÓN DE LANZAMIENTO: Si no sueltas el botón de lanzamiento tras alcanzar la potencia máxima de empuje, el lanzamiento se cancelará automáticamente tras un breve periodo de tiempo. 
+
+
+EQUILIBRADO DE ARMAS
+----------------------------
+LANZAGRANADAS DEEPCORE 40MM
+- Se ha aumentado la estadística base de ruptura de blindaje a un 100 %
+- La reducción del daño directo del Mod "Compuesto incendiario" ahora también afectará a la ruptura de blindaje
+- Se ha movido parte de la bonificación de área de efecto del Mod "Clavos + cinta" a la estadística base del arma
+- Ahora, la estadística "Munición máxima" incluirá la ronda ya cargada en el lanzador, ya que no cuenta con una estadística de "Tamaño de cargador"
+
+Pirateo: Hiperpropelente
+- Se ha aumentado significativamente la bonificación por daño directo, y ahora se verá modificado al golpear puntos débiles del enemigo
+- Se ha añadido una penalización de munición
+- Se ha creado un nuevo punto de mira para el arma cuando el pirateo está equipado
+- Ahora cuenta con sus propios efectos de impacto y de rastro
+
+Pirateo "Compuesto RJ250"
+- Se ha aumentado la caída del derribo provocado por el pirateo cuanto más lejos esté el objetivo del centro de la explosión
+- Se ha mejorado el control que tiene el jugador sobre el ángulo en el que son lanzados
+
+CORTABRECHAS
+- Se ha disminuido la capacidad del cargador básico
+- Se ha aumentado la bonificación del Mod de nivel 1 "Cargador de alta capacidad"
+- Se ha disminuido la bonificación del Mod de nivel 2 "Cajas de munición más grandes"
+- Se ha disminuido la altura del área de impacto del Mod "Línea de canal triple"
+- Se ha movido parte del aumento de amplitud de la línea base al Mod de nivel 2 "Cohesión de nodo débil"
+- Se ha aumentado el tiempo de recarga base
+- Se ha convertido el Mod de nivel 3 de aumento de amplitud en un Mod de tiepo de recarga (cualquier jugador que haya comprado el mod anterior recibirá el dinero invertido en él automáticamente con la implementación del cambio)
+- Se han ajustado los pirateos "Cartuchos ligeros", "Enlace de alto voltaje", "Muerte giratoria", "Devolver al remitente" e "Infierno", en función de la nueva capacidad de cargador.
+
+Pirateo "Infierno"
+- Ahora, este pirateio hará arder a los enemigos más rápidamente y los mantendrá ardiendo durante más tiempo.
+
+Pirateo "Muerte giratoria"
+- Se ha añadido un bonificador por anchura de línea
+
+ZHUKOV NUK17
+- Se ha aumentado la bonificación del Mod de nivel 1 "Cajas de munición más grandes"
+- Se ha movido parte del daño del Mod de nivel 3 "Rondas de calibre aumentado" a las estadísticas base del arma
+
+Pirateo "Detonadores integrados"
+- Se ha aumentado enormemente el daño infligido al recargar
+- Se ha cambiado el tipo de daño de "Cinético" a "Interno"
+- Se ha añadido un penalizador por daño directo
+- Se ha añadido un penalizador a la capacidad del cargador
+- Se ha aumentado el penalizador de munición
+- Si un enemigo puede morir al recargar el arma, aparecerá un icono temporalmente junto a su barra de salud
+
+CARGADOR DE PLASMA EXPERIMENTAL
+- Se ha reducido la penalización a la velocidad de carga del Mod de nivel 5 "Pesadilla voladora"
+
+CRIOCAÑÓN
+- Se ha aumentado la munición máxima base del arma
+- Se ha aumentado la bonificación del Mod de nivel 1 "Cámara de presión más grande"
+- Se ha aumentado la bonificación del Mod de nivel 2 "Tanque de reserva más grande"
+
+CAÑÓN AUTOMÁTICO PESADO “THUNDERHEAD”
+Pirateo: Movilidad de combate
+- Se ha aumentado la bonificación de la velocidad de movimiento
+- Se ha añadido una bonificación de precisión
+- Se ha sustituido la penalización de daño por una reducción de la capacidad de cargador
+- Se ha añadido una bonificación a la velocidad de recarga
+
+M1000 CLASSIC
+- Se ha aumentado la velocidad de enfoque base del arma, y se ha disminuido la bonificación a la velocidad de enfoque del Mod de nivel 2 "Bobinas de carga rápida" para compensar este cambio
+- Se ha aumentado la bonificación de munición del Mod de nivel 1 "Cajas de munición más grandes"
+
+Pirateo "Estabilidad activa"
+- Se ha añadido una bonificación a la velocidad de enfoque
+- Se ha sustituido la penalización de daño al disparo preciso por una penalización a la velocidad de recarga
+
+Torreta LMG
+- Se ha aumentado el daño base de 5 a 6
+- Ahora, el sistema Gemini tiene 90 unidades de munición adicionales
+- Se ha modificado la bonificación de daño del sistema Defender desde un valor porcentual a un valor fijo de +5
+
+DEEPCORE GK2
+Pirateo "Estabilidad de IA"
+- Ahora este pirateo concede una gran bonificación a los impactos en puntos débiles
+- Se ha aumentado la penalización al daño base
+
+SUBATA 120
+Pirateo "Recarga explosiva"
+- Se ha aumentado enormemente el daño infligido al recargar
+- Se ha cambiado el tipo de daño de "Explosivo" a "Interno"
+- Se ha eliminado la penalización al daño
+- Se ha aumentado la penalización a la capacidad de cargador
+- Se ha aumentado el penalizador de munición
+- Si un enemigo puede morir al recargar el arma, aparecerá un icono temporalmente junto a su barra de salud
+
+FRASCO DE FEROMONAS
+- Los enemigos afectados por la feromona ahora son un 50 % más atractivos para otros enemigos no afectados
+
+C.E.B.O.
+- Se ha modificado la C.E.B.O. para que no reciba daño por fuego aliado
+
+
+NUEVOS GRITOS
+----------------------------
+Los enanos ahora cuentan con nuevas frases para gritar. Estas frases se centran principalmente en las interacciones con objetos de las nuevas misiones, pero también se han añadido algunas para objetos apuntados con el puntero láser que no tenían exclamaciones asociadas. Además, ¡se han añadido más variantes del famoso "Roca y piedra" en todas las combinaciones añadidas! 
+
+
+NUEVAS METAS Y LOGROS
+----------------------------
+Los nuevos tipos de misión obviamente hacen necesaria la inclusión de nuevas metas, además de dos nuevos logros (uno para cada tipo de misión).
+
+
+PETICIÓN DE LA COMUNIDAD
+----------------------------
+- Las semillas mugrientas y las ebonueces que se usan para cumplir ciertos objetivos secundarios ahora están más iluminadas, haciéndolas más fáciles de ver en la oscuridad
+
+
+OTROS CAMBIOS
+----------------------------
+- Se ha modificado por completo la interfaz del tablón de encargos
+- [PETICIÓN DE LA COMUNIDAD] Se ha añadido más variedad a la generación de cuevas para todos los tipos de misión
+- [PETICIÓN DE LA COMUNIDAD] Se ha añadido más iluminación a las semillas mugrientas y a las ebonueces para hacer que sean más fáciles de localizar
+- [PETICIÓN DE LA COMUNIDAD] Se ha añadido la rampa que lleva a la cápsula de transporte en el escáner de terrenos
+- Se ha creado y añadido un nuevo modelo para los cubos para minerales
+- Se han añadido dos nuevos logros relacinados con los nuevos tipos de misión
+- Se han añadido 27 accesorios nuevos a la tienda
+- Se han añadido 11 accesorios nuevos que pueden forjarse usando núcleos de matriz
+- Se ha añadido un casco nuevo como recompensa por completar el nuevo tipo de encargo disponible
+- Se han añadido iconos a ciertos objetos que no contaban con identificación adecuada al usar el puntero láser
+- Se ha añadido una animación a Bosco cuando suelta algo que está transportando
+- Se han añadido descripciones del mini-M.U.L.A. al apuntarlo con el puntero láser
+- Se ha añadido la opción de cancelar el lanzamiento de un objeto reiniciando la barra de empuje (mantén pulsado el botón de lanzamiento durante unos segundos)
+- Se ha añadido la estadística "Duración" a algunas granadas que no contaban con dicha estadística en sus descripciones
+- Se ha añadido la estadística "Área" a algunas granadas que no contaban con dicha estadística en sus descripciones
+- Ahora Bosco volverá a seguir al jugador si es atrapado o si es abatido
+- Ahora Bosco podrá lanzar objetos que esté transportando hacia el jugador (si está lo suficientemente cerca), en lugar de soltarlos en cualquier zona cercana al enano
+- Ahora el holograma de la cabeza de Bosco solo desaparecerá cuando deja de hacer la tarea que se le ha encomendado
+- Ahora Bosco debería poder excavar minerales de una manera más consistente alrededor de la zona que el jugador le marque con el puntero
+- Se ha aumentado ligeramente la cantidad de morkita que aparecerá en las misiones profundas que tengan el objetivo secundario "Recoge morkita"
+- Ahora, al elegir un pirateo en la terminal de Equipos, cerrarás el menú de pirateos
+- Se ha aumentado ligeramente el volumen del sonido de advertencia por "oxígeno bajo"
+- Ahor se mostrará un consejo relacionado con el oxígeno cada vez que empieces una misión con el mutador "Bajo oxígeno"
+- Se ha disminuido la cantidad de patas generadas para los mini-M.U.L.A. de 4 a 3
+- Se ha mejorado la manera en la que se genera espacio para la cápsula de escape de las Operaciones de Rescate, adaptándose mejora a la generación de cuevas y haciendo que su ubicación parezca más natural
+- Se ha mejorado la lógica de generación de los mini-M.U.L.A. para que solo aparezcan sobre roca firme
+- Se ha mejorado la lógica de generación de las patas de mini-M.U.L.A. Ahora, por ejemplo, no aparecerán en hielo negro
+- Se han modificado los efectos de las tormentas y terremotos para que ahora también afecten a la velocidad de movimiento de los enemigos
+- Ahora los invasores de escarcha morirán al transcurrir un pequeño lapso de tiempo
+- Se ha mejorado la animación de aturdimiento para que ahora se vea modificada por la duración del mismo
+- Se han mejorado los modelos de ciertos objetos al aparecer en la pantalla del puntero láser
+- Se ha mejorado el movimiento del M.U.L.A. 
+- Se ha mejorado el sombreado para tonos de piel
+- Se ha optimizado la lógica de Bosco para dirigirse hacia objetos que se le ha ordenado que recoja
+- Se ha mejorado el modelo del revólver pesado "Bulldog"
+- Se ha mejorado la animación al sacar pecho o músculos en las poses de victoria
+- Los Eventos de Máquina ya no explotarán al estar cerca de una cápsula de transporte. Se ha mejorado la lógica de generación para impedir que aparezcan en zonas que bloqueen el acceso a la cápsula
+- Se ha modificado el audio reproducido durante la pantalla de carga del tutorial
+- Se ha modificado el sonido del grito de los opresores glífidos
+- Se ha modificado el sonido de la maleza tirana korlok
+- Se han modificado los sonidos del puntero láser
+- Se ha modificado el sonido de impacto de las bengalas
+- Se ha modificado el sonido al desbloquear un nuevo bioma
+- [PETICIÓN DE LA COMUNIDAD] Se han solucionado varios problemas de mallas en la Plataforma Espacial
+- Se ha solucionado un error que impedía a los jugadores avanzar en el juego si aparecían ciertos elementos emergentes
+- Se ha solucionado un error que impedía que la estadística "Dispersión por disparo" de la M1000 clásica se mostrase en la terminal de Equipo
+- Se ha eliminado un error que hacía que el sonido de los pasos del M.U.L.A. se entrecortase
+- Se ha solucionado un error que impedía que apareciese la pantalla emergente de confirmación al comprar un Mod de un arma
+- Se ha eliminado un error que causaba que la pantalal de estadísticas de la terminal de Equipo mostrara penetración de blindaje en equipos no modificados
+- Se ha solucionado un error que impedía que se cerrase la pantalla emergente de confirmación al comprar granadas
+- Se ha solucionado un error que permitía a los jugadores que se unían a una partida aterrizar sobre "objetos importantes" (cápsula de transporte, Eventos de Máquina...)
+- Se ha solucionado un error que a veces impedía que se pudieran lanzar las jarras de cerveza
+- Se ha solucionado un error que a veces causaba que Bosco no pudiera recoger más objetos durante una misión
+- Se ha solucionado un error que hacía que las armas pudieran aparecer en el Armario
+- Se ha solucionado un error que causaba que los enemigos de kursita apareciesen en la ubicación del anfitrión en lugar de en la zona del Evento de Máquina
+- Se han solucionado otros errores similares a los anteriormente descritos en varios Eventos de Máquina
+- Se ha solucionado un error que permitía al Mod "Fuego de supresión" del cañón automático pesado "Thunderhead" aplicar el efecto de estado "Miedo" a Steeve
+- Se ha solucionado un error que causaba que Bosco excavase bajo las semillas mugrientas que estaban en el suelo al ordenarle que las recogiese
+- Se han solucionado diversos problemas de sonido del juego
+- Se ha solucionado un error que permitía al cazador mactera agarrar a un jugador mientras estaba congelado
+- Se ha solucionado un error que permitía a los electrocristales infligir daño al jugador al lanzarles hachas de impacto
+- Se ha solucionado un error que causaba que las semillas mugrientas quedaran bloqueadas para los invitados de una partida al ser golpeadas por la cápsula de transporte
+- Se ha corregido un error que hacía que el M.U.L.A. se quedara atascado hasta el momento de la extracción si alguien se desconectaa mientras descargaba materiales en él
+- Se ha corregido un error que causaba que las sanguijuelas no mostrasen correctamente el estado "Congelado"
+- Se ha solucionado un problema que impedía que los enemigos muertos instantáneamente trasa ser congelados contasen en tus estadísticas de "Total de enemigos muertos"
+- Se ha solucionado un problema que generaba una sombra flotante del pico al activar el modo de primera persona
+- Se ha solucionado un error con Discord en los canales de voz
+- Se ha solucionado un error que causaba que ciertos sonidos del Evento de Máquina "Exterminador Modular OMEN" no dejaran de reproducirse para los invitados
+- Se ha solucionado un error que causaba que el pirateo "Aturdidor" del "Warthog" Auto 210 se mostrase de forma incorrecta
+- Se ha solucionado un error que a veces impedía a Bosco excavar correctamente para recoger gemas incrustadas en el terreno
+- Se ha eliminado un error que permitía lanzar una granada mientras estabas atrapado (manteniendo el botón de lanzamiento justo antes de ser atrapado por un enemigo)
+- Se ha eliminado un error que impedía que el cazador mactera emitiera su grito característico
+- [XBOX] Se ha solucionado un problema que causaba que el mensaje emergente "Inicio de sesión modificado" dificultara la experiencia de juego si tu conexión del mando es de baja calidad
+- [XBOX / WIN10] Se ha mejorado la red de conexión para eliminar desconexiones y errores fatales aleatorios del juego
+
 "
 	Update_16 = "Hola Mineros! Estamos de vuelta a la rutina después de unas preciosas vacaciones de verano y hemos preparado una nueva actualización para ustedes. En respuesta a todo el clima caluroso que hemos tenido, pensamos que lo obvio era añadir un bioma de hielo. verdad?
 
