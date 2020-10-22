@@ -397,7 +397,7 @@
 				"DocsURL": "https://forums.unrealengine.com/showthread.php?46879-Media-Framework-Documentation-for-4-5-Preview",
 				"MarketplaceURL": "",
 				"SupportURL": "",
-				"EnabledByDefault": true,
+				"EnabledByDefault": false,
 				"CanContainContent": false,
 				"Modules": [
 					{
@@ -406,8 +406,7 @@
 						"LoadingPhase": "PreLoadingScreen",
 						"WhitelistPlatforms": [
 							"XboxOne",
-							"HoloLens",
-							"Win64"
+							"HoloLens"
 						]
 					},
 					{
