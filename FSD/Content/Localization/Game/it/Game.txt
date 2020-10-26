@@ -1,8 +1,8 @@
 10353 entries
 34 namespaces
-8380 values
+8376 values
 
-Namespace Global (9580 keys)
+Namespace Global (9579 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        resetta        "
 	C96469B045023AF918296D97182165AB = "        resetta        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Scatola Nera pronta e in accensione. Perderemo la connessione se non state vicino, quindi cercate di non lasciare la Zona di Triangolazione segnata!"
@@ -303,9 +303,7 @@ Mentre scatti, <h>ignori tutti i tipi di effetti da rallentamento</>.
 	426124894AECCEF716DE27B0456392C4 = "<active>ATTIVA:</> Puoi sovraccaricare lo scudo di un compagno del <h>300% per {value} secondi</>. "
 	844FA7A84504CE3362627B895BD892CE = "<bold>Deposita</> l'Oro"
 	D47A1628492AD17A6D7838854E8ADB1E = "I <bold>Nani promossi</> ottengono l'accesso a delle <bold>missioni settimanali</> speciali. Queste sono operazioni più lunghe che combinano tutti i tipi di obiettivi esistenti. La ricompensa per il completamento sono i Nuclei Matrice, un oggetto unico che può essere usato alla Forgia."
-	324298874E25B03DBB71F1A1D5FC6A4D = "<h>Riduzione Danno del 20%</> mentre ti trovi entro <h>7m</> dal MULE!"
 	6B174915406473EC528AE693016036E1 = "<h>Bonus alla velocità di movimento del 20% per 10 secondi</> dopo aver consumato Zucchero Rosso!"
-	6BEE1B6941C65BFC465772A296A754A6 = "<h>Riduzione dei danni del 30%</> mentre ti trovi entro <h>7m</> dal MULE!"
 	3CA506D94715680868ABF48366A9E40D = "<hi>Tempo di recupero di {minutes} minuti</>"
 	40C533384336F7FC4F8EEB899C4592AD = "<hi>Tempo di recupero di {value} secondi.</>"
 	82B0DC6C46DC1254E09B96AB193E66F3 = "<hi>Tempo di recupero di {value} secondi</>"
@@ -3098,6 +3096,7 @@ Ora...sono tornati!"
 	636EFE984E2CB29D61E735A17D86BFD0 = "Forza ridimensionamento del feedback"
 	10C79B5946D4E8A72924C1B26CBF544F = "Forgia"
 	A0D4C48D4EF61866DE19CBAE92D05C44 = "Forgia"
+	DF2F3ECE41B06E4E1BEA39B893B91887 = "Forgia"
 	AE4C6D354B238677CBF9CCBB74160BCA = "Forgiature Passate"
 	DDAAA63B4533237EA7A8FFACB86CCD67 = "Forgiature Passate"
 	5043F1E946293073A4D9699570F1620B = "Inventario della Forgia"
@@ -4778,6 +4777,7 @@ NON SI ABBANDONA NESSUN NANO!"
 	116899A540C11BC865ED8F84CA84DB4F = "Calcia"
 	1BEC7377436BD25C866F02BB43C73932 = "Calcia"
 	31CAC48442DABA1AB2E7B7BDE36DBF37 = "Calcia"
+	3C82739C40D2278F02E3F4AE18B60C81 = "Calcia"
 	4EC0B8D64AD068D1DEDFBFAD9A335ECB = "Calcia"
 	7106DF0D483AE6B6BF7B7EA2DCDE7950 = "Espelli"
 	7DDC24AB41A5E420ED2B048B9C5BDA96 = "Espelli"
@@ -6309,6 +6309,7 @@ La Direzione"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "LA PROMOZIONE TI ATTENDE"
 	625637E14AE36161309A579AF48094B0 = "COSTO PROMOZIONE"
 	3C2211C04C11826513D1028765628866 = "PROMOZIONI"
+	BF49737C495A40AA64D6A6B6E2B561D5 = "PROMOZIONI"
 	9D0495E743DE52B3F57657B90B4B5D58 = "TENDE A ESPLODERE"
 	0743DAE24CA986BE792E58B3FF6F12EA = "MINA DI PROSSIMITÀ"
 	3C5A008D4A9404236B3B6DA97B561600 = "Annuncio: È stato trovato abbandonato nella sala da pranzo un lanciagranate. Per la vostra sicurezza, vi preghiamo di stivare tutti gli armamenti pesanti tra una missione e l'altra."
@@ -9826,8 +9827,6 @@ Ora puoi equipaggiare <highlight2>due</> abilità attive. Scegli saggiamente!"
 	4ECD33274C674FFD51F7E19CC38CFB33 = "naaauughh....Sei così carino!"
 	5EEF0FA8425E600B8C0A98B40C82D95B = "avvia"
 	82A50F7148889C70BB11F58D8A958180 = "usa suono quando ricevi un messaggio"
-	E1CEDB2D4131955D2B56EB9B95420200 = "gilet velenoso"
-	D62DE31F47244ACBE33394AB4E4DF204 = "le parti a punta dovrebbero essere all'interno o all'esterno?"
 	5B37A7E644003126D80116AF94D90F72 = "questa dovrebbe essere una partita privata."
 	57FC31744E660502A620D797A58ED1DA = "numero livello"
 	F85083AD4B1AC49712D91BB531090D22 = "per ingrandire il soggetto"
@@ -13678,7 +13677,7 @@ FIX E MIGLIORAMENTI
 	Update_31_Shorttitle = "QUELLO CHE È STATO LASCIATO INDIETRO"
 	Update_16_ShortTitle = "È ARRIVATO L'INVERNO"
 
-Namespace PerkDescriptions (32 keys)
+Namespace PerkDescriptions (31 keys)
 	PERK_ThickSoles = "<active>ATTIVA:</> Qualche molla, qualche magnete, qualche cella di carburante del mercato nero - ora subisci il <h>{value}% in meno di danno da caduta</>!
 
 <hi>Tempo di recupero di 2 minuti</>"
@@ -13695,7 +13694,6 @@ Durante questo stato ti <h>muovi più velocemente</>, <h>fai più male</>, e <h>
 	PERK_WeekendAthlete = "Un nano agile è un nano vivo! Scatti il {value}% più velocemente!"
 	PERK_Berzerker = "Rabbia nanica! Ora infliggi +1 di Danno Corpo a Corpo per ogni {value} punti vita mancanti!"
 	PERK_MarathonRunner_B = "L'effetto si attiva dopo aver corso per <h>{float_value} secondi</>."
-	PERK_ExpertDepositor = "Sei esperto nel maneggiare i secchi! Ora puoi <h>depositare</> oggetti nel MULE e nella Capsula da Sbarco il <h>{value}% più velocemente</>!"
 	PERK_BugThing = "Per qualche motivo, gli Insetti Bottino scoppiano quando sei <h>entro {value}m</> da loro...!"
 	PERK_MarathonRunner = "Ricevi un <h>aumento della velocità di corsa del {percent_onebased}</>."
 	PERK_RedSugarRocks = "Ti piace quella roba, eh? Ricevi il <h>{value}% di salute in più</> dal consumo di Zucchero Rosso!"
@@ -13740,11 +13738,14 @@ Namespace Progression (4 keys)
 Namespace RandomNames (1 keys)
 	RandomNameTemplate = "{LastName} {FirstName}"
 
-Namespace Refinery (7 keys)
+Namespace Refinery (10 keys)
 	CompleteSecondaryObjective = "Completa l'Obiettivo Secondario"
 	Connect3Pipelines = "Collega 3 tubature"
 	LaunchRocket = "Lancia il razzo"
+	PipelineSegment = "Segmento di tubatura"
+	PipelineStart = "Inizio della tubatura"
 	RefineLiquidMorkite = "Raffina la Morkite liquida"
+	Refinery = "Raffineria"
 	RefineryStalled = "In stallo"
 	StandClear = "Sgombera l'area!"
 	StartRefinery = "Avvia raffineria"
@@ -14025,11 +14026,10 @@ Namespace StatValues (67 keys)
 	StaggerChanceShotgunWeakpoint = "Probabilità di Stordimento nel Punto Debole per Pallettone"
 	StaggerDurationWeakpoint = "Durata dello Stordimento nel Punto Debole"
 
-Namespace Strings_DLC_03 (4 keys)
+Namespace Strings_DLC_03 (3 keys)
 	DLC03_BaseName = "Operaio"
 	DLC03_HelmetB_Name = "Elmetto da operaio"
 	DLC03_HelmetA_Name = "Elmetto da operaio - Stazione Spaziale 17"
-	DLC03_ArmorDesc = "Gli operai veterani di DRG sono conosciuti per "
 
 Namespace Techincal (2 keys)
 	ClosedAlpha = "Alpha Chiusa"

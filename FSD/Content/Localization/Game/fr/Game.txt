@@ -1,8 +1,8 @@
-10293 entries
+10291 entries
 34 namespaces
-8387 values
+8383 values
 
-Namespace Global (9551 keys)
+Namespace Global (9548 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        réinitialiser        "
 	C96469B045023AF918296D97182165AB = "        réinitialiser        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Démarrage de la boîte noire. Nous perdrons la connexion si vous vous éloignez trop, alors essayez de pas quitter la zone de triangulation indiquée !"
@@ -305,9 +305,7 @@ Pendant le sprint, vous <h>ignorez tous les effets de ralentissement</>.
 	426124894AECCEF716DE27B0456392C4 = "<active>ACTIVE :</> Vous pouvez surcharger le bouclier d'un coéquipier à <h>300% pour {value} secondes</>. "
 	844FA7A84504CE3362627B895BD892CE = "<bold>Déposez</> l'or"
 	D47A1628492AD17A6D7838854E8ADB1E = "Les <bold>nains promus</> ont accès à des <bold>missions hebdomadaires</> spéciales. Il s'agit d'opérations plus longues combinant plusieurs types d'objectifs. Les récompenses pour leur complétion sont des noyaux de matrice, des objets uniques qui peuvent être utilisés à la forge."
-	324298874E25B03DBB71F1A1D5FC6A4D = "<h>20% de réduction de dégâts</> lorsque vous êtes à moins de <h>7m</> de la MULE !"
 	6B174915406473EC528AE693016036E1 = "<h>20% de bonus de vitesse de déplacement pendant 10 secondes</> après avoir consommé du sucre rouge !"
-	6BEE1B6941C65BFC465772A296A754A6 = "<h>30% de réduction de dégâts</> lorsque vous êtes à moins de <h>7m</> de la MULE !"
 	3CA506D94715680868ABF48366A9E40D = "<hi>{minutes} minutes de rechargement</>"
 	40C533384336F7FC4F8EEB899C4592AD = "<hi>{value} secondes de rechargement.</>"
 	82B0DC6C46DC1254E09B96AB193E66F3 = "<hi>{value} secondes de rechargement</>"
@@ -2647,8 +2645,8 @@ Cela va désassigner '{ActionName}'"
 	56BA1FC24E95F091CE1171B6690257E0 = "Émeraude"
 	C49DDB5D4529DAACA4B7CCAF3DEB9C95 = "émeraude"
 	B10A6D8D46A744215190D581493F60F0 = "Émet un cri caractéristique qui peut être entendu de loin"
-	3C204BDB46D8E1A878C57E96A693D862 = "Donnée d'employé"
-	27755F2E4BEBF37DE356FF9B6B98397F = "Notes d'employé"
+	3C204BDB46D8E1A878C57E96A693D862 = "Employé"
+	27755F2E4BEBF37DE356FF9B6B98397F = "Notes"
 	2353D3534559AD7E057E289DD39163D9 = "Employé du mois"
 	7E1065F14C6ED70D181095B287080B14 = "vide"
 	B11933C648D04F64A2C82E92DA6365C2 = "Noyau de matrice vierge"
@@ -2830,7 +2828,7 @@ DE TIR"
 	99BF416B466442F865831487B5B4979D = "ROCK AND STONE"
 	B37292614CA4614BA887CE8D850CDC0A = "ROCK AND STONE"
 	EF40822D4C4C2E124CD74A857D383975 = "ROCK AND STONE"
-	2B40C4384C33B7335EE29C89112E5FA9 = "FORGE PRÊTE"
+	2B40C4384C33B7335EE29C89112E5FA9 = "FORGE PRETE"
 	4AE92AB54A5A77EC2A118B99AC03259A = "DEMARRAGE FORGE..."
 	7931ACA7478366B494010EA4519006AD = "PRODUCTION"
 	103B3E104BCC79B545151B89ECC52D88 = "FOSSILE !"
@@ -4753,6 +4751,7 @@ NE LAISSEZ AUCUN NAIN DERRIÈRE !"
 	116899A540C11BC865ED8F84CA84DB4F = "Botter"
 	1BEC7377436BD25C866F02BB43C73932 = "Frapper"
 	31CAC48442DABA1AB2E7B7BDE36DBF37 = "Botter"
+	3C82739C40D2278F02E3F4AE18B60C81 = "Frapper"
 	4EC0B8D64AD068D1DEDFBFAD9A335ECB = "Botter"
 	7106DF0D483AE6B6BF7B7EA2DCDE7950 = "Expulser"
 	7DDC24AB41A5E420ED2B048B9C5BDA96 = "Expulser"
@@ -6448,7 +6447,7 @@ La Direction"
 	B64E313F4EE207017877CA969E8091BF = "Tuyauterie"
 	7F9C8FE04172C75CD5F8B69EDDAB5C5E = "Connecteur de tuyau"
 	CCB1038447F16B2D07EA33895EC1F355 = "Connecteur de tuyau !"
-	0BD2AE104ED77D8C2CA29B8481F232F2 = "Segment de tuyau"
+	0BD2AE104ED77D8C2CA29B8481F232F2 = "Segment de conduite"
 	884B37DF4C41117EE598718A53552BE1 = "Tuyauterie fonctionnelle à nouveau ! Il nous reste toutefois des dysfonctionnements dans le système !"
 	C6171A164305EB38D2136096F93EAB14 = "Tuyau ici !"
 	8421E6A84DF1D6C83D58B6A40124A06C = "Tuyauterie abimée, occupez-vous en !"
@@ -6836,7 +6835,7 @@ RAPIDE"
 	0F6DF48340A35842A22D4B8A99757AB4 = "Paré à tirer !"
 	3DD702324C2C0FEF5A5F7788B111FE55 = "Prêt !"
 	01D5B68441B885C478D26F87104DF13B = "Lame arrière"
-	4148504943DF17CE763B44855C9F67BD = "Raison donnée:"
+	4148504943DF17CE763B44855C9F67BD = "Raison donnée :"
 	E4E4D95A4F78B46199F5DE86B986C73B = "Début du recalibrage de la gravité !"
 	FD7865FA4B222CC9EF5FD1B4E61B8F51 = "Rappel des Tourelles : Maintenir"
 	63F905414CB1D6E0C1A57B8E07A4B23F = "Rappeler les tourelles"
@@ -9792,8 +9791,6 @@ Vous pouvez maintenant équiper <highlight2>deux</> compétences actives. Choisi
 	A016AC284D49DB5BCCEF7498515A5361 = "en ligne"
 	5EEF0FA8425E600B8C0A98B40C82D95B = "jouer"
 	82A50F7148889C70BB11F58D8A958180 = "émettre un son quand un message de chat est reçu"
-	E1CEDB2D4131955D2B56EB9B95420200 = "gilet poison"
-	D62DE31F47244ACBE33394AB4E4DF204 = "les pointes doivent-elles être à l'intérieur ou à l'extérieur ?"
 	5B37A7E644003126D80116AF94D90F72 = "désolé, cette partie aurait dû être privée."
 	57FC31744E660502A620D797A58ED1DA = "numéro de rangée"
 	F85083AD4B1AC49712D91BB531090D22 = "pour élargir le sujet"
@@ -13652,7 +13649,7 @@ CORRECTIFS ET AMÉLIORATIONS
 	Update_31_Shorttitle = "CE QUI EST RESTÉ DERRIÈRE"
 	Update_16_ShortTitle = "L'HIVER EST ARRIVÉ"
 
-Namespace PerkDescriptions (30 keys)
+Namespace PerkDescriptions (29 keys)
 	PERK_ThickSoles = "<active>ACTIVE :</> Quelques ressorts, quelques aimants, quelques piles à combustible du marché noir - vous subissez maintenant <h>{value}% de dégâts de chute en moins</> !
 
 <hi>2 minutes de rechargement</>"
@@ -13669,7 +13666,6 @@ Dans cet état vous <h>vous déplacez plus vite</>, <h>frappez plus fort</>, et 
 	PERK_WeekendAthlete = "Un nain agile est un nain vivant ! Vous sprintez maintenant {value}% plus vite !"
 	PERK_Berzerker = "Rage de nain ! Vous infligez +1 point de dégâts de mêlée pour chaque {value} points de vie manquants !"
 	PERK_MarathonRunner_B = "L'effet s'active après avoir couru pendant <h>{float_value} secondes</>."
-	PERK_ExpertDepositor = "Expert dans le maniement du seau ! Vous <h>déposez</> vos minerais dans la MULE et la capsule <h>{value}% plus vite</> !"
 	PERK_BugThing = "Pour une raison inconnue, les butinsectes explosent quand vous vous approchez <h>à moins de {value}m</> d'eux...!"
 	PERK_MarathonRunner = "Obtenez un bonus de <h>{percent_onebased} de vitesse de course</>."
 	PERK_RedSugarRocks = "Pas si mauvais, hein ? Récupérez <h>{value}% de points de vie en plus</> grâce au sucre rouge !"
@@ -13712,11 +13708,14 @@ Namespace Progression (5 keys)
 Namespace RandomNames (1 keys)
 	RandomNameTemplate = "{LastName} {FirstName}"
 
-Namespace Refinery (7 keys)
+Namespace Refinery (10 keys)
 	CompleteSecondaryObjective = "Terminer l'objectif secondaire"
 	Connect3Pipelines = "Connecter 3 canalisations"
 	LaunchRocket = "Lancer la fusée"
+	PipelineSegment = "Segment de conduite"
+	PipelineStart = "Début de la conduite"
 	RefineLiquidMorkite = "Raffiner la morkite liquide"
+	Refinery = "Raffinerie"
 	RefineryStalled = "Blocage"
 	StandClear = "Écartez-vous !"
 	StartRefinery = "Démarrer
@@ -13991,12 +13990,11 @@ Namespace StatValues (67 keys)
 	StaggerChanceShotgunWeakpoint = "Chance d'étourdissement par plomb"
 	StaggerDurationWeakpoint = "Durée d'étourdissement sur point faible"
 
-Namespace Strings_DLC_03 (5 keys)
+Namespace Strings_DLC_03 (4 keys)
 	Halloween2020 = "Halloween 2020"
 	DLC03_BaseName = "Dur à cuire"
 	DLC03_HelmetB_Name = "Casque de dur à cuire"
 	DLC03_HelmetA_Name = "Casque de dur à cuire - Plateforme spatiale 17"
-	DLC03_ArmorDesc = "Les durs à cuire vétérans de DRG sont connus pour "
 
 Namespace Techincal (2 keys)
 	ClosedAlpha = "Alpha fermée"

@@ -1,8 +1,8 @@
-10323 entries
+10335 entries
 33 namespaces
-8320 values
+8328 values
 
-Namespace Global (9526 keys)
+Namespace Global (9537 keys)
 	248F3D37491744967A44008576B16FA9 = " (스티브)"
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " 블랙박스가 준비됐고 작동되는 중이다. 가까이 붙어있지 않는다면 연결이 끊어지고 말걸세, 그러니 표시된 삼각측량 구역을 벗어나지 않도록 하게!"
 	21E775294A9F00BC12A202B5100B6791 = " 화물 상자가 여기 있다!"
@@ -303,9 +303,7 @@ Namespace Global (9526 keys)
 	426124894AECCEF716DE27B0456392C4 = "<active>액티브:</> 당신은 아군의 보호막을 <h>{value} 초 동안 300%</> 과충전 시킬 수 있습니다. "
 	844FA7A84504CE3362627B895BD892CE = "금을 <bold>수납</>하세요"
 	D47A1628492AD17A6D7838854E8ADB1E = "<bold>승진된 드워프들</>은 특별한 <bold>주간 임무</>에 접근할 수 있게 됩니다. 이 임무들은 기존에 있던 모든 유형의 목표를 결합한 더 긴 작전입니다. 완료 후 매트릭스 코어와 대장간에서 사용할 수 있는 희귀한 아이템을 보상으로 받게 됩니다."
-	324298874E25B03DBB71F1A1D5FC6A4D = "MULE이 <h>7m</>이내에 있으면 <h>받는 피해량이 20% 감소</>합니다!"
 	6B174915406473EC528AE693016036E1 = "레드 슈거를 섭취하면 <h>10초동안 20%의 이동속도 보너스</>를 받습니다!"
-	6BEE1B6941C65BFC465772A296A754A6 = "MULE이 <h>7m</>이내에 있으면 <h>받는 피해량이 30% 감소</>합니다!"
 	3CA506D94715680868ABF48366A9E40D = "<hi>대기시간 {minutes} 분</>"
 	40C533384336F7FC4F8EEB899C4592AD = "<hi>대기시간 {value} 초.</>"
 	82B0DC6C46DC1254E09B96AB193E66F3 = "<hi>대기시간 {value} 초</>"
@@ -3116,6 +3114,7 @@ The Ghost Ship 직원일동"
 	636EFE984E2CB29D61E735A17D86BFD0 = "포스 피드백 강도"
 	10C79B5946D4E8A72924C1B26CBF544F = "대장간"
 	A0D4C48D4EF61866DE19CBAE92D05C44 = "대장간"
+	DF2F3ECE41B06E4E1BEA39B893B91887 = "대장간"
 	AE4C6D354B238677CBF9CCBB74160BCA = "제작 이력"
 	DDAAA63B4533237EA7A8FFACB86CCD67 = "제작 이력"
 	5043F1E946293073A4D9699570F1620B = "대장간 인벤토리"
@@ -5505,6 +5504,7 @@ The Ghost Ship Crew"
 	7C9DDADD40757985D0955C8003490DFF = "초소형 탄창"
 	7291A611480E881E95370D857E5DEFBA = "채굴"
 	B85350774A6AD58B03FB29B9C834A000 = "채굴"
+	939C0B56492B31CB063CFFBE94AFAC10 = "<bold>레드 슈거</>를 채광하면 <bold>체력이 재생</>됩니다. 회복량은 채광량에 비례합니다."
 	44109652413B689AD07B918FDE5E12EE = "채굴 원정"
 	BDB428844B68EA8289C3F5A5A4A5EDFC = "채굴 원정"
 	234BEC3A45FFDA5A00500E92020897ED = "채굴 원정 완료"
@@ -6323,6 +6323,7 @@ The Ghost Ship Crew"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "승진이 기다립니다"
 	625637E14AE36161309A579AF48094B0 = "승진 비용"
 	3C2211C04C11826513D1028765628866 = "승진"
+	BF49737C495A40AA64D6A6B6E2B561D5 = "승진"
 	9D0495E743DE52B3F57657B90B4B5D58 = "터지기 쉬움"
 	0743DAE24CA986BE792E58B3FF6F12EA = "근접 지뢰"
 	3C5A008D4A9404236B3B6DA97B561600 = "공지: 유탄 발사기 한 정이 식당에 남겨진 채 발견되었습니다. 안전을 위해 - 임무 중이 아니라면 모든 중화기는 안전한 곳에 보관해두세요."
@@ -6803,6 +6804,12 @@ The Ghost Ship Crew"
 	B38989744B0B3BFEDB3B4EB0F92EE587 = "RJ250 혼합물"
 	D7351C03419BC3A35DA83AB86FDD2E2D = "락......앤.... 스톤!"
 	E1D80181453EC5C5859456805C2F4043 = "로켓!"
+	BF6415574FF60433112554B6DC8C4B2C = "모든 클래스를 위한 거친 사나이 방어구 외형"
+	2D025CD34F14A78B70118B9E9B54D2CE = "거친 사나이 헬멧은 두 가지 유형이 있습니다"
+	F366FD00490F237538E3A18E654E4D36 = "보스코를 위한 거친 사나이 도색"
+	B59BBF0245C49B666D6BE488EE269648 = "모든 방어구를 위한 거친 사나이 도색"
+	175B02664A1D1855AB59D6801DDFD268 = "모든 무기를 위한 거친 사나이 도색"
+	A3091E0D4DA819EA6406F9AB2761AC50 = "당신의 곡괭이를 위한 거친 사나이 도색"
 	922B2C64400F83A12481AD854CD7DB9F = "탄약"
 	767201A24BF05D53A61200984D6773B3 = "혼자 게임 하기"
 	4A82F147411FF196FE6F84A9DDAD1F5B = "방사형 펄스건"
@@ -6887,6 +6894,7 @@ The Ghost Ship Crew"
 	AB85234C4CFB8A482C5A5987B258338B = "붉은"
 	ECEC9CD3416C7905F945818884703B8A = "적색 크리스탈"
 	5C9058E840FE23D81FF24D92B40D1823 = "모두에게 레드 락 블래스터 한 잔 씩, 빨리!"
+	4D0DDE1A4C0E25E7ACE52CAD71D7EF46 = "레드 슈거 회복"
 	25198A0C4FB3F82B189C77BEF8B0DCE3 = "붉은 소금이야!"
 	647A9A4F4E10D3AE2C843180230821C3 = "붉은 소금이다!"
 	5FCB0E0145483E8E4299DA974965F976 = "레드 슈거가 여기에 있어, 하지만 조심해! 이거 중독성이 상당하다고!"
@@ -6962,6 +6970,7 @@ The Ghost Ship Crew"
 	15C102484C0E9A6961FBC4A248F56025 = "조명봉을 쓰는걸 잊지 마세요! 조명봉은 조금만 지나면 자동으로 보급되니, 챙겨놓을 필요가 없습니다!"
 	1DAAF49F4B0EA63B9F0CDA839D62E2A1 = "탱크 제거"
 	2F93B735471DFB60DDC1E0AD79C40164 = "넛 껍데기 제거 중..."
+	F31517A949FDF257906B4ABCB1DCAF2A = "배관 세그먼트 제거하기"
 	11BC8F5540F956105650F29654396606 = "수리"
 	4DC4999A43745297A23D1BA2EB8C8E03 = "수리"
 	67119BE74FF42F35025CF1A4B4F5C969 = "수리하기"
@@ -8122,7 +8131,7 @@ The Ghost Ship Crew"
 	BBD0FA924A1D63964A01E693AB211F44 = "드릴도저가 조금만 더 뚫고가면 끝나네!"
 	FC1CDC6A4A262FBF8ADF42A22476EE92 = "드릴도저의 연료가 또다시 바닥 났네! 다시 채워주게! "
 	74939A7644ADB6D1F63555A91FEE19BC = "드릴도저의 연료가 또 바닥이 났네! 깡통을 다시 충전하게!"
-	5306A9754848340C8C62B284979BFB71 = "드릴도저가 목적에 맞게 쓰이겠군. 하트스톤은 우리걸세! 담아 넣고 임무를 마무리하게. "
+	5306A9754848340C8C62B284979BFB71 = "드릴도저가 목적에 맞게 쓰였군. 하트스톤은 우리걸세! 담아 넣고 임무를 마무리하게. "
 	55B5A4B94FA84DDB8DA8C6A994EFBAC3 = "드릴도저가 당신 옆에 착지할 것 입니다. 작동시켜 채굴을 시작하세요."
 	3E38D60E40613980B95670931B7FE4FC = "드릴도저가 옴모란 껍데기에 도달하면 자리를 잡습니다. 준비가 됐다면, 버튼을 눌러 구멍을 뚫으세요."
 	6464EEFA4CB62D5FC5D2218EBA5C814A = "드릴도저다!"
@@ -9551,10 +9560,13 @@ DEEP ROCK GALACTIC의 얼리 엑세스 개발을 지원해주셔서 진심으로
 	742CBEAC46C0F18D8B99CC9FDCA5C862 = "당신은 더 많은 탄약을 챙길 수 있지만 걸림 방지를 위하여 발사 속도를 낮추어야 했습니다 장전하실 때 좀 더 신경 써주세요."
 	3D3C544D44A11B598935C28FA7F84F6F = "센트리 건의 탄약을 더 가지고 다닐 수 있습니다"
 	31F3363F4BF2123346998D856F226E8A = "당신은 전투에 더 많은 탄약을 가지고 갈 수 있습니다."
+	EF7B3EE04D721D4571654288354281AC = "<bold>보스코</>에게 당신이 <bold>이미 배치해 놓은</> <bold>배관로</>의 건설을 끝마치라고 명령할 수 있습니다."
+	B86063D14479D051A85F0DA8167C2ADF = "닿기 어려운 곳에 있는 매장된 <bold>오일 셰일</>을 <bold>연료 통</>에 손쉽게 모으기 위해  <bold>보스코</>에게 채광을 명령 할 수 있습니다."
 	7BAA34654CA10FAE8E75C799C2BF0BB4 = "당신은 그냥 긍정을 느낄 수 있을겁니다!"
 	5F271ED049C646F5389B62B7732CE103 = "적을 죽인 후 빛보다 빠르게 장전 할 수 있습니다."
 	32E67FE9406320B0C0226FA6475494C3 = "관심가는 지점을 레이저 포인터로 겨누면 팀원들의 관심을 그곳에 모이게 할 수 있습니다."
 	E3C40C054367190F9C71519090623C15 = "<Equip2/> 을(를) 눌러 당신의 <bold>보조 무기</>를 장비하세요. 당신의 주 무기를 보완하기에 최적입니다."
+	22FFCF9149DBF247BA101390C74BE41B = "배관로를 당신의 곡괭이로 때려 <bold>마지막 세그먼트</>를 제거할 수 있습니다."
 	4FB1570445693F893FD9A2A30AC2B8AA = "당신은 <bold>광부 지침서</> 아래 있는 <highlight>시작에 앞서->기본</> 에서 튜토리얼 레벨을 다시 할 수 있습니다.
 
 <CloseMenu/> 을(를) 눌러 <bold>광부 지침서</>를 엽니다"
@@ -9731,6 +9743,7 @@ DEEP ROCK GALACTIC의 얼리 엑세스 개발을 지원해주셔서 진심으로
 	433BBF6C47837D1D867AD7B699BD8B51 = "[잠겨있는 무기]"
 	EFB6796C44FBB6920A5BA98BC6E717F7 = "[MenuAction1] 새로고침"
 	F62952864AC9BD5C00DDEA94DDF7A682 = "[MenuAction1] 새로 고침"
+	BDF08600479FFA876207ECA92D1B1518 = "[Mine] 설치 제거"
 	16954E514399EEA6D849E185A4D4392C = "[OkMenu] 계속하기"
 	319FC2C243CD6989A597A8B314759BBD = "[OkMenu] 계속하기"
 	54B6DBEE47A15FEB3FCD99A24F4EA0B2 = "[OkMenu] 계속하기"
@@ -9761,8 +9774,6 @@ DEEP ROCK GALACTIC의 얼리 엑세스 개발을 지원해주셔서 진심으로
 	A016AC284D49DB5BCCEF7498515A5361 = "접속중"
 	5EEF0FA8425E600B8C0A98B40C82D95B = "재생"
 	82A50F7148889C70BB11F58D8A958180 = "채팅 메세지를 받을때 소리 재생"
-	E1CEDB2D4131955D2B56EB9B95420200 = "독성 상의"
-	D62DE31F47244ACBE33394AB4E4DF204 = "뾰족한 부분이 안쪽이나 바깥쪽에 있어야 할까요?"
 	5B37A7E644003126D80116AF94D90F72 = "이 방은 비공개 방이였어야 했습니다."
 	57FC31744E660502A620D797A58ED1DA = "티어 숫자"
 	F85083AD4B1AC49712D91BB531090D22 = "자세히 보기"
@@ -13686,7 +13697,7 @@ M1000 클래식
 	Update_31_Shorttitle = "이 뒤엔 뭐가 남았을까"
 	Update_16_ShortTitle = "겨울이 왔다"
 
-Namespace PerkDescriptions (30 keys)
+Namespace PerkDescriptions (29 keys)
 	PERK_ThickSoles = "<active>액티브:</> 몇 개의 스프링과, 몇 개의 자석, 몇 개의 암시장산 연료 전지 - 당신은 이제 <h>낙하 피해량을 {value}% 덜 받습니다</>!
 
 <hi>대기시간 2 분</>"
@@ -13703,7 +13714,6 @@ Namespace PerkDescriptions (30 keys)
 	PERK_WeekendAthlete = "가장 날렵한 드워프는 살아있는 드워프죠! 당신은 달릴 때 {value}% 더 빠르게 달립니다!"
 	PERK_Berzerker = "드워프의 분노! 최대 체력치에서 {value} 만큼 체력이 낮아질 때 근접 피해량이 +1 증가합니다!"
 	PERK_MarathonRunner_B = "<h>{float_value} 초</> 동안 달린 후 효과가 활성화됩니다."
-	PERK_ExpertDepositor = "양동이 다루는데엔 도가 텄네요! 이제 <h>{value}% 빠르게</> MULE 이나 드랍 포드에 자원을 <h>집어넣을 수</> 있습니다!"
 	PERK_BugThing = "무슨 이유인지, 당신이 광물 벌레에게 <h>{value}m 내</>로 다가가면 터집니다..!"
 	PERK_MarathonRunner = "<h>{percent_onebased} 의 추가적인 달리기 속도</>를 얻습니다."
 	PERK_RedSugarRocks = "입 맛이 길들여지기 시작했습니다! 레드 슈거로부터 <h>{value}% 체력을 더 회복</>받습니다!"
@@ -13744,11 +13754,14 @@ Namespace Progression (5 keys)
 	Level_Short = "레벨"
 	PlayerRank = "플레이어 랭크"
 
-Namespace Refinery (7 keys)
+Namespace Refinery (10 keys)
 	CompleteSecondaryObjective = "보조 목표 완료"
 	Connect3Pipelines = "배관로 3개 연결"
 	LaunchRocket = "로켓 발사"
+	PipelineSegment = "배관로 세그먼트"
+	PipelineStart = "배관로 시작"
 	RefineLiquidMorkite = "액체 모르카이트 정제"
+	Refinery = "정제소"
 	RefineryStalled = "정지됨"
 	StandClear = "물러나세요!"
 	StartRefinery = "정제소 작동"
@@ -14036,12 +14049,11 @@ Namespace StatValues (67 keys)
 	StaggerChanceShotgunWeakpoint = "발 당 약점 기절 확률"
 	StaggerDurationWeakpoint = "약점 기절 지속시간"
 
-Namespace Strings_DLC_03 (5 keys)
+Namespace Strings_DLC_03 (4 keys)
 	Halloween2020 = "할로윈2020"
 	DLC03_BaseName = "거친 사나이"
 	DLC03_HelmetB_Name = "거친 사나이 머리 보호구"
 	DLC03_HelmetA_Name = "거친 사나이 머리 보호구 - 17번 우주 정거장"
-	DLC03_ArmorDesc = "DRG의 베테랑 거친 사나이들은 다음과 같이 알려져 있습니다 "
 
 Namespace Techincal (2 keys)
 	ClosedAlpha = "클로즈드 알파"

@@ -1,8 +1,8 @@
 10434 entries
 34 namespaces
-8717 values
+8715 values
 
-Namespace Global (9674 keys)
+Namespace Global (9673 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        reiniciar        "
 	C96469B045023AF918296D97182165AB = "        reiniciar        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Caja Negra preparada y arrancando. Perderemos la conexión si no te quedas cerca, ¡así que intenta no abandonar la Zona de Triangulación marcada!"
@@ -306,9 +306,7 @@ Mientras realizas una carga, <h>ignorarás todos los efectos de ralentización</
 	426124894AECCEF716DE27B0456392C4 = "<active>ACTIVA:</> Podrás sobrecargar el escudo de un aliado para que alcance un <h>300% durante {value} segundos</>. "
 	844FA7A84504CE3362627B895BD892CE = "<bold>Deposita</> el Oro"
 	D47A1628492AD17A6D7838854E8ADB1E = "Los <bold>Enanos promocionados</> reciben acceso a<bold>misiones semanales</> especiales. Estas son operaciones más largas combinando todos los tipos de objetivos existentes. La recompensa por completarlos son Núcleos de Matriz, un objeto único que puede ser utilizado en La Forja."
-	324298874E25B03DBB71F1A1D5FC6A4D = "¡Recibirás un <h>20% de reducción de daño</> mientras estés a menos de <h>7 m</> de la MULA!"
 	6B174915406473EC528AE693016036E1 = "¡Ahora ganarás un <h>20% de velocidad de movimiento adicional durante 10 segundos</> tras consumir Azúcar Rojo!"
-	6BEE1B6941C65BFC465772A296A754A6 = "¡Recibirás un <h>30% de reducción de daño</> mientras estés a menos de <h>7 m</> del M.U.L.A!"
 	3CA506D94715680868ABF48366A9E40D = "<hi>Enfriamiento: {minutes} minutos</>"
 	40C533384336F7FC4F8EEB899C4592AD = "<hi>Enfriamiento: {value} segundos</>"
 	82B0DC6C46DC1254E09B96AB193E66F3 = "<hi>{value} segundos de enfriamiento</>"
@@ -3119,6 +3117,7 @@ DE TIRO"
 	636EFE984E2CB29D61E735A17D86BFD0 = "Fuerza de la Retroalimentación"
 	10C79B5946D4E8A72924C1B26CBF544F = "Forja"
 	A0D4C48D4EF61866DE19CBAE92D05C44 = "Forja"
+	DF2F3ECE41B06E4E1BEA39B893B91887 = "Forja"
 	AE4C6D354B238677CBF9CCBB74160BCA = "Historial de Forjado"
 	DDAAA63B4533237EA7A8FFACB86CCD67 = "Historial de Forja"
 	5043F1E946293073A4D9699570F1620B = "Inventario de Forja"
@@ -4809,6 +4808,7 @@ y hazte más fuerte! ¡La Unión te provee de 5000 créditos iniciales!
 	116899A540C11BC865ED8F84CA84DB4F = "Patear"
 	1BEC7377436BD25C866F02BB43C73932 = "Patear"
 	31CAC48442DABA1AB2E7B7BDE36DBF37 = "Patear"
+	3C82739C40D2278F02E3F4AE18B60C81 = "Patear"
 	4EC0B8D64AD068D1DEDFBFAD9A335ECB = "Patear"
 	7106DF0D483AE6B6BF7B7EA2DCDE7950 = "Expulsar"
 	7DDC24AB41A5E420ED2B048B9C5BDA96 = "Expulsar"
@@ -5166,7 +5166,7 @@ Pulsa <calldonkey/> o <JUMP/> mientras estés planeando para desactivarla."
 	D8386D624BCC545EB556D188B64381E9 = "Mirada"
 	664E40C2492357C2F601B18D7CEC3458 = "¡Mira como va!"
 	A665DCC94895B48BD78DDD94F4B933C3 = "¡Mira como va!"
-	DDC862B747F39F7B91DD699BF23F47AB = "¡Mírenme, so Rocky Piedrawk!"
+	DDC862B747F39F7B91DD699BF23F47AB = "¡Mírenme, so Piedrony Rawk!"
 	22B8B49D4665B69EEFDD3DBCC2652F20 = "¡Mira a ese novato, haciendo trampa como un... un... novato!"
 	57F1C361421091DD955EB79880C0F16A = "¡Mira eso!"
 	9211351A42993364965FAEAF1787CEAD = "¡Mira eso!"
@@ -6376,6 +6376,7 @@ La Administración"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "LA PROMOCIÓN ESPERA"
 	625637E14AE36161309A579AF48094B0 = "Costo de Ascenso"
 	3C2211C04C11826513D1028765628866 = "ASCENSOS"
+	BF49737C495A40AA64D6A6B6E2B561D5 = "PROMOCIÓNES"
 	9D0495E743DE52B3F57657B90B4B5D58 = "PROPENSO A ESTALLAR"
 	0743DAE24CA986BE792E58B3FF6F12EA = "MINA DE PROXIMIDAD"
 	3C5A008D4A9404236B3B6DA97B561600 = "Noticias: se ha encontrado un lanzagranadas abandonado en el comedor. Por la seguridad de todos, por favor almacena de forma adecuada tu equipo pesado entre misiones."
@@ -9909,8 +9910,6 @@ Ahora puedes equipar <highlight2>dos</> habilidades activas. ¡Elige con prudenc
 	5043365A4A82A09B06A9EDB218849544 = "desconectado"
 	A016AC284D49DB5BCCEF7498515A5361 = "conectado"
 	82A50F7148889C70BB11F58D8A958180 = "reproducir sonido cuando se recibe un mensaje de chat"
-	E1CEDB2D4131955D2B56EB9B95420200 = "chaleco venenoso"
-	D62DE31F47244ACBE33394AB4E4DF204 = "¿Los pedacitos puntiagudos deben estar en el interior o el exterior?"
 	5B37A7E644003126D80116AF94D90F72 = "esto iba a ser una partida privada."
 	57FC31744E660502A620D797A58ED1DA = "número de nivel"
 	F85083AD4B1AC49712D91BB531090D22 = "para agrandar al sujeto"
@@ -13771,7 +13770,7 @@ CORRECCIONES Y MEJORAS
 	Update_31_Shorttitle = "LO QUE QUEDÓ ATRÁS"
 	Update_16_ShortTitle = "EL INVIERNO HA LLEGADO"
 
-Namespace PerkDescriptions (32 keys)
+Namespace PerkDescriptions (31 keys)
 	PERK_ThickSoles = "<active>ACTIVA:</> Un par de resortes, algunos imanes, unas cuantas células de combustible del mercado negro, ¡y ahora recibirás un <h>{value}% menos de daño por caída</>!
 
 <hi>2 minutos de enfriamiento</>"
@@ -13788,7 +13787,6 @@ Mientras te encuentres en este estado te <h>mueves más rápido</>, <h>golpeas m
 	PERK_WeekendAthlete = "¡Un enano ágil es un enano vivo! ¡Ahora corres un {value}% más rápido!"
 	PERK_Berzerker = "¡Pura furia enana! Infligirás +1 de daño cuerpo a cuerpo por cada {value} puntos de salud que hayas perdido!"
 	PERK_MarathonRunner_B = "El efecto se activará después de correr durante <h>{float_value} segundos</>."
-	PERK_ExpertDepositor = "¡Todo un experto manejando las cubetas! ¡Podrás <h>depositar</> objetos en el M.U.L.A. y en la cápsula de transporte <h>un {value}% más rápido</>!"
 	PERK_BugThing = "¡Por alguna razón, las Larvas de Botín explotarán cuando te encuentres a <h>{value}m</> de ellas...!"
 	PERK_MarathonRunner = "Consigue una mejora de <h>{percent_onebased} de velocidad al correr</>."
 	PERK_RedSugarRocks = "¡Le estás agarrando el gustito! ¡Recupera <h>{value}% más de Salud</> Al consumir Azúcar Rojo!"
@@ -13833,11 +13831,14 @@ Namespace Progression (4 keys)
 Namespace RandomNames (1 keys)
 	RandomNameTemplate = "{LastName} {FirstName}"
 
-Namespace Refinery (7 keys)
+Namespace Refinery (10 keys)
 	CompleteSecondaryObjective = "Completa el Objetivo Secundario"
 	Connect3Pipelines = "Conecta 3 Tuberías"
 	LaunchRocket = "Lanzar el Cohete"
+	PipelineSegment = "Segmento de tubería"
+	PipelineStart = "Inicio de tubería"
 	RefineLiquidMorkite = "Refinar Morkita líquida"
+	Refinery = "Refinería"
 	RefineryStalled = "Atascado"
 	StandClear = "¡Aléjense!"
 	StartRefinery = "Encender la Refinería"
@@ -14123,11 +14124,10 @@ Namespace StatValues (67 keys)
 	StaggerChanceShotgunWeakpoint = "Probabilidad de Aturdir en Punto Débil Por Perdigón"
 	StaggerDurationWeakpoint = "Duración de aturdimiento (punto débil)"
 
-Namespace Strings_DLC_03 (4 keys)
+Namespace Strings_DLC_03 (3 keys)
 	DLC03_BaseName = "Obrero"
 	DLC03_HelmetB_Name = "Casco de Obrero"
 	DLC03_HelmetA_Name = "Casco de Obrero - Plataforma Espacial 17"
-	DLC03_ArmorDesc = "Los obreros más veteranos de DRG son conocidos por "
 
 Namespace Techincal (2 keys)
 	ClosedAlpha = "Alfa Cerrada"

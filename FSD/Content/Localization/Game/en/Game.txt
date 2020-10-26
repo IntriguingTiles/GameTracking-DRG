@@ -1,8 +1,8 @@
-11025 entries
+11023 entries
 35 namespaces
-8830 values
+8828 values
 
-Namespace Global (10211 keys)
+Namespace Global (10209 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        reset        "
 	C96469B045023AF918296D97182165AB = "        reset        "
 	248F3D37491744967A44008576B16FA9 = " (Steeve)"
@@ -456,9 +456,9 @@ While dashing, you <h>ignore all slowdown effects</>.
 	844FA7A84504CE3362627B895BD892CE = "<bold>Deposit</> the Gold"
 	D47A1628492AD17A6D7838854E8ADB1E = "<bold>Promoted dwarves</> get access to special <bold>weekly missions</>. These are longer operations combining all existing types of objectives. The reward for completing them are Matrix Cores, a unique item that can be used in The Forge."
 	CB9ACD194D2BADF07AF236AB36768128 = "<bold>{numerator}</>"
-	324298874E25B03DBB71F1A1D5FC6A4D = "<h>20% Damage Reduction</> while within <h>7m</> of the MULE!"
+	324298874E25B03DBB71F1A1D5FC6A4D = "<h>20% Damage Reduction</> while within <h>7m</> of the MULE or other deposit points!"
 	6B174915406473EC528AE693016036E1 = "<h>20% movement speed bonus for 10 seconds</> after consuming Red Sugar!"
-	6BEE1B6941C65BFC465772A296A754A6 = "<h>30% Damage Reduction</> while within <h>7m</> of the MULE!"
+	6BEE1B6941C65BFC465772A296A754A6 = "<h>30% Damage Reduction</> while within <h>7m</> of the MULE or other deposit points!"
 	3CA506D94715680868ABF48366A9E40D = "<hi>{minutes} minute cooldown</>"
 	40C533384336F7FC4F8EEB899C4592AD = "<hi>{value} second cooldown.</>"
 	82B0DC6C46DC1254E09B96AB193E66F3 = "<hi>{value} second cooldown</>"
@@ -6067,8 +6067,8 @@ On the other hand, area of effect weapons or those based on streams of cold or f
 	EA58681B47044AD594A47FBF61A37E8B = "NEW ASSIGNMENT:"
 	AD7E876342C2248B2A34E4BAF2CE0198 = "NEW MATRIX CORE"
 	747D9D66462A834F081A129492AD4C34 = "NEW MISSIONS IN"
+	36BC27214ECBFD8863B5C1A99EDB749E = "NEW PLANET ZONE"
 	47713A8F484B1902AFE2D79C9BEDE9ED = "NEW PLANET ZONE"
-	AB6663994ED110FFCC2C4AAE445EB9CE = "NEW PLANET ZONE"
 	53F99F6A490025C957D9CE81EAB2B927 = "NEW {AccessoryType}"
 	29AFDACB49D3FC658DE1438119224810 = "NEW {Type}:"
 	B6320AD1453B5B7D4C6ECF92BAC1504C = "NEW {mission} COMPLEXITY"
@@ -10411,8 +10411,6 @@ You can now equip <highlight2>two</> active perks. Choose wisely!"
 	A016AC284D49DB5BCCEF7498515A5361 = "online"
 	5EEF0FA8425E600B8C0A98B40C82D95B = "play"
 	82A50F7148889C70BB11F58D8A958180 = "play sound on chat message recieved"
-	E1CEDB2D4131955D2B56EB9B95420200 = "poison vest"
-	D62DE31F47244ACBE33394AB4E4DF204 = "should the pointy bits be on the inside or outside?"
 	613887E74F0485DE6695A8875A86E06D = "testsetet"
 	5B37A7E644003126D80116AF94D90F72 = "this was meant to be a private game."
 	57FC31744E660502A620D797A58ED1DA = "tier number"
@@ -14436,7 +14434,7 @@ While in this state you <h>move faster</>, <h>hit harder</>, and are <h>resistan
 	PERK_WeekendAthlete = "An agile dwarf is a live dwarf! You now sprint {value}% faster!"
 	PERK_Berzerker = "Dwarven rage! You deal +1 Melee Damage for every {value} hitpoints currently under your maximum!"
 	PERK_MarathonRunner_B = "Effect activates after running for <h>{float_value} seconds</>."
-	PERK_ExpertDepositor = "Expert bucket handling! You now <h>deposit</> valuables into the MULE and Drop Pod <h>{value}% faster</>!"
+	PERK_ExpertDepositor = "Expert bucket handling! You now <h>deposit</> valuables into the MULE and other deposit points <h>{value}% faster</>!"
 	PERK_BugThing = "For some reason, Loot Bugs explode whenever you get <h>within {value}m</> of them...!"
 	PERK_MarathonRunner = "Get a <h>{percent_onebased} sprint speed boost</>."
 	PERK_RedSugarRocks = "Getting a taste for that stuff! Get <h>{value}% more healing</> from consuming Red Sugar!"
@@ -14783,7 +14781,7 @@ Namespace Strings_DLC_03 (5 keys)
 	DLC03_BaseName = "Roughneck"
 	DLC03_HelmetB_Name = "Roughneck Helmet"
 	DLC03_HelmetA_Name = "Roughneck Helmet - Space Rig 17"
-	DLC03_ArmorDesc = "The veteran roughnecks of DRG are known to "
+	DLC03_ArmorDesc = "The veteran roughnecks of DRG are known to care less for protection, and more for utility. Years of hard work in the mines make you that way - why wear heavy armor when YOU are the most dangerous thing down here by far?"
 
 Namespace Techincal (2 keys)
 	ClosedAlpha = "Closed Alpha"

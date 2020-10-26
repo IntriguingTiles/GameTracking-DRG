@@ -1,8 +1,8 @@
-5859 entries
+5855 entries
 27 namespaces
-4689 values
+4685 values
 
-Namespace Global (5551 keys)
+Namespace Global (5548 keys)
 	2559D78C40005E5221F26093CB976283 = " Samla {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Jag föll!"
 	31D60A1449082F9AB6DC15844F3810F6 = " KRÄVS"
@@ -176,9 +176,7 @@ Under spurten <h>ignoreras alla effekter</> som saktar ned dig.
 <hi>{value} sekunders väntetid</>"
 	426124894AECCEF716DE27B0456392C4 = "<active>AKTIV:</> Du kan överladda en lagkamrats sköld upp till <h>300% i {value} sekunder</>. "
 	D47A1628492AD17A6D7838854E8ADB1E = "<bold>Befordrade dvärgar</> får tillgång till särskilda <bold>veckouppdrag</>. Dessa är längre operationer som kombinerar alla existerande typer av mål. Belöningen från dem är matriskärnor, unika föremål som kan användas i smedjan."
-	324298874E25B03DBB71F1A1D5FC6A4D = "<h>20% skadereduktion</> när du är inom <h>7m</> från MULAn!"
 	6B174915406473EC528AE693016036E1 = "<h>20% bonus till snabbhet i 10 sekunder</> efter att ha ätit rött socker!"
-	6BEE1B6941C65BFC465772A296A754A6 = "<h>30% skadereduktion</> när du är inom <h>7m</> från MULAn!"
 	3CA506D94715680868ABF48366A9E40D = "<hi>{minutes} minuters väntetid</>"
 	40C533384336F7FC4F8EEB899C4592AD = "<hi>{value} sekunders väntetid.</>"
 	82B0DC6C46DC1254E09B96AB193E66F3 = "<hi>{value} sekunders väntetid</>"
@@ -5590,7 +5588,6 @@ Detta är lika mycket som ett misslyckats uppdrag."
 	6261975749E0A9BB67B6BFB2984C2A8A = "läge"
 	EC97E0994A0A39ABFE7EFBACE67C260D = "läge"
 	5EEF0FA8425E600B8C0A98B40C82D95B = "spela"
-	E1CEDB2D4131955D2B56EB9B95420200 = "giftväst"
 	5B37A7E644003126D80116AF94D90F72 = "det var tänkt att detta skulle vara ett privat spel."
 	4F973F2A49C71D2635A64792C10301F8 = "jihoo!"
 	8F675C7B4972FBFB47946787B28DE51E = "jihoo!"
@@ -8344,7 +8341,7 @@ FIXES AND IMPROVEMENTS
 	Update_29_Header = "UPPDATERING 29: BÖRJAN PÅ SLUTET"
 	Update_9_Header = "UPPDATERING 9: BORRAR DIG SENARE! - 09.03.2018"
 
-Namespace PerkDescriptions (29 keys)
+Namespace PerkDescriptions (28 keys)
 	PERK_ThickSoles = "<active>AKTIV:</> Några fjädrar, magneter, och bränsleceller från svarta marknaden - nu tar du <h>{value}% mindre fallskada</>!
 
 <hi>2 minuters väntetid</>"
@@ -8361,7 +8358,6 @@ I detta tillstånd rör du dig <h>snabbare</>, <h>slår hårdare</>, och har <h>
 	PERK_WeekendAthlete = "En smidig dvärg är en levande dvärg! Nu spurtar du {value}% snabbare!"
 	PERK_Berzerker = "Dvärgursinne! Du gör +1 närstridsskada för varje {value} hälsa som fattas upp till maxnivån!"
 	PERK_MarathonRunner_B = "Effekten aktiveras när du har sprungit i <h>{float_value} sekunder</>."
-	PERK_ExpertDepositor = "Utmärkt hinkhantering! Du <h>deponerar</> nu värdesaker i MULAn och borrkapseln <h>{value}% snabbare</>!"
 	PERK_BugThing = "Av någon anledning exploderar byteskryp när du kommer <h>inom {value}m</> från dem...!"
 	PERK_MarathonRunner = "Få <h>{percent_onebased} snabbhetsbonus</> när du spurtar."
 	PERK_RedSugarRocks = "Börjar få sötsug! Få <h>{value}% mer läkning</> av att äta rött socker!"

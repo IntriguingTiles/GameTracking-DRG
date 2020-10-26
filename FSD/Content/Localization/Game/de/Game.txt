@@ -1,8 +1,8 @@
 10147 entries
 34 namespaces
-8286 values
+8283 values
 
-Namespace Global (9401 keys)
+Namespace Global (9400 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        zurücksetzen        "
 	C96469B045023AF918296D97182165AB = "        zurücksetzen        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Blackbox startet und ist bereit. Wir verlieren die Verbindung wenn ihr nicht nah dran bleibt, also verlasst nicht die markierte Triangulationszone!"
@@ -304,9 +304,7 @@ Beim Sprint <h>ignorierst du alle Verlangsamungseffekte</>.
 	426124894AECCEF716DE27B0456392C4 = "<active>AKTIV:</> Du kannst den Schild eines Teammitglieds für <h>{value} Sekunden auf 300%</> überladen. "
 	844FA7A84504CE3362627B895BD892CE = "<bold>Liefere</> das Gold <bold>ab</>"
 	D47A1628492AD17A6D7838854E8ADB1E = "<bold>Beförderte Zwerge</> erhalten Zugang zu speziellen <bold>wöchentlichen Missionen</>. Sie sind längere Expeditionen die diverse Missionsziele kombinieren. Als Belohnung gibt es Matrixkerne, welche in der Schmiede genutzt werden können."
-	324298874E25B03DBB71F1A1D5FC6A4D = "<h>20% Schadensreduzierung</> innerhalb von <h>7m</> zum MULE!"
 	6B174915406473EC528AE693016036E1 = "<h>20% Geschwindigkeitsschub für 10 Sekunden</> nachdem Roter Zucker genascht wurde!"
-	6BEE1B6941C65BFC465772A296A754A6 = "<h>30% Schadensreduzierung</> innerhalb von <h>7m</> zum MULE!"
 	3CA506D94715680868ABF48366A9E40D = "<hi>{minutes} Minuten Abklingzeit</>"
 	40C533384336F7FC4F8EEB899C4592AD = "<hi>{value} Sekunden Abklingzeit.</>"
 	82B0DC6C46DC1254E09B96AB193E66F3 = "<hi>{value} Sekunden Abklingzeit</>"
@@ -3061,6 +3059,7 @@ STAND"
 	636EFE984E2CB29D61E735A17D86BFD0 = "Force Feedback Regler"
 	10C79B5946D4E8A72924C1B26CBF544F = "Schmiede"
 	A0D4C48D4EF61866DE19CBAE92D05C44 = "Schmiede"
+	DF2F3ECE41B06E4E1BEA39B893B91887 = "Schmiede"
 	AE4C6D354B238677CBF9CCBB74160BCA = "Schmiede-Historie"
 	DDAAA63B4533237EA7A8FFACB86CCD67 = "Schmiede-Historie"
 	5043F1E946293073A4D9699570F1620B = "Schmiede-Inventar"
@@ -4713,6 +4712,7 @@ LASST KEINEN ZWERG ZURÜCK!"
 	116899A540C11BC865ED8F84CA84DB4F = "Treten"
 	1BEC7377436BD25C866F02BB43C73932 = "Rauswerfen"
 	31CAC48442DABA1AB2E7B7BDE36DBF37 = "Treten"
+	3C82739C40D2278F02E3F4AE18B60C81 = "Treten"
 	4EC0B8D64AD068D1DEDFBFAD9A335ECB = "Treten"
 	7106DF0D483AE6B6BF7B7EA2DCDE7950 = "Rauswerfen"
 	7DDC24AB41A5E420ED2B048B9C5BDA96 = "Rauswerfen"
@@ -6210,6 +6210,7 @@ Management"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "BEFÖRDERUNG"
 	625637E14AE36161309A579AF48094B0 = "Beförderungskosten"
 	3C2211C04C11826513D1028765628866 = "BEFÖRDERUNG"
+	BF49737C495A40AA64D6A6B6E2B561D5 = "BEFÖRDERUNGEN"
 	9D0495E743DE52B3F57657B90B4B5D58 = "NEIGT ZU EXPLOSIONEN"
 	0743DAE24CA986BE792E58B3FF6F12EA = "ANNÄHERUNGSMINE"
 	3C5A008D4A9404236B3B6DA97B561600 = "Ankündigung: Ein Granatwerfer wurde in der Kantine liegen gelassen. Bleibt sicher - bitte verstaut zwischen Missionen alle schweren Geschütze."
@@ -6372,7 +6373,7 @@ Management"
 	8421E6A84DF1D6C83D58B6A40124A06C = "Rohrleitung verstopft, seht euch das an!"
 	8895BD1745920DF4482D59B44CA587C8 = "Rohr verstopft, seht euch das an!"
 	52FFE76B4892CF60A2D220948CBED2B2 = "Rohrleitung steht!"
-	37335DB84B10FFA10E8872B50AD4577E = "Rohrleitung repariert, aber andere Rohre versagen immer noch!"
+	37335DB84B10FFA10E8872B50AD4577E = "Rohrleitung repariert, aber einige Rohre sind noch undicht!"
 	C05C50CE4C155FFFE6B64D87E8ED04E8 = "Rohrleitung erfolgreich mit der Pumpe verbunden! "
 	B509AA19426DE5CD08D9188684189F05 = "Rohrleitung! "
 	0BAE49AD4A34C61F6CF9709335214204 = "Rohre stehen!"
@@ -7535,7 +7536,7 @@ WÄHLEN"
 	9D24CEAB42E892DA4A63E7B6E2658281 = "Spitzer Neurotiker"
 	CCF1756B4C0E7E20E02C6D96AE9E949A = "Spindown-Zeit"
 	33D4A7BD4E2AB5E300214D9287D2B002 = "der Rückratlosigkeit"
-	CF9DB0094F9941617C3B588A5812196B = "Wirbelnder Tot"
+	CF9DB0094F9941617C3B588A5812196B = "Wirbelnder Tod"
 	4C8FCE0C4BD43ADDBB06A389F6D1D578 = "Anlaufzeit"
 	5705949A4FBC51773F25B68563289FC7 = "Ballspeier"
 	F11A713D400638403770249F8CC0CB00 = "Ballspeier"
@@ -9636,8 +9637,6 @@ Du kannst jetzt <highlight2>zwei</> aktive Perks ausrüsten. Wähle mit Bedacht!
 	FA7FEDB540B38AB37FDDD295A75F40A7 = "nlfndsnlfsd"
 	5EEF0FA8425E600B8C0A98B40C82D95B = "start"
 	82A50F7148889C70BB11F58D8A958180 = "Ton für erhaltene Chatnachricht"
-	E1CEDB2D4131955D2B56EB9B95420200 = "giftweste"
-	D62DE31F47244ACBE33394AB4E4DF204 = "sollten die spitzenstücke innen oder außen sein?"
 	5B37A7E644003126D80116AF94D90F72 = "dies sollte ein privates Spiel sein."
 	57FC31744E660502A620D797A58ED1DA = "stufenzahl"
 	F85083AD4B1AC49712D91BB531090D22 = "vergrößern"
@@ -13340,7 +13339,7 @@ BEHANDLUNGEN UND VERBESSERUNGEN
 	Update_31_Shorttitle = "WAS ZURÜCKGELASSEN WURDE"
 	Update_16_ShortTitle = "WINTER IST HIER"
 
-Namespace PerkDescriptions (32 keys)
+Namespace PerkDescriptions (31 keys)
 	PERK_ThickSoles = "<active>AKTIV:</> Einige Federn, einige Magnete, einige Brennstoffzellen vom Schwarzmarkt - schon nimmst du <h>{value}% weniger Fallschaden</>!
 
 <hi>2 Minuten Abklingzeit</>"
@@ -13357,7 +13356,6 @@ Im letzten Gefecht <h>läufst du schneller</>, <h>verursachst mehr Schaden</> un
 	PERK_WeekendAthlete = "Ein flinker Zwerg ist ein lebendiger Zwerg. Du rennst jetzt {value}% schneller!"
 	PERK_Berzerker = "Zwergischer Wutanfall! Du teilst +1 Nahkampfschaden für jeden {value} Gesundheitspunkt unter dem Maximum aus!"
 	PERK_MarathonRunner_B = "Aktiviert sich selbst nach <h>{float_value} Sekunden</> rennen."
-	PERK_ExpertDepositor = "Experte bei der Eimerhandhabung! Du <h>deponierst</> Kostbarkeiten jetzt <h>{value}% schneller</> in den MULE und in die Transportkapsel!"
 	PERK_BugThing = "Aus irgendeinem Grund explodieren Beutelarven, wenn du <h>näher als {value}m</> herankommst."
 	PERK_MarathonRunner = "Erhalte einen <h>{percent_onebased} Sprint-Geschwindigkeitsschub</>."
 	PERK_RedSugarRocks = "Auf den Geschmack gekommen! Erhalte <h>{value}% mehr Heilung</> von Rotem Zucker!"
@@ -13402,11 +13400,14 @@ Namespace Progression (4 keys)
 Namespace RandomNames (1 keys)
 	RandomNameTemplate = "{LastName} {FirstName}"
 
-Namespace Refinery (7 keys)
+Namespace Refinery (10 keys)
 	CompleteSecondaryObjective = "Schließe das sekundäre Ziel ab"
 	Connect3Pipelines = "Verbinde 3 Rohrleitungen miteinander"
 	LaunchRocket = "Rakete Starten"
+	PipelineSegment = "Rohrteil"
+	PipelineStart = "Rohrleitung Start"
 	RefineLiquidMorkite = "Veredelt Flüssigmorkit"
+	Refinery = "Raffinerie"
 	RefineryStalled = "Blockiert"
 	StandClear = "Zurücktreten!"
 	StartRefinery = "Starte Veredelung"
@@ -13686,11 +13687,10 @@ Namespace StatValues (66 keys)
 	StaggerChanceShotgunWeakpoint = "Schwachpunkt Betäubungschance Per Pellet"
 	StaggerDurationWeakpoint = "Schwachpunkt-Betäubungsdauer"
 
-Namespace Strings_DLC_03 (4 keys)
+Namespace Strings_DLC_03 (3 keys)
 	DLC03_BaseName = "Ledernacken"
 	DLC03_HelmetB_Name = "Ledernacken Helm"
 	DLC03_HelmetA_Name = "Ledernacken Hehlm - Raumstation 17"
-	DLC03_ArmorDesc = "Die Veteranen-Ledernacken von DRG sind bekannt für "
 
 Namespace Techincal (2 keys)
 	ClosedAlpha = "Geschlossene Alpha"
