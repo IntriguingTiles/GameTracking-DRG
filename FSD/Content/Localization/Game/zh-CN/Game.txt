@@ -1,8 +1,8 @@
-10707 entries
+10654 entries
 33 namespaces
-8418 values
+8370 values
 
-Namespace Global (9902 keys)
+Namespace Global (9852 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "      重置        "
 	C96469B045023AF918296D97182165AB = "        重置        "
 	248F3D37491744967A44008576B16FA9 = " （史蒂夫）"
@@ -128,7 +128,6 @@ Namespace Global (9902 keys)
 	844F066F443EA495C2D467A142B97D63 = "“常规” <Highlight>高亮</> <Bold>粗体</>"
 	FC7BD3ED43577B288F6BC9937000BDF0 = "已完成“护盾瓦解”警告"
 	06F5FD53480F9F14AB110FADEE69052B = "已完成“挥发性照明弹”警告"
-	084972DA4367BB3126F09EA16F626036 = "（干劲满满）噢耶，我们开始吧……！"
 	E383843E42C22B358EA39FB6FF6BA09E = "（职业锁定中）"
 	C3C678454400B1BFB5D336A7E904BDC6 = "(R) 重新加载角色"
 	C69B3AC844302B16AEAC90A27A09070A = "(R) 重新加载角色"
@@ -169,7 +168,6 @@ Namespace Global (9902 keys)
 	04FD84F74534A09165323193EDE94860 = "+ 新任务：核心突破"
 	D028C3274772ABACFCB8F39BF1D2362E = "+ 侦察兵晋升"
 	EF0DF8784599B5857CCDD39F43929517 = "+ 交易终端可用"
-	8828FFC6421DA6948BE30CAA6C5D6774 = "+ 三提石钥匙让你到达深潜终端"
 	F76249854569776C11C34F96E8BDA25E = "+ 解锁风险等级5：致死"
 	BA709CDC4E2DFB5A802D7E8AE84C7C16 = "+ 升级晋升徽章"
 	CA55556B4C389FB1E04612A3184E43AB = "+ 朱可夫 NUK17 可供购买"
@@ -216,7 +214,6 @@ Namespace Global (9902 keys)
 	7BFFD5244098A04F83A10B8C26F6FBBA = "……等下……我突然明白了怎么在低压环境下提升钨制子弹的速度……或者……喔不，我已经忘了。"
 	E4D5D88549789B2B7E1EDA9C8889A802 = "……嗯……我走之后谁来教那些菜鸟呢？"
 	04E8E0B84A9FBE9DDA089AB20B6FEC64 = "……我绝对没喝够！"
-	85912F094DC5F64F481B64B06A82537B = "……我绝对没喝够！"
 	D66840BE42130879C4EE629101F0E055 = "……我绝对没喝够！"
 	D1B5A6254977F1C79CF19788EB59D907 = "……我想知道我能否让它超过9000？"
 	D985A6C24F53197D7D4056AC7AAC3EC3 = "……我需要一把更大的枪！ "
@@ -249,9 +246,6 @@ Namespace Global (9902 keys)
 3. 请确保你已登录Steam。
 4. 重启Steam。
 5. 确保你的防病毒软件或防火墙没有阻止游戏和Steam的运行。"
-	582285B049CB024EBB7E308CA4CA313B = "1. 你会成为一个独特工会分部的一份子！与社区和朋友愉快交流！
-
-2. 你能够参与每月分部目标，分享奖励！"
 	E3CAE99E4336FB45C4926CA53AE642C2 = "1. 你当前登录的 Discord 账号会在我们服务器中收到相应的工会分部角色。
 
 2. 你当前登录的 Discord 账号会失去之前具有的其他工会分部角色。"
@@ -302,9 +296,6 @@ Namespace Global (9902 keys)
 	3E2B45CC4055FAFFE3F0599FA3B1C566 = "<UseLaserPointer/>并按<mine/>来发射<bold>博斯科的火箭弹</>。"
 	EDAFC5AA4E8E883F4CE9F5B10267A06C = "<UseLaserPointer/>来拿出这件实用的工具。它上面搭载的<bold>扫描仪</>连接着记录有霍克斯四星上所有可扫描物质的数据库。
 同时它也是一件非常出色的<bold>沟通设备</>，你可以用它来标记材料、威胁或其它任何你想引起队友注意的东西。装备激光指示器时按<Fire/>来使用标记功能。"
-	6AF6F4DF480C999E4A787BA0C032D553 = "<active>主动效果：</>化身<h>10秒</>狂战士，<h>近战伤害提升</>且<h>蓄力重击充能</>快如闪电。
-
-<hi>冷却时间 {minutes} 分钟</>"
 	476492CA47300BB137D80795A66108BC = "<active>主动效果：</>每个任务<h>仅限3次</>，你可以在<h>倒地后触发神经脉冲</>。残差神经电场会让敌人触电并逃开。
 
 <hi>冷却时间 {minutes} 分钟</>"
@@ -321,7 +312,9 @@ Namespace Global (9902 keys)
 	426124894AECCEF716DE27B0456392C4 = "<active>主动效果：</>你可以超载一名队友的护甲值到<h>300%，持续 {value} 秒</>。 "
 	844FA7A84504CE3362627B895BD892CE = "<bold>存放</>黄金"
 	D47A1628492AD17A6D7838854E8ADB1E = "<bold>晋升的矮人</>可以获允参加特殊的<bold>每周任务</>。它由一系列包含任意目标组合的任务构成。完成这些任务的奖励是矩阵核心，一种可在锻造台使用的独特物品。"
+	324298874E25B03DBB71F1A1D5FC6A4D = "在矿骡或其它存矿点<h>7米</>范围内获得<h>20%伤害减免</>！"
 	6B174915406473EC528AE693016036E1 = "食用红糖后<h>10秒内获得20%移动速度加成</>！"
+	6BEE1B6941C65BFC465772A296A754A6 = "在矿骡或其它存矿点<h>7米</>范围内获得<h>30%伤害减免</>！"
 	3CA506D94715680868ABF48366A9E40D = "<hi>冷却时间 {minutes} 分钟</>"
 	40C533384336F7FC4F8EEB899C4592AD = "<hi>冷却时间 {value} 秒。</>"
 	82B0DC6C46DC1254E09B96AB193E66F3 = "<hi>冷却时间 {value} 秒</>"
@@ -347,7 +340,6 @@ Namespace Global (9902 keys)
 	FAC643DB471C14DA5082A08DB3974379 = "对这把武器彻头彻尾的改造以发射非常紧致的弹药。提升总携弹量和弹匣容量并减小后坐力，但代价是纯伤害降低。"
 	4DCC75AA4AF7E72A261F73B7CDB1D4D7 = "请来一些金丝雀酒！"
 	10EBE9914309B112BED94D8ACB15BFE8 = "特制的大口径 26 毫米左轮手枪，弹匣虽然只能容纳 4 发子弹，但是差不多没有任何东西可以扛得住其正面一击。"
-	991077E94B04B302DCE330856894F1E2 = "弥散的等离子体能让充能发射物在飞行中穿过所有敌人，并对其球形范围内的敌人造成伤害，但是需要的充能时间更长，也不会在撞击后爆炸。"
 	A51AF99C49FC325E4128D4BB8F23F943 = "一件沉实可靠的武器。通常不是适合矮人的第一选择，但是体积、重量和令人满意的火力的组合让它同样值得上手。"
 	74F3549648D46EE659CC2CAC30F2C0DD = "一个变体设计，能大幅提升伤害但缩小射击角度。"
 	2F52913F46610E48535B80BAA5F6DDE1 = "梦想成真！"
@@ -374,7 +366,6 @@ Namespace Global (9902 keys)
 	DCD38AED4A8F346B5B6A99AC5C4E0B28 = "真是工程杰作！"
 	2751FAEA43B6457AF22147B478062FA6 = "工程设计的大师之作，能在不影响整体表现的情况下提升充能速度和能量效率！"
 	C88728A04AD072BA73ABAB8A5051FEBC = "欢乐矮人的欢乐胡子！"
-	9A6B5392407F5C4D4264F385CD2D99A6 = "威武的胡子，为威武的战士覆甲。"
 	EEFDA4EC4E8BD1F66E88E18B7D4DB706 = "一名矿工正在加入你们的路上！"
 	45E24BB24F8EFC7DF66835800047C175 = "修改过的收容力场能使普通射击加热目标，加热量正比于造成的伤害。"
 	6018A1544DD88EBECCCB3F9F2E34AB29 = "最令人深刻的面容。"
@@ -422,7 +413,6 @@ Namespace Global (9902 keys)
 	AA2A27EE494F708441CAEE8E848BA862 = "标准的破片手雷，只是里面填充的不是弹片，而是工业用气密型强力黏胶。想想看吧。"
 	73F3774A48A4448BB90A72A2F5FA7B50 = "标准的高爆破片手雷。"
 	764520A44D68D8838F5BEEB7E90CC871 = "拥有中等杀伤半径的基础高爆手雷。可以用来除虫或者除垢，也可以既除虫又除垢。"
-	604B93F5499C5D5688413497AB07A600 = "突然的<bold>温度变化</>会暂时中断某些身体机能，使目标受到伤害。当生物受强力冷源或热源影响而<bold>被强制解除燃烧或冰冻状态</>时，温度骤变会造成<bold>额外伤害</>。"
 	B9B0A4AE4FC026A15FE333862631E202 = "一次战术装弹会让这些智能弹药从被击中的目标体内飞出并寻找附近的一个新目标。不幸的是所有这些花哨科技降低了弹药的基础伤害，而且需要更长的连发间间隙。 "
 	E37C1031413A95B3452BDA9470E2DF36 = "对于有眼光的矿工来说，这是个既体面又明智的外观。"
 	AD60DDEA4BC37160FF4B1D959B86E263 = "一个永恒的经典，适合满脸胡子的绅士。"
@@ -566,7 +556,6 @@ Namespace Global (9902 keys)
 	EDF08E71466DFE79FE3E4BB69ECD4C15 = "空中敌方单位接近！"
 	08281CAB4D050833C0FE19B9885C7C23 = "警告！防御屏障已被攻破，一大波敌人正在来袭。很高兴认识你！希望你死得光荣。"
 	9473CE8F40EAB78B52A9F89D56E5FA19 = "异星"
-	4CAD157442019837A2C311AEAFED311C = "外星虫蛋（不明）"
 	627A8A0840AD8F5E83D57E9AB4AC208B = "已完成外星虫蛋次要任务"
 	0896812A4B8770DEF814CCB05720B44A = "外星花卉"
 	C2DDE6E545531F830458ED9178FBDAE8 = "外星花卉"
@@ -600,7 +589,6 @@ Namespace Global (9902 keys)
 	B21830B545E9D42F5CC74B8511127994 = "工作了一整天。"
 	957C92D4466963E13A1BD1A73315AE69 = "一切正常！所有管线和抽油泵就位，等待提取墨菱油。回到精炼站开始抽取程序！"
 	359BF8524D67513E48AE5B8FE4CD3F8D = "所有金属部位"
-	D7C8930440988BD9F9736182A8936FCB = "所有需要的墨菱石已采集！目标已完成！"
 	82648E5046D150861355308931633C9D = "所有目标完成！回到精炼站启动抽取程序！"
 	CE74A05145DFE0071E5B318818EDC564 = "所有目标完成！你们可以开始抽取程序了！ "
 	3BA1D1CB4E75D2827D2E58A2BD0BE482 = "所有目标达成，干得漂亮，伙计们。通过矿骡激活应答机，然后打道回府。"
@@ -645,12 +633,10 @@ Namespace Global (9902 keys)
 	E868673C423078E3FBACB491DB144886 = "永不过时的古老标准。"
 	F33AFD0B41EB15706587FDAA7BDA340C = "看起来很古怪，毋庸置疑。但是这精雕细琢的手艺——！"
 	4FB397D0444310B34EB994BCF7A1BF75 = "作为该区域内常存的威胁，你的脚下经常会有熔岩涌出。一定要小心。"
-	BAAB460B45DD1BFAEBFF28932B0B55A0 = "一名新矿工被分配到了你的队伍！"
 	7788FB28487AD6E60942BA8B6CF01865 = "{class} 现在有一个额外的特长栏位可用"
 	1181DB1E41B8A40484A7D18F285950DC = "给令人印象深刻的矮人的令人印象深刻的胡子。"
 	3F254FC84E644A3046714DA785754E52 = "给令人印象深刻的矮人的令人印象深刻的胡子。"
 	FB2D11C14F5EEC24453F879598F0B181 = "给令人印象深刻的矮人的令人印象深刻的胡子。"
-	85D7BCEC4BE68DBC849081B25F1CFA7D = "旧世界古语有言“有备无患”——MK5侦察服没有让人失望。凯夫拉强化的内衬和系带，带钢爪的靴子，趁手的照明弹药包——甚至还有一个额外的三明治口袋！"
 	753B9EBB463EDFCC348BE2A0DC81DDF7 = "不平常的选择，不过肯定非常引人注目！"
 	B88BA71641B1B70A02370EB1EED7BEFA = "不寻常的连鬓胡子，带着几分神秘感。"
 	14A4DDF2406BA8A1DD77ED9F75B85F26 = "升级后的弹壳外形让你能在转轮中多塞两发子弹，并让你能携带更多弹药，但这些改动牺牲了武器的准确度和换弹速度。"
@@ -704,11 +690,9 @@ DRG祝你有个愉悦的假日，以及，新年快乐。
 	B868D3754398B689D2BEFD98E4C35E1F = "使用急冻炮时，自身 5 米范围内的所有敌人都会开始冻结。"
 	F01FDFDE4CE00B8EBE5DBD90EC065143 = "任何高能冲击都能使充能发射物不稳定，使其产生更大范围的内爆。弱力场需要更少的能量去创造，因此在每次充能射击后武器不再过热。"
 	226C2AAB4B67FD617E741DB0A511E833 = "有谁想跳舞？？"
-	55C7909B4CB7E9D2F862A194905C2B41 = "有谁想跳舞？？"
 	C7D69A104593577209BE8DB171C97B9F = "有谁想跳舞？？"
 	68C835A94DD4B9B5FDBB89834DE1398D = "任何命中弱点的一击都有几率再命中附近的一个敌人。"
 	C5ED8E724631E4FE783261BC97F3BA3D = "任何命中弱点的射击都有几率溅射到周围的另一个敌人。"
-	61CE7F6C4EAE424E5E18339B61E1BBD0 = "任何近战攻击你的敌人都会受到 <h>{value} 点的伤害</>。"
 	6758A09C4ABBE2BDAB7C4F93BE9EC6AC = "有人知道为什么叫它朵蕾塔吗？"
 	E0125FBB4B5A960E6CD20AA40230E0D4 = "有人知道为什么叫它朵蕾塔吗？"
 	34D627C64C3250E281ACDE9AA9CF88BE = "有人在守卫钻地机吗？"
@@ -861,7 +845,6 @@ Ghost Ship全体船员"
 Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能走过这不可思议的旅程，离不开一路上同舟共济、不离不弃的玩家们。各位玩家的测试、翻译、反馈、建议、批评、玩梗、直播、创作和自制预告片在这旅程中给了我们很多帮助。正因有你们，我们才能卖出超过一百万份游戏！
 
 但现在，我们比以往任何时候都更需要你们！我们需要让更多人知道 Deep Rock Galactic 的发售。作为玩家能怎么做？下面是一些建议："
-	DD3B622143872A024696098EC7025BEE = "注意了，矿工们！完成你们深潜第二阶段的任务，我们就会派出空降舱把你们送到更深处！快去干活吧！"
 	BC9BC9A348BD60F561A96A866DF103BA = "注意了，矿工们！你们的深潜已准备就绪！"
 	E73F93D24873444CD3EEC09F4C2B9E38 = "注意了，小队！扫描仪刚发现一个核心灌注器在这个洞穴的某处！你们可能会想在回家前找找它……"
 	249AFE8141710B14B893C4A7AE4E7BA8 = "小队，注意了！要保证螺旋钻地机的全速运转必须要保证它不受虫子攻击！……另外，一波虫潮正向我们袭来！ "
@@ -1079,7 +1062,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	3AE8B56D4C992F07D5E08A9D95C4BD74 = "有点贵，但我真的需要它！"
 	508A8A7A4B6AD4A9E4B3B3AB758539E4 = "有点贵，但我真的需要它！"
 	D0AFE74C49C71F2242FA01A410570A57 = "严酷"
-	DD1C700F412419804EC3AEBAEBB0C377 = "已完成辛宝石次要任务"
 	6E54EEC64A9558CBF2A1F99898181151 = "辛宝石"
 	7A15A43745D793BD41B7BD84A4DCE600 = "辛宝石"
 	68FAD557426EF99CCDDCB58B429CF5FE = "黑色"
@@ -1114,7 +1096,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	5BA1E70349AA6829105FC5BC9FE8120E = "该死的异虫蝇盯上你们了，小队。最好挖个洞做好准备。"
 	420849BD49899A90B6645A99217B21B0 = "噢老天啊，是三提石矿脉！快，把那些激光架设好！"
 	70DECDAF4A9B608D5B204BBC893E25F7 = "老天在上，快让这些该死的东西解脱吧！"
-	9EA40C7E43639C7D219DF1B285C15174 = "该死的早说了，我们要团结起来才能存活！"
 	A668D8FE4CDEE136A8D265BACE63707A = "炸飞它，博斯科！"
 	2955C488484EE952E901AEA56D051C9A = "穿透"
 	0845B0AF4C9A5C5B33A9C5906DCD1AE5 = "贯通弹"
@@ -1133,7 +1114,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	66CC85DD4E5D3550FE6424938DEAD7CC = "小型炸弹"
 	204149DF418515114CD5998CF6F925B8 = "骨头"
 	7E028A1F490F75BB2208EEA22F3916EF = "骨地"
-	E39A2F344D2541CBF0D7D392E375CA68 = "对受异常状态影响目标造成额外伤害"
 	36467CDC4EAA77B59E01BB864C9548A3 = "对异虫的额外伤害"
 	3BEDFA604A0B9EAC6119C1B020A02ECB = "对异虫蝇能够造成额外伤害"
 	204BF7F84097D81E4D9C339777AC6FAA = "对被击晕目标造成额外伤害"
@@ -1210,7 +1190,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	F34606A94E63DDB0F970A9BEF27D8B36 = "编扎双辫"
 	64998A7F4942196B1F339DB9AA05D32E = "系扣山羊胡"
 	FAFB5ED44D73B82AB4E74ABB59133717 = "系扣山羊胡：镀金"
-	7404A07B4FAA01B28AD9699C9084A293 = "系扣山羊胡：钢铁"
 	EF3D90C54A5938C0CC6273B63FBF6D43 = "捆扎单辫"
 	73CB3E624C2DD504204696B9BD45A3FB = "捆扎单辫 - 覆甲"
 	5F72C9644E82943BF26C83BC911DA778 = "捆扎单辫 - 镀金"
@@ -1288,7 +1267,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	307F0D05499D63E0944D719CADEBDAAA = "虫群来了！准备好！"
 	00141BF34BF3C64ED43DD08A1EF871B0 = "搭建"
 	93691B8445BD80B844D432A8BAE2FE83 = "搭建"
-	0E2F48804ABB9F559C265BB94FBFDB7E = "搭建提取器"
 	47E18A154D5BE9CBA34229B325A0D10E = "建造管线"
 	72ED6BA449D8DD773694629F44160D98 = "建好每个节段"
 	DBA09C7A479FBCEF308DB2883E9C15EF = "建好它！"
@@ -1319,7 +1297,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	9A3AE0AC4B0543EC9AC773AE3CA67138 = "仁慈超度"
 	68A70462405EC8C030B90B9A461AFA96 = "子弹弹跳射中附近目标"
 	569E41784D01F681AE82818F1FC12017 = "子弹从表面弹跳射中附近目标"
-	A0C414D04966A137F55EA8AAF8285995 = "具有穿透效果的子弹会射穿第一个目标并击中它后面的目标。"
 	4CE2C4CB475B5170B2424D8681F865D7 = "正中靶心！"
 	48ADEE6B4072136CBAEC84B5A63830EA = "一群慢手慢脚的，哈！"
 	B49021B04F460AE388A347B6B7D6BBB1 = "湮灭"
@@ -1476,11 +1453,9 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	7BAF9D2B4818411D661824A25964C62F = "买不起"
 	234C91DC4ECA1331302DD8B1616804EC = "不敢相信我刚干这活的时候是有多菜……"
 	AC089C4A4EE48B982319D08CCF89EE77 = "不敢相信他们能让我关心起收集植物来……！"
-	042283CD4DF6E0F846482B9D5CCE2908 = "不能呼吸了……空气有毒！"
 	CBC1182345E6313694B0DFB52B7976E8 = "带不了更多啦！"
 	E2B17D4F4958B568729B6A8B87949191 = "带不了更多啦！"
 	FE21EA0942AE111E8B3E339806DA3B0A = "带不了更多啦！"
-	7BE484F54F47A29B851D70A7126E47A6 = "做不到，角度太大了！"
 	C2E1765A46C3D612EE1E579536691BDA = "瞄准射击时不能移动"
 	CBED47D7451669436CA9E8AE04F264D1 = "开火时不能移动"
 	C736203A484BC10F99649D914F76EA7F = "动不了！ "
@@ -1733,7 +1708,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	8B822AB84AB570127A9AFDB23F2348E0 = "收集 {amount} {resource}"
 	2C2AD3B542580D19302C62A1C1DB9E0B = "收集 {resource}"
 	003C4BC04B677DEFD1D91AB5372C67F0 = "泰然议员"
-	FFB7187844A39DE2FF16C68CEAE0A88F = "收集到的<bold>硝石</>可用于<bold>补充</>自己的<bold>武器</>、<bold>手雷</>和<bold>工具</>。这种<bold>红色矿物</>可在所有洞穴系统中找到。尽可能多地收集并储存起来。"
 	AFAE5A7B4AFBFFC17DC2FF891B4E6806 = "硕大"
 	8E22419442D0FF962B5BC69602CD6666 = "巨型根茎"
 	4126990446E4412E7F139181D9C7F566 = "战斗"
@@ -1830,7 +1804,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	883FD05C44450873201C129F64E97F18 = "完成 {value} 个“挥发性照明弹”警告"
 	0FA5EB724E4928BBEF5657A72B574C8F = "完成 {value} 个外星虫蛋收集任务"
 	6DDD9F154D878163FE0243A772EF7946 = "完成 {value} 个彼岸花收集任务"
-	B05D59764DD91F23B20831A678E5F652 = "完成 {value} 个辛宝石收集任务"
 	C87C92074888FF9A21E9A28E4BFF556A = "完成 {value} 个布洛蘑菇收集任务"
 	9C94EA5F498032458D0DB8B025BF1469 = "完成 {value} 个异镝收集任务"
 	1664C63D41173FAA56131F896BA2463E = "完成 {value} 个硬胶果实收集任务"
@@ -1957,7 +1930,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	AED1150647433F7001EA0B82633B9FAA = "收到坐标！我们从里面得到了一些非常奇怪的读数——我们正在发送纳米子母炸弹，帮你打爆她，你的枪毫无用处。"
 	94359FDC44CF0E9F8FD551BBE8CF6295 = "坐标已传输！该确认一下我的地形扫描仪了！ "
 	BC783B7C43B2746F78E59AAB216E4B24 = "吐舌珊瑚"
-	51926C80471F5D4B9A2A3F97103CBA3E = "坐标已传输至地形扫描仪！来找到剩下的装备吧！"
 	79DED51A4990B36C17290E9E277D3BF3 = "核心"
 	D947828146DC3C1A2364C7B821B10104 = "核心灌注器"
 	886D1D5C47973CC583C8D9B8132B0128 = "这里有核心灌注器！"
@@ -2073,7 +2045,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	3E65DBB64D8E8EC8AEA63ABA752165F5 = "晶体构成"
 	5AF3719C405012A30245C2AF9EEDB9A0 = "水晶爱好者"
 	5244E5C3404DAEF1C8AB568165EBB4A1 = "该区域遍布着水晶群。一些水晶有着发光特性，一些能够释放出电涌。"
-	A7B91E80417B52C49FE18DB25B22C213 = "已完成水晶洞穴任务"
 	03AB4CE04BB287784E9F78A1343E9F1A = "水晶洞穴"
 	693BF19C4B62AF447AF28694BE933786 = "水晶洞穴"
 	80D28714487FE284DA6B7ABDE9B0879C = "水晶洞穴"
@@ -2187,7 +2158,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	4C998E0146EE35AC0469DF9C8765E292 = "损伤已修复！ "
 	1C83E43C44562D584DD7F0842EBD83B8 = "对触电单位伤害"
 	4EC29C8D450629F606642DB20C059C33 = "对触电单位伤害"
-	692C536E46A3158DD10DA385DC1A2943 = "对异虫伤害"
 	856164F147B4CF0422EFBCA90AB51F9B = "该死，我需要钱！"
 	D182A7694889A5498EF8ACBC80C26A6A = "该死，我的内衣才刚干……"
 	A02C0CD1421E96A192386FB1CC0C5E6C = "该死的硬胶果实只能用十字镐敲开！"
@@ -2456,7 +2426,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	939013ED4F41A07C8667A9B398E3FB94 = "这会通向太空钻台吗？"
 	247E527C43DD14ABAC671A95E7711638 = "拱顶"
 	5E74E6ED470F09DA350E0BA7E59C981A = "Dominik Stau, Cody Barnes, Jake, Mathias von der Heide, Kert Tin, Stefano Giacchetti Aravena,Jacen Toal, brent B., Jon Navarro, Kory Small, Isabelle Chan, Jonathan Marquis, Tristan Caron, Timothy Mackenzie, Paul P, Julia V, Timothy Mackenzie, Asher Blair, Stijn van Rijen, Christopher Allan Walker, Evan Gradzewicz, Maxime Riou, Dominic G, Ludovic Hamelin, Mark Haseley, Timo leander spykman, Jestin Edward Mammen, Michael McDougall, Sivokho Dmitry, Theodor Heiling, Nikita, Dexter Spenik, michael harrop, Ben Llewellyn, Cory Watts, Nathan Williams, Luke McComas, James, Christophe Mateos, Jordan Thomas Brockway, Jaimee Lavery, Callum Newman, Michael Deskar, Ron Moshe, Bo Yuan Zheng, Danniela Goes, Ricky Spence, William Freeman, Will Pritchatt, Felix Schiller, Erwin Bell, Erik Stüwe, Colton williams, Artem A. Dedov, Alesh Holubec, Matej Vlk, Lim Zi Hao, MIguel Angel, Rafael Aragão, Philip Mørch 和更多人……"
-	B219BE384F814BFA0BE202916D737E46 = "不要太靠近，虫群会咬你的！"
 	3CC4CBB746B272D2215134A5F728BEA4 = "不要太迷恋这个了！"
 	1AD1206B472E1D5F65809BB04E039AC0 = "没有空间了，装不下了！"
 	3D671FEE48E3B9B92C65588BF9523D9C = "没有空间了，装不下了！"
@@ -2491,7 +2460,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	1506799648684196EA5CC69933138BE0 = "朵蕾塔正像小猫一样呼噜呼噜叫！"
 	01C86E1744DF30020A1160B46457A56D = "朵蕾塔在遭受攻击！ "
 	E7C04E044DD4085C87F395A83F693483 = "朵蕾塔开路！保持警惕，保护她就像她是你们的亲妈一样！"
-	262C1EE144AEEB1F86F0DE87ADE3AC50 = "朵蕾塔需要维修！"
 	4CA8A8144888AD24CC5D8096FA9637D9 = "朵蕾塔已修复！ "
 	831A560A492A5CEBD94C19B599F339D1 = "朵蕾塔这样撑不下去的！"
 	DC46F1364F49A90289EFEF876C151E7B = "朵朵修好了！"
@@ -2629,7 +2597,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	BE15AD434664599A8929698AE29DA3E4 = "矮人不用瞄准辅助。但是，加点AR并不会缺胳膊少腿。呃，至少对那些拿枪瞄准的用户来说，对被瞄的家伙而言可就不是那么回事了。"
 	951EB317411F0BE3BD501785D5D13CD0 = "动态"
 	18300C0C47C8645278AA8D918484604F = "动态稳定"
-	811989C5423687F09EC2028ADC81DEA4 = "动态稳定"
 	785E622B47393CFF669E4AAD294EF7B4 = "异镝"
 	D5F706614CEB09B2DC730791C4E58B4F = "已完成异镝次要任务"
 	BAFF6FF24F171D41C3301FB516AC56F1 = "已收集异镝"
@@ -2665,10 +2632,7 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	549595484CBC60678D58B3ABD575C24B = "呀── "
 	8DE93F804D286AD244AC3C9C30966097 = "呃 "
 	14372B974C7C0643FBA3A6A7D8079483 = "土壤"
-	2F8BB18744DB3F9AFB75FFA5D16EADE7 = "轻而易举，小菜一碟！"
-	C7C1B4AB4951ED48CDBA669F74420E2C = "轻而易举，小菜一碟！"
 	1A65FD6A4BB7788AF2E4778841F6983D = "轻而易举，小菜一碟！"
-	06A3915F42002FD4D8BC1CB29B175277 = "小菜一碟！"
 	2D0D0F2C49874BC4C64011B6A247DFFF = "吃我一记！"
 	3C03FEDC441AFF683A5F8C8FD52AE9A4 = "吃我一记！"
 	3760C8C349C949A4A3D5EC9F9C8A09A5 = "吃子弹吧！"
@@ -2735,7 +2699,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	919B41104D64A0A7189D5EB00BEA70A5 = "元素绝缘"
 	BAA3D81347FC18A43AF779A445EC7AF0 = "小意思。"
 	66531B80451A05E8E86825B1889C36BD = "巨象弹药"
-	26C533DD49DAFF73133D958D5F234AE7 = "触电几率"
 	ABFDF71A4202784DB6B7E3BD8A247E50 = "高地"
 	1BBA6A92410AA32B9E70CCA81912F970 = "植物电梯"
 	B636802B447B3BD2406A0481871BC7D9 = "满足晋升条件"
@@ -3528,7 +3491,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	F5CD873D490CEA95217CA497B45AB6F2 = "荧光树"
 	26F9EDEF42CC2F9965D9A897052C5535 = "荧光"
 	8707365348F9DE561F41489C63A69173 = "荧光植物"
-	1B5C4A4040B223424D25698737E369A6 = "给每人都点上异虫龙舌兰！……现在是一发入魂的时候了，耶啊！"
 	982AF46A48E701384C5F98A182112822 = "酸液虫后"
 	07354CFF48694F6D7AC6C5B6F916FD6C = "吐酸异虫"
 	78A1347C4F52EE7C46C0B2A20817600D = "异虫母巢"
@@ -4003,7 +3965,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	AB3ED9464C50AA5F4D4FE19250336883 = "我们上！"
 	BAC4C47E410D05AD9CB737BB20086067 = "好戏开场了！"
 	EFE4C0CD4894D5F63EE58C852EF22D50 = "我们引爆吧！"
-	037AF2504BEE2C3B572171819CEB44C1 = "走起！螺旋钻地机正在向奥魔兰心之石出发！"
 	5470D5C548035FF52A25618C3F794839 = "在这里我们缅怀逝者，那些真正致力于为深岩银河集团奉献的人。这个庄重的场所也是矿工<bold>晋升</>的地点。"
 	A55D1547419BAE9E355D2ABADCBD53BE = "这儿！"
 	0950F10E4B9516FF9FF0949EBDB442A7 = "来吧！吃我一颗子弹！"
@@ -4223,7 +4184,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	3A40C7D44620A12AA1F8C3AAA729DC87 = "我能闻到酒香了……！"
 	EFF3D4BF425A3CAFF06919AA745BCC9B = "我能闻到酒香了……！"
 	EF4773074F70EF1EBDEE5085ED0A53E6 = "我需要你的幫忙！"
-	89DBCAA142A74A91D0F05482F091035E = "我不能呼吸了！！"
 	06E72B7145794EFF694230B533A19B6D = "我已经装不下了！"
 	C6FA32CC40F3FCE020A71EA011EF966B = "我已经装不下了！"
 	D1E0B9C245BA0F50DBBDCABB45D1CCDF = "我已经装不下了！"
@@ -4410,7 +4370,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	C3D036AF4E3AFAC978CF8B8C123B7B51 = "我再也不想见到这种事了！"
 	775C0A844B562CADD567AC88ED521D21 = "我要叫你史蒂夫！"
 	C6E7D8584705CFE7CC108F9FABE19567 = "我要窒息了！ "
-	563EDBCC47B2B2EA8260C79747B505E1 = "我要死了……不能呼吸了！"
 	E79F65E34E479C605277368690D821BB = "我要把你们统统杀光！"
 	489747844958508184156BB9103DB039 = "我穿这个要看起来超棒！"
 	1178BE9344DEDABCDDB56285A30B97C7 = "我需要更多照明弹！"
@@ -4544,7 +4503,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	F90FC0F748D1AE8E18D45AA7F0D6FF03 = "冲击战斧"
 	41FAB0884137521FEC24E4B580E0C2CD = "冲击战斧！"
 	0733C16D4153DC823A1DC3B01AA4F68B = "冲击范围恐惧"
-	CE9550DF48D55757CFC961830BD0F499 = "无可挑剔的工作。你正取得良好的进展，管理层向你开放了执勤护送任务。很少有矮人能达到这一步。"
 	1D2DAB3B4A255077E8F5BEA6D62DC992 = "无可挑剔的工作。你正取得良好的进展。很少有矮人能达到这一步。"
 	301B9EE94301F8B5D3A32BA6A56FA93A = "残缺"
 	21F5887C432B0BA342DF618913B4D4CC = "看不见了！"
@@ -4858,7 +4816,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	3ACAE4AF402D8F62564994983E525DE5 = "干得漂亮！已启动矿骡的按钮。把所有东西都安全带回去，伙计们！"
 	B25B1BB64E6F4F7DF0860EB2868EA5BD = "做得好。我很高兴地通知你已获准使用 BRT7 连发手枪。小心使用。它的不确定性不输它的致命性。"
 	6B89030548788F96B398CDA0A3CFC160 = "做得好。我很高兴地通知你的武器许可证刚刚升级，可用一套成双的朱可夫 NUK17。用起来不完全复杂，但也许复杂性在最近有点被高估了……"
-	DEE0EFC2496C287BB3FB78A75F427980 = "做得好。我很高兴地通知你，你的武器许可证刚刚升级。你应该看看升级终端。"
 	1F05D8E6411C92B6EBF1DFB2C44D0CAD = "加入"
 	25B4DFD84DE65AE763F57B836DF8933A = "加入"
 	865236944672EBC50EC0A5AB96F4F4C6 = "加入队伍可以让你加入一个最多3人正在进行中的任务。 完整的《深岩银河》体验！"
@@ -4882,7 +4839,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 
 同舟共济，绝不放弃！"
 	AC0E11E2443BBB82089071B408C5F8B5 = "愉悦"
-	46AE9892470EF6292357C3BF15D0A162 = "开／关点唱机"
 	1C6D3E274B6BFC7EC937B6A2CD0D5360 = "超大弹壳"
 	0A05696842905CDAE9E436A856D458C8 = "跳"
 	5C10457541066C16019647B891018B74 = "跳跳靴"
@@ -4917,7 +4873,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	2E7545FD49D5396AA85A2188CBE23D4A = "收藏"
 	C18F9C124ED8A03200C0D484D990679C = "保护朵蕾塔安全！"
 	765197B54FF7700B26D2A9BAA0D6548E = "与补给舱信标保持安全距离……它们降落时力道很大，而且补给舱造成的伤害不在你的保险范围内。"
-	431F5F284513227CA270709EACFD84AC = "时刻注意<bold>氧气表</>并记得在<bold>矿骡</>和其他设备上的氧气罐旁<bold>补充</>你的<bold>氧气</>。"
 	EED939F94433F592ABB3E39DBF29C74A = "保持距离！"
 	9C461D004AF8CD2809570D887B5983F5 = "保持距离！ "
 	C74AF34444343ECB2CCBBA84A1C146A1 = "继续战斗，伙计们！这波就要过了！ "
@@ -5174,7 +5129,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	C09B96F04618D7DE4A03CF843410341B = "我们……只是……再也别提这个任务了！"
 	9EE7AA5B4E1EC5FF962434BF3DB28C0E = "失望"
 	5BB7507C467F3E167D637E8B5C63DB3E = "致命虫群"
-	10AD5DAA4846E3A637649FB9B98FC0EE = "过来修好这条管线！"
 	5012F691483B7AB23CB0989F8205EB83 = "让节俭的矮人也能经受住最严酷的沙暴和风雪。"
 	733E9A174D7B7A7511A3F99D14E4093D = "我们来夹击这只丑八怪！"
 	4E628CE04A298EAD3BDE06BF30C2E6DC = "在压力仓需要重新加压前能喷射更长时间。"
@@ -5516,7 +5470,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	2A96F3F047586C831CCCCF9605FD949A = "庞大"
 	D369D96C4961A3C8D81009815752D9F5 = "试着不用十字镐采集10000硝石。"
 	BE7220884C71C491BEAA77890F67A888 = "上头会为此收到一封严厉措辞的信！"
-	A14DDD2A44A64E72A7BB928B25831D6F = "管理层相信你已经准备好迎接更艰难的挑战了，你已获准参与搜救行动。不要让他们失望。"
 	B851DBBE406EE060CBF832AF639CF0C9 = "管理层似乎并不关心最近禁卫异虫数量的增加。要靠我们来控制这场瘟疫！星际矿工工会宣布禁卫异虫的狩猎季节现在开始。带回足够多的禁卫异虫的尸体，就会获得奖励。"
 	9AD83E024A02926E0286AFB268763D94 = "管理弹药"
 	59367B3E408977420445739971EEE004 = "强制更新可用"
@@ -5597,7 +5550,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	53B33029474895A6F87077AEB0673E76 = "脏乱鬃发"
 	7C67B7DB4E03E471BEAD5CABB0AF1B97 = "金属复古"
 	0B2E776C45ABE3F6D8377DA58BFCACAF = "细致的密封稍加增加了你每发子弹的威力，细节的考量提升了装弹的体验。"
-	A06B87DB46D60C11078B01B18A33B64B = "微型镖弹"
 	D0E7A47D404F3F8D268B2CAB0CBA1B17 = "微型弹药"
 	9BA45F2246616FBF097730A9B08F2F72 = "内含微型炸药的弹头，当你重新装弹时在命中目标体内引爆。但这些花哨弹药带来的代价是总携弹量和弹匣容量的降低。 "
 	D73084FF49991105E320A392F7529858 = "破裂中途"
@@ -5675,7 +5627,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	7C9DDADD40757985D0955C8003490DFF = "精简弹匣"
 	7291A611480E881E95370D857E5DEFBA = "采矿"
 	B85350774A6AD58B03FB29B9C834A000 = "采矿"
-	939C0B56492B31CB063CFFBE94AFAC10 = "采掘<bold>红糖</>能<bold>回复生命值</>。回复量与挖下红糖的数量相关。"
 	44109652413B689AD07B918FDE5E12EE = "采矿探险"
 	BDB428844B68EA8289C3F5A5A4A5EDFC = "采矿探险"
 	234BEC3A45FFDA5A00500E92020897ED = "已完成采矿探险任务"
@@ -5686,7 +5637,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	B21C881643545BBE2B3BCEBB0995B682 = "采矿激光"
 	4698DA944F4015FABA13E59A279D21F4 = "挖掘速率"
 	CA59811F43BB8B6C416C80A36DB697C9 = "采集资源"
-	E3AFDB7B49A05B673B30E594E28A22A4 = "令人沉醉，狡猾的老狐狸。"
 	ABE5BDFA4EFF6E4A92893FAB0942962E = "薄荷突袭"
 	151551B348D0C298E08307A96FF9F44B = "杂项"
 	DB71FB074900D1699DB701A60FED5906 = "杂项"
@@ -5894,7 +5844,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	829D7D4D43C14CDAB4C4B883BFBEB5C8 = "饲育水母已击杀！"
 	59F93C7E4F93D74F2E8C5E89FCB910BC = "饲育水母已消灭！"
 	2BBB86D74B4007345E5FE59A303DD561 = "饲育水母！"
-	A51FEF44428231A107771D800F3972FD = "纳多赛特饲育水母作为纳多赛特水母集群的母舰而存在，为周围的纳多赛特水母提供持续的精神链接。众所周知，它们会长距离地来回行进，检查它们无数的产卵点，表现出霍克斯星上少见的庄严和温柔。然而，它们持续而大量的产卵行为对深岩银河集团的采矿行动造成了直接威胁，任何纳多赛特饲育水母都应在发现后马上消灭。此外——不看外表，它们洒上柠檬汁后十分美味。"
 	877DA7B04E1FCD243FCFA8A634121CB0 = "纳多赛特巡游水母"
 	EF6198904551C4B78A83A19B6EDE26D6 = "纳多赛特水母幼体"
 	F39DD3C940A4BA9F0EC6B0AD6B5EAE02 = "纳多赛特水母卵"
@@ -5925,7 +5874,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	FFE3D88046A9977221BA8CB8C1903829 = "针头"
 	D6947EF547F51A21D8988FA813824289 = "需要组装！"
 	43AE6D04438FF41B7F99D3B5DE936055 = "需要玩家等级{Rank}"
-	61358DCA4BD43D2CC349C69703C879C1 = "霓虹花园"
 	CD4847444694B90AA8CE828A4FE2A762 = "巢穴"
 	20E1CF614E03E29D731E9A9B2EBF7274 = "网络错误"
 	915F6B12481FEA582EEC4883ADDF6A47 = "神经脉冲<h>半径提升</>！"
@@ -7172,7 +7120,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	47A800B348C8CECFDC057F8805E35316 = "装弹效果"
 	FA15073042C6A8B221E7968C0163401D = "给哨戒炮装弹"
 	682D13CF436099F0AD10D7AA8728DE79 = "装弹速度"
-	F574F1814C42F0BA128C89A41EB22E82 = "装弹时间-0.4秒"
 	14B374BA4708D00AFA2A0FA8C0020C0C = "装弹时间-0.5秒"
 	98AE45944E7E14ED418D48A2B9D4B4C6 = "装弹时间-0.5秒"
 	440B478F419D6481DB93F89547FBE74C = "装填完毕。"
@@ -9909,7 +9856,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	742CBEAC46C0F18D8B99CC9FDCA5C862 = "你能携带甚至更多的弹药，但开火速率需要被调低以避免卡壳，而且在装弹时也需要更加仔细。"
 	3D3C544D44A11B598935C28FA7F84F6F = "你可以携带更多哨戒炮弹药"
 	31F3363F4BF2123346998D856F226E8A = "你能携带更多的弹药加入战斗。"
-	EF7B3EE04D721D4571654288354281AC = "你能命令<bold>博斯科</>完成你<bold>已经放置</>的<bold>管线</>的建造工作。"
 	B86063D14479D051A85F0DA8167C2ADF = "你能命令<bold>博斯科</>挖碎够不着的<bold>油页岩</>以便你在地上用<bold>燃料罐</>收集。"
 	7BAA34654CA10FAE8E75C799C2BF0BB4 = "你嗅到了积极的味道！"
 	5F271ED049C646F5389B62B7732CE103 = "杀死敌人后可以立即快如闪电地装弹。"
@@ -10166,7 +10112,7 @@ Namespace Audio (3 keys)
 	Volume_Music = "音乐"
 	Volume_SFX = "音效"
 
-Namespace CreatureAttacks (46 keys)
+Namespace CreatureAttacks (44 keys)
 	WeakpointAbdomen = "腹部"
 	AttackTypeAcidSpit = "吐酸"
 	SpecialAcidSpit = "喷溅酸液"
@@ -10182,13 +10128,11 @@ Namespace CreatureAttacks (46 keys)
 	SpecialCripplingSlash = "刀锋斩击"
 	SpecialDash = "躲避机动"
 	SpecialExploding = "自爆"
-	AttackTypeFinnTackle = "鲨鳍撞击"
 	CreatureTypeFlying = "飞行单位"
 	ArmorFrontBody&Legs = "身体前部和腿部"
 	SpecialFrostSpraySpit = "喷射冰雾"
 	RangeGrab = "抓捕"
 	CreatureTypeGround = "地面单位"
-	AttackSpecialGroundStomp = "践踏攻击"
 	WeakpointHead = "头部"
 	ArmorTypeHeavy = "重型"
 	SpecialHug = "搂抱"
@@ -10282,7 +10226,7 @@ Namespace MutatorDescriptions (17 keys)
 	M_GoldRush_Desc = "我们发财了！任务区域内遍布着富饶的黄金矿脉。"
 	W_ExploderInfestation_Desc = "你会被源源不断的自爆异虫群袭击。"
 
-Namespace NewStringTable (58 keys)
+Namespace NewStringTable (57 keys)
 	MaltRockbearerDESC = "负岩是一种经典的麦芽酒，带有独特的回味，回味无穷。请注意：管理层不赔偿因享用此饮料而造成的任何衣服破损或声带破裂的费用。"
 	MacteraBrewDESC = "一种令人愉悦、浓郁的啤酒。根据深岩银河集团的“不要问，不要说”的原则，异虫蝇泡酒迅速在员工中占据了突出地位——只要每个人都同意不要讨论其成分……"
 	SlayerStoutDESC = "一款稀有且非常受欢迎的酒。这种令人上头的艾尔传承自有上千年历史的传统，过去只有最强壮、最暴戾、最疯狂的矮人会在自愿前往战场壮烈成仁前喝下这种酒。心脏不够强的人请勿轻易尝试。"
@@ -10290,7 +10234,6 @@ Namespace NewStringTable (58 keys)
 	GlyphidSlammerDESC = "采用廉价、强劲的麦芽酒与同样廉价、强劲的能量饮料大胆混合，结果几乎完全不能饮用。只是几乎而已，至少可以肯定的是它会让你脚下感觉轻飘飘的。"
 	ArkenstoutDESC = "一份能够追溯至千年前的古老配方，品味荣耀、黄金、辉煌的昔日。冷藏至接近绝对零度品味更佳。"
 	BackbreakerStoutDESC = "充满活力的泡沫啤酒，给任何一位真正矮人的血液中注入活力和热情！"
-	BlacklockDESC = "一种不祥的混合物，浓稠发黑，你可能以为它是从霍克斯星本身的核心提取的。任何有关这种啤酒的精神病发作和幻觉的谣言纯属轶闻。起码他们是这么说的..."
 	Arkenstout = "亚肯黑啤"
 	ToothgrinderDESC = "与糖蜜一样稠密、粘稠，磨牙酒会锁住你的下巴并且让你的喉咙收缩。但是除此之外，这是很多人都喜欢的非常美味的啤酒。"
 	BackbreakerStout = "超爆黑啤"
@@ -14022,7 +13965,7 @@ M1000经典
 	Update_31_Shorttitle = "未竟之事"
 	Update_16_ShortTitle = "凛冬已至"
 
-Namespace PerkDescriptions (29 keys)
+Namespace PerkDescriptions (30 keys)
 	PERK_ThickSoles = "<active>主动效果：</>一些弹簧，一些磁铁，一些黑市燃料单元——现在你的<h>坠落伤害降低 {value}％</>！
 
 <hi>冷却时间2分钟</>"
@@ -14039,6 +13982,7 @@ Namespace PerkDescriptions (29 keys)
 	PERK_WeekendAthlete = "腿脚好的才能活命！你现在的冲刺速度提升 {value}%！"
 	PERK_Berzerker = "矮人狂怒！你每减少 {value} 点生命值近战伤害就会+1！"
 	PERK_MarathonRunner_B = "冲刺<h>{float_value} 秒</>后效果发动。"
+	PERK_ExpertDepositor = "专家级矿桶操作！你现在向矿骡和其它存矿点<h>存矿</>的速度<h>提升 {value}%</>！"
 	PERK_BugThing = "不知什么原因，当你在掠夺虫<h>{value} 米</>范围内时它们会原地爆炸……！"
 	PERK_MarathonRunner = "获得 <h>额外 {percent_onebased} 的冲刺加速</>。"
 	PERK_RedSugarRocks = "爱上那东西的味道了！从红糖中<h>多获得 {value}%的生命值</>！"
@@ -14375,11 +14319,12 @@ Namespace StatValues (67 keys)
 	StaggerChanceShotgunWeakpoint = "每发弹丸弱点击晕几率"
 	StaggerDurationWeakpoint = "弱点击晕时间"
 
-Namespace Strings_DLC_03 (4 keys)
+Namespace Strings_DLC_03 (5 keys)
 	Halloween2020 = "2020 万圣节"
 	DLC03_BaseName = "钻井工"
 	DLC03_HelmetB_Name = "钻井工头盔"
 	DLC03_HelmetA_Name = "钻井工头盔 - 17 号太空钻台"
+	DLC03_ArmorDesc = "集团的老手钻井工以重视实用价值而不是防护能力出名。矿下数年的艰苦工作使你养成了这种习惯——既然你才是洞穴里最可怕的生物，为何还要穿着厚重的装甲呢？"
 
 Namespace Techincal (2 keys)
 	ClosedAlpha = "封闭测试"
@@ -14544,15 +14489,10 @@ Namespace Upgrades (22 keys)
 	37D1AC00426B307CE3968B9D6D802AA4 = "每发霰弹射出更多弹丸"
 	8562D934401F0B67D1A3469F6FDE4946 = "减少装弹频率"
 
-Namespace Vanity (32 keys)
+Namespace Vanity (30 keys)
 	CleanShave = "剃光"
 	Armor = "铠甲"
 	ArmorColor = "护甲颜色"
-	PROMO_PXP_B_BACKBLADE = "作为庆祝你晋升的小小纪念，你收到了一个传奇的<highlight2>十字镐后刃</>！
-
-前往<highlight>十字镐终端</>来自定义你的十字镐。
-
-挖矿是需要热爱的工作！"
 	PROMO_PXP_E_HANDLE = "作为庆祝你晋升的小小纪念，你收到了一个传奇的<highlight2>十字镐手柄</>！
 
 前往<highlight>十字镐终端</>来自定义你的十字镐。
@@ -14574,11 +14514,6 @@ Namespace Vanity (32 keys)
 
 挖矿是需要热爱的工作！"
 	PROMO_PXP_D_SHAFT = "作为庆祝你晋升的小小纪念，你收到了一个传奇的<highlight2>十字镐杆身</>！
-
-前往<highlight>十字镐终端</>来自定义你的十字镐。
-
-挖矿是需要热爱的工作！"
-	PROMO_PXP_A_FRONTBLADE = "作为庆祝你晋升的小小纪念，你收到了一个传奇的<highlight2>十字镐前刃</>！
 
 前往<highlight>十字镐终端</>来自定义你的十字镐。
 
