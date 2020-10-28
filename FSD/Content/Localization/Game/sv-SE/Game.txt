@@ -1,8 +1,8 @@
-5837 entries
+5830 entries
 27 namespaces
-4669 values
+4664 values
 
-Namespace Global (5530 keys)
+Namespace Global (5524 keys)
 	2559D78C40005E5221F26093CB976283 = " Samla {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Jag föll!"
 	31D60A1449082F9AB6DC15844F3810F6 = " KRÄVS"
@@ -4789,7 +4789,6 @@ Arbetarmanualen - lämna aldrig rymdstationen utan den."
 	0B341780426D5E08CF8361A16B7DB179 = "Radarn lös precis upp som en julgran. Vi har en svärm på ingång!"
 	D513566A466E768AE0768BAEA3C2EFA5 = "Sätena i borrkapseln är endast avsedda för anställda - inte tunnor."
 	0BA570FA44694F4556C5EC91253A803B = "Sköldens skyddande egenskaper dröjer kvar i några sekunder efter att du lämnat skölden."
-	13A7493341574488AADC3FA96DBFA08D = "Tryckvågen från explosionen gör extra mycket skada på fiender som har oturen att befinna sig inom fyra meter framför dig."
 	0CB8D7364953B6F828D4228EF06950BF = "Lukten. Den kvarstår."
 	C9717D60437F9175FCF297A5BB04B8C1 = "Strömmen av inkommande fiender är praktiskt taget utrotad, och du lever fortfarande. Bra jobbat!"
 	A6A1B8604498416ED8688BA6230F6489 = "Svärmen är över er!"
@@ -4815,7 +4814,6 @@ Arbetarmanualen - lämna aldrig rymdstationen utan den."
 	6C8B8A6145F2B87F8F18A3881EBCD6E6 = "Det är guld!"
 	7DC3D62B45E0FE541F5CECB5E8A4112B = "Det finns morkite här!"
 	BF82353C4DF2AEC04A1CC09852031E50 = "Det finns nitra här!!"
-	2AEE06DE4E691ACFD84C3CA4DFD180FB = "Det finns opaler här!"
 	CA5837BE41D42E5AB872CC87497A11B1 = "Det finns rött socker här!"
 	803B24F140E01AFC0238C48A530C9C4A = "De är här! Praetorianerna anfaller!"
 	B26723E24C1D0E6C9FEEB1BCE8DC6D07 = "En booloskivling här!"
@@ -4894,7 +4892,6 @@ Arbetarmanualen - lämna aldrig rymdstationen utan den."
 	5DC5353A4676BB728CDFDB9050074324 = "Kastar"
 	228FFFE8412471343DCD38A2538B7CB7 = "Kastar en glödhet sak!"
 	AEB89F3040247BC5A3981DBA23988C1C = "Åska"
-	2E2F326447D730B9946D0B8570DFCD62 = "Tätare Pip-tolerans"
 	588219C44B3FA854B29B3B9F02346333 = "Tid"
 	72316A1C487FF32133933791C6C727D1 = "Tid"
 	9984F05246B50D351B3ABA93CF9F20B2 = "Tid"
@@ -5172,7 +5169,6 @@ Arbetarmanualen - lämna aldrig rymdstationen utan den."
 	0E59A0C340A3031CDB9140ADD7D48696 = "Instabilt Ämne"
 	6A968257449EC187B7DC4D86058F66A0 = "Volatila bloss!"
 	5C720F284C07C251C26A7B85896D8130 = "Instabil Mage"
-	307136AA4250C62849665ABB8654CFDA = "Intabilt Ämne"
 	6A7BE15848AA8D16105BBAB98413374B = "Volym att dö för."
 	A795C1634FE69D23165C53950AA6DB57 = "Volym att dö för."
 	304BA6E94038D292F1D38381696E66F4 = "Röstning avslutar om:"
@@ -5416,7 +5412,6 @@ GRATULERAR!
 
 <Highlight2>OBS:</> För att använda en förmån, välj den vid <Highlight>UTRUSTNINGSTERMINALEN</>."
 	C6A6D20E4ED562D8439BED97E9794AF4 = "DU MÅSTE SLUTFÖRA ETT DJUPDYK MINST EN GÅNG"
-	83B9DD44487026D74AF2DE9404E101F3 = "DU MÅSTE ÅTERHÄMTA ALLA TIDIGARE UPPNÅDDA MILSTENAR OCH ÅTER KÖPA FÖRMÅNER FRÅN STATISTIKTERMINALEN!"
 	48F40A8A4EBAD1ED2EAD9197FA9E1762 = "DU!"
 	2434A8E84FBF54C179E539B29D706516 = "DITT KAPITEL"
 	7DAB192F4CBCC4D12778E1831C328F25 = "DIN DEL"
@@ -5482,7 +5477,6 @@ GRATULERAR!
 	35CC851741DAC42CABD91A8ADFFEA2D2 = "Ni måsta stanna inom trianguleringsområdet! In med er igen!"
 	8771EC024183E2E67E167B93FBD8696A = "Du får 25% av allt det du har samlat sen du anslöt till server. 
 Detta är lika mycket som ett misslyckats uppdrag."
-	23313371479A1EDF37E8A1BD31FF285E = "Du borde inte äta värdefulla mineraler! Det kommer ta död på dig!"
 	2C2116CF45A3A253EFA883B5144761FF = "Du bör inte ha tillgång till detta. Vad är det som händer?! O_O"
 	2161E24842AF7A087271D893471F6192 = "Din hala j#!el"
 	09E19EC14796CA519AE7F5B91E9C3F50 = "Se upp i backen, tusen hål i nacken!"
@@ -8321,7 +8315,7 @@ FIXES AND IMPROVEMENTS
 	Update_29_Header = "UPPDATERING 29: BÖRJAN PÅ SLUTET"
 	Update_9_Header = "UPPDATERING 9: BORRAR DIG SENARE! - 09.03.2018"
 
-Namespace PerkDescriptions (28 keys)
+Namespace PerkDescriptions (27 keys)
 	PERK_ThickSoles = "<active>AKTIV:</> Några fjädrar, magneter, och bränsleceller från svarta marknaden - nu tar du <h>{value}% mindre fallskada</>!
 
 <hi>2 minuters väntetid</>"
@@ -8350,7 +8344,6 @@ I detta tillstånd rör du dig <h>snabbare</>, <h>slår hårdare</>, och har <h>
 	PERK_CaryingSpeed_B = "Inget kan stoppa dig! Effekter som hindrar din snabbhet <h>reduceras med {value}%</>!"
 	PERK_Resupplier_C = "Få {value}% mer hälsa när du fyller på ammo."
 	PERK_ZiplineSpeed = "Genom några fiffiga justeringar rör du dig nu {value}% snabbare på linbanan!"
-	PERK_FriendlyFire = "Genom vänskapens kraft både <h>tar och ger du 50% mindre skada</> från vådabeskjutning!"
 	PERK_FlareThrower = "Du <h>kastar bloss med {value}% större kraft</> än en genomsnittlig dvärg! Woosh!"
 	PERK_BarrelKicker = "Du kan sparka tunnor hårdare än de dvärgar som saknar denna förmån!"
 	PERK_CarryingSpeed = "Du rör dig <h>{value}% snabbare</> medan du bär tunga saker!"
