@@ -1666,7 +1666,7 @@ Namespace DatasmithActions (3 keys)
 
 Namespace DatasmithActorImporter (5 keys)
 	MissingClass = "{1} 액터를 스폰할 {0} 클래스를 찾을 수 없어 기본 액터를 스폰합니다."
-	FindStaticMesh = "{1} 스태틱 메시 액터의 {0} 스태틱 메시를 찾을 수 없습니다."
+	FindStaticMesh = "{1} 스태틱 메시 액터의 {0} 스태틱 메시를 찾을 수 없습니다."
 	ImportActorFail_Scale = ""{0}" 액터 임포트에 실패했습니다. 스케일 값은 0입니다."
 	MissingHierarchicalInstancedStaticMeshComponent = "{0} 에 계층형 인스턴스드 스태틱 메시 컴포넌트(Hierarchical Instanced Static Mesh Component)가 없습니다."
 	MissingStaticMeshComponent = "{0} 에 스태틱 메시 컴포넌트가 없습니다."
@@ -2170,7 +2170,7 @@ Cmdline = {0}"
 
 Namespace Engine.BufferVisualizationMaterials (24 keys)
 	BaseAmbientOcclusionMat = "앰비언트 오클루전"
-	BaseAnisotropyMat = "애니소트로픽"
+	BaseAnisotropyMat = "애니소트로피"
 	BaseColorMat = "베이스 컬러"
 	BaseCustomDepthMat = "커스텀 뎁스"
 	BaseCustomDepthWorldUnitsMat = "커스텀 뎁스 월드 유닛"
@@ -4140,7 +4140,7 @@ Namespace MaterialShaderQualitySettings (8 keys)
 Namespace MaterialShared (30 keys)
 	Albedo = "알베도"
 	AmbientOcclusion = "앰비언트 오클루전"
-	Anisotropy = "애니소트로픽"
+	Anisotropy = "애니소트로피"
 	BaseColor = "베이스 컬러"
 	CustomizedUV0 = "커스터마이즈드 UV 0"
 	CustomizedUV1 = "커스터마이즈드 UV 1"
@@ -5422,7 +5422,7 @@ Namespace RawInputPlugin (30 keys)
 	RawInputSettingsSection = "원시 입력"
 
 Namespace RayTracingDebugVisualizationMenuCommands (21 keys)
-	Anisotropy = "애니소트로픽"
+	Anisotropy = "애니소트로피"
 	Barycentrics = "무게중심좌표"
 	BaseColor = "베이스 컬러"
 	BlendingMode = "블렌딩 모드"
