@@ -1,6 +1,6 @@
-8889 entries
-987 namespaces
-7064 values
+8888 entries
+986 namespaces
+7063 values
 
 Namespace Global (561 keys)
 	111212DB46349A8A1F45339CED4FCA8A = "   CtrlキーとLキーを押しながらマウスを動かして太陽を移動させます"
@@ -1047,7 +1047,7 @@ Namespace AssetTypeActions (306 keys)
 	ConvertToVTDlgTitle = "VTに変換"
 	ParticleSystem_ConvertToSeededTooltip = "このパーティクルの全モジュールをランダムなSeededモジュールに変換する"
 	Texture_ConvertToRegular = "通常のテクスチャに変換"
-	Texture_ConvertToVT = "仮想テクスチャに変換"
+	Texture_ConvertToVT = "バーチャルテクスチャに変換"
 	ParticleSystem_ConvertToSeeded_SlowTask = "パーティクルをSeededに変換中"
 	ParticleSystem_ConvertToSeeded_StatusUpdate = "{0} をSeededに変換中"
 	Texture_ConvertToRegularTooltip = "このテクスチャが仮想テクスチャの場合は、通常の 2D テクスチャに変換します。"
@@ -5327,9 +5327,6 @@ Namespace NiagaraMeshRendererProperties (1 keys)
 Namespace NiagaraPlatformSet (2 keys)
 	QualityLevelAll = "すべて"
 	QualityLevelNone = "なし"
-
-Namespace NiagaraPlugin (1 keys)
-	NiagaraSettingsSection = "ナイアガラ"
 
 Namespace NiagaraRibbonRendererProperties (1 keys)
 	InvalidMaterialMessage = "マテリアルが"ナイアガラリボンとともに使用する"としてマークされていません。"

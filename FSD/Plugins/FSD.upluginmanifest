@@ -744,32 +744,63 @@
 			}
 		},
 		{
-			"File": "../../../FSD/Plugins/Runtime/SteelSeriesGameSense/SteelSeriesGameSense.uplugin",
+			"File": "../../../FSD/Plugins/SimpleUGC/SimpleUGC.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
 				"Version": 1,
 				"VersionName": "1.0",
-				"FriendlyName": "SteelSeries GameSense Client",
-				"Description": "Enables support for SteelSeries GameSense",
+				"FriendlyName": "SimpleUGC",
+				"Description": "",
 				"Category": "Other",
-				"CreatedBy": "SteelSeries ApS",
-				"CreatedByURL": "https://steelseries.com",
-				"DocsURL": "https://github.com/SteelSeries/gamesense-sdk",
+				"CreatedBy": "",
+				"CreatedByURL": "",
+				"DocsURL": "",
 				"MarketplaceURL": "",
-				"SupportURL": "https://support.steelseries.com/hc/en-us",
-				"EnabledByDefault": true,
+				"SupportURL": "",
 				"CanContainContent": true,
 				"Modules": [
 					{
-						"Name": "SteelSeriesGameSense",
+						"Name": "SimpleUGC",
 						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Mac"
-						]
+						"LoadingPhase": "PreLoadingScreen"
+					},
+					{
+						"Name": "SimpleUGCEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "PluginBrowser",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Plugin Browser",
+				"Description": "User interface for managing installed plugins and creating new ones.",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc. and Karol Szyszka",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "PluginBrowser",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
 					}
 				]
 			}

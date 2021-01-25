@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 6164717120070208221 / 12/14/2020 22:59:57
-Total number of files  : 115
-Total number of chunks : 2049
-Total bytes on disk    : 2014054974
-Total bytes compressed : 1728074512
+Manifest ID / date     : 2052407813563063061 / 01/25/2021 14:27:48
+Total number of files  : 117
+Total number of chunks : 2240
+Total bytes on disk    : 2216101503
+Total bytes compressed : 1924618640
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -118,7 +118,7 @@ Total bytes compressed : 1728074512
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64
         847440      1 F0103C77E4E3FB5640A6D01A79644A8CFC5E4EED     0 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/Win64
-      18027008     18 120CF567ED5468BE616510D6743F76643A1D88C8     0 Engine/Binaries/Win64/CrashReportClient.exe
+      18033152     18 C627CF94B6A687007FA80025C4C1617BC24CEEB8     0 Engine/Binaries/Win64/CrashReportClient.exe
        3693568      4 C2051E1573CCAA942FB4FF043386C989DF2DBF7E     0 Engine/Binaries/Win64/UnrealCEFSubProcess.exe
              0      0 0000000000000000000000000000000000000000    64 Engine/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Content/SlateDebug
@@ -133,12 +133,12 @@ Total bytes compressed : 1728074512
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content/Paks
-      21387592     22 01FA44F64DA2A94A6F5F813785F39C79C967396B     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
+      21387592     22 2376234EB5D6363E4C0CAE1CA9F353F629B3CDFE     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
              0      0 0000000000000000000000000000000000000000    64 FSD
-        517632      1 4918FB25FEE707B18AFFF1E348C023C79C62CA11     0 FSD.exe
+        517632      1 830FE0DAD6958D5FA39E20ACE4BFFC581A79BB3C     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      78205440     75 246CFC54947F301ECC7B5C90CC075533D022C975     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+      78888448     76 8F7883EC8FE9F21211B8AF45492561B924B35478     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
        4327248      5 031766199999581C94CE46188777D3FBDA9E31D7     0 FSD/Binaries/Win64/dbgeng.dll
        1369936      2 EC3A7FD5861447D615968C51E507CD376A48BD6B     0 FSD/Binaries/Win64/dbghelp.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
@@ -151,16 +151,18 @@ Total bytes compressed : 1728074512
        4873431      5 22A36E73E654D66B5D15792C3BCBD2493616BAE0     0 FSD/Content/Movies/DRG_LogoIntro 720p30.mp4
        5000845      5 425290B20633D0E68067E237EAFCBC7F30A252AC     0 FSD/Content/Movies/DRG_LogoIntro_Lower_Sound_720p30.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Movies/DeepDives_Biomes
+      36457702     35 5E07D539B18EBE52A254566CDA5979FC0152E1D2     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_AzureWeald_01.mp4
       30462382     30 2AA73AE0D1BAC3D56CCE9AB8F69F10D8F7F4A2C7     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_CrystalCaves_1.mp4
       25150006     24 DDC83F67007BE0B7B793E62F8D82F6817A00B725     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_DenseBiomZone_7_RSZ_Adjust.mp4
       25424272     25 7777E510F6C4EBFA76FCF4C9AE64899C8D4418B8     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_Fungus_03_Adjust.mp4
       33868270     33 3B7B3296A9F8CCBB983823940D2D9131D9974068     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_GlacialStrata_2.mp4
+      37645549     36 8C49B73AC02F14317F103C0DA43721A340F8EF98     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_Hollowbough.mp4
       30475543     30 10C2BBC651D231707934BA8DFDB63AF6D801F2E7     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_Magma_3_Adjust.mp4
       22504710     22 19B13E249470E55615D7F0C27AF0F010655B6C1D     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_RadioactiveZone_02_adjust.mp4
       23800867     23 FFEBCBFD6DEFFF1C7A57F684A2626420E2A67AC5     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SaltPits_New.mp4
       25906254     25 F9D9627C3B1C996F0A8DDF433368E89398C781CB     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SandblastedCorridors_3_BrightnessUp_adjustcolor.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-    1264146318   1257 EA2EA852C3866EDAB5BAF2B0D8D2D75495691ADD     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+    1391400260   1376 2F9864F47C3833E53111B0AF842CACAC69A2C1AE     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins
@@ -175,5 +177,5 @@ Total bytes compressed : 1728074512
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64
         400392      1 0B9715D71EF16CA7EA9DDA0BAC6A3944CFA01955     0 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64/discord-rpc.dll
-          1216      1 F402A26A17DC0ADA794A26D1AC572E3616E1472D     0 Manifest_DebugFiles_Win64.txt
-          9436      1 C5794BB7BB90A5DBF86B2DE4F97777AD4A574262     0 Manifest_NonUFSFiles_Win64.txt
+          1216      1 AF95BBD5BC20085C5CE1C3DE9E2EBCB9B0085C0D     0 Manifest_DebugFiles_Win64.txt
+          9620      1 BF68896394456F6542A626AE8AA881D896816066     0 Manifest_NonUFSFiles_Win64.txt
