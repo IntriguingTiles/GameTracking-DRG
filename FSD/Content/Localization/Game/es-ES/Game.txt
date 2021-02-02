@@ -1,8 +1,8 @@
 11140 entries
-36 namespaces
-9198 values
+37 namespaces
+9196 values
 
-Namespace Global (10337 keys)
+Namespace Global (10335 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        reiniciar        "
 	C96469B045023AF918296D97182165AB = "        reiniciar        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Caja negra lista y ejecutándose. Perderemos la conexión si no os quedáis cerca, ¡así que intentad no abandonar la Zona de Triangulación marcada!"
@@ -2698,6 +2698,7 @@ Al hacerlo, reemplazará a la acción "{ActionName}""
 	8A3E389643ED5A8452BAA9BCF6FBC2BD = "Perforarás más rápido."
 	FFF44FA643A75D7456070EA053E850F8 = "Perforarás más rápido."
 	97A3653E445548AB98C752BCD03C6AD0 = "¡Perfóralos y fríelos!"
+	6FDF51AA4DEC09E88C4128AE84FE00C0 = "Perforadozer"
 	C7EF5A734349FBDE37BA0696D655661B = "Perforadozer"
 	EA1E2D3E40F486B13569988CC979AC70 = "Perforadozer"
 	9CAB0BD64C4037F28845F9B54DEC9E81 = "¡Perforadozer arreglado!"
@@ -3364,7 +3365,6 @@ Al hacerlo, reemplazará a la acción "{ActionName}""
 	A42C000B46A88FEB31422EB505EEAF80 = "ilegal"
 	511E140F47B8A5AA2A583FBDD20C1CEC = "Fuerza"
 	636EFE984E2CB29D61E735A17D86BFD0 = "Escala de retroalimentación de fuerza"
-	4C07E4A1471F3A972551F4BFFC2CEC2F = "Forja"
 	A0D4C48D4EF61866DE19CBAE92D05C44 = "Forja"
 	AE4C6D354B238677CBF9CCBB74160BCA = "Historial de forja"
 	DDAAA63B4533237EA7A8FFACB86CCD67 = "Historial de forja"
@@ -4707,7 +4707,6 @@ DE COMBUSTIBLE"
 	9C6759FC4A62FB4E2C30C09C5208F52D = "Dirección IP: "
 	C7AB2ECB46D88E114919D98E89E720B4 = "¡ES EL SEGUNDO ANIVERSARIO DE DRG!"
 	C185F93444EE91984C4BC5B0B837AD66 = "¡ES HALLOWEEN!"
-	85E54AC9475E373042DA1F8C0BB9A23B = "AQUÍ VA EL NOMBRE DE UN OBJETO"
 	0CF806F94A302EB2699D628631E1C0E2 = "Hielo "
 	1130516A4A1CF250C86A07BAA5D99A9D = "Hielo "
 	6E9EB82D46877009AE2AC7A00649C376 = "Hielo "
@@ -6263,6 +6262,7 @@ Sin embargo, conviene recordar que las armas con daño en área o basadas en el 
 	5D2C88984271F39F0ECF0E8459BFF994 = "Nueva pieza de equipo recuperada"
 	D13B3BC64E060F9596E33CB21CA125C0 = "Nuevos diagramas disponibles"
 	061EB5CB4E04930CC788A9947FFABA7D = "Nueva pose de victoria conseguida"
+	4CD8886A4AB08417A99CFFAA40574EFA = "¡Nuevo DLC de accesorios ya disponible!"
 	BA6543CA42EA573051C4F7AA106301D4 = "¡Nuevo DLC de accesorios ya disponible!"
 	7E89CAC24247499E8D8192B3352F0562 = "¡Nueva Habilidad desbloqueada!"
 	ADBC8E9A4FB7FD9DD46BDA9286CCD031 = "Ahora tienes nuevas regiones de Hoxxes a tu disposición. Sigue así y podrás llegar a convertirte en alguien."
@@ -6841,7 +6841,6 @@ La Directiva"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "EL ASCENSO TE ESPERA"
 	625637E14AE36161309A579AF48094B0 = "COSTE DE ASCENSO"
 	3C2211C04C11826513D1028765628866 = "ASCENSOS"
-	FF5512B44EB6AD1BF63614B9D8C2B29D = "ASCENSOS"
 	9D0495E743DE52B3F57657B90B4B5D58 = "PROPENSO A EXPLOTAR"
 	0743DAE24CA986BE792E58B3FF6F12EA = "MINA DE PROXIMIDAD"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "Anuncio: se ha encontrado un lanzagranadas abandonado en el comedor. Por su seguridad, les rogamos que guarden toda su artillería pesada entre misión y misión."
@@ -7614,7 +7613,6 @@ RÁPIDA"
 	3DF1C9FC40A26AB83B905E84A9AFFD30 = "Cargarrocas"
 	53227F664FF1342B663DB4AC68A5B2EF = "Cargarrocas"
 	66D1C09546A5D9130CE0789A5EA66B80 = "Piel de roca"
-	F80722F845B69E76C9E2F1A4778217AB = "Oleada rocosa"
 	9F24975440CCCAD9246D1491051DEFE8 = "¡Roca and Roll...y piedra!"
 	26E2D8374555604FD18D7AB9F22407D0 = "¡Rock and Roll!"
 	2C9892E142E4A5EBE2CE19855A5AD5D6 = "¡Rock and Roll!"
@@ -14978,6 +14976,10 @@ Namespace Strings_DLC_03 (6 keys)
 Namespace Techincal (2 keys)
 	ClosedAlpha = "Alfa cerrada"
 	PatchNotes = "Notas de versión"
+
+Namespace Tutorial (2 keys)
+	44B19CB143E74CE65D04108B894BBFFA = "Instrucciones de trabajo"
+	C26158F943EDDBD8CC92B2A827226DEC = "Instrucciones de trabajo"
 
 Namespace UI (107 keys)
 	Minigun_Name = "Ametralladora multicañón "Lead Storm""

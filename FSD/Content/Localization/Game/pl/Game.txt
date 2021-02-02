@@ -1,6 +1,6 @@
-10598 entries
-35 namespaces
-8591 values
+10600 entries
+36 namespaces
+8590 values
 
 Namespace Global (9788 keys)
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Czarna skrzynka jest gotowa i rozpoczyna bootowanie. Utracimy połączenie, jeżeli nie będziecie blisko, więc nie opuszczajcie oznaczonej strefy triangulacji!"
@@ -2525,6 +2525,7 @@ To spowoduje usunięcie przypisanej do niego akcji '{ActionName}'"
 	8A3E389643ED5A8452BAA9BCF6FBC2BD = "Kop szybciej."
 	FFF44FA643A75D7456070EA053E850F8 = "Kop szybciej."
 	97A3653E445548AB98C752BCD03C6AD0 = "Wierć i skwiercz!"
+	6FDF51AA4DEC09E88C4128AE84FE00C0 = "Wiertłożer"
 	C7EF5A734349FBDE37BA0696D655661B = "Wiertłożer"
 	EA1E2D3E40F486B13569988CC979AC70 = "Wiertłożer"
 	9CAB0BD64C4037F28845F9B54DEC9E81 = "Wiertłożer naprawiony!"
@@ -4421,7 +4422,6 @@ COFNĄĆ SIĘ!"
 	9C6759FC4A62FB4E2C30C09C5208F52D = "Adres IP: "
 	C7AB2ECB46D88E114919D98E89E720B4 = "TO DRUGA ROCZNICA DRG!"
 	C185F93444EE91984C4BC5B0B837AD66 = "NADSZEDŁ CZAS HALLOWEEN!"
-	85E54AC9475E373042DA1F8C0BB9A23B = "NAZWA PRZEDMIOTU IDZIE TUTAJ"
 	0CF806F94A302EB2699D628631E1C0E2 = "Lód "
 	1130516A4A1CF250C86A07BAA5D99A9D = "Lód "
 	6E9EB82D46877009AE2AC7A00649C376 = "Lód "
@@ -5902,6 +5902,7 @@ Z drugiej strony, bronie obszarowe oraz oparte na strumieniach zimna lub ognia n
 	5D2C88984271F39F0ECF0E8459BFF994 = "Nowa część kilofu odzyskana"
 	D13B3BC64E060F9596E33CB21CA125C0 = "Dostępne nowe schematy"
 	061EB5CB4E04930CC788A9947FFABA7D = "Odzyskano nową zwycięską pozę"
+	4CD8886A4AB08417A99CFFAA40574EFA = "Nowe DLC z przedmiotami kosmetycznymi już dostępne!"
 	BA6543CA42EA573051C4F7AA106301D4 = "Nowe DLC z przedmiotami kosmetycznymi już dostępne!"
 	7E89CAC24247499E8D8192B3352F0562 = "Odblokowano nową cechę!"
 	ADBC8E9A4FB7FD9DD46BDA9286CCD031 = "Udostępniono ci nowe obszary Hoxxes. Tak trzymaj, a może coś z ciebie będzie."
@@ -6466,7 +6467,6 @@ PS: Twarz współpracownika nie jest docelowym materiałem wydobywczym."
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "OCZEKUJĄCY AWANS"
 	625637E14AE36161309A579AF48094B0 = "KOSZT AWANSU"
 	3C2211C04C11826513D1028765628866 = "AWANSE"
-	FF5512B44EB6AD1BF63614B9D8C2B29D = "AWANSE"
 	9D0495E743DE52B3F57657B90B4B5D58 = "Podatny na wybuchy"
 	0743DAE24CA986BE792E58B3FF6F12EA = "MINA ZBLIŻENIOWA"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "Ogłoszenie: Znaleziono porzucony granatnik w kantynie. Bądźcie odpowiedzialni – proszę chowajcie wszelkie ciężkie uzbrojenie pomiędzy misjami."
@@ -12322,6 +12322,10 @@ Namespace Strings_DLC_03 (4 keys)
 Namespace Techincal (2 keys)
 	ClosedAlpha = "Zamknięta alfa"
 	PatchNotes = "Opis zmian"
+
+Namespace Tutorial (2 keys)
+	44B19CB143E74CE65D04108B894BBFFA = "Instrukcje dotyczące pracy"
+	C26158F943EDDBD8CC92B2A827226DEC = "Instrukcje dotyczące pracy"
 
 Namespace UI (111 keys)
 	Minigun_Name = "Karabin Gatlinga „Burza Ołowiu”"
