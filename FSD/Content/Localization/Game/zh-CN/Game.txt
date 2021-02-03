@@ -1,8 +1,8 @@
-11341 entries
+11336 entries
 36 namespaces
-8991 values
+8987 values
 
-Namespace Global (10490 keys)
+Namespace Global (10489 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "      重置        "
 	C96469B045023AF918296D97182165AB = "        重置        "
 	248F3D37491744967A44008576B16FA9 = " （史蒂夫）"
@@ -1460,6 +1460,7 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	74571521438100B036195CA44C012AA4 = "烈火地狱"
 	FC4AA05A46898CC8907A71A318A5FB5E = "炙爱！"
 	4E542FFB48E13AB4DF102C8AE1C2FFD1 = "使地面烧起来，形成一堵火墙"
+	132517F54A2BFB46F98A63A03FCAE613 = "钻地"
 	B747423844CCBEBEF513B39DB8E6118F = "钻地"
 	F8CEE64A4FB24B1057F7419D399F19A7 = "地洞"
 	9DB005474821DB373C74639603B3E6FF = "连发"
@@ -4215,11 +4216,6 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	32F5AC9046030E719F222396530609D0 = "喂！"
 	9123FB854DBBEB874DCDE2895775FB52 = "喂！"
 	BF37B8F943EB949C7B0206AE0E96AE6C = "喂！"
-	7138274F4C50DB177EA480B9AD63A7A4 = "各位矿工你们好！
-你们的热情投入让 DRG 进入了 2020 年 Steam 大奖“独乐乐不如众乐乐”奖项的提名！依照承诺，我们特此送出<highlight2>栓接海盗盔</>头饰，作为我们的微薄谢礼。玩家们，正是有你们在，我们才能达成如此成就。骄傲地戴上它吧！
-
-爱你们的，
-Ghost Ship 全体船员"
 	F1E9ED3546CB628AE1085CAF742CC467 = "哈喽，哈喽！我听起来就像只松鼠！这太疯狂了！ "
 	CBDC2D70420BAF7D41F580B46B086007 = "帮我建好它，谢谢！"
 	A7D885174DD4899A6DF130A4649B76D6 = "帮我修好这个！ "
@@ -7739,6 +7735,7 @@ Ghost Ship 全体船员"
 	3DF1C9FC40A26AB83B905E84A9AFFD30 = "运石工"
 	53227F664FF1342B663DB4AC68A5B2EF = "地动山摇"
 	66D1C09546A5D9130CE0789A5EA66B80 = "矿化外壳"
+	F80722F845B69E76C9E2F1A4778217AB = "岩刃斩击"
 	9F24975440CCCAD9246D1491051DEFE8 = "挖到手软，赚到盆满与摇滚！"
 	26E2D8374555604FD18D7AB9F22407D0 = "开干吧！"
 	2C9892E142E4A5EBE2CE19855A5AD5D6 = "开干吧！"
@@ -10293,7 +10290,6 @@ Ghost Ship 全体船员"
 	03E20E33421D936381FB10A84BDF1865 = "收回时间"
 	009E910146A6E144BCF399AE8C2359C7 = "窗口化"
 	9B88D7B1477CF9C3250EDCB69C4DE794 = "窗口全屏"
-	C6289F0A41AFCC668A56DEA794B43CC1 = "Windows 默认设备"
 	208896814DD1122C53B4758EF15DB887 = "真希望我能多拿点钱！"
 	382FC8C04BA289351C7F0A9292490A6C = "通过一点耐心和运气加成，你能在每个弹壳里多塞进一枚弹丸和多一点火药，而不影响武器的性能或在这一过程中瞎一只眼睛。"
 	DC3DAC6E45E49D057EBE2FAC57ACDEB3 = "跟我来！"
@@ -10315,7 +10311,6 @@ Ghost Ship 全体船员"
 	33CF307F40EA627B436802A3366AD895 = "作业指南"
 	37577F9643F3087CA1A220880E256B36 = "作业指南"
 	8FF075914FDD423A7516C79DA1AEA218 = "作业指南"
-	96A1B7EE4EA952C7DF3AEA88F3E0ADC2 = "工作汇报"
 	F49426D3465A85BF292F1E8C2E023723 = "作业指南"
 	227D032440E89BA7214E3683562E4359 = "好好工作！天天派对！"
 	3C34D3184ABDDD0D1AF3CA9A2D2A443C = "破烂儿又不动了！"
@@ -15157,24 +15152,20 @@ Namespace StatValues (67 keys)
 	StaggerChanceShotgunWeakpoint = "每发弹丸弱点击晕几率"
 	StaggerDurationWeakpoint = "弱点击晕时间"
 
-Namespace Strings_DLC_03 (9 keys)
+Namespace Strings_DLC_03 (6 keys)
 	1_DLCname = "无畏崛起"
 	Halloween2020 = "2020 万圣节"
 	DLC03_BaseName = "钻井工"
 	DLC03_HelmetB_Name = "钻井工头盔"
 	DLC03_HelmetA_Name = "钻井工头盔 - 17 号太空钻台"
 	DLC03_ArmorDesc = "集团的老手钻井工以重视实用价值而不是防护能力出名。矿下数年的艰苦工作使你养成了这种习惯——既然你才是洞穴里最可怕的生物，为何还要穿着厚重的装甲呢？"
-	2_ArmorDescription = "[铠甲描述]"
-	3_HelmetA_Name = "[头盔A名称]"
-	4_HelmetB_Name = "[头盔B名称]"
 
 Namespace Techincal (2 keys)
 	ClosedAlpha = "封闭测试"
 	PatchNotes = "更新说明"
 
-Namespace Tutorial (2 keys)
+Namespace Tutorial (1 keys)
 	44B19CB143E74CE65D04108B894BBFFA = "作业指南"
-	C26158F943EDDBD8CC92B2A827226DEC = "作业指南"
 
 Namespace UI (111 keys)
 	Minigun_Name = "“铅暴”转管机枪"

@@ -1,8 +1,8 @@
-10789 entries
+10784 entries
 36 namespaces
-8876 values
+8872 values
 
-Namespace Global (9997 keys)
+Namespace Global (9996 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        zurücksetzen        "
 	C96469B045023AF918296D97182165AB = "        zurücksetzen        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Blackbox startet und ist bereit. Wir verlieren die Verbindung wenn ihr nicht nah dran bleibt, also verlasst nicht die markierte Triangulationszone!"
@@ -1386,6 +1386,7 @@ Aber jetzt brauchen wir euch mehr denn je! Wir müssen die Welt auf die Veröffe
 	D2FF1A61488B757B6B6B0AAEDE4A1AB5 = "Brenndauer"
 	74571521438100B036195CA44C012AA4 = "Höllenfeuer"
 	4E542FFB48E13AB4DF102C8AE1C2FFD1 = "Verbrennt den Boden, um eine Feuerwand zu schaffen"
+	132517F54A2BFB46F98A63A03FCAE613 = "Vergraben"
 	B747423844CCBEBEF513B39DB8E6118F = "Vergraben"
 	F8CEE64A4FB24B1057F7419D399F19A7 = "Erdloch"
 	9DB005474821DB373C74639603B3E6FF = "Salve"
@@ -4033,11 +4034,6 @@ Es ist nun endlich an der Zeit, FELS UND STEIN der Welt zu sagen!
 	32F5AC9046030E719F222396530609D0 = "Hallo!"
 	9123FB854DBBEB874DCDE2895775FB52 = "Hallo!"
 	BF37B8F943EB949C7B0206AE0E96AE6C = "Hallo!"
-	7138274F4C50DB177EA480B9AD63A7A4 = "Hallo, Minenarbeiter!
-Ihr habt alle abgestimmt und es geschafft, dass DRG für die Better With Friends Kategorie der 2020 Steam Awards nominiert wurde! Wie versprochen, bekommt ihr Alle hiermit gratis den <highlight2>GESCHRAUBTEN PLÜNDERER</> Helm als kleines Dankeschön von uns. Wir hätten es nicht ohne Euch schaffen können. Tragt ihn mit Stolz!
-
-Mit Liebe,
-Die Ghost Ship Crew"
 	F1E9ED3546CB628AE1085CAF742CC467 = "Hallo, hallo! Ich höre mich wie ein Eichhörnchen an! Wie nussig ist das denn! "
 	CBDC2D70420BAF7D41F580B46B086007 = "Hilf mir bauen, bitte!"
 	A7D885174DD4899A6DF130A4649B76D6 = "Hilf' mir das zu reparieren! "
@@ -7393,6 +7389,7 @@ möglich"
 	3DF1C9FC40A26AB83B905E84A9AFFD30 = "Steinschlepper"
 	53227F664FF1342B663DB4AC68A5B2EF = "Berge-Versetzer"
 	66D1C09546A5D9130CE0789A5EA66B80 = "Steinhaut"
+	F80722F845B69E76C9E2F1A4778217AB = "Steinwelle"
 	9F24975440CCCAD9246D1491051DEFE8 = "Rock and Roll und Stein!"
 	26E2D8374555604FD18D7AB9F22407D0 = "Rock 'n' Roll!"
 	2C9892E142E4A5EBE2CE19855A5AD5D6 = "Rock 'n' Roll!"
@@ -9862,7 +9859,6 @@ Du kannst diese Einstellungen jederzeit im Optionsmenü ändern."
 	03E20E33421D936381FB10A84BDF1865 = "Aufziehzeit"
 	009E910146A6E144BCF399AE8C2359C7 = "Fenstermodus"
 	9B88D7B1477CF9C3250EDCB69C4DE794 = "Rahmenloses Fenster"
-	C6289F0A41AFCC668A56DEA794B43CC1 = "Windows Standardgerät"
 	208896814DD1122C53B4758EF15DB887 = "Ich wünschte, mir würde mehr dafür bezahlt werden!"
 	382FC8C04BA289351C7F0A9292490A6C = "Mit etwas Mühe und Glück packst du eine zusätzliche Schrotkugel und etwas mehr Pulverkörner in jede Patrone. Und das ohne die Leistung der Waffe zu verschlechtern, oder dabei ein Auge zu verlieren."
 	DC3DAC6E45E49D057EBE2FAC57ACDEB3 = "Mir nach!"
@@ -9881,7 +9877,6 @@ das Management"
 	33CF307F40EA627B436802A3366AD895 = "Arbeitsanweisungen"
 	37577F9643F3087CA1A220880E256B36 = "Arbeitsanweisungen"
 	8FF075914FDD423A7516C79DA1AEA218 = "Arbeitsanweisungen"
-	96A1B7EE4EA952C7DF3AEA88F3E0ADC2 = "Arbeitsanweisungen"
 	F49426D3465A85BF292F1E8C2E023723 = "Arbeitsanweisungen"
 	227D032440E89BA7214E3683562E4359 = "Arbeite hart! Feiere hart!"
 	3C34D3184ABDDD0D1AF3CA9A2D2A443C = "Funktioniere, du Schrotthaufen!"
@@ -14476,23 +14471,19 @@ Namespace StatValues (66 keys)
 	StaggerChanceShotgunWeakpoint = "Schwachpunkt Betäubungschance Per Pellet"
 	StaggerDurationWeakpoint = "Schwachpunkt-Betäubungsdauer"
 
-Namespace Strings_DLC_03 (8 keys)
+Namespace Strings_DLC_03 (5 keys)
 	1_DLCname = "Dämmerung des Dreads"
 	DLC03_BaseName = "Ledernacken"
 	DLC03_HelmetB_Name = "Ledernacken Helm"
 	DLC03_HelmetA_Name = "Ledernacken Hehlm - Raumstation 17"
 	DLC03_ArmorDesc = "Die Ledernacken Veteranen von DRG Sorgen sich weniger um Schutz und mehr um Vielseitigkeit. Jahre harter Arbeit in den Minen haben dich nun mal so gemacht - warum schwere Rüstung tragen wenn DU mit Abstand das gefährlichste Ding da unten bist?"
-	2_ArmorDescription = "[Rüstungsbeschreibung]"
-	3_HelmetA_Name = "[HelmA Name]"
-	4_HelmetB_Name = "[HelmB Name]"
 
 Namespace Techincal (2 keys)
 	ClosedAlpha = "Geschlossene Alpha"
 	PatchNotes = "Patchnotes"
 
-Namespace Tutorial (2 keys)
+Namespace Tutorial (1 keys)
 	44B19CB143E74CE65D04108B894BBFFA = "Arbeitsanweisung"
-	C26158F943EDDBD8CC92B2A827226DEC = "Arbeitsanweisung"
 
 Namespace UI (105 keys)
 	Minigun_Name = ""Kugelhagel" Hochleistungs-Minigun"
