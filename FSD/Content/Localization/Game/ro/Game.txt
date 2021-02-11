@@ -1,8 +1,8 @@
-4127 entries
-23 namespaces
-3266 values
+4131 entries
+24 namespaces
+3269 values
 
-Namespace Global (3985 keys)
+Namespace Global (3988 keys)
 	21E775294A9F00BC12A202B5100B6791 = " Cutie de marfă aici!"
 	2559D78C40005E5221F26093CB976283 = " Colectează {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Am căzut!"
@@ -225,7 +225,6 @@ Forjând îți crește nivelul de maestrie. Cu fiecare nivel nou vei primi un <h
 	299BED7B4263CCA2670157B7113E7BEB = "Tot"
 	A409C3764DFDE233D90B83AA2FF3240F = "Toate"
 	6910B2F149D1CFADD9C7FB80F1B3AF58 = "Eliberați!"
-	03229574442F90EC8E655EB63912D030 = "Toți M.U.L.E.'s securizati! Acum trebuie să reparați Capsula. Primul lucru: Stabiliți o conexiune între Capsulă și Stația Spațială. Configurează Uplinkul!"
 	204DFC7945664EE8151CBB80645554EA = "Toți Mini Mules au fost luați în calcul, bună treabă Echipă. Obiectiv completat. Aduceți-le la Capsula de Evacuare când vă permite timpul."
 	43E9F5304FF2A4B11652B7B3439A76CF = "Toate Obiectivele au fost completate! Apăsați butonul pe M.U.L.E. când sunteți gata și vom veni după voi."
 	47CC1630470D68C4C86FA9904710F044 = "Toate datele au fost recuperate! Obiectiv Complet! Performanță excelentă, Mineri!"
@@ -658,6 +657,7 @@ Stai mult în spate înainte să apeși butonul."
 	0CA1BCD64DF715E003401EA491942D09 = "Colectați {amount} {resource}"
 	69606828404C54B4230618A0FE348CDF = "Colectați {amount} {resource}"
 	2C2AD3B542580D19302C62A1C1DB9E0B = "Colectați {resource}"
+	003C4BC04B677DEFD1D91AB5372C67F0 = "Parlamentar cu vechime"
 	4126990446E4412E7F139181D9C7F566 = "Lupta"
 	428D1CAE4CC64C4A632217AF2202B95D = "Lupta"
 	9C91732342B8BE7D693DBC8DE063CEAB = "Sfat de Luptă"
@@ -966,6 +966,7 @@ De asemenea este unul din locurile unde alegem să luăm legătură cu jucători
 	46A79CFE4E475C7D27085CB722E85C55 = "Dezasamblează"
 	665C68DF48B231010EDB4B8B731C6BDE = "Distanță"
 	16D1CFBC4B03B4DAA1B0A69179792B85 = "Distanță Parcursă"
+	013379F04FCE614CDB0E75B9052B44BD = "! Simți? Râsul acela maniacal, adânc în stomac? Trebuie să-l lași să fie li-hi-hi-hi-hi-ber!"
 	04BBF4194695F111B71769BD87B645F6 = "Ai niște Canary pe țeavă, Lloyd?"
 	60E225D8464397BA2BBD87AD37BE6995 = "Ai ce îți trebuie să fi parte din {0}?"
 	20D004A74B85446141D3BC8F0089BF1E = "Vine în negru?"
@@ -1330,6 +1331,7 @@ De asemenea este unul din locurile unde alegem să luăm legătură cu jucători
 	49B602F4412D549FAE5A5E9705A14D8B = "Celulele de Combustibil sunt la 50%."
 	16CADAB949D512825BF64AB536E7DFDF = "Celule de Combustibil la 75%, aproape ați reușit."
 	576DA4C74C4A78F910C594B10D80A691 = "Celule de Alimentare încărcate complet. Motorul Capsulei de Evacuare se pornește. Păstrați-vă poziția, suntem aproape gata să revendicăm marfa și pe voi cu ea."
+	018FDDD14D9F40E3BD25EE852261BD94 = "! Au sosit Celule cu Combustibil! Conectați-le la Capsula de Evacuare!"
 	0FA596C144F16268D406889CD5C25B19 = "Răspânditor Curent de Combustibil"
 	251024574D3DDFB05907DFB0FD9FF410 = "Ecran Plin"
 	3025634E41234B65B022E59AB847A824 = "Costum Sigilat Complet"
@@ -3397,6 +3399,7 @@ ATENȚIE: FOARTE INFLAMANT!"
 	13FA3B9A44A64745E6229F84C79336A4 = "Schimbă Cont"
 	58EDAFFE4C352AB2E4FB13BBAAE7B606 = "Schimbă Cont"
 	00C88DFC40C265963FDD4DBD3679A870 = "Schimbă Clasa"
+	014B2BB542BECD327437F092C5602288 = "Este necesară reînnoirea sistemului"
 	61668E2B4AE4FBDE1C1094862D55F46B = "Era noaptea înainte de Crăciun și peste tot prin Mină..."
 	0E6FDF684AF461D269E215A191289E87 = "APASĂ [Shout] PENTRU A STRIGA DUPĂ ATENȚIE"
 	3E8D5A1F49894E7918B4F0B70CB2D74F = "APASĂ [Shout] PENTRU A STRIGA DUPĂ ATENȚIE"
@@ -4112,6 +4115,9 @@ Acum poți echipa <highlight2>două</> atribute active. Alege înțelept!"
 	CFEE090B46AB9414E12099BD0BF8212E = "{value}{unit}"
 	4B20B5A64B15DE68A93A28AA3869E2BF = ""Nu mă tem de niciun Om, nicio Bestie și niciun Rău, fraților.""
 	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Scuze, acesta trebuia să fie un meci privat.”"
+
+Namespace [/Script/FSD] (1 keys)
+	000659A84215FF81E92BADB73F941FB6 = "Miner Legendar"
 
 Namespace Audio (2 keys)
 	Volume_Master = "General"
