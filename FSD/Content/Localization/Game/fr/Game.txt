@@ -1,8 +1,8 @@
-10995 entries
+11001 entries
 37 namespaces
-9001 values
+9008 values
 
-Namespace Global (10211 keys)
+Namespace Global (10209 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        réinitialiser        "
 	C96469B045023AF918296D97182165AB = "        réinitialiser        "
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Démarrage de la boîte noire. Nous perdrons la connexion si vous vous éloignez trop, alors essayez de pas quitter la zone de triangulation indiquée !"
@@ -103,6 +103,7 @@ Lors de la collecte de données, nous anonymisons votre adresse IP et nous ne co
 	427692654FD16FFC199B4DB5D9B95A72 = ""Les tempêtes de sable sont un mal nécessaire. Elles peuvent transformer un nain en un tas d'os, mais aussi donner forme aux précieuses perles d'enor.""
 	710BEB51464D43B3EC618F9953DCFC34 = ""Sauvez vos camarades ! Ne laissez aucun nain derrière !""
 	D36BE7144E1D5B579FF71BAA11C99551 = ""Sauvez vos camarades ! Ne laissez aucun nain derrière !""
+	D1EED2D545F420639F354281348A807B = "Affectation "Brigade Draconique""
 	5ECDFB0B41DEF7593516649C7C4AD3F3 = ""Shh ! Vous entendez ça ?""
 	A6BF73E94CB97BDCDB1B19A552CCDCEF = ""J'aurais dû emmener plus de bière.""
 	25CC8B3D4F5394B91C40EB85B0168AC9 = ""J'aurais dû prendre des skis.""
@@ -743,7 +744,7 @@ Appuyez sur <equip2/> pour équiper <bold>l'arme secondaire</>"
 	4474AC8F4BD7FA6A2F2027985EA421FA = "Ange à terre !"
 	224472F64D3A69603923CE9315566519 = "Cours de maîtrise de soi tous les mardis à 7 heures sur le pont 12."
 	D268DB1A490577E46B13189E5ADF37A2 = "colérique"
-	8A2A64B7437993D9F38B28A32890628C = "Chapeau d'Anniversaire !"
+	8A2A64B7437993D9F38B28A32890628C = "Chapeau d'anniversaire !"
 	94C73E0B4016067011F013B6CF55C399 = "Une autre puciole éliminée !"
 	2C3A5C4C41A533EFFCFF7CA59785B001 = "Une autre compétence pour moi !"
 	EC4B6A664146E88FE90497BCD5071D71 = "Un autre tuyau fini ! Il ne vous en manque qu'un et nous pourrons démarrer la séquence d'extraction !"
@@ -869,7 +870,7 @@ VEUILLEZ NOTER ! Lorsque vous ignorez la période de probation, vous ne pourrez 
 	9B715431485E17C3816FBD812730F329 = "Lorsqu'un chapitre du syndicat prospère, c'est tout le Syndicat Interplanétaire des Mineurs qui en profite. Avec vos collègues mineurs, travaillez main dans la main pour atteindre vos objectifs au sein de votre chapitre, et faites avancer le syndicat tout entier. L'union fait la force ! Pour Karl !"
 	9E5D846B46B3FDBBB2F681BB8CCAEE91 = "On pourrait difficilement faire mieux !"
 	5C0F9CD043D4428021283C90BE909B1B = "Rendue célèbre par les hommes en haut-de-forme ou portant des cornes."
-	C7D2ABB845A7942EC2F4FCBE9E202F77 = "Comme nous en avons l'habitude, pour célébrer notre TROISIÈME ANNÉE EN ORBITE, tous les employés actuels reçoivent un CHAPEAU DE FÊTE exclusif et offert par la compagnie ! Allez le voir dans votre garde-robe maintenant !
+	C7D2ABB845A7942EC2F4FCBE9E202F77 = "Comme nous en avons l'habitude, pour célébrer notre <highlight2>TROISIÈME ANNÉE EN ORBITE</>, tous les employés actuels reçoivent un <highlight2>CHAPEAU DE FÊTE</> exclusif et offert par la compagnie ! Allez le voir dans votre garde-robe maintenant !
 
 Avec notre affection,
 L'équipe Ghost Ship"
@@ -2586,7 +2587,7 @@ Cela va désassigner '{ActionName}'"
 	1263DD8B48B79FB47260D3869066A805 = "Je ne veux pas voir la prochaine étape de cette mocheté."
 	C00EE4C34166F492B32466991B43E1B4 = "Ne gaspillez pas vos munitions !"
 	1294C7324B64BFC60A4E0F9AD943AA25 = "Il faut voir le verre à moitié plein."
-	1A2013FD43F44261BD5B51AB7EEA3E15 = "Les dons pour le Hall commémoratif sont les bienvenues."
+	1A2013FD43F44261BD5B51AB7EEA3E15 = "Les dons pour le Hall commémoratif sont les bienvenus."
 	66D68AE245A591323D2C8D8D177D9DBF = "Fait !"
 	8FFC42CA43D3D550B475ED910689136E = "Fait !"
 	FECBAEB64FF99C45E3520D8947DB9336 = "Fait !"
@@ -6091,7 +6092,6 @@ D'un autre côté, les armes à zone d'effet ou celles basées sur des jets de f
 	EA58681B47044AD594A47FBF61A37E8B = "NOUVELLE AFFECTATION :"
 	AD7E876342C2248B2A34E4BAF2CE0198 = "NOUVEAU NOYAU DE MATRICE"
 	747D9D66462A834F081A129492AD4C34 = "NOUVELLES MISSIONS DANS"
-	216BD59349560E6D1904C78B45D1A02B = "NOUVELLE ZONE PLANÉTAIRE"
 	47713A8F484B1902AFE2D79C9BEDE9ED = "NOUVELLE ZONE PLANÉTAIRE"
 	53F99F6A490025C957D9CE81EAB2B927 = "NOUVEL {AccessoryType}"
 	29AFDACB49D3FC658DE1438119224810 = "NOUVEAU {Type}:"
@@ -7887,8 +7887,6 @@ MISSION"
 	BAE2513B4831A7E5800A768BFBB85068 = "Court et effronté, ça montre que vous en voulez."
 	BCADF91748A2BC73905E5DA2DD96A1D8 = "Court et effronté, ça montre que vous en voulez."
 	35D88F7F4473C9621155ECBC706EB83F = "Temps d'exécution court avant d'avoir besoin de repressuriser"
-	1ECDCAD94DEF86A8BC0A908DFADB6C98 = "Queue courte x3"
-	4D2D5E25485FBBA30FD143A4074626B9 = "Queue courte x3"
 	0A467DAA427DCDDE5B0580803B182923 = "Délai plus court entre les rafales"
 	A98341694AA54F9D5858F783AD1CBFB1 = "Délai plus court entre les rafales"
 	9E52868E41883E77232664807FFAD5B8 = "Propulsion fusillée"
@@ -9977,7 +9975,7 @@ Vous pouvez changer ce réglages a tout moment dans le menu des options."
 	6CCD19644B192D11FE8C7080C01F4AC8 = "Bien que "les trucs qui brillent" soient difficilement propre à la sylve azur, leur prolifération abondante dans cette région continue à mystifier la R&D."
 	C2336C9047842E661BC85F89A9DA2B5F = "Quand il effectue une attaque spéciale, il ne se tourne pas. Utilisez cette opportunité pour avoir une ligne de vue sur son abdomen"
 	DDB882E442E883125621DC9F0B5439F4 = "Pendant que le pointeur laser est activé, vos coéquipiers apparaissent avec un contour bien pratique pour vous aider à les trouver."
-	73A14D554C1462F7246BFB89D85C1508 = "Pendant que les fêtes battent leur plein, vous avez ACCÈS TEMPORAIREMENT à la toute nouvelle affectation "Scale Brigade" ! Terminez-là avant que l'évènement ne se termine le 14 Mars afin d'obtenir le set d'armure Scale Brigade MAINTENANT !
+	73A14D554C1462F7246BFB89D85C1508 = "Pendant que les fêtes battent leur plein, vous avez <highlight2>ACCÈS TEMPORAIREMENT</> à la toute nouvelle affectation <highlight2>"Brigade Draconique"</> ! Terminez-là avant que l'évènement ne se termine le 14 Mars afin d'obtenir le set d'armure Brigade Draconique MAINTENANT !
 
 Avec notre affection,
 L'équipe Ghost Ship"
@@ -14615,11 +14613,12 @@ Namespace Schematics (7 keys)
 	Miscellaneous = "Divers"
 	Resources = "Ressources"
 
-Namespace Skins (4 keys)
+Namespace Skins (5 keys)
 	Electric = "Ingénierie personnalisée"
 	GlyphidHide = "Chasseur de trophées glyphides"
 	Mech = "Mécanisé"
 	NeonBand = "Bande néon"
+	Dragon = "Brigade Draconique"
 
 Namespace SpacerigTerms (13 keys)
 	AccessoryShop = "Magasin d'accessoires"
@@ -14648,7 +14647,7 @@ Namespace ST_BrewingIngredients (10 keys)
 	Barley2 = "Cône de levure"
 	Barley2Plural = "Cônes de levure"
 
-Namespace ST_GearUpgrades (135 keys)
+Namespace ST_GearUpgrades (137 keys)
 	Headwear_Beret = "Un souvenir de vos loyaux services."
 	Class_Scout006 = "Nageur de combat"
 	Class_Scout002 = "Courant bleu"
@@ -14742,6 +14741,7 @@ Namespace ST_GearUpgrades (135 keys)
 	T_ReloadSpeed = "Éjecteur "Quickfire""
 	T_Recoil = "Amortisseur de recul"
 	Promotion02 = "Égide royale"
+	ScaleBrigade_Name = "Brigade Draconique"
 	T_Pickaxe_PA_Damage = "Bord Dentelé"
 	D_BlowThrough = "Projectiles profilés conçus pour traverser les cibles avec une perte d'énergie minimale. En d'autres termes : tirez directement à travers un ennemi !"
 	D_SuperBlowThrough = "Projectiles profilés conçus pour traverser les cibles avec une perte d'énergie minimale. En d'autres termes : tirez directement à travers plusieurs ennemis à la fois !"
@@ -14753,6 +14753,7 @@ Namespace ST_GearUpgrades (135 keys)
 	Class_Engineer005 = "Éclaboussures"
 	Class_Gunner005 = "Éclaboussures"
 	Class_Scout005 = "Éclaboussures"
+	ScaleBrigade_Desc = "Évoquée avec fierté autour des choppes de bière mousseuses, la légende de la brigade Draconique continue de grandir. Avec des incursions sur Hoxxes de plus en plus audacieuses, il est normal de commencer à voir des membres de cette équipe légendaire arriver ici."
 	T_ShieldStun = "Décharge statique"
 	HelmetName = "Casque StreamSuit 5000"
 	T_StaggerChance = "Étourdir"
@@ -14871,7 +14872,7 @@ Namespace Techincal (2 keys)
 Namespace Tutorial (1 keys)
 	44B19CB143E74CE65D04108B894BBFFA = "Instructions de travail"
 
-Namespace UI (105 keys)
+Namespace UI (110 keys)
 	Minigun_Name = "Minigun alimenté "Lead Storm""
 	SMG_Name = "SMG voltaïque "Stubby""
 	AutoCannon_Name = "Canon automatique lourd "Thunderhead""
@@ -14881,6 +14882,9 @@ Namespace UI (105 keys)
 + COUVRE-CHEF : MASQUE TRAQUEUR MACABRE MK2"
 	RewardText_ToxicDefender = "+ PEINTURE D'ARMURE : DÉFENSEUR TOXIQUE
 + COUVRE-CHEF : MASQUE TRAQUEUR MACABRE MK1"
+	RewardText_ScaleBrigade = "+ ARMURE : BRIGADE DRACONIQUE
++ PEINTURE D'ARMURE : BRIGADE DRACONIQUE
++ COUVRE-CHEF : BRIGADE DRACONIQUE"
 	RewardText_ChasmBorneCliffhanger = "+ ENSEMBLE DE PIOCHE : PIOLET GOUFFRE-NÉ"
 	RewardText_DriftCrusher = "+ ENSEMBLE DE PIOCHE : BRISE-MONTAGNE"
 	RewardText_GadgeteersFavorite = "+ ENSEMBLE DE PIOCHE : FAVORITE DU BRICOLEUR"
@@ -14893,6 +14897,7 @@ Namespace UI (105 keys)
 	Armor = "Armures"
 	ArmorHunt_BlackCrag = "Chasse à l'armure : roc noir + masque traqueur macabre MK3"
 	ArmorHunt_RegalAegis = "Chasse à l'armure : égide royale + masque traqueur macabre MK2"
+	AmorHunt_ScaleBrigade = "Chasse à l'armure : Brigade Draconique"
 	ArmorHunt_ToxicDefender = "Chasse à l'armure : défenseur toxique + masque traqueur macabre MK1"
 	ArmorUndersuit = "Armure"
 	WeaponLicense_Desc = "En tant que conglomérat minier interplanétaire, DRG estime que nos employés devraient avoir accès à un large éventail des meilleurs outils permettant d’accomplir les tâches qui leur sont confiées. Grâce à votre travail acharné et à vos efforts assidus, vous avez été jugé candidat à une mise à niveau de votre licence d’armes. 
@@ -14911,9 +14916,17 @@ Le fait de terminer cette courte formation le certifiera et permet de déverroui
 	RewardFlavourText_ChasmBorneCliffhanger = "Piolet Gouffre-né - autant un kit de survie qu'une pioche. Les pointes en tungstène se plantent dans la roche aussi facilement que dans un crâne alien."
 	Close = "Fermer"
 	Complexity = "Complexité"
+	Prestige_Assignment_Limited_Access_ScaleBrigade = "Félicitations mineurs !
+Pour fêter les trois ans en orbite de Deep Rock Galactic, la direction vous donne la chance, pour une durée limitée, d'obtenir l'armure BRIGADE DRACONIQUE - même si vous n'êtes pas encore au niveau 100.
+
+ATTENTION ! Une fois commencée cette affectation ne peut pas être interrompue ! Et une fois les fêtes des trois ans en orbite finies, l'affectation requerra le niveau 100 pour être démarrée ! Complétez la rapidement ! 
+
+- Amité,
+La direction"
 	Continue = "Continuer"
 	CryoCannon_Name = "Cryo canon"
 	DeepDive = "Plongée abyssale"
+	Prestige_PlayerRank_ArmorHunt_Header_Description = "Avez-vous ce qu'il faut pour rejoindre la Brigade Draconique ? "
 	RewardFlavorText_DriftCrusher = "Brise-montagne - la pioche de choix d'un vrai mineur. Couleurs vives et morceaux de titane à foison."
 	Armor_DESC = "Chaque ensemble d'armure DRG est monté sur une combinaison hautement modifiable, capable de transformer les capacités de l'armure en profondeur. Malheureusement, les gars de la recherche n'ont pas encore réussi à intégrer un alambic pour la production d'alcool à bord."
 	Elite = "Élite"
@@ -14952,6 +14965,7 @@ Le fait de terminer cette courte formation le certifiera et permet de déverroui
 	Presige_PlayerRank_Name_ArmorHunt = "Prêt à partir en chasse pour récupérer une peinture d'armure unique et un couvre-chef ?"
 	RewardFlavorText_ReapersClaw = "La griffe de la Mort - fléau des arthropodes. La plus brutale des pioches choisie pour les mineurs les plus combatifs."
 	RewardFlavorText_RegalAegis = "Égide royale - rempart indéfectible. Pour la défense de l'ordre et de nos biens."
+	RewardFlavorText_ScaleBrigade = "Brigade Draconique - Seuls les plus braves peuvent rejoindre la Brigade Draconique."
 	Rifle_Semi = "Fusil semi-automatique"
 	SentryGun = "Tourelle automatique"
 	Shotgun = "Fusil à pompe"

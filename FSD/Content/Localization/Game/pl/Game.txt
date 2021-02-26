@@ -1,6 +1,6 @@
-10763 entries
+10768 entries
 36 namespaces
-8727 values
+8731 values
 
 Namespace Global (9950 keys)
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Czarna skrzynka jest gotowa i rozpoczyna bootowanie. Utracimy połączenie, jeżeli nie będziecie blisko, więc nie opuszczajcie oznaczonej strefy triangulacji!"
@@ -12234,11 +12234,12 @@ Namespace Schematics (11 keys)
 	Skin = "Skórka"
 	Skins = "Skórki"
 
-Namespace Skins (4 keys)
+Namespace Skins (5 keys)
 	Electric = "Stworzone na zamówienie"
 	GlyphidHide = "Łowca glyfidzkich trofeów"
 	Mech = "Zmechanizowany"
 	NeonBand = "Neonowe paski"
+	Dragon = "Smocza Brygada"
 
 Namespace SpacerigTerms (14 keys)
 	AccessoryShop = "Sklep z akcesoriami"
@@ -12268,7 +12269,7 @@ Namespace ST_BrewingIngredients (10 keys)
 	Barley2 = "Szyszka drożdżowa"
 	Barley2Plural = "Szyszki drożdżowe"
 
-Namespace ST_GearUpgrades (142 keys)
+Namespace ST_GearUpgrades (144 keys)
 	Headwear_Beret = "Pamiątka twojej służby."
 	Class_Scout006 = "Wodna siła"
 	Class_Scout002 = "Lazurowy projekt"
@@ -12368,6 +12369,7 @@ Namespace ST_GearUpgrades (142 keys)
 	T_ReloadSpeed = "Wyrzutnik szybkostrzelny"
 	T_Recoil = "Amortyzator odrzutu"
 	Promotion02 = "Królewska egida"
+	ScaleBrigade_Name = "Smocza Brygada"
 	T_Pickaxe_PA_Damage = "Ząbkowane ostrze"
 	D_BlowThrough = "Kształtowane pociski zaprojektowane do ponad przebijania celów przy minimalnej utracie energii. Innymi słowy: strzelaj przez przeciwników!"
 	D_SuperBlowThrough = "Kształtowane pociski zaprojektowane do ponad przebijania celów przy minimalnej utracie energii. Innymi słowy: strzelaj przez kilku przeciwników naraz!"
@@ -12379,6 +12381,7 @@ Namespace ST_GearUpgrades (142 keys)
 	Class_Engineer005 = "Poplamiony"
 	Class_Gunner005 = "Poplamiony"
 	Class_Scout005 = "Poplamiony"
+	ScaleBrigade_Desc = "Legenda Smoczej Brygady, o której mówi się z dumą przy pieniących się kuflach piwa, wciąż rośnie. Wraz z coraz śmielszymi najazdami na Hoxxes to całkiem jasne, że członkowie tej legendarnej kadry są tutaj obecni."
 	T_ShieldStun = "Wyładowanie statyczne"
 	ArmorName = "Kombinezon „Strumyk 5000”"
 	HelmetName = "Kombinezon „Strumyk 5000” Hełm"
@@ -12495,7 +12498,7 @@ Namespace Techincal (2 keys)
 Namespace Tutorial (1 keys)
 	44B19CB143E74CE65D04108B894BBFFA = "Instrukcje dotyczące pracy"
 
-Namespace UI (109 keys)
+Namespace UI (111 keys)
 	Minigun_Name = "Karabin Gatlinga „Burza Ołowiu”"
 	SMG_Name = "Galwaniczny PM „Grubasek”"
 	AutoCannon_Name = "Ciężka armata automatyczna „Grzmot”"
@@ -12516,9 +12519,10 @@ Namespace UI (109 keys)
 	FlareBasic_Desc = "Standardowa flara, nic specjalnego. Otwórz, przekręć i rzuć – to wcale nie takie trudne! Oceniany jako nr 1 według pracowników, jako Najważniejszy Sprzęt już 7 rok z rzędu."
 	Anomalies = "Anomalie"
 	Armor = "Kombinezon"
-	ArmorHunt_BlackCrag = "Polowanie na Zbroję: Czarna skała + Maska mrocznego prześladowcy 3.0"
-	ArmorHunt_RegalAegis = "Polowanie na Zbroję: Królewska egida + Maska mrocznego prześladowcy 2.0"
-	ArmorHunt_ToxicDefender = "Polowanie na Zbroję: Toksyczny obrońca + Maska mrocznego prześladowcy 1.0"
+	ArmorHunt_BlackCrag = "Polowanie na zbroję: Czarna skała + Maska mrocznego prześladowcy 3.0"
+	ArmorHunt_RegalAegis = "Polowanie na zbroję: Królewska egida + Maska mrocznego prześladowcy 2.0"
+	AmorHunt_ScaleBrigade = "Polowanie na zbroję: Smocza Brygada"
+	ArmorHunt_ToxicDefender = "Polowanie na zbroję: Toksyczny obrońca + Maska mrocznego prześladowcy 1.0"
 	ArmorUndersuit = "Podkombinezon"
 	WeaponLicense_Desc = "Jako międzyplanetarny konglomerat górniczy, DRG jest przekonane, że nasi pracownicy powinni mieć dostęp do różnorodnych, najlepszych narzędzi, dzięki którym mogą realizować postawione przed nimi zadania. Dzięki twojej ciężkiej pracy i sumiennym staraniom, zostałeś uznany za potencjalnego kandydata do ulepszenia swojej licencji na broń. 
 
@@ -12581,6 +12585,7 @@ Ukończenie tego krótkiego kursu szkoleniowego na pewno to potwierdzi oraz odbl
 	RewardFlavorText_ReapersClaw = "Szpon Żniwiarza - zmora stawonogów. Najbardziej brutalny kilof dla najbardziej brutalnych górników."
 	RewardFlavorText_RegalAegis = "Królewska egida - niezłomny bastion. Ku obronie naszych zasobów i panowania porządku."
 	Revolver = "Rewolwer"
+	RewardFlavorText_ScaleBrigade = "Smocza Brygada - Tylko najodważniejsi mogą dołączyć do Smoczej Brygady."
 	Rifle_Semi = "Karabin półautomatyczny"
 	SentryGun = "Działko strażnicze"
 	Shotgun = "Strzelba"
