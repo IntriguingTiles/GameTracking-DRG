@@ -1,0 +1,2684 @@
+38 entries
+1 namespaces
+37 values
+
+Namespace PatchNotes (38 keys)
+	Update_23 = "Okej gruvarbetare, samling och håll snattran!
+
+Det verkar som att gamla Hoxxes fortfarande har många överraskningar åt oss - sedan en månad tillbaka har våra skanners börjat notera ett gäng nya och oroväckande tecken på liv. Vi förväntar oss att ni kommer att möta en mycket mer varierad mängd "naturliv" nere i grottorna så DUBBELKOLLA ER UTRUSNING och TA MED SÅ MÅNGA GRANATER NI KAN BÄRA. DRG är inget företag för spetsörade fegisar, så det är bara att bita ihop, vi har kvoter att möta upp.
+
+Med vänliga hälsningar från ledningen,
+- The Ghost Ship Crew
+
+--- PATCH NOTES ---
+
+A GAZILLION NEW ENEMIES
+-----------------------------------
+GLYPHID MENACE
+- This distant cousin of the Glyphid Acidspitter is both smarter, faster, and more aggressive. It’ll burrow into the ground between firing off devastating volleys of corrosive goo, making for a high-priority target when spotted.
+
+GLYPHID WARDEN
+- This mysterious Glyphid sends out regenerative waves of spores to its nearby kin, reinvigorating and buffing them. Better take it out quick.
+
+GLYPHID BULK DETONATOR
+- A sickening horror of the deep. It’s Bulky and it Detonates. You’ll know it when you see it - and then you’ll likely die. You have been warned.
+
+NAYAKA TRAWLER
+- The first species encountered of this awful breed of Hoxxes wildlife. The Trawler has been observed in the Sandblasted Corridor Region and it burrows through sand at high speeds, aiming to catch prey in its’ extended maws as it passes. Don’t stand in front of it. 
+
+GLYPHID GRUNT SLASHER
+- A more durable and fast version of its weaker cousin, the Grunt. Plus...its long-bladed legs deal thrice the damage. Nasty buggers! 
+
+GLYPHID GRUNT GUARD
+- Another variation of the Glyphid Grunt. This one is heavily armored and has twice the health but is a bit slower than a normal Grunt.
+
+RADIOACTIVE GLYPHID PRAETORIAN
+- In the Radioactive Zone, Praetorians have mutated and now do radiation damage! Better keep your distance.
+
+RADIOACTIVE GLYPHID EXPLODER
+- Exploding with radiation! ‘Nough said! 
+
+RADIOACTIVE GLYPHID SWARMERS
+- They glow in the dark and are radioactive - they’re small enough that the radiation they emit isn’t enough to affect a healthy dwarf, however. 
+
+
+ENEMY TWEAKS
+-----------------------------------
+GLYPHID DREADNOUGHT OVERHAUL
+- New behavior: If the players are hidden in a small hole, the Dreadnought will now destroy the terrain until it gets to them. Can’t stop me now!
+- New attack: Swarmer Egg. Besides the fireball, the Dreadnaught will shoot a projectile full of swarmers. If hits the players, it will also cover them with pheromones, turning them into the target of new enemy swarmer spawns.
+- Regenerating armor. Make sure to attack it while it’s vulnerable. Health values have been modified to conform to this new system.
+- An all-new Boss Health Bar lets you know when you are facing a serious challenge. For the moment it’s only for the new and improved Dreadnought, but it’s almost like we have plans to use it for more things in the future, isn’t it? :>
+- Fixed the bug that would allow you to trap the Dreadnought using the Gunner’s shield
+- All its attacks and behaviors have been tweaked. The Dreadnaught is now more aggressive, more responsive, and more dangerous. Management wishes you luck.
+- More Nitra is spawning in elimination missions since you will need more ammo to take down a Dreadnought.
+- Fix so 2 Dreadnoughts can’t spawn in Point Extraction at the same time
+- Supply Pods won’t instakill a Dreadnought anymore - it still deals a good chunk of damage though.
+- Dreadnought's fireball damage reduced
+- Tweaks to Dreadnought's behavior for solo play
+
+Q’RONAR SHELLBACK
+- Rolling periods are now shorter so it will open up more often to shoot (which almost means more chances for players to shoot it).
+- Armor resistance and base health reduced.
+- It can only be found in Salt Pits now. Radioactive Exclusive Zone didn’t feel like a healthy place to settle down.
+
+CAVE LEECH 
+- Received a much-needed model and animation overhaul. Now grabbier than ever!
+
+NAEDOCYTE SHOCKERS
+- All new model and animations. 
+
+BET-C BATTLE MULE
+- BET-C’s grenades have proper models and improved shaders
+- BET-C now moves away if there are players too close to her for a few seconds
+- BET-C no longer turns into an unkillable murder machine if the parasites die too quickly
+
+MISCELLANEOUS ENEMY TWEAKS
+- Enemies now only use melee attacks that are in range to actually do damage
+- Grabber only screams if its target is valid
+- Chance of getting a generic scripted wave increased compared to special scripted waves
+- Tweaked all the Glyphids blood particles. They are now much more visible
+- Glyphids have received several new attack animations
+- Glyphid Warriors have been renamed to Glyphid Grunt, because that’s what everyone kept calling them. Also, it fits. :>
+
+
+MISSION TWEAKS
+----------------------------------- 
+DIFFICULTY
+- Difficulty slightly reduced on 2-3 player games on Hazard Level 3-5
+
+ELIMINATION MISSION
+- The location of the cocoons will no longer be displayed using an icon, now they appear on the terrain scanner
+- Cocoons are more evenly distributed throughout the map
+- New debris has been added in the vicinity of the Cocoons, in case you had trouble spotting the 15 ton, pulsating, gurgling, alien egg
+
+SALVAGE MISSION
+- Defense Zones have been increased a bit in size
+
+EGG COLLECTION
+- Reduced Egg Collection goals depending on Cave Complexity from 5, 8, 10 to 4, 6, 8 
+
+POINT EXTRACTION
+- Slightly increased spawn rates
+- Wave music added to the announced waves
+
+
+CLEARER GEM FRAGMENT INDICATION
+-----------------------------------
+- The glowing bits around embedded crystals like, Aquarq, Jadiz etc. now only glow when said item is close. No more returning to already mined spots!
+
+
+MORE GEAR MODS
+-----------------------------------
+- We are still in the process of adding mods to all the gear and we are slowly getting there. After this update, only the Pick Axe and the Grenades are left to do. 
+
+LMG GUN PLATFORM
+- Number of turrets, target prioritization, build speed, scan angle. You are a special snowflake and now your automated killing machine can be too.
+
+SATCHEL CHARGE
+- Have you ever thrown down a Satchel Charge only to regret it immediately? Well, now you can install a kill switch for safe disarming and retrieval. Plus many other mods like carve size and fear effects.
+
+FLARE GUN
+- More flares? Longer burn time? Auto-reload? Illuminate the situation with these and other mods.
+
+SHIELD GENERATOR
+- Customize the size, duration and recharge time of your happy place.
+
+Please note: You have been refunded credits and minerals invested in previous upgrades!
+
+STATUS EFFECTS ON HEALTH BAR
+-----------------------------------
+Enemies’ health bars now display status effects such as being electrocuted, etc. They also show temperature variations so players can now know how far from bursting into flames or freezing they are.
+
+
+VANITY
+-----------------------------------
+MK5 ARMOR SETS
+- Management has approved the introduction of an all-new set of armor for the most experienced employees to procure - the mighty Mark 5! 
+
+1ST PERSON ARMOR
+- All first-person animations now display the correct armor!
+
+SUPPORTER GEAR MORE GOLDIER
+- By popular request, the Supporter Upgrade Armor and Weapons have gotten a material overhaul - now more goldier than ever!
+
+
+BOSCO QUALITY OF LIFE IMPROVEMENTS
+-----------------------------------
+- It will now try to position himself below cave leeches, and not above them
+- It will be less glued to the floor when fighting except versus cave leeches
+- It will not fire if something other than enemies is blocking his line of sight
+- Doubled the frequency of Bosco checking if he should get out of the way
+
+
+NEW MISC MODELS, SHADERS, AND ANIMATIONS
+-----------------------------------
+- New Mallet model for all your building and repair needs
+- New Beacons for Supply Pods
+- New third person animations make it easier to see if a teammate is currently checking the Terrain Scanner
+- Attempt to fix light bug on Stasis Grenade
+
+
+MISC.
+-----------------------------------
+- Fix crash related to people joining and being immediately grabbed
+- Added a third-person animation to players looking at the Terrain Scanner
+- Fix spelling error in Mini-gun upgrade
+- Fix DisableMasterEQ setting to work correctly 
+- Work on reducing server list backend load
+- The Cryo Cannon’s feedback sounds have been made louder and easier to hear
+- The One Year Celebration is over! If you missed getting the One Year Celebration hat while it was available, tough beans! 
+- Also, Management has returned beer prices to normal. Drink responsibly (because it’s expensive!).
+- Sand and Ice geysers should no longer blow you out of the Drop Pod
+- Fixed Mixer Praetorians not working properly
+- Fixed Mixer spawning 4 times the amount of enemies it was intended
+- Fixed Mixer viewer name not properly working
+- Introducing new enemies to Mixer integration: Mactera Spawn, Mactera Grabber, Mactera Bomber, Acid Spitter, Web Spitter, and Shellback
+- Introducing new assists to Mixer integration: Resupply of ammo
+- Introducing mixer integration in the Space Rig: Buy the streamer beers, explode confetti
+- Exploders’ footsteps sound volume increased
+- Reduced the spawn amount of radioactive crystals
+- Better attenuation for the jukebox
+- Scout Grenade IFG FX tweaked
+- Chatbox: System Messages now green and bold, general line height slightly lowered.
+- Mission success music reactivated
+- Fix Linecutter performance
+- Fixed a bug that caused players with Ironwill to not show as downed in their player portraits after dying
+- Fixed trader terminal assignment showing that you completed it one mission too early
+- Tweaked sounds for shield
+- Fixed the cave leech sense bug that caused the sensing UI to get stuck on a players screen
+
+
+"
+	Update_11_ShortTitle = "DÖD OCH VAPEN"
+	Update_9_ShortTitle = "BORRAR DIG SENARE!"
+	Update_14_ShortTitle = "Featurecreep"
+	Update_28_ShortTitle = "FÖRMÅNLIG KÄNSLA"
+	Update_12_ShortTitle = "FLYGFÄN OCH FINANS"
+	Update_21_ShortTitle = "DÖDLIGT ALLVAR"
+	Update_18.5 = "Goooooo kväääääälll gruvarbetare!
+
+Halloween är här och vi har en liten uppdatering så ni får det spökligt! Vi ser inte riktigt detta som en riktigt uppdatering eftersom vi redan jobbar på den nästa stora uppdateringen som kommer inkludera nya vapen och ett uppgraderingssystem och helt nya priser för fingrejer och uppgraderingar. Spännande tider framför oss! Patchnotes följer på engelska.
+ 
+--- PATCH NOTES ---
+
+HALLOWEEN 
+----------------------------
+- Pumpkins added to the Space Rig for you to kick!
+- Trick-or-Treat Pumpkins in the caves. Try your luck smashing them!
+- Limited sale of Pumpkin Helmets! Boo muhahaha!!!!
+- Banner in Abyss Bar and moody lighting.
+
+
+RETIREMENT AND XP FIXES
+----------------------------
+We have been really positively surprised to see how well the retirement system has been received. However, we never intended people to go through a full retirement cycle as fast as we can see some of you are doing right now (as low as 4 hours). Our intent is that leveling a character to retirement level should take much, much longer. We have right now made a bunch of fixes to the existing system, but with update 19 you should be expecting a much bigger change to the system of Retirement and XP's. Consider yourself warned :-) 
+
+- Prevent Giving Retirement Rank if you have 0 XP
+- Prevent multiple clicks on retire character in the UI
+- Retirement assignments mission rewards removed
+- Triple XP is now Double XP
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- Fixed issue with Discord Party id's and preventing invite button to work in some cases
+- Fixed crash when failing Salvage mission during fuel pod stage
+- Fix for damage indicator could get stuck on the screen
+- Fixed some minor issues in Magma Quake
+- Graphics Settings: Disabling fullscreen restore to prevent mouse issue and not being able to click continue into the game
+- Fix case of clients cant load on join
+- Fix scout IFG slowdown, was incorrectly set to only 30% slowdown, reset to 75%
+- Lootbug drop nerfed. Used to drop 15-25 value gold and Nitra - now drops 5-15.
+- Fixed Eliminations mission not always spawning enough cocoons. Dreadnought cocoon now carves a space for itself and has less strict spawn requirements
+- Fix for cursor disappearing on campaign reward window.
+"
+	Update_20 = "God jul gruvarbetare! 
+
+Julen har kommit till Hoxxes och vi har med oss en present precis i tid till helgen! Dessutom är vi glada att kunna avslöja att det inte är ett mjukt paket! Faktum är att det är fullproppat med HÅRDA mods till Bosco, ett sjukrum, nya vapenmodeller och massor av andra coola grejer! Patchnotes följer på engelska.
+
+Alla lyckönsningkar,
+The Ghost Ship Team!
+
+--- PATCH NOTES ---
+
+BOSCO MODS
+----------------------------
+Do you need Bosco to be a Medi Drone or a Killing Machine? Now it is all up to you!
+
+Similarly to weapons, Bosco has access to mods that can be bought and equipped. These mods will let you customize the drone using some of the existing parameters, like for example number of revives or weapon damage, but we are also introducing a special secondary fire. Once the mod is active, the player can point with the Terrain Scanner and press [RIGHT MOUSE BUTTON] or (LEFT TRIGGER) and Bosco will fire a rocket at the target. 
+
+
+MEDIBAY 1.0
+----------------------------
+When you and your teammates fail a mission, you will afterward wake up in the Medibay. Fight Together, Fail Together!
+
+
+REVAMPED WEAPON MODELS
+----------------------------
+All the old weapon have been getting a graphical overhaul and should be on par with the new ones. For those who think looks are more important than substance!
+
+
+X-MAS IN SPACE
+----------------------------
+We couldn’t help our self and had to dress up the Space rig for the holidays. You can also buy a limited headgear and play Santa with your friends. Please don’t destroy the decoration!   
+
+
+MINERAL TRADE TERMINAL ASSIGNMENT
+----------------------------
+On order from Management new recruits no longer have direct access to the Mineral Trade Terminal. Access is now granted by proving yourself worthy by completing an assignment! Besides getting access to the Trade Terminal, players will be rewarded with 50 Croppa and 40 Jadiz upon completion.
+
+
+SAVEGAME RESTORE OPTION
+----------------------------
+You can now restore your savegame from the Options Menu. This is just extra safety measures in the unlikely event that you should lose your save data. Management refuses this has ever happened though!   
+
+
+WEAPON BALANCING: "WARTHOG" AUTO 210
+----------------------------
+- Base damage increased. 
+- Supercharged Feed Mechanism mod rate of fire reduced, Bigger Pellets mod damage increased 
+- Base damage increased. Supercharged Feed Mechanism mod rate of fire reduced. 
+- Bigger Pellets mod damage increased 
+- Base reload time reduced from 2.3 to 2.0
+
+
+WEAPON BALANCING: CRSPR FLAMETHROWER
+----------------------------
+- Tweaked Flamethrower Sticky Flames upgrades to be better balanced against direct burning of targets.
+
+
+OTHER WEAPON FIXES
+----------------------------
+- Killing enemies with sticky flame and setting them on fire should now correctly reward a kill
+- Fix sawed-off shotgun would always auto reload even if you did not have the perk equipped
+- Fix dual pistol animation in loadout terminal
+- New weapon sounds added
+- Added new Mission control speaks for all weapon and promotion assignments
+- Updated Weapon icons: Combat Shotgun, Pistol, Revolver 
+- Fixed m1000 does not reset zoom if reloading with a full clip
+- Fixed Dual Pistols fire animation could get stuck after revive
+- Fixed Burst fire pistol would keep firing if changing weapons during a burst
+- “Stagger” has been renamed to “Stun” since it caused some confusion.
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- Removed flickering monitors from mission select
+- Fixed Accessory Yes/No popup not responding to controller shortcuts
+- Fixed Space Rig UI issue when changing character
+- Improved late join flow - you can now select your character before the level loads and a - back button has been added
+- Fix crash related to walking on ice.
+- Fix join in progress crash
+- Fix late-join crash
+- Fix crash related to freezing
+- Fix crash when joining a game
+- Fix magma maggot not doing any damage
+- Fixed Lava geyser doing 0 damage on explode
+- Dreadnought can spawn more enemies 
+- Fix Jittery Revive for clients
+- Improve Spawning on enemies feedback
+- Improve exploder logic when about to explode and you headshot or freeze it.
+- Fix some enemies can catch fire if they walk upon the mining platform in point extraction
+- Fix Air and Lava geyser bubbling sound staying around after getting destroyed
+- Kick animation added to third person characters. Barrel kicking has never been more realistic!
+- New Mission Control speaks for weapon and promotion assignments
+"
+	Update_20.1 = "Gott nytt år gruvarbetare! 
+Det har varit jätteskoj att jobba med Deep Rock Galactic under 2018 och vi är långt ifrån färdiga! Tack till er alla som är en del av vad vi anser är galaxens bästa community. Ni är grymme och vi hoppas att ni kommer att fortsätta följa oss och spelets utveckling under 2019.
+
+Lyckönsningar,
+The Ghost Ship Team 
+
+
+--- PATCH NOTES ---
+
+UPDATE 20.1
+----------------------------
+The holidays have come and gone and all the seasonal stuff has been put away! We have fixed some crash bugs and you can now rebind controls to  ‘P’. Otherwise, it is very much the same as update 20.
+ 
+
+BOSCO MODS
+----------------------------
+Do you need Bosco to be a Medi Drone or a Killing Machine? Now it is all up to you!
+
+Similarly to weapons, Bosco has access to mods that can be bought and equipped. These mods will let you customize the drone using some of the existing parameters, like for example number of revives or weapon damage, but we are also introducing a special secondary fire. Once the mod is active, the player can point with the Terrain Scanner and press [RIGHT MOUSE BUTTON] or (LEFT TRIGGER) and Bosco will fire a rocket at the target. 
+
+
+MEDIBAY 1.0
+----------------------------
+When you and your teammates fail a mission, you will afterward wake up in the Medibay. Fight Together, Fail Together!
+
+
+REVAMPED WEAPON MODELS
+----------------------------
+All the old weapon have been getting a graphical overhaul and should be on par with the new ones. For those who think looks are more important than substance!
+
+
+MINERAL TRADE TERMINAL ASSIGNMENT
+----------------------------
+On order from Management new recruits no longer have direct access to the Mineral Trade Terminal. Access is now granted by proving yourself worthy by completing an assignment! Besides getting access to the Trade Terminal, players will be rewarded with 50 Croppa and 40 Jadiz upon completion.
+
+
+SAVEGAME RESTORE OPTION
+----------------------------
+You can now restore your savegame from the Options Menu. This is just extra safety measures in the unlikely event that you should lose your save data. Management refuses this has ever happened though!   
+
+
+WEAPON BALANCING: "WARTHOG" AUTO 210
+----------------------------
+- Base damage increased. 
+- Supercharged Feed Mechanism mod rate of fire reduced, Bigger Pellets mod damage increased 
+- Base damage increased. Supercharged Feed Mechanism mod rate of fire reduced. 
+- Bigger Pellets mod damage increased 
+- Base reload time reduced from 2.3 to 2.0
+
+
+WEAPON BALANCING: CRSPR FLAMETHROWER
+----------------------------
+- Tweaked Flamethrower Sticky Flames upgrades to be better balanced against direct burning of targets.
+
+
+OTHER WEAPON FIXES
+----------------------------
+- Killing enemies with sticky flame and setting them on fire should now correctly reward a kill
+- Fix sawed-off shotgun would always auto reload even if you did not have the perk equipped
+- Fix dual pistol animation in loadout terminal
+- New weapon sounds added
+- Added new Mission control speaks for all weapon and promotion assignments
+- Updated Weapon icons: Combat Shotgun, Pistol, Revolver 
+- Fixed m1000 does not reset zoom if reloading with a full clip
+- Fixed Dual Pistols fire animation could get stuck after revive
+- Fixed Burst fire pistol would keep firing if changing weapons during a burst
+- “Stagger” has been renamed to “Stun” since it caused some confusion.
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- Removed flickering monitors from mission select
+- Fixed Accessory Yes/No popup not responding to controller shortcuts
+- Fixed Space Rig UI issue when changing character
+- Improved late join flow - you can now select your character before the level loads and a - back button has been added.
+- Fix crash related to walking on ice.
+- Fix join in progress crash
+- Fix late-join crash
+- Fix crash related to freezing
+- Fix crash when joining a game
+- Fix magma maggot not doing any damage
+- Fixed Lava geyser doing 0 damage on explode
+- Dreadnought can spawn more enemies 
+- Fix Jittery Revive for clients
+- Improve Spawning on enemies feedback
+- Improve exploder logic when about to explode and you headshot or freeze it.
+- Fix some enemies can catch fire if they walk upon the mining platform in point extraction
+- Fix Air and Lava geyser bubbling sound staying around after getting destroyed
+- Kick animation added to third person characters. Barrel kicking has never been more realistic!
+- New Mission Control speaks for weapon and promotion assignments. 
+"
+	Update_27 = "Hej gruvarbetare!
+Uppdatering 27 är här och precis i tid för högtiderna! Denna uppdatering är en stor påse av både mindre och större godbitar: vi har gjort klart det sista maskineventet och lagt till en mängd små med signifikanta förbättringar och tillägg - och en ny fiende har också tillkommit! 
+ 
+Och från alla oss här på kontoret: Alla lyckönsningar och ett gott nytt år! Nu är det dags att gå tillbaka till jobbet!
+
+- The Ghost Ship Team 
+
+
+Patchnotes på engelska följer nedan:
+--- PATCH NOTES ---
+
+NEW MACHINE EVENT: OMEN MODULAR EXTERMINATOR
+----------------------------
+R&D came up with a brilliant idea for helping out our Pest Control teams: Project Omen - a vast network of interlinked Modular Extermination Towers, strategically inserted into caves all over Hoxxes. However, much to their regret, the Exterminators turned out to be just as dangerous to our own people as the bugs they were supposed to protect us against! So, the strategy is clear: Project Omen needs to be shut down. However… for security reasons, that can only be done through a… hands-on approach, by our esteemed ground teams. 
+
+Get in there, find and activate the Exterminator, engage the Maintenance Pads to expose the machine Cooling Tanks, and blow them to bits. Easy. Well, and you have to do so within a limited time window or the device goes into Lockdown.
+
+PS: Do note, the Exterminators can be constructed from a variety of different modules, so for your personal safety, do take care to learn the patterns of each. R&D aren’t in the business of making kids’ toys, after all...
+
+
+NEW ENEMY: GLYPHID OPPRESSOR
+----------------------------
+The Glyphid Oppressor is basically Veteran Glyphid Praetorian. It is a slow and extremely heavily armored tank - impossible to deal with from the front, but has a weak spot in the back. Up close, it deals a lot of damage and has a powerful area knockback attack. It can dig through the ground to get to you - Maneuverability is key to take it down this unstoppable beast.  
+
+
+LOADOUTS (COMMUNITY REQUEST)
+----------------------------
+Tweaking and modding your equipment has been a big thing in the game for a long time, and only got more complex with the introduction of Weapon Overclocks. So by popular demand, as well as our own, you can now set up and save up to three full loadouts for each of your dwarves!
+
+
+NEW WEAPON SKIN
+----------------------------
+The FOURTH RELIC weapon skin can be found for all weapons in the Cargo Crates in the mines. It’s a callback to the past glory and greatness of the dwarf nation - adorn your boomsticks with golden ritual bands and clan insignia, and make your stand!
+
+
+SMALL NEW ANIMATIONS
+----------------------------
+After introducing the recent pickup animations, we got inspired and have added a handful of other ones as well to better describe the actions happening. New animations added for: 
+- Ledge Grab
+- Interacting with a Terminal 
+- Hanging pose when on a zipline 
+- Throwing of carriable objects
+- ...and maybe some more?
+
+
+GAMEPLAY AND BALANCE TWEAKS 
+----------------------------
+- The Warning Shield Disruption will now give a smaller Health bonus.
+- Enemies now back out of active Shields instead of turning around and running away exposing their weak butts.
+- Glyphid Guards and Praetorians have had their Resistances to Temperature and Stun increased, making them a bit tougher to kill.
+- Glyphid Guard has had its health increased.
+- Glyphid Bulk Detonators unfreeze faster and when if they die while frozen they now explode with a nonlethal shockwave.
+- Jadiz and Enor pearl can now be found in Cargo Crates and are being dropped by the Hooli Hoarder.
+- Stepping over loose chunks of Minerals makes them float to you instead of just popping away.
+
+
+WEAPON MODS & OVERCLOCKS BALANCE
+----------------------------
+THUNDERHEAD AUTOCANNON
+- Fixed the fire rate ramp-up mechanic so that the Lighter Barrel Assembly mod now works correctly and the weapon's top rate of fire can be displayed in the weapon stats as rounds per second instead of a percentage.
+- Replaced the Quickfire Ejector mod with a Magazine Capacity mod.
+- The Damage Resistance at Full RoF mod now displays a shield icon when it is active and the resistance amount can be seen in the weapon stats.
+
+
+BEARDS & ARMORS 
+----------------------------
+R&D has been very busy cooking up a solutions to ensure heavy beards and heavy armor can coexist in peace and harmony. Facial hair and combat suits are not natural friends, but now selecting a large beard will custom fit your heavy armor to make sure there is room for all that bushy glory.
+
+This solution is not fully implemented yet! But our team of armorers and barbers are working round the clock to get all combinations of beard and armor looking their best.
+
+
+NEW CAVE CONTENT 
+----------------------------
+We have once again turned our attention to the caves and will be improving the variety of the special formations and flora that you can find down in the depths. For this update, we have added just a few new things to Fungus Bogs and The Salt Pits but there is more on the way.
+
+In the coming updates more will be added all over the place.
+
+
+ABYSS BAR
+----------------------------
+- All beers now have unique beer mugs! Beer just tastes better when it’s looking fancy!
+- (COMMUNITY REQUEST) Unlocking a new beer now triggers Lloyd to serve up a free round - Only fair since you spend all the time collecting the beer ingredients.
+Visiting the Abyss bar has never been more exciting! 
+
+
+UI & HUD
+----------------------------
+We are doing a lot of minor visual improvements all over the UI and HUD and will continue to do so in the coming time. For now, we’ve been focusing on making Unlocks and Rewards feel more satisfying and informative.
+- The mission map has received parallax scrolling to make it feel more dynamic
+- Ammo Status UI has been updated and better shows your ammo status
+
+
+MISC. & FIXES
+----------------------------
+- Mixer Integration now works again and can be enabled in the Options menu, and only Hosts can activate Mixer input
+- Item names in the Employee Wardrobe are now centered again
+- Fixed “Lead Storm” Powered Minigun  ammo display off by 1
+- Added Notifications to new Schematics at the Forge
+- Fixed Cosmetic count in the Accessory Shop not matching actual purchasable items
+- Random Mission names can now be translated if it makes sense
+- Minehead can no longer spawn on top of Machine Events during Point Extraction missions
+- Various typos and spelling errors fixed
+- Fixed case of terrain generation crash when in Dense Biozone
+- A bunch of enemies formerly not giving you Health on death when using the Vampire Perk now correctly gives you Health.
+- Fixed a rare bug that prevented some assignments from being started before the main one has been completed
+- You can no longer Sprint while carrying an item if your run speed is boosted above normal.
+- Aquarq and Dystrum icons updated to look less alike
+- Rebalanced Community Goals after this month’s results
+- Fixed a bug that prevented the player from backing out of a Terminal with ESC after purchasing an upgrade
+- Fixed a bug with an infinite loop of audio that occured when crafting resources and closing the reward display before it is done
+- Fixed a bug where interrupting the Beer Unlock animation by pressing ESC/X could trigger an everlasting audio glitch that was only resolved by restarting the game
+- Beer Ingredients no longer spawn in the Tutorial biome
+- Fixed a bug with public sessions still being listed on the Server List for 30 seconds after the player changed it to a solo game
+- Increased the damage done to enemies by falling stalactites and exploding plants
+- Reduced the performance impact of crevasses opening up during earthquakes in Magma Core
+- Fixed a bug which would reduce zone color caused by reentering the Mission Terminal after unlocking a new biome
+- Fixed Third Person reload for “Stubby” Voltaic SMG
+- Increased the size and improved the readability of the Laser Pointer’s display
+- Fixed a bug that caused large terrain cubes to form when removing floating mineral chunks
+- Fixed incorrect stat display for the recoil reduction of the Floating Barrel mod on the “Bulldog” Heavy Revolver
+"
+	Update_21 = "Hej gruvarbetare!
+Med den här uppdateringen introducerar vi fler galna utmaningar, en ny DÖDLIG svårighetsnivå för er att bemästra, flera nya fiender, Bemästrande och Utseende-system för vapen och en gaziljon andra fixar och förbättringar.
+
+Lunchpausen är över -- tillbaka till jobbet!
+
+- The Ghost Ship Team 
+
+--- PATCH NOTES ---
+
+
+NEW ENEMIES
+-----------------------------------
+BET-C - THE BATTLE M.U.L.E.
+Deep Rock Galactic didn’t invest much in the safety system of their BET-C series of combat M.U.L.E.’s. It only takes a few Xynarch Charge-Sucker parasites licking the robot’s circuits to turn them against the dwarves. In that situation, BET-C’s fast-tracking auto-turret and grenade launcher could become a major threat for any expedition. If you find an infected model, aim for the attached organisms and, once they are eradicated, carefully hammer BET-C until it turns into a trustworthy companion for the rest of the mission.
+
+Q’RONAR SHELLBACK 
+The Q’ronar Shellback is a deadly creature that you might bump into in the Radioactive and Salty regions of Hoxxes. Their tough shells and fast movement speed make them quite hard to kill - try to dodge its rolling attack and kill the Shellback when it stops to spray poison venom at you. 
+
+NAEDOCYTE SHOCKER
+The Naedocyte Shocker is a strange alien flying jellyfish-like creature. They often appear in large swarms and is preferably dealt with before they get close enough to zap you with electrical shocks. So far they’ve been spotted in the regions of Dense Biozone and the Glacial Strata.  
+
+
+NEW DIFFICULTY LEVEL
+-----------------------------------
+By popular demand, we’ve added a LETHAL new difficulty setting only for the most masochistic and badass dwarves out there! We hope you have “fun”... :D
+
+
+OVERALL DIFFICULTY REVAMP
+-----------------------------------
+GENERAL SPAWN LOGIC: The general logic behind how we handle spawns has gotten a big overhaul - balancing waves is now a much more exact and controllable thing for us. This is actually the biggest of all changes we’ve done to the difficulty system, but also the hardest to explain in detail - maybe we’ll do a blog post on this in the future :-)
+
+MISSION SPECIFIC ENEMY TYPES: The Mission Generator now also pre-selects the specific mix of enemies players will encounter in a given mission. Instead of randomly selecting from every enemy type available in the game, players will now face themed swarms of enemies. This change won’t be particularly visible right now, but will serve to improve the overall feel and flow of the enemy swarms as we add more enemy types to the game.
+
+The goal here is to make each mission feel a lot more unique, as well as making it more attractive for players to pursue a more strategic approach - if you have a rough idea of what awful things you might face down in the depths, you stand a better chance of going in as prepared as you can be.
+
+TIME: As a rule, lowering the time between spawning enemy waves means more enemies in general, which results in an overall higher difficulty. Knowing this, we’ve made a few changes to how we time waves:
+- Time elapsed before the first wave appears is based on Difficulty - so higher Difficulty means the first wave arrives faster.
+- Subsequent waves will also spawn faster depending on difficulty level.
+
+SPEED: Attack speed, projectile speed, and movement speed of enemies are increased for the highest difficulties.
+
+ENVIRONMENTAL HAZARDS: You now take more damage from environmental dangers on higher difficulties.
+
+YOU GET THE WAVES YOU DESERVE: Multiple waves are now allowed to spawn at the same time and do not cancel each other out.
+- Example 1: Digging two eggs out in Egg hunt will generate two small waves instead of only one. 
+- Example 2: You can not cancel a wave in progress by calling in the drop pod
+
+IMPORTANT BUGFIX! It turned out Difficulty scaling from 3 to 4 players was not working before - meaning that a 4 player game was as easy as a 3 player game. That is fixed now - so you should feel an overall increase in difficulty for 4 player games on all difficulties. We’ll, of course continue to monitor and tweak as needed.
+
+
+UI IMPROVEMENTS
+-----------------------------------
+NEW ENEMY HEALTH BAR
+We’ve completely revamped the way we put health bars on enemies. Now it will show when the player is aiming at an enemy and it will do it on top of that enemy (instead of in the center of the screen). Additionally, it displays the damage applied to the enemy with every shot.
+
+NEW MISSION READOUT BAR
+The Mission Readout Bar visible on the Space Rig has been updated with more information about the mission in progress, as well as gotten a graphical overhaul.
+
+
+NEW BIOME CONTENT
+-----------------------------------
+In The Salt Pits Region, you’ll now start seeing fragile Salt Platforms - stand on them, but be careful. They’re not tested for dwarf girth. 
+
+
+PREVENT LATE JOIN DUPLICATION
+-----------------------------------
+You want a diverse team? You don't like teams with three Engineers? The Host now has the option to select “PREVENT LATE JOIN DUPLICATION” from the Escape menu and Options menu. Selecting this option means players LATE JOINING your game will need to select a character class not currently in play. 
+
+Please note: This option does NOT restrict character selection on the Space Rig - we leave that up to you guys to figure out among yourselves. 
+
+
+MORE EQUIPMENT MODIFICATIONS
+-----------------------------------
+The new Modification System has now been implemented for the traversal tools. That means more customization for the Power Drills, the Platform Gun, the Zipline Gun, and the Grappling Gun. Furthermore, your armor modding opportunities also got some tender, loving care...
+
+
+WEAPON MASTERY AND SKINS
+-----------------------------------
+A Weapon Mastery Bar has been added to all gear - as you unlock mods for a given piece of gear, your Mastery with it increases. At certain levels of Mastery, you’ll gain free bonuses. For now the bonuses are restricted to Skins, and only for the primary and secondary weapon slots. Each weapon has three unlockable skins to get.
+
+The majority of our time with this has been spent on getting the system up and running, but we definitely intend to expand on the Skins System as we move a bit further ahead - you can expect other ways than just through the weapon masteries to earn skins in the future. 
+
+
+WEAPON TWEAKS & FIXES
+-----------------------------------
+Yes, we have been both buffing and nerfing a lot of the weapons and here is a compiled list of changes!
+
+PLASMA CHARGER:
+- Flying Nightmare damage no longer stacks on top of direct hit damage.
+- Bouncy Projectiles also bounce on enemies.
+- Charged Shot base area of effect reduced.
+- Normal shot damage increased.
+- Plasma Charger and other projectile weapons no longer ignores armor. Now they have to break it.
+
+"LEAD STORM” POWERED MINIGUN:
+- Base total ammunition increased.
+- Oversized Drum mod value increased.
+- Hot Bullets mod activates earlier.
+- Cold As The Grave mod no longer goes to a set value every time. As originally intended, it will now reduce the heat of the gun a certain amount per kill.
+- Aggressive Venting mod now works as intended.
+
+BRT7 BURST FIRE GUN:
+- Default effectiveness against armor reduced.
+
+DEEPCORE GK2:
+- Armor Penetration mod value increased.
+
+JURY-RIGGED BOOMSTICK:
+- Rate of fire mod renamed to "Double Trigger".
+
+"WARTHOG” AUTO 210:
+- Armor Breaking mod damage increased.
+- Stun Chance mod increased.
+- Turret Whip damage increased.
+
+"STUBBY " VOLTAIC SMG
+- Electrocution Bonus mod value reduced.
+
+DEEPCORE 40MM PGL:
+- Armor Breaking mod more effective.
+- High Capacity Magazine value increased.
+- Stun Hit mod renamed. Chances increased.
+- Incendiary Compound mod decreases the direct damage taken by enemies, but it will set them on fire.
+- Pressure Wave value fixed.
+
+BREACH CUTTER:
+- Extra Ammo mod value reduced.
+- Damage tweaks to compensate for the frame rate dependency fix.
+- Adjustments to the projectile to make it framerate independent.
+
+CRYO CANNON:
+- Sticky Ice cold effect reduced.
+- Base freezing power reduced.
+- Total ammo increased.
+
+CRSPR FLAMETHROWER:
+- Increased base damage.
+- Decreased base Rate of Fire.
+- Decreased base tank capacity.
+- Decreased tank capacity upgrade.
+- Decreased base sticky flames duration.
+- Decreased sticky flames duration upgrades.
+- Increased direct damage upgrade.
+- Increased direct burn upgrade.
+- Increased targets explode upgrade chance.
+
+SUBATA 120: 
+- Mactera Neurotoxin mod effect increased.
+
+
+UPDATED UNREAL ENGINE VERSION TO 4.21
+-----------------------------------
+For quite some time, we have been stuck with Unreal Engine 4.19, but we finally managed to update the engine to 4.21. It seems to have fixed a lot of GPU crashes. Happy days!
+
+
+MISC.
+-----------------------------------
+- Alien Egg Collection mission should now properly distribute the eggs in the mission area.
+- Assignment missions can now include Mission Modifiers. For difficult assignments, higher complexity missions will be preferred.
+- Fixed Restore Save pop-up showing up unnecessarily for ultrawide monitors.
+- Small adjustment to Steam warning message.
+- Fixed a LOT of spelling errors (Yes, we know. Keep sending ‘em our way if you spot any :D).
+- Attempt to fix voice chat issues.
+- A maximum of 2 voice lines for waking up in Medibay will now be played.
+- Umanite and Inert Uranium materials now look a lot more distinct from each other.
+- Landing in Sticky Goo reduces fall damage.
+- Fixed a bug with area damage falloff.
+- Friendly fire modification added to Bosco.
+- Glyphid Warriors, Spitters, and Web Spitters now don't always run away from explosions. It is chance based on different resistances depending on the enemy.
+- Mactera should no longer die just from being frozen.
+- Spitballers weak points now correctly take additional damage from weapons that do extra damage to weak points.
+- Fix hanging grunt scream.
+- Doubled the number of enemies that are able to target one player.
+- Acid Spitters now properly do Poison Damage. (Yes we know - expect a name change here later… :D )
+- Management has approved fixing critical mesh clipping of gantries near Abyss Bar.
+- More random mission names.
+- Many spelling errors fixed.
+- New fanfare when getting promoted. 
+
+"
+	Update_19 = "Hej gruvarbetare! 
+
+Vi har en fet, ny uppdatering på väg ert håll. Den här gången är det en uppdatering av er utrustning med ett nytt uppgraderinssystem och ett omgjort pensionssysten. Läs alla detaljer nedan (på engelska)! 
+
+--- PATCH NOTES ---
+
+8 NEW WEAPONS
+----------------------------
+DRG is happy to inform you that we’ve expanded on our list of suppliers, and a new, larger catalog of armaments has been made available! In order to obtain licenses for the new gear, you will need to complete Weapon Assignments. When a license has been obtained, you will be allowed to purchase access to the weapon in question. The following new weapons are now available:   
+
+NEW WEAPONS: GUNNER
+----------------------------
+"THUNDERHEAD" HEAVY AUTOCANNON: A peculiar but devastating weapon. The slow rate of fire is made up for by heavy damage, delivered with glee by the belt-fed .50-caliber tungsten rounds. The Thunderhead is a somber weapon for the sophisticated executioner, delivering death as inexorably as the passage of time itself.
+
+BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a small shotgun, the BRT (or "Burt", as it's sometimes called) is highly prized among collectors and connoisseurs alike.
+
+
+NEW WEAPONS: SCOUT
+----------------------------
+M1000 CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".
+
+ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. 
+
+
+NEW WEAPONS: ENGINEER
+----------------------------
+"STUBBY" VOLTAIC SMG: So what's better than an SMG? An SMG that fires ELECTRIC BULLETS! The boys in R&D have wired a prototype ArcGen into the guts of this trusty Subata 312, meaning it now unleashes a storm of electrified DEATH! Word of warning: Keep away from water.
+
+BREACH CUTTER: The Breach Cutter releases directional blasts of sonically-charged plasma powerful enough to deal with most any alien in your path. Originally a mining tool, it's now been frequency-tuned to crack open flesh and bone rather than the sediment deposits it was designed for - often with quite spectacular results!
+
+
+NEW WEAPONS: DRILLER
+----------------------------
+
+CRYO CANNON: Mad geniuses have tried perfecting this implement for as long as anyone can remember, but our lads at R&D seem to have perfected it! Handily portable (for a dwarf, anyway), it does exactly what you think: It's a friggin' freeze ray. Let 'em have it.
+
+EXPERIMENTAL PLASMA CHARGER: Bullets are so last year. Instead, why not incinerate your enemies from the inside out with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D).
+
+
+NEW WEAPON MODS SYSTEM
+----------------------------
+The Weapon Upgrade System has been scrapped in favor of a brand new Weapon Modification System, and each weapon can now be customized and tweaked to your individual tastes! More than 200 new Weapon Mods have been introduced, a lot of them consisting of entirely new features. For example, “Blow-through” is now a thing - fire bullets straight through an enemy to hit enemies behind it! Or how about “Fear” - send enemies into a fleeing panic by sheer brunt of your firepower! 
+
+For this round of upgrades, the new system has been implemented for all new and old weapons, but it is not yet implemented on tools, grenades, and armors. This will happen with future updates. 
+
+Also, no more static still-pictures of gear on the upgrade screen - we’ve finally gotten a proper and rotatable 3D model viewer implemented!
+
+
+REPRICING OF VANITY AND WEAPON MODS
+----------------------------
+All vanity items and weapon upgrades have been repriced! You’ll keep any vanity items already unlocked. All weapon upgrades have been refunded, leaving you open to explore the new system at leisure. 
+
+
+PROMOTION (FKA RETIREMENT)
+----------------------------
+The Retirement system has received a fairly significant overhaul. The changes are as follows:
+
+- “Retirement” has been rephrased to “Promotion” instead.
+- The level cap for each dwarf has been raised from 20 to 25
+- The last mission in a Promotion Qualification Assignment is no longer a forced solo mission
+- Promoting your dwarf no longer takes any progress away from you! Yes, you read correctly - all weapon upgrades carry over! The only thing that resets is your character’s level
+- You still have to clear your debt to DRG before getting a promotion
+- Titles for player ranks have been extended to player rank 75 and a lot of new titles have been added
+
+
+GUNNER: SHIELD GENERATOR 
+----------------------------
+The Gunner has swapped his DET PACK (C4) for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it.  We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!”  
+
+
+EGGHUNT TWEAK
+----------------------------
+Digging an egg free in Egghunts now has a chance of spawning a group of angry bugs. The number of eggs you need to collect have been increased a bit.    
+
+
+BEER BUFFS 
+----------------------------
+TODAY’S SPECIAL: A Randomly chosen buffed beer will be available for purchase each “day” (it updates when the mission map gets new missions). Also, the buffs are actually working now! :-)
+
+
+TERRAIN SCANNER ALIGNMENT
+----------------------------
+With the Terrain Scanner active, hit [SPACE] / (X) to spin your character around to face in the direction of the map.
+
+
+SPECIAL WAVES
+----------------------------
+Once in a while you can now run into pure waves of Praetorians, Macteras, Glyphid Warriors or Swarmers. Whether these waves are harder or easier than normal waves is for you to figure out. 
+
+
+ENEMY TWEAKS
+----------------------------
+- NEW ENEMY - THE GLYPHID VETERAN WARRIOR: The Veteran has 50% more health and much stronger armor than a normal Glyphid Warrior.
+- Glyphid Praetorians have been to the gym! Their health has been buffed by 50% and they’re less susceptible to being shot in the head than before - getting behind them and shooting them in their big fat butts is now much more important.
+- Sound has been added to Exploder footsteps. Listen carefully and you can hear them sneak up upon you!
+- Removed fire particle effect when other enemies are hit by the Praetorians Acid Spray.
+It was not supposed to be there and was causing a significant frame drop.
+- Tweaked the number of enemies spawning for 2-player games down a bit for Hazard 2 and 3.
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- Small Character Videos added to the Character Selection Screen to give a quick impression of the different classes. 
+- Hints on the loading screen have been updated with 3 new hints for Milestones and Perks, The Terrain Scanner and Mision Mutators.
+- Added some more motivational quotes for screens in Space rig.
+- Bosco now determines the angle of which to dig tunnels in dirt from the players face, rather than their feet, to the point they pointed at. This should result in more expected results, especially when standing close to the dirt
+- Damage multipliers on Physical materials changed to be on the physical material
+- When someone late-joins your game, there is a grace period where their friendly fire is reduced so they deal significantly less damage to you and your teammates. 
+- Fixed Abyss Bar menu not closing correctly when pressing ESC
+- Changed Acid symbol to Biohazard / Poison symbol.
+- Better flare overdraw prevention
+- Flares now cast shadows!
+- Grenade Launcher grenades are much more visible while in the air.
+- Purchase Item UI now show all required resources
+- Heat cooldown on Minigun tweaked
+- Blowfly should now rotate correctly when shooting
+- Fixed a bug that caused Bosco to abort his light task as soon as there were any enemies near the player
+- Made Praetorians burn a bit later
+- Memorial screen no longer stacks up names to spawn and spams them all at once if framerate is low
+"
+	Update_15 = "Hej gruvarbetare! 
+Innan vi ger oss ut på några veckors välbehövd sommarsemester har vi kokat ihop en ljuvlig liten mutation till spelet åt er alla! Patchnotes följer på engelska.
+
+--- PATCH NOTES ---
+
+MUTATOR SYSTEM
+----------------------------
+From now on, all missions have a chance to appear with Mutators attached to them. They come in two variants: Warnings and Anomalies. Anomalies are neutral or even positive, while Warnings will severely increase the danger you’ll face. Missions with Warnings on them also add a substantial Hazard Bonus to the final score. Look on the mission map for the new Warning and Anomaly icons!
+
+The following Warnings and Anomalies are already implemented, and we expect to add lots more in future patches.
+
+WARNINGS:
+
+- EXPLODER INFESTATION: Whatever mutation affects the Glyphid Exploders, this is likely one of the epicenters! Hordes of ‘roided-up, rabid Glyphid Exploders will do their best to turn you into a fine red mist.
+
+- SHIELD DISRUPTION: The cave is heavily electrostatically charged. And wouldn’t you know it, it makes your shield generators short out. So...no shields!
+
+- MACTERA PLAGUE: Macteras of all kinds have completely taken over this cave! Flying horror descends from the sky! You could say it’s going to be... Macterrible!
+ 
+- CAVE LEECH CLUSTERS: If you have a phobia of Cave Leeches, this cave will either cure you or confirm your worst fears...
+
+ANOMALIES:
+
+- GOLD RUSH: This cave has extraordinarily rich deposits of gold; huge veins of it just waiting for the sweet caress of your pickaxe!
+ 
+- MINERAL MANIA: Crafting Minerals galore! It is the reason to go to Hoxxes after all.
+
+- TRIPLE XP: 10 credits says you can’t guess what it does...
+
+- LOW GRAVITY: Jump vast chasms! Scale nearly vertical walls! Just keep in mind... fall damage is still a thing, so don’t get TOO cocky...
+
+- CRITICAL WEAKNESS: Multikill! Aim for the weak spots for severely increased damage!
+
+- GOLDEN BUGS: Each kill earns gold for the team!
+
+- RICH ATMOSPHERE: You feel energized and can move faster around. Your beautiful voice may appear slightly altered by the rich atmosphere, Chipmunk!
+
+
+TERRAIN SCANNER - NOW IN 3D!
+----------------------------
+The ol’ flat Terrain Scanner has had an overhaul! The camera is now fully rotatable and zoomable, and you’ll have a much easier time finding where you need to go. Terrain Scanner has been mapped to both [TAB] and [M] by default. Go try it out! 
+
+
+VANITY UPDATES
+----------------------------
+DYE YOUR HAIR OR DIE DYEING!
+For Update 14, we experimented briefly with locking hair colors to classes, to make them stand out more. It turns out the players didn’t enjoy that too much... in fact, we practically feared being strung up like elves! Rejoice, however! Custom hair colors are back, and are even a bit more advanced now!
+
+MORE HEADWEAR ADDED
+A couple of new hairdos have been added (The Franklin and The Gamekeeper), as well as a bunch of much-requested variations to some of the hats and helmets!
+
+TAKE YOUR DWARF FOR A SPIN!
+Ever wondered what your dwarf looks like from behind? Well, you can now rotate your dwarf in all the relevant menus!
+
+Note: For those who wondered where all your armor went after Update 14, it was down to a massive reworking of the system we use for all the Vanity items. All those affected should have gotten all the credits and minerals you spent on them back.
+
+
+BOSCO UPDATES
+----------------------------
+AN EVEN BETTER BOSCO
+Bosco has had a brain upgrade and should now be much better at doing what he’s told and dishing out damage. He is so good that we had to tweak down his damage from 8 to 6 per bullet. His burst fire has also been adjusted to be a bit slower.
+
+RETURN OF THE DRONE
+When starting a multiplayer game solo, Bosco joins you until another player joins. If that player drops out again, Bosco will reappear!
+
+
+SERVER IMPROVEMENTS
+----------------------------
+EASY FRIEND INVITE
+Invite your friends directly into your game! And you don’t even have to have set up a mission yet!
+
+JOIN FRIENDS UNINVITED 
+You can always join your friend’s game - unless they already have a full team that is!
+
+SEE FULL SERVERS
+The Server List didn’t show full servers before - it does now!
+
+
+MISC.
+----------------------------
+REGENERATING HEALTH
+Health will regenerate to a specific minimum after taking massive damage. No more running around with 1 hit point!
+
+MINIGUN UPDATE
+The Minigun has had a massive overhaul, with a snazzy new model, improved animations, and new particles. After firing the Minigun, the accuracy is reduced at a slower rate.
+
+LOOK WHO’S TALKING NOW
+An icon is shown next to a player’s icon when using voice chat.
+
+HUD IT LIKE YOU WANT
+Some aspects of the HUD can now be hidden through the Options. For now, Enemy Health Bars, the Compass, your depth, Player Name, Class, and Class Icon.
+
+SALVAGE OPERATION TWEAKS
+- Uplink and Fuels Cells have gotten new models and animations.
+- Escape Pod powering up time reduced from 120 seconds to 90 seconds.
+
+PERKS, BUFFS, AND NERFS
+- Increased the sprint speed bonus of the Weekend Athlete perk.
+- Rank 3 Field Medic Perk will send nearby Glyphids fleeing when you finish reviving a teammate.
+- Rank 5 Resupplier Perk will auto-reload all your weapons when you resupply.
+- Fixed grammar and typos on several Perks and Milestones.
+- Red Sugar Rocks: Max rank will give you a 20% speed boost for ten secs. 
+
+
+"
+	Update_17 = "Hej gruvarbetare! 
+Det är dags att höra ribban igen. Välkommen till Oktoberfest i rymden! Förutom att vi firar att vi öppnat abyssbaren har vi ett gäng nya grejer för er att utforska och njuta av. Glatt gruvbrytande allesammans! Patchnotes följer på engelska. 
+
+--- PATCH NOTES ---
+
+WELCOME TO OKTOBERFEST
+----------------------------
+ABYSS BAR
+Say hello to your drone bartender Lloyd, who will be serving cold refreshments for all of you hard workers! Be aware that the refreshments come in different potencies, so take it easy and drink responsibly - you are at work after all!  
+
+JUKEBOX
+The Jukebox has 13 new songs for you to enjoy, Dance Monkeys!!
+
+HOOP THE BARREL - THE GAME
+Who is paying for the next round? Go kick some barrels through the incinerator hoop and see who wins! 
+
+LIMITED SEASONAL VANITY
+To really celebrate Oktoberfest, you can buy the OKTOBERFEST FEDORA for 1200 credits from the Vanity Shop. The Fedora is on sale for a limited time only, so get it quickly! 
+
+PERKS UPDATE
+----------------------------
+We have added a bunch of new perks:
+HEIGHTENED SENSES: Get a warning when a Cave Leech is targeting you!
+LOVEABLE: Take less damage from friendly fire!
+IRON WILL: Stay functional for a short time after reaching 0HP!
+VAMPIRE: Regain a little health when you kill medium and larger sized creatures with a melee attack!
+STRONG ARM: Throw flares further
+Tweak to VETERAN DEPOSITOR: At perk level 5, you receive a 30% damage reduction when you are close to the M.U.L.E.!
+
+CARRY ITEMS
+----------------------------
+Now you can drop, throw and catch gems or other carryable items! Press [E]/ (X) to pick up. Press [E]/ (X) to drop. Press [LEFT MOUSE BUTTON]/ (RIGHT TRIGGER) to throw.      
+
+BIOME UPDATES: MAGMA CORE
+----------------------------
+- Small lava geysers in groups added
+- Earthquakes now might cause the ground to crack open 
+
+NEW FIRE SYSTEM
+----------------------------
+Burn enemies for a while to set them on fire. Fire can propagate to nearby enemies. Same goes for Dwarves, so watch it! 
+
+WEAPONS
+----------------------------
+- Brand new and improved flamethrower model
+- Updated weapon icons
+- Improved first person particles plus new and revamped particles for most weapons
+
+NVIDIA ANSEL SUPPORT
+----------------------------
+Make cool screenshots with NVidia Ansel. ALT + F2 will bring up the Ansel menu. (This feature only works for Steam users with NVidia cards.)
+
+NEW PRIVACY OPTIONS
+----------------------------
+Privacy tab added to Options to give players better control over their data. Everything is anonymous, but you can still opt out if you want to.
+
+ENEMIES
+----------------------------
+- Damage of Praetorian acid spray reduced by approximately 50%
+- Improved Bomber death animation
+- Enemies take more damage when they are frozen
+
+MILESTONE PROGRESSION FIX
+----------------------------
+- Milestones related to Vanity or Upgrade acquisitions will retroactively be awarded to those who achieved them before they were introduced. 
+
+SOUNDS
+----------------------------
+- A bunch of new voice lines for the dwarves!
+- New weapon audio: Minigun, Flamethrower
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- Improved cave generation, items less likely to spawn inside level geometry 
+- Map display resolution increased
+- Voice lines for destroyed terrain no longer trigger if volume mined is 0
+- Proper naming on a Red Crystal in Salt Caves + particles
+- Weapon can no longer be reloaded when you’ve run out of ammo
+- Molly’s Destination Marker should no longer rotate weirdly if joining in progress
+- Client’s screen should no longer shake if the Host is trying to break free of ice
+- Fixed issue with Discord UI not receiving key events while on top of focused UI
+- Correct animation now plays if the Bomber dies while spitting acid
+- Language settings changes are now correctly saved
+"
+	Update_14 = "Hej gruvarbetare! 
+
+Den här gången har vi kokat ihop en rätt massiv uppdatering precis i tid inför sommarsemestern. Och på tal om sommarsemestern - DRG ställde just in er. Nya uppdrag och monster väntar och ni har massvis av milstolpar att uppnå! Så tillbaka till gruvan!
+
+MAJOR NEW FEATURES
+------------------------------------
+NEW MISSION TYPE: SALVAGE OPERATION
+It is your job to go in and clean up after a failed mining expedition. You will have to salvage three Mini Mules and repair a damaged drop pod in order to bring all the lost equipment home. Get ready for a combat heavy experience where teamwork and good preparation is key to success! Don’t be another failure!
+
+NEW ENEMY: THE MACTERA GRABBER
+The Grabber is the new terror from the sky. It snatches up a random dwarf and flies away with him, before dropping him to crack like a nut on the floor below! Depending on your luck, you might just end up with some bruises - or you might end up being dumped into a chasm! Shoot ‘em quick, that’s our suggestion...
+
+KEY PERFORMANCE INDICATORS
+Deep Rock Galactic are now tracking your work performance! On the KPI screen in your cabin you can check out detailed stats on your performance, you can reach milestones and earn perk points, and you can spend those points on unlocking awesome perks for your dwarves, making your day to day work a little easier.
+
+IMPROVED VANITY CUSTOMIZATION SYSTEM 
+The Vanity System has had a complete overhaul, expanding greatly on our options. Here are some of the new features:
+- Build the beard of your dreams! Individually customize hair, eyebrows, sideburns, moustache and beard!  
+- All armor has received an overhaul! More detail has been added in general, and armor now supports textures! Look at the nice tiger stripes on the Gunner’s armor!
+- The original selection of beards has been broken up into parts and added back in to support the new system. 
+-  A small selection of new Hats, Hair, Helmets, Beards, Moustaches, and Sideburns have been added. We are by no means done here yet, this was just what we managed to get in for this patch.
+
+NEW ENVIRONMENTAL HAZARDS
+- During missions in the Sandblasted Corridors, you will now have a chance of  encountering blinding sandstorms and forceful wind tunnels. 
+- The Magma Core just got a lot hotter! Try to avoid the hot magma rock - It burns! Also notice that explosions will expose the hot magma rock under the surface - turning the battlezone into a dangerous place for friends and foes.  
+
+BUFFS AND NERFS
+------------------------------------
+ENGINEER: PLATFORM GUN
+- Start ammo increased from 10 to 12 platforms. 
+- Mag size increased from 3 to 4 platforms. 
+- Extra platform upgrade added. First upgrade adds 4 to max ammo,  second upgrade adds another 4, making it possible to shoot out 20 platforms when fully upgraded. Time to build some awesome bridges and staircases!
+
+ENGINEER: SENTRY GUNS
+- Starting sentry gun max ammo increased from 400 to 425.
+- Damage per bullet has been decreased from 7 to 5.5.
+- You can now upgrade max ammo for the sentry guns. The upgrade gives +75 max ammo - making you reach a total max ammo capacity of 500.  
+
+DRILLER: HANDGUN
+- The starting clip size of the Handgun has been increased from 8 to 12 bullets.
+- Clip size upgrade has been increased from +4 bullets to +6 bullets.
+
+BOSCO
+- Bosco now deals 8 points of damage instead of 6 per shot 
+- Friendly fire factor decreased from 0.2 to 0.1. Not fun being killed by your favorite Drone afterall!
+
+OTHER IMPORTANT FIXES AND FEATURES
+------------------------------------
+ENEMIES
+- Praetorians now spit acid!
+- Praetorian difficulty rating increased. It is now more deadly, so you will encounter fewer of them.
+- Fixed Deeptora Swarms not attacking players.
+- Added armor and weak spots to Infector. Also increased base HP, aim for the weak spots for a quick kill.
+- Fixed swarmer tunnel debris in Radioactive.
+- Blood splatter when enemies hit you.
+- Added Jump attack to the Glyphid Swamers.
+- Tweaked end wave pressure.
+- Reduced the alert distance of Glyphid Grunts  and Praetorians. Players have to be closer before they attack.
+- Added new Glyphid sounds and tweaks.
+- Swarmer Tunnels debris material fixed
+- Salt Caves tunnel crystal madness fixed.
+- Exploders get speed boost when near another Exploder exploding.
+- Fixed Glyphid Spawner weak points.
+- Increase AI avoidance for Exploders.
+- Fixed Cave Leech grabbing already paralyzed target.
+- Align Glyphid Spitters towards target when stationary.
+
+BIOMES
+- Red Sugar leaves chunks on the ground if you mine it while at full health.
+- Radioactive materials and colour tweaks.
+- Tweaks on post process effects.
+- Steam Geysers in Fungus Bogs can now spawn at more interesting angles. Have Fun!
+- Made the Glowtree illuminate a much larger area. The more Bulbs you shoot the brighter it gets
+- Fungus Bogs wall material tweak.
+- Lush wall material tweaks, Nitra tweaks, Gold tweaks.
+- Slightly randomize animation speed of animated foliage so they are not all in same phase of animation.
+- Added exploding plants to Fungus bog and Dense Biozone (as colour variant).
+- New passive creature: Silicate Harvester added to Dense Biozone and Radioactive regions. You can ride it!
+
+CAVE GENERATION AND MISSIONS
+- New cave shapes. More variations for the level generation.
+- More randomization for the existing cave shapes.
+- Unique cave structure for the Salvage Operations.
+- Cave complexity is now more accurate, making sure that the difference between simple and complicated caves is more apparent.
+- High Complexity missions are now locked to player rank (2 for medium and 3 for high complexity).
+- Hazard level: Tourist has been removed for now. Very few players was playing this mode and it felt a bit broken how you were earning zero gold or xp.
+
+WEAPONS AND TOOLS
+- Added laser pointer warning to radioactive crystals.
+- Added Gatling Gun gunsling animation.
+- Fixed laser pointer distance bug.
+- Holding time to equip laser pointer with controller is shorter.
+- Sentry gun fix - It would sometimes shoot things that were not enemies.
+- Bullet casings for gatling gun and assault rifle have been reactivated.
+
+HUD
+- Teammates icons always visible displaying current health, special states (like being grabbed by a cave leech), and shouts.
+- Laser pointer pings when it hovers over a resource.
+- When laserpointer equipped, hold FIRE to place personal waypoint.
+- New crosshairs for most weapons.
+- Hit indicators removed in their previous form. Now some parts of the crosshair will turn red to confirm that an enemy has been hit. Red arrows appear on the health bar when the shot hit a weak spot.
+
+MISC.
+- Update Chinese translation.
+- Turkish added to supported languages.
+- Fixed trading buy/sell+crash exploit.
+- Fix Bosco related crash.
+- Tweaked 'Player Down' HUD & team icons.
+- Mission Control now announces gravity recalibration.
+- The hosting player now jumps the same height as clients (was lower before).
+"
+	Update_28 = "Hej gruvarbetare!
+Sugen på förmåner? Bra, för Uppdatering 28 är här för att tillfredställa er med en köttig uppfräschning av hela förmånssystemet, första delen av vår nya design av Rymdstationen och några riktigt coola sätt att anpassa hur era vapen ser ut,
+
+Vårt fokus här på Ghost Ship är att göra spelet redo för 1.0. En del av av de pågående grejerna vi jobbar med handlar om en bättre upplevelse för nya spelare, samt den uppkommande Gruvarbetarmanualen som kommer att lära er mer om spelet. Sist men inte minst kommer vi att göra massor av livskvalitetsförbättringar - men det är i kommande uppdateringar, nu pratar vi om Uppdatering 28. Låt oss grotta ner oss!
+
+Vänligen,
+The Ghost Ship Crew
+
+Patchnotes på engelska följer nedan:
+
+--- PATCH NOTES ---
+
+PERK SYSTEM OVERHAUL
+----------------------------
+Perks can now either be Passive or Active. Passive Perks are pretty much what the Perks used to be. Equip one of these and you get a passive increase to a given stat. No activation needed - equip it and the benefit is just there. Active Perks, however, requires activation from you, and generally have either a Cooldown on their use or limited uses - sometimes even both! Their limited usability is compensated for by letting us make them more powerful.
+
+With Update 28 we are also introducing a bunch of new Perks, both Passive and Active, and have tweaked the costs and requirements for pretty much all of them. This means that all Perk purchases have been reset, any spent Perk Points have been refunded to you, and all Perks need to be unlocked once more.
+
+We hope you’ll have a lot of fun playing around and experimenting with the new Perk System, and as always we’re looking forward to hearing your feedback. 
+
+
+SPACE RIG REDESIGN
+----------------------------
+The Space Rig is something we’ve wanted to update for a long time. It is, however, a large task, and we will be doing it in steps. The first and most crucial step is what we’re doing in Update 28 - the overall rearranging and restructuring of the place, and getting everything in more contextually sound and meaningful positions instead of just having rows of identical terminals next to each other. Work on the Space Rig will continue from now on and up until we end Early Access and launch the game fully, and will include full terminal overhauls such as how we’ve treated the Forge by giving it a fully custom model from the get-go.
+
+
+PAINTJOBS & FRAMEWORKS [COMMUNITY REQUEST]
+----------------------------
+Sometimes good things come out of a bug! As some players have pointed out, a bug in the Equipment Terminal allowed you to merge some of the weapon skins together. We’ve decided to implement it as a full feature after seeing the response it’s been getting. 
+
+Weapon Skins are now divided into two distinct categories: Frameworks and Paintjobs. Frameworks change the actual model - adding or altering stuff on the weapon to make it look different. And Paintjobs is the overall coloring and texturing of the weapon. Making this split allows for a lot more combinations than were available so far, and should serve to make new Paintjobs feel a lot more rewarding to get than before since you can use it with any Framework. Every existing skin has gone through this revamp, and you get to keep anything you’ve already unlocked.
+
+
+BLANK CORES VS. RESOURCE CANISTERS [COMMUNITY REQUEST]
+----------------------------
+If you have obtained all Overclocks you used to get a resource core in place of an Overclock. You now get a blank core instead. We agree with you that it makes so much more sense, though it will make you guys who play a lot, burn through the content that much faster. 
+
+
+MISC.
+----------------------------
+- Lootbugs can now seek out and eat loose mineral chunks!!!
+- Overhauled the damage direction indicator
+- Added loadout selection to the Character Selection Terminal
+- Added loadout selection to the Character Selection screen when joining a mission in progress
+- Added new shield regeneration sound
+- Added a new headbutt attack to the Glyphid Oppressor
+- Added a new sound that plays if you have no flares when you try to throw one
+- Resupply Pods are now on a shared (short) cooldown to prevent multiple people accidentally ordering at the same time
+- M.U.L.E. and Bosco are now visible on the Terrain Scanner
+- Dwarves are now less attractive to walking enemies and more attractive to flying enemies when using a zipline
+- Added a first and third-person pickup animation to the Impact Axe
+- Added a first and third-person pickup animation to the Satchel Charge
+- Black Box objectives are now affected by gravity
+- Golden Bugs now drop a chunk of gold when they die instead of just adding it to the Team Depository
+- Space Rig: Fixed escape-holes around the window (shame on you!)
+- Increased the volume of the battery sounds for Cargo Crates
+- Improved the collider of the Cargo Crates
+- Cargo Crate outline is now visible on hold Tab from when you insert the first battery until the loot is collected for the local player
+- Fixed some networking problems with the Cargo Crate that made it have the wrong color for clients
+- Mactera Grabbers and Nayaka Trawlers can no longer grab Spitball Infectors and Brood Nexuses if they have been hit by a Pheromone Grenade
+- Fixed a bug that zipline can impact characters and enemies when it’s not supposed to, creating really short and silly ziplines
+- Fixed “Lead Storm” Powered Minigun getting extra heat if you fire in small bursts
+- Fixed Mactera Spawns not dropping Kursite if frozen
+- Fixed a bug that made some Omen Modular Exterminator module combinations rarer than others
+- Fixed Homing Drone modules of the Omen Modular Exterminator all tilting in the same direction when opened
+- LMG Gun Platform: Changed the Manual Targeting mod to the Hawkeye System mod which increases the effective range of the turret(s) on top of offering manual target prioritization
+- Proximity Mine now has a 3-minute lifespan after being triggered once
+- Disabled dwarves being outlined when shouting
+- Changed text from pickup to disarm when retrieving a Satchel Charge 
+- [Translation] Fixed Weakpoint Stun Chance / Duration could not be translated correctly
+- Fixed a camera shake issue with the Resupply Pod when the terrain beneath it got removed
+- Fixed a crash caused by the Pheromone Grenade
+- Fixed a bug that caused a grenade to stick to the player's hands if you are grabbed while throwing a grenade
+- Customizable HUD: Perk HUD icons now hide/show along with player health bar
+- Loadout selector added to The Accessory Shop
+"
+	Update_16 = "Hej gruvarbetare! I är tillbaka i sadeln efter en skön sommarsemester och har satt ihop en ny uppdatering åt er. Som svar på allt det varma vädret vi har haft tänkte vi att det uppenbara vore att lägga till ett isbiom. Eller? Patchnotes följer på engelska.
+
+--- PATCH NOTES ---
+
+NEW BIOME - GLACIAL STRATA
+----------------------------
+Brave an all new icy hellscape, complete with unstable and deadly ice spikes in the ceiling, terrifying crevices opening up under your feet, exclusive enemy types, and the first iteration of our all new Temperature system! Play it cool - just be careful you don’t end up as a meat popsicle...
+
+CAVES
+- Ice! The main material of the Glacial Strata planetary region is ice instead of rock, so fire melts it! Use this information wisely.
+- Deep snow! Look out for piles of it. It won’t harm you, but it’ll slow you down and is  impossible to sprint through.
+- Frozen lakes! Watch your step - they’re quite slippery.
+- Hot Springs! The only relief from the biting cold, if you disregard the “tools” you carry with you.
+
+FLORA
+- Explosive Ice Plants! Use them to freeze aliens in their tracks, but watch yourself...they’re just as likely to hit you as the enemy.
+- Platform Plants! Shoot them to release the liquid inside - it will freeze instantly and form useful (but brittle) platforms for you to use.
+
+ENEMIES
+- Ice Bomber! A variation of our brand new Mactera Bomber enemy. It’ll release sickening streams of freezing substance as it flies past you.
+- Frost Glyphids! Several types of Glyphid have adapted to the cold and will continue to hunt you for your lovely warm flesh even here. And watch out for the Frost Praetorian - it’s a stone cold killer. On the upside, they all seem quite susceptible to heat of any kind…
+
+HAZARDS
+- Cold Vents! Watch out for cracks in the walls and telltale horisontal streams of air - occasionally, they’ll let out blasts of bone-chilling wind.
+- Thin Ice! Walk carefully and keep your ears peeled. Deep chasms might just open up beneath you at a moment’s notice.
+- Unstable Icicles! Keep an eye out for algae-filled icicles in the ceiling. The slightest disturbance tends to make them fall thunderously to the floor and shatter. Woe be to any that stand underneath them at that point.
+
+TEMPERATURE SYSTEM
+- While body odour remains low on the list of dwarven priorities, keeping an eye on your body temperature is now more important than ever. Get too low and you’ll get frozen in place. Get too high and you’ll burst into flame. Keeping towards the center of the scale is safest. 
+- Certain actions or items will reduce or increase your temperature. Some, such as the flamethrower, is pretty self-explanatory.
+- Enemies follow the same rules. They can be both frozen and set on fire, though they’ll have unique resistances or weaknesses depending on their species. FYI: Frozen enemies can be shattered if enough damage are applied to them...
+
+OTHER ADDITIONS / TWEAKS
+----------------------------
+DISCORD RICH INTEGRATION
+- See what your friends are playing and join their game directly from Discord.
+
+ENEMIES
+- New Enemy type: Goo Bomber
+- The Spitball Infector now starts dormant, and only wakes up if you get too close or it is injured in any way.
+- Mactera Spawns have become much weaker to melee attacks.
+- Mactera Grabber should no longer scream unless it’s actively chasing you.
+
+BOSCO
+- New icon so you always know what Bosco is up to.
+- Bosco no longer mine dirt that is closer to the Player than the wall instructed to mine at.
+- Bosco now always goes for the Grabber / Cave leech that grabbed the Player.
+- Bosco will not revive the Player without being near him/her after getting killed by a Cave leech or Grabber.
+- Tweaked Bosco’s priorities - he’ll now focus on the enemies instead of mining when instructed to.
+- Optimization while pointing at enemies.
+
+AUDIO
+- Tons of new voice lines added.
+
+FIXES
+----------------------------
+- Fixed Scout IFG Grenade not applying the proper damage resistance penalty.
+- Fixed Molly choosing to walk away while someone is depositing. Manners, Molly!
+- Improved the way savegames are handled - your savegames are now named after your SteamID to prevent problems when sharing a single machine.
+- Backups are now written to seperate files each session to prevent save game corruption from accidentally trashing the backups.
+- Fixed an issue with Ziplines where clients could move slightly and increase speed while on the zip line.
+- Fixed framerate drop when pointing the laser pointer at Glyphid tunnels and embedded minerals.
+- Enemies should no longer continue making sounds after they’re dead. Stands to reason, really…
+- Mactera Spawn and Grabber should no longer get stuck outside the Navmesh after dashing.
+"
+	Update_12 = "Hej gruvarbetare!
+
+Det är patchdags igen och vi har en hög med nya coola grejer åt er! Småtweaks, buggfixar och vår första nya fiende! Utöver det har vi, parallellt med dessa mindre uppdateringar, börjat jobba på några större innehållsgrejer och funktioner. Mer om detta senare när vi avslöjar en större framtida plan.
+
+--- PATCH NOTES ---
+
+COMMUNITY REQUESTED FIXES
+-----------------------------------------------------
+
+BOSCO JOINS YOU IF YOU START A HOSTED GAME ALONE
+A very popular request from the community has been for Bosco to accompany you when you start hosting a game. This way you can start mining with Bosco assisting you, while you wait for your friends or strangers to join your game. We have done a rough first implementation with no bells and whistles, and it works like this:
+- Bosco joins you when you start hosting a public/ private game and head in alone.
+- When the first a player joins your game, Bosco will self-destruct for that game session.
+
+JADIZ BUFF
+Jadiz has been one of the hardest crafting materials to collect and we have buffed it. Jadiz will now spawn a bit more often in Crystalline Caverns Region and we have changed the value range of it from 7-18 to 10-18. 
+
+WANT NICE CLEAN SCREEN SHOTS? 
+Some of you have been requesting been able to take nice clean screenshot and we actually also need that feature! Now you can Hold [H] to toggle the HUD on/off. 
+
+
+NEW STUFF
+-----------------------------------------------------
+
+NEW ENEMY: SAY HELLO TO THE MACTERA SPAWN! 
+The Mactera Spawn is our first proper flying enemy. It will attack from a distance using its vomit attack. Smack that Fly!
+
+SWARMER TUNNELS 
+You can now come across strangely looking small tunnels coming out of the walls. Glyphid Swarmers live here! They are very territorial and will aggressively defend their nest! A simple advice: Avoid them!  
+
+CAVE LEECH LETS YOU GO “GENTLY” WHEN IT DIES! 
+Previously, when a dwarf was dropped from a dying Cave Leech, he might drop for a long distance, mysteriously taking no fall damage, which was as designed but seemed weird. Now the Cave Leech slackens its’ tongue and lowers you down more gently, making it seem more realistic that you don’t take fall damage.
+
+DESTRUCTIBLE ARMOR ON GLYPHIDS!
+Direct enough firepower to those pesky armor plates to shoot them off and expose the soft underbits underneath!
+
+NEW PASSIVE CREATURE: IS IT A PLANE? IS IT A BIRD? NO IT‘S A FLYING JELLYFISH! 
+The Dense Biozone region of Hoxxes is now inhabited by large, passive, flying jellies.
+
+MINERAL TRADE TERMINAL 
+In the Mineral Trade Terminal you can trade your credits for crafting materials, but be advised that materials are priced fairly exorbitantly. You can also sell your precious crafting materials for credits, but again don’t expect a fair price. Deep Rock Galactic are always trying to maximize their income even if it comes from its workers! 
+
+REVOLVER RELOAD ANIMATION
+The Gunner’s Revolver now has a proper reload animation - as well as a cool gunslinger move when you try the reload while it’s fully reloaded.  
+
+FLASHLIGHT NERF 
+Range on the dwarves’ flashlights has been tweaked down from 12.50m to 11.00m, making them a bit weaker.
+
+PATHFINDER IMPROVEMENTS
+Enemies are now less likely to go straight through thin cave walls.
+
+M.U.L.E. SAFETY FIX
+If for some reason the MULE does not find its way back to the Escape Pod, the doors will still open 15 seconds before countdown runs out.  
+
+...And tons of minor stuff, mostly bug-fixes behind the scenes, but also small visual upgrades. For full overview see the patch notes below.
+
+CHANGELIST
+-----------------------------------------------------
+- Tweaked sound for drop pod drills on spacerig
+- Red Sugar is more Redder
+-  Added Developer Tags
+- Fix carriable scaling after picking up in first person
+- Decreased maggot crawl volume
+- Cave leech audio tweak
+- Cave leech audio tweak again agian
+- Revolver reload
+- Tweaked Sound on electric crystal
+- Affliction overlay now does a quick fade in
+- Death Cam overlay tweaked
+- Droppod audio tweak - Not as loud in space rig
+- Shotgun audio tweak
+- Spawn effects when enemies come out of the ground now work on clients
+- Added ground light and gunlight seperation + added a backlighting making dead cam look better.  
+- Fixed - Your own vanity would not show as equipped to you on missions or in the spacerig.
+- Changed the first person weapon lighting, and submitted at shitload of material tweaks to match it..
+- Try to fix players spawning on top of each other
+- Try to fix delay on collectibles again!
+- Hooked up armor & health bar in player down hud
+- Added Resources to serverlist display
+- Added Third Person Character Turning (WIP)
+- Fixed electric crystals making death noises and particles when removed during generation
+- Submitted a lot of particle optimizations, to improve performance in Fungus
+- Fixed sentry gun reload audio not networked correctly & outline being always on
+- Tweaked hit indicator coloring
+- Increased sticky flame life time
+- Fewer Electrocrystals, smaller damage radius, longer pauses between connections
+- Fixed flamethrower first person particle effect being too small
+- Mineral distribution changed, Gold and Nitra are more evenly spreadout throughout the cave
+- Trading Terminal
+- Improved headshots on spiders
+- Made tentacle lower player to ground on death
+- Glyphids now only stagger when hit by weapons
+- Don’t play death particle on headshot
+- Fixing cave leech acidentally 'reviving' dead dwarf
+- Pathfinder improvements. Less going through terrain.
+- Added audio cue to swarmer tunnel spawn
+- Passive Jellies added to Dense biozone
+- Changes to tunnel settings - Less small tunnels in some regions
+- Bettersound on radioactive glowing crystals
+- Small tweak to revolvers accuracy. 
+- Improved laserpointer performance when checking against terrain
+- Bosco now spawns if you start a game alone and dissapears if someone joins
+- Swarmer tunnels with new material, sound, particles
+- Fix enemy healthbar initial state for weakpoint indicator
+- Shoulderlights tweaked down from 12.50m to 11.00m reach making them a bit weaker.
+- Added correct name to torn off glyphid legs
+- Added Shooter leg, instead of reusing spitter leg.
+- Changed lighting on the electric plants, and optimized the particles a bit. New flamethrower fire.
+- Added ignition effect for when enemies catch on fire.
+- Added Weakpoint Kill Particle for the flyer shooter
+- Players will fall from the zip-line if they take sufficient damage
+- Hold H to toggle HUD on/off
+- Glyphid Dreadnought area attack now does full damage in the entire area (There was a falloff before)
+- Tweaked Jadiz amount - Fixed bug where Jadiz spawning only had a value 2 to it having a 2 to 3 range + Changed value range from 7 to 18 to 10 to 18
+- Decreased loot from loot bug: chunks was 15-30 now is 15-25 and chunk value was 1-4 now is 1-3"
+	Update_13 = "Hej gruvarbetare!
+
+Det är dags igen och vi har några spännande ändringar för er att åtnjuta! Den här uppdateringen är mer experimentell än vi brukar med några förändringar av hälsosystemet som vi gärna vill ha er feedback på.
+
+--- PATCH NOTES ---
+
+COMMUNITY REQUESTED FIXES
+-----------------------------------------------------
+
+LESS SHIELD
+Some of you hardcore miners have been requesting that the game was harder - especially on higher difficulties. We have tried to make tweaks that makes the game harder on higher difficulties, but feel almost the same on lower difficulties. We have lowered your starting shield from 30 to 25 and changed the shield upgrades to the shield from 10 to 2.5 (giving a 10% boost).
+
+MORE HEALTH
+To compensate for the lack of shield - we’ve increased player health from 100 to 110 hp. 
+
+MORE RED SUGAR
+Furthermore the amount of healing you get from red sugar has been increased 25% and the amount of red sugar spawned in a mission has been increased by 10%. 
+
+
+TWEAKS 
+-----------------------------------------------------
+
+SOLO ENEMY NUMBERS & HEALTH
+Exploring the caves of Hoxxes by yourself takes more time and can be brutal, so we have made it so the swarms will be a little bit smaller when you are on your own. Enemy health has also been lowered a little bit for solo expeditions. The creatures of Hoxxes are still dangerous so don’t drop your guard!  
+
+BOSCO NOW WITH 50% MORE REVIVES
+While he really wants to, Bosco can’t always save you from a cave leech. He feels really bad about it and has requested that he be allowed to revive you 3 times instead of 2. The request has been granted.
+
+MACTERA SPAWN HEALTH INCREASED
+In a continuing effort to perfect the Mactera Spawn we have changed its health from 180 to 210. Remember to use cover and aim for the weak-spot!
+"
+	Update_25 = "Hej gruvarbetare,
+Puh! Ni har haft tålamod med oss länge, men uppdatering 25 - vår mest ambitiösa uppdatering hittills - är nu äntligen här! Djupdyk, ännu fler sätt att anpassa utrustningar, belöningar för de som spelat längst, massor av nya vapenutseenden, lastlådor, ny skäggfysik... oj, oj, gruvarbetare, det här är en stor uppdatering. Våra skägg växte 6 tum bara från att skriva dessa patchnotes.
+
+
+--- PATCH NOTES ---
+
+DEEP DIVES
+----------------------------
+If you’re a Dwarf that’s looking to go places, we have just the opportunity for you. As a promoted Dwarf you have been deemed worthy to get special access to weekly Deep Dives - three consecutive seeded missions, where ammunition and health carries over to the next mission. In Deep Dives you will have to complete two objectives in each stage and chances for encountering Mutators are very high. Each of the three stages of a Deep Dive will grant you rewards upon completion, ranging from minerals to the new Matrix Cores. While you can complete the week’s Deep Dives as many times as you want and improve your best time, bear in mind the rewards can only be claimed once per week.
+
+
+MATRIX CORES
+----------------------------
+Not getting paid enough? We’re giving your Deep Rock Galactic pay-slip a boost. Matrix Cores are the cornerstones of the new rewards introduced in  Deep Rock Galactic. In Update 25 you will receive Infused Matrix Cores - Matrix Cores with already predefined content, that can be used to forge Weapon Overclocks or glorious all-new beards and helmets. In Update 26 we will introduce a way to infuse Blank Matrix Cores, but more on that when we get closer.
+
+
+THE FORGE
+----------------------------
+The place where you go with you Infused Matrix Core and forge them into something usefull. Also note that forging Infused Matrix Cores will increase your Forging Mastery and earn you even more Matrix Cores. It’s Hammertime! 
+
+
+WEAPON OVERCLOCK CORES
+----------------------------
+If you’ve been wanting bigger explosions or new ways to shred entire tunnels of bloodthirsty glyphids, then you’ll love the upgrades you’ll be unlocking for your arsenal. Weapon Overclocks range from basic but minor improvements like increase magazine capacity, to providing entirely new ways to modify the overall weapon functionality. 
+Deal radioactive splash damage with your Grenade Launcher? There’s an overclock for that. Gain more airtime while aiming down the sights of the M1000 rifle? There’s an overclock for that. Shred the enemies with ice shards from your Cryo Cannon? You guessed it. There’s an overclock for that.
+
+
+COSMETIC CORES
+----------------------------
+With Update 25, we’re doubling down on glorious facial hair and other cosmetic items. If you thought your current beard was the most dwarven it could get... boy, do we have some hairy news for you.
+
+
+NEW ASSIGNMENTS
+----------------------------
+BREACH THE CORE: Upon your first promotion of any dwarf you get access to a new assignment called BREACH THE CORE. Complete this to earn a handful of Infused Matrix Cores and get your collection of Weapon Overclocks and Rare Cosmetics kick-started. Completing the assignment will also unlock the Weekly Core Hunt.  
+
+
+WEEKLY CORE HUNT: For those veteran dwarves looking to make a little spare cash for beard accessories on the side, there’s now Weekly Core Hunt assignments available for Promoted Dwarves. Finishing these will reward you both a Weapon Overclock Core and a Cosmetic Core. Stay strong and classy.
+
+
+CARGO CRATES
+----------------------------
+It’s not all about the Deep Dives, though. Be on the lookout for lost Cargo Crates in the caves of normal missions - they are known to contain copious amounts of minerals and weapon skins!
+
+
+NEW MUTATORS
+----------------------------
+
+WARNINGS
+----------------------------
+LOW OXYGEN: As the title says - hold your breath and try not to die before you reach an oxygen tank.
+
+LETHAL ENEMIES: The aliens are extra cranky today. All enemies deal significantly more damage.
+
+REGENERATIVE BUGS: I’ll have what they’re having. All enemies regenerate their health if you wound them and don’t take them out straight away.
+
+PARASITES: Well, it gets even worse. The aliens in this place are just… ugh… just full of angry, parasitic worms. 
+
+HAUNTED CAVE: There’s… SOMETHING… in this cave. It is hunting you. Relentlessly. And it just...won’t...die! Don’t stop. Don’t look behind you. It’s right there constantly coming for you.
+
+ANOMALIES
+----------------------------
+VOLATILE GUTS: You thought Exploder Infestation was bad? Well, whatever infested those poor creatures has run rampant here. Every alien explodes. Just awful.
+
+
+BEARD PHYSICS
+----------------------------
+Glorious facial hair is the hallmark of a good dwarf. We’ve added enhanced beard physics to enhance that magnificent feeling of having a proper dwarven beard.
+
+
+MORE DWARVEN SHOUTS
+----------------------------
+Nothing is more dwarvish than yelling at stuff, so we’ve added a whole new range of voice lines to the mix. There are new shouts for Power Attacks, salutes, grenade throws, laser pointer, and lots more.  
+
+
+BIOMES
+----------------------------
+- New dripping rainfall effect. It can often occur in Dense Biozone and rarely in Crystalline Caverns. 
+- Moving through deep snow in Glacial Strata is less of a slog now - you should notice a significant boost in movement speed.
+
+
+BULLET TRAILS
+----------------------------
+They make weapon spread, recoil, and other features more visible so the effect of certain Mods and Overclocks is clearly noticeable. Plus, we also think they look neat.
+
+
+NO MORE “FLOATING ISLANDS”
+----------------------------
+Strange anomalies were causing gravity-defying behaviour where crystals, dirt, and other biome elements were floating when separated from their anchor points. They no longer do that. No more getting stuck on tiny little bits of floating rock after digging!
+
+
+CUSTOMIZABLE HUD
+----------------------------
+Less is sometimes more. There is a whole slew of new options for HUD customization, letting you set up what’s shown and what isn’t completely to your liking - including dynamic options to make elements appear when they are relevant and disappear when they are not.
+
+
+INTERPLANETARY MINERS UNION
+----------------------------
+The Interplanetary Miners Union has finally made its way to Hoxxes IV for Discord users. By joining one of the three Union Chapters, you can work towards both specific chapter goals and a collective goal. There are Union sanctioned rewards to collect!
+
+
+THROW LIKE AN ATHLETE
+----------------------------
+Being a miner demands precision in every aspect, and so we’ve added a new throwing mechanic to the game. Click to let go of a held object, hold down to charge your throw with the desired amount of force.
+
+
+WEAPON TWEAKS
+----------------------------
+
+SCOUT
+----------------------------
+DEEPCORE GK2
+- Fixed Battle Cool mod to work as advertised (it used to kill spread per shot but without resetting the accuracy)
+- Moved Quickfire Ejector mod to Tier 1 and increased its value for even faster reloads
+- Added a new damage mod to Tier 3 to take place of the relocated quickfire ejector
+- Decreased value of the Tier 2 Increased Caliber Rounds mod
+- Decreased value of both the Expanded Ammo Bags mods
+- Increased the base ammo count
+- Increased the power of the Recoil Compensator mod and it now affects both actual recoil and spread per shot
+- Increased base spread per shot slightly
+
+M1000 CLASSIC
+- Added an upgrade type and description for the rifle's focus mode
+- Renamed Improved Ergonomics mod to Fast-charging Coils
+- Improved the Floating Barrel mod slightly to better compete with the others
+- New sound for focused shots
+
+DUAL ZHUKOV NUK 17
+- Increased base damage
+- Decreased the value of Increased Caliber Rounds mod to better match the other T3 option
+- Increased the Value of the Supercharged Feed Mechanism mod to better compete with other options
+
+JURY-RIGGED BOOMSTICK
+- Decreased value of Loaded Shells mod to better balance against other options
+- Increased base pellet count to compensate for Loaded Shells mod tweak
+- Increased value of Tier 1 Expanded Ammo Bags mod to better compete with the damage mod
+
+GUNNER
+----------------------------
+“BULLDOG” HEAVY REVOLVER
+- [COMMUNITY REQUEST] Explosive Rounds now do more explosive damage in a wider radius but at a cost of direct damage
+- Moved Hollow Point Rounds mod to Tier 3
+- Neurotoxin Mod now actually poisons enemies instead of just doing more direct damage
+- Deadeye mod now works for both walking and sprinting letting you stay accurate no-matter the situation
+
+BRT
+- Increased the base burst delay
+- Increased base damage
+- Decreased value of Increased Caliber Rounds mod
+- Increased value of High Capacity Magazine mod to better match the damage mod
+- Decreased the value of the Burst Damage mod to better match the other Tier 5 options
+- The Longer Burst mod now fires all the rounds in the burst much faster
+- Decreased value of the Hollow-Point Bullets mod slightly to bring it inline with competing options
+
+ENGINEER
+----------------------------
+DEEPCORE 40MM PGL
+- Increased base damage
+- Decreased value of Larger Payload mod slightly to better match other Tier two options
+- The Homebrew Explosive mod now gives a damage bonus in a range instead of a flat damage increase. This requires re-purchasing the mod. Anyone who acquired the old version will be automatically refunded.
+- Increased duration of stun from the Concussive Blast mod
+
+BREACH CUTTER
+- Increased base deploy speed
+- Extended the base deploy delay to compensate
+- Quick Deploy mod now properly affects the deploy delay
+- Extended the base projectile lifetime slightly
+- Renamed some of the mods to better follow out naming style for other weapons and to better clarify functionality
+- Rearranged some of the mods to better balance options
+
+PROXIMITY MINE
+- [COMMUNITY REQUEST] Every mine will now trigger an explosion multiple times. This way, they better serve the purpose of planning defenses and a lonely enemy triggering them is not as big of a waste.
+
+PLASMA BURSTER
+- Engineer will carry 6 instead of 4.
+
+DRILLER
+----------------------------
+CRYO CANNON
+- Increased range of Cold Radiance mod to improve useability
+- Increased value of the High Water Content mod to better compete with the other options
+- Increased base charge up time
+- Increased value of the Improved 2nd Stage Pump mod
+- Decreased the value of the Stronger Cooling Unit mod to better match other Tier 1 options
+- Increased the base repressure delay slightly
+- Improved the value of the Bypassed Integrity Check mod
+- Moved the Overclocked Ejection Turbine mod from Tier 3 to Tier 2
+- Decreased base repressure speed slightly
+- Improved the value of the Faster 1st Stage Pump mod to better compete with other options
+- Added a rate of fire mod at Tier 3
+- Fixed EPC bouncy projectiles not impacting armor correctly
+
+CRSPR FLAMETHROWER
+- Upgrade slot five, choice three, description should read " direct damage have a chance to explode " instead of " has a chance to explode".
+- Upgrade slot two, choice two, "triple filtered fuel" is misspelled as 'TRIPPLE'
+
+SUBATA120
+- Increased base damage
+
+EXPERIMENTAL PLASMA CHARGER
+- Renamed most of the mods to better match the naming convention used for other weapons
+- Increased base speed of the charged shot projectile
+- Increased value of the Overcharged Plasma Accelerator (charged projectile speed) mod
+- Decreased the recoil from normal shots
+- Decreased overall shot spread
+- Lowered the value of the damage upgrade from +6 to +5 because OCD
+- Increased the base speed of the normal projectile slightly
+- Added the Increased Particle Velocity (normal projectile speed) mod
+- Decreased value of Improved Charge Efficiency (charged shot energy cost) mod
+- Lowered the base ammo count slightly to cleanly divide into shot cost (OCD again)
+- Lowered the value of the Larger Battery mod slightly
+- Added the High Density Battery mod to Tier 4 for more ammo options
+- Decreased the amount of heat generated by normal shots
+- Decreased the base cooling rate of the weapon
+- Fix normal shots going through armor
+
+SATCHEL CHARGE
+- It’s no longer possible to place more than one Satchel Charge at a time. The damage of the charge was tweaked to be the most powerful explosion in the game. Stacking that damage in one area wasn’t intended and it removes the challenge from fighting some kinds of enemies.
+
+
+SOUND
+----------------------------
+- Fixed Geyser sound too loud/too many spawned
+- Naedocyte Breeder sound now stops when it dies
+
+
+ENEMIES
+----------------------------
+- [COMMUNITY REQUEST] Enemy health bars now show all kinds of status effects (Stun, Radiation, Neurotoxin etc.)
+- Improve the performance of all enemies and 10x perf improvement on Q’ronar
+- Warden's weak point collision adjusted. It wasn't registering correctly some hits that should count as weak point hints
+- Naedocyte Hatchlings changed to look more distinct from Shockers
+- [COMMUNITY REQUEST] Acid clouds now blow up from all fire damage sources
+- Fixed Bulk Detonator stuck particles
+- Naedocyte Hatchlings and Shockers aren't marked correctly with the Laserpointer
+- [COMMUNITY REQUEST] Lowered the chance of multiple Bulk Detonators -
+- A little less increase over time in enemy pressure on Point Extractions 
+- Decreased the magnitude of the enemy wave in the beginning of Point Extraction
+- [COMMUNITY REQUEST] The Bulk Detonator will not attack for the first 5 seconds after spawning to give players a small window to get to a safe distance
+- Fixed a case where the grabber was screaming but not chasing a player
+- Some animation optimizations on Bosco, Naedocyte Trawler, BET-C and Naedocyte Breeder
+- Mactera Bomber goo sacks now light up individually when you shoot them
+- The parasites no BET-C can now be lit on fire
+- Fixed a bug that made BET-C wait close to 5 seconds after switching from machine guns to grenade launcher
+
+
+SMALL FIXES AND MISC. CHANGES
+----------------------------
+- White backgrounds on menus fixed
+- Fixed freezing / heating UI icon flipping constantly if near both a heat and cold source
+- Milestones added for the new Warning Mutators
+- Mutators/Warning-icons updated
+- Discord Employee of the Month screen added
+- Fix Armor impact particles not working on pickaxe
+- Power attack can now be activated when hitting air
+- Throwing a grenade no longer causes you to take out the wrong weapon
+- Smoke trails added to hitscan weapons
+- Added a long screw to zipline projectile.
+- [Ansel] Adjustments and improvements to ansel and camera manager
+- Added more hot springs in ice caves
+- Typos/grammar fix on a couple of modifications
+- New Character Vignets Videos added. Driller and Gunner here!
+- Fixed Ansel in mission complete screen
+- Carriables should now always be usable after Bosco picks them up
+- Slightly altered Icon Color for Elimination and Extraction missions, so not to clash with Warning Mutator Icon as much
+- Bosco can now be ordered to target Trawlers properly
+- Added accessibility option to the controls menu that allows players to manually input a mouse sensitivity value without limits
+- Added an option to toggle the Laserpointer by pressing CTRL per request from the community
+- Hide join and solo options from mission select if people have joined your session.
+- Add attempt to reconnect option to esc menu
+- Fixed untranslatable text fields in Memorial Hall etc.
+- Broken Jukebox display SHOULD be fixed
+- Shield Disruption now gives you more base health to be a little less brutal.
+- Fixed depositing issues in the MULE while too far away but close enough for interaction prompt
+- Fix for Molly going back to a previous position when she should be going to the Drop Pod
+- Fixed most cases of Molly failing to locate the Drop Pod
+- Fixed cases of pickaxes floating mid air at the start of mission
+- Fixed spelling error "jelous" in mission names
+- Laser pointer no longer gets stuck when saluting
+- Potential fix for flashing white screen on Nvidia GTX 970 cards
+- Fix an issue with characters becoming selected after hovering over them in the Character Selection Terminal
+- Fixed typos in Weekly Assignment description
+- Fixed 8-9-0 keys breaking when rebound to
+- Fixed Trade Terminal Assignment gives 0 Croppa
+- Fixed No hollomite does not appear when it is secondary objective
+- Fixed spawn collision (Swarmers from spawner)
+- Fixed enemies can be hit after they are dead
+- Fixed Sticky Grenade doing physical damage, triggering perks
+"
+	Update_25_Xbox = "Hej gruvarbetare,
+Puh! Ni har haft tålamod med oss länge, men uppdatering 25 - vår mest ambitiösa uppdatering hittills - är nu äntligen här! Djupdyk, ännu fler sätt att anpassa utrustningar, belöningar för de som spelat längst, massor av nya vapenutseenden, lastlådor, ny skäggfysik... oj, oj, gruvarbetare, det här är en stor uppdatering. Våra skägg växte 6 tum bara från att skriva dessa patchnotes.
+
+
+--- PATCH NOTES ---
+
+DEEP DIVES
+----------------------------
+If you’re a Dwarf that’s looking to go places, we have just the opportunity for you. As a promoted Dwarf you have been deemed worthy to get special access to weekly Deep Dives - three consecutive seeded missions, where ammunition and health carries over to the next mission. In Deep Dives you will have to complete two objectives in each stage and chances for encountering Mutators are very high. Each of the three stages of a Deep Dive will grant you rewards upon completion, ranging from minerals to the new Matrix Cores. While you can complete the week’s Deep Dives as many times as you want and improve your best time, bear in mind the rewards can only be claimed once per week.
+
+
+MATRIX CORES
+----------------------------
+Not getting paid enough? We’re giving your Deep Rock Galactic pay-slip a boost. Matrix Cores are the cornerstones of the new rewards introduced in  Deep Rock Galactic. In Update 25 you will receive Infused Matrix Cores - Matrix Cores with already predefined content, that can be used to forge Weapon Overclocks or glorious all-new beards and helmets. In Update 26 we will introduce a way to infuse Blank Matrix Cores, but more on that when we get closer.
+
+
+THE FORGE
+----------------------------
+The place where you go with you Infused Matrix Core and forge them into something usefull. Also note that forging Infused Matrix Cores will increase your Forging Mastery and earn you even more Matrix Cores. It’s Hammertime! 
+
+
+WEAPON OVERCLOCK CORES
+----------------------------
+If you’ve been wanting bigger explosions or new ways to shred entire tunnels of bloodthirsty glyphids, then you’ll love the upgrades you’ll be unlocking for your arsenal. Weapon Overclocks range from basic but minor improvements like increase magazine capacity, to providing entirely new ways to modify the overall weapon functionality. 
+Deal radioactive splash damage with your Grenade Launcher? There’s an overclock for that. Gain more airtime while aiming down the sights of the M1000 rifle? There’s an overclock for that. Shred the enemies with ice shards from your Cryo Cannon? You guessed it. There’s an overclock for that.
+
+
+COSMETIC CORES
+----------------------------
+With Update 25, we’re doubling down on glorious facial hair and other cosmetic items. If you thought your current beard was the most dwarven it could get... boy, do we have some hairy news for you.
+
+
+NEW ASSIGNMENTS
+----------------------------
+BREACH THE CORE: Upon your first promotion of any dwarf you get access to a new assignment called BREACH THE CORE. Complete this to earn a handful of Infused Matrix Cores and get your collection of Weapon Overclocks and Rare Cosmetics kick-started. Completing the assignment will also unlock the Weekly Core Hunt.  
+
+
+WEEKLY CORE HUNT: For those veteran dwarves looking to make a little spare cash for beard accessories on the side, there’s now Weekly Core Hunt assignments available for Promoted Dwarves. Finishing these will reward you both a Weapon Overclock Core and a Cosmetic Core. Stay strong and classy.
+
+
+CARGO CRATES
+----------------------------
+It’s not all about the Deep Dives, though. Be on the lookout for lost Cargo Crates in the caves of normal missions - they are known to contain copious amounts of minerals and weapon skins!
+
+
+NEW MUTATORS
+----------------------------
+
+WARNINGS
+----------------------------
+LOW OXYGEN: As the title says - hold your breath and try not to die before you reach an oxygen tank.
+
+LETHAL ENEMIES: The aliens are extra cranky today. All enemies deal significantly more damage.
+
+REGENERATIVE BUGS: I’ll have what they’re having. All enemies regenerate their health if you wound them and don’t take them out straight away.
+
+PARASITES: Well, it gets even worse. The aliens in this place are just… ugh… just full of angry, parasitic worms. 
+
+HAUNTED CAVE: There’s… SOMETHING… in this cave. It is hunting you. Relentlessly. And it just...won’t...die! Don’t stop. Don’t look behind you. It’s right there constantly coming for you.
+
+ANOMALIES
+----------------------------
+VOLATILE GUTS: You thought Exploder Infestation was bad? Well, whatever infested those poor creatures has run rampant here. Every alien explodes. Just awful.
+
+
+BEARD PHYSICS
+----------------------------
+Glorious facial hair is the hallmark of a good dwarf. We’ve added enhanced beard physics to enhance that magnificent feeling of having a proper dwarven beard.
+
+
+MORE DWARVEN SHOUTS
+----------------------------
+Nothing is more dwarvish than yelling at stuff, so we’ve added a whole new range of voice lines to the mix. There are new shouts for Power Attacks, salutes, grenade throws, laser pointer, and lots more.  
+
+
+BIOMES
+----------------------------
+- New dripping rainfall effect. It can often occur in Dense Biozone and rarely in Crystalline Caverns. 
+- Moving through deep snow in Glacial Strata is less of a slog now - you should notice a significant boost in movement speed.
+
+
+BULLET TRAILS
+----------------------------
+They make weapon spread, recoil, and other features more visible so the effect of certain Mods and Overclocks is clearly noticeable. Plus, we also think they look neat.
+
+
+NO MORE “FLOATING ISLANDS”
+----------------------------
+Strange anomalies were causing gravity-defying behaviour where crystals, dirt, and other biome elements were floating when separated from their anchor points. They no longer do that. No more getting stuck on tiny little bits of floating rock after digging!
+
+
+CUSTOMIZABLE HUD
+----------------------------
+Less is sometimes more. There is a whole slew of new options for HUD customization, letting you set up what’s shown and what isn’t completely to your liking - including dynamic options to make elements appear when they are relevant and disappear when they are not.
+
+
+THROW LIKE AN ATHLETE
+----------------------------
+Being a miner demands precision in every aspect, and so we’ve added a new throwing mechanic to the game. Click to let go of a held object, hold down to charge your throw with the desired amount of force.
+
+
+WEAPON TWEAKS
+----------------------------
+
+SCOUT
+----------------------------
+DEEPCORE GK2
+- Fixed Battle Cool mod to work as advertised (it used to kill spread per shot but without resetting the accuracy)
+- Moved Quickfire Ejector mod to Tier 1 and increased its value for even faster reloads
+- Added a new damage mod to Tier 3 to take place of the relocated quickfire ejector
+- Decreased value of the Tier 2 Increased Caliber Rounds mod
+- Decreased value of both the Expanded Ammo Bags mods
+- Increased the base ammo count
+- Increased the power of the Recoil Compensator mod and it now affects both actual recoil and spread per shot
+- Increased base spread per shot slightly
+
+M1000 CLASSIC
+- Added an upgrade type and description for the rifle's focus mode
+- Renamed Improved Ergonomics mod to Fast-charging Coils
+- Improved the Floating Barrel mod slightly to better compete with the others
+- New sound for focused shots
+
+DUAL ZHUKOV NUK 17
+- Increased base damage
+- Decreased the value of Increased Caliber Rounds mod to better match the other T3 option
+- Increased the Value of the Supercharged Feed Mechanism mod to better compete with other options
+
+JURY-RIGGED BOOMSTICK
+- Decreased value of Loaded Shells mod to better balance against other options
+- Increased base pellet count to compensate for Loaded Shells mod tweak
+- Increased value of Tier 1 Expanded Ammo Bags mod to better compete with the damage mod
+
+GUNNER
+----------------------------
+“BULLDOG” HEAVY REVOLVER
+- [COMMUNITY REQUEST] Explosive Rounds now do more explosive damage in a wider radius but at a cost of direct damage
+- Moved Hollow Point Rounds mod to Tier 3
+- Neurotoxin Mod now actually poisons enemies instead of just doing more direct damage
+- Deadeye mod now works for both walking and sprinting letting you stay accurate no-matter the situation
+
+BRT
+- Increased the base burst delay
+- Increased base damage
+- Decreased value of Increased Caliber Rounds mod
+- Increased value of High Capacity Magazine mod to better match the damage mod
+- Decreased the value of the Burst Damage mod to better match the other Tier 5 options
+- The Longer Burst mod now fires all the rounds in the burst much faster
+- Decreased value of the Hollow-Point Bullets mod slightly to bring it inline with competing options
+
+ENGINEER
+----------------------------
+DEEPCORE 40MM PGL
+- Increased base damage
+- Decreased value of Larger Payload mod slightly to better match other Tier two options
+- The Homebrew Explosive mod now gives a damage bonus in a range instead of a flat damage increase. This requires re-purchasing the mod. Anyone who acquired the old version will be automatically refunded.
+- Increased duration of stun from the Concussive Blast mod
+
+BREACH CUTTER
+- Increased base deploy speed
+- Extended the base deploy delay to compensate
+- Quick Deploy mod now properly affects the deploy delay
+- Extended the base projectile lifetime slightly
+- Renamed some of the mods to better follow out naming style for other weapons and to better clarify functionality
+- Rearranged some of the mods to better balance options
+
+PROXIMITY MINE
+- [COMMUNITY REQUEST] Every mine will now trigger an explosion multiple times. This way, they better serve the purpose of planning defenses and a lonely enemy triggering them is not as big of a waste.
+
+PLASMA BURSTER
+- Engineer will carry 6 instead of 4.
+
+DRILLER
+----------------------------
+CRYO CANNON
+- Increased range of Cold Radiance mod to improve useability
+- Increased value of the High Water Content mod to better compete with the other options
+- Increased base charge up time
+- Increased value of the Improved 2nd Stage Pump mod
+- Decreased the value of the Stronger Cooling Unit mod to better match other Tier 1 options
+- Increased the base repressure delay slightly
+- Improved the value of the Bypassed Integrity Check mod
+- Moved the Overclocked Ejection Turbine mod from Tier 3 to Tier 2
+- Decreased base repressure speed slightly
+- Improved the value of the Faster 1st Stage Pump mod to better compete with other options
+- Added a rate of fire mod at Tier 3
+- Fixed EPC bouncy projectiles not impacting armor correctly
+
+CRSPR FLAMETHROWER
+- Upgrade slot five, choice three, description should read " direct damage have a chance to explode " instead of " has a chance to explode".
+- Upgrade slot two, choice two, "triple filtered fuel" is misspelled as 'TRIPPLE'
+
+SUBATA120
+- Increased base damage
+
+EXPERIMENTAL PLASMA CHARGER
+- Renamed most of the mods to better match the naming convention used for other weapons
+- Increased base speed of the charged shot projectile
+- Increased value of the Overcharged Plasma Accelerator (charged projectile speed) mod
+- Decreased the recoil from normal shots
+- Decreased overall shot spread
+- Lowered the value of the damage upgrade from +6 to +5 because OCD
+- Increased the base speed of the normal projectile slightly
+- Added the Increased Particle Velocity (normal projectile speed) mod
+- Decreased value of Improved Charge Efficiency (charged shot energy cost) mod
+- Lowered the base ammo count slightly to cleanly divide into shot cost (OCD again)
+- Lowered the value of the Larger Battery mod slightly
+- Added the High Density Battery mod to Tier 4 for more ammo options
+- Decreased the amount of heat generated by normal shots
+- Decreased the base cooling rate of the weapon
+- Fix normal shots going through armor
+
+SATCHEL CHARGE
+- It’s no longer possible to place more than one Satchel Charge at a time. The damage of the charge was tweaked to be the most powerful explosion in the game. Stacking that damage in one area wasn’t intended and it removes the challenge from fighting some kinds of enemies.
+
+
+SOUND
+----------------------------
+- Fixed Geyser sound too loud/too many spawned
+- Naedocyte Breeder sound now stops when it dies
+
+
+ENEMIES
+----------------------------
+- [COMMUNITY REQUEST] Enemy health bars now show all kinds of status effects (Stun, Radiation, Neurotoxin etc.)
+- Improve the performance of all enemies and 10x perf improvement on Q’ronar
+- Warden's weak point collision adjusted. It wasn't registering correctly some hits that should count as weak point hints
+- Naedocyte Hatchlings changed to look more distinct from Shockers
+- [COMMUNITY REQUEST] Acid clouds now blow up from all fire damage sources
+- Fixed Bulk Detonator stuck particles
+- Naedocyte Hatchlings and Shockers aren't marked correctly with the Laserpointer
+- [COMMUNITY REQUEST] Lowered the chance of multiple Bulk Detonators -
+- A little less increase over time in enemy pressure on Point Extractions 
+- Decreased the magnitude of the enemy wave in the beginning of Point Extraction
+- [COMMUNITY REQUEST] The Bulk Detonator will not attack for the first 5 seconds after spawning to give players a small window to get to a safe distance
+- Fixed a case where the grabber was screaming but not chasing a player
+- Some animation optimizations on Bosco, Naedocyte Trawler, BET-C and Naedocyte Breeder
+- Mactera Bomber goo sacks now light up individually when you shoot them
+- The parasites no BET-C can now be lit on fire
+- Fixed a bug that made BET-C wait close to 5 seconds after switching from machine guns to grenade launcher
+
+
+SMALL FIXES AND MISC. CHANGES
+----------------------------
+- White backgrounds on menus fixed
+- Fixed freezing / heating UI icon flipping constantly if near both a heat and cold source
+- Milestones added for the new Warning Mutators
+- Mutators/Warning-icons updated
+- Fix Armor impact particles not working on pickaxe
+- Power attack can now be activated when hitting air
+- Throwing a grenade no longer causes you to take out the wrong weapon
+- Smoke trails added to hitscan weapons
+- Added a long screw to zipline projectile.
+- Added more hot springs in ice caves
+- Typos/grammar fix on a couple of modifications
+- New Character Vignets Videos added. Driller and Gunner here!
+- Carriables should now always be usable after Bosco picks them up
+- Slightly altered Icon Color for Elimination and Extraction missions, so not to clash with Warning Mutator Icon as much
+- Bosco can now be ordered to target Trawlers properly
+- Hide join and solo options from mission select if people have joined your session.
+- Fixed untranslatable text fields in Memorial Hall etc.
+- Broken Jukebox display SHOULD be fixed
+- Shield Disruption now gives you more base health to be a little less brutal.
+- Fixed depositing issues in the MULE while too far away but close enough for interaction prompt
+- Fix for Molly going back to a previous position when she should be going to the Drop Pod
+- Fixed most cases of Molly failing to locate the Drop Pod
+- Fixed cases of pickaxes floating mid air at the start of mission
+- Fixed spelling error "jelous" in mission names
+- Laser pointer no longer gets stuck when saluting
+- Fix an issue with characters becoming selected after hovering over them in the Character Selection Terminal
+- Fixed typos in Weekly Assignment description
+- Fixed Trade Terminal Assignment gives 0 Croppa
+- Fixed No hollomite does not appear when it is secondary objective
+- Fixed spawn collision (Swarmers from spawner)
+- Fixed enemies can be hit after they are dead
+- Fixed Sticky Grenade doing physical damage, triggering perks
+"
+	Update_11 = "Hej gruvarbetare!
+
+Det är patchdags igen och vi har en hög med nya coola grejer åt er! Småtweaks, buggfixar och vår första nya fiende! Utöver det har vi, parallellt med dessa mindre uppdateringar, börjat jobba på några större innehållsgrejer och funktioner. Mer om detta senare när vi avslöjar en större framtida plan.
+
+--- PATCH NOTES ---
+
+COMMUNITY REQUESTED FIXES 
+--------------------------------------------
+GUNNER: GATLING GUN REWORK
+There’s a been a lot of talk about the Gatling Gun being too weak especially on higher difficulties. We agree, and we have made a bunch of tweaks to it:
+- Starting Ammo Capacity changed from 1800 to 1600 rounds.
+- It is now fed ammo continuously from a single, upgradeable ammo drum - no more reloading!
+- Overheats slightly faster - tweaked from 10 seconds of continuous fire to 9.
+- Overheating is more punishing - time to cool down raised from 8 seconds to 10
+- Upgrades reworked: Upgrades involving ammo and clip increase have now been made to only focus on the clip size. First upgrade originally gave you +400 bullets to max ammo it has been changed to +400 to clipsize. Second clip upgrade will give you a total boost of +400 bullets where it before only increased the clipsize. Resulting in the Gatling Gun packing impressive 2400 bullets when maxed out!  
+- New Tungsten Bullet upgrade for Gatling Gun has been added allowing you to boost the damage 25%. A mandatory upgrade for players with affinity for Extreme difficulty.
+- Added smoke effect to make it more obvious when you overheats
+
+A BETTER BOSCO
+If you pointed at a really tiny chunk of unmined minerals Bosco would go there and not find the tiny chunk then abort the task. Now he can find the chunk and dig it. Bosco is also much better at not sneaking up in front of you when you are mining. All quality of life fixes to you favorite drone!
+
+
+NEW STUFF
+--------------------------------------------
+TEAM CAMS LET YOU STAY IN THE ACTION
+1st iteration of Team Cams - Keep an eye on your teammates are doing while you are incapacitated. Now it is less of a downer being down! 
+
+ELECTRO CRYSTALS
+Deadly Electro Crystals have been added to Crystal Caverns. Don’t get too close - they pack a punch!
+
+PLATFORMS PROHIBITED IN DROP POD  
+Platforms (and Supply Pods) can not spawn/ attach to drop pod anymore. We get it... some off you had fun filling up the Drop Pod with platforms, but Management reminds you that Platform Concrete is notoriously hard to clean out!
+
+GRAVITY RECALIBRATION
+A temptingly tantalizing button called “Gravity Recalibration” has been activated on the Space Rig. Management will likely frown on employees abusing it - but it’s so big and red...
+
+FIXED STEAM REGION SEARCH
+Before some people had a hard time finding games in their own region. We have fixed this now (we hope)!
+
+...And tons of minor stuff, mostly bug-fixes behind the scenes, but also small visual upgrades. For full overview see the patch notes below.
+
+
+CHANGE LIST
+--------------------------------------------
+- 13314 Electric Plants are now Crystals and can be found in the Crystal Caverns Region
+- 13316 Updated all languages from Crowdin
+- 13319 Pickaxe will be less aggresive in hitting non hostile objects
+- 13320 FIX: Grappling hook getting stuck in grapple mode
+- 13328 Bosco can now detect smaller veins of minerals when you order him to mine
+- 13329 FIX: Control layouts now contains Controller Layout (again)
+- 13338 Bosco is now be better at not being in the way when you're mining minerals
+- 13339 There is a new switch in the spacerig, I wonder what it does?
+- 13341 Feature: Down Camera Mode, cycle through players while waiting to be revived or for the game to end. No more staring at your soon to be corpse!
+- 13384 Try to fix/improve network errors. Enable kick of players that have not selected a character
+- 13385 Fix Search Distance in server browser
+- 13386 Beta branches in steam will now save to separate save games. (Copies the save from main the first time). A backup save will now be saved after each mission, it checks total character XP so it should never be overwritten by a game with less progress.
+- 13391 rephrased supershotgun upgrade to match that it does not get doublle barrel fire only faster firerate.
+- 13393 Fix ui bug if incoming player is kicked before he selected character
+- 13397 Mission Map: Mission Icons now transparent if mission is locked, Password has correct spacing
+- 13402 Minor fix. Make molly prefer positions on floor when searching for random spot 
+- 13403 Fixed Shotgun reload speed upgrade not showing correct numbers. Fixed large upgrade digits barely fit in the UI
+- 13404 Server List got a facelift
+- 13405 Improved cave leech sounds
+- 13409 Prevent Pickaxe when using Last Equipped weapon key
+- 13410 Made Fire animations for flamethrower and gatling gun loop correctly instead of starting over repeatedly. Fixed tracer on assault rifle
+- 13411 Shield & health damage overlays now clears after revive
+- 13413 Gatling Gun Tweaks
+- 13414 Tweaked camera ofset on 1st person arms.
+- 13415 Gatling Gun muzzle particle offset tweaked
+- 13416 Tweaked Tentacle audio location
+- 13418 Add Weapon Sway to all items
+- 13419 Dropspike audio fix
+- 13420 Added maggot crawl audio
+- 13421 Mission Map locked mission gfx update
+- 13423 Nicer serverlist
+- 13424 Added new gatling overheat particles
+- 13427 Try to prevent dead end tunnels when they are really small and have tight bends.
+- 13429 tweaked depth on biomes
+- 13436 Better support for pathfinder blockers and danger zones. NPCs recalculate paths when entering an area that has changed.
+- 13445 Create backup save before upgrading to version 11 savegame
+- 13453 Fixed flaregun flare randomly getting ejected from walls when they are destroyed nearby
+- 13454 You can no longer revive while carrying a gem
+- 13455 Fixed enemies not being able to walk where the droppod was landed after it has taken off
+- 13466 Platforms can no longer form inside the droppod. Supplypods can only be called down on terrain. These changes are mainly to prevent trolling or unfortunate placement that can prevent you from finishing the mission.
+- 13468 Nicer host quit message
+- 13469 Newest FOV changes... moved the weapons a bit further away in some animations
+- 13471 [Patch] Power Drills is now smoking when they overheat.
+- 13480 Fix dwarf status is not shown on endscreen
+- 13484 Swarmer Tunnels in all biomes, one shot
+- 13495 Scaled up the flamethrower particles
+- 13503 Fixed depth meters for Biomes
+"
+	Update_10 = "Hej gruvarberare!, 
+
+Vi har ytterligare en uppdatering både med några viktiga fixar och lite nytt innehåll. Vid sidan av dessa mindre uppdateringar har vi inlett arbete med större innehållsbitar och nya funktioner. Mer om detta senare när vi släpper vår roadmap av vad som kommer framöver. 
+
+--- PATCH NOTES ---
+
+COMMUNITY REQUESTED FIXES
+- Fixed several issues with mouse sensitivity. Sensitivity was not the same in Space Rig and in a Mission, they are now the same. Sensitivity had different values for horizontal and vertical, they can now be set in option.
+- Steam Region search option. 
+- Disconnecting controller no longer disables mouse and keyboards
+- Test fix for primary monitor (somewhat untested!)
+- Fixed Grappling hook infinite life bug
+
+CAVE CONTENT
+- First implementation of different tunnels for every planetary region
+- Added crystal spikes than can drop from the ceiling in Salt Pits
+- Sticky Goo added to Fungus Bogs
+
+MISSION MAP
+- New icons for Complexity and Length. It should now be more obvious that Complexity is a serious difficulty increase.
+- Complexity icons now shown above Mission icons
+- Mission payout directly show below Mission icons
+
+WEAPON VIEWMODELS
+- Changed viewmodel FOV for 100 to 90
+- First person view of Weapons are now less stretched 
+- Reduced overall clipping issues
+
+SCOUT TWEAKS
+- Sawed off Shotgun shoots 15 pellets dealing 6 damage each - increased to 10 damage each 
+- Sawed off Shotgun Max ammo 30 bullets - decreased to 16
+- Sawed off Shotgun Max Ammo Upgrade - decreased from +10 to +8 
+
+ANIMATION, SOUNDS & EFFECTS
+- Driller Pistol Reload Animations
+- Driller Pistol and Scout Shotgun are now considered reloaded when it fits the animation, not when the animation ends. This will be implemented on other weapons when they get their own reloads. (Sound update missing)
+- Fixed console background anims on clients
+- Laser Pointer gfx update
+- Background removed from Interact popups
+- Damage Overlay gfx updated
+
+LOCALIZATION
+- Added more space between text lines on terminals (for accented languages)
+- Updated all languages from Crowdin
+
+MINOR FIXES
+- Server list defaults to not show password servers
+- Asteroids no longer smooth shaded on loading screen!!!
+- Controller Right stick is now used as mouse scroll wheel
+- Remove Steam Friend test when inviting friends. Private sessions should handle it better now and it was preventing clients inviting friends that were not friends with the server.
+- Fixed Molly not being Golden in Memorial Hall when unlocked
+- Make Molly and the large spiders prefer to walk on floor
+- Fixed Weapon crash
+- Enemies are no longer "staggered" by physical damage (Melee)
+- Fixed updated Ammo and Clip size was not applied when you first spawned into the mission
+- Changed Item scale in first person so that they clip less with other objects."
+	Update_21.5 = "Det är partydags gruvarbetare!
+
+Trot eller ej, Deep Rock Galactic har nu varit live i ETT HELT HÅR. Vi släppte i EARLY ACCESSS den 28 februari 2018 och det betyder att det är dags att fira med den här miniuppdateringen! Att utveckla spelet och expandera det med ny funktionalitet har varit (och fortsätter att vara) askul och vi känner oss ödmjuka inför all bra feedback och positiva recensioner vi får från er. Tack till er alla för att ni hjälper oss göra Deep Rock Galactic till det vi tror är ett FANTASTISKT spel och för att ni är en del av vårt magiska community. Tre leven för er, för framtiden och för ROCK AND STONE! Hurra, hurra hurra!
+
+Mycket kärlek,
+- The Ghost Ship Crew 
+
+--- PATCH NOTES ---
+
+ONE YEAR CELEBRATION GOODIES
+-----------------------------------
+SPACE RIG DRESSING: The Space Rig has been decorated and is ready for your party!
+
+ONE YEAR CELEBRATION HAT: Pick up your Time Limited ONE YEAR CELEBRATION HAT at the Gear Shop! It’s dirt cheap!* 
+*It obviously lives up to the same high bar of quality you’ve come to expect from DRG equipment.
+
+HAPPY HOUR IN THE ABYSS BAR - ALL DAY LONG: All beverages at the Abyss Bar are half off for the celebration, courtesy of DRG Management. Drink responsibly, and do remember that your Workers’ Comp does not cover injury while operating heavy mining machinery when intoxicated!
+
+
+UPGRADED SUPPORTER UPGRADE 
+-----------------------------------
+We’ve wanted to add more content to the game’s Supporter Upgrade for a long time, and what better occasion to do so than the One Year Anniversary! Here are the new goodies that current and new owners have in store:
+
+SUPPORTER WEAPON SKINS
+Gilded Supporter skins for the weapons for all characters!
+
+A VERY SPECIAL GHOST SHIP GAMES HELMET
+This supporter helmet might be a little too old school for space, but it sure makes you look cool!  
+
+SPECIAL SUPPORTER GLYPHID SLAMMER
+Serving one of our Supporters is always a pleasure! As a Supporter, you will get special treatment when ordering Glyphid Slammers at the Abyss Bar. 
+
+BETTER SUPPORTER SHOW-OFF IN TEXT-CHAT
+Supporters now get their name and supporter icon displayed in blue when using the text-chat. Developers get their names displayed in green if you should be so lucky as to play with one :-) 
+
+
+WEEKLY ASSIGNMENTS
+-----------------------------------
+Weekly Assignments are a new addition to the Assignment system where a new Assignment is generated each week for you to complete. Complete it and earn a hefty cache of credits and minerals.
+
+
+MORE HEADWEAR
+-----------------------------------
+Snappy Beret for your Gunner? Check. A nice, warm Beanie to cover up that bald, freezing head? Double check. A pig-iron mohawk or iron plates bolted to your skull? We got you covered. Thirteen new headwears have been added for you to look fancy in the dark.
+
+
+FIXES FOR BET-C 
+-----------------------------------
+- A light ring displays the area of effect of BET-C’s grenades. 
+- BET-C’s friendly fire damage (once converted, that is) has been reduced. Now BET-C feels a bit more like a trusty companion than before.
+- Improvements to BET-C’s friendly movement behavior, in an effort to make her stop sitting on top of the player.
+
+
+SERVER LIST UI IMPROVEMENTS
+-----------------------------------
+The server list has gotten a beefy overhaul, for an overall better overview of the different active games. We’ve improved the filtering options, and added tooltips to better explain the different icons.
+
+
+CAVE GENERATION UPDATE
+-----------------------------------
+More structures have been added to the cave generator which will result in a greater variety of levels in all mission types. Additionally, improvements to the underlying systems means you should see more variations out of the existing cave shapes as well.
+
+
+MISC.
+-----------------------------------
+- Fixed an issue the screen would flash white throughout gameplay, on GTX 970/980 graphics cards
+- New animation for checking the Terrain Scanner
+- Various spelling errors fixed
+
+"
+	Update_21.5_Xbox = "Det är partydags gruvarbetare!
+
+Trot eller ej, Deep Rock Galactic har nu varit live i ETT HELT HÅR. Vi släppte i EARLY ACCESSS den 28 februari 2018 och det betyder att det är dags att fira med den här miniuppdateringen! Att utveckla spelet och expandera det med ny funktionalitet har varit (och fortsätter att vara) askul och vi känner oss ödmjuka inför all bra feedback och positiva recensioner vi får från er. Tack till er alla för att ni hjälper oss göra Deep Rock Galactic till det vi tror är ett FANTASTISKT spel och för att ni är en del av vårt magiska community. Tre leven för er, för framtiden och för ROCK AND STONE! Hurra, hurra hurra!
+
+Mycket kärlek,
+- The Ghost Ship Crew 
+
+--- PATCH NOTES ---
+
+ONE YEAR CELEBRATION GOODIES
+-----------------------------------
+SPACE RIG DRESSING: The Space Rig has been decorated and is ready for your party!
+
+ONE YEAR CELEBRATION HAT: Pick up your Time Limited ONE YEAR CELEBRATION HAT at the Gear Shop! It’s dirt cheap!* 
+*It obviously lives up to the same high bar of quality you’ve come to expect from DRG equipment.
+
+HAPPY HOUR IN THE ABYSS BAR - ALL DAY LONG: All beverages at the Abyss Bar are half off for the celebration, courtesy of DRG Management. Drink responsibly, and do remember that your Workers’ Comp does not cover injury while operating heavy mining machinery when intoxicated!
+
+
+WEEKLY ASSIGNMENTS
+-----------------------------------
+Weekly Assignments are a new addition to the Assignment system where a new Assignment is generated each week for you to complete. Complete it and earn a hefty cache of credits and minerals.
+
+
+MORE HEADWEAR
+-----------------------------------
+Snappy Beret for your Gunner? Check. A nice, warm Beanie to cover up that bald, freezing head? Double check. A pig-iron mohawk or iron plates bolted to your skull? We got you covered. Thirteen new headwears have been added for you to look fancy in the dark.
+
+
+FIXES FOR BET-C 
+-----------------------------------
+- A light ring displays the area of effect of BET-C’s grenades. 
+- BET-C’s friendly fire damage (once converted, that is) has been reduced. Now BET-C feels a bit more like a trusty companion than before.
+- Improvements to BET-C’s friendly movement behavior, in an effort to make her stop sitting on top of the player.
+
+
+SERVER LIST UI IMPROVEMENTS
+-----------------------------------
+The server list has gotten a beefy overhaul, for an overall better overview of the different active games. We’ve improved the filtering options, and added tooltips to better explain the different icons.
+
+
+CAVE GENERATION UPDATE
+-----------------------------------
+More structures have been added to the cave generator which will result in a greater variety of levels in all mission types. Additionally, improvements to the underlying systems means you should see more variations out of the existing cave shapes as well.
+
+
+MISC.
+-----------------------------------
+- Fixed an issue the screen would flash white throughout gameplay, on GTX 970/980 graphics cards
+- New animation for checking the Terrain Scanner
+- Various spelling errors fixed
+
+"
+	Update_18_ShortTitle = "ARBETSMÖJLIGHETER"
+	Update_13_ShortTitle = "SMÅ FÖRÄNDRINGAR I LIVET"
+	Update_15_ShortTitle = "MUTERINGSVARNING!"
+	Update_29_ShortTitle = "BÖRJAN PÅ SLUTET"
+	Upadte_31_ShortTitle = "TITEL"
+	Update_10_ShortTitle = "TUNNELSEENDE?"
+	Update_24_Xbox = "Sätt er ner gruvarbetare! 
+
+Vi har nya granater, ögongodis, personliga borrkapslar, en hög nya fiender och MASSOR av utrustningsförändringar att berätta om. Så ta en öl och lyssna!
+
+Och kom ihåg att kolla efter [COMMUNITY REQUESTS] de är saker som ni har varit på oss om att lägga till så fortsätt med det. Det är, som alltid, mycket uppskattat. Nedan följer patchnotes på engelska.
+
+--- PATCH NOTES ---
+
+GRENADE LOADOUT
+-----------------------------------
+The boys and gals in R&D have been hard at work once more! All the old grenades have been reworked, and a ton of new ones have been added. Each class can now unlock up to three distinct types of class-specific throwables, with the potential for more to come in future Updates.
+- Engineer: L.U.R.E, Plasma Burster, Proximity Mine
+- Gunner: Sticky Grenade, Incendiary Grenade, Cluster Grenade
+- Scout: IFG, Cryo Grenade, Pheromone Canister
+- Driller: Impact Axe, HE Grenade, Neurotoxin Grenade
+
+
+LOADING SCREEN MAKEOVER
+-----------------------------------
+We’ve finally gotten our new orbital drone cameras installed, enabling much better and varied scenic views of mining crews descending to the surface of Hoxxes at the beginning of each mission.
+
+
+END SCREEN MAKEOVER
+-----------------------------------
+The End Screen shown at the end of each mission has gotten a much-needed overhaul as well. Now you get to pose and display all your lovely cosmetics in full 3D while the mission data ticks up!
+
+
+STEAM ACHIEVEMENTS
+-----------------------------------
+They’ve been a long time coming, but they’re finally here! 50+ Steam Achievements have been added to the game, ready to be unlocked! We’ve strived to make them retroactive anywhere it made sense.
+
+
+NEW MOBS
+-----------------------------------
+NAEDOCYTE BREEDER
+Imagine a floating bag of slime, constantly spewing out pulsing egg-sacks full of ravenous young. They may look like gentle giants (depending on how much you like tentacles), but trust us when we say you want to take these oozing blimps out quick.
+
+NAEDOCYTE HATCHLING
+The result of leaving the Naedocyte Breeders to do their thing. We’ve run into more developed varieties of these before, but this is the first time we’ve ever encountered them in their larval state. They are hatched ravenously hungry, so mind yourselves that you don’t get overrun.
+
+Q’RONAR YOUNGLINGS
+Younger and softer variation of the Shellbacks. Unlike their more solitary-minded mature state, the Q’ronar Younglings hunt in packs. Do not underestimate them.
+
+GOLDEN LOOTBUG
+Now, this is an interesting one. Unlike the common Lootbug, this particular breed gorge themselves on gold alone. Management has no qualms with employees taking them out for sport and personal gain. 
+
+HUULI HOARDER
+This rare beastie seems like a bit of an oddity among the otherwise mostly hostile Hoxxes fauna. Often referred to as “The Clown Car”, the Huuli Hoarder is an abject coward and will run away from any potential threat once startled. However, like the common Lootbug, they subside solely on a diet of precious minerals - as in, taking them out will net you a tidy profit, just take care that you don’t let it separate you from your team.
+
+
+LATE JOIN DROP POD
+-----------------------------------
+[COMMUNITY REQUEST] Let it not be said that Management does not care about employee complaints. Joining a mission already in progress now dumps you into a personal drop pod, letting you safely land in the mission area instead of utilizing the horribly unreliable teleportation technology used so far. As with the Supply Pod, it is recommended to keep a safe distance to the landing zone. 
+
+
+BETTER DISCORD INTEGRATION
+-----------------------------------
+Sign up for the Miner’s Union and join our wonderful Discord community directly from the Space Rig! We have bigger plans for this down the line, but for now, you can use it to see the number of active members and such.
+
+
+MISSIONS AND ASSIGNMENTS
+-----------------------------------
+- [COMMUNITY REQUEST] The Mission Map now displays Assignment Icons for every team member, making it easier to choose which missions to go on.
+- [COMMUNITY REQUEST] The Hazard 5 Unlock Assignment now requires you to play the associated missions on Hazard 4 difficulty
+- [COMMUNITY REQUEST] Dwarves leaving a game will now drop a resource pouch with any materials they had in their inventory
+- [COMMUNITY REQUEST] Added an option to opt Bosco out of solo missions at the Drone Modification Terminal
+
+
+UI AND CONTROLS
+-----------------------------------
+- Personal Temperature HUD overhaul
+- [COMMUNITY REQUEST] Added option to disable Mouse Smoothing
+- Improved gear stats display in the Equipment Terminal
+
+
+PICKAXE POWER ATTACK
+-----------------------------------
+Surrounded by awful bitey things? Let them know how you feel about that! While having your pick out, hit Fire to unleash a devastating Power Attack. There’s a cooldown on it, so spend it wisely.
+
+
+MODELS AND AUDIO
+-----------------------------------
+- New Heavy Sentry model for Engineers
+- New Sentry models for the Minehead
+- New Floodlight models for the Minehead
+- Several new enemy and weapon sounds
+- New Hoxxes model shown on Space Rig
+
+
+GEAR TWEAKS
+-----------------------------------
+PICKAXE
+- Fixed the Q-mining exploit
+
+“THUNDERHEAD HEAVY AUTOCANNON
+- Fixed a bug with Autocannon fire rate not resetting
+- Fixed Autocannon lighter barrel assembly mod
+- Tweaked Autocannon fire rate to increase in a more linear manner
+- Removed Stun mod
+
+“LEAD STORM” POWERED MINIGUN
+- Decreased Stun mod chance
+- Decreased Stun duration
+- Fixed Aggressive Venting modification to properly function as client
+
+DEEPCORE GK2 
+- Renamed Stagger to Stun
+- Gear stats now display the weapon's stun on weak point hit functionality correctly
+
+EXPERIMENTAL PLASMA CHARGER
+- Renamed Normal Shots Bounce mod to Bouncy Plasma
+- Renamed Charged Projectile Explodes mod to Unstable Containment Field
+- Increased Radius and Damage of Unstable Containment Field implosion
+- Fixed some EPC shots doing "generic" damage
+
+“BULLDOG” HEAVY REVOLVER
+- Removed Stun Mod (anyone who purchased it will get a refund)
+- Added stun chance as an inherent property of the gun
+
+JURY-RIGGED BOOMSTICK
+- Stun Mod proc chance increased
+- Tungsten Pellets Mod armor damage multiplier increased
+- Blast Wave description made more clear (hopefully)
+- Blowthrough Mod changed to Super Blowthrough (can penetrate multiple targets)
+- Fixed Blast Wave mod to work consistently
+
+ZHUKOV NUK17
+- Removed the Stun mod (anyone who purchased it will get a refund)
+- Rearranged some of the other mods to better balance the potential builds
+- Increased the accuracy penalty while moving
+- Increased the speed with which accuracy is regained
+- Decreased accuracy spread when shooting
+- Increased Tier 4 Expanded Ammo Bags mod from +100 to +150 ammo
+
+M1000 CLASSIC
+- Added a tutorial hint for Focused Shot
+- Fixed Stun modification to work properly
+
+BREACH CUTTER
+- Fixed the Breach Cutter so it no longer damages the player if fired directly downwards
+
+
+MISC TWEAKS
+-----------------------------------
+- Deeptora Honeycomb is no longer immune to fire
+- Glyphid Praetorian acid gas can now be lit on fire again
+- Fixed cases of mission weapon assignment completed not being counted correctly
+- Fixed some invisible colliders in levels displaying as ‘Unknown Material’
+- Credits pages now change properly
+- Fixed a bug that caused a floating Shield Generator or Satchel Charge to appear at the - location of the spawn point
+- Fixed some bugs related to saluting while reloading
+- Fixed certain armors that caused the player’s arms to be invisible at the beginning of a mission
+- Fixed the revive progress bar so it no longer stays on the screen if another player starts and cancels the revive process
+- [MIXER Interactivity] Resupplying Ammo now works
+- Super Blowthrough modifications changed from 10 penetrations to 3 for all weapons that have them
+- Added a failsafe for Shield Generators that fail to deploy
+"
+	Update_24 = "Sätt er ner gruvarbetare! 
+
+Vi har nya granater, ögongodis, personliga borrkapslar, en hög nya fiender och MASSOR av utrustningsförändringar att berätta om. Så ta en öl och lyssna!
+
+Och kom ihåg att kolla efter [COMMUNITY REQUESTS] de är saker som ni har varit på oss om att lägga till så fortsätt med det. Det är, som alltid, mycket uppskattat. Nedan följer patchnotes på engelska.
+
+--- PATCH NOTES ---
+
+GRENADE LOADOUT
+-----------------------------------
+The boys and gals in R&D have been hard at work once more! All the old grenades have been reworked, and a ton of new ones have been added. Each class can now unlock up to three distinct types of class-specific throwables, with the potential for more to come in future Updates.
+- Engineer: L.U.R.E, Plasma Burster, Proximity Mine
+- Gunner: Sticky Grenade, Incendiary Grenade, Cluster Grenade
+- Scout: IFG, Cryo Grenade, Pheromone Canister
+- Driller: Impact Axe, HE Grenade, Neurotoxin Grenade
+
+
+LOADING SCREEN MAKEOVER
+-----------------------------------
+We’ve finally gotten our new orbital drone cameras installed, enabling much better and varied scenic views of mining crews descending to the surface of Hoxxes at the beginning of each mission.
+
+
+END SCREEN MAKEOVER
+-----------------------------------
+The End Screen shown at the end of each mission has gotten a much-needed overhaul as well. Now you get to pose and display all your lovely cosmetics in full 3D while the mission data ticks up!
+
+
+STEAM ACHIEVEMENTS
+-----------------------------------
+They’ve been a long time coming, but they’re finally here! 50+ Steam Achievements have been added to the game, ready to be unlocked! We’ve strived to make them retroactive anywhere it made sense.
+
+
+NEW MOBS
+-----------------------------------
+NAEDOCYTE BREEDER
+Imagine a floating bag of slime, constantly spewing out pulsing egg-sacks full of ravenous young. They may look like gentle giants (depending on how much you like tentacles), but trust us when we say you want to take these oozing blimps out quick.
+
+NAEDOCYTE HATCHLING
+The result of leaving the Naedocyte Breeders to do their thing. We’ve run into more developed varieties of these before, but this is the first time we’ve ever encountered them in their larval state. They are hatched ravenously hungry, so mind yourselves that you don’t get overrun.
+
+Q’RONAR YOUNGLINGS
+Younger and softer variation of the Shellbacks. Unlike their more solitary-minded mature state, the Q’ronar Younglings hunt in packs. Do not underestimate them.
+
+GOLDEN LOOTBUG
+Now, this is an interesting one. Unlike the common Lootbug, this particular breed gorge themselves on gold alone. Management has no qualms with employees taking them out for sport and personal gain. 
+
+HUULI HOARDER
+This rare beastie seems like a bit of an oddity among the otherwise mostly hostile Hoxxes fauna. Often referred to as “The Clown Car”, the Huuli Hoarder is an abject coward and will run away from any potential threat once startled. However, like the common Lootbug, they subside solely on a diet of precious minerals - as in, taking them out will net you a tidy profit, just take care that you don’t let it separate you from your team.
+
+
+LATE JOIN DROP POD
+-----------------------------------
+[COMMUNITY REQUEST] Let it not be said that Management does not care about employee complaints. Joining a mission already in progress now dumps you into a personal drop pod, letting you safely land in the mission area instead of utilizing the horribly unreliable teleportation technology used so far. As with the Supply Pod, it is recommended to keep a safe distance to the landing zone. 
+
+
+BETTER DISCORD INTEGRATION
+-----------------------------------
+Sign up for the Miner’s Union and join our wonderful Discord community directly from the Space Rig! We have bigger plans for this down the line, but for now, you can use it to see the number of active members and such.
+
+
+MISSIONS AND ASSIGNMENTS
+-----------------------------------
+- [COMMUNITY REQUEST] The Mission Map now displays Assignment Icons for every team member, making it easier to choose which missions to go on.
+- [COMMUNITY REQUEST] The Hazard 5 Unlock Assignment now requires you to play the associated missions on Hazard 4 difficulty
+- [COMMUNITY REQUEST] Dwarves leaving a game will now drop a resource pouch with any materials they had in their inventory
+- [COMMUNITY REQUEST] Added an option to opt Bosco out of solo missions at the Drone Modification Terminal
+
+
+UI AND CONTROLS
+-----------------------------------
+- Personal Temperature HUD overhaul
+- [COMMUNITY REQUEST] Added option to disable Mouse Smoothing
+- Improved gear stats display in the Equipment Terminal
+
+
+PICKAXE POWER ATTACK
+-----------------------------------
+Surrounded by awful bitey things? Let them know how you feel about that! While having your pick out, hit Fire to unleash a devastating Power Attack. There’s a cooldown on it, so spend it wisely.
+
+
+MODELS AND AUDIO
+-----------------------------------
+- New Heavy Sentry model for Engineers
+- New Sentry models for the Minehead
+- New Floodlight models for the Minehead
+- Several new enemy and weapon sounds
+- New Hoxxes model shown on Space Rig
+
+
+GEAR TWEAKS
+-----------------------------------
+PICKAXE
+- Fixed the Q-mining exploit
+
+“THUNDERHEAD HEAVY AUTOCANNON
+- Fixed a bug with Autocannon fire rate not resetting
+- Fixed Autocannon lighter barrel assembly mod
+- Tweaked Autocannon fire rate to increase in a more linear manner
+- Removed Stun mod
+
+“LEAD STORM” POWERED MINIGUN
+- Decreased Stun mod chance
+- Decreased Stun duration
+- Fixed Aggressive Venting modification to properly function as client
+
+DEEPCORE GK2 
+- Renamed Stagger to Stun
+- Gear stats now display the weapon's stun on weak point hit functionality correctly
+
+EXPERIMENTAL PLASMA CHARGER
+- Renamed Normal Shots Bounce mod to Bouncy Plasma
+- Renamed Charged Projectile Explodes mod to Unstable Containment Field
+- Increased Radius and Damage of Unstable Containment Field implosion
+- Fixed some EPC shots doing "generic" damage
+
+“BULLDOG” HEAVY REVOLVER
+- Removed Stun Mod (anyone who purchased it will get a refund)
+- Added stun chance as an inherent property of the gun
+
+JURY-RIGGED BOOMSTICK
+- Stun Mod proc chance increased
+- Tungsten Pellets Mod armor damage multiplier increased
+- Blast Wave description made more clear (hopefully)
+- Blowthrough Mod changed to Super Blowthrough (can penetrate multiple targets)
+- Fixed Blast Wave mod to work consistently
+
+ZHUKOV NUK17
+- Removed the Stun mod (anyone who purchased it will get a refund)
+- Rearranged some of the other mods to better balance the potential builds
+- Increased the accuracy penalty while moving
+- Increased the speed with which accuracy is regained
+- Decreased accuracy spread when shooting
+- Increased Tier 4 Expanded Ammo Bags mod from +100 to +150 ammo
+
+M1000 CLASSIC
+- Added a tutorial hint for Focused Shot
+- Fixed Stun modification to work properly
+
+BREACH CUTTER
+- Fixed the Breach Cutter so it no longer damages the player if fired directly downwards
+
+
+MISC TWEAKS
+-----------------------------------
+- Deeptora Honeycomb is no longer immune to fire
+- Glyphid Praetorian acid gas can now be lit on fire again
+- Fixed cases of mission weapon assignment completed not being counted correctly
+- Fixed some invisible colliders in levels displaying as ‘Unknown Material’
+- Credits pages now change properly
+- Fixed a bug that caused a floating Shield Generator or Satchel Charge to appear at the - location of the spawn point
+- Fixed some bugs related to saluting while reloading
+- Fixed certain armors that caused the player’s arms to be invisible at the beginning of a mission
+- Fixed the revive progress bar so it no longer stays on the screen if another player starts and cancels the revive process
+- [MIXER Interactivity] Resupplying Ammo now works
+- Super Blowthrough modifications changed from 10 penetrations to 3 for all weapons that have them
+- Added a failsafe for Shield Generators that fail to deploy
+"
+	Update_10_Header = "UPPDATERING 10: TUNNELSEENDE? - 16.03.2018"
+	Update_18 = "UPPDATERING 18: JOBBERBJUDANDEN
+
+Goddagens gruvarbetare! 
+Det är dags att ta på er era splitternya rustningar, dricka förbättrade öler och anta nya arbetsuppgifter. Oktoberfest är över och vi har varit upptagna med att fylla en stor säck av nya funktioner åt er. Njut! Patchnotes följer på engelska.
+
+--- PATCH NOTES ---
+
+NEW ASSIGNMENT SYSTEM
+----------------------------
+Our goal with the assignment system is to create a smoother start for new players and at the same time create excitement for getting access to new content. Assignments in the future will be used to unlock new content like alternative weapons and planet regions.
+
+THE PROBATIONARY PERIOD:
+When you start the game for the first time you now have to complete the Probationary Period in order to prove your worth as a miner. The Probationary Period is a 9-missions long assignment and will take you through the different regions of Hoxxes and challenge you with various missions to complete.   
+
+You can join any missions on the server list, regardless of completion of the Probationary Period. Completing missions that is part of an assignment grants you bonus rewards in the form of crafting materials and credits. After completing the Probationary Period you will have unlocked all regions, missions, and difficulties. 
+
+ATTENTION VETERAN MINERS! Players who have played the game before will get an option to skip the Probationary Period from The Assignment Board terminal. 
+
+
+RETIREMENT
+----------------------------
+RETIREMENT APPLICATION: When you max out a character at level 20, you get the option to complete the Retirement Application Assignment for that character. Select it from the Assignment Board Terminal. When you have completed the assignment you get the option to retire that character from the Character Selection Terminal. 
+
+RETIRING A DWARF: When you retire a character that character will reset to level 1 and you will lose all progress on weapons and upgrades for that character. You will, however, keep all progression on perks, credits, crafting materials, and vanity items. The first time you retire, you will also unlock an extra perk slot for that specific character. Retiring a character is the only way you can increase your player rank above 26, since you need to gain character levels in order to gain player ranks. We are also considering to introduce unlocks of vanity and other features for players above player rank 26.
+
+
+MISSION UPDATES
+----------------------------
+In order to make a smooth Probationary Period assignment, and in general to improve the long-term mining experience, we have tweaked some of the missions and made both simpler and more complex versions of them. 
+
+EGG HUNT: We have for a long time been wanting to improve the missions types Egg Hunt and Search & Extract. In the end, we decided to just merge them together. Here are the changes:
+
+- Egg hunt now takes place in a cave system, similar to what you used to encounter in Search & Extract. 
+- Instead of having to run around and search for the eggs you can use the Terrain Scanner (hold down [M]) to spot their location. 
+- You have to collect fewer eggs than previously. 
+- Egg hunt now has multiple complexities and lengths. 
+- Search & Extract have been removed for now.
+- We resisted the temptation of calling Egg Hunt for Search & Eggstract!
+
+SALVAGE MISSION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Assemble 2 MINI MULES) and long (Assemble 3 MINI MULES) 
+
+ELIMINATION
+- The cave systems can now generate both medium and high complexity levels
+- Length short (Kill 2 Dreadnoughts) and long (Kill 3 Dreadnoughts) 
+
+
+BEER BUFFS
+----------------------------
+Buffs have been added to some of the beers and prices have been adjusted: 
+
+- RED ROCK BLASTER: +30% to max health
+- SKULLCRUSHER ALE: +50% Pickaxe damage
+- DARK MORKITE: +20% Morkite mined
+- GLYPHID SLAMMER: A new none-buff beer, but it will still make you happy :-)
+
+Beers with buffs have been given a lower potency effect, so you can drink one without getting drunk. This is done to prevent you from always having to drink the Leaf Lover’s Special if you don’t want to play with the drunk effect on.
+
+Note that Buffs will remain after drinking Leaf Lover’s Special. And also note that Buffs won’t stack. Also-also note that beers have some randomness in how hard they affect you.  
+
+
+NEW MODEL FOR ASSAULT RIFLE
+----------------------------
+Scouts assault rifle has gotten an overhaul of model, animations, and sound. 
+
+
+NEW ARMORS
+----------------------------
+8 new Armors (called MK3 Basic and Heavy) have been implemented, ready for you to buy and equip. They will be unlocked at player rank 10 and 12 respectively. if you are lower than player rank 8 you will only see the MK2 armor in the shop.
+
+
+DIFFICULTY TWEAK
+----------------------------
+Hazard levels for 2-player games have been tweaked to make the jump from playing solo to two players less steep. Scaling factors of enemies for 2-player games have been adjusted like this: Low risk 0.4 to 0.3, Challenging 0.5 to 0.4, Dangerous 0.75 to 0.66, Extreme 1.0 to 0.9 
+
+The Mactera Plague warning has been tweaked down in difficulty. Some craziness is still ensured, but now it should be less punishing. 
+
+
+FIXES AND IMPROVEMENTS
+----------------------------
+- New dance move when listening to the jukebox
+- Zip-line fix. Now clients also get forward momentum when jumping off the zip-line
+- Save files are not overwritten if there is no connection to steam
+- Server List is added on Xbox! Now it should be a lot easier to find a team to play with! 
+- We have disabled that you can drop a carried item by pressing [E]/ (X). If you want to drop a carried item either toggle weapons or throw it by pressing [LEFT MOUSE BUTTON]/ (RIGHT TRIGGER)
+- Using Terrain Scanner no longer spins the player around and the Escape Pod has been added to it
+- Third person flamethrower gunsling added
+- Fix recoil. It was added before the shot was fired, so you could never be fully accurate
+- Fix a case where clients are unable to load the map. Resulting in stuck on loading screen
+- Detect chunks and gems falling out of the world and beam them back
+- Space Rig - No more blue light in drop pod when launching a mission
+- Oktoberfest banner changed
+- Save Game: Players can no longer gain extra XP above the cap
+- Added mission stats: Total beverages consumed & Total beverage round ordered
+- Full Screen mode is now handled correctly and does not reset in between sessions
+- Sun added behind Planet Hoxxes in Space Rig. Planet model slightly updated as well
+- Clients can now open the mission map while in a hosted game
+
+"
+	Update_29_Header = "UPPDATERING 29: BÖRJAN PÅ SLUTET"
+	Update_9_Header = "UPPDATERING 9: BORRAR DIG SENARE! - 09.03.2018"

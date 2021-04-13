@@ -1,11 +1,10 @@
-7331 entries
-35 namespaces
-6049 values
+7274 entries
+33 namespaces
+5996 values
 
-Namespace Global (6793 keys)
+Namespace Global (6771 keys)
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        restart        "
 	21E775294A9F00BC12A202B5100B6791 = " Tady je ztracený náklad!"
-	2559D78C40005E5221F26093CB976283 = "Sesbírejte {Title}"
 	3E2E82954782E77A2F596AB7FEA09136 = " Upadl jsem!"
 	31D60A1449082F9AB6DC15844F3810F6 = " POŽADOVANÉ"
 	E0E180134C7EAF4A647A3A98FEC339AC = "!! ZÁSEK !!"
@@ -49,6 +48,7 @@ Veškeré údaje získané touto metodou jsou spravovány skrze StatHat s plnou 
 	C1DAAEC840ACC474D6EE10927632877C = "''Tvrdá práce je jádrem každého rudo-krevního trpaslíka. Jsi nejlepší trpaslík jaký můžes být?''"
 	C9ABA6FC40821AB487747FBE7E69A93F = "„Nesnášim kytky!“"
 	2008FBC04EB67BAD588D6D986C62330E = "„Slyšel jsem, že tohle byla Kárlova oblíbená oblast. Tak v tom se naše názory lišej. Páč lišej je to jediný co jsem odsud dostal.“"
+	24849CE146A86F9669419DA47D289234 = "„Neměl jsem si brát svoje huňatý trenky.“"
 	BCE7D9A64C9A097CE7190BB853976592 = "„Ještě jsem se ani nezbavil svýho posledního zánětu.“"
 	9A349E584BB616DDB542BB90EF5C2009 = "„Cítím se jak na trní.“"
 	59CFDF144899447829E9A3AE8AB1F3ED = "„Nabírám si trochu soli, abych dodal aspoň špetku chuti tý šlichtě co podávaj v kantýně.“"
@@ -210,6 +210,7 @@ Během sběru dat anonymizujeme vaši IP adresu a udržujeme pouze malou část 
 	8275052142115DF3E33B5AAE2E040BBA = "----- STAV MISE -----"
 	C154ACB2456607A2A049E492A7646C13 = "----- STAV MISE -----"
 	99CB9C494E0F4E1E18B1F99850F93FF3 = "-3 poškození"
+	7F95845946B44668C28886B0F9FB8AC9 = "...Boj ještě neskončil!"
 	7BFFD5244098A04F83A10B8C26F6FBBA = "...Momentíček...právě jsem přišel na způsob jak zrychlit pohyb wolframových kulek v nízkotlakém prostředí...nebo...ne, je to pryč."
 	E4D5D88549789B2B7E1EDA9C8889A802 = "...Hm.. Kdo bude učit Zelenovouse, když odcházím?"
 	04E8E0B84A9FBE9DDA089AB20B6FEC64 = "...Definitivně NEMÁM dost!"
@@ -249,11 +250,13 @@ Během sběru dat anonymizujeme vaši IP adresu a udržujeme pouze malou část 
 	AA68CF7B4C9B496082B885BD61EB2397 = "100 %"
 	D343AE2749E54BD7FD7D1C9A698514FB = "100 %"
 	4CABE16F4C9C7FA8D342A8BAB370E71E = "O 100 % více zlata z těžení"
+	6852C23A451599A6D2BF529A64A43E29 = "17 100"
 	A6A17BE34F9EDC3124434C809161A714 = "2 špačci a hnusné vraní hnízdo."
 	99CD26B24BF6817DD1A4978034CA179D = "2 000 kulek z ochuzenýho uranu...to je vončo...!"
 	08F2A7304B622C3360EEB2AD3FFF7419 = "O 20 % více Morkitu z těžení"
 	923BB7994700BE05C38FC99F3454C3B9 = "22.6 m"
 	BB7B9C3D44E852BCCB82178170EC714C = "226 %"
+	0E2E1F124FCE8C7AA4B29A9EBF8CA3D8 = "3 ROKY NA ORBITĚ!"
 	C4074DC14285A41787355CA8FC85F54B = "3...2...1...spouštění na orbitu."
 	AB8054974334C97C016573B60177E2B1 = "35 °"
 	27A6E93541B5197B1C65A6AAA5399A3A = "37005, 71 M"
@@ -277,7 +280,6 @@ Během sběru dat anonymizujeme vaši IP adresu a udržujeme pouze malou část 
 	44C653AB4191737F9696CFB0BE5D1153 = "75 % dokončeno. Už jsme skoro tam."
 	2F53C8CC4D7EBCE92E11429D670CB1DE = "75 %, týme."
 	24E84D5F4593FFB177939EA7EFB7AA6B = "<< BUĎTE EXTRÉMNĚ OPATRNÍ >>"
-	C7CC6D6949C88733A047A883BF1F3D80 = "<< Vyčkejte na další novinky >>"
 	1BE6C9C645FFBDED72745C902D477D77 = "<CloseMenu/>Normální <Highlight>Zvýrazněný</> <Bold>Tučný</>"
 	7EDA9B1045592FC03BDA609EC78AE39E = "Stiskem <Equip4/> vyberete speciální nástroj vaší třídy"
 	5501A0744D28D36209CF0FAB1C5C3ECC = "<Hightlight>Bohatství</> Uzavřená zpráva"
@@ -311,12 +313,15 @@ Kování zvyšuje Vaše mistrovství. každá nová úroveň Vás odmění <high
 	D10328894C337CD79FD58B89B9F038CA = "Klasika ze starých dobrých časů"
 	0AEF446B46A1CAFF96311EAF12282EC2 = "Blízký příbuzný kyselinoplivače, pavučinoplivač je dokáže střílet chuchvalce extrémně lepkavých pavučin, které zabalí a znehybní jakoukoliv oběť, to mu umožňuje zabít svou kořist svým tempem. Relativně neškodný v porovnání se svými druhy, ale stále je více než schopný být tím posledním, co uvidíte při boji proti početnému roji."
 	D7D3012A4080802261AEB99A56D74FD3 = "Blízký příbuzný glyfidského destruktora, avšak s výjimečnou strhující mutací. Každým coulem stejně nebezpečný jako jeho příbuzný, schopný vypouštět ničivé tlakové vlny a devastují výbuchy, rovnající se kilotuně TNT. Na rozdíl od svého příbuzného, který svým mocným výbuchem přemění horninu ohraničující dosah exploze v kámen, se při explozi toho jedince provede pozoruhodná chemická reakce. Vše zachycené v dosahu exploze královského destruktora se okamžitě promění ve zlato. Neskutečné."
+	0EED05A84216DECCD0F13AA5E6C1C7FF = "Bojová mula? Co VaV vymyslí příště?"
 	4DCC75AA4AF7E72A261F73B7CDB1D4D7 = "Párek kanárků, prosim!"
 	10EBE9914309B112BED94D8ACB15BFE8 = "Revolver na míru, který střílí kulky tak velké, že se do něho vejdou jenom 4. Více méně nic nemůže stát mezi ním a přímým zásahem jedním z těchto 26mm příšer."
 	74F3549648D46EE659CC2CAC30F2C0DD = "Odlišná konstrukce se značně zvýšenou palebnou silou a pevně daným palebným úhlem."
 	2F52913F46610E48535B80BAA5F6DDE1 = "Splněný sen!"
 	86A03D794F56F55E13FFD190FE8F3031 = "Trpaslík nikdy neumíra!"
 	15EBC151471522B1273F7D86593BC3EE = "Oblíbenost trpaslíků a horalů."
+	114D43F84C2FE935C88FA2AB5978FE2A = "Ještě trochu těhle a vykrvácím."
+	2356D8804FF231B829E788B493AC081A = "Přítel v nouzi!"
 	162159974A31655741072181B4F20301 = "Záloha paliva dopadne nedaleko. Zapněte ji a chraňte oblast, mezitím co bude probíhat kalibrace. "
 	151D185C4FC9607CD34E6F91C936F809 = "Vysoce pokročilý kus výbavy, nacpaný technikou více než malý obchod s elektrem. Mark I nemá žádnou ochranu spodní části obličeje, perfektní pro vystavení Vašich vousů na odiv."
 	DBF5DA4A42DB1CE6FE347E9EFC66AF1C = "Vysoce pokročilý kus výbavy, nacpaný technikou více než malý obchod s elektrem. Mark II je vybaven plynovou maskou, která přijde vhod jak na Hoxxes, tak v šatně."
@@ -457,6 +462,7 @@ Také mu můžete <bold>vzdát hold</> stiskem <Salute/>."
 	B70492484F35CE8C204DC5AD77C95F52 = "Neexistuje žádnej člověk, kterej by ti dokázal vzít co je tvoje."
 	F4C0429844524F29A4D4118507756EFD = "Tahle máma už nic nevyplodí."
 	A2ACC65C4BD62728ECB2B487772A6F22 = "Není přepážka kterou neodstraním!"
+	7EB8260B4A2E1BDA8ACB81B5F2E3DE41 = "Není nic, co by mě skolilo!"
 	AB387E9A4B520EEAEECF3FBF5A06A15E = "Vzdušný Gejzír"
 	8298AD284C46A9E37AACD9B0D2F506ED = "Vzduch, potřebuju vzduch!"
 	8C4482CE4C054155E1685485C9282BE5 = "Lítající brouci!"
@@ -470,6 +476,7 @@ Také mu můžete <bold>vzdát hold</> stiskem <Salute/>."
 	299BED7B4263CCA2670157B7113E7BEB = "Úplné"
 	A409C3764DFDE233D90B83AA2FF3240F = "Vše"
 	AD7B012B40FE168398E7FC8FB63D8BDB = "Všechny kanystry natankovány! Drildozér je připraven na další posun! "
+	1E6C495549D23752A24340AFFB51C7AA = "Sláva horníkům!"
 	03229574442F90EC8E655EB63912D030 = "Všechny jednotky M.U.L.A. zajištěny! Nyní zprovozněte modul. Zaprvé: Navažte stabilní spojení mezi modulem a vesmírnou stanicí. Nastavte satelit!"
 	A35A2D1A427A4C3B2271BE8F1E5339DA = "Všechny jednotky mini M.U.L.A. jsou funkční, dobrá práce. Až budete připraveni, stiskněte tlačítko na vaší hlavní jednotce M.U.L.A. pro zahájení návratu."
 	204DFC7945664EE8151CBB80645554EA = "Všechny mini Muly spočítány, dobrá práce týme. Úkol splněn. Naložte je zpátky na výsadkový modul až budete chtít."
@@ -519,7 +526,6 @@ Stiskem <equip2/> vyberete svou <bold>sekundární zbraň</>w"
 	A5294F27463D370F8DD5298C44AF4D16 = "Mezi nejpozoruhodnější podívané na Hoxxes patří vhodně pojmenované Krystalické jeskyně, skutečný balzám pro vaše oči. Masivní křišťály trčí z každého povrchu, jiskří a třpytí se ve tmě. Bohužel objemnější krystaly jsou povětšinou bezcenné křemičitany, ale dají se tu najít také bohatá ložiska cenných minerálů."
 	1918B8AA47D09161A0EB5896D1C6ECC8 = "Mezi nejpozoruhodnější podívané na Hoxxes patří vhodně pojmenované Krystalické jeskyně, skutečný balzám pro vaše oči. Masivní křišťály trčí z každého povrchu, jiskří a třpytí se ve tmě. Bohužel objemnější krystaly jsou povětšinou bezcenné křemičitany, ale dají se tu najít také bohatá ložiska cenných minerálů."
 	4FB397D0444310B34EB994BCF7A1BF75 = "Všudypřítomnou hrozbou v této oblasti jsou erupce magmatu prýštící v plamenech ze země pod vámi. Doporučuje se zvýšená obezřetnost."
-	7788FB28487AD6E60942BA8B6CF01865 = "{class} má nyní o jeden slot pro perk navíc"
 	1181DB1E41B8A40484A7D18F285950DC = "Působivý vousy pro působivýho trpaslíka."
 	85D7BCEC4BE68DBC849081B25F1CFA7D = "Řídíte-li se starosvětským rčením „vždy připraven“, tak Vás zbroj Průzkumníka Mark V rozhodně nezklame. Kevlarem vyztužená vesta a postroj, boty s ocelovými zuby, praktické malé kapsy na světlice a dokonce má váček na sendvič!"
 	14A4DDF2406BA8A1DD77ED9F75B85F26 = "Upravené opláštění nábojnic vám umožní vtěsnat do zásobníku další 2 náboje, a také s sebou poberete o trochu více munice. Všechny ty úpravy však zhoršily přesnost zbraně, a přebití také trvá déle než dříve."
@@ -694,6 +700,7 @@ BERTE NA VĚDOMÍ! Jakmile přeskočíte zkušební období, již nikdy ho nebud
 	5E0306A7409B35CD4209E3A886811A0B = "Automatická střelba"
 	D5CECB814E398CF289935FB479060317 = "Robot"
 	4A5096184B9F803F71901A93EA7714A6 = "Autosentry dorazila!"
+	1F4911BB405794412C2AB1BDC85D23F1 = "Jauvajs! Trny!"
 	E752100E40CC177232EED38D5DE0494A = "Dostupné zakázky"
 	A66492B847D0BA4EC6FF29BEBEB9475E = "Průměrná"
 	0E06ED3640753942B3FB13B8EB4BB0FA = "Á, sakra...!"
@@ -717,7 +724,9 @@ BERTE NA VĚDOMÍ! Jakmile přeskočíte zkušební období, již nikdy ho nebud
 	5A85DE1140E707FCC2A38988D4DAEA30 = "PIVNÍ LICENSE VYLEPŠENA"
 	4CA396F145B211685401B4BFF7CBBAA1 = "NÁZEV PIVA"
 	82E0000A4E1E317CA7110F98F0A427A7 = "BET-C musí zastavit, aby aktivovala laser a vystřelila Precizní dávku"
+	1935B44D45AEC217359409945BBF0BBC = "BET-C mě docela děsí."
 	8C2E41974074120A5126CA982552D32D = "BIZMOOOOR!"
+	C711BE1D441B39A736BF56AB8866BA97 = "BIZMOR"
 	25574FF04560C2804C3B5F88AEAA005E = "PRŮLOM JÁDRA"
 	3FFF568840CFD6200F506F98A744826B = "PRŮLOM JÁDRA"
 	B057590A47AFF6B6EFA565B1A4BD8148 = "Grk!"
@@ -831,6 +840,7 @@ BERTE NA VĚDOMÍ! Jakmile přeskočíte zkušební období, již nikdy ho nebud
 	88A1EDCD4D1038F8619AFEAF03ED0BE2 = "Blond"
 	A6C60615458BC22078B336957951AC9F = "Blond"
 	6B7B519D4DCDF69E55A3229AAA3851D6 = "Chladnokrevné vrtáky"
+	A046042044F775F228A917B65CF0A57C = "Zatracenej elévous tady zahučel...!"
 	AEA0D3EB46EB709B635BD2BBD96D34E6 = "Zatraceně, ty se těžko zabíjíš!"
 	5BA1E70349AA6829105FC5BC9FE8120E = "Zatracený maktery, jdou po vašem týmu. Pořádně se na ně připravte."
 	420849BD49899A90B6645A99217B21B0 = "Propánajána, to je hromada Tritylitu! Rychle, ažhavte ty lasery!"
@@ -871,7 +881,6 @@ BERTE NA VĚDOMÍ! Jakmile přeskočíte zkušební období, již nikdy ho nebud
 
 Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazovátko</>. Stiskem <PressFire/> můžete dát Boscovi rozkaz, aby <bold>těžil</>, <bold>bojoval</> nebo <bold>osvítil</> část jeskyně."
 	AF89ACC34C2470CD580CCE87132B7F9E = "Bosco jsi nejlepší!"
-	55A72C6442FF1DABB65FE594BE548E43 = "{type} pro Bosca: „{name}”"
 	0D73182B4E50A6BCCB2C9887CBE2F624 = "Bosco! Aktivuj stavební režim!"
 	3B38065649F8E1E07A97589E28D1375F = "Bosco! Aktivuj obranný mód!"
 	1575C3AB4C3CE92AC1898296115DBA0D = "Bosco! Začni stavět! "
@@ -910,7 +919,6 @@ Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazová
 	2B9EAE3540CF9B0CDD1C9CA12E94D008 = "Přines bolest!"
 	CE16AEBE4EE28818C13435A9A3C25F20 = "Porušené potrubí"
 	E2C7C1E64A1EA3601E3F4C9EEFE6AD60 = "Porušený potrubní spoj"
-	2B6EDE784A734D6DD514188030DE0DAC = "Bronz"
 	B7D4F0C24DE02FBCADC520B7FE677B26 = "Bronz"
 	19234C7745B4197B98FFC5A005178359 = "Bronzohlav!"
 	A843D4AD45C589B2079807BFF3F60E70 = "Bronzohlavy pro tým, prosim! Ó a...ať to štípe!"
@@ -974,8 +982,8 @@ Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazová
 	6CC1E9DB477FBCA4779D839291853693 = "Grrk!"
 	736C063A4DFF6F2079DF84B42B55480A = "Grrk!"
 	04A839C2412E77F780A2EC8FC785D617 = "Nakoupit"
+	492E7C56428382FB5AB22DBCFC14BE9D = "Vyprošťovák"
 	9740B6264FB937E07B69EBBD8811B816 = "U Kárla! Mrkej na ty krásný nablejskaný...!"
-	20C21D5C48C68B8D4E72E49BC56BE26F = "Změnou způsobu vrstvení plazmy v nabitém projektilu můžeme dosáhnout pomalého a konzistentního výboje při nárazu. Tohle ovšem ubere okamžitě způsobené poškození."
 	188C5D974CE9DA86E1AD6296EE7709C0 = "Upilováním nepotřebného materialu v zasobníku jste ho odlehčil, to znamená že teď při přebijení rychleji vyskočí od zbraně. Munice se v něm může volněji pohybovat, takže se o trochu zvýší maximální rychlost střelby."
 	EFAD25E240DD9D8B12B242B009117556 = "U všech vousů! To je vošklivý!"
 	4608597C487C0EF357FBF39B1AA23F01 = "U všech vousů!"
@@ -993,7 +1001,6 @@ Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazová
 	F3716AB549EDC69C6867F8859FEFE97F = "VELIKOST JESKYNĚ"
 	87D97A9C4763C83339147C872464A4FE = "LM.RND"
 	0AC1F9C542A466BCDE1AFFAE52232A3A = "VYBRAT"
-	14F3039C44B0EBD365674BA4A986B4FF = "SEBRAT ODMĚNU"
 	5E8BBF3F422AB915A152BD9100797743 = "VYBER SI SVÉ ODMĚNY"
 	B8A06BB4428C92EC3A2631A8C2259D98 = "BODY PERKŮ K VYZVEDNUTÍ"
 	AA1B3D24461665D2DE736AB39C4BD728 = "TŘÍDA 01"
@@ -1001,6 +1008,7 @@ Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazová
 	023624E04256580815F77EB719B0A4B2 = "ZAVŘÍT"
 	0402F22242E9DA3BDCA0B6AA1D6B8704 = "BLÍZKÁ"
 	D0CF384D49A5E1CC743034857584F6FF = "BLÍZKÁ"
+	1FAAEA32472BA7A5077EF085675D2918 = "TŘÍŠTIVÝ GRANÁT!"
 	2861E3D14FF6F449A499798BCB96354E = "VYBERTE SI SVOU ODMĚNU"
 	B0D411104EBBCDE6566E3FAE8BB8359D = "VYBERTE SI SVOU ODMĚNU!"
 	3F0C9EF54B76216708530B9257D6584F = "ZÍSKANÉ MATERIÁLY:"
@@ -1023,7 +1031,6 @@ Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazová
 	F22F939C401BCB59C61A408133F2DD6A = "NABÍJEČ MATRIC! "
 	6DBECC3844DEEC3FD4C266A3623056D0 = "FIREMNÍ NABÍDKA"
 	0503DC77479E436F6E50DDBA7C86B939 = "Cena: {cost} {resource}"
-	EA72D0E84A9CF06B5573579F807E8A02 = "ODPOČET DO MISE:"
 	05C687684F61839B278B38A8EEC14F11 = "ODPOČET:"
 	BD3C2F1D4B59D926F8DE9CA2E63FDA29 = "KPM.PJ"
 	5EF133514BA90288C5793B83C07395C8 = "PIVSONY ŘEMESLNÉ VÝROBY"
@@ -1153,6 +1160,7 @@ Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazová
 	44B59CC148133EAB83315190B43F7FEE = "Čínština (zjednodušená)"
 	F18A035A46D94F3465A05C91BE45D14B = "Čínština (tradiční)"
 	269FB7F848C92ECA1F3381A1B24A9B9E = "Dávit se"
+	0CCB60F9422F45FB103BA08AECC0E575 = "Vyberte si, kterou uloženou pozici chcete načíst."
 	AD1BF55447ABA65314D18EA3B469E7B5 = "Rozsekejte je chlapci! Eboniti!"
 	AE8179A64C98D8F257901BBD5BF0253D = "Rozsekejte ty šmejdy dřív než vás hryznou, hoši! Nechci od nich chytnout tenhle hnus!"
 	13CA882845F8D2FB3CFCC889B1400947 = "Sek-sek"
@@ -1172,6 +1180,9 @@ Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazová
 	47EB687F4529CFBDBCFD699056AC7F7A = "Kus Quantritu"
 	E94E8AB94E59FCAF5BB9B499682073D1 = "Kus rudého cukru"
 	EC7C73A0400EAEB5501D12863298DDC5 = "Kus Umanitu"
+	9F70AB874785C7B87B674984E1E880F2 = "Vybrat"
+	A70BB15E46735AE3A4A1B0861BBC399D = "Vybrat"
+	BA4DDC974D8A061685EF069C87E492DD = "Vybrat"
 	03C26F044312E80D939A2089BC8FC337 = "Vzít lup"
 	7684EA45434FAD49BDC1F5B3D7D1DEC7 = "Vzít lup"
 	A642A28F4FC0EB6802FDA49288A4B4F8 = "Převezměte odměnu SVAZU"
@@ -1225,10 +1236,6 @@ Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazová
 	43F4C3D2491F39EA9F7180A158AD2588 = "Nasbírejte dostatek Nitry, abyste mohli přivolat Zásobovací modul plný munice a zdravotního materiálu. Vedení nedoporučuje, aby vám došla munice, zrovna když na vás zaútočí skupinka dvoutunových vesmírných pavouků."
 	210E3D99431AC6DD0CE4DAB335E4D967 = "Sesbírejte fosilie"
 	B7D7DA024F26A2AB901329967839617E = "Vemte ten Škrobovej ořech!"
-	0CA1BCD64DF715E003401EA491942D09 = "Získejte {resource}: {amount} ks"
-	69606828404C54B4230618A0FE348CDF = "Sesbírejte {amount} {resource}"
-	8B822AB84AB570127A9AFDB23F2348E0 = "Získejte {amount} x {resource}"
-	2C2AD3B542580D19302C62A1C1DB9E0B = "Sesbírejte {resource}"
 	003C4BC04B677DEFD1D91AB5372C67F0 = "Mírumilovný zákonodárce"
 	8E22419442D0FF962B5BC69602CD6666 = "Mohutné kořeny"
 	4126990446E4412E7F139181D9C7F566 = "Souboj"
@@ -1287,53 +1294,19 @@ Podržením <UseLaserPointer/> vytáhnete svoje osobní <bold>laserové ukazová
 	CADE4DA1439F2374FA5AA5AF97CB9DFE = "Firemní standard"
 	470185BC4267CFC3E2493C98CDB1F409 = "Kompas a ukazatel hloubky"
 	C57562404FD38D49E80216A985BA0BB0 = "Splňte zakázku PRŮLOM JÁDRA"
-	29786205402B635311BBE6A2510AADE8 = "Dosáhněte {value}. úrovně mistrovství výroby"
 	170E396F49EB54700C419EB44A420604 = "Dokončením MILNÍKŮ získáte body pro perky. Ty slouží k odemknutí PERKŮ. PERKY se můžete vybavit v TERMINÁLU VÝBAVY a lze je kdykoliv mezi misemi vyměnit."
 	1F9EFFC54DA5C2B3F1202A8EA770E94E = "Dokončí více misí kampaně pro odemčení planetární zóny."
 	30E886374D703DA855B11AAB54C3B7D8 = "Dokončete tutoriálovou misi"
 	3B4BF05840CC550F7797DEA5A56CEA84 = "Dokončete týdenní lov matric a ulovte si pro sebe extra NABITOU MATRICI!"
 	038BE4D54F6B0B0C653786B20B625629 = "Dokončete tento úkol, abyste získali přístup k terminálu pro obchod s minerály. Nachází se v hangáru a umožní Vám prodávat a nakupovat minerály."
-	BC046F2B46846F82B0CBF5B5984967D7 = "Splňte {value} varování „Shluk Jeskynních pijavic”"
-	8C82B21F48B6FEA19AA7D1990445B21E = "Splňte {value} varování „Zamoření výbušníky“"
-	EEA75BB447101D4CB68F98BD14134F1E = "Splňte {value} varování „Prokletá jeskyně“"
-	EA69E8954CAA970DFA0501804E9B27F8 = "Splňte {value} varování „Smrtící nepřátelé“"
-	145D7E764B7069A1C723A6A3103EAC42 = "Splňte {value} varování „Řídký vzduch“"
-	9CE32A174ADB3C2BCC5E55940D210844 = "Splňte {value} varování „Invaze makter“"
 	7A49DAAA49F16129C12426B378FFB089 = "Splňte {value} varování „Žádné čelovky“'"
-	6B5C50334D8FBD0C3A1AA39E1100AD81 = "Splňte {value} varování „Paraziti“"
-	3404C6C447EECBA96FBCE295100EFE29 = "Splňte {value} varování „Regenerativní brouci“"
-	007E0AD74EA1DC255EF13482F54625F0 = "Splňte {value} varování „Narušení štítů“"
 	883FD05C44450873201C129F64E97F18 = "Splňte {value} varování „Prchavé světlice“"
-	0FA5EB724E4928BBEF5657A72B574C8F = "Splňte {value} úkolů sběru xenorganických vajec"
-	6DDD9F154D878163FE0243A772EF7946 = "Splňte {value} vedlejších úkolů sběru květů Apoky"
-	3448673A43200698B123C48733A0AC0E = "Splňte {value} vedlejších úkolů sběru Bitrkamů"
-	C87C92074888FF9A21E9A28E4BFF556A = "Splňte {value} vedlejších úkolů sběru Bůlu hřibů"
-	9C94EA5F498032458D0DB8B025BF1469 = "Splňte {value} vedlejších úkolů těžby Dystra"
-	1664C63D41173FAA56131F896BA2463E = "Splňte {value} vedlejších úkolů sběru Ebořechů"
-	BA13FE324EE57074C94E369AEFF94714 = "Splňte {value} vedlejších úkolů sběru fosilií"
-	437CE9B74E993A71E9A878BA360F3318 = "Splňte {value} vedlejších úkolů sběru Kaligulí"
-	313187CE4586F4CF2AAA2095B3478E81 = "Splňte {value} vedlejších úkolů těžby Holomitu"
 	7E34BBAA443932BDF0A275A2202B348E = "Splňte {value} Hlubinných ponorů"
 	34BC57334D8B596B15074CBA7FAED9DE = "Splňte {value} lovů vajec"
-	D9799F9140A68738AABD3AA1253243A1 = "Splňte {value} vedlejších úkolů hubení hniloblech"
 	35030837442AC4F5DF9903B7FD0312C5 = "Splňte {value} misí typu Eliminace"
 	00CA54704A48F26527B8CBA8AB4F184C = "Splňte {value} elitních Hlubinných ponorů"
 	F1EB2FBE4445C016F2181EB2264AA54E = "Splňte {value} eskortních misí"
-	E8FB039A42A80925B9B49886231BD1CA = "Splňte {value} misí s rizikem 3 a výše "
-	E6DE65D847ECC198B626FF95AF48C143 = "Splňte {value} misí s rizikem 5 "
 	B68A4C7049F6922DABB4589B0FD033D3 = "Splňte {value} těžebních výprav"
-	D0D98D9E431ACCB7357B6E943D52162A = "Splňte {value} misí"
-	519C903C4524C536E2C0DD94317B05A4 = "Splňte {value} misí ve Azurovém hvozdu"
-	442E7C8549592572BCDADABEA3A79526 = "Splňte {value} misí v Krystalických jeskyních"
-	F16C8C3D4CB37F83E7ABCC9B7135EC87 = "Splňte {value} misí v Bujném geotopu"
-	7DF0FA5D4BFFDBBD015B9BBB47F07615 = "Splňte {value} misí v Morových slatích"
-	5B22C1D447A7DB9CD6891689AAAE40D7 = "Splňte {value} misí v Ledovcových slojích"
-	F108B5C4439E8DDA41C1B9978C9BE0DC = "Splňte {value} misí v Trnité brti"
-	6F54937440371EA785D0808A47EC4779 = "Splňte {value} misí ve Vulkanických dolinách"
-	0021AE12478B1DF39F2D09822C23B7EF = "Splňte {value} misí v Ozářeném údolí"
-	C4B4027E48CE250CA66B3FA40158E267 = "Splňte {value} misí ve Zvětralých komplexech"
-	2939AF8C40B48D069EF1AEB4DC854E51 = "Splňte {value} misí v Solných propastech"
-	4867CA6045E838A910EA0AAC80E4786C = "Splňte {value} lokálních rafinací"
 	C4B1BAF74198A3B6CE0054BC7405B0AA = "Splňte {value} misí Extrakčního bodu"
 	9686B8AF4DCD315B259FD399322EEB9B = "Dokonči {value} Záchranných operací"
 	EB1B8A3542443FF3561615B2AB486FFE = "Splňte {value} misí Najít a vytěžit"
@@ -1400,6 +1373,7 @@ Vedení"
 	A76E40CB48469A6D9B96A68C1848966A = "Pokračovat"
 	B52FD2994D7E3A32A7FA4CAC265556AE = "Pokračovat napájecí kabel"
 	3FDC9E054A4217D6E632378A7A9E7419 = "Ovladač"
+	A5521C044B5D7AA97DB433BF19450572 = "Nastavení ovladače"
 	9D6287354D2C3F1F914A85B350FA8015 = "Ovládání"
 	9DAC66A146EED9C00AD7018237537E4F = "Přemlouvání Vedení..."
 	DD0AFC624AD4C67DF4D45A9BCF69BDE9 = "Chlazení"
@@ -1487,6 +1461,8 @@ Vedení"
 	587077DB40A3920C0089DBA513F96B5D = "Korbel nářků, prosím."
 	C65407EE4F86189075643FAEA8F21203 = "Vlastní"
 	4C80F7B34AFFBCF361FC1EAD7BB0B7DD = "Vlastní zásobník do kterého se vleze mnoho nábojů, ale je trochu nepraktický a trvá déle než se nabije."
+	1315ADF74240BD1FB22C59A87A601722 = "Upravit ovládání"
+	715F37D64176DE848BE2B9BC0F6C1969 = "Upravit ovládání"
 	38EA878D4B64F5729A208A889565861D = "Odřízněte je, Podřízněte je. Tak se to dělá."
 	8296E1AF423D59716BC3839BBD891B2C = "NEBEZPEČÍ"
 	DAC5373047B295EEBEF46B9CEC492143 = "NEBEZPEČÍ"
@@ -1531,6 +1507,7 @@ Vedení"
 	52E82F9D448114EF8537CBAA98A19DB0 = "SOCHA VRTAČE"
 	CCE2D24841AF8EBBE4EFB698BC23F582 = "ZLATÁ SOCHA VRTAČE"
 	CFA98D2341A585DF7A3E70A581FE5451 = "SOCHA VRTAČE"
+	60EB9ECA4A41E7A823C8A4B6754138CC = "Denní nabídka"
 	0C6B9E3E4A92E13A845C089E52A721F7 = "Denní nabídka! Ano, prosím!"
 	0CB3B9E24A8C84A23840C2BF52BEF603 = "Poškození"
 	3CDED292467CC3EFD2E70988E1EA7C1D = "Poškození"
@@ -1717,9 +1694,10 @@ A také je to jedno z míst, kde jsme se rozhodli být v kontaktu s naší úža
 	F61C962A4D8522B7072EAFA9461465DB = "NEopouštějte triangulační zónu! Ztrácíme vás. "
 	013379F04FCE614CDB0E75B9052B44BD = "Cítíš to? To šílený chichotání hluboko v tvim žaludku? Musí jít hned ven-he-he-he!"
 	04BBF4194695F111B71769BD87B645F6 = "Nemáš naraženýho ňákýho kanárka, Lloyde?"
-	60E225D8464397BA2BBD87AD37BE6995 = "Máte na to, abyste se přidali do svazu {0}?"
 	371C10844F9EDD3AA80B019D5F81BF80 = "Chcete si změnit 
 svou větev Svazu?"
+	4FE0B94D45A85A434B5578A061B55C47 = "Chcete přepsat tuto klávesu?
+Tímto odeberete klávesu z akce „{ActionName}“"
 	20D004A74B85446141D3BC8F0089BF1E = "Dělá se i v černé?"
 	24B41EEB45EB29A99A4A3FB0F668DFF2 = "Nemají to v černé barvě?"
 	DBD7A3CD43BB7D79CB02E8B8EE5DF189 = "Dělá svou práci"
@@ -1737,9 +1715,12 @@ svou větev Svazu?"
 	408EEF5344297F2908FA11ACB75E2F26 = "Nestřílejte na mě!"
 	83F5E0D94DC58C565F642BAE7E7E6E4D = "Nestřílejte na mě!  "
 	EEFA67664D2563165A678FB588BBA2F0 = "Jen to hned nerozfofruj!"
+	2A68FFEE4737FFEFD10ED081058080C4 = "Nezírej do prázdnoty moc dlouho!"
 	4F08E677440C32CC280D3481346C847E = "Přece bychom nechtěli, aby se tyhle mršky spářili s makterama!"
+	1263DD8B48B79FB47260D3869066A805 = "Nechci vidět další vlnu té hnusnosti."
 	C00EE4C34166F492B32466991B43E1B4 = "Nmrhejte municí!"
 	1294C7324B64BFC60A4E0F9AD943AA25 = "Neboj se, mladý muži. Buď šťastný."
+	1A2013FD43F44261BD5B51AB7EEA3E15 = "Příspěvky pro Památeční sbírku jsou velice vítány."
 	8FFC42CA43D3D550B475ED910689136E = "Hotovo!"
 	FECBAEB64FF99C45E3520D8947DB9336 = "Hotovo!"
 	38074BAF4F4F053AF51741A072B3547B = "Hotovo! "
@@ -1761,14 +1742,12 @@ svou větev Svazu?"
 	6A283C8D481ED192E578F49B90A9484A = "Tak do dna!"
 	8BDB41C942DC824548A6838B06C2ACE1 = "Tak do dna!"
 	1736E3654F3DA753879FF482CE41594C = "K zemi běž!"
-	8BFF69974752C8A13858FE83003BBEB1 = "Plenitel"
 	CF11FFD64B2BDEF5C0F6F094B1D2B077 = "Plenitel"
 	988B37394D45160CE05946BBCAA893A3 = "Plenitel skolen!"
 	1F3F93FE4CED246950A04CA16910D7BA = "Plenitel je mrtvý a úkol splněný. Skvělá práce!"
 	6E07328C4D7C503DE16A00B0CA17F9FB = "Plenitel na obzoru! Vydejte ze sebe to nejlepší!"
 	7ACEE9EE413FE0361D5DF78582054D46 = "Plenitel je poražen. Dobrá práce, týme. Úkol splněn."
 	A1B6E81D4EDC6FF49D483B9378F9039D = "Plenitel!"
-	3A1D989842DB57738E59898BA5AEE3F5 = "Plenitele"
 	9078A81B4B72E59AE3B5669C716085CB = "Zabito plenitelů"
 	5615688E4D9D8C364150C791BB22BEF6 = "Plenitelé jsou vyřízeni – prozatím. Dobrá práce, týme. Až budete připraveni, stiskněte návratové tlačítko na MULE, a my vás vyzvedneme."
 	DFEF36A247A6C2272A2D52A8EC908B24 = "Vrtáš rychleji"
@@ -1908,6 +1887,7 @@ svou větev Svazu?"
 	1C1C89A8428B02A9AE6EB7BD23815DCF = "vejce"
 	F7CBFE91461DE3215DC26AABF25565C2 = "Eheheheh... Těžení je zábava!"
 	FBA2455C4450E788EE6BC994BCC6975B = "Eheheheh... Těžení je zábava!"
+	D312C6B94C9374974CF6AFADD0EEEE5C = "Buď se tu stalo něco hroznýho, nebo tu někde pobíhá nahatej trpaslík!"
 	E140E52543DAAB23265CB78D36A8FDAC = "Vystřelovací Kaktus"
 	C8BBED50409EA87DCBA529974B45F78A = "Elektrické Poškození"
 	1487C148432E6844DD0959A29D17C306 = "Elektrické přebití"
@@ -1969,7 +1949,6 @@ svou větev Svazu?"
 	8C37526A4740B805DFAB60ADE5C98839 = "Epický horník"
 	93102279430376D754B33EA8CCD03EB3 = "Epický horník"
 	DF080787449A9D4E9EA5F48B9B51D258 = "Epický horník"
-	89C7523144ABD39253BB27BAFE26CB83 = "Chcete vybavit tento předmět?"
 	C1161F6D48894311AE27758E5CFE4F17 = "Vyberte své zbraně"
 	57E6BB0F42206D722E6E1A866FC825D0 = "Vybavení"
 	A5C2FB5341D846F9257C31B49779C702 = "Terminál výbavy"
@@ -2023,8 +2002,6 @@ svou větev Svazu?"
 	02E1C9F448CB2843D08C15B1169A738D = "Prodloužená životnost projektilů"
 	1336D4F146BC3E5720227481028FFD9C = "Rozsáhlé úpravy změnily režim střelby pro každou pistoli na pět ran najednou. To je dohromady deset střel jenom za zlomek vteřiny. Ty krávo!"
 	869B13734EAFFA312A77B49C06AF80EF = "Vyhubte hniloblechy"
-	58C54A8942E339F14A2380A355A11DB3 = "Vyhubte: {Title}"
-	1AE33F3E4EEA8CC557AAAD958F3EA0D8 = "Eliminujte {count} {target}"
 	63CFD42A449C5B01D2D77AB41387D402 = "Exterminace"
 	47529A0B4F2699F6BC369D84F2DBF0D7 = "Hotovej deratizátor! O hniloblechu míň!"
 	0AEE815B476DE7B5812AC6B57A661CF0 = "Extra munice"
@@ -2051,6 +2028,7 @@ svou větev Svazu?"
 	4CDB44FC4026BF33F33381A9DD06D34E = "Výtažky z plenitelské žluče smíchané se spoustou škodlivých chemikálií způsobí, že se kterékoliv stvoření <bold>obrátí proti svým druhům</>."
 	139E79044BFE7795AA02089530188E4C = "Extrémní výčnělek"
 	C481BFC6424B494027870F96B42C54E6 = "Vylučuje neskutečný závan Svobody a Drzosti."
+	48C91E5442B6C32DAB811D92221AC608 = "Hej, máme tu ztracenou výbavičku!"
 	A5FFC80C4EEDFBEB76049EA0660FF318 = "Voko za voko!"
 	587AAFF54768C62AD8FDD39ED2F20EAB = "Obočí"
 	0A4D5B0C4C8BB7A077BEAB8EA6BEB9E6 = "Oči"
@@ -2157,7 +2135,7 @@ svou větev Svazu?"
 	809AF584465FB9B0738D7EBA968FD8D2 = "První čerpadlo je připojeno k rafinerii a připraveno na extrakci."
 	F3D204374C26D7B07634D8A1F8256C51 = "Nejprve musíte najít ložiska kapalného Morkitu a seslat čerpadla!"
 	A97F97ED416C69DD8B6BC6980226AF6D = "První!"
-	5EAD9F1547C8D6BE2E7E038149F2676F = "Do každého zásobníku se vleze více nábojů, ale za ztrátu hrubého poškození."
+	054021E5461A5B5478937899463540D3 = "Cvičení"
 	1F97BF684EBA17A7090DA88987FB7B24 = "Opraveno!"
 	B6E8A6694D3F67F8BA18A381E19DDE09 = "Opraveno! Doufejme že to tentokrát vydrží!"
 	0D3185FD447C603D4E4426A80317C53E = "Ohnivý Dech"
@@ -2175,9 +2153,7 @@ svou větev Svazu?"
 	A40188C24D24DCF71B650088C4EDF1F5 = "Světlice... se dobíjejí!"
 	8A434DE4457A9F52082215894E737735 = "Svítilna"
 	F9E826314FB635C66FB76FB677F7318B = "Zábleskový granát"
-	06877BF641E30488411736B80871EA81 = "Blecha"
 	92C8C83F47A1E21C681824B51BD94375 = "O blechu míň!"
-	9707A9F3492DE7DD3B3E4B9E0E65934D = "blech"
 	78FCAE2C49A9CEE0DAFA5CB61DA0EFE5 = "Flintlockův Plezír!"
 	0D89664A45F599EE20297EB475F29349 = "Flintlockův Plezír prosim! "
 	BF5243584CC207C6948B99BDF741A6CE = "Světlomet"
@@ -2275,6 +2251,7 @@ svou větev Svazu?"
 	A2B969FE45657EC32B12C98062B7C826 = "Našel jsem trochu Holomitu!"
 	341C3E66429059EBF7CEAC91D2D8BE62 = "Našel jsem trochu Magnitu!"
 	31A2B1FD4DC7E7BEA20474B36737E35F = "Našel jsem trochu Umanitu!"
+	E29661C2415F8EBD0F89EA89205CD43F = "Našel jsem ňákou výbavu!"
 	3C2E412441776DAB7AF1D1927DE45822 = "Našel jsem trochu Nitry!"
 	5AE429C1401A7C282BF7DB86971C6212 = "Něco jsem našel!"
 	766AC12649F9C10E3417C1A4D47C7075 = "Něco jsem našel!"
@@ -2400,15 +2377,14 @@ svou větev Svazu?"
 	5D7942EC453139A60A45ED9808D00047 = "Konec hry, chlapi!"
 	B670B9694188B90C9E7174BC1F77112A = "Hratelnost"
 	8D35604448412C36F5CAE985DCA5C230 = "Shromážděte"
-	8CF2D807448B511DE5D7BDAE628FE81C = "Sesbírejte vejce"
-	AB4E3F3A4DCECE8E5748589D99E5C92D = "Sesbírejte vejce"
-	D31B847247DED5617E5C2681845E748B = "Sesbírejte podivné vejce"
-	FDB8843646D85AA05045F8B428271FFC = "Sbírejte Cenné Drahokamy"
 	682EC367469D543B309A51BEF75FDE20 = "Modifikace výbavy"
 	CFA9D3674B1616482286378C81F8C775 = "Modifikace výbavy"
+	2C59E4C545A9E219595DA2AC26D6FC85 = "Výbavička!"
 	0B5AE7CE40AC48C0FFBC00967EE865B9 = "Systém Gemini"
 	D23AEE114BA83FEA9B69548EC2A5A302 = "Systém Gemini"
 	84FC1167418CEECD8D955488BF962A5D = "Žánry"
+	A97538DF404CAFD428828A9F054820FC = "Získat"
+	AEC3699B40D60D8E862D428457236FD6 = "Získat"
 	C5033A8F497A0069D028A1A27F669372 = "Mějte <h>{percent*100} odolnost</> vůči všemu živelnému poškození."
 	7AC69B314DD05927A93F4F962018626E = "Připravte se na dělání Přesčasů!"
 	427BE56A4269926A9467099CEC4853C3 = "Připravte se Týme. Horda Glyfidských rojičů míří vašim směrem. Nasaďte si vaše zadupávací boty."
@@ -2525,10 +2501,8 @@ svou větev Svazu?"
 	77D2BF894C36924844A69389032EF6C3 = "Kšilt a brýle - Základní"
 	C7F2EB604DF51B55C9D31CAD86E7AA82 = "Kšilt a brýle - Základní"
 	171A542340FC8121B1D043855BB35844 = "Šátek s brýlemi"
-	061D27724CD3EB954699158D96E042DD = "Zlato"
 	3F111D874641518A2A882EB2D152AD41 = "Zlatá"
 	631900AC43944CCAAF304685799995DB = "Zlato"
-	BE4B4AC842AC7F268CA957A5F537DA7E = "Zlatý"
 	C8ED99164F6D55F40E6F24B89AA86520 = "Zlato"
 	DD9332474CCC2CE4CC530A8332A6C59F = "Zlato"
 	3673A4BA46783199874D8A88A813765B = "Zlatá horečka"
@@ -2584,6 +2558,7 @@ svou větev Svazu?"
 	841DDCE74E4B63256EAE33B6A8121C60 = "Jasně! Auto Sentry na cestě!"
 	326B150D489D5FFC030E47885D355C94 = "Mám to! Světlomet je na cestě!"
 	E484C7DA42294AD78B40AB9AE380E2DF = "Dostal jsem toho žraloka!"
+	88E625874B39118913E796898E2B5057 = "Mám tady z toho blbej pocit..."
 	43C691CF47C6D1E9319EB488D7DCBC7E = "Mám to, co jsem chtěl!"
 	526C70FB49613E720FCA2395387C652C = "Musim najít ňákou ropnou břidlici! "
 	5312AB354A77E198905EAF99CA2C4D50 = "Loudáci!"
@@ -2673,6 +2648,7 @@ svou větev Svazu?"
 	40DD0DBB4C7BECA793D472BB978E6BBE = "HR je nám zase za prdelí. ''Mimozemská infestace'', tomu říkají. Vyřiďte to. Přineste výbušniny!"
 	A3C9450742F8F14D6EAA40A28A4F385C = "VV.RPP"
 	1257E5954462F0412FC7F0BF2F8F8F0F = "VV.RPP2020"
+	25D48C8047A4529FAC0784A739DC379D = "Hah! Koukej! Je prťavá!"
 	4D563C51409295E4CFE3869F314FDCB0 = "Ha, tenhle byl tuhý!"
 	8B9CAC564E147EE07EBB1D8E279DE5D7 = "Hahá, no kdo vás teď ochrání, vy hnusáci? DEJTE SI DO NOSU!"
 	17B453774C596F888DD633ABFA394B5E = "Lehká zpoušť"
@@ -2686,6 +2662,12 @@ svou větev Svazu?"
 	43853D14403E8C70DB9FB7BC01350C91 = "Vydržte, zásoby jsou na cestě."
 	631B26D74487C6C769C74BACAA22F99A = "Vydržte, vlna je skoro zkoncovaná. Vykliďte cokoliv zůstalo."
 	1714CC514E0A8F20FB9EE08EFDC16C20 = "Tak počkat... Začínám si myslet, že Deep Rock nás, obyčejný lidičky, akorát využívá...! Kdyby jsme se spojili a založili si vlastní těžební společnost, tak bychom se RÁCHALI v penězích! A nebo... si prostě můžem dát další pivko!"
+	1D1CB07D46518947C329ABA275CE2C13 = "Šťastný Halloween, Horníci!
+Z rozkazu od řízení, je letošní haloweenská čepice garantována zdarma pro všechny zaměstnance. Navštivte skříň, aby jste si ji vyzkoušely!
+
+S láskou,
+The Ghost Ship Crew"
+	1942FED84862920B0869B69225952342 = "Všechno nejlepší, DRG! Výjimečná připomínka pro každého zaměstnance přítomného při oslavě Tří Let Na Orbitě."
 	57042A3946F7015D497A519523C1696E = "Ha, Drildozér hltá ropnou břidlici jak glyfid co se dostal do kurníku!"
 	571B69504F97A66195BFD6B430D304BF = "Kalené Špičky Vrtáků"
 	1428476D46204FB9B1EAA881E8436FD8 = "Kalené střely"
@@ -2789,6 +2771,7 @@ svou větev Svazu?"
 	EEF9839F409D83FF73DEAABBCDD9A42E = "Žíla Kroppy, jdem ji vytěžit!"
 	322E180D4AF1112B8BB851B47756AC2B = "Tady je Holomit, poďme kop!"
 	7452C8A647A62D19658BB1B5BAF0E94E = "Horníkovo Dědictví"
+	011CC7DB4E714778C2C6A7AAE9B0DCB6 = "Hexawing skolen!"
 	13B1021142FCE96A91B921A5B3515ACD = "Hej!"
 	C84F655B4DC79ACD74A1B78B94C5E94F = "Hey! Já nejsem nepřítel!"
 	3DCC8E86424698526BAA33A82E08FC20 = "Hej, je tady drtič Kurzitu!"
@@ -2815,6 +2798,7 @@ svou větev Svazu?"
 	D3F80DA449BD0D0A7C56808A5DDE2558 = "Vysokonapěťové křížení"
 	3A6771D149159FFC5494088FC7DCCACC = "Plácnutí!"
 	094413E843D28372F15185A9767DF0B4 = "Víc Nabitá Plazmatická Energie"
+	195394254AD761C1F3C4A4AD58EEFFE4 = "Zvýšená energie nabité plazmy"
 	6ABFD5E74629370C21735493E7D047F7 = "Vyšší kadence"
 	7566B4C640466DB5F795778F68183EE7 = "Tip"
 	20CCAB7644B6C2F7C29848B3D95217C5 = "Beru to st(r)opem!"
@@ -2846,6 +2830,7 @@ svou větev Svazu?"
 	7622A30C4192160A9C9958AEFCEDE55D = "Běh podržením"
 	20D11ACD4FC372D0EF13E1919BDC0764 = "Zadržte svůj dech chlapci!"
 	53DAE9B14E6867A1AC9AB2B5C26B9515 = "Nestřílej do mě, ty zmatenej kuse sádla!"
+	1EC571B04EF104243480FDA1341601B7 = "Držení spouště po výstřelu plazmy aktivuje propojení s paprskem, které při uvolnění spouště způsobí že paprsek změní směr a začne se vracet zpět ke zbrani."
 	16604BBD4C0D997D1C93158F94BE431F = "Holomit"
 	A1AB19A6476AB106B4A3869739E2DD27 = "Splněno vedlejších úkolů těžby Holomitu"
 	095814C04FBBD7AB43901DADD2B749C4 = "Získano Holomitu"
@@ -2963,6 +2948,7 @@ svou větev Svazu?"
 	F40AAA634F29E203EE055FA40705CAD8 = "Našel jsem trochu ropný břidlice."
 	C829562D42CE8409C45392B9878139A0 = "Našel jsem Dystrum!"
 	4CC7C881415DD5A8E34CA7BD4AC6C1CF = "Našel jsem trochu rudýho cukru!"
+	F58308824F0E7C4B84A45BBB0BFE51C4 = "Našel jsem tu pozůstatky!"
 	A7CAD8EA4B3644A50E41F19319541E6C = "Našel jsem MULU."
 	0A15229144E61C5ED938D18436ECB1B0 = "Dostal jsem Perk!"
 	E86B532045D0F75C05BE0EAD8E0C11CE = "Mám to připravený zipline!"
@@ -3061,6 +3047,7 @@ svou větev Svazu?"
 	653EAD7441EB57C8EE1F58A58F7542FA = "Chci si objednat rundu Arcipramenu!"
 	97320E284024FF6F9D9467B0678830F0 = "Zabiju cokoliv, co má víc jak dvě haksny!"
 	2429117E41F25538CA2300BDD4C9F31C = "Ten smrad už nikdy ze svý zbroje nedostanu."
+	AD0C544E4D2253F4AC4F76804190263A = "Jsem zpátky a nabuzenej!!"
 	0CE9FB2440B7B7AF3C29EA83B248400F = "Bestie mi říkaj pane!"
 	5A55AFD44B2F49585D7E77B7D6FDF3BA = "Jsem tvůj přítel! Ať to tak zůstane!"
 	E269AD2F47B18E6E046C05BCA8A4ECF2 = "Mám slabost pro ty vomalovánky na pěně!"
@@ -3077,8 +3064,10 @@ svou větev Svazu?"
 	CCC02CFB453A7F7E8B70308C8455F96F = "Já letím!"
 	B7B56C27433FB1B63B76339091BEBF46 = "Mám plno! Mířím k jednotce M.U.L.A.!"
 	CF58DB5347985E6CC003309B530B3BCA = "Mám plno! Kde je Molly!"
+	1FD85F34439282419B0B8A93C7DA8471 = "Dělá se mi výrážka!"
 	2B71E5FC463B89A7949DD0807130D7C4 = "Nějak se mi chce spát! "
 	07FCD43C4AD10B66C79000B2211EAB3B = "Tomuhle pivu přicházím na chuť!"
+	1F2DB2624B690779E3E3568C0BF03127 = "Jsem rád, že máme někoho, kdo tahá naše šutry a kameny."
 	C6E7D8584705CFE7CC108F9FABE19567 = "Já se tady udusím! "
 	E79F65E34E479C605277368690D821BB = "Zabiju jó všechny!"
 	1178BE9344DEDABCDDB56285A30B97C7 = "Budu potřebovat víc světlic!"
@@ -3253,7 +3242,6 @@ Povýšení postavy ji RESETUJE NA ÚROVEŇ 1. I přesto Vám ZŮSTANOU vešker�
 	7E4758FA4BC9C1141C2A47989C378817 = "Roj hmyzu"
 	1B83F205487B5BF575143BBE9A50F0FA = "Zasunout baterie"
 	0022F09A4B8706AFBE8F71BC5B9996F3 = "Vložte prázdnou nádrž"
-	3275FFE14A7CFBF7DC7B25A40F06C308 = "Vložte {Blank Schematic} k aktivaci. ({count} vlastněno)"
 	335B0C9D429CFC3DDDE7E59C2AC423D0 = "Okamžité oživení"
 	1D8C955C4917746FA84DA7B3ED72BAE4 = "Okamžitě sníží teplotu vzduchu ve středně velké oblasti. Během mrknutí oka zamrazí téměř všechnu divokou faunu Hoxxes - stejně tak kteréhokoliv nešťastného zaměstnance DRG v dosahu."
 	CAD939554E086D2C7461878602D39093 = "Místní neutuchající proudy větru bičují stěny této oblasti, čímž narušují terén. Pískovec tvořící stěny, zemi, strop a duši této oblasti je nejkřehčí materiál na Hoxxes IV a může být lehce odstraněn pomocí krumpáče."
@@ -3315,6 +3303,7 @@ Povýšení postavy ji RESETUJE NA ÚROVEŇ 1. I přesto Vám ZŮSTANOU vešker�
 	94AA871A484F4AA6F4C1D4BB00AAF51F = "Vypadat tak dobře vyžaduje spoustu úsilí."
 	7932D96046B006A79DD0CFA445B33AE9 = "Odneslo mě to!"
 	06E1D513401F673F3D3991A742FE66D3 = "Bylo to velké a je to mrtvé!"
+	1F658F244D71ACC4990BFAAA6108A549 = "Bylo to jen odřený koleno!"
 	5C006E2040C8F0F849C47581C074F566 = "Sakra, tohle měla být bezpečná část jeskyně, ale vidím, že se k vám blíží skupinka nepřátel. No nevadí, čas použít vaše zbraně."
 	E79DE8574BC6D761870D9C8AD2511104 = "Bylo to buď tohle nebo piva!"
 	D3EB9A3B40B3D6BEDDA9FD851B87B446 = "To jsem JÁ, ty hajzle!"
@@ -3342,6 +3331,7 @@ Není času nazbyt, tak neváhejte!"
 	090A524347890F5EDC2313ABDAEF06B1 = "Je to, jako by ta puška věděla, co uděláte než to uděláte, což kompenzuje všechen zpětný ráz a rozptyl. Systém však snižuje rychlost střelby a stabilizované náboje dělají menší přímé poškození, ale přidávají bonus k zásahům do slabých míst."
 	210CFE234702C9B49C3A6B9CBD3C37A4 = "Dlouho bylo teoretizováno, že organický křemičitan, známý jako ebonit, může navodit psychotropní účinky. Pouze nedávno se ukázalo, že infikuje a ovládá mysl několika místních poddruhů glyfidů. Nad otázkou „jak a proč“ se stále vedou bouřlivé diskuse, ale jedno je jasné. Dělá to z glyfidů ještě nebezpečnější příšery, než jsou, a to díky pokrývce z kamenitých výrostků, kterou neprostřelí žádná běžná ráže. Jediné řešení, na které zatím VaV přišlo, je rozbití krunýře za pomocí soustředěných fyzických úderů těžebním náčiním, například přebitým krumpáčem. To je ovšem velice nebezpečné, z toho důvodu tam posíláme trpaslíky."
 	B9D9205D4B41FC332021DB98FF93169A = "Dlouho bylo teoretizováno, že organický křemičitan, známý jako ebonit, může navodit psychotropní účinky. Pouze nedávno se ukázalo, že infikuje a ovládá mysl několika místních poddruhů glyfidů. Nad otázkou „jak a proč“ se stále vedou bouřlivé diskuse, ale jedno je jasné. Dělá to z glyfidů ještě nebezpečnější příšery, než jsou, a to díky pokrývce z kamenitých výrostků, kterou neprostřelí žádná běžná ráže. Jediné řešení, na které zatím VaV přišlo, je rozbití krunýře za pomocí soustředěných fyzických úderů těžebním náčiním, například přebitým krumpáčem. To je ovšem velice nebezpečné, z toho důvodu tam posíláme trpaslíky."
+	14FEC41C475DF1D9224E2D8C67B5C3F4 = "Není to pád, co tě zabije; je to náhlé zastavení na konci."
 	960E5B65436FAF2FA1B5219BEDC69AF4 = "Je to pěkný, ale ten pyl se my usazuje ve fousech."
 	D2D656CD42506285EBE8EF815AF87CE1 = "Je to pěkný, ale ten pyl se my usazuje ve fousech."
 	CCD372FB41EF89801ABD508BCE38210F = "Je to připravený!"
@@ -3372,6 +3362,7 @@ Není času nazbyt, tak neváhejte!"
 	6123B560462AD9D41E64FBA2AC5C5A19 = "PŘIDEJTE SE KE SVAZU!"
 	417430B447DBFFD976D35A95FA9177E5 = "PŘIPOJOVÁNÍ..."
 	D24533094ADB1094ACD24089C302F2B1 = "PŘIPOJOVÁNÍ..."
+	FC068BD84BEA781382BB698D7D89855C = "SKOK"
 	C1AB057246DCC4CC34A0598902F70B0C = "Nefritová"
 	9933F7764B97B9DABB832383C9364A99 = "Jadiz zde!"
 	DA6CD285435A2812DC63AABEC8CA191D = "Zaseklý!"
@@ -3383,7 +3374,6 @@ Není času nazbyt, tak neváhejte!"
 	25B4DFD84DE65AE763F57B836DF8933A = "Připojit"
 	1B18EC0243DB3D6D996B708143C191CF = "Připojte se na náš Discord"
 	BF90F2F941541A850A8303BE692170E9 = "Přidejte se k větvi svazu"
-	1DE83D964D7407952E975C8B9C53AE66 = "Připojit se k {0}?"
 	9A9B33DD4BAC13F3E1421C8C1EF74C91 = "Připojte se a vyberte si vašich 5 000 Kreditů!"
 	FE04715D4F7955CACB6581B6DA9BAA71 = "Připojte se a vyberte si vašich 5.000 Kreditů!"
 	BB48705848911DCC0209F390ED99B0E3 = "Když se připojíte do naší komunity na Discordu, budete blíže ostatním hráčům Deep Rock Galactic! Můžete tam:
@@ -3399,6 +3389,7 @@ a utužte se! Svaz vám také do začátku nabídne 5000 kreditů!
 
 ŽÁDNÝ TRPASLÍK NEZŮSTANE NAPOSPAS!"
 	46AE9892470EF6292357C3BF15D0A162 = "Zapnout / Vypnout Jukebox"
+	1C6D3E274B6BFC7EC937B6A2CD0D5360 = "Obrovský ulity"
 	0673737341758E73DFCF9EBBADA97FB7 = "Přejít do další místnosti"
 	1AE94A344D8A3D5538650B8123DA3D4E = "Cesta do džungle"
 	3C117BFD4C41C3D2DC6565B241F1B301 = "Lupara"
@@ -3429,6 +3420,7 @@ a utužte se! Svaz vám také do začátku nabídne 5000 kreditů!
 	38C61178401D04329556CEBDAACAE41B = "Držte ty sráče ode mě, a já udržím tým na živu."
 	1968679845DF826F5C05E894A2D568AE = "Držte huby!"
 	3E5ADCD74510D668AD63A998BE7DA6F4 = "Klíčové ukazatele výkonnosti"
+	0B71A25E408D497DD8F591A0F8FB9274 = "Klávesa je již používána pro „{ActionName}“"
 	85D437634433F8B99D05B683232CAE1D = "Klávesnice a myš"
 	0FD999C9434C8ED8D2DE66A28187EC4D = "Kopnout"
 	116899A540C11BC865ED8F84CA84DB4F = "Kopnout"
@@ -3456,8 +3448,6 @@ a utužte se! Svaz vám také do začátku nabídne 5000 kreditů!
 	096842574E1221BB85F3DCA16199F287 = "Zabít Tri-Jaw! "
 	02BF54C446227A454D99E7BC8ECF3077 = "Zabte to obří monstrum!"
 	6A7628344BB46746C9206D81DA193E3B = "Zabte ty brouky, jsou infikovaný Kurzitem!"
-	90F33953482FD1D7064858B5F2C24CDA = "Zabijte {Title}"
-	E65D053843FE9C602EAF15AF6765F5A1 = "Zabijte {count} {target}"
 	6ABE2E944F1D58DE0D952D95F6B5A114 = "Zabij {value} Jeskynních pijavic"
 	526E12D643563C61D9A1CA97FF7CACB4 = "Zabijte {value} plenitele/ů"
 	4CB149DA4DA9156275D738AB089FC2CD = "Zabijte {value} Jedových Flusaček"
@@ -3500,7 +3490,6 @@ TUTORIÁL"
 	528E62924C636FB0E3B329A7C3DE6F4D = "LMG střílna"
 	0709E4A441D3EF5C74C9D9825D3B51F0 = "NAČÍTÁNÍ..."
 	3A1541944141A72837D5A8B6C73224BF = "UZAMKNUTÁ ZBRAŇ"
-	776EEDF74F5A67D8128954AA3C43A93F = "Nedostatek surovin!"
 	247391B54D54F632B7F78B971953C99B = "Borci, sundejte toho hrabivce než se dostane pryč!"
 	D4B120F444DFF939CAC1DCAB4FE9E973 = "Jazyk"
 	D2D2D492417C5814B5BD949A81B7747C = "Jazyk a přístupnost"
@@ -3526,7 +3515,6 @@ TUTORIÁL"
 	03771CB741D6A8F7585D8CA572DF34A6 = "Letová kontrola hlásí cizí předměty v odletovém prostoru. Zdá se, že něco koliduje se silovým polem. Nevíte náhodou o tom něco?"
 	A530D3EF42AB55962E8315A1A37E98C9 = "Vypustit raketu"
 	6C47B39C4E0FB99FD7CE5EA83E8D5895 = "Spustit tutoriál"
-	1D1E58FB4E72FCB6320749A582EA6253 = "Vystřelené granáty vybuchnou pouze v těsné blízkosti nepřátel nebo při plném zastavení projektilu. Pozn.: Roznětka vyžaduje chvíli k aktivaci, kterou indikuje zelené světýlko, do té doby granát funguje jako obvykle."
 	24E3B6104385AD8F626355923BC6791A = "Spouštění na oběžnou dráhu!"
 	79564CFA42A35871D08146B04D126B79 = "Lávový Gejzír"
 	FEFF895A414D3AEC76290588CF272B45 = "Lávový gejzír"
@@ -3536,7 +3524,6 @@ TUTORIÁL"
 	5E1BEB5342E799B920FCFBB260806BC2 = "Žádný trpaslík nezůstane napospas"
 	9701CDB94ABE27ADC50CA8A8600EFA41 = "Opustit tým"
 	A698C7A0460BE040BCAE06AC0F6902B1 = "Opustit tým"
-	12067AEE4F3387225FF0CE86B76D5F1A = "Dát dýško (5 kreditů)"
 	7FE90EAE4294CF757209CCA6589EB86C = "Žádnej trpaslík nezůstane napospas!"
 	C9C0A1E446F613C438AD3E8A31AB20EC = "Žádnej trpaslík nezůstane napospas!"
 	49EBBFE84FACD8496D2BA3A96C103A29 = "Nechte sudy být."
@@ -3686,7 +3673,6 @@ TUTORIÁL"
 	3ACDB6254EFFF0CE2FABD9BFD32FD8AC = "Osamělý strážci si zavolají posily"
 	A47A6C80436BDC2364B126AC5C596848 = "Dlouhý"
 	C4DA9F7F4289608DA09E6FBBF0CA137C = "Dlouhé licousy"
-	3E8336624B40E1D6A6BAF1B3ECBA21DA = "Dlouhé Jméno Nepřítele Zde"
 	782B7A5C4B92AA10FCCC8BACE1EDBB28 = "Dlouhý Dlouhý Titulek Patří Zde"
 	783D1CBB46145BCC67B24CAE31EBB53E = "Chlapák"
 	DCC74F6F4910817C50724DA07C22BEAC = "Komunikační schopnosti s dlouhým dosahem a taktický heads-up displej. Dost futuristické."
@@ -3727,6 +3713,7 @@ TUTORIÁL"
 	B517529C4DA0A5100AC5C78F54957100 = "Už se těším na naší spolupráci!"
 	BEFFF8834091FE1E5E00EBA430BD1025 = "Vypadá to jako hovno! Smrdí to jako hovno!"
 	5B7E08CB4A9B5ABE34DAA3B42B350603 = "Vypadá že tu někdo ztratil nohu!"
+	98EBF26447BB161A017F1F8C0F82C07E = "Vypadá to, že ho dostali zavšivený hmyzáci...! "
 	CBBD34D54848C33BF11B95ABDEA6900E = "Tady je načechraná hlína!"
 	7551F3E24D387E811EC51C8BC61D8E70 = "Uvolněná soudržnost uzlů"
 	1CFB99564EF173721BFABD83ACE5C650 = "Lupík"
@@ -3741,11 +3728,12 @@ TUTORIÁL"
 	7AD5399E44E4057B651D4AA93E70C87F = "Lupík zneškodněn!"
 	1E4A78354D95C0D802400AAC4F90C159 = "Pán Hlubin"
 	C09E93CE42058A3090AA3E85399D309D = "Pán Hlubin"
-	000F565044D776AAE2BD398EDE4F046D = "Ztracené vybavení"
-	14DF284D42A6A089E82FB9AAEBF771DD = "Ztracené vybavení"
-	FF962555408128EABEAFEB910F5AA789 = "Zapomenuté vybavení"
+	000F565044D776AAE2BD398EDE4F046D = "Ztracená výbava"
+	14DF284D42A6A089E82FB9AAEBF771DD = "Ztracená výbava"
+	FF962555408128EABEAFEB910F5AA789 = "Ztracená výbava"
 	1C7CE9BD4CE80BB7CD2FD1978683B9EA = "Zapomenutá helma"
 	38A352D84AF190E753529A81D7FD5211 = "Připojení k serveru selhalo"
+	E0D723A24BA68DD0B26C85AC2FD29810 = "Ztracená výbava!"
 	2D58D5FC46B34B0CD6FF9A92A8B4862E = "Tady je ztracená helma! Pojďme ji vokouknout!"
 	597D27244B3BAB229FC8208E850EFA38 = "Jasně a zřetelně!"
 	3119AE484EBB537745ADC386AEF30CBB = "Nižší"
@@ -3757,7 +3745,6 @@ TUTORIÁL"
 	007125584BDF1D3383C96F9A2383B8E8 = "Malá rychlost a dostřel projektilu"
 	28ED238C4191F4D0493B12BB8CE15D79 = "Usměj se na mě štěstěno!"
 	C6E3F9C74A65E3B25D5F71ACC888384C = "Hojná vegetace"
-	B118A44648E0EDDC1D582391FFF24FF2 = "M.U.L.A."
 	E6C290DA4493A7CAE570E0AE29454EEF = "M.U.L.A."
 	2ED0299641F51E567619578000976A63 = "Noha jednotky M.U.L.A."
 	432509D94101D7F887A979B6F7B2BA80 = "SOCHA M.U.L.A."
@@ -3766,7 +3753,6 @@ TUTORIÁL"
 	37E7E4F245E3BFA381798187F06571C1 = "M.U.L.A. je opět funkční! Dobrá práce!"
 	8C7210B94148CC89BDD79A93A4BCFA0E = "M.U.L.A. je v provozu. Výborně"
 	3DF99B2E4999F93C5F384D872E5BAF0B = "M.U.L.A. ze zapíná, dobrá práce."
-	DA4900A743778740C09C1ABA9A3128AA = "jednotky M.U.L.A."
 	6F94BA8A46C127CB3047C2AE2220AAE9 = "STŘEDNÍ"
 	CB9B9DD64DEF4E6D9CF9D1B29DD18345 = "STŘEDNÍ"
 	3AE49094403D0D49BC4572BECA94553B = "Kostra MEGACORP pro každou zbraň"
@@ -3819,10 +3805,8 @@ TUTORIÁL"
 	E07631DB4A6783FDB5F98CBC0A1E0F97 = "Zbroj Průzkumníka Mark V"
 	BE796FBF4933BBFD35F65184D876B645 = "MMMMMMhhhhhhhhhhh.....DAAAAAY OOHHH! Heh. Divný."
 	EA807C684450BB19B921639A3BA5D580 = "MODERÁTOŘI"
-	8DA882644EAA54C1F1722BBC173B7F7D = "MULA"
 	A9132B7247ABD90C9481E0B20B97C07D = "Noha MULY"
 	CBBF3A71477247A304C7FA9D915149EC = "Nohy MULY"
-	7DB8794145CB4BC84DA2F49EFAE27D2C = "MULY"
 	FA1C53D1417A5D35E3D5099126C03B45 = "Móóóóóžžžžnáá!"
 	58C505B042ADC8BF6F54659F0EE9E980 = "Strojový úkaz"
 	450896934EEF7AFF578EE6A1F20AF985 = "Strojové úkazy budou blablabla::
@@ -3862,6 +3846,7 @@ něco o prázdných matricích a nabíječi matric"
 	1294955845475C6EE09A789A2EEDDE0D = "Je tu Magnit!"
 	1564C59F4169D06ACA820AB37BD17070 = "Magnit!"
 	8870E75040538650590F088F0E4CF1C6 = "Udržujte potrubí dokud není všechen kapalný Morkit extrahován."
+	8B9D647940706FFEB3CBC28329A9A22D = "Využít nabídku!"
 	A51EEEFB4420187B9DA5F1B52C0E3844 = "Dělám deposit!"
 	EAF8D705460511DF6BD366B992833E71 = "Dělám deposit!"
 	34646AFD45EAB78C8A25699B1412625B = "Závada podél potrubí! Údržba, do práce!"
@@ -3877,7 +3862,6 @@ něco o prázdných matricích a nabíječi matric"
 	F834019E499D2A80A3F0BC9F41F4F7E0 = "Manuální nastavení citlivosti"
 	906F72D64F5BC971B69BC383B7919EC5 = "Spoustu <bold>tunelových průchodů</> blokuje vrstva <bold>zhutněné hlíny</>. Jakmile jste v aktuální jeskyni vykopali všechny suroviny a chcete pokračovat dál, dívejte se po <bold>hnědé části terénu</>. Prokopáním se skrz ní objevíte neprozkoumanou část jeskynního systému."
 	D93016504BC4315D15154B82B6ECAFD5 = "Spousta perků vám přidá i <bold>pasivní perk</>, když se jimi vybavíte. Pasivní dovednosti vás mohou zrychlit, snížit vám poškození z jedu nebo odrazit část poškození od nepřátel. Berte na vědomí možné <bold>synergie</> mezi perky, vaším vybavením a vlastnostmi zbraní."
-	733C15B24399675475D0C9A08A57F964 = "Mapa"
 	327A404340AA98076086E1A726B949EF = "Označte Boscovy místo"
 	A0EE10B948EDD018DA3CC995AA44850F = "Označte náhodné místo pomocí laserového ukazovátka"
 	56582E19458FF367B0576997D42431EC = "Označte Boscovy náhodné místo"
@@ -3908,6 +3892,7 @@ něco o prázdných matricích a nabíječi matric"
 	C500471445EF7E9F13876D95F39E130D = "Maximální Palivo"
 	0D9AD6764E6AA571621F0CAC4222EC74 = "Maximální rychlost"
 	9B18DF4E4F02653576EBD0A3300DA654 = "Ať jsou vaše vousy husté a vaše kapsy plné zlata!"
+	14F0220B458698A1745F7EAD430C291D = "Možná bych si to mohl dát do nádoby a mít to v mé kabince!"
 	77A1FF9A45537C681B4C0296710A40C6 = "Možná bych ji moh hodit do květináče a dát si ji do svý kabiny."
 	3B05B5B74673A81B378A828062864602 = "Možná tohle?"
 	145345C7423F4E9A20637C964292DBAE = "Možná nakonec ani neumřeme!"
@@ -3915,7 +3900,7 @@ něco o prázdných matricích a nabíječi matric"
 	855ACA5B4AF56C3FE6754297D1E6F3B1 = "Střední"
 	DD5AB6B44494246A3F653DAF5BE1683B = "Střední"
 	6B688B164B9390E127AE9FA24DF1B256 = "Ošetřovna"
-	149B48AE4A9B0135C99017BD57E1C126 = "Medikové jsou pro sraby!"
+	149B48AE4A9B0135C99017BD57E1C126 = "Medici jsou pro bábovky!"
 	2F60E2EB4E61C6C9A001BFAE3249368E = "Střední"
 	4016A2FC464255BD20511780426EC282 = "Střední"
 	B761872244EF2533B38621AC95034AE4 = "Pošlu tě za tvým stvořitelem, šmejde!"
@@ -3938,7 +3923,6 @@ něco o prázdných matricích a nabíječi matric"
 	8AA91C024142068A42E081A12A601C3E = "Pozor na průrvy"
 	FECC26CB44DC934B523FB1819ABC1D81 = "Dívejte se pod nohy!"
 	34D2A62D43215715FCB831BA520A8288 = "Vytěžte výrobní materiály"
-	C974D1114477BC6FA7221985BA3B2309 = "Vytěžte Dystrum"
 	5D48F8A947B5A1D220E0C1BC24619DF0 = "Těžte Zlato"
 	32CE81B14918228D7CFF75A15562A74F = "Těžební hlavice"
 	0F26B4224813B5E4056F3B90E821BC11 = "Vytěžte Morkit"
@@ -3947,15 +3931,12 @@ něco o prázdných matricích a nabíječi matric"
 	F1FB582C44694DCE9E034CA2BB4BAC27 = "Těžební hlavice vypuštěna. Únikový modul dorazí až bude hlavice zajištěna. Vydržte tam."
 	6F33D46540B469187F686FA6185EE2FA = "Těžební hlavice zažehnuta. Zachycujeme silnou aktivitu ve vaší blízkosti, takže vydržte než dorazí únikový modul."
 	0DEC79714D5A010A1B93F398EC66C794 = "Těžební hlavice se vrací. Úniková kapsle je na cestě. Očekávejte těžký odpor, než vás budeme moct vyzvednout."
-	AA3118044C4E189F96A24484037819DE = "Vytěžte holomit"
 	B9B624C3483D9BF9F64B2DA615F04232 = "Vytěž to!"
 	AE0FC5D34A4767866205E39BF153A49B = "Mina umístěna!"
 	29B6A74046759786690BA4960F367292 = "Vytěžit Morkit, vyložit do MULY! Jasný!"
 	C3A92E7A4F133DB146A7F4A7CE962DD4 = "Vytěžit Morkit, vyložit do MULY! Jasný!"
 	A757B45145A0E7EEE5875B9E26A95465 = "Těžte nitru pro munici!"
-	333E88AA4B19BCCF7FF7E49BCA64DB03 = "Vytěžte {amount} Dystra"
 	F0DC4CC047EB3DFD5905B0BDDACF150C = "Vytěž {amount} Morkitu"
-	510563CF4FE28E5D628FF686B553A0DA = "Vytěžte {amount} holomitu"
 	17CE4B7142AC22E45FF246B923EBB305 = "Vytěžte {value} vzácných věcí"
 	0D64748945252BCA7700F49E07E9CB05 = "Hornický vozíky už byly nudný!"
 	568830134D82FF127080FA86249E4538 = "Těžební hlavice navrácena. Výsadkový modul je na cestě!"
@@ -4076,6 +4057,7 @@ něco o prázdných matricích a nabíječi matric"
 	79C599094EB6D6E6E02200AFC58E0859 = "Drtivá většina divoké fauny na Hoxxes má slabé místo, které můžete využít ve svůj prospěch. Někteří tvorové však mají obrněnou vnější kostru, která vydrží palbu od prakticky čehokoliv. Palte s rozumem."
 	BD0F17DC4CCE259DACFBCC9C5943BCA2 = "Většina organismů bude při vystavení radiaci dostávat <bold>průběžné poškození</>. Někteří tvorové však kvůli prodlouženému vystavení radiaci zmutovali, a sami se stali hroznými radioaktivními hrozbami."
 	1747BB4F4ABBE8519A296B8F29274C35 = "Vyhlazování pohybu myši"
+	9BC0FCD8470105A124E8E7AFB95EA29E = "Nastavení klávesnice a myši"
 	15671591427575923597598FAAE7D7C6 = "Kníry"
 	453BC1F24E3E7CE3A01F9DBBF98FC8DC = "Ústa"
 	9CF81717447DBF29BEE00D9DA3090828 = "Pohybuješ se rychleji na krátkou dobu po zabití nepřítele"
@@ -4127,11 +4109,9 @@ něco o prázdných matricích a nabíječi matric"
 	AD7E876342C2248B2A34E4BAF2CE0198 = "NOVÁ MATRICE"
 	747D9D66462A834F081A129492AD4C34 = "NOVÉ MISE ZA"
 	47713A8F484B1902AFE2D79C9BEDE9ED = "NOVÁ PLANETÁRNÍ ZÓNA"
-	53F99F6A490025C957D9CE81EAB2B927 = "NOVÝ/Á {AccessoryType}"
-	29AFDACB49D3FC658DE1438119224810 = "NOVÝ {Type}:"
 	44503DBB45E06EA0CCD286877C839C74 = "NOVÁ {mission} DÉLKA"
 	35BD958D4B90107633306AAF066EE571 = "ŽÁDNÉ ZDRAVOTNÍ POJIŠTĚNÍ"
-	07217D61454E51EA1CC7D388523A52ED = "ŽÁDNÁ MISE ZVOLENA"
+	07217D61454E51EA1CC7D388523A52ED = "NENÍ VYBRÁNA MISE"
 	26FF091E4D41BFB1EFD7B79041C9BA0F = "ŽÁDNÉ PŘETAKTOVÁNÍ VYBAVENO"
 	67F0AAF24A21A89E4E7A319C11C933C2 = "NEJSOU K DISPOZICI ŽÁDNÉ PŘETAVENÍ"
 	478D8E8B45CE2F0A3B9CE594CCE0971A = "BEZ VÝPLATY"
@@ -4172,6 +4152,7 @@ něco o prázdných matricích a nabíječi matric"
 	43AE6D04438FF41B7F99D3B5DE936055 = "Potřebná úroveň hráče: {Rank}"
 	20E1CF614E03E29D731E9A9B2EBF7274 = "Chyba sítě"
 	915F6B12481FEA582EEC4883ADDF6A47 = "Rozsah neuro-pulzu <h>rozšíren</>!"
+	1FE5D4784C696E07B441EEBFEEF81005 = "Neurotoxinový nátěr"
 	41B2EBE2459BEF412179089A6D413D9B = "Neurotoxinový granát"
 	801BA77A4D781882A479418812A4C628 = "Nikdy jsem se necítil líp"
 	02BB253441D5A1465B27688AEDD0546E = "Nikdy jsem se necítil líp!"
@@ -4202,6 +4183,7 @@ něco o prázdných matricích a nabíječi matric"
 	851C36BB403B59B67BEEE18175D03C77 = "Pěkný vousy!"
 	A83FCF0747AA2FDDF3E1619605B02F1A = "Těší mě!"
 	250AE178416AF1CDC56D3D85447C1876 = "Pěkná melodie!"
+	16D4461B49BD300E0CEB07B2F3AC43D8 = "Pěkně! Mějte ale oči na šťopkách, můžou tu bejt další."
 	358A47E34399B890F2DE3B83C33CBE97 = "Pěkná práce! Srdce kamene zajištěno! Jakmile budete připraveni, zavolejte výsadkový modul!"
 	F41E2B5C47554AE8AEBA3FA1C4C0C44C = "Pěkná práce týme! Nabíječ matric je nažhavený a připravený."
 	25D5653141CE17E8E2A0BBA575081EB6 = "Dobrá práce, týme. Práve jeste si zajistili pěkný bonus!"
@@ -4331,6 +4313,7 @@ Vedení"
 	0F5F6AA14889438C8130D0A34E20F109 = "Úkolová surovina"
 	FAD5DF974A108D9F1B3DB1ADA094AD79 = "Úkol: Průlom jádra"
 	BDC7A10243ED9634B7BC7BB450E2FFF4 = "Všechny úkoly splněny, skvělá práce!"
+	26C387934572003A33DEFFA3CEB06396 = "Obsidiánová palice"
 	8A8E30614C81D7F2A68B1EAB0EAFADAB = "Překážka? Spíš jako žulový smoothie, jakmile skončím."
 	0BB94C174083211F3FB1B1AC50E5BB07 = "Vypnuto"
 	A148F7064493E98BC4BA6DB91B424472 = "Vypnuto"
@@ -4459,8 +4442,9 @@ Vedení"
 	3F59503242ACE4AEEAABBC88DB19FFC6 = "Opály!"
 	61BB27AB46310A029B6F1BB4CAA5BCDC = "Opály!"
 	6492F1E04D85BF277DB55C84F677D85F = "Opály!"
+	1877FB0146A73DC0E97E24B6F712B5A3 = "Otevřít"
 	32A74656415DA53555531CAEF4291A21 = "Otevřeno"
-	854C01D44A5E7EE81044B5907A100F89 = "Otevřít mapu"
+	3759A47F4FBC983F58922E98A7139737 = "Otevřít"
 	8E8C8DA14D3D2162A85247B46C7A2B72 = "Otevřít mapu"
 	C1BC99D34459105F2A3226B8FE72BEAF = "Volné místo {ClassLocked}"
 	9DBD56BB4D585EF1C55B3EA399ABE8BB = "Otevřete <bold>skener terénu</>"
@@ -4572,7 +4556,6 @@ Vedení"
 	6D8FB4944885F0E6042AC8AE064B7537 = "DVOJITÝM STISKEM [EquipResupply] PŘEPNETE NA ZÁSOBOVACÍ MODUL A NÁSLEDNÝM STISKEM [Fire] HO OBJEDNÁTE"
 	E501CABD480DE511EC843F83B6B411FB = "STISKNI [Fire] PRO OBJEDNÁNÍ"
 	A9ADC6E048BAF9FAB19E09BF2CF22D96 = "STISKNĚTE [Flare] PRO HOZENÍ SVĚTLICE"
-	E66F2965440023B51A13E5B5253ED0BC = "STISKNI [Jump] PRO POKRAČOVÁNÍ"
 	54252A9A47A6776CFE924B93B30F5B44 = "STISKNUTÍM [Salute] SALUTUJTE"
 	BF55A2DD4B08D1A83D629EBE0A4E5A24 = "ODPOČET POSTUPU:"
 	C05990CA4976B956E831ED9F3002CDDC = "PVSN42.VRT"
@@ -4616,7 +4599,7 @@ Vedení"
 	746551A1442BB60C70887389306CBE97 = "VEŘEJNÉ HLÁŠENÍ: Jednotky M.U.L.A. nemají vědomí a nejsou mazlíčci. Přezdívky jako „Molly” nemají vliv na jejich naprogramování."
 	6F044BB848EBDA1BC56FFDB90965B4FA = "PSA: Střelnice je v současné době zavřená kvůli údržbě. Řízení přikazuje zaměstnanům aby netrénovali používání střelných zbraní kdekoliv jinde na stanici."
 	E82365B2495912F596DA23ABD0815AC7 = "OZNÁMENÍ: Svou předpřipravenou výbavu si můžete upravit a vylepšit v terminálu pro výběr postavy ve vaší osobní kajutě."
-	09926EE44B057C628C8A9F9DD2518ADC = "NÁKUP"
+	09926EE44B057C628C8A9F9DD2518ADC = "ZAKOUPIT"
 	75AEE9034DCA596364116A8C5F01C1FA = "ZAKOUPIT"
 	E6E6A7FA45E549ACC240BBB03FD777DE = "Ten má ale říz! Jako stvořené pro tvorbu domácí paštiky z brouků."
 	12882B86409BF1460069629FF38ADADF = "Nátěr"
@@ -4626,6 +4609,7 @@ Vedení"
 	431E88F046D1BE4C70EDEB9C141C0A54 = "Paraziti"
 	8A7EA86344E99CDE76C99BA7EFFBE2B5 = "Paraziti"
 	0455CC1045C42B807F56A4BDF28DD590 = "Část kulky, část nábojů stříkačky jsou velmi efektivní pro omráčení většiny nepřátel."
+	0927DD70405407529B4C34B8210700A5 = "Večírková čapka - třetí ročník"
 	02C6735B4D5F1D8F4E0B14BA9015D1F9 = "Večírková čapka - druhý ročník"
 	5CDF4D02428CEFD5EEA1FBB669567A35 = "Přijatelná práce, horníku. Budete vhodný pro naše operace a Vedení bude potěšeno, že se ve vás nespletli. Vraťte se na základnu a my vás zapojíme do skutečného konfliktu s plnou polní. Stisknutím tlačítka na jednotce M.U.L.A. přivoláte únikový modul."
 	13F1E1624EA269A3531CA49932461787 = "Pasivní perky"
@@ -4639,7 +4623,6 @@ Vedení"
 	E31CC75348525C46235FF2A1A36E9DDF = "na jeden brok"
 	6B2AC5724E5BF0CDC4DE158354FA0ACA = "Perfektní vyvážení"
 	F604EF9D49C3913DD4DBB18C288567B1 = "Perfektní načasování...už mě to začínalo nudit!"
-	2CAB58184A5F82FB4933B48BD6C24D90 = "Perfektně nastavený chladič"
 	78CCEC554357746B73BD93A070A502D9 = "Třeba je na čase omezit přísun Makteřího Moku. Alespoň na chvíli."
 	0657973249D143ABBDD0C1B2F2DC6B9A = "Perk Získán!"
 	351ECF6C48FBA149DD85C692DC491F20 = "Body perků vybrány!"
@@ -4731,7 +4714,6 @@ Vedení"
 	435EEB79438294AB3E99DDA609858F68 = "Přepínač výbavy"
 	785D9C5B457170C98F25A898CAD6F1F2 = "Jméno Hráče "
 	2402573646A28C8B83194DB03F4377BC = "Potřebná úroveň X!"
-	7146C8E64854C0DB498B70AF7625379C = "Nedostatečná úroveň hráče!"
 	A45455CA460F02439F3C48A9DB033CF3 = "Suroviny hráče"
 	73307F1549EC1992C37674A1D8BD11AF = "Prosím nekopejte sudy do odletového prostoru...! Naaahh, nezmím moc jako ten týpek z řídícího střediska..."
 	FBBCB5DB4DF9798AE436D58EDA493BCD = "Prosím nekopejte barely do odletového prostoru...barely a startovací trysky si spolu moc nesedí."
@@ -4755,6 +4737,7 @@ Vedení"
 	0EFB3CCC4EE8A158752FBBBF0A7C717D = "Otráví nepřátele v oblasti rozptylu"
 	1DF040514363ECCD3420DEB0B879753F = "Zakončení"
 	BFC2F07E4BDFE41F53DB07896960E65B = "Zakončení"
+	1DBBEC9446B4AE6E20C0358406BF106B = "Culík"
 	7F4E90704091594A25B822B1CF9E108E = "Lupni toho lupíka!"
 	EE56E5E74643EB54C416878929212FF1 = "Postprocessing"
 	BE244F764751420FA0AD8282E8189C24 = "Hrncozlat!"
@@ -4821,7 +4804,6 @@ Také můžete <bold>salutovat</> stiskem <Salute/>."
 	0AF0AA3D40EBEB914587198CB0541FEB = "Ovládání projektilu"
 	5A6F09434238DC8297E2BE980C20D7A8 = "Rychlost střel"
 	00C967844D3D4387C6FE2B85E72ECAB2 = "Vyzařuje energetickou bublinu, která vás udržuje v bezpečí mezi tím, co se vám dobíjí štít. Bez problémů pokryje celý tým! Neudělejte si ovšem příliš velké pohodlí,...efekt nepřetrvá moc dlouho."
-	A83874AC4B78EA0D8FF696AC6DE34665 = "Pro odemčení dalšího slotu pro perky musí být váš {class} alespoň jednou povýšen"
 	94FBB19B43C6D50B97EF5B82530EB97E = "Povýšená postava"
 	73D63BD44A73AB73DDED7E95F8071C9A = "Propagováno jako průlom v technologii nositelné holografie. Tato helma se věnuje pouze těm nejvěrnějším zaměstnancům DRG. Kostlivá banda – pro pár, pro otužilce, pro siláky."
 	B4912BCD49617FC8143680877C87BC55 = "Povýšení trpaslíci mají různé způsoby pro získání matric. Pomocí matric můžete ukout <bold>ultimátní modifikace</> pro Vaše zbraně – přetavení. Ty se rozdělují do třech(3) kategorií: <bold>vyvážené</>, <bold>čisté</> a <bold>nestabilní</>. Ty se od sebe liší silou kladů a záporů a tím, jak moc mění chování zbraní."
@@ -4871,11 +4853,7 @@ Získáte tím ČESTNÝ ODZNAK a PONECHÁTE si veškerý postup na zbraních, pe
 	C9793BEC455D6C3CFD04F2855A2C6E22 = "Dýně"
 	697E104E473E2C386490D6B32D1E1B75 = "Velký dýňák"
 	D4750FE74069DAC1D56B00A3BB7142CA = "Punk ještě není mrtvý."
-	5ED96F4941F7D5D33059858F47E49A00 = "Koupit {value} kosmetických předmětů"
-	0017AA3449B1CFBAF3973BBD81E2A106 = "Pořídit „{name}“?"
-	23BE0CF7486C9A656DE76CB665A09476 = "Koupit tento předmět?"
 	A8A0F8444223B4D2F21A9EAD1C325820 = "Koupit tento upgrade?"
-	DE0E122D42AE7312879E2A956BD5F752 = "Chcete koupit {name}?"
 	3FD083F34EFC314A45D3F5B23319BD5B = "Zakoupeno"
 	1EB3965240E61163B9ADF89ACB844378 = "Ryzí Mánie Perků!"
 	989245734A10B993606D03A7200B8EDC = "Fialový Krystal"
@@ -4919,6 +4897,7 @@ PŘIPOJENÍ"
 	2FCDE6D940EB0CE8F0709A9BAEFF70A8 = "POMSTA!!!"
 	B38989744B0B3BFEDB3B4EB0F92EE587 = "Sloučenina RJ250"
 	D7351C03419BC3A35DA83AB86FDD2E2D = "ŠUTR......A.... KÁMEN!"
+	2D025CD34F14A78B70118B9E9B54D2CE = "TVRĎÁCKÁ helma ve dvou variantách"
 	175B02664A1D1855AB59D6801DDFD268 = "Nátěr DRSŇÁK pro každou zbraň"
 	767201A24BF05D53A61200984D6773B3 = "SPUSTIT HRU SÓLO"
 	B90682D9433B24EF3EAE8D87BFE6DFE1 = "Radiace"
@@ -4993,7 +4972,7 @@ PŘIPOJENÍ"
 	658A88894E440EAF00ED27984B2CF92D = "Zprovozněte výsadkový modul"
 	8E6614C84748A172BEBABC9083CC1D2B = "Doplňte palivo Drildozéru"
 	96F0DCA440E142A818DAE6961EE2585C = "Regenerativní brouci"
-	0970786D4CABB3ED983676B16132E5AD = "Obyč"
+	0970786D4CABB3ED983676B16132E5AD = "Běžné"
 	62240F174A92CC9A098DF0890B28E07E = "Normální <Highlight>Zvýrazněný</><Bold>Tučný</>"
 	089E4D1344B355DB156A92A696100B21 = "Běžné střely se nyní odráží. Prosím, pokuste se nestřelit samy sebe nebo vaše kolegy."
 	EAD78C4345C7B53DA88C86A4177E8FC9 = "Vytuněná kotva"
@@ -5058,7 +5037,7 @@ PŘIPOJENÍ"
 	18730BE149F49EF20B7C8E96069430AE = "Název suroviny"
 	0C86211045E5EF3A86FB13B26D110A08 = "Suroviny"
 	7BC33253423659022A649A915169863C = "Suroviny"
-	422FD3C94C34FDCB869F898722BCEA45 = "Vodpočívej v pokoji, Velrybáku. Donesem tvojí výbavu domu."
+	422FD3C94C34FDCB869F898722BCEA45 = "Vodpočívej v pokoji, chudáku. Donesem tvojí výbavu domu."
 	042F6E094E1F44AB6C0B0E82AA0025C1 = "Restartovat"
 	A979F52A4C543DAC73A0B28D962F3DB0 = "Restartuji Gravitační Generátor!"
 	862C42E741457E533D28D99A9652F109 = "Obnovit uloženou hru"
@@ -5182,6 +5161,7 @@ MISI"
 	15ED2FE74FE0F17CAEC81092403BE334 = "ZAKŘIČ PRO POZORNOST!"
 	4B1445E04DBEC4447035E1871F92DCB3 = "Helma KOSTLIVÁ BANDA"
 	D019C45D4FB4A63548846499403C591E = "DRTIČ LEBEK!"
+	43668C4C43559DDC8EBE48BCC426DFCC = "VYPRODÁNO!"
 	507A440246159A8E67FD3D94410AA52B = "SÓLO MÓD"
 	AC8F021C438EDD18B5698582BB809EF2 = "SOLO MÓD"
 	C1C3E0B647523F235572DB92F6D17C7D = "SOLO MÓD"
@@ -5216,8 +5196,6 @@ MISI"
 	8BC5E4024C1F140941755090E50DE0EF = "Salut"
 	71BB3FD34003F9E5896BA283834539AD = "Záchranná operace"
 	557B55E74F310E9E3CE1B99447B57EC1 = "Splněných Záchranných operací"
-	EC069740491D88E1DCC0E1880E7D5FE3 = "Zachraňte {count} {objectName}"
-	4CB7BF034402D8F57BD2EAB4B357A7DC = "Zachraňte {objectName}"
 	53C746184D65954505AC9D86E54586A3 = "Písek"
 	4715CF4040D90EE5FE63B89EEE112AAE = "Pískovec"
 	29271C354D85D2093C76118FC791C5CA = "Zvětralé komplexy"
@@ -5230,7 +5208,6 @@ MISI"
 	C54AA04F4C1614CA44A02FA1944D1F97 = "Naprostý divoch – pozlacený"
 	6899C9BF4C4EA8CA476B9B96004C66B2 = "Zachraňte mě!"
 	3B8547F74947774957B2B998CFBD8F02 = "Zachráňen strojem! Jak ponižující!"
-	D4539BB746204174F7A99DAF3E1241C3 = "Uložené hry"
 	B9D15EBF4E2A09A1BDC55AB15EEA39DD = "Proveďte sken jednotky mini M.U.L.A. a najděte chybějící nohy!"
 	17379A0E41AA44A751A2A7B813E3339C = "Skenr hlásí významný seismiký aktivty. Pohybují se vašim směrem. Zakopejte a připravte se."
 	96C169A1414388FAA483D6B0611DDF42 = "Skenery odhalili několik ohromných ložisek kapalného Morkitu. Na jeho extrakci vám posíláme rafinerii k sestavení. Najděte ložiska kapalného Morkitu, postavte potrubí a vypumpujte to vše do rafinerie. Hodně štěstí, týme!"
@@ -5274,6 +5251,8 @@ MISI"
 	322D552D4A62E6A46507AA8403365847 = "Krýjte se!"
 	1EEB043B49719C430321E7852F46E5A8 = "Kryjte se! Dorazili maktery! "
 	FE5AA61B4D349896F0A352BC93EA996A = "Samovznícení"
+	2FDB4FDB4C0030648FB9D5ACF946753E = "Prodat"
+	A92A348E4475667A4356B78B5A97D68E = "Prodat"
 	D48BEEAB468C658A94594FB7F2620170 = "Prosím zašlete čerpadlo!"
 	D538385C4E4C2157F03021A67AA27BAB = "Odesílání herních metrik nám pomáhá vylepšovat hru pro všechny."
 	B07002E74C40ABC931AA47BC4413B5BF = "Vysíláme výsadkový modul, začínám odpočet. Tak jo týme, ať máme být na co pyšní!"
@@ -5349,6 +5328,7 @@ MISI"
 	366E341A45F49A6965B83F9A46C50CE6 = "Krátká"
 	BAE2513B4831A7E5800A768BFBB85068 = "Krátký a drsný, ukazuje, že si s tebou není radno zahrávat."
 	BCADF91748A2BC73905E5DA2DD96A1D8 = "Krátký a drsný, ukazuje, že si s tebou není radno zahrávat."
+	1ECDCAD94DEF86A8BC0A908DFADB6C98 = "Krátký ocas x3"
 	0A467DAA427DCDDE5B0580803B182923 = "Kratší zpoždění mezi dávkami"
 	54BB2F3A48911056E6F7908A3BF25D0A = "Výkřik"
 	075479CB45BF3835DE1846A51811C954 = "Zobrazit ukazatel FPS"
@@ -5368,9 +5348,9 @@ MISI"
 	945D9F4941B1CD246D499EB25A608C87 = "Křemičitanový sklízeč"
 	B3DAFFDA401E8185DF384EA07F4397A0 = "Křemičitanový sklízeč"
 	9AE375BC4002DA9A74D6099E728A030D = "U všech kladiv! Destruktor! Stáhněte se! Stáhněte se!"
-	47AA2A694225B56B1103629F469DA344 = "Stříbro"
 	0B2966BD4821E326CE1BC3843A01F447 = "Stříbrný lišák"
 	82D5760A4D36C73A04E752BDC5DE965D = "Jednoduchá"
+	0A0A4A2D4DC90A4EDE886393635BCAE6 = "Kostlivá banda"
 	F3D06ABD4FBDDF040F74C7B3B3C5DDB7 = "Kostlivá banda"
 	0AC6F1114B92DBFA9C0750A19F31DF65 = "Barva pleti"
 	F6A9665340F8EAFD2DF2939F833F21D9 = "Přeskočit"
@@ -5490,6 +5470,7 @@ MISI"
 	8D69F0B4473B4F90F0BFFE938D1567F9 = "Čtverec"
 	1EDD4F3B4E140B9A8E4436B08AADC5D6 = "Jednu jsem dostal!"
 	4BDCC0654038964228535E9A30A78033 = "Rozmázněte toho hrabivce minerálů! Dvojnásob!"
+	269479BC4DF7FFEC689D0BACDD87180A = "Bodnutí"
 	4509C98340803B414A1F2EA2FF24FE9E = "Fáze se zahajuje..."
 	8E88BF604EF4E5978FABA58E6A9637D7 = "Fáze dokončena"
 	01303A9F415BEB7C86CF288B62ADF794 = "První fáze, týme! Vaše úkoly jsou připraveny a můžete je plnit jakýmkoliv způsobem chcete, hlavně je všechny splňte! Vedení vám přeje bezpečný a produktivní Hlubinný ponor."
@@ -5561,7 +5542,7 @@ MISI"
 	6EF5A1D34B0550131B6D9E992F20D7BB = "Režim pro streamery: Zakázat licencovanou hudbu v jukeboxu"
 	38432C1B42FB9E9EC7AE9ABBA4F97F25 = "Kontrola ucelení usměrňovačů"
 	73DC2C284570F12CA9790D812A600EE1 = "Kontrola ucelení usměrňovačů"
-	E5C74ED147632F98F5A66FB87D234EBD = "Nemalá"
+	E5C74ED147632F98F5A66FB87D234EBD = "Řízné"
 	5CBBEA9C464DC37807AC59B94A9A5C05 = "Silná paže"
 	34890D784C231A14D5A391B98CB0A5EC = "Silnější chladicí jednotka"
 	13ACF2044859AB100350F3B9FFCD1297 = "Silnější výbuch způsobuje větší škody"
@@ -5600,7 +5581,6 @@ MISI"
 	341A8DF1491A49614EE7C086E9822410 = "Podpůrná raketa!"
 	1607D63740757D3761A8DDAD65F6FF3C = "Podpora, prosím!"
 	2D2336ED4FDC06EDADFD19B0E24F89B9 = "Podporováno Danským Institutem Filmů - The Games Scheme"
-	8C0421464C27984228752980F369653F = "Podporovatel"
 	2456A1824A3A51FEF28CEFA7BE617122 = "Vrchní Horník"
 	5C962BB44134EB0A2BE883AE84099615 = "Nejvyšší horník"
 	6A58F52C4B5E9FDC75E895B3D2E18EB1 = "Nejvyšší horník"
@@ -5615,6 +5595,7 @@ MISI"
 	919ABFFE4F9DE26049FCDEA5E3644D04 = "Popel a jiskry ve vzduchu prozrazují dosah útoku Pekelného ohně"
 	C227DBE5473F205C59AAF5BCAEA363C1 = "Trvalé poškození ho přinutí k vynoření a dočasnému odhalení slabých míst"
 	DD7122ED45876BAC2DACDB9A761E5844 = "Spolkni tohle!"
+	5F675DA4477DD6DA5F2AC1A35FC475F2 = "Přehodit páčky"
 	C0AF54DC484C5EEDE10761A63B3DCA7C = "Roj detekován! Připravte se! Budou u vás brzy!"
 	3302CDDA484EB0EDBD5FE9BA4CD73C41 = "Roj se blíží. Dostaňte se přes to rychle. máme nabitý program."
 	3DBF5A1F48944C93265152AC12E2ADEA = "Roj valící se vašim směrem. Připravte se!"
@@ -5637,8 +5618,7 @@ MISI"
 	DD299EC94F247ECC52247FBBC5803E27 = "Změnit na postavu"
 	F270249D4B98E5158146E9A617A36D3D = "Změnit na postavu"
 	00C88DFC40C265963FDD4DBD3679A870 = "Změnit třídu"
-	AD05717E4CF15AB5563A1F87AE8B204B = "Přepnout na postavu: {character}"
-	CEA1A0EB4980AD973B32B9887BC9AC35 = "Přepnout na postavu: {character}"
+	014B2BB542BECD327437F092C5602288 = "Aktualizace systému vyžadována"
 	9FAE1BA246784FFFCAE077BB06D7EAB1 = "TAA (experimentální)"
 	0E6FDF684AF461D269E215A191289E87 = "STISKNĚTE [Shout] PRO ZAVOLÁNÍ O POZORNOST"
 	3E8D5A1F49894E7918B4F0B70CB2D74F = "STISKNĚTE [Shout] PRO ZAVOLÁNÍ O POZORNOST"
@@ -5725,6 +5705,7 @@ MISI"
 Na účet Vám jako uvítací dárek připisujeme 5000 kreditů, které si nyní můžete vybrat!
 
 ŠUTR A KÁMEN!"
+	29F6F4F24A04FD32C56B0397618B98D7 = "Děkujeme za zakoupení BALÍČKU [DLC NAME]!"
 	B26C86DF47481AA729A47795827C4556 = "Díky bratře! Jsi opravdový přítel!"
 	4095F3BE447055AC39FA91ACAB8CE3D5 = "Děkuju za záchranu!"
 	9B4F6BB7424FC6C2BADF0A93EAEEEE65 = "Dík za jízdu!"
@@ -5902,6 +5883,7 @@ Příručka horníka – bez ní (nedáte) ani ránu."
 	D39B53964D333D64832B43B7E94CEAEF = "Jeskyně jsou tmavé a neustále je musíte osvětlovat. Stiskem <Flare/> <bold>hodíte světlici</> pro osvětlení svého okolí. Nebojte – světlice se vám postupně obnovují."
 	1FCF2B074F65531F692B1E866EFEFCA6 = "Kapsle vystřelené tímto strojem vám zvýší rychlost nabíjení mocného útoku krumpáčem!"
 	64D8E3234397477DEF1EB49842726761 = "Chlad produkující některá nebezpečí a zbraně sníží teplotu nepřátel a způsobí jejich zpomalení. Pokud chlad dosáhne bodu mrazu, nepřátelé budou znehybněni a budou více zranitelní vůči útokům po určitý čas. Někteří nepřátelé jsou více odolní vůči chladu než jiní a bude trvat déle je zmrazit, jiní se po stavu zmražení zahřejí=uvolní rychleji."
+	476DCAA248F4426124BEFFBDEBDEF961 = "Nabídku nelze vrátit zpět"
 	650394EE41ACE93ACF33119DE345624C = "Dekorace jsou tu pro zkrášlení, ne proto aby jste do nich kopali!"
 	E7F5A4894FFAC827E80375B24D65CE32 = "Ozdoby jsou zde pro dokreslení sváteční atmosféry, ne na hraní."
 	2FD4EBE048042C346A37839328C4EF8A = "Kostka je vržena."
@@ -5925,6 +5907,7 @@ Příručka horníka – bez ní (nedáte) ani ránu."
 	134081914D93ACBDCE702EBC1017072E = "Vlhkost vzduchu v tomto regionu znamená ideální podmínky pro růst hub. Jejich pojídání ale naše společnost rázně nedoporučuje."
 	71D3D52B4560A0BF1B2DC2A534FD3CCE = "Intervence Deep Rock Galactic na Hoxxes IV narušila přirozený rozmnožovací cyklus naedocytů a jejich populace roste nekontrolovatelným tempem. Naštěstí se zdá, že naši po zuby ozbrojení trpaslíci jsou jejich přirození nepřátelé, tudíž vás posíláme dolů."
 	4ACB0D84456C00BEFFB4A7A9453C1E62 = "Poslední z vlny se k vám blíží. Držet se pohromadě!"
+	10374DF344DA1706BD000F85A1661507 = "Seznam padlích hroníků se neaktualizuje v reálném čase. Všem padlím horníkům je ale vzdána čest."
 	1427F38744164A0EACBE5C9DF34C4A82 = "Pamětní síň je místo, kde ctíme padlé. Nebojte se tu procházet a projevovat úctu."
 	51C990F749D26BB6597205B1895789B6 = "Soubory modů .pak by se měli nacházet v adresáři „Mods/[ModName]/Content/Paks/“ spolu s odpovídajícím metasouborem (.uplugin) umístěným v „Mods/[ModName]“"
 	39BD1CF440B83EBA505AF9852120B3A0 = "Mula byla přivolána zpátky k výsadkovému modulu!"
@@ -5933,6 +5916,7 @@ Příručka horníka – bez ní (nedáte) ani ránu."
 	DB0F696D43464007B803F2B8A8592A9A = "To potrubí slouží k přepravě kapalného Morkitu!"
 	07FB6CDB450DA571529FBB96CE15149F = "Tady můžete získat <bold>kosmetické</> předměty. K jakékoliv koupi budete potřebovat <bold>kredity</> a <bold>výrobní materiály</>. Také se vám odemkne ke koupi více kosmetických předmětů s každým zvýšením <bold>úrovně hráče</>."
 	752183C44FCF841D5D8CD88E7DB534C7 = "Místo kde se za spojení minerálů a matric vytváří <bold>přetavení</> a <bold>kosmetické předměty</>. Kování Vám zvýší <bold>úroveň mistrovství</>, umožňující přístup k různým odměnám. Výheň se Vám zpřístupní po absolvování prvního <bold>povýšení</>."
+	811FF9964A8870BF10487E84BC939C21 = "Při kontaktu plazmový paprsek omráčí většinu obyvatel planety Hoxxes."
 	96C6A86246296DB2C9D5A7B50013DB7B = "Jedový oblak, který zůstane po smrti pretoriána je možné zapálit"
 	57F6A1CB49D941FB48D8DF9FDC90D255 = "Primární poškození zbraní zvýšeno."
 	F6B73F1548D2983E644480A4C4FBF2F9 = "Projektily vystřelené z platformostřílu vytvoří po nárazu <bold>povrch, na němž se dá chodit</>. Jde zpravidla o nejlepší způsob, jak se dostat k <bold>minerálům na zdi</>. Lze je také využít k <bold>vybudování mostů</>, <bold>zakrytí děr</> a mnoho dalšího."
@@ -6039,6 +6023,7 @@ Příručka horníka – bez ní (nedáte) ani ránu."
 	9AAAD5384BD96E4279C9A5BEECE797BD = "Tohle je zábava!"
 	5C4FC0DA47E9A926E172BE9BB95229FE = "Tohle je zábava! "
 	B8D33EE74B4B5490DC7F278EAF94F5EF = "Tohle bude sranda!"
+	0B6FDD1E4FC052CF45FAC294260625CF = "Tady bude potřeba šití."
 	17C3B922463932DDE7C539A5FFE8390E = "Tohle bude jízda!"
 	F823A3EA4643FEA5E5DF91A6D3930F5B = "Tohle bude jízda!"
 	0961C23D4802A47133B66CB421A21814 = "To je ono! Poslední mise a padám odsud!  "
@@ -6107,6 +6092,7 @@ Vedení"
 	DEA5063F4DC950931F410980D9FE7B3B = "Je čas sebrat nějaké zlato!"
 	307737EA417A6C3ACBBD658896F9314A = "Čas sbírat!"
 	9F8B95494EDCF9BB83E751B9D761881D = "Čas depositovat!"
+	01FF9EFF41C5CEED423C42992F3A8E16 = "Je na čase vykopat tu starou krabici s náplastmi."
 	9650409A417476B00510CCAA0F89EAF2 = "Čas vidělat si na živobytí!"
 	C43B09F2493507CFECF18B9CFD632BFA = "Čas vydělat si výplatu, týme. Máme tu pěkný roj na cestě."
 	861FC69F4B44C5AAFB56E7AAD1D185A1 = "Je čas najít Molly!"
@@ -6155,7 +6141,6 @@ Vedení"
 	A9BD62B44C8C4156417EBCA8213976AE = "Zubibrus!"
 	071A921C450D6A191D7EB2A85780BB08 = "Rychlost Střelby"
 	BDA09B7249BD8E9278B5C0877A05233C = "Utrhlá noha glyfida"
-	702C49A644E968EB733808B45217BCEE = "Celkem"
 	897D0C5D40979E06CA62A197408960DA = "Celková Munice"
 	3BD1C77543C2158DF8420E9482838DCC = "Celkový počet odemčených speciálních piv"
 	B3B630454F842C00EEDA34ADDCAB670B = "Celková bilance"
@@ -6222,9 +6207,9 @@ Vedení"
 	D2D0564646B262393E617B8C09F27ACD = "Trýzniplevelský odštěpek"
 	F1B8996449CFE748EE4C2CA3C2DBC727 = "Trýzniplevelské odštěpky"
 	CE4397324BF370001DCE829EDCA14373 = "Trýzniplevel"
-	A77D4926491B8CDF61FF909C89BB6926 = "UA2, mjrDrake, Tuteshnij, classicarma, Mike_Smith, e.ray, federico.gropplero, Darklinux94, 1407ehdgh, Matejko124, elesis1204, _Paladin_, Zeuzere, Tuteshnij, Jakub Nechvátal, Nathan Friebe, Oliwier Masiukiewicz, EgorKaskader, Mbgny, Pierre MILLOT, xsSplater, Till Kottmann, FireVuk, UA2hk, Yamila Castro, Kispiricsi, Paladin, Danniela Aragão, lc_freegold, Tomasz Bielenda, Luis Felipe Tejada de los Santos, Otto-Emil Valentin, Athila, classicarma, TheBuildingDwarf, keigin, Sunny M, Robin ten Wolde, Victor Mayorga, MuffinInACup, Sirio Cilia,azerty11235, Frang (1407ehdgh), Alberto Gómez Herrera (MirageIonova), Ser_Pounce, alexisnef, SplitSentro (splitsentro), fakiyo, Alejandro Brys (Odraza), Ilupuusikuniluusi, Jiune, Görkem Emrah Güler (gork7777), Switch X (switchx1), Mika Tuomaala (KiksuuZ), Sergii Raboshchuk (Fallenbard), Daniel Tom Sattler (GranheartR), Cheng-Han Wu (na663321), Dragon the Reaper (DRAGONPRO), johnnywu0000, Kei Duy (GabrielMinus), Delgado Kenway (DelgadoKenway), Léo W. (LeFrogPilot) a mnoho dalších..."
 	5D53C5A1450DE43A34E9878A5B78F8C0 = "Rozhraní"
 	B9B8DF3947F5817463C75E91163945B2 = "Velikost rozhraní"
+	B7C64290467C38921FFFF2B50480CF20 = "UMANIT"
 	118B11FE4E85817465CD0EA578E49415 = "ODEMČENO:"
 	1DFF07CD499D9C20484D76BF57D90FD9 = "ODEMČENO:"
 	273506A1407FF7C9D4788395C1357054 = "Kategorie vylepšení patří sem"
@@ -6251,13 +6236,13 @@ Vedení"
 	258A3EE74D1E429298880C88BD69BD1D = "Podhorský Předáky pro mě a mý chalany, prosim!"
 	3BAA1DB041BB83B6A739CCAE2D0B255B = "Podhorskej Předák!"
 	95385FD042B1279D924C23A64A379D2C = "Podhorský prosim! A ať jsou přední kvality!"
-	084885604497CF870F7EF797D3541C92 = "Nefiltrované palivo"
 	2639BDA74F3ACD0974675696C0A860D1 = "Neidentifikovaný objekt"
 	1CCE93164BD93498123304A5E8C9BE39 = "Neidentifikovaný objekt"
 	BDBE27A34F437BC3E227DC9004C8D661 = "Větev svazu je dostupná v terminálu Hornické komunity!"
 	2B977B2B4C7DA9295728618ABC09CFEE = "Neznámá hrůza"
 	B8DBF7C24F7F25386399EC9150FDEEC6 = "Vystřelí z obou hlavní naráz, bez výčitek."
 	D4C88D8642E4291A3114C5975E17C779 = "Odemknout"
+	5CE70DB6409614BC278E50855C38BAD0 = "Odemkněte si obchodování s minerály v <highlight>Tabuli zakázek</>"
 	E62F8C344337DC76160644B70C211367 = "Odemčení přetavení"
 	CABD47134CCB6488B173A3AC7700044D = "Odemknout pivní speciály?"
 	32CC2A67401A848C227E7F8C02D12667 = "Odemkni [Use]"
@@ -6325,8 +6310,6 @@ Vedení"
 	A83D2E5E45D1FCFE84BB6285E2716604 = "Odemknuto na 20. úrovni Průzkumníka"
 	E48F95F54597B6464AB7019CD7D57AFC = "Odemknuto na 25. úrovni Průzkumníka"
 	0AC69D5244EFB2B9F064C189DF125529 = "Odemčen {overclock} pro {item}"
-	7ADC0F91496AC820F47997B791493730 = "Odemčen {overclock} pro {item}"
-	880D4A1648C5905F3C5F748A85C55CE8 = "Odemčeno {vanity}"
 	26AB3AB84A59216A284A158F2C27C181 = "Odemčeno!"
 	0EB38662449FB7A32E603E85AB1114E0 = "Vratký krystal"
 	2D3A27094C5330CD483F8C955E302A89 = "Nestabilní Výbušniny"
@@ -6346,7 +6329,6 @@ Vedení"
 	0DAC950C40DE765C2BC254AB86980201 = "Zahajte přenos na řídící středisko"
 	4F5C267945288BFD686A02AD7977F82A = "Po úspěšném splnění tohoto kurzu, budeš plnohodnotným zaměstnancem Deep Rock Galactic s plným přístupem ke všem příležitostem a benefitům společnosti (neobsahuje dentální)."
 	D3A7FE284021BBE097103EAB7E93378C = "Uhh, nějak mi nesed oběd. Barmane, Střevomrda na spravení prosim."
-	C657CD354FA478F046046C82CAAA268A = "Použít DX12 (experimentální)"
 	134E3CA245BD60F336E53C81D2329AC3 = "Použít streamovací službu"
 	2F8B11D5409C76EA293AB182CE32DB22 = "Pro uvolnění použijte [-MoveRight] + [+MoveRight]"
 	20D0D1CB45BDFAAC41E9958D32CFC239 = "Použít výchozí zařízení"
@@ -6354,6 +6336,7 @@ Vedení"
 	3C254663447BC586DE82C0A9A416FAB3 = "Použijte skener terénu k nalezení kokonů."
 	0A63239C4AAD260AD43AB9B08F8CFD31 = "Využije elektronový obvod z SMG k zvýšení rychlosti střelby a poškození, ale výsledkem je i ztráta přesnosti."
 	0241B7884A94403E130F1596763117D5 = "Použijte vaše vybavení"
+	2A8042F941F719E47FB6CFAEC2008E75 = "Pro uvolnění použijte ←[Run]→"
 	E86C8563461E97414B7C99B9C84D1128 = "Provádění starověkých rituálů..."
 	E774537144FDAC79580E7F92E1A2B9ED = "Auuu!"
 	B524D0BB42B6437F2EBFA0A8C91179DB = "DABING"
@@ -6372,6 +6355,7 @@ Prokažte svou cenu na misích s rizikem 4 a my vám zpřístupníme mise s rizi
 
 S pozdravem, 
 Vedení"
+	C0A87FA341D0511A21CDAA95BC626B76 = "Velmi málo nábojů a nízká kapacita zásobníku"
 	67AE798B45E7F17D3B1023A7EC8E5B6A = "Zkušený vykládač"
 	856200D64FAE7E8F6E52479B4EA76F9E = "Horník veterán"
 	9904C45B4E94485D260BCDB11658ED01 = "Horník veterán"
@@ -6440,6 +6424,7 @@ Protože se jedná o verzi před vydáním, Microsoft ani vydavatel se nezavazuj
 	3111512943F326FF983A319735725AF6 = "Varování: Jste si jistý? Ztratíte všechen pokrok v této zakázce!"
 	01F74C6149AD72D906058FA35A669FA8 = "Varování: Chystáte se vejít do možnosti výběru uživatele. Při změně aktivního uživatele dojde ke změně vaší uložené hry a může dojít ke ztrátě dat. Jste si jisti, že chcete pokračovat?"
 	45BC46004B66AA4029A6CA9825BE7209 = "Varování"
+	2A8B04FD49BE7BA087268A83964A69C2 = "Plýtvač"
 	3359B17C4621B0C2165FF7AF227EFCD5 = "Dívej se a uč!"
 	6F5775294B412E940FF65DB8A09D7661 = "Sleduj a uč se!"
 	B5A19B0C4C4928E7AA15D79C658E02BE = "Sleduj a uč se!"
@@ -6573,7 +6558,6 @@ Můžete si kdykoliv změnit toto nastavení v menu možnosti."
 	7281D73D455D540D7E948EB11E8B6570 = "Vzhled zbraně: {test}"
 	9619555A49C63867786168B8A1E2BD6E = "Ukováno nátěrů zbraní"
 	72F586524E0F6D6506056298A19A0538 = "Popis zbraně"
-	4D381BDA4C17F96EBAAADEB9BCD3C46E = "{type} zbraně: „{name}”"
 	7ACB32164BC986E95D98E2A0AD840F82 = "Zbraně a nebezpečí s tímto efektem sníží rychlost pohybujících se organismů."
 	AF66B3354A84B398A9F5A2A7C6A52DAB = "Pavučinoplivač"
 	F3800CAA4060BDECF8ED9CBFD8A7F763 = "Vííí!"
@@ -6673,12 +6657,14 @@ Můžete si kdykoliv změnit toto nastavení v menu možnosti."
 	4CD1B089436C18ABF7C517BC63BF8455 = "Vau, to bylo děsivý!"
 	2CD77D474B72FB63D89D32B269481D62 = "Vuhůů!"
 	BA89433D4CD4559EE1D91EAA6CB9FA2A = "Vhuš!"
+	0F8262A54550A0DF376D38BE144F9EC9 = "Proč ničím přírodu?"
 	2E256F84408D8887D08D6E9BC05876AF = "Proč se vůbec obtěžovat chůzí?"
 	0734682D443A87D920EF0E86D34B5289 = "Proč se spokojit s JEDNÍM vousem když můžete mít DVA?"
 	1705FFA1491011448AA32A92FA3159C9 = "Proč tak plachá? Plašilko?"
 	3A8FF9794C64E1EC9C022999166E2B5E = "Tříštivý Granát"
 	9C36C2224DDE45E19D536483E10C168E = "Širší doplňovací otvor"
 	3C07D8E843B7824385C59B8C7E69CDE2 = "Širší Platforma"
+	24F4A449412D12338B12E59A0EB3E346 = "Tato uložená pozice bude smazána. Pozor: Tuto akci NELZE vrátit."
 	8D705AB54CC370FDCAD77A887230C731 = "Schová štítek „Přátelé hrají!“ v seznamu serverů vašich přátel."
 	1AE8D70E4F06FC10FDB71A92380A6570 = "Uzamkne myš na střed okna hry v průběhu hraní. 
 Upozornění: Aktivujte pouze v případě, že máte problémy kurzorem myši opouštějícím okno v průběhu hraní. 
@@ -6693,6 +6679,7 @@ Může způsobit drobné omezení výkonu."
 	9B88D7B1477CF9C3250EDCB69C4DE794 = "V okně bez okrajů"
 	208896814DD1122C53B4758EF15DB887 = "Kéž bych byl za toto lépe placen!"
 	DC3DAC6E45E49D057EBE2FAC57ACDEB3 = "Se mnou!"
+	65A46C0B4461018EDE2DA4B8B9D871E2 = "By mě zajímalo co se tu stalo..."
 	8941EAA24DC82A068BE7DBAD6E53E720 = "Zajímá mě jaky bahno dnes večer servírují v kantýně!"
 	616435AF4CC786A19E03CCBF0B4E87E6 = "Dřevěná dolina"
 	11A846C84C19B3275B684EB45824CAF3 = "Juhůů!"
@@ -6721,6 +6708,7 @@ Může způsobit drobné omezení výkonu."
 	BD3EB4F04593E09B794661ABA1B53E9D = "KVÁÁSKOVÝ ŠIŠKY!"
 	B8468E94499A87FA2B7066893D300173 = "ANO!"
 	950206244466ACECD87AE0A31E1FFBA3 = "JO! Cestovní truhla!"
+	253503C846D2EFE57BDBBFB8D522C32B = "JO! Doretta je zachráněna!"
 	C4C223544A8F177D2F9D04B329542156 = "ANO! Dostali jsme toho hrabivce!"
 	C73B22224119A155139950BC9B0B2C2B = "CHYSTÁTE SE VYHODIT"
 	FAC81A9B4EAF1B9E93CA829FEDDAA889 = "BYL/A JSI VYHOZEN/A Z TÝMU"
@@ -6853,8 +6841,6 @@ Stiskem <Resupply/> zavoláte zásobovací modul."
 	7385AADD42A9E20A78773E92E52A22E5 = "Víte... Nejste placený na hodinu. Tak do práce!"
 	AC67CA844D3293B58A93118CF75D66EF = "Přišli jste o Drildozér! Mise už nemůže být splněna! Vedení nebude nadšené...!"
 	8F12A5F24F4EBF3B3BAEB68C473061ED = "Pro přístup do tohoto pracovního prostředí musíte nejprve splnit zakázku „<Highlight>{assignment}</>“ z <Highlight2>TABULE ZAKÁZEK</>."
-	CE0DBD4A4410766258EEB7A6E4E69D98 = "Pro přístup do tohoto pracovního prostředí musíte nejprve splnit zakázku „<Highlight>{assignment}</>“ z <Highlight2>TABULE ZAKÁZEK</>."
-	462FDE1A4EF5B3C693F871BDDD99F019 = "Pro přístup k této úrovni rizika musíte splnit zakázku „<Highlight>{assignment}</>“ z <Highlight2>TABULE ZAKÁZEK</>."
 	B4B1E28B4543A39A9BBEBFB74827F97A = "Pro odemčení přetavení musíte vlastnit alespoň jednu MODIFIKACI VÝBAVY v každém stupni."
 	3549C35A49D09BA17957648AF7A1B2FF = "Musel byste být fyzik, abyste pochopil, jak to funguje, ale tenhle malý zázrak navyšuje rychlost průměrné EPC střely."
 	223AC847439D0949B9A60A899966688D = "Musíte zůstat uvnitř triangulační zóny! Hned se vraťte!"
@@ -6984,11 +6970,8 @@ Nyní si můžete vybavit až <highlight2>dva</> aktivní perky. Volte moudře!"
 	8F675C7B4972FBFB47946787B28DE51E = "ííha!"
 	B04D9DF947D4728DAE93018868F37D86 = "ííha!"
 	3DF5A0BF44B30732D89F04AB7A906F79 = "{0} stupeň dosažen!"
-	46E68BF4476CCF45889B6CAB6C071D50 = "{0} stupeň dosažen!"
-	C23EA34A465EAADB53D40E9A8924CAF2 = "{0} stupeň dosažen!"
 	56E2DF6149BC28347F7DE8B4550E1807 = "{Text} (z {Percentage} % hotovo)"
 	5439433D4D6DD2149C8D93BB44FEF9D8 = "{Toggle} <MapTool/> zkontrolujete <bold>skener terénu</>. Skener vám pomůže s <bold>navigací v jeskyních</> a s nacházením důležitých předmětů (pozn.: V nastavení můžete nastavit vytažení <bold>skeneru terénu</> na stisk či podržení)."
-	1ADB01954E11F652C855C6B566E6D998 = "{class} Povýšen"
 	16FD9ED846C3F24F4D26D98B6B6109CC = "{count} X Primárních úkolů"
 	41BA633C451ED5391F39519D5ED3D6DB = "{family} – {name}"
 	8CD67AFE4DF49038B4A101B7ACE70CE1 = "{mm}:{ss}"
@@ -7078,9 +7061,6 @@ Namespace Crosshairs (6 keys)
 	TooClose = "Příliš blízko"
 	TooFar = "Příliš daleko"
 	TooSteep = "Příliš strmé"
-
-Namespace GameMsg (1 keys)
-	PlayerIsDown = "{0} je ochromen!"
 
 Namespace Gear (7 keys)
 	Cooldown = "Vychladnutí"
@@ -7248,573 +7228,7 @@ Namespace OC_BonusAndDrawbackLines (65 keys)
 	Pen_RecoilMedium = "Větší zpětný ráz"
 	Pen_OverheatFaster = "Rychlejší přehřívání zbraně"
 
-Namespace PatchNotes (32 keys)
-	Update_30_Header = "VERZE 1.0"
-	Update_30_ShortTitle = "VERZE 1.0"
-	Update_20.1_ShortTitle = "VĚTŠÍ, LEPŠÍ, BOSCO"
-	Update_20_ShortTitle = "VĚTŠÍ, LEPŠÍ, BOSCO"
-	Update_11_ShortTitle = "ZBRAŇ A SMRT"
-	Update_12_ShortTitle = "MOUCHY A PENÍZE"
-	Update_19_ShortTitle = "ZBRANĚ! MOC ZBRANÍ"
-	Update_30 = "Zdravíčko, horníci!
-Je naprosto skvělé vás konečně přivítat ve verzi 1.0 našeho Deep Rock Galactic! 
-
-To značí konec naší více než dvouleté cesty a vývoje v rámci programu Early Access! A za tu dobu jsme si nemohli přát lepší komunitu. A pokud jste nový hráč, tak se můžete těšit na těžkou práci v dolech, které na váš čekají, stejně jako skvělé dobrodružství, velké zbraně, luxusní vousiska, mimozemské obludy... a samozřejmě na další trpasličí horníky po vašem boku! 
-
-Jsme neskutečně - NESKUTEČNĚ - natěšeni, že opouštíme Early Access a nemůžeme se dočkat, až uvidíme, kam se hra posune dál. A nebojte, s jejím vylepšováním ještě zdaleka nejsme hotovi!
-
-Za skálu a kámen!
-
-S láskou,
-tým Ghost Ship
-
---- POZNÁMKY K AKTUALIZACI ---
-
-SOUNDTRACK VOL. 2
-----------------------------
-Poslední rok jsme pracovali na druhém svazku našeho soundtracku DRG a konečně je to tady. Můžete tak těžit, bojovat a tancovat u 14 kompletně nových skladeb syntetické a basové nádhery. Deep Rock Galactic potřebuje investovat do větších repráků... HNED TEĎ!
-
-
-NOVÉ ÚROVNĚ POVÝŠENÍ
-----------------------------
-Věřte tomu nebo ne, ale nyní jsou k dispozici další tři stupně při povyšování vašich trpaslíků. Kromě bronzu, stříbra a zlata vás tak čekají stupně PLATINA, DIAMANT a LEGENDÁRNÍ! Tyhle jsou především vhodné pro naprosté veterány naší hry, kteří do ní investovali krev, pot a hodně času. Děkujeme vám!
-
-
-PRESTIŽNÍ ZAKÁZKY
-----------------------------
-Při zvyšování vaší úrovně hráče dostanete přístup ke speciálním Prestižním zakázkám. Za jejich dokončení získáte celé sety pro úpravu krumpáče, vzhledy pro zbroj a nové helmy. Prestižní zakázky se odemknou na úrovních hráče 20, 30, 40, 50, 60, 75 a 100.
-
-Několik měsíců zpátky jsme si hráli s myšlenkou vám dávat kosmetické předměty v závislosti na samotném povýšení (někteří z vás to možná zkoušeli v experimentální verzi), ale ve finále jsme s tím nebyli úplně spokojeni, a tak jsme se rozhodli pro tento přístup a odměňovat vás Prestižními zakázkami podle vaší úrovně.
-
-POZNÁMKA: Omlouváme se, že zbytek poznámek k aktualizaci není přeložen. Vedení Deep Rock Galactic nám odmítlo zaplatit za minulou výpravu do dolů, takže jsme se vzbouřili a začínáme protestovat. Přesto se k nám ale připojte! Další kolegy horníky nikdy neodmítneme!
-
-
-BIOMES
-----------------------------
-Crystalline Caverns have gotten more crystal variations. It’s now crystal clear why it is called by that name! 
-
-
-COMMUNITY REQUESTS
-----------------------------
-Here are a bunch of features we have added by popular demand: 
-- We have added a sweet Golden Paintjob for your trusty Pickaxe to the Supporter Pack
-- We have added a separate volume slider for Mission Control. Don’t tell Management!
-- We have improved head bob scaling to now affect more animations
-- We have added a separate Camera Shake slider, to be able to scale  down camera shakes to your liking
-- We have added an option to invert x-axis for the camera when you are downed 
-
-
-MISC.
-----------------------------
-- Added a few missing Laser Pointer names for the Machine Events
-- Added Patch Notes to the Escape Menu
-- Machine Events now explode if the Drop Pod lands on them
-- Added new miscellaneous ambient sounds throughout the game
-- Added new sounds to the Terminals in the Spacerig
-- Added slanted hex crystals to the Crystalline Caverns biome
-- Updated and improved the sound of the Lootbug
-- Replaced the old chairs in the Medbay with new models
-- Spacerig performance optimization
-- Reload animations now play in third-person when you are sprinting
-- Added an extra collider on the Minehead of Point Extraction missions to prevent Aquarqs from disappearing in the drills below the Minehead
-- Added a new dance move
-- Added Production Babies to the Credits 
-- Button input prompts that do not have icons no-longer show a long name but just the button's character itself
-- Resolution now cycles back to the lowest resolution if the player cycles forward from the highest resolution available in the Graphics options
-- Grenades and Glyphid Bulk Detonator cluster bombs now bounce off the protective barrier of the Shield Generator rather than go straight through
-- Readded the much requested blue goo around Spitball Infectors
-- Renamed Basic Pickaxe to Pickaxe
-- Added a Tutorial Hint that explains how to restart the tutorial for players that don’t actively skip or complete it
-- Improved Bosco’s digging logic which should reduce his tendency to prefer detours and digging from the opposite side of Compacted Dirt
-- Improved the Vanity Icons to properly show effects and color of light sources
-- Reduced the objective of Kursite Infection Machine Event to 13 for the Mactera encounter
-- Tweaked the spawn rate of Kursite Infected Mactera enemies in the Kursite Infection Machine Event to ensure it's always possible to complete  
-- Fixed a bug that caused secondary gather objectives to not always count what you deposit correctly. This would often cause premature completion of the secondary objective
-- Fixed a bug that enabled large waves of enemies to spawn in Point Exactrion while fighting a Machine Event
-- Fixed a bug that caused the Reinforced Power Drills to not make sound on first use in a Mission
-- Fixed a bug that caused the selected character to sometimes switch back to a previously selected one when returning from a mission
-- Fixed a bug that caused a Red Rock Blaster label to be visible in the Character Selection Terminal without the buff
-- Fixed IFG Grenade displaying as a Support Tool in the Equipment Terminal. It is now correctly categorized as a Throwable
-- Fixed a bug so Exploding Barrels now have a name when pointed at with the Laserpointer
-- Fixed a bug that made jumping from a Zipline very unreliable as client. Jumping and pressing forward makes you jump off the Zipline while just pressing Jump will drop you from the Zipline
-- Tweaked font size & color for the Assignment Complete window
-- Fixed bugs in the terrain generation causing tunnels to not lead completely to the caves.
-- Fixed a mesh error in the Personal Cabins
-- Fixed a bug that prevented players from hosting games after resetting progress
-- Fixed a bug that caused the collider of unwoken Spitball Infectors to be too big when using the Laser Pointer
-- Fixed a bug that caused Spitball Infectors to shoot in weird directions if you step behind cover just as it starts shooting
-- Fixed a bug that caused weapon fire sounds to linger if a player disconnects while shooting
-- Adjusted the pathfinding capabilities of the Naedocyte Breeder to better avoid clipping with terrain
-- Fixed a bug in the sound of the ceiling rocks in the Salt Pits region
-- Fixed a bug that enabled the player to salute while aiming the Laser Pointer
-- Extended the duration of the invulnerability effect for latejoining players to a few seconds after landing
-- Fixed a bug with decals showing in the Terrain Scanner
-- Fixed several collision-related issues on the Space Rig
-- Fixed a bug that enabled Glyphid idle sounds to play while frozen
-- Fixed Cryo Cannon charge gauge to not jitter so much
-- Fixed a bug that caused the Hazard Level setting to not update for clients if the host only changes the Hazard Level and not the entire mission
-- Fixed a bug that enabled Mini MULEs to spawn on top of Machine Events
-- Fixed a bug that enabled the Drop Pod to land below Machine Events and other similar objects
-- Fixed a bug that caused the Graphics options menu to not fit 4:3 aspect ratio
-- Fixed a bug that caused the Loadout slots to overlap description texts
-- Adjusted the location of the Promotion Terminal activation prompt
-- Fixed a bug that caused some Spacerig Terminals to not show a title on their monitor
-- Fixed several 'New Item Available' notification issues on various Spacerig Terminal monitors
-- Fixed a bug that caused BET-C to be overly aggressive towards newly tamed Glyphids by continuously shooting at them after being tamed. Calm your jealousy, BET-C. 
-- Fixed a bug that caused players to be unable to be revived if they died while on a Zipline
-- Fixed a bug that enabled the Escape Pod to land in impossible to reach locations like the top of a Resupply Pod tunnel
-- Fixed a bug with Dash activating unreliably for players with hold-to-sprint preferences
-- Fixed a bug that enabled the Laser Pointer to be equipped for downed players
-- Fixed a bug that caused Cryo Cannon and Flamethrower particles to suddenly disappear if you unequip the weapon while firing
-- Fixed a bug that caused players to be unarmed if they are interrupted while doing certain actions
-- Fixed a bug that caused Mixer nametags to have collision and block bullets
-- Ebonite Glyphids can no longer be targeted by Bosco or Sentry Guns
-- Fixed a bug that enabled the Impact Axe to damage yourself at certain angles
-- Fixed a bug that caused Tutorial Hints related to Bosco to show without Bosco being in the mission
-- Fixed a bug that prevented Pickaxe animations from playing in third-person after a Power Attack
-- Fixed a client-sided synchronization bug that enabled the Shield Generator to fall through walls
-- Fixed a bug related to the statistics of how many Matrix Cores the player has forged
-- Removed a black artifact on the Pickaxe Terminal
-- Fixed extraction music stopping too early if a wave hits just before you press the button to call for the Drop Pod
-- Fixed pricing for the Armor Breaking mod on the Breach Cutter 
-- Increased the draw distance of Alien Egg debris
-- Fixed a bug that caused the character preview of the Scout and the Engineer in the ESC menu to be angled differently than the Gunner and the Driller
-- Fixed a bug with the “Key already bound" confirmation not working
-- Adjusted the description of the Bezerker Perk to be more precise
-- Fixed the 'Restore Save Game' prompt to be a little less obtrusive
-- Fixed a bug that enabled BET-C to shoot through the shield of the Shield Generator
-- Fixed a bug that caused you to keep shooting indefinitely when returning to game after pressing ESC
-- Fixed a bug that caused the Resupply Tutorial Hint to not always show 
-- Fixed a bug that caused the Bosco Laserpointer Tutorial Hint to be incompletable
-- Fixed a bug that caused the Mineral Shop Terminal text to be uncentered
-- Fixed a bug that caused the Latejoin Drop Pod to not move downwards when joining a game
-- Fixed the Forge Mastery reward display to show correct cores if you have all Overclocks and/or all Vanity Cores
-- Added Romanian and Vietnamese to the list of languages supported (WIP)
-- Fixed a bug that caused Flaregun flares shot at players to leave a small collider behind that could block other players
-- Fixed a bug that caused Pickaxe Power Attack to not deal any damage if you hit the air or a non-terrain non-enemy mesh
-- Fixed a bug that caused Pickaxe Power Attack to not damage larger enemies if you hit the parts furthest from the body
-- Fixed a bug that often caused Machine Events in Sandblasted Corridors to float in midair
-- Fixed text overflow and various spelling mistakes in the Miner’s Manual
-- Fixed a spelling mistake in the Flex Them Guns Victory Move description
-- Fixed a gap under the Barrel Hoop Game on the Spacerig
-- Fixed the sizing of the Claim Union Reward prompt on the Miner Community Terminal
-- Tweaked Pickaxe and Flares to be less enormous in the Equipment Terminal previews. They now actually fit on screen
-- Fixed a bug that caused the graphics on the Miner Community Terminal to cut off 
-- Fixed a bug that caused a black screen to display in place of the “Steam is not running” warning on game launch
-- Fixed a bug that often blocked the Reinforced Power Drills when digging terrain. They now prioritize drilling terrain over hitting enemies if you are looking at terrain right in front of you
-- Fixed a bug that caused bomb spitting plants to not spawn properly in Sandblasted Corridors
-- Fixed a bug that caused the Spacerig loading screen to display in between Deep Dive stages
-- Fixed a bug that prevented Stun animations from playing on the Mactera Goo Bomber
-- Fixed a bug that caused oddities when latejoining in the latejoin drop pod
-- Fixed a bug to prevent enemies from attacking or grabbing players through the Drop Pod walls
-- Fixed a bug that enabled the Glyphid Oppressor to knock around downed players
-- Fixed a bug that caused burst fire weapons to resume in the middle of a burst if unequipped before a burst could fire all of its rounds
-- Fixed a bug that caused Impact Axes stuck in terrain to not have a name when pointed at with the Laserpointer
-- Fixed displacement of the gravity button in the Spacerig
-- Fixed a bug that enabled Lootbugs to move while frozen
-- Fixed a bug that prevented the Laserpointer Tutorial Hint from working correctly in a multiplayer session
-- Fixed a bug that caused Super Slim Rounds OC to not display its stats correctly
-- Fixed a bug that caused Impact Axes to not have any sound when picked up
-- Fixed a bug that caused Deeptora Honeycombs to not be properly affected by poison, radiation and cold
-- Fixed a bug that enabled BET-C to fire weapons while inside a wall
-- Fixed the thumbnail for the Incorruptible Pickaxe Paintjob
-- [XBOX] Fixed an issue that caused controllers to trigger signout changed warnings when disconnected
-- [XBOX] Lighting optimization tweaks
-- [XBOX] Fixed a bug while using a controller which prevented [B] from properly registering when purchasing accessories in The Shop
-- [XBOX] Fixed a bug in the Promotion Terminal and Character Selection Terminal which prevented players from exiting the Terminal with [B]
-- [XBOX] Fixed a bug that made certain confirmation prompts unresponsive with controller input
-- [MS STORE] Fixed a bug that prevented backspace from working when text chatting
-"
-	Update_19 = "Ahoj Horníci!
-
-Máme tady novou velkou aktualizaci na cestě - tentokrát se jedná o masivní vylepšení vaší zbrojnice, zlepšení vylepšovacího systému a předělání důchodového systému! Přečtěte si o tom níže! NABITO A ODJIŠTĚNO!
-
---- PATCH NOTES ---
-
-8 NOVÝCH ZBRANÍ
-----------------------------
-DRG s radostí oznamuje že jsme rozšířili náš seznam dodavatelů a nový, větší katalog výzbroje byl vytvořen! Abyste mohli získat licence na nové vybavení, budete muset splnit Zbrojní Průkaz. Jakmile budete mít licenci, budete mít i přístup k novým zbraním. Tyto nové zbraně jsou teď k dispozici: 
-
-NOVÉ ZBRANĚ: STŘELEC
-----------------------------
-"THUNDERHEAD" TĚŽKÝ AUTOKANÓN: Zvláštní ale devastující zbraň. Malá kadence je nahrazena velkým poškozením,  doručen s přivázaným pásem wolframovým nábojů .50 kalibru. Thunderhead je temná zbraň pro sofistikovaného popravčího, nekompromisně dodává smrt jako čas sám.
-
-BRT7 DÁVKOVACÍ PISTOLE: Preciznější než samopal se stopující silou malé brokovnice, Brt (nebo "Burt" jak je někdy nazývána) je vysoce ceněná mezi sběrateli a znalci.
-
-
-NOVÉ ZBRANĚ: PRŮZKUMNÍK
-----------------------------
-M1000 KLASIK: Originální vzhled precizní pušky M1000 DRG vydání se po stovkách let opět vrací prakticky nezměněná. Velké poškození, úctyhodná kadence.. a ten "Ping". Přímý důkaz toho že "pokud to není rozbité, neopravuj to".
-
-ZHUKOV NUK17: Nesofistikovaný, ale spolehlivý. Rodina NUK rozdvojených mikro samopalů má dlouhou a cenou historii, Ti co Ví obvykle souhlasí s tím že 17 je z nich nejlepší.
-
-
-NOVÉ ZBRANĚ: INŽENÝR
-----------------------------
-
-"STUBBY" VOLTAICKÝ SAMOPAL: Co je lepší než Samopal? Samopal který střílí ELEKTRICKÉ NÁBOJE! Kluci v R&D zapojili prototyp ArcGen do střev spolehlivé Subaty 312, to znamená že teď rozpoutá bouři elektrifikované SMRTI! Světové varování: Nepoužívejte v blízkosti vody.
-
-FRÉZA: Fréza uvolňuje směrový výbuch zvukově poháněné plazmy silné natolik aby si poradila s většinou mimozemšťanů ve tvé cestě. Původem hornické nářadí, nyní častěji používané k otevíraní masa a kostí než k uložení sedimentu pro které byla vytvořena - často s pozoruhodnými výsledky!
-
-
-NOVÉ ZBRANĚ: VRTAČ
-----------------------------
-
-KRYO KANÓN: Šílení vědátoři zkoušeli zdokonalit tento nástroj po dlouhou dobu jak každá pamatuje, ale zdá se že naši borci z R&D to zdokonalili! Ručně přenosný (pro trpaslíky), dělá přesně to co si myslíte: Je to hustý mrazivý paprsek. To musíte mít!
-
-EXPERIMENTÁLNÍ PLAZMA NABÍJEČKA: Kulky jsou móda loňského roku. Místo toho proč nespalovat nepřátele zevnitř s  vysoce experimentální anti hmotou poháněnou zbraní střílející plazmou super nabité kulky? Co hrozného se může stát? (Když to zjistíte, dejte to vědět R&D).
-
-
-NOVÝ SYSTÉM ZBRAŇOVÝCH MODŮ
-----------------------------
-Systém vylepšování zbraní byl vyřazen ve prospěch nového Systému Zbraňových Modů, a každá zbraň teď může být upravena a vyladěna pro individuální potřeby každého! Více než 200 nových Zbraňových Modů byly představeny, a hodně z nich představují úplně nové funkce. Pro příklad, "Průstřel" je teď věc - kulky proletí nepřítelem aby mohlo zasáhnout nepřítele za ním! Nebo co takový "Strach" - sešle na nepřátele paniku díky tvé strašlivé kadenci! 
-
-Pro tuhle rundu vylepšení bude nový systém implementován pro všechny nové i staré zbraně, ale nebude implementován pro nástroje, granáty a zbroje. Pro ty budou sloužit budoucí aktualizace. 
-
-Také už žádné statické a nehybné obrázky vybavení na vylepšovací obrazovce - konečně jsme dostali rotační 3D modelovou prohlížečku!
-
-
-PŘECEŇOVÁNÍ VZHLEDOVÝCH A ZBRAŇOVÝCH MODŮ
-----------------------------
-Všechny vzhledové předměty a zbraně byly přeceněny! Všechny vzhledové předměty vám zůstanou. Kredity za všechny vylepšení zbraní byly navráceny, necháme vás prozkoumat nový systém ve volném čase.
-
-
-POVYŠOVÁNÍ (ZNÁMY JAKO DŮCHOD)
-----------------------------
-Důchodový systém dostal férovou generálku. Změny jsou následující:
-
-- "Důchod" byl přeformulován na "Povyšování".
-- Maximální úroveň každého trpaslíka zvýšení z 20 na 25
-- Poslední mise v Kvalifikaci na Povýšení nyní není nucená solo mise
-- Povýšení vašeho trpaslíka vám nyní nevezme žádný pokrok! Ano čtete dobře - všechny zbraňové vylepšení vám zůstanou! Jediná věc co se vám resetuje je úroveň vašeho trpaslíka
-- Stále musíte před povýšením splatit dluh DRG
-- Tituly pro hráčům rank byly rozšířeny až do ranku hráče 75 a spoustu dalších titulů byl přidáno
-
-
-STŘELEC: GENERÁTOR ŠTÍTU 
-----------------------------
-Střelcovi byly vyměněni C4 za GENERÁTOR ŠTÍTU. Vytváří to silové pole, který drží dál brouky a chrání všechny uvnitř. Dostaly jsme rychlý komentář od střelce: "Abych byl upřímný, sdílení věcí s Vrtáčkem není pro mě, tak jsem zkusil laskavě kontaktovat slepičí mozky v R&D aby mi vytvořily něco speciálního - a oni přišli s úžasným Generátorem Štítu! Teď můžu bezpečně stát na zemi a zabíjet brouky o sto péro! Skvělé časy!"
-
-
-VYLADĚNÍ LOVU VAJÍČEK
-----------------------------
-Kopaní vajíček v Lovu Vajíček může nyní vyvolat skupinu naštvaných brouků. Počet vajíček které budete potřebovat se trošku zvýšil.
-
-
-PIVNÍ BUFFY
-----------------------------
-DNEŠNÍ SPECIÁL: Náhodně zvolené Bufflé pivo bude k dispozici ke koupi každý den (zaktualizuje se pokaždé když mapa misí dostane nové mise). Také buffy už fungují! :-)
-
-
-ADJUSTACE TERÉNNÍHO SKENERU
-----------------------------
-S aktivním Terénním Skenerem, stiskni [SPACE] / (X) aby si natočil tvář ke směru natočení mapy.
-
-
-SPECIÁLNÍ VLNY
-----------------------------
-Jednou za čas můžete vletět do vlny Pretoriánů, Macterů, Glyfidských Válečníků nebo Swarmerů. Zda budou tyto vlny lehčí nebo těžší než normální na to budete muset přijít sami.
-
-
-VYLADĚNÍ NEPŘÁTEL
-----------------------------
-- NOVÝ NEPŘÍTEL - GLYFIDSKÝ  VÁLEČNÍK VETERÁN: Veterán má o 50% vice životů a má silnější zbroj než Glyfidský Válečník.
-- Glyfidský Pretorián byl v posilovně! Jeho životy byly zesíleny o 50% a je méně náchylný na střelu do hlavy než předtím - dostat se za ně a střílet je do jejich velkého a tlustého zadku je teď mnohem důležitější.
-- Byl přidán zvuk Vybuchovačům. Poslouchejte pozorně abyste je slyšely jak se za vámi plíží!
-- Oddělán částicový efekt když byly nepřátele zasaženi Pretoriánovým kyselinovým sprejem.
-Nemělo to tu být a má to vedlejší efekt a to pokles framu.
-- Snížen počet nepřátel kteří se vytváří pro 2 hráče pro Nebezpečí 2 a 3.
-
-
-OPRAVY A ZLEPŠOVÁKY
-----------------------------
-- Krátká videa přidány k výběru postav ke krátkému dojmu o ostatních postavách.
-- Nápovědy v načítací obrazovce aktualizovány se 3 novými nápovědami pro Milníky a Perky, Terénní Skener a Mutátor Misí.
-- Přidány motivační citáty na obrazovkách ve vesmírné stanici.
-- Bosco nyní určuje úhel kterým má kopat tunel ve hlíně od hráčova obličeje, raději než od jejich nohou, k místu na které zamířili. Tohle muže být očekávanější reakce, hlavně když hráč stojí kousek od hlíny
-- Násobiče poškození na fyzických materiálech nyní jsou na fyzických materiálech
-- Když se někdo připojí později, je tu časová doba kdy je jejich střelba do vlastních významně oslabena na tebe a tvoje spoluhráče.
-- Opraveno menu Abyss Baru které se správně nezavíralo při stisknutí ESC
-- Změněný symbol Kyseliny na symbol Biohazardu/Jedu.
-- Zlepšena prevence přeplnění světlice
-- Světlice nyní vrhají stín!
-- Granáty z Granátometu jsou ve vzduchu více vidět.
-- Při koupi předmětu jsou zobrazeny veškeré potřebné suroviny
-- Vyladěno ochlazení u Kulometu
-- Zaměřovač se teď pohybuje správně při střelbě
-- Opravena chyba která způsobovala že Bosco ukončil svůj světelný úkol dokud byly poblíže hráče nepřátele
-- Pretoriáni hoří o něco později
-- Pamětní obrazovka už neskládá jména a nevyvolává je na jednou když je Framerate malý
-"
-	Update_32 = "Nazdar tvrďáci!
-
-Konečně přišel čas prvního hlavního updatu od vydání verze 1.0! Jako hlavní chod jsou podáváme dvě zbrusu nové mise: Eskorta a lokální rafinace. Oba typy misí kladou důraz na těžkotonážní těžební techniku, která si žádá něžnou láskyplnou péči a ochranu od týmu tvrdě pracujících trpaslíků. Příloha se skládá ze spousty nových kosmetických předmětů, dalšího vybalancování zbraní, tolik potřebného přepracování tabule zakázek a mnoho dalších věcí. Bon apetit!
-
-Je čas ušpinit si ručičky! Nikdy nebyla lepší doba na to být bojovným horníkem pracujícím pro DRG. Uvidíme se v dolech!      
-
-S láskou,
-Tým Ghost Ship
-
---- POZNÁMKY K AKTUALIZACI ---
-
-NOVÁ MISE: LOKÁLNÍ RAFINACE
-----------------------------
-Vedení má novou závislost: kapalný Morkit. Posílají po boku lokální rafinerie k jejímu naplnění. Najděte studny kapalného Morkitu a napojte je na orbitálně-sesílaná průmyslová čerpadla, ty připojte k rafinerii pomocí široko se vinoucího potrubí a vypumpujte je do poslední kapky! Jo, abych nezapomněl, borci z VaV byli tak velkorysí, že trubky vylepšili o šikovný způsob pro rychlou, jednoduchou a BEZPEČNOU* přepravu.
-
-*Projděte si klausuli 3.15 Vaší smlouvy jestli chcete vědět definici „bezpečí“ dle směrnic společnosti.
-
-
-NOVÁ MISE: ESKORTA
-----------------------------
-V této misi, silně zaměřené na souboje jste vysláni získat tajemný ommoranský srdcekam! Jedině speciálně vytvořený autonomní Drildozér se dokáže prokousat vnější skořápkou Ommoranu a odhalit odměnu spočívající uvnitř: Neocenitelný ommoranský srdcekam. Drildozér přistane v bezpečné vzdálenosti, a poté automaticky zamíří směrem k Ommoranu. Vaším úkolem je udržet tu zatracenou věc v bezpečí a zásobenou palivem, zatímco se prokopává ke svému cíli. Chraňte ho svými životy, horníci!
-
-
-NOVÁ ZAKÁZKA: TVRĎÁCI PŘI PRÁCI
-----------------------------
-Tato nová zakázka slouží jako rychlokurz pro přežití a bezpečné splnění nových misí. Navíc jako odměnu za splnění zakázky obdržíte nablýskané nové pokrývky hlavy. No není to úžasné?
-
-
-NOVÉ KOSMETICKÉ PŘEDMĚTY
-----------------------------
-Pozor pozor, módní šílenci! Právě dorazila nová podzimní kolekce plná překrásných nových vousů, pokrývek hlavy a hřív! Sedmadvacet (27) nových kosmetických předmětů bylo přidáno do Krámku, jedenáct (11) nových kosmetických předmětů k ukování za pomoci matric a jedna (1) nová pokrývka hlavy jako odměna za splnění nové zakázky. 
-
-
-NOVÉ DLC: TVRĎÁKŮV BALÍČEK 
-----------------------------
-Jestli chcete pořádně přitvrdit, tak je tu pro vás nový Tvrďákův balíček. Opepřete svůj vzhled se čtyřmi (4) novými sadami zbroje (jeden pro každou třídu), novými přilbami a nátěry. Tento balíček je určený pro ty, co se nechtějí zdlouhavě strojit jako vesmírní mariňáci, ale chtějí se hned pustit na tu dřinu, co na ně čeká! Konečně se můžete pochlubit svými metaforickými „kanóny“ a také vybranou kolekcí tetování, které jste schovávali pod rukávy tak dlouho!
-
-Kromě zbrojí jsou v balíčku ještě dvě (2) unikátní helmy, a také nový nátěr pro Bosca a váš krumpáč.
-
-
-NÁHODNÝ VÝBĚR KOSMETICKÝCH PŘEDMĚTŮ V ŠATNÍKU
-----------------------------
-Když je řeč o módě...pokud jste jedním z těch lidí, který se nedokáže rozhodnout nad tou, či onou helmou nebo mezi stylem vousů, a nebo se jen bojíte vyzkoušet něco nového a odvážného, tak….pro vás máme skvělou novinku: šatník nyní obsahuje tlačítka pro náhodný výběr – pro celou výstroj nebo dle kategorie. Zkoušení nových, nečekaných kombinací nikdy nebylo jednodušší!
- 
-
-VIZUÁLNÍ PŘEDĚLÁVKA TABULE ZAKÁZEK
-----------------------------
-DRG právě zainvestovalo do lepší tabule zakázek. Užijte si nové vyšperkované intuitivní rozložení prvků při volbě vaší další zakázky!
-
-
-ZMĚNY V OVLÁDÁNÍ HODU
-----------------------------
-OVLÁDÁNÍ: Při nošení drahokamů nebo jiných těžkých břemen můžete hodit objekt za pomocí [PRAVÉHO A LEVÉHO TLAČÍTKA MYŠI] na PC, nebo [PRAVÉHO A LEVÉHO TRIGGERU] na Xboxu. Tuto změnu jsme zavedli kvůli novému palivovému kanystru (používaný v eskortních misích), který je nošen stejně jako drahokam, ale zároveň funguje jako nástroj/zbraň. Někdy v budoucnu je možné, že takovýchto nástrojů/zbraní bude více, čas ukáže.
-
-AUTOMATICKÉ ZRUŠENÍ HODU: Jestliže budete držet tlačítko hodu po delší dobu po dosažení maximální síly hodu, akce hodu se automaticky přeruší. 
-
-
-VYVÁŽENÍ ZBRANÍ
-----------------------------
-PGM NUKLEUS 40MM
-- zvýšená základní průraznost o 100 
-- redukce přímého poškození u modifikace Zápalná směs, nyní ovlivňuje také průraznost
-- část bonusu k oblasti účinku bylo přesunuto z modifikace „Hřebíky + páska“ do základu zbraně
-- údaj o maximu munice nyní počítá s první nábojnicí ve zbrani, jelikož tato zbraň nemá žádné údaje o velikosti zásobníku
-
-Přetavení Mega-střelivina
-- značně zvýšený bonus za přímé poškození a nyní počítá i s bonusem za zásah slabého místa nepřátel
-- přidán hendikep k množství munice
-- upravený zaměřovač při vybavení tímto přetavením 
-- nyní má vlastní efekty letících střel a při nárazu
-
-Přetavení Sloučenina RJ250
-- zpětný ráz z přetavení nyní klesá na účinku, čím dále jste od centra exploze
-- hráč má nyní větší kontrolu nad úhlem, kterým se vystřelí
-
-PLAZMOVÁ FRÉZA
-- snížena základní kapacita zásobníku
-- zvýšen bonus modifikace S1 Vysokokapacitní zásobník
-- snížen bonus modifikace S2 Rozšířené muniční vaky
-- snížena výška hitboxu u modifikace Trojitý rozštěp
-- přesunuta část ze základní šířky do modifikace S2 Uvolněná soudržnost uzlů
-- zvýšen základní čas přebití
-- změněna modifikace S3 šířky paprsku na modifikaci rychlosti přebití (každý kdo má starou modifikaci zakoupenou dostane automaticky refundaci)
-- upraveny přetavení Odlehčené zásobníky, Vysokonapěťové křížení, Rotující záhuba, Vraťte odesílateli a Inferno na základě nové kapacity zásobníku.
-
-Přetavení Inferno
-- zapaluje nepřátele rychleji a udržuje je v zapáleném stavu po delší dobu.
-
-Přetavení Rotující záhuba
-- přidán bonus k šířce paprsku
-
-ŽUKOV NUK17
-- zvýšen bonus modifikace S1 Rozšířené muniční vaky
-- přesunuta část poškození z modifikace S3 Náboje větší ráže do základu zbraně
-
-Přetavení Zapuštěné rozbušky
-- značně zvýšeno poškození udělené při přebíjení
-- změněn typ poškození z kinetického na vnitřní poškození
-- zvýšen hendikep k přímému poškození
-- přidán hendikep ke kapacitě zásobníku
-- zvýšen hendikep k množství munice
-- pokud nepřítel, do kterého střílíte může být zabit přebitím, dočasně se objeví ikonka vedle jeho ukazatele života
-
-EXPERIMENTÁLNÍ PLAZMOVÝ EMITOR
-- snížen hendikep k rychlosti nabíjení u modifikace S5 Létající noční můra
-
-KRYO-KANÓN
-- zvýšeno množství maximální munice u základu zbraně
-- zvýšen bonus modifikace S1 Větší tlaková komora
-- zvýšen bonus u modifikace S2 Větší rezervní nádrž
-
-TĚŽKÝ AUTOKANÓN „HROMOHLAV“
-Přetavení Útočná mobilita
-- zvýšen bonus k rychlosti pohybu
-- přidán bonus k přesnosti
-- nahrazen hendikep k poškození za sníženou kapacitu zásobníku
-- přidán bonus k rychlosti přebití
-
-M1000 KLASIK
-- zvýšena rychlost zaměření u základu zbraně a pro vykompenzování snížen bonus k rychlosti zaměření u modifikace S2 Rychlo-nabíjecí cívky
-- zvýšen bonus k munici u modifikace S1 Rozšířené muniční vaky
-
-Přetavení Aktivní stabilizační systém
-- přidán bonus k rychlosti zaměření
-- nahrazen hendikep k poškození zaměřené střely za hendikep k rychlosti přebití
-
-LMG STŘÍLNA
-- základní poškození zvýšeno z 5 na 6
-- Systém Gemini nyní přidá extra 90 munice
-- bonusové poškození Obranného systému změněno z procent na pevné +5
-
-NUKLEUS GK2
-Přetavení AI-poháněná stabilizace
-- nyní dává velký bonus k poškození při zásahu do slabin
-- zvýšen hendikep k základnímu poškození
-
-ZUBATA 120
-Přetavení Výbušné přebití
-- značně zvýšeno poškození udělené při přebíjení
-- změněn typ poškození z výbušného na vnitřní poškození
-- odstraněn hendikep poškození
-- zvýšen hendikep kapacity zásobníku
-- zvýšen hendikep k množství munice
-- pokud nepřítel, do kterého střílíte může být zabit přebitím, dočasně se objeví ikonka vedle jeho ukazatele života
-
-FEROMONOVÝ GRANÁT
-- nepřátelé ovlivnění feromony jsou nyní o 50 % přitažlivější
-
-L.U.R.E.
-- L.U.R.E. již neobdrží poškození ze střelby z vlastních řad
-
-
-NOVÉ VÝKŘIKY
-----------------------------
-Nové trpaslo-křiky byly přidány. Primárně zaměřeny samozřejmě na nové typy misí, ale také jsme přidali chybějící výkřiky pro laserové ukazovátko, na závěr jsme přihodili do mixu také pár nových Šutrů a kamenů! 
-
-
-NOVÉ MILNÍKY A ACHIEVEMENTY
-----------------------------
-Nové mise znamenají samozřejmě nové milníky, a také dva(2) nové achievementy, pro každý typ mise jeden.
-
-
-NA ŽÁDOST KOMUNITY
-----------------------------
-- Kaligule a Ebořechy – vedlejší úkolové předměty, nyní vyzařují světlo, aby je bylo lehčí najít ve tmě Hoxxes.
-
-
-OSTATNÍ
-----------------------------
-- přepracováno rozhraní tabule zakázek
-- [NA ŽÁDOST KOMUNITY] větší variace systému generace jeskyní ve všech typech misí
-- [NA ŽÁDOST KOMUNITY] přidáno světlo ke Kaligulím a Ebořechům pro lepší viditelnost
-- [NA ŽÁDOST KOMUNITY] přidána rampa k výsadkovému modulu do skeneru terénu
-- přidán nový model pro kbelík s minerály
-- přidány dva nové achievementy pro nové typy misí
-- přidáno 27 nových kosmetických předmětů ke koupi v Krámku
-- přidáno 11 nových kosmetických předmětů dostupných ke kutí za matrice
-- přidána jedna (1) nová přilba jako odměna za splnění nové zakázky
-- přidány ikony k jistým objektům, které je neměli na displeji laserového ukazovátka
-- přidána animace pro Bosca, která se přehraje, když něco upustí
-- přidán popis jednotky mini M.U.L.A. do laserového ukazovátka
-- přidána možnost zrušit hod, podržením tlačítka hodu po dobu několika vteřin navíc
-- přidán údaj o době trvání ke granátům, kterým scházel
-- přidán údaj o rozsahu ke granátům, kterým scházel
-- Bosco se nyní resetuje na následování hráče, pokud je chycen nebo ochromen
-- Bosco nyní hází předměty, které nese, směrem k hráči, pokud je v dostatečné blízkosti, namísto nedbalého upuštění na zem přímo pod sebe
-- Boscův hologram na hlavě nyní zmizí jen pokud přeruší úkol, který jste mu zadali
-- Bosco by měl nyní konzistentněji nacházet minerály kolem oblasti, na kterou ukážete
-- lehce zvýšené množství morkitu, které se objeví v Hlubinných ponorech se sekundárním úkolem sběru morkitu
-- výběr přetavení v terminálu výbavy nyní zavře menu s přetaveními
-- decentně zvýšena hlasitost varování malého množství kyslíku 
-- tip o doplňování zásoby kyslíku se nyní zobrazí na začátku každé mise s modifikátorem „řídký vzduch“
-- snížen počet noh jednotek mini M.U.L.A. generovaných v jejich okolí ze 4 na 3
-- vylepšen způsob, jakým se generuje prostor kolem únikového modulu v záchranných misích, tak aby byl zahrnut generaci celé jeskyně, díky tomu prostor působí přirozeněji
-- vylepšena generační logika jednotek mini M.U.L.A., tak aby se tvořili pouze na kameni
-- vylepšena generace noh jednotek mini M.U.L.A. Například: nyní se už netvoří uvnitř černého ledu
-- vylepšeny písečné bouře a zemětřesení, aby také omezovali rychlost pohybu nepřátel
-- zmražení impové nyní vždy umřou po krátké prodlevě
-- vylepšena animace vrávorání, aby byla nyní založena na době trvání vrávorání
-- vylepšen způsob jakým se několik předmětů zobrazuje na displeji laserového ukazovátka
-- vylepšen pohyb jednotky M.U.L.A. 
-- vylepšen shader tónů pleti
-- zlepšena Boscova schopnost navigace k objektům určeným k vyzvednutí
-- vylepšen model těžkého revolveru „Bulldog“
-- vylepšena animace vítězné pózy „Ukaž svý kladiva“
-- strojové úkazy už nevybouchnou v blízkosti výsadkového modulu, jelikož jsme vylepšili generační logiku, aby předcházela generaci v místech blokujících přistup k výsadkovému modulu
-- upraveno audio při načítací obrazovce tutoriálu
-- provedeny úpravy ke křiku glyfidského tyrana
-- provedeny úpravy ke zvukům korlokského trýzniplevele
-- provedeny úpravy zvuků laserového ukazovátka
-- provedeny úpravy ke zvuku nárazu světlice
-- provedeny úpravy ke zvuku při odemykání nového biomu
-- [NA ŽÁDOST KOMUNITY] opraveno několik problémů s clippingem na vesmírné stanici
-- rozmáznut bug, který zabraňoval hráčům v průchodu skrze jisté pop-upy
-- rozmáznut bug, který zabraňoval zbrani M1000 Klasik zobrazení údaje o rozptylu střelby v terminálu výbavy
-- rozmáznut bug, který mohl za usekávání zvuků chůze jednotky M.U.L.A.
-- rozmáznut bug, který zabraňoval zobrazení potvrzovacího okna při koupi zbraňové modifikace
-- rozmáznut bug, který způsoboval zobrazení údaje o průraznosti v terminálu výbavy, když není upravený
-- rozmáznut bug, který bránil v zavření potvrzovacího okna při koupi granátů
-- rozmáznut bug, který umožňoval později příchozím hráčům přistání na „důležitých místech“, jako jsou strojové úkazy, výsadkový modul, atd.
-- rozmáznut bug, který občas zabraňoval v odhození pivního korbele
-- rozmáznut bug, který mohl způsobit, že Bosco nemůže celou misi zvedat objekty
-- rozmáznut bug, který dovoloval zbraním zobrazení v šatníku
-- rozmáznut bug, který způsoboval, že se kurzitový nepřátelé generovali na pozici hostitele a ne strojového úkazu
-- rozmáznuty podobné bugy v ostatních strojových úkazech
-- rozmáznut bug, který umožňoval modifikaci „Krycí palba“ těžkého autokanónu „Hromohlav“ aplikovat paniku na Steeva
-- rozmáznut bug, který způsoboval, že Bosco začne kopat, místo sebrání Kaligule, pokud leží na zemi
-- rozmáznuto několik zvukových bugů
-- rozmáznut bug, který umožňoval makteří lapačce chycení hráče i po zmrazení
-- rozmáznut bug, který umožňoval Elektrokrystalům zranit hráče, pokud na něj hodili Energo-sekeru
-- rozmáznut bug, který zabraňoval klientům v získání Kaligulí, pokud byli zasáhnuté výsadkovým modulem
-- rozmáznut bug, který způsoboval, že se M.U.L.A. zasekne do doby extrakce, pokud se odpojí hráč právě vhazující suroviny
-- rozmáznut bug, který způsoboval nesprávné zobrazování zmraženého stavu Jeskynní pijavice
-- rozmáznut bug, který zabraňoval v počítání zabití nepřátel pomocí zmražení do statistik celkových zabití
-- rozmáznut bug, který způsoboval zobrazení vznášejícího se stínu krumpáče v pohledu z první osoby
-- rozmáznut bug týkající se Discord Rich presence v hlasových kanálech Discordu
-- rozmáznut bug, který způsoboval, že jisté zvuky strojového úkazu „Modulární likvidátor OMEN“ hráli příliš dlouho
-- rozmáznut bug, který způsoboval nesprávné zobrazení přetavení Ochromitel zbraně Auto 210 „Divočák“
-- rozmáznut bug, který občas zabraňoval Boscovi v řádném vykopání drahokamů ze země
-- rozmáznut bug, který umožňoval hodit granát, zatímco jste byli chyceni, pokud jste drželi tlačítko granátu těsně předtím, než jste byli chyceni
-- rozmáznut bug, který zabraňoval makteřím lapačkám v ječení
-- [XBOX] rozmáznut bug, který přerušoval hraní vyskakovacím oknem „Změna přihlášení“, pokud máte špatné připojení ovladače
-- [XBOX / WIN10] vylepšen síťový framework, díky čemuž by se mělo zamezit náhodným odpojením a spadnutím
-
-"
-	Update_18_ShortTitle = "PRACOVNÍ PŘÍLEŽITOSTI"
-	Update_13_ShortTitle = "MALÉ ŽIVOTNÍ ZMĚNY"
-	Update_15_ShortTitle = "NEBEZPEČÍ MUTACE!"
-	Update_21.5_ShortTitle = "ROK NA ORBITĚ"
-	Update_32_Shorttitle = "TVRĎÁCI PŘI PRÁCI"
-	Upadte_31_ShortTitle = "NÁZEV"
-	Update_10_ShortTitle = "TUNELOVÉ VIDĚNÍ?"
-	Update_10_Header = "AKTUALIZACE 10: TUNELOVÉ VIDĚNÍ? - 16.03.2018"
-	Update_11_Header = "AKTUALIZACE 11: ZBRAŇ A SMRT - 23.03.2018"
-	Update_12_Header = "AKTUALIZACE 12: MOUCHY A PENÍZE - 13.04.2018"
-	Update_13_Header = "AKTUALIZACE 13: MALÉ ŽIVOTNÍ ZMĚNY - 04.05.2018"
-	Update_15_Header = "AKTUALIZACE 15: NEBEZPEČÍ MUTACE! - 04.07.2018"
-	Update_16_Header = "AKTUALIZACE 16: ZIMA PŘIŠLA - 29.08.2018"
-	Update_17_Header = "AKTUALIZACE 17: OKTOBERFEST! - 20.09.2018"
-	Update_18.5_Header = "AKTUALIZACE 18.5: HALLOWEEN - 26.10.2018"
-	Update_18_Header = "AKTUALIZACE 18: PRACOVNÍ PŘÍLEŽITOSTI - 11.10.2018"
-	Update_19_Header = "AKTUALIZACE 19: ZBRANĚ! MOC ZBRANÍ!"
-	Update_20_Header = "AKTUALIZACE 20: VĚTŠÍ, LEPŠÍ, BOSCO"
-	Update_21_Header = "AKTUALIZACE 21: SMRTÍCÍ CHŮZE"
-	Update_21.5_Header = "AKTUALIZACE 22: ROK NA ORBITĚ"
-	Update_32_Header = "AKTUALIZACE 32: TVRĎÁCI PŘI PRÁCI"
-	Update_16_ShortTitle = "ZIMA PŘIŠLA"
-
-Namespace PerkDescriptions (24 keys)
+Namespace PerkDescriptions (22 keys)
 	PERK_ThickSoles = "<active>AKTIVNÍ:</> Pár pružin, magnetů a palivových článků z černého trhu a nyní utrpíte o <h>{value} % méně zranění z pádu</>!
 
 <hi>2 minutová doba obnovy</>"
@@ -7835,11 +7249,9 @@ V tomto stádiu budete <h>chodit rychleji</>, <h>mlátit silněji</> a budete <h
 	PERK_AdditionalActivePerkSlots = "Jdeme dál! Vybavte se až <h>{value} aktivními perky</> najednou!"
 	PERK_AdditionalPassivePerkSlots = "Jdeme dál! Vybavte se až <h>{value} pasivními perky</> najednou!"
 	PERK_CaryingSpeed_B = "Nedržte se zpátky! Účinky zpomalení způsobené prostředím jsou o <h>{value} % sníženy</>!"
-	UI_EquipLocked_ByPromotion = "Pro odemčení tohoto slotu musí být váš {character} alespoň jednou povýšen."
 	PERK_Resupplier_C = "Získejte dodatečných {value} % zdraví z doplnění zásob."
 	PERK_ZiplineSpeed = "Díky pár chytrým úpravám, se nyní pohybuješ po zipline o {value} % rychleji!"
 	PERK_FriendlyFire = "Prostřednictvím přátelství oba <h>dostáváte a způsobíte o 50% menší poškození</> přátelům!"
-	UI_EquipLocked_ByPerk = "Vylepšením perku {perk} si odemknete tento slot."
 	PERK_BarrelKicker = "Dokážete dokopnout barely dále, než jakýkoliv trpaslík bez tohoto perku!"
 	PERK_CarryingSpeed = "Pohybujte se o <h>{value}% rychleji</> při nošení těžkých břemen!"
 	PERK_CooldownGeneric = "{value} sekund(y) do obnovení."

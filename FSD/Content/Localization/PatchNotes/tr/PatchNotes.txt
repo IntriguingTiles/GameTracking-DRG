@@ -1,0 +1,2436 @@
+77 entries
+1 namespaces
+75 values
+
+Namespace PatchNotes (77 keys)
+	Update_30_Header = "1.0 SÜRÜM AÇILIŞI"
+	Update_30_ShortTitle = "1.0 SÜRÜM AÇILIŞI"
+	Update_23 = "Alright, Miners - gather ‘round and shut up!\ \ It appears ol’ Hoxxes still has plenty of surprises in store for us - over the last month or so, Scanners have picked up a slew of new and disturbing biosigns. We expect you all to face a significantly wider variety of wildlife down in the caves, so DOUBLE CHECK YOUR GEAR, and BRING ALL THE GRENADES YOU CAN CARRY. DRG isn’t in the business of being knife-eared cowards though, so get to it, and let’s get those quotas met!\ \ With regards from Management,\ - The Ghost Ship Crew\ \ --- PATCH NOTES ---\ \ A GAZILLION NEW ENEMIES\ -----------------------------------\ GLYPHID MENACE\ - This distant cousin of the Glyphid Acidspitter is both smarter, faster, and more aggressive. It’ll burrow into the ground between firing off devastating volleys of corrosive goo, making for a high-priority target when spotted.\ \ GLYPHID WARDEN\ - This mysterious Glyphid sends out regenerative waves of spores to its nearby kin, reinvigorating and buffing them. Better take it out quick.\ \ GLYPHID BULK DETONATOR\ - A sickening horror of the deep. It’s Bulky and it Detonates. You’ll know it when you see it - and then you’ll likely die. You have been warned.\ \ NAYAKA TRAWLER\ - The first species encountered of this awful breed of Hoxxes wildlife. The Trawler has been observed in the Sandblasted Corridor Region and it burrows through sand at high speeds, aiming to catch prey in its’ extended maws as it passes. Don’t stand in front of it. \ \ GLYPHID GRUNT SLASHER\ - A more durable and fast version of its weaker cousin, the Grunt. Plus...its long-bladed legs deal thrice the damage. Nasty buggers! \ \ GLYPHID GRUNT GUARD\ - Another variation of the Glyphid Grunt. This one is heavily armored and has twice the health but is a bit slower than a normal Grunt.\ \ RADIOACTIVE GLYPHID PRAETORIAN\ - In the Radioactive Zone, Praetorians have mutated and now do radiation damage! Better keep your distance.\ \ RADIOACTIVE GLYPHID EXPLODER\ - Exploding with radiation! ‘Nough said! \ \ RADIOACTIVE GLYPHID SWARMERS\ - They glow in the dark and are radioactive - they’re small enough that the radiation they emit isn’t enough to affect a healthy dwarf, however. \ \ \ ENEMY TWEAKS\ -----------------------------------\ GLYPHID DREADNOUGHT OVERHAUL\ - New behavior: If the players are hidden in a small hole, the Dreadnought will now destroy the terrain until it gets to them. Can’t stop me now!\ - New attack: Swarmer Egg. Besides the fireball, the Dreadnaught will shoot a projectile full of swarmers. If hits the players, it will also cover them with pheromones, turning them into the target of new enemy swarmer spawns.\ - Regenerating armor. Make sure to attack it while it’s vulnerable. Health values have been modified to conform to this new system.\ - An all-new Boss Health Bar lets you know when you are facing a serious challenge. For the moment it’s only for the new and improved Dreadnought, but it’s almost like we have plans to use it for more things in the future, isn’t it? :>\ - Fixed the bug that would allow you to trap the Dreadnought using the Gunner’s shield\ - All its attacks and behaviors have been tweaked. The Dreadnaught is now more aggressive, more responsive, and more dangerous. Management wishes you luck.\ - More Nitra is spawning in elimination missions since you will need more ammo to take down a Dreadnought.\ - Fix so 2 Dreadnoughts can’t spawn in Point Extraction at the same time\ - Supply Pods won’t instakill a Dreadnought anymore - it still deals a good chunk of damage though.\ - Dreadnought's fireball damage reduced\ - Tweaks to Dreadnought's behavior for solo play\ \ Q’RONAR SHELLBACK\ - Rolling periods are now shorter so it will open up more often to shoot (which almost means more chances for players to shoot it).\ - Armor resistance and base health reduced.\ - It can only be found in Salt Pits now. Radioactive Exclusive Zone didn’t feel like a healthy place to settle down.\ \ CAVE LEECH \ - Received a much-needed model and animation overhaul. Now grabbier than ever!\ \ NAEDOCYTE SHOCKERS\ - All new model and animations. \ \ BET-C BATTLE MULE\ - BET-C’s grenades have proper models and improved shaders\ - BET-C now moves away if there are players too close to her for a few seconds\ - BET-C no longer turns into an unkillable murder machine if the parasites die too quickly\ \ MISCELLANEOUS ENEMY TWEAKS\ - Enemies now only use melee attacks that are in range to actually do damage\ - Grabber only screams if its target is valid\ - Chance of getting a generic scripted wave increased compared to special scripted waves\ - Tweaked all the Glyphids blood particles. They are now much more visible\ - Glyphids have received several new attack animations\ - Glyphid Warriors have been renamed to Glyphid Grunt, because that’s what everyone kept calling them. Also, it fits. :>\ \ \ MISSION TWEAKS\ ----------------------------------- \ DIFFICULTY\ - Difficulty slightly reduced on 2-3 player games on Hazard Level 3-5\ \ ELIMINATION MISSION\ - The location of the cocoons will no longer be displayed using an icon, now they appear on the terrain scanner\ - Cocoons are more evenly distributed throughout the map\ - New debris has been added in the vicinity of the Cocoons, in case you had trouble spotting the 15 ton, pulsating, gurgling, alien egg\ \ SALVAGE MISSION\ - Defense Zones have been increased a bit in size\ \ EGG COLLECTION\ - Reduced Egg Collection goals depending on Cave Complexity from 5, 8, 10 to 4, 6, 8 \ \ POINT EXTRACTION\ - Slightly increased spawn rates\ - Wave music added to the announced waves\ \ \ CLEARER GEM FRAGMENT INDICATION\ -----------------------------------\ - The glowing bits around embedded crystals like, Aquarq, Jadiz etc. now only glow when said item is close. No more returning to already mined spots!\ \ \ MORE GEAR MODS\ -----------------------------------\ - We are still in the process of adding mods to all the gear and we are slowly getting there. After this update, only the Pick Axe and the Grenades are left to do. \ \ LMG GUN PLATFORM\ - Number of turrets, target prioritization, build speed, scan angle. You are a special snowflake and now your automated killing machine can be too.\ \ SATCHEL CHARGE\ - Have you ever thrown down a Satchel Charge only to regret it immediately? Well, now you can install a kill switch for safe disarming and retrieval. Plus many other mods like carve size and fear effects.\ \ FLARE GUN\ - More flares? Longer burn time? Auto-reload? Illuminate the situation with these and other mods.\ \ SHIELD GENERATOR\ - Customize the size, duration and recharge time of your happy place.\ \ Please note: You have been refunded credits and minerals invested in previous upgrades!\ \ STATUS EFFECTS ON HEALTH BAR\ -----------------------------------\ Enemies’ health bars now display status effects such as being electrocuted, etc. They also show temperature variations so players can now know how far from bursting into flames or freezing they are.\ \ \ VANITY\ -----------------------------------\ MK5 ARMOR SETS\ - Management has approved the introduction of an all-new set of armor for the most experienced employees to procure - the mighty Mark 5! \ \ 1ST PERSON ARMOR\ - All first-person animations now display the correct armor!\ \ SUPPORTER GEAR MORE GOLDIER\ - By popular request, the Supporter Upgrade Armor and Weapons have gotten a material overhaul - now more goldier than ever!\ \ \ BOSCO QUALITY OF LIFE IMPROVEMENTS\ -----------------------------------\ - It will now try to position himself below cave leeches, and not above them\ - It will be less glued to the floor when fighting except versus cave leeches\ - It will not fire if something other than enemies is blocking his line of sight\ - Doubled the frequency of Bosco checking if he should get out of the way\ \ \ NEW MISC MODELS, SHADERS, AND ANIMATIONS\ -----------------------------------\ - New Mallet model for all your building and repair needs\ - New Beacons for Supply Pods\ - New third person animations make it easier to see if a teammate is currently checking the Terrain Scanner\ - Attempt to fix light bug on Stasis Grenade\ \ \ MISC.\ -----------------------------------\ - Fix crash related to people joining and being immediately grabbed\ - Added a third-person animation to players looking at the Terrain Scanner\ - Fix spelling error in Mini-gun upgrade\ - Fix DisableMasterEQ setting to work correctly \ - Work on reducing server list backend load\ - The Cryo Cannon’s feedback sounds have been made louder and easier to hear\ - The One Year Celebration is over! If you missed getting the One Year Celebration hat while it was available, tough beans! \ - Also, Management has returned beer prices to normal. Drink responsibly (because it’s expensive!).\ - Sand and Ice geysers should no longer blow you out of the Drop Pod\ - Fixed Mixer Praetorians not working properly\ - Fixed Mixer spawning 4 times the amount of enemies it was intended\ - Fixed Mixer viewer name not properly working\ - Introducing new enemies to Mixer integration: Mactera Spawn, Mactera Grabber, Mactera Bomber, Acid Spitter, Web Spitter, and Shellback\ - Introducing new assists to Mixer integration: Resupply of ammo\ - Introducing mixer integration in the Space Rig: Buy the streamer beers, explode confetti\ - Exploders’ footsteps sound volume increased\ - Reduced the spawn amount of radioactive crystals\ - Better attenuation for the jukebox\ - Scout Grenade IFG FX tweaked\ - Chatbox: System Messages now green and bold, general line height slightly lowered.\ - Mission success music reactivated\ - Fix Linecutter performance\ - Fixed a bug that caused players with Ironwill to not show as downed in their player portraits after dying\ - Fixed trader terminal assignment showing that you completed it one mission too early\ - Tweaked sounds for shield\ - Fixed the cave leech sense bug that caused the sensing UI to get stuck on a players screen\ \ 
+"
+	Update_20.1_ShortTitle = "DAHA BÜYÜK, DAHA İYİ, BOSCO"
+	Update_20_ShortTitle = "DAHA BÜYÜK, DAHA İYİ, BOSCO"
+	Update_11_ShortTitle = "ÖLÜM VE SİLAH"
+	Update_9_ShortTitle = "SONRA DELİŞİRİZ!"
+	Update_25_ShortTitle = "ENDGAME - Bölüm Bir"
+	Update_26_ShortTitle = "ENDGAME - Bölüm İki"
+	Update_24_ShortTitle = "PATLAYICI GENİŞLEME"
+	Update_14_ShortTitle = "ÖZELLİK CREEP"
+	Update_28_ShortTitle = "NEŞELİ HİSSETME"
+	Update_12_ShortTitle = "SİNEKLER VE FİNANS"
+	Update_21_ShortTitle = "ÖLÜMÜNE GİDİŞ"
+	Update_19_ShortTitle = "SİLAHLAR! HEM DE BİR SÜRÜ"
+	Update_18.5 = "-OTOMATİK ÇEVİRİ-
+İyi EEEEEEvening, Madenciler!
+
+Cadılar Bayramı üzerimizde ve sizin ürkütücü olmanız için küçük bir güncelleme yaptık! Yeni silahlar ve yükseltme sistemi ile makyaj ve yükseltme fiyatlarının toplamını içerecek olan bir sonraki büyük güncelleme üzerinde çalıştığımız için bunu gerçekten doğru bir güncelleme olarak görmüyoruz. Önümüzdeki heyecan verici zamanlar!  
+ 
+--- YAMA NOTLARI ---
+
+SALONUNA KARŞI 
+------------------------------
+- Pumpkins, tekmelemen için Space Rig'e eklendi!
+- Oyma ya da Balkabağı Mağaralarındaki Balkabağı. Şansınızı onları ezmeye çalışın!
+- Kabak Kasklarının sınırlı satışı! Boo muhahaha !!!!
+- Abyss Bar'da afiş ve karamsar aydınlatma.
+
+
+EMEKLİLİK VE XP HOTFİXLERİN
+----------------------------
+Biz görmek gerçekten olumlu sürpriz olmuştur emeklilik sisteminin ne kadar iyi alındığı. Bununla birlikte, hiç kimsenin şu anda ne yaptığınızı (4 saat kadar düşük bir sürede) görebildiğimiz kadar hızlı bir şekilde tam bir emeklilik döngüsünden geçmesini istemedik. Niyetimiz, bir karakteri emeklilik seviyesine seviyelendirmenin çok daha uzun sürmesi gerektiğidir. Şu anda mevcut sisteme bir sürü düzeltme yaptık, ancak 19 güncellemesiyle Emekli ve XP sistemlerinde daha büyük bir değişiklik beklemelisiniz. Kendinizi :-) uyardı düşünün 
+
+Eğer 0 XP varsa Emeklilik Sıralamasını verilmesi önleyin -
+- arayüzünde karakterini emekli üzerindeki birden fazla tıklama önlemek
+- Emeklilik atamalarını misyon ödülleri kaldırıldı
+- Üçlü XP şimdi Çift XP
+
+
+DÜZELTME VE GELİŞTİRME
+----------------------------
+- Discord Party kimlikleri ile ilgili sorun düzeltildi ve davet edilmedi düğme bazı durumlarda işe
+- yakıt pod aşamasında Kurtarma misyonunu başarısız olduğunda Sabit kazasında
+- hasar göstergesi için Fix ekranda takılıp alabilir
+Magma Quake bazı küçük sorunlar giderildi -
+Grafik Ayarları -: devre dışı bırakılması tam ekran fare sorununu önlemek ve tıklamaktan kaçınmak için oyuna devam edin
+- Müşterilerin birleştirme sırasında yükünü yükleyememesi durumu düzeltin
+- Scout IFG yavaşlaması, hatalı sadece% 30 yavaşlamaya ayarlandı,% 75 sıfırlandı
+- Yağma damla damla nerfed. 15-25 altın değerine düşürmek için kullanılır ve Nitra - şimdi 5-15 düşer.
+- Sabit Eliminasyon görevi her zaman yeterli koza yetiştirmiyor. Korkusuz koza şimdi kendisi için bir alan oluşturuyor ve daha az katı doğurma gereksinimlerine sahip.
+- Kampanya ödül penceresinde imlecin kaybolması düzeltildi.
+"
+	Update_18.5_ShortTitle = "CADILAR BAYRAMI"
+	Update_23_ShortTitle = "HOXXES'İN DEHŞETLERİ"
+	Update_20 = "-OTOMATİK ÇEVİRİ-
+İyi Tatiller Madenciler! \ r
+\ r
+X-MAS Hoxxes geldi ve biz sadece tatil için zamanında size bir hediye getiriyoruz! Ayrıca, bunun yumuşak olmadığını bildirmekten mutluluk duyuyoruz! Aslında Bosco için HARD modları, bir Medibay, Yenilenmiş Silah Modelleri ve bir başka harika özellik! \ r
+\ r
+Bütün iyi dileklerimle, \ r
+Hayalet Gemi Ekibi! \ r
+\ r
+--- YAMA NOTLAR --- \ r
+\ r
+BOSCO MODS \ r
+------ ---------------------- ...
+Bosco'ya Medi Drone veya Ölüm Makinesi mi ihtiyacınız var? Şimdi her şey sana kalmış!
+
+Silahlara benzer şekilde, Bosco satın alınabilecek ve donatılabilecek modlara erişebiliyor. Bu modlar dronu var olan parametrelerden bazılarını kullanarak canlandırmanıza izin verecek, örneğin canlanma veya silah hasarı gibi, ama ayrıca özel bir ikincil ateş de veriyoruz. Mod aktif hale geldiğinde, oyuncu Terrain Scanner ile işaret edebilir ve [RIGHT MOUSE BUTTON] veya (LEFT TRIGGER) tuşlarına basabilir ve Bosco hedefe roket fırlatır.
+
+yaş
+MEDIBAY 1.0
+----------------------------
+Siz ve takım arkadaşlarınızla Bir misyon başarısız olursa, daha sonra Medibay'da uyanacaksınız. Başarısız Birlikte! \ R Birlikte Mücadele
+\ r
+\ r
+yenilenen SİLAH MODELLERİ \ r
+---------------------------- \ r
+Eski silahların tümü grafiksel olarak elden geçiriliyor ve yenileri ile aynı seviyede olması gerekiyor. Görünüşü maddeden daha önemli olduğunu düşünenler için!
+\
+
+\ 'UZAYDA X-MAS
+------------------------ ------
+Biz kendimize yardım edemedik ve tatil için Space teçhizatını giydirdik. Ayrıca sınırlı bir şapka satın alabilir ve arkadaşlarınızla Santa oynayabilirsiniz. Lütfen dekorasyonu mahvetme! \ R
+\ R
+\ R
+MİNERAL İŞ TERMİNAL ATAMA \ R
+---------------------------- \ r
+sırayla üzerinde Yönetim yeni acemiler artık Mineral Ticaret Terminaline doğrudan erişemiyor. Erişim şimdi bir ödevi tamamlayarak kendinize layık olduğunuzu kanıtlayarak verilir! Ticaret Terminali erişimi kapmak dışında oyuncuların tamamlanmasıyla 50 Croppa ve 40 Jadiz ile ödüllendirilir. \ R
+\ r
+\ r
+savegame SEÇENEĞİ \ r RESTORE
+-------------- --------------
+Şimdi kaydetme oyununuzu Seçenekler Menüsünden geri yükleyebilirsiniz. Bu, olası bir durumda, kaydetme verilerinizi kaybetmeniz gereken ekstra güvenlik önlemleridir. Yönetim bunun olmasına rağmen reddetti! \ R
+\ R
+\ R
+SİLAH DENGELEME: "WARTHOG" OTOMATİK 210 \ R
+---------------------------- \ r
+- Taban hasarı arttı.
+- Süper Şarjlı Besleme Mekanizması mod ateş hızı düşürüldü, Büyük Peletler mod hasarı arttı.
+- Baz hasarı arttı. Süper Şarjlı Besleme Mekanizması mod ateş oranı düşürüldü. \ R
+- Büyük Peletler mod hasar, artan \ R
+- Taban yeniden süresi 2.0 \ r 2.3 den düşük
+\ r
+\ R
+SİLAH DENGELEME: CRSPR alev \ r
+------------ ---------------- \ r
+-. Tweaked Flamethrower Sabit Alevler yükseltmeleri hedeflerin doğrudan yanma karşı daha iyi dengelenmiş olması \ r
+\ r
+\ r
+DİĞER SİLAH düzeltmeleri \ r
+----------------------------
+- Yapışkan alevli düşmanları öldürmek ve ateşe vermek artık doğru bir şekilde öldürmeyi ödüllendirmeli
+- Testere bıçağı av tüfeği takılmamış olsaydı bile, her zaman otomatik olarak yeniden yükleme düzeltildi -
+- Yükleme terminalinde çift tabanca animasyonu düzeltildi
+- Yeni silah sesleri eklendi
+- Yeni Görev kontrolü herkes için konuşuyor silah ve terfi atamaları \ r
+- Güncelleme silah simgeleri: Combat Tüfek, Tabanca, Revolver \ r
+- tam klibi \ r ile yeniden eğer Sabit M1000 zoom sıfırlanmaz
+- Sabit Çift tabancalar yangın animasyon sonra \ r canlandırmak sıkışabilir
+- Sırasında silah değiştirilirse Sabit Patlama ateş tabancası ateş etmeye devam eder bir patlama
+- “Stagger”, bazı şaşkınlığa neden olduğu için “Stun” olarak yeniden adlandırıldı.
+\
+
+DÜZELTME VE GELİŞTİRME
+------------- ---------------
+- Görev seçiminden kaldırılan titreyen monitörler seçildi
+- Sabit Aksesuar Evet / Hayır kontrolör kısayollarına yanıt vermeyen açılır pencere sayısı
+- Sabit Uzay Teçhizatı Kullanıcı Arabirimi sorunu değişen karakter \ r
+- Şimdi seviye yüklenmeden önce karakterinizi seçebilir ve - - geri düğmesi r \ eklendi akışını katılmak geç Geliştirilmiş
+-. buzda yürürken ilgili Fix kazasında \ r
+- ilerleme kazasında katılmak Fix \ r
+- geç birleştirme çarpışma \ r saptamak
+donma \ r ilişkin kilitlenme saptamak -
+- bir oyun \ r katılmadan kilitlenme saptamak
+magma kurtçuk herhangi bir zarar \ r yapmıyor saptamak -
+- Sabit lav şofben 0 zarar patlayabilir
+- Korkusuz düşmanlar daha fazla düşman yaratabilir
+- Müşteriler için Jittery Revive'i düzeltin
+- Düşman geribildirimlerinde yumurtlamayı geliştirin
+- Patlamak üzereyken patlayıcı mantığını iyileştirin ve vuracağınız ya da dondurduğunuzda -
+Bazı düşmanlar ateş alabilir f onlar noktası çıkarma \ r madencilik platformu üzerine yürümek
+- Air Fix ve lav gayzer köpüren ses r \ tahrip olduktan sonra etrafında kalan
+- Kick animasyon üçüncü şahıs karakterler eklendi. Namlu tekmelemek hiç bu kadar gerçekçi olmamıştı!
+- Yeni Görev Kontrolü silah ve promosyon görevlendirmeleri için konuşuyor
+"
+	Update_20.1 = "-OTOMATİK ÇEVİRİ-
+Yeni Yılınız Kutlu Olsun Madenciler!
+2018 yılında Deep Rock Galactic üzerinde çalışan bir patlama oldu ve henüz bitmedi! Harikasınız ve siz bizi takip etmeye devam umut ve r \ 2019 yılında oyunun gelişimi - biz Galaxy en iyi topluluk olduğunu düşünüyorum parçası olduğunuz için teşekkür ederiz
+\ r
+\, tüm iyi dileklerimle r
+Hayalet Gemi Takım \ r
+\ r
+\ r
+--- YAMA NOTLAR --- \ r
+\ r
+UPDATE 20.1 \ r
+---------------- ------------
+Tatiller geldi ve gitti ve tüm mevsimsel şeyler uzaklaştırıldı! Bazı kilitlenme hatalarını düzelttik ve şimdi kontrolleri 'P' olarak yeniden bağlayabilirsiniz. Aksi takdirde, 20. güncelleme ile hemen hemen aynıdır. \.
+ \ r
+\
+BOSCO MODS \ r
+-------------------------- ----
+Bosco'nun bir Mediko Uçağı veya Ölüm Makinesi olması gerekiyor mu? Şimdi hepsi size kalmış!
+\
+Silahlara benzer şekilde, Bosco satın alınabilecek ve donatılabilecek modlara erişebilir. Bu modlar dronu var olan parametrelerden bazılarını kullanarak canlandırmanıza izin verecek, örneğin canlanma veya silah hasarı gibi, ama ayrıca özel bir ikincil ateş de veriyoruz. Mod aktif hale geldiğinde, oyuncu Terrain Scanner ile işaret edebilir ve [RIGHT MOUSE BUTTON] veya (LEFT TRIGGER) tuşlarına basabilir ve Bosco hedefe roket fırlatır. \ r
+\ r
+\ r
+MEDIBAY 1.0 \ r
+---------------------------- \ r
+zaman siz ve takım arkadaşları Bir misyon başarısız olursa, daha sonra Medibay'da uyanacaksınız. Başarısız Birlikte! \ R Birlikte Mücadele
+\ r
+\ r
+yenilenen SİLAH MODELLERİ \ r
+---------------------------- \ r
+Eski silahların tümü grafiksel olarak elden geçiriliyor ve yenileri ile aynı seviyede olması gerekiyor. Bakışlar madde daha önemlidir düşünenler için! \ R
+\ r
+\ r
+MADEN TİC TERMİNAL ATAMASI \ r
+----------------------- ----- \
+Yönetimden yeni görevliler sipariş üzerine Mineral Ticaret Terminali'ne doğrudan erişemez. Erişim şimdi bir ödevi tamamlayarak kendinize layık olduğunuzu kanıtlayarak verilir! Ticaret Terminali erişimi kapmak dışında oyuncuların tamamlanmasıyla 50 Croppa ve 40 Jadiz ile ödüllendirilir. \ R
+\ r
+\ r
+savegame SEÇENEĞİ \ r RESTORE
+-------------- --------------
+Şimdi kaydetme oyununuzu Seçenekler Menüsünden geri yükleyebilirsiniz. Bu, olası bir durumda, kaydetme verilerinizi kaybetmeniz gereken ekstra güvenlik önlemleridir. Yönetim bunun olmasına rağmen reddetti! \ R
+\ R
+\ R
+SİLAH DENGELEME: "WARTHOG" OTOMATİK 210 \ R
+---------------------------- \ r
+- Taban hasarı arttı.
+- Süper Şarjlı Besleme Mekanizması mod ateş hızı düşürüldü, Büyük Peletler mod hasarı arttı.
+- Baz hasarı arttı. Süper Şarjlı Besleme Mekanizması mod ateş oranı düşürüldü. \ R
+- Büyük Peletler mod hasar, artan \ R
+- Taban yeniden süresi 2.0 \ r 2.3 den düşük
+\ r
+\ R
+SİLAH DENGELEME: CRSPR alev \ r
+------------ ---------------- \ r
+-. Tweaked Flamethrower Sabit Alevler yükseltmeleri hedeflerin doğrudan yanma karşı daha iyi dengelenmiş olması \ r
+\ r
+\ r
+DİĞER SİLAH düzeltmeleri \ r
+----------------------------
+- Yapışkan alevli düşmanları öldürmek ve ateşe vermek artık doğru bir şekilde öldürmeyi ödüllendirmeli
+- Testere bıçağı av tüfeği takılmamış olsaydı bile, her zaman otomatik olarak yeniden yükleme düzeltildi -
+- Yükleme terminalinde çift tabanca animasyonu düzeltildi
+- Yeni silah sesleri eklendi
+- Yeni Görev kontrolü herkes için konuşuyor silah ve terfi atamaları \ r
+- Güncelleme silah simgeleri: Combat Tüfek, Tabanca, Revolver \ r
+- tam klibi \ r ile yeniden eğer Sabit M1000 zoom sıfırlanmaz
+- Sabit Çift tabancalar yangın animasyon sonra \ r canlandırmak sıkışabilir
+- Sırasında silah değiştirilirse Sabit Patlama ateş tabancası ateş etmeye devam eder bir patlama
+- “Stagger”, bazı şaşkınlığa neden olduğu için “Stun” olarak yeniden adlandırıldı.
+\
+
+DÜZELTME VE GELİŞTİRME
+------------- ---------------
+- Görev seçiminden kaldırılan titreyen monitörler seçildi
+- Sabit Aksesuar Evet / Hayır kontrolör kısayollarına yanıt vermeyen açılır pencere sayısı
+- Sabit Uzay Teçhizatı Kullanıcı Arabirimi sorunu değişen karakter \ r
+- geç akışını katılmak Geliştirilmiş - Şimdi seviye yüklenmeden önce karakterinizi seçebilir ve - geri düğmesi eklendi \ r.
+- buz üzerinde yürürken ilgili Fix kazasında \ r.
+- devam eden katılmak Fix kazasında \ -
+geç birleştirme kazasında \
+- donma ile ilgili kazasında düzeltmek -
+- Bir oyuna katılırken kazasında düzeltmek -
+- Magma maggot herhangi bir hasar yapmadan düzeltin \
+- Sabit Lava Şofben 0 hasar yapıyor \ r patlayabilir üzerinde
+- Korkusuz fazla düşmanı yumurtlamaya \ r
+- r \ Jittery müşterileri için Revive Fix
+düşman geribildirim \ r Yumurtlama geliştirin -
+-. yaklaşık patlamaya ve vesikalık resmini veya dondurmak zaman patlayıcı mantığını geliştirin \ r
+- Bazı düşmanları ateş alabilir madencilik platformunda nokta çıkarma işleminde yürürlerse
+- Hava ve Lava Şofben kabarcıklı sesini yok ettikten sonra etrafta kalarak onarın
+- Üçüncü karakterlere tekme animasyon eklendi. Namlu tekmelemek hiç bu kadar gerçekçi olmamıştı!
+- Yeni Görev Kontrolü silah ve terfi işleri için konuşuyor.
+"
+	Update_30 = "Merhaba Madenciler!
+Sonunda sizi Deep Rock Galactic 1.0 sürümü ile karşılamak harika!
+
+Bu iki yıllık Erken Erişim gelişiminin sonlandığına işaret ediyor ve Harika bir yolculuktu! Yanımızda olması için daha iyi bir topluluk isteyemezdik. Ve, yeni bir oyuncuysanız, büyük maceralar, büyük silahlar, şık sakallar, uzaylı canavarlar ... ve tabiki de - tüm cüce madenci dostlarının yanında madenlerde zor işler seni bekliyor.
+
+Biz Erken Erişimi bırakmaktan ve bundan sonra oyunun nereye gideceğini görmekten çok ama çok heyecanlıyız. Ve korkmayın...DRG'ye bir şeyler eklemeyi bırakmaktan çok uzaktayız!
+
+Kaya ve Taş!
+
+Sevgilerimizle,
+The Ghost Ship Mürettebatı
+
+--- YAMA NOTLARI ---
+
+OYUN SESLERİ VOL. II
+----------------------------
+Son bir yıldır DRG oyun seslerinin 2. cildi için çalışıyoruz - ve sonunda burada - kazmanıza, dövüşmenize ve estetik, baslı, öz 14 yeni parça dinlemenizi sağlıyor! Deep Rock Galactic daha büyük hoperlörlere yatırım yapmalı... ŞİMDİ!
+
+
+YENİ TERFİ SEVİYELERİ
+----------------------------
+İnanın ya da inanmayın cüceleri yükseltmek için 3 yeni kademe eklendi: PLATİN, ELMAS, EFSANEVİ! Bu genel olarak o Deep Rock Galactic oyununda uzun süre kan, ter dökenler için gösteriş gibi bir şey olarak eklendi. Sizi selamlıyoruz!
+
+
+
+PRESTİJ GÖREVLENDİRMELERİ
+----------------------------
+Oyuncu Rütbenizi arttırdıkça Prestij Görevlerine erişim sağlayacaksınız. Onları tamamlamak sizi tam set Kazma parçaları, Zırh ciltleri ve yeni Kasklarla ödüllendirecek. Prestij Görevleri 20, 30, 40, 50, 60, 75, 100 Oyuncu Rütbelerinde açılır.
+
+
+Birkaç ay önce promosyonun kendisine gösteriş vermekle uğraşıyorduk (bazılarınız Deneysel yapıda test etmiş olabilirsiniz), ancak sistemden tamamen mutlu değildik ve bunun yerine Oyuncu Rütbelerine dayalı Prestij Görevleri açma sistemine gittik
+
+
+BİYOMLAR
+----------------------------
+Kristalleşmiş Mağaralar daha çok kristal varyasyonu kazandı. Artık neden öyle adlandırıldığı kristal berraklandığında!
+
+
+TOPLULUK İSTEKLERİ
+----------------------------
+- Popüler talepler tarafından eklediğimiz bir sürü özellik burada:
+- Güvenilir kazmanız için Destekçi Paketine tatlı bir Altın Boyama işi ekledik
+- Görev Kontrol için yeni bir ses ayarı ekledik. Yönetime söylemeyin!
+- Kafa sallanma ölçeğini daha fazla animasyona etki etmesi için geliştirdik
+- Kamera sarsıntılarını kendi sevdiğiniz şekilde ayarlayabilmeniz için ayrı bir Kamera Sarsıntısı ayarı ekledik
+- Düştüğünde kamera için x ekseninde çevirebilmek için bir seçenek ekledik
+
+
+DİĞER
+----------------------------
+- Makine Etkinlikleri için bazı eksik Lazer İşaretçisi isimleri eklendi
+- Çıkış Menüsüne Yama Notları eklendi
+- Artık Makine Etkinlikleri, Kaçış Kapsülü üzerine inerse patlıyor
+- Oyun içinde çeşitli ortam sesleri eklendi
+- Uzay İstasyonu'ndaki Terminale yeni sesler eklendi
+- Kristalleşmiş Mağaralar biyomuna eğimli altıgen kristaller eklendi
+- Ganimet Böceği'nin sesleri güncellendi ve geliştirildi
+- Revirdeki eski sandelyeler yeni modellerle değiştirildi
+- Uzay İstasyonu performans optimizasyonları
+- Yeniden yüklenen animasyonlar artık koşarken 3. şahıs modunda oynatılıyor
+- Çıkarma Harekatı görevlerinde Aquarqların Sondaj Makinesinin altında yok olmasını engellemk için Sondaj Makinesine fazladan çarpıştırıcı eklendi
+- Yeni  bir dans hareketi eklendi
+- Emeği geçenlere Production Babies eklendi
+- Simgeleri olmayan düğme giriş istemleri artık uzun bir isim değil, sadece düğmenin karakterinin kendisini gösteriyor
+- Grafik ayarlarında çözünürlük artık oyuncu en yüksek çözünürlüğün ilerisine giderse en düşük çözünürlüğe geri dönüyor
+- Bombalar ve Glyphid Dev Patlayıcısı küme bombaları artık Kalkan Jeneratörünün koruyucu bariyerinin doğrudan içinden geçmektense sekiyor
+- Hastalıklı Tükürükçülere en çok istenen mavi yapışkan geri eklendi
+- Temel Kazma, Kazma olarak yeniden adlandırıldı
+- Aktif olarak atlamayan veya tamamlamayan oyuncular için öğreticiyi nasıl yeniden başlatacağınızı açıklayan bir Öğretici İpucu eklendi
+- Bosco'nun Sıkışmış Toprağı tersten kazma ve dolanma eğilimini azaltması gereken kazma mantığı geliştirildi
+- Gösteriş Simgeleri, ışık kaynaklarının efektlerini ve rengini düzgün bir şekilde gösterecek şekilde geliştirildi
+- Mactera karşılaşması için Kursite Enfeksiyon Makinesi Etkinliği'nin hedefi 13'e düşürüldü
+- Kursite Enfeksiyon Makinesi Etkinliğindeki Kursite Enfekte Mactera düşmanlarının ortaya çıkma oranını tamamlamanın her zaman mümkün olmasını sağlamak için değiştirildi
+- İkincil toplama hedeflerinin her zaman doğru şekilde boşalttığınızı saymamasına neden olan bir hata düzeltildi. Bu genellikle ikincil hedefin erken tamamlanmasına neden olur.
+- Bir Makine Etkinliği ile savaşırken Çıkarma Harekatı'nda büyük düşman dalgalarının doğmasına neden olan bir hata düzeltildi
+- Güçlendirilmiş Elektrik Delicilerinin ilk Görevde ses yapmamasına neden olan bir hata düzeltildi
+- Bir görevden dönerken seçilen karakterin önceki seçilen karaktere geri dönmesine sebep olan bir hata düzeltildi
+- Güç olmadan Karakter Seçme Terminali'nde Kızıl Kaya Kırıcı etiketini görünür yapan bir hata düzeltildi
+- YAD Bombasını Ekipman Terminali'nde Destek Aletlerinde gösteren bir hata düzeltildi. Artık Fırlatılabilir olarak kategorize edildi
+- Lazer İşaretcisi Patlayan Varillere tutulduğunda isim göstermeme hatası düzeltildi
+- Bir müşteri olarak Hallattan atlamayı güvensşz kılan bir hata düzeltildi. Zıplayıp ileri basmak Hallattan atmanızı, sadece zıplamak ise Hallattan düşmenizi sağlar
+- Görevlendirme Tamamlandı ekranının yazı büyüklüğü ve rengi değiştirildi
+- Tünellerin doğrudan mağaralara kadar götürmemesine neden olan bir arazi jeneratörü hatası düzeltildi
+- Kişisel Kabinlerde bir ağ hatası düzeltildi
+- İlerlemeyi sıfırladıktan sonra oyuncuların oyun yönetmesini önleyen bir hata düzeltildi
+- Ateş etmeye başladığı noktanın arkasına geçtiğinizde Hastalıklı Tükürükçü'nün garip yerlere ateş etmesine neden olan bir hata düzeltildi
+- Eğer bir oyuncu ateş ederken oyundan çıkarsa silah ateş seslerinin uzamasına neden olan bir hata düzeltildi
+- Araziyle kırpılmayı daha iyi önlemek için Naedocyte Kuluçka'nın yol bulma yetenekleri ayarlandı
+- Tuz Çukurları bölgesinde tavan taşlarının seslerindeki bir hata düzeltildi
+- Lazer İşaretçisi'ni doğrulturken oyuncunun selam vermesine izin veren bir hata düzeltildi
+- İnerken geç giren oyuncular için dokunulmazlık süresi uzatıldı
+- Arazi Tarayıcı'da etiketleri gösteren bir hata düzeltildi
+- Uzay İstasyonu'ndaki bir kaç çarpışmayla ilgili hata düzeltildi
+- Donukken Glyphid'in boştaki seslerini oynatan bir hata düzeltildi
+- Buz Topu şarj göstergesinin çok fazla titrememesi düzeltildi
+- Eğer host tüm görev yerine Tehlike Seviyesini değiştirirse Tehlike Seviyesinin güncellenmemesine neden olan bir hata düzeltildi
+- Makine Etkinliklikleri'nin üzerinde mini katırların doğmasına izin veren bir hata düzeltildi
+- Kaçış Kapsülü'nün Makine Etkinlikleri'nin ve diğer objelerin altına inmesine izin veren bir hata düzeltildi
+- Grafik ayarları menüsünün 4:3 görüş ölçeğine sığmamasına neden olan bir hata düzeltildi
+- Ekipman yuvalarının açıklama metinleriyle çakışmasına neden olan bir hata düzeltildi
+- Yükseltme Terminali etkinleştirme isteminin konumu ayarlandı
+- Bazı Uzay İstasyonu Terminallerinin monitörlerinin üzerinde başlığın gösterilmemesine neden olan bir hata düzeltildi
+- Bazı Uzay İstasyonu Terminallerinin monitörlerindeki `Yeni Öğe Mevcut` bildirim sorunları düzeltildi
+- BET-C'nin evcilleştirildikten sonra sürekli ateş ederek yeni evcilleştirilmiş Glyphidlere karşı aşırı agresif olmasına neden olan bir hata düzeltildi. Kıskançlığını sakinleştir BET-C.
+- Halatta ölen oyuncuların iyileştirilememesine neden olan bir hata düzeltildi
+- Kaçış Kapsülünün İkmal Kapsülü'nün üstü gibi ulaşılması imkansız yerlere inmesine izin veren bir hata düzeltildi
+- koşmak-için-tut tercihli oyuncular için Depar atmayı güvensiz kılan bir hata düzeltildi
+- Düşmüş oyuncular için Lazer İşaretleyicisi'ni kullanmaya izin veren bir hata düzeltildi
+- Kullanırken bırakılınca Buz Topu ve  Alev Silahlarının parçacıklarının birden yok olmasına neden olan bir hata düzeltildi
+- Oyuncuların belirli eylemleri yaparken kesintiye uğrarlarsa silahsız kalmasına neden olan bir hata düzeltildi
+- Mixer ad etiketlerinin çarpışma ve mermileri engellemesine neden olan bir hata düzeltildi
+- Ebonite Glyphidler artık Bosco ve Muhafız silahları ile hedef alınamaz
+- Şok Baltası'nın belirli açılarda kendinize hasar vermenize izin veren bir hata düzeltildi
+- Bosco ile ilgili Öğretici İpuçları'nın Bosco görevde olmadan gösterilmesine neden olan bir hata düzeltildi
+- Bir Sağlam Vuruş'tan sonra Kazma animasyonlarının 3. şahısta oynamasını engelleyen bir hata düzeltildi
+- Kalkan Jeneratörü'nün duvardan düşmesine izin veren istemci taraflı bir senkronizasyon hatası düzeltildi
+- Bir oyuncunun kaç tane Matriks Çekirdeği dövdüğünün istatistiği ile ilgili bir hata düzeltildi
+- Kazma Terminalinde siyah bir eser kaldırıldı
+- Eğer Kaçış Kaüsülü'nü çağırma düğmesine basmadan hemen önce bir dalga gelirse çıkış müziğinin erken durma hatası düzeltildi
+- Gedik Açıcı'da Zırh Kırma modunun fiyatlandırılması düzeltildi
+- Uzaylı Yumurtası'nın enkazının çekme mesafesi arttırıldı
+- ESC menüsünde Gözlemci ve Mühendis'in karakter ön izlemesinin, Topçu ve Delici'nin karakter ön izlemesinden farklı olmasına neden olan bir hata düzeltildi
+- "Tuş çoktan atanmış" onayının çalışmadığı bir hata düzeltildi
+- Vahşi Savaşçı Yan Yeteneği açıklaması daha kesin olması için ayarlandı
+- "Oyun Kaydını Kurtarma" istemi daha az sıkıntılı olması için düzeltildi
+- BET-C'nin Kalkan Jeneratörü'nün kalkanının içinden ateş etmesine iniz veren bir hata düzeltildi
+- ESC'ye bastıktan sonra oyuna geri dönünce süresiz olarak ateş etmeye devam etmeye neden olan bir hata düzeltildi
+- İkmal Alma Öğretici İpuçlarının her zaman gösterilmemesine neden olan bir hata düzeltildi
+- Bosco Lazer İşaretleyicisi Öğretici İpucunun tamamlanamaz olmasına neden olan bir hata düzeltildi
+- Mineral Market Terminali yazısının ortalanmamasına neden olan bir hata düzeltildi
+- Bir oyuna girerken geç gelen Kaçış Kapsülü'nün aşağı inmemesine neden olan bir hata düzeltildi
+- Dövme Ustası ödülü görüntülemesi tüm Güçlendirmeler ve/veya Gurur Çekirdekleri varsa doğru çekirdekleri göstermek için düzeltildi
+- Desteklenen diller listesine Rumence ve Vietnamca eklendi
+- Oyunculara ateş eden İşaret Fişeği Tabancası'nın fişeklerinin, diğer oyuncuları engelleyebilecek küçük bir çarpıştırıcı bırakmasına neden olan bir hata düzeltildi
+- Havaya, arazi olmayan veya düşman olmayan bir yere vurduğunda Kazma Sağlam Vuruşu'nun hiç hasar vermemesine neden olan bir hata düzeltildi
+- Vücudun en uzak kısımlarına vurursanız, Kazma Güç Vuruşu'nun daha büyük düşmanlara zarar vermemesine neden olan bir hata düzeltildi
+- Taşlanmış Koridorlarda Makine Etkinliklerinin havanın ortasında uçarmasına neden olan bir hata düzeltildi
+- Madenci'nin Kılavuzu'ndaki bazı yazım yanlışlıkları ve yazı akışı düzeltildi
+- Silahlarını Sergile Zafer Hareketi açıklamasındaki bir yazım yanlışı düzeltildi
+- Uzay İstasyonu'ndaki Varil Halkası oyununun altındaki bir boşluk düzeltildi
+- Madenci Topluluğu Terminalindeki Talep Birliği Ödül isteminin boyutlandırılması düzeltildi
+- Ekipman Terminali önizlemelerinde Kazma ve Fişeklerin daha az büyük olması için düzenlendi. Artık aslında ekrana sığıyorlar
+- Madenci Topluluğu Terminalindeki grafiklerin kesilmesine neden olan bir hata düzeltildi
+- Oyun başlangıcında "Steam çalışmıyor" uyarısı yerine siyah bir ekran görüntülenmesine neden olan bir hata düzeltildi
+- Arazi kazarken sıklıkla Güçlendirilmiş Elektrikli Delicileri engelleyen bir hata düzeltildi. Artık eğer önünüzdeki bir araziye bakıyorsanız arazi kazmak düşmanlara vurmaktan daha öncelikli yapılıyor
+- Taşlanmış Koridorlar'da bomba tükürücü bitkilerin düzgün doğmamasına neden olan bir hata düzeltildi
+- Uzay İstasyonu yükleme ekranının Derin Dalış aşamaları arasında gösterilmesine neden olan bir hata düzeltildi
+- Sersemletici animasyonların Mactera Goo Bomber'da oynatılmasını engelleyen bir hata düzeltildi
+- Geç gelen kaçış kapsülüne geç gelindiğinde garipliklere neden olan bir hata düzeltildi
+- Düşmanların oyunculara Kaçış Kapsülü'nden saldırmasını veya yakalamasını engellemek için bir hata düzeltildi
+- Glyphid Zalimi düşürülen oyuncuları çalmasını sağlayan bir hata düzeltildi
+- Bir patlamanın tüm mermilerini ateşlemeden önce donatılamazsa, patlamanın ateş silahlarının patlamanın ortasında kalmasına neden olan bir hata düzeltildi.
+- Şok Baltaları araziye sıkışınca Lazer İşaretçisi ile bakıldığında bir isim görünmemesine neden olan bir hata düzeltildi
+- Uzay İstasyonu'ndaki yerçekimi düğmesinin yanlış yerde olması düzeltildi
+- Donmuşken Ganimet Böceklerinin hareket etmesine izin veren bir hata düzeltildi
+- Lazer İşaretçisi Öğretici İpucunun çok oyunculu bir oturumda düzgün çalışmasını engelleyen bir hata düzeltildi
+- Süper İnce Mermilerin istatistiklerinin düzgün görünmemesine neden olan bir hata düzeltildi
+- Şok Baltaları alındığında hiç ses çıkarmamasına neden olan bir hata düzeltildi
+- Deeptora Bal Peteklerinin zehir, radyasyon ve soğuktan düzgün etkilenmemesine neden olan bir hata düzeltildi
+- Bir duvarın içindeyken BET-C'nin ateş etmesine izin veren bir hata düzeltildi
+- Bozulmaz Kazma Boyama İşi resmi düzeltildi
+- [XBOX] Bağlantı kesildiğinde denetleyicilerin çıkış değişikliği uyarılarını tetiklemesine neden olan bir sorun düzeltildi
+- [XBOX] Işıklandırma optimizasyon değişiklikleri
+- [XBOX] Kumanda kullanırken mağazadan aksesuar satın alırken [B]'nin düzgün bir şekilde kaydedilmesini engelleyen bir hata düzeltildi
+- [XBOX] Tanıtım Terminali ve Karakter Seçim Terminali'nde oyuncuların [B] ile Terminalden çıkmasını engelleyen bir hata düzeltildi
+- [XBOX] Belirli onay istemlerinin kumanda girişine yanıt vermemesine neden olan bir hata düzeltildi
+- [MS STORE] Metin sohbetinde silme tuşunun çalışmasını engelleyen bir hata düzeltildi
+"
+	Update_31 = "Merhaba Madenciler!
+İlk Açılışın sonrası Güncellememizin zamanı geldi! Ve açılıştan bahsetmişken - tüm yeni madencilere içten bir karşılamamız var! Oyunun tadını çıkarmanızı umuyoruz ve açılıştan bu yana derin uzay madenciliğinin işin işleyişini öğrenmenize yardımcı olan tüm emektar madencilere büyük bir teşekkür etmek istiyoruz. 
+
+Güncelleme 31, öncelikle açılıştan sonra biraz toparlama işlemine odaklanıyor - Zaman kısıtlamaları nedeniyle Açılış için kesmemiz gereken bazı şeyleri ekledik ve sizlerden gelen geri bildirimlere dayanarak bir ton küçük, büyük hata ve çökmeler düzeltildi. Güncelleme 32, yeni Görev Türleri ekleyecek, Ama planlarımız daha çok ortaya çıktığında ayrıntılı söyleyeceğiz.
+
+Şerefe,
+The Ghost Ship Mürettebatı
+
+--- YAMA NOTLARI ---
+
+MADENCİ KILAVUZU: YARATIK SAYFALARI
+----------------------------
+En başından beri planladığımız Madenci el kitabının bariz bir kısmı oyundaki her yaratığın bir kütüphanesidir. Ve şimdi orada, bu tür şeyler için bilgi, ipuçları ve hatta biraz irfan dolu takoz! Her yaratık girişi kilitli olarak başlar ve onlarl karşılaştığınızda ortaya çıkar.
+
+
+3 x YENİ YAN HEDEF
+----------------------------
+İşleri biraz renklendirmek için üç yeni Yan Görev Hedefi ekledik.
+
+YAPIŞKAN TOHUMLAR: İçindeki değerli Yapışkan Tohumlarını serbest bırakmak için asılı balçık keselerini vur!
+
+EBONUTLAR: Sert dış kabuğu yok et ve içindeki fındıkları topla!
+
+İRİN SİNEKLERİ: Haşere kontrol - onlar çoğalmaya başlamadan önce bu küçük can sıkıcı böcek halledin!
+
+
+YENİ DÜŞMAN: KORLOK CEBERUT ZARARLISI
+----------------------------
+The Tyrant-Weed is a brand new encounter for you to...encounter in the caves. Take out the central Heart-Growth before it manages to seed the surrounding area with so many shooting sproutlings that it overwhelms you! When you have destroyed it remember to deposit the Tyrant Shards, which will reward you with a nice credit and XP Bonus at the Mission Complete screen.
+ 
+
+BİYOM GÜNCELLEMELERİ
+----------------------------
+Radioactive Exclusion Zone, Dense Biozone, Fungus Bogs have all gotten a bunch of new shapes added to them. Huge Mushrooms, Coral-like Growths, and more - go explore to discover it all!
+
+
+YENİ BİRA: AKILLI STOUT
+----------------------------
+Oyuncu Rütbesi 23'e ulaştığınızda, Abyss Bar'da kilidini açman için yeni bir bira hazır olacak. Bunu için ve derin içgörünün anlık flaşlarından etkileneceksiniz...
+
+
+UZAY İSTASYONU GÜNCELLEMELERİ
+----------------------------
+Uzay İstasyonu daha fazla ayrıntılı hale geçmeye devam ediyor - her zamankinden daha kirli ve daha karışık! Özellikle Gardıroplar, umarım onları biraz daha öne çıkarmaları gereken grafiksel bir bakım almıştır.
+
+- [TOPLULUK İSTEĞİ] Abyss bara bir buzdolabı eklendi! Henüz özellik göstermiyor, ancak seçeneklere bakıyoruz. :D
+
+
+DİĞER.
+----------------------------
+- Kuluçka Topluluğu'nun malzemeleri iyileştirildi
+- Arazi Tarayıcı tablet artık üçüncü şahıs doğru emisyon aydınlatmasına sahip kendi malzemesine sahip
+- Gardırop zırh küçük simgeler artık varsayılan boya işi ile görüntülenir, ve donanımlı değil
+- Zırhlar artık Mağazada varsayılan boya işleri ile önizlenir
+- Gardıropta kaskların doğru boya işi ile gösterilmemesine neden olan bir hata düzeltildi
+- Karakter yüklemeleriyle bir oyuna katıldıktan sonra silahların yanlış özelliklere sahip olmasına neden olan bir hata düzeltildi
+- Ağatıcı ve Asitatıcı düşmanları Ağ Atıcı ve Asit Atıcı olarak yeniden adlandırıldı.
+- Cave Leeches now lowers the captured player to the ground, after being killed by Heightened Senses
+- Özel oyun, sadece arkadaşlar olarak yeniden adlandırdı. İşlevsellik aynıdır
+- Üç yeni yan hedef görev istatistikleri ve kilometre taşları eklendi
+- Mactera Soğuk Bombacısı, Mactera Buz Bombacısı olarak değiştirildi
+- Çeşitli Madenci Kılavuz iyileştirmeleri
+- [Işık Duyarlılığı Modu] Fırlatmaya hazır olduğunda Sondaj Makinesinden yanıp sönen ışıklar kaldırıldı
+- [Işık Duyarlılığı Modu] Makine Etkinliklerinden yanıp sönen ışıklar kaldırıldı
+- Added a failsafe for MULEs getting stuck on the Drop Pod in Salvage Operations
+- Fixed a bug that enabled the Scout’s Grappling Hook to attach to gems and the Gunner’s protective barrier
+- İstemci için gösterilmeyen bazı güçlendirme efektleriyle ilgili bir hata düzeltildi
+- Tweaked the materials on the Spitball Infector to be less mirror-like reflective
+- Kargo Kasa pillerinin yerleştirilmesi ile bir hata düzeltildi
+- Changed some messages in the Miner’s Union Discord bot to disable pinging on goal tier achieved and added pinging when the goal period was over
+- Uzun adları düzgün bir şekilde göstermek ve ortalamak için terminal ekranları düzeltildi
+- Saç rengi yuvasını Gardıroptaki listenin altına taşındı
+- Madenci kılavuzunda Müzik Kutu resmi güncellendi
+- 'DLC Topla' açılır penceresini alırken oyuncuların ilerlemeye devam etmesine neden olan bir hata düzeltildi
+- 'Devam et' düğmesi göründüğünde, fare imlecinin Görev Tamamlandı ekranında zorla ortalamasına neden olan bir hata düzeltildi
+"
+	Update_26 = "Hello Miners!
+Update 26 is here! In this second part of the Endgame, we’ve added a brand new system of Machine Events to encounter during normal missions, a much needed overhaul and expansion of the Bar, all new Victory Moves, as well as skins for both Bosco and your weapons, plus an absolute ton of minor bug fixes, tweaks, and improvements. Let’s get to work!
+
+
+--- PATCH NOTES ---
+
+MACHINE EVENTS
+----------------------------
+- Deep Rock Galactic is developing strategic operations all around the planet. The company is worried about some strange mutations affecting the creatures of Hoxxes as well as peculiar crystals interfering with scanners and other devices in orbit. To eradicate the threat or simply to take samples, these operations require expert dwarven action to be finalized. If you stumble upon one, give it a go and hope that the reward is worth the risk!
+
+Three different Machine Events can be found in random missions: Kursite Infection, Rock Mutation, and Tritilyte Crystal. Each of them offers a different timed challenge that must be completed in order to get access to the Core Infuser where Blank Matrix cores can be used.
+
+- To activate a Machine Event, the player must own the Tritilyte Key. You will own a Tritilyte key if you have a Promoted dwarf.
+
+
+BLANK MATRIX CORES
+----------------------------
+- Blank Matrix Cores are part of the rewards for Deep Dives and the Core Hunt assignment. The first section of both Deep Dives will now reward Blank Matrix Cores instead of Mineral Cores. They can be infused by doing Machine Events, turning them into Overclock or Cosmetic Matrix Cores that can be used in the Forge.
+
+
+BAR & BEER OVERHAUL
+----------------------------
+- New Buff Beers with effects in mission added to the “Today’s Special” pool
+- A ton of new Gag Beers to unlock. The effects of these beers will only work in the Space Rig.
+- New pricing for the beers based on new ingredients found in caves: Barley Bulb, Yeast Cone, Malt Star, and Starch Nut.
+- New milestone for unlocking special beers
+
+
+BOSCO SKINS
+----------------------------
+- You can now choose a look for Bosco. For now, there are two new Bosco Skins that will unlock through Mastery: Cyber Ninja and War Veteran
+
+
+VICTORY MOVES
+----------------------------
+- All classes start out with 4 default moves that will be played during the Mission Complete screen after a successful mission. Players can equip their favorite move in the Employee Terminal.
+- 18 new unique Victory Moves have been added for players to unlock. Some can be found as rewards in Cargo Crates while others will be obtained as forgeable Cosmetic Matrix Cores (from Deep Dives and Machine Events).
+
+
+NEW WEAPON SKIN
+----------------------------
+- One new set of weapon skins, Neon Band, has been added to cargo crate rewards
+
+
+WEAPON, MODS, OVERCLOCKS BALANCE
+----------------------------
+M1000
+The purpose of this overhaul is to support a gameplay style in which both fire modes (hipfire and focus shots) are viable and offer the player interesting choices and to make future balancing of the two fire-modes easier.
+
+M1000 Base Tweaks
+- Increased base ammo
+- Increased base clip size
+- Decreased base damage
+- Decreased base rate of fire
+- Increased base focus-shot damage bonus to 100%
+- Focus-shots now consume 2 bullets
+- Base armor damage reduced
+- Added a base weakspot damage bonus
+
+M1000 Mod Tweaks
+- Removed the Tier 3 High Velocity Rounds Damage mod
+- Combined the two clip-size mods into one big one on tier 2
+- Extended base reload time
+- Decreased the spread per shot and increased the speed of spread recovery to make hip-shooting more viable
+-Floating barrel mod is now called Better Weight Balance which affects both spread-per-shot and recoil
+- Increased  the Expanded Ammo Bags mod
+- Decreased Hollow-point Bullets mod bonus
+- Increased Kinetic Energy Penetrator bonus and renamed it to "Hardened Rounds" for clarity
+- Added "Killing Machine" mod to tier 5 that grants a very fast reload right after killing an enemy
+- Anyone who purchased the two removed mods will be automatically refunded the credits and minerals spent. 
+
+CRSPR FLAMETHROWER 
+Mods have been rearranged to offer more varied build options.
+
+Base Weapon
+- Increased the speed with which the flame extends so less ammo is spent when shooting targets at range
+- Improved the damage of sticky flames
+- Improved the speed with which enemies heat up when going through sticky flames
+
+Mods
+- Rearranged many of the mods to make sticky flame builds more viable
+- Removed the Sticky Heat and Sticky Damage mods
+- Improved the two Sticky Duration mods
+- Changed the Flamethrower stat display in the equipment terminal to work like the Cryocannon
+
+Overclocks
+- Changed the Fuel Stream Diffuser OC penalty from lower damage to a slower rate of fire to offset the inherent ammo penalties from using the flamethrower at long range
+- Tweaked EPC Overclock: Heavy Hitter - Increased the damage bonus significantly
+- Tweaked M1000 Overclock: Electrocuting Focus Shot - Updated the text to reflect that weakpoint hits are no longer required for electrocution
+- Tweaked Grenade Launcher Overclock: Hyper Propellant - Removed the ammo penalty
+- Tweaked Subata Overclock: Automatic Fire - Increased the fire rate bonus
+- Added a Sticky Flame damage bonus to the Sticky Fuel OC and replaced the range penalty with an ammo penalty
+- Fixed the stat display of Magnetic Pellet Alignment OC for the Warthog to correctly display its negative impact
+
+ENEMY TWEAKS
+----------------------------
+- Macteras no longer change targets while charging up attacks
+- Stun now cancels attacks from Mactera enemies
+- New animation for stunned Mactera enemies
+- Heavy enemies like Glyphid Praetorians are more resistant to stun
+
+
+UI & HUD
+----------------------------
+- Enemies’ health bar can now display more than 3 status effects without cropping the icons.
+- Enemies’ health bar animation modified so the name disappears faster.
+- Notification system for unlocking equipment (work-in-progress)
+
+
+MISC. & FIXES
+----------------------------
+- [COMMUNITY REQUEST] Added physics to the hammer by the Forge so it can now be kicked around on the Space Rig.
+- [COMMUNITY REQUEST] Due to popular demand, sound has been lowered a notch on the intro logo movie/splash screen
+- [COMMUNITY REQUEST] Added physics to the Salvage Mission objectives so they now fall down when terrain beneath them is destroyed.
+- Added an option for the Scout to automatically switch to the previously equipped item after using the Grappling Gun. Disabled by default, it can be activated from the options menu.
+- Fixed the Satchel Charge so that the Detonator now shows in a closed-off state when the player is out of Satchel Charges. 
+- Added some blinking lights to the Satchel Charge when detonating
+- Fixed a bug that caused Deepcore 40mm PGL modification “Proximity Trigger” to detonate on Bosco
+- Fixed the reload animation of the Zhukov NUK17 reload animation so that the right-hand gun no longer randomly fails to eject the cartridge.
+- Fixed a bug that caused excess mineral chunks to not always be picked up. The player now also automatically pick up excess mineral chunks while depositing in the M.U.L.E. 
+- Fixed a bug that caused the game to lock up upon returning to the Space Rig after completing an assignment
+- Fixed a spelling mistake in the Field Medic perk
+- Disabled smoke from the Drop Pod when dropping into a mission
+- Fixed the Forging Mastery Milestone being off by one in what you have to reach
+- Fixed a bug that caused enemies to be frozen for a long time if near a weak heat source. This was most prevalent to the Glyphid Bulk Detonator on Point Extraction
+- Picking up items now has animation and involves holding the use button.
+- Passing out drunk now correctly increases your stat, not the hosts!
+- Passing out drunk no longer increases downed stat.
+- Fixed some bugs related to resupplying with the Satchel Charge
+- Fixed a bug that causes the player to in certain cases, get a mineral container instead of a Matrix Core. (Requires having received a lot of matrix cores)
+- Fixed a bug that caused the player to switch weapon after throwing a grenade
+- Fixed a bug with the community rewards
+- Players will no longer defrost slower while in a blizzard
+- Added a short immunity to cold after being freed from ice to prevent players from becoming chain frozen consecutively
+- Fixed a bug that prevented some grenades from being purchasable
+- Charged up focused shots are no longer canceled when changing weapon
+- Flamethrower particles now switch correctly with range modifications and also look correct in third person
+- Lethal Enemies warning mutator doesn't increase damage from projectiles anymore
+- Fixed some cases of the notorious cube terrain artifacts
+- Missions rewards now show scaled to hazard bonus in all UI
+- Quick Join terminal has been removed since we consider the Mission Terminal more adequate to join and host missions.
+- Fixed a bug that enabled the Drop Pod countdown in the Space Rig to be resettable by client
+- Fixed Bouncy Plasma modification on the Experimental Plasma Charger not showing impact particles for clients
+- Fixed Better Weight Balance modification not being properly shown in the crosshair after a restart
+- Fixed “Explosive Goodbye” and “There Can Only be One” modifications for the Breach Cutter
+- A mic icon is now displayed when local player is voice chatting
+- Fixed a bug that caused the reload animation of the Zipline Gun going haywire in both first and third-person
+- Minerals left in the pouch are now added at the end of the mission
+- Fixed an exploit that caused waves not to trigger when alien eggs are dug out and deposited immediately after
+- Added a Respawn Button to the Escape Menu in the Space Rig
+- Magazines and fuel canisters are now skinned for the Deepcore GK2, Subata I20 and CRSPR Flamethrower to match the skin applied on the weapon.
+- [Community Request] All Gantries on the Space Rig finally play footprint sounds!
+- Fixed snowstorm effects
+- New music added for Machine Events
+- Fixed Gunners flare color in the Equipment Terminal
+- Switching back to the Satchel Charge after retrieving a deployed charge causes the player to switch to the Detonator fixed
+- Fixed a bug that caused the modification refund alert window to be shown on first session
+- Fixed the Designated Decoy achievement
+- Fixed a bunch of barrel hoop game issues including the barrel count as well as the Error Log
+- Fixed a bug with resource chunks sometimes dropping with way too much material
+ 
+#. Key: Update_26
+#. SourceLocation: /Game/Game/Text/PatchNotes.PatchNotes
+#: /Game/Game/Text/PatchNotes.PatchNotes
+PatchNotes,Update_26
+"
+	Update_21 = "Hello Miners!
+With this update, we are introducing more insane challenges - a new LETHAL difficulty level for you to master, multiple new enemies, Mastery and Skins for weapons, and a gazillion other fixes and improvements.
+
+Lunch Break is over! It’s time to go to work!
+
+- The Ghost Ship Team 
+
+--- PATCH NOTES ---
+
+
+NEW ENEMIES
+-----------------------------------
+BET-C - THE BATTLE M.U.L.E.
+Deep Rock Galactic didn’t invest much in the safety system of their BET-C series of combat M.U.L.E.’s. It only takes a few Xynarch Charge-Sucker parasites licking the robot’s circuits to turn them against the dwarves. In that situation, BET-C’s fast-tracking auto-turret and grenade launcher could become a major threat for any expedition. If you find an infected model, aim for the attached organisms and, once they are eradicated, carefully hammer BET-C until it turns into a trustworthy companion for the rest of the mission.
+
+Q’RONAR SHELLBACK 
+The Q’ronar Shellback is a deadly creature that you might bump into in the Radioactive and Salty regions of Hoxxes. Their tough shells and fast movement speed make them quite hard to kill - try to dodge its rolling attack and kill the Shellback when it stops to spray poison venom at you. 
+
+NAEDOCYTE SHOCKER
+The Naedocyte Shocker is a strange alien flying jellyfish-like creature. They often appear in large swarms and is preferably dealt with before they get close enough to zap you with electrical shocks. So far they’ve been spotted in the regions of Dense Biozone and the Glacial Strata.  
+
+
+NEW DIFFICULTY LEVEL
+-----------------------------------
+By popular demand, we’ve added a LETHAL new difficulty setting only for the most masochistic and badass dwarves out there! We hope you have “fun”... :D
+
+
+OVERALL DIFFICULTY REVAMP
+-----------------------------------
+GENERAL SPAWN LOGIC: The general logic behind how we handle spawns has gotten a big overhaul - balancing waves is now a much more exact and controllable thing for us. This is actually the biggest of all changes we’ve done to the difficulty system, but also the hardest to explain in detail - maybe we’ll do a blog post on this in the future :-)
+
+MISSION SPECIFIC ENEMY TYPES: The Mission Generator now also pre-selects the specific mix of enemies players will encounter in a given mission. Instead of randomly selecting from every enemy type available in the game, players will now face themed swarms of enemies. This change won’t be particularly visible right now, but will serve to improve the overall feel and flow of the enemy swarms as we add more enemy types to the game.
+
+The goal here is to make each mission feel a lot more unique, as well as making it more attractive for players to pursue a more strategic approach - if you have a rough idea of what awful things you might face down in the depths, you stand a better chance of going in as prepared as you can be.
+
+TIME: As a rule, lowering the time between spawning enemy waves means more enemies in general, which results in an overall higher difficulty. Knowing this, we’ve made a few changes to how we time waves:
+- Time elapsed before the first wave appears is based on Difficulty - so higher Difficulty means the first wave arrives faster.
+- Subsequent waves will also spawn faster depending on difficulty level.
+
+SPEED: Attack speed, projectile speed, and movement speed of enemies are increased for the highest difficulties.
+
+ENVIRONMENTAL HAZARDS: You now take more damage from environmental dangers on higher difficulties.
+
+YOU GET THE WAVES YOU DESERVE: Multiple waves are now allowed to spawn at the same time and do not cancel each other out.
+- Example 1: Digging two eggs out in Egg hunt will generate two small waves instead of only one. 
+- Example 2: You can not cancel a wave in progress by calling in the drop pod
+
+IMPORTANT BUGFIX! It turned out Difficulty scaling from 3 to 4 players was not working before - meaning that a 4 player game was as easy as a 3 player game. That is fixed now - so you should feel an overall increase in difficulty for 4 player games on all difficulties. We’ll, of course continue to monitor and tweak as needed.
+
+
+UI IMPROVEMENTS
+-----------------------------------
+NEW ENEMY HEALTH BAR
+We’ve completely revamped the way we put health bars on enemies. Now it will show when the player is aiming at an enemy and it will do it on top of that enemy (instead of in the center of the screen). Additionally, it displays the damage applied to the enemy with every shot.
+
+NEW MISSION READOUT BAR
+The Mission Readout Bar visible on the Space Rig has been updated with more information about the mission in progress, as well as gotten a graphical overhaul.
+
+
+NEW BIOME CONTENT
+-----------------------------------
+In The Salt Pits Region, you’ll now start seeing fragile Salt Platforms - stand on them, but be careful. They’re not tested for dwarf girth. 
+
+
+PREVENT LATE JOIN DUPLICATION
+-----------------------------------
+You want a diverse team? You don't like teams with three Engineers? The Host now has the option to select “PREVENT LATE JOIN DUPLICATION” from the Escape menu and Options menu. Selecting this option means players LATE JOINING your game will need to select a character class not currently in play. 
+
+Please note: This option does NOT restrict character selection on the Space Rig - we leave that up to you guys to figure out among yourselves. 
+
+
+MORE EQUIPMENT MODIFICATIONS
+-----------------------------------
+The new Modification System has now been implemented for the traversal tools. That means more customization for the Power Drills, the Platform Gun, the Zipline Gun, and the Grappling Gun. Furthermore, your armor modding opportunities also got some tender, loving care...
+
+
+WEAPON MASTERY AND SKINS
+-----------------------------------
+A Weapon Mastery Bar has been added to all gear - as you unlock mods for a given piece of gear, your Mastery with it increases. At certain levels of Mastery, you’ll gain free bonuses. For now the bonuses are restricted to Skins, and only for the primary and secondary weapon slots. Each weapon has three unlockable skins to get.
+
+The majority of our time with this has been spent on getting the system up and running, but we definitely intend to expand on the Skins System as we move a bit further ahead - you can expect other ways than just through the weapon masteries to earn skins in the future. 
+
+
+WEAPON TWEAKS & FIXES
+-----------------------------------
+Yes, we have been both buffing and nerfing a lot of the weapons and here is a compiled list of changes!
+
+PLASMA CHARGER:
+- Flying Nightmare damage no longer stacks on top of direct hit damage.
+- Bouncy Projectiles also bounce on enemies.
+- Charged Shot base area of effect reduced.
+- Normal shot damage increased.
+- Plasma Charger and other projectile weapons no longer ignores armor. Now they have to break it.
+
+"LEAD STORM” POWERED MINIGUN:
+- Base total ammunition increased.
+- Oversized Drum mod value increased.
+- Hot Bullets mod activates earlier.
+- Cold As The Grave mod no longer goes to a set value every time. As originally intended, it will now reduce the heat of the gun a certain amount per kill.
+- Aggressive Venting mod now works as intended.
+
+BRT7 BURST FIRE GUN:
+- Default effectiveness against armor reduced.
+
+DEEPCORE GK2:
+- Armor Penetration mod value increased.
+
+JURY-RIGGED BOOMSTICK:
+- Rate of fire mod renamed to "Double Trigger".
+
+"WARTHOG” AUTO 210:
+- Armor Breaking mod damage increased.
+- Stun Chance mod increased.
+- Turret Whip damage increased.
+
+"STUBBY " VOLTAIC SMG
+- Electrocution Bonus mod value reduced.
+
+DEEPCORE 40MM PGL:
+- Armor Breaking mod more effective.
+- High Capacity Magazine value increased.
+- Stun Hit mod renamed. Chances increased.
+- Incendiary Compound mod decreases the direct damage taken by enemies, but it will set them on fire.
+- Pressure Wave value fixed.
+
+BREACH CUTTER:
+- Extra Ammo mod value reduced.
+- Damage tweaks to compensate for the frame rate dependency fix.
+- Adjustments to the projectile to make it framerate independent.
+
+CRYO CANNON:
+- Sticky Ice cold effect reduced.
+- Base freezing power reduced.
+- Total ammo increased.
+
+CRSPR FLAMETHROWER:
+- Increased base damage.
+- Decreased base Rate of Fire.
+- Decreased base tank capacity.
+- Decreased tank capacity upgrade.
+- Decreased base sticky flames duration.
+- Decreased sticky flames duration upgrades.
+- Increased direct damage upgrade.
+- Increased direct burn upgrade.
+- Increased targets explode upgrade chance.
+
+SUBATA 120: 
+- Mactera Neurotoxin mod effect increased.
+
+
+UPDATED UNREAL ENGINE VERSION TO 4.21
+-----------------------------------
+For quite some time, we have been stuck with Unreal Engine 4.19, but we finally managed to update the engine to 4.21. It seems to have fixed a lot of GPU crashes. Happy days!
+
+
+MISC.
+-----------------------------------
+- Alien Egg Collection mission should now properly distribute the eggs in the mission area.
+- Assignment missions can now include Mission Modifiers. For difficult assignments, higher complexity missions will be preferred.
+- Fixed Restore Save pop-up showing up unnecessarily for ultrawide monitors.
+- Small adjustment to Steam warning message.
+- Fixed a LOT of spelling errors (Yes, we know. Keep sending ‘em our way if you spot any :D).
+- Attempt to fix voice chat issues.
+- A maximum of 2 voice lines for waking up in Medibay will now be played.
+- Umanite and Inert Uranium materials now look a lot more distinct from each other.
+- Landing in Sticky Goo reduces fall damage.
+- Fixed a bug with area damage falloff.
+- Friendly fire modification added to Bosco.
+- Glyphid Warriors, Spitters, and Web Spitters now don't always run away from explosions. It is chance based on different resistances depending on the enemy.
+- Mactera should no longer die just from being frozen.
+- Spitballers weak points now correctly take additional damage from weapons that do extra damage to weak points.
+- Fix hanging grunt scream.
+- Doubled the number of enemies that are able to target one player.
+- Acid Spitters now properly do Poison Damage. (Yes we know - expect a name change here later… :D )
+- Management has approved fixing critical mesh clipping of gantries near Abyss Bar.
+- More random mission names.
+- Many spelling errors fixed.
+- New fanfare when getting promoted. 
+\ 
+"
+	Update_19 = "Hello Miners! \ \ We got a fat, new update coming your way - this time with a massive upgrade to your armory, improvements to the upgrade system and an overhaul of the retirement system! Read all about it below! Lock n’ Load!\ \ --- PATCH NOTES ---\ \ 8 NEW WEAPONS\ ----------------------------\ DRG is happy to inform you that we’ve expanded on our list of suppliers, and a new, larger catalog of armaments has been made available! In order to obtain licenses for the new gear, you will need to complete Weapon Assignments. When a license has been obtained, you will be allowed to purchase access to the weapon in question. The following new weapons are now available: \ \ NEW WEAPONS: GUNNER\ ----------------------------\ "THUNDERHEAD" HEAVY AUTOCANNON: A peculiar but devastating weapon. The slow rate of fire is made up for by heavy damage, delivered with glee by the belt-fed .50-caliber tungsten rounds. The Thunderhead is a somber weapon for the sophisticated executioner, delivering death as inexorably as the passage of time itself.\ \ BRT7 BURST FIRE GUN: More precise than an SMG, with the stopping power of a small shotgun, the BRT (or "Burt", as it's sometimes called) is highly prized among collectors and connoisseurs alike.\ \ \ NEW WEAPONS: SCOUT\ ----------------------------\ M1000 CLASSIC: The original design for the M1000-pattern DRG-issue precision rifle goes back hundreds of years, practically unchanged. High damage, respectable fire rate...and that "Ping". A prime example of "if it ain't broke, don't fix it".\ \ ZHUKOV NUK17: Never sophisticated, but never disappointing either. The NUK family of twinned micro SMGs has a long and treasured track record, yet Those In The Know generally agree that the 17 is among the very best. \ \ \ NEW WEAPONS: ENGINEER\ ----------------------------\ "STUBBY" VOLTAIC SMG: So what's better than an SMG? An SMG that fires ELECTRIC BULLETS! The boys in R&D have wired a prototype ArcGen into the guts of this trusty Subata 312, meaning it now unleashes a storm of electrified DEATH! Word of warning: Keep away from water.\ \ BREACH CUTTER: The Breach Cutter releases directional blasts of sonically-charged plasma powerful enough to deal with most any alien in your path. Originally a mining tool, it's now been frequency-tuned to crack open flesh and bone rather than the sediment deposits it was designed for - often with quite spectacular results!\ \ \ NEW WEAPONS: DRILLER\ ----------------------------\ \ CRYO CANNON: Mad geniuses have tried perfecting this implement for as long as anyone can remember, but our lads at R&D seem to have perfected it! Handily portable (for a dwarf, anyway), it does exactly what you think: It's a friggin' freeze ray. Let 'em have it.\ \ EXPERIMENTAL PLASMA CHARGER: Bullets are so last year. Instead, why not incinerate your enemies from the inside out with a highly experimental anti-matter-powered gun firing supercharged plasma bolts? What's the worst that could happen? (If you find out, please report to R&D).\ \ \ NEW WEAPON MODS SYSTEM\ ----------------------------\ The Weapon Upgrade System has been scrapped in favor of a brand new Weapon Modification System, and each weapon can now be customized and tweaked to your individual tastes! More than 200 new Weapon Mods have been introduced, a lot of them consisting of entirely new features. For example, “Blow-through” is now a thing - fire bullets straight through an enemy to hit enemies behind it! Or how about “Fear” - send enemies into a fleeing panic by sheer brunt of your firepower! \ \ For this round of upgrades, the new system has been implemented for all new and old weapons, but it is not yet implemented on tools, grenades, and armors. This will happen with future updates. \ \ Also, no more static still-pictures of gear on the upgrade screen - we’ve finally gotten a proper and rotatable 3D model viewer implemented!\ \ \ REPRICING OF VANITY AND WEAPON MODS\ ----------------------------\ All vanity items and weapon upgrades have been repriced! You’ll keep any vanity items already unlocked. All weapon upgrades have been refunded, leaving you open to explore the new system at leisure. \ \ \ PROMOTION (FKA RETIREMENT)\ ----------------------------\ The Retirement system has received a fairly significant overhaul. The changes are as follows:\ \ - “Retirement” has been rephrased to “Promotion” instead.\ - The level cap for each dwarf has been raised from 20 to 25\ - The last mission in a Promotion Qualification Assignment is no longer a forced solo mission\ - Promoting your dwarf no longer takes any progress away from you! Yes, you read correctly - all weapon upgrades carry over! The only thing that resets is your character’s level\ - You still have to clear your debt to DRG before getting a promotion\ - Titles for player ranks have been extended to player rank 75 and a lot of new titles have been added\ \ \ GUNNER: SHIELD GENERATOR \ ----------------------------\ The Gunner has swapped his DET PACK (C4) for a SHIELD GENERATOR. It creates a force field that keeps the bugs at bay and protects everyone inside it. We got a quick comment from the gunner: “To be honest, sharing gear with Drill-boy ain’t for me, so I called in a favor with the eggheads up in R&D to make me something special - and they came back with a friggin’ Shield Generator! Now I can safely stand my ground while killing bugs galore! Good times!” \ \ \ EGGHUNT TWEAK\ ----------------------------\ Digging an egg free in Egghunts now has a chance of spawning a group of angry bugs. The number of eggs you need to collect have been increased a bit. \ \ \ BEER BUFFS \ ----------------------------\ TODAY’S SPECIAL: A Randomly chosen buffed beer will be available for purchase each “day” (it updates when the mission map gets new missions). Also, the buffs are actually working now! :-)\ \ \ TERRAIN SCANNER ALIGNMENT\ ----------------------------\ With the Terrain Scanner active, hit [SPACE] / (X) to spin your character around to face in the direction of the map.\ \ \ SPECIAL WAVES\ ----------------------------\ Once in a while you can now run into pure waves of Praetorians, Macteras, Glyphid Warriors or Swarmers. Whether these waves are harder or easier than normal waves is for you to figure out. \ \ \ ENEMY TWEAKS\ ----------------------------\ - NEW ENEMY - THE GLYPHID VETERAN WARRIOR: The Veteran has 50% more health and much stronger armor than a normal Glyphid Warrior.\ - Glyphid Praetorians have been to the gym! Their health has been buffed by 50% and they’re less susceptible to being shot in the head than before - getting behind them and shooting them in their big fat butts is now much more important.\ - Sound has been added to Exploder footsteps. Listen carefully and you can hear them sneak up upon you!\ - Removed fire particle effect when other enemies are hit by the Praetorians Acid Spray.\ It was not supposed to be there and was causing a significant frame drop.\ - Tweaked the number of enemies spawning for 2-player games down a bit for Hazard 2 and 3.\ \ \ FIXES AND IMPROVEMENTS\ ----------------------------\ - Small Character Videos added to the Character Selection Screen to give a quick impression of the different classes. \ - Hints on the loading screen have been updated with 3 new hints for Milestones and Perks, The Terrain Scanner and Mision Mutators.\ - Added some more motivational quotes for screens in Space rig.\ - Bosco now determines the angle of which to dig tunnels in dirt from the players face, rather than their feet, to the point they pointed at. This should result in more expected results, especially when standing close to the dirt\ - Damage multipliers on Physical materials changed to be on the physical material\ - When someone late-joins your game, there is a grace period where their friendly fire is reduced so they deal significantly less damage to you and your teammates. \ - Fixed Abyss Bar menu not closing correctly when pressing ESC\ - Changed Acid symbol to Biohazard / Poison symbol.\ - Better flare overdraw prevention\ - Flares now cast shadows!\ - Grenade Launcher grenades are much more visible while in the air.\ - Purchase Item UI now show all required resources\ - Heat cooldown on Minigun tweaked\ - Blowfly should now rotate correctly when shooting\ - Fixed a bug that caused Bosco to abort his light task as soon as there were any enemies near the player\ - Made Praetorians burn a bit later\ - Memorial screen no longer stacks up names to spawn and spams them all at once if framerate is low
+"
+	Update_15 = "-OTOMATİK ÇEVİRİ-
+Merhaba Madenciler! 
+Birkaç hafta boyunca, şiddetle ihtiyaç duyulan yaz tatiline çıkmadan önce, hepiniz için oyuna küçük bir mutasyon hazırladık!
+
+--- YAMA NOTLARI ---
+
+MUTATÖR SİSTEMİ
+----------------------------
+Şu andan itibaren, tüm görevlerin kendilerine bağlı Mutators ile birlikte görünme şansı var. İki değişkende gelirler: Uyarılar ve Anomaliler. Anomaliler tarafsız veya hatta olumludur, Uyarılar ise karşılaşacağınız tehlikeyi ciddi şekilde artıracaktır. Üzerinde Uyarı bulunan görevler ayrıca final puanına önemli bir Tehlike Bonusu ekler. Yeni Uyarı ve Anomali simgeleri için görev haritasına bakın!
+
+Aşağıdaki Uyarılar ve Anomaliler zaten uygulandı ve gelecekteki yamalar için daha çok şey eklemeyi umuyoruz.
+
+UYARILAR:
+
+- PATLAYICI YATIRIMI: Mutasyon Glifis Patlayıcılarını etkileyen her ne olursa olsun, bu muhtemelen merkez üslerinden biri! Gordezler 'güdümlü, kuduz Glyphid Exploders sizi kırmızı bir sise dönüştürmek için ellerinden geleni yapacaktır.
+
+- KALKAN YOLU ALMA: Mağara ağır elektrostatik olarak yüklenmiştir. Ve bunu bilmiyor muydun, kalkan jeneratörlerini kısa devre yapıyor. Yani ... kalkan yok!
+
+- MACTERA PLAGİ: Her türden Macteras bu mağaraya tamamen el koydu! Uçan korku gökten iner! Olabileceğini söyleyebilirsiniz ... Macterrible!
+ 
+- Sülük KÜTÜPHANELERİ: Mağara Sülüklerinin fobisi varsa, bu mağara sizi iyileştirir ya da en kötü korkularınızı onaylar ...
+
+ANOMALI:
+
+- GOLD RUSH: Bu mağara olağanüstüdür zengin altın yatakları; onun büyük damarları sadece senin kazanın tatlı okşamalarını bekliyor!
+ 
+- MINERAL MANIA: Mineraller bolca işleniyor! Sonuçta Hoxxes'e gitmek için sebep budur.
+
+- TRIPLE XP: 10 kredi ne yaptığını tahmin edemeyeceğinizi söylüyor ...
+
+- DÜŞÜK AĞIRLIK: Engin uçları atla! Neredeyse dikey duvarları ölçeklendirin! Sadece aklınızdan çıkarmayın ... düşme hasarı hala bir şeydir, bu yüzden ÇOK utangaç olmayın ...
+
+- ELEŞTİREL ZAYIF: Multikill! Zayıf noktalara ciddi hasar artışı için nişan al!
+
+- ALTIN HATALAR: Her öldürme takıma altın kazandırıyor!
+
+- ZENGİN ATMOSFER: Enerjili hissediyorsunuz ve daha hızlı hareket edebiliyorsunuz. Güzel sesin, zengin atmosfer biraz değişmiş görünebilir Chipmunk!
+
+
+TERRAIN SCANNER - ŞİMDİ 3D!
+----------------------------
+Düz Arazi Tarayıcıda bakım yapıldı! Kamera şimdi tamamen döndürülebilir ve yakınlaştırılabilir durumdadır ve gitmeniz gereken yeri bulmak için çok daha kolay bir zamana sahip olursunuz. Arazi Tarayıcı varsayılan olarak [TAB] ve [M] eşleştirilmiştir. Git ve dene! 
+
+
+VANITY GÜNCELLEME
+---------------------------------------------------------------------------------- 8 
+ \ 
+ VANITY GÜNCELLEME \ 
+ --------------------------------
+SAÇ VEYA BOYAMA BOYUNUZ!
+Güncelleme 14 için, saç renklerini sınıflara kilitleme, daha fazla öne çıkmalarını sağlamaya çalıştık. Anlaşılan, oyuncular bundan pek fazla hoşlanmıyorlardı ... aslında elfler gibi gerilmiş olmaktan korktuk! Ancak sevinin! Özel saç renkleri geri döndü ve şimdi biraz daha gelişmiş!
+
+DAHA FAZLA KULAKLIK EKLENDİ
+Birkaç yeni kuaför eklendi (The Franklin ve The Gamekeeper) ve bazı şapkalar ve kasklar için çok fazla talep edilen varyasyonlar!
+
+BİR DÖNÜŞ İÇİN DALGINIZI ALIN!
+Cücenizin arkadan nasıl göründüğünü hiç merak ettiniz mi? Eh, artık tüm ilgili menülerdeki cücenizi döndürebilirsiniz!
+
+Not: Tüm zırhınızın 14. Güncellemeden sonra nereye gittiğini merak edenler için, tüm Vanity eşyaları için kullandığımız sistemin büyük bir elden geçirilmiş olmasıydı. Etkilenen herkes, üzerinde harcadığınız tüm kredileri ve mineralleri geri almış olmalı.
+
+
+BOSCO GÜNCELLEME
+----------------------------
+daha iyi bir BOSCO
+Bosco olmuştur bir Beyin gelişimi ve şimdi söylediklerini yapma ve hasarı verme konusunda çok daha iyi olmalı. O kadar iyi ki, hasarını kurşun başına 8'den 6'ya indirmemiz gerekiyordu. Patlama ateşi de biraz daha yavaş olacak şekilde ayarlandı.
+
+DRONE'NİN GERİ DÖNÜSÜ
+Çok oyunculu bir oyuna başlarken soloda, Bosco başka bir oyuncu katılıncaya kadar size katılır. Bu oyuncu tekrar düşerse, Bosco tekrar görünecek!
+
+
+SUNUCU GELİŞMELERİ
+----------------------------
+KOLAY ARKADAŞ INVITE
+Arkadaşlarınızı doğrudan davet edin senin oyunun! Üstelik henüz bir görev oluşturmanıza gerek yok!
+
+ARKADAŞLARA KATILMAMIŞI 
+Arkadaşınızın oyununa her zaman katılabilirsiniz - zaten tam bir ekibe sahip olmadıkları sürece!
+
+FULL SERVERS GÖSTER
+Sunucu Listesi daha önce tam sunucu göstermedi - şimdi geliyor!
+
+
+MISC.
+----------------------------
+SAĞLIĞIN DEĞERLENDİRİLMESİ
+Sağlık, çok büyük hasarlar aldıktan sonra belirli bir minimum değere kavuşacaktır. Artık 1 vuruş noktasıyla koşmak yok!
+
+MINIGUN GÜNCELLEME
+Minigun, şık, yeni bir model, geliştirilmiş animasyonlar ve yeni parçacıklar içeren büyük bir revizyona sahipti. Minigun ateşlendikten sonra, hassasiyet daha düşük bir oranda azaltılır.
+
+ŞİMDİ KONTROL EDEN BAKIŞ
+Sesli sohbet kullanılırken oyuncunun simgesinin yanında bir simge gösterilir.
+
+HUD SİZİ İSTİYORSANIZ
+bazı yönleri şimdi Seçenekler aracılığıyla gizlenebilir. Şimdilik, Düşman Sağlık Barları, Pusula, derinliğiniz, Oyuncu İsmi, Sınıf ve Sınıf İkonu.
+
+SATIŞ ÇALIŞMA İŞLEMLERİ TWEAKS
+- Uplink ve Yakıtlar Hücreler yeni modeller ve animasyonlar edindi.
+- Escape Pod çalıştırma süresi 120 saniyeden 90 saniyeye düşürüldü.
+
+PERKS, BUFFS VE NERFS
+- Hafta Sonu Sporcusu'nun sprint hız bonusunu arttırdı.
+- Rank 3 Field Medic Perk, bir takım arkadaşını tekrar canlandırmayı bitirdiğinde kaçan yakınlardaki Glifleri gönderecek.
+- Rank 5 Tedarikçisi Perk, ikmal yaptığında tüm silahlarını otomatik olarak yeniden yükleyecek.
+- Birkaç Perks ve Milestones'ta sabit gramer ve yazım hataları.
+- Kırmızı Şeker Kayaları: Max rütbe, on saniye boyunca% 20 hız artışı sağlayacak. 
+
+
+"
+	Update_17 = "-OTOMATİK ÇEVİRİ-
+Merhaba Madenciler! 
+“Bar” ı tekrar yükseltmenin zamanı geldi. … Uzayda Oktoberfest'e hoş geldiniz! Abyss Bar'ın açılışını kutlamanın yanı sıra, keşfetmeniz ve eğlenmeniz için harika özelliklerimiz var! Herkese Mutlu Madencilik!   
+
+--- YAMA NOTLARI ---
+
+OKTOBERFEST'E HOŞ GELDİNİZ
+----------------------------
+ABYSS BAR
+Drone barmeninize merhaba deyin, hepiniz çalışkan işçileriniz için soğuk içecekler sunacak! Serinletici içeceklerin farklı potansiyellerde bulunduğunun farkında olun, bu nedenle sakinleşin ve sorumlu bir şekilde içmeye başlayın - sonuçta iştesiniz!  
+
+JUKEBOX
+Jukebox'un tadını çıkarmanız için 13 yeni şarkısı var, Dance Monkeys !!
+
+VARANIN ATILMASI - OYUN
+Bir sonraki turda kim ödüyor? Git, yakma kasnağından bazı fıçıları tekmele ve kimin kazandığını gör! 
+
+SINIRLI MEVSİM GEÇMİŞ
+Oktoberfest'i gerçekten kutlamak için, OKTOBERFEST FEDORA'yı 1200 kredi karşılığında Vanity Shop'tan satın alabilirsiniz. Fedora sadece sınırlı bir süre için satışta, bu yüzden hemen olsun! 
+
+PERKS GÜNCELLEŞTİRME
+--------------------------------
+Bir sürü yeni rol ekledik:
+HEIGHTENED SENSES: Bir Cave Leech sizi hedef aldığı zaman bir uyarı alın!
+LOVEABLE: Dost ateşe daha az zarar ver!
+IRON WILL: 0HP'ye ulaştıktan sonra kısa bir süre işlevsel kalınız!
+VAMPIRE: Yakın muharebe saldırısı ile orta ve büyük ölçekli yaratıkları öldürdüğünüzde biraz sağlık kazanın!
+GÜÇLÜ KOL: Fişekleri daha da atın
+VETERAN MEVDUATÖRÜ Tweak: 5. seviyeden, MULE'ye yaklaştığınızda% 30 hasar azaltma elde edersiniz!
+
+TAŞIMA ÖĞELERİ
+------------------------------
+Artık, değerli taşları ya da diğer değerli taşları bırakabilir, atabilir ve yakalayabilirsiniz. ürün! Almak için [E]/ (X) düğmesine basın. Bırakmak için [E]/ (X) düğmesine basın. Atmak için [SOL MOUSE BUTTON] / (RIGHT TRIGGER) düğmesine basın.      
+
+Biyomu GÜNCELLEME: MAGMA ÇEKİRDEK
+----------------------------
+- grup küçük lav Gayzerleriyle ilave
+- Depremler artık zemin açık çatlamasına neden olabilir 
+
+YENİ YANGIN SİSTEMİ
+----------------------------
+Yanık Bir süredir düşmanları ateşe vermek için. Ateş yakındaki düşmanlara yayılabilir. Aynı cüceler için de geçerli, dikkat et! 
+
+WEAPONS
+------------------------------
+- Yeni ve geliştirilmiş alev makinası modeli
+- Güncellenmiş silah simgeleri
+- Geliştirilmiş birinci şahıs parçacıkları ve çoğu silah için yeni ve yenilenmiş parçacıklar
+
+NVIDIA ANSEL SUPPORT
+---------------------------- -
+NVidia Ansel ile harika ekran görüntüleri yapın. ALT + F2, Ansel menüsünü getirir. (Bu özellik yalnızca NVidia kartlı Steam kullanıcıları için geçerlidir.)
+
+YENİ GİZLİLİK SEÇENEKLERİ
+------------------------------
+Gizlilik sekmesi, oyunculara verilerini daha iyi kontrol edebilmeleri için Seçeneklere eklendi. Her şey anonimdir, ancak hala istersen vazgeçebilirsin.
+
+ENEMIES
+------------------------------
+- Praetorian asit spreyinin zarar görmesi yaklaşık% 50 azaldı
+- Geliştirilmiş Bombacı ölümü animasyonu
+- Düşmanlar donduğunda daha fazla hasar alır
+
+MILESTONE PROGRESSION FIX
+------------------------- ---
+- Vanity veya Upgrade satın alımlarıyla ilgili kilometre taşları, tanıtılmadan önce bunları elde edenlere geriye dönük olarak verilecek. 
+
+SES
+------------------------------
+- Cüceler için yeni ses hatları!
+- Yeni silah sesi: Minigun, Flamethrower
+
+SABİTLER VE GELİŞMELER
+------------------------------
+- Geliştirilmiş mağara üretimi, seviye geometrisi içinde ortaya çıkma olasılığı daha düşük olan eşyalar 
+- Harita ekranı çözünürlüğü artırıldı
+- Yıkılan alanın ses hatları, mayınlı mayın hacmi ise 0
+- Tetik Mağaralarında Kırmızı Kristal üzerine uygun adlandırma + parçacıklar
+- Cephaneniz bittiğinde artık silahlar yeniden yüklenemez
+- Molly'nin Hedef İşaretçisi, devam eden birleşme halinde artık garip bir şekilde dönmemelidir.
+- Ev sahibi buzdan arınmaya çalışıyorsa, müşterinin ekranı artık sallanmamalıdır
+- Odaklanmış UI'nin başındayken Discord UI ile ilgili önemli olayların alınmaması sorunu düzeltildi
+- Bombardıman asidi tükürürken ölürse doğru canlandırma artık
+- Dil ayar değişiklikleri şimdi doğru bir şekilde kaydedildi
+"
+	Update_14 = "-OTOMATİK ÇEVİRİ-
+Merhaba Madenciler! Bu sefer etrafta, sizin için yaz tatili için oldukça büyük bir güncelleme hazırladık. Yaz tatilinin konuşması - DRG sadece sizinkini iptal etti! Yeni görevler ve canavarlar sizi bekliyor ve buluşmak için bir ton kilometre taşı var! Öyleyse işe başla!
+
+BÜYÜK YENİ ÖZELLİKLER
+------------------------------------
+YENİ MİSYON TÜRÜ : SATIŞ İŞLEMİ
+Başarısız bir madencilik gezisinden sonra içeri girmek ve temizlik yapmak sizin işiniz. Tüm kaybolan ekipmanı eve getirmek için üç Mini Katır kurtarmanız ve hasarlı bir damla bölmesini onarmanız gerekecektir. Ekip çalışmasının ve iyi bir hazırlığın başarının anahtarı olduğu bir dövüş ağır deneyimine hazır olun! Başka bir başarısızlık olma!
+
+YENİ ENEMY: MACTERA GRABBER
+Grabber, gökten gelen yeni terördür. Rastgele bir cüceyi kapar ve aşağıdaki katta bir somun gibi çatlamak için düşürmeden önce onunla birlikte uçar! Şansınıza bağlı olarak, sadece bazı çürükler ile bitebilir - ya da uçurumdan atılmaya başlayabilirsin! Çabuk ateş et, bu bizim önerimiz ...
+
+ANAHTAR PERFORMANS GÖSTERGELERİ
+Deep Rock Galactic şimdi iş performansınızı takip ediyor! Kulübünüzdeki KPI ekranında performansınızla ilgili ayrıntılı istatistikleri kontrol edebilir, kilometre taşlarına ulaşabilir ve puan toplayabilir ve bu puanları, cüceleriniz için harika işlerin kilidini açmak için harcayarak günlük işlerinizi biraz daha kolaylaştırabilirsiniz.
+
+GELİŞTİRİLMİŞ VANİTE ÖZELLEŞTİRME SİSTEMİ 
+Vanity System, seçeneklerimiz üzerinde büyük ölçüde genişleyen komple bir revizyon geçirmiştir. İşte yeni özelliklerden bazıları:
+- Rüyalarının sakalını yarat! Bireysel olarak saçları, kaşları, favorileri, bıyığı ve sakalı kişiselleştirin!  
+- Bütün zırhlara revizyon yapıldı! Genel olarak daha fazla ayrıntı eklendi ve zırh artık dokuları destekliyor! Gunner'ın zırhındaki güzel kaplan çizgisine bak!
+- Orijinal sakal seçimi parçalara bölündü ve yeni sistemi desteklemek için geri eklendi. 
+- Küçük bir miktar yeni Şapka, Saç, Kask, Sakal, Bıyık ve Sideburns eklendi. Henüz burada hiçbir şey yapmıyoruz, bu sadece bu yama için girmeyi başardığımız şeydi.
+
+YENİ ÇEVRE TEHLİKELERİ
+- Kumlanmış Koridorlardaki görevler sırasında, kör edici kum fırtınası ve kuvvetli rüzgar tünelleri ile karşılaşma şansınız olacak. 
+- Magma Çekirdeği daha da ateşlendi! Sıcak magma kayalarından kaçınmaya çalışın - Yakar! Ayrıca, patlamaların yüzeyin altındaki sıcak magma kayasını açığa çıkaracağına dikkat edin - savaş alanını arkadaşlar ve düşmanlar için tehlikeli bir yere dönüştürün.  
+
+BUFFLAR VE NERFS
+------------------------------------
+MÜHENDİS: PLATFORM GUN
+- Start cephanesi 10'dan 12 platforma yükseltildi. 
+- Mag boyutu 3 platformdan 4'e çıkarıldı. 
+- Ekstra platform yükseltmesi eklendi. İlk yükseltme 4 ila maksimum cephane ekliyor, ikinci yükseltme ise 4 yükseltme gerçekleştirerek tamamen yükseltildiğinde 20 platformun çekilmesini mümkün kılıyor. Bazı harika köprüler ve merdivenler inşa etme zamanı!
+
+MÜHENDİS: SENTRY GUNS
+- Nöbetçi tabancası max mühimmatı 400'den 425'e çıkarıldı.
+- Mermi başına hasar 7'den 5.5'e düşürüldü.
+- Artık nöbetçi top için maksimum cephane yükseltebilirsiniz. Yükseltme +75 maksimum cephane sağlar - maksimum 500 cephane kapasitesine ulaşmanızı sağlar.  
+
+MATKAP: HANDGUN
+- Tabanca'nın başlangıç klips boyutu 8 ila 12 mermiden artırılmıştır.
+- Klips boyutu yükseltme +4 mermiden +6 mermiye yükseltildi.
+
+BOSCO
+- Bosco, şut başına 6 yerine 8 hasar puanı veriyor 
+- Dost ateş faktörü 0,2'den 0,1'e düşürüldü. En sevdiğiniz Drone'un afeti ile öldürülmemesi eğlenceli değil!
+
+DİĞER ÖNEMLİ SABİTLER VE ÖZELLİKLER
+--------------------------------------------------------------
+ENEMIES
+- Praetorianlar şimdi asit tükürüyor!
+- Praetorian zorluk derecesi arttı. Şimdi daha ölümcül, bu yüzden onlardan daha az karşılaşacaksınız.
+- Sabit Deeptora Swarms, oyunculara saldıran değil.
+- Infector'a zırh ve zayıf noktalar eklendi. Üstelik HP üssü arttı, hızlı bir öldürme için zayıf noktaları hedefleyin.
+- Radyoaktif’te bulunan swarmer tüneli kalıntıları düzeltildi.
+- Düşmanlar size çarptığında kan sıçraması.
+- Glyphid Swamers’a Atlama saldırısı eklendi.
+- Kıvrılmış uç dalga basıncı.
+- Glyphid Grunts ve Praetorians'ın alarm mesafesini düşürdü. Oyuncular saldırmadan önce daha yakın olmalılar.
+- Yeni Glyphid sesleri ve tweaks eklendi.
+- Swarmer Tünelleri enkaz malzemesi sabit
+- Tuz Mağaraları tüneli kristal deliliği sabit.
+- Patlayıcılar, başka bir patlayıcı yakınına patlarken hız artışı sağlar.
+- Sabit Glyphid Spawner zayıf noktaları.
+- Patlayıcılar için AI kullanımından kaçınma.
+- Sabit Mağara Sülük kapma zaten hedefi felç etti.
+- Glifis Spitters'ı dururken hedefe doğru hizalayın.
+
+BIOMES
+- Kırmızı Şeker, tamamen sağlıklıyken mayın açarsa zeminde bırakır.
+- Radyoaktif malzemeler ve renk tweaks.
+- İşlem sonrası etkileri konusunda tweaks.
+- Mantar Bataklıkları'ndaki Buharlı Gayzerler şimdi daha ilginç açılarda ortaya çıkabilir. İyi eğlenceler!
+- Glowtree'nin çok daha geniş bir alanı aydınlatmasını sağlayın. Ne kadar fazla ampul çekerseniz o kadar parlak olur
+- Fungus Bogs duvar malzemesi çimdik.
+- Gür duvar malzemesi tweaks, Nitra tweaks, Altın tweaks.
+- Animasyonlu yeşilliklerin animasyon hızlarını hafifçe randomize edin, böylece hepsi animasyonun aynı aşamasında olmaz.
+- Mantar balığına ve Yoğun Biyozona (renk varyantı olarak) patlayan bitkiler eklendi.
+- Yeni pasif yaratık: Yoğun Biyzon ve Radyoaktif bölgelere Silikat Biçerdöver eklendi. Sürebilirsin!
+
+Mağara NESİLİ VE MİSYONLAR
+- Yeni mağara şekilleri. Seviye üretimi için daha fazla varyasyon.
+- Mevcut mağara şekilleri için daha fazla randomizasyon.
+- Kurtarma Operasyonları için benzersiz mağara yapısı.
+- Mağara karmaşıklığı artık daha kesin ve basit ve karmaşık mağaralar arasındaki farkın daha belirgin olduğundan emin oluyor.
+- Yüksek Karmaşıklık görevleri artık oyuncu sıralamasına kilitlendi (orta seviye için 2 ve yüksek karmaşıklık için 3).
+- Tehlike seviyesi: Şimdilik turist kaldırıldı. Çok az sayıda oyuncu bu modu oynuyordu ve nasıl sıfır altın ya da xp kazandığın biraz kırıldı.
+
+SİLAHLAR VE ARAÇLAR
+- Radyoaktif kristallere lazer pointer uyarısı eklendi.
+- Toplama Topu silahı animasyonu eklendi.
+- Sabit lazer pointer mesafe hatası.
+- Lazer pointer'ı kontrol cihazı ile donatmak için bekleme süresi daha kısa.
+- Nöbetçi topunun düzeltilmesi - Bazen düşman olmayan şeyleri vurabilirdi.
+- Geçiş tabancası ve saldırı tüfeği için mermi kovanları yeniden etkinleştirildi.
+
+HUD
+- Mevcut sağlık durumunu, özel durumları (bir mağara sülük tarafından yakalanma gibi) ve bağırmaları gösteren her zaman görülebilen takım arkadaşları simgeleri.
+- Lazer işaretçisi bir kaynağın üzerine geldiğinde ping atıyor.
+- Lazer işaretçi bulunduğunda, kişisel yol noktasını yerleştirmek için YANGIN'ı tutun.
+- Çoğu silah için yeni artı işareti.
+- İsabet göstergeleri önceki hallerinde kaldırıldı. Şimdi artı işaretinin bazı kısımları düşmanın vurulduğunu onaylamak için kırmızıya dönecek. Çekim zayıf bir noktaya geldiğinde sağlık çubuğunda kırmızı oklar belirir.
+
+MISC.
+- Çince çeviriyi güncelle.
+- Türkçe, desteklenen dillere eklendi.
+- Sabit alım satım + çarpışma istismarı düzeltildi.
+- Bosco ile ilgili kaza düzeltildi.
+- Tweaked 'Player Down' HUD ve takım simgeleri.
+- Görev Kontrolü şimdi yerçekimi yeniden kalibrasyonunu duyurdu.
+- Hosting oyuncusu şimdi istemcilerle aynı yükseklikte atlıyor (daha önce düşüktü).
+"
+	Update_32 = "Merhaba Kabadayılar!
+
+Nihayet ilk büyük Açılış Sonrası Güncellememizin zamanı geldi! Ana yemeğimiz ise, yepyeni iki görev türü: Refakat Etme ve Rafineri Tesisi. Her iki görev türü de, çalışkan cücelerden oluşan bir takımdan şefkatli sevgi ve koruma gerektiren ağır hizmet madencilik ekipmanına odaklanıyor! Garnitürde bir ton yeni kozmetik, daha fazla silah dengeleme, Görevlendirme Bilgisayarının çok ihtiyaç duyulan bir bakım ve daha birçok şey var. Afiyet olsun!
+
+Terleme zamanı! DRG için çalışan bir savaş madencisi olmak için daha iyi bir zaman olmamıştı. Madenlerde görüşürüz! 
+
+Sevgilerimizle,
+The Ghost Ship Mürettebatı
+
+--- YAMA NOTLARI ---
+
+YENİ GÖREV: RAFİNERİ TESİSİ
+----------------------------
+Yönetimin yeni bir susuzluğu var: Sıvı Morkite. Seni doldurmak için bir Rafineri Tesisinin yanına gönderiyorlar. Sıvı Morkite kuyularını bulun ve yörüngesel soketli endüstriyel Pompa Krikosuna bağlayın, büyük, sarmal Boru Hatları inşa ederek Rafineriye bağlayın ve bu birikintileri kurutun! Oh, ve araştırma ve geliştirmedeki iyi insanlar, boru hatlarını hızlı, kolay ve GÜVENLİ* engel aşmak için kullanmak üzere kullanışlı bir yol inşa edecek kadar cömert bile hissettiler.
+
+*Şirketin "güvenlik" tanımı hakkında daha fazla bilgi edinmek için sözleşmenizin 3.15. maddesine bakın.
+
+
+YENİ GÖREV: REFAKAT ETME
+----------------------------
+Bu ağır savaş odaklı görevde gizemli bir Ommoran Kalp Taşı elde etmek için gönderildiniz! Yalnızca özel olarak üretilmiş otonom Sondaj Dozeri, Ommoran'ın dış kabuğundan geçebilir ve içindeki ödülü açığa çıkarabilir: Paha biçilmez Ommoran Kalp Taşı. Sondaj Dozeri güvenli bir mesafeye inecek ve ardından otomatik olarak Ommoran'a yerleşecek. Göreviniz, hedefe giden yolu kazarken bu lanet şeyi güvenli ve yakıtlı tutmaktır. Hayatın pahasına koru onu, Madenciler!
+
+
+YENİ GÖREVLENDİRME: KABADAYILAR İŞ BAŞINDA
+----------------------------
+Bu yeni görevlendirme, yeni görevleri güvenli bir şekilde nasıl tamamlayacağınız ve canlı hale getireceğiniz konusunda hızlandırılmış bir kurs olarak hizmet ediyor - ve tamamlandığında bazı fantezi yeni şapkalar ile ödüllendirecektir. Sevilmeyecek ne var?
+
+
+YENİ KOZMETİKLER
+----------------------------
+Dikkat, moda düşkünleri! Yeni sonbahar koleksiyonu yeni Sakallar, Başlıklar ve Saç stilleri güzel bir seçim ile sezona düştü! Mağazaya 27 yeni kozmetik eklendi, 11 yeni kozmetik matris çekirdekleri ile dövülebilir ve 1 Yeni Başlık ile yeni görevlendirmeyi tamamlayarak ödüllendirilir. 
+
+
+YENİ DLC: ROUGHNECK PAKETİ
+
+---------------------------
+Eğer gerçekten kabalık yapmak istiyorsanız, o zaman yeni Roughneck paketi sizi koruyacaktır. Dört yeni eşsiz zırh setiyle görünümünüzü renklendirin (sınıf başına bir tane), yeni kasklar ve yeni boya işleri. Bu paket, bir uzay denizcisi gibi giyinmekten rahatsız olmayanlara yöneliktir ve sadece eldeki zor işlere takılmak ister! Sonunda bu sembolik silahları göster - yanı sıra uzun zamandır gizli tuttuğunuz dövmelerin seçimi yapılabilir!
+
+Zırhın üstünde, paket iki benzersiz kaskın yanı sıra Bosco ve kazma için yeni bir boya işi ile birlikte geliyor.
+
+
+GARDIROPTA RASTGELE KOZMETİK SEÇİMİ
+----------------------------
+Moda hakkında konuşmak...hangi kaskın giyileceğine veya sakalınızı nasıl şekillendireceğine karar veremeyen insanlardan biriyseniz ya da belki de yeni ve cesur bir şey denemekten çok korkuyorsanız, pekala....sizin için harika haberlerimiz var: Gardırop yeni Rastgele seçme düğmeleri ile donatıldı - Kategoriye göre de tam kıyafet. Yeni ve beklenmedik kombinasyonları denemek hiç bu kadar kolay
+
+
+GÖREVLENDİRME BİLGİSAYARI GÖRSEL BAKIMI
+----------------------------
+DRG daha iyi bir Görevlendirme Bilgisayarına para kıyarak yatırım yaptı. Bir sonraki görevlendirmenizi seçerken şık ve daha kullanışlı bir düzenin keyfini çıkarın!
+
+
+FIRLATMA MEKANİK DEĞİŞİKLİKLERİ
+----------------------------
+KONTROLLER: Cevherleri ve diğer ağır eşyaları taşırken artık hem PC'de [SOL VE SAĞ FARE DÜĞMESİ] ya da XBox'ta [SOL VE SAĞ TETİĞİ] üzerine atabilirsiniz. Bu değişikliği, bir mücevher gibi taşınan ancak aynı zamanda bir silah veya alet gibi işlevselliğe sahip olan (Koruma Görevi görevinde kullanılan) Yakıt Bidonuna uyum sağlamak için yaptık. Gelecekte, benzer şekilde kullanılabilecek başka alet ve silahlar bulmanızı hayal edebiliriz.
+
+OTOMATİK FIRLATMA İPTALİ: Maksimum fırlatma gücüne ulaştıktan sonra fırlat düğmesini bırakmazsanız, atış kısa bir süre sonra otomatik olarak iptal edilir. 
+
+
+SİLAH DENGELEMESİ
+----------------------------
+DERİN ÇEKİRDEK 40MM TBA
+- Temel zırh kırılması %100'e çıkarıldı
+- Yakıcı Bileşik modu direkt hasarı azaltma artık zırh kırmayı da etkiliyor
+- Etki alanı bonusunun bir kısmı "Çiviler + Bant" modundan temel silaha taşındı
+- Bu silah için şarjör boyutu istatistiği olmadığından, Maximum Cephane istatistiğinin fırlatıcıdaki mermiyi dahil etmesini sağladı
+
+Aşırı itici Güç Güçlendirmesi
+- Fazladan doğrudan hasar büyük ölçüde artırıldı ve artık düşmanın zayıf noktalarına vurulduğunda hafifletildi
+- Cephane cezası eklendi
+- GÇ takıldığında, modifiye edilmiş Nişan Göstergesi
+- Artık kendi çarpma etkileri var
+RJ250 Bileşim Güçlendirmesi
+- GÇ'nin geri tepmesi, patlama merkezinden ne kadar uzakta olursanız olun daha da düşmesini sağladı
+- Bir oyuncunun fırlatılacağı açı üzerindeki kontrolü iyileştirildi
+
+GEDİK AÇICI
+- Azaltılmış temel şarjör kapasitesi
+- Artırılmış S1 Yüksek Kapasiteli Şarjör geliştirmesi
+- Azaltılmış S2 Genişletilmiş Cephane Çantaları geliştirmesi
+- Azaltılmış Üçlü Bölünmüş Hat vuruş kutusu geliştirmesi
+- Temel genişliğin bir kısmı Gevşemiş Düğüm Birleşimi geliştirmesine eklendi
+- Temel cephane yükleme süresi artırıldı
+- S3 hat genişliği geliştirmesi cephane yükleme hızı geliştirmesi olarak değiştirildi
+- Adjusted the Light-weight Cases, High Voltage Crossover, Spinning Death, Return to Sender, and Inferno overclocks based on the new magazine capacity.
+
+Cehennem Güçlendirmesi
+- Hedefleri daha hızlı tutuşturur ve uzun süre yanmalarını sağlar.
+
+Dönen Ölüm Güçlendirmesi
+- Fazladan hat genişliği eklendi
+
+ZHUKOV NUK17
+- Artırılmış S2 Genişletilmiş Cephane Çantaları geliştirmesi
+- S3 Yüksek Kalibre Mermi geliştirmesinden bir miktar silahın temel hasarına taşındı
+
+Saklı Patlayıcılar Güçlendirmesi
+- Şarjör değiştirirken verilen hasarı büyük ölçüde artırıldı
+- Hasar türü Kinetik'ten Dahili Hasar'a değiştirildi
+- Direkt hasar cezası artırıldı
+- Şarjör kapasite cezası eklendi
+- Cephane cezası artırıldı
+- Vurduğunuz bir düşman şarjör değiştirerek öldürebiliyorsa, sağlık çubuğunun yanında geçici olarak bir simge görünecek
+
+DENEYSEL PLAZMA ŞARJ SİLAHI
+- S5 Uçan Kabus geliştirmesinin şarj hızı cezası azaltıldı
+
+BUZ TOPU
+- Temel silahta maksimum cephane artırıldı
+- S1 Daha Büyük Basınç Odası geliştirmesindeki bonus artırıldı
+- S2 Daha Büyük Yedek Tank bonus artırıldı
+
+"GÜRLEYEN KAFA" AĞIR OTOMATİK TOP
+Savaş Hareketliliği Güçlendirmesi
+- Fazladan hareket hızı arttırıldı
+- Fazladan isabet eklendi
+- Hasar cezası azaltılmış şarjör kapasitesi ile değiştirildi
+- Fazladan şarjör değiştirme hızı eklendi
+
+M1000 KLASİK
+- Fazladan odaklanma hızı eklendi
+- S1 Genişletilmiş Cephane Çantaları geliştirmesinin cephane bonusu artırıldı
+
+HMT MUHAFIZ KULESİ PLATFORM
+- Temel hasar 5'ten 6'ya yükseltildi
+- İkiz Sistem şimdi fazladan 90 cephane ile gelir
+- Koruyucu Sistem fazladan hasar vuruşu yüzdeden sabit +5'e değiştirildi
+DERİN ÇEKİRDEK GK2
+Yapay Zeka Denge Güçlendirmesi
+- Artık zayıf nokta vuruşlarına büyük bir bonus veriyor
+- Temel hasar cezası artırıldı
+
+SUBATA 120
+Patlayıcı Yeniden Yükleme Güçlendirmesi
+- Şarjör değiştirilirken verilen hasar büyük ölçüde artırıldı
+- Hasar türü Patlayıcıdan Dahili Hasar'a değiştirildi
+- Hasar cezası kaldırıldı
+- Şarjör kapasite cezası artırıldı
+- Mermi ceza artırıldı
+- Vurduğunuz bir düşman şarjör değiştirirken öldürebiliyorsa, sağlık çubuğunun yanında geçici olarak bir simge görünecek
+
+FEROMAN KAPSÜLÜ
+- Feromondan etkilenen düşmanlar artık %50 daha çekici olur
+
+Y.E.M.
+- Y.E.M. artık dost ateşinden hasar alınmaz
+
+
+YENİ SESLENMELER
+----------------------------
+Yeni cüce seslenmeleri eklendi. Öncelikle elbette yeni görevlere odaklandık, ancak aynı zamanda kayıp Lazer İşaretçisi seslerini de aldık ve karışıma birkaç yeni Kaya ve Taş seslenmesi ekledik! 
+
+
+YENİ KİLOMETRE TAŞI VE BAŞARIMLAR
+----------------------------
+Yeni görev türleri demek açıkça yeni Kilometre Taşları ve iki yeni Başarım anlamına gelir - her Görev Türü için bir tane.
+
+
+TOPLULUK İSTEĞİ
+----------------------------
+- Bazı Yan Hedeflerde kullanılan Yapışkan Tohum ve Ebonutlar, onlara daha fazla ışık ekleyerek karanlıkta fark edilmesini kolaylaştırdı.
+
+
+DİĞER
+----------------------------
+- Görevlenirme Bilgisayarı arayüzüne bakım yapıldı
+- [TOPLULUK İSTEĞİ] Tüm görev türlerinde mağara oluşturmaya daha fazla çeşitlilik eklendi
+- [TOPLULUK İSTEĞİ] Yapışkan Tohum ve Ebonut'lara yer bulmalarını biraz kolaylaştırmak için ışık eklendi
+- [TOPLULUK İSTEĞİ] Arazi Tarayıcısındaki Kaçış Kapsülü'ne rampa eklendi
+- Mineral çantası için yeni bir model eklendi
+- Yeni görev türleri için iki yeni başarım eklendi
+- Mağazaya 27 yeni Kozmetik eklendi
+- Matrix Çekirdekleri ile dövülebilen 11 yeni Kozmetik eklendi
+- Yeni bir görevlendirme için tamamlama ödülü olarak yeni bir başlık eklendi
+- Lazer işaretçi ekranında eksik olan belirli nesnelere simgeler eklendi
+- Taşıdığı bir şeyi düşürdüğünde Bosco için animasyon eklendi
+- Mini K.A.T.I.R. için Lazer İşaretçisi ile ilgili açıklamalar eklendi
+- Birkaç saniye boyunca atışı basılı tutarsanız, gücü sıfırlayarak bir fırlatmayı iptal etme yeteneği eklendi
+- İstatistiği eksik birkaç el bombasına Süre İstatistiği eklendi
+- Eksik birkaç el bombasına Alan İstatistiği eklendi
+- Değiştirilmediğinde zırh kırılmasını gösteren sabit Ekipman Terminali İstatistik ekranı
+- Bosco artık oyuncu yakalandığında veya yere düşerse onu takip etmek için sıfırlanıyor
+- Bosco artık yeterince yakınsa taşıdığı nesneleri dikkatsizce bulunduğu yere düşürmek yerine oyuncuya doğru fırlatıyor
+- Bosco’nun baş hologramı artık yalnızca yapması emredilen görevi durdurduğunda kayboluyor
+- Bosco şimdi, işaret ettiğiniz yerde mineralleri daha tutarlı bir aralıkta bulmalıdır
+- Yan Hedef olarak Morkite toplama ile Derin Dalışlarda ortaya çıkan Morkite miktarı biraz arttı
+- Düşük oksijen uyarı sesi biraz arttırıldı 
+- Oksijen ipucu artık Düşük Oksijen uyarı mutatörü ile bir göreve her başladığınızda gösteriliyor
+- Mini K.A.I.T.R. başına ortaya çıkan bacak sayısı 4'ten 3'e azaltıldı
+- Kurtarma Görevi kaçış kapsülünün mağara neslinin bir parçası olması için yer açma şeklimizi geliştirdik ve yerleşimini daha doğal hale getirdik
+- Mini K.A.T.I.R.'ın ortaya çıkma geliştirdik, böylece sadece kayaya yerleştirildiler
+- Mini K.A.T.I.R. ayağın ortaya çıkma geliştirdik. Örneğin, artık siyah buzda yumurtlamıyorlar
+- Improved sandstorms and earthquakes to now also affect the movement speed of enemies
+- Frozen Swarmers will now always die after a short delay
+- Improved the stagger animation to now be based on the stagger duration
+- Improved the manner several objects are appearing on the Laserpointer display
+- Improved the movement of the M.U.L.E. 
+- Improved the skin tone shader
+- Improved Bosco’s ability to navigate to objects he is ordered to pick up
+- Improved the model of the "Bulldog" Heavy Revolver
+- Improved the animation of the flexing Victory Pose
+- Machine Events no longer explode when near a Drop Pod as we have improved the spawning logic to prevent them from spawning in locations that block entry to the Drop Pod
+- Tweaked the audio on the Tutorial loading screen
+- Tweaked the screaming sound of the Glyphid Oppressor
+- Tweaked the audio of the Korlok Tyrant Weed
+- Tweaked Laserpointer sounds
+- Tweaked the flare impact sound
+- Tweaked the sound when unlocking a new biome
+- [COMMUNITY REQUEST] Squashed several clipping mesh issues in the Space Rig
+- Squashed a bug that prevented players from progressing past certain popups
+- Squashed a bug that caused the Spread Per Shot statistic of the M1000 Classic to not show in the Equipment Terminal
+- Squashed a bug that caused the stepping sounds of the M.U.L.E. to cut out
+- Squashed a bug that prevented the confirmation popup from appearing when purchasing Weapon Modifications
+- Squashed a bug that caused the Equipment Terminal stat display showing armor breaking when it's not modified
+- Squashed a bug that prevented confirmation popups for acquiring grenades from closing
+- Squashed a bug that enabled latejoining players to land on “important locations”, such as the Drop Pod, Machine Events, etc.
+- Squashed a bug that sometimes caused beer mugs to be unable to be thrown
+- Squashed a bug that could cause Bosco to be permanently unable to pick up objects
+- Squashed a bug that enabled a weapon to show in the Wardrobe
+- Squashed a bug that caused Kursite enemies to spawn at host’s location rather than the location of the Machine Event
+- Squashed similar bugs in other Machine Events
+- Squashed a bug that enabled the "Thunderhead" Heavy Autocannon Suppressive Fire modification to apply fear to Steeve
+- Squashed a bug that caused Bosco to dig below Gunk Seeds that lie on the floor when commanding him to pick them up
+- Squashed several audio-related bugs
+- Squashed a bug that enabled the Mactera Grabber to grab a player after it has been frozen
+- Squashed a bug that enabled Electric Crystals to deal damage to the player when you throw Impact Axes at them
+- Squashed a bug that caused Gunk Seeds to become stuck for clients when hit by the Drop Pod
+- Squashed a bug that caused the M.U.L.E. to get stuck until extraction if someone disconnects while depositing
+- Squashed a bug that caused Cave Leeches to not display frozen state correctly
+- Squashed a bug that prevented enemies that are instantly killed from being frozen to count towards your total kills
+- Squashed a bug that caused a floating shadow of the pickaxe to show in first-person
+- Squashed a bug with Discord presence in Discord voice channels
+- Squashed a bug that caused certain sounds of the OMEN Modular Exterminator Machine Event to linger for clients 
+- Squashed a bug that caused the Stunner Overclock of the "Warthog" Auto 210 to display incorrectly
+- Squashed a bug that sometimes prevented Bosco from properly digging out embedded gems
+- Squashed a bug that enabled you to throw a grenade while being grabbed if you held the grenade button just before getting grabbed
+- Squashed a bug that prevented the Mactera Grabber from screeching 
+- [XBOX] Squashed a bug that caused ‘Sign-in changed’ popup to disrupt gameplay if you have a bad controller cable connection
+- [XBOX / WIN10] Improved the network framework to eliminate random disconnects and crashes
+
+"
+	Update_16 = "-OTOMATİK ÇEVİRİ-
+Merhaba madenciler! Güzel bir yaz tatilinden sonra eyere geri döndük ve sizin için yeni bir yama hazırladık. Yaşadığımız tüm sıcak havalara cevaben, yapmamız gereken şeyin bir buz biyomu eklemek olduğunu düşündük. Sağ?
+
+--- YEDEK NOTLARI ---
+
+YENİ BİLEŞİK - KÜRESEL STRATA
+----------------------------- -
+Tavanda dengesiz ve ölümcül buz sivri, ayaklarınızın altına açılan korkunç çatlaklar, özel düşman tipleri ve tüm yeni Sıcaklık sistemimizin ilk yinelemesiyle tamamlanan yepyeni buzlu bir cehennem cesareti! Harika oynayın - etli dondurma olarak bitmeyeceğinize dikkat edin ...
+
+CAVES
+- Buz! Glacial Strata gezegen bölgesinin ana malzemesi kaya yerine buz, yani ateş onu eritir! Bu bilgiyi akıllıca kullanın.
+- Derin kar! Kazıkları için dikkat et. Size zarar vermeyecek, ancak sizi yavaşlatacak ve atlatması imkansız.
+- Donmuş göller! Adımlarına dikkat et - oldukça kayganlar.
+- Kaplıcalar! Isırmayı nezaketten kurtarmanın tek yolu, yanınızda taşıdığınız “aletleri” dikkate almazsanız.
+
+FLORA
+- Patlayıcı Buz Tesisleri! Onları uzaylıları izlerinde dondurmak için kullanın, ama kendinizi izleyin ... onlar da size düşman kadar vururlar.
+- Platform Tesisleri! İçerideki sıvıyı serbest bırakmak için onları vurun - anında donacak ve kullanmanız için kullanışlı (ancak kırılgan) platformlar oluşturacaktır.
+
+ENEMIES
+- Buz Bombacısı! Yeni Mactera Bombacı düşmanımızın bir çeşididir. Seni geçerken hastalanan donma maddesi akışlarını serbest bırakacak.
+- Don glifleri! Birkaç tip Glif, soğuğa adapte olmuş ve sizi sıcak ılık et için burada avlamaya devam edecektir. Frost Praetorian'a dikkat edin - soğuk bir katil. Başta, hepsi her türlü ısıya karşı oldukça duyarlı görünüyorlar…
+
+TEHLİKELER
+- Soğuk Havalandırma! Duvarlardaki çatlaklara dikkat edin ve havanın yatay hava akışlarını söyleyin - zaman zaman kemik ürpertici rüzgarın patlamalarını önlerler.
+- İnce Buz! Dikkatli yürü ve kulaklarını kulaklarından tut. Bir süre sonra derin uçurumlar altınızda açılabilir.
+- Kararsız buz sarkıtları! Tavandaki yosun dolu buz sarkıtlarına dikkat edin. En ufak bir rahatsızlık, onları zemine gürültülü bir şekilde düşürme ve paramparça etme eğilimindedir. Bu noktada onların altında duran herhangi birisine varabilirsiniz.
+
+SICAKLIK SİSTEMİ
+- Vücut kokusu cüce öncelikleri listesinde düşük kalsa da, vücut ısınıza dikkat etmek her zamankinden daha önemli. Çok alçak olunca yerine donacaksınız. Çok yükseğe çıkın ve alev atarsınız. Ölçeğin merkezine doğru tutmak en güvenli olanıdır. 
+- Bazı eylemler veya nesneler sıcaklığınızı düşürür veya arttırır. Alev makinesi gibi bazıları açıklayıcıdır.
+- Düşmanlar aynı kuralları takip ediyor. Hem donmuş hem de ateşe maruz kalabilirler, ancak türlerine bağlı olarak benzersiz dirençleri veya zayıflıkları vardır. Bilginize: Yeterince hasar uygulanırsa, donmuş düşmanları paramparça edebilirsiniz ...
+
+DİĞER EKLER / TWEAKS
+----------------------- -----
+DISCORD RICH INTEGRATION
+- Arkadaşlarının ne oynadığını gör ve oyunlarına doğrudan Discord'tan katıl.
+
+ENEMIES
+- Yeni Düşman tipi: Goo Bombacısı
+- Spitball Infector şimdi uykuda kalmaya başladı ve sadece çok yaklaştığınızda ya da herhangi bir şekilde yaralandığınızda uyanıyor.
+- Mactera Spawee, yakın muharebe saldırıları için çok zayıfladı.
+- Mactera Grabber, sizi aktif olarak kovalayan sürece artık çığlık atmamalıdır.
+
+BOSCO
+- Yeni simge, böylece Bosco'nun ne yaptığını her zaman bilirsiniz.
+- Bosco artık Oyuncuya, benimkilerin söylediği duvardan daha yakın olan maden kiri değil.
+- Bosco şimdi her zaman Oyuncuları kapan Grabber / Cave sülüklerine gider.
+- Bosco, bir Mağara sülük veya Grabber tarafından öldürüldükten sonra Player'ı kendisine yaklaşmadan diriltemez.
+- Tweaked Bosco'nun öncelikleri - şimdi talimat verildiğinde madencilik yerine düşmanlara odaklanacak.
+- Düşmanlara işaret ederken optimizasyon.
+
+AUDIO
+- Tonlarca yeni ses hattı eklendi.
+
+SABİTLER
+------------------------------
+- Sabit İzci IFG Bombası uygun hasar direnci cezası uygulamıyor.
+- Biri yatırırken Molly'nin uzaklaşmayı seçmesi düzeltildi. Görgü, Molly!
+- Kayıt oyunlarının işlenme şekli iyileştirildi - tek bir makineyi paylaşırken sorunları önlemek için kayıt oyunlarınız artık SteamID'inizin adında.
+- Artık oyun bozulmalarını yanlışlıkla yedeklemelerini önlemek için her oturumda dosyaları ayırmak için yedeklemeler yazılmıştır.
+- Ziplines'ta, müşterilerin zip hattındayken hafifçe hareket edebilecekleri ve hızlarını artırabilecekleri bir sorun düzeltildi.
+- Lazer göstergesini Glifid tünellerinde ve gömülü minerallerde gösterdiğinde sabit kare hızı düşüşü.
+- Düşmanlar öldükten sonra artık ses çıkarmaya devam etmemelidir. Sebebi var, gerçekten…
+- Mactera Spawn ve Grabber, çizgi çizdikten sonra artık Navmesh'in dışında kalmamalı.
+"
+	Update_12 = "-OTOMATİK ÇEVİRİ-
+Hey Madenciler!
+
+Yine yama zamanı geldi ve sizin için bir sürü harika şeyimiz var! Tweaks, hata düzeltmeleri ve ilk yeni düşman! Ayrıca, bu küçük güncellemelerle birlikte, şimdi daha büyük içerik ve özellik geliştirmeye başlıyoruz. Bundan daha sonra, geleceklerin daha geniş bir yol haritasını çıkardığımızda. 
+
+--- YEDEK NOTLARI ---
+
+TOPLULUK İSTEĞE BAĞLI SABİTLER
+------------------------------- ------------------------
+
+BOSCO, YURT DIŞINDAN TOPLANTI BİR OYUN BAŞLADIĞINIZDA KATILIR
+Topluluktan çok popüler bir istek oldu. Bosco, bir oyuna ev sahipliği yapmaya başladığınızda size eşlik edecek. Bu yolla Bosco'nun size yardım etmesine başlayabilirsiniz, arkadaşlarınızın veya yabancıların oyununuza katılmasını beklerken. Zil ve ıslık olmadan kaba bir ilk uygulama yaptık ve şu şekilde işe yarıyor:
+- Bosco size özel / özel bir oyuna ev sahipliği yapmaya başladığınızda ve yalnız başına başladığınızda size katılıyor.
+- İlk oyuncu oyununa katıldığında, Bosco bu oyun oturumu için kendini imha edecek.
+
+JADIZ BUFF
+Jadiz, toplanması en zor malzemelerden biriydi ve biz onu parlattık. Jadiz şimdi Kristal Mağaralar Bölgesi'nde biraz daha sık ortaya çıkacak ve değer aralığını 7-18'den 10-18'e değiştirdik. 
+
+GÜZEL TEMİZ EKRAN ÇEKİMİ? 
+Bazılarınız hoş bir ekran görüntüsü alabilmeyi talep ediyor ve aslında bu özelliğe de ihtiyacımız var! Şimdi HUD'yi açıp kapatmak için [H] tuşunu basılı tutabilirsiniz. 
+
+
+YENİ PERSONEL
+-------------------------------------------- -------------
+
+YENİ BİRLİKTE: MACTERA SPAWN'A MERHABA SAYIN! 
+Mactera Spawn, ilk uygun uçan düşmanımızdır. Kusma saldırısını kullanarak uzaktan saldıracak. O Fly şaplak!
+
+SWARMER TÜNELLERİ 
+Artık duvarlardan çıkan garip görünen küçük tünellere rastlayabilirsiniz. Glyphid Swarmers burada yaşıyor! Çok topraklılar ve agresif bir şekilde yuvalarını koruyacaklar! Basit bir tavsiye: Onlardan kaçının!  
+
+CAVE LEECH SENİ KEŞFEDİN, “CİLTLE” GİDİNİZ! 
+Önceden, ölen bir Mağara Sülükünden bir cüce düştüğünde, uzun bir süre düşebilirdi, gizemli bir şekilde düşme hasarına uğramazdı; ki bu, tasarlandığı kadar garip görünüyordu. Şimdi mağara sülük dilini gevşetir ve sizi daha nazikçe indirir, düşmeye zarar vermemenizin daha gerçekçi görünmesini sağlar.
+
+GLİFİDLERDEKİ KESİNTİR Zırh!
+Bu sinir bozucu zırh plakalarına ateş etmek ve altındaki yumuşak altlıkları ortaya çıkarmak için yeterince ateş gücü yönlendirin!
+
+YENİ PASİF YARATICI: BİR PLANI mı? Bir Kuş mı? HAYIR JELYFISH UÇUŞTUR! 
+Hoxxes'in Yoğun Biyoz Bölgesi, şimdi büyük, pasif, uçan jölelerle doludur.
+
+MİNERAL TİCARET TERMİNALİ 
+Maden Ticaret Terminalinde, el işçiliği malzemeleri için kredilerinizi alıp satabilirsiniz, ancak malzemelerin makul ölçüde fiyatlandırılması tavsiye edilir. Değerli işçilik malzemelerinizi krediler için de satabilirsiniz, ancak yine de makul bir fiyat beklemeyin. Deep Rock Galactic, işçilerinden gelse bile her zaman gelirlerini en üst seviyeye çıkarmaya çalışıyor! 
+
+REVOLVER RELOAD ANIMASYONU
+Gunner Revolver şimdi düzgün bir yeniden yükleme animasyonu içeriyor - ayrıca tamamen yeniden yüklenirken yeniden yüklemeyi denediğinizde havalı bir silah ustası hareketi de var.  
+
+FLASHLIGHT NERF 
+Cücelerin el fenerindeki menzil 12.50m'den 11.00m'ye düştü, bu da onları biraz zayıflattı.
+
+PATHFINDER İYİLEŞTİRMELER
+Düşmanların artık ince mağara duvarlarından doğrudan geçme olasılığı daha düşüktür.
+
+MULE GÜVENLİĞİ DÜZELTME
+Herhangi bir nedenden dolayı, MULE Kaçış Bölmesi'ne dönüş yolunu bulamazsa, geri sayım bitmeden kapılar hala 15 saniye açılacaktır.  
+
+... Ve tonlarca küçük parça, çoğu sahnenin ardında hata giderdi, aynı zamanda küçük görsel güncellemeler. Tam genel bakış için aşağıdaki yama notlarına bakın.
+
+DEĞİŞTİRİCİ
+--------------------------------------------- ----------
+- Spacerig'deki drop pod matkaplar için ince ses
+- Kırmızı Şeker daha Redder
+- Eklendi Geliştirici Etiketler
+- İlk kişiyi aldıktan sonra taşınır ölçeklendirmeyi düzeltin
+- Azalan kurtçuk tarama hacmi
+- Mağara sülük sesi çimdik
+- Mağara sülük sesi tekrar çimdik agian
+- Revolver yeniden yüklendi
+- Elektrik kristalinde Tweaked ses
+- Acımasızlık kaplaması artık
+hızlı bir şekilde soluyor - Death Cam kaplaması ince ayarlanmış
+- Droppod ses çimdik - Uzay teçhizatında yüksek sesle değil
+- Av tüfeği ses çimdik
+- Düşmanlar yerden karaya çıktığında ortaya çıkan etkiler şimdi müşteriler üzerinde çalışıyor
+- Eklenen zemin ışığı ve tabanca ayrımı + arkadan aydınlatma yapımı eklendi ölü kamera daha iyi görünüyor.  
+- Sabit - Kendi kibrin, misyonlarda veya uzay gemisinde sana uygun olduğunu göstermez.
+- İlk kişi silah aydınlatmasını değiştirdi ve eşleşecek şekilde malzeme parçalarında gönderildi.
+- Üst üste çıkan oyuncuları tamir etmeye çalışın
+- Koleksiyonlardaki gecikmeleri düzeltmeye çalışın!
+- Oynatıcıda kancalı zırh ve sağlık çubuğu hud
+- Sunucu listesi ekranına Eklenen Kaynaklar
+- Eklenen Üçüncü Kişi Karakter Açma (WIP)
+- Nesil sırasında çıkarıldığında ölüm sesleri ve parçacıklar yapan sabit elektrik kristalleri
+- parçacık optimizasyonlar Ekleyen çok, mantar performansını artırmak için
+Sabit nöbetçi tabancası ses düzgün ağ & hep olmak anahat yeniden -
+Tweaked boyama göstergesi çarptı -
+yapışkan alev yaşam süresi arttırıldı -
+Daha az Electrocrystals, küçük - hasar yarıçapı, bağlantılar arasında daha uzun duraklamalar var
+- Sabit alev makinesi birinci şahıs parçacık etkisi çok küçüktü
+- Mineral dağılımı değişti, Altın ve Nitra mağaraya daha eşit yayıldı
+- Ticaret Terminali
+- Örümcekler üzerindeki geliştirilmiş başlıklar
+- Dokunaç alt oyuncunun ölüme dayanması için düşürüldü
+- Glifler artık sadece silahlar çarptığında şaşırıyorlar
+- Ölüm parçacığını oynamayın headshot
+- Yanlışlıkla mağara sülük tespiti ölü cüce 'canlandırmak'
+- Pathfinder iyileştirmeleri. Araziden az geçiyor.
+- Swarmer tüneli spawn'a ses ipucu eklendi
+- Yoğun biozone'e eklendi Pasif Jöleler
+- Tünel ayarlarında değişiklikler - Bazı bölgelerde daha az küçük tüneller
+- Radyoaktif parlayan kristallerde daha iyi sesler
+- Küçük çaplı, revolver hassasiyeti 
+- Araziye göre kontrol edilirken lazer işaretçi performansı arttırıldı
+- Bosco şimdi yalnız bir oyuna başlarsanız ortaya çıkıyor ve biri
+katılırsa yok oluyor - Yeni malzeme, ses, parçacıklar içeren swarmer tünelleri
+- Zayıf nokta göstergesi için düşman sağlık çubuğunun başlangıç durumunu belirle
+- Omuz lambaları 12.50m'den 11.00m'ye indirildi ve onları biraz daha zayıf kıldı.
+- Yırtık bacaklara yırtılmış doğru isim eklendi
+- Spitter bacağını tekrar kullanmak yerine Shooter bacak eklendi.
+- Elektrik tesislerinde aydınlatma değişti ve parçacıklar biraz optimize edildi. Yeni alev makinesi ateşi.
+- Düşmanların ateş alması için ateşleme etkisi eklendi.
+- Katma weakpoint öldür Partikül ilanı atıcı için
+- onlar yeterli hasar alırsak oyuncular fermuarlı hattan düşecek
+- HUD geçiş yapmak için H tutun açık / kapalı
+- Glyphid Korkusuz alan saldırı şimdi tam hasar veriyor tüm alan (daha önce bir düşüş yaşandı)
+- İnce Jadiz miktarı - Jadiz'in yumurtlamasının sadece 2 ila 3 aralığına sahip olduğu değeri 2 olduğu için sabit hata + 7 ila 18 ila 10 arasında değişen değer aralığı - 18
+- Yağma böcek kaynaklı yağma azaldı: topakları 15-30 şimdi 15-25 ve öbek değeri şimdi 1-4 oldu"
+	Update_13 = "-OTOMATİK ÇEVİRİ-
+Hey Madenciler!
+
+Yine o zaman ve zevk almanız için ilginç değişikliklerimiz var! Bu Güncelleme, sağlık sistemindeki tweaks ile normalden daha deneysel ve görüşlerinizi duymak isteriz. 
+
+--- YEDEK NOTLARI ---
+
+TOPLULUK İSTEĞE BAĞLI SABİTLER
+------------------------------- ------------------------
+
+LESS SHIELD
+Bazı sert madenciler oyunun daha zor olmasını istedi - özellikle daha yüksek zorluklarda . Oyunu daha yüksek zorluklarda zorlaştıran tweaks yapmaya çalıştık, ancak neredeyse daha düşük zorluklarda aynı hissediyorum. Başlama kalkanınızı 30'dan 25'e düşürdük ve kalkan yükseltmelerini kalkanın 10'dan 2.5'e değiştirdik (% 10'luk bir destek vererek).
+
+DAHA SAĞLIK
+Kalkan eksikliğini gidermek için - oyuncu sağlığını 100'den 110 hp'ye yükselttik. 
+
+DAHA KIRMIZI ŞEKER
+Ayrıca kırmızı şekerden elde ettiğiniz iyileştirme miktarı% 25, misyonda ortaya çıkan kırmızı şeker miktarı% 10 artırıldı. 
+
+
+TWEAKS 
+------------------------------------------- ------------
+
+SOLO ENEMY NUMBERS & SAĞLIK
+Hoxxes mağaralarını kendiniz keşfetmek, daha fazla zaman alır ve acımasız olabilir, bu yüzden sürüleri biraz olacak kendi başınayken biraz daha küçük. Düşman sağlığı da yalnız keşif gezileri için biraz düşürüldü. Hoxx'ların yaratıkları hala tehlikelidir, bu yüzden korumanı düşürme!  
+
+50% DAHA Revives İLE BOSCO YAPIN
+o gerçekten isterken, Bosco hep bir mağara sülüğü sizi kurtaramaz. Kendisi için gerçekten çok üzülüyor ve 2 yerine 3 kez sizi diriltmesine izin verilmesini talep ediyor.
+
+MACTERA SPAWN SAĞLIK YÜKSELTİLDİ
+Mactera Spawn'ı mükemmelleştirmek için sürekli bir çaba göstererek sağlığını 180'den 210'a değiştirdik.
+"
+	Update_25_Xbox = "Hi Miners,
+Whew! You’ve been patient with us for a long while, but Update 25 - our most ambitious update to date - is finally here! Deep Dives, even more gear customization, late-game rewards, tons of new skins, cargo crates, overhauled beard physics...hoh boy, Miners - this is a big one. Our beards grew 6 inches just from writing these patch notes.
+
+
+--- PATCH NOTES ---
+
+DEEP DIVES
+----------------------------
+If you’re a Dwarf that’s looking to go places, we have just the opportunity for you. As a promoted Dwarf you have been deemed worthy to get special access to weekly Deep Dives - three consecutive seeded missions, where ammunition and health carries over to the next mission. In Deep Dives you will have to complete two objectives in each stage and chances for encountering Mutators are very high. Each of the three stages of a Deep Dive will grant you rewards upon completion, ranging from minerals to the new Matrix Cores. While you can complete the week’s Deep Dives as many times as you want and improve your best time, bear in mind the rewards can only be claimed once per week.
+
+
+MATRIX CORES
+----------------------------
+Not getting paid enough? We’re giving your Deep Rock Galactic pay-slip a boost. Matrix Cores are the cornerstones of the new rewards introduced in  Deep Rock Galactic. In Update 25 you will receive Infused Matrix Cores - Matrix Cores with already predefined content, that can be used to forge Weapon Overclocks or glorious all-new beards and helmets. In Update 26 we will introduce a way to infuse Blank Matrix Cores, but more on that when we get closer.
+
+
+THE FORGE
+----------------------------
+The place where you go with you Infused Matrix Core and forge them into something usefull. Also note that forging Infused Matrix Cores will increase your Forging Mastery and earn you even more Matrix Cores. It’s Hammertime! 
+
+
+WEAPON OVERCLOCK CORES
+----------------------------
+If you’ve been wanting bigger explosions or new ways to shred entire tunnels of bloodthirsty glyphids, then you’ll love the upgrades you’ll be unlocking for your arsenal. Weapon Overclocks range from basic but minor improvements like increase magazine capacity, to providing entirely new ways to modify the overall weapon functionality. 
+Deal radioactive splash damage with your Grenade Launcher? There’s an overclock for that. Gain more airtime while aiming down the sights of the M1000 rifle? There’s an overclock for that. Shred the enemies with ice shards from your Cryo Cannon? You guessed it. There’s an overclock for that.
+
+
+COSMETIC CORES
+----------------------------
+With Update 25, we’re doubling down on glorious facial hair and other cosmetic items. If you thought your current beard was the most dwarven it could get... boy, do we have some hairy news for you.
+
+
+NEW ASSIGNMENTS
+----------------------------
+BREACH THE CORE: Upon your first promotion of any dwarf you get access to a new assignment called BREACH THE CORE. Complete this to earn a handful of Infused Matrix Cores and get your collection of Weapon Overclocks and Rare Cosmetics kick-started. Completing the assignment will also unlock the Weekly Core Hunt.  
+
+
+WEEKLY CORE HUNT: For those veteran dwarves looking to make a little spare cash for beard accessories on the side, there’s now Weekly Core Hunt assignments available for Promoted Dwarves. Finishing these will reward you both a Weapon Overclock Core and a Cosmetic Core. Stay strong and classy.
+
+
+CARGO CRATES
+----------------------------
+It’s not all about the Deep Dives, though. Be on the lookout for lost Cargo Crates in the caves of normal missions - they are known to contain copious amounts of minerals and weapon skins!
+
+
+NEW MUTATORS
+----------------------------
+
+WARNINGS
+----------------------------
+LOW OXYGEN: As the title says - hold your breath and try not to die before you reach an oxygen tank.
+
+LETHAL ENEMIES: The aliens are extra cranky today. All enemies deal significantly more damage.
+
+REGENERATIVE BUGS: I’ll have what they’re having. All enemies regenerate their health if you wound them and don’t take them out straight away.
+
+PARASITES: Well, it gets even worse. The aliens in this place are just… ugh… just full of angry, parasitic worms. 
+
+HAUNTED CAVE: There’s… SOMETHING… in this cave. It is hunting you. Relentlessly. And it just...won’t...die! Don’t stop. Don’t look behind you. It’s right there constantly coming for you.
+
+ANOMALIES
+----------------------------
+VOLATILE GUTS: You thought Exploder Infestation was bad? Well, whatever infested those poor creatures has run rampant here. Every alien explodes. Just awful.
+
+
+BEARD PHYSICS
+----------------------------
+Glorious facial hair is the hallmark of a good dwarf. We’ve added enhanced beard physics to enhance that magnificent feeling of having a proper dwarven beard.
+
+
+MORE DWARVEN SHOUTS
+----------------------------
+Nothing is more dwarvish than yelling at stuff, so we’ve added a whole new range of voice lines to the mix. There are new shouts for Power Attacks, salutes, grenade throws, laser pointer, and lots more.  
+
+
+BIOMES
+----------------------------
+- New dripping rainfall effect. It can often occur in Dense Biozone and rarely in Crystalline Caverns. 
+- Moving through deep snow in Glacial Strata is less of a slog now - you should notice a significant boost in movement speed.
+
+
+BULLET TRAILS
+----------------------------
+They make weapon spread, recoil, and other features more visible so the effect of certain Mods and Overclocks is clearly noticeable. Plus, we also think they look neat.
+
+
+NO MORE “FLOATING ISLANDS”
+----------------------------
+Strange anomalies were causing gravity-defying behaviour where crystals, dirt, and other biome elements were floating when separated from their anchor points. They no longer do that. No more getting stuck on tiny little bits of floating rock after digging!
+
+
+CUSTOMIZABLE HUD
+----------------------------
+Less is sometimes more. There is a whole slew of new options for HUD customization, letting you set up what’s shown and what isn’t completely to your liking - including dynamic options to make elements appear when they are relevant and disappear when they are not.
+
+
+THROW LIKE AN ATHLETE
+----------------------------
+Being a miner demands precision in every aspect, and so we’ve added a new throwing mechanic to the game. Click to let go of a held object, hold down to charge your throw with the desired amount of force.
+
+
+WEAPON TWEAKS
+----------------------------
+
+SCOUT
+----------------------------
+DEEPCORE GK2
+- Fixed Battle Cool mod to work as advertised (it used to kill spread per shot but without resetting the accuracy)
+- Moved Quickfire Ejector mod to Tier 1 and increased its value for even faster reloads
+- Added a new damage mod to Tier 3 to take place of the relocated quickfire ejector
+- Decreased value of the Tier 2 Increased Caliber Rounds mod
+- Decreased value of both the Expanded Ammo Bags mods
+- Increased the base ammo count
+- Increased the power of the Recoil Compensator mod and it now affects both actual recoil and spread per shot
+- Increased base spread per shot slightly
+
+M1000 CLASSIC
+- Added an upgrade type and description for the rifle's focus mode
+- Renamed Improved Ergonomics mod to Fast-charging Coils
+- Improved the Floating Barrel mod slightly to better compete with the others
+- New sound for focused shots
+
+DUAL ZHUKOV NUK 17
+- Increased base damage
+- Decreased the value of Increased Caliber Rounds mod to better match the other T3 option
+- Increased the Value of the Supercharged Feed Mechanism mod to better compete with other options
+
+JURY-RIGGED BOOMSTICK
+- Decreased value of Loaded Shells mod to better balance against other options
+- Increased base pellet count to compensate for Loaded Shells mod tweak
+- Increased value of Tier 1 Expanded Ammo Bags mod to better compete with the damage mod
+
+GUNNER
+----------------------------
+“BULLDOG” HEAVY REVOLVER
+- [COMMUNITY REQUEST] Explosive Rounds now do more explosive damage in a wider radius but at a cost of direct damage
+- Moved Hollow Point Rounds mod to Tier 3
+- Neurotoxin Mod now actually poisons enemies instead of just doing more direct damage
+- Deadeye mod now works for both walking and sprinting letting you stay accurate no-matter the situation
+
+BRT
+- Increased the base burst delay
+- Increased base damage
+- Decreased value of Increased Caliber Rounds mod
+- Increased value of High Capacity Magazine mod to better match the damage mod
+- Decreased the value of the Burst Damage mod to better match the other Tier 5 options
+- The Longer Burst mod now fires all the rounds in the burst much faster
+- Decreased value of the Hollow-Point Bullets mod slightly to bring it inline with competing options
+
+ENGINEER
+----------------------------
+DEEPCORE 40MM PGL
+- Increased base damage
+- Decreased value of Larger Payload mod slightly to better match other Tier two options
+- The Homebrew Explosive mod now gives a damage bonus in a range instead of a flat damage increase. This requires re-purchasing the mod. Anyone who acquired the old version will be automatically refunded.
+- Increased duration of stun from the Concussive Blast mod
+
+BREACH CUTTER
+- Increased base deploy speed
+- Extended the base deploy delay to compensate
+- Quick Deploy mod now properly affects the deploy delay
+- Extended the base projectile lifetime slightly
+- Renamed some of the mods to better follow out naming style for other weapons and to better clarify functionality
+- Rearranged some of the mods to better balance options
+
+PROXIMITY MINE
+- [COMMUNITY REQUEST] Every mine will now trigger an explosion multiple times. This way, they better serve the purpose of planning defenses and a lonely enemy triggering them is not as big of a waste.
+
+PLASMA BURSTER
+- Engineer will carry 6 instead of 4.
+
+DRILLER
+----------------------------
+CRYO CANNON
+- Increased range of Cold Radiance mod to improve useability
+- Increased value of the High Water Content mod to better compete with the other options
+- Increased base charge up time
+- Increased value of the Improved 2nd Stage Pump mod
+- Decreased the value of the Stronger Cooling Unit mod to better match other Tier 1 options
+- Increased the base repressure delay slightly
+- Improved the value of the Bypassed Integrity Check mod
+- Moved the Overclocked Ejection Turbine mod from Tier 3 to Tier 2
+- Decreased base repressure speed slightly
+- Improved the value of the Faster 1st Stage Pump mod to better compete with other options
+- Added a rate of fire mod at Tier 3
+- Fixed EPC bouncy projectiles not impacting armor correctly
+
+CRSPR FLAMETHROWER
+- Upgrade slot five, choice three, description should read " direct damage have a chance to explode " instead of " has a chance to explode".
+- Upgrade slot two, choice two, "triple filtered fuel" is misspelled as 'TRIPPLE'
+
+SUBATA120
+- Increased base damage
+
+EXPERIMENTAL PLASMA CHARGER
+- Renamed most of the mods to better match the naming convention used for other weapons
+- Increased base speed of the charged shot projectile
+- Increased value of the Overcharged Plasma Accelerator (charged projectile speed) mod
+- Decreased the recoil from normal shots
+- Decreased overall shot spread
+- Lowered the value of the damage upgrade from +6 to +5 because OCD
+- Increased the base speed of the normal projectile slightly
+- Added the Increased Particle Velocity (normal projectile speed) mod
+- Decreased value of Improved Charge Efficiency (charged shot energy cost) mod
+- Lowered the base ammo count slightly to cleanly divide into shot cost (OCD again)
+- Lowered the value of the Larger Battery mod slightly
+- Added the High Density Battery mod to Tier 4 for more ammo options
+- Decreased the amount of heat generated by normal shots
+- Decreased the base cooling rate of the weapon
+- Fix normal shots going through armor
+
+SATCHEL CHARGE
+- It’s no longer possible to place more than one Satchel Charge at a time. The damage of the charge was tweaked to be the most powerful explosion in the game. Stacking that damage in one area wasn’t intended and it removes the challenge from fighting some kinds of enemies.
+
+
+SOUND
+----------------------------
+- Fixed Geyser sound too loud/too many spawned
+- Naedocyte Breeder sound now stops when it dies
+
+
+ENEMIES
+----------------------------
+- [COMMUNITY REQUEST] Enemy health bars now show all kinds of status effects (Stun, Radiation, Neurotoxin etc.)
+- Improve the performance of all enemies and 10x perf improvement on Q’ronar
+- Warden's weak point collision adjusted. It wasn't registering correctly some hits that should count as weak point hints
+- Naedocyte Hatchlings changed to look more distinct from Shockers
+- [COMMUNITY REQUEST] Acid clouds now blow up from all fire damage sources
+- Fixed Bulk Detonator stuck particles
+- Naedocyte Hatchlings and Shockers aren't marked correctly with the Laserpointer
+- [COMMUNITY REQUEST] Lowered the chance of multiple Bulk Detonators -
+- A little less increase over time in enemy pressure on Point Extractions 
+- Decreased the magnitude of the enemy wave in the beginning of Point Extraction
+- [COMMUNITY REQUEST] The Bulk Detonator will not attack for the first 5 seconds after spawning to give players a small window to get to a safe distance
+- Fixed a case where the grabber was screaming but not chasing a player
+- Some animation optimizations on Bosco, Naedocyte Trawler, BET-C and Naedocyte Breeder
+- Mactera Bomber goo sacks now light up individually when you shoot them
+- The parasites no BET-C can now be lit on fire
+- Fixed a bug that made BET-C wait close to 5 seconds after switching from machine guns to grenade launcher
+
+
+SMALL FIXES AND MISC. CHANGES
+----------------------------
+- White backgrounds on menus fixed
+- Fixed freezing / heating UI icon flipping constantly if near both a heat and cold source
+- Milestones added for the new Warning Mutators
+- Mutators/Warning-icons updated
+- Fix Armor impact particles not working on pickaxe
+- Power attack can now be activated when hitting air
+- Throwing a grenade no longer causes you to take out the wrong weapon
+- Smoke trails added to hitscan weapons
+- Added a long screw to zipline projectile.
+- Added more hot springs in ice caves
+- Typos/grammar fix on a couple of modifications
+- New Character Vignets Videos added. Driller and Gunner here!
+- Carriables should now always be usable after Bosco picks them up
+- Slightly altered Icon Color for Elimination and Extraction missions, so not to clash with Warning Mutator Icon as much
+- Bosco can now be ordered to target Trawlers properly
+- Hide join and solo options from mission select if people have joined your session.
+- Fixed untranslatable text fields in Memorial Hall etc.
+- Broken Jukebox display SHOULD be fixed
+- Shield Disruption now gives you more base health to be a little less brutal.
+- Fixed depositing issues in the MULE while too far away but close enough for interaction prompt
+- Fix for Molly going back to a previous position when she should be going to the Drop Pod
+- Fixed most cases of Molly failing to locate the Drop Pod
+- Fixed cases of pickaxes floating mid air at the start of mission
+- Fixed spelling error "jelous" in mission names
+- Laser pointer no longer gets stuck when saluting
+- Fix an issue with characters becoming selected after hovering over them in the Character Selection Terminal
+- Fixed typos in Weekly Assignment description
+- Fixed Trade Terminal Assignment gives 0 Croppa
+- Fixed No hollomite does not appear when it is secondary objective
+- Fixed spawn collision (Swarmers from spawner)
+- Fixed enemies can be hit after they are dead
+- Fixed Sticky Grenade doing physical damage, triggering perks
+ 
+#. Key: Update_25_Xbox
+#. SourceLocation: /Game/Game/Text/PatchNotes.PatchNotes
+#: /Game/Game/Text/PatchNotes.PatchNotes
+PatchNotes,Update_25_Xbox
+"
+	Update_11 = "-OTOMATİK ÇEVİRİ-
+Merhaba Madenciler, 
+
+Sizin için havalı yeni özellikler,bazı ayarlar ve hata düzeltmeleri içeren bir güncellememiz var. Bu küçük güncellemeler ile birlikte, bazı büyük içerik ve özellik geliştirmeleri başlatıyoruz. Gelecek şeyleri içeren daha büyük bir yol haritasını paylaştığımızda daha fazla bilgi vereceğiz. 
+
+--- YAMA NOTLARI ---
+
+TOPLULUK TARAFINDAN İSTENEN DÜZELTMELER 
+--------------------------------------------
+GUNNER: MİTRALYOZ YENİDEN İŞLEME
+Mitralyözün çok güçsüz olduğu hakkında çok fazla konuşma geçti özellikle daha zor seviyelerde. Kabul ettik ve birtakım ayarlar yaptık:
+- Başlangıç Cephane Kapasitesi 1800'den 1600 mermi olarak değiştirildi.
+- Artık mermiler seri bir şekilde tek, yükseltilebilir bir tambur şarjörden beslenebilir - artık yeniden doldurma yok!
+- Daha hızlı aşırı ısınma gerçekleşir - devamlı 10 saniyelik atıştan 9 saniyelik atış olarak düzeltildi.
+- Aşırı ısınma artık daha cezalandırıcı - soğuma süresi 8 saniyeden 10 saniyeye yükseltildi.
+- Yükseltmeler yeniden işlendi: Mermi ve Şarjör kapasitesini etkileyen yükseltmeler yalnızca şarjör kapasitesini etkileyecek şekilde yapıldı. Normalde maximum mermi kapasitesini +400 artıran ilk yükseltme şarjör kapasitesini +400 artıracak şekilde değiştirildi. İkinci şarjör yükseltmesi önceden yalnızca şarjör kapasitesini artırırken şimdi ise +400 mermi artırımı sağlıyor. Bunlar da Mitralyöz cephanesinin tamamen yükseltiminde etkileyici 2400 mermiye sahip olmasını sağlıyor! 
+- Mitralyöz için hasarı %25 artırmayı sağlayan yeni Tungsten Mermi yükseltmesi eklendi. Aşırı zor zorluk seviyesine ilgili oyuncular için olması gereken bir güncellemedir.
+- Aşırı ısınma yaptığında anlamayı bariz hale getirecek duman efekti eklendi
+
+DAHA İYİ BİR BOSCO
+Eğer çok küçük bir yığın kazılmamış mineralleri işaret ederseniz Bosco oraya gidip o minik yığını bulamayıp görevi iptal ediyordu. Artık yığını bulup kazabiliyor. Bosco hatta artık sen maden kazarken önünde gezinmeme konusunda daha iyi. Favori Drone'unuz için her türden hayat kalitesi düzeltmesi!
+
+
+YENİ ŞEYLER
+--------------------------------------------
+TAKIM KAMERASI SİZİ HER ZAMAN AKSYİONDA TUTACAK
+Takım kameralarının ilk tekrarı - Siz aciz bir haldeyken gözlerinizi takım arkadaşlarınızın üzerinden ayırmayın. Artık düşenler daha az düşüşte! 
+
+ELEKTROKRİSTALLER
+Ölümcül Elektrokirstaller Kristal Mağarlarına eklendi. Çok fazla yaklaşmayın - canınızı yakabilir!
+
+İNİŞ KAPSÜLÜNDE PLATFORM YASAĞI \R
+Platformlar (ve İkmal Kapsüleri) artık iniş kapsülünde oluşturulamaz veya bağlanılamaz. Anladık... bazılarınız iniş kapsülünü platformlarla doldurmaktan zevk alıyor ancak Yönetim size Platform Betonunun ne kadar zor temizlendiğini hatırlatmak istiyor!
+
+YERÇEKİMİ REKALİBRASYONU
+Çok cazip bir şekilde işe yaramayan, "Yerçekimi Rekalibrasyonu" adında bir buton Uzay Gemisinde aktif edildi. Yönetim bu özelliği kötü amaçla kullanan çalışanları hoş görmeyecektir - ama öyle kocaman ve kırmızı ki...
+
+STEAM BÖLGE ARAMASI DÜZELTİLDİ
+İnsanlar kendi bölgelerinde oyun ararken zor zamanlar geçirmeden önce biz bunu çözdük (öyle umuyoruz)!
+
+...Ve tonlarca küçük şey, genellikle arka sahnedeki hata çözümleri ama bazı küçük görsel yükseltmeler de dahil. Tam bir genel bakış için aşağıdaki notlara bakın.
+
+
+DEĞİŞENLER LİSTESİ
+--------------------------------------------
+- 13314 Elektrikli Bitkiler artık Kristal ve Kristal Mağaralar Bölgesinde bulunabilir
+- 13316 Bütün diller Crowdin'den güncellendi
+- 13319 Kazma artık düşman olmayan objelere vururken daha az agresif
+- 13320 DÜZELTME: Tırmanma Çengeli tırmanma modunda takılı kalıyordu
+- 13328 Bosco artık kazma emri verdiğinizde daha küçük mineral damarlarını da keşfedebiliyor
+- 13329 DÜZELTME: Kontrol menüsü artık Oyun Kolu menüsünü de içeriyor (yeniden)
+- 13338 Bosco artık siz maden kazarken önünüze çıkmama konusunda daha dikkatli
+- 13339 Uzay gemisinde artık yeni bir şalter var, ne işe yarıyor ben de merak ediyorum?
+- 13341 Özellik: Yere Düşme Kamera Modu, iyileştirilmeyi veya oyunun bitmesini beklerken oyuncular arasında geçiş yapabilirsiniz. Bundan böyle ölmeyi bekleyen bedeninize bakakalmanıza gerek yok!
+- 13384 Ağ hatalarını düzeltmeye/iyileştirmeye çalıştık. Karakter seçmemiş oyuncuları odadan atmayı aktif hale getirdik
+- 13385 Server tarayıcısında arama aralığınının düzeltilmesi
+- 13386 Steam'deki beta versiyonu artık ayrı bir kayıt dosyasına kaydedecek. (İlk başta ana versiyondan kaydı kopyalar). Artık her görevden sonra bir yedek kayıt oluşturulacak, toplam karakter tecrübe puanını kontrol edecek böylelikle daha az ilerlemeye sahip bir kayıt asla daha ileride olan bir kayıdın üzerine yazmayacak.
+- 13391 Süper Pompalı Tüfek yükseltmesi çift namlulu tüfek ateşi yerine daha hızlı atışhızına sahip olacak şekilde düzenlendi.
+- 13393 Karakter seçmeden önce atılan oyuncunun oluşturduğu arayüz hatasının çözülmesi
+- 13397 Görev Haritası: Artık görev simgeleri görevler kilitliyse şeffaf, Şifreler doğru boşluklara sahip
+- 13402 Küçük düzeltme. Molly artık zeminde rastgele yer ararken pozisyon tercih edebiliyor 
+- 13403 Pompalı Tüfek doldurma hızı yükseltmesinin doğru sayıları göstermemesi düzeltildi. Büyük yükseltme sayılarının arayüze zorla sığıyor olması düzeltildi
+- 13404 Server listesi yüz germe gerçekleştirdi
+- 13405 Mağara sülüğü sesleri iyileştirildi
+- 13409 Son kuşanılan silah tuşuna basıldığında Kazma çıkması önlendi
+- 13410 Alev silahı için ateş animasyonu ve mitralyöz tekrarlı bir şekilde baştan başlamak yerine düzgünce döngüye girmesi sağlandı. Saldırı tüfeğinin izli mermisi düzeltildi.
+- 13411 Kalkan ve sağlık hasarı bildirimleri artık yeniden canlandırıldıktan sonra temizlenecek
+- 13413 Mitralyöz ayarları
+- 13414 Birincil kişi kolları için kamera pozisyonu düzeltildi
+- 13415 Mitralyöz namlu ağzı parçacıkları pozisyonu düzeltildi.
+- 13416 Tentakül ses pozisyonu düzeltildi
+- 13418 Bütün silahlara sallanma özelliğini eklendi
+- 13419 Sarkıt düşme sesi düzeltildi
+- 13420 Kurtçuk sürünme sesi eklendi
+- 13421 Görev Haritası Kilitlenme grafiği güncellemesi
+- 13423 Daha iyi server listesi
+- 13424 Yeni Mitralyöz aşırı ısınma parçacıkları eklendi
+- 13427 Çok küçük ve keskin virajları olan çıkmaz tüneller engellenmeye çalışıldı.
+- 13429 Biyomların derinlikleri düzenlendi
+- 13436 Yol bulma engelleyici ve tehlike bölgeleri için daha iyi navigasyon desteği. NPC'ler değiştirilmiş bir alana girerken yollarını tekrardan hesaplıyor.
+- 13445 Versiyon 11'e yükseltirken yedek kayıt oluşturulması
+- 13453 Duvarlar yakın yerden kırıldığında Fişek tabancasının fişeklerinin duvardan rastgele fırlaması düzeltildi
+- 13454 Artık mücevher taşırken diğerlerini diriltemezsiniz
+- 13455 İniş kapsülü kaldırıldıktan sonra düşmüş olduğu yere düşmanların yürüyememesi hatası düzeltildi
+- 13466 Artık platformlar iniş kapsülünün içinde oluşturulamamaktadır. İkmal kapsülleri yalnızca arazi üzerinde çağrılabilir. Bu değişiklikler ana sebep olarak trollenmenin önlenmesi veya görevi bitirmenizi engelleyecek şanssız bir yerleştirmenin oluşmasını önlemek içindir.
+- 13468 Daha güzel host çıkış mesajı
+- 13469 Daha yeni Görüş alanı değişikliği... bazı animasyonlarda silah biraz daha uzağa taşındı
+- 13471 [Patch] Elektrikli matkaplar artık aşırı ısınma durumunda duman çıkarıyor.
+- 13480 Cüce durumunun oyun sonu penceresinde görünmeme hatası düzeltildi
+- 13484 Sürü tünelleri bütün biyomlarıda, tek seferlik
+- 13495 Alev silahı parçacıklarının boyutu büyütüldü
+- 13503 Biyom derinlik metreleri düzeltildi
+"
+	Update_10 = "-OTOMATİK ÇEVİRİ-
+Merhaba madenciler, 
+
+Önemli olan yeni fixler ve yeni içeriklerin bulunduğu bir güncellememmiz daha karşınızda. Bu küçük güncellemelerin arasında, şimdi bir kaç büyük ve önemli özelliklerin bulunduğu güncellemeler başlatıyoruz. Gelecek şeylerin daha büyük bir yol haritasını ortaya koyduğumuzda üstüne daha sonrasında fazlasını ekleyeceğiz.
+
+--- YAMA NOTLARI ---
+
+TOPLULUK TARAFINDAN İSTENEN FİXLER
+-Fare hassasiyeti ile ilgili birkaç hata düzeltildi 
+Hassasiyet uzay gemisinde ve misyonlarda aynı değildi, düzeltildi ve şimdi aynı. Hassasiyet, yatay ve dikey için farklı değerlere sahipti, artık seçenek olarak ayarlanabilirler.
+-Steam Bölgesi arama seçeneği.
+-Bağlantıyı kesen kontrolör artık fare ve klavyeyi devre dışı bırakmıyor
+-Birincil monitör için düzeltme denendi (Biraz denenmemiş!) 
+-Tırmanma kancası sınırsız yaşam bug'ı düzeltildi.
+
+MAĞARA İÇERİĞİ
+-Her gezegensel bölgede farklı tünellerin ilk uygulamaları var.
+-Kristallerin çatıdan düşüşü eklendi.
+-Yapışkan Goo mantar bataklığına eklendi. 
+
+MİSYON HARİTASI
+-Karmaşıklık ve Uzunluk için yeni ikonlar. Şimdi daha çok belli olmalıdır ki karmaşıklık ciddi bir zorluktur.
+-Artık karmaşıklık simgeleri misyon simgeleri üzerinde gösterilecek. 
+-Misyon ödemesi doğrudan aşağıda misyon simgelerin altında gösterilecek. 
+
+SİLAH VIEWMODELLERİ (GÖRÜNÜM MODLARI)\ 
+-Viewmodel FOD'u (Görüş alanı) 100 den 90'a değiştirildi.
+-Silahların first person (birinci şahıs) görünümleri şimdi daha az gerilmiş şekildedir.
+-Genel clipping (kırpma) sorunları azaltıldı.
+
+GÖZCÜ GÜÇLENDİRMELERİ
+-Sawed Off Pompalının 15 kurşunluk atış hakkı bulunan mermilerinin hasarı 6'dan 10'a arttırıldı.
+-Sawed Off'un 30 mermi alan cephane kapasitesi 16'ya düşürüldü. 
+-Sawed Off'un en fazla +10 olan cephane kapasitesi upgrade'i 8'e düşürüldü. 
+\ r
+ANİMASYON, SESLER VE EFEKTLER
+-Delici tabanca şarjör değiştirme animasyonları
+-Delici tabanca ve gözcü pompalıları animasyon u sırasında şarjör değiştirilecek animasyon sona erdiğinde değil. Bu diğer silahlara da kendi reload tarzlarını aldıklarında uygulanmış olacak. (Ses güncellemesi eksik)
+- İstemcideki arka plan animasyonları düzeltildi
+- Lazer İşaretçisi grafikleri güncellendi
+- Etkileşimli açılır pencereden atkaplan kaldırıldı
+- Hasar verirkenki kaplamaların grafikleri güncellendi
+
+DİL
+- Terminaldeki metinlerin arasına, daha fazla boşluk eklendi (Aksanlı diller için)
+- Tüm diller Crowdin'den güncellendi
+
+UFAK TEFEK DÜZELTMELER
+- Sunucu listesi varsayılan olarak şifreli sunucuları göstermeyecek
+- Artık astreoidler bekleme ekranında daha düzgün gölgelenecek!!!
+- Kontrollördeki sağ çubuk, şimdi fare scrollu olarak kullanılıyor
+- Arkadaşlarınızı davet ederken Steam Arkadaşları testini kaldırın. Özel oyunlar artık daha kontrollü olacak ve de eskiden istemci, sunucuda arkadaş olmayan arkadaşların davetini engelliyordu.
+- Molly'nin Anma Odasındaki heykelinin kilidi açıldığında altın olmama hatasıı düzeltildi
+- Make Molly and the large spiders prefer to walk on floor
+- Silah hataları düzeltildi
+- Düşmanlar artık "çakışmayacak şekilde" Enemies are no longer "staggered" by physical damage (Melee)
+- Mühimmat güncellemesi ve göreve başladığın ilk sırada şarjör boyutunun uygulanamaması hataları düzeltildi.
+- FPS bakış açısındaki item boyutları değişti, böylece diğer nesnelerle daha az çarpışacaklar."
+	Update_21.5 = "-OTOMATİK ÇEVİRİ-
+Parti zamanı, Madenciler!
+
+İster inanın ister inanmayın, Deep Rock Galactic şimdi BİR BÜTÜN YILDA yaşamaktadır. 28 Şubat 2018'de ERKEN ERİŞİM'e girdik ve bu mini güncelleme ile kutlama zamanı! Oyunu geliştirmek ve yeni özellikler ve içerikle genişletmek mutlak bir patlama oldu (ve olmaya devam ediyor) ve sizlerden aldığımız tüm harika geri bildirimler ve incelemeler bizi çok şaşırtıyor. Deep Rock Galactic'i harika bir oyun olduğuna inandığımız şeye dönüştürmemize ve bu harika topluluğun bir parçası olduğumuz için hepinize teşekkür ederim. Sizler, gelecek ve ROCK AND STONE için üç alkış!
+
+Çok sevgi,
+- Hayalet Gemi Ekibi 
+
+--- YAMA NOTLARI ---
+
+BİR YIL KUTLAMA İYİLERİ
+-------------- ---------------------
+UZAY RIG GİYİMİ: Space Rig dekore edildi ve partiniz için hazır!
+
+BİR YIL KUTLAMA HATI: Zaman Sınırlı Zamanınızı Alın Bir TİP KUTLAMA ŞARABI Gear Shop'ta! Çok ucuz! * 
+* Belli ki DRG cihazlarından beklediğiniz kadar yüksek kaliteye sahip.
+
+ABYSS BAR'DA MUTLU SAAT - TÜM GÜN UZUN: Abyss Bar'daki tüm içecekler DRG Yönetimi'nin nezaketinde kutlama için yarı yarıya kapalıdır. Sorumlu bir şekilde içip, İşçi Comp'inizin, sarhoşken ağır madencilik makinelerini çalıştırırken yaralanmaya yol açmadığını unutmayın!
+
+
+UPGRADED DESTEKLEYEN YÜKSELTME 
+-----------------------------------
+Biz' ve uzun süredir oyunun Destekçisi Yükseltmesine daha fazla içerik eklemek istedim, ve bir Yıl Dönümü'nden daha iyi bir fırsat! İşte mevcut ve yeni sahiplerinin mağazada sahip oldukları yeni güzellikler:
+
+DESTEKLEYİCİ WEAPON DERİLERİ
+Yaldızlı Destekçi, tüm karakterler için silahlar için deriler!
+
+ÇOK ÖZEL BİR HEYKEL GEMİ OYUNLARI YARDIM
+Bu destekçi kask, alan için biraz fazla eski bir okul olabilir, ama kesinlikle havalı görünmenizi sağlar!  
+
+ÖZEL DESTEKLEYİCİ GLYPHID SLAMMER
+Destekçilerimizden birine hizmet etmek her zaman bir zevktir! Bir Destekçi olarak, Abyss Bar'da Glif Slammerleri sipariş ederken özel muamele görürsünüz. 
+
+TEXT-CHAT'TA DAHA İYİ DESTEKLEYEN
+Artık destekçiler metin sohbeti kullanırken isimlerini ve mavi renkte gösterilen destekçi simgelerini aldılar. Geliştiriciler, isimleri bir tane ile oynayacak kadar şanslıysanız, yeşil renkte görünürler. :-) 
+
+
+HAFTALIK ÖĞRETİM
+------------------- ----------------
+Haftalık Atamalar, tamamlamanız için her hafta yeni bir Atamanın üretildiği Atama sistemine yapılan yeni bir eklemedir. Tamamlayın ve ağır miktarda kredi ve mineral önbelleği kazanın.
+
+
+DAHA FAZLA BAŞLIK
+-----------------------------------
+Nişancı? Kontrol. O kel, dondurucu kafa örtmek için güzel, sıcak bir Beanie? Çifte kontrol. Kafatasına cıvatalı bir demir-demir mohawk veya demir plakalar? Seni koruduk. Karanlıkta şık görünmek için on üç yeni headwears eklendi.
+
+
+BET-C İÇİN SABİT 
+-----------------------------------
+- Hafif bir halka, BET-C'nin el bombalarının etki alanını gösterir. 
+- BET-C'nin dostça ateş hasarı (dönüştürüldüğü zaman) azaltıldı. Şimdi BET-C, öncekinden daha güvenilir bir arkadaş gibi hissediyor.
+- BET-C'nin arkadaş canlısı hareket davranışındaki gelişmeler, oyuncunun tepesinde durmasını sağlamak için.
+
+
+SUNUCU LİSTESİ UI GELİŞMELERİ
+--------------------------------------
+Sunucu listesi, farklı aktif oyunların genel olarak daha iyi gözden geçirilmesi için büyük bir titizlikle ele geçirildi. Filtreleme seçeneklerini geliştirdik ve farklı simgeleri daha iyi açıklayabilmek için araç ipuçları ekledik.
+
+
+Mağara ÜRETİM GÜNCELLEME
+------------------------------------
+Daha fazla yapı Tüm görev tiplerinde daha çeşitli seviyelerde sonuçlanacak olan mağara jeneratörüne eklenmiştir. Ek olarak, altta yatan sistemlerde yapılan iyileştirmeler, mevcut mağara şekillerinden daha fazla varyasyon görmeniz gerektiği anlamına gelir.
+
+
+MISC.
+-------------------------------------
+- Ekranın oyun boyunca beyaz renkte yanıp sönmesi sorunu giderildi , GTX 970/980 ekran kartlarında
+- Arazi Tarayıcısını kontrol etmek için yeni animasyon
+- Çeşitli yazım hataları düzeltildi
+
+"
+	Update_21.5_Xbox = "-OTOMATİK ÇEVİRİ-
+Parti zamanı, Madenciler!
+
+İster inanın ister inanmayın, Deep Rock Galactic şimdi BİR BÜTÜN YILDA yaşamaktadır. 28 Şubat 2018'de ERKEN ERİŞİM'e girdik ve bu mini güncelleme ile kutlama zamanı! Oyunu geliştirmek ve yeni özellikler ve içerikle genişletmek mutlak bir patlama oldu (ve olmaya devam ediyor) ve sizlerden aldığımız tüm harika geri bildirimler ve incelemeler bizi çok şaşırtıyor. Deep Rock Galactic'i harika bir oyun olduğuna inandığımız şeye dönüştürmemize ve bu harika topluluğun bir parçası olduğumuz için hepinize teşekkür ederim. Sizler, gelecek ve ROCK AND STONE için üç alkış!
+
+Çok sevgi,
+- Hayalet Gemi Ekibi 
+
+--- YAMA NOTLARI ---
+
+BİR YIL KUTLAMA İYİLERİ
+-------------- ---------------------
+UZAY RIG GİYİMİ: Space Rig dekore edildi ve partiniz için hazır!
+
+BİR YIL KUTLAMA HATI: Zaman Sınırlı Zamanınızı Alın Bir TİP KUTLAMA ŞARABI Gear Shop'ta! Çok ucuz! * 
+* Belli ki DRG cihazlarından beklediğiniz kadar yüksek kaliteye sahip.
+
+ABYSS BAR'DA MUTLU SAAT - TÜM GÜN UZUN: Abyss Bar'daki tüm içecekler DRG Yönetimi'nin nezaketinde kutlama için yarı yarıya kapalıdır. Sorumlu bir şekilde içip, İşçi Comp'inizin, sarhoşken ağır madencilik makinelerini çalıştırırken yaralanmaya yol açmadığını unutmayın!
+
+
+HAFTALIK ÖĞRETİMLER
+-----------------------------------
+Haftalık Ödevler tamamlamanız için her hafta yeni bir Atama oluşturulduğu Atama sistemine yeni bir ekleme. Tamamlayın ve ağır miktarda kredi ve mineral önbelleği kazanın.
+
+
+DAHA FAZLA KAFA
+-----------------------------------
+Nişancı? Kontrol. O kel, dondurucu kafa örtmek için güzel, sıcak bir Beanie? Çifte kontrol. Kafatasına cıvatalı bir demir-demir mohawk veya demir plakalar? Seni koruduk. Karanlıkta şık görünmek için on üç yeni headwears eklendi.
+
+
+BET-C İÇİN SABİT 
+-----------------------------------
+- Hafif bir halka, BET-C'nin el bombalarının etki alanını gösterir. 
+- BET-C'nin dostça ateş hasarı (dönüştürüldüğü zaman) azaltıldı. Şimdi BET-C, öncekinden daha güvenilir bir arkadaş gibi hissediyor.
+- BET-C'nin arkadaş canlısı hareket davranışındaki gelişmeler, oyuncunun tepesinde durmasını sağlamak için.
+
+
+SUNUCU LİSTESİ UI GELİŞMELERİ
+-------------------------------------
+Sunucu listesi, farklı aktif oyunların genel olarak daha iyi gözden geçirilmesi için büyük bir titizlikle ele geçirildi. Filtreleme seçeneklerini geliştirdik ve farklı simgeleri daha iyi açıklayabilmek için araç ipuçları ekledik.
+
+
+Mağara ÜRETİM GÜNCELLEME
+-------------------------------------
+Daha fazla yapı Tüm görev tiplerinde daha çeşitli seviyelerde sonuçlanacak olan mağara jeneratörüne eklenmiştir. Ek olarak, altta yatan sistemlerde yapılan iyileştirmeler, mevcut mağara şekillerinden daha fazla varyasyon görmeniz gerektiği anlamına gelir.
+
+
+MISC.
+-----------------------------------
+- ekranda oyun boyunca beyaz yanıp sorunu düzeltildi , GTX 970/980 ekran kartlarında
+- Terrain Scanner
+kontrol etmek için yeni animasyon - Çeşitli yazım hataları
+
+"
+	Update_18_ShortTitle = "İŞ FIRSATLARI"
+	Update_27_ShortTitle = "KÜÇÜK BÜYÜK ŞEYLER"
+	Update_13_ShortTitle = "KÜÇÜK YAŞAM DEĞİŞİKLİKLERİ"
+	Update_15_ShortTitle = "MUTASYON UYARISI!"
+	Update_33_Shorttitle = "YENİ UFUKLAR"
+	Update_21.5_ShortTitle = "YÖRÜNGEDE BİR YIL"
+	Update_32_Shorttitle = "KABADAYILAR İŞ BAŞINDA"
+	Update_29_ShortTitle = "BAŞLANGICIN SONU"
+	Upadte_31_ShortTitle = "UNVAN"
+	Update_10_ShortTitle = "TÜNEL GÖRÜNÜŞÜ?"
+	Update_10_Header = "GÜNCELLEME 10: TÜNEL GÖRÜNÜŞÜ? - 16.03.2018"
+	Update_11_Header = "GÜNCELLEME 11: ÖLÜM VE SİLAH - 23.03.2018"
+	Update_12_Header = "GÜNCELLEME 12: SİNEKLER VE MALİYE - 13.04.2018"
+	Update_13_Header = "GÜNCELLEME 13: KÜÇÜK YAŞAM DEĞİŞİKLİKLERİ - 04.05.2018"
+	Update_14_Header = "GÜNCELLEME 14: ÖZELLİKLİ YARATIK - 15.06.2018"
+	Update_15_Header = "GÜNCELLEME 15: MUTASYON UYARISI! - 04.07.2018"
+	Update_16_Header = "GÜNCELLEME 16: KIŞ GELDİ - 29.08.2018"
+	Update_17_Header = "GÜNCELLEME 17: OKTOBERFEST! - 20.09.2018"
+	Update_18.5_Header = "GÜNCELLEME 18.5: CADILAR BAYRAMI - 26.10.2018"
+	Update_18 = "-OTOMATİK ÇEVİRİ-
+GÜNCELLEME 18: İŞ FIRSATLARI
+
+Howdy Miners! 
+Yeni zırh takımlarını giyme zamanı, meraklıları bira iç ve yeni heyecan verici görevler üstlen. Oktoberfest sona erdi ve biz sizin için büyük bir çanta dolusu harika özellik sunmakla meşguldük. Keyfini çıkarın! 
+
+--- PATCH NOTLAR ---
+
+YENİ GÖREV SİSTEMİ
+------------------------------
+Atama sistemi ile hedefimiz yeni oyuncular için daha yumuşak bir başlangıç oluşturmak ve aynı zamanda yeni içeriğe erişmek için heyecan yaratmaktır. Gelecekteki ödevler, alternatif silahlar ve gezegen bölgeleri gibi yeni içeriğin kilidini açmak için kullanılacak.
+
+SORUN DÖNEMİ:
+Oyuna ilk defa başladığınızda, madenci olarak değerinizi kanıtlamak için Probasyoner Dönemi tamamlamak zorundasınız. Probasyoner Dönem 9 görev uzunluğundaki bir ödevdir ve sizi Hoxxes'in farklı bölgelerine götürür ve tamamlamak için çeşitli görevlerle size meydan okur.   
+
+Probasyoner Süreyi tamamlamadan bağımsız olarak sunucu listesindeki herhangi bir göreve katılabilirsiniz. Bir ödevin bir parçası olan görevleri tamamlamanız, işçilik malzemeleri ve krediler şeklinde bonus ödüller verir. Probasyon Süresini tamamladıktan sonra tüm bölgelerin, görevlerin ve zorlukların kilidini açmış olacaksınız. 
+
+VETERAN MADENCİLER! Oyunu daha önce oynamış olan oyuncular, Atama Kurulu terminalinden Olasılık Dönemi'ni atlama seçeneğine sahip olacaklar. 
+
+
+İADE
+--------------------------------
+İADE BAŞVURUSU: Seviye bir karakter çıkardığınızda 20, bu karakter için Emekli Başvurusu Atamasını tamamlama seçeneğiniz vardır. Atama Kurulu Terminalinden seçin. Atamayı tamamladığınızda, Karakter Seçim Terminalinden bu karakteri emekli etme opsiyonunu elde edersiniz. 
+
+BÜYÜK ŞEKİLLENDİRME: Bir karakteri emekli ettiğinizde, bu karakter seviye 1'e sıfırlanır ve bu karakter için tüm silah ve yükseltmelerdeki ilerlemesini kaybedersiniz. Bununla birlikte, her türlü ilerlemeyi para, kredi, zanaat malzemeleri ve makyaj eşyaları üzerinde tutacaksınız. İlk emekli olduğunuzda, o karakter için fazladan bir boşluğun kilidini açacaksınız. Bir karakteri geri almak, oyuncu sıralarını kazanmak için karakter seviyelerini kazanmanız gerektiğinden, oyuncu seviyenizi 26 seviyesinin üzerine çıkarmanın tek yoludur. Ayrıca oyuncu rütbesi 26 ve üstü olan oyunculara makyaj ve diğer özellikleri tanıtmayı düşünüyoruz.
+
+
+MİSYON GÜNCELLEME
+--------------------- -------
+Sorunsuz bir Probasyoner Dönem ataması yapmak ve genel olarak uzun vadeli madencilik deneyimini geliştirmek için, bazı misyonları ince ayarladık ve bunların hem daha basit hem de daha karmaşık versiyonlarını yaptık. 
+
+YUMURTA HUNT: Uzun süredir Egg Hunt ve Arama ve Özü gibi görev türlerini geliştirmek istiyoruz. Sonunda, onları bir araya getirmeye karar verdik. İşte değişiklikler:
+
+- Artık yumurta avı, Arama ve Ekstraktta karşılaştığınız gibi bir mağara sisteminde gerçekleşiyor. 
+- Etrafta koşup yumurta aramak zorunda kalmadan yerlerini belirlemek için Terrain Scanner'ı ( [M]tuşunu basılı tutarak) kullanabilirsiniz. 
+- Önceden olduğundan daha az yumurta toplamalısınız. 
+- Yumurta avı artık birçok karmaşıklığa ve uzunluğa sahip. 
+- Şimdilik Ara ve Özü kaldırıldı.
+- Arama ve Eggstract için Yumurta Avı olarak adlandırmanın cazibesine direndik!
+
+GÖREV SALVAGE
+- oyuk sistemleri, artık, her iki orta ve yüksek karmaşıklık seviyeleri üretebilir
+uzunluğu kısa (3 mini katır monte) (2 mini katır monte) ve uzun - 
+
+KALDIRILMASI
+- mağara Sistemler artık hem orta hem de yüksek karmaşıklık seviyeleri üretebiliyor
+- Uzunluk kısa (2 Korkusuyla Öldür) ve uzun (3 Korkusuyla Öldür) 
+
+
+BEER BUFFS
+------------- ---------------
+Bazı biralara büfe eklendi ve fiyatlar düzeltildi: 
+
+- KIRMIZI KAYA BLASTER: +% 30 maksimum sağlığa
+- SKULLCRUSHER ALE: +% 50 Kazma hasarı
+- DARK MORKITE: + 20% Morkite mayınlı
+- GLYPHID SLAMMER: Yeni bir nohut birası yok ama yine de sizi mutlu edecek :-)
+
+Daha düşük bir etki etkisi sağlandığı için, sarhoş olmadan içebilirsiniz. Bu, sarhoş efekti ile oynamak istemiyorsanız, her zaman Yaprak Aşığının Özel'i içmek zorunda kalmamak için yapılır.
+
+Leaf Lover's Special içtikten sonra Buffs'un kalacağını unutmayın. Ayrıca Buffs'ın istiflenmeyeceğini de unutmayın. Ayrıca, biraların sizi ne kadar zor etkilediklerinde de rasgeleliklerinin olduğunu unutmayın.  
+
+
+KULAKLI Tüfek İÇİN YENİ MODEL
+----------------------------
+İzciler saldırı tüfeği elden geçirdi model, animasyonlar ve ses. 
+
+
+NEW ARMORS
+------------------------------
+8 yeni Zırh (MK3 Temel ve Ağır) satın almanız ve donatmanız için hazırsınız. Sırasıyla 10 ve 12 numaralı oyuncu sıralarında kilidi açılacak. Eğer oyuncu sıralamasından 8 daha düşükseniz, yalnızca dükkandaki MK2 zırhını göreceksiniz.
+
+
+FARKLILIK TWEAK
+----------------------------
+2 kişilik oyunlar için tehlike seviyeleri azalıyor solo oynamaktan iki oyuncuya daha az dik atlama yapmak için. 2 oyunculu oyunlar için düşmanların ölçeklendirme faktörleri şu şekilde ayarlandı: Düşük risk 0,4 ila 0,3, Zorlu 0,5 ila 0,4, Tehlikeli 0,75 ila 0,66, Aşırı 1,0 ila 0,9 
+
+Mactera Veba uyarısı zorlukta düştü. Bazı delilik hala sağlanır, ancak şimdi daha az cezalandırıcı olması gerekir. 
+
+
+SABİTLER VE GELİŞMELER
+----------------------------
+- Müzik kutusunu dinlerken yeni dans hareketi
+- Zip-line düzeltme. Artık müşteriler\zip hattından atlarken ivme kazanıyorlar.
+- Steam bağlantısı yoksa, dosyaların kaydedilmesi üzerine yazılmaz.
+- 
+ Sunucu Listesi eklendi! Şimdi oynayacak bir takım bulmak çok daha kolay olmalı! 
+- [E]/ (X) tuşlarına basarak bir taşınan öğeyi düşürmenizi devre dışı bıraktık. Taşınan bir eşyayı düşürmek ya da silahları değiştirmek ya da [LEFT MOUSE BUTTON] / (RIGHT TRIGGER) düğmesine basarak fırlatmak istiyorsanız,
+- Arazi Tarayıcıyı kullanmak artık oyuncuyu döndürmez ve Escape Pod eklenmiştir
+- Üçüncü kişi alev silahı toplaması
+eklendi - Geri tepme düzeltildi. Atış yapılmadan önce eklendi, bu yüzden hiçbir zaman tam olarak doğru olamadı.
+- İstemcilerin haritayı yükleyemediği bir durumu düzeltin. Yükleme ekranına sıkışıp kalmış
+- Dünyadan düşen topakları ve taşları tespit edip geri
+- Uzay Teçhizatı - Bir görev başlatırken artık bırakma bölmesinde mavi ışık kalmadı
+- Oktoberfest banner
+değişti - Oyunu Kaydet : Oyuncular artık kapağı üzerindeki ekstra XP kazanabilir
+- eklendi misyon istatistikleri: Toplam içecek tüketilen & Toplam içecek yuvarlak sipariş
+- Tam Ekran modu artık doğru işlenir ve oturumlar arasında sıfırlanmaz
+- Güneş Planet arkasında eklendi Uzay teçhizatında Hoxxes. Gezegen modeli de hafifçe güncellendi
+- Müşteriler şu anda barındırılan oyunda görev haritasını açabilir
+
+"
+	Update_18_Header = "GÜNCELLEME 18: İŞ FIRSATLARI - 11.10.2018"
+	Update_19_Header = "GÜNCELLEME 19: SİLAHLAR! HEM DE BİR SÜRÜ!"
+	Update_20.1_Header = "GÜNCELLEME 20.1: DAHA BÜYÜK, DAHA İYİ, BOSCO - 03.01.2019"
+	Update_20_Header = "GÜNCELLEME 20: DAHA BÜYÜK, DAHA İYİ, BOSCO"
+	Update_21_Header = "GÜNCELLEME 21: ÖLÜMÜNE GİDİŞ"
+	Update_21.5_Header = "GÜNCELLEME 22: YÖRÜNGEDE BİR YIL"
+	Update_23_Header = "GÜNCELLEME 23: HOXXES'İN DEHŞETLERİ"
+	Update_24_Header = "GÜNCELLEME 24: PATLAYICI GENİŞLEME"
+	Update_25_Header = "GÜNCELLEME 25: ENDGAME - Bölüm Bir"
+	Update_26_Header = "GÜNCELLEME 26: ENDGAME - Bölüm İki"
+	Update_27_Header = "GÜNCELLEME 27: KÜÇÜK BÜYÜK ŞEYLER"
+	Update_28_Header = "GÜNCELLEME 28: NEŞELİ HİSSETME"
+	Update_29_Header = "GÜNCELLEME 29: BAŞLANGICIN SONU"
+	Update_31_Header = "GÜNCELLEME 31: GERİDE NE KALDI"
+	Update_32_Header = "GÜNCELLEME 32: KABADAYILAR İŞ BAŞINDA"
+	Update_33_Header = "GÜNCELLEME 33: YENİ UFUKLAR"
+	Update_33 = "GÜNCELLEME 33: YENİ UFUKLAR
+
+Merhaba Madenciler!
+Bu, 2021'in ilk Güncellemesi ve sizin için bazı baharatlı şeyler hazırladık! Bu sefer keşfetmeniz için tamamen yeni iki Gezegen Bölgemiz var - MAVİ FUNDALIK'ın gizemli harikaları ve dikenlerle dolu KOVUK DAL'ın cehennemi. Güncelleme 33 ayrıca tüm yeni Mactera çeşitlerini ve korkunç Glyphid Dretnot mutasyonlarının birkaç yeni türünü içerir. Ve tabii ki diğer güzellikler de var - resmin tamamı için aşağıdan daha fazlasını okuyun!
+
+Sevgilerimizle,
+The Ghost Ship Mürettebatı
+
+--- YAMA NOTLARI ---
+
+YENİ BİYOM: MAVİ FUNDALIK
+----------------------------
+Mavi Fundalık, her parçası Hoxxes IV'ün geri kalanı kadar düşmanca olan ürpertici bir yerdir - ama yine de, tuhaf bir şekilde güzel olduğunu inkar edemeyiz. Göz kamaştırıcı, biyolüminesan yosun kümeleri karanlığı aydınlatarak bu bereketli ve aşırı büyümüş Bölgeyi titrek neon renkleriyle aydınlatıyor. Ancak bunun sizi yanlış bir güvenlik duygusuna kaptırmasına izin vermeyin - Mavi Fundalık, tüm ihtişamı, dehşeti ve karasal benzerleri gibi derin ormanı akla getiriyor. Kesinlikle arkadaş edinmek için bir yer değildir. Öldür veya öl - buradaki kanun budur.
+
+
+YENİ BİYOM: KOVUK DAL
+----------------------------
+Kovuk Dal, Bilim Departmanının kafalarını kaşıyan biyolojik bir tuhaflıktır - gezegenin tüm bu bölgesi, kovuk ağaçların içini andıran devasa organik kümelenmelerin hakimiyetindedir. Bununla birlikte, bu yapılar istilacı sarmaşığa benzer bitkilerden oluşan istilacı bir tür tarafından saldırı altındadır, bu da bizim için gezegenin kendisi kadar bir tehdittir. Bu çevreleri son derece dikkatli geçmenizi öneririz. Tahta ve ağaç kabuğunun derin, karanlık kıvrımları, ilk bakışta göründüğünden çok daha fazlasıdır.
+
+
+YENİ KİLOMETRE TAŞLARI 
+----------------------------
+Yeni biyomlar, yeni Kilometre Taşları anlamına gelir - Mavi Fundalık için biraz ve Kovuk Dal için de bir biraz.
+
+
+GÖREV BAKIMI: ORTADAN KALDIRMA 
+----------------------------
+Aşağıda Korkunun Şafağı var! Daha önce karşılaşılandan daha fazla metamorfoz ilerleyen Dretnot Kozaları bulan ekiplerden birden fazla rapor geldi. Kozaların üzerinde farklı olduklarını gösteren dış işaretler olmasa da içeride sabırla bekleyenler kesinlikle öyledir. Şimdiye kadar iki doğrulanmış Dretnot çeşidiyle karşılaşıldı, ancak bu rahatsız edici, Ar-Ge bize bunları şimdi ve daha sonra metamorfozun tamamlanmaya yaklaştığı zaman bulduğumuz için şanslı olduğumuzu garanti ediyor.
+
+DRETNOT KOVAN MUHAFIZ
+Tamamen kırılmaz zırhla kaplı olan Dretnot'un bu çeşidi, tüm hasarlara karşı bağışıktır, savunmasız alanlarını yalnızca öfkeliyken kısa bir süre açığa çıkarır. İsminden de anlaşılacağı gibi daha da kötüsü, Kovan Muhafız savaşta ona yardım etmesi için takviye çağırabilir. Bu savaş çağrısına cevap veren Glyphid Bekçileri, şimdiye kadar gördüğümüz hiçbir şeye benzemiyor. Nereden geldikleri hakkında hiçbir fikrimiz yok ama hem hızlı hem de sertler. Ar-Ge, Dreadnought Hive Guard'ı büyük bir dikkatle ve çok sayıda cephane ile saldırmanızı önerir.
+
+DRETNOT MANCINIK VE PARÇALAYICI
+Soru: Bir Glyphid Dretnotdan daha kötü ne olabilir? Cevap: İki Glyphid Dretnot. Görünüşe göre Kozalaklı Dretnot, metamorfoz sırasında ikiye bölünebilir. İki canavar - Mancınık ve Parçalayıcı - hem orijinalden hem de birbirinden oldukça farklıdır ve tamamen benzersiz davranışlar sergiler. Kendi başlarına yeterince kötü olurlar, ancak birlikte büyük bir tehdit oluştururlar - aynı anda birden fazla yönden ve çeşitli mesafelerden saldırabilir ve aynı zamanda aşırı hareket kabiliyeti sergileyebilir. Neyse ki, mermileri normal bir Glyphid Dretnotdan daha yumuşaktır ve hasarın her açıdan geçmesine izin verir. Ar-Ge, bu görünür zayıflığın yalnızca kozanın zamansız bir şekilde açılması nedeniyle olduğu konusunda ısrar ediyor.
+
+
+GÖREV BAKIMI: KURTARMA 
+----------------------------
+MİNİ K.A.T.I.R. AYAKLARI BULMA:
+Biraz hız treni oldu ama sonunda Mini K.A.T.I.R.'ları düzeltmek için gereken tüm ayakları bulma sorunlarını çözdük. Bu fırsatı, orijinal vizyonumuza daha iyi uyması için etrafındaki oynanışı da değiştirmek için değerlendirdik. Artık bozuk bir K.A.T.I.R. ile etkileşime girerek eksik ayaklarının yerlerini arazi tarayıcınıza indirebilirsiniz. Artık o son ayak için her yerin altını üstünü aramaya gerek yok. 
+
+YAKIT HÜCRELERİNİ KAÇIŞ KAPSÜLÜNE BAĞLA: 
+Güncelleme 32, mevcut görevlere eklemekten çok mutlu olduğumuz bir dizi yeni teknolojiyle geldi. Yakıt hücrelerinden kaçış kapsülüne yakıtın tam olarak nasıl yapıldığı her zaman biraz gizem olmuştur, ama artık gizemli değil! Şimdi sadece birkaç kolay adımda, Rafineri Tesisi görevinde boru hatlarını nasıl inşa ettiğinize benzer şekilde, ikisi arasına bir yakıt hattı bağlayabilirsiniz.
+
+
+GÖREV BAKIMI: ÇIKARMA HAREKATI
+----------------------------
+Parlak yeni makineleriyle Güncelleme 32'nin piyasaya sürülmesinden sonra eski Sondaj Makinesi gerçekten yaşını göstermeye başladı, bu yüzden yükseltilmiş standarda uygun bir model güncellemesinin zamanının geldiğine karar verdik. Umarız beğenirsiniz. 
+
+
+YENİ DÜŞMANLAR
+----------------------------
+MACTERA ÜÇ-ÇENE
+Derinliklerde yeni bir Mactera türü tespit edildi. Kardeşlerinden daha ihtiyatlı olan Üç-Çene, üçlü bir mermi atımı gönderirken daha geride kalma eğilimindedir. Hiç kuşkunuz olmasın, bu ölümcül bir şeydir ve aşırı önyargıyla yok edilmelidir.
+
+MACTERA ALACA
+Sürü içinde uçarken görülen zırhlı bir Mactera çeşidinin raporları geliyor. Bu zorlu kurabiyeler, daha kırılgan kuzenlerini tamamen öldürecek birçok saldırıdan kurtulabilir ve savunmasız karınlarını çoğu zaman kapalı tutarlar.
+
+DEEPTORA DAL YABAN ARISI
+Deeptora'nın uzak bir kuzeni Kovuk Dal'ın kıvrımlarında ve kuytu köşelerinde yaşarken görüldü. Kumda yaşayan kuzenleri gibi, Dal Yaban Arıları da son derece bölgeseldir ve yuvalarına çok yakın olan her davetsiz misafirleri sürünür.
+
+BIÇAKLAYICI SARMAŞIK
+Kovuk Dal ürpertici şeylerle dolu ama hiçbiri Bıçakalyıcı Sarmaşık kadar tehlikeli değil. Bitki veya hayvan, jüri hala bu konuda dışarıda, çok agresif ve saldırısında ısrarcıdır. Çok yaklaşacak kadar aptal olan herhangi bir cüce, bıçaklayıcı sarmaşıklar tarafından defalarca saldırıya uğrayacaktır. Vücudunun büyük bir kısmını bölgeyi istila eden nispeten zararsız kırmızı sarmaşıkların kütlesinden ayırt etmek zor olduğundan, gözlerinizi açık tutun.
+
+
+YENİ MÜZİK KUTUSU İÇERİĞİ
+----------------------------
+Bazı içerik oluşturucular, müzik kutusundaki müziklerle ilgili telif hakkı hak talepleriyle karşılaşmıştır. Şimdiye kadar bu soruna neden olan melodileri kaldırarak sorunu gidermeye çalıştık, ancak şimdi daha iyi bir çözümümüz var. Ayarlar menüsünde YAYINCI MODU: TELİF HAKKI KORUMALI MÜZİK KUTUSU MÜZİĞİ KAPAT'ı işaretlediğinizde duyacağınız tek parça olan 8 yeni "güvenli" parça ürettik. Bu 8 melodi tabii ki “normal” Müzik Kutusundaki herkes tarafından kullanılabilir. Bu çözüm aynı zamanda daha önce kaldırılan melodileri geri getirmemizi sağladı.
+
+Ayrıca, bir sürü yeni dans hareketi ekledik. Bu yüzden dans pistinde onu öldürmenin zamanı geldi!
+
+
+STEAM ÖDÜLÜ ÖDÜL KASKI
+----------------------------
+Steam Ödülü adaylığımızı ve bunu mümkün kılan harika topluluğumuzu kutlamak için size yeni ve şık bir kask sunmak istiyoruz: Cıvatalı Çapulcu. Sadece bunu hak ettiğiniz için!
+
+
+MİNERAL ALIŞVERİŞİ'NİN BAKIMI
+----------------------------
+Mineral Alışverişi menüsü yönetim tarafından güncellenmeye hazır bulundu. Artık her zamankinden daha sezgisel ve günlük fırsatlar eklendi. Günde bir kez artık ekstra iyi bir fırsattan yararlanabilirsiniz (olduğu gibi, o kadar da kötü değil!). 
+ 
+
+K.A.T.I.R. YERLEŞMESİ
+----------------------------
+K.A.T.I.R.'ın yerleşmesi uzun zamandır gecikmiş bir cila ile geliyor. Artık gergin kanat çırpmak yok, Katır artık Kaçış Kapsülü'nde kaldırma ve indirme için şık bir elektro manyetik vinçle kendi yerine sahip.
+
+
+DORETTA'YI KURTARMA
+----------------------------
+Koruma Görevi'nin deneysel şubemizdeki neredeyse ilk testinden beri oyuncularımız Doretta'yı kurtarmanın bir yolunu istiyorlar. Bu, GSG'deki pek çok kişinin de istediği bir şey ve artık Doretta'yı karanlıkta yapayalnız bırakmak zorunda olmadığınızı duyurmaktan mutluluk duyuyoruz. Sondaj Dozeri'nin büyük kısmını Uzay İstasyonu'na geri döndürmek mümkün olmasa da, nazik cüceler artık Doretta'nın kafasını tutup onlarla birlikte Kaçış Kapsülü'ne taşıyabilir.
+
+Herhangi bir ödül beklemeyin! Yönetim bunu gerçekten umursamıyor! 
+
+
+Silah dengelemesi
+----------------------------
+İki yeni biyomu ve yeni düşmanları anlamlı bir silah dengelemesi yapmak için çok meşgul olduğumuz için bu güncelleme hiçbir şey.
+
+
+TOPLULUK İSTEĞİ
+----------------------------
+[TOPLULUK İSTEĞİ] Artık oyun içinde ses çıkış kaynağını ve giriş kaynağını ayrı ayrı seçebilirsiniz
+[TOPLULUK İSTEĞİ] Arkadaşlarla Oyunlar artık Sunucu Listesi'nde sıralanabilir
+
+
+DİĞER
+----------------------------
+- Optimize edilmiş makine etkinlikleri
+- Dretnot ölüm animasyonu oynatmaması düzeltildi
+- Buz ve alev makinesi patronlarda çalışmaması düzeltildi
+- Kostüm ödül kodunun bir kısmı temizlendi
+- Sunucu askıda kalma düzeltildi
+- Artık menzili kötüye kullanarak muhafızların ateş etmemesini sağlayamazsınız
+- Halat araçları lazer işaretçisi ile diğer silahlarla değiştirirken takılması düzeltildi
+- Topçu'nun mağazadan "Tank Birliği" sakalını ücretsiz olarak alabilmesi düzeltildi. (Matris çekirdeklerinin dövülmesi ile elde edilir)
+- Derin dalışlarda kullanılan bazı zorluklar, Zalimlerin ortaya çıkması için doğru ayarlara sahip değildi.
+- DPŞ'lerin normal atışları, çok hızlı bir şekilde gönderirken bazen sol köşeye çıkması düzeltildi
+- Koruma Görevinde Kalp Taşı üzerindeki kayma yol bulucu çarpışması düzeltildi
+- Kasvetli Avcı Maskesi MK2 ve 3, boynu kaskın içinden görebilmeniz düzeltildi
+- Patlayıcı patlamaya başlarken donarsa bazen iki kez patlaması düzeltildi
+- Tek kişilik oyunda, öfke animasyonu yaparken dretnot'un yerinde dönmesi düzeltildi
+- Ommoran savaşından sonra Patron sağlık çubuklarının yana doğru sıkıştırılması düzeltildi
+- 1 yerine 5 kez çalınan bir bira lisansı yükseltme sesi düzeltildi
+- Bazı silahlar tarafından vurulduğunda sağlık çubuğunda doğru bilgileri göstermeyen bazı zayıf noktalar düzeltildi
+- O2 uyarısıyla Kaçış Kapsülü'nün girişine geri dönün ve yere düşene kadar sonsuz O2 olması düzeltildi
+- Varil oluşturucu, yalnızca herhangi bir varilden ziyade tetik kutusunu terk eden son oluşturulan varil ise yeni bir varil üretecektir.
+- Kalp Taşından Işınlayıcılar bazen yok edildikten sonra ateş etmeye devam etmesi düzeltildi
+- Koruma görevi maaşı arttırıldı ve yumurta avı maaşı biraz azaldı, ayrıca Bitümlü Şistine xp(deneyim) eklendi
+- Glyphid Asit Atıcı'nın Doretta'ya daha az hasar vermesi sağlandı
+- Arkadaş sunucu listesi girişinin üzerine gelindiğinde ipucu olur. Oynayan arkadaşları olan sunucular en üstte olacaktır(el olarak sıralamadığınız sürece). Ayrıca çevrimdışı görün seçeneğini uygulanabilir
+- Çevrimdışı görünme seçeneği, şimdi tüm çevrimiçi varoluşu kaldırır
+- Derin Dalışlarda Nitra miktarı %15 düşürüldü
+- 'Sizi Bekleyen Yan Yetenek Puanları Var' bildiriminin gösterilmemesi düzeltildi
+- Doretta'nın tank izlerinin, dorettaya Macteralardan LoS ateşi etmeye çalışırken engellenmesi düzeltildi
+- Yüksek Duyular Yan Yetenek: Açıklamadaki metin hatası düzeltildi
+- Silahı tam Sıralı Atıştan daha az mermi ile şarjörü boşaltırken BRT-7 ses sorunu.
+- Tünel oluşturmanın başarısız olmasına neden olan doğru davranmayan bir grup eski mağaralar düzeltildi
+- Öldürdüğünde tetiklenen Gözcü S5 yükseltmeleri, artık yalnızca düşmanları öldürürken tetikleniyor.
+- Sondaj Dozeri tünellerin giriş/çıkışları daha güzel hale getirildi
+- Dretnot'un zırh sağlığı biraz artırıldı, Dretnotların zırhın biraz daha erken yeniden büyümesini sağladık, - savaş sırasında dretnot'un daha erken kızmasını sağladık
+- Kalp Taşı sağlığı çubuğunun istemcide doğru şekilde güncellenemediği durum düzeltildi
+
+
+"
+	Update_9_Header = "GÜNCELLEME 9: SONRA DELİŞİRİZ! - 09.03.2018"
+	Update_31_Shorttitle = "GERİDE NE KALDI"
+	Update_16_ShortTitle = "KIŞ GELDİ"

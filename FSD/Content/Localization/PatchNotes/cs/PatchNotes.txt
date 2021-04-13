@@ -1,0 +1,569 @@
+32 entries
+1 namespaces
+30 values
+
+Namespace PatchNotes (32 keys)
+	Update_30_Header = "VERZE 1.0"
+	Update_30_ShortTitle = "VERZE 1.0"
+	Update_20.1_ShortTitle = "VĚTŠÍ, LEPŠÍ, BOSCO"
+	Update_20_ShortTitle = "VĚTŠÍ, LEPŠÍ, BOSCO"
+	Update_11_ShortTitle = "ZBRAŇ A SMRT"
+	Update_12_ShortTitle = "MOUCHY A PENÍZE"
+	Update_19_ShortTitle = "ZBRANĚ! MOC ZBRANÍ"
+	Update_30 = "Zdravíčko, horníci!
+Je naprosto skvělé vás konečně přivítat ve verzi 1.0 našeho Deep Rock Galactic! 
+
+To značí konec naší více než dvouleté cesty a vývoje v rámci programu Early Access! A za tu dobu jsme si nemohli přát lepší komunitu. A pokud jste nový hráč, tak se můžete těšit na těžkou práci v dolech, které na váš čekají, stejně jako skvělé dobrodružství, velké zbraně, luxusní vousiska, mimozemské obludy... a samozřejmě na další trpasličí horníky po vašem boku! 
+
+Jsme neskutečně - NESKUTEČNĚ - natěšeni, že opouštíme Early Access a nemůžeme se dočkat, až uvidíme, kam se hra posune dál. A nebojte, s jejím vylepšováním ještě zdaleka nejsme hotovi!
+
+Za skálu a kámen!
+
+S láskou,
+tým Ghost Ship
+
+--- POZNÁMKY K AKTUALIZACI ---
+
+SOUNDTRACK VOL. 2
+----------------------------
+Poslední rok jsme pracovali na druhém svazku našeho soundtracku DRG a konečně je to tady. Můžete tak těžit, bojovat a tancovat u 14 kompletně nových skladeb syntetické a basové nádhery. Deep Rock Galactic potřebuje investovat do větších repráků... HNED TEĎ!
+
+
+NOVÉ ÚROVNĚ POVÝŠENÍ
+----------------------------
+Věřte tomu nebo ne, ale nyní jsou k dispozici další tři stupně při povyšování vašich trpaslíků. Kromě bronzu, stříbra a zlata vás tak čekají stupně PLATINA, DIAMANT a LEGENDÁRNÍ! Tyhle jsou především vhodné pro naprosté veterány naší hry, kteří do ní investovali krev, pot a hodně času. Děkujeme vám!
+
+
+PRESTIŽNÍ ZAKÁZKY
+----------------------------
+Při zvyšování vaší úrovně hráče dostanete přístup ke speciálním Prestižním zakázkám. Za jejich dokončení získáte celé sety pro úpravu krumpáče, vzhledy pro zbroj a nové helmy. Prestižní zakázky se odemknou na úrovních hráče 20, 30, 40, 50, 60, 75 a 100.
+
+Několik měsíců zpátky jsme si hráli s myšlenkou vám dávat kosmetické předměty v závislosti na samotném povýšení (někteří z vás to možná zkoušeli v experimentální verzi), ale ve finále jsme s tím nebyli úplně spokojeni, a tak jsme se rozhodli pro tento přístup a odměňovat vás Prestižními zakázkami podle vaší úrovně.
+
+POZNÁMKA: Omlouváme se, že zbytek poznámek k aktualizaci není přeložen. Vedení Deep Rock Galactic nám odmítlo zaplatit za minulou výpravu do dolů, takže jsme se vzbouřili a začínáme protestovat. Přesto se k nám ale připojte! Další kolegy horníky nikdy neodmítneme!
+
+
+BIOMES
+----------------------------
+Crystalline Caverns have gotten more crystal variations. It’s now crystal clear why it is called by that name! 
+
+
+COMMUNITY REQUESTS
+----------------------------
+Here are a bunch of features we have added by popular demand: 
+- We have added a sweet Golden Paintjob for your trusty Pickaxe to the Supporter Pack
+- We have added a separate volume slider for Mission Control. Don’t tell Management!
+- We have improved head bob scaling to now affect more animations
+- We have added a separate Camera Shake slider, to be able to scale  down camera shakes to your liking
+- We have added an option to invert x-axis for the camera when you are downed 
+
+
+MISC.
+----------------------------
+- Added a few missing Laser Pointer names for the Machine Events
+- Added Patch Notes to the Escape Menu
+- Machine Events now explode if the Drop Pod lands on them
+- Added new miscellaneous ambient sounds throughout the game
+- Added new sounds to the Terminals in the Spacerig
+- Added slanted hex crystals to the Crystalline Caverns biome
+- Updated and improved the sound of the Lootbug
+- Replaced the old chairs in the Medbay with new models
+- Spacerig performance optimization
+- Reload animations now play in third-person when you are sprinting
+- Added an extra collider on the Minehead of Point Extraction missions to prevent Aquarqs from disappearing in the drills below the Minehead
+- Added a new dance move
+- Added Production Babies to the Credits 
+- Button input prompts that do not have icons no-longer show a long name but just the button's character itself
+- Resolution now cycles back to the lowest resolution if the player cycles forward from the highest resolution available in the Graphics options
+- Grenades and Glyphid Bulk Detonator cluster bombs now bounce off the protective barrier of the Shield Generator rather than go straight through
+- Readded the much requested blue goo around Spitball Infectors
+- Renamed Basic Pickaxe to Pickaxe
+- Added a Tutorial Hint that explains how to restart the tutorial for players that don’t actively skip or complete it
+- Improved Bosco’s digging logic which should reduce his tendency to prefer detours and digging from the opposite side of Compacted Dirt
+- Improved the Vanity Icons to properly show effects and color of light sources
+- Reduced the objective of Kursite Infection Machine Event to 13 for the Mactera encounter
+- Tweaked the spawn rate of Kursite Infected Mactera enemies in the Kursite Infection Machine Event to ensure it's always possible to complete  
+- Fixed a bug that caused secondary gather objectives to not always count what you deposit correctly. This would often cause premature completion of the secondary objective
+- Fixed a bug that enabled large waves of enemies to spawn in Point Exactrion while fighting a Machine Event
+- Fixed a bug that caused the Reinforced Power Drills to not make sound on first use in a Mission
+- Fixed a bug that caused the selected character to sometimes switch back to a previously selected one when returning from a mission
+- Fixed a bug that caused a Red Rock Blaster label to be visible in the Character Selection Terminal without the buff
+- Fixed IFG Grenade displaying as a Support Tool in the Equipment Terminal. It is now correctly categorized as a Throwable
+- Fixed a bug so Exploding Barrels now have a name when pointed at with the Laserpointer
+- Fixed a bug that made jumping from a Zipline very unreliable as client. Jumping and pressing forward makes you jump off the Zipline while just pressing Jump will drop you from the Zipline
+- Tweaked font size & color for the Assignment Complete window
+- Fixed bugs in the terrain generation causing tunnels to not lead completely to the caves.
+- Fixed a mesh error in the Personal Cabins
+- Fixed a bug that prevented players from hosting games after resetting progress
+- Fixed a bug that caused the collider of unwoken Spitball Infectors to be too big when using the Laser Pointer
+- Fixed a bug that caused Spitball Infectors to shoot in weird directions if you step behind cover just as it starts shooting
+- Fixed a bug that caused weapon fire sounds to linger if a player disconnects while shooting
+- Adjusted the pathfinding capabilities of the Naedocyte Breeder to better avoid clipping with terrain
+- Fixed a bug in the sound of the ceiling rocks in the Salt Pits region
+- Fixed a bug that enabled the player to salute while aiming the Laser Pointer
+- Extended the duration of the invulnerability effect for latejoining players to a few seconds after landing
+- Fixed a bug with decals showing in the Terrain Scanner
+- Fixed several collision-related issues on the Space Rig
+- Fixed a bug that enabled Glyphid idle sounds to play while frozen
+- Fixed Cryo Cannon charge gauge to not jitter so much
+- Fixed a bug that caused the Hazard Level setting to not update for clients if the host only changes the Hazard Level and not the entire mission
+- Fixed a bug that enabled Mini MULEs to spawn on top of Machine Events
+- Fixed a bug that enabled the Drop Pod to land below Machine Events and other similar objects
+- Fixed a bug that caused the Graphics options menu to not fit 4:3 aspect ratio
+- Fixed a bug that caused the Loadout slots to overlap description texts
+- Adjusted the location of the Promotion Terminal activation prompt
+- Fixed a bug that caused some Spacerig Terminals to not show a title on their monitor
+- Fixed several 'New Item Available' notification issues on various Spacerig Terminal monitors
+- Fixed a bug that caused BET-C to be overly aggressive towards newly tamed Glyphids by continuously shooting at them after being tamed. Calm your jealousy, BET-C. 
+- Fixed a bug that caused players to be unable to be revived if they died while on a Zipline
+- Fixed a bug that enabled the Escape Pod to land in impossible to reach locations like the top of a Resupply Pod tunnel
+- Fixed a bug with Dash activating unreliably for players with hold-to-sprint preferences
+- Fixed a bug that enabled the Laser Pointer to be equipped for downed players
+- Fixed a bug that caused Cryo Cannon and Flamethrower particles to suddenly disappear if you unequip the weapon while firing
+- Fixed a bug that caused players to be unarmed if they are interrupted while doing certain actions
+- Fixed a bug that caused Mixer nametags to have collision and block bullets
+- Ebonite Glyphids can no longer be targeted by Bosco or Sentry Guns
+- Fixed a bug that enabled the Impact Axe to damage yourself at certain angles
+- Fixed a bug that caused Tutorial Hints related to Bosco to show without Bosco being in the mission
+- Fixed a bug that prevented Pickaxe animations from playing in third-person after a Power Attack
+- Fixed a client-sided synchronization bug that enabled the Shield Generator to fall through walls
+- Fixed a bug related to the statistics of how many Matrix Cores the player has forged
+- Removed a black artifact on the Pickaxe Terminal
+- Fixed extraction music stopping too early if a wave hits just before you press the button to call for the Drop Pod
+- Fixed pricing for the Armor Breaking mod on the Breach Cutter 
+- Increased the draw distance of Alien Egg debris
+- Fixed a bug that caused the character preview of the Scout and the Engineer in the ESC menu to be angled differently than the Gunner and the Driller
+- Fixed a bug with the “Key already bound" confirmation not working
+- Adjusted the description of the Bezerker Perk to be more precise
+- Fixed the 'Restore Save Game' prompt to be a little less obtrusive
+- Fixed a bug that enabled BET-C to shoot through the shield of the Shield Generator
+- Fixed a bug that caused you to keep shooting indefinitely when returning to game after pressing ESC
+- Fixed a bug that caused the Resupply Tutorial Hint to not always show 
+- Fixed a bug that caused the Bosco Laserpointer Tutorial Hint to be incompletable
+- Fixed a bug that caused the Mineral Shop Terminal text to be uncentered
+- Fixed a bug that caused the Latejoin Drop Pod to not move downwards when joining a game
+- Fixed the Forge Mastery reward display to show correct cores if you have all Overclocks and/or all Vanity Cores
+- Added Romanian and Vietnamese to the list of languages supported (WIP)
+- Fixed a bug that caused Flaregun flares shot at players to leave a small collider behind that could block other players
+- Fixed a bug that caused Pickaxe Power Attack to not deal any damage if you hit the air or a non-terrain non-enemy mesh
+- Fixed a bug that caused Pickaxe Power Attack to not damage larger enemies if you hit the parts furthest from the body
+- Fixed a bug that often caused Machine Events in Sandblasted Corridors to float in midair
+- Fixed text overflow and various spelling mistakes in the Miner’s Manual
+- Fixed a spelling mistake in the Flex Them Guns Victory Move description
+- Fixed a gap under the Barrel Hoop Game on the Spacerig
+- Fixed the sizing of the Claim Union Reward prompt on the Miner Community Terminal
+- Tweaked Pickaxe and Flares to be less enormous in the Equipment Terminal previews. They now actually fit on screen
+- Fixed a bug that caused the graphics on the Miner Community Terminal to cut off 
+- Fixed a bug that caused a black screen to display in place of the “Steam is not running” warning on game launch
+- Fixed a bug that often blocked the Reinforced Power Drills when digging terrain. They now prioritize drilling terrain over hitting enemies if you are looking at terrain right in front of you
+- Fixed a bug that caused bomb spitting plants to not spawn properly in Sandblasted Corridors
+- Fixed a bug that caused the Spacerig loading screen to display in between Deep Dive stages
+- Fixed a bug that prevented Stun animations from playing on the Mactera Goo Bomber
+- Fixed a bug that caused oddities when latejoining in the latejoin drop pod
+- Fixed a bug to prevent enemies from attacking or grabbing players through the Drop Pod walls
+- Fixed a bug that enabled the Glyphid Oppressor to knock around downed players
+- Fixed a bug that caused burst fire weapons to resume in the middle of a burst if unequipped before a burst could fire all of its rounds
+- Fixed a bug that caused Impact Axes stuck in terrain to not have a name when pointed at with the Laserpointer
+- Fixed displacement of the gravity button in the Spacerig
+- Fixed a bug that enabled Lootbugs to move while frozen
+- Fixed a bug that prevented the Laserpointer Tutorial Hint from working correctly in a multiplayer session
+- Fixed a bug that caused Super Slim Rounds OC to not display its stats correctly
+- Fixed a bug that caused Impact Axes to not have any sound when picked up
+- Fixed a bug that caused Deeptora Honeycombs to not be properly affected by poison, radiation and cold
+- Fixed a bug that enabled BET-C to fire weapons while inside a wall
+- Fixed the thumbnail for the Incorruptible Pickaxe Paintjob
+- [XBOX] Fixed an issue that caused controllers to trigger signout changed warnings when disconnected
+- [XBOX] Lighting optimization tweaks
+- [XBOX] Fixed a bug while using a controller which prevented [B] from properly registering when purchasing accessories in The Shop
+- [XBOX] Fixed a bug in the Promotion Terminal and Character Selection Terminal which prevented players from exiting the Terminal with [B]
+- [XBOX] Fixed a bug that made certain confirmation prompts unresponsive with controller input
+- [MS STORE] Fixed a bug that prevented backspace from working when text chatting
+"
+	Update_19 = "Ahoj Horníci!
+
+Máme tady novou velkou aktualizaci na cestě - tentokrát se jedná o masivní vylepšení vaší zbrojnice, zlepšení vylepšovacího systému a předělání důchodového systému! Přečtěte si o tom níže! NABITO A ODJIŠTĚNO!
+
+--- PATCH NOTES ---
+
+8 NOVÝCH ZBRANÍ
+----------------------------
+DRG s radostí oznamuje že jsme rozšířili náš seznam dodavatelů a nový, větší katalog výzbroje byl vytvořen! Abyste mohli získat licence na nové vybavení, budete muset splnit Zbrojní Průkaz. Jakmile budete mít licenci, budete mít i přístup k novým zbraním. Tyto nové zbraně jsou teď k dispozici: 
+
+NOVÉ ZBRANĚ: STŘELEC
+----------------------------
+"THUNDERHEAD" TĚŽKÝ AUTOKANÓN: Zvláštní ale devastující zbraň. Malá kadence je nahrazena velkým poškozením,  doručen s přivázaným pásem wolframovým nábojů .50 kalibru. Thunderhead je temná zbraň pro sofistikovaného popravčího, nekompromisně dodává smrt jako čas sám.
+
+BRT7 DÁVKOVACÍ PISTOLE: Preciznější než samopal se stopující silou malé brokovnice, Brt (nebo "Burt" jak je někdy nazývána) je vysoce ceněná mezi sběrateli a znalci.
+
+
+NOVÉ ZBRANĚ: PRŮZKUMNÍK
+----------------------------
+M1000 KLASIK: Originální vzhled precizní pušky M1000 DRG vydání se po stovkách let opět vrací prakticky nezměněná. Velké poškození, úctyhodná kadence.. a ten "Ping". Přímý důkaz toho že "pokud to není rozbité, neopravuj to".
+
+ZHUKOV NUK17: Nesofistikovaný, ale spolehlivý. Rodina NUK rozdvojených mikro samopalů má dlouhou a cenou historii, Ti co Ví obvykle souhlasí s tím že 17 je z nich nejlepší.
+
+
+NOVÉ ZBRANĚ: INŽENÝR
+----------------------------
+
+"STUBBY" VOLTAICKÝ SAMOPAL: Co je lepší než Samopal? Samopal který střílí ELEKTRICKÉ NÁBOJE! Kluci v R&D zapojili prototyp ArcGen do střev spolehlivé Subaty 312, to znamená že teď rozpoutá bouři elektrifikované SMRTI! Světové varování: Nepoužívejte v blízkosti vody.
+
+FRÉZA: Fréza uvolňuje směrový výbuch zvukově poháněné plazmy silné natolik aby si poradila s většinou mimozemšťanů ve tvé cestě. Původem hornické nářadí, nyní častěji používané k otevíraní masa a kostí než k uložení sedimentu pro které byla vytvořena - často s pozoruhodnými výsledky!
+
+
+NOVÉ ZBRANĚ: VRTAČ
+----------------------------
+
+KRYO KANÓN: Šílení vědátoři zkoušeli zdokonalit tento nástroj po dlouhou dobu jak každá pamatuje, ale zdá se že naši borci z R&D to zdokonalili! Ručně přenosný (pro trpaslíky), dělá přesně to co si myslíte: Je to hustý mrazivý paprsek. To musíte mít!
+
+EXPERIMENTÁLNÍ PLAZMA NABÍJEČKA: Kulky jsou móda loňského roku. Místo toho proč nespalovat nepřátele zevnitř s  vysoce experimentální anti hmotou poháněnou zbraní střílející plazmou super nabité kulky? Co hrozného se může stát? (Když to zjistíte, dejte to vědět R&D).
+
+
+NOVÝ SYSTÉM ZBRAŇOVÝCH MODŮ
+----------------------------
+Systém vylepšování zbraní byl vyřazen ve prospěch nového Systému Zbraňových Modů, a každá zbraň teď může být upravena a vyladěna pro individuální potřeby každého! Více než 200 nových Zbraňových Modů byly představeny, a hodně z nich představují úplně nové funkce. Pro příklad, "Průstřel" je teď věc - kulky proletí nepřítelem aby mohlo zasáhnout nepřítele za ním! Nebo co takový "Strach" - sešle na nepřátele paniku díky tvé strašlivé kadenci! 
+
+Pro tuhle rundu vylepšení bude nový systém implementován pro všechny nové i staré zbraně, ale nebude implementován pro nástroje, granáty a zbroje. Pro ty budou sloužit budoucí aktualizace. 
+
+Také už žádné statické a nehybné obrázky vybavení na vylepšovací obrazovce - konečně jsme dostali rotační 3D modelovou prohlížečku!
+
+
+PŘECEŇOVÁNÍ VZHLEDOVÝCH A ZBRAŇOVÝCH MODŮ
+----------------------------
+Všechny vzhledové předměty a zbraně byly přeceněny! Všechny vzhledové předměty vám zůstanou. Kredity za všechny vylepšení zbraní byly navráceny, necháme vás prozkoumat nový systém ve volném čase.
+
+
+POVYŠOVÁNÍ (ZNÁMY JAKO DŮCHOD)
+----------------------------
+Důchodový systém dostal férovou generálku. Změny jsou následující:
+
+- "Důchod" byl přeformulován na "Povyšování".
+- Maximální úroveň každého trpaslíka zvýšení z 20 na 25
+- Poslední mise v Kvalifikaci na Povýšení nyní není nucená solo mise
+- Povýšení vašeho trpaslíka vám nyní nevezme žádný pokrok! Ano čtete dobře - všechny zbraňové vylepšení vám zůstanou! Jediná věc co se vám resetuje je úroveň vašeho trpaslíka
+- Stále musíte před povýšením splatit dluh DRG
+- Tituly pro hráčům rank byly rozšířeny až do ranku hráče 75 a spoustu dalších titulů byl přidáno
+
+
+STŘELEC: GENERÁTOR ŠTÍTU 
+----------------------------
+Střelcovi byly vyměněni C4 za GENERÁTOR ŠTÍTU. Vytváří to silové pole, který drží dál brouky a chrání všechny uvnitř. Dostaly jsme rychlý komentář od střelce: "Abych byl upřímný, sdílení věcí s Vrtáčkem není pro mě, tak jsem zkusil laskavě kontaktovat slepičí mozky v R&D aby mi vytvořily něco speciálního - a oni přišli s úžasným Generátorem Štítu! Teď můžu bezpečně stát na zemi a zabíjet brouky o sto péro! Skvělé časy!"
+
+
+VYLADĚNÍ LOVU VAJÍČEK
+----------------------------
+Kopaní vajíček v Lovu Vajíček může nyní vyvolat skupinu naštvaných brouků. Počet vajíček které budete potřebovat se trošku zvýšil.
+
+
+PIVNÍ BUFFY
+----------------------------
+DNEŠNÍ SPECIÁL: Náhodně zvolené Bufflé pivo bude k dispozici ke koupi každý den (zaktualizuje se pokaždé když mapa misí dostane nové mise). Také buffy už fungují! :-)
+
+
+ADJUSTACE TERÉNNÍHO SKENERU
+----------------------------
+S aktivním Terénním Skenerem, stiskni [SPACE] / (X) aby si natočil tvář ke směru natočení mapy.
+
+
+SPECIÁLNÍ VLNY
+----------------------------
+Jednou za čas můžete vletět do vlny Pretoriánů, Macterů, Glyfidských Válečníků nebo Swarmerů. Zda budou tyto vlny lehčí nebo těžší než normální na to budete muset přijít sami.
+
+
+VYLADĚNÍ NEPŘÁTEL
+----------------------------
+- NOVÝ NEPŘÍTEL - GLYFIDSKÝ  VÁLEČNÍK VETERÁN: Veterán má o 50% vice životů a má silnější zbroj než Glyfidský Válečník.
+- Glyfidský Pretorián byl v posilovně! Jeho životy byly zesíleny o 50% a je méně náchylný na střelu do hlavy než předtím - dostat se za ně a střílet je do jejich velkého a tlustého zadku je teď mnohem důležitější.
+- Byl přidán zvuk Vybuchovačům. Poslouchejte pozorně abyste je slyšely jak se za vámi plíží!
+- Oddělán částicový efekt když byly nepřátele zasaženi Pretoriánovým kyselinovým sprejem.
+Nemělo to tu být a má to vedlejší efekt a to pokles framu.
+- Snížen počet nepřátel kteří se vytváří pro 2 hráče pro Nebezpečí 2 a 3.
+
+
+OPRAVY A ZLEPŠOVÁKY
+----------------------------
+- Krátká videa přidány k výběru postav ke krátkému dojmu o ostatních postavách.
+- Nápovědy v načítací obrazovce aktualizovány se 3 novými nápovědami pro Milníky a Perky, Terénní Skener a Mutátor Misí.
+- Přidány motivační citáty na obrazovkách ve vesmírné stanici.
+- Bosco nyní určuje úhel kterým má kopat tunel ve hlíně od hráčova obličeje, raději než od jejich nohou, k místu na které zamířili. Tohle muže být očekávanější reakce, hlavně když hráč stojí kousek od hlíny
+- Násobiče poškození na fyzických materiálech nyní jsou na fyzických materiálech
+- Když se někdo připojí později, je tu časová doba kdy je jejich střelba do vlastních významně oslabena na tebe a tvoje spoluhráče.
+- Opraveno menu Abyss Baru které se správně nezavíralo při stisknutí ESC
+- Změněný symbol Kyseliny na symbol Biohazardu/Jedu.
+- Zlepšena prevence přeplnění světlice
+- Světlice nyní vrhají stín!
+- Granáty z Granátometu jsou ve vzduchu více vidět.
+- Při koupi předmětu jsou zobrazeny veškeré potřebné suroviny
+- Vyladěno ochlazení u Kulometu
+- Zaměřovač se teď pohybuje správně při střelbě
+- Opravena chyba která způsobovala že Bosco ukončil svůj světelný úkol dokud byly poblíže hráče nepřátele
+- Pretoriáni hoří o něco později
+- Pamětní obrazovka už neskládá jména a nevyvolává je na jednou když je Framerate malý
+"
+	Update_32 = "Nazdar tvrďáci!
+
+Konečně přišel čas prvního hlavního updatu od vydání verze 1.0! Jako hlavní chod jsou podáváme dvě zbrusu nové mise: Eskorta a lokální rafinace. Oba typy misí kladou důraz na těžkotonážní těžební techniku, která si žádá něžnou láskyplnou péči a ochranu od týmu tvrdě pracujících trpaslíků. Příloha se skládá ze spousty nových kosmetických předmětů, dalšího vybalancování zbraní, tolik potřebného přepracování tabule zakázek a mnoho dalších věcí. Bon apetit!
+
+Je čas ušpinit si ručičky! Nikdy nebyla lepší doba na to být bojovným horníkem pracujícím pro DRG. Uvidíme se v dolech!      
+
+S láskou,
+Tým Ghost Ship
+
+--- POZNÁMKY K AKTUALIZACI ---
+
+NOVÁ MISE: LOKÁLNÍ RAFINACE
+----------------------------
+Vedení má novou závislost: kapalný Morkit. Posílají po boku lokální rafinerie k jejímu naplnění. Najděte studny kapalného Morkitu a napojte je na orbitálně-sesílaná průmyslová čerpadla, ty připojte k rafinerii pomocí široko se vinoucího potrubí a vypumpujte je do poslední kapky! Jo, abych nezapomněl, borci z VaV byli tak velkorysí, že trubky vylepšili o šikovný způsob pro rychlou, jednoduchou a BEZPEČNOU* přepravu.
+
+*Projděte si klausuli 3.15 Vaší smlouvy jestli chcete vědět definici „bezpečí“ dle směrnic společnosti.
+
+
+NOVÁ MISE: ESKORTA
+----------------------------
+V této misi, silně zaměřené na souboje jste vysláni získat tajemný ommoranský srdcekam! Jedině speciálně vytvořený autonomní Drildozér se dokáže prokousat vnější skořápkou Ommoranu a odhalit odměnu spočívající uvnitř: Neocenitelný ommoranský srdcekam. Drildozér přistane v bezpečné vzdálenosti, a poté automaticky zamíří směrem k Ommoranu. Vaším úkolem je udržet tu zatracenou věc v bezpečí a zásobenou palivem, zatímco se prokopává ke svému cíli. Chraňte ho svými životy, horníci!
+
+
+NOVÁ ZAKÁZKA: TVRĎÁCI PŘI PRÁCI
+----------------------------
+Tato nová zakázka slouží jako rychlokurz pro přežití a bezpečné splnění nových misí. Navíc jako odměnu za splnění zakázky obdržíte nablýskané nové pokrývky hlavy. No není to úžasné?
+
+
+NOVÉ KOSMETICKÉ PŘEDMĚTY
+----------------------------
+Pozor pozor, módní šílenci! Právě dorazila nová podzimní kolekce plná překrásných nových vousů, pokrývek hlavy a hřív! Sedmadvacet (27) nových kosmetických předmětů bylo přidáno do Krámku, jedenáct (11) nových kosmetických předmětů k ukování za pomoci matric a jedna (1) nová pokrývka hlavy jako odměna za splnění nové zakázky. 
+
+
+NOVÉ DLC: TVRĎÁKŮV BALÍČEK 
+----------------------------
+Jestli chcete pořádně přitvrdit, tak je tu pro vás nový Tvrďákův balíček. Opepřete svůj vzhled se čtyřmi (4) novými sadami zbroje (jeden pro každou třídu), novými přilbami a nátěry. Tento balíček je určený pro ty, co se nechtějí zdlouhavě strojit jako vesmírní mariňáci, ale chtějí se hned pustit na tu dřinu, co na ně čeká! Konečně se můžete pochlubit svými metaforickými „kanóny“ a také vybranou kolekcí tetování, které jste schovávali pod rukávy tak dlouho!
+
+Kromě zbrojí jsou v balíčku ještě dvě (2) unikátní helmy, a také nový nátěr pro Bosca a váš krumpáč.
+
+
+NÁHODNÝ VÝBĚR KOSMETICKÝCH PŘEDMĚTŮ V ŠATNÍKU
+----------------------------
+Když je řeč o módě...pokud jste jedním z těch lidí, který se nedokáže rozhodnout nad tou, či onou helmou nebo mezi stylem vousů, a nebo se jen bojíte vyzkoušet něco nového a odvážného, tak….pro vás máme skvělou novinku: šatník nyní obsahuje tlačítka pro náhodný výběr – pro celou výstroj nebo dle kategorie. Zkoušení nových, nečekaných kombinací nikdy nebylo jednodušší!
+ 
+
+VIZUÁLNÍ PŘEDĚLÁVKA TABULE ZAKÁZEK
+----------------------------
+DRG právě zainvestovalo do lepší tabule zakázek. Užijte si nové vyšperkované intuitivní rozložení prvků při volbě vaší další zakázky!
+
+
+ZMĚNY V OVLÁDÁNÍ HODU
+----------------------------
+OVLÁDÁNÍ: Při nošení drahokamů nebo jiných těžkých břemen můžete hodit objekt za pomocí [PRAVÉHO A LEVÉHO TLAČÍTKA MYŠI] na PC, nebo [PRAVÉHO A LEVÉHO TRIGGERU] na Xboxu. Tuto změnu jsme zavedli kvůli novému palivovému kanystru (používaný v eskortních misích), který je nošen stejně jako drahokam, ale zároveň funguje jako nástroj/zbraň. Někdy v budoucnu je možné, že takovýchto nástrojů/zbraní bude více, čas ukáže.
+
+AUTOMATICKÉ ZRUŠENÍ HODU: Jestliže budete držet tlačítko hodu po delší dobu po dosažení maximální síly hodu, akce hodu se automaticky přeruší. 
+
+
+VYVÁŽENÍ ZBRANÍ
+----------------------------
+PGM NUKLEUS 40MM
+- zvýšená základní průraznost o 100 
+- redukce přímého poškození u modifikace Zápalná směs, nyní ovlivňuje také průraznost
+- část bonusu k oblasti účinku bylo přesunuto z modifikace „Hřebíky + páska“ do základu zbraně
+- údaj o maximu munice nyní počítá s první nábojnicí ve zbrani, jelikož tato zbraň nemá žádné údaje o velikosti zásobníku
+
+Přetavení Mega-střelivina
+- značně zvýšený bonus za přímé poškození a nyní počítá i s bonusem za zásah slabého místa nepřátel
+- přidán hendikep k množství munice
+- upravený zaměřovač při vybavení tímto přetavením 
+- nyní má vlastní efekty letících střel a při nárazu
+
+Přetavení Sloučenina RJ250
+- zpětný ráz z přetavení nyní klesá na účinku, čím dále jste od centra exploze
+- hráč má nyní větší kontrolu nad úhlem, kterým se vystřelí
+
+PLAZMOVÁ FRÉZA
+- snížena základní kapacita zásobníku
+- zvýšen bonus modifikace S1 Vysokokapacitní zásobník
+- snížen bonus modifikace S2 Rozšířené muniční vaky
+- snížena výška hitboxu u modifikace Trojitý rozštěp
+- přesunuta část ze základní šířky do modifikace S2 Uvolněná soudržnost uzlů
+- zvýšen základní čas přebití
+- změněna modifikace S3 šířky paprsku na modifikaci rychlosti přebití (každý kdo má starou modifikaci zakoupenou dostane automaticky refundaci)
+- upraveny přetavení Odlehčené zásobníky, Vysokonapěťové křížení, Rotující záhuba, Vraťte odesílateli a Inferno na základě nové kapacity zásobníku.
+
+Přetavení Inferno
+- zapaluje nepřátele rychleji a udržuje je v zapáleném stavu po delší dobu.
+
+Přetavení Rotující záhuba
+- přidán bonus k šířce paprsku
+
+ŽUKOV NUK17
+- zvýšen bonus modifikace S1 Rozšířené muniční vaky
+- přesunuta část poškození z modifikace S3 Náboje větší ráže do základu zbraně
+
+Přetavení Zapuštěné rozbušky
+- značně zvýšeno poškození udělené při přebíjení
+- změněn typ poškození z kinetického na vnitřní poškození
+- zvýšen hendikep k přímému poškození
+- přidán hendikep ke kapacitě zásobníku
+- zvýšen hendikep k množství munice
+- pokud nepřítel, do kterého střílíte může být zabit přebitím, dočasně se objeví ikonka vedle jeho ukazatele života
+
+EXPERIMENTÁLNÍ PLAZMOVÝ EMITOR
+- snížen hendikep k rychlosti nabíjení u modifikace S5 Létající noční můra
+
+KRYO-KANÓN
+- zvýšeno množství maximální munice u základu zbraně
+- zvýšen bonus modifikace S1 Větší tlaková komora
+- zvýšen bonus u modifikace S2 Větší rezervní nádrž
+
+TĚŽKÝ AUTOKANÓN „HROMOHLAV“
+Přetavení Útočná mobilita
+- zvýšen bonus k rychlosti pohybu
+- přidán bonus k přesnosti
+- nahrazen hendikep k poškození za sníženou kapacitu zásobníku
+- přidán bonus k rychlosti přebití
+
+M1000 KLASIK
+- zvýšena rychlost zaměření u základu zbraně a pro vykompenzování snížen bonus k rychlosti zaměření u modifikace S2 Rychlo-nabíjecí cívky
+- zvýšen bonus k munici u modifikace S1 Rozšířené muniční vaky
+
+Přetavení Aktivní stabilizační systém
+- přidán bonus k rychlosti zaměření
+- nahrazen hendikep k poškození zaměřené střely za hendikep k rychlosti přebití
+
+LMG STŘÍLNA
+- základní poškození zvýšeno z 5 na 6
+- Systém Gemini nyní přidá extra 90 munice
+- bonusové poškození Obranného systému změněno z procent na pevné +5
+
+NUKLEUS GK2
+Přetavení AI-poháněná stabilizace
+- nyní dává velký bonus k poškození při zásahu do slabin
+- zvýšen hendikep k základnímu poškození
+
+ZUBATA 120
+Přetavení Výbušné přebití
+- značně zvýšeno poškození udělené při přebíjení
+- změněn typ poškození z výbušného na vnitřní poškození
+- odstraněn hendikep poškození
+- zvýšen hendikep kapacity zásobníku
+- zvýšen hendikep k množství munice
+- pokud nepřítel, do kterého střílíte může být zabit přebitím, dočasně se objeví ikonka vedle jeho ukazatele života
+
+FEROMONOVÝ GRANÁT
+- nepřátelé ovlivnění feromony jsou nyní o 50 % přitažlivější
+
+L.U.R.E.
+- L.U.R.E. již neobdrží poškození ze střelby z vlastních řad
+
+
+NOVÉ VÝKŘIKY
+----------------------------
+Nové trpaslo-křiky byly přidány. Primárně zaměřeny samozřejmě na nové typy misí, ale také jsme přidali chybějící výkřiky pro laserové ukazovátko, na závěr jsme přihodili do mixu také pár nových Šutrů a kamenů! 
+
+
+NOVÉ MILNÍKY A ACHIEVEMENTY
+----------------------------
+Nové mise znamenají samozřejmě nové milníky, a také dva(2) nové achievementy, pro každý typ mise jeden.
+
+
+NA ŽÁDOST KOMUNITY
+----------------------------
+- Kaligule a Ebořechy – vedlejší úkolové předměty, nyní vyzařují světlo, aby je bylo lehčí najít ve tmě Hoxxes.
+
+
+OSTATNÍ
+----------------------------
+- přepracováno rozhraní tabule zakázek
+- [NA ŽÁDOST KOMUNITY] větší variace systému generace jeskyní ve všech typech misí
+- [NA ŽÁDOST KOMUNITY] přidáno světlo ke Kaligulím a Ebořechům pro lepší viditelnost
+- [NA ŽÁDOST KOMUNITY] přidána rampa k výsadkovému modulu do skeneru terénu
+- přidán nový model pro kbelík s minerály
+- přidány dva nové achievementy pro nové typy misí
+- přidáno 27 nových kosmetických předmětů ke koupi v Krámku
+- přidáno 11 nových kosmetických předmětů dostupných ke kutí za matrice
+- přidána jedna (1) nová přilba jako odměna za splnění nové zakázky
+- přidány ikony k jistým objektům, které je neměli na displeji laserového ukazovátka
+- přidána animace pro Bosca, která se přehraje, když něco upustí
+- přidán popis jednotky mini M.U.L.A. do laserového ukazovátka
+- přidána možnost zrušit hod, podržením tlačítka hodu po dobu několika vteřin navíc
+- přidán údaj o době trvání ke granátům, kterým scházel
+- přidán údaj o rozsahu ke granátům, kterým scházel
+- Bosco se nyní resetuje na následování hráče, pokud je chycen nebo ochromen
+- Bosco nyní hází předměty, které nese, směrem k hráči, pokud je v dostatečné blízkosti, namísto nedbalého upuštění na zem přímo pod sebe
+- Boscův hologram na hlavě nyní zmizí jen pokud přeruší úkol, který jste mu zadali
+- Bosco by měl nyní konzistentněji nacházet minerály kolem oblasti, na kterou ukážete
+- lehce zvýšené množství morkitu, které se objeví v Hlubinných ponorech se sekundárním úkolem sběru morkitu
+- výběr přetavení v terminálu výbavy nyní zavře menu s přetaveními
+- decentně zvýšena hlasitost varování malého množství kyslíku 
+- tip o doplňování zásoby kyslíku se nyní zobrazí na začátku každé mise s modifikátorem „řídký vzduch“
+- snížen počet noh jednotek mini M.U.L.A. generovaných v jejich okolí ze 4 na 3
+- vylepšen způsob, jakým se generuje prostor kolem únikového modulu v záchranných misích, tak aby byl zahrnut generaci celé jeskyně, díky tomu prostor působí přirozeněji
+- vylepšena generační logika jednotek mini M.U.L.A., tak aby se tvořili pouze na kameni
+- vylepšena generace noh jednotek mini M.U.L.A. Například: nyní se už netvoří uvnitř černého ledu
+- vylepšeny písečné bouře a zemětřesení, aby také omezovali rychlost pohybu nepřátel
+- zmražení impové nyní vždy umřou po krátké prodlevě
+- vylepšena animace vrávorání, aby byla nyní založena na době trvání vrávorání
+- vylepšen způsob jakým se několik předmětů zobrazuje na displeji laserového ukazovátka
+- vylepšen pohyb jednotky M.U.L.A. 
+- vylepšen shader tónů pleti
+- zlepšena Boscova schopnost navigace k objektům určeným k vyzvednutí
+- vylepšen model těžkého revolveru „Bulldog“
+- vylepšena animace vítězné pózy „Ukaž svý kladiva“
+- strojové úkazy už nevybouchnou v blízkosti výsadkového modulu, jelikož jsme vylepšili generační logiku, aby předcházela generaci v místech blokujících přistup k výsadkovému modulu
+- upraveno audio při načítací obrazovce tutoriálu
+- provedeny úpravy ke křiku glyfidského tyrana
+- provedeny úpravy ke zvukům korlokského trýzniplevele
+- provedeny úpravy zvuků laserového ukazovátka
+- provedeny úpravy ke zvuku nárazu světlice
+- provedeny úpravy ke zvuku při odemykání nového biomu
+- [NA ŽÁDOST KOMUNITY] opraveno několik problémů s clippingem na vesmírné stanici
+- rozmáznut bug, který zabraňoval hráčům v průchodu skrze jisté pop-upy
+- rozmáznut bug, který zabraňoval zbrani M1000 Klasik zobrazení údaje o rozptylu střelby v terminálu výbavy
+- rozmáznut bug, který mohl za usekávání zvuků chůze jednotky M.U.L.A.
+- rozmáznut bug, který zabraňoval zobrazení potvrzovacího okna při koupi zbraňové modifikace
+- rozmáznut bug, který způsoboval zobrazení údaje o průraznosti v terminálu výbavy, když není upravený
+- rozmáznut bug, který bránil v zavření potvrzovacího okna při koupi granátů
+- rozmáznut bug, který umožňoval později příchozím hráčům přistání na „důležitých místech“, jako jsou strojové úkazy, výsadkový modul, atd.
+- rozmáznut bug, který občas zabraňoval v odhození pivního korbele
+- rozmáznut bug, který mohl způsobit, že Bosco nemůže celou misi zvedat objekty
+- rozmáznut bug, který dovoloval zbraním zobrazení v šatníku
+- rozmáznut bug, který způsoboval, že se kurzitový nepřátelé generovali na pozici hostitele a ne strojového úkazu
+- rozmáznuty podobné bugy v ostatních strojových úkazech
+- rozmáznut bug, který umožňoval modifikaci „Krycí palba“ těžkého autokanónu „Hromohlav“ aplikovat paniku na Steeva
+- rozmáznut bug, který způsoboval, že Bosco začne kopat, místo sebrání Kaligule, pokud leží na zemi
+- rozmáznuto několik zvukových bugů
+- rozmáznut bug, který umožňoval makteří lapačce chycení hráče i po zmrazení
+- rozmáznut bug, který umožňoval Elektrokrystalům zranit hráče, pokud na něj hodili Energo-sekeru
+- rozmáznut bug, který zabraňoval klientům v získání Kaligulí, pokud byli zasáhnuté výsadkovým modulem
+- rozmáznut bug, který způsoboval, že se M.U.L.A. zasekne do doby extrakce, pokud se odpojí hráč právě vhazující suroviny
+- rozmáznut bug, který způsoboval nesprávné zobrazování zmraženého stavu Jeskynní pijavice
+- rozmáznut bug, který zabraňoval v počítání zabití nepřátel pomocí zmražení do statistik celkových zabití
+- rozmáznut bug, který způsoboval zobrazení vznášejícího se stínu krumpáče v pohledu z první osoby
+- rozmáznut bug týkající se Discord Rich presence v hlasových kanálech Discordu
+- rozmáznut bug, který způsoboval, že jisté zvuky strojového úkazu „Modulární likvidátor OMEN“ hráli příliš dlouho
+- rozmáznut bug, který způsoboval nesprávné zobrazení přetavení Ochromitel zbraně Auto 210 „Divočák“
+- rozmáznut bug, který občas zabraňoval Boscovi v řádném vykopání drahokamů ze země
+- rozmáznut bug, který umožňoval hodit granát, zatímco jste byli chyceni, pokud jste drželi tlačítko granátu těsně předtím, než jste byli chyceni
+- rozmáznut bug, který zabraňoval makteřím lapačkám v ječení
+- [XBOX] rozmáznut bug, který přerušoval hraní vyskakovacím oknem „Změna přihlášení“, pokud máte špatné připojení ovladače
+- [XBOX / WIN10] vylepšen síťový framework, díky čemuž by se mělo zamezit náhodným odpojením a spadnutím
+
+"
+	Update_18_ShortTitle = "PRACOVNÍ PŘÍLEŽITOSTI"
+	Update_13_ShortTitle = "MALÉ ŽIVOTNÍ ZMĚNY"
+	Update_15_ShortTitle = "NEBEZPEČÍ MUTACE!"
+	Update_21.5_ShortTitle = "ROK NA ORBITĚ"
+	Update_32_Shorttitle = "TVRĎÁCI PŘI PRÁCI"
+	Upadte_31_ShortTitle = "NÁZEV"
+	Update_10_ShortTitle = "TUNELOVÉ VIDĚNÍ?"
+	Update_10_Header = "AKTUALIZACE 10: TUNELOVÉ VIDĚNÍ? - 16.03.2018"
+	Update_11_Header = "AKTUALIZACE 11: ZBRAŇ A SMRT - 23.03.2018"
+	Update_12_Header = "AKTUALIZACE 12: MOUCHY A PENÍZE - 13.04.2018"
+	Update_13_Header = "AKTUALIZACE 13: MALÉ ŽIVOTNÍ ZMĚNY - 04.05.2018"
+	Update_15_Header = "AKTUALIZACE 15: NEBEZPEČÍ MUTACE! - 04.07.2018"
+	Update_16_Header = "AKTUALIZACE 16: ZIMA PŘIŠLA - 29.08.2018"
+	Update_17_Header = "AKTUALIZACE 17: OKTOBERFEST! - 20.09.2018"
+	Update_18.5_Header = "AKTUALIZACE 18.5: HALLOWEEN - 26.10.2018"
+	Update_18_Header = "AKTUALIZACE 18: PRACOVNÍ PŘÍLEŽITOSTI - 11.10.2018"
+	Update_19_Header = "AKTUALIZACE 19: ZBRANĚ! MOC ZBRANÍ!"
+	Update_20_Header = "AKTUALIZACE 20: VĚTŠÍ, LEPŠÍ, BOSCO"
+	Update_21_Header = "AKTUALIZACE 21: SMRTÍCÍ CHŮZE"
+	Update_21.5_Header = "AKTUALIZACE 22: ROK NA ORBITĚ"
+	Update_32_Header = "AKTUALIZACE 32: TVRĎÁCI PŘI PRÁCI"
+	Update_16_ShortTitle = "ZIMA PŘIŠLA"

@@ -686,17 +686,17 @@
 			}
 		},
 		{
-			"File": "../../../FSD/Plugins/discordrpc/DiscordRpc.uplugin",
+			"File": "../../../FSD/Plugins/DiscordSDK/DiscordSDK.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
 				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Discord RPC",
-				"Description": "Wrap the Discord RPC library.",
+				"VersionName": "0.1",
+				"FriendlyName": "Discord SDK",
+				"Description": "Wrap the Discord SDK library.",
 				"Category": "Messaging",
-				"CreatedBy": "Chris Marsh <chris@discordapp.com>",
-				"CreatedByURL": "https://discordapp.com/",
+				"CreatedBy": "Axel Emanuelsson <Axel@GhostShip.dk>",
+				"CreatedByURL": "",
 				"DocsURL": "",
 				"MarketplaceURL": "",
 				"SupportURL": "",
@@ -704,7 +704,7 @@
 				"IsBetaVersion": true,
 				"Modules": [
 					{
-						"Name": "DiscordRpc",
+						"Name": "DiscordSDK",
 						"Type": "Runtime",
 						"LoadingPhase": "PreDefault",
 						"WhitelistPlatforms": [
@@ -712,6 +712,20 @@
 							"Linux",
 							"Mac"
 						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "OnlineSubsystem",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystemUtils",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystemSteam",
+						"Enabled": true
 					}
 				]
 			}

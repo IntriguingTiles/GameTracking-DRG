@@ -1,0 +1,463 @@
+39 entries
+1 namespaces
+37 values
+
+Namespace PatchNotes (39 keys)
+	Update_30_Header = "1.0 JULKAISU"
+	Update_30_ShortTitle = "1.0 JULKAISU"
+	Update_20.1_ShortTitle = "ISOMPI, PAREMPI, BOSCO"
+	Update_20_ShortTitle = "ISOMPI, PAREMPI, BOSCO"
+	Update_11_ShortTitle = "KUOLLUT JA ASE"
+	Update_9_ShortTitle = "PORAA MYÖHEMMIN!"
+	Update_14_ShortTitle = "Ominaisuus CREEP"
+	Update_12_ShortTitle = "FLIES N 'FINANCE"
+	Update_21_ShortTitle = "MENOSSA TAPPAVAKSI"
+	Update_19_ShortTitle = "ASEITA! PALJON ASEITA"
+	Update_23_ShortTitle = "HOXXESIN KAUHUT"
+	Update_20 = "Hyvää joulua louhijat! 
+
+Joulu on tullut Hoxxesille ja tuomme teille lahjan juuri ajallaan joululle! Lisäksi, on ilo ilmoittaa, ettei se ole pehmeä lahja! Oikeastaan, se on täytetty KOVILLA Boscon lisäosilla, lääkintä osastolla, uudistetuilla asemalleilla ja monilla muilla ominaisuuksilla! 
+
+Toivoo,
+Ghost Ship tiimi!
+
+--- PÄIVITYKSET ---
+
+BOSCO LISÄOSAT
+----------------------------
+Tarvitsetko Boscon lääkintä dronena tai tappajakoneena? Nyt se riippuu täysin sinusta!
+
+Kuten aseet, Boscolla on lisäosia joita voi ostaa ja ottaa käyttöön. Nämä lisäosat mahdollistavat sinun muokata dronea käyttämällä joitakin olemassaolevia parametreja, kuten elvytyksien lukumäärällä tai aseen vahingolla, mutta esittelemme myös erikois toissijais-ammunnan. Kun lisäosa on aktiivinen, pelaaja voi osoittaa maastoskannerilla ja painaa [RIGHT MOUSE BUTTON] tai (LEFT TRIGGER) ja Bosco ampuu raketin kohteeseen. 
+
+
+LÄÄKINTÄOSASTO 1.0
+----------------------------
+Kun sinä ja tiimisi epäonnistutte tehtävässä, heräätte lääkintäosastolla. Taistelkaa yhdessä, epäonnistukaa yhdessä!
+
+
+UUDISTETUT ASEMALLIT
+----------------------------
+Kaikki vanhat aseet ovat saaneet graafisen huollon ja pitäisivät olla osa uusia aseita. Niille jotka ajattelevat, että ulkonäöt ovat tärkeämpiä kuin ominaisuudet!
+
+
+JOULU AVARUUDESSA
+----------------------------
+Emme voineet auttaa itseämme ja jouduimme pukemaan avaruusaluksen lomille. Voit myös ostaa rajoitetun päähineen ja esittää joulupukkia kaveriesi kanssa. Elä tuhoa sisustusta, kiitos!  
+
+
+MINERAALI VAIHTO TERMINAALI TEHTÄVÄ
+----------------------------
+Johdon uusilla rekrytoinneilla ei ole enään suoraa vaikutusta mineraali vaihto terminaaliin. Käyttölupa saadaan nyt todistamalla itseäsi suorittamalla tehtävä! Käyttöluvan saamisesta vaihto terminaaliin, pelaajat palkitaan 50 kropalla ja 40 Jadizilla suorittamisen jälkeen.
+
+
+PELITALLENNUKSIEN PALAUTUS ASETUS
+----------------------------
+Voit nyt palauttaa pelitallennuksesi asetus valikosta. Tämä on vain lisä turva ominaisuus epätodennäköisessä tilanteessa jossa menetät tallenuksesi datan. Johto myöntää sen kuitenkin jo tapahtuneen!  
+
+
+ASEIDEN TASAPAINOTUS: "WARTHOG" AUTOMAATTI 210
+----------------------------
+- Perus vahinkoa lisätty. 
+- Ylilatautunut syöttöjärjestelmä lisäosa tulinopeus vähennetty, isommat luodit lisäosa vahinkoa nostettu 
+- Perus vahinkoa lisätty. Ylilatautunut syöttöjärjestelmä lisäosa tulinopeutta vähennetty. 
+- Isommat luodit lisäosan vahinkoa nostettu 
+- Perus latausaikaa vähennetty 2.3 sekunnista 2.0 sekuntiin
+
+
+ASEIDEN TASAPAINOTUS: CRSPR LIEKINHEITIN
+----------------------------
+- Nykäisty liekinheittimen tarttuvien liekkien päivityksiä olemaan paremmin tasapainotettu suoraan palavia kohteita vastaan.
+
+
+MUUT ASEIDEN KORJAUKSET
+----------------------------
+- Vihollisten tappaminen tarttuvilla liekeillä ja niiden asettaminen tuleen pitäisi nyt antaa tapon oikein
+- Korjaus katkaistu haulikko lataisi aina automaattisesti vaikka sinulla ei olisi taitoa käytössä
+- Korjattu tuplapistoolien animaatio aseistus terminaalissa
+- Uusia aseiden ääniä lisätty
+- Lisätty uusia tehtävän hallinnan puheita kaikille aseille ja ylennys tehtäville
+- Päivitetty aseiden kuvakkeita: Taisteluhaulikko, Pistooli, Revolveri 
+- Korjattu m1000 ei resetoi tarkennusta jos ladataan täydellä lippaalla
+- Korjattu Tupla pistoolien animaatio saattaa jäädä jumiin elvyyttämisen jälkeen
+- Korjattu sarjatuli pistooli jatkaisi ampumista jos vaihdetaan asetta sarjan aikana
+- "stagger" uudelleenimetty "Stun" koska se aiheutti hämmennystä.
+
+
+KORJAUKSIA JA PARANNUKSIA
+----------------------------
+- Poistettu värisevät näytöt tehtävän valinnasta
+- Korjattu asustus kyllä/ei ilmoitus ei vastaa ohjaimen pikanäppäimiin
+- Korjattu avaruusalus käyttöliittymä ongelma vaihdettaessa hahmoa
+- Parannettu myöhäisen liittymisen kulku - voit nyt valita hahmosi ennen kuin taso latautuu ja - takaisin nappi on lisätty
+- Korjattu kaatuminen liittyen jään päällä kävelyyn.
+- Korjattu liittyminen käynnissä kaatuminen
+- Korjattu myöhäisen liittymisen kaatumisen
+- Korjattu kaatuminen liittyen jäätymiseen
+- Korjattu kaatuminen liittyessä peliin
+- Korjattu laava maggot ei tee yhtään vahinkoa
+- Korjattu laava geysir tekee 0 vahinkoa räjähdyksessä
+- Dreadnought voi luoda lisää vihollisia 
+- Korjattu Jittery elvytys osille
+- Paranneltu vihollisten luomis palaute
+- Paranneltu räjäyttäjän logiikka kun räjähtämäisillään ja ammut sitä päähän tai jäädytät sen.
+- Korjattu jotkin viholliset voivat väistää tulen jos ne kävelevät louhinta-alustan alla pistelouhinnassa
+- Korjattu ilma -ja laava geysirin kuplinta ääni joka jää niiden tuhoamisen jälkeen
+- Potku animaatio lisätty kolmannen persoonan hahmoille. Tynnyrien potkiminen ei ole koskaan ollut realistisempaa!
+- Uusia tehtävän hallinnan puheita ase -ja ylennystehtäville
+"
+	Update_32 = "Arvoisat känsäkourat!
+
+On viimein aika julkaista ensimmäinen merkittävä julkaisun jälkeinen päivitys! Pääruokana on kaksi upouutta tehtävätyyppiä: saattotyö ja paikan päällä jalostaminen. Molemmat tehtävätyypit keskittyvät raskaan sarjan louhimisvarustoon, jotka tarvitsevat hellää rakkautta ja suojaa ahkerilta kääpiöiltä! Lisukkeena on liuta kosmeettisia esineitä, lisää aseiden tasapainottamista, pitkään kaivattu toimeksiantoterminaalin kasvojenkohotus sekä monia muita. Bon Appetit!
+
+On aika liata kädet! Nyt on parempi aika kuin koskaan aikaisemmin olla taistelumainari DRG:n pestissä. Tavataan taas kaivoksissa!
+
+Rakkaudella,
+Ghost Ship -miehistö
+
+--- PÄIVITYSMERKINNÄT ---
+
+UUSI TEHTÄVÄ: PAIKAN PÄÄLLÄ JALOSTAMINEN
+----------------------------
+Työnjohto on janoinen: he hamuavat nestemäistä morkiittia. He lähettävät teidät luolaan jalostamon kera, joka teidän on täytettävä. Paikantakaa nestemäisen morkiitin lähteet ja kutsukaa kiertoradasta lähetettävä pumppu sen luo. Yhdistäkää ne jalostamoon rakentamalla valtavia, kiemurtelevia putkistoja ja pumpatkaa nuo lähteet kuiviksi! Niin, ja hyvät herrat T&K:ssa olivat jopa tarpeeksi höveliä kehittämään kätevän tavan käyttää putkistoja nopeaan, helppoon ja TURVALLISEEN* matkantekoon.
+
+*Tarkista klausuuli 3.15 sopimuksestasi lukeaksesi lisää yrityksen määritelmästä sanalle "turvallinen."
+
+
+UUSI TEHTÄVÄ: SAATTUETYÖ
+----------------------------
+Tässä raskaasti taistelupohjaisessa tehtävässä työnänne on päästä käsiksi Ommoranin sydänkiveen. Vain erityistarkoitukseen rakennettu autonominen poratraktori puree Ommoranin ulkokuoreen paljastaakseen sen sisällä olevan aarteen: mittaamattoman arvokkaan Ommoranin sydänkiven. Poratraktori laskeutuu turvallisen etäisyyden päähän ja automaattisesti suuntaa kohti Ommorania. Työkuvananne on pitää tuo se turvassa ja tankattuna kun se kaivaa oman tiensä tavoitetta kohti. Suojelkaa sitä hengellänne, mainarit!
+
+
+UUSI TOIMEKSIANTO: KÄNSÄKOURAT HOMMISSA
+----------------------------
+Tämä uusi toimeksianto toimii pikaoppaana siihen, miten turvallisesti suorittaa nämä uudet tehtävät ja saapua takaisin elossa - ja lisäksi palkitsee sinut hienolla uudella päähineellä suorituksen ohessa. Mitä muuta voisi toivoa?
+
+
+UUDET KOSMEETTISET ESINEET
+----------------------------
+Huomio, muoti-intoilijat! Uusi syksyn kokoelma on juuri julkaistu, sisältäen korean valikoiman partoja, päähineitä ja kampauksia! 27 uutta kosmeettista esinettä on lisätty kauppaan, 11 uutta kosmeettista esinettä voidaan takoa matriisiytimillä ja 1 uusi päähine on saatavana uuden toimeksiannon suoritettaessa.
+
+
+UUSI DLC: KÄNSÄKOURAPAKETTI
+----------------------------
+Jos haluat näyttää työtehtäviin sopivalta, uusi känsäkourapaketti on apunasi. Terästä ulkomuotoasi neljällä uudella haarniskalla (yksi jokaiselle luokalle), uusilla kypärillä ja maalipinnoilla. Tämä paketti on pääosin suunnattu niille, jotka eivät jaksa vaivautua pukeutumaan avaruussotilaiksi ja haluavat sukeltaa suoraan olkapäitä myöten töihin! Lopuksi, esitelkää noita vertauskuvallisia tykkejänne - sekä komeita tatuointejanne, jotka oli pidetty piilossa liian kauaa!
+
+Haarniskojen lisäksi paketin mukana tulee kaksi ainutlaatuista kypärää, sekä uusi maalipinta Boscolle ja hakullesi!
+
+
+SEKOITA KOSMEETTISET ESINEESI VAATEKAAPISSA
+----------------------------
+Muodista puheen ollen... jos olet sellainen henkilö, joka ei osaa päättää mitä kypärää käyttää, millaiseksi muotoilla partasi tai olet vain liian peloissasi kokeilemaan jotain uutta ja rohkeaa... meillä on hyviä uutisia. Vaatekaappi on varustettu uusilla randomisointinapeilla - koko ulkonäölle sekä erikseen joka kategorialle. Uusien ja odottamattomien yhdistelmien kokeilu ei ole koskaan ollut helpompaa!
+
+
+TYÖNJOHTOTERMINAALIN ULKONÄÖN UUDISTUS
+----------------------------
+DRG juuri investoi parempaan työnjohtoterminaaliin. Nauti uudesta ja intuitiivisemmasta ulkoasusta kun valitset seuraavan työnjohtosi!
+
+
+HEITTOMEKANIIKAN MUUTOKSET
+----------------------------
+OHJAIMET: Kun kannat jalokivia ja muita raskaita esineitä, voi heittää molemmilla [VASEN JA OIKEA HIIREN NAPPI] PC:llä ja [VASEN JA OIKEA LIIPAISINNAPPI] Xbox:lla. Tämä muutos tehtiin polttoainekanistereiden (joita käytetään saattuetyö-tehtävätyypissä) toiminnallisuuden sovittamiseen, sillä niitä voidaan sekä kantaa kuin jalokiveä että käyttää työkaluna. Näemme itsemme lisäämässä muita työkaluja ja aseita, joita voisi käyttää samalla tavoin.
+
+PERUUTA HEITTO AUTOMAATTISESTI: Jos et päästä irti heittonapista maksimiheittovoiman saavuttamisen jälkeen, tuo heitto perutaan hetken jälkeen.
+
+
+ASEIDEN TASAPAINOITUS
+----------------------------
+SYVÄYDIN 40MM KKH
+- Kasvatettiin lähtötason haarniskan hajoamisvoimaa 100 %:iin
+- Syttyvä Yhdiste -modin vahingon pienentäminen vaikuttaa nyt myös panssarin hajoamisvoimaan
+- Siirrettiin hieman vahinkoa "nauloja + teippiä" -modista aseen perusvahinkoon
+- Maksimiammukset ottavat nyt huomioon myös kranaatinheittimessä olevan ammuksen, sillä tässä aseessa ei ole lipasta
+
+"Hyperponneaine" -ylikellotus
+- Suoraa vahinkoa kasvatettu huomattavasti, ja siihen vaikuttavat vihollisten heikot kohdat
+- Maksimiammuksia vähennetty
+- Tähtäin muuttuu kun tämä ylikellotus on käytössä
+- Uniikki osuma- ja lentoefekti lisätty
+
+"RJ250-yhdiste" -ylikellotus
+- Räjähdys tönäisee pelaajaa vähemmän verrannollisesti siihen, kuinka kaukana räjähdyksen keskikohdasta pelaaja on
+- Pelaajan on helpompi vaikuttaa omaan lentokaareensa
+
+MURTOLEIKKURI
+- Perustason lipaskokoa pienennetty
+- 1. tason "tilavampi lipas" -modin vaikutusta tehostettu
+- 2. tason "laajennetut ammustaskut" -modin vaikutusta vähennetty
+- "Kolmijakoinen linja" -modin osuma-aluetta madallettu
+- Siirrettiin hieman perustason leveyttä "löysennetty noodikoheesio" -modiin
+- Perustason latausnopeutta pidennetty
+- Vaihdettiin 3. tason linjan leveyttä kasvattava modi latausnopeusmodiksi (kaikki, jotka olivat ostaneet vanhan modin saavat rahansa takaisin)
+- Hienosäädettiin "kevyet kotelot", "korkeajännitteen risteytys", "kuoleman kierre", "paluupostia" ja "horna" -ylikellotuksia uuden perustason lipaskokoon suhteutettuna.
+
+"Horna" -ylikellotus"
+- Sytyttää kohteet nopeammin ja pitävät ne tulessa pidemmän aikaa.
+
+"Kuoleman kierre" -ylikellotus
+- Linjan leveysbonus lisätty
+
+ZHUKOV NUK17
+- 1. tason "laajennetut ammustaskut" -modin bonusta kasvatettu
+- Siirrettiin hieman vahinkoa 3. tason "suuremman kaliiperin ammukset" -modista aseen perusvahinkoon
+
+"Istutetut räjähteet" ylikellotus
+- Latauksen ohessa tuotettua vahinkoa kasvatettu huomattavasti
+- Vahinkotyyppi vaihdettu kineettisestä sisäiseen vahinkoon
+- Suoran vahingon vähennystä tehostettu
+- Lipaskoon vähennys lisätty
+- Maksimiammusten määrän vähennystä tehostettu
+- Jos vihollinen jota ammut kuolisi lataamalla, kuvake ilmestyy hetkellisesti sen elämämittarin viereen
+
+KOKEELLINEN PLASMA-AHDIN
+- 5. tason "lentävä painajainen" -modin latausnopeuden vähennystä pienennetty
+
+KRYOKANUUNA
+- Perusaseen maksimiammusmäärää nostettu
+- 1. tason "suurempi painekammio" -modin bonusta kasvatettu
+- 2. tason "suurempi varatankki" -modin bonusta kasvatettu
+
+"UKKO-PEKKA" -RASKAS KONETYKKI
+"Taisteluliikkuvuus" -ylikellotus
+- Liikkumisnopeusbonusta kasvatettu
+- Tarkkuusbonus lisätty
+- Vahingon vähennys vaihdettu pienempään lipaskokoon
+- Latausnopeusbonus lisätty
+
+M1000 KLASSINEN
+- Perusaseen tähtäysnopeutta kasvatettu ja 2. tason "pikarihlat" -modin tähtäysnopeusbonusta vähennetty sen vuoksi
+- 1. tason "laajennetut ammustaskut" -modin maksimiammusbonusta kasvatettu
+
+"Aktiivinen vakautusjärjestelmä" -ylikellotus
+- Tähtäysnopeusbonus lisätty
+- tähtäysammuksen vahingon vähennys vaihdettu hitaampaan latausnopeuteen
+
+KVKK-ASEJALUSTA
+- Perusvahinkoa nostettu, 5 -> 6
+- "Kaksoistykit" -modi tulee nyt 90 lisäpanoksella
+- "Puolustusjärjestelmä" -modin vahinkobonus vaihdettu prosenttimäärästä tasaiseen +5:een
+
+SYVÄYDIN GK2
+"Tekoälyinen vakausmoottori" -ylikellotus
+- Suuri vahinkobonus heikkojen kohtien osumiin lisätty
+- Perusvahingon vähennystä tehostettu
+
+SUBATA 120
+"Räjähtävä lataus" -ylikellotus
+- Latauksen ohessa tuotettua vahinkoa kasvatettu huomattavasti
+- Vahinkotyyppi vaihdettu räjähtävästä sisäiseen vahinkoon
+- Vahingon vähennys poistettu
+- Lipaskoon pienennystä tehostettu
+- Maksimiammusten vähennystä tehostettu
+- Jos vihollinen jota ammut kuolisi lataamalla, kuvake ilmestyy hetkellisesti sen elämämittarin viereen
+
+FEROMONIKANISTERI
+- Feromonien alaiset viholliset ovat nyt 50 % houkuttelevampia
+
+A.N.S.A.
+- A.N.S.A. ei enää ota vahinkoa kääpiöiden omista ammuksista
+
+
+UUSIA HUUDAHDUKSIA
+----------------------------
+Uusia kääpiöiden huudahduksia on lisätty. Ne keskittyvät tietenkin pääosin uusiin tehtävätyyppeihin, mutta olemme myös lisänneet muutamia puuttuvia laserosoittimen huudahduksia sekä lisänneet monia uusia "kiveen ja kallioon" karjaisuja!
+
+
+UUSIA MERKKIPAALUJA JA SAAVUTUKSIA
+----------------------------
+Uudet tehtävätyypit toki tarkoittavat uusia merkkipaaluja, unohtamatta myöskään kahta uutta saavutusta - yksi kullekin tehtävätyypille.
+
+
+YHTEISÖN PYYNNÖSTÄ
+----------------------------
+- Toissijaisissa tavoitteissa käytetyt tahmasiemenet ja pilkkopähkinät hohtavat nyt enemmän, jotta ne olisi helpompi tunnistaa pimeässä.
+
+
+SEKALAISET
+----------------------------
+- Toimeksiantoterminaali on uudistettu
+- [YHTEISÖN PYYNNÖSTÄ] Luolien generaatiota on monipuolistettu jokaiselle tehtävätyypille
+- [YHTEISÖN PYYNNÖSTÄ] Tahmasiemenet ja pilkkopähkinät nyt hohtavat hieman, jotta ne olisi helpompi löytää
+- [YHTEISÖN PYYNNÖSTÄ] Kuljetuskapselin ramppi on nyt näkyvissä maastoskannerissa
+- Mineraaliämpäri on vaihdettu paremman näköiseen
+- Kaksi uutta saavutusta lisätty uusille tehtävätyypeille
+- 27 uutta kosmeettista esinettä lisätty kauppaan
+- 11 uutta kosmeettista esinettä on nyt taottavana matriisiytimistä
+- Yksi uusi päähine lisätty uuden toimeksiannon suorituspalkinnoksi
+- Kuvakkeita joillekin asioille lisätty, jotka aikaisemmin puuttuivat laserosoittimen näytöstä
+- Animaatio lisätty Boscolle sen pudottaessa jotain
+- Selitykset lisätty mini-M.U.L.E.:ille laserosoittimeen
+- Heittäminen on nyt peruutettavissa, pitämällä heittonappia pohjassa muutaman sekunnin
+- Kestonumero lisätty monille kranaateille, joilta se aikaisemmin puuttui
+- Vaikutusaluenumerolisätty muutamille kranaateille, joilta se puuttui
+- Bosco alkaa nyt välittömästi seuraamaan pelaajaa, jos häneen tartutaan tai hän kaatuu
+- Bosco nyt heittää kantamiaan esineitä pelaajan suuntaan jos se on tarpeeksi lähellä sen sijaan, että pudottaa sen kömpelösti suoraan alaspäin
+- Boscon pään hologrammi katoaa nyt vasta sen jälkeen, kun se saa sille käsketyn työn valmiiksi.
+- Boscon pitäisi nyt löytää mineraaleja pelaajan osoittaman pisteen läheisyydeltä helpommin
+- Nostettiin hieman syväsukelluksissa ilmestyvän morkiitin määrää kentissä, joissa morkiitti on toissijainen tavoite
+- Ylikellon valitseminen varusteterminaalissa nyt automaattisesti sulkee ylikellon valitsemisikkunan
+- Nostettiin vähäisen hapen varoitusäänen voimakkuutta hieman
+- Vihje hapista ilmestyy nyt latausruudussa joka kerta, kun pelaaja aloittaa tehtävän "alhainen happi" -mutaatiolla
+- Kutakin mini-M.U.L.E.:a vastaan ilmestyy nyt vain kolme jalkaa neljän sijasta
+- Paranneltiin alueen kaiverrusalgoritmiä, jotta pelastuspartioiden poistumiskapselin sijainti näyttää luontevammalta
+- Mini-M.U.L.E.:jen asetusalgoritmiä on paranneltu, jotta niitä löydetään vain kiven päällä
+- Mini-M.U.L.E.:jen jalkojen asetusalgoritmiä on paranneltu, jotta ne ei enää piiloudu esim. mustan jään sisään
+- Hiekkamyrskyt ja maanjäristykset vaikuttavat nyt myös vihollisten liikkumisnopeuteen
+- Jäädytetyt parveilijat nyt aina kuolevat jäätymisen jälkeen
+- Vihollisten taintumisanimaation pituus perustuu nyt taintumisen kestoon
+- Paranneltiin monien asioiden ulkonäköä laserosoittimen näytöllä
+- Paranneltiin M.U.L.E:n liikkumista
+- Paranneltiin ihonsävyjärjestelmää
+- Paranneltiin Boscon navigointia sille poimittavaksi käskettyjen esineiden luokse
+- Paranneltiin "Bulldoggi" raskaan revolverin ulkonäköä
+- Paranneltiin poseeraus-voittoliikkeen animaatiota
+- Konetapahtumat eivät enää räjähdä kuljetuskapselin läheisyydessä, koska kuljetuskapselin sijoittamislogiikkaa on paranneltu täten, että se ei enää ilmesty paikoissa, joissa jokin tukkisi sisäänkäynnin
+- Säädettiin opetustehtävän latausruudun ääntä
+- Säädettiin sortajaglyfidin huutoa
+- Säädettiin Korlok-julmaruohon ääntä
+- Säädettiin laserosoittimen ääniä
+- Säädettiin soihtujen osumaääntä
+- Säädettiin uuden biomin avaamisääntä
+- [YHTEISÖN PYYNNÖSTÄ] Liiskattiin monia fysiikkaongelmia avaruusasemalla
+- Liiskattiin vika, joka esti pelaajia etenemästä tiettyjen ponnahdusikkunoiden ohi
+- Liiskattiin vika, joka esti M1000 klassisen jahanaisuusarvoa näkymästä varusteterminaalissa
+- Liiskattiin vika, joka aiheutti M.U.L.E.:n kävelyäänten pysähtymisen ennen aikojaan
+- Liiskattiin vika, joka esti varmistumisponnahdusikkunaa ilmestymästä, kun pelaaja osti modeja aseilleen
+- Liiskattiin vika, joka aiheutti varusteterminaalin näyttävän aseen olevan panssaria tuhoava, jopa silloin, kun tuota asetta ei oltu muokattu
+- Liiskattiin vika, joka esti pelaajaa sulkemasta kranaatin ostamisen ponnahdusikkunan
+- Liiskattiin vika, joka antoi myöhään liittyvien pelaajien kapseleiden pudota tärkeiden asioiden päälle, kuten kuljetuskapseli, konetapahtumat jne.
+- Liiskattiin vika, joka joskus liimasi oluttuopin pelaajan käteen
+- Liiskattiin vika, joka esti Boscoa poimimasta esineitä
+- Liiskattiin vika, joka antoi aseen näkyvän vaatekaapissa
+- Liiskattiin vika, joka aiheutti kursiittivihollisten ilmestyvän pelin isännän sijainnin luo konetapahtuman sijainnin sijasta
+- Liiskattiin samankaltaisia vikoja muista konetapahtumista
+- Liiskattiin vika, joka antoi "Ukko-Pekka" -raskaan konetukin "pidä päät matalana" -modin säikyttää Väinön
+- Liiskattiin vika, joka aiheutti Boscon kaivavan tahmasiementen alta, kun se käskettiin poimimaan se
+- Liiskattiin useita ääniin liittyviä vikoja
+- Liiskattiin vika, joka antoi jo jäätyneen siepparimakteeran kahmaista pelaajia
+- Liiskattiin vika, joka aiheutti sähkökristallien tekevän vahinkoa pelaajiin, jotka heittivät tapparoita niitä päin
+- Liiskattiin vika, joka jäädytti ei-isännille ilmaan ne tahmasiemenet, joihin kuljetuskapseli osui
+- Liiskattiin vika, joka aiheutti M.U.L.E.:n jäävän jumiin poistumisvaiheeseen asti, jos pelaajan yhteys katkeaa siihen tallettaessa
+- Liiskattiin vika, joka esti luolajuotikkaita näkymästä jäätyneeltä
+- Liiskattiin vika, joka johti siihen, että välittömästi tai jäätymisestä tapetut viholliset eivät vaikuta pelaajan tappolukemaan
+- Liiskattiin vika, joka aiheutti pelaajan oman hakun varjon näkyvän ensimmäisen persoonan näkymässä
+- Liiskattiin vika Discordin näkymän kanssa sen puhekanavilla
+- Liiskattiin vika, joka aiheutti OMEN modulaarisen tuhoajan äänien soivan jatkuvasti ei-isännillä
+- Liiskattiin vika, joka aiheutti "pahkasika" Auto 210:n "tainnuttaja" -ylikellotuksen näkyvän virheellisesti
+- Liiskattiin vika, joka joskus esti Boscoa kaivamasta esiin piiloutuneita jalokiviä
+- Liiskattiin vika, joka antoi pelaajan heittää kranaatin samaan aikaan, kun tähän tarrauduttiin pitämällä kranaattinappia pohjassa ennen, kun pelaajaan tartuttiin
+- Liiskattiin vika, joka esti siepparimakteeroja kirkumasta
+- [XBOX] Liiskattiin vika, joka aiheutti "sisäänkirjautuminen muuttunut" ponnahdusikkunan häiritsevän peliä jos pelaajan ohjaimen johto oli huonosti kiinni
+- [XBOX / WIN10] Paranneltiin nettiyhteyden runkoa, joka pitäisi eliminoida satunnaiset yhdeyten katkaisut ja kaatumiset
+
+"
+	Update_13 = "Hei kaivostyöntekijöiden! \ R
+\ r
+se aika taas, ja meillä on joitakin mielenkiintoisia muutoksia voit nauttia! Tämä päivitys on kokeellisempaa kuin normaalisti, kun sitä muutettiin terveydenhuoltojärjestelmään ja haluaisimme kuulla mielipiteesi.
+
+--- PATCH NOTES ---
+
+YHTEISÖN PYYNTÖT RYHMÄT
+------------------------ ----------------------------- \ r
+\ r
+TÄ YPKVV \ r
+Jotkut teistä hardcore kaivostyöläisten ovat pyytäneet, että peli oli vaikeampaa - varsinkin suuremmissa vaikeuksissa. Olemme yrittäneet tehdä vinkkejä, jotka vaikeuttavat peliä vaikeammissa vaikeuksissa, mutta tuntevat lähes samat pienemmillä vaikeuksilla. Olemme laskeneet lähtöpisteeseen kilpi 30-25 ja muutti kilven päivityksiä suojausta 10 ja 2,5 (jolloin 10% vauhtia). \ R
+\ r
+enemmän terveysongelmia \ r
+kompensoidaan puutteesta Shield - me lisää pelaajan terveyttä 100: stä 110 hv: iin. \ r
+\ r
+punaisempi sokeri \ r
+Lisäksi määrä paranemista saat punaisesta sokeri on kasvanut 25% ja punaisen määrää sokeria poikinut johonkin tehtävään on kasvanut 10%. \ r
+\ r
+\ r
+hienosäädön \ r
+------------------------------------- ----------------
+
+SOLO ENEMYN NUMEROT JA TERVEYS
+Hoxxien luolien tutkiminen itse vie enemmän aikaa ja voi olla julmaa, joten olemme tehneet sen joten hevoset ovat hieman pienempiä, kun olet omillasi. Myös vihollisen terveyttä on vähennetty hieman yksinäyttelyitä varten. Hoxxen olennot ovat edelleen vaarallisia, joten älä pudota vartiasi!
+
+BOSCO NYT 50% LISÄÄ REVIVES
+Vaikka hän todella haluaa, Bosco ei aina voi pelastaa sinut luolasta. Hän tuntee todella huono siitä ja vaatineen häntä saa elvyttää teille 3 kertaa sijasta 2. pyyntöön suostuttu. \ R
+\ r
+MACTERA kaalla Health paransi \ r
+Vuonna jatkuvat ponnistelut täydellinen Mactera Spawn olemme muuttaneet terveyttä 180: stä 210: een. Muista käyttää kansiota ja pyrkiä heikkoon paikkaan
+"
+	Update_10 = "Hei kaivostyöntekijöiden, \ r
+\ r
+Meillä on toinen päivitys täällä sekä muutamia tärkeitä korjauksia ja hieman uutta sisältöä. Näiden pienempien päivitysten lisäksi aloitamme entistä suuremman sisällön ja ominaisuuksien kehittämisen. Lisää tästä myöhemmin, kun paljastetaan tulevista asioista suurempi suunnitelma.
+
+--- PATCH NOTES ---
+
+YHTEISÖN PYYNTÖT RYHMÄT
+- Korjasi useita hiiren herkkyyttä aiheuttavia asioita. Herkkyys ei ollut sama Space Rig: ssa ja Missionissa, ne ovat nyt samat. Herkkyydellä oli erilaiset arvot vaaka- ja pystysuunnassa, ne voidaan nyt asettaa vaihtoehdoksi.
+- Steam-alueen hakuvaihtoehto.
+- Ohjaimen irrottaminen ei enää estä hiirtä ja näppäimistöä
+- Testauskorjaus ensisijaisen näytön (hieman testattu!)
+- Kiinteä Koura koukku ääretön elämä vika
+
+CAVE CONTENT
+- Ensimmäinen toteutus eri tunneleita jokaisen planeetan alueelle \ r
+- lisätty crystal piikkejä kuin voi pudota katosta suolakuopaksi \ r
+- Sticky Goo lisätään sieni Suot \ r
+\ r
+AJATUS MAP \ r
+- Uudet kuvakkeet monimutkaisuutta ja Pituus. Nyt on ilmeistä, että monimutkaisuus on vakava vaikeusero.
+- Monimutkaisuus kuvakkeet nyt esitetty yllä Mission kuvakkeet
+- Mission palkka suoraan näytä alla Mission kuvakkeet
+
+WEAPON VIEWMODELS
+- Muutettu näkymä malli FOV 100-90 \ r
+- ensimmäisen persoonan näkymä aseet ovat nyt vähemmän venytetty \ r
+- Vähentynyt yleinen leikkaaminen kysymyksiä \ r
+\ r
+SCOUT hienosäädön \ r
+- sahattu pois haulikko ampuu 15 pellettejä käsitellään 6 vahinko jokainen - lisääntynyt 10 vahinko kunkin \ r
+- sahattu pois haulikko Max ammo 30 luoteja - laski 16 \ r
+- sahattu pois haulikko Max ammukset Päivitys - laski 10-8 \ r
+\ r
+aNIMAATION, äänet, ja VAIKUTUKSET \ r
+- Driller Pistol Reload Atsit
+- Driller Pistol ja Scout Shotgun nyt katsotaan uudelleen ladattu, kun se sopii animaatio, ei kun animaatio päättyy. Tämä toteutetaan muilla aseilla, kun he saavat oman uudelleenlatauksensa. (Sound päivitys puuttuu) \ r
+- Kiinteä konsoli tausta anims asiakkaista \ r
+- laserosoitin gfx päivitys \ r
+- Taustaa poistetaan Vuorovaikutuksessa ponnahdusikkunoita \ r
+- Vahinko Peite gfx päivitetään \ r
+\ r
+LOCALIZATION \ r
+- Lisättiin lisää välilyöntejä terminaalien tekstirivien välillä (kielet)
+- Päivitettiin kaikki kielet Crowdinista
+
+Vihreät kiintolevyt
+- Palvelinluettelon oletusarvoisesti ei näytetä salasana palvelimia
+- Asteroidit eivät enää sileä varjostettu lastausnäytöllä!
+- Ohjain Oikea tikku käytetään nyt hiiren vierityspyöränä
+- Poista Steam Friend -testi, kun kutsut ystäviä. Yksityisten istuntojen pitäisi käsitellä sitä paremmin nyt ja se estää asiakkaita kutsua ystäviä, jotka eivät olleet ystäviä palvelimella.
+- Kiinteä Molly ei Goldenin Memorial Hall kun lukitsematon
+- Tee Molly ja suuret hämähäkit mieluummin kävellä lattia
+- Fixed Ase Crash
+- Viholliset eivät enää "porrastettu" fyysinen vahinko (lähitaistelu)
+- Fixed päivitetty Ammo ja leikekokoa ei sovellettu, kun ensimmäisen kerran hautut mission
+- Muutettu Kohta asteikko ensimmäisessä henkilössä, jotta ne leikkaavat vähemmän muita esineitä."
+	Update_18_ShortTitle = "TYÖMAHDOLLISUUKSIA"
+	Update_13_ShortTitle = "VÄHIMMÄT ELÄMÄN MUUTOKSET"
+	Update_15_ShortTitle = "MUTAATIO VAROITUS!"
+	Update_33_Shorttitle = "UUDET MAISEMAT"
+	Update_21.5_ShortTitle = "VUOSI KIERTORADALLA"
+	Update_32_Shorttitle = "KÄNSÄKOURAT TOIMINNASSA"
+	Upadte_31_ShortTitle = "OTSIKKO"
+	Update_10_ShortTitle = "TUNNELINÄKÖ?"
+	Update_10_Header = "PÄIVITYS 10: TUNNELINÄKÖ? - 16.03.2018"
+	Update_11_Header = "PÄIVITYS 11: DEAD AND GUN - 23.03.2018"
+	Update_12_Header = "PÄIVITYS 12: FLIES N 'FINANCE - 13.04.2018"
+	Update_13_Header = "PÄIVITYS 13: VÄHIMMÄT ELINTARVIKKEIDEN MUUTOKSET - 04.05.2018"
+	Update_14_Header = "PÄIVITYS 14: FEATURE CREEP - 15.06.2018"
+	Update_15_Header = "PÄIVITYS 15: MUTAATIO VAROITUS! - 04.07.2018"
+	Update_16_Header = "PÄIVITYS 16: TALVI ON SAAPUNUT - 29.08.2018"
+	Update_20.1_Header = "PÄIVITYS 20: ISOMPI, PAREMPI, BOSCO -03.01.2019"
+	Update_20_Header = "PÄIVITYS 20: ISOMPI, PAREMPI, BOSCO"
+	Update_21_Header = "PÄIVITYS 21: MENEE VAARALLISEKSI"
+	Update_31_Header = "PÄIVITYS 31: MITÄ JÄTETTIIN JÄLKEEN"
+	Update_32_Header = "PÄIVITYS 32: KÄNSÄKOURAT HOMMISSA"
+	Update_33_Header = "PÄIVITYS 33: UUDET MAISEMAT"
+	Update_9_Header = "PÄIVITYS 9: PORAA MYÖHEMMIN - 09.03.2018"
+	Update_31_Shorttitle = "MITÄ JÄTETTIIN JÄLKEEN"
+	Update_16_ShortTitle = "TALVI ON TULLUT"

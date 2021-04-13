@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 1408891958134794663 / 03/15/2021 11:48:59
+Manifest ID / date     : 3133113399998321659 / 04/13/2021 12:02:54
 Total number of files  : 117
-Total number of chunks : 2304
-Total bytes on disk    : 2232279559
-Total bytes compressed : 1940013296
+Total number of chunks : 2332
+Total bytes on disk    : 2248759907
+Total bytes compressed : 1952896176
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -118,7 +118,7 @@ Total bytes compressed : 1940013296
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64
         847440      1 F0103C77E4E3FB5640A6D01A79644A8CFC5E4EED     0 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/Win64
-      18033152     18 D1F026E96A2CFABD38A9AF67A3EEE48542BDAFB2     0 Engine/Binaries/Win64/CrashReportClient.exe
+      18033152     18 57B638F9001935C4E13D3669968629AB512A25BC     0 Engine/Binaries/Win64/CrashReportClient.exe
        3693568      4 C2051E1573CCAA942FB4FF043386C989DF2DBF7E     0 Engine/Binaries/Win64/UnrealCEFSubProcess.exe
              0      0 0000000000000000000000000000000000000000    64 Engine/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Content/SlateDebug
@@ -133,12 +133,12 @@ Total bytes compressed : 1940013296
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content/Paks
-      21387593     22 AF2E370399AFF46C1EDF373D59A9F6679D721629     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
+      21387592     22 B322C99A39068D0D970655A96620F0ADD55AB32E     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
              0      0 0000000000000000000000000000000000000000    64 FSD
         517632      1 830FE0DAD6958D5FA39E20ACE4BFFC581A79BB3C     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      78986240     77 6148A7B88472AC863AEBF1AC01B27C98DD62F44C     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+      79213056     77 AB31D9BA43E165134C37F26BB47EAB20B50633E4     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
        4327248      5 031766199999581C94CE46188777D3FBDA9E31D7     0 FSD/Binaries/Win64/dbgeng.dll
        1369936      2 EC3A7FD5861447D615968C51E507CD376A48BD6B     0 FSD/Binaries/Win64/dbghelp.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
@@ -162,20 +162,20 @@ Total bytes compressed : 1940013296
       23800867     23 FFEBCBFD6DEFFF1C7A57F684A2626420E2A67AC5     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SaltPits_New.mp4
       25906254     25 F9D9627C3B1C996F0A8DDF433368E89398C781CB     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SandblastedCorridors_3_BrightnessUp_adjustcolor.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-    1407480523   1439 1D14558D23B5650118CB4F3BB11967E08ABAC086     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+    1420242938   1464 A1506809E746CD400F6BFF09D13C76FF9F1D5974     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins
+             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK
+             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK/Source
+             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK/Source/DiscordSDK
+             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK/Source/DiscordSDK/ThirdParty
+             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK/Source/DiscordSDK/ThirdParty/Win64
+       3891512      4 E5D8120A8A8583FE7E3177AE7D8FE797C002F263     0 FSD/Plugins/DiscordSDK/Source/DiscordSDK/ThirdParty/Win64/discord_game_sdk.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia/FSDAnsel
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia/FSDAnsel/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia/FSDAnsel/Binaries/ThirdParty
         662368      1 EB41BE9DEA3D3B62B6BF06CD7CC900ACF2D21154     0 FSD/Plugins/Nvidia/FSDAnsel/Binaries/ThirdParty/AnselSDK64.dll
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64
-        400392      1 0B9715D71EF16CA7EA9DDA0BAC6A3944CFA01955     0 FSD/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64/discord-rpc.dll
-          1216      1 DE8E709C6875A75649731B549891F94682ABE10E     0 Manifest_DebugFiles_Win64.txt
-          9620      1 4C796ADB1B76677414C6E6A9A91A9D9539CC3013     0 Manifest_NonUFSFiles_Win64.txt
+          1216      1 4F0124C8B6E76A1F418077987986FC973D4A3159     0 Manifest_DebugFiles_Win64.txt
+          9618      1 8407896FDF548A6FD743C5F481F7BB8BDBA0BA47     0 Manifest_NonUFSFiles_Win64.txt
