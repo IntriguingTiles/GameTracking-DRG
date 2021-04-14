@@ -1,8 +1,8 @@
-88 entries
+89 entries
 1 namespaces
-86 values
+87 values
 
-Namespace PatchNotes (88 keys)
+Namespace PatchNotes (89 keys)
 	Update_30_Header = "1.0 LAUNCH"
 	Update_30_ShortTitle = "1.0 LAUNCH"
 	Update_23 = "Alright, Miners - gather ‘round and shut up!
@@ -2263,6 +2263,188 @@ FIXES
 - Enemies should no longer continue making sounds after they’re dead. Stands to reason, really…
 - Mactera Spawn and Grabber should no longer get stuck outside the Navmesh after dashing.
 "
+	Update_34_Xbox = "Hello, Miners!
+We’re back with a modest update for you! Work is proceeding apace for the longer-term goals included in the upcoming Update 35, but with Update 34 we want to sweeten the long waiting time a bit. We got new Elite Enemies for you, the possibility of double Warnings on missions, two brand new Warnings to add to the mix, a lot of weapon tweaks, and more to keep you busy! It’s time to dive back into the depths of Hoxxes and face the new dangers!
+
+With Love,
+The Ghost Ship Crew
+
+--- PATCH NOTES ---
+
+ELITE ENEMIES 
+----------------------------
+Elite enemies are tougher, faster, more dangerous versions of the standard bugs that you already know and love (to kill). They have a chance of appearing in regular missions at Hazard Level 3 and above.  Look forward to having these new, more deadly threats invade your expeditions to Hoxxes!
+
+
+NEW WARNINGS
+----------------------------
+New dangers have been discovered in the caves!  
+
+ELITE THREAT
+Missions with this Warning will have a sure-fire chance of you encountering elite enemies. 
+
+SWARMAGEDDON
+A tsunami of swarmers awaits you in the mines. Bring plenty of pesticide and bullets! 
+
+
+DOUBLE WARNINGS - DOUBLE THE FUN
+----------------------------
+An innovation committee assigned by management has tried to answer the following question: ‘What novel and unique new initiatives can we introduce to boost company profit?’ After many ideation sessions, workshops, and off-sites, they finally have the answer: Missions with two warnings instead of one!
+
+Gather a team of fellow miners and try your hand at this extreme challenge. Prove that you are the toughest among all miners and that you eat regular Single Warning missions for breakfast. Rock and Stone!
+NB! Missions with double warnings are deemed so challenging that they have been excluded from Deep Dives and Assignments.
+
+CONTROLLER MAPPING
+----------------------------
+Are you frustrated with the current controller bindings? Do you feel that your mining performance could improve if you could just map the actions differently? Do you want more from your controller experience? Have we got some news for you! With the new option to rebind actions on your controller, you can finally get the unique layout that is just right for you.
+
+
+IMPROVED BULLET TRACING
+----------------------------
+How shooting is handled in terms of networking has been remarkably optimized. The result should be a more instantaneous response when firing projectiles. And projectiles now use much less bandwidth!
+
+
+WEAPON TWEAKS
+----------------------------
+The lads at R&D have been hard at work improving the balance of the weapons, overclocks, and mods in the game based on . Here are the changes:
+
+BRT7 Burst Fire Gun
+- Increased damage of base weapon
+- Moved some of the bonus of the Disabled Safety mod to the base weapon
+- Lowered the bonus of the Disabled Safety mod slightly
+- Decreased the ammo penalty of the Experimental Rounds OC
+- Changed the damage penalty of the Micro Flechettes OC from a percentage to a set value
+
+BRT7 Electro Minelets OC
+- Significantly extended the electrocution duration
+- Decreased damage penalty
+- Increased the magazine penalty
+- Extended the minelet lifetime
+
+Bulldog Heavy Revolver
+- Moved some of the damage bonus of the Increased Caliber Rounds mod to the base weapon 5
+- Moved some of the damage bonus of the High Velocity Rounds mod to the base weapon 5
+- Moved some of the bonus of the Hollow-Point Bullets mod to the base weapon 0.15
+- Greatly increased the chance of Chain-Hit OC triggering
+- Significantly lowered the damage penalty of Volatile bullets OC
+- Lowered the ammo bonus of Six Shooter OC
+- Lowered the rate of fire bonus of Six Shooter OC
+- Increased the max possible damage bonus of Homebrew Powder OC
+- Lowered the min possible damage of Homebrew Powder OC
+- Changed the Homebrew Powder OC classification from Clean to Balanced
+- Slightly decreased the ammo penalty of Elephant Rounds OC 
+
+M1000 Classic
+- Increased base weapon damage
+- Decreased the base weakpoint damage bonus
+- Decreased the bonus of the Increased Caliber Rounds mod
+- Decreased the bonus of the Hollow-Point Bullets mod
+- Moved some of the bonus of the Fast-charging Coils mod to the base weapon
+- Moved the Hardened Rounds mod from T4 to T2
+- Increased the range and power of the Focus Fear mod
+- Changed the ammo bonus of the Minimal Clips OC to a % clip size bonus
+- Decreased slightly the ammo and charge speed penalties on the Supercooling Chamber OC
+- Changed the damage penalty of the Hipster OC from a % to a flat value to allow a high damage build to hit certain breakpoints and increased the ammo bonus a bit
+
+Deepcore GK2
+- Lowered the damage penalty of the Electric Reload OC and significantly extended the duration of the electrocution effect
+- Lowered the recoil penalty of the Overclocked Firing Mechanism OC
+- Increased base ammo slightly
+
+Experimental Charge Blaster
+- Rearranged some of the mods to provide more interesting choices
+- Moved the Reactive Shockwave mod to T4
+- Moved the Expanded Plasma Splash to T4
+- Moved the Heat Shield mod to T2
+- Improved recoil recovery a tiny bit (community request, you know who you are)
+- Significantly lowered the heat generated when shooting charged projectiles on the base weapon
+- Lowered the base charge speed slightly
+- Cleaned up the weapon’s stats list in the equipment terminal
+- Heat Pipe OC now penalises charge shot heat instead of normal shots
+- Lowered the charge shot ammo penalty on the Overcharger OC and changed it from a % to a flat value
+- Lowered the damage penalty of the Persistent Plasma OC, increased the damage dealt by the plasma field and added a small slow effect to the field
+
+Breach Cutter
+- Increased the speed bonus of the Improved Case Ejector mod
+- Increased the damage dealt by the plasma field from the Explosive Goodby mod and added a slight slow effect to any enemy caught in the field
+- Removed the ammo penalty from the Inferno OC
+- Reduced the damage penalty of the Spinning Death OC
+
+Stubby Voltaic SMG
+- Reduced the base recoil slightly
+
+Stubby Turret Arc OC
+- Increased the max distance allowed between turrets for the arc to connect
+- Increased the damage of the arc
+- Increased the slowdown of the arc
+- Extended the duration of the arc
+- Expanded the area around an electrocuted turret where enemies can get electrocuted
+- Turret Arc now deals significantly less FF damage and no longer slows down players
+
+Stubby EM Discharge OC
+- Increased the discharge damage
+- Extended the range before damage begins to fall off
+- Lowered friendly fire damage significantly
+- Reduced the damage penalty of the OC
+- Changed the electrocute chance penalty to a small magazine size penalty
+
+Subata 120
+- Increased the spread per shot bonus of the Recoil Compensator mod
+- Reduced the Rate of Fire penalty of the Tranq. Rounds OC
+- Increased the proc chance of the Chain Hit OC
+
+Zhukov NUK17
+- Moved some of the ammo bonus from the T4 Expanded Ammo Bags mod to the base weapon
+- Reduced the base spread slightly
+- Increased the spread reduction provided by the Better Weight Balance mod
+- Changed the damage penalty on the Custom Casings OC to a RoF penalty
+
+
+Jury-rigged Boomstick
+- Upgraded the T3 Stun mod to also improve the chance to stun and add extend the stun duration even more
+- Fixed the stats not displaying the stun chance as a “Per Pellet” value
+- Lowered the penalty on the Shaped Shells OC and increased the accuracy bonus
+
+Cryo Cannon
+- Slightly increased the bonus provided by the Improved Pump mod
+- Changed Perfectly Tuned Cooler OC to a balanced OC giving it small Chargeup Time and Pressure Regain penalties, also renamed it to “Tuned Cooler”.
+- The Ice Storm OC now has an extra damage bonus against frozen targets but comes with a slightly larger ammo penalty
+
+CRSPR Flamethrower
+- Improved the chance of the “It Burns!” mod to cause fear.
+- Moved some of the damage bonus of the Unfiltered Fuel mod to the base weapon
+- Added an ammo bonus and a small reload penalty to the Compact Feed Valves OC
+- Increased the damage and RoF bonuses of the Face Melter OC and replaced the ammo penalty with a range penalty and replaced the movement speed penalty with a tank capacity penalty
+
+DeepCore PGL
+- Extended the range at which damage fall off starts and reduced max damage falloff significantly
+- Increased the damage bonus from the HE Compound mod
+- Decreased the ammo bonus from the T2 Expanded Ammo Bags mod
+- Moved the High Velocity Grenades mod from T2 to T3
+- Added a small % explosion range bonus to the Proximity Trigger mod
+- Removed the damage penalty from the RJ250 OC and added a reload speed bonus
+- Increased the ammo bonus of the Compact Rounds OC
+
+
+MISC.
+----------------------------
+- Fix pathfinder related crashes
+- Fixed Promotion Terminal not always displaying the selected character
+- Fixed issue with bosco terminal not closing correctly when using controller shortcut
+- Wardrobe sound mix tweaks
+- Improved Well placement in Refinery Mission. Less chance to miss placing a well.
+- Fixed case of tunnel not connecting correctly to the next cave.
+- Minerals mined with explosions now get a distance proportionate force applied to them so they don’t just plop down.
+- Increased the average DPS of the Fire DoT a bit and also made it a little more consistent.
+- DX12 enabled by default. If you have issues running DX12, you can still change it to DX11
+- Push grass away from players in the shader
+- Fixed being unable to unlock perks by pressing E
+- Fixing a bug, where you could cancel the join process, even though you could not.
+- Made a large amount of strings easier to translate
+- Fixed UI issues in bar order menu, added Unfreeze UI to HUD when frozen by Wormhole Special beer
+- Stay up to date with the brand new news feed ticker added to The Mineral Trade
+- Tons of minor UI tweaks on fonts, spacing, and styling
+"
 	Update_34 = "Hello, Miners!
 We’re back with a modest update for you! Work is proceeding apace for the longer-term goals included in the upcoming Update 35, but with Update 34 we want to sweeten the long waiting time a bit. We got new Elite Enemies for you, the possibility of double Warnings on missions, two brand new Warnings to add to the mix, a lot of weapon tweaks, and more to keep you busy! It’s time to dive back into the depths of Hoxxes and face the new dangers!
 
@@ -2273,7 +2455,7 @@ The Ghost Ship Crew
 
 MOD SUPPORT
 ----------------------------
-Playing with mods in your game will be a much better experience with this update! You will have save game profiles available so you can play with mods without messing up your main save. When joining a game you will know if it has mods enabled. And, you will have a dedicated menu for mods you play with, so you can easily enable and disable them. We can’t wait to see what crazy/awesome/frightening/wonderful creations you will be playing with!
+Playing with mods in your game will be a much better experience with this update! You will have save game profiles available so you can play with mods without messing up your main save. When joining a game you will know if it has mods enabled. And, you will have a dedicated menu for installed mods, so you can easily enable and disable them with a click and a reload. We can’t wait to see what crazy/awesome/frightening/wonderful creations you will be playing with!
 
 Note: Mods and Modding are currently exclusive to Steam and will require a separate savegame. The currently planned implementation will not be based on Steamworks
 
@@ -2322,7 +2504,7 @@ BRT7 Burst Fire Gun
 - Decreased the ammo penalty of the Experimental Rounds OC
 - Changed the damage penalty of the Micro Flechettes OC from a percentage to a set value
 
-Electro Minelets OC
+BRT7 Electro Minelets OC
 - Significantly extended the electrocution duration
 - Decreased damage penalty
 - Increased the magazine penalty
@@ -2349,11 +2531,9 @@ M1000 Classic
 - Moved some of the bonus of the Fast-charging Coils mod to the base weapon
 - Moved the Hardened Rounds mod from T4 to T2
 - Increased the range and power of the Focus Fear mod
-
-OC tweaks
 - Changed the ammo bonus of the Minimal Clips OC to a % clip size bonus
 - Decreased slightly the ammo and charge speed penalties on the Supercooling Chamber OC
-- Changed the damage penalty of the Hipster OC from a % to a flat value to allow a high damage build to hit certain breakpoints
+- Changed the damage penalty of the Hipster OC from a % to a flat value to allow a high damage build to hit certain breakpoints and increased the ammo bonus a bit
 
 Deepcore GK2
 - Lowered the damage penalty of the Electric Reload OC and significantly extended the duration of the electrocution effect
@@ -2382,7 +2562,7 @@ Breach Cutter
 Stubby Voltaic SMG
 - Reduced the base recoil slightly
 
-Turret Arc OC
+Stubby Turret Arc OC
 - Increased the max distance allowed between turrets for the arc to connect
 - Increased the damage of the arc
 - Increased the slowdown of the arc
@@ -2390,7 +2570,7 @@ Turret Arc OC
 - Expanded the area around an electrocuted turret where enemies can get electrocuted
 - Turret Arc now deals significantly less FF damage and no longer slows down players
 
-EM Discharge OC
+Stubby EM Discharge OC
 - Increased the discharge damage
 - Extended the range before damage begins to fall off
 - Lowered friendly fire damage significantly
@@ -2416,13 +2596,13 @@ Jury-rigged Boomstick
 Cryo Cannon
 - Slightly increased the bonus provided by the Improved Pump mod
 - Changed Perfectly Tuned Cooler OC to a balanced OC giving it small Chargeup Time and Pressure Regain penalties, also renamed it to “Tuned Cooler”.
-- Increased the Ice Storm OC damage bonus significantly but it now only applies against frozen targets
+- The Ice Storm OC now has an extra damage bonus against frozen targets but comes with a slightly larger ammo penalty
 
 CRSPR Flamethrower
 - Improved the chance of the “It Burns!” mod to cause fear.
 - Moved some of the damage bonus of the Unfiltered Fuel mod to the base weapon
 - Added an ammo bonus and a small reload penalty to the Compact Feed Valves OC
-- Increased the damage and RoF bonuses of the Face Melter OC and replaced the ammo penalty with a range penalty
+- Increased the damage and RoF bonuses of the Face Melter OC and replaced the ammo penalty with a range penalty and replaced the movement speed penalty with a tank capacity penalty
 
 DeepCore PGL
 - Extended the range at which damage fall off starts and reduced max damage falloff significantly
@@ -2439,10 +2619,11 @@ MISC.
 - Fix pathfinder related crashes
 - Fixed Promotion Terminal not always displaying the selected character
 - Fixed issue with bosco terminal not closing correctly when using controller shortcut
-- Wardrope sound mix tweaks
+- Wardrobe sound mix tweaks
 - Improved Well placement in Refinery Mission. Less chance to miss placing a well.
 - Fixed case of tunnel not connecting correctly to the next cave.
 - Minerals mined with explosions now get a distance proportionate force applied to them so they don’t just plop down.
+- Increased the average DPS of the Fire DoT a bit and also made it a little more consistent.
 - DX12 enabled by default. If you have issues running DX12, you can still change it to DX11
 - Push grass away from players in the shader
 - Fixed being unable to unlock perks by pressing E
@@ -2450,6 +2631,7 @@ MISC.
 - Made a large amount of strings easier to translate
 - Fixed UI issues in bar order menu, added Unfreeze UI to HUD when frozen by Wormhole Special beer
 - Stay up to date with the brand new news feed ticker added to The Mineral Trade
+- Tons of minor UI tweaks on fonts, spacing, and styling
 "
 	Update_12 = "Hey Miners!
 
