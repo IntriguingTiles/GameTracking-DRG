@@ -2444,6 +2444,7 @@ MISC.
 - Fixed UI issues in bar order menu, added Unfreeze UI to HUD when frozen by Wormhole Special beer
 - Stay up to date with the brand new news feed ticker added to The Mineral Trade
 - Tons of minor UI tweaks on fonts, spacing, and styling
+- Steeve’s Healthbar now also show the player name of the Beastmaster
 "
 	Update_34 = "Hello, Miners!
 We’re back with a modest update for you! Work is proceeding apace for the longer-term goals included in the upcoming Update 35, but with Update 34 we want to sweeten the long waiting time a bit. We got new Elite Enemies for you, the possibility of double Warnings on missions, two brand new Warnings to add to the mix, a lot of weapon tweaks, and more to keep you busy! It’s time to dive back into the depths of Hoxxes and face the new dangers!
@@ -2453,16 +2454,9 @@ The Ghost Ship Crew
 
 --- PATCH NOTES ---
 
-MOD SUPPORT
-----------------------------
-Playing with mods in your game will be a much better experience with this update! You will have save game profiles available so you can play with mods without messing up your main save. When joining a game you will know if it has mods enabled. And, you will have a dedicated menu for installed mods, so you can easily enable and disable them with a click and a reload. We can’t wait to see what crazy/awesome/frightening/wonderful creations you will be playing with!
-
-Note: Mods and Modding are currently exclusive to Steam and will require a separate savegame. The currently planned implementation will not be based on Steamworks
-
-
 ELITE ENEMIES 
 ----------------------------
-Elite enemies are tougher, faster, more dangerous versions of the standard bugs that you already know and love (to kill). They have a chance of appearing in regular missions at Hazard Level 3 and above.  Look forward to having these new, more deadly threats invade your expeditions to Hoxxes!
+Elite enemies are tougher, faster, more dangerous versions of the standard bugs that you already know and love (to kill). They have a small chance of appearing in regular missions at Hazard Level 3 and above, so consider it a special occasion when you encounter one! 
 
 
 NEW WARNINGS
@@ -2470,7 +2464,7 @@ NEW WARNINGS
 New dangers have been discovered in the caves!  
 
 ELITE THREAT
-Missions with this Warning will have a sure-fire chance of you encountering elite enemies. 
+Missions with this Warning will have a sure-fire chance of you encountering elite enemies.  
 
 SWARMAGEDDON
 A tsunami of swarmers awaits you in the mines. Bring plenty of pesticide and bullets! 
@@ -2549,6 +2543,7 @@ Experimental Charge Blaster
 - Significantly lowered the heat generated when shooting charged projectiles on the base weapon
 - Lowered the base charge speed slightly
 - Cleaned up the weapon’s stats list in the equipment terminal
+- Added a % damage bonus and increased the effect radius penalty on Flying Nightmare
 - Heat Pipe OC now penalises charge shot heat instead of normal shots
 - Lowered the charge shot ammo penalty on the Overcharger OC and changed it from a % to a flat value
 - Lowered the damage penalty of the Persistent Plasma OC, increased the damage dealt by the plasma field and added a small slow effect to the field
@@ -2588,6 +2583,7 @@ Zhukov NUK17
 - Increased the spread reduction provided by the Better Weight Balance mod
 - Changed the damage penalty on the Custom Casings OC to a RoF penalty
 
+
 Jury-rigged Boomstick
 - Upgraded the T3 Stun mod to also improve the chance to stun and add extend the stun duration even more
 - Fixed the stats not displaying the stun chance as a “Per Pellet” value
@@ -2613,25 +2609,83 @@ DeepCore PGL
 - Removed the damage penalty from the RJ250 OC and added a reload speed bonus
 - Increased the ammo bonus of the Compact Rounds OC
 
+Lead Storm Powered Minigun
+- Reduced the cooling effect of the Cold as the Grave mod
+- The Aggressive Venting mod now significantly reduces the time it takes to recover from an overheat
+- Moved some of the bonus of the Improved Platform Stability mod to the base weapon
+- The Magnetic Refrigeration mod now also significantly reduces the delay before cooling begins
+- Fixed a bug where the small delay between shooting and cooling was not actually happening
+- Reduced base stun chance
+- Added a stun chance bonus and increased the stun duration bonus on the Stun Duration mod also renamed it to “Improved Stun”
+- Shortened the base spin-down time and increased the bonus of the Magnetic Bearings mod, also the mod now properly affects how long the gun stays accurate
+- Increased the ricochet chance significantly and extended the max ricochet distance a bit for the Bullet Hell OC
+- Leadstorm OC no longer disables stun but instead just significantly reduces it’s viability so now the Improved Stun mod can actually affect it
+
+
+Thunderhead Autocannon
+- Reduced the damage bonus of the Feedback Loop mod
+- Increased the RoF bonus of the Improved Gas System mod
+- Moved some of the bonus of the Lighter Barrel Assembly mod to the base weapon
+- Increased the direct damage penalty and slightly reduced the effect radius bonus on the Carpet Bomber OC
+- Reduced the direct and area damage penalties slightly, extended the effect radius and increased the chance to apply the toxin effect for the Newutoroxin Payload OC
+- Replaced the reload speed bonus with a “rate of fire growth speed” bonus on the Combat Mobility OC
+
+
+Warthog Auto 120 Shotgun
+- Reduced the bonus of the High Capacity Magazine mod
+- Very slightly increased the bonus of the Expanded ammo bags mod
+
+Warthog Turret Whip mod
+- Reduced the ammo cost of triggering the effect
+- Increased the projectile speed
+- Increased damage
+- Increased the damage radius
+
+- Very slightly reduced the ammo bonus of the Minishells OC
+- Reduced the ammo bonus of the Light-weight Magazines OC
+
+
+Driller's HE Grenade
+- Increased damage
+- Reduced damage fall-off
+- Expanded the max damage area a bit
+- Increased the grenade count
+
+
+
+Expect further tweaks during the experimental period including changes to the remaining weapons.
+
 
 MISC.
 ----------------------------
-- Fix pathfinder related crashes
+- Fixed pathfinder related crashes
+- Fixed crash when you join a game
 - Fixed Promotion Terminal not always displaying the selected character
 - Fixed issue with bosco terminal not closing correctly when using controller shortcut
-- Wardrobe sound mix tweaks
-- Improved Well placement in Refinery Mission. Less chance to miss placing a well.
-- Fixed case of tunnel not connecting correctly to the next cave.
-- Minerals mined with explosions now get a distance proportionate force applied to them so they don’t just plop down.
-- Increased the average DPS of the Fire DoT a bit and also made it a little more consistent.
-- DX12 enabled by default. If you have issues running DX12, you can still change it to DX11
-- Push grass away from players in the shader
+- Fixed droppod can land too close to Machine events, prevent mission completion.
 - Fixed being unable to unlock perks by pressing E
 - Fixing a bug, where you could cancel the join process, even though you could not.
+- Fixed case of tunnel not connecting correctly to the next cave.
+- Fixed case where the escort oil canister moved to level start when client with bad ping picked it up
+- Fixed a case where you could get extra secondary objective items with certain warnings (Shield Disruption).
+-  Attempt to fix gunkseed in 0,0,0
+- Tried to fix a latejoin issue relating to bosco carrying gems.
+- Tons of minor UI tweaks on fonts, spacing, and styling
+- Space Rig mesh tweaks
+- Wardrobe sound mix tweaks.
+- Improved Well placement in Refinery Mission. Less chance to miss placing a well.
+- Reduced how aggressively refueling requirements scale based on the number of players in Escort missions
+- Increased the average DPS of the Fire DoT a bit and also made it a little more consistent.
+- Slowed down slightly how quickly a player can change directions on the zipline
+- Increased zipline base angle and the bonus of the Upgraded Connection Joint mod
+- Made walking enemies that can shoot more likely to target players on ziplines
+- Grass now moves when the dwarves walk through it.
+- DX12 enabled by default. If you have issues running DX12, you can still change it to DX11
 - Made a large amount of strings easier to translate
 - Fixed UI issues in bar order menu, added Unfreeze UI to HUD when frozen by Wormhole Special beer
+- Minerals mined with explosions now get a distance proportionate force applied to them so they don’t just plop down.
 - Stay up to date with the brand new news feed ticker added to The Mineral Trade
-- Tons of minor UI tweaks on fonts, spacing, and styling
+- Steeve’s Healthbar now also show the player name of the Beastmaster
 "
 	Update_12 = "Hey Miners!
 
