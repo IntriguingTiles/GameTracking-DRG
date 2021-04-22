@@ -1,8 +1,8 @@
-12171 entries
+12174 entries
 42 namespaces
-9762 values
+9765 values
 
-Namespace Global (11316 keys)
+Namespace Global (11319 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 Usually the issue is due to:
 - No internet connection
@@ -3764,7 +3764,7 @@ This will unbind  '{ActionName}'"
 	511E140F47B8A5AA2A583FBDD20C1CEC = "Force"
 	636EFE984E2CB29D61E735A17D86BFD0 = "Force Feedback Scale"
 	A0D4C48D4EF61866DE19CBAE92D05C44 = "Forge"
-	CF8BF6E34C8FDE2BA2B9DEAF10B8B6CF = "Forge"
+	CE752FF34FA5D5E3EA3965BED3535512 = "Forge"
 	AE4C6D354B238677CBF9CCBB74160BCA = "Forge History"
 	DDAAA63B4533237EA7A8FFACB86CCD67 = "Forge History"
 	5043F1E946293073A4D9699570F1620B = "Forge Inventory"
@@ -5290,7 +5290,7 @@ STAND BACK!"
 	613350A04AE7CC4C3AE7E7895E8F2957 = "Improved accuracy"
 	2777BA8B4255111701CDCF84E5ED629F = "Improved armor breaking"
 	2AEFBFAE432FE341F5B463845BDE3213 = "Improved armor breaking"
-	8AF3ED854950A842FE0919982F6B826F = "Improved hip-shot accuracy"
+	8AF3ED854950A842FE0919982F6B826F = "Improved hip-shot accuracy and stability"
 	8694899D45AB5C509D7CF8A25CEFBD93 = "Improves Bosco's capabilities to mine minerals, dirt, or any kind of terrain"
 	94A869774A3929E30BC3189F3601E135 = "Improves armor breaking capabilities"
 	E78BCAE64D329F38800D59BA2241F972 = "Improves the damage caused by the normal shots."
@@ -6589,6 +6589,7 @@ On the other hand, area of effect weapons or those based on streams of cold or f
 	298615EF4D8A8B9FC85D8C8CD2796EC4 = "Mission Selection"
 	06527C344A30B6777AC76591AC9D50CA = "Mission Statistics"
 	0F5DEE5E4760C31F00CA03B68EBA6C1C = "Mission Time"
+	CE77FA7549868BC550FF91B441D97305 = "Mission aborted by host."
 	87ED4E2C4334C3C6D6D835BE1FEFF8C0 = "Mission complete. Director's talking of bonus."
 	6817C0064C5566961361409692CF4F60 = "Mission complete. Good work, team."
 	B4253B1E4AB8F953BCD51188009553B7 = "Mission locked in. Powering up the drop pod."
@@ -6620,6 +6621,8 @@ On the other hand, area of effect weapons or those based on streams of cold or f
 	350E79C049580C1F2C9E0898C7CC092D = "Mod not installed."
 	ED89542D4E037666B8922DBD7FB4C1FE = "Modded Color Base"
 	A1AD37664C79329FFF4A35AFACD8B7AF = "Modding"
+	2A2B2B6A4106E7DB7BE525A2F77B1B0B = "Modding Support has been postponed until further notice. More info here: https://steamcommunity.com/games/DeepRockGalactic/announcements/detail/507722152497173253. 
+Mods can still be installed by putting the .pak file into FSD\Content\Paks folder."
 	B1699B4C40F396D52D0D5CBA0CAC22AE = "Modification bought!"
 	FF6B1CBE42772D780DC4F0908C7A1B0E = "Modifies how fast a flying projectile travels. It facilitates combat against quick enemies or those that are far away."
 	5C1196A04170BAD17B7903A39F95B763 = "Modname"
@@ -7397,7 +7400,7 @@ Management"
 	51103C5E498EC1B4E349FCBD1EB3C155 = "Overstuffed Magazine"
 	03FB810E415F3D16E21BAAB92DA3D913 = "Overview"
 	507C950C4D978998BFA816A9A3FB9A51 = "Overview"
-	39372B544339618DCC3FD89FF759E7A2 = "Overwite Save Game"
+	39372B544339618DCC3FD89FF759E7A2 = "Overwrite Save Game"
 	6C69138C45730D78DA5A498632991650 = "Owned"
 	E838BD654C868287C12A8B9D4D7F3F14 = "Owns"
 	2F56D18E4A2834B531934E87753A4735 = "Oww...we got our asses kicked big time!"
@@ -7491,8 +7494,8 @@ Management"
 	6718F1AA4B5E715ADEE99F8D63C78C48 = "PROMOTION AVAILABLE"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "PROMOTION AWAITS"
 	625637E14AE36161309A579AF48094B0 = "PROMOTION COST"
+	3686BE9D4C98397B672D2B9D1E3C0647 = "PROMOTIONS"
 	3C2211C04C11826513D1028765628866 = "PROMOTIONS"
-	75230A4A4549153E872A379BB7CB48D1 = "PROMOTIONS"
 	9D0495E743DE52B3F57657B90B4B5D58 = "PRONE TO EXPLODE"
 	0743DAE24CA986BE792E58B3FF6F12EA = "PROXIMITY MINE"
 	1B798D5E4B5DD828B8151A83C3E77B3F = "PSA: A grenade launcher was found left behind in the mess hall. Be safe - please stow all heavy ordnance between missions."
@@ -10557,6 +10560,7 @@ Do remember that this is a pre-release build - you will encounter bugs and stabi
 	54553A8343E5651BA1A4AFAD66280D0D = "Warning: Are you sure? You will lose all progress in this assignment!"
 	C62786DF490AA8453D46389CAE1F9C6D = "Warning: Are you sure? You will lose all progress in this assignment!"
 	D3BA60F0447CFD5B4BC46F95AB72686C = "Warning: Will restart the spacerig."
+	F0DE8CC24899CD20B47F32B88633A42A = "Warning: You already have a saveslot with the name: {savename}. Pressing Yes, wil OVERWRITE that saveslot. This action can NOT be undone."
 	01F74C6149AD72D906058FA35A669FA8 = "Warning: You are about to access the Account Picker. Changing the active user will change your save game and could result in data loss. Are you sure you want to proceed?"
 	45BC46004B66AA4029A6CA9825BE7209 = "Warnings"
 	9D72481740FE1CF7A28B738EFABE182F = "Warrior's"

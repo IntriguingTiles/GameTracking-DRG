@@ -2263,7 +2263,7 @@ FIXES
 - Enemies should no longer continue making sounds after they’re dead. Stands to reason, really…
 - Mactera Spawn and Grabber should no longer get stuck outside the Navmesh after dashing.
 "
-	Update_34_Xbox = "Hello, Miners!
+	Update_34 = "Hello, Miners!
 We’re back with a modest update for you! Work is proceeding apace for the longer-term goals included in the upcoming Update 35, but with Update 34 we want to sweeten the long waiting time a bit. We got new Elite Enemies for you, the possibility of double Warnings on missions, two brand new Warnings to add to the mix, a lot of weapon tweaks, and more to keep you busy! It’s time to dive back into the depths of Hoxxes and face the new dangers!
 
 With Love,
@@ -2273,7 +2273,7 @@ The Ghost Ship Crew
 
 ELITE ENEMIES 
 ----------------------------
-Elite enemies are tougher, faster, more dangerous versions of the standard bugs that you already know and love (to kill). They have a chance of appearing in regular missions at Hazard Level 3 and above.  Look forward to having these new, more deadly threats invade your expeditions to Hoxxes!
+Elite enemies are tougher, faster, more dangerous versions of the standard bugs that you already know and love (to kill). They have a small chance of appearing in regular missions at Hazard Level 3 and above, so consider it a special occasion when you encounter one! 
 
 
 NEW WARNINGS
@@ -2281,7 +2281,7 @@ NEW WARNINGS
 New dangers have been discovered in the caves!  
 
 ELITE THREAT
-Missions with this Warning will have a sure-fire chance of you encountering elite enemies. 
+Missions with this Warning will have a sure-fire chance of you encountering elite enemies.  
 
 SWARMAGEDDON
 A tsunami of swarmers awaits you in the mines. Bring plenty of pesticide and bullets! 
@@ -2302,6 +2302,11 @@ Are you frustrated with the current controller bindings? Do you feel that your m
 IMPROVED BULLET TRACING
 ----------------------------
 How shooting is handled in terms of networking has been remarkably optimized. The result should be a more instantaneous response when firing projectiles. And projectiles now use much less bandwidth!
+
+
+SAVE GAME PROFILES
+----------------------------
+Now you have the option to manage different save game profiles if you’re playing with mods (or for any other reason of your choosing) so you can have a separate save for messing around. This feature was originally planned as a part of a larger modding support solution for this update, but we decided to postpone it and release it separately later. We are planning a more comprehensive and improved solution for letting mods into the main game and we will reveal more details as this project progresses. Stay tuned!
 
 
 WEAPON TWEAKS
@@ -2337,7 +2342,6 @@ Bulldog Heavy Revolver
 M1000 Classic
 - Increased base weapon damage
 - Decreased the base weakpoint damage bonus
-- Decreased the bonus of the Increased Caliber Rounds mod
 - Decreased the bonus of the Hollow-Point Bullets mod
 - Moved some of the bonus of the Fast-charging Coils mod to the base weapon
 - Moved the Hardened Rounds mod from T4 to T2
@@ -2345,6 +2349,7 @@ M1000 Classic
 - Changed the ammo bonus of the Minimal Clips OC to a % clip size bonus
 - Decreased slightly the ammo and charge speed penalties on the Supercooling Chamber OC
 - Changed the damage penalty of the Hipster OC from a % to a flat value to allow a high damage build to hit certain breakpoints and increased the ammo bonus a bit
+- Tweaked the crosshair to help with focus shots and hipshots
 
 Deepcore GK2
 - Lowered the damage penalty of the Electric Reload OC and significantly extended the duration of the electrocution effect
@@ -2360,6 +2365,7 @@ Experimental Charge Blaster
 - Significantly lowered the heat generated when shooting charged projectiles on the base weapon
 - Lowered the base charge speed slightly
 - Cleaned up the weapon’s stats list in the equipment terminal
+- Added a % damage bonus and increased the effect radius penalty on Flying Nightmare
 - Heat Pipe OC now penalises charge shot heat instead of normal shots
 - Lowered the charge shot ammo penalty on the Overcharger OC and changed it from a % to a flat value
 - Lowered the damage penalty of the Persistent Plasma OC, increased the damage dealt by the plasma field and added a small slow effect to the field
@@ -2394,11 +2400,12 @@ Subata 120
 - Increased the proc chance of the Chain Hit OC
 
 Zhukov NUK17
+- Added a weakpoint damage bonus to the base weapon
 - Moved some of the ammo bonus from the T4 Expanded Ammo Bags mod to the base weapon
 - Reduced the base spread slightly
 - Increased the spread reduction provided by the Better Weight Balance mod
 - Changed the damage penalty on the Custom Casings OC to a RoF penalty
-
+- Increased the chance to create a cryo minelet with the Cryo Minelets OC and reduced the particle system a bit, which should help with both performance and visibility
 
 Jury-rigged Boomstick
 - Upgraded the T3 Stun mod to also improve the chance to stun and add extend the stun duration even more
@@ -2422,31 +2429,83 @@ DeepCore PGL
 - Decreased the ammo bonus from the T2 Expanded Ammo Bags mod
 - Moved the High Velocity Grenades mod from T2 to T3
 - Added a small % explosion range bonus to the Proximity Trigger mod
-- Removed the damage penalty from the RJ250 OC and added a reload speed bonus
+- Increased the damage penalty from the RJ250 OC and added a high reload speed bonus and a large % ammo bonus
 - Increased the ammo bonus of the Compact Rounds OC
+
+Lead Storm Powered Minigun
+- Reduced the cooling effect of the Cold as the Grave mod
+- The Aggressive Venting mod now significantly reduces the time it takes to recover from an overheat
+- Moved some of the bonus of the Improved Platform Stability mod to the base weapon
+- The Magnetic Refrigeration mod now also significantly reduces the delay before cooling begins
+- Fixed a bug where the small delay between shooting and cooling was not actually happening
+- Reduced base stun chance
+- Added a stun chance bonus and increased the stun duration bonus on the Stun Duration mod also renamed it to “Improved Stun”
+- Shortened the base spin-down time and increased the bonus of the Magnetic Bearings mod, also the mod now properly affects how long the gun stays accurate
+- Increased the ricochet chance significantly and extended the max ricochet distance a bit for the Bullet Hell OC
+- Leadstorm OC no longer disables stun but instead just significantly reduces it’s viability so now the Improved Stun mod can actually affect it
+
+Thunderhead Autocannon
+- Reduced the damage bonus of the Feedback Loop mod
+- Increased the RoF bonus of the Improved Gas System mod
+- Moved some of the bonus of the Lighter Barrel Assembly mod to the base weapon
+- Increased the direct damage penalty and slightly reduced the effect radius bonus on the Carpet Bomber OC
+- Reduced the direct and area damage penalties slightly, extended the effect radius and increased the chance to apply the toxin effect for the Newutoroxin Payload OC
+- Replaced the reload speed bonus with a “rate of fire growth speed” bonus on the Combat Mobility OC
+
+Warthog Auto 120 Shotgun
+- Reduced the bonus of the High Capacity Magazine mod
+- Very slightly increased the bonus of the Expanded ammo bags mod
+
+Warthog Turret Whip mod
+- Reduced the ammo cost of triggering the effect
+- Increased the projectile speed
+- Increased damage
+- Increased the damage radius
+
+- Very slightly reduced the ammo bonus of the Minishells OC
+- Reduced the ammo bonus of the Light-weight Magazines OC
+
+Driller's HE Grenade
+- Increased damage
+- Reduced damage fall-off
+- Expanded the max damage area a bit
+- Increased the grenade count
 
 
 MISC.
 ----------------------------
-- Fix pathfinder related crashes
+- Fixed pathfinder related crashes
+- Fixed crash when you join a game
 - Fixed Promotion Terminal not always displaying the selected character
 - Fixed issue with bosco terminal not closing correctly when using controller shortcut
-- Wardrobe sound mix tweaks
-- Improved Well placement in Refinery Mission. Less chance to miss placing a well.
-- Fixed case of tunnel not connecting correctly to the next cave.
-- Minerals mined with explosions now get a distance proportionate force applied to them so they don’t just plop down.
-- Increased the average DPS of the Fire DoT a bit and also made it a little more consistent.
-- DX12 enabled by default. If you have issues running DX12, you can still change it to DX11
-- Push grass away from players in the shader
+- Fixed droppod can land too close to Machine events, prevent mission completion.
 - Fixed being unable to unlock perks by pressing E
 - Fixing a bug, where you could cancel the join process, even though you could not.
+- Fixed case of tunnel not connecting correctly to the next cave.
+- Fixed case where the escort oil canister moved to level start when client with bad ping picked it up
+- Fixed a case where you could get extra secondary objective items with certain warnings (Shield Disruption).
+-  Attempt to fix gunkseed in 0,0,0
+- Tried to fix a latejoin issue relating to bosco carrying gems.
+- Tons of minor UI tweaks on fonts, spacing, and styling
+- Space Rig mesh tweaks
+- Wardrobe sound mix tweaks.
+- Improved Well placement in Refinery Mission. Less chance to miss placing a well.
+- Reduced how aggressively refueling requirements scale based on the number of players in Escort missions
+- Increased the average DPS of the Fire DoT a bit and also made it a little more consistent.
+- Slowed down slightly how quickly a player can change directions on the zipline
+- Increased zipline base angle and the bonus of the Upgraded Connection Joint mod
+- PGL grenades and Platform Gun projectiles now inherit the character’s velocity making it easier to use them while falling or otherwise moving at great speed
+- Made walking enemies that can shoot more likely to target players on ziplines
+- Grass now moves when the dwarves walk through it.
+- DX12 enabled by default. If you have issues running DX12, you can still change it to DX11
 - Made a large amount of strings easier to translate
 - Fixed UI issues in bar order menu, added Unfreeze UI to HUD when frozen by Wormhole Special beer
+- Minerals mined with explosions now get a distance proportionate force applied to them so they don’t just plop down.
 - Stay up to date with the brand new news feed ticker added to The Mineral Trade
-- Tons of minor UI tweaks on fonts, spacing, and styling
-- Steeve’s Healthbar now also show the player name of the Beastmaster
+- Steeve’s Healthbar now also shows the player name of the Beastmaster
+
 "
-	Update_34 = "Hello, Miners!
+	Update_34_Xbox = "Hello, Miners!
 We’re back with a modest update for you! Work is proceeding apace for the longer-term goals included in the upcoming Update 35, but with Update 34 we want to sweeten the long waiting time a bit. We got new Elite Enemies for you, the possibility of double Warnings on missions, two brand new Warnings to add to the mix, a lot of weapon tweaks, and more to keep you busy! It’s time to dive back into the depths of Hoxxes and face the new dangers!
 
 With Love,
@@ -2520,7 +2579,6 @@ Bulldog Heavy Revolver
 M1000 Classic
 - Increased base weapon damage
 - Decreased the base weakpoint damage bonus
-- Decreased the bonus of the Increased Caliber Rounds mod
 - Decreased the bonus of the Hollow-Point Bullets mod
 - Moved some of the bonus of the Fast-charging Coils mod to the base weapon
 - Moved the Hardened Rounds mod from T4 to T2
@@ -2528,6 +2586,7 @@ M1000 Classic
 - Changed the ammo bonus of the Minimal Clips OC to a % clip size bonus
 - Decreased slightly the ammo and charge speed penalties on the Supercooling Chamber OC
 - Changed the damage penalty of the Hipster OC from a % to a flat value to allow a high damage build to hit certain breakpoints and increased the ammo bonus a bit
+- Tweaked the crosshair to help with focus shots and hipshots
 
 Deepcore GK2
 - Lowered the damage penalty of the Electric Reload OC and significantly extended the duration of the electrocution effect
@@ -2578,11 +2637,12 @@ Subata 120
 - Increased the proc chance of the Chain Hit OC
 
 Zhukov NUK17
+- Added a weakpoint damage bonus to the base weapon
 - Moved some of the ammo bonus from the T4 Expanded Ammo Bags mod to the base weapon
 - Reduced the base spread slightly
 - Increased the spread reduction provided by the Better Weight Balance mod
 - Changed the damage penalty on the Custom Casings OC to a RoF penalty
-
+- Increased the chance to create a cryo minelet with the Cryo Minelets OC and reduced the particle system a bit, which should help with both performance and visibility
 
 Jury-rigged Boomstick
 - Upgraded the T3 Stun mod to also improve the chance to stun and add extend the stun duration even more
@@ -2606,7 +2666,7 @@ DeepCore PGL
 - Decreased the ammo bonus from the T2 Expanded Ammo Bags mod
 - Moved the High Velocity Grenades mod from T2 to T3
 - Added a small % explosion range bonus to the Proximity Trigger mod
-- Removed the damage penalty from the RJ250 OC and added a reload speed bonus
+- Increased the damage penalty from the RJ250 OC and added a high reload speed bonus and a large % ammo bonus
 - Increased the ammo bonus of the Compact Rounds OC
 
 Lead Storm Powered Minigun
@@ -2621,7 +2681,6 @@ Lead Storm Powered Minigun
 - Increased the ricochet chance significantly and extended the max ricochet distance a bit for the Bullet Hell OC
 - Leadstorm OC no longer disables stun but instead just significantly reduces it’s viability so now the Improved Stun mod can actually affect it
 
-
 Thunderhead Autocannon
 - Reduced the damage bonus of the Feedback Loop mod
 - Increased the RoF bonus of the Improved Gas System mod
@@ -2629,7 +2688,6 @@ Thunderhead Autocannon
 - Increased the direct damage penalty and slightly reduced the effect radius bonus on the Carpet Bomber OC
 - Reduced the direct and area damage penalties slightly, extended the effect radius and increased the chance to apply the toxin effect for the Newutoroxin Payload OC
 - Replaced the reload speed bonus with a “rate of fire growth speed” bonus on the Combat Mobility OC
-
 
 Warthog Auto 120 Shotgun
 - Reduced the bonus of the High Capacity Magazine mod
@@ -2644,16 +2702,11 @@ Warthog Turret Whip mod
 - Very slightly reduced the ammo bonus of the Minishells OC
 - Reduced the ammo bonus of the Light-weight Magazines OC
 
-
 Driller's HE Grenade
 - Increased damage
 - Reduced damage fall-off
 - Expanded the max damage area a bit
 - Increased the grenade count
-
-
-
-Expect further tweaks during the experimental period including changes to the remaining weapons.
 
 
 MISC.
@@ -2678,6 +2731,7 @@ MISC.
 - Increased the average DPS of the Fire DoT a bit and also made it a little more consistent.
 - Slowed down slightly how quickly a player can change directions on the zipline
 - Increased zipline base angle and the bonus of the Upgraded Connection Joint mod
+- PGL grenades and Platform Gun projectiles now inherit the character’s velocity making it easier to use them while falling or otherwise moving at great speed
 - Made walking enemies that can shoot more likely to target players on ziplines
 - Grass now moves when the dwarves walk through it.
 - DX12 enabled by default. If you have issues running DX12, you can still change it to DX11
@@ -2685,7 +2739,8 @@ MISC.
 - Fixed UI issues in bar order menu, added Unfreeze UI to HUD when frozen by Wormhole Special beer
 - Minerals mined with explosions now get a distance proportionate force applied to them so they don’t just plop down.
 - Stay up to date with the brand new news feed ticker added to The Mineral Trade
-- Steeve’s Healthbar now also show the player name of the Beastmaster
+- Steeve’s Healthbar now also shows the player name of the Beastmaster
+
 "
 	Update_12 = "Hey Miners!
 
