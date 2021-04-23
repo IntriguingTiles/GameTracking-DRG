@@ -1,8 +1,8 @@
-83 entries
+86 entries
 1 namespaces
-81 values
+84 values
 
-Namespace PatchNotes (83 keys)
+Namespace PatchNotes (86 keys)
 	Update_30_Header = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_30_ShortTitle = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_23 = "De acuerdo, mineros, ¡venid aquí y cerrad el pico unos minutos!
@@ -419,6 +419,94 @@ CORRECCIONES Y MEJORAS
 - Se ha corregido un error por el que el sonido burbujeante de los géiseres de aire o lava permanecía incluso después de ser destruidos
 - Se ha añadido una animación para la acción de patear vista desde jugadores en tercera persona ¡Patear barriles ahora sí que es realista!
 - Se han generado nuevas líneas de voz para Control de Misión y su interacción con los encargos para armas y ascensos 
+"
+	Update_9 = "¡Saludos, mineros!
+Deep Rock Galactic ya lleva una semana publicado. Hemos terminado de celebrar dicho lanzamiento (¡oh, sí!) y ahora estamos listos para ponernos a trabajar duro en las próximas actualizaciones del juego. Dentro del juego contáis con un fantástico botón de "Opiniones", que muchos de vosotros ya habéis usado para hacernos llegar lo que opináis del juego. Muchas gracias. Es de una grandísima ayuda para nosotros. A continuación, os dejamos más información sobre la próxima versión.
+
+--- Mejoras al perforador ---
+El perforador es probablemente la clase más novedosa en Deep Rock Galactic, así que no nos ha alegrado ver que nuestro hombre de confianza para excavar os ha resultado menos útil que las otras tres clases. Por eso, hemos modficado tanto su lanzallamas como su perforadoras. En las notas detalladas de la versión que podréis leer a continuación, veréis los cambios exactos que hemos aplicado, algo que también os dará alguna pista sobre cómo podréis utilizar al perforador de manera más eficiente a partir de ahora.
+
+--- Pagos al fallar una misión / Expulsión de jugadores ---
+Dos temas importantes han empezado a dar problemas: la falta de satisfacción en cuanto a los pagos a los jugadores tras una misión fallida, y el hecho de que los jugadores pueden ser expulsados del equipo en cualquier momento. Hemos trabajado en una solución preliminar para ambos, y os la detallamos a continuación:
+
+En primer lugar, al fallar una misión no recibíais absolutamente NADA como pago. Ahora, al darse esta situación, recibiréis una compensación de un 25 % de los minerales almacenados por Molly cuando la misión se acabe. 
+
+En segundo lugar, si eres expulsado de un equipo, aparecerá una pantalla de misiónn fallida para ti, consiguiendo una compensación basada en lo que se añadió a Molly desde que te uniste a la partida. 
+
+Además, ahora no será posible unirse o ser expulsado de un equipo una vez se haya llamado a la cápsula de transporte final y la cuenta atrás para llegar a ella haya comenzado. Estamos probando estos cambios y queremos monitorizar sus resultados. La solución se ha implementado fácilmente, así que si nos conviene revertirla, podremos hacerlo con la misma facilidad.
+
+Además, consideramos importante que entendáis cómo funciona una misión completada. Podríais pensar que las recompensas se dividen equitativamente entre los superviviente. Eso no ocurre así. Se calcula el total de la misión y dicha cantidad se da a cada jugador del equipo, independientemente del tamaño del equipo de la misión. Además, cada superviviente añade una cantidad adicional, que también hemos mejorado. “No abandonamos a un enano” debe ser el lema de todo jugador, y por eso cuantos más jugadores terminen vivos en la misión, ¡mayor será la bonificación recibida!
+
+
+Hemos decidido no implementar un sistema de votación para las expulsiones en esta versión, aunque algunos jugadores nos lo han pedido. Supondría bastante trabajo, y aún no estamos convencidos de que sea la manera de solucionarlo. Dicho esto, hay buenos motivos a favor y en contra de esta opción, así que seguiremos echando un vistazo a este tipo de situaciones. Lo mismo ocurre con la sugerencia de implementar un botón de voto sobre Molly. 
+
+--- Bosco ---
+Tal y como se detalla en las notas de la versión al final, Bosco ha recibido una gran mejora, y ahora su habilidad para matar sanguijuelas debería haber aumentado. Y escribimos "debería" porque este problema necesitará de más iteraciones para solucionarlo completamente, pero por el momento la experiencia de juego en esas situaciones debería haber mejorado.
+
+--- Tarjetas de comercio ---
+Este cambio es algo embarazoso. Parece ser que ahora tenéis que publicar manualmente las tarjetas de comercio al crear un nuevo juego en Steam. Ups. Lo bueno de esto es que ya están implementadas y listas para ser recogidas.
+
+
+--- Mapa de desarrollo ---
+A mediados de esta semana, tuvimos una gran reunión para debatir opciones sobre el juego aquí, en las oficinas de Ghost Ship. Consideramos todas vuestras opiniones, las de nuestros jugadores más fieles, además de nuestros propios comentarios del equipo de desarrollo y compañeros de colaboración. Han surgido MUCHÍSIMAS ideas interesantes que podemos aplicar y que intentaremos considerar para expandir Deep Rock Galactic. Por el momento, lo primero va a ser elegir cuáles y en qué orden van a ser implementadas, por lo que tenemos en mente crear un mapa de desarrollo más grande y claro sobre los próximos meses de desarrollo a lo largo de las semanas que vienen. 
+
+---Notas de la versión ---
+
+Fin de misión
+- Se ha duplicado la bonificación por supervivencia a una misión (desde 75 hasta 150 créditos) por cada superviviente
+- Ahora, las misiones fallidas te darán un 25 % de los minerales recolectados durante la misión como compensación
+
+Sesiones cooperativas
+- Ahora, al ser expulsado de una partida, se considerará una misión fallida, y recibirás la compensación adecuada basada en tu contribución
+- Se ha añadido un nuevo mensaje en el juego sobre expulsar y ser expulsado de una sesión
+- Ya no podrás unirte a una sesión una vez que has llamado a la cápsula de transporte final
+- Ya no podrás expulsar a un jugador una vez que has llamado a la cápsula de transporte final
+- Se ha modificado el texto del mapa de misiones para incluir las opciones de partidas públicas/privadas
+- Se ha modificado el texto descriptivo de los filtros para listas de servidores, que ahora tiene las opciones "Mostrar servidores abiertos" y "Mostrar servidores con contraseña"
+- Se ha añadido un recuadro de marcación de servidores privados en el menú ESC
+- Se ha añadido un indicador en la vista del equipo sobre los jugadores que se unen a una partida
+
+Modo Un Jugador
+- Ahora Bosco debería intentar salvarte de las sanguijuelas de una manera mucho más consistente
+- Ahora Bosco debería emplear luces de gran intensidad Encenderá sus focos y podrás ver mucho más que antes :)
+- Ahora Bosco tendrá una reducción del daño por fuego amigo de 0.2 en lugar de 1
+- Ahora Bosco infligirá un 100 % más de daño (duplicado desde un valor base de 3 a 6)
+- Ahora Bosco tiene una mejora de velocidad del 250 % cuando le das una orden para realizar una acción También se ha aumentado su aceleración de 300 a 550
+
+Equilibrado de clase: mejora de elementos del perforador
+- Se ha mejorado la capacidad de combustible del lanzallama desde 160 hasta 270 unidades, y cada tanque tendrá una capacidad de 90 unidades (en vez de 80 unidades). Eso significa que el lanzallamas ahora tendrá combustible para tres recargas completas en lugar de dos, y que en cada recarga también habrá más combustible
+- Se ha aumentado el alcance del lanzallamas de 8.5 a 10 m
+- Perforadoras eléctricas: se ha aumentado el combustible de 30 a 35
+- Se ha aumentado un 10 % la velocidad al caminar mientras usas las perforadoras
+- Se ha mejorado el daño cuerpo a cuerpo en general con perforadoras, duplicando la velocidad de ataque pero reduciendo el daño de cada ataque de 10 a 8 puntos de salud (compensando parcialmente el aumento de la velocidad)
+Pantalla de introducción
+- Se ha añadido una ventana con las notas de la versión (este texto) en la pantalla inicial del juego
+- Ya no aparecerán ni el texto ni el botón del grupo de Steam si ya se han reclamado los premios
+
+Sonido, efectos y animaciones
+- Se ha incluido una nueva animación para la pistola y el revólver cuando no se están usando (también se activará al recargar teniendo el máximo de munición en dichas armas)
+- Se han añadido nuevos sonidos para el escupebolas y la larva
+- Se ha devuelto el color negro al humo del lanzallamas... Antes era blanco, y eso no debería ser así. ¡Ahora vuelve a tener un aspecto increíble!
+
+Cuevas
+- Se han añadido más formas de cuevas al generador aleatorio
+- Se han añadido más variables en las formas de cuevas ya disponibles
+- Se ha incluido un nuevo peligro medioambiental: las pegajosas telarañas ¡No te quedes atrapado en una!
+
+Localización
+- Se ha añadido un menú de selección de idioma en la pantalla principal
+- Se han añadido nuevos idiomas: croata, finlandés, italiano y japonés
+- Todos los idiomas han sido actualizados (todas las nuevas características tendrán un poco de retraso en su traducción, y se mostrarán en inglés)
+- Se han actualizado los creditos con nuestros nuevos traductores de la comunidad
+- Se han añadido algunos caracteres en la localización en polaco
+- Se han corregido varios errores por los que el texto de algunas partes del juego no se actualizaba correctamente al cambiar de idioma  
+
+Otros cambios
+- Se ha corregido un error por el que los accesorios decorativos no siempre se mostraban correctamente en los enanos al verlos en las terminales
+- Ahora la tecla "5" está disponible como tecla de acceso rápido del teclado
+- Se ha corregido un error relacionado con unirse a una partida justo cuando estaba terminando 
+- Ya no se podrá editar el texto de los consejos del juego mientras se carga 
+- Se ha corregido un error por el que la herramienta de mapas no cargaba correctamente al modificarse el terreno
 "
 	Update_30 = "¡Saludos, mineros!
 ¡Nos complace enormemente poderos presentar al fin Deep Rock Galactic 1.0!  
@@ -1793,8 +1881,8 @@ Cambios a los Mods
 - NOTA: cualquier jugador que tuviera alguno de los Mods eliminados recibirá los minerales y los créditos que haya gastado para adquirirlos
 
 Cambios a los pirateos
-- "Hombre sin puntería" se ha convertido en un pirateo inestable, y ha sido renombrado como "Muerte giratoria"\ El pirateo ahora hará que el rayo rote mientras se mueve lentamente hacia adelante, infligiendo mucho daño continuo en el tiempo en el área por la que pasa
-- "Control de giro" ya no hará rotar al rayo si solo pulsas el gatillo, solo lo hará si lo mantienes pulsado\ Al soltar el gatillo después de que el proyectil comience a girar hará que vuelva a dejar de hacerlo
+- "Hombre sin puntería" se ha convertido en un pirateo inestable, y ha sido renombrado como "Muerte giratoria"\\ El pirateo ahora hará que el rayo rote mientras se mueve lentamente hacia adelante, infligiendo mucho daño continuo en el tiempo en el área por la que pasa
+- "Control de giro" ya no hará rotar al rayo si solo pulsas el gatillo, solo lo hará si lo mantienes pulsado\\ Al soltar el gatillo después de que el proyectil comience a girar hará que vuelva a dejar de hacerlo
 - "Devolver al remitente" ya no tiene una penalización al daño
 - "Infierno" ahora hará que la mayoría de los enemigos ardan con una sola pasada, y ya no reducirá tu cadencia de tiro.
 - "Enlace de alto voltaje" se ha convertido en un pirateo equilibrado, y ya no tiene una penalización al daño
@@ -1827,7 +1915,7 @@ OTROS CAMBIOS
 - Se ha renombrado la "pistola de tirolina" como "Lanzatirolinas"
 - Las cápsulas de suministros ahora necesitan haber descendido una cierta distancia para poder infligir daño al aterrizar
 - Se han mejorado varias animaciones al correr
-- Se han mejorado los logros por asenso, activándose de forma retroactiva cuando aparezcas en la Plataforma Espacial con un enano ascendido\ ¡Ya no tendrás que ascender de nuevo!
+- Se han mejorado los logros por asenso, activándose de forma retroactiva cuando aparezcas en la Plataforma Espacial con un enano ascendido\\ ¡Ya no tendrás que ascender de nuevo!
 - Se ha mejorado el sonido al usar la aptitud "Carga"
 - Se ha mejorado la lógica aplicada a la aptitud "Nacido para matar" al activarse como jugador invitado
 - Se ha mejorado la lógica de aparición de los Eventos de Máquina para prevenir que los cargadores de núcleos desaparezcan
@@ -1854,7 +1942,7 @@ OTROS CAMBIOS
 - Se ha corregido un error al usar los Mods "Puntas de taladro endurecidas" y "Motor sobrecargado" a la vez en las perforadoras eléctricas reforzadas
 - Se ha corregido un error que hacía que el contenedor del lanzallamas CRSPR cambiara de color al recargar mientras usas ciertas variantes del arma
 - Se ha corregido un error que provocaba que los géiseres de aire indujeran un movimiento tembloroso en los jugadores invitados al ser empujados por ellos
-- Se ha corregido un error que hacía que Bosco atacara sin sentido a la cápsula de transporte si la marcabas con el puntero láser\ A Bosco le falta un tornillo...
+- Se ha corregido un error que hacía que Bosco atacara sin sentido a la cápsula de transporte si la marcabas con el puntero láser\\ A Bosco le falta un tornillo...
 - Se ha corregido un error que hacía que los enjambres mactera mantenían su pose de ataque cuando huían de una zona
 "
 	Update_32 = "¡Saludos, obreros!
@@ -2431,7 +2519,7 @@ DEEPCORE GK2
 - Se ha arreglado el Mod "Enfriamiento de batalla" para funcionar correctamente (ya no reducirá la dispersión por cada disparo sin reiniciar la precisión)
 - Se ha modificado el nivel del Mod "Eyector de fuego rápido" al nivel 1, subiendo su precio para compensar sus recargas aún más rápidas
 - Se ha añadido un nuevo Mod de daño de nivel 3 para remplazar al "Eyector de fuego rápido"
-- Se ha bajado el precio del Mod de nivel 2 "Rondas de gran calibre"\ 
+- Se ha bajado el precio del Mod de nivel 2 "Rondas de gran calibre"\\ 
 - Se ha bajado el precio de los dos Mods de "Bolsas de munición expandidas"
 - Se ha aumentado la munición básica
 - Se ha aumentado el efecto del Mod "Compensador de retroceso", y ahora afectará tanto al retroceso del arma como a la dispersión por disparo
@@ -2715,7 +2803,7 @@ DEEPCORE GK2
 - Se ha arreglado el Mod "Enfriamiento de batalla" para funcionar correctamente (ya no reducirá la dispersión por cada disparo sin reiniciar la precisión)
 - Se ha modificado el nivel del Mod "Eyector de fuego rápido" al nivel 1, subiendo su precio para compensar sus recargas aún más rápidas
 - Se ha añadido un nuevo Mod de daño de nivel 3 para remplazar al "Eyector de fuego rápido"
-- Se ha bajado el precio del Mod de nivel 2 "Rondas de gran calibre"\ 
+- Se ha bajado el precio del Mod de nivel 2 "Rondas de gran calibre"\\ 
 - Se ha bajado el precio de los dos Mods de "Bolsas de munición expandidas"
 - Se ha aumentado la munición básica
 - Se ha aumentado el efecto del Mod "Compensador de retroceso", y ahora afectará tanto al retroceso del arma como a la dispersión por disparo
@@ -3163,6 +3251,7 @@ MISC.
 	Update_18_ShortTitle = "OFERTAS DE EMPLEO"
 	Update_27_ShortTitle = "PEQUEÑAS GRANDES COSAS"
 	Update_13_ShortTitle = "CAMBIOS MENORES DE SALUD"
+	Update_34_Shorttitle = "MODESTAS EXPECTATIVAS"
 	Update_15_ShortTitle = "¡ALERTA POR MUTACIÓN!"
 	Update_33_Shorttitle = "NUEVAS FRONTERAS"
 	Update_17_ShortTitle = "¡OKTOBERFEST!"
@@ -3228,16 +3317,16 @@ Regístrate en la Unión de Mineros, ¡y únete a nuestra fantástica comunidad 
 
 MISIONES Y ASIGNACIONES
 -----------------------------------
-- [PETICIÓN DE LA COMUNIDAD] El mapa de misión ahora muestra Iconos de Asignación para cada miembro del equipo, haciendo más fácil elegir a qué misiones dirigirse.\ 
-- [PETICIÓN DE LA COMUNIDAD] Para desbloquear los encargos de riesgo de nivel 5, ahora se requiere haber completado previamente las misiones asociadas a nivel 4 de riesgo.\ 
-- [PETICIÓN DE LA COMUNIDAD] Los enanos que abandonen una partida dejarán caer una bolsa que contendrá los materiales que tenían en su inventario al salir.\ 
+- [PETICIÓN DE LA COMUNIDAD] El mapa de misión ahora muestra Iconos de Asignación para cada miembro del equipo, haciendo más fácil elegir a qué misiones dirigirse.\\ 
+- [PETICIÓN DE LA COMUNIDAD] Para desbloquear los encargos de riesgo de nivel 5, ahora se requiere haber completado previamente las misiones asociadas a nivel 4 de riesgo.\\ 
+- [PETICIÓN DE LA COMUNIDAD] Los enanos que abandonen una partida dejarán caer una bolsa que contendrá los materiales que tenían en su inventario al salir.\\ 
 - [PETICIÓN DE LA COMUNIDAD] Se ha añadido una opción para descartar a Bosco en las misiones en solitario en la terminal de Modificación del Dron.
 
 
 IU Y CONTROLES
 -----------------------------------
-- Se ha revisado el HUD de temperatura personal.\ 
-- [PETICIÓN DE LA COMUNIDAD] Se ha añadido una opción para desactivar el suavizado del ratón.\ 
+- Se ha revisado el HUD de temperatura personal.\\ 
+- [PETICIÓN DE LA COMUNIDAD] Se ha añadido una opción para desactivar el suavizado del ratón.\\ 
 - Se ha mejorado la visibilidad de las estadísticas del equipo en la terminal de Equipo.
 
 
@@ -3248,9 +3337,9 @@ ATAQUE PODEROSO CON PICO
 
 MODELOS Y AUDIO
 -----------------------------------
-- Nuevo modelo de torreta pesada para ingenieros\ 
-- Nuevos modelos de torreta para la Perforadora\ 
-- Nuevos modelos de focos para la Perforadora\ 
+- Nuevo modelo de torreta pesada para ingenieros\\ 
+- Nuevos modelos de torreta para la Perforadora\\ 
+- Nuevos modelos de focos para la Perforadora\\ 
 - Varios modelos nuevos para enemigos y sonidos de armas
 - Nuevo modelo de Hoxxes visto desde la Plataforma Espacial
 
@@ -3260,49 +3349,49 @@ CAMBIOS EN EL EQUIPO
 PICO
 - Se ha corregido un error con el que se explotaba en exceso el uso de la Q para extraer minerales 
 
-CAÑÓN AUTOMÁTICO PESADO “THUNDERHEAD"\ 
-- Se ha corregido un error por el que la cadencia de tiro del cañon automático no se reiniciaba\ 
+CAÑÓN AUTOMÁTICO PESADO “THUNDERHEAD"\\ 
+- Se ha corregido un error por el que la cadencia de tiro del cañon automático no se reiniciaba\\ 
 - Se ha corregido un error del mod "Montaje de barril más ligero" para el cañón automático
  - Se ha modificado la cadencia de fuego del cañón automático para que aumente de una manera más lineal
 - Se ha eliminado el Mod “Aturdir” 
 
-Ametralladora multicañón “LEAD STORM”\ 
-- Se ha disminuido la efectividad del Mod "Aturdir"\ 
-- Se ha disminuido la duración del aturdimiento\ 
+Ametralladora multicañón “LEAD STORM”\\ 
+- Se ha disminuido la efectividad del Mod "Aturdir"\\ 
+- Se ha disminuido la duración del aturdimiento\\ 
 - Se ha corregido el Mod "Ventilación agresiva" para su correcto funcionamiento como cliente
 
-DEEPCORE GK2 \ 
-- Se ha renombrado el efecto (no afecta a la versión en Español)\ 
-- Las estadísticas de equipo ahora muestran la funcionalidad del aturdimiento del arma al golpear un punto débil de manera correcta\ 
+DEEPCORE GK2 \\ 
+- Se ha renombrado el efecto (no afecta a la versión en Español)\\ 
+- Las estadísticas de equipo ahora muestran la funcionalidad del aturdimiento del arma al golpear un punto débil de manera correcta\\ 
 
-CARGADOR DE PLASMA EXPERIMENTAL\ 
-- Se ha renombrado el Mod "Rebote de balas normales" a "Plasma rebotante"\ 
+CARGADOR DE PLASMA EXPERIMENTAL\\ 
+- Se ha renombrado el Mod "Rebote de balas normales" a "Plasma rebotante"\\ 
 - Se ha renombrado el Mod "Explosiones de proyectil cargado" a "Campo de contención inestable"
-- Se ha aumentado el radio y el daño de la implosión del Mod "Campo de contención inestable"\ 
+- Se ha aumentado el radio y el daño de la implosión del Mod "Campo de contención inestable"\\ 
 - Se ha arreglado un error por el que algunos disparos del CPE infligían daño "genérico"
 
-REVÓLVER PESADO “BULLDOG”\ 
-- Se ha eliminado el Mod "Aturdir" (los jugadores que lo hayan adquirido recibirán un reembolso)\ 
-- Se ha añadido la probabilidad de aturdir como propiedad pasiva del arma\ 
+REVÓLVER PESADO “BULLDOG”\\ 
+- Se ha eliminado el Mod "Aturdir" (los jugadores que lo hayan adquirido recibirán un reembolso)\\ 
+- Se ha añadido la probabilidad de aturdir como propiedad pasiva del arma\\ 
 
-\ ESCOPETA RECORTADA\ 
-- Se ha aumentado la probabilidad de activar el Mod "Aturdir"\ 
-- Se ha aumentado el multiplicador de daño a armadura del Mod "Perdigones de tungsteno"\ 
-- Se ha mejorado (esperamos) la descripción de "Onda de choque"\ 
+\\ ESCOPETA RECORTADA\\ 
+- Se ha aumentado la probabilidad de activar el Mod "Aturdir"\\ 
+- Se ha aumentado el multiplicador de daño a armadura del Mod "Perdigones de tungsteno"\\ 
+- Se ha mejorado (esperamos) la descripción de "Onda de choque"\\ 
 - Se ha cambiado el Mod "Atravesador" a "Superatravesador" (puede penetrar a múltiples objetivos)
-- Se ha corregido el Mod "Onda de choque" para un funcionamiento más consistente\ 
+- Se ha corregido el Mod "Onda de choque" para un funcionamiento más consistente\\ 
 
 ZHUKOV NUK17
-- Se ha eliminado el Mod "Aturdir" (los jugadores que lo hayan adquirido recibirán un reembolso)\ 
-- Se han reorganizado algunos de los Mods disponibles para equilibrar los posibles conjuntos de modificaciones disponibles\ 
-- Se ha aumentado la penalización de precisión al moverte\ 
-- Se ha aumentado la velocidad a la que se recupera precisión\ 
-- Se ha disminuido la dispersión de precisión al disparar\ 
+- Se ha eliminado el Mod "Aturdir" (los jugadores que lo hayan adquirido recibirán un reembolso)\\ 
+- Se han reorganizado algunos de los Mods disponibles para equilibrar los posibles conjuntos de modificaciones disponibles\\ 
+- Se ha aumentado la penalización de precisión al moverte\\ 
+- Se ha aumentado la velocidad a la que se recupera precisión\\ 
+- Se ha disminuido la dispersión de precisión al disparar\\ 
 - Se ha mejorado el Mod "Bolsas de munición expandidas” de nivel 4, aumentando la cantidad de +100 a +150 de munición
 
-M1000 CLÁSICA\ 
-- Se ha añadido un tutorial para el disparo preciso\ 
-- Se ha corregido el Mod "Aturdir" para que funcione correctamente\ 
+M1000 CLÁSICA\\ 
+- Se ha añadido un tutorial para el disparo preciso\\ 
+- Se ha corregido el Mod "Aturdir" para que funcione correctamente\\ 
 
 CORTABRECHAS
 - Se ha corregido el funcionamiento del Cortabrechas, evitando que el jugador reciba daño si se dispara hacia abajo
@@ -3310,17 +3399,17 @@ CORTABRECHAS
 
 CAMBIOS GENERALES
 -----------------------------------
-- El panal deeptora ya no es inmune al fuego\ 
-- El gas ácido del pretor glífido ya puede incendiarse de nuevo con fuego \ 
-- Se ha arreglado un error por el que algunas asignaciones de armas para la misión no se contabilizaban correctamente\ 
-- Se ha arreglado un error por el que algunos colisionadores invisibles aparecían en niveles como "material desconocido"\ 
-- Las páginas de los créditos ahora cambiarán de forma correcta\ 
-- Se ha corregido un error por el que aparecía un generador de escudo o una carga de morral flotantes en el punto de aparición\ 
-- Se han corregido algunos errores al saludar mientras recargas\ 
-- Se ha corregido un error por el que ciertas armaduras hacían invisibles los brazos de los jugadores al comienzo de una misión\ 
-- Se ha corregido un error por el que la barra de carga de resurrección no se mantiene en pantalla si otro jugador comienza y luego cancela el proceso de resurrección\ 
-- [Interactividad con MIXER] “Reabastecer Munición” ahora funciona correctamente\ 
-- Se ha disminuido el número de penetraciones del Mod "Superatravesador" de 10 penetraciones a 3 penetraciones para todas las armas que lo tengan equipado\ 
+- El panal deeptora ya no es inmune al fuego\\ 
+- El gas ácido del pretor glífido ya puede incendiarse de nuevo con fuego \\ 
+- Se ha arreglado un error por el que algunas asignaciones de armas para la misión no se contabilizaban correctamente\\ 
+- Se ha arreglado un error por el que algunos colisionadores invisibles aparecían en niveles como "material desconocido"\\ 
+- Las páginas de los créditos ahora cambiarán de forma correcta\\ 
+- Se ha corregido un error por el que aparecía un generador de escudo o una carga de morral flotantes en el punto de aparición\\ 
+- Se han corregido algunos errores al saludar mientras recargas\\ 
+- Se ha corregido un error por el que ciertas armaduras hacían invisibles los brazos de los jugadores al comienzo de una misión\\ 
+- Se ha corregido un error por el que la barra de carga de resurrección no se mantiene en pantalla si otro jugador comienza y luego cancela el proceso de resurrección\\ 
+- [Interactividad con MIXER] “Reabastecer Munición” ahora funciona correctamente\\ 
+- Se ha disminuido el número de penetraciones del Mod "Superatravesador" de 10 penetraciones a 3 penetraciones para todas las armas que lo tengan equipado\\ 
 - Se ha añadido un mecanismo de seguridad para generadores de escudo que no se desplieguen con éxito
 "
 	Update_24 = "¡Tomad asientos, queridos mineros! 
@@ -3749,6 +3838,7 @@ OTROS CAMBIOS
 
 
 "
+	Update_34_Header = "VERSIÓN 34: MODESTAS EXPECTATIVAS"
 	Update_9_Header = "VERSIÓN 9: ¡NOS CA-VEMOS MÁS TARDE! - 09.03.2018"
 	Update_31_Shorttitle = "AÚN QUEDABA POR HACER"
 	Update_16_ShortTitle = "EL INVIERNO HA LLEGADO"

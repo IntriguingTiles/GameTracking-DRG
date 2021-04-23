@@ -194,7 +194,7 @@ GENERAL
 "
 	Update_20.1_ShortTitle = "BOSCO MÁS GRANDE Y MEJOR"
 	Update_20_ShortTitle = "BOSCO MÁS GRANDE Y MEJOR"
-	Update_11_ShortTitle = "MUERTO Y ARMA"
+	Update_11_ShortTitle = "MUERTOS Y ARMAS"
 	Update_9_ShortTitle = "¡HASTA LADRISTA!"
 	Update_25_ShortTitle = "FIN DEL JUEGO - Primera Parte"
 	Update_26_ShortTitle = "FIN DEL JUEGO - Segunda Parte"
@@ -2980,62 +2980,62 @@ LISTA DE CAMBIOS
 - 13495 Escaladas las partículas del lanzallamas
 - 13503 Corregidos los medidores de profundidad para los biomas
 "
-	Update_10 = "Hola mineros, 
+	Update_10 = "Hola, mineros: 
 
-Tenemos otra actualización con algunas correcciones importantes y un poco de contenido nuevo. Junto con estas actualizaciones más pequeñas, ahora estamos iniciando un mayor desarrollo de contenido y funciones. Más sobre esto más adelante, cuando revelemos una hoja de ruta más grande de lo que vendrá.
+Os traemos otra versión que contiene tanto correcciones importantes como algo de nuevo contenido. En paralelo a estas pequeñas actualizaciones, estamos comenzando a desarrollar contenidos y características de mayor importancia. Tendréis más detalles acerca de esto en posteriores versiones, cuando empecemos a revelar más detalles de nuestro plan de desarrollo. 
 
---- NOTAS DEL PARCHE ---
+--- NOTAS DE LA VERSIÓN ---
 
-CORRECCIONES SOLICITADAS POR LA COMUNIDAD
-- Se corrigieron varios problemas con la sensibilidad del mouse. La sensibilidad no era la misma en la Plataforma Espacial y en una Misión, ahora son lo mismo. La sensibilidad tenía diferentes valores para horizontal y vertical, ahora se pueden configurar en la opciones.
-- Opción de búsqueda por Región de Steam.
-- Desconectar el controlador ya no desactiva el mouse y el teclado
-- Corrección de prueba para el monitor primario (¡algo sin probar!)
-- Solucionado el problema de la vida infinita del gancho de agarre
+ARREGLOS POR PETICIÓN DE LA COMUNIDAD
+- Se han corregido varios errores relacionados con la sensibilidad del ratón. La sensibilidad del ratón no parecía ser la misma en la Plataforma Espacial y durante una misión, y ahora se han ajustado para que sean iguales. La sensibilidad tiene diferentes valores para el movimiento horizontal y vertical, y ahora pueden ajustarse ambos valores en las opciones.
+- Se ha creado una opción de búsqueda de región de Steam. 
+- Ya no se inhabilitarán el ratón y el teclado a desconectar un mando.
+- Se han realizado pruebas de corrección del monitor primario (¡las primeras pruebas, en cierto modo!)
+- Se ha corregido un error por el que el enganche otorgaba salud infinita al jugador.
 
-CONTENIDO DE LAS CUEVAS
-- Primera implementación de diferentes túneles para cada región planetaria
-- Añadido picos cristalinos que pueden caer desde el techo en Pozos de Sal
-- Cosa pegajosa añadida en Ciénaga Hongosa
+CONTENIDO DE CUEVAS
+- Primera implementación de diferentes variaciones de túneles para cada región planetaria.
+- Se han añadido estalactitas de cristal colgantes que pueden caer desde el techo en los Pozos de Sal.
+- Se ha añadido Baba Pegajosa a las Ciénagas Fúngicas.
 
-Mapa de Misiones
-- Nuevos iconos para la complejidad y Longitud. Ahora debería ser más evidente que la complejidad es un aumento de dificultad seria.
-- iconos de Complejidad ahora se muestran arriba del icono de Misión
-- pago por Misión se muestra directamente debajo de los iconos de la misión
+MAPA DE MISIÓN
+- Se han añadido nuevos iconos para Complejidad y Longitud. Ahora debería ser más evidente que la complejidad es un aumento significativo de la dificultad.
+- Los iconos de Complejidad ahora se mostrarán sobre los iconos de mision.
+- Ahora se mostrará el pago por completar una misión justo bajo el icono de Misión.
 
-ViewModels DE ARMAS
-- Cambiado el FOV del viewmodel de 100 al 90
-- vista en primera persona de las armas ahora son menos flexibles
-- Reducidos varios problemas de clipping
+MODELOS VISUALES DE ARMAS
+- Se ha modificado el campo de visión de los modelos visuales de 100 a 90.
+- Ahora, las armas estarán menos estiradas en la visión en primera persona.
+- Se han reducido varios problemas generales de vídeo.
 
-AJUSTES DEL EXPLORADOR
-- escopeta recortada dispara 15 perdigores causando 6 de daño cada uno - aumentado a 10 de daño cada una
-- escopeta recortada munición máxima era 30 balas - disminuyó a 16
-- escopeta recortada Mejora de munición máxima - disminuyó de +10 a +8
+CAMBIOS AL EXPLORADOR
+- Escopeta recortada: se ha aumentado el daño de los 15 perdigones de 6 de daño por unidad a 10 de daño por unidad.
+- Escopeta recortada: se ha reducido la munición máxima de 30 a 16 balas.
+- Escopeta recortada: se ha disminuido la mejora de munición del Mod "Munición Máxima" de +10 a +8.
 
 ANIMACIÓN, SONIDOS Y EFECTOS
-- Animaciones de recarga de la pistola del perforador
-- La pistola del perforador y la escopeta del explorador ahora se consideran recargadas cuando se ajusta a la animación, no cuando la animación termina. Esto se implementará en otras armas cuando obtengan sus propias recargas. (Falta la actualización de sonido)
-- Se corrigieron las animaciones de fondo de la consola en los clientes
-- Efectos gráficos del Puntero láser actualizados
-- Fondo eliminado de las ventanas emergentes de interaccion
-- Efectos gráficos e Superposición de daños actualizados
+- Se han introducido animaciones de recarga para la pistola del Perforador.
+- La pistola del Perforador y la escopeta del Explorador ahora se considerarán recargadas cuando la animación comienza, y no cuando termina. Este cambio se implementará en otras armas cuando reciban sus propias animaciones de recarga. (falta una actualización de sonido aquí)
+- Se ha corregido un error con las animaciónes de la consola de fondo en los clientes.
+- Se han actualizado los gráficos del Puntero Láser.
+- Se ha eliminado el fondo de las ventanas emergentes de interacción.
+- Se ha actualizado los gráficos de superposición.
 
 LOCALIZACIÓN
-- Se agregó más espacio entre las líneas de texto en los terminales (para idiomas acentuados)
-- Se actualizaron todos los idiomas desde Crowdin
+- Se ha añadido más espacio entre líneas de texto en las terminales (para idiomas acentuados)
+- Se han incluido todos los idiomas desde Crowdin
 
-ARREGLOS MENORES
-- La lista de servidores por defecto no mostraba servidores con contraseña
-- Asteroides ya no tienen sombrado suave en la pantalla de carga!
-- El stick derecho del Controlador ahora se usa como rueda de desplazamiento del mouse
-- Eliminada la prueba de Steam Friend cuando se invita a amigos. Las sesiones privadas deberían manejarlo mejor ahora y estaba impidiendo que los clientes invitaran a amigos que no eran amigos del servidor.
-- Se solucionó que Molly no era Dorada en el Pabellón Conmemorativo cuando estaba desbloqueada
-- Molly y las arañas grandes ahora prefieran caminar por el piso
-- Arreglados crasheos relacionados con armas
-- Los enemigos ya no serán "aturdidos" por el daño físico (cuerpo a cuerpo)
-- Se corrigió la munición y el tamaño del Clip actualizadas no se aplicaba cuando ingresabas a la misión
-- Se cambió la escala de elementos en primera persona para que atraviesen menos con otros objetos."
+CORRECCIONES MENORES
+- Los servidores por defecto ahora serán servidores sin contraseña.
+- ¡¡¡Los asteroides ya no tienen sombras suaves en la pantalla de carga!!!
+- El joystick derecho del mando ahora tendrá las funciones de la rueda del ratón.
+- Se ha eliminado la comprobación de Amigo de Steam al invitar a un amigo. Las sesiones privadas ahora deberían funcionar mejor, dado que este problema impedía que los anfitriones pudieran invitar a amigos que no lo fueran de tu servidor.
+- Se ha corregido un error por el que Molly no tenía una apariencia dorado al desbloquear su figura en el Salón Conmemorativo.
+- Se ha establecido por defecto que Molly y las arañas grandes prefieran caminar por el suelo.
+- Se han corregido errores fatales con las armas.
+- Los enemigos ya no se "tambalean" al sufrir daño físico (armas cuerpo a cuerpo).
+- Se ha corregido un error por el que la mejora de munición y de tamaño de cargador no se aplicaba correctamente al aparecer por primera vez en una misión.
+- Se ha modificado la escala de los objetos en primera persona, para evitar que corten visualmente a otros objetos."
 	Update_21.5 = "¡Es tiempo de fiesta, mineros!
 
 Lo creas o no, Deep Rock Galactic ha estado en vivo por UN TODO EL AÑO. Nos lanzamos al EARLY ACCESS el 28 de febrero de 2018, ¡y eso significa que es tiempo de celebración con esta mini actualización! Desarrollar el juego y expandirlo con nuevas características y contenido ha sido (y sigue siendo) un éxito absoluto, y estamos muy agradecidos por todos los comentarios y reseñas que hemos recibido de ustedes. Gracias a todos por ayudarnos a convertir Deep Rock Galactic en lo que creemos que es un juego IMPRESIONANTE, y por ser parte de esta maravillosa comunidad. ¡Tres felicitaciones para ustedes, para el futuro, y para ¡ROCA Y PIEDRA!
@@ -3499,7 +3499,7 @@ CAMBIOS GENERALES
 - Se ha añadido un mecanismo de seguridad para Generadores de Escudo que no se desplieguen con éxito
 "
 	Update_10_Header = "ACTUALIZACIÓN 10: ¿VISIÓN DE TÚNEL? - 16.03.2018"
-	Update_11_Header = "PARCHE 11: MUERTOS Y ARMAS - 23.03.2018"
+	Update_11_Header = "ACTUALIZACIÓN 11: MUERTOS Y ARMAS - 23.03.2018"
 	Update_12_Header = "ACTUALIZACIÓN 12: MOSCAS Y FINANZAS - 13.04.2018"
 	Update_13_Header = "ACTUALIZACIÓN 13: CAMBIOS DE VIDA MENORES - 04.05.2018"
 	Update_14_Header = "ACTUALIZACIÓN 14: FEATURE CREEP - 15.06.2018"

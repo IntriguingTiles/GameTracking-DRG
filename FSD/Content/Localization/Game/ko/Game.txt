@@ -1,8 +1,8 @@
-11513 entries
+11518 entries
 41 namespaces
-9283 values
+9286 values
 
-Namespace Global (10669 keys)
+Namespace Global (10674 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 보통 문제의 원인은 다음과 같습니다:
 - 인터넷이 연결 되어있지 않음
@@ -3523,6 +3523,7 @@ The Ghost Ship Crew"
 	511E140F47B8A5AA2A583FBDD20C1CEC = "힘"
 	636EFE984E2CB29D61E735A17D86BFD0 = "포스 피드백 강도"
 	A0D4C48D4EF61866DE19CBAE92D05C44 = "대장간"
+	CE752FF34FA5D5E3EA3965BED3535512 = "대장간"
 	AE4C6D354B238677CBF9CCBB74160BCA = "제작 이력"
 	DDAAA63B4533237EA7A8FFACB86CCD67 = "제작 이력"
 	5043F1E946293073A4D9699570F1620B = "대장간 인벤토리"
@@ -5445,7 +5446,7 @@ The Ghost Ship Crew"
 	096842574E1221BB85F3DCA16199F287 = "트라이 죠를 죽여! "
 	02BF54C446227A454D99E7BC8ECF3077 = "저 거대한 괴물자식을 죽여!"
 	6A7628344BB46746C9206D81DA193E3B = "저 벌레들을 죽여, 놈들은 컬사이트에 감염됐다구!"
-	2309BA7643B4708D81CCD882EBD672F4 = "{count} 사살 {count}|plural(one=드레드노트, other=드레드노트들)"
+	2309BA7643B4708D81CCD882EBD672F4 = "{count}|plural(one=드레드노트, other=드레드노트들) {count} 사살"
 	6ABE2E944F1D58DE0D952D95F6B5A114 = "{value} 만큼 케이브 리치를 죽이세요."
 	526E12D643563C61D9A1CA97FF7CACB4 = "{value} 마리의 드레드노트를 죽이기"
 	4CB149DA4DA9156275D738AB089FC2CD = "{value} 만큼 스핏볼 인펙터들을 죽이기"
@@ -6243,6 +6244,7 @@ The Ghost Ship Crew"
 	009AEC2C4D9A417BE69EF4B6376CBCC6 = "임무가 선택됐네 - 드랍 포드를 작동시키는 중이야 - 어서 탑승하게 대원들!"
 	06527C344A30B6777AC76591AC9D50CA = "임무 통계"
 	0F5DEE5E4760C31F00CA03B68EBA6C1C = "임무 시간"
+	CE77FA7549868BC550FF91B441D97305 = "호스트가 임무를 포기했습니다."
 	87ED4E2C4334C3C6D6D835BE1FEFF8C0 = "임무 성공. 감독관이 보너스에 대해 언급하더군."
 	6817C0064C5566961361409692CF4F60 = "임무 완료. 고생 많았다."
 	B4253B1E4AB8F953BCD51188009553B7 = "임무 선택 완료. 드랍 포드를 가동한다."
@@ -7030,6 +7032,7 @@ FSD\Content\Paks 폴더 내에 .pak 파일을 넣어 모드를 설치할 수 있
 	51103C5E498EC1B4E349FCBD1EB3C155 = "꽉꽉 채운 탄창"
 	03FB810E415F3D16E21BAAB92DA3D913 = "개요"
 	507C950C4D978998BFA816A9A3FB9A51 = "개요"
+	39372B544339618DCC3FD89FF759E7A2 = "세이브 게임 덮어쓰기"
 	6C69138C45730D78DA5A498632991650 = "소유함"
 	E838BD654C868287C12A8B9D4D7F3F14 = "가지다"
 	2F56D18E4A2834B531934E87753A4735 = "아오...우리 엄청나게 까였구만!"
@@ -7102,6 +7105,7 @@ FSD\Content\Paks 폴더 내에 .pak 파일을 넣어 모드를 설치할 수 있
 	6718F1AA4B5E715ADEE99F8D63C78C48 = "승진 가능"
 	1BB8B0D24D9F9640EEDC2FBE8AE382B6 = "승진이 기다립니다"
 	625637E14AE36161309A579AF48094B0 = "승진 비용"
+	3686BE9D4C98397B672D2B9D1E3C0647 = "승진"
 	3C2211C04C11826513D1028765628866 = "승진"
 	9D0495E743DE52B3F57657B90B4B5D58 = "터지기 쉬움"
 	0743DAE24CA986BE792E58B3FF6F12EA = "근접 지뢰"
@@ -8072,8 +8076,8 @@ FSD\Content\Paks 폴더 내에 .pak 파일을 넣어 모드를 설치할 수 있
 	CFB937D94DCAB4987425E082C829DF83 = "구조 작전"
 	F26F2303481D4CC67332B88403F32E8F = "구조 작전"
 	557B55E74F310E9E3CE1B99447B57EC1 = "구조 작전 완료"
-	EC069740491D88E1DCC0E1880E7D5FE3 = "{count} 구조 {count}|plural(one=M.U.L.E., other=M.U.L.E.들)"
-	9C510E7440C7469E4424B1BF359DAFD1 = "구조됨 {count} |plural(one=MULE., other=MULE들)"
+	EC069740491D88E1DCC0E1880E7D5FE3 = "{count}|plural(one=M.U.L.E., other=M.U.L.E.들) {count} 구조"
+	9C510E7440C7469E4424B1BF359DAFD1 = "{count}|plural(one=MULE., other=MULE들) 구조"
 	EDD1CF2745DED66530ADB79850A2EEBD = "회수 가능"
 	E33A92404A739D001A62419E7B8B5680 = "같은 힘이지만 조금 더 작아진 패키지로 인해 정확도를 높이고 각 탄창에 딱 맞게 몇 개의 탄알을 더 챙길 수 있습니다."
 	F24F2FA14CB352F109278BBFFF252C24 = "성역"
@@ -10046,6 +10050,7 @@ DEEP ROCK GALACTIC의 얼리 엑세스 개발을 지원해주셔서 진심으로
 	54553A8343E5651BA1A4AFAD66280D0D = "경고: 확실합니까? 이 과제의 모든 진행 사항을 잃어버릴 것입니다!"
 	C62786DF490AA8453D46389CAE1F9C6D = "경고: 확실합니까? 이 과제의 모든 진행 사항을 잃어버릴 것입니다!"
 	D3BA60F0447CFD5B4BC46F95AB72686C = "주의: 우주 정거장에서 재 시작 합니다."
+	F0DE8CC24899CD20B47F32B88633A42A = "경고: 이미 다음과 같은 이름을 가진 세이브 슬롯이 있습니다: {savename}. 예 를 누르면, 그 세이브 슬롯을 덮어씌게 됩니다. 이 행동은 되돌릴 수 없습니다."
 	01F74C6149AD72D906058FA35A669FA8 = "경고: 당신은 계정 선택창에 접근하려고 하고 있습니다. 활성화된 계정을 변경하게 되면 당신의 저장된 게임과 데이터가 손실될 수 있습니다. 정말로 진행 하시겠습니까?"
 	45BC46004B66AA4029A6CA9825BE7209 = "주의보"
 	9D72481740FE1CF7A28B738EFABE182F = "전사의"
@@ -11739,7 +11744,7 @@ Namespace UI (121 keys)
 	RewardFlavourText_ChasmBorneCliffhanger = "카즘-본 클리프행어 - 곡괭이만한 생존 도구는 없죠. 텅스텐 끝 날이 외계 생물체 두개골같이 바위를 쉽게 파냅니다."
 	Close = "닫기"
 	CollectAlienEggs = "외계 생물 알 수집하기"
-	CollectAlienEggsAmount = "{amount} 수집하기 {amount}|plural(one=외계 생물 알, other=외계 생물 알들)"
+	CollectAlienEggsAmount = "{amount}|plural(one=외계 생물 알, other=외계 생물 알들) {amount} 수집하기"
 	Complexity = "복잡성"
 	Prestige_Assignment_Limited_Access_ScaleBrigade = "축하합니다, 광부 여러분!
 딥 락 갤럭틱은 궤도에서의 3주년을 기념하기 위해, 경영진은 일정 기간동안 비늘 여단 방어구 세트를 - 플레이어 랭크가 100이 아니더라도 얻을 수 있는 기회를 승인코자 합니다. 

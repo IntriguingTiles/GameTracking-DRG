@@ -1,8 +1,8 @@
-83 entries
+85 entries
 1 namespaces
-80 values
+82 values
 
-Namespace PatchNotes (83 keys)
+Namespace PatchNotes (85 keys)
 	Update_30_Header = "SORTIE DE LA 1.0"
 	Update_30_ShortTitle = "SORTIE DE LA 1.0"
 	Update_23 = "Très bien, mineurs - rassemblez-vous et fermez-la!
@@ -435,7 +435,7 @@ L'équipe de Ghost Ship
 
 BANDE ORIGINALE VOL. II
 ----------------------------
-Durant l'année dernière nous avons travaillé sur un second volume de la bande originale de DRG - et elle est finalement là - vous permettant de miner, combattre et groover sur 14 pistes entièrement nouvelles pleines de super synthé' et de basses ! Deep Rock Galactic a besoin d'investir dans de plus grosses enceintes... MAINTENANT !\  
+Durant l'année dernière nous avons travaillé sur un second volume de la bande originale de DRG - et elle est finalement là - vous permettant de miner, combattre et groover sur 14 pistes entièrement nouvelles pleines de super synthé' et de basses ! Deep Rock Galactic a besoin d'investir dans de plus grosses enceintes... MAINTENANT !\\  
 
 
 NOUVEAUX RANGS DE PROMOTION
@@ -1447,8 +1447,8 @@ CORRECTIONS ET AMÉLIORATIONS
 - Les modifications des paramètres de langue sont maintenant correctement enregistrées.
 "
 	Update_14 = "Salutations mineurs ! Ce coup-ci nous vous avons mijoté une mise à jour plutôt massive, juste à temps pour les vacances d'été. Et en parlant de vacances d'été - DRG vient d'annuler les vôtres ! De nouvelles missions et monstres attendent et vous avez une tonne de jalons à découvrir ! Alors au travail !
-\ 
-NOUVELLES FONCTIONNALITÉS PRINCIPALES\ 
+\\ 
+NOUVELLES FONCTIONNALITÉS PRINCIPALES\\ 
 ------------------------------------
 NOUVEAU TYPE DE MISSION : OPÉRATION DE RÉCUPÉRATION
 Il est de votre devoir de descendre et de nettoyer après une expédition minière ratée. Vous devrez récupérer trois Mini Mules et réparer une capsule endommagée afin de pouvoir ramener tout l'équipement perdu. Préparez-vous pour une expérience de combat intense où le travail d'équipe et une bonne préparation sont la clef du succès ! N'en faites pas un nouvel échec !
@@ -1473,16 +1473,16 @@ NOUVEAUX DANGERS ENVIRONNEMENTAUX
 BUFFS ET NERFS 
  ------------------------------------
  INGÉNIEUR : LANCE PLATEFORMES 
-- Les munitions de départ sont passées de 10 à 12 plateformes. \ 
+- Les munitions de départ sont passées de 10 à 12 plateformes. \\ 
 - Taille de chargeur augmentée de 3 à 4 plateformes. 
 - Amélioration de plateforme supplémentaire ajoutée. La première amélioration ajoute 4 aux munitions max, la deuxième en ajoute 4 autres, ce qui permet de lancer 20 plateformes avec toutes ces améliorations. Il est temps de construire des ponts et des escaliers impressionnants !
 
-INGÉNIEUR : TOURELLE AUTOMATIQUE\ 
+INGÉNIEUR : TOURELLE AUTOMATIQUE\\ 
 - Les munitions maximale de la tourelle sont passées de 400 à 425.
 - Les dégâts par balle ont été réduits de 7 à 5,5.
 - Vous pouvez maintenant améliorer les munitions max pour la tourelle. L'amélioration donne +75 munitions max - ce qui vous permet d'atteindre une capacité maximale de 500. 
 
-FOREUR : PISTOLET\ 
+FOREUR : PISTOLET\\ 
 - La taille du chargeur de départ de l'arme de poing a été augmentée de 8 à 12 balles.
 - L'amélioration est passée de +4 balles à +6 balles.
 
@@ -1490,23 +1490,23 @@ FOREUR : PISTOLET\
 - Bosco inflige désormais 8 points de dégâts au lieu de 6 par tir
 - Le facteur de tir ami est passé de 0.2 à 0.1. Après tout, ce n'est pas amusant d'être tué par votre drone préféré !
 
-AUTRES CORRECTIONS ET FONCTIONNALITÉS IMPORTANTES\ 
+AUTRES CORRECTIONS ET FONCTIONNALITÉS IMPORTANTES\\ 
 ------------------------------------ 
-ENNEMIS \ 
+ENNEMIS \\ 
 - Les prétoriens crachent maintenant de l'acide !
 - La cote de difficulté du prétorien a augmenté. Il est maintenant plus mortel, donc vous en rencontrerez moins.
 - Correction des essaims de deeptora n'attaquant pas les joueurs.
-- Ajout d'une armure et de points faibles au cracheur infectieux. Augmentation des PV de base, viser les points faibles pour une mise à mort rapide.\ 
-- Correction des débris du tunnel des essaims dans le biome radioactif.\ 
-- Éclaboussure de sang quand les ennemis vous frappent.\ 
+- Ajout d'une armure et de points faibles au cracheur infectieux. Augmentation des PV de base, viser les points faibles pour une mise à mort rapide.\\ 
+- Correction des débris du tunnel des essaims dans le biome radioactif.\\ 
+- Éclaboussure de sang quand les ennemis vous frappent.\\ 
 - Ajout d'une attaque sautée pour les nuées glyphides.
-- Modification de la fin des vagues d'ennemis.\ 
-- Réduction de la distance d'alerte des guerriers glyphides et des prétoriens. Les joueurs doivent être plus proches avant qu'ils attaquent.\ 
-- Ajout de nouveaux sons et réglages pour les glyphides.\ 
-- Correction des débris pour les tunnels de nuées\ 
+- Modification de la fin des vagues d'ennemis.\\ 
+- Réduction de la distance d'alerte des guerriers glyphides et des prétoriens. Les joueurs doivent être plus proches avant qu'ils attaquent.\\ 
+- Ajout de nouveaux sons et réglages pour les glyphides.\\ 
+- Correction des débris pour les tunnels de nuées\\ 
 - Les exploseurs obtiennent une augmentation de leur vitesse quand proches d'un autre exploseur qui explose.
 - Correction des points faibles des nuées.
-- Augmentation de l'évitement de l'IA pour les exploseurs.\ 
+- Augmentation de l'évitement de l'IA pour les exploseurs.\\ 
 - Correction de la sangsue des grottes attrapant une cible déjà paralysée.
 - Alignement des cracheurs glyphides vers la cible quand elle est stationnaire.
 
@@ -1514,44 +1514,44 @@ BIOMES
 - Correction des problèmes de cristaux trop abondants dans les grottes de sel.
 - Le sucre rouge laisse des morceaux sur le sol si vous le minez en pleine santé.
 - Ajout de matériaux radioactifs et changement de la couleur.
-- Ajustements sur les effets de post-traitement.\ 
-- Les geysers de vapeur dans les tourbières aux champignons peuvent maintenant apparaître à des angles plus intéressants. Amusez-vous bien !\ 
+- Ajustements sur les effets de post-traitement.\\ 
+- Les geysers de vapeur dans les tourbières aux champignons peuvent maintenant apparaître à des angles plus intéressants. Amusez-vous bien !\\ 
 - L'arbre fluorescent éclaire une zone beaucoup plus grande. Plus vous tirez sur les bulbes, plus il est brillant.
-- Modification dans les tourbières aux champignons du matériau des murs.\ 
+- Modification dans les tourbières aux champignons du matériau des murs.\\ 
 - Modifications du matériau des murs luxuriants, du nitra, et de l'or.
 - Création d'un léger effet d'aléatoire dans la vitesse d'animation du feuillage,  pour qu'il ne soit pas tous dans la même phase de l'animation.
-- Ajout de plantes explosives dans les tourbière aux champignons et dans la biozone dense (en tant que variante de couleur).\ 
+- Ajout de plantes explosives dans les tourbière aux champignons et dans la biozone dense (en tant que variante de couleur).\\ 
 - Nouvelle créature passive : Collecteur de silicate ajoutée aux régions biozone dense et radioactive. Vous pouvez même le chevaucher !
 
 GÉNÉRATION DE GROTTES ET MISSIONS 
 - Nouvelles formes de caverne. Plus de variations pour la génération de niveau.
-- Plus de variations pour les formes de grottes existantes.\ 
+- Plus de variations pour les formes de grottes existantes.\\ 
 - Structure de grotte unique pour les opérations de récupération.
-- La complexité de la grotte est maintenant plus précise, ainsi la différence entre grottes simples et compliquées est plus apparente.\ 
+- La complexité de la grotte est maintenant plus précise, ainsi la différence entre grottes simples et compliquées est plus apparente.\\ 
 - Les missions de haute complexité sont maintenant verrouillées selon le rang du joueur (2 pour le niveau moyen et 3 pour le niveau de complexité élevé).
 - Niveau de danger : Le tourisme a été retiré pour le moment. Très peu de joueurs jouaient ce mode et il semblait inutile vu que vous ne gagniez zéro or ou xp.
 
 ARMES ET OUTILS
 - Ajout d'un avertissement du pointeur laser pour les cristaux radioactifs.
 - Ajout d'une animation lorsque vous essayez de recharger le minigun.
-- Correction d'un bug de distance du pointeur laser.\ 
-- Le temps d'attente pour équiper le pointeur laser à la manette est plus court.\ 
+- Correction d'un bug de distance du pointeur laser.\\ 
+- Le temps d'attente pour équiper le pointeur laser à la manette est plus court.\\ 
 - Correction de la tourelle automatique - elle tirait parfois sur des objets qui n'étaient pas des ennemis.
 -Les douilles pour la mitrailleuse et le fusil d'assaut ont été réactivées.
 
 ATH
 - Icônes de coéquipiers toujours visibles affichant la santé actuelle, les états spéciaux (comme être attrapé par une sangsue des cavernes), et les avertissements.
-- Le pointeur bip quand il passe sur une ressource.\ 
-- Lorsque le pointeur laser est équipé, maintenez le bouton de tir enfoncé pour placer un point de cheminement personnel.\ 
-- Nouveaux réticules pour la plupart des armes.\ 
+- Le pointeur bip quand il passe sur une ressource.\\ 
+- Lorsque le pointeur laser est équipé, maintenez le bouton de tir enfoncé pour placer un point de cheminement personnel.\\ 
+- Nouveaux réticules pour la plupart des armes.\\ 
 - Indicateurs de touche supprimés dans leur forme précédente. Maintenant, certaines parties du réticule deviennent rouges pour confirmer qu'un ennemi a été touché. Des flèches rouges apparaissent sur la barre de santé lorsque le tir touche un point faible.
 
-DIVERS\ 
-- Mise à jour de la traduction en chinois.\ 
-- Turc ajouté aux langues prises en charge.\ 
-- Correction d'une faille dans le système d'achat/vente.\ 
-- Correction d'un crash lié à Bosco.\ 
-- Amélioration de l'ATH des joueurs à terre et des icônes d'équipe.\ 
+DIVERS\\ 
+- Mise à jour de la traduction en chinois.\\ 
+- Turc ajouté aux langues prises en charge.\\ 
+- Correction d'une faille dans le système d'achat/vente.\\ 
+- Correction d'un crash lié à Bosco.\\ 
+- Amélioration de l'ATH des joueurs à terre et des icônes d'équipe.\\ 
 - Le centre de contrôle annonce maintenant le recalibrage de la gravité.
 - Le joueur hôte saute maintenant à la même hauteur que les clients (le saut était plus faible auparavant).
 "
@@ -2232,7 +2232,7 @@ LAMPE TORCHE
  La portée des lampes torche des nains a été réduite de 12.50m à 11.00m, ce qui les rend un peu plus faibles.
 
 AMÉLIORATION DES PATHFINDER
-Les ennemis sont maintenant moins susceptibles de passer directement à travers des murs fins.\ 
+Les ennemis sont maintenant moins susceptibles de passer directement à travers des murs fins.\\ 
 
 M.U.L.E. CORRECTIF DE SÉCURITÉ
 Si, pour une raison quelconque, la MULE ne retrouve pas son chemin vers la capsule, les portes s'ouvriront 15 secondes avant que le compte à rebours ne soit écoulé.
@@ -2382,11 +2382,11 @@ GROTTE HANTÉE : Il y a... quelque chose... dans cette cave. Ça vous chasse. Im
 
 ANOMALIES
 ----------------------------
-ENTRAILLES EXPLOSIVES : Vous pensiez qu'une infestation d'exploseurs c'était terrible ? Eh bien, quoi que ce soit qui ait affecté les aliens du coin est  devenu quelque peu endémique. Tous les ennemis explosent. Juste horrible.\\
+ENTRAILLES EXPLOSIVES : Vous pensiez qu'une infestation d'exploseurs c'était terrible ? Eh bien, quoi que ce soit qui ait affecté les aliens du coin est  devenu quelque peu endémique. Tous les ennemis explosent. Juste horrible.\\\
 "
-\\
+\\\
 "
-\\
+\\\
 "
 PHYSIQUE DES BARBES
 ----------------------------
@@ -2668,11 +2668,11 @@ GROTTE HANTÉE : Il y a... quelque chose... dans cette cave. Ça vous chasse. Im
 
 ANOMALIES
 ----------------------------
-ENTRAILLES EXPLOSIVES : Vous pensiez qu'une infestation d'exploseurs c'était terrible ? Eh bien, quoi que ce soit qui ait affecté les aliens du coin est  devenu quelque peu endémique. Tous les ennemis explosent. Juste horrible.\\
+ENTRAILLES EXPLOSIVES : Vous pensiez qu'une infestation d'exploseurs c'était terrible ? Eh bien, quoi que ce soit qui ait affecté les aliens du coin est  devenu quelque peu endémique. Tous les ennemis explosent. Juste horrible.\\\
 "
-\\
+\\\
 "
-\\
+\\\
 "
 PHYSIQUE DES BARBES
 ----------------------------
@@ -2901,7 +2901,7 @@ CORRECTIONS MINEURES ET CHANGEMENTS DIVERS
 - Correction de la grenade collante faisant des dégâts physiques, ce qui activait certaines compétences
 "
 	Update_11 = "Salutations mineurs,
-\ 
+\\ 
 Nous avons une autre mise à jour pour vous avec quelques nouvelles fonctionnalités intéressantes, des améliorations et des corrections de bugs. Parallèlement à ces petites mises à jour, nous sommes en train d'initier un développement plus important du contenu et des fonctionnalités. Vous en saurez plus sur cela lorsque nous révélerons la roadmap.
 
 --- NOTES DE PATCH N°11 ---
@@ -2967,12 +2967,12 @@ LISTE DES CHANGEMENTS
 - 13411 Le bouclier et la santé manquante sont désormais affichés correctement après avoir été relevé
 - 13413 Quelques changements ont été apporté au minigun
 - 13414 Changements de la caméra à la 1ère personne pour mieux y inclure les bras
-- 13416 Changement de l'emplacement du son des tentacules\ 
+- 13416 Changement de l'emplacement du son des tentacules\\ 
 - 13418 Ajout de mouvements à toutes les armes et équipements lorsque vous vous déplacez
 - 13419 Correctif des piques de pertes audio
 - 13420 Ajout de son pour les larves rampantes
 - 13421 Amélioration du gfx des mission verrouillées sur la carte des missions
-- 13423 Liste des serveurs rendue plus esthétique\ 
+- 13423 Liste des serveurs rendue plus esthétique\\ 
 - 13424 Ajout de nouvelles particules de surchauffe pour le minigun
 - 13427 Nous avons essayé de faire en sorte que les tunnels les plus étroits ne se finissent pas en cul-de-sac
 - 13429 Changements sur la profondeur des biomes 
@@ -2984,13 +2984,13 @@ LISTE DES CHANGEMENTS
  - 13466 Les plateformes ne peuvent plus se former à l'intérieur de la capsule. Les modules de ravitaillement ne peuvent plus être appelés que sur le terrain. Ces changements sont principalement là pour empêcher le trolling ou un placement malheureux qui pourrait vous empêcher de terminer la mission.
 - 13468 Message d'adieu de l'hôte plus gentil 
 - 13469 Nouveaux changements de l'angle de vue ... les armes ont été déplacé pour ne pas gêner certaines animations
-- 13471 [Patch] les foreuses fument quand elles surchauffent.\ 
+- 13471 [Patch] les foreuses fument quand elles surchauffent.\\ 
 - 13480 Correction du statut des nains n’apparaissant pas sur l'écran de fin des missions
 - 13484 Les tunnels d'essaims apparaissent désormais dans tous les biomes
 - 13495 Remaniement de la taille des particules du lance-flammes
 - 13503 Correction de l'affichage de profondeur des biomes
 "
-	Update_10 = "Salutations mineurs,\ 
+	Update_10 = "Salutations mineurs,\\ 
 
 Nous avons une autre mise à jour ici avec quelques corrections importantes et un peu de nouveau contenu. Parallèlement à ces petites mises à jour, nous sommes en train d'initier un développement plus important du contenu et des fonctionnalités. Plus d'information sur cela plus tard, lorsque nous révélerons une plus grande feuille de route des choses à venir.
 
@@ -2998,54 +2998,54 @@ Nous avons une autre mise à jour ici avec quelques corrections importantes et u
 
 DEMANDES COMMUNAUTAIRES DE CORRECTIFS
 - Correction de plusieurs problèmes liés à la sensibilité de la souris. La sensibilité n'était pas la même dans la plateforme spatiale que dans les missions. Elles sont maintenant les mêmes. La sensibilité horizontale et verticale peut être désormais réglée dans les options.
-- Option de recherche de région Steam.\ 
-- Débrancher une manette ne désactive plus la souris et le clavier\ 
-- Correctif de test pour le moniteur principal (peu testé!)\ 
+- Option de recherche de région Steam.\\ 
+- Débrancher une manette ne désactive plus la souris et le clavier\\ 
+- Correctif de test pour le moniteur principal (peu testé!)\\ 
 - Correctif du bug du grappin à vie infinie
-\ 
-CONTENU DES GROTTES\ 
-- Première implémentation de différents tunnels pour chaque région planétaire\ 
-- Ajout de pointes de cristal qui peuvent tomber du plafond dans les puits de sel\ 
+\\ 
+CONTENU DES GROTTES\\ 
+- Première implémentation de différents tunnels pour chaque région planétaire\\ 
+- Ajout de pointes de cristal qui peuvent tomber du plafond dans les puits de sel\\ 
 - Boue collante ajouté dans les tourbières aux champignons
 
-CARTE DE MISSION\ 
+CARTE DE MISSION\\ 
 - Nouvelles icônes pour la complexité et la longueur des grottes. Il sera plus évident que la "Complexité" influe grandement sur le niveau de difficulté.
-- Ajout d'une icône de complexité au-dessus des icônes de mission\ 
-- Ajout de la récompense de mission au-dessous des icônes de mission\ 
+- Ajout d'une icône de complexité au-dessus des icônes de mission\\ 
+- Ajout de la récompense de mission au-dessous des icônes de mission\\ 
 
 VUE DES ARMES
 - Champ de vision modifié de 100 à 90
-- La vue à la première personne des armes est maintenant moins étirée\ 
-- Réduction des problèmes de "Clipping"\ 
-\ 
-AMÉLIORATIONS DU SCOUT\ 
-- Le fusil à canon scié tire 15 plombs infligeant 6 points de dégâts chacun - augmentés à 10 points de dégâts chacun\ 
-- Le maximum de cartouches du fusil à canon scié passe de 30 cartouches à16\ 
+- La vue à la première personne des armes est maintenant moins étirée\\ 
+- Réduction des problèmes de "Clipping"\\ 
+\\ 
+AMÉLIORATIONS DU SCOUT\\ 
+- Le fusil à canon scié tire 15 plombs infligeant 6 points de dégâts chacun - augmentés à 10 points de dégâts chacun\\ 
+- Le maximum de cartouches du fusil à canon scié passe de 30 cartouches à16\\ 
 - L'amélioration du maximum de cartouches du fusil à canon scié est diminuée de +10 à +8
 
- ANIMATION, SONS & EFFETS\ 
+ ANIMATION, SONS & EFFETS\\ 
 - Animations de rechargement du pistolet du foreur
-- Le rechargement du pistolet du foreur et du Fusil à canon scié du scout sont maintenant considérés rechargés quand cela colle à l'animation, plus besoin d'attendre la fin de l'animation. Ceci sera implémenté sur d'autres armes quand ils auront leur propre rechargement. (Mise à jour du son manquante)\ 
-- Correction des animations de la console en arrière-plan sur les clients\ 
-- Mise à jour gfx du pointeur laser\ 
-- Suppression du fond des popups d'interaction\ 
+- Le rechargement du pistolet du foreur et du Fusil à canon scié du scout sont maintenant considérés rechargés quand cela colle à l'animation, plus besoin d'attendre la fin de l'animation. Ceci sera implémenté sur d'autres armes quand ils auront leur propre rechargement. (Mise à jour du son manquante)\\ 
+- Correction des animations de la console en arrière-plan sur les clients\\ 
+- Mise à jour gfx du pointeur laser\\ 
+- Suppression du fond des popups d'interaction\\ 
 - Mise à jour gfx de l'overlay des dégâts
-\ 
-LOCALISATION\ 
- - Ajout d'espace entre les lignes de texte sur les terminaux (pour les langues accentuées)\ 
-- Mise à jour de toutes les langues à partir de Crowdin\ 
-\ 
-CORRECTIONS MINEURES\ 
-- La liste des serveurs n'affiche plus ceux avec mots de passe par défaut\ 
-- Les astéroïdes ne sont plus lisses sur l'écran de chargement !!!\ 
-- Le Stick droit est maintenant utilisé comme molette de défilement de la souris\ 
-- Suppression du test Steam Friend lors de l'invitation des amis. Les sessions privées devraient mieux fonctionner maintenant et cela empêchait les clients d'inviter des amis qui n'étaient pas amis avec le serveur.\ 
-- Correction du fait que Molly n'était plus dorée dans le hall commémoratif quand elle était déverrouillée\ 
-- Molly et les grosses araignées préfèrent marcher sur le sol\ 
-- Correction d'un crash d'arme\ 
-- Les ennemis ne sont plus "assommés" par des dégâts physiques (mêlée)\ 
+\\ 
+LOCALISATION\\ 
+ - Ajout d'espace entre les lignes de texte sur les terminaux (pour les langues accentuées)\\ 
+- Mise à jour de toutes les langues à partir de Crowdin\\ 
+\\ 
+CORRECTIONS MINEURES\\ 
+- La liste des serveurs n'affiche plus ceux avec mots de passe par défaut\\ 
+- Les astéroïdes ne sont plus lisses sur l'écran de chargement !!!\\ 
+- Le Stick droit est maintenant utilisé comme molette de défilement de la souris\\ 
+- Suppression du test Steam Friend lors de l'invitation des amis. Les sessions privées devraient mieux fonctionner maintenant et cela empêchait les clients d'inviter des amis qui n'étaient pas amis avec le serveur.\\ 
+- Correction du fait que Molly n'était plus dorée dans le hall commémoratif quand elle était déverrouillée\\ 
+- Molly et les grosses araignées préfèrent marcher sur le sol\\ 
+- Correction d'un crash d'arme\\ 
+- Les ennemis ne sont plus "assommés" par des dégâts physiques (mêlée)\\ 
 - Correction de l'amélioration des munitions et de la taille du chargeur qui n'étaient pas mis à jour lors de la première apparition du joueur dans la mission
-- Changement d'échelle des objets en vue à la première personne afin qu'ils "clippent" moins avec d'autres objets\."
+- Changement d'échelle des objets en vue à la première personne afin qu'ils "clippent" moins avec d'autres objets\\."
 	Update_21.5 = "C'est la fête, mineurs !
 
 Croyez-le ou non, Deep Rock Galactic est maintenant en ligne depuis UNE ANNÉE. Nous avons lancé l'accès anticipé le 28 février 2018, ce qui signifie que c'est le moment de célébrer cet anniversaire avec cette mini-mise à jour ! Développer le jeu et le développer avec de nouvelles fonctionnalités et du nouveau contenu a été (et continue d’être) un plaisir absolu et nous sommes très impressionnés par les excellents commentaires et critiques que nous avons reçus de votre part. Merci à tous de nous avoir aidés à transformer Deep Rock Galactic en un jeu que pensons être INCROYABLE et de faire partie de cette merveilleuse communauté. Trois grands BRAVO à vous, à l’avenir et pour ROCK AND STONE !
@@ -3172,6 +3172,7 @@ DIVERS
 	Update_18_ShortTitle = "OPPORTUNITÉS D'EMPLOI"
 	Update_27_ShortTitle = "PETITES GRANDES CHOSES"
 	Update_13_ShortTitle = "PETITS CHANGEMENTS"
+	Update_34_Shorttitle = "MODESTES ATTENTES"
 	Update_15_ShortTitle = "DANGER DE MUTATION !"
 	Update_33_Shorttitle = "NOUVELLES FRONTIÈRES"
 	Update_17_ShortTitle = "OKTOBERFEST !"
@@ -3768,6 +3769,7 @@ DIVERS
 
 
 "
+	Update_34_Header = "MISE À JOUR 34: MODESTES ATTENTES"
 	Update_9_Header = "MISE A JOUR 9 : À LA PIOCHE-AINE ! - 09.03.2018"
 	Update_31_Shorttitle = "CE QUI EST RESTÉ DERRIÈRE"
 	Update_16_ShortTitle = "L'HIVER EST ARRIVÉ"
