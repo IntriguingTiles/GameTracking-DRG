@@ -1538,19 +1538,19 @@ Derin Çekirdek GK2
 - Hız Aşırtmalı Atış Mekanizması güçlendirmenin geri tepmesi düşürüldü
 - Temel cephane biraz arttırıldı
 
-Experimental Charge Blaster
-- Rearranged some of the mods to provide more interesting choices
-- Moved the Reactive Shockwave mod to T4
-- Moved the Expanded Plasma Splash to T4
-- Moved the Heat Shield mod to T2
-- Improved recoil recovery a tiny bit (community request, you know who you are)
-- Significantly lowered the heat generated when shooting charged projectiles on the base weapon
-- Lowered the base charge speed slightly
-- Cleaned up the weapon’s stats list in the equipment terminal
-- Added a % damage bonus and increased the effect radius penalty on Flying Nightmare
-- Heat Pipe OC now penalises charge shot heat instead of normal shots
-- Lowered the charge shot ammo penalty on the Overcharger OC and changed it from a % to a flat value
-- Lowered the damage penalty of the Persistent Plasma OC, increased the damage dealt by the plasma field and added a small slow effect to the field
+Deneysel Plazma Şarj Silahı
+- Daha ilginç seçenekler sağlamak için bazı geliştirmeler yeniden düzenlendi
+- Reaktif Şok Dalgası geliştirmesi T4'e taşındı
+- Genişletilmiş Plazma Sıçraması K4'e taşındı
+- Isı Kalkanı geliştirmesi K2'ye taşındı
+- Geri tepme kazanımı biraz iyileştirildi (topluluk isteği, kim olduğunuzu biliyorsunuz)
+- Temel silahta şarjlı projektilleri ateşlerken oluşan ısı önemli ölçüde düşürüldü
+- Temel şarj hızı biraz düşürüldü
+- Ekipman terminalindeki silahın istatistik listesi temizlendi
+- Uçan Kâbusta % hasar bonusu eklendi ve efekt etki alanı cezası arttırıldı
+- Isı Nakil Tüpü güçlendirmesi artık normal atışlar yerine şarjlı atış ısısı yükseliyor
+- Aşırı Yükleyici güçlendirmesindeki şarjlı atış cephane cezası düşürüldü ve % bir'den sabit bir değere değiştirildi
+- Kalıcı Plazma güçlendirmenin hasar cezası düşürüldü, plazma alanı tarafından verilen hasar arttırıldı ve sahaya küçük bir yavaşlatma etkisi eklendi
 
 Gedik Açıcı
 - Geliştirilmiş Kasa Fırlatıcı geliştirmenin hız bonusu arttırıldı
@@ -1582,12 +1582,12 @@ Subata 120
 - Zincir Vuruşu güçlendirmenin proc şansı arttırıldı
 
 Zhukov NUK17
-- Added a weakpoint damage bonus to the base weapon
-- Moved some of the ammo bonus from the T4 Expanded Ammo Bags mod to the base weapon
-- Reduced the base spread slightly
-- Increased the spread reduction provided by the Better Weight Balance mod
-- Changed the damage penalty on the Custom Casings OC to a RoF penalty
-- Increased the chance to create a cryo minelet with the Cryo Minelets OC and reduced the particle system a bit, which should help with both performance and visibility
+- Temel silaha zayıf nokta hasarı bonusu eklendi
+- Cephane bonusunun bir kısmı T4 Genişletilmiş Cephane Çantaları geliştirmesinden temel silaha taşındı
+- Temel yayılması biraz azaltıldı
+- Daha İyi Ağırlık Dengesi geliştirmesinin sağladığı yayılım azaltımı arttırıldı
+- Özel Kasalar güçlendirmesindeki hasar cezası atış hızı cezası olarak değiştirildi
+- Buzlu Mayıncıklar güçlendirmesi ile bir buzlu mayıncık oluşturma şansı arttırıldı ve partikül sistemini biraz düşürüldü, bu da hem performans hem de görünürlük açısından yardımcı olacak
 
 El Yapımı AteşBorusu
 - Afallatma süresini daha da uzatmak ve afallatma şansını arttırmak için K3 Afallatma geliştirmesi yükseltildi
@@ -1614,17 +1614,17 @@ TBA
 - RJ250 güçlendirmeden gelen hasar arttırıldı ve yüksek şarjör değiştirme hızı bonusu ve büyük bir % cephane bonusu eklendi
 - Kompakt Mermiler güçlendirmenin cephane bonusu arttırıldı
 
-Lead Storm Powered Minigun
-- Reduced the cooling effect of the Cold as the Grave mod
-- The Aggressive Venting mod now significantly reduces the time it takes to recover from an overheat
-- Moved some of the bonus of the Improved Platform Stability mod to the base weapon
-- The Magnetic Refrigeration mod now also significantly reduces the delay before cooling begins
-- Fixed a bug where the small delay between shooting and cooling was not actually happening
-- Reduced base stun chance
-- Added a stun chance bonus and increased the stun duration bonus on the Stun Duration mod also renamed it to “Improved Stun”
-- Shortened the base spin-down time and increased the bonus of the Magnetic Bearings mod, also the mod now properly affects how long the gun stays accurate
-- Increased the ricochet chance significantly and extended the max ricochet distance a bit for the Bullet Hell OC
-- Leadstorm OC no longer disables stun but instead just significantly reduces it’s viability so now the Improved Stun mod can actually affect it
+Kurşun Fırtınası Güçlendirilmiş Minigun
+- Mezar geliştirmesi olarak Soğuk'un soğutma etkisi azaltıldı
+- Agresif Havalandırma geliştirmesi artık aşırı ısınmadan kurtulmak için gereken süreyi önemli ölçüde azaltır
+- Geliştirilmiş Platform Dengesi geliştirmesinin bazı bonusları temel silaha taşındı
+- Manyetik Soğutma geliştirmesi artık soğutma başlamadan önceki gecikmeyi de önemli ölçüde azaltır
+- Ateş etme ve soğutma arasındaki küçük gecikmenin gerçekte gerçekleşmemesine neden olan bir hata düzeltildi
+- Temel sersemletme şansı azaltıldı
+- Afallatma şansı bonusu eklendi ve Afallatma Süresi geliştirmesindeki afallatma süresi bonusu arttırıldı, ayrıca "Geliştirilmiş Afallatma" olarak yeniden adlandırıldı
+- Temel dönüş süresi kısaltıldı ve Manyetik Rulmanlar geliştirmenin bonusu arttırıldı, ayrıca geliştirme artık silahın ne kadar süre isabetli kalacağını düzgün şekilde etkiliyor
+- Kurşun Cehennemi güçlendirmesi için sekme şansı önemli ölçüde arttırıldı ve maksimum sekme mesafesini biraz uzatıldı
+- Kurşun Fırtınası güçlendirmesi artık afallatmayı devre dışı bırakmaz, bunun yerine sadece yaşayabilirliğini önemli ölçüde azalttığı için artık Geliştirilmiş Afallatma geliştirmesi onu gerçekten etkileyebilir.
 
 Gürleyen Kafa Otomatik Top
 - Geribildirim döngüsü geliştirmenin hasar bonusu azaltıldı
@@ -1780,19 +1780,19 @@ Derin Çekirdek GK2
 - Hız Aşırtmalı Atış Mekanizması güçlendirmenin geri tepmesi düşürüldü
 - Temel cephane biraz arttırıldı
 
-Experimental Charge Blaster
-- Rearranged some of the mods to provide more interesting choices
-- Moved the Reactive Shockwave mod to T4
-- Moved the Expanded Plasma Splash to T4
-- Moved the Heat Shield mod to T2
-- Improved recoil recovery a tiny bit (community request, you know who you are)
-- Significantly lowered the heat generated when shooting charged projectiles on the base weapon
-- Lowered the base charge speed slightly
-- Cleaned up the weapon’s stats list in the equipment terminal
-- Added a % damage bonus and increased the effect radius penalty on Flying Nightmare
-- Heat Pipe OC now penalises charge shot heat instead of normal shots
-- Lowered the charge shot ammo penalty on the Overcharger OC and changed it from a % to a flat value
-- Lowered the damage penalty of the Persistent Plasma OC, increased the damage dealt by the plasma field and added a small slow effect to the field
+Deneysel Plazma Şarj Silahı
+- Daha ilginç seçenekler sağlamak için bazı geliştirmeler yeniden düzenlendi
+- Reaktif Şok Dalgası geliştirmesi T4'e taşındı
+- Genişletilmiş Plazma Sıçraması K4'e taşındı
+- Isı Kalkanı geliştirmesi K2'ye taşındı
+- Geri tepme kazanımı biraz iyileştirildi (topluluk isteği, kim olduğunuzu biliyorsunuz)
+- Temel silahta şarjlı projektilleri ateşlerken oluşan ısı önemli ölçüde düşürüldü
+- Temel şarj hızı biraz düşürüldü
+- Ekipman terminalindeki silahın istatistik listesi temizlendi
+- Uçan Kâbusta % hasar bonusu eklendi ve efekt etki alanı cezası arttırıldı
+- Isı Nakil Tüpü güçlendirmesi artık normal atışlar yerine şarjlı atış ısısı yükseliyor
+- Aşırı Yükleyici güçlendirmesindeki şarjlı atış cephane cezası düşürüldü ve % bir'den sabit bir değere değiştirildi
+- Kalıcı Plazma güçlendirmenin hasar cezası düşürüldü, plazma alanı tarafından verilen hasar arttırıldı ve sahaya küçük bir yavaşlatma etkisi eklendi
 
 Gedik Açıcı
 - Geliştirilmiş Kasa Fırlatıcı geliştirmenin hız bonusu arttırıldı
@@ -1824,12 +1824,12 @@ Subata 120
 - Zincir Vuruşu güçlendirmenin proc şansı arttırıldı
 
 Zhukov NUK17
-- Added a weakpoint damage bonus to the base weapon
-- Moved some of the ammo bonus from the T4 Expanded Ammo Bags mod to the base weapon
-- Reduced the base spread slightly
-- Increased the spread reduction provided by the Better Weight Balance mod
-- Changed the damage penalty on the Custom Casings OC to a RoF penalty
-- Increased the chance to create a cryo minelet with the Cryo Minelets OC and reduced the particle system a bit, which should help with both performance and visibility
+- Temel silaha zayıf nokta hasarı bonusu eklendi
+- Cephane bonusunun bir kısmı T4 Genişletilmiş Cephane Çantaları geliştirmesinden temel silaha taşındı
+- Temel yayılması biraz azaltıldı
+- Daha İyi Ağırlık Dengesi geliştirmesinin sağladığı yayılım azaltımı arttırıldı
+- Özel Kasalar güçlendirmesindeki hasar cezası atış hızı cezası olarak değiştirildi
+- Buzlu Mayıncıklar güçlendirmesi ile bir buzlu mayıncık oluşturma şansı arttırıldı ve partikül sistemini biraz düşürüldü, bu da hem performans hem de görünürlük açısından yardımcı olacak
 
 El Yapımı AteşBorusu
 - Afallatma süresini daha da uzatmak ve afallatma şansını arttırmak için K3 Afallatma geliştirmesi yükseltildi
@@ -1856,17 +1856,17 @@ TBA
 - RJ250 güçlendirmeden gelen hasar arttırıldı ve yüksek şarjör değiştirme hızı bonusu ve büyük bir % cephane bonusu eklendi
 - Kompakt Mermiler güçlendirmenin cephane bonusu arttırıldı
 
-Lead Storm Powered Minigun
-- Reduced the cooling effect of the Cold as the Grave mod
-- The Aggressive Venting mod now significantly reduces the time it takes to recover from an overheat
-- Moved some of the bonus of the Improved Platform Stability mod to the base weapon
-- The Magnetic Refrigeration mod now also significantly reduces the delay before cooling begins
-- Fixed a bug where the small delay between shooting and cooling was not actually happening
-- Reduced base stun chance
-- Added a stun chance bonus and increased the stun duration bonus on the Stun Duration mod also renamed it to “Improved Stun”
-- Shortened the base spin-down time and increased the bonus of the Magnetic Bearings mod, also the mod now properly affects how long the gun stays accurate
-- Increased the ricochet chance significantly and extended the max ricochet distance a bit for the Bullet Hell OC
-- Leadstorm OC no longer disables stun but instead just significantly reduces it’s viability so now the Improved Stun mod can actually affect it
+Kurşun Fırtınası Güçlendirilmiş Minigun
+- Mezar geliştirmesi olarak Soğuk'un soğutma etkisi azaltıldı
+- Agresif Havalandırma geliştirmesi artık aşırı ısınmadan kurtulmak için gereken süreyi önemli ölçüde azaltır
+- Geliştirilmiş Platform Dengesi geliştirmesinin bazı bonusları temel silaha taşındı
+- Manyetik Soğutma geliştirmesi artık soğutma başlamadan önceki gecikmeyi de önemli ölçüde azaltır
+- Ateş etme ve soğutma arasındaki küçük gecikmenin gerçekte gerçekleşmemesine neden olan bir hata düzeltildi
+- Temel sersemletme şansı azaltıldı
+- Afallatma şansı bonusu eklendi ve Afallatma Süresi geliştirmesindeki afallatma süresi bonusu arttırıldı, ayrıca "Geliştirilmiş Afallatma" olarak yeniden adlandırıldı
+- Temel dönüş süresi kısaltıldı ve Manyetik Rulmanlar geliştirmenin bonusu arttırıldı, ayrıca geliştirme artık silahın ne kadar süre isabetli kalacağını düzgün şekilde etkiliyor
+- Kurşun Cehennemi güçlendirmesi için sekme şansı önemli ölçüde arttırıldı ve maksimum sekme mesafesini biraz uzatıldı
+- Kurşun Fırtınası güçlendirmesi artık afallatmayı devre dışı bırakmaz, bunun yerine sadece yaşayabilirliğini önemli ölçüde azalttığı için artık Geliştirilmiş Afallatma geliştirmesi onu gerçekten etkileyebilir.
 
 Gürleyen Kafa Otomatik Top
 - Geribildirim döngüsü geliştirmenin hasar bonusu azaltıldı

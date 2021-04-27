@@ -1,8 +1,8 @@
-10102 entries
-35 namespaces
-8128 values
+10106 entries
+36 namespaces
+8132 values
 
-Namespace Global (9350 keys)
+Namespace Global (9353 keys)
 	CC8D6F3348E59DB853C7258BD4E3FF05 = " Czarna skrzynka jest gotowa i rozpoczyna bootowanie. Utracimy połączenie, jeżeli nie będziecie blisko, więc nie opuszczajcie oznaczonej strefy triangulacji!"
 	21E775294A9F00BC12A202B5100B6791 = " Skrzynia ładunkowa tutaj!"
 	3E2E82954782E77A2F596AB7FEA09136 = " Spadłem!"
@@ -609,6 +609,7 @@ Naciśnij <equip2/>, by wybrać <bold>broń boczną</>"
 	D7C8930440988BD9F9736182A8936FCB = "Niezbędny Morkit został zebrany! Cel osiągnięty!"
 	82648E5046D150861355308931633C9D = "Wszystkie cele osiągnięte! Powróćcie do rafinerii i rozpocznijcie sekwencję pompowania!"
 	CE74A05145DFE0071E5B318818EDC564 = "Wszystkie cele osiągnięte! Jesteście gotowi do rozpoczęcia sekwencji pompowania! "
+	17F1B8534FA022AFF86C01A6369E3BEB = "Wszystkie zewnętrzne generatory padły! Główna placówka jest teraz odsłonięta!"
 	3BA1D1CB4E75D2827D2E58A2BD0BE482 = "Wszystkie normy spełnione, dobra robota chłopaki. Aktywujcie swoje transpondery przez MUŁA i wracajcie do domu."
 	13397E7F4DBC3914B1ADFC86275AEAAC = "Wszystko zdaje się być zbudowane – jesteśmy gotowi do rozpoczęcia wydobycia płynnego Morkitu. Wróćcie do rafinerii i uruchomcie sekwencję pompowania!"
 	E6EC252747B5E63BB6A3C185575E4444 = "Cały ten hałas przyciąga stworzenia – zajmijcie się nimi zanim one zajmą się naszymi rurociągami!"
@@ -4897,7 +4898,7 @@ SAMOUCZEK"
 	EDCF473C484E1A3F96FC7EB3B3EA3689 = "Jak jazda kolejką górską!"
 	072527FD45936C5D7E97A6829F0473BC = "Jak zabranie dziecku cukierka!"
 	2D6C5E734EBF30CEA3E050A36B19F9E6 = "Dokładnie tak!"
-	4C9CFB50464A6E470209B1A218CA01BE = "Lubię to!"
+	4C9CFB50464A6E470209B1A218CA01BE = "Właśnie tak!"
 	4EC924B84FD96E9405D25080271F518B = "Lubię to!"
 	85D3FF304DF494B8FE3340A058ABED0D = "Dokładnie tak!"
 	9992ED514FC39A0CEA607AB20FE55903 = "Dokładnie tak!"
@@ -5076,6 +5077,7 @@ Przytrzymaj <calldonkey/> lub <JUMP/> podczas lewitowania, by dezaktywować."
 	113127354D96B4A900DC8E9F1161C681 = "CENTRUM DOWODZENIA"
 	14055AEC4F169C40AEB47A80BC0D7CCC = "CENTRUM DOWODZENIA"
 	9633619D4B69B36E374426A0C8D4998F = "CENTRUM DOWODZENIA"
+	EA72D0E84A9CF06B5573579F807E8A02 = "MISJA ROZPOCZNIE SIĘ ZA"
 	10A13F5C4BA816B7378886AB1EFF1636 = "DŁUGOŚĆ MISJI"
 	3628ED764E139639833F3CBB9393E28A = "MUTATORY MISJI"
 	2E40659A488CA76C9034F2BB9D6B3CA9 = "WYBÓR MISJI"
@@ -8647,6 +8649,7 @@ Zarząd"
 	173B6856492C90684B92B6BCA42B7699 = "Uuuh!"
 	D3A7FE284021BBE097103EAB7E93378C = "Urgh, mój obiad się ze mną nie zgadza. Barman, poproszę Patroszyciela Jelit, by to naprawić."
 	4F5D06BA49E0FF5A4258E5A683A255E0 = "Urrgh... na jaja Unkara, to jest ciężkie!"
+	C657CD354FA478F046046C82CAAA268A = "Użyj DX12"
 	134E3CA245BD60F336E53C81D2329AC3 = "Użyj programu Streamer"
 	2F8B11D5409C76EA293AB182CE32DB22 = "Użyj [-MoveRight] + [+MoveRight], aby się uwolnić."
 	20D0D1CB45BDFAAC41E9958D32CFC239 = "Użyj domyślnego urządzenia"
@@ -9697,6 +9700,9 @@ Namespace Crosshairs (7 keys)
 	TooClose = "Zbyt blisko"
 	TooFar = "Za daleko"
 	TooSteep = "Zbyt stromo"
+
+Namespace GameMsg (1 keys)
+	PlayerIsDown = "{0} padł!"
 
 Namespace Gear (8 keys)
 	Cooldown = "Chłodzenie"
