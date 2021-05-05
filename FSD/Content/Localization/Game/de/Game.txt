@@ -1,8 +1,8 @@
-11263 entries
+11282 entries
 41 namespaces
-9216 values
+9232 values
 
-Namespace Global (10468 keys)
+Namespace Global (10487 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 In der Regel ist das Problem auf Folgendes zurückzuführen:
 - Keine Internetverbindung
@@ -13,6 +13,7 @@ In der Regel ist das Problem auf Folgendes zurückzuführen:
 	21E775294A9F00BC12A202B5100B6791 = " Frachtkiste hier!"
 	3E2E82954782E77A2F596AB7FEA09136 = " Ich bin gefallen!"
 	46DC5C9345AAA322FC0237A09ECEADA7 = " Ommorianer Mantel"
+	37E366904F23B0C40314F29B7BE3D8D3 = " Bitte warte darauf, dass in Zukunft noch mehr Dinge hinzugefügt werden."
 	31D60A1449082F9AB6DC15844F3810F6 = " ERFORDERLICH"
 	75AD2FE3498BE6FDEBB6FEBE4B313DD6 = " Sound Designer / Music Producer"
 	CC99101A43D27CD0B6D56484C12AC71D = " Der Geschützturm kann mehr Schüsse abfeuern, bevor er nachgeladen werden muss."
@@ -589,6 +590,7 @@ Boscos KI ist noch soweit, damit alleine umzugehen. Nutze den LASER POINTER um s
 	DD41ADA74E8806D4222B32A1CA3300B8 = "Aktivierter Gesperrt"
 	231B979D45EA53C0FD4DE6AB6ED71A00 = "Aktive Perks"
 	D11DDD844B16F8BE4ADD41897A7276E2 = "Aktive Perks"
+	1B79939C4EF3DE1981DFEBACE270B5BD = "Aktiver Spielstand"
 	9262C90B424241A9AC70079309113B89 = "Aktives Stabilisierungssystem"
 	5DCC8D2443FF473BC78B90872D903CBB = "Gold hinzufügen"
 	4C41FF414FA43F93B0E08D8918458A20 = "Morkite hinzufügen"
@@ -825,6 +827,11 @@ das Management"
 	157E5A864B37B810AD34D484F31AB999 = "Sind wir....sind wir zurück?"
 	5FC958634E2DC7B8BDBD6AA3E461371B = "Liest du das? Dann bist du von der Art von Spieler welche wir für die Stammspieler-Gruppe auf Discord möchten! Melde dich jetzt an!"
 	63625FDC4D99ABF20C20C5A6869C0BB7 = "Bist du bereit, deine Beförderung zu erhalten?"
+	6AA9ACA747234C24FB8AEB82742841F2 = "Bist du sicher, dass du eine neue Kopie von '{savename}' erstellen und diese in einen modifizierten Spielstand konvertieren möchtest?"
+	AAF93A844646AA2B51E9A78A8D6EE600 = "Bist du sicher, dass du '{savename}' löschen möchtest?
+
+ WARNUNG: Diese Aktion kann NICHT rückgängig gemacht werden!"
+	D882C06F4FF6392CB15D649FBCA228F7 = "Bist du sicher, dass du '{savename}' laden willst?"
 	7FFB17E2489A90F2BFF4EB86C16069EB = "Bist du dir sicher?"
 	AA66C43D4DE914A51012A38356803029 = "Bist du dir sicher?"
 	F77B4F3D4C4BE0311F61649212B457C3 = "Bist du sicher?"
@@ -856,7 +863,7 @@ das Management"
 	D1429AA949433BE5BC01699B52AAECAB = "Panzerbrechend"
 	F0DE38714966A1841BC1D4B0F97018B3 = "Panzerbrechend"
 	CB0443E04F665DDD31FC3DB8593391B6 = "Rüstungsschaden + 200%"
-	97C4E397421A6602375798A579FC2669 = "Panzerungslackierung"
+	97C4E397421A6602375798A579FC2669 = "Rüstungslackierung"
 	C254E60046E56376D1EDDCBC278A0C17 = "Panzerbrechende Kugeln"
 	B797065C48BD4EB1280EBC9E918175B2 = "Panzerungsregeneration"
 	A70E38E74A3841A7BA2B738511D3732E = "Panzerbrecher-Granate"
@@ -2286,6 +2293,7 @@ Management"
 	2A3CCB494414004F319C08BB2ED555F2 = "TIEFENEXPEDITION"
 	6B25FDDC4BDE2DCEC8EADF93B02553EC = "TIEFENEXPEDITION"
 	D289CF8D4E384A7BB650E99E92534188 = "TIEFENEXPEDITION"
+	3815B8624E1417EAEFBF79BB051512FB = "DATEN DER TIEFENEXPEDITION"
 	5EB0BC0B4AB9D94EBE8A059577D08CCB = "TIEFENEXPEDITIONEN NUR FÜR TEAMS MIT BEFÖRDERTEN MINENARBEITERN VERFÜGBAR!"
 	1D374BF241F5787CF2ABA4867D47E233 = "DEEP ROCK GALACTIC IMFORMATIONSKANAL"
 	2C7A38154EEF10A11BAD58A47E710FB1 = "DEEP ROCK GALACTIC INFORMATIONSKANAL"
@@ -2604,6 +2612,8 @@ Management"
 	E1EAF02846B9641CCEF665A0C2D67DC1 = "Dreck! Muss ja auch ein wenig Dreck in der gegend sein...!"
 	688E17E74AAF94913634D59AF561C5F3 = "des Drecks"
 	5C2CE082461D6D9FB80439A55C0A8B32 = "Master EQ deaktivieren"
+	59F89B954BC27E80DA2F0CB6C585248E = "Deaktivierter Trägheitshemmer"
+	CB5D96AD4AE9AE2706333B97CF298A61 = "Deaktivierter Trägheitshemmer"
 	3203D4FF4273B34F23E33FA8BD421BDD = "Deaktvierter Sicherungsflügel"
 	59DBF7C0412439480EF5CC862CC4907D = "Entschärfen"
 	141AB42943283CF82A16038BBF333C8E = "Mine entschärfen"
@@ -2634,6 +2644,8 @@ Und es ist einer der Orte, an dem wir mit unserer unglaublichen Spieler-Communit
 	1151D671491E0A4F6EA66FAC8BBCB9E8 = "Hast du was es braucht um Teil der {0} zu sein?"
 	1A06F8CB4985B7D7BCFB84B007B76D7C = "Hast du was es braucht um Teil der {0} zu sein?"
 	371C10844F9EDD3AA80B019D5F81BF80 = "Willst du deine 
+Unionsfraktion wechseln?"
+	7E3706AB41BFACD1291C1D9D30632AE8 = "Willst du deine 
 Unionsfraktion wechseln?"
 	4FE0B94D45A85A434B5578A061B55C47 = "Willst du diese Taste neu zuordnen?
 Das wird '{ActionName}' trennen"
@@ -3185,6 +3197,7 @@ Das wird '{ActionName}' trennen"
 	4AE92AB54A5A77EC2A118B99AC03259A = "SCHMIEDE VERARBEITET..."
 	7931ACA7478366B494010EA4519006AD = "SCHMIEDEN"
 	FF46D35B433E04A2E33083896F2789CB = "KOSTENLOS"
+	2DD82ACE4B1A84C9766034BE023C000B = "FREIBIER FÜR ALLE!"
 	3D477038463CC1BF01D953A3AA322761 = "FREIBIER FÜR ALLE!"
 	B5DBA9204DA8107DDBDD649497C94F2E = "KOSTENLOSE BEUTE FÜR ALLE!"
 	CE58EBBB406063288737A99BAEC62D1E = "GRATIS BEUTE FÜR ALLE!"
@@ -3519,6 +3532,7 @@ Das wird '{ActionName}' trennen"
 	BAC0614B44DCAB26072A0CB140461853 = "Freundlich"
 	7C49DD0D4CF46237E1695295EC9FAC0D = "Eigenbeschuss!"
 	7426A5C84C0CB6ACDB0AD49D5E2D029F = "Freunde"
+	CC9BFC3444C62EF0E82AED89E0022D41 = "Freunde spielen gerade!"
 	ABE2E2124E687A7244B37D9984C8AD4F = "Freunde können während einer Solo-Mission nicht eingeladen werden"
 	8D623F744A0213EAB891EEB194902AED = "Freunde können nicht während dem Tutorial eingeladen werden"
 	BC681EE3432C00BB144E00B9DF3D28CC = "der Angst"
@@ -4441,6 +4455,7 @@ Die Ghost Ship Crew"
 	3997CC7B44134C7B122667838572B547 = "Hox-Öl"
 	62F4F93E4FCAFDDE2327D9AB5C9F9541 = "Hoxbeben"
 	5681EAED4C72630F80639CB8D062EE1B = "Hoxxes-Biologe"
+	B4DD7A2E4EB57F290FF690A27B3F899A = "Hoxxes Umlaufbahn 723|326|324 - DRG Raumstation 17"
 	EB981AED420DF448E78A13B6FCF68B0C = "Hm, das sieht nicht gut aus... Wir haben gerade eine Gruppe von Prätorianern gesichtet, die sich dir nähert. Macht euch bereit, Team."
 	1F87952D457E6A134FFDA8B243EFF425 = "Aaaargh"
 	59377DF04AA7FC17CCDC4E81C993B072 = "Enormer Nachteil auf Betäubungschance und -dauer"
@@ -5402,6 +5417,7 @@ STARTEN"
 	6AEB16AD4A40315B0D97DF84DF0D6F38 = "Laserpointer / Teamtracker"
 	8CB234B5447621C7C5B8518B9D95A44B = "des Hinterbliebenen"
 	BF398C5F47A7D201D1A81BA980023570 = "Finale Explosion!!"
+	41C821A3498707677DA8E9AEEEC0D5A8 = "Zuletzt Verändert"
 	267047444A7A8701C942929C2BB61FC8 = "Zu guter Letzt"
 	E688B4A04FC890C10729EAB45BA3D819 = "Der letzte Zwerg in der Kapsel zahlt die erste Runde!"
 	9FE6422F4BFDC9886677C49255AD4C18 = "Letzte Granate!"
@@ -7705,6 +7721,7 @@ möglich"
 	5F40E0664C3861D653BE62BC6298E32B = "Wiederbelebung"
 	D6205FB34F892ABCF89364B4F65335F3 = "Wiederbelebungen"
 	35EDD98F46E47F535FC0128D175EF846 = "Belohnung erhalten"
+	0C7ADDA64EA01E21085781B7F91371C4 = "Belohnung:"
 	81801A7B4E96CEBA7E19848628136803 = "Meistern der <highlight>Schmiedekunst</>"
 	31CDCC9346C04161AAF444AD04476D06 = "Belohungen erreicht: {0}"
 	26F20284475D0C956423A19FAD278217 = "Reiche Atmosphäre"
@@ -7911,7 +7928,7 @@ WÄHLEN"
 	3E80CE28438E6FE3C4B3B4AF22C2C6A0 = "Vollkommen Wild - gepanzert"
 	C54AA04F4C1614CA44A02FA1944D1F97 = "Vollkommen Wild - vergoldet"
 	D4539BB746204174F7A99DAF3E1241C3 = "Speichermenü"
-	A3DB63AD4A97327FBD3689801AAF727C = "Speicherstand"
+	A3DB63AD4A97327FBD3689801AAF727C = "Speicherplatz"
 	929A92DF47CD13F42C8A74B5CCDD89DD = "Aktuellen speichern"
 	6899C9BF4C4EA8CA476B9B96004C66B2 = "Rettet mich!"
 	3B8547F74947774957B2B998CFBD8F02 = "Gerettet von einer Maschine! Wie demütigend!"
@@ -9353,6 +9370,8 @@ Management"
 	71AE8657438EA8B001BD33BD5220D388 = "Das sollte funktionieren!"
 	EB12AF7D45186946415BBD97C71E550E = "Dieses Mal sind wir auf der Suche nach einem Ommorianischen Herzstein! Um ihn zu fördern, senden wir eine autonome Bohrraupe rein. Die Bohrraupe wird den Herzstein automatisch anfahren, und euer Job ist es, sie dort sicher hinzubringen. Viel Glück, Minenarbeiter! "
 	38A31BD747555C9A409CCAB358CBFCA0 = "Wir haben einen Ommorianischen Herzstein geortet! Damit er geborgen werden kann, senden wir eine selbstständige Bohrraupe um euch zu unterstützen. Die Bohrraupe wird automatisch den Herzstein ansteuern, eure Arbeit ist sie zu begleiten und am laufen zuhalten. Viel Glück, Minenarbeiter!"
+	36F0A8BE494353802DB2A6A42D529BB3 = "Diese Verbesserung stellt sicher, dass die Geschwindigkeit des Nutzers auf das Projektil übertragen wird. Nützlich in Hochgeschwindigkeitsanwendungen, jedoch erfordert es mehr Berechnungen."
+	3AF3C0C14077A2FB4AE2138D82F83F5D = "Diese Verbesserung stellt sicher, dass die Geschwindigkeit des Nutzers auf das Projektil übertragen wird. Nützlich in Hochgeschwindigkeitsanwendungen, jedoch erfordert es mehr Berechnungen."
 	A6BFF19D4F0A42DD5673DFAFCBF167F8 = "Dieses Gerät verbindet die Leitungsteile!"
 	DD5C1B154405725F18A31C8A5458309D = "Hier lang!"
 	A165F5D043EDAC78664E9F8E95655C04 = "Das wird sie zurückhalten!"
@@ -10518,6 +10537,8 @@ DURCHBRICH DEN KERN und verdiene <highlight2>Geladene Matrixkerne</> sowie Zugan
 	480374F144204AA7F53ECFB59CA7ADD6 = "Du hast genug Nitra gesammelt um eine <bold>Versorgungskapsel</> anzufordern. Die <bold>Versorgungskapsel</> enthält vier Versorgungsbehälter, welche 50% deiner <bold>Munition</> und <bold>Gesundheit</> wiederherstellen.
 
 Drücke <Resupply/>, um eine Versorgungkapsel anzufordern."
+	28928AED4B8F2FE65D9C11AD65E64DA0 = "Du hast jedes <highlight>Spitzhacken-Teil</> und jede <highlight>Rüstungslackierung</> gesammelt, die derzeit verfügbar sind - gut gemacht!"
+	BB6B7DE346F7580F813BC49DA900155A = "Du hast jedes <highlight>Spitzhacken-Teil</> und jede <highlight>Siegespose</> gesammelt, die derzeit verfügbar sind - gut gemacht!"
 	FB40AB62486C152E823D95A82CB5832D = "Du hast den Auftrag abgeschlossen! Glückwunsch!"
 	9A204C7D48C4B06E33891C8E57E71BCC = "Du hast zum Reichtum von Deep Rock Galactic beigetragen und das Management salutiert dir."
 	E44AE9D746A99F76187759A5181023D3 = "Du hast dich als wichtiges und wertvolles Mitglied von Deep Rock Galactic erwiesen. Management schätzt deinen Beitrag und gewährt dir eine ehrenvolle Beförderung. Das ist ein ganz besonderer Moment - der für die wenigen reserviert ist. Nimm' dir Zeit, um dich darin zu sonnen - wir salutieren dir. Glückwunsch, Minenarbeiter. Fels und Stein!"
@@ -10752,6 +10773,7 @@ Du kannst jetzt <highlight2>zwei</> aktive Perks ausrüsten. Wähle mit Bedacht!
 	B050D188481243FA7B13B6AE3C084C42 = "{count} Gold gesammelt"
 	16FD9ED846C3F24F4D26D98B6B6109CC = "{count} X Primäre Ziele"
 	A1607E904D5B781D34E567A7A992DB56 = "Erreiche {count} sekundäre Ziele"
+	E513135B44D1C7802BFBFE94ABEADE12 = "{current} von {total} Speicherplätzen verwendet"
 	4432A1B649946560A378BD859844C006 = "{name} Lizenz"
 	4B20B5A64B15DE68A93A28AA3869E2BF = ""Ich fürchte keinen Mann, kein Tier oder Übel, Brüder.""
 	5CDE33454C9AA5FC2E78D59DE06A7D0B = "“Tut mir leid, dies sollte ein privates Spiel sein.”"
@@ -11549,7 +11571,7 @@ Management"
 	74386ABD4E9BAA647A338D82D2ACEFBF = "Schnellbeitritt"
 	9F1A115F4C5278E831AD4DB6BF09DA75 = "Schnellbeitritt"
 	Presige_PlayerRank_Name_PickaxeHunt = "Bereit, nach einem kompletten Spitzhackenset zu jagen?"
-	Presige_PlayerRank_Name_ArmorHunt = "Bereit nach einer universellen Panzerungs Lackierung und einem Helm zu jagen?"
+	Presige_PlayerRank_Name_ArmorHunt = "Bereit nach einer universellen Rüstungslackierung und einem Helm zu jagen?"
 	RewardFlavorText_ReapersClaw = "Die Kralle des Schnitters - der Fluch der Arthropoden. Die brutalste Spitzhacke zur Wahl für die kampferprobtesten Kampfminenarbeiter."
 	RewardFlavorText_RegalAegis = "Königliche Obhut - stabiles Bollwerk. Für die Verteidigung unserer Bestände und die Herrschaft der Ordnung."
 	RewardFlavorText_ScaleBrigade = "Drachenkorps - Nur der Kühnste darf dem Drachenkorps beitreten."
@@ -11580,7 +11602,7 @@ Herzlichen Glückwunsch zu diesem Fortschritt!
 
 - Grüße, 
 Management"
-	Prestige_Assignment_description_ArmorHunt = "Du bist stetig die Ränge aufgestiegen und hast dich somit als ein wichtiges Mitglied der Firma erwiesen! Das Management belohnt dich mit Zugang zu einem BESONDEREM PRESTIGE-AUFTRAG, bei dem du die Chance erhälst, ein KOMPLETTES SPITZHACKEN-SET zu erhalten.
+	Prestige_Assignment_description_ArmorHunt = "Du bist stetig die Ränge aufgestiegen und hast dich somit als ein wichtiges Mitglied der Firma erwiesen! Das Management belohnt dich mit Zugang zu einem BESONDEREM PRESTIGE-AUFTRAG, bei dem du die Chance erhältst, eine komplette PANZERUNGSLACKIERUNG mit HELM zu erhalten.
 
 Herzlichen Glückwunsch zu diesem Fortschritt!
 
@@ -11669,7 +11691,7 @@ Bergbau ist ein Werk der Liebe!"
 Personalisiere deine Spitzhacke an der <highlight>Spitzhacken-Werkbank</>.
 
 Bergbau ist ein Werk der Liebe!"
-	PROMO_ARMOR_PJ = "Als ein kleines Zeichen unserer Dankbarkeit, in Hinsicht deiner Beförderung, erhältst du eine besondere <highlight2>Panzerungs Lackierung</>
+	PROMO_ARMOR_PJ = "Als ein kleines Zeichen unserer Dankbarkeit, in Hinsicht deiner Beförderung, erhältst du eine besondere <highlight2>Rüstungslackierung</>
 
 Benutze das <highlight>Garderoben Terminal</> um sie auszurüsten.
 

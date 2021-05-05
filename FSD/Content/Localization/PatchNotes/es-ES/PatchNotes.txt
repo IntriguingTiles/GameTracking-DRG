@@ -1,8 +1,8 @@
-86 entries
+88 entries
 1 namespaces
-84 values
+85 values
 
-Namespace PatchNotes (86 keys)
+Namespace PatchNotes (88 keys)
 	Update_30_Header = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_30_ShortTitle = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_23 = "De acuerdo, mineros, ¡venid aquí y cerrad el pico unos minutos!
@@ -2254,6 +2254,490 @@ CORRECCIONES
 - Se ha corregido un error de ralentización para la frecuencia de fotogramas, causado por el uso del puntero láser en los túneles glífidos y en los minerales incrustados.
 - Los enemigos ya no deberían emitir sonidos una vez muertos. Pues...tiene sentido, sí...
 - Los enjambres y cazadores mactera ya no deberían atascarse en la rejilla de embarque de tus cápsulas al cargar contra ti.
+"
+	Update_34 = "¡Saludos, mineros!
+Estamos de vuelta con vosotros, ¡y traemos una modesta actualización para el juego bajo el brazo! Seguimos trabajando a buen ritmo para cumplir nuestros objetivos a largo plazo de la actualización 35, pero con la 34 queremos hacer menos angustiosa la espera. Tenemos cosas nuevas: enemigos de élite, la inclusión de alertas dobles en las misiones (además de dos nuevos tipos de alertas), muchos cambios a las armas, ¡y una gran cantidad de elementos nuevos para manteneros ocupados! ¡Es hora de volver a las profundidades de Hoxxes y enfrentarse a los nuevos peligros que os aguardan!
+
+Os queremos,
+El equipo de Ghost Ship
+
+--- NOTAS DE LA VERSIÓN ---
+
+ENEMIGOS DE ÉLITE 
+----------------------------
+Los enemigos de élite son más duros, más rápidos y más peligrosos que sus congéneres normales (esos que os gustan tanto... cuando están bien muertos). Habrá una pequeña probabilidad de que aparezcan en misiones normales de nivel de riesgo 3 o superior, ¡así que sentiros "afortunados" si os encontráis con uno! 
+
+
+NUEVAS ALERTAS
+----------------------------
+¡Se han descubierto nuevas amenazas en las cuevas de Hoxxes!  
+
+AMENAZA DE ÉLITE
+Las misiones con esta alerta tendrán una altísima probabilidad de tener enemigos de élite.  
+
+ENJAMBROCALIPSIS
+Esta alerta te traerá una de las situaciones más agobiantes a las que te hayas enfrentado: oleadas y oleadas de enjambres esperándote en las minas. ¡Recuerda traer suficiente pesticida y balas! 
+
+
+ALERTAS DOBLES = DIVERSIÓN DOBLE
+----------------------------
+Un comité de innovación asignado por la Directiva ha intentado contestar a la siguiente pregunta: "¿Qué iniciativas novedosas y de carácter único podrían llevarnos a mejorar los beneficios de la compañía?" Tras muchas sesiones de discusión, talleres y horas extra, por fin han encontrado la respuesta: las misiones con dos alertas en lugar de con una sola.
+
+Reunid a un equipo de compañeros mineros e intentad completar estos retos solo para los mejores. Demostrad que sois los mejores entre los mejores, y que para vosotros las misiones con una alerta son un paseo. ¡Roca y piedra!
+¡Ah, por cierto! Las misiones con alertas dobles se han considerado tan peligrosas que se han excluido de las misiones profundas y de los encargos.
+
+REASIGNACIÓN DE CONTROLES
+----------------------------
+¿Te frustran los controles actuales del juego? ¿Crees que tu rendimiento de minería podría mejorar si pudieras mapear las acciones de forma diferente? ¿Quieres tener una mejor experiencia con tu mando de juego? ¡Pues tenemos noticias para ti! Con la nueva opción para enlazar acciones en tu mando, podrás crear por fin la configuración que necesitas para jugar cómodamente.
+
+
+RASTREO MEJORADO PARA BALAS
+----------------------------
+Se ha optimizado enormemente la forma en la que se rastrean los disparos en situaciones en red. El resultado debería ser una respuesta más rápida al disparar proyectiles. ¡Y también un menor uso de ancho de banda para las situaciones de disparo!
+
+
+PERFILES Y PARTIDAS GUARDADAS
+----------------------------
+Ahora contarás con la opción de gestionar diferentes perfiles y sus partidas guardadas asociadas (ya sea para jugar con diferentes Mods o por cualquier otro motivo que te apetezca). Por fin podrás crear un perfil para hacer locuras, sin afectar a tu cuenta principal de minero experto. En un principio, esta opción se diseñó para ser parte de una solución de soporte para Mods con mucho más contenido, pero hemos decidido posponer dicha adición al juego y añadirla más adelante. Estamos pensando en algo mucho más estructurado y con mejores soluciones para la introducción de Mods en el juego, y os desvelaremos más información conforme este proyecto avance. ¡Permaneced atentos a las novedades!
+
+
+CAMBIOS A LAS ARMAS
+----------------------------
+Los chicos de I+D han estado trabajando duro para equilibrar las armas, pirateos y Mods. Aquí están los cambios que han realizado:
+
+Pistola de ráfaga BRT7
+- Se ha aumentado el daño base del arma
+- Se han trasladado algunas de las bonificaciones del Mod "Limitador desactivado" al arma
+- Se ha reducido la bonificación del Mod "Limitador desactivado"
+- Se ha reducido la penalización de munición del pirateo "Rondas experimentales"
+- Se ha cambiado la penalización de daño del pirateo "Microflechas" de un porcentaje a un valor fijo
+
+Pirateo "Mini-minas eléctricas" del BRT7
+- Se ha aumentado considerablemente la duración de la electrocución
+- Se ha disminuido la penalización al daño
+- Se ha aumentado la penalización a los cartuchos
+- Se ha aumentado la durabilidad de las mini-minas
+
+Revólver pesado "Bulldog"
+- Se ha movido parte de la bonificación de daño del Mod "Rondas de calibre aumentado" al arma
+- Se ha movido parte de la bonificación de daño del Mod "Munición de alta velocidad" al arma
+- Se ha movido parte de la bonificación del Mod "Balas de punta hueca" al arma
+- Se ha aumentado considerablemente la probabilidad de activación del pirateo "Golpe en cadena"
+- Se ha disminuido considerablemente la penalización de daño en el pirateo "Balas volátiles"
+- Se ha reducido la bonificación de munición del pirateo "Seis disparos"
+- Se ha disminuido la cadencia de disparo del pirateo "Seis disparos"
+- Se ha aumentado la bonificación máxima accesible con el pirateo "Pólvora casera"
+- Se ha reducido el daño mínimo accesible con el pirateo "Pólvora casera"
+- Se ha cambiado la clasificación del pirateo "Pólvora casera" de "Simple" a "Equilibrado"
+- Se ha reducido ligeramente la penalización de munición del pirateo "Rondas descomunales" 
+
+M1000 Classic
+- Se ha aumentado el daño base del arma
+- Se ha disminuido la bonificación base de daño a puntos débiles
+- Se ha disminuido la bonificación del Mod "Balas de punta hueca"
+- Se han movido algunas de las bonificaciones del Mod "Bobinas de carga rápida" al arma
+- Se ha cambiado el Mod "Munición endurecida" de nivel 4 a nivel 2
+- Se ha aumentado el alcance y la potencia del Mod "Miedo por disparo preciso"
+- Se ha cambiado la bonificación de munición del pirateo "Cartuchos minúsculos" a una bonificación por porcentaje del tamaño de cargador
+- Se han reducido ligeramente las penalizaciones a la munición y la velocidad de carga del pirateo "Cámara de superenfriamiento"
+- Se ha cambiado la penalización de daño del pirateo "Hipster" de un porcentaje a un valor único, permitiendo que el daño se acumule y que alcance ciertos valores útiles. También se ha aumentado ligeramente la bonificación de munición
+- Se han hecho cambios al punto de mira del arma para facilitar los disparos de precisión y los disparos sin apuntar
+
+Deepcore GK2
+- Se ha reducido la penalización de daño del pirateo "Recarga eléctrica" y se ha extendido significativamente la duración del efecto de electrocución
+- Se ha reducido la penalización de retroceso del pirateo "Forzado del mecanismo de fuego"
+- Se ha aumentado ligeramente la munición base
+
+Cargador de plasma experimental
+- Se han reorganizado algunos de los Mods para proporcionar algunas elecciones más interesantes
+- Se ha movido el Mod "Onda expansiva reactiva" al nivel 4
+- Se ha movido el Mod "Mayor área de efecto del plasma" a nivel 4
+- Se ha movido el Mod "Escudo de calor" a nivel 2
+- Se ha mejorado ligeramente la recuperación del retroceso (petición de la comunidad... tú ya sabes quién eres...)
+- Se ha reducido significativamente el calor generado al disparar proyectiles cargados con el arma base
+- Se ha disminuido ligeramente la velocidad de carga básica
+- Se ha organizado la lista de estadísticas del arma en la terminal de Equipo
+- Se ha añadido una bonificación de daño porcentual y se ha aumentado la penalización del radio de efecto al Mod "Pesadilla nocturna"
+- El pirateo "Tubería de calor" ahora penalizará el calor de los disparos cargados en lugar de el de los disparos normales
+- Se ha reducido la penalización de munición de los disparos cargados en el pirateo "Sobrealimentador", y se ha cambiado de tener un valor porcentual a un valor fijo
+- Se ha reducido la penalización al daño del pirateo "Plasma persistente", se ha aumentado el daño infligido por el campo de plasma y se ha añadido un pequeño efecto de ralentización al campo
+
+Cortabrechas
+- Se ha aumentado la bonificación de velocidad del Mod "Eyector de carga mejorado"
+- Se ha aumentado el daño infligido por el campo de plasma del Mod "Despedida explosiva", y se ha añadido un pequeño efecto de ralentización a cualquier enemigo que se vea atrapado en el campo
+- Se ha eliminado la penalización de munición del pirateo "Infierno"
+- Se ha reducido la penalización de daño del pirateo "Muerte giratoria"
+
+Subfusil voltaico "Stubby"
+- Se ha reducido ligeramente el retroceso base
+
+Pirateo "Arco de torreta de Stubby"
+- Se ha aumentado la distancia máxima permitida entre torretas para que el arco pueda conectarse
+- Se ha aumentado el daño del arco
+- Se ha aumentado la ralentización del arco
+- Se ha aumentado la duración del arco
+- Se ha aumentado el tamaño del área de una torreta electrificada en donde los enemigos pueden electrocutarse
+- El arco de torreta ahora inflige significativamente menos daño a los aliados y no los ralentiza
+
+Pirateo "Descarga EM de Stubby"
+- Se ha aumentado el daño por descarga
+- Se ha aumentado el alcance en el cual el daño comienza a decaer
+- Se ha disminuido significativamente el fuego aliado
+- Se ha reducido la penalización de daño del pirateo
+- Se ha cambiado la penalización de probabilidad de electrocución por una penalización de menor tamaño de cargador
+
+Subata 120
+- Se ha aumentado la bonificación de dispersión por disparo del Mod "Compensador de retroceso"
+- Se ha reducido la penalización del pirateo "Rondas tranquilizantes"
+- Se ha aumentado la probabilidad de activación del pirateo "Impacto en cadena"
+
+Zhukov NUK17
+- Se ha añadido una bonificación al dañar los puntos débiles al arma
+- Se ha movido parte de la bonificación de munición del Mod de nivel 4 "Cajas de munición más grandes" al arma 
+- Se ha reducido ligeramente la dispersión base
+- Se ha aumentado la reducción de dispersión del Mod "Mejor equilibrio del peso"
+- Se ha cambiado la penalización de daño del pirateo "Carcasas personalizadas" a una penalización de la cadencia de tiro
+- Se ha aumentado la probabilidad de crear una mini-mina criogénica con el pirateo "Mini-minas criogénicas" y se ha reducido ligeramente el sistema de partículas, que ahora debería mejorar el rendimiento y la visibilidad
+
+Escopeta recortada
+- Se ha mejorado el Mod de nivel 3 "Aturdir" para permitir también la probabilidad de aturdir, añadiendo además una mayor duración de sus efectos
+- Se ha corregido un error por el que las estadísticas no mostraban la probabilidad de aturdimiento como un valor "por perdigón"
+- Se ha reducido la penalización del pirateo "Balas moldeadas" y se ha aumentado la bonificación de precisión
+
+Criocañón
+- Se ha aumentado ligeramente la bonificación del Mod "Bomba mejorada"
+- Se ha convertido el pirateo "Refrigerador maximizado" en un pirateo equilibrado añadiéndole unas pequeñas penalizaciones al tiempo de carga y a la recuperación de presión. También se lo ha renombrado como "Refrigerador calibrado"
+- El pirateo "Tormenta de hielo" ahora inflige daño adicional contra enemigos congelados, pero tiene una penalización ligeramente mayor a la munición
+
+Lanzallamas CRSPR
+- Se ha mejorado la probabilidad de que el Mod "¡Quema!" cause miedo a los enemigos
+- Se ha movido parte de la bonificación de daño del Mod "Combustible sin filtrar" al arma
+- Se ha añadido una bonificación a la munición y una pequeña penalización de recarga al pirateo "Válvulas de alimentación compactas"
+- Se ha aumentado la bonificación de daño y de alcance de disparo del pirateo "Fundidor de rostros", y se ha sustituido la penalización de munición por una penalización del alcance de disparo. También se ha sustituido la penalización a la velocidad de movimiento con una penalización a la capacidad del tanque
+
+Lanzagranadas DeepCore
+- Se ha aumentado el alcance en el cual se reduce el daño de la explosión, y se ha reducido significativamente dicha reducción del daño máximo
+- Se ha aumentado la bonificación de daño del Mod "Compuesto ACE"
+- Se ha disminuido la bonificación de munición del Mod de nivel 2 "Cajas de munición más grandes"
+- Se ha movido el Mod "Granadas de alta velocidad" del nivel 2 al nivel 3
+- Se ha añadido una pequeña bonificación porcentual del alcance de explosión al Mod "Disparador de proximidad"
+- Se ha aumentado la penalización de daño del pirateo "Compuesto RJ250", y se ha añadido una bonificación alta tanto a la velocidad de recarga como del porcentaje de munición que puedes cargar
+- Se ha aumentado la bonificación de munición del pirateo "Munición compacta"
+
+Ametralladora multicañón "Lead Storm"
+- Se ha reducido el efecto de enfriamiento del Mod "Fría como la muerte"
+- Ahora, el Mod "Purga violenta" reduce significativamente el tiempo que se tarda en recuperarse de un sobrecalentamiento
+- Se ha movido parte de la bonificación del Mod "Estabilidad de plataforma mejorada" al arma
+- Ahora, el Mod "Refrigeración magnética" también reduce significativamente el tiempo de espera antes de que comience el enfriamiento
+- Se ha corregido un error por el que no existía la pequeña fracción de tiempo entre disparar y enfriar
+- Se ha reducido la probabilidad base de aturdimiento
+- Se ha añadido una bonificación a la probabilidad de aturdimiento y se ha aumentado la bonificación de la duración del aturdimiento del Mod "Duración del aturdimiento", que se ha renombrado como "Aturdimiento mejorado"
+- Se ha acortado el tiempo base del frenado de giro y se ha aumentado la bonificación del Mod "Rodamientos magnéticos". Además, ahora el Mod también afecta de forma correcta al tiempo durante el cual el arma sigue disparando de forma precisa
+- Se ha aumentado significativamente la probabilidad de rebote de los disparos, y se ha aumentado ligeramente la distancia máxima de rebote del pirateo "Infierno de balas"
+- El pirateo "Tormenta de plomo" ya no impedirá los aturdimientos, solo reducirá significativamente su viabilidad. Por eso, ahora el Mod "Aturdimiento mejorado" puede aplicar sus efectos sobre él
+
+Cañón automático "Thunderhead"
+- Se ha reducido la bonificación de daño del Mod "Bucle de retroalimentación"
+- Se ha aumentado la bonificación de cadencia de disparo del Mod "Sistema de gas mejorado"
+- Se ha movido parte de la bonificación del Mod "Montaje de barril más ligero" al arma
+- Se ha aumentado la penalización por daño directo y se ha reducido ligeramente la bonificación del radio de efecto del pirateo "Bombardeo en área"
+- Se han reducido ligeramente las penalizaciones de daño directo y en área, se ha ampliado el radio de efecto y se ha aumentado la probabilidad de aplicar el efecto de toxina usando el pirateo "Descarga de neurotoxinas"
+- Se ha sustituido la bonificación de velocidad de recarga por una bonificación de "velocidad de crecimiento para la cadencia de tiro" en el pirateo "Movilidad de combate"
+
+"Warthog" Auto 210
+- Se ha reducido la bonificación del Mod "Cargador de alta capacidad"
+- Se ha aumentado muy ligeramente la bonificación del Mod "Cajas de munición más grandes"
+
+Mod "Potenciador de torreta" del "Warthog"
+- Se ha reducido el coste de munición para activar el efecto
+- Se ha aumentado la velocidad del proyectil
+- Se ha aumentado el daño
+- Se ha aumentado el radio de daño
+
+- Se ha reducido muy ligeramente la bonificación del pirateo "Minibalas"
+- Se ha reducido la bonificación de munición del pirateo "Cargadores ligeros"
+
+Granada ACE del perforador
+- Se ha aumentado el daño
+- Se ha reducido la disminución de daño al alejarse del punto de impacto
+- Se ha ampliado ligeramente la zona de daño máximo
+- Se ha aumentado la cantidad de granadas que puedes llevar
+
+
+OTROS CAMBIOS
+----------------------------
+- Se han corregido varios errores fatales de tipo "pathfinder"
+- Se ha corregido un error fatal que ocurría al unirte a una partida
+- Se ha corregido un error por el que la terminal de Ascensos no siempre mostraba el personaje seleccionado
+- Se ha corregido un error por el que la terminal de Bosco no siempre se cerraba correctamente al usar atajos del mando
+- Se ha corregido un error por el que la cápsula de transporte podía llegar a aterrizar demasiado cerca de los eventos de máquina, impidiendo que la misión pudiera completarse
+- Se ha corregido un error por el que no se podía desbloquear aptitudes pulsando el botón E
+- Se ha corregido un error por el que podías cancelar el proceso de unirse a una partida, aunque no deberías poder hacerlo
+- Se ha corregido un error por el que un túnel podía no conectarse correctamente con la cueva siguiente
+- Se ha corregido un error por el que el tanque de petróleo en la mision de escolta era devuelto al comienzo del nivel si el cliente que tiene un ping malo lo recogía
+- Se ha corregido un error por el que podías conseguir objetos adicionales de objetivos secundarios en misiones con determinadas alertas (Anomalías en el escudo)
+-  Se ha intentado corregir un error por el que las semillas mugrientas aparecían en 0,0,0
+- Se ha intentado corregir un problema que se daba cuando un jugador se unía a una partida ya creada
+- Se han añadido una tonelada de pequeños cambios de IU relacionados con la fuente, el espaciado y el estilo
+- Se han realizado algunos cambios a la malla de la Plataforma Espacial
+- Se han realizado algunos cambios en las mezclas de sonido del Armario
+- Se ha mejorado la mecánica de ubicación de los pozos en una misión de refinado Ahora tendrás menos posibilidades de colocarlo de forma incorrecta.
+- Se ha reducido el fuerte escalado de los requisitos de repostaje de manera agresiva, que ahora se basaré en el número de jugadores
+- Se ha aumentado ligeramente el DPS promedio del daño con el tiempo por fuego, y también lo hemos hecho más consistente
+- Se ha reducido ligeramente lo rápido que un jugador puede cambiar de dirección en una tirolina
+- Se ha aumentado el ángulo base de la tirolina y la bonificación del Mod "Junta de conexión mejorada"
+- Ahora, las granadas del lanzagranadas y los proyectiles de la pistola de plataformas adquieren la velocidad del personaje, haciéndolas más fáciles de usar mientras caes o al moverte a gran velocidad
+- Se ha aumentado la probabilidad de que los enemigos que caminan y pueden disparar ataquen a los jugadores en las tirolinas
+- Ahora el césped se moverá cuando los enanos lo atraviesen
+- Se ha activado DX12 por defecto en el juego. Si tienes problemas usando DX12, puedes devolverlo a DX11 en cualquier momento
+- Se ha facilitado la capacidad de traducción de una buena cantidad de líneas de texto del juego
+- Se han corregido varios errores de IU en el menú de pedidos del bar. También se ha añadido la IU de descongelamiento cuando estés congelado por el efecto de una "Wormhole Special"
+- Ahora, los minerales conseguidos mediante explosiones saltarán una distancia proporcional a la explosión, y no caerán simplemente al suelo por efecto de la gravedad
+- Mantente informado con los nuevos comunicados noticiarios añadidos a la terminal de Comercio de minerales
+- Ahora, la barra de salud de Steeve también mostrará el nombre del jugador que usó la aptitud "Maestro de las bestias"
+
+"
+	Update_34_Xbox = "¡Saludos, mineros!
+Estamos de vuelta con vosotros, ¡y traemos una modesta actualización para el juego bajo el brazo! Seguimos trabajando a buen ritmo para cumplir nuestros objetivos a largo plazo de la actualización 35, pero con la 34 queremos hacer menos angustiosa la espera. Tenemos cosas nuevas: enemigos de élite, la inclusión de alertas dobles en las misiones (además de dos nuevos tipos de alertas), muchos cambios a las armas, ¡y una gran cantidad de elementos nuevos para manteneros ocupados! ¡Es hora de volver a las profundidades de Hoxxes y enfrentarse a los nuevos peligros que os aguardan!
+
+Os queremos,
+El equipo de Ghost Ship
+
+--- NOTAS DE LA VERSIÓN ---
+
+ENEMIGOS DE ÉLITE 
+----------------------------
+Los enemigos de élite son más duros, más rápidos y más peligrosos que sus congéneres normales (esos que os gustan tanto... cuando están bien muertos). Habrá una pequeña probabilidad de que aparezcan en misiones normales de nivel de riesgo 3 o superior, ¡así que sentiros "afortunados" si os encontráis con uno! 
+
+
+NUEVAS ALERTAS
+----------------------------
+¡Se han descubierto nuevas amenazas en las cuevas de Hoxxes!  
+
+AMENAZA DE ÉLITE
+Las misiones con esta alerta tendrán una altísima probabilidad de tener enemigos de élite.  
+
+ENJAMBROCALIPSIS
+Esta alerta te traerá una de las situaciones más agobiantes a las que te hayas enfrentado: oleadas y oleadas de enjambres esperándote en las minas. ¡Recuerda traer suficiente pesticida y balas! 
+
+
+ALERTAS DOBLES = DIVERSIÓN DOBLE
+----------------------------
+Un comité de innovación asignado por la Directiva ha intentado contestar a la siguiente pregunta: "¿Qué iniciativas novedosas y de carácter único podrían llevarnos a mejorar los beneficios de la compañía?" Tras muchas sesiones de discusión, talleres y horas extra, por fin han encontrado la respuesta: las misiones con dos alertas en lugar de con una sola.
+
+Reunid a un equipo de compañeros mineros e intentad completar estos retos solo para los mejores. Demostrad que sois los mejores entre los mejores, y que para vosotros las misiones con una alerta son un paseo. ¡Roca y piedra!
+¡Ah, por cierto! Las misiones con alertas dobles se han considerado tan peligrosas que se han excluido de las misiones profundas y de los encargos.
+
+REASIGNACIÓN DE CONTROLES
+----------------------------
+¿Te frustran los controles actuales del juego? ¿Crees que tu rendimiento de minería podría mejorar si pudieras mapear las acciones de forma diferente? ¿Quieres tener una mejor experiencia con tu mando de juego? ¡Pues tenemos noticias para ti! Con la nueva opción para enlazar acciones en tu mando, podrás crear por fin la configuración que necesitas para jugar cómodamente.
+
+
+RASTREO MEJORADO PARA BALAS
+----------------------------
+Se ha optimizado enormemente la forma en la que se rastrean los disparos en situaciones en red. El resultado debería ser una respuesta más rápida al disparar proyectiles. ¡Y también un menor uso de ancho de banda para las situaciones de disparo!
+
+
+PERFILES Y PARTIDAS GUARDADAS
+----------------------------
+Ahora contarás con la opción de gestionar diferentes perfiles y sus partidas guardadas asociadas (ya sea para jugar con diferentes Mods o por cualquier otro motivo que te apetezca). Por fin podrás crear un perfil para hacer locuras, sin afectar a tu cuenta principal de minero experto. En un principio, esta opción se diseñó para ser parte de una solución de soporte para Mods con mucho más contenido, pero hemos decidido posponer dicha adición al juego y añadirla más adelante. Estamos pensando en algo mucho más estructurado y con mejores soluciones para la introducción de Mods en el juego, y os desvelaremos más información conforme este proyecto avance. ¡Permaneced atentos a las novedades!
+
+
+CAMBIOS A LAS ARMAS
+----------------------------
+Los chicos de I+D han estado trabajando duro para equilibrar las armas, pirateos y Mods. Aquí están los cambios que han realizado:
+
+Pistola de ráfaga BRT7
+- Se ha aumentado el daño base del arma
+- Se han trasladado algunas de las bonificaciones del Mod "Limitador desactivado" al arma
+- Se ha reducido la bonificación del Mod "Limitador desactivado"
+- Se ha reducido la penalización de munición del pirateo "Rondas experimentales"
+- Se ha cambiado la penalización de daño del pirateo "Microflechas" de un porcentaje a un valor fijo
+
+Pirateo "Mini-minas eléctricas" del BRT7
+- Se ha aumentado considerablemente la duración de la electrocución
+- Se ha disminuido la penalización al daño
+- Se ha aumentado la penalización a los cartuchos
+- Se ha aumentado la durabilidad de las mini-minas
+
+Revólver pesado "Bulldog"
+- Se ha movido parte de la bonificación de daño del Mod "Rondas de calibre aumentado" al arma
+- Se ha movido parte de la bonificación de daño del Mod "Munición de alta velocidad" al arma
+- Se ha movido parte de la bonificación del Mod "Balas de punta hueca" al arma
+- Se ha aumentado considerablemente la probabilidad de activación del pirateo "Golpe en cadena"
+- Se ha disminuido considerablemente la penalización de daño en el pirateo "Balas volátiles"
+- Se ha reducido la bonificación de munición del pirateo "Seis disparos"
+- Se ha disminuido la cadencia de disparo del pirateo "Seis disparos"
+- Se ha aumentado la bonificación máxima accesible con el pirateo "Pólvora casera"
+- Se ha reducido el daño mínimo accesible con el pirateo "Pólvora casera"
+- Se ha cambiado la clasificación del pirateo "Pólvora casera" de "Simple" a "Equilibrado"
+- Se ha reducido ligeramente la penalización de munición del pirateo "Rondas descomunales" 
+
+M1000 Classic
+- Se ha aumentado el daño base del arma
+- Se ha disminuido la bonificación base de daño a puntos débiles
+- Se ha disminuido la bonificación del Mod "Balas de punta hueca"
+- Se han movido algunas de las bonificaciones del Mod "Bobinas de carga rápida" al arma
+- Se ha cambiado el Mod "Munición endurecida" de nivel 4 a nivel 2
+- Se ha aumentado el alcance y la potencia del Mod "Miedo por disparo preciso"
+- Se ha cambiado la bonificación de munición del pirateo "Cartuchos minúsculos" a una bonificación por porcentaje del tamaño de cargador
+- Se han reducido ligeramente las penalizaciones a la munición y la velocidad de carga del pirateo "Cámara de superenfriamiento"
+- Se ha cambiado la penalización de daño del pirateo "Hipster" de un porcentaje a un valor único, permitiendo que el daño se acumule y que alcance ciertos valores útiles. También se ha aumentado ligeramente la bonificación de munición
+- Se han hecho cambios al punto de mira del arma para facilitar los disparos de precisión y los disparos sin apuntar
+
+Deepcore GK2
+- Se ha reducido la penalización de daño del pirateo "Recarga eléctrica" y se ha extendido significativamente la duración del efecto de electrocución
+- Se ha reducido la penalización de retroceso del pirateo "Forzado del mecanismo de fuego"
+- Se ha aumentado ligeramente la munición base
+
+Cargador de plasma experimental
+- Se han reorganizado algunos de los Mods para proporcionar algunas elecciones más interesantes
+- Se ha movido el Mod "Onda expansiva reactiva" al nivel 4
+- Se ha movido el Mod "Mayor área de efecto del plasma" a nivel 4
+- Se ha movido el Mod "Escudo de calor" a nivel 2
+- Se ha mejorado ligeramente la recuperación del retroceso (petición de la comunidad... tú ya sabes quién eres...)
+- Se ha reducido significativamente el calor generado al disparar proyectiles cargados con el arma base
+- Se ha disminuido ligeramente la velocidad de carga básica
+- Se ha organizado la lista de estadísticas del arma en la terminal de Equipo
+- Se ha añadido una bonificación de daño porcentual y se ha aumentado la penalización del radio de efecto al Mod "Pesadilla nocturna"
+- El pirateo "Tubería de calor" ahora penalizará el calor de los disparos cargados en lugar de el de los disparos normales
+- Se ha reducido la penalización de munición de los disparos cargados en el pirateo "Sobrealimentador", y se ha cambiado de tener un valor porcentual a un valor fijo
+- Se ha reducido la penalización al daño del pirateo "Plasma persistente", se ha aumentado el daño infligido por el campo de plasma y se ha añadido un pequeño efecto de ralentización al campo
+
+Cortabrechas
+- Se ha aumentado la bonificación de velocidad del Mod "Eyector de carga mejorado"
+- Se ha aumentado el daño infligido por el campo de plasma del Mod "Despedida explosiva", y se ha añadido un pequeño efecto de ralentización a cualquier enemigo que se vea atrapado en el campo
+- Se ha eliminado la penalización de munición del pirateo "Infierno"
+- Se ha reducido la penalización de daño del pirateo "Muerte giratoria"
+
+Subfusil voltaico "Stubby"
+- Se ha reducido ligeramente el retroceso base
+
+Pirateo "Arco de torreta de Stubby"
+- Se ha aumentado la distancia máxima permitida entre torretas para que el arco pueda conectarse
+- Se ha aumentado el daño del arco
+- Se ha aumentado la ralentización del arco
+- Se ha aumentado la duración del arco
+- Se ha aumentado el tamaño del área de una torreta electrificada en donde los enemigos pueden electrocutarse
+- El arco de torreta ahora inflige significativamente menos daño a los aliados y no los ralentiza
+
+Pirateo "Descarga EM de Stubby"
+- Se ha aumentado el daño por descarga
+- Se ha aumentado el alcance en el cual el daño comienza a decaer
+- Se ha disminuido significativamente el fuego aliado
+- Se ha reducido la penalización de daño del pirateo
+- Se ha cambiado la penalización de probabilidad de electrocución por una penalización de menor tamaño de cargador
+
+Subata 120
+- Se ha aumentado la bonificación de dispersión por disparo del Mod "Compensador de retroceso"
+- Se ha reducido la penalización del pirateo "Rondas tranquilizantes"
+- Se ha aumentado la probabilidad de activación del pirateo "Impacto en cadena"
+
+Zhukov NUK17
+- Se ha añadido una bonificación al dañar los puntos débiles al arma
+- Se ha movido parte de la bonificación de munición del Mod de nivel 4 "Cajas de munición más grandes" al arma 
+- Se ha reducido ligeramente la dispersión base
+- Se ha aumentado la reducción de dispersión del Mod "Mejor equilibrio del peso"
+- Se ha cambiado la penalización de daño del pirateo "Carcasas personalizadas" a una penalización de la cadencia de tiro
+- Se ha aumentado la probabilidad de crear una mini-mina criogénica con el pirateo "Mini-minas criogénicas" y se ha reducido ligeramente el sistema de partículas, que ahora debería mejorar el rendimiento y la visibilidad
+
+Escopeta recortada
+- Se ha mejorado el Mod de nivel 3 "Aturdir" para permitir también la probabilidad de aturdir, añadiendo además una mayor duración de sus efectos
+- Se ha corregido un error por el que las estadísticas no mostraban la probabilidad de aturdimiento como un valor "por perdigón"
+- Se ha reducido la penalización del pirateo "Balas moldeadas" y se ha aumentado la bonificación de precisión
+
+Criocañón
+- Se ha aumentado ligeramente la bonificación del Mod "Bomba mejorada"
+- Se ha convertido el pirateo "Refrigerador maximizado" en un pirateo equilibrado añadiéndole unas pequeñas penalizaciones al tiempo de carga y a la recuperación de presión. También se lo ha renombrado como "Refrigerador calibrado"
+- El pirateo "Tormenta de hielo" ahora inflige daño adicional contra enemigos congelados, pero tiene una penalización ligeramente mayor a la munición
+
+Lanzallamas CRSPR
+- Se ha mejorado la probabilidad de que el Mod "¡Quema!" cause miedo a los enemigos
+- Se ha movido parte de la bonificación de daño del Mod "Combustible sin filtrar" al arma
+- Se ha añadido una bonificación a la munición y una pequeña penalización de recarga al pirateo "Válvulas de alimentación compactas"
+- Se ha aumentado la bonificación de daño y de alcance de disparo del pirateo "Fundidor de rostros", y se ha sustituido la penalización de munición por una penalización del alcance de disparo. También se ha sustituido la penalización a la velocidad de movimiento con una penalización a la capacidad del tanque
+
+Lanzagranadas DeepCore
+- Se ha aumentado el alcance en el cual se reduce el daño de la explosión, y se ha reducido significativamente dicha reducción del daño máximo
+- Se ha aumentado la bonificación de daño del Mod "Compuesto ACE"
+- Se ha disminuido la bonificación de munición del Mod de nivel 2 "Cajas de munición más grandes"
+- Se ha movido el Mod "Granadas de alta velocidad" del nivel 2 al nivel 3
+- Se ha añadido una pequeña bonificación porcentual del alcance de explosión al Mod "Disparador de proximidad"
+- Se ha aumentado la penalización de daño del pirateo "Compuesto RJ250", y se ha añadido una bonificación alta tanto a la velocidad de recarga como del porcentaje de munición que puedes cargar
+- Se ha aumentado la bonificación de munición del pirateo "Munición compacta"
+
+Ametralladora multicañón "Lead Storm"
+- Se ha reducido el efecto de enfriamiento del Mod "Fría como la muerte"
+- Ahora, el Mod "Purga violenta" reduce significativamente el tiempo que se tarda en recuperarse de un sobrecalentamiento
+- Se ha movido parte de la bonificación del Mod "Estabilidad de plataforma mejorada" al arma
+- Ahora, el Mod "Refrigeración magnética" también reduce significativamente el tiempo de espera antes de que comience el enfriamiento
+- Se ha corregido un error por el que no existía la pequeña fracción de tiempo entre disparar y enfriar
+- Se ha reducido la probabilidad base de aturdimiento
+- Se ha añadido una bonificación a la probabilidad de aturdimiento y se ha aumentado la bonificación de la duración del aturdimiento del Mod "Duración del aturdimiento", que se ha renombrado como "Aturdimiento mejorado"
+- Se ha acortado el tiempo base del frenado de giro y se ha aumentado la bonificación del Mod "Rodamientos magnéticos". Además, ahora el Mod también afecta de forma correcta al tiempo durante el cual el arma sigue disparando de forma precisa
+- Se ha aumentado significativamente la probabilidad de rebote de los disparos, y se ha aumentado ligeramente la distancia máxima de rebote del pirateo "Infierno de balas"
+- El pirateo "Tormenta de plomo" ya no impedirá los aturdimientos, solo reducirá significativamente su viabilidad. Por eso, ahora el Mod "Aturdimiento mejorado" puede aplicar sus efectos sobre él
+
+Cañón automático "Thunderhead"
+- Se ha reducido la bonificación de daño del Mod "Bucle de retroalimentación"
+- Se ha aumentado la bonificación de cadencia de disparo del Mod "Sistema de gas mejorado"
+- Se ha movido parte de la bonificación del Mod "Montaje de barril más ligero" al arma
+- Se ha aumentado la penalización por daño directo y se ha reducido ligeramente la bonificación del radio de efecto del pirateo "Bombardeo en área"
+- Se han reducido ligeramente las penalizaciones de daño directo y en área, se ha ampliado el radio de efecto y se ha aumentado la probabilidad de aplicar el efecto de toxina usando el pirateo "Descarga de neurotoxinas"
+- Se ha sustituido la bonificación de velocidad de recarga por una bonificación de "velocidad de crecimiento para la cadencia de tiro" en el pirateo "Movilidad de combate"
+
+"Warthog" Auto 210
+- Se ha reducido la bonificación del Mod "Cargador de alta capacidad"
+- Se ha aumentado muy ligeramente la bonificación del Mod "Cajas de munición más grandes"
+
+Mod "Potenciador de torreta" del "Warthog"
+- Se ha reducido el coste de munición para activar el efecto
+- Se ha aumentado la velocidad del proyectil
+- Se ha aumentado el daño
+- Se ha aumentado el radio de daño
+
+- Se ha reducido muy ligeramente la bonificación del pirateo "Minibalas"
+- Se ha reducido la bonificación de munición del pirateo "Cargadores ligeros"
+
+Granada ACE del perforador
+- Se ha aumentado el daño
+- Se ha reducido la disminución de daño al alejarse del punto de impacto
+- Se ha ampliado ligeramente la zona de daño máximo
+- Se ha aumentado la cantidad de granadas que puedes llevar
+
+
+OTROS CAMBIOS
+----------------------------
+- Se han corregido varios errores fatales de tipo "pathfinder"
+- Se ha corregido un error fatal que ocurría al unirte a una partida
+- Se ha corregido un error por el que la terminal de Ascensos no siempre mostraba el personaje seleccionado
+- Se ha corregido un error por el que la terminal de Bosco no siempre se cerraba correctamente al usar atajos del mando
+- Se ha corregido un error por el que la cápsula de transporte podía llegar a aterrizar demasiado cerca de los eventos de máquina, impidiendo que la misión pudiera completarse
+- Se ha corregido un error por el que no se podía desbloquear aptitudes pulsando el botón E
+- Se ha corregido un error por el que podías cancelar el proceso de unirse a una partida, aunque no deberías poder hacerlo
+- Se ha corregido un error por el que un túnel podía no conectarse correctamente con la cueva siguiente
+- Se ha corregido un error por el que el tanque de petróleo en la mision de escolta era devuelto al comienzo del nivel si el cliente que tiene un ping malo lo recogía
+- Se ha corregido un error por el que podías conseguir objetos adicionales de objetivos secundarios en misiones con determinadas alertas (Anomalías en el escudo)
+-  Se ha intentado corregir un error por el que las semillas mugrientas aparecían en 0,0,0
+- Se ha intentado corregir un problema que se daba cuando un jugador se unía a una partida ya creada
+- Se han añadido una tonelada de pequeños cambios de IU relacionados con la fuente, el espaciado y el estilo
+- Se han realizado algunos cambios a la malla de la Plataforma Espacial
+- Se han realizado algunos cambios en las mezclas de sonido del Armario
+- Se ha mejorado la mecánica de ubicación de los pozos en una misión de refinado Ahora tendrás menos posibilidades de colocarlo de forma incorrecta.
+- Se ha reducido el fuerte escalado de los requisitos de repostaje de manera agresiva, que ahora se basaré en el número de jugadores
+- Se ha aumentado ligeramente el DPS promedio del daño con el tiempo por fuego, y también lo hemos hecho más consistente
+- Se ha reducido ligeramente lo rápido que un jugador puede cambiar de dirección en una tirolina
+- Se ha aumentado el ángulo base de la tirolina y la bonificación del Mod "Junta de conexión mejorada"
+- Ahora, las granadas del lanzagranadas y los proyectiles de la pistola de plataformas adquieren la velocidad del personaje, haciéndolas más fáciles de usar mientras caes o al moverte a gran velocidad
+- Se ha aumentado la probabilidad de que los enemigos que caminan y pueden disparar ataquen a los jugadores en las tirolinas
+- Ahora el césped se moverá cuando los enanos lo atraviesen
+- Se ha activado DX12 por defecto en el juego. Si tienes problemas usando DX12, puedes devolverlo a DX11 en cualquier momento
+- Se ha facilitado la capacidad de traducción de una buena cantidad de líneas de texto del juego
+- Se han corregido varios errores de IU en el menú de pedidos del bar. También se ha añadido la IU de descongelamiento cuando estés congelado por el efecto de una "Wormhole Special"
+- Ahora, los minerales conseguidos mediante explosiones saltarán una distancia proporcional a la explosión, y no caerán simplemente al suelo por efecto de la gravedad
+- Mantente informado con los nuevos comunicados noticiarios añadidos a la terminal de Comercio de minerales
+- Ahora, la barra de salud de Steeve también mostrará el nombre del jugador que usó la aptitud "Maestro de las bestias"
+
 "
 	Update_12 = "¡Saludos, mineros!
 
