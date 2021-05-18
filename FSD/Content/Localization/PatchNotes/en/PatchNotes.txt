@@ -1,6 +1,6 @@
 89 entries
 1 namespaces
-87 values
+86 values
 
 Namespace PatchNotes (89 keys)
 	Update_30_Header = "1.0 LAUNCH"
@@ -2264,28 +2264,12 @@ FIXES
 - Mactera Spawn and Grabber should no longer get stuck outside the Navmesh after dashing.
 "
 	Update_34 = "Hello, Miners!
-We’re back with a modest update for you! Work is proceeding apace for the longer-term goals included in the upcoming Update 35, but with Update 34 we want to sweeten the long waiting time a bit. We got new Elite Enemies for you, the possibility of double Warnings on missions, two brand new Warnings to add to the mix, a lot of weapon tweaks, and more to keep you busy! It’s time to dive back into the depths of Hoxxes and face the new dangers!
+We’re back with a modest update for you! Work is proceeding apace for the longer-term goals included in the upcoming Update 35, but with Update 34 we want to sweeten the long waiting time a bit. We got the possibility of double Warnings on missions, two brand new Warnings to add to the mix, a lot of weapon tweaks, and more to keep you busy! It’s time to dive back into the depths of Hoxxes and face the new dangers!
 
 With Love,
 The Ghost Ship Crew
 
 --- PATCH NOTES ---
-
-ELITE ENEMIES 
-----------------------------
-Elite enemies are tougher, faster, more dangerous versions of the standard bugs that you already know and love (to kill). They have a small chance of appearing in regular missions at Hazard Level 3 and above, so consider it a special occasion when you encounter one! 
-
-
-NEW WARNINGS
-----------------------------
-New dangers have been discovered in the caves!  
-
-ELITE THREAT
-Missions with this Warning will have a sure-fire chance of you encountering elite enemies.  
-
-SWARMAGEDDON
-A tsunami of swarmers awaits you in the mines. Bring plenty of pesticide and bullets! 
-
 
 DOUBLE WARNINGS - DOUBLE THE FUN
 ----------------------------
@@ -2293,6 +2277,17 @@ An innovation committee assigned by management has tried to answer the following
 
 Gather a team of fellow miners and try your hand at this extreme challenge. Prove that you are the toughest among all miners and that you eat regular Single Warning missions for breakfast. Rock and Stone!
 NB! Missions with double warnings are deemed so challenging that they have been excluded from Deep Dives and Assignments.
+
+NEW WARNINGS
+----------------------------
+New dangers have been discovered in the caves!  
+
+ELITE THREAT
+Missions with this Warning will have you encountering elite enemies. Elite enemies are tougher, faster and more dangerous versions of the bugs already know and love. 
+
+SWARMAGEDDON
+A tsunami of swarmers awaits you in the mines. Bring plenty of pesticide and bullets! 
+
 
 CONTROLLER MAPPING
 ----------------------------
@@ -2503,31 +2498,14 @@ MISC.
 - Minerals mined with explosions now get a distance proportionate force applied to them so they don’t just plop down.
 - Stay up to date with the brand new news feed ticker added to The Mineral Trade
 - Steeve’s Healthbar now also shows the player name of the Beastmaster
-
 "
 	Update_34_Xbox = "Hello, Miners!
-We’re back with a modest update for you! Work is proceeding apace for the longer-term goals included in the upcoming Update 35, but with Update 34 we want to sweeten the long waiting time a bit. We got new Elite Enemies for you, the possibility of double Warnings on missions, two brand new Warnings to add to the mix, a lot of weapon tweaks, and more to keep you busy! It’s time to dive back into the depths of Hoxxes and face the new dangers!
+We’re back with a modest update for you! Work is proceeding apace for the longer-term goals included in the upcoming Update 35, but with Update 34 we want to sweeten the long waiting time a bit. We got the possibility of double Warnings on missions, two brand new Warnings to add to the mix, a lot of weapon tweaks, and more to keep you busy! It’s time to dive back into the depths of Hoxxes and face the new dangers!
 
 With Love,
 The Ghost Ship Crew
 
 --- PATCH NOTES ---
-
-ELITE ENEMIES 
-----------------------------
-Elite enemies are tougher, faster, more dangerous versions of the standard bugs that you already know and love (to kill). They have a small chance of appearing in regular missions at Hazard Level 3 and above, so consider it a special occasion when you encounter one! 
-
-
-NEW WARNINGS
-----------------------------
-New dangers have been discovered in the caves!  
-
-ELITE THREAT
-Missions with this Warning will have a sure-fire chance of you encountering elite enemies.  
-
-SWARMAGEDDON
-A tsunami of swarmers awaits you in the mines. Bring plenty of pesticide and bullets! 
-
 
 DOUBLE WARNINGS - DOUBLE THE FUN
 ----------------------------
@@ -2535,6 +2513,17 @@ An innovation committee assigned by management has tried to answer the following
 
 Gather a team of fellow miners and try your hand at this extreme challenge. Prove that you are the toughest among all miners and that you eat regular Single Warning missions for breakfast. Rock and Stone!
 NB! Missions with double warnings are deemed so challenging that they have been excluded from Deep Dives and Assignments.
+
+NEW WARNINGS
+----------------------------
+New dangers have been discovered in the caves!  
+
+ELITE THREAT
+Missions with this Warning will have you encountering elite enemies. Elite enemies are tougher, faster and more dangerous versions of the bugs already know and love. 
+
+SWARMAGEDDON
+A tsunami of swarmers awaits you in the mines. Bring plenty of pesticide and bullets! 
+
 
 CONTROLLER MAPPING
 ----------------------------
@@ -2544,6 +2533,11 @@ Are you frustrated with the current controller bindings? Do you feel that your m
 IMPROVED BULLET TRACING
 ----------------------------
 How shooting is handled in terms of networking has been remarkably optimized. The result should be a more instantaneous response when firing projectiles. And projectiles now use much less bandwidth!
+
+
+SAVE GAME PROFILES
+----------------------------
+Now you have the option to manage different save game profiles if you’re playing with mods (or for any other reason of your choosing) so you can have a separate save for messing around. This feature was originally planned as a part of a larger modding support solution for this update, but we decided to postpone it and release it separately later. We are planning a more comprehensive and improved solution for letting mods into the main game and we will reveal more details as this project progresses. Stay tuned!
 
 
 WEAPON TWEAKS
@@ -2740,7 +2734,6 @@ MISC.
 - Minerals mined with explosions now get a distance proportionate force applied to them so they don’t just plop down.
 - Stay up to date with the brand new news feed ticker added to The Mineral Trade
 - Steeve’s Healthbar now also shows the player name of the Beastmaster
-
 "
 	Update_12 = "Hey Miners!
 
