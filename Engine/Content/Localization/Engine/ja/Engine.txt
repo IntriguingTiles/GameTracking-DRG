@@ -7210,7 +7210,7 @@ Namespace SoundModImporterFactory (1 keys)
 	ImportOverwriteWarning = "既存のサウンド上に '{0}' をインポートしようとしています。"
 
 Namespace SoundNodeBranch (1 keys)
-	ParamUnset = "パラメータが未設定です"
+	ParamUnset = "未設定"
 
 Namespace SoundNodeDialoguePlayer (2 keys)
 	LoopingDialogueWaveDescription = "ループ中 {Description} : {DialogueWaveName}"
@@ -7222,7 +7222,7 @@ Namespace SoundNodeModPlayer (3 keys)
 	NonLoopingSoundModDescription = "{Description} :{SoundModName}"
 
 Namespace SoundNodeSwitch (1 keys)
-	ParamUnset = "パラメータが未設定です"
+	ParamUnset = "未設定"
 
 Namespace SoundNodeWavePlayer (2 keys)
 	LoopingSoundWaveDescription = "ループ中 {Description} : {SoundWaveName}"
@@ -10940,7 +10940,7 @@ Namespace UViewModeUtils (28 keys)
 	UViewModeUtils_VMI_ShaderComplexityWithQuadOverdraw = "シェーダ複雑度とクワッド"
 	UViewModeUtils_VMI_StationaryLightOverlap = "固定ライトオーバーラップ"
 	UViewModeUtils_VMI_Unknown = "不明なEViewModeIndex値です"
-	UViewModeUtils_VMI_Unlit = "非ライティング"
+	UViewModeUtils_VMI_Unlit = "ライティングなし"
 	UViewModeUtils_VMI_CollisionVisibility = "可視性コリジョン"
 	UViewModeUtils_VMI_Wireframe = "ワイヤーフレーム"
 

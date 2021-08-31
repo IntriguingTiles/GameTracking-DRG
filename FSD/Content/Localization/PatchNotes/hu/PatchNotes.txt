@@ -1,18 +1,59 @@
-46 entries
+64 entries
 1 namespaces
-44 values
+62 values
 
-Namespace PatchNotes (46 keys)
+Namespace PatchNotes (64 keys)
 	Update_30_Header = "1.0 MEGJELENÉS"
 	Update_30_ShortTitle = "1.0 MEGJELENÉS"
 	Update_20.1_ShortTitle = "NAGYOBB, JOBB, BOSCO"
 	Update_20_ShortTitle = "NAGYOBB, JOBB, BOSCO"
 	Update_11_ShortTitle = "HALÁL ÉS FEGYVER"
 	Update_9_ShortTitle = "A VISZONTFÚRÁSRA!"
-	Update_14_ShortTitle = "FUNKCIÓ NYOMI"
-	Update_12_ShortTitle = "LEGYEK & PÉNZÜGY"
+	Update_25_ShortTitle = "VÉGJÁTÉK - Első rész"
+	Update_26_ShortTitle = "VÉGJÁTÉK - Második rész"
+	Update_24_ShortTitle = "KIROBBANÓ KIEGÉSZÍTÉS"
+	Update_14_ShortTitle = "ELRAGADÓ ÚJDONSÁGOK"
+	Update_28_ShortTitle = "KÉPESSÉGFEJLESZTÉS"
+	Update_12_ShortTitle = "LEGYEK ÉS PÉNZÜGY"
 	Update_21_ShortTitle = "HALÁLOS LESZ"
 	Update_19_ShortTitle = "RENGETEG FEGYVER"
+	Update_18.5 = "Jóóóóó estét, bányászok!
+
+Lassan ránk köszönt a Halloween és ennek örömére ezzel a kis frissítéssel félelmetessé tesszük a barlangi élményeiteket! Ezt nem egy rendes frissítésnek szánjuk mert éppen a nagy frissítésen dolgozunk, melyben új fegyverek lesznek egy új fejlesztési rendszerrel és az összes kiegészítő tárgy és fejlesztés árát megújítjuk. Izgalmas időknek nézünk elébe!
+
+--- FEJLESZTŐI JEGYZETEK ---
+
+HALLOWEEN
+----------------------------
+- Az űrállomásra tökök kerültek, hogy összevissza rugdossátok.
+- Megjelentek csokit vagy csalunk töklámpások a barlangokban. Üsd szét őket és tedd próbára a szerencsédet!
+- Korlátozott ideig elérhető tök fejfedők! Boo, hahahaha!!!!
+- A Szakadék Kocsmába kapott egy Halloween-i transzparenst és hangulatvilágítást.
+
+
+NYUGDÍJ ÉS TP JAVÍTÁSOK
+----------------------------
+Kellemesen csalódtunk a nyugdíjrendszer pozitív fogadtatása miatt. Azonban nem szerettük volna, hogy túl gyorsan menjen akárki is végig a teljes nyugdíj cikluson, mint ahogy egyesek tették (akár 4 óra alatt). Úgy szerettük volna, hogy a nyugdíj elérése sokkal több időbe teljen. Egy jó pár javítást intéztünk a jelenlegi rendszerhez, de a 19. frissítéssel jönnek a nagyobb változások a nyugdíj és tapasztalat pont rendszerekhez. Mi figyelmeztettünk :-)
+
+- Nyugdíj rang elérésének akadályozása, ha a játékosnak 0 TP-je van
+- A karakter nyugdíjazása gombon történő sokszoros kattintás letiltása
+- A nyugdíj megbízási küldetés jutalmak eltávolítva
+- A tripla TP mostantól dupla TP
+
+
+JAVÍTÁSOK ÉS FEJLESZTÉSEK
+----------------------------
+- Kijavítva egy hiba a Discord csoportazonosítókkal kapcsolatban, és az egyes esetekben a meghívás gomb hibás működése
+- Kijavítva egy játék fagyás a mentési műveletek során az üzemanyagcellák szakaszában elbukott küldetés miatt
+- A sebzésmutatók fennragadása a képernyőn kijavítva
+- Kisebb problémák kijavítása a Magma Maggal kapcsolatban
+- Grafikai beállítások: a teljes képernyős visszaállítás letiltása, hogy megakadályozzon egy egérrel kapcsolatos hibát mely megakadályozza a játékba való visszakattintást
+- Kijavítva egy hiba, hogy a kliensek nem tudtak betölteni vagy csatlakozni egy játékhoz
+- A Felderítő KMG gránátjának lassítását kijavítottuk. Hibásan csak 30%-os lassítást produkált, mostantól rendesen 75%.
+- A kincsesbogár 15-25 nitrát és aranyat dobott, de mostantól csak 5-15-öt dobnak.
+- A kiiktatás küldetések néha nem generáltak elég gubót. Mostantól a gubó helye kivési a terepet maga körül és az elhelyezési megszorítások sem olyan szigorúak.
+- A kampányjutalmak ablakában eltűnő egér kijavítva.
+"
 	Update_23_ShortTitle = "HOXXES BORZALMAI"
 	Update_30 = "Hello Bányászok!
 Fantasztikus, hogy végre mindannyótokat üdvözölhetünk a Deep Rock Galactic 1.0-ban! 
@@ -502,6 +543,93 @@ EGYÉB VÁLTOZÁSOK ÉS HIBAJAVÍTÁSOK
 - [XBOX / WIN10] Javítva lett a hálózati szerkezet, hogy megakadályozza a véletlenszerű megszakadását a kapcsolatnak vagy a véletlen lefagyásokat
 
 "
+	Update_13 = "Halihó, bányászok!
+
+Ismét itt az idő, egy pár érdekes változtatást tettünk melyeket biztosan élvezni fogtok! Ez a frissítés inkább kísérleti mintsem a megszokott módosítások. Az életrendszert alakítottuk át és kíváncsiak vagyunk a véleményeitekre.
+
+--- FEJLESZTŐI JEGYZETEK ---
+
+KÖZÖSSÉG ÁLTAL KÉRT JAVÍTÁSOK
+-----------------------------------------------------
+
+KISEBB PAJZS
+Egyes eltökélt bányászok azt kérték, hogy a játék legyen nehezebb, főképp a magasabb nehézségi szinteken. Megpróbáltuk beállítani, hogy a magasabb szinteken nehezebb legyen, de az alacsonyabbakon majdnem ugyanolyan mint eddig. A kezdő pajzsot 30-ról 25-re, a pajzsfejlesztéseket 10-ről 2,5-re csökkentettük (így 10% bónuszt adva).
+
+TÖBB ÉLET
+Ellensúlyozva a kisebb pajzsot, megnöveltük a játékosok életét 100-ról 110 életerőre.
+
+TÖBB VÖRÖS CUKOR
+Többek közt a vörös cukortól való gyógyulást is megnöveltük 25%-kal és a vörös cukor előfordulását is megnöveltük 10%-kal.
+
+
+FINOMHANGOLÁSOK
+-----------------------------------------------------
+
+EGYJÁTÉKOS ÉLET ÉS ELLENFELEK SZÁMA
+A Hoxxes barlangjait egyedül bejárni több idő és halálosabb is, így a bogárrajok méretét picivel csökkentettük, ha egyedül játszol. Attól még a bolygó teremtményei veszélyesek maradtak, szóval ne lankadjon a figyelmed!
+
+BOSCO TÖBB ÚJRAÉLESZTÉSRE KÉPES
+Akármennyire is szeretné, Bosco nem mindig tud megmenteni egy barlangi piócától. Rosszul érzi magát emiatt és megkért minket, hogy még egy plusz újraélesztésre legyen képes, a szokásos kettő helyett háromszor. A kérését megadtuk.
+
+NAGYOBB LETT A MAKTERA IVADÉKOK ÉLETEREJE
+A törekedés, hogy a Maktera Ivadékot tökéletesítsük ahhoz vezetett, hogy az életerejét 180-ról 210-re emeltük. Ne felejts fedezékbe bújni és onnan lőni a gyenge pontját!
+"
+	Update_10 = "Sziasztok, bányászok!
+
+Ismét itt egy frissítés ami fontos javításokat és új dolgokat is tartalmaz. Eme kisebb frissítések mellett nagyobb tartalmi és funkciófejlesztéseket is kezdeményezünk. Ezekről majd később beszélünk, amikor a felfedjük a fejlesztési útvonaltervet.
+
+--- FEJLESZTŐI JEGYZETEK ---
+
+KÖZÖSSÉG ÁLTAL KÉRT JAVÍTÁSOK
+- Az egér érzékenységével kapcsolatos problémák orvosolása, minthogy az űrállomáson és a küldetésekben nem volt ugyanolyan, de mostantól mindenhol megegyezik. A függőleges és vízszintes érzékenységeknek különböző értékei voltak, azonban ezek már egyénileg testreszabhatóak a beállításoknál.
+- A Steam régió keresése a beállításoknál
+- A játékvezérlő kihúzása mostantól nem tiltja le a billentyűzetet és egeret
+- Az elsődleges monitorral kapcsolatos tesztjavítás (valamelyest teszteletlen!)
+- A csáklyavető végtelen élet hiba javítva
+
+BARLANGI TARTALOM
+- A bolygórégiók barlangjainak egyénivé tételének első megvalósítása
+- A Sóbarlangok kristály cseppköveket kaptak a mennyezetre melyek leeshetnek
+- A Gombamocsarak ragacsossá lettek téve
+
+KÜLDETÉSTÉRKÉP
+- Új ikonokat kaptak a küldetéshossz és -összetettség-mutatók. Mostantól egyértelműbb, hogy az összetettség az egy komoly nehézségnövekedés.
+- Az összetettségikonok mostantól a küldetések felett helyezkednek el
+- A küldetésért járó fizetség a küldetések alatt helyezkednek el
+
+FEGYVEREK NÉZETMODELLJEI
+- A nézetmodellek látótere 100-ról 90-re csökkentve
+- Az első személyből látható fegyverek modelljei kevésbé elnyúltak
+- A modellek egybeolvadási hibáik javítása
+
+FELDERÍTŐ MÓDOSÍTÁSOK
+- A lefűrészelt végű puska 15 sörétet lő, 6 sebzést okozva sörétenként. Mostantól as 6 helyett 10 sebzést okoznak
+- A lefűrészelt végű puska maximális lőszere 30 helyett mostantól 16
+- A lefűrészelt végű puska maximális lőszer fejlesztése +10 helyett csak +8 lőszert ad
+
+ANIMÁCIÓK, HANGOK, EFFEKTEK
+- Fúrós pisztoly újratöltés animáció
+- A Fúrós pisztolya és a Felderítő puskája akkor tekinthető újratöltöttnek, amikor az animációkor ténylegesen belehelyezik a töltényt a fegyverbe és nem amikor az animáció véget ér. Ezt a többi fegyverre is vonatkozni fog amint lesznek saját újratöltési animációik. (A hang frissítés hiányzik)
+- A kliensek konzolháttér-animációinak kijavítása
+- Lézermutató grafikai frissítés
+- Az interakciós felugró ablakok hátterei eltávolítva
+- A sebzésátfedések grafikai frissítése
+
+HONOSÍTÁS
+- A terminálokon a szövegek sorai több helyet kaptak (az ékezetes nyelveknek)
+- Az összes nyelv frissítve a Crowdin-ről
+
+KISEBB JAVÍTÁSOK
+- A szerverlista alapértelmezettként nem mutatja a jelszóval védett játékokat
+- A betöltőképernyőn az aszteroidák sima árnyékolása eltávolítva!!!
+- A játékvezérlő jobb analóg irányítója mostantól használható egérgörgőként
+- A Steam barátok tesztelésének megszüntetése amikor barátok vannak meghívva a játékba. Ez megakadályozta, hogy a barátok meghívjanak más barátokat akik nem a házigazda barátai, így a privát játékok mostantól jobban tudják ezt kezelni.
+- A Molly szobor nem volt arany amikor feloldódott. Ezt javítottuk.
+- Mostantól a Molly és a nagyobb ellenfelek a földön való járást részesítik előnyben
+- A fegyver általi fagyás javítása
+- Az ellenfelek nem bénulnak meg fizikai támadástól (közelharc)
+- A módosított lőszer és tárhely méret nem működött rendesen amikor egy játékos csatlakozott egy játékhoz. Ez ki lett javítva
+- Megváltoztattuk a tárgyak méretarányait az első személy nézetben, így kevésbé olvadnak egybe más modellekkel"
 	Update_21.5 = "Buliidő Bányászok!
 
 Hiszitek vagy sem, a Deep Rock Galactic EGY EGÉSZ ÉVES lett. KORAI HOZZÁFÉRÉSSEL indultunk 2018. Február 28-án ami azt jelenti, hogy ünneplés van ezerrel ezzel a mini-frissítéssel! Fejleszteni és bővíteni a játékot új funkciókkal és tartalommal eddig is (és eztán is) nagy öröm és köszönünk minden nagyszerű visszajelzést, amit kaptunk tőletek. Köszönjük, hogy segítettek azzá a NAGYSZERŰ játékká formálni a Deep Rock Galacticot amiben hittünk és, hogy részesei lehetünk ennek a csodálatos közösségnek. Háromszoros hurrá értetek srácok, jövőért, SZIKLÁÉRT ÉS KŐÉRT!
@@ -512,33 +640,44 @@ Sok szeretettel,
 - A Ghost Ship Csapata 
 "
 	Update_18_ShortTitle = "MUNKALEHETŐSÉGEK"
+	Update_27_ShortTitle = "KIS-NAGY DOLGOK"
 	Update_13_ShortTitle = "KISEBB VÁLTOZÁSOK"
+	Update_34_Shorttitle = "ELVÁRÁSOK A MAGUNK MOD-JÁN"
 	Update_15_ShortTitle = "MUTÁCIÓ VESZÉLY!"
-	Update_33_Shorttitle = "ÚJ FRONTIEREK"
-	Update_17_ShortTitle = "OKTÓBERFEST!"
+	Update_34.5_ShortTitle = "Mod támogatás"
+	Update_33_Shorttitle = "ÚJ TÁVLATOK"
 	Update_21.5_ShortTitle = "EGY ÉVE ORBITÁLIS PÁLYÁN"
 	Update_32_Shorttitle = "DOLGOS KEMÉNY LEGÉNYEK"
 	Update_29_ShortTitle = "A KEZDETEK VÉGE"
 	Upadte_31_ShortTitle = "CÍM"
 	Update_10_ShortTitle = "CSŐLÁTÁS?"
 	Update_10_Header = "10. FRISSÍTÉS: CSŐLÁTÁS? - 2018.03.16."
-	Update_11_Header = "11. FRISSÍTÉS: HALÁL ÉS FEGYVER - 2018.03.23"
-	Update_12_Header = "12. FRISSÍTÉS: LEGYEK & PÉNZÜGY - 2018.04.13"
-	Update_13_Header = "13. FRISSÍTÉS: KISEBB VÁLTOZÁSOK - 2018.05.04"
-	Update_15_Header = "15. FRISSÍTÉS: MUTÁCIÓ VESZÉLY! - 2018.07.04"
-	Update_16_Header = "16. FRISSÍTÉS: ELJÖTT A TÉL - 2018.08.29"
-	Update_17_Header = "17. FRISSÍTÉS: OKTÓBERFEST! - 2018.09.20"
-	Update_18.5_Header = "18,5. FRISSÍTÉS: HALLOWEEN - 2018.10.26"
-	Update_18_Header = "18. FRISSÍTÉS: MUNKALEHETŐSÉGEK - 2018.10.11"
+	Update_11_Header = "11. FRISSÍTÉS: HALÁL ÉS FEGYVER - 2018.03.23."
+	Update_12_Header = "12. FRISSÍTÉS: LEGYEK ÉS PÉNZÜGY - 2018.04.13."
+	Update_13_Header = "13. FRISSÍTÉS: KISEBB VÁLTOZÁSOK - 2018.05.04."
+	Update_14_Header = "14. FRISSÍTÉS: ELRAGADÓ ÚJDONSÁGOK - 2018.06.15."
+	Update_15_Header = "15. FRISSÍTÉS: MUTÁCIÓ VESZÉLY! - 2018.07.04."
+	Update_16_Header = "16. FRISSÍTÉS: ELJÖTT A TÉL - 2018.08.29."
+	Update_17_Header = "17. FRISSÍTÉS: OKTOBERFEST! - 2018.09.20."
+	Update_18.5_Header = "18,5. FRISSÍTÉS: HALLOWEEN - 2018.10.26."
+	Update_18_Header = "18. FRISSÍTÉS: MUNKALEHETŐSÉGEK - 2018.10.11."
 	Update_19_Header = "19. FRISSÍTÉS: RENGETEG FEGYVER!"
-	Update_20.1_Header = "20,1. FRISSÍTÉS: NAGYOBB, JOBB, BOSCO - 2019.01.03"
+	Update_20.1_Header = "20,1. FRISSÍTÉS: NAGYOBB, JOBB, BOSCO - 2019.01.03."
 	Update_20_Header = "20. FRISSÍTÉS: NAGYOBB, JOBB, BOSCO"
 	Update_21_Header = "21. FRISSÍTÉS: HALÁLOS LESZ"
 	Update_21.5_Header = "22. FRISSÍTÉS: EGY ÉVE ORBITÁLIS PÁLYÁN"
 	Update_23_Header = "23. FRISSÍTÉS: HOXXES BORZALMAI"
+	Update_24_Header = "24. FRISSÍTÉS: KIROBBANÓ KIEGÉSZÍTÉS"
+	Update_25_Header = "25. FRISSÍTÉS: VÉGJÁTÉK - Első rész"
+	Update_26_Header = "26. FRISSÍTÉS: VÉGJÁTÉK - Második rész"
+	Update_27_Header = "27. FRISSÍTÉS: KIS-NAGY DOLGOK"
+	Update_28_Header = "28. FRISSÍTÉS: KÉPESSÉGFEJLESZTÉS"
 	Update_29_Header = "29. FRISSÍTÉS: A KEZDETEK VÉGE"
 	Update_31_Header = "31. FRISSÍTÉS: AMI HÁTRAMARADT"
 	Update_32_Header = "32. FRISSÍTÉS: DOLGOS KEMÉNY LEGÉNYEK"
+	Update_33_Header = "33. FRISSÍTÉS: ÚJ TÁVLATOK"
+	Update_34.5_Header = "34,5. FRISSÍTÉS: Mod támogatás"
+	Update_34_Header = "34. FRISSÍTÉS: ELVÁRÁSOK A MAGUNK MOD-JÁN"
 	Update_9_Header = "9. FRISSÍTÉS: A VISZONTFÚRÁSRA! - 2018.03.09."
 	Update_31_Shorttitle = "AMI HÁTRAMARADT"
 	Update_16_ShortTitle = "ELJÖTT A TÉL"

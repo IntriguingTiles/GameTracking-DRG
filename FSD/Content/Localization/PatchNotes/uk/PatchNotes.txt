@@ -1,8 +1,8 @@
-86 entries
+88 entries
 1 namespaces
-84 values
+85 values
 
-Namespace PatchNotes (86 keys)
+Namespace PatchNotes (88 keys)
 	Update_30_Header = "ЗАПУСК 1.0"
 	Update_30_ShortTitle = "ЗАПУСК 1.0"
 	Update_23 = "Гаразд, гірники - сідайте та стуліть пельки!
@@ -17,7 +17,7 @@ Namespace PatchNotes (86 keys)
 ТИСЯЧІЛЬЙОН НОВИХ ВОРОГІВ
 -----------------------------------
 ГЛІФІД-НЕНАВИСНИК
-- Цей далекий двоюрідний брат Гліфід-кислотоплювача одночасно розумніший, швидший і агресивніший. Він заривається у землю ведучи шквальний вогонь руйнівними залпами корозійним слизом, стаючи пріоритетною ціллю для вас.
+- Цей далекий двоюрідний брат Гліфід-кислоплюйа одночасно розумніший, швидший і агресивніший. Він заривається у землю ведучи шквальний вогонь руйнівними залпами корозійним слизом, стаючи пріоритетною ціллю для вас.
 
 ГЛІФІД-ЩИТОВИК
 - Цей таємничий Гліфід посилає регенеративні хвилі спор ближнім родичам, що підсилюють і пожвавлюють їх. Краще убити його першим.
@@ -29,7 +29,7 @@ Namespace PatchNotes (86 keys)
 - Це вперше нам подібний вид, що зустрівся з такою жахливою породою диких тварин Гоксеса. Траулер спостерігався в районі піскоструминного коридору і він проривається через пісок на високій швидкості, прагнучи впіймати здобич своїми щелепами, коли та проходить повз. Не стоїте на їхньому шляху! 
 
 ГЛІФІД-РУБАКА
-- Більш довговічна і швидка версія слабшого двоюрідного брата, вояка. Плюс… її довгі, лезоподібні кінцівки, завдають втричі більше пошкоджень. Огидні жуки! 
+- Більш довговічна і швидка версія слабшого двоюрідного брата, вояка. Плюс… її довгі, лезоподібні кінцівки, завдають втричі більше шкоди. Огидні жуки! 
 
 ГЛІФІД-ОХОРОНЕЦЬ
 - Ще одна варіація гліфід-вояк. Цей є сильно броньований і має вдвічі більше здоров’я, хоча трохи повільніше ніж звичайний вояка.
@@ -48,7 +48,7 @@ Namespace PatchNotes (86 keys)
 -----------------------------------
 ПЕРЕРОБЛЕННЯ ГЛІФІД-ДРЕДНОУТА
 - Нова поведінка: якщо гравці переховуються в маленькому отворі, дредноут тепер буде знищувати рельєф, поки він не потрапить до них. Тепер його не зупинити!
-- Нова атака: Яйце рійовиків. Крім вогненної кулі, дредноут тепер також стрілятиме снарядом, повний рійовиків. Якщо він потрапить у гравців, він також охопить їх феромонами, перетворивши їх на мішень усіх новоприбулих ворогів.
+- Нова атака: Яйце ройовиків. Крім вогненної кулі, дредноут тепер також стрілятиме снарядом, повний ройовиків. Якщо він потрапить у гравців, він також охопить їх феромонами, перетворивши їх на мішень усіх новоприбулих ворогів.
 - Регенеруюча броня. Переконайтеся, що атакуєте його, поки він є вразливим. Значення здоров’я було змінено, щоби відповідати цій новій системі.
 - Зовсім нова шкала здоров’я боса, дасть вам змогу дізнатися, якщо ви зіткнулися з серйозною проблемою. На даний момент вона призначена лише для нового і поліпшеного дредноута, але подібне ми плануємо використовувати для інших речей у майбутньому. Чудово, правда? :>
 - Виправлена помилка, яка дозволяла вам ловити дредноутів за допомогою щита кулеметника.
@@ -175,7 +175,7 @@ Namespace PatchNotes (86 keys)
 - Виправлено, що в Mixer-і преторіанці не працювали коректно
 - Виправлено, що в Mixer-і поява створінь була в 4 рази більшою ніж потрібно
 - Виправлено, що в Mixer-і ім’я глядача не показувалося правильно
-- Нові вороги для Mixer integration:Мактера-нереститель, Мактера-хапайло, Мактера-слизоплюй, гліфід-кислотоплювач, Гліфід-павутиноплювач, та панцерник
+- Нові вороги для Mixer integration:Мактера-нереститель, Мактера-хапайло, Мактера-слизоплюй, гліфід-кислоплюй, Гліфід-павутиноплювач, та панцерник
 - Нова підтримка для Mixer integration: Поповнення набоїв
 - Mixer integration на космічній станції: Купіть стрімеру пива, чи вистріліть конфеті
 - Звуки ходьби підривників стали гучнішими
@@ -333,7 +333,7 @@ Namespace PatchNotes (86 keys)
 - Поліпшено логістику підривників, під час отримання пострілу в голову, чи заморозки в стадії готовності до вибуху
 - Виправлено коли деякі вороги могли підпалитися під час проходження по видобувній платформі у місії видобутку в зоні
 - Виправлено звуки бульбашок в повітряних та лавових гейзерах, після їх знищення
-- Додано анімацію пнути в третій особі. Копати діжки ніколи не було таким реалістичним!
+- Додано анімацію пнути в третій особі. Копати бочки ніколи не було таким реалістичним!
 - З’явились нові озвучення до ліцензії на зброю та підвищення у контрольному центрі
  
 "
@@ -425,7 +425,7 @@ Namespace PatchNotes (86 keys)
 - Поліпшено логістику підривників, під час отримання пострілу в голову, чи заморозки в стадії готовності до вибуху
 - Виправлено коли деякі вороги могли підпалитися під час проходження по видобувній платформі у місії видобутку в зоні
 - Виправлено звуки бульбашок в повітряних та лавових гейзерах, після їх знищення
-- Додано анімацію пнути в третій особі. Копати діжки ніколи не було таким реалістичним!
+- Додано анімацію пнути в третій особі. Копати бочки ніколи не було таким реалістичним!
 - З’явились нові озвучення до ліцензії на зброю та підвищення у контрольному центрі
 "
 	Update_30 = "Привіт Гірники! 
@@ -829,7 +829,7 @@ M1000 модифікації
 - Виправлено помилку під час перемикання назад на детонаційний пакет, після підняття розміщеного пакету змушував перемикатися на детонатор. 
 - Виправлена ​​помилка, яка спричинила відображення вікна попередження про відшкодування за модифікацію під час першого сеансу. 
 - Виправлено досягнення клона. 
-- Виправлено купу проблем з діжкоболом, включаючи кількість бочок, а також Журнал помилок. 
+- Виправлено купу проблем з бочкоболом, включаючи кількість бочок, а також Журнал помилок. 
 - Виправлена ​​помилка з фрагментами ресурсів, які іноді випадають із занадто великим вмістом матеріалу. 
 "
 	Update_27 = "Привіт, гірники! 
@@ -844,7 +844,7 @@ M1000 модифікації
 
 НОВА МАШИННА ПОДІЯ: МОДУЛЬНИЙ ВИНИЩУВАЧ «ОМЕН» 
 ---------------------------- 
-ЦНДР придумали геніальну ідею для допомоги нашим командам по боротьбі із шкідниками: Проект «ОМЕН» - це широка мережа взаємопов’язаних модульних веж винищення, стратегічно розставлених у печери по всьому Гоксеса. Однак, на їх жаль, винищувачі виявилися настільки ж небезпечними для нас, так і проблеми від яких вони повинні були нас захистити! Отже, стратегія зрозуміла: проект «ОМЕН» потрібно закрити. Однак… з міркувань безпеки це може бути зроблено лише через… ручними налаштуваннями наших наземних команд. 
+ЦНДР придумали геніальну ідею для допомоги нашим командам по боротьбі із шкідниками: Проєкт «ОМЕН» - це широка мережа взаємопов’язаних модульних веж винищення, стратегічно розставлених у печери по всьому Гоксеса. Однак, на їх жаль, винищувачі виявилися настільки ж небезпечними для нас, так і проблеми від яких вони повинні були нас захистити! Отже, стратегія зрозуміла: проєкт «ОМЕН» потрібно закрити. Однак… з міркувань безпеки це може бути зроблено лише через… ручними налаштуваннями наших наземних команд. 
 
 Спустіться туди, знайдіть і увімкніть винищувач, активуйте колодки технічного обслуговування, щоби відкрити механізм охолоджувальних баків і рознесіть їх на шматочки. Легко. Звісно, вам доведеться це зробити протягом обмеженого періоду часу, або пристрій перейде у режим блокування. 
 
@@ -1144,7 +1144,7 @@ M1000 модифікації
 ----------------------------
 ВАЖКА АВТО-ГАРМАТА «ГРОМОВЕРЖЕЦЬ»: Надзвичайно спустошлива, але своєрідна зброя. Повільна швидкість вогню компенсується більшому пошкодженню снарядами 50-го калібру, що доставляються у зброю вольфрамовими стрічками. «Громовержець» - це незграбна зброя для витонченого ката, що приносить смерть, яка також неминуче приходить з часом.
 
-АВТОМАТИЧНИЙ ПІСТОЛЕТ «БРТ7»: Більш точний аніж пістолет-кулемет, із гальмівною потужністю маленького дробовика. «БРТ7» (Або як його ще називають «Берт») дуже цінується між колекціонерами та поціновувачами зброї. 
+АВТОМАТИЧНИЙ ПІСТОЛЕТ «БРТ7»: Більш точний аніж пістолет-кулемет, із гальмівною потужністю маленького рушниці. «БРТ7» (Або як його ще називають «Берт») дуже цінується між колекціонерами та поціновувачами зброї. 
 
 
 НОВА ЗБРОЯ: РОЗВІДНИК
@@ -1217,7 +1217,7 @@ M1000 модифікації
 
 ОСОБЛИВІ ХВИЛІ
 ----------------------------
-Згодом ви можете зіткнутися суто з хвилями преторіанців, мактер, гліфідів або рійовиками. Чи є ці хвилі складніше або легше ніж звичайні хвилі?, залишимо це з’ясувати вам. 
+Згодом ви можете зіткнутися суто з хвилями преторіанців, мактер, гліфідів або ройовиками. Чи є ці хвилі складніше або легше ніж звичайні хвилі?, залишимо це з’ясувати вам. 
 
 
 ПОКРАЩЕННЯ ВОРОГІВ
@@ -1369,7 +1369,7 @@ M1000 модифікації
 Музичний автомат тепер має 13 нових композицій для музичної насолоди. Танцюйте, мавпи!!
 
 БАСКЕТБОЛЬНІ БОЧКИ - THE GAME
-Хто хоче пограти наступний? Йдіть пніть діжки крізь кільце, щоби побачити хто переможець! 
+Хто хоче пограти наступний? Йдіть пніть бочки крізь кільце, щоби побачити хто переможець! 
 
 ЛІМІТОВАНІ СЕЗОННІ ОЗДОБЛЕННЯ
 Щоб насправді було відчуття свята «Октоберфест», ви можете купити в крамниці «Октоберфест федору» за 1200 кредитів із крамниці оздоблень.
@@ -2062,7 +2062,7 @@ RJ250 Складений розгін
 - Покращено логіку генерації міні мулів 
 - Покращено ніг міні мулів. Наприклад, вони більше не з'являтимуться у чорному льоді 
 - Покращені піщані бурі та землетруси. Тепер вони також впливають на швидкість руху ворогів 
-- Заморожені рійовики тепер завжди помруть після короткої затримки 
+- Заморожені ройовики тепер завжди помруть після короткої затримки 
 - Покращена анімація коливань, яка тепер базується на тривалості хитання 
 - Покращено спосіб відображення декількох об'єктів на дисплеї лазерної вказівки 
 - Покращено рух МУЛА 
@@ -2245,7 +2245,7 @@ RJ250 Складений розгін
 - Больовий оверлей тепер швидко зникає
 - Налаштовано оверлей камери під час смерті
 - Налаштовано звук капсули - тепер так само гучно як на станції
-- Налаштовано звук дробовика
+- Налаштовано звук рушниці
 - Ефекти спавну, коли вороги виходять з землі тепер виконується на стороні клієнта
 - Світло землі і світло від зброї тепер розділене + додано підсвічування, що робить вигляд камери смерті кращим .  
 - Виправлено - Ваша косметика не показується як споряджена під час завдання чи на станції.
@@ -2379,7 +2379,7 @@ RJ250 Складений розгін
 
 ПАРАЗИТИ: Ну, це буде ще гірше. Інопланетяни в цьому місці просто… тьху… просто повні злих, паразитичних черв’яків. 
 
-ПЕЧЕРА З ПРИВИДАМИ: У цій печері є… ЩОСЬ… І ВОНО полює на тебе. Невгамовно. І воно просто… не помре…! Не зупиниться. Не дивись назад. Воно просто позаду і постійно буде находити тебе. 
+ПЕЧЕРА З ПРИВИДАМИ: У цій печері є… ЩОСЬ… І ВОНО полює на тебе. Невгамовно. І воно просто… не помре!.. Не зупиниться. Не дивись назад. Воно просто позаду і постійно буде находити тебе. 
 
 АНОМАЛІЇ 
 ---------------------------- 
@@ -2610,281 +2610,294 @@ RJ250 Складений розгін
 - Виправлено, що вороги могли бути вдарені після того як вони померли. 
 - Виправлена клейка граната, яка робить фізичні пошкодження, активуючи вміння. 
 "
-	Update_25_Xbox = "Hi Miners,
-Whew! You’ve been patient with us for a long while, but Update 25 - our most ambitious update to date - is finally here! Deep Dives, even more gear customization, late-game rewards, tons of new skins, cargo crates, overhauled beard physics…hoh boy, Miners - this is a big one. Our beards grew 6 inches just from writing these patch notes.
+	Update_25_Xbox = "Привіт, гірники!
+Вау! Ви довго чекали разом з нами і ось нарешті вийшло 25 оновлення - наше найамбітніше оновлення на сьогодні нарешті настало! Глибокі занурення, ще більше налаштування спорядження, нагороди за пізнє приєднання, тони нових стилів, вантажні ящики, перероблена фізика бороди… Так хлопче, гірники - це сила. А ще, наші бороди виросли на 6 дюймів саме від написання цих патч-записок
 
 
---- PATCH NOTES ---
+--- ПРИМІТКИ ПАТЧА --- 
 
-DEEP DIVES
-----------------------------
-If you’re a Dwarf that’s looking to go places, we have just the opportunity for you. As a promoted Dwarf you have been deemed worthy to get special access to weekly Deep Dives - three consecutive seeded missions, where ammunition and health carries over to the next mission. In Deep Dives you will have to complete two objectives in each stage and chances for encountering Mutators are very high. Each of the three stages of a Deep Dive will grant you rewards upon completion, ranging from minerals to the new Matrix Cores. While you can complete the week’s Deep Dives as many times as you want and improve your best time, bear in mind the rewards can only be claimed once per week.
-
-
-MATRIX CORES
-----------------------------
-Not getting paid enough? We’re giving your Deep Rock Galactic pay-slip a boost. Matrix Cores are the cornerstones of the new rewards introduced in  Deep Rock Galactic. In Update 25 you will receive Infused Matrix Cores - Matrix Cores with already predefined content, that can be used to forge Weapon Overclocks or glorious all-new beards and helmets. In Update 26 we will introduce a way to infuse Blank Matrix Cores, but more on that when we get closer.
+ГЛИБОКІ ЗАНУРЕННЯ 
+---------------------------- 
+Якщо ви дворф, який шукає для себе місця в житті, то у нас воно є! Як дворф, що отримав підвищення, ви довели що є гідним претендентом на отримання спеціального доступу до щотижневих глибоких занурень - трьох поспіль згенерованих місій, де боєприпаси та здоров’я передаються з однієї місії до наступної. У Глибоких зануреннях вам доведеться виконати дві цілі на кожному етапі і шанси отримати місію із мутаторами - дуже високі. Кожен з трьох етапів глибокого занурення дасть вам нагороду по завершенні, починаючи від корисних копалин до нових матричних ядер. Хоча ви можете провести щотижневі глибокі занурення стільки разів, скільки забажаєте і поліпшити ваш рекордний час проходження, хоча пам’ятайте, що винагороду можна отримати лише раз на тиждень. 
 
 
-THE FORGE
-----------------------------
-The place where you go with you Infused Matrix Core and forge them into something usefull. Also note that forging Infused Matrix Cores will increase your Forging Mastery and earn you even more Matrix Cores. It’s Hammertime! 
+МАТРИЧНІ ЯДРА 
+---------------------------- \ r
+Не отримуєш достатньої оплати? Ми надаємо прибавку вашій платні. Матричні ядра є наріжним каменем нових нагород, що було введено у «Deep Rock Galactic». В оновлення 25 ми додали наповнені матричні ядра, які уже заздалегідь будуть із визначеним вмістом і які можна використовувати для створення розгону озброєння або абсолютно нових борід та шоломів. У оновлення 26 ми введемо спосіб вбудувати пусті матричні ядра, але докладніше про це буде розказано згодом.
 
 
-WEAPON OVERCLOCK CORES
-----------------------------
-If you’ve been wanting bigger explosions or new ways to shred entire tunnels of bloodthirsty glyphids, then you’ll love the upgrades you’ll be unlocking for your arsenal. Weapon Overclocks range from basic but minor improvements like increase magazine capacity, to providing entirely new ways to modify the overall weapon functionality. 
-Deal radioactive splash damage with your Grenade Launcher? There’s an overclock for that. Gain more airtime while aiming down the sights of the M1000 rifle? There’s an overclock for that. Shred the enemies with ice shards from your Cryo Cannon? You guessed it. There’s an overclock for that.
+КУЗНЯ 
+---------------------------- 
+Місце, куди ви понесете свої матричні ядра, щоби викувати їх у щось корисне. Також зауважте, що ковання наповнених матричних ядер збільшить майстерність ковки та нагородить іншими матричними ядрами. Настав час ковки! 
 
 
-COSMETIC CORES
-----------------------------
-With Update 25, we’re doubling down on glorious facial hair and other cosmetic items. If you thought your current beard was the most dwarven it could get… boy, do we have some hairy news for you.
+ЯДРА РОЗГОНУ ЗБРОЇ 
+---------------------------- 
+Якщо ви хотіли більш різноманітних вибухів або нових способів подрібнити цілі тунелі кровожерних гліфідів, тоді вам сподобаються це оновлення. Розгони зброї варіюються від основних, але незначних удосконалень, таких як збільшення ємності магазину, до надання абсолютно нових способів зміни загальної функції зброї. 
+Чи бажаєте завдавати радіоактивне пошкодження від сплеску за допомогою гранатомета? Для цього є розгін! Хочете отримайте заповільнення під час прицілювання із гвинтівки M1000? Для цього є розгін! Подрібнити ворогів крижаними осколками з вашої кріо-гармати? Ви здогадалися. Для цього є розгін! 
 
 
-NEW ASSIGNMENTS
-----------------------------
-BREACH THE CORE: Upon your first promotion of any dwarf you get access to a new assignment called BREACH THE CORE. Complete this to earn a handful of Infused Matrix Cores and get your collection of Weapon Overclocks and Rare Cosmetics kick-started. Completing the assignment will also unlock the Weekly Core Hunt.  
+КОСМЕТИЧНІ ЯДРА 
+---------------------------- 
+З 25 оновленням ми збільшуємо волосся на обличчі та інших косметичних засобів. Якщо ти думав, що твоя нинішня борода є найбільш дворфською, якою вона могла бути… Хлопчику, у нас для тебе є кілька волохатих новин.
 
 
-WEEKLY CORE HUNT: For those veteran dwarves looking to make a little spare cash for beard accessories on the side, there’s now Weekly Core Hunt assignments available for Promoted Dwarves. Finishing these will reward you both a Weapon Overclock Core and a Cosmetic Core. Stay strong and classy.
+НОВІ ЗАВДАННЯ 
+---------------------------- 
+РОЗЛОМ ЯДЕР: Після першого підвищення будь-якого дворфа ви отримуєте доступ до нового завдання під назвою - РОЗЛОМ ЯДЕР. Виконайте його, щоб заробити декілька основних матричних ядер та отримати свою колекцію розгону зброї та рідкісної косметики. Виконання завдання також розблокує щотижневе полювання за ядрами. 
 
 
-CARGO CRATES
-----------------------------
-It’s not all about the Deep Dives, though. Be on the lookout for lost Cargo Crates in the caves of normal missions - they are known to contain copious amounts of minerals and weapon skins!
+ЩОТИЖНЕВІ ПОЛЮВАННЯ ЗА ЯДРАМИ: Для тих дворф-ветеранів, які хочуть заробити на стороні трохи додаткових грошей на аксесуари для бороди, зараз є щотижневі завдання на полювання за ядрами (лише для дворфів із підвищенням). Завершивши ці завдання, ви отримаєте винагороду як ядро розгону зброї, так і для косметичного ядра. Залишайтеся сильними та стильними! 
 
 
-NEW MUTATORS
-----------------------------
-
-WARNINGS
-----------------------------
-LOW OXYGEN: As the title says - hold your breath and try not to die before you reach an oxygen tank.
-
-LETHAL ENEMIES: The aliens are extra cranky today. All enemies deal significantly more damage.
-
-REGENERATIVE BUGS: I’ll have what they’re having. All enemies regenerate their health if you wound them and don’t take them out straight away.
-
-PARASITES: Well, it gets even worse. The aliens in this place are just… ugh… just full of angry, parasitic worms. 
-
-HAUNTED CAVE: There’s… SOMETHING… in this cave. It is hunting you. Relentlessly. And it just…won’t…die! Don’t stop. Don’t look behind you. It’s right there constantly coming for you.
-
-ANOMALIES
-----------------------------
-VOLATILE GUTS: You thought Exploder Infestation was bad? Well, whatever infested those poor creatures has run rampant here. Every alien explodes. Just awful.
+ВАНТАЖНІ ЯЩИКИ 
+---------------------------- 
+Справа не лише у глибоких зануреннях. Будьте насторожі і уважно роздивляйтеся печери на вміст втрачених вантажних ящиків, що трапляються у звичайних місіях - вони, як відомо, містять велику кількість мінералів та стилі зброї! 
 
 
-BEARD PHYSICS
-----------------------------
-Glorious facial hair is the hallmark of a good dwarf. We’ve added enhanced beard physics to enhance that magnificent feeling of having a proper dwarven beard.
+НОВІ МУТАТОРИ 
+---------------------------- 
+
+ТРИВОГИ 
+---------------------------- 
+БРАК КИСНЮ: Як звучить заголовок - затамуйте дихання і намагайтеся не вмирати, перш ніж дістатися до резервуара з киснем. 
+
+СМЕРТЕЛЬНІ ВОРОГИ: Прибульці сьогодні надзвичайно примхливі. Всі вороги завдають значно більшої шкоди.
+
+РЕГЕНЕРАТИВНІ ЖУКИ: Я буду мати те, що мають вони! Усі вороги відновлюють своє здоров’я, якщо ви поранили їх і не добили відразу. 
+
+ПАРАЗИТИ: Ну, це буде ще гірше. Інопланетяни в цьому місці просто… тьху… просто повні злих, паразитичних черв’яків. 
+
+ПЕЧЕРА З ПРИВИДАМИ: У цій печері є… ЩОСЬ… І ВОНО полює на тебе. Невгамовно. І воно просто… не помре!.. Не зупиниться. Не дивись назад. Воно просто позаду і постійно буде находити тебе. 
+
+АНОМАЛІЇ 
+---------------------------- 
+НЕСТАБІЛЬНІ НУТРОЩІ: Ви думали, що зараження підривників це занадто? Що б там не напало на цих бідних створінь, кожен жук - вибухає. Просто жахливо, правда? 
 
 
-MORE DWARVEN SHOUTS
-----------------------------
-Nothing is more dwarvish than yelling at stuff, so we’ve added a whole new range of voice lines to the mix. There are new shouts for Power Attacks, salutes, grenade throws, laser pointer, and lots more.  
+ФІЗИКА БОРИ 
+---------------------------- 
+Неймовірне волосся на обличчі - ознака хорошого дворфа. Ми додали розширену фізику бороди, щоб поліпшити це чудове відчуття мати належну бороду дворфа. 
 
 
-BIOMES
-----------------------------
-- New dripping rainfall effect. It can often occur in Dense Biozone and rarely in Crystalline Caverns. 
-- Moving through deep snow in Glacial Strata is less of a slog now - you should notice a significant boost in movement speed.
+БІЛЬШЕ ВИГУКІВ ДВОРФІВ 
+---------------------------- 
+Ніщо не є більш по дворфськи, ніж кричати на речі. Тому ми додали цілий новий діапазон голосових стрічок. З’являються нові вигуки для силових атак, привітання, кидок гранати, лазерної указки та багато іншого. 
 
 
-BULLET TRAILS
-----------------------------
-They make weapon spread, recoil, and other features more visible so the effect of certain Mods and Overclocks is clearly noticeable. Plus, we also think they look neat.
+БІОМИ 
+---------------------------- 
+- Новий ефект крапельних опадів. Він часто може зустрічатися в щільній біозоні і рідко в кристалічних печерах. 
+- Рух по глибокому снігу в крижаних просторах зараз менш сповільнює і ви повинні помітити значне збільшення швидкості руху. 
 
 
-NO MORE “FLOATING ISLANDS”
-----------------------------
-Strange anomalies were causing gravity-defying behaviour where crystals, dirt, and other biome elements were floating when separated from their anchor points. They no longer do that. No more getting stuck on tiny little bits of floating rock after digging!
+ТРАСЕРИ КУЛЬ 
+---------------------------- 
+Вони стали більш помітними при розповсюджені, віддачі зброї та інших функцій, тому ефект деяких модів та розгону чітко помітний. Крім того, ми також думаємо, що вони виглядають більш акуратно. 
 
 
-CUSTOMIZABLE HUD
-----------------------------
-Less is sometimes more. There is a whole slew of new options for HUD customization, letting you set up what’s shown and what isn’t completely to your liking - including dynamic options to make elements appear when they are relevant and disappear when they are not.
+НЕ БУДЕ БІЛЬШЕ «ПЛАВАЮЧИХ ОСТРОВІВ» 
+---------------------------- 
+Дивні аномалії викликали поведінку, що спричиняє тяжкість, де кристали, бруд та інші елементи біому «плавали» в повітрі, якщо вони відокремлювались від своїх опорних точок. Вони більше не робитимуть цього. Ви більше не будете застрягати на крихітних шматочках плаваючої скелі, яку щойно копали! 
 
 
-THROW LIKE AN ATHLETE
-----------------------------
-Being a miner demands precision in every aspect, and so we’ve added a new throwing mechanic to the game. Click to let go of a held object, hold down to charge your throw with the desired amount of force.
+НАЛАШТУВАННЯ HUD 
+---------------------------- 
+Менше, іноді означає більше. Існує ціла низка нових варіантів налаштування HUD, що дозволяє вам налаштувати те, що відображається, а що вам не до смаку. Включаючи динамічні параметри, щоб елементи з’являлися, коли вони є релевантними і зникали, коли їх немає. 
 
 
-WEAPON TWEAKS
-----------------------------
-
-SCOUT
-----------------------------
-DEEPCORE GK2
-- Fixed Battle Cool mod to work as advertised (it used to kill spread per shot but without resetting the accuracy)
-- Moved Quickfire Ejector mod to Tier 1 and increased its value for even faster reloads
-- Added a new damage mod to Tier 3 to take place of the relocated quickfire ejector
-- Decreased value of the Tier 2 Increased Caliber Rounds mod
-- Decreased value of both the Expanded Ammo Bags mods
-- Increased the base ammo count
-- Increased the power of the Recoil Compensator mod and it now affects both actual recoil and spread per shot
-- Increased base spread per shot slightly
-
-M1000 CLASSIC
-- Added an upgrade type and description for the rifle’s focus mode
-- Renamed Improved Ergonomics mod to Fast-charging Coils
-- Improved the Floating Barrel mod slightly to better compete with the others
-- New sound for focused shots
-
-DUAL ZHUKOV NUK 17
-- Increased base damage
-- Decreased the value of Increased Caliber Rounds mod to better match the other T3 option
-- Increased the Value of the Supercharged Feed Mechanism mod to better compete with other options
-
-JURY-RIGGED BOOMSTICK
-- Decreased value of Loaded Shells mod to better balance against other options
-- Increased base pellet count to compensate for Loaded Shells mod tweak
-- Increased value of Tier 1 Expanded Ammo Bags mod to better compete with the damage mod
-
-GUNNER
-----------------------------
-“BULLDOG” HEAVY REVOLVER
-- [COMMUNITY REQUEST] Explosive Rounds now do more explosive damage in a wider radius but at a cost of direct damage
-- Moved Hollow Point Rounds mod to Tier 3
-- Neurotoxin Mod now actually poisons enemies instead of just doing more direct damage
-- Deadeye mod now works for both walking and sprinting letting you stay accurate no-matter the situation
-
-BRT
-- Increased the base burst delay
-- Increased base damage
-- Decreased value of Increased Caliber Rounds mod
-- Increased value of High Capacity Magazine mod to better match the damage mod
-- Decreased the value of the Burst Damage mod to better match the other Tier 5 options
-- The Longer Burst mod now fires all the rounds in the burst much faster
-- Decreased value of the Hollow-Point Bullets mod slightly to bring it inline with competing options
-
-ENGINEER
-----------------------------
-DEEPCORE 40MM PGL
-- Increased base damage
-- Decreased value of Larger Payload mod slightly to better match other Tier two options
-- The Homebrew Explosive mod now gives a damage bonus in a range instead of a flat damage increase. This requires re-purchasing the mod. Anyone who acquired the old version will be automatically refunded.
-- Increased duration of stun from the Concussive Blast mod
-
-BREACH CUTTER
-- Increased base deploy speed
-- Extended the base deploy delay to compensate
-- Quick Deploy mod now properly affects the deploy delay
-- Extended the base projectile lifetime slightly
-- Renamed some of the mods to better follow out naming style for other weapons and to better clarify functionality
-- Rearranged some of the mods to better balance options
-
-PROXIMITY MINE
-- [COMMUNITY REQUEST] Every mine will now trigger an explosion multiple times. This way, they better serve the purpose of planning defenses and a lonely enemy triggering them is not as big of a waste.
-
-PLASMA BURSTER
-- Engineer will carry 6 instead of 4.
-
-DRILLER
-----------------------------
-CRYO CANNON
-- Increased range of Cold Radiance mod to improve useability
-- Increased value of the High Water Content mod to better compete with the other options
-- Increased base charge up time
-- Increased value of the Improved 2nd Stage Pump mod
-- Decreased the value of the Stronger Cooling Unit mod to better match other Tier 1 options
-- Increased the base repressure delay slightly
-- Improved the value of the Bypassed Integrity Check mod
-- Moved the Overclocked Ejection Turbine mod from Tier 3 to Tier 2
-- Decreased base repressure speed slightly
-- Improved the value of the Faster 1st Stage Pump mod to better compete with other options
-- Added a rate of fire mod at Tier 3
-- Fixed EPC bouncy projectiles not impacting armor correctly
-
-CRSPR FLAMETHROWER
-- Upgrade slot five, choice three, description should read " direct damage have a chance to explode " instead of " has a chance to explode".
-- Upgrade slot two, choice two, "triple filtered fuel" is misspelled as ’TRIPPLE’
-
-SUBATA120
-- Increased base damage
-
-EXPERIMENTAL PLASMA CHARGER
-- Renamed most of the mods to better match the naming convention used for other weapons
-- Increased base speed of the charged shot projectile
-- Increased value of the Overcharged Plasma Accelerator (charged projectile speed) mod
-- Decreased the recoil from normal shots
-- Decreased overall shot spread
-- Lowered the value of the damage upgrade from +6 to +5 because OCD
-- Increased the base speed of the normal projectile slightly
-- Added the Increased Particle Velocity (normal projectile speed) mod
-- Decreased value of Improved Charge Efficiency (charged shot energy cost) mod
-- Lowered the base ammo count slightly to cleanly divide into shot cost (OCD again)
-- Lowered the value of the Larger Battery mod slightly
-- Added the High Density Battery mod to Tier 4 for more ammo options
-- Decreased the amount of heat generated by normal shots
-- Decreased the base cooling rate of the weapon
-- Fix normal shots going through armor
-
-SATCHEL CHARGE
-- It’s no longer possible to place more than one Satchel Charge at a time. The damage of the charge was tweaked to be the most powerful explosion in the game. Stacking that damage in one area wasn’t intended and it removes the challenge from fighting some kinds of enemies.
+МІЖНАРОДНИЙ СОЮЗ ГІРНИКІВ 
+---------------------------- 
+Міжпланетний союз гірників нарешті пробився до Гоксеса IV для користувачів «Discord» серверу. Приєднавшись до однієї з трьох фракцій союзу, ви можете працювати як над конкретними цілями фракції, так і з колективною метою. Також є нагороди від союзу, які ви можете отримати! 
 
 
-SOUND
-----------------------------
-- Fixed Geyser sound too loud/too many spawned
-- Naedocyte Breeder sound now stops when it dies
+ЖБУРЛЯЙТЕ ЯК АТЛЕТ 
+---------------------------- 
+Бути гірником вимагає точності у всіх аспектах і тому ми додали в гру нову механіку для метання. Натисніть, щоби відпустити утримуваний об’єкт. Утримуйте, щоб зарядити кидок потрібною силою. 
 
 
-ENEMIES
-----------------------------
-- [COMMUNITY REQUEST] Enemy health bars now show all kinds of status effects (Stun, Radiation, Neurotoxin etc.)
-- Improve the performance of all enemies and 10x perf improvement on Q’ronar
-- Warden’s weak point collision adjusted. It wasn’t registering correctly some hits that should count as weak point hints
-- Naedocyte Hatchlings changed to look more distinct from Shockers
-- [COMMUNITY REQUEST] Acid clouds now blow up from all fire damage sources
-- Fixed Bulk Detonator stuck particles
-- Naedocyte Hatchlings and Shockers aren’t marked correctly with the Laserpointer
-- [COMMUNITY REQUEST] Lowered the chance of multiple Bulk Detonators -
-- A little less increase over time in enemy pressure on Point Extractions 
-- Decreased the magnitude of the enemy wave in the beginning of Point Extraction
-- [COMMUNITY REQUEST] The Bulk Detonator will not attack for the first 5 seconds after spawning to give players a small window to get to a safe distance
-- Fixed a case where the grabber was screaming but not chasing a player
-- Some animation optimizations on Bosco, Naedocyte Trawler, BET-C and Naedocyte Breeder
-- Mactera Bomber goo sacks now light up individually when you shoot them
-- The parasites no BET-C can now be lit on fire
-- Fixed a bug that made BET-C wait close to 5 seconds after switching from machine guns to grenade launcher
+НАЛАШТУВАННЯ ЗБРОЇ 
+---------------------------- 
+
+РОЗВІДНИК 
+---------------------------- 
+ГЛИБИННИЙ ҐК2 
+- Виправлено ​​мод «Холоднокровний вбивця», щоб працює як зазначаються (він використовувався для вбивства розповсюдження за постріл, але без скидання точності). 
+- Переміщено модуль «Швидкострільний ежектор» до 1 рівня та збільшено його значення для ще швидшого перезавантаження. 
+- До рівня 3, додано новий модуль пошкоджень, який замінює мод «Швидкострільний ежектор». 
+- Зменшене значення моду 2 рівня «Збільшення калібру набоїв». 
+- Зменшене два значення модуля «Збільшена торба набоїв». 
+- Збільшена кількість боєприпасів. 
+- Збільшена потужність модуля «Компенсатор віддачі» і тепер він впливає як на фактичну віддачу, так і на поширення на постріл. 
+- Трохи збільшений розкид основи на постріл. 
+
+М1000 КЛАСИЧНА 
+- Додано тип оновлення та опис режиму фокусування гвинтівки. 
+- Перейменований «Вдосконалений модуль ергономіки» на «Швидкозарядні котушки». 
+- Трохи вдосконалено «Плаваючий ствол», щоб краще конкурувати з іншими модами. 
+- Новий звук для сфокусованих пострілів. 
+
+ПІСТОЛЕТИ «ЖУКОВ НЮК 17» 
+- Збільшення базового ураження. 
+- Зменшилося значення мода «Збільшення калібру набоїв», щоб краще відповідати іншому параметру 3 рівня. 
+- Збільшено значення «Механізм нагнітання потоків», щоб краще конкурувати з іншими параметрами модів. 
+
+ОБРІЗ 
+- Зниження значення моду «Заряджені патрони», щоб краще збалансувати інші параметри. 
+- Збільшена кількість базових гранул, щоб компенсувати модифікацію «Заряджені патрони». 
+- Збільшене значення модуля «Збільшена торба набоїв» першого рівня, щоб краще конкурувати з модами пошкодження. 
+
+КУЛЕМЕТНИК 
+---------------------------- 
+ВАЖКИЙ РЕВОЛЬВЕР «БУЛЬДОГ» 
+- [ПРОХАННЯ СПІЛЬНОТИ] «Вибухові снаряди» тепер стали більш вибухонебезпечні і завдають пошкодження в ширшому радіусі, але ціною прямого пошкодження. 
+- Переміщений мод «Експансивні кулі» на рівень 3. 
+- Модифікація «Нейротоксин» тепер насправді отруює ворогів, а не просто завдає більш прямої шкоди. 
+- Мод «Соколине око» зараз працює як для ходьби, так і для бігу, дозволяючи вам залишатися точними, незалежно від ситуації. 
+
+БРТ 
+- Збільшена базова затримка черги. 
+- Збільшення базового ураження. 
+- Зменшене значення моду «Збільшення калібру набоїв». 
+- Збільшене значення модифікації «Більша місткість магазину», щоб краще відповідати модифікаціям пошкоджень. 
+- Зменшилося значення мода «Пошкодження чергою», щоб краще відповідати іншим параметрам рівня 5. 
+- Мод «Довші черги» тепер вистрілює всі набої під час черги набагато швидше. \ r
+- Зменшене значення моду «Експансивні кулі», щоб привести його у відповідність з конкуруючими модифікаціями. 
+
+ІНЖЕНЕР 
+---------------------------- 
+ГЛИБИННИЙ 40мм ПГУ 
+- Збільшення базового ураження. 
+- Зменшене значення моду «Збільшене завантаження», щоб краще відповідати іншим варіантам другого рівня. 
+- Мод «Домашня вибухівка» тепер дає бонус за збитки в діапазоні, замість рівного збільшення шкоди. Ви мусите повторно придбати мод. Кожен, хто придбав стару версію, буде автоматично повернуто відшкодування. 
+- Збільшена тривалість оглушення від модифікації «Шоковий вибух». 
+
+РОЗРИВАЧ 
+- Збільшення базової швидкості розгортання. 
+- Подовжена затримка розгортання бази для компенсації. 
+- Мод швидкого розгортання тепер належним чином впливає на затримку розгортання. 
+- Подовжено термін експлуатації базової стрічки. 
+- Перейменовано деякі моди, щоб краще підпадали під стиль імен для іншої зброї та для кращого уточнення функціональності. 
+- Переорганізувано деякі моди для кращого балансування варіантів. 
+
+СЕНСОРНА МІНА 
+- [ПРОХАННЯ СПІЛЬНОТИ] Зараз кожна міна спричинить вибух декілька разів. Таким чином, вони краще служать для планування оборони, а самотній ворог не зможе що активує їх, тому це не буде тратою заряду. 
+
+ЗАРЯД ПЛАЗМИ 
+- Буде доступно 6 замість 4. 
+
+БУРИЛЬНИК 
+---------------------------- 
+КРІО ГАРМАТА 
+- Збільшений діапазон у моді «Промені холоду», для поліпшеного використання. 
+- Збільшене значення моду «Вищий вміст води», щоб краще конкурувати з іншими модифікаціями. 
+- Збільшений час базової зарядки. 
+- Збільшене значення моду «Поліпшення помпи 2-го рівня». 
+- Зменшилося значення модифікатора «Більш міцніше замороження», щоб краще відповідати іншим параметрам першого рівня. 
+- Трохи збільшена затримка основної репресії. 
+- Поліпшене значення модифікації «Обхід перевірки цілісності». 
+- Переміщено мод «Розігнані турбіни викиду» з 3 на 2 рівень. 
+- Трохи знижена швидкість репресування. 
+- Поліпшено значення «Пришвидшення помпи 1 рівня», щоб краще конкурувати з іншими модами. 
+- Додано «Темп стрільби» на 3 рівень. 
+- Виправлено осколковий снаряд, що не впливав на броню правильно. 
+\ r
+ВОГНЕМЕТ «СУХАРИК» 
+- Виправленні помилки в тексті. 
+- Оновлення слот два, вибір два, "потрійне відфільтроване паливо" неправильно написано як "TRIPPLE". 
+
+СУБАТА120 
+- Збільшення базового ураження. 
+
+ЕКСПЕРИМЕНТАЛЬНИЙ ПЛАЗМОМЕТ 
+- Перейменовано більшість модифікацій, щоб краще відповідати умові іменування, що використовується для іншої зброї. 
+- Збільшена основна швидкість зарядженого снаряда. 
+- Збільшене значення моду «Розігнаний пришвидшувач плазми» (швидкість зарядженого снаряда). 
+- Зменшилася віддача від нормальних пострілів. 
+- Зменшився загальний розкид пострілу. 
+- Знижено значення шкоди з +6 до +5, звичайним снарядом. 
+- Трохи збільшена основна швидкість звичайного снаряду. 
+- Додано модуль «Підвищення швидкості частинок» (нормальна швидкість снаряду). 
+- Зниження значення поліпшеної ефективності заряду (вартість зарядженої енергії) мод. 
+- Знизили базовий підрахунок боєприпасів, щоб розділити на вартість звичайного пострілу. 
+- Трохи знизив значення модуля «Більша батарея». 
+- До рівня 4 доданий мод «Батарея високої щільності». 
+- Зменшилася кількість тепла, виробленого нормальними пострілами. 
+- Зниження базової швидкості охолодження зброї. 
+- Виправлено звичайні постріли, що проходили через броню. 
+
+ДЕТОНАЦІЙНИЙ ПАКЕТ 
+- Тепер не можливо встановлювати більше одного заряду з рюкзака. Пошкодження заряду було налаштовано як найпотужніший вибух у грі. Укладання цієї шкоди в одній зоні не було правильним і це більше не був виклик для боротьби з деякими видами ворогів. 
 
 
-SMALL FIXES AND MISC. CHANGES
-----------------------------
-- White backgrounds on menus fixed
-- Fixed freezing / heating UI icon flipping constantly if near both a heat and cold source
-- Milestones added for the new Warning Mutators
-- Mutators/Warning-icons updated
-- Fix Armor impact particles not working on pickaxe
-- Power attack can now be activated when hitting air
-- Throwing a grenade no longer causes you to take out the wrong weapon
-- Smoke trails added to hitscan weapons
-- Added a long screw to zipline projectile.
-- Added more hot springs in ice caves
-- Typos/grammar fix on a couple of modifications
-- New Character Vignets Videos added. Driller and Gunner here!
-- Carriables should now always be usable after Bosco picks them up
-- Slightly altered Icon Color for Elimination and Extraction missions, so not to clash with Warning Mutator Icon as much
-- Bosco can now be ordered to target Trawlers properly
-- Hide join and solo options from mission select if people have joined your session.
-- Fixed untranslatable text fields in Memorial Hall etc.
-- Broken Jukebox display SHOULD be fixed
-- Shield Disruption now gives you more base health to be a little less brutal.
-- Fixed depositing issues in the MULE while too far away but close enough for interaction prompt
-- Fix for Molly going back to a previous position when she should be going to the Drop Pod
-- Fixed most cases of Molly failing to locate the Drop Pod
-- Fixed cases of pickaxes floating mid air at the start of mission
-- Fixed spelling error "jelous" in mission names
-- Laser pointer no longer gets stuck when saluting
-- Fix an issue with characters becoming selected after hovering over them in the Character Selection Terminal
-- Fixed typos in Weekly Assignment description
-- Fixed Trade Terminal Assignment gives 0 Croppa
-- Fixed No hollomite does not appear when it is secondary objective
-- Fixed spawn collision (Swarmers from spawner)
-- Fixed enemies can be hit after they are dead
-- Fixed Sticky Grenade doing physical damage, triggering perks
+ЗВУК 
+---------------------------- 
+- Виправлений звук гейзера, який був занадто гучний, та занадто багато створювалось. 
+- Тепер звук наедоцитного породжувача припиняється, якщо він вмирає.
+
+
+ВОРОГИ 
+---------------------------- 
+- [ПРОХАННЯ СПІЛЬНОТИ] Стрічка із здоров’ям ворогів тепер показують усі види накладених на них ефектів (оглушення, радіація, нейротоксин тощо). 
+- Поліпшення продуктивності всіх ворогів та 10-кратне поліпшення Кронара. 
+- Поліпшена колізія вразливого місця гліфід-наглядача. Не було коректно встановлено розмір слабкої точки. 
+- Наедоцитні  вилупні змінилися так, щоби виглядати більш відмінно від шокерів. 
+- [ПРОХАННЯ СПІЛЬНОТИ] Кислотні хмари зараз вибухатимуть, при уражені вогнем. 
+- Виправлені частинки застрявання від масивного детонатора. 
+- Наедоцитні вилупні та шокери не позначені правильно при націлені лазерною указкою. 
+- [ПРОХАННЯ СПІЛЬНОТИ] Знизили шанс породження декількох масивних детонаторів одночасно. 
+- Трохи менше з часом зростає тиск противника на пункти видобутку. 
+- Знизилася величина ворожої хвилі на початку місії. 
+- [ПРОХАННЯ СПІЛЬНОТИ] Масивний детонатор не буде атакувати протягом перших 5 секунд після нересту, щоб дати гравцям невелике вікно, щоби відійти до безпечної дистанції. 
+- Виправлено випадок, коли хапайло кричав, але не переслідував гравця. 
+- Деякі оптимізації анімації для Боско, наедоцитного траулера, БЕТ-СІ та наедоцитного породжувача. 
+- Мішки у мактери-слиноплюя зараз підсвічуються індивідуально, коли ви стріляєте в них. 
+- Паразити, які не заразили БЕТ-СІ, тепер можуть підпалюватися від вогню. 
+- Виправлена ​​помилка, яка змусила БЕТ-СІ чекати близько 5 секунд після переходу з кулеметів на гранатомет. 
+
+
+МАЛІ ВИПРАВЛЕННЯ ТА ІНШІ ЗМІНИ 
+---------------------------- 
+- Білі фони в меню були виправлені. 
+- Виправлені значки інтерфейсу від заморожування / нагрівання, що постійно перемикалися, якщо ходити поблизу джерела тепла та холоду. 
+- Додані етапи для нових мутаторів тривог. 
+- Оновлено іконки до Мутаторів / Тривог. 
+- Додано екран працівника місяця із «Discord» серверу. 
+- Виправлено частинки з удару по броні, що не показувались з кайлом. 
+- Атака силою тепер може бути активована при перебуванні у повітря. 
+- Кидання гранати більше не виймає неправильну зброю. 
+- Димові сліди додано до зброї. 
+- Доданий довгий гвинт до снаряду із тросом. 
+- [Ansel] Коригування та вдосконалення для ansel і диспетчера камерою. 
+- Додано більше гарячих джерел у крижаних просторах. 
+- Виправлення помилок / граматики на пару модифікацій. 
+- Додано нове відео з персонажем Бурильник та Кулеметник! 
+- Виправлення до Ansel у місіях в повному екрані. 
+- Речі які можна переносити, тепер повинні бути доступними після того, як Боско забирає їх. 
+- Злегка змінений колір піктограм для Ліквідації та місій видобутку, щоб не бути схожими на іконки від тривог та мутаторів. 
+- Тепер Боско буде належним чином націлюватися на траулерів. 
+- Додано опцію доступності до меню управління, що дозволяє гравцям вручну вводити значення чутливості миші без обмежень. 
+- За запитом спільноти було додано можливість діставати лазерну указку натискаючи CTRL. 
+- Сховано параметри запуску поодиноких місій, якщо люди приєдналися до вашого сеансу. 
+- Додати опцію перепід’єднатися до меню esc. 
+- Виправлені неперекладені текстові поля в Меморіальній залі, тощо. 
+- Зламаний дисплей Музичного апарату повинен бути виправлений. 
+- Зрив щита тепер дає вам більше здоров’я, щоб бути трохи менш важким. 
+- Виправлені проблеми із депозитом ресурсів у МУЛА, коли було занадто далеко, але достатньо близько для підказки про взаємодію. 
+- Виправлено коли Молі поверталася до попередньої позиції, коли їй слід було йти до зони евакуації. 
+- Виправлено більшість випадків, коли Моллі не змогла знайти десантну капсулу. 
+- Виправлені випадки з кайлами, що літали в повітрі на початку місії. 
+- Виправлена ​​помилка написання у назвах місій. 
+- Лазерна указка більше не застряє при вітанні. 
+- Потенційне виправлення для блимання білого екрану на картках Nvidia GTX 970. 
+- Виправлено проблемо із обиранням персонажу, під час наведення на них курсором миші. 
+- Виправлені помилки в описі щотижневого призначення. 
+- Виправлено помилку при зміні функцій на кнопках 8-9-0. 
+- Призначення для торгового терміналу не давав кроппи. 
+- Виправлений коли голломіт не з’являвся, якщо він був додатковою метою. 
+- Виправлено появу нересту (рояки з нересту). 
+- Виправлено, що вороги могли бути вдарені після того як вони померли. 
+- Виправлена клейка граната, яка робить фізичні пошкодження, активуючи вміння. 
 "
 	Update_11 = "Вітання гірникам! 
 
@@ -2942,11 +2955,11 @@ SMALL FIXES AND MISC. CHANGES
 - 13384 Спроба виправити помилки мережі. Тепер можна виганяти гравців, що не обрали персонажа
 - 13385 Виправлено відстань пошуку у браузері серверу
 - 13386 Бета гілки у steam будуть зберігатися окремо від основної гри. (За першим разом створиться копія основної гілки). Резервне збереження буде відбуватися після кожної місії, перевіряючи сумарний досвід персонажа, таким чином воно ніколи не буде перезаписане грою з давнішим поступом.
-- 13391 Перефразовано вдосконалення супердробовика.
+- 13391 Перефразовано вдосконалення суперрушниці.
 - 13393 Виправлено баг інтерфейсу, коли гравця було викинуто до того, як він обрав персонажа 
 - 13397 Карта місій: Іконка завдання тепер прозора, якщо завдання заблоковано. Пароль займає стільки місця, скільки йому потрібно
 - 13402 Дрібне виправлення. Моллі тепер надає перевагу підлогам, коли випадково обирає місце 
-- 13403 Виправлено неправильне відображення зарядки Дробовика у вікні вдосконалення. Виправлено, відображення великих цифр, що ледве поміщалися у інтерфейс
+- 13403 Виправлено неправильне відображення зарядки Рушницяа у вікні вдосконалення. Виправлено, відображення великих цифр, що ледве поміщалися у інтерфейс
 - 13404 Список серверів отримав підтяжку обличчя
 - 13405 Поліпшено звуки печерних п’явок
 - 13409 Тепер Кайло не появиться, коли ви натиснете кнопку Останньої використаної зброї
@@ -3164,6 +3177,7 @@ SMALL FIXES AND MISC. CHANGES
 	Update_13_ShortTitle = "ДРІБНІ ЖИТТЄВІ ЗМІНИ"
 	Update_34_Shorttitle = "СКРОМНІ ОЧІКУВАННЯ"
 	Update_15_ShortTitle = "ЗАГРОЗА МУТАЦІЇ!"
+	Update_34.5_ShortTitle = "ПІДТРИМКА МОДИФІКАЦІЙ"
 	Update_33_Shorttitle = "НОВІ ОБРІЇ"
 	Update_17_ShortTitle = "ОКТОБЕРФЕСТ!"
 	Update_21.5_ShortTitle = "ОДИН РІК НА ОРБІТІ"
@@ -3741,6 +3755,7 @@ MISC.
 
 
 "
+	Update_34.5_Header = "ОНОВЛЕННЯ 34.5: ПІДТРИМКА МОДИФІКАЦІЙ"
 	Update_34_Header = "ОНОВЛЕННЯ 34: СКРОМНІ ОЧІКУВАННЯ"
 	Update_9_Header = "ОНОВЛЕННЯ 9: ПОБУРИМО ПІЗНІШЕ!  —  09.03.2018"
 	Update_31_Shorttitle = "ЩО БУЛО ЗАЛИШЕНО ПОЗАДУ"

@@ -1,8 +1,8 @@
-82 entries
+86 entries
 1 namespaces
-80 values
+84 values
 
-Namespace PatchNotes (82 keys)
+Namespace PatchNotes (86 keys)
 	Update_30_Header = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_30_ShortTitle = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_23 = "De acuerdo, Mineros - ¡venid aquí y cerrad el pico unos minutos!
@@ -192,20 +192,21 @@ GENERAL
 
 
 "
-	Update_20.1_ShortTitle = "BOSCO MÁS GRANDE Y MEJOR"
-	Update_20_ShortTitle = "BOSCO MÁS GRANDE Y MEJOR"
+	Update_20.1_ShortTitle = "MÁS GRANDE Y MEJOR: ES BOSCO"
+	Update_20_ShortTitle = "MÁS GRANDE Y MEJOR: ES BOSCO"
 	Update_11_ShortTitle = "MUERTOS Y ARMAS"
 	Update_9_ShortTitle = "¡HASTA LADRISTA!"
 	Update_25_ShortTitle = "FIN DEL JUEGO - Primera Parte"
 	Update_26_ShortTitle = "FIN DEL JUEGO - Segunda Parte"
 	Update_24_ShortTitle = "EXPANSIÓN EXPLOSIVA"
+	Update_14_ShortTitle = "ASPECTO MONSTRUOSO"
 	Update_28_ShortTitle = "ME SIENTO HABILIDOSO"
 	Update_12_ShortTitle = "MOSCAS Y FINANZAS"
-	Update_21_ShortTitle = "YENDO EN SERIO"
+	Update_21_ShortTitle = "AHORA ESTO ES SERIO"
 	Update_19_ShortTitle = "¡ARMAS! MUCHAS ARMAS"
-	Update_18.5 = "Buenas noooooooches, mineros!
+	Update_18.5 = "¡Buenas noooooooches, mineros!
 
-Halloween está sobre nosotros y hemos hecho una pequeña actualización espeluznante para tí! Realmente no consideramos esto como una verdadera actualización, ya que estamos trabajando en la próxima gran actualización que incluirá nuevas armas y un sistema de actualización y una renovación total de los precios de vanidad y las mejoras. Tiempos emocionantes por delante!
+Halloween está a punto de llegar y hemos hecho una pequeña actualización espeluznante para ti! Realmente no consideramos esto como una verdadera actualización, ya que estamos trabajando en la próxima gran actualización que incluirá nuevas armas y un sistema de mejoras, además de una renovación total de los precios de vanidad y las mejoras. ¡Se acercan tiempos emocionantes!
 
 --- NOTAS DEL PARCHE ---
 
@@ -213,8 +214,8 @@ HALLOWEEN
 ---------------------------
 - Calabazas añadidas a la plataforma espacial para que puedas patear!
 - Calabazas de truco o trato en las cuevas. ¡Prueba tu suerte aplastándolos!
-- Venta limitada de cascos de calabaza! Boo muhahaha !!!!
-- Banner en Bar Abismo y luces agradables
+- ¡Venta limitada de cascos de calabaza! ¡¡¡¡ Boo muhahaha !!!!
+- Una pancarta en el Bar Abismo y luces agradables
 
 
 JUBILACIÓN Y CORRECCIÓN DE PE
@@ -228,16 +229,16 @@ Nos ha sorprendido realmente positivamente ver cuán bien se ha recibido el sist
 
 
 REVISIONES Y MEJORAS
----------------------------- \ r
-- Se solucionó el problema con el botón de invitación de Discord Party y se evitó que funcionara en algunos casos
-- Se solucionó el problema al fallar la misión de Salvamento durante la etapa de la cápsula de combustible
-- Se corrigió el indicador de daños se quedaba atascado en la pantalla
+---------------------------- 
+- Se solucionó el problema con el botón de invitación de Discord Party que evitaba que funcionara en algunos casos
+- Se solucionó un crasheo al fallar la misión de Salvamento durante la etapa de la cápsula de combustible
+- Se corrigió el indicador de daños que provocaba que se quedara atascado en la pantalla
 - Se corrigieron algunos problemas menores de Terremotos de Magma
-- Configuración de gráficos: deshabilitada la restauración de pantalla completa para evitar problemas con el mouse y no poder hacer clic en continuar en el juego
+- Configuración de gráficos: deshabilitada la restauración de pantalla completa para evitar problemas con el ratón y no poder hacer clic en continuar en el juego
 - Corregido un caso en que un cliente no cargaba al unirse
 - Corregida la desaceleración del IFG del Explorador, se configuró incorrectamente a solo un 30% de ralentización, se restableció a 75%
 - Reducido el drop de las Larvas de Botín. Usualmente soltaban 15-25 valores de oro y Nitra - ahora cae 5-15.
-- Corregida La misión de Eliminación no siempre genera suficientes capullos. Capullos de Dreadnought ahora se corta un espacio para sí mismo y tiene requisitos de creación menos estrictos
+- Corregida La misión de Eliminación que no siempre genera suficientes capullos. Los Capullos de Acorazado ahora se cortan un espacio para sí mismos y tienen requisitos de creación menos estrictos
 - Corrección para que el cursor desaparezca en la ventana de recompensa de la campaña.
 "
 	Update_23_ShortTitle = "LOS HORRORES DE HOXXES"
@@ -420,6 +421,96 @@ ARREGLOS Y MEJORAS
 - Solucionado el sonido burbujeante del géiser del aire y de la lava después de ser destruido.
 - Animación de patada agregada a personajes de tercera persona. ¡Las patadas de barril nunca ha sido más realistas!
 - El nuevo Control de la Misión habla de tareas ascenso y armas. 
+"
+	Update_9 = "¡Hola, Mineros!
+Deep Rock Galactic ya lleva una semana publicado. Hemos terminado de celebrar el increíble lanzamiento (¡sí!) Y ahora estamos trabajando duro para sacar nuevas actualizaciones. Dentro del juego, tenemos un bonito botón de "Comentarios", y queríamos darle un gran agradecimiento a los miles de ustedes que ya lo han aprovechado. Es de gran ayuda para nosotros. A continuación, puedes leer sobre la actualización.
+
+--- Mejoras del Perforador ---
+El Perforador es probablemente la clase más singular de Deep Rock Galactic, por lo que nos entristeció ver que nuestro icónico PerforaDozer resultaba más débil que las otras clases en cuanto a utilidad. Por lo tanto, hemos ajustado tanto su Lanzallamas como sus Taladros. En las notas del parche detalladas a continuación, puedes ver los cambios de estadísticas exactos, que también pueden brindarte algunas sugerencias sobre cómo utilizar mejor al Perforador.
+
+--- Pagos al Fallar una Misión y al Expulsar a un Jugador ---
+Dos problemas comenzaron a mostrarse muy rápidamente: la insatisfacción con la forma en que manejamos un escenario de Misión fallida en lo que respecta al pago, y el hecho de que los jugadores podrían ser expulsados del equipo en cualquier momento. Hemos elaborado un primer paso en una solución para ambos, como se indica a continuación:
+
+En primer lugar, fallar una misión significaba ningún pago en absoluto. Ahora, si fallas una misión, obtendrás una compensación del 25% de los minerales almacenados en Molly en el momento de la finalización de la misión. 
+
+En segundo lugar, ser Expulsado de un equipo resultará en un caso de Misión Fallida, donde recibirás una compensación basada en lo que se agregó a Molly desde que se unió a esa sesión. 
+
+Ahora ya no es posible unirse o ser expulsado de un equipo una vez que se ha llamado a la Cápsula de Transporte y ha comenzado la cuenta regresiva final. Esta es una prueba por ahora y monitorearemos el resultado, y es una solución bastante fácil, por lo que podemos retroceder rápidamente si es necesario.
+
+Además, es extremadamente importante comprender cómo funciona una Misión Completada. Podrías pensar que las recompensas se reparten entre los supervivientes. Pero NO lo son. Calculamos el total y luego cada jugador de la sesión obtiene la misma recompensa, independientemente del tamaño del equipo. Además de esto, cada jugador superviviente añade una bonificación de superviviente, que también se ha mejorado. “No dejes a ningún enano atrás” debería ser el espíritu aquí: ¡cuantos más jugadores logren salir con vida, mayor será la bonificación para todos los involucrados!
+
+
+Hemos optado por no implementar la expulsión por votos con esta actualización, a pesar de que algunos jugadores lo piden. Es bastante trabajo implementarlo, y no estamos completamente convencidos de que sea el camino a seguir en este momento. Dicho esto, existen buenos argumentos tanto a favor como en contra de esta característica, y continuaremos monitoreando la situación. Lo mismo ocurre con un botón de votación en Molly. 
+
+--- Bosco ---
+Detallado en las notas del parche a continuación, Bosco ha recibido una mejora bastante significativa, y su capacidad para matar a las sanguijuelas de cuevas debería haberse mejorado. Escribimos "debería", ya que este problema necesitará más trabajo para perfeccionarlo por completo, pero al menos ahora debería ser una mejor experiencia.
+
+--- Cromos de Steam ---
+Esto es un poco embarazoso. Resulta que tienes que publicar manualmente los Cromos cuando lanzas un nuevo juego en Steam. ¡Ups! ¡La buena noticia es que están implementados ahora y están a la espera de ser cosechados!
+
+
+--- Hoja de Ruta ---
+A mitad de semana, tuvimos una gran reunión sobre comentarios aquí en la oficina de Ghost Ship. Hemos recopilado todos los comentarios de ustedes, los jugadores, así como los comentarios del equipo de desarrollo y nuestros socios. Hay MUCHAS cosas interesantes que podemos y haremos para expandir Deep Rock Galactic. La tarea por ahora es elegir cuáles entran en el juego y en qué orden, y planeamos revelar una hoja de ruta más amplia y completa para los próximos meses durante las próximas semanas. 
+
+--- Notas del Parche ---
+
+Mission End
+- Survival Bonus is doubled up from 75 credits to 150 credits pr surviving player
+- Mission Failed now gives a 25% compensation reward based on minerals collected
+
+Co-op sessions
+- Getting kicked now results in Mission Failed, compensation based on contribution
+- Added a new flow and info for Kicking and getting Kicked
+- You can no longer Join a session after Drop Pod has been called
+- You can no longer Kick a player from a session after Drop Pod has been called
+- Tweaked text on Mission Map in regards to new public/ private flow
+- Reworded Server List filter to Show Open and Show Password Servers
+- Add Private Server checkbox in escape menu
+- Added indicator for a joining player to team view 
+
+Solo mode
+- Bosco should now save you from the cave leeches more consistently
+- Bosco now also gets to play with the big lights. He goes woosh and then you can see a lot more than before :)
+- Bosco now has friendly fire reduction 0.2 instead of 1
+- Bosco Deals 100 % more damage (doubled from 3 to 6)
+- Bosco now gets a 250% speed boost when you order him around. Also increased his acceleration from 300 to 550
+
+Class Balance: Buffed the Driller’s tools
+- Flamethrower Fuel capacity upped from 160 to 270 units, and each canister holds 90 instead of 80 units. That means the flamethrower now has fuel for three full reloads instead of two, and each reload holds more fuel.
+- Flamethrower Range upped from 8.5m to 10 m
+- Power Drills: Fuel upped from 30 to 35
+- Increased walk speed while drilling with 10 %
+- Melee damage with drills: Attack speed has been DOUBLED, while the damage of each attack has been lowered from 10 hp to 8 hp. (to compensate for double attack speed)
+- Upgrade Melee Drill damage: 5 hp to 4 hp (to compensate for double attack speed)
+
+Intro screen
+- Added patch notes (this text) to Intro screen
+- Text & Button for Steam group no longer shown when rewards have already been claimed
+
+Sound, Effects & Animations
+- Idle animations on Pistol and Revolver (also triggered by Reload on full ammo)
+- New Spitballer sound and Maggot sound
+- Changed the flamethrower smoke back to black... It was white, and it was a mistake.. Now it looks awesome again!
+
+Caves
+- More cave shapes added to the random generator.
+- More randomness on existing cave shapes.
+- New sticky web environmental hazard. Don't get caught!
+
+Localization
+- Added language selection to Intro screen
+- Croatian, Finnish, Italian and Japanese added
+- All languages updated (as usual new features lagging behind, will show English)
+- Updated community translator credits
+- Added missing characters for Polish language.
+- Some buttons with text did not correctly update after a new language was selected.  
+
+Misc Fixes
+- Vanity items would sometimes not be correctly displayed on the dwarves in the terminals.
+- Key '5' is now available for custom key bindings
+- Fix Late Join crash if joining right when the level ends. 
+- Fixed: you can no longer edit the Hint text while loading! 
+- Maptool not updating correctly when terrian changes
 "
 	Update_30 = "¡Hola, Mineros!\
 ¡Es fantástico finalmente darles la bienvenida a Deep Rock Galactic 1.0!  
@@ -2103,35 +2194,35 @@ OTROS CAMBIOS
 - [XBOX / WIN10] Se ha mejorado la red de conexión para eliminar desconexiones y errores fatales aleatorios del juego
 
 "
-	Update_16 = "Hola Mineros! Estamos de vuelta a la rutina después de unas preciosas vacaciones de verano y hemos preparado una nueva actualización para ustedes. En respuesta a todo el clima caluroso que hemos tenido, pensamos que lo obvio era añadir un bioma de hielo. verdad?
+	Update_16 = "¡Hola, Mineros! Estamos de vuelta a la rutina después de unas preciosas vacaciones de verano y hemos preparado una nueva actualización para ustedes. En respuesta a todo el clima caluroso que hemos tenido, pensamos que lo obvio era añadir un bioma de hielo. Verdad?
 
 --- NOTAS DEL PARCHE ---
 
 NUEVO BIOMA - ESTRATOS GLACIALES
 ----------------------------
-¡Afronta un infierno helado totalmente nuevo, con picos de hielo inestables y mortales en el techo, grietas aterradoras que se abren bajo tus pies, tipos exclusivos de enemigos, y la primera iteración de nuestro nuevo sistema de temperatura! Juega fresco, solo ten cuidado de no terminar como una paleta de carne...
+¡Afronta un infierno helado totalmente nuevo, con picos de hielo mortales e inestables en el techo, grietas aterradoras que se abren bajo tus pies, tipos exclusivos de enemigos, ¡y la primera iteración de nuestro nuevo sistema de temperatura! Relájate, solo ten cuidado de no terminar como una paleta de carne...
 
 CUEVAS
-- Hielo! El material principal de la región planetaria de los Estratos Glaciales es hielo en vez de roca, asi que el fuego lo derrite! usa esta información sabiamente.
-- Nieve profunda! Cuidado con los montones de eso. No te hará daño, pero te ralentizará y es imposible correr a través de ella.
-- Lagos congelados! Cuidado donde pisas, son un tanto resbaladizas.
+- ¡Hielo! ¡El material principal de la región planetaria de los Estratos Glaciales es hielo en vez de roca, así que el fuego lo derrite! Usa esta información sabiamente.
+- ¡Nieve profunda! Cuidado con los montones de nieve. No te hará daño, pero te ralentizará y es imposible correr a través de ella.
+- ¡Lagos congelados! Cuidado donde pisas, son un tanto resbaladizas.
 - ¡Aguas termales! El único alivio del frío penetrante, si ignoras las "herramientas" que llevas contigo.
 
 FLORA
-- Plantas de hielo explosivas! Úsalas para congelar alienigenas en su camino, pero ten cuidado, es tan probable que te golpeen como tus enemigos.
-- Plantas de plataforma! Dispárales para liberar el líquido en su interior, se congelará instantáneamente y formará plataformas útiles (pero frágiles) para que puedas utilizarlas.
+- ¡Plantas de hielo explosivas! Úsalas para congelar alienígenas en su camino, pero ten cuidado, es tan probable que te golpeen como tus enemigos.
+- ¡Plantas de plataforma! Dispárales para liberar el líquido en su interior, se congelará instantáneamente y formará plataformas útiles (pero frágiles) para que puedas utilizarlas.
 
 ENEMIGOS
-- Bombardero de hielo! Una variación de nuestro flamante enemigo Bombardero Mactera. Liberará las nauseabundas corrientes de sustancia helada mientras pasa a tu lado.
-- ¡Glífidos de escarcha! Varios tipos de Glífidos se han adaptado al frío y seguirán cazándote por tu hermosa carne caliente incluso aquí. Y ten cuidado con el Pretoriano de Escarcha: es un asesino en frío. Por el lado positivo, todos parecen bastante susceptibles al calor de cualquier tipo...
+- ¡Bombardero de Hielo! Una variación de nuestro flamante enemigo Bombardero Mactera. Liberará las nauseabundas corrientes de sustancia helada mientras vuelva sobre ti.
+- ¡Glífidos de Escarcha! Varios tipos de Glífidos se han adaptado al frío y seguirán cazándote por tu hermosa carne caliente incluso aquí. Y ten cuidado con el Pretoriano de Escarcha: es un asesino en frío. Por el lado positivo, todos parecen bastante susceptibles al calor de cualquier tipo...
 
 PELIGROS
-- Respiraderos helados! Ten cuidado con las grietas en las paredes y chorros de aire horizontales, de vez en cuando, emiten ráfagas de viento que congelan los huesos.
+- ¡Respiraderos helados! Ten cuidado con las grietas en las paredes y chorros de aire horizontales, de vez en cuando, emiten ráfagas de viento que congelan los huesos.
 - ¡Hielo delgado! Camina con cuidado y mantén tus orejas peladas. Los abismos profundos pueden abrirse debajo de ti en cualquier momento.
-- Hielo inestables! Esté atento a los carámbanos llenos de algas en el techo. La más mínima perturbación tiende a hacer que caigan atronadores en el suelo y se rompan. ¡Ay de cualquiera que se pare debajo de ellos en ese punto!
+- ¡Hielo inestable! Esté atento a los carámbanos llenos de algas en el techo. La menor perturbación tiende a hacerlos caer estruendosamente al suelo y hacerse añicos. Mucho cuidado a cualquiera que esté debajo de ellos.
 
 SISTEMA DE TEMPERATURA
-- Si bien el olor corporal sigue siendo bajo en la lista de prioridades de los enanos, vigilar la temperatura de su cuerpo ahora es más importante que nunca. Si baja demasiado, te congelarás en tu lugar. Si es demasiado alto, estallarás en llamas. Mantenerse en el centro de la escala es lo más seguro.
+- Si bien el olor corporal sigue siendo bajo en la lista de prioridades de los enanos, vigilar la temperatura de tu cuerpo ahora es más importante que nunca. Si baja demasiado, te congelarás en tu lugar. Si es demasiado alto, estallarás en llamas. Mantenerse en el centro de la escala es lo más seguro.
 - Ciertas acciones o artículos reducirán o aumentarán tu temperatura. Algunos, como el lanzallamas, son bastante autoexplicativos.
 - Los enemigos siguen las mismas reglas. Pueden congelarse y prenderse fuego, aunque tendrán resistencias o debilidades únicas dependiendo de su especie. PSI: los enemigos congelados se pueden romper si se les aplica suficiente daño...
 
@@ -2142,9 +2233,9 @@ INTEGRACIÓN CON DISCORD
 
 ENEMIGOS
 - Nuevo tipo de enemigo: Bombardero Pegajoso
-- Los infestadores escupebolas ahora comienzan inactivos, y solo se despierta si te acercas demasiado o se le aplica daño de alguna manera.
+- Los Infectadores Escupesaliva ahora aparecerán inactivos, y solo se despertarán si te acercas demasiado o se le aplica daño de alguna manera.
 - El Engendro Mactera ahora es más débil a los ataques cuerpo a cuerpo.
-- El Cazador Mactera no debería gritar a menos que esté activamente persiguiendote.
+- El Cazador Mactera no debería gritar a menos que esté persiguiéndote.
 
 BOSCO
 - Nuevo ícono para que siempre sepas lo que Bosco está haciendo.
@@ -2152,15 +2243,15 @@ BOSCO
 - Bosco ahora siempre irá por el Cazador / Sanguijuela de cueva que atrapó al jugador.
 - Bosco no revivirá al jugador sin estar cerca de él/ella después de ser asesinado por una Sanguijuela de cueva o Cazador.
 - Ajustadas las prioridades de Bosco, ahora se enfocará en los enemigos en vez de minar cuando se le ordena.
-- Optimizacion mientras apunta al enemigo.
+- Optimización mientras apunta al enemigo.
 
 AUDIO
-- Montónes de nuevas lineas de voz agregadas.
+- Montones de nuevas líneas de voces agregadas.
 
 CORRECCIONES
 ----------------------------
 - Se ha corregido la granada IFG del Explorador no aplicaba la pena de resistencia al daño adecuada.
-- Se ha corregido un error que hacia que Molly decidiera alejarse mientras alguien estaba depositando. Modales, Molly!
+- Se ha corregido un error que hacía que Molly decidiera alejarse mientras alguien estaba depositando. ¡Modales, Molly!
 - Mejorado la forma en que se manejan las partidas guardadas: tus partidas guardadas ahora llevan el nombre de tu SteamID para evitar problemas cuando se comparte una sola máquina.
 - Las copias de seguridad ahora se escriben en archivos separados en cada sesión para evitar que la corrupción del juego se descargue accidentalmente en las copias de seguridad.
 - Se ha corregido un error con las Tirolinas donde los clientes podían moverse ligeramente e incrementar la velocidad mientras estaba en la Tirolina.
@@ -2168,152 +2259,152 @@ CORRECCIONES
 - Los enemigos ya no deberían hacer ruidos después de morir. Es lo más lógico, en verdad...
 - El Engendro Mactera y Cazador ya no deberían quedarse atascados fuera de la malla de navegación después de esquivar.
 "
-	Update_12 = "Hey Miners! 
+	Update_12 = "¡Hola, Mineros!
 
-Es hora de nuevos parches, ¡y tenemos un montón de cosas nuevas geniales para ti! ¡Ajustes, correcciones de errores y el primer nuevo enemigo! Además, junto con estas actualizaciones más pequeñas, ahora estamos iniciando un mayor desarrollo de contenido y funciones. Más sobre esto más adelante, cuando revelemos una hoja de ruta más grande de lo que vendrá.
-
---- NOTAS DEL PARCHE --- 
-
-CORRECCIONES PEDIDAS POR LA COMUNIDAD
------------------------- ----------------------------- 
-
-BOSCO SE TE UNE SI COMIENZAS UN JUEGO EN SOLITARIO
-A muy la solicitud popular de la comunidad ha sido que Bosco lo acompañe cuando empiece a organizar un juego. De esta manera puedes comenzar a minar con Bosco ayudándote, mientras esperas a que tus amigos o extraños se unan a tu juego. Hicimos una primera implementación aproximada sin campanas y silbidos, y funciona de esta manera:
-: Bosco se une a ti cuando comienzas a organizar un juego público / privado y te diriges solo.
-- Cuando el primer jugador se une En tu juego, Bosco se autodestruirá para esa sesión de juego.
-
-JADIZ BUFF
-Jadiz ha sido uno de los materiales de fabricación más difíciles de recolectar y lo hemos mejorado. Jadiz ahora se regenerará un poco más a menudo en la Región de las Cavernas Cristalinas y hemos cambiado el rango de valores de 7-18 a 10-18.
-
-QUIERES BOTAS DE PANTALLA LIMPIAS DE NIZA?
-Algunos de ustedes han estado solicitando poder realizar capturas de pantalla limpias y, de hecho, ¡también necesitamos esa función! Ahora puede mantener [H] para activar / desactivar el HUD.
+¡Es tiempo de otro parche, y tenemos un montón de cosas nuevas y geniales para ti! ¡Ajustes, corrección de errores y el primer enemigo nuevo! Además, junto con estas actualizaciones más pequeñas, ahora estamos iniciando un mayor desarrollo de contenido y funciones. Más detalles sobre esto más adelante, cuando revelemos un roadmap más amplio de lo que vendrá.
 
 
-NUEVAS COSAS
------------------------------------- -----------------
+--- NOTAS DEL PARCHE ---
 
-NUEVO ENEMIGO: ¡DIGA HOLA A LA PESCA DE LA MACTERA!
-La Mactera Spawn es nuestro primer enemigo volador. Atacará desde la distancia utilizando su vómito. ¡PEGALE A ESA MOSCA!
+ARREGLOS SOLICITADOS POR LA COMUNIDAD
+-----------------------------------------------------
 
-TUNELES DE SWARMER
-Ahora puedes encontrarte con túneles extrañamente pequeños que salen de las paredes. ¡Los Enjambres Glyphid viven aquí! ¡Son muy territoriales y defenderán agresivamente su nido! Un simple consejo: ¡Evítalos!
+BOSCO SE UNIRÁ A TI SI COMIENZAS UNA PARTIDA TÚ SOLO
+Una solicitud muy popular de la comunidad ha sido que Bosco te acompañe cuando comiences una partida como anfitrión. De esta manera puedes comenzar a minar con Bosco ayudándote, mientras esperas a que tus amigos o extraños se unan a tu juego. Hemos hecho una primera implementación aproximada sin campanas y silbidos, y funciona así:
+- Bosco se unirá a ti cuando comiences una partida pública/privada como anfitrión y empieces tú solo.
+-  Cuando el primer jugador se una a tu juego, Bosco se auto-destruirá por esa sesión.
 
-¡EL CAVE LEECH TE SUELTA SUAVEMENTE CUANDO MUERE!
-Anteriormente, cuando un enano era derribado de una Caza Sanguijuela moribunda, podía caer una gran distancia, misteriosamente sin sufrir daños por caídas, lo cual era tal como estaba diseñado pero parecía extraño. Ahora la cueva Leech afloja su lengua y que disminuye hacia abajo con más suavidad, haciendo que parezca más realista que usted no toma caer daños.
+BUFF DE JADIZ
+El Jadiz ha sido uno de los Materiales de Elaboración más difíciles de recolectar y le hemos dado un buff. El Jadiz ahora se generará un poco más a menudo en la región Cavernas Cristalinas y hemos cambiado su rango de valores de 7-18 a 10-10. 
 
-ARMOUR destructibles EN GLYPHIDS! 
-la potencia de fuego suficiente directo a las armaduras molestos ¡Placas para dispararlas y exponer las partes débiles de abajo!
+QUIERES CAPTURAS DE PANTALLAS MÁS AGRADABLES? 
+¡Algunos de ustedes han estado solicitando poder tomar una captura de pantalla limpia y agradable y en realidad también necesitamos esa función! Ahora puedes mantener pulsado [H] para activar / desactivar el HUD. 
 
-NUEVA CREACIÓN PASIVA: ¿ES UN AVIÓN? ¿ES UN PAJARO? ¡NO ES UN JELLYFISH QUE VUELA!
-La región densa Biozona de Hoxxes está ahora habitada por, jaleas grandes, pasivo voladores.
 
-MINERAL TERMINAL DE COMERCIO
-en el mineral Comercio terminal se puede negociar sus créditos para materiales de elaboración, pero se aconseja que Los materiales tienen un precio bastante exorbitante. También puede vender sus preciosos materiales de artesanía para obtener créditos, pero nuevamente no espere un precio justo. ¡Deep Rock Galactic siempre intenta maximizar sus ingresos, incluso si provienen de sus trabajadores!
+COSAS NUEVAS
+-----------------------------------------------------
 
-ANIMACION DE RECARGA DE REVOLVER
-El Revolver del Artillero ahora tiene una animación de recarga adecuada, así como un movimiento nuevo de pistolero cuando intentas recargar mientras está completamente recargado.
+NUEVO ENEMIGO: ¡DILE HOLA AL ENGENDRO MACTERA! 
+El Engendro Mactera es nuestro primer enemigo volador adecuado. Atacará desde la distancia usando su ataque de vómito. ¡Mata a esa Mosca!
 
-NERF A LA LINTERNA
-El rango de las linternas de los enanos se ha reducido de 12.50m a 11.00m, lo que las ha debilitado un poco.
+TÚNELES DE INVASORES 
+Ahora puedes encontrar pequeños túneles de aspecto extraño que salen de las paredes. ¡Los Glífidos Invasores viven ahí! ¡Son muy territoriales y defenderán agresivamente su nido! Un simple consejo: ¡Evítalos!  
+
+¡LAS SANGUIJUELAS DE CUEVA TE DEJARÁN IR "SUAVEMENTE" CUANDO MUEREN! 
+Anteriormente, cuando un enano era arrojado desde una Sanguijuela de Cueva moribunda, podía caer una gran distancia, sin sufrir misteriosamente ningún daño por caída, que era como estaba diseñado pero parecía extraño. Ahora, la Sanguijuela de Cueva afloja su lengua y te baja más suavemente, lo que hace que parezca más realista que no sufra daños por caída.
+
+¡ARMADURA DESTRUCTIBLE EN LOS GLÍFIDOS!
+¡Dirige suficiente potencia de fuego a esas molestas placas de armadura para romperlas y exponer las partes blandas debajo!
+
+NUEVA CRIATURA PASIVA: ¿ES UN AVE? ¿ES UN AVIÓN? ¡NO, ES UNA MEDUSA VOLADORA! 
+La región Biozona Densa de Hoxxes ahora está habitada por medusas voladoras grandes y pasivas.
+
+TERMINAL DE COMERCIO DE MINERALES
+En la Terminal de comercio de minerales puedes intercambiar tus créditos por materiales de elaboración, pero ten en cuenta que los materiales tienen un precio bastante exorbitante. También puedes vender tus preciosos materiales de elaboración por créditos, pero nuevamente, no esperes un precio justo. ¡Deep Rock Galactic siempre está tratando de maximizar sus ingresos incluso si provienen de sus trabajadores! 
+
+ANIMACIÓN DE RECARGA DEL REVOLVER
+El Revolver del Artillero ahora tiene una animación de recarga adecuada, así como unos geniales movimientos de pistolero cuando intentas recargar con el cargador lleno.  
+
+NERF DE LA LINTERNA 
+El rango de la linterna de los enanos ha sido modificada de 12.50m a 11.00m, haciéndolas un poco más débiles.
 
 MEJORAS DE PATHFINDER
-Ahora es menos probable que los enemigos atraviesen las paredes delgadas de la cueva.
+Ahora es menos probable que los enemigos atraviesen las delgadas paredes de las cuevas.
 
-SEGURIDAD DE MOVIMIENTOS
-Si por alguna razón la MULA no encuentra su camino de regreso a la cápsula de escape, las puertas se abrirán 15 segundos antes de que finalice la cuenta regresiva.
+ARREGLO DE SEGURIDAD DE LA M.U.L.A
+Si por alguna razón la M.U.L.A. no encuentra el camino de regreso a la Cápsula de Escape, las puertas aún se abrirán 15 segundos antes de que acabe la cuenta regresiva.  
 
-... Y toneladas de cosas menores, en su mayoría correcciones de errores entre bastidores, pero también pequeñas mejoras visuales. Para una descripción completa, vea las notas de parches a continuación.
+...Y toneladas de cosas menores, en su mayoría correcciones de errores, pero también pequeñas mejoras visuales. Para obtener una descripción general completa, consulte las notas del parche a continuación.
 
-CAMBIOS
-------------------------------- ----------------------
-- El sonido ajustado para los ejercicios de podar en el espaciador
-- Red Sugar es más Redder
-- Etiquetas de desarrollador agregadas
-- Arreglar el escalamiento después de recogerlo en primera persona
-- Volumen de rastreo de gusanos disminuido
-- Coger el audio de la sanguijuela truco
-- Coger el audio del pellizco de nuevo nuevamente agian
-- Recarga del Revolver
-- Tweaked El sonido en el cristal eléctrico
-- La superposición de aflicción ahora se desvanece rápidamente
-- La superposición de Death Cam se ha modificado
-- Tweak de audio de Droppod - No es tan fuerte en la plataforma espacial
-- Modificacion de audio de la Escopeta
-- La Regeneracion de los efectos cuando los enemigos salen del suelo ahora funcionan en los clientes
-- Se agregó la luz de tierra y la separación de la luz de las armas de fuego + se agregó una luz de fondo para que la cámara muerta se vea mejor.
-- Solucionado - Tu propia vanidad no se mostraría como equipada para ti en misiones o en el espaciador.
-- Cambió la iluminación de armas en primera persona, y se envió con una gran cantidad de ajustes de material para que coincidiera.
-- Intento de arreglar los jugadores que se generan uno encima del otro
-- ¡Intento de arreglar el retraso en los artículos coleccionables nuevamente!
-- Armadura y barra de salud conectadas en el panel inferior del jugador
-- Se agregaron recursos a la lista de servidores
-- Se agregó Cambio de vista de personaje en tercera persona (Trabajo en progreso)
-- Se corrigieron cristales eléctricos que producen ruidos de muerte y partículas cuando se eliminan durante la generación
-- Se presentaron muchas optimizaciones de partículas, para mejorar el rendimiento en Hongos 
-- Se corrigió el audio de recarga de la pistola de centinela no en red correctamente y el contorno siempre está encendido
-- Indicador de impacto ajustado colorante
-- Incremento del tiempo de vida de la llama adhesiva
-- Menos electrocristales, menor radio de daño, pausas más largas entre las conexiones
-- Efecto de partículas en primera persona con lanzallamas fijo pequeño
-- La distribución de minerales ha cambiado, Ir ld y Nitra están distribuidos de manera más uniforme en toda la cueva
-- Terminal de comercio
-- Disparos en la cabeza mejorados en las arañas
-- Jugador de tentáculos más bajo en el suelo en la muerte
-- Los glifos ahora solo se tambalean cuando son golpeados por las armas
-- No juegues partícula de la muerte en el disparo en la cabeza
-- Arreglando la sanguijuela de la cueva accidentalmente 'reviviendo' la enana muerta
-- Mejoras en Pathfinder. Menos recorridos por el terreno.
-- Se agregaron señales de audio al túnel del enjambre engendro
-- Gelatinas pasivas se agregaron a Biozone denso
-- Cambios en la configuración del túnel - Túneles menos pequeños en algunas regiones
-- Bettersound sobre cristales radiantes radioactivos
-- Tweak pequeño para precisión de revólveres.
-- Mejora el rendimiento del puntero láser al comparar con el terreno
-- Bosco ahora genera si comienzas un juego solo y desaparece si alguien se une
-- Swarmer túneles con nuevo material, sonido, partículas
-- Arregla la barra de salud del enemigo inicial estado para el indicador de punto débil
-- Las luces del hombro ajustadas hacia abajo de 12.50m a 11.00m alcanzan a debilitarlas un poco.
-- Se agregó el nombre correcto a las patas de glifo rígidas
-- Se agregó la pata Shooter, en lugar de reutilizar la pata de spitter.
-- Cambió la iluminación de las plantas eléctricas y optimizó un poco las partículas. Fuego nuevo lanzallamas
-- Se ha añadido el efecto de encendido para cuando los enemigos se incendien
-- Agregado Punto débil de muertes de partículas para el tirador volante
-- Los jugadores caerá del tirolina si toman suficiente daño
-- Mantenga presionado H para activar / desactivar HUD
-- El ataque de area del Acorazado Glifidoahora hace daño completo en toda el área (Antes era por zonas)
-- Modificó la cantidad de Jadiz - Se corrigió un error por el cual el desove de Jadiz solo tenía un valor 2
-que tiene un rango de 2 a 3 + rango de valores cambiados de 7-18 a 10-18
- - Disminución de botín por error de botín: los fragmentos eran 15-30 ahora son 15-25 y el valor del fragmento fue 1-4 ahora es 1-3"
-	Update_13 = "Hey mineros!
+LISTA DE CAMBIOS
+-----------------------------------------------------
+- Tweaked sound for drop pod drills on spacerig
+- Red Sugar is more Redder
+-  Added Developer Tags
+- Fix carriable scaling after picking up in first person
+- Decreased maggot crawl volume
+- Cave leech audio tweak
+- Cave leech audio tweak again agian
+- Revolver reload
+- Tweaked Sound on electric crystal
+- Affliction overlay now does a quick fade in
+- Death Cam overlay tweaked
+- Droppod audio tweak - Not as loud in space rig
+- Shotgun audio tweak
+- Spawn effects when enemies come out of the ground now work on clients
+- Added ground light and gunlight seperation + added a backlighting making dead cam look better.  
+- Fixed - Your own vanity would not show as equipped to you on missions or in the spacerig.
+- Changed the first person weapon lighting, and submitted at shitload of material tweaks to match it..
+- Try to fix players spawning on top of each other
+- Try to fix delay on collectibles again!
+- Hooked up armor & health bar in player down hud
+- Added Resources to serverlist display
+- Added Third Person Character Turning (WIP)
+- Fixed electric crystals making death noises and particles when removed during generation
+- Submitted a lot of particle optimizations, to improve performance in Fungus
+- Fixed sentry gun reload audio not networked correctly & outline being always on
+- Tweaked hit indicator coloring
+- Increased sticky flame life time
+- Fewer Electrocrystals, smaller damage radius, longer pauses between connections
+- Fixed flamethrower first person particle effect being too small
+- Mineral distribution changed, Gold and Nitra are more evenly spreadout throughout the cave
+- Trading Terminal
+- Improved headshots on spiders
+- Made tentacle lower player to ground on death
+- Glyphids now only stagger when hit by weapons
+- Don’t play death particle on headshot
+- Fixing cave leech acidentally 'reviving' dead dwarf
+- Pathfinder improvements. Less going through terrain.
+- Added audio cue to swarmer tunnel spawn
+- Passive Jellies added to Dense biozone
+- Changes to tunnel settings - Less small tunnels in some regions
+- Bettersound on radioactive glowing crystals
+- Small tweak to revolvers accuracy. 
+- Improved laserpointer performance when checking against terrain
+- Bosco now spawns if you start a game alone and dissapears if someone joins
+- Swarmer tunnels with new material, sound, particles
+- Fix enemy healthbar initial state for weakpoint indicator
+- Shoulderlights tweaked down from 12.50m to 11.00m reach making them a bit weaker.
+- Added correct name to torn off glyphid legs
+- Added Shooter leg, instead of reusing spitter leg.
+- Changed lighting on the electric plants, and optimized the particles a bit. New flamethrower fire.
+- Added ignition effect for when enemies catch on fire.
+- Added Weakpoint Kill Particle for the flyer shooter
+- Players will fall from the zip-line if they take sufficient damage
+- Hold H to toggle HUD on/off
+- Glyphid Dreadnought area attack now does full damage in the entire area (There was a falloff before)
+- Tweaked Jadiz amount - Fixed bug where Jadiz spawning only had a value 2 to it having a 2 to 3 range + Changed value range from 7 to 18 to 10 to 18
+- Decreased loot from loot bug: chunks was 15-30 now is 15-25 and chunk value was 1-4 now is 1-3"
+	Update_13 = "¡Saludos, Mineros!
 
-Es el momento otra vez, ¡y tenemos algunos cambios interesantes para que disfrute! Esta actualización es más experimental de lo habitual con ajustes en el sistema de salud y nos encantaría escuchar sus opiniones. 
+¡Es hora de otra actualización, y tenemos algunos cambios interesantes para que disfrutes! Esta actualización es más experimental de lo habitual con ajustes en el sistema de salud y nos encantaría escuchar sus opiniones. 
 
---- NOTAS DEL PATCH ---
+--- NOTAS DEL PARCHE ---
 
-COMUNIDAD SOLICITUDES ARCHIVOS
------------------------------ ------------------------
+ARREGLOS SOLICITADOS POR LA COMUNIDAD
+-----------------------------------------------------
 
 MENOS ESCUDO
-Algunos de ustedes, mineros incondicionales, han estado pidiendo que el juego fuera más difícil, especialmente en dificultades mayores. Hemos intentado hacer ajustes que hacen que el juego sea más difícil en las dificultades más altas, pero sentimos casi lo mismo en las dificultades más bajas. Hemos bajado su escudo inicial de 30 a 25 y hemos cambiado las mejoras de escudo al escudo de 10 a 2.5 (dando un aumento del 10%).
+Algunos de ustedes, mineros incondicionales, han estado solicitando que el juego sea más difícil, especialmente en dificultades más altas. Hemos intentado hacer ajustes que hacen que el juego sea más difícil en las dificultades más altas, pero se siente casi igual en las dificultades más bajas. Hemos bajado tu escudo inicial de 30 a 25 y hemos cambiado las mejoras de escudo al escudo de 10 a 2,5 (dando un aumento del 10%).
 
 MÁS SALUD
-Para compensar la falta de escudo, hemos aumentado la salud del jugador de 100 a 110 hp. 
+Para compensar la falta de escudo, hemos aumentado la salud del jugador de 100 a 110 ps. 
 
-MÁS AZÚCAR ROJO
-Además, la cantidad de curación que se obtiene del azúcar roja se ha incrementado en un 25% y la cantidad de azúcar roja generada en una misión se ha incrementado en un 10%. 
+MÁS AZÚCAR ROJA
+Además, la cantidad de curación que obtienes del azúcar roja se ha incrementado en un 25% y la cantidad de azúcar roja generada en una misión se ha incrementado en un 10%. 
 
 
-MODIFICACIONES
------------------------------------------ ------------
+AJUSTES 
+-----------------------------------------------------
 
-SOLO NÚMEROS ENEMIGOS Y SALUD
-Explorar las cuevas de Hoxxes por ti mismo requiere más tiempo y puede ser brutal, por lo que lo hemos hecho para que los enjambres sean un poco Un poco más pequeño cuando estás por tu cuenta. La salud del enemigo también se ha reducido un poco para las expediciones en solitario. ¡Las criaturas de Hoxxes todavía son peligrosas, así que no bajéis la guardia!  
+CANTIDAD Y SALUD DE ENEMIGOS EN SOLO
+Explorar las cuevas de Hoxxes por tu cuenta lleva más tiempo y puede ser brutal, así que hemos hecho que los enjambres sean un poco más pequeños cuando estás solo. La salud del enemigo también se ha reducido un poco para las expediciones en solitario. Las criaturas de Hoxxes siguen siendo peligrosas, ¡así que no bajes la guardia!  
 
-BOSCO AHORA CON UN 50% MÁS RESURRECCIONES
-Mientras que él realmente quiere, Bosco no siempre puede salvarte de una sanguijuela de cueva. Se siente muy mal por eso y ha solicitado que se le permita revivirlo 3 veces en lugar de 2. La solicitud ha sido concedida.
+BOSCO AHORA CON 50% MÁS REANIMACIONES
+Aunque realmente quiere, Bosco no siempre puede salvarte de una sanguijuela de cueva. Se siente muy mal por ello y ha solicitado que se le permita revivirte 3 veces en lugar de 2. La solicitud ha sido concedida.
 
-LA SALUD DE MACTERA SPAWN AUMENTÓ
-En un esfuerzo continuo por perfeccionar el Engendro de Mactera, hemos cambiado su salud de 180 a 210. ¡Recuerde usar cobertura y apuntar hacia el punto débil!
+ENGENDRO MACTERA CON MÁS SALUD
+En un esfuerzo continuo por perfeccionar al Engendro Mactera, hemos cambiado su salud de 180 a 210. ¡Recuerda usar la cobertura y apuntar al punto débil!
 "
 	Update_25 = "Saludos, Mineros,
 ¡Vaya! Habéis sido muy pacientes con nosotros durante un largo tiempo, pero el Parche 25 - nuestra actualización más ambiciosa hasta la fecha - ¡por fin ha llegado! Excavaciones Profundas, más opciones de personalización del equipo, recompensas para jugadores experimentados, montones de nuevos aspectos, cargamentos, rediseño de la física de las barbas...oh, queridos Mineros - esta versión es grande. Nuestras propias barbas han crecido 6 pulgadas desde que comenzamos a escribir estas notas de la versión.
@@ -2888,7 +2979,7 @@ PEQUEÑOS CAMBIOS Y OTROS ARREGLOS CAMBIOS
 - Se ha corregido un error por el que los enemigos podían ser golpeados una vez muertos
 - Se ha corregido un error por el que la Granada Adherente causaba daño físico, lo que activaba ciertas habilidades
 "
-	Update_11 = "Hola mineros,
+	Update_11 = "Hola, mineros
 
 Tenemos otra actualización para ti con algunas características nuevas, algunos ajustes y algunas correcciones de errores. Junto con estas pequeñas actualizaciones, ahora estamos iniciando un mayor desarrollo de contenido y funciones. Hablaremos sobre esto más adelante, cuando revelemos una hoja de ruta más grande sobre lo que vendrá.
 
@@ -2919,12 +3010,12 @@ ELECTRO-CRISTALES
 Se han agregado Electro Cristales mortales a Cavernas Cristalinas. No te acerques demasiado: ¡pueden dar un buen golpe!
 
 PROHIBIDAS LAS PLATAFORMAS EN LA CÁPSULA DE TRANSPORTE
-plataformas (y las cápsulas de suministros) ya no pueden aparecer/adjuntarse a la cápsula de transporte. Lo sabemos... a algunos de ustedes les divertia llenar la Cápsula de Transporte con plataformas, pero la administración les recuerda que las plataformas de hormigón son muy difíciles de quitar!
+plataformas (y las cápsulas de suministros) ya no pueden aparecer/adjuntarse a la cápsula de transporte. Lo sabemos... a algunos de ustedes les divertía llenar la Cápsula de Transporte con plataformas, pero la administración les recuerda que las plataformas de hormigón son muy difíciles de quitar!
 
-RECALIBRACIÓN DE GRAVEDAD
-Un tentador bóton llamado “Recalibración de Gravedad” se ha activado en la plataforma espacial. A la Administración probablemente no le agrade que los empleados abusen de ella... pero es tan grande y roja...
+RE-CALIBRACIÓN DE GRAVEDAD
+Un tentador botón llamado “Re-calibración de Gravedad” se ha activado en la plataforma espacial. A la Administración probablemente no le agrade que los empleados abusen de ella... pero es tan grande y roja...
 
-CORREGIDA LA BUSQUEDA POR REGIÓN DE STEAM
+CORREGIDA LA BÚSQUEDA POR REGIÓN DE STEAM
 Algunas personas tenían dificultades para encontrar partidas en su propia región. ¡Hemos arreglado esto ahora (eso esperamos)!
 
 ...Y toneladas de cosas menores, en su mayoría correcciones de errores detrás de escenas, pero también pequeñas mejoras visuales. Para obtener una descripción completa, consulta las notas de parches a continuación.
@@ -2932,59 +3023,59 @@ Algunas personas tenían dificultades para encontrar partidas en su propia regi�
 
 LISTA DE CAMBIOS
 --------------------------------------------
-- 13314 Las plantas eléctricas ahora son cristales y se pueden encontrar en la región de Cavernas Cristalinas
-- 13316 Se actualizaron todos los idiomas desde Crowdin
-- 13319 El Pico será menos agresivo al golpear objetos no hostiles
-- 13320 CORREGIDO: El garfio podia atascarse en el modo de garfio
-- 13328 Bosco ahora puede detectar las venas de minerales más pequeñas cuando se le pide que mine
-- 13329 CORREGIDO: La pestaña de Controles ahora tiene la pestaña de Controlador
-- 13338 Bosco ahora es mejor en no estorbar cuando estás extrayendo minerales
-- 13339 Hay un nuevo interruptor en la estación espacial, me pregunto para qué será
-- 13341 Característica: Modo de Cámara Incapacitado, mira a los otros jugadores mientras esperas ser reanimado o hasta que finalice el juego. ¡No más mirar a tu "pronto" cadáver!
-- 13384 Intentos de arreglo/mejoras de errores de red. Puedes echar a jugadores que no han seleccionado un personaje
-- 13385 Corregida la distancia de búsqueda en el buscador de servidores
-- 13386 Las ramas Beta en Steam ahora se guardarán en partidas guardadas separadas. (Copia el progreso de la principal la primera vez). Una copia de seguridad se guardará ahora después de cada misión, verifica el PE total del personaje, por lo que nunca debería ser sobrescrito por un juego con menos progreso.
-- 13391 Se ha cambiado la mejora de la superescopeta para dar a entender que no dispara ambos cañones, si no disparo más rápido
-- 13393 Corregido un error de la interfaz de usuario si el jugador entrante era echado antes de seleccionar el personaje
-- 13397 Mapa de Misiones: Los iconos de las misiones ahora son transparentes si la misión está bloqueada, la contraseña tiene el espaciado correcto
-- 13402 Arreglo menor. ahora Molly prefiere posiciones en el piso al buscar un punto al azar
-- 13403 Corregida la mejora de velocidad de recarga de la escopeta no mostraba los números correctos. Corregidos digitos grandes de mejoras que apenas cabían en la interfaz de usuario
-- 13404 Lista de servidores fue rediseñado
-- 13405 Mejorado el sonido de la sanguijuela de cueva
-- 13409 Ya no se equipará el Pico al usar la tecla de arma "último equipado"
-- 13410 Las animaciones del Lanzallamas y la Ametralladora Gatling ahora funcionan en bucle correctamente en lugar de comenzar de nuevo repetidamente. Se corrigió el trazador en el rifle de asalto
-- 13411 El overlay de daño de escudo y salud ahora se borran después de revivir
-- 13413 Ajustes a la Ametralladora Gatling
-- 13414 Ajustada la distancia de la cámara de los brazos en primera persona
-- 13415 Ajustada la distancia de particula de disparo de la Ametralladora Gatling
-- 13416 Ajustada la localización del audio de los tentaculos
-- 13418 Agregado balanceo de arma a todos los artículos
-- 13419 Corrección de caída de audio
-- 13420 Agregado audio de los gusanos al arrastrarse
-- 13421 Efectos gráficos a las misiones bloqueadas en el Mapa de Misiones añadidos
-- 13423 Mejor lista de servidores
-- 13424 Nuevas partículas de sobrecalentamiento de la Ametralladora Gatling
-- 13427 Se evitarán los túneles sin salida cuando son realmente pequeños y tienen curvas cerradas.
-- 13429 Ajustada la profundidad a los biomas
-- 13436 Mejor soporte para bloqueadores de caminos y zonas de peligro. Los NPCs vuelven a calcular las rutas cuando ingresan a un área que ha cambiado.
-- 13445 Creada una copia de respaldo antes de actualizar a la versión 11
-- 13453 Se corrigió las bengalas de la pistola de bengalas aveces se expulsaban de las paredes cuando se destruia cerca de ellas
-- 13454 Ya no puedes revivir cuando cargas una gema
-- 13455 Corregido los enemigos ya no pueden caminar donde la Cápsula de Transporte se posó después de que se ha ido
-- 13466 Las Plataformas ya no pueden colocarse dentro de la Cápsula de Transporte. Las cápsulas de suministros solo pueden ser llamadas en terreno. Estos cambios son principalmente para evitar el troleo o colocaciones desafortunadas que puede evitar que termines la misión.
-- 13468 Mensaje de "anfitrión se ha ido" un tanto mejor
-- 13469 cambios más recientes al FOV... se han movido las armas un poco más lejos en algunas animaciones
-- 13471 [Patch] las Perforadoras ahora echan humo cuando se sobrecalientan.
-- 13480 Corregido el estado de los enanos no se mostraban en la pantalla final
-- 13484 Túneles de Invasores en todos los biomas, un disparo
-- 13495 Escaladas las partículas del lanzallamas
-- 13503 Corregidos los medidores de profundidad para los biomas
+- 13314 Electric Plants are now Crystals and can be found in the Crystal Caverns Region
+- 13316 Updated all languages from Crowdin
+- 13319 Pickaxe will be less aggresive in hitting non hostile objects
+- 13320 FIX: Grappling hook getting stuck in grapple mode
+- 13328 Bosco can now detect smaller veins of minerals when you order him to mine
+- 13329 FIX: Control layouts now contains Controller Layout (again)
+- 13338 Bosco is now be better at not being in the way when you're mining minerals
+- 13339 There is a new switch in the spacerig, I wonder what it does?
+- 13341 Feature: Down Camera Mode, cycle through players while waiting to be revived or for the game to end. No more staring at your soon to be corpse!
+- 13384 Try to fix/improve network errors. Enable kick of players that have not selected a character
+- 13385 Fix Search Distance in server browser
+- 13386 Beta branches in steam will now save to separate save games. (Copies the save from main the first time). A backup save will now be saved after each mission, it checks total character XP so it should never be overwritten by a game with less progress.
+- 13391 rephrased supershotgun upgrade to match that it does not get doublle barrel fire only faster firerate.
+- 13393 Fix ui bug if incoming player is kicked before he selected character
+- 13397 Mission Map: Mission Icons now transparent if mission is locked, Password has correct spacing
+- 13402 Minor fix. Make molly prefer positions on floor when searching for random spot 
+- 13403 Fixed Shotgun reload speed upgrade not showing correct numbers. Fixed large upgrade digits barely fit in the UI
+- 13404 Server List got a facelift
+- 13405 Improved cave leech sounds
+- 13409 Prevent Pickaxe when using Last Equipped weapon key
+- 13410 Made Fire animations for flamethrower and gatling gun loop correctly instead of starting over repeatedly. Fixed tracer on assault rifle
+- 13411 Shield & health damage overlays now clears after revive
+- 13413 Gatling Gun Tweaks
+- 13414 Tweaked camera ofset on 1st person arms.
+- 13415 Gatling Gun muzzle particle offset tweaked
+- 13416 Tweaked Tentacle audio location
+- 13418 Add Weapon Sway to all items
+- 13419 Dropspike audio fix
+- 13420 Added maggot crawl audio
+- 13421 Mission Map locked mission gfx update
+- 13423 Nicer serverlist
+- 13424 Added new gatling overheat particles
+- 13427 Try to prevent dead end tunnels when they are really small and have tight bends.
+- 13429 tweaked depth on biomes
+- 13436 Better support for pathfinder blockers and danger zones. NPCs recalculate paths when entering an area that has changed.
+- 13445 Create backup save before upgrading to version 11 savegame
+- 13453 Fixed flaregun flare randomly getting ejected from walls when they are destroyed nearby
+- 13454 You can no longer revive while carrying a gem
+- 13455 Fixed enemies not being able to walk where the droppod was landed after it has taken off
+- 13466 Platforms can no longer form inside the droppod. Supplypods can only be called down on terrain. These changes are mainly to prevent trolling or unfortunate placement that can prevent you from finishing the mission.
+- 13468 Nicer host quit message
+- 13469 Newest FOV changes... moved the weapons a bit further away in some animations
+- 13471 [Patch] Power Drills is now smoking when they overheat.
+- 13480 Fix dwarf status is not shown on endscreen
+- 13484 Swarmer Tunnels in all biomes, one shot
+- 13495 Scaled up the flamethrower particles
+- 13503 Fixed depth meters for Biomes
 "
 	Update_10 = "Hola, mineros: 
 
-Os traemos otra versión que contiene tanto correcciones importantes como algo de nuevo contenido. En paralelo a estas pequeñas actualizaciones, estamos comenzando a desarrollar contenidos y características de mayor importancia. Tendréis más detalles acerca de esto en posteriores versiones, cuando empecemos a revelar más detalles de nuestro plan de desarrollo. 
+Les traemos otra versión que contiene tanto correcciones importantes como algo de nuevo contenido. En paralelo a estas pequeñas actualizaciones, estamos comenzando a desarrollar contenidos y características de mayor importancia. Tendrán más detalles acerca de esto más adelante, cuando empecemos a revelar más detalles de nuestro plan de desarrollo. 
 
---- NOTAS DE LA VERSIÓN ---
+--- NOTAS DEL PARCHE ---
 
 ARREGLOS POR PETICIÓN DE LA COMUNIDAD
 - Se han corregido varios errores relacionados con la sensibilidad del ratón. La sensibilidad del ratón no parecía ser la misma en la Plataforma Espacial y durante una misión, y ahora se han ajustado para que sean iguales. La sensibilidad tiene diferentes valores para el movimiento horizontal y vertical, y ahora pueden ajustarse ambos valores en las opciones.
@@ -2996,11 +3087,11 @@ ARREGLOS POR PETICIÓN DE LA COMUNIDAD
 CONTENIDO DE CUEVAS
 - Primera implementación de diferentes variaciones de túneles para cada región planetaria.
 - Se han añadido estalactitas de cristal colgantes que pueden caer desde el techo en los Pozos de Sal.
-- Se ha añadido Baba Pegajosa a las Ciénagas Fúngicas.
+- Se ha añadido Baba Pegajosa a la Ciénaga Hongosa.
 
 MAPA DE MISIÓN
 - Se han añadido nuevos iconos para Complejidad y Longitud. Ahora debería ser más evidente que la complejidad es un aumento significativo de la dificultad.
-- Los iconos de Complejidad ahora se mostrarán sobre los iconos de mision.
+- Los iconos de Complejidad ahora se mostrarán sobre los iconos de misión.
 - Ahora se mostrará el pago por completar una misión justo bajo el icono de Misión.
 
 MODELOS VISUALES DE ARMAS
@@ -3016,7 +3107,7 @@ CAMBIOS AL EXPLORADOR
 ANIMACIÓN, SONIDOS Y EFECTOS
 - Se han introducido animaciones de recarga para la pistola del Perforador.
 - La pistola del Perforador y la escopeta del Explorador ahora se considerarán recargadas cuando la animación comienza, y no cuando termina. Este cambio se implementará en otras armas cuando reciban sus propias animaciones de recarga. (falta una actualización de sonido aquí)
-- Se ha corregido un error con las animaciónes de la consola de fondo en los clientes.
+- Se ha corregido un error con las animaciones de la consola de fondo en los clientes.
 - Se han actualizado los gráficos del Puntero Láser.
 - Se ha eliminado el fondo de las ventanas emergentes de interacción.
 - Se ha actualizado los gráficos de superposición.
@@ -3030,7 +3121,7 @@ CORRECCIONES MENORES
 - ¡¡¡Los asteroides ya no tienen sombras suaves en la pantalla de carga!!!
 - El joystick derecho del mando ahora tendrá las funciones de la rueda del ratón.
 - Se ha eliminado la comprobación de Amigo de Steam al invitar a un amigo. Las sesiones privadas ahora deberían funcionar mejor, dado que este problema impedía que los anfitriones pudieran invitar a amigos que no lo fueran de tu servidor.
-- Se ha corregido un error por el que Molly no tenía una apariencia dorado al desbloquear su figura en el Salón Conmemorativo.
+- Se ha corregido un error por el que Molly no tenía una apariencia dorada al desbloquear su figura en el Salón Conmemorativo.
 - Se ha establecido por defecto que Molly y las arañas grandes prefieran caminar por el suelo.
 - Se han corregido errores fatales con las armas.
 - Los enemigos ya no se "tambalean" al sufrir daño físico (armas cuerpo a cuerpo).
@@ -3178,7 +3269,8 @@ MISCELANEOS.
 "
 	Update_18_ShortTitle = "OFERTAS DE EMPLEO"
 	Update_27_ShortTitle = "PEQUEÑAS GRANDES COSAS"
-	Update_13_ShortTitle = "CAMBIOS DE VIDA MENORES"
+	Update_13_ShortTitle = "CAMBIOS MENORES DE SALUD"
+	Update_34_Shorttitle = "MODESTAS EXPECTATIVAS"
 	Update_15_ShortTitle = "¡ADVERTENCIA DE MUTACIÓN!"
 	Update_33_Shorttitle = "NUEVAS FRONTERAS"
 	Update_17_ShortTitle = "¡OKTOBERFEST!"
@@ -3501,12 +3593,12 @@ CAMBIOS GENERALES
 	Update_10_Header = "ACTUALIZACIÓN 10: ¿VISIÓN DE TÚNEL? - 16.03.2018"
 	Update_11_Header = "ACTUALIZACIÓN 11: MUERTOS Y ARMAS - 23.03.2018"
 	Update_12_Header = "ACTUALIZACIÓN 12: MOSCAS Y FINANZAS - 13.04.2018"
-	Update_13_Header = "ACTUALIZACIÓN 13: CAMBIOS DE VIDA MENORES - 04.05.2018"
-	Update_14_Header = "ACTUALIZACIÓN 14: FEATURE CREEP - 15.06.2018"
+	Update_13_Header = "ACTUALIZACIÓN 13: CAMBIOS MENORES DE SALUD - 04.05.2018"
+	Update_14_Header = "ACTUALIZACIÓN 14: ASPECTO MONSTRUOSO - 15.06.2018"
 	Update_15_Header = "ACTUALIZACIÓN 15: ¡ADVERTENCIA DE MUTACIÓN! - 04.07.2018"
 	Update_16_Header = "ACTUALIZACIÓN 16: EL INVIERNO HA LLEGADO - 29.08.2018"
 	Update_17_Header = "ACTUALIZACIÓN 17: OKTOBERFEST! - 20.9.2018"
-	Update_18.5_Header = "PARCHE 18.5: HALLOWEEN - 26.10.2018"
+	Update_18.5_Header = "ACTUALIZACIÓN 18.5: HALLOWEEN - 26.10.2018"
 	Update_18 = "ACTUALIZACIÓN 18: OPORTUNIDADES DE TRABAJO
 
 Que tal, Mineros!!
@@ -3609,16 +3701,16 @@ CORRECCIONES Y MEJORAS
 "
 	Update_18_Header = "ACTUALIZACIÓN 18: OFERTAS DE EMPLEO - 11.10.2018"
 	Update_19_Header = "ACTUALIZACIÓN 19: ¡ARMAS! ¡MUCHAS ARMAS!"
-	Update_20.1_Header = "ACTUALIZACIÓN 20.1: BOSCO MÁS GRANDE Y MEJOR"
-	Update_20_Header = "ACTUALIZACIÓN 20: BOSCO MÁS GRANDE Y MEJOR"
-	Update_21_Header = "ACTUALIZACIÓN 21: YENDO EN SERIO"
+	Update_20.1_Header = "ACTUALIZACIÓN 20.1: MÁS GRANDE Y MEJOR: ES BOSCO - 03.01.2019"
+	Update_20_Header = "ACTUALIZACIÓN 20: MÁS GRANDE Y MEJOR: ES BOSCO"
+	Update_21_Header = "ACTUALIZACIÓN 21: AHORA ESTO ES SERIO"
 	Update_21.5_Header = "ACTUALIZACIÓN 22: UN AÑO EN ÓRBITA"
-	Update_23_Header = "ACTUALIZACION 23: LOS HORRORES DE HOXXES"
+	Update_23_Header = "ACTUALIZACIÓN 23: LOS HORRORES DE HOXXES"
 	Update_24_Header = "ACTUALIZACIÓN 24: EXPANSIÓN EXPLOSIVA"
-	Update_25_Header = "VERSIÓN 25: FIN DEL JUEGO - Primera Parte"
+	Update_25_Header = "ACTUALIZACIÓN 25: FIN DEL JUEGO - Primera Parte"
 	Update_26_Header = "ACTUALIZACIÓN 26: FIN DEL JUEGO - Segunda Parte"
-	Update_27_Header = "VERSIÓN 27: PEQUEÑAS GRANDES COSAS"
-	Update_28_Header = "VERSIÓN 28: ME SIENTO HABILIDOSO"
+	Update_27_Header = "ACTUALIZACIÓN 27: PEQUEÑAS GRANDES COSAS"
+	Update_28_Header = "ACTUALIZACIÓN 28: ME SIENTO HABILIDOSO"
 	Update_29_Header = "ACTUALIZACIÓN 29: EL FIN DEL COMIENZO"
 	Update_31_Header = "ACTUALIZACIÓN 31: LO QUE QUEDÓ ATRÁS"
 	Update_32_Header = "ACTUALIZACIÓN 32: OBREROS TRABAJANDO"
@@ -3767,6 +3859,7 @@ OTROS CAMBIOS
 
 
 "
-	Update_9_Header = "ACTUALIZACIÓN 9: ¡TALADRE MÁS TARDE! - 09.03.2018"
+	Update_34_Header = "ACTUALIZACIÓN 34: MODESTAS EXPECTATIVAS"
+	Update_9_Header = "ACTUALIZACIÓN 9: ¡HASTA LADRISTA! - 09.03.2018"
 	Update_31_Shorttitle = "LO QUE QUEDÓ ATRÁS"
 	Update_16_ShortTitle = "EL INVIERNO HA LLEGADO"

@@ -758,6 +758,34 @@
 			}
 		},
 		{
+			"File": "../../../FSD/Plugins/Modio/Modio.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "2.0",
+				"FriendlyName": "mod.io",
+				"Description": "Powerful Mod API",
+				"Category": "Other",
+				"CreatedBy": "mod.io",
+				"CreatedByURL": "https://mod.io",
+				"DocsURL": "",
+				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1ab22ed2961a4cc19b9151bd072df998",
+				"SupportURL": "http://discord.mod.io",
+				"EngineVersion": "4.25.0",
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "Modio",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../FSD/Plugins/SimpleUGC/SimpleUGC.uplugin",
 			"Descriptor": 
 			{
@@ -777,17 +805,41 @@
 					{
 						"Name": "SimpleUGC",
 						"Type": "Runtime",
-						"LoadingPhase": "PreLoadingScreen"
+						"LoadingPhase": "PreLoadingScreen",
+						"WhitelistPlatforms": [
+							"Win32",
+							"Win64"
+						]
 					},
 					{
 						"Name": "SimpleUGCEditor",
 						"Type": "Editor",
-						"LoadingPhase": "Default"
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win32",
+							"Win64"
+						]
 					}
 				],
 				"Plugins": [
 					{
 						"Name": "PluginBrowser",
+						"Enabled": true
+					},
+					{
+						"Name": "Modio",
+						"Enabled": true,
+						"WhitelistPlatforms": [
+							"Win32",
+							"Win64"
+						]
+					},
+					{
+						"Name": "OnlineSubsystem",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystemSteam",
 						"Enabled": true
 					}
 				]
@@ -1649,15 +1701,7 @@
 					{
 						"Name": "ChaosNiagara",
 						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"PS4",
-							"XboxOne",
-							"Mac",
-							"Linux"
-						]
+						"LoadingPhase": "Default"
 					}
 				],
 				"Plugins": [

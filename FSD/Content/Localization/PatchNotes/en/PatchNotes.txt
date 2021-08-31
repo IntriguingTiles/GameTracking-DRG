@@ -1,10 +1,222 @@
-89 entries
+92 entries
 1 namespaces
-86 values
+89 values
 
-Namespace PatchNotes (89 keys)
+Namespace PatchNotes (92 keys)
 	Update_30_Header = "1.0 LAUNCH"
 	Update_30_ShortTitle = "1.0 LAUNCH"
+	Update_34.5 = "<Italic>NOTE: This Experimental is different from previous ones, as there is a risk of it not transitioning to a public release immediately after. With Update 35 looming, if we can’t get modding support to the level of stability that we want within the next few days, we may have to postpone it until after Update 35 is live. Crossing our fingers that that won’t be an issue.</>
+
+Hello Miners,
+
+This is it! It’s finally happening. Modding support is here.
+
+What started as a simple Save Game profile system turned into full-fledged modding support. We have spent the past months iterating on these features together with the modding community and it has been great to see it come to fruition. We are excited that you’re going to have the opportunity to try out all the weird/fun/awesome/puzzling mods on display from within the game. We have much we want to tell you about what is in this release, so keep reading.
+
+With Love,
+The Ghost Ship Crew
+
+
+--- PATCH NOTES ---
+
+MODDING MENU
+----------------------------
+You can access all User Generated Content from within the game through the brand-new Modding Menu within the ESC menu. mod.io allows you to upload and subscribe/install mods. The platform has everything you would expect. You can comment, rate and subscribe to your favorite mods.
+
+This menu acts as your window to the wonderful world of DRG Mods. As you browse and try out mods, you will likely become familiar with our three Approval Categories that determine how the mods interact with your Save Game and host-client setup:
+
+VERIFIED MODS
+You can use Verified (for Base Game) Mods along with your Regular Save Game. These Mods will stay active even though you join a host who does not have those Mods installed. And other players will not have to download those Mods in order to join you. They essentially don’t have any restrictions on Save Games or client-host setup. 
+This category is likely to be somewhat exclusive and limited to select mods. Examples would be QoL mods that do not impact gameplay, audio or visual mods that improve accessibility, and localized versions of in-game graphics.
+
+APPROVED MODS
+You can use Approved (for Progression) Mods along with your Regular Save Game, meaning you can still earn XP and Resources in your regular progression while using them. When you are joining a host who does not have the same Approved Mods installed as you, those Mods will be disabled. Likewise, when you are host then other players will have your active Approved Mods downloaded when trying to join your game.
+Examples would be cosmetics, SFX, harder or alternative game modes, weapon changes, and mods that moderately alter gameplay elements but still retain progression inline with the regular game.
+
+SANDBOX MODS
+Sandbox will be the default category for any Mod uploaded to mod.io, before we have had a chance to assign an Approval Category to it. You are free to use any Sandbox Mods with a Modded Save Game. This means you cannot use your Regular Save Game with your main progression when playing with these mods. When you have Sandbox mods enabled you will also only be able to join other servers with Sandbox Mods. 
+Examples of Mods that would fall into this category are Mods that change rewards or mission payout, and Mods that unlock in-game items.
+
+
+SAVE GAME PROFILES FOR SANDBOX
+----------------------------
+Save game profiles were introduced in Update 34, but their use really comes from the Sandbox category of mods. With save game profiles, you can manage separate saves for your main progression and modded play that relies on Sandbox mods. Now you don’t need to be concerned about any impact to your main save when diving into the cool, crazy, inventive Sandbox mods.
+
+
+SERVER LIST MOD FILTERS
+----------------------------
+There are now filters on the Server List where you can choose to show or hide servers that are running Approved or Sandbox Mods. So you have better control of your Server List.
+As part of modding support we wanted to make it completely clear if you are joining a host who is using mods. So if you join a host that is running Approved Mods which you don’t have installed, the game will make sure to install those before you join that host. Likewise, if you have Approved Mods enabled which the host doesn't have, the game will disable those before you join.
+
+
+NATIVE BLUEPRINT SPAWNING
+----------------------------
+This is a feature for modders mainly, that allows anyone modding the game better access to certain features and functionalities of DRG. If you are interested in building mods for DRG there is already a vibrant community with a discord server. 
+
+
+[COMMUNITY REQUEST] TRANSLATION BRANCH
+----------------------------
+This has actually been live for a bit. If you are a community translator you can now access a Steam branch with a nightly build including newest translations from Crowdin. That means you no longer have to wait for a release to see your work in-game. Furthermore, your Save Game is synchronized between the translator branch and the main branch.
+
+If you are interested in providing community translation for DRG, there is a community translator channel on our Discord with a very active community.
+ 
+
+MISC.
+----------------------------
+- Added a new tab in the ESC menu for Modding Support
+- Added a new Stabber Vine killcry callout
+- Added support for a "-disablemodding" command line argument that can be added to the Steam launch options to disable mods if you encounter crashes
+- Added support for a shared Save Game between the live branch and the translation branch
+- [COMMUNITY REQUEST] Added wrapability to reward text on the "You have been kicked" popup to enable longer translations
+- [COMMUNITY REQUEST] Added wrapability to 'Show infoscreen on startup' text to enable longer translations without overlapping UI elements
+- [COMMUNITY REQUEST] Added wrapability to subheader text on the Memorial Wall screen to enable longer translations
+- Added subtitles to the noise that is made when throwing to fix an issue with blank subtitles
+- Added subtitles to a defense callout to fix an issue with blank subtitles
+- Added subtitles to coughing and grunting noises to fix an issue with blank subtitles
+- Added subtitles to dashing noises to fix an issue with blank subtitles
+- Added subtitles to the Burning Love reactions to fix an issue with blank subtitles
+- Added subtitles to the Gut Wrecker reactions to fix an issue with blank subtitles
+- Added subtitles to the Mactera Brew reactions to fix an issue with blank subtitles
+- Added localizability to Mastery Unlock pop-ups
+- Added localizability to Liquid Morkite Well on the Laser Pointer
+- Added localizability to Deep Dive Instructions in the Deep Dive Terminal
+- Added localizability to missing strings on the Restore Save overlay
+- Fixed typos in the subtitles when transferring Lost Equipment coordinates to the Terrain Scanner
+- Fixed a typo in the quotes for Fungus Bogs biome
+- Fixed typos and incorrect capitalisation in the subtitles when the Drop Pod is called
+- Fixing another save has more progress popup, even though another save does NOT have more progress
+- Fixed typos in all subtitles related to upgrading Bosco, perks or equipment
+- Fixed a typo in the subtitles when waiting for departure in the Drop Pod
+- Fixed typos in subtitles when waking up in the cabin and in the Medbay	
+- Fixed a typo in the subtitles when mining	
+- Fixed typos in the subtitles when using the zipline
+- Fixed an excess space in the subtitles when a Resupply Pod has arrived
+- Fixed typos and excess spaces in the subtitles when slapping the leprechaun at the Space Rig
+- Fixed typos and excess spaces in the subtitles when slapping dice
+- Fixed inconsistent capitalisation of the Sentry Gun in subtitles
+- Fixed a typo in Mission Control's dialogue when the Fuel Cells are connected to the Drop Pod
+- Fixed excess spaces in the subtitles when Doretta requires repair
+- Fixed typos, inconsistent capitalisation and excess spaces in all subtitles in Refinery mission
+- Fixed typos in the subtitles when Doretta is under attack	
+- Fixed typos in the subtitles when pressing the gravity button on the Space Rig	- Fixed typos in the subtitles when picking up a pickaxe overcharger
+- Fixed typos in the subtitles when placing the Gunner's Shield Generator
+- Fixed a typo in the subtitles when power attacki
+- Fixed typos in subtitles when petting
+- Fixed typos in subtitles for all perk activation shouts	
+- Fixed typos in the subtitle when the player is caught by a Cave Leech
+- Fixed typos in the various subtitles when the player is out of fuel, ammo or grenades
+- Fixed a typo in Mission Control's introduction to Point Extraction mission
+- Fixed a typo in Mission Control's announcement of the Drop Pod's arrival in Point Extraction missions
+- Fixed excess spaces in the subtitles when the M.U.L.E. is returning to the landing zone
+- Fixed typos, inconsistent capitalisation and excess spaces in the subtitles of all Machine Event dialogue
+- Fixed an excess space in the subtitles when forging overclocks
+- Fixed inconsistent capitalisation in subtitles for forging
+- Fixed a typo when the player is caught by a Mactera Grabber
+- Fixed inconsistent spelling of the Lootbug across subtitles, perk descriptions, milestones and the Miner's Manual	
+- Fixed an excess space in the subtitles when firing the Flare Gun
+- Fixed an excess space in the subtitles when interacting with the Jukebox
+- Fixed typos in the subtitles when depositing in the M.U.L.E.
+- Fixed typos in the subtitles when Heightened Senses is activated
+- Fixed a typo in the subtitles when mining Red Sugar
+- Fixed a typo in the subtitles when grinding pipes
+- Fixed a typo in the subtitles when using the Scout's Grappling Hook
+- Fixed a typo in the subtitles when the Gunner's shield is recharged
+- Fixed typos, inconsistent capitalisation and excess spaces in the subtitles of all grenade warning
+- Fixed typos in the subtitles when the player takes friendly fire
+- Fixed typos, inconsistent capitalisation and excess spaces in the subtitles of all Escort Duty Mission Control dialogue
+- Fixed description of the Dreadnought cocoon on the Laser Pointer
+- Fixed inconsistent descriptions for Salvage Mission items on the Laser Pointer
+- Replaced the Dreadnought cocoon icon on the Laser Pointer with the colored variant
+- Fixed a typo in the subtitles for the Dreadnought Laser Pointer callout
+- Fixed a bug that caused Mission Failure text to overlap with other UI elements on the Mission Complete screen in certain languages
+- Fixed a typo in a pop-up message that warns the player of potentially overwriting an existing Save Slot
+- Fixed typos, inconsistent capitalisation and excess spaces in the subtitles of all Laser Pointer callout dialogue
+- Fixed typos and inconsistent capitalisation in the subtitles for all killcry callout
+- Fixed typos in the subtitles for all gunsling reactio
+- Fixed typos and inconsistent capitalisation in the subtitles of miscellaneous in-mission dialogue
+- Fixed typos and inconsistent capitalisation in subtitles for Mineral Trade dialogue
+- Fixed various miscellaneous typos reported by the community on Jira
+- Fixed typos in all subtitles in the Tutorial Level
+- Fixed typos in subtitles for gunslinging reactions
+- Fixed typos in subtitles for various generic dialogue
+- Fixed various typos and inconsistent capitalisation in all subtitles for Mission Control dialogue in Deep Dives
+- Fixed a typo in the subtitles for Mission Control dialogue when all Aquarqs are collected
+- Fixed typos and excess space characters in subtitles when reacting to the environment
+- Fixed typos in the subtitles when reacting to flies
+- Fixed typos in the subtitles when browsing The Shop for new gear	
+- Fixed typos in the subtitles for coughing noises
+- Fixed typos in the subtitles for character specific dialogue
+- Fixed typos in all subtitles for Fuel Cannister dialogue
+- Fixed a typo in the subtitles when ordering Bosco to fire his rockets
+- Fixed an excess space character in the subtitles when ordering Bosco to mine
+- Fixed a typo when ordering Bosco to light
+- Fixed a typo in the subtitles when ordering Bosco to fetch something
+- Fixed a typo in the subtitles when carrying a heavy object	
+- Fixed various typos when ordering beer
+- Fixed typos and capitalisation across all bar related subtitles
+- Fixed another typo in the subtitles when consuming a Blacklock Lager
+- Fixed a typo in the subtitles when consuming a Blacklock Lager
+- Fixed a typo in the subtitles when reacting positively to a beer
+- Fixed inconsistent capitalisation in more Mission Control dialogue
+- Improved the wording of the tutorial hint that describes how to replay the Tutorial Level
+- Fixed a typo in the tutorial hint that describes how to replay the Tutorial Mission
+- Fixed a typo in the loading screen hints
+- Fixed inconsistent naming of the Resupply Pod across chat alerts, tutorial hints, UI and the Laser Pointer
+- Fixed inconsistent capitalisation in Mission Control dialogue for assignments and promotions
+- Fixed inconsistent capitalisation in Mission Control dialogue on the Space Rig
+- Fixed inconsistent capitalisation in Mission Control dialogue in Point Extraction Mission
+- Fixed inconsistent capitalisation in incoming Supply Drop alerts	
+- Fixed inconsistent capitalisation in Misson Control tutorial dialogue
+- Fixed inconsistent capitalisation in Mission Control wave alerts	
+- Fixed more cases of inconsistent capitalisation in Mission Control dialogu
+- Fixed typos and inconsistencies in Mission Control's dialogue in Elimination Missions
+- Fixed inconsistent capitalisation in Misson Control's dialogue when all Alien Eggs are collected
+- Fixed typos and inconsistencies in Mission Control's dialogue when an objective is completed
+- Fixed inconsistent capitalization in Mission Control's dialogue when the M.U.L.E. has docked	
+- Fixed a typo in Mission Control's introduction to Mining Expedition
+- Fixed inconsistent capitalisation in Mission Control's dialogue for Mission Selecti
+- Fixed inconsistent capitalisation in Mission Control's dialogue in Salvage Mission
+- Fixed a typo in the chat alert when the M.U.L.E. can be called back to the Drop Pod
+- Fixed a typo in the subtitles when throwing snowballs
+- Fixed an excess space character in the Saves Menu
+- Fixed a typo on the Dirt Diggers screen of the Miner's Union Terminal
+- Fixed several cases of inconsistent resource descriptions on the Laser Pointer
+- Fixed a typo in the description of Dystrum on the Laser Pointer
+- Fixed typos in the description of Magnite on the Laser Pointer
+- Fixed a typo in the description of Hollomite on the Laser Pointer
+- Fixed several cases of inconsistent capitalisation of all news headlines
+- Fixed several cases of excess space characters at the end of news headlines broadcasted on certain terminals in the Space Rig
+- Fixed a typo in Mission Control's introduction to Salvage Missions
+- Fixed another typo in Mission Control's announcement of all mini M.U.L.E.s being fixed
+- Fixed a typo in Mission Control's announcement of all mini M.U.L.E.s being fixed
+- Fixed another typo in one of the quotes for the Magma Core biome
+- Fixed a typo in the subtitles when killing an innocent Cave Angel (how dare you!)	
+- Fixed a typo in the subtitles when marking a Core Infuser with the Laser Pointer
+- Fixed typos in the Control Customization Menu
+- Fixed typos in the Controls Options
+- Fixed a typo in Mission Selection
+- Fixed a typo when marking a Brewing Ingredient with the Laser Pointer
+- Fixed a typo in one of the quotes for the Magma Core biome
+- Fixed a typo in Mission Control's introduction to the second stage of a Deep Dive	
+- Fixed a typo in the subtitles when placing a Satchel Charge	
+- Fixed a typo in the Web Spitter entry of the Miner's Manual Bestiary
+- Fixed a typo in the news headlines shown on certain terminals in the Space Rig
+- Fixed a typo in the Glyphid Dreadnought Twins entry of the Miner's Manual Bestiary
+- Fixed a typo in the news headlines shown on certain terminals in the Space Rig
+- Fixed a typo in the description of the Compact Feed Valves overclock for the CRSPR Flamethrower
+- Fixed a typo in the news headlines shown on certain terminals in the Space Rig	sor
+- Fixed a typo in the subtitles when marking a Dreadnought Hiveguard with the Laserpointer
+- Fixed several typos in the subtitles when reacting to damage from thorns
+- Fixed several typos in the subtitles when depositing in the M.U.L.E.
+- Fixed a typo in the UI Options menu
+- Fixed a typo in the biome description of Hollow Bough
+- Fixed typos in Swarmer Tunnel shouts
+- Fixed a typo in the description of the Disabled Inertia Inhibitor upgrade for the Deepcore 40mm PGL
+- Fixed a crash that could sometimes occur when the armor of the Dreadnought was destroyed
+- Fixed an issue where you could not join games, if you had just joined a game and failed because someone joined the game at the same time as you and got in quicker making the server full
+
+Tip: Right-clicking the server in the Server List will redirect you to the host's Steam community profile.
+"
 	Update_23 = "Alright, Miners - gather ‘round and shut up!
 
 It appears ol’ Hoxxes still has plenty of surprises in store for us - over the last month or so, Scanners have picked up a slew of new and disturbing biosigns. We expect you all to face a significantly wider variety of wildlife down in the caves, so DOUBLE CHECK YOUR GEAR, and BRING ALL THE GRENADES YOU CAN CARRY. DRG isn’t in the business of being knife-eared cowards though, so get to it, and let’s get those quotas met!
@@ -3722,6 +3934,7 @@ MISC.
 	Update_13_ShortTitle = "MINOR LIFE CHANGES"
 	Update_34_Shorttitle = "MODEST EXPECTATIONS"
 	Update_15_ShortTitle = "MUTATION WARNING!"
+	Update_34.5_ShortTitle = "Modding Support"
 	Update_33_Shorttitle = "NEW FRONTIERS"
 	Update_17_ShortTitle = "OKTOBERFEST!"
 	Update_21.5_ShortTitle = "ONE YEAR IN ORBIT"
@@ -4307,6 +4520,7 @@ MISC.
 
 
 "
+	Update_34.5_Header = "UPDATE 34.5: Modding Support"
 	Update_34_Header = "UPDATE 34: MODEST EXPECTATIONS"
 	Update_9_Header = "UPDATE 9: DRILL YOU LATER!  -  09.03.2018"
 	Update_31_Shorttitle = "WHAT WAS LEFT BEHIND"
