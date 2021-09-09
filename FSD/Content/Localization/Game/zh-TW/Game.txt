@@ -1,8 +1,8 @@
-11979 entries
+11984 entries
 43 namespaces
-9651 values
+9655 values
 
-Namespace Global (11071 keys)
+Namespace Global (11075 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 這類問題通常是因為：
 - 沒有網路連線
@@ -307,6 +307,7 @@ Namespace Global (11071 keys)
 	7CFB443C471CE28E2E8BFAAE8F278274 = "０"
 	805BBC004FF54C47D13B449693183381 = "０"
 	A5BFDFEE4774006DB5243F87EB83E741 = "０"
+	FB3E9A454DB34031F19C659DCA3EFB98 = "0 / 25"
 	23A9EFFB4007D2EDD606B0B31ABCF6A8 = "００"
 	815FF740440BAEB6B079EAB99F72ED63 = "００"
 	DA655E954561F2125048EFAE5643084A = "００００"
@@ -939,6 +940,7 @@ DRG 祝你有個愉快的假期，並明年能有更好的境遇。
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "藝術企劃"
 	17E32D5547938A68AEE78ABB9D2F8CDC = "人工重力已經恢復。"
 	B625BD434046DDB7B2EFA799704BBE34 = "正在重新校正人工重力。"
+	270F8D5A41E74274CB2576A4F98ECC6A = "這項附加元件在遊戲上次當機時是開啟的，作為一種安全措施它現在已被自動關閉。"
 	3D19AD5E4B6A8B2B11FDA5A16D53853B = "你已獲得我們在搶先體驗階段裡釋出的所有<highlight2>活動頭飾</>，作為我們用來表達謝意的小禮物！
 
 …以防你錯過其中的任何一頂！
@@ -2076,7 +2078,8 @@ Deep Rock Galactic 終於要在 5 月 13 日脫離搶先體驗階段了！這是
 	3F56E1384E38C66B066A74A618DDA250 = "小型彈頭"
 	F3478F4349D17ABF4302F483219E03B0 = "壓縮彈藥"
 	BF0C947346FB158816B993AC47B3C937 = "壓縮彈殼"
-	4532969B403952129716389D40D5FE94 = "簡便模式"
+	13AC93244C27D8FFDF6B87BAA112CB9C = "輕便模式"
+	1BA957CD469BA766C52D67879A7E207E = "輕便模式"
 	5587333F439B7F605BF47C917C107B37 = "緊實的泥土"
 	630A2CC9415CD85951BEA7917A271F53 = "緊實的泥土"
 	6FBAE6DB4AAE26829458E58ADC59FF03 = "緊實的泥土"
@@ -9126,6 +9129,7 @@ The Ghost Ship Crew"
 	6D78F97148D00A21863CA0A15F38B516 = "飲用本日主打商品會讓你在接下來要執行的任務當中獲得小小的增益。增益屬性無法疊加！"
 	302F36464C9761DABA2CCCA8C8F95CB1 = "想做就做"
 	DBB551CD4653F8A642FEB5AF0BBD6B43 = "嚇尿了"
+	B802C0B4400DD82DD0A3D890F049CC79 = "過多附加元件"
 	2A20341A4042C147722ABDAFA5B90C1A = "機庫頂部"
 	A508A0234EF76C0366B3B1AAE040C430 = "機庫頂部"
 	775E11B84DD212A2CBC69287FFA33096 = "總量"
@@ -11016,7 +11020,7 @@ The Ghost Ship Crew"
 	42A181434CE0896CB57DA38B901224C4 = "就快撐過去了，各位隊員！上吧！"
 	0F1CA2644B7F379B19BED8AFA6CCB3D0 = "就跟新的一樣呢，朵蕾塔！"
 	891F0E4A46B837A2FF5B5B9B4C38484B = "你完蛋了！"
-	3002B7384D1D4F1BF89C8FB0A564ADC9 = "你正在主持一場可以另外加入最多三名玩家的遊戲。一次完整的 Deep Rock Galactic 遊戲體驗！"
+	3002B7384D1D4F1BF89C8FB0A564ADC9 = "你正在主持一場可以另外加入最多三名玩家的遊戲。一場完整的 Deep Rock Galactic 遊戲體驗！"
 	DCB9DB4A47600847C940649EAEA334C7 = "你正在危害到任務進行！回去三角定位區域！"
 	3C33F0F144DDC9C3CB1A47B07CE00181 = "你正在危及任務的正常進行！必須有人待在燃料供電器附近！"
 	A6FF4B0D4BC100F324A48382062D76E0 = "你有個不錯的進展！只要再完成一個任務，你新的武器使用執照就到手了。"
@@ -11568,7 +11572,8 @@ Namespace Missions (4 keys)
 	AC8C82C9467F1B6CF71EE79570922140 = "現場精煉"
 	94AE1E06446023F5707A4F9F6127CAD2 = "保護鑽土機"
 
-Namespace Modding (21 keys)
+Namespace Modding (22 keys)
+	MaxActiveMods = "主持一場多人遊戲時你最多可以使用 25 項附加元件。單人遊戲則沒有這項限制。"
 	ApprovedForProgression_FilterText = "顯示官方認可元件"
 	ApprovedForSandbox_FilterText = "顯示沙盒型元件"
 	FullyApproved_FilterText = "顯示客戶端元件"
@@ -12261,7 +12266,7 @@ Namespace UI (130 keys)
 祝你安好，
 管理部門"
 	Continue = "繼續"
-	SludgePump_Name = "劇毒汙泥發射器"
+	SludgePump_Name = "劇毒污泥發射器"
 	CryoCannon_Name = "冷凍砲"
 	PlasmaCarbine_Name = "DRAK-25 等離子卡賓槍"
 	DeepDive = "深潛任務"
@@ -12323,7 +12328,7 @@ Namespace UI (130 keys)
 	SupportTool = "輔助工具"
 	LockOnRifle_Desc = "把一組高感度人工智能裝置固定在一把高級制式步槍上，然後建置幾套複雜的追蹤程序。最後再搭配能夠和這把壞傢伙上的系統直接互動的原型彈頭，你就會得到一把名符其實百發百中的 LOK-1 智能步槍，一種所有專業工程師都將樂於攜帶的傑出裝備。 "
 	LineCutter_Desc = "陷陣切割器能釋放出強大的定向超音速等離子射線，它的強度足以對付路上大多數的外星生物。原本設計用於開採，經過調整之後它可以切開血肉，而非用於原本的目的，效果通常非常驚人！"
-	SludgePump_Desc = "當維修部門的人在工作之餘擁有太多時間的時候，劇毒汙泥發射器就這麼誕生了。這是一種由錯綜複雜的管線、分餾瓶、以及安全閥組成的強力裝備，朝著那群另人不爽的傢伙們臉上砸一坨又一坨有毒廢棄物從沒這麼好玩過！"
+	SludgePump_Desc = "當維修部門的人在工作之餘擁有太多時間的時候，劇毒污泥發射器就這麼誕生了。這是一種由錯綜複雜的管線、分餾瓶、以及安全閥組成的強力裝備，朝著那群另人不爽的傢伙們臉上砸一坨又一坨有毒廢棄物從沒這麼好玩過！"
 	CompanySpecial_NAME = "公司特選"
 	PlasmaCarbine_Desc = "DRAK-25 等離子卡賓槍是 DRG 最新型的武器之一，同時某種程度上也是一項科技奇蹟。這把武器能夠在幾乎從未讓使用者受傷的前提下射出由超高溫電漿組成的熾熱彈幕，而且造價也相對便宜，也因此管理部門非常迅速地核准並簽下了這組型號。"
 	MicroMissileLauncher_Desc = "「颶風」導彈系統以它優異的控場性能非常迅速地獲得了眾人的一致好評，除非你是被它控的那一群啦。這把武器將原本需要倚賴重型三腳架的武器部件完整地收納進一名矮人就能輕鬆拿起的裝置裡，同時上面還加裝了搭載尖端技術的追蹤軟體。"

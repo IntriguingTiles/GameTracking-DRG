@@ -1,8 +1,8 @@
-11965 entries
+11969 entries
 44 namespaces
-9403 values
+9406 values
 
-Namespace Global (11057 keys)
+Namespace Global (11060 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 这个问题通常由以下原因引起：
 - 无互联网连接
@@ -907,6 +907,7 @@ DRG祝你有个愉悦的假日，以及，新年快乐。
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "美术总监"
 	17E32D5547938A68AEE78ABB9D2F8CDC = "人工重力已重建。"
 	B625BD434046DDB7B2EFA799704BBE34 = "人工重力重校准。"
+	270F8D5A41E74274CB2576A4F98ECC6A = "作为预防措施，这个 mod 已被自动禁用，因为其在游戏崩溃时处于启用状态。"
 	3D19AD5E4B6A8B2B11FDA5A16D53853B = "作为表达我们敬意的小小纪念，你收到了我们在抢先体验阶段制作的每一顶<highlight2>纪念头饰</>！
 
 ……以防万一你错过了其中任何一个！
@@ -2047,7 +2048,8 @@ Deep Rock Galactic 终于要在5月13日离开抢先体验阶段了！我们能�
 	3F56E1384E38C66B066A74A618DDA250 = "压缩弹药"
 	F3478F4349D17ABF4302F483219E03B0 = "压缩弹药"
 	BF0C947346FB158816B993AC47B3C937 = "压缩弹壳"
-	4532969B403952129716389D40D5FE94 = "紧凑视图"
+	13AC93244C27D8FFDF6B87BAA112CB9C = "紧凑视图"
+	1BA957CD469BA766C52D67879A7E207E = "紧凑视图"
 	5587333F439B7F605BF47C917C107B37 = "紧实的泥土"
 	630A2CC9415CD85951BEA7917A271F53 = "紧实的泥土"
 	6FBAE6DB4AAE26829458E58ADC59FF03 = "紧实的泥土"
@@ -9118,6 +9120,7 @@ Ghost Ship 全体船员"
 	6D78F97148D00A21863CA0A15F38B516 = "“今日特调”会让你在下次任务中获得特殊的属性提升。不过这些属性提升不能叠加！"
 	302F36464C9761DABA2CCCA8C8F95CB1 = "待办事项"
 	DBB551CD4653F8A642FEB5AF0BBD6B43 = "吓尿了"
+	B802C0B4400DD82DD0A3D890F049CC79 = "Mod 过多"
 	2A20341A4042C147722ABDAFA5B90C1A = "机库顶部"
 	A508A0234EF76C0366B3B1AAE040C430 = "机库顶部"
 	775E11B84DD212A2CBC69287FFA33096 = "总量"
@@ -10568,7 +10571,7 @@ k.okkim, mikhail1770, Bob Caenen (ketchupandstuff) 和更多人……"
 	66AB36B245A0AE9C54AD7CA052FBA7B5 = "我们太棒了！"
 	519B7A83478ED16C42ADAAA0F0C481C1 = "卧槽！"
 	A500613340758903702143BF60C3ADE1 = "卧槽！"
-	0A506FF845DA3868D8CE33B25F8286F6 = "我们正在失去掘进机！尽全力保护它，小队！掘进机废掉的话任务就失败了！"
+	0A506FF845DA3868D8CE33B25F8286F6 = "掘进机快不行了！有什么本领快使出来，小队！掘进机完蛋，任务全白干！"
 	2B8EED234B8199F9836052876ABA6FDE = "我们发财了！"
 	7D3714CC4C0CAEB5C4709AB48B551CD7 = "我们发财了！"
 	E063598B46B97B889D2AC089B0DF851C = "已派出空降舱！快前往着陆区！"
@@ -11551,7 +11554,8 @@ Namespace Missions (4 keys)
 	AC8C82C9467F1B6CF71EE79570922140 = "就地精炼"
 	94AE1E06446023F5707A4F9F6127CAD2 = "保护掘进机"
 
-Namespace Modding (21 keys)
+Namespace Modding (22 keys)
+	MaxActiveMods = "在担任多人游戏房主时最多能同时启用 25 个 mod。单人游戏不受此限制。"
 	ApprovedForProgression_FilterText = "允许已批准 mod"
 	ApprovedForSandbox_FilterText = "允许沙盒 mod"
 	FullyApproved_FilterText = "允许已验证 mod"

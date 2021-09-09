@@ -1,8 +1,8 @@
-11725 entries
+11729 entries
 43 namespaces
-9503 values
+9505 values
 
-Namespace Global (10835 keys)
+Namespace Global (10838 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 Genellikle sorunun nedeni:
 - İnternet bağlantısı yok
@@ -894,6 +894,7 @@ Yönetim"
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "Sanat Direktörü"
 	17E32D5547938A68AEE78ABB9D2F8CDC = "Yapay yer çekimi yeniden tesis edildi."
 	B625BD434046DDB7B2EFA799704BBE34 = "Sanal yerçekimi yeniden-ayarlanıyor."
+	270F8D5A41E74274CB2576A4F98ECC6A = "Güvenlik önlemi olarak bu mod, oyun çöktüğünde etkin olduğu için otomatik olarak devre dışı bırakıldı."
 	3D19AD5E4B6A8B2B11FDA5A16D53853B = "Minnettarlığımızın küçük bir göstergesi olarak Erken Erişim döneminde yaptığımız her <highlight2>ETKİNLİK ŞAPKASINI</> aldınız! 
 
 ...Her ihtimale karşı onlardan birini kaçırdın!
@@ -2007,7 +2008,8 @@ Seçimi"
 	3F56E1384E38C66B066A74A618DDA250 = "Kompakt Mermiler"
 	F3478F4349D17ABF4302F483219E03B0 = "Kompakt Mermiler"
 	BF0C947346FB158816B993AC47B3C937 = "Kompakt Fişekler"
-	4532969B403952129716389D40D5FE94 = "Kompakt Görünüm"
+	13AC93244C27D8FFDF6B87BAA112CB9C = "Kompakt Görünüm"
+	1BA957CD469BA766C52D67879A7E207E = "Kompakt Görünüm"
 	5587333F439B7F605BF47C917C107B37 = "Sıkışmış Toprak"
 	630A2CC9415CD85951BEA7917A271F53 = "Sıkışmış Toprak"
 	6FBAE6DB4AAE26829458E58ADC59FF03 = "Sıkışmış Toprak"
@@ -8942,6 +8944,7 @@ SEÇ"
 	6D78F97148D00A21863CA0A15F38B516 = "GÜNÜN SPESİYALİ bir sonraki görevinizde size küçük bir güç verecek. Güçler istiflenmez!"
 	302F36464C9761DABA2CCCA8C8F95CB1 = "Gürültü"
 	DBB551CD4653F8A642FEB5AF0BBD6B43 = "BU İŞ İÇİN ÇOK TEHLİKELİ"
+	B802C0B4400DD82DD0A3D890F049CC79 = "ÇOK FAZLA MOD VAR"
 	2A20341A4042C147722ABDAFA5B90C1A = "ÜST HANGAR"
 	A508A0234EF76C0366B3B1AAE040C430 = "ÜST HANGAR"
 	775E11B84DD212A2CBC69287FFA33096 = "TOPLAM"
@@ -11321,7 +11324,8 @@ Namespace Missions (4 keys)
 	AC8C82C9467F1B6CF71EE79570922140 = "Damıtma Şantiyesi"
 	94AE1E06446023F5707A4F9F6127CAD2 = "Sondaj Dozerini Koru"
 
-Namespace Modding (20 keys)
+Namespace Modding (21 keys)
+	MaxActiveMods = "Çok oyunculu bir oturuma oyun kurarken maksimum 25 mod etkin olabilir. Tek kişilik oturumlar bundan etkilenmez."
 	ApprovedForProgression_FilterText = "Onaylanmış'a İzin Ver"
 	ApprovedForSandbox_FilterText = "Sandbox'a İzin Ver"
 	FullyApproved_FilterText = "Doğrulanmış'a İzin Ver"
@@ -11875,7 +11879,7 @@ Namespace StatValues (67 keys)
 	ProximityFuse = "Temas / Yakınlık"
 	Cooldown = "Yenilenme Süresi"
 	CoolingRate = "Soğuma Hızı"
-	Damage = "Hasarı"
+	Damage = "Hasar"
 	DamageRadius = "Hasar Alanı"
 	DamageVsMactera = "Mactera'ya Verilen Hasar"
 	DanceMoves = "Dans Figürleri"
