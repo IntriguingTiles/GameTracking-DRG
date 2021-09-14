@@ -1,8 +1,8 @@
-11722 entries
+11731 entries
 43 namespaces
-9658 values
+9669 values
 
-Namespace Global (10840 keys)
+Namespace Global (10843 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "Usein syy on joko:
 - Viallinen internet-yhteys
 - Palomuurisi estää pelin"
@@ -1050,7 +1050,7 @@ Mutta nyt, me tarvitsemme teitä enemmän kuin koskaan! Meidän täytyy tehdä k
 	3FFF568840CFD6200F506F98A744826B = "MURTAUDU YTIMEEN"
 	AC61E496422DBE7DC9D06C9AAF5B834C = "TUOREIMMAT UUTISET: {Person} havaitsee, että {Creature} {Verb} {Resource}lähetyksiä"
 	DBCC88054B295B09748999AB86098540 = "TUOREIMMAT UUTISET: {Person} {Verb} {Person2}"
-	66BF49FD45F05EA4DDC7099F0B808A14 = "UUTISET: {Person} {Person2} {Person2} ja {Resource}myynti laskussa"
+	66BF49FD45F05EA4DDC7099F0B808A14 = "UUTISET: {Person} {Verb} {Person2} ja {Resource}myynti laskussa"
 	B057590A47AFF6B6EFA565B1A4BD8148 = "RÖYH!"
 	C688EC294407C497A78AC4B21C0B849E = "ÖRPS!"
 	D9D221C9461694A0BC919691B2D3157D = "RÖYH!"
@@ -2380,6 +2380,7 @@ Työnjohto"
 	568D64624F86C5E50160209A8291212E = "LATAUS VALMIS"
 	E7A9F67D443103E5F41BB485AA81A52B = "PURETAAN {progress}/{total}"
 	3FD1A27548DEF9D804A634B4E5891150 = "TEE PUKEUTUMISELLASI VAIKUTUS"
+	F18786394F2EE3F0EDC50587F99384CD = "{Person} syyttää DRG:tä työväen pahoinpitelystä, työnjohto kiistää väitökset!"
 	BA572DA54459684F762D6E9C1083C664 = "DRG VALMISTUS"
 	4333C657481023BFE08F75810C205125 = "DRG työnjohtoraportit kirjaavat työntekijöiden tyytyväisyyden kolmen vuoden takaa. {Person}: "Tämä on paras tunne ikinä!""
 	444316F74CE198D36D249FA1BE961BE1 = "DRG tuotot ovat lisääntyneet vuosi-vuodelta: {Resource}myynti kasvaa"
@@ -5431,7 +5432,7 @@ KÄÄPIÖTÄ EI JÄTETÄ!"
 	9B59F7F5486B4ADAA0EE169B4945BF07 = "No tätä tässä tarvittiinkin!"
 	911FB9844B517E4777B7A5B4C3D212C9 = "K...Karl? Olet... oletko se sinä?"
 	78778297457EA0BC885F739E887ECA12 = "Karl hyväksyisi tämän."
-	DC0C0B69443604AE3AE422956AD1D2C8 = "Karl hyväksyisi tämän."
+	DC0C0B69443604AE3AE422956AD1D2C8 = "Karl olisi tästä tyytyväinen."
 	4BCFE38F42D0D60C5FEF139E22C24204 = "Karlin"
 	61FDAAAC4345B21158B26EA83CF6AFEB = "Karl, jos olet täällä alhaalla, nyt on aika tulla ulos ja sanoa hyvästi!"
 	2E7545FD49D5396AA85A2188CBE23D4A = "Linnoitus"
@@ -6582,7 +6583,7 @@ Toisaalta alueelle vaikuttavat sekä jää- tai tulivirtaan perustuvat aseet eiv
 	C8FFF8E64C0101874D8E96A27D29DCDD = "Uusi passiivinen taitopaikka"
 	5D2C88984271F39F0ECF0E8459BFF994 = "Uusi hakun osa"
 	D13B3BC64E060F9596E33CB21CA125C0 = "Uusia kaavakuvia saatavilla"
-	596D4E094DBFB25A15437FA682AE9B14 = "Uusi epäilty ryöstötutkinnassa! {Person} väittää, että {Person2} suunnitteli koko operaation"
+	596D4E094DBFB25A15437FA682AE9B14 = "Uusi epäilty ryöstötutkinnassa! {Person} väittää, että {Person} suunnitteli koko operaation"
 	061EB5CB4E04930CC788A9947FFABA7D = "Uusi voittoliike avattu"
 	4CD8886A4AB08417A99CFFAA40574EFA = "Uusi kosmeettinen DLC on saatavilla!"
 	BA6543CA42EA573051C4F7AA106301D4 = "Uusi kosmeettinen DLC on saatavilla!"
@@ -9054,7 +9055,6 @@ TEHTÄVÄ"
 	3C500D564A4BCEA05A5932A274652EDA = "Testiteksti"
 	952EB8C9499D63F798E85E9B5D419A45 = "Testi teksti"
 	B1ED8C9D4791C7BEB0CC5BB3A0E22F96 = "Testiteksti"
-	37F2DFE440CF84EC0D3A1D894E907D4A = "Teksti"
 	BAA651EF4F25A6259BDCABB053ECD92E = "Teksti"
 	7AF32B0A47A47649880671B91B53C9AA = "Tekstiblokki"
 	893D485F4F9F6896A6D963B629821961 = "Teksti tähän"
@@ -11098,15 +11098,16 @@ Voit nyt varustaa <highlight2>kaksi</> aktiivista taitoa. Valitse viisaasti!"
 	D69A9DF046AE36D273B39DB4AAB29A79 = "{Person} Sai sinut kiinni ryöstöjutun todisteiden tuhoamisesta"
 	28AE18024BA5F762745B5E83C4795B0B = "Uskomatonta jos totta: {Person} väittää {Resource}kylpyjen pysäyttäneen kaljuuntumisen"
 	3266B400432389706CD1B7BA3327F884 = "{Person} väittää: avaruudessa työskentely lyhentää elinajanodotetta huomattavasti"
+	C1C13BE44359B6301F9F9AA6A910AC54 = "{Person} vakuuttaa: "Hoxxes on {Person2} paras työpaikka""
 	66D9506D497D85C494E6468F39CE6F2C = "{Person} kuoli luolaonnetomuudessa kesken tehtävän: {Mission}"
 	97B303FB4516648C9E07C7B2643B542A = "{Person} tekee uskomattoman paluun {Resource}skandaalin jälkeen"
 	B358B2C8436B54F0890BADB97F6EF1AC = "{Person} ansaitsee omaisuuden {Resource}kaupoilla"
 	EFEAE7724BC9C3199C0E35A5EB572AD4 = "{Person} odottaa {Percent} nousua {Resource}kaupoissa"
 	CCC3E3B54F94D3F7AD8AB0A1D31AF5AE = "{Person} nukahti telakoidessaan rahtialusta - {Resource}lähetys tuhoutui ja osakkeet putosivat {Percent}"
-	96E0BE7D42A92B5F679E328CC24635BA = "{Person} putoaa {HighNumber} metriä syvään kuiluun ja selviytyy! {Person}: "Uskomatonta!""
+	96E0BE7D42A92B5F679E328CC24635BA = "{Person} putoaa {HighNumber} metriä syvään kuiluun ja selviytyy! {Person2} mielipide: "Uskomatonta!""
 	6E78543F41F010FE61D96480C5AC63B5 = "{Person} kehittää hoidon {Resource}allergiaa vastaan"
 	C293E22441FAA4F30E17C6966E421C4A = "{Creature} avattiin: {Person} löysi {Resource}kätkön sen vatsasta"
-	8918B7F7495388CE277D3D9F339C8219 = "{Person} Hukkui taas kaivoksiin! Edes {Person2} ei olisi voinut tehdä yhtä hyvää työtä"
+	8918B7F7495388CE277D3D9F339C8219 = "{Person} hukkui taas kaivoksiin! Edes {Person} ei olisi voinut tehdä yhtä hyvää työtä"
 	20568046430FAE09E273AE9FF8B1FDA7 = "Mellakan syynä oli {Person}! Louhintayhtiö käskee työntekijöitä käymään suihkussa vähintään kerran viikossa"
 	37C8850A4939DA65D2D0F2A108140D8B = "{Person} tehohoidossa - {Creature} ei ole hyvä lemmikki"
 	AC9B0E5E462DCC6E3BFA39A872060C31 = "{Person} keksii uuden partatyylin"
@@ -11119,9 +11120,11 @@ Voit nyt varustaa <highlight2>kaksi</> aktiivista taitoa. Valitse viisaasti!"
 	54770930480D721DEA2F99AA401F2B63 = "{Person} tuomittu {LowNumber} vuoden pakkotyöhön vankilaplaneetalle"
 	E664C52C40815508F25212B6FAB04407 = "{Creature} salakuljetettu rahtialuksen kyytiin - {Person} syyllisenä"
 	78690C78475547F12A0686BC6660CDEB = "{Person} ryöväsi {Person2} - vei mukanaan {Resource}osakkeita"
+	EA5F09A140F886001839DCB1C5DB8C8E = "{Person}, joka haastoi DRG:n oikeuteen {Resource}skandaalin vuoksi on kadonnut!"
 	4FED1D8A48500A5695AF8E81DB5C9FB4 = "{Person} ja {Person} lyöttäytyvät yhteen ja ostavat {Percent} {Resource}yhtiöstä"
 	6C4757EB4D5C01F604F5FCA77A993192 = "{Person} muuttui nopeasti hyvin epäsuosituksi ammatiksi - {Resource}osakkeiden arvo putosi {Percent} sen seurauksena"
 	04E218894A02203358650D810ECCFE92 = "{Person} polttaa {Resource}lastin ja löytää uuden mineraalin - DRG vaatii yksinoikeuksia"
+	D3FC29AE4E53BD9DB04C8886285083C9 = "{Person} vaatii korkeampaa palkkaa! {Person} johtaa neuvotteluita"
 	5E6BF0204DB122526E1D3C9EB25D010F = "{Person} julkaisi uuden bestsellerin: {Mission}"
 	85D7CDCE43BCEEB6EC352D845D4009FB = "{Person}: "Ylennysmaksut ovat huijausta""
 	06DCC1564DBA21C8D6EED2922A6E782C = "{Resource}rohto toimii! Kalju {Person} kasvatti {HighNumber} hiuksen pehkon vain {LowNumber} päivässä"
@@ -11326,15 +11329,20 @@ Namespace Missions (4 keys)
 	AC8C82C9467F1B6CF71EE79570922140 = "Paikan päällä jalostaminen"
 	94AE1E06446023F5707A4F9F6127CAD2 = "Suojele poratraktoria"
 
-Namespace Modding (16 keys)
+Namespace Modding (22 keys)
 	MaxActiveMods = "Enintään 25 modia voi olla aktiivisena palvelimen isäntänä. Tämä ei liity yksinpelisessioihin."
-	ApprovedForProgression_FilterText = "Myönnä hyväksytyt"
+	ApprovedForProgression_FilterText = "Salli hyväksytyt"
 	ApprovedForSandbox_FilterText = "Salli hiekkalaatikko"
+	FullyApproved_FilterText = "Salli yhteensopivat"
 	ApprovedForSandbox_ToolTip = "Mikä tahansa on mahdollista hiekkalaatikossa.
 Palvelimet, jotka käyttävät modeja, jotka muuttavat pelikokemusta huomattavasti ja joilla on vaikutus tavalliseen edistymiseen.
 -----------
 Voidaan liittyä ainoastaan modatulla tallennuksella."
 	ApprovedForProgression_Name = "Hyväksytty"
+	ApprovedForProgression_ToolTip = "Hyväksytty pelin edistykselle.
+Palvelimet, jotka käyttävät modeja, jotka eivät muuta tai vaikuta tavalliseen edistykseesi.
+-----------
+Voidaan liittyä ilman modattua tallennusta."
 	Join_Blocked_Header = "ESTETTY"
 	Join_EnableDisableMods_Tooltip = "Klikkaamalla suostut asentamaan puuttuvat modit ja ottamaan ne modit pois käytöstä, joita isäntä ei ole asentanut."
 	Join_Mods_Installed_Header = "ASENNETUT MODIT"
@@ -11342,6 +11350,7 @@ Voidaan liittyä ainoastaan modatulla tallennuksella."
 	ApprovedForSandbox_Name = "Hiekkalaatikko"
 	FilterBox_Header = "Palvelimen modit"
 	Vanilla_ToolTip = "Palvelimia, joissa ei ole ollenkaan modeja - putipuhdas peruskokemus."
+	Join_Disable_ApprovedMods = "Palvelin, johon aiot liittyä, ei käytä modeja. Kaikki hyväksytyt modit otetaan pois käytöstä liittymisen ohessa."
 	Join_Blocked_HiddenMods = "Yksi tai enemmän palvelimen modeista on piilotettu. Et voi liittyä palvelimeen, jos et ole asentanut sen piilotettuja modeja.
 
 Ota yhteyttä isäntään, jotta he antavat sinulle pääsyn modeihin."
@@ -11354,9 +11363,17 @@ Muutamia yleisiä syitä:
 - Olet ottanut modauksen pois käytöstä "disablemodding" -käynnistysparametrillä
 
 Yritä käynnistää peli uudelleen."
+	FullyApproved_Name = "Yhteensopiva"
+	FullyApproved_ToolTip = "Yhteensopiva peruspelin kanssa.
+Palvelimet, jotka käyttävät henkilökohtaisia visuaalisia tai äänimodeja, jotka muuttavat asioita vain heidän puolellaan.
+-----------
+Voidaan liittyä ilman modattua tallennusta."
 	Join_Blocked_Body = "Et voi liittyä tavalliseen palvelimeen modatulla tallennuksella.
 
 Sinun täytyy poistaa kaikki hiekkalaatikkomodit käytöstä ja vaihtaa modaamattomaan tallennukseen ennen kuin voit liittyä tähän palvelimeen."
+	Join_Blocked_Body_Approved = "Et voi liittyä modaamattomaan palvelimeen samalla, kun käytät hyväksyttyjä modeja.
+
+Sinun täytyy poistaa käytöstä kaikki hyväksytyt modisi, ennen kuin liityt tähän palvelimeen."
 	JoiningFail_Header = "Olit liittymässä modattuun pelisessioon."
 
 Namespace MutatorDescriptions (19 keys)

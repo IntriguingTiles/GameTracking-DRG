@@ -1,8 +1,8 @@
-11672 entries
+11676 entries
 43 namespaces
-9373 values
+9377 values
 
-Namespace Global (10772 keys)
+Namespace Global (10775 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 보통 문제의 원인은 다음과 같습니다:
 - 인터넷이 연결 되어있지 않음
@@ -880,6 +880,7 @@ Namespace Global (10772 keys)
 	426ADD6F4A6E6C4A8F59F9B4160FE003 = "아트 디렉터"
 	17E32D5547938A68AEE78ABB9D2F8CDC = "인공 중력이 다시 안정화됐다."
 	B625BD434046DDB7B2EFA799704BBE34 = "인공 중력 재측정 중."
+	270F8D5A41E74274CB2576A4F98ECC6A = "게임 충돌이 일어났을 때 이 모드가 활성화 되어 있었음으로, 안전 예방책으로써 이 모드가 자동으로 비 활성화 되었습니다."
 	3D19AD5E4B6A8B2B11FDA5A16D53853B = "저희가 당신에 대한 작은 감사의 표시로 얼리 엑세스 기간동안 만들었던 모든 <highlight2>이벤트 모자</>를 드립니다! 
 
 ...혹시나 개중에 놓친게 있으실까봐요!
@@ -1996,6 +1997,8 @@ The Ghost Ship Crew"
 	3F56E1384E38C66B066A74A618DDA250 = "소형 유탄"
 	F3478F4349D17ABF4302F483219E03B0 = "소형 탄환"
 	BF0C947346FB158816B993AC47B3C937 = "소형 셸"
+	13AC93244C27D8FFDF6B87BAA112CB9C = "간단하게 보기"
+	1BA957CD469BA766C52D67879A7E207E = "간단하게 보기"
 	5587333F439B7F605BF47C917C107B37 = "단단한 흙더미"
 	630A2CC9415CD85951BEA7917A271F53 = "단단한 흙더미"
 	6FBAE6DB4AAE26829458E58ADC59FF03 = "단단한 흙더미"
@@ -8917,6 +8920,7 @@ The Ghost Ship Crew"
 	D312322D406F09FFEB3CDEBE97887CAA = "오늘의 특별메뉴"
 	6D78F97148D00A21863CA0A15F38B516 = ""오늘의 특별메뉴"는 당신에게 다음 임무를 위한 자그마한 버프를 줍니다. 버프는 중첩되지 않아요!"
 	DBB551CD4653F8A642FEB5AF0BBD6B43 = "바지에게 너무 위험함"
+	B802C0B4400DD82DD0A3D890F049CC79 = "모드가 너무 많음"
 	2A20341A4042C147722ABDAFA5B90C1A = "최상층 격납고"
 	A508A0234EF76C0366B3B1AAE040C430 = "최상층 격납고"
 	775E11B84DD212A2CBC69287FFA33096 = "잔탄"
@@ -8990,7 +8994,6 @@ The Ghost Ship Crew"
 	6D86CAA548B5E2C04C325E99C7B53C26 = "막 방금 지형 스캐너에 새로운 위치가 업데이트 됐어."
 	D044926E416A8EEF1B6B998AEE2A0EB6 = "영역"
 	952EB8C9499D63F798E85E9B5D419A45 = "텍스트 테스트"
-	37F2DFE440CF84EC0D3A1D894E907D4A = "텍스트"
 	BAA651EF4F25A6259BDCABB053ECD92E = "텍스트"
 	DDEA41514CD3F70125210DBA75E5A0E7 = "텍스처 해상도"
 	5CE46EAA420AA488674B78B4459C2D29 = "딥 락 갤럭틱을 구매해 주시고, 우리의 여정에 함께 해 주셔서 감사합니다!"
@@ -11259,7 +11262,8 @@ Namespace Missions (4 keys)
 	AC8C82C9467F1B6CF71EE79570922140 = "현장 정제"
 	94AE1E06446023F5707A4F9F6127CAD2 = "드릴도저 보호하기"
 
-Namespace Modding (21 keys)
+Namespace Modding (22 keys)
+	MaxActiveMods = "멀티플레이 방을 개설할 땐 최대 25개의 모드를 활성화 할 수 있습니다. 혼자 할 때는 해당되지 않습니다."
 	ApprovedForProgression_FilterText = "승인됨 허용"
 	ApprovedForSandbox_FilterText = "샌드박스 허용"
 	FullyApproved_FilterText = "검증됨 허용"
