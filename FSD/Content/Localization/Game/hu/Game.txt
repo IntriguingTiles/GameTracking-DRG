@@ -1,8 +1,8 @@
-10401 entries
+10410 entries
 41 namespaces
-8512 values
+8519 values
 
-Namespace Global (9585 keys)
+Namespace Global (9590 keys)
 	4A7E16E74D0CF1A7B3D01B8D80AFB480 = "
 {modstatus}
 
@@ -556,6 +556,7 @@ Bosco MI-ja még nem tudja kezelni az efféle fegyvereket. Használd a Lézer Mu
 	EA8D376F4970EEB9521ECFA7B6DB6121 = "A(z) [<active>UGRÁS</>] gomb nyomva tartásával aktiválható a becsapódás előtt."
 	A26515454D91F5EBC1DC4C9A553BD084 = "Az aktiváláshoz nyomd meg egyszerre a(z) <Fire/> és a(z) <Mine/> gombot az erőtámadásod újratöltődése közben."
 	318083E2419E392383A88D96BDFBB968 = "Aktiváld a leszállóegység közelében található jeladót és védd meg a területet, amíg bemérjük a helyzeted."
+	BFBA836A40486000446F0DA935FA9691 = "Aktív"
 	6D31300244F3C5211582B38F0A7C1516 = "Aktív Megbízás"
 	A3A51320445A673EFD84D6AF266D1B6F = "Aktív megbízás"
 	0645A9594F688F770079D989D1E464E7 = "Aktív Becsapódás Csillapítók"
@@ -901,6 +902,7 @@ Itt egy-két ötlet:"
 	38DC434948EAD1A675E5A99554B19C69 = "Hang"
 	6D76CA494E3FCD51CEFC1B8C2E117AD6 = "Hang bemenet forrása"
 	EC8E71D043359309C4E9EA8FBC6E459E = "Hang kimenet forrása"
+	040098254388FF556125F3BEA0691F99 = "Szerző"
 	39B26B4F4EDE4FB0D90C42AC3279C05D = "Hivatásos Bányász"
 	524245084B7C09D52D8F16BECF647964 = "Hivatásos Bányász"
 	5312AAE843C0B2AB3294C087F8336207 = "Hivatásos Bányász"
@@ -1555,6 +1557,7 @@ A(z) <UseLaserPointer/> gombbal előhozod a személyes <bold>lézermutatódat</>
 	23DEED7F4A42382C4ED3E5A8815DACDA = "Katakomba"
 	1389D62949DC18A836A64D9249C58DD2 = "Katasztrófa elhárítva! {Person} {Verb} {Person2} és megmentett mindent"
 	821198624C9FE124515B41BCF6706362 = "Kapás"
+	FFDF5FB349D5631CE7DF23A02C4BF33C = "Kategória"
 	55EB999248E0C1DBB463458D2526E10C = "Kategória Megnevezése"
 	8C3337524BA8A5D96AC755AAE0031261 = "Itt a lovasság! Új bányász érkezik!"
 	062A703F48587A9DB1AA25853054961A = "Barlang Korall"
@@ -5862,6 +5865,7 @@ Amúgy, a területi fegyverek vagy amik Fagy vagy Tűz sugarakon alapulnak, nem 
 	50AF1A424AEEE741C7E140B4E9286AA7 = "Neeem...ezt itt!"
 	84C945F848FA7F317C32F79C126EB5DC = "Szögek + Szigszalag"
 	D22A606644AD82FCE8E7969F6142B0E2 = "Meztelen"
+	6F34C57446F2F3E258994A9F0948DCEC = "Név"
 	B3B744FB426F9073D61853AACCF2DBC5 = "Név"
 	D6E8E48E4F1A48BF1A23D481041AC11E = "Név"
 	E502F363439982CA95E1BE8D17E6A17A = "Név Jön Ide"
@@ -8109,6 +8113,7 @@ VÁLASZTÁSA"
 	952EB8C9499D63F798E85E9B5D419A45 = "Teszt szöveg"
 	B1ED8C9D4791C7BEB0CC5BB3A0E22F96 = "Teszt szöveg"
 	BAA651EF4F25A6259BDCABB053ECD92E = "Szöveg"
+	CACC2BAF44DE5E4FDADA958FFE9E4BAB = "Szöveg"
 	7AF32B0A47A47649880671B91B53C9AA = "Szövegblokk"
 	893D485F4F9F6896A6D963B629821961 = "Szöveg Jön Ide"
 	E4A54BDC4623C3533CF2498E37D0474C = "Szöveg jön ide"
@@ -10608,7 +10613,7 @@ Namespace Techincal (2 keys)
 Namespace Tutorial (1 keys)
 	44B19CB143E74CE65D04108B894BBFFA = "Munkautasítások"
 
-Namespace UI (118 keys)
+Namespace UI (122 keys)
 	Minigun_Name = ""Ólomvihar" Felerősített Minigun"
 	SMG_Name = ""Köpcös" Galván Gépfegyver"
 	AutoCannon_Name = ""Villámfej" Nehéz Gépágyú"
@@ -10668,7 +10673,9 @@ Gratulálunk az előmeneteledhez!
 - Üdvözlettel,
 A Vezetőség"
 	Continue = "Folytatás"
+	SludgePump_Name = "Maróiszap-szivattyú"
 	CryoCannon_Name = "Fagyágyú"
+	PlasmaCarbine_Name = "DRAK-25 plazmakarabély"
 	DeepDive = "Mélymerülés"
 	DeepCore_NAME = "Mélymag"
 	Prestige_PlayerRank_ArmorHunt_Header_Description = "Megvan benned, ami kell ahhoz, hogy csatlakozz a Pikkelybrigádhoz?"
@@ -10718,12 +10725,14 @@ A Vezetőség"
 	Rifle_Semi = "Félautomata Gépkarabély"
 	SentryGun = "Őrtorony"
 	Shotgun = "Sörétes Puska"
+	SMG_Desc = "Mi jobb mint egy gépfegyver? Egy gépfegyver ami elektromos töltényeket lő. A K+F-es srácok bekötöttek egy prototípus ArcGen-t a Subata 312 belsejébe, így most már szabadon engedheted a megrázó halált. Figyelem: tartsd távol a víztől."
 	Spacerig = "Űrállomás"
 	Stage = "Szakasz"
 	Default_NAME = "Szabvány"
 	SMG = "Géppisztoly"
 	SupportTool = "Támogató Eszköz"
 	LineCutter_Desc = "A résvágó egy irányított, szónikusan-töltött plazmát szabadít el, ami elég erős ahhoz, hogy végezzen a legtöbb idegennel az utad során. Eredetileg bányászati eszköz volt amit üledékes lerakódások eltávolítására használtak, de áthangolták a hús letépésére és a csontok összezúzására, gyakran nagyon látványos eredménnyel!"
+	SludgePump_Desc = "Ha a karbantartó személyzetnek túl sok szabadideje van, olyan dolgokat találhatnak ki, mint például a MARÓISZAP-SZIVATTYÚ. A csövek, lepárló palackok és biztonsági szelepek összetett hálózata egy igen alkalmas készüléket eredményez. Mérgező hulladékot lövöldözni azokra akiket nem kedvelsz még sosem volt ilyen jó móka!"
 	CompanySpecial_NAME = "A Cég Különlegessége"
 	MicroMissileLauncher_Desc = "A HURRIKÁN gyorsan híres fegyverré vált, mivel nagyon tömegbarát fegyver. Hacsak nem arról a tömegről beszélünk, amelyre éppen céloz. Az általában a nehéz állványoknak fenntartott fegyvernemet egy, a törpék által is könnyedén cipelhető, kis csomagba sűríti, és még egy kifinomult nyomkövető szoftverrel is fel van vértezve."
 	SupporterGold_NAME = "A Támogató"

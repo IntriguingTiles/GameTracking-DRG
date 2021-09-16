@@ -1,219 +1,10 @@
-83 entries
+81 entries
 1 namespaces
-81 values
+79 values
 
-Namespace PatchNotes (83 keys)
+Namespace PatchNotes (81 keys)
 	Update_30_Header = "1.0 SÜRÜM AÇILIŞI"
 	Update_30_ShortTitle = "1.0 SÜRÜM AÇILIŞI"
-	Update_34.5 = "<Italic>NOT: Bu Deneysel öncekilerden farklıdır, çünkü hemen ardından genel yayınlamaya geçmeme riski vardır. Güncelleme 35 yaklaşırken, önümüzdeki birkaç gün içinde istediğimiz kararlılık düzeyine mod desteği alamazsak, Güncelleme 35'in yayınlanmasına kadar ertelememiz gerekebilir. Bunun bir sorun olmayacağına dair parmaklarımızı çarpıtıyoruz.</>
-
-Merhaba Madenciler,
-
-İşte bu! Sonunda oluyor. Mod desteği burada.
-
-Basit bir Oyunu Kaydet profil sistemi olarak başlayan şey, tam teşekküllü mod desteğine dönüştü. Geçtiğimiz ayları mod oluşturma topluluğuyla birlikte bu özellikleri yineleyerek geçirdik ve meyvelerini verdiğini görmek harika oldu. Ekrandaki tüm tuhaf/eğlenceli/harika/şaşırtıcı modları oyun içinden deneme fırsatına sahip olacağın için heyecanlıyız. Bu sürümde neler olduğu hakkında size anlatmak istediğimiz çok şey var, bu yüzden okumaya devam edin.
-
-Sevgilerimizle,
-The Ghost Ship Mürettebatı
-
-
---- YAMA NOTLARI ---
-
-MOD MENÜSÜ
-----------------------------
-Tüm Kullanıcı Tarafından Oluşturulan İçeriğe oyun içinden ESC menüsündeki yepyeni Mod Menüsü aracılığıyla erişebilirsiniz. mod.io, modları yüklemenize ve abone olmanıza/kurmanıza olanak tanır. Platform beklediğiniz her şeye sahiptir. Favori modlarınıza yorum yapabilir, oy verebilir ve abone olabilirsiniz.
-
-Bu menü, DRG Modlarının harika dünyasına açılan pencereniz görevi görür. Modlara göz atarken ve bunları denedikçe, modların Oyunu Kaydet ve oyun kurucusu-odaya katılan kurulumunuzla nasıl etkileşime girdiğini belirleyen üç Onay Kategorimize aşina olacaksınız:
-
-DOĞRULANMIŞ MODLAR
-Normal Oyun Kaydınızla birlikte Doğrulanmış (Temel Oyun için) Modları kullanabilirsiniz. Bu Modlar yüklü olmayan bir oda kurucusuna katılsanız bile bu Modlar etkin kalacaktır. Diğer oyuncuların size katılmak için bu Modları indirmeleri gerekmeyecek. Esas Oyun Kaydı veya odaya katılan-oda kurucusu kurulumunda herhangi bir kısıtlamaları yoktur. 
-Bu kategorinin biraz özel olması ve belirli modlarla sınırlı olması muhtemeldir. Örnek olarak, oynanışı etkilemeyen Hayat Kalitesi modları, erişilebilirliği artıran sesli veya görsel modları ve oyun içi grafiklerin yerelleştirilmiş sürümleri verilebilir.
-
-ONAYLANMIŞ MODLAR
-Onaylanmış (İlerleme için) Modları Normal Oyun Kaydınızla birlikte kullanabilirsiniz, yani bunları kullanırken normal ilerlemenizde XP ve Kaynaklar kazanmaya devam edebilirsiniz. Sizinle aynı Onaylanmış Modların yüklü olmadığı bir oda kurucusuna katıldığınızda, bu Modlar devre dışı bırakılır. Aynı şekilde, oyun kurduğunuzda, diğer oyuncular oyununuza katılmaya çalışırken aktif Onaylanmış Modlarınızı indirir.
-Örnekler olarak kozmetikler, özel efekt, daha zor veya alternatif oyun modları, silah değişiklikleri ve oyun öğelerini orta derecede değiştiren ancak yine de normal oyunla aynı çizgide ilerlemeyi koruyan modlar olabilir.
-
-SANDBOX MODSLAR
-Sandbox, mod.io'ya yüklenen herhangi bir Mod için, biz ona bir Onay Kategorisi atama şansı bulamadan önce varsayılan kategori olacaktır. Modlu Oyun Kaydıyla herhangi bir Sandbox Modunu kullanmakta özgürsünüz. Bu, bu modlarla oynarken Normal Oyun Kaydınızı ana ilerlemenizle kullanamayacağınız anlamına gelir. Sandbox modlarını etkinleştirdiğinizde, yalnızca Sandbox Modları olan diğer sunuculara katılabilirsiniz. 
-Bu kategoriye girecek Mod örnekler, ödülleri veya görev ikramiyesini değiştiren Modlar ve oyun içi öğelerin kilidini açan Modlardır.
-
-
-SANDBOX İÇİN OYUN KAYIT PROFİLLERİ
-----------------------------
-Oyun kayıt profilleri, Güncelleme 34'te tanıtıldı, ancak kullanımları gerçekten Sandbox mod kategorisinden geliyor. Oyun kayıt profilleri ile, ana ilerlemeniz ve Sandbox modlarına dayanan modlu oyununuz için ayrı kayıtlar yönetebilirsiniz. Artık havalı, çılgın, yaratıcı Sandbox modlarına daldığınızda ana tasarrufunuz üzerindeki herhangi bir etki hakkında endişelenmenize gerek yok.
-
-
-SUNUCU LİSTESİ MOD FİLTRELERİ
-----------------------------
-Artık Sunucu Listesinde Onaylanmış veya Sandbox Modları çalıştıran sunucuları göstermeyi veya gizlemeyi seçebileceğiniz filtreler var. Böylece Sunucu Listeniz üzerinde daha iyi kontrol sahibi olursunuz.
-Mod desteğinin bir parçası olarak, mod kullanan bir sunucuya katılıp katılmadığınızı tamamen netleştirmek istedik. Bu nedenle, yüklemediğiniz Onaylanmış Modları çalıştıran bir oyun kurucusuna katılırsanız, oyun, o oyun kurucusuna katılmadan önce bunları yüklediğinizden emin olur. Aynı şekilde, sunucunun sahip olmadığı Onaylanmış Modları etkinleştirdiyseniz, oyun siz katılmadan önce bunları devre dışı bırakacaktır.
-
-
-YEREL PLAN CANLANDIRMA
-----------------------------
-Bu, esas olarak modcular için bir özelliktir ve oyunu modlayan herkesin DRG'nin belirli özelliklerine ve işlevlerine daha iyi erişmesini sağlar. DRG için modlar oluşturmakla ilgileniyorsanız, zaten bir discord sunucusu olan canlı bir topluluk var. 
-
-
-[TOPLULUK İSTEĞİ] ÇEVİRİ BÖLÜMÜ
-----------------------------
-Bu aslında bir süredir canlı. Bir topluluk çevirmeniyseniz, artık Crowdin'den en yeni çevirileri içeren bir nightly derlemesiyle bir Steam bölümüne erişebilirsiniz. Bu, çalışmanızı oyun içinde görmek için artık bir sürüm beklemeniz gerekmediği anlamına gelir. Ayrıca, Oyun Kaydınız çevirmen bölümüyle ana bölüm arasında senkronize edilir.
-
-DRG için topluluk çevirisi sağlamakla ilgileniyorsanız, Discord'umuzda çok aktif bir topluluğa sahip bir topluluk çevirmen kanalı var.
-
-
-DİĞER
-----------------------------
-- Mod Desteği için ESC menüsüne yeni bir sekme eklendi
-- Yeni bir Bıçaklayıcı Sarmaşık öldürme çığlığı belirtme çizgisi eklendi
-- Çökmelerle karşılaşırsanız modları devre dışı bırakmak için Steam başlatma seçeneklerine eklenebilecek bir "-disablemodding" komut satırı argümanı desteği eklendi
-- Canlı bölüm ve çeviri bölümü arasında paylaşılan bir Oyun Kaydı desteği eklendi
-- [TOPLULUK İSTEĞİ] Daha uzun çevirileri etkinleştirmek için "Oyundan Atıldın" açılır penceresindeki metni ödüllendirmek için sarılabilirlik eklendi
-- [TOPLULUK İSTEĞİ] Üst üste binen kullanıcı arabirimi öğeleri olmadan daha uzun çevirileri etkinleştirmek için "Başlangıçta bilgi ekranını göster" metnine sarılabilirlik eklendi
-- [TOPLULUK İSTEĞİ] Anma Duvarı ekranındaki alt başlık metnine daha uzun çeviriler sağlamak için kaydırılabilirlik eklendi
-- Boş altyazılarla ilgili bir sorunu düzeltmek için fırlatırken yapılan gürültüye altyazı eklendi
-- Boş altyazılarla ilgili bir sorunu çözmek için bir savunma açıklamasına altyazı eklendi
-- Boş altyazılarla ilgili bir sorunu çözmek için öksürme ve homurdanma seslerine altyazı eklendi
-- Boş altyazılarla ilgili bir sorunu çözmek için atılgan seslere altyazı eklendi
-- Boş altyazılı bir sorunu düzeltmek için Yanan Aşk tepkilerine altyazı eklendi
-- Boş altyazılı bir sorunu çözmek için Bağırsak Bozucu tepkilerine altyazı eklendi
-- Boş altyazılarla ilgili bir sorunu çözmek için Mactera Birası tepkilerine altyazı eklendi
-- Ustalık Kilidi Açılır pencerelerine yerelleştirilebilirlik eklendi
-- Lazer İşaretçisine Liquid Morkite Kuyusu'na yerelleştirilebilirlik eklendi
-- Derin Dalış Terminali'ndeki Derin Dalış Talimatlarına yerelleştirilebilirlik eklendi
-- Kaydı Kurtarma katmanındaki eksik dizelere yerelleştirilebilirlik eklendi
-- Kayıp Ekipman koordinatlarını Arazi Tarayıcıya aktarırken altyazılardaki yazım hataları düzeltildi
-- Küf Bataklıkları biome için alıntılarda bir yazım hatası düzeltildi
-- Kaçış Kapsülü çağrıldığında altyazılarda yazım hataları ve yanlış büyük harf kullanımı düzeltildi
-- Başka bir kaydın daha fazla ilerleme kaydetmesine rağmen, başka bir kaydın daha fazla ilerleme penceresine sahip olması düzeltildi
-- Bosco, yan yetenekler veya ekipman yükseltmeyle ilgili tüm altyazılardaki yazım hataları düzeltildi
-- Kaçış Kapsülü kalkış için beklerken altyazılardaki bir yazım hatası düzeltildi
-- Kabin ve Revir'de uyanırken altyazılardaki yazım hataları düzeltildi
-- Madencilik sırasında altyazılardaki bir yazım hatası düzeltildi
-- Halat kullanırken altyazılardaki yazım hataları düzeltildi
-- Bir İkmal Kapsülü geldiğinde altyazılardaki fazla boşluk düzeltildi
-- Uzay İstasyonu'nda cüce cin tokatlarken altyazılardaki yazım hataları ve fazla boşluklar düzeltildi
-- Zarı tokatlarken altyazılardaki yazım hataları ve fazla boşluklar düzeltildi
-- Altyazılarda Muhafız Kulesi'nin tutarsız büyük harf kullanımı düzeltildi
-- Yakıt Hücreleri Kaçış Kapsülüne bağlandığında Görev Kontrol diyalogunda bir yazım hatası düzeltildi
-- Doretta'nın onarılması gerektiğinde altyazılardaki fazla boşluklar düzeltildi
-- Rafineri görevindeki tüm altyazılarda yazım hataları, tutarsız büyük harf kullanımı ve fazla boşluk düzeltildi
-- Doretta saldırı altındayken altyazılarda yazım hataları düzeltildi
-- Uzay İstasyonu'ndaki yerçekimi düğmesine basıldığında altyazılardaki yazım hataları düzeltildi\	
-- Bir kazma aşırı şarj cihazını alırken altyazılardaki yazım hataları düzeltildi
-- Topçu'nun Kalkan Jeneratör'ü yerleştirirken altyazılardaki yazım hataları düzeltildi
-- Sağlam Vuruş sırasında altyazılardaki bir yazım hatası düzeltildi
-- Böcek severken altyazılardaki yazım hataları düzeltildi
-- Tüm yan yetenekler etkinleştirirlirken seslenmeler için altyazılardaki yazım hataları düzeltildi
-- Oyuncu bir Mağara Asalağı tarafından yakalandığında altyazıdaki yazım hataları düzeltildi
-- Oyuncunun yakıtı, cephanesi veya el bombası bittiğinde çeşitli altyazılardaki yazım hataları düzeltildi
-- Görev Kontrol'ün Nokta Harekâtı görev girişindeki bir yazım hatası düzeltildi
-- Görev Kontrol'ün Nokta Harekâtı görevlerinde Kaçış Kapsülü'nün gelişiyle ilgili duyurusundaki bir yazım hatası düzeltildi
-- K.A.T.I.R. iniş bölgesine dönerken altyazılardaki fazla boşluklar düzeltildi
-- Tüm Makine Etkinliği diyaloglarının altyazılarında sabit yazım hataları, büyük harf kullanımı ve fazla boşluklar düzeltildi
-- Güçlendirme yaparken altyazılardaki fazla boşluk düzeltildi
-- Dövme için altyazılarda tutarsız büyük harf kullanımı düzeltildi
-- Oyuncu bir Mactera Yakalayıcı tarafından yakalandığında bir yazım hatası düzeltildi
-- Altyazılar, yan yetenek açıklamaları, kilometre taşları ve Madenci Kılavuzu Ganimet Böceği tutarsız yazım hatası düzeltildi
-- Aydınlatma Fişeği Tabancası ateşlerken altyazılardaki fazla boşluk düzeltildi
-- Müzik Kutusu ile etkileşime girerken altyazılardaki fazla boşluk düzeltildi
-- K.A.T.I.R.'a çanta boşaltırken altyazılardaki yazım hataları düzeltildi
-- Yüksek Duyular etkinleştirildiğinde altyazılardaki yazım hataları düzeltildi
-- Kızıl Şeker kazarken altyazılardaki bir yazım hatası düzeltildi
-- Borulardan kayarken altyazılardaki bir yazım hatası düzeltildi
-- Gözcü'nün Tırmanma Çengeli kullanırken altyazılardaki bir yazım hatası düzeltildi
-- Topçu'nun kalkanı yeniden şarj edildiğinde altyazılardaki bir yazım hatası düzeltildi
-- Tüm el bombası uyarılarının altyazılarında sabit yazım hataları, büyük harf kullanımı ve fazla boşluklar düzeltildi
-- Oyuncu dost ateşi ettiğinde altyazılardaki yazım hataları düzeltildi
-- Tüm Refakat Etme Görev Kontrol diyaloglarının altyazılarında sabit yazım hataları, büyük harf kullanımı ve fazla boşluklar düzeltildi
-- Lazer İşaretçisindeki Dretnot kozasının açıklaması düzeltildi
-- Lazer İşaretçideki Kurtarma Görevi öğelerinin tutarsız açıklamaları düzeltildi
-- Laser Pointer'daki Dretnot kozası simgesi renkli varyantla değiştirildi
-- Dreadnought Lazer İşaretçisi belirtme çizgisi için altyazılardaki bir yazım hatası düzeltildi
-- Görev Başarısız metninin, belirli dillerde görevin tam ekranındaki diğer kullanıcı arabirimi elemanları ile örtüşmesine neden olan bir hata düzeltildi
-- Oyuncuyu potansiyel olarak mevcut bir Kayıt Yuvasının üzerine yazması konusunda uyaran bir açılır penceredeki yazım hatası düzeltildi
-- Tüm Lazer İşaretçisi belirtme çizgisi diyalogunun altyazılarında yazım hataları, tutarsız büyük harf kullanımı ve fazla boşluklar düzeltildi
-- Tüm öldürme çığlıkları belirtme çizgileri için altyazılardaki yazım hataları ve tutarsız büyük harf kullanımı düzeltildi
-- Çeşitli görev içi diyalogların altyazılarında yazım hataları ve tutarsız büyük harf kullanımı düzeltildi
-- Mineral Alışverişi diyalogu için altyazılarda yazım hataları ve tutarsız büyük harf kullanımı düzeltildi
-- Topluluk tarafından Jira'da bildirilen çeşitli yazım hataları düzeltildi
-- Eğitim Seviyesi'ndeki tüm altyazılardaki yazım hataları düzeltildil
-- Silah tepkileri için altyazılardaki yazım hataları düzeltildi
-- Çeşitli genel diyaloglar için altyazılarda yazım hataları düzeltildi
-- Derin Dalışlarda Görev Kontrol diyalogu için tüm altyazılarda çeşitli yazım hataları ve tutarsız büyük harf kullanımı düzeltildi
-- Tüm Aquaq'lar toplandığında Görev Kontrol diyalogu için altyazılarda bir yazım hatası düzeltildi
-- Ortama tepki verirken altyazılardaki yazım hataları ve fazla boşluk karakterleri düzeltildi
-- Sineklere tepki verirken altyazılardaki yazım hataları düzeltildi
-- Yeni teçhizat için Mağaza'ya göz atarken altyazılardaki yazım hataları düzeltildi
-- Öksürük sesleri için altyazılardaki yazım hataları düzeltildi
-- Karaktere özel diyalog için altyazılardaki yazım hataları düzeltildi
-- Yakıt Bidonu diyalogu için tüm altyazılardaki yazım hataları düzeltildi
-- Bosco'ya roketlerini ateşleme emri verirken altyazılardaki bir yazım hatası düzeltildi
-- Bosco kazarken altyazılardaki fazla boşluk karakteri düzeltildi
-- Bosco'nun ışık vermesi için emredilirken bir yazım hatası düzeltildi
-- Bosco'ya bir şey getirmesini emredildiğinde altyazılardaki bir yazım hatası düzeltildi
-- Ağır bir nesne taşırken altyazılardaki yazım hatası düzeltildi
-- Bira siparişi verirken çeşitli yazım hataları düzeltildi
-- Bar ile ilgili tüm altyazılarda yazım hataları ve büyük harf kullanımı düzeltildi
-- Bir Karakilit Sarı Bira tüketirken altyazılarda başka bir yazım hatası düzeltildi
-- Bir Karakilit Sarı Bira tüketirken altyazılarda bir yazım hatası düzeltildi
-- Bir biraya olumlu tepki verirken altyazılardaki bir yazım hatası düzeltildi
-- Daha fazla Görev Kontrol diyalogunda tutarsız büyük harf kullanımı düzeltildi
-- Eğitim Seviyesinin nasıl tekrar oynatılacağını açıklayan öğretici ipucunun ifadesi iyileştirildi
-- Eğitim Görevinin nasıl tekrar oynatılacağını açıklayan öğretici ipucundaki bir yazım hatası düzeltildi
-- Yükleniyor ekranı ipuçlarındaki bir yazım hatası düzeltildi
-- Sohbet uyarıları, öğretici ipuçları, kullanıcı arayüzü ve Lazer İşaretçisi genelinde İkmal Kapsülü'nün tutarsız adlandırılması düzeltildi
-- Görevlendirme ve terfiler için Görev Kontrol diyalogunda tutarsız büyük harf kullanımı düzeltildi
-- Uzay İstasyonu'ndaki Görev Kontrol diyalogunda tutarsız büyük harf kullanımı düzeltildi
-- Nokta Hârekatı Görevinde Görev Kontrol diyalogunda tutarsız büyük harf kullanımı düzeltildi
-- Gelen İkmal Kapsülü uyarılarında büyük harf kullanımı düzeltildi
-- Görev Kontrol eğitim diyalogunda tutarsız büyük harf kullanımı düzeltildi
-- Görev Kontrol sürü uyarılarında tutarsız büyük harf kullanımı düzeltildi
-- Görev Kontrol diyalogunda daha fazla tutarsız büyük harf kullanım durumu düzeltildi
-- Görev Kontrol'ün ortadan kaldırma görevlerinde diyalogunda yazım hataları ve tutarsızlıkları düzeltildi
-- Tüm Yaratık Yumurtaları toplandığında Görev Kontrol diyalogunda tutarsız büyük harf kullanımı düzeltildi
-- Bir hedef tamamlandığında Görev Kontrol'ün diyalogundaki yazım hataları ve tutarsızlıklar düzeltildi
-- K.A.T.I.R. yerleştiğinde Görev Kontrol diyalogunda tutarsız büyük harf kullanımı düzeltildi
-- Görev Kontrol'ün Kazı Seferi girişindeki bir yazım hatası düzeltildi
-- Görev Kontrol'ün ortadan kaldırma görevlerinde diyalogunda yazım hataları ve tutarsızlıkları düzeltildi
-- Kurtarma görevinde Görev Kontrol diyalogunda tutarsız büyük harf kullanımı düzeltildi
-- K.A.T.I.R. Kaçış Kapsülüne geri çağrılabildiğinde sohbet uyarısındaki bir yazım hatası düzeltildi
-- Kartopu fırlatırken altyazılardaki yazım hatası düzeltildi
-- Kayıt Menüsünde fazla boşluk karakteri düzeltildi
-- Madenci Birliği Terminali'nin Toprak Kazıcılar ekranında bir yazım hatası düzeltildi
-- Lazer İşaretçisindeki birkaç tutarsız kaynak açıklaması durumu düzeltildi
-- Lazer İşaretçisindeki Dystrum açıklamasındaki yazım hataları düzeltildi
-- Lazer İşaretçisindeki Magnite açıklamasındaki yazım hataları düzeltildi
-- Lazer İşaretçisindeki Hollomite açıklamasındaki bir yazım hatası düzeltildi
-- Tüm haber başlıklarının tutarsız büyük harf kullanımına ilişkin birkaç durum düzeltildi
-- Uzay İstasyonu'ndaki belirli terminallerde yayınlanan haber başlıklarının sonundaki birkaç fazla boşluk karakteri durumu düzeltildi
-- Görev Kontrol'ün Kurtarma Görevlerine girişindeki bir yazım hatası düzeltildi
-- Görev Kontrolü'nün tüm mini K.A.T.I.R.'ların onarıldığını bildiren başka bir yazım hatası düzeltildi
-- Görev Kontrol'ün tüm mini K.A.T.I.R.'ların onarıldığını bildiren bir yazım hatası düzeltildi
-- Magma Çekirdeği biyomu için alıntılardan birinde başka bir yazım hatası düzeltildi
-- Masum bir Mağara Meleği'ni öldürürken altyazılardaki bir yazım hatası düzeltildi(nasıl cüret edersin!)
-- Bir Çekirdek Füzyonlayıcı'yı Lazer İşaretçisiyle işaretlerken altyazılardaki bir yazım hatası düzeltildi
-- Kontrolleri Özelleştirme Menüsünde yazım hataları düzeltildi
-- Kontroller ayarlarında yazım hataları düzeltildi
-- Görev Seçiminde bir yazım hatası düzeltildi
-- Lazer İşaretçisiyle bir Bira Malzemesini işaretlerken bir yazım hatası düzeltildi
-- Magma Çekirdeği biyomu için alıntılardan birinde bir yazım hatası düzeltildi
-- Görev Kontrol'ün Derin Dalış'ın ikinci aşamasına girişindeki bir yazım hatası düzeltildi
-- Bir Uzaktan Kumandalı Patlayıcı yerleştirirken altyazılarda bir yazım hatası düzeltildi
-- Madenci Kılavuzu Yaratık Ansiklopedisi'nin Ağ Atıcı girişinde bir yazım hatası düzeltildi
-- Madenci Kılavuzu Yaratık Ansiklopedisi'nin Glyphid Dretnot İkizler girişinde bir yazım hatası düzeltildi
-- Uzay İstasyonu'ndaki belirli terminallerde gösterilen haber başlıklarında bir yazım hatası düzeltildi
-- CRSPR Alev Silahı için Kompakt Besleme Vanaları güçlendirmesi açıklamasındaki bir yazım hatası düzeltildi
-- Bir Dretnot Kovan Muhafız'ı Lazer İşaretçisiyle işaretlerken altyazılardaki bir yazım hatası düzeltildi
-- Dikenlerden gelen hasara tepki verirken altyazılardaki birkaç yazım hatası düzeltildi
-- K.A.T.I.R.'a çanta boşaltırken altyazılardaki birkaç yazım hatası düzeltildi.
-- Kullanıcı Arayüzü Seçenekler menüsündeki bir yazım hatası düzeltildi
-- Kovuk Dal'ın biyom açıklamasındaki bir yazım hatası düzeltildi
-- Böcekçik Tünel seslenmeleri yazım hataları düzeltildi
-- Derin Çekirdek 40mm TBA için Devre Dışı Eylemsizlik İnhibitörü yükseltmesinin açıklamasındaki bir yazım hatası düzeltildi
-- Dretnot'un zırhı yok edildiğinde bazen meydana gelebilecek bir çökme düzeltildi
-- Bir oyuna yeni katıldıysanız, birisi oyuna sizinle aynı anda katıldı ve sunucuyu doldurmak için daha hızlı girdiği için başarısız olduysanız, oyunlara katılamamanıza neden olan bir sorun düzeltildi.
-
-"
 	Update_23 = "Alright, Miners - gather ‘round and shut up!\\ \\ It appears ol’ Hoxxes still has plenty of surprises in store for us - over the last month or so, Scanners have picked up a slew of new and disturbing biosigns. We expect you all to face a significantly wider variety of wildlife down in the caves, so DOUBLE CHECK YOUR GEAR, and BRING ALL THE GRENADES YOU CAN CARRY. DRG isn’t in the business of being knife-eared cowards though, so get to it, and let’s get those quotas met!\\ \\ With regards from Management,\\ - The Ghost Ship Crew\\ \\ --- PATCH NOTES ---\\ \\ A GAZILLION NEW ENEMIES\\ -----------------------------------\\ GLYPHID MENACE\\ - This distant cousin of the Glyphid Acidspitter is both smarter, faster, and more aggressive. It’ll burrow into the ground between firing off devastating volleys of corrosive goo, making for a high-priority target when spotted.\\ \\ GLYPHID WARDEN\\ - This mysterious Glyphid sends out regenerative waves of spores to its nearby kin, reinvigorating and buffing them. Better take it out quick.\\ \\ GLYPHID BULK DETONATOR\\ - A sickening horror of the deep. It’s Bulky and it Detonates. You’ll know it when you see it - and then you’ll likely die. You have been warned.\\ \\ NAYAKA TRAWLER\\ - The first species encountered of this awful breed of Hoxxes wildlife. The Trawler has been observed in the Sandblasted Corridor Region and it burrows through sand at high speeds, aiming to catch prey in its’ extended maws as it passes. Don’t stand in front of it. \\ \\ GLYPHID GRUNT SLASHER\\ - A more durable and fast version of its weaker cousin, the Grunt. Plus...its long-bladed legs deal thrice the damage. Nasty buggers! \\ \\ GLYPHID GRUNT GUARD\\ - Another variation of the Glyphid Grunt. This one is heavily armored and has twice the health but is a bit slower than a normal Grunt.\\ \\ RADIOACTIVE GLYPHID PRAETORIAN\\ - In the Radioactive Zone, Praetorians have mutated and now do radiation damage! Better keep your distance.\\ \\ RADIOACTIVE GLYPHID EXPLODER\\ - Exploding with radiation! ‘Nough said! \\ \\ RADIOACTIVE GLYPHID SWARMERS\\ - They glow in the dark and are radioactive - they’re small enough that the radiation they emit isn’t enough to affect a healthy dwarf, however. \\ \\ \\ ENEMY TWEAKS\\ -----------------------------------\\ GLYPHID DREADNOUGHT OVERHAUL\\ - New behavior: If the players are hidden in a small hole, the Dreadnought will now destroy the terrain until it gets to them. Can’t stop me now!\\ - New attack: Swarmer Egg. Besides the fireball, the Dreadnaught will shoot a projectile full of swarmers. If hits the players, it will also cover them with pheromones, turning them into the target of new enemy swarmer spawns.\\ - Regenerating armor. Make sure to attack it while it’s vulnerable. Health values have been modified to conform to this new system.\\ - An all-new Boss Health Bar lets you know when you are facing a serious challenge. For the moment it’s only for the new and improved Dreadnought, but it’s almost like we have plans to use it for more things in the future, isn’t it? :>\\ - Fixed the bug that would allow you to trap the Dreadnought using the Gunner’s shield\\ - All its attacks and behaviors have been tweaked. The Dreadnaught is now more aggressive, more responsive, and more dangerous. Management wishes you luck.\\ - More Nitra is spawning in elimination missions since you will need more ammo to take down a Dreadnought.\\ - Fix so 2 Dreadnoughts can’t spawn in Point Extraction at the same time\\ - Supply Pods won’t instakill a Dreadnought anymore - it still deals a good chunk of damage though.\\ - Dreadnought's fireball damage reduced\\ - Tweaks to Dreadnought's behavior for solo play\\ \\ Q’RONAR SHELLBACK\\ - Rolling periods are now shorter so it will open up more often to shoot (which almost means more chances for players to shoot it).\\ - Armor resistance and base health reduced.\\ - It can only be found in Salt Pits now. Radioactive Exclusive Zone didn’t feel like a healthy place to settle down.\\ \\ CAVE LEECH \\ - Received a much-needed model and animation overhaul. Now grabbier than ever!\\ \\ NAEDOCYTE SHOCKERS\\ - All new model and animations. \\ \\ BET-C BATTLE MULE\\ - BET-C’s grenades have proper models and improved shaders\\ - BET-C now moves away if there are players too close to her for a few seconds\\ - BET-C no longer turns into an unkillable murder machine if the parasites die too quickly\\ \\ MISCELLANEOUS ENEMY TWEAKS\\ - Enemies now only use melee attacks that are in range to actually do damage\\ - Grabber only screams if its target is valid\\ - Chance of getting a generic scripted wave increased compared to special scripted waves\\ - Tweaked all the Glyphids blood particles. They are now much more visible\\ - Glyphids have received several new attack animations\\ - Glyphid Warriors have been renamed to Glyphid Grunt, because that’s what everyone kept calling them. Also, it fits. :>\\ \\ \\ MISSION TWEAKS\\ ----------------------------------- \\ DIFFICULTY\\ - Difficulty slightly reduced on 2-3 player games on Hazard Level 3-5\\ \\ ELIMINATION MISSION\\ - The location of the cocoons will no longer be displayed using an icon, now they appear on the terrain scanner\\ - Cocoons are more evenly distributed throughout the map\\ - New debris has been added in the vicinity of the Cocoons, in case you had trouble spotting the 15 ton, pulsating, gurgling, alien egg\\ \\ SALVAGE MISSION\\ - Defense Zones have been increased a bit in size\\ \\ EGG COLLECTION\\ - Reduced Egg Collection goals depending on Cave Complexity from 5, 8, 10 to 4, 6, 8 \\ \\ POINT EXTRACTION\\ - Slightly increased spawn rates\\ - Wave music added to the announced waves\\ \\ \\ CLEARER GEM FRAGMENT INDICATION\\ -----------------------------------\\ - The glowing bits around embedded crystals like, Aquarq, Jadiz etc. now only glow when said item is close. No more returning to already mined spots!\\ \\ \\ MORE GEAR MODS\\ -----------------------------------\\ - We are still in the process of adding mods to all the gear and we are slowly getting there. After this update, only the Pick Axe and the Grenades are left to do. \\ \\ LMG GUN PLATFORM\\ - Number of turrets, target prioritization, build speed, scan angle. You are a special snowflake and now your automated killing machine can be too.\\ \\ SATCHEL CHARGE\\ - Have you ever thrown down a Satchel Charge only to regret it immediately? Well, now you can install a kill switch for safe disarming and retrieval. Plus many other mods like carve size and fear effects.\\ \\ FLARE GUN\\ - More flares? Longer burn time? Auto-reload? Illuminate the situation with these and other mods.\\ \\ SHIELD GENERATOR\\ - Customize the size, duration and recharge time of your happy place.\\ \\ Please note: You have been refunded credits and minerals invested in previous upgrades!\\ \\ STATUS EFFECTS ON HEALTH BAR\\ -----------------------------------\\ Enemies’ health bars now display status effects such as being electrocuted, etc. They also show temperature variations so players can now know how far from bursting into flames or freezing they are.\\ \\ \\ VANITY\\ -----------------------------------\\ MK5 ARMOR SETS\\ - Management has approved the introduction of an all-new set of armor for the most experienced employees to procure - the mighty Mark 5! \\ \\ 1ST PERSON ARMOR\\ - All first-person animations now display the correct armor!\\ \\ SUPPORTER GEAR MORE GOLDIER\\ - By popular request, the Supporter Upgrade Armor and Weapons have gotten a material overhaul - now more goldier than ever!\\ \\ \\ BOSCO QUALITY OF LIFE IMPROVEMENTS\\ -----------------------------------\\ - It will now try to position himself below cave leeches, and not above them\\ - It will be less glued to the floor when fighting except versus cave leeches\\ - It will not fire if something other than enemies is blocking his line of sight\\ - Doubled the frequency of Bosco checking if he should get out of the way\\ \\ \\ NEW MISC MODELS, SHADERS, AND ANIMATIONS\\ -----------------------------------\\ - New Mallet model for all your building and repair needs\\ - New Beacons for Supply Pods\\ - New third person animations make it easier to see if a teammate is currently checking the Terrain Scanner\\ - Attempt to fix light bug on Stasis Grenade\\ \\ \\ MISC.\\ -----------------------------------\\ - Fix crash related to people joining and being immediately grabbed\\ - Added a third-person animation to players looking at the Terrain Scanner\\ - Fix spelling error in Mini-gun upgrade\\ - Fix DisableMasterEQ setting to work correctly \\ - Work on reducing server list backend load\\ - The Cryo Cannon’s feedback sounds have been made louder and easier to hear\\ - The One Year Celebration is over! If you missed getting the One Year Celebration hat while it was available, tough beans! \\ - Also, Management has returned beer prices to normal. Drink responsibly (because it’s expensive!).\\ - Sand and Ice geysers should no longer blow you out of the Drop Pod\\ - Fixed Mixer Praetorians not working properly\\ - Fixed Mixer spawning 4 times the amount of enemies it was intended\\ - Fixed Mixer viewer name not properly working\\ - Introducing new enemies to Mixer integration: Mactera Spawn, Mactera Grabber, Mactera Bomber, Acid Spitter, Web Spitter, and Shellback\\ - Introducing new assists to Mixer integration: Resupply of ammo\\ - Introducing mixer integration in the Space Rig: Buy the streamer beers, explode confetti\\ - Exploders’ footsteps sound volume increased\\ - Reduced the spawn amount of radioactive crystals\\ - Better attenuation for the jukebox\\ - Scout Grenade IFG FX tweaked\\ - Chatbox: System Messages now green and bold, general line height slightly lowered.\\ - Mission success music reactivated\\ - Fix Linecutter performance\\ - Fixed a bug that caused players with Ironwill to not show as downed in their player portraits after dying\\ - Fixed trader terminal assignment showing that you completed it one mission too early\\ - Tweaked sounds for shield\\ - Fixed the cave leech sense bug that caused the sensing UI to get stuck on a players screen\\ \\ 
 "
 	Update_20.1_ShortTitle = "DAHA BÜYÜK, DAHA İYİ, BOSCO"
@@ -2643,7 +2434,6 @@ DİĞER
 
 
 "
-	Update_34.5_Header = "GÜNCELLEME 34.5: Mod Desteği"
 	Update_34_Header = "GÜNCELLEME 34: MÜTEVAZI BEKLENTİLER"
 	Update_9_Header = "GÜNCELLEME 9: SONRA DELİŞİRİZ! - 09.03.2018"
 	Update_31_Shorttitle = "GERİDE NE KALDI"

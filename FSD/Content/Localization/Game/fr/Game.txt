@@ -1,8 +1,8 @@
-11552 entries
+11557 entries
 44 namespaces
-9493 values
+9496 values
 
-Namespace Global (10717 keys)
+Namespace Global (10722 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 De manière générale, le problème est lié à :
 - Une connexion Internet défaillante
@@ -572,6 +572,7 @@ L'IA de Bosco n'est pas prête à gérer ce genre d'armement, utilisez le POINTE
 	EA8D376F4970EEB9521ECFA7B6DB6121 = "S'active en maintenant [<active>SAUTER</>] juste avant l'impact."
 	A26515454D91F5EBC1DC4C9A553BD084 = "Activation en appuyant sur <Fire/> + <Mine/> pendant que l'attaque puissante se recharge."
 	318083E2419E392383A88D96BDFBB968 = "Activez la liaison montante près de la capsule et défendez la zone le temps que votre position soit triangulée."
+	BFBA836A40486000446F0DA935FA9691 = "Actif"
 	6D31300244F3C5211582B38F0A7C1516 = "Affectation en cours"
 	A3A51320445A673EFD84D6AF266D1B6F = "Affectation en cours"
 	0645A9594F688F770079D989D1E464E7 = "Amortisseurs de chute actifs"
@@ -979,6 +980,7 @@ Mais maintenant, nous avons encore plus besoin de vous qu'avant ! Durant ces 14 
 	160FA93F4BDB09946CFD52A84F39EF86 = "Aïe, je ne suis pas un ballon."
 	6D76CA494E3FCD51CEFC1B8C2E117AD6 = "Source audio"
 	EC8E71D043359309C4E9EA8FBC6E459E = "Sortie audio"
+	040098254388FF556125F3BEA0691F99 = "Auteur"
 	39B26B4F4EDE4FB0D90C42AC3279C05D = "Mineur autorisé"
 	524245084B7C09D52D8F16BECF647964 = "Mineur autorisé"
 	5312AAE843C0B2AB3294C087F8336207 = "Mineur autorisé"
@@ -1696,6 +1698,7 @@ Mais maintenant, nous avons encore plus besoin de vous qu'avant ! Durant ces 14 
 	23DEED7F4A42382C4ED3E5A8815DACDA = "Catacombe"
 	1389D62949DC18A836A64D9249C58DD2 = "Catastrophe évitée ! {Person} {Verb} {Person2} et sauve tout le monde"
 	821198624C9FE124515B41BCF6706362 = "Capture"
+	FFDF5FB349D5631CE7DF23A02C4BF33C = "Catégorie"
 	55EB999248E0C1DBB463458D2526E10C = "Titre de la catégorie"
 	BB98DE70407490A9111C318AE2DFB7BA = "Bourbier caustique"
 	8C3337524BA8A5D96AC755AAE0031261 = "La cavalerie est là. Nouveau mineur en approche !"
@@ -6440,6 +6443,7 @@ D'un autre côté, les armes à zone d'effet ou celles basées sur des jets de f
 	50AF1A424AEEE741C7E140B4E9286AA7 = "Naan...celle là !"
 	84C945F848FA7F317C32F79C126EB5DC = "Clous + colle"
 	D22A606644AD82FCE8E7969F6142B0E2 = "nue"
+	6F34C57446F2F3E258994A9F0948DCEC = "Nom"
 	B3B744FB426F9073D61853AACCF2DBC5 = "Nom"
 	D6E8E48E4F1A48BF1A23D481041AC11E = "Nom"
 	E502F363439982CA95E1BE8D17E6A17A = "Insérer le nom ici"
@@ -8927,6 +8931,7 @@ MISSION"
 	2D0AA4C0477C95ABB477829291A8D65E = "Objectif Test 2"
 	952EB8C9499D63F798E85E9B5D419A45 = "Texte de Test"
 	BAA651EF4F25A6259BDCABB053ECD92E = "Texte"
+	CACC2BAF44DE5E4FDADA958FFE9E4BAB = "Texte"
 	7AF32B0A47A47649880671B91B53C9AA = "Zone de texte"
 	893D485F4F9F6896A6D963B629821961 = "Texte va ici"
 	E4A54BDC4623C3533CF2498E37D0474C = "Le texte va ici"
@@ -10985,7 +10990,7 @@ Vous pouvez maintenant équiper <highlight2>deux</> compétences actives. Choisi
 	66D9506D497D85C494E6468F39CE6F2C = "{Person} est mort dans un accident souterrain dans la zone "{Mission}""
 	97B303FB4516648C9E07C7B2643B542A = "{Person} effectue un incroyable revirement de carrière après le scandale d'abus {Resource}"
 	B358B2C8436B54F0890BADB97F6EF1AC = "{Person} fait fortune en vendant son stock {Resource}"
-	EFEAE7724BC9C3199C0E35A5EB572AD4 = "{Person} s'attends à {Percent} d'augmentation des ventes {Resource}"
+	EFEAE7724BC9C3199C0E35A5EB572AD4 = "{Person} s'attend à {Percent} d'augmentation des ventes {Resource}"
 	CCC3E3B54F94D3F7AD8AB0A1D31AF5AE = "{Person} s'endort pendant l'arrimage d'un vaisseau cargo. Cargaison {Resource} détruite et baisse de {Percent} des actions"
 	96E0BE7D42A92B5F679E328CC24635BA = "{Person} tombe de {HighNumber} mètres et survit. {Person2} dans le déni"
 	6E78543F41F010FE61D96480C5AC63B5 = "{Person} trouve une cure contre les allergies liées à l’inhalation {Resource}"
@@ -11005,8 +11010,8 @@ Vous pouvez maintenant équiper <highlight2>deux</> compétences actives. Choisi
 	78690C78475547F12A0686BC6660CDEB = "{Person} cambriole le dépôt {Resource} de {Person2}"
 	EA5F09A140F886001839DCB1C5DB8C8E = "{Person} qui avait trainé DRG en justice pour le krach du marché {Resource} a été porté disparu !"
 	4FED1D8A48500A5695AF8E81DB5C9FB4 = "{Person} s'associe avec {Person2} et achète {Percent} d'une société de minage {Resource}"
-	6C4757EB4D5C01F604F5FCA77A993192 = "{Person} au chômage provoque un baisse de {Percent} des actions {Resource} en conséquence"
-	04E218894A02203358650D810ECCFE92 = "{Person} utilise {Resource} et découvre un nouveau minerai : DRG s'approprie les droits d'exploitation"
+	6C4757EB4D5C01F604F5FCA77A993192 = "{Person} au chômage provoque une baisse de {Percent} des actions {Resource} en conséquence"
+	04E218894A02203358650D810ECCFE92 = "{Person} utilise un stock {Resource} et découvre un nouveau minerai : DRG s'approprie les droits d'exploitation"
 	D3FC29AE4E53BD9DB04C8886285083C9 = "{Person} veut un meilleur salaire ! {Person2} mène les négociations"
 	5E6BF0204DB122526E1D3C9EB25D010F = "{Person} a écrit un nouveau best-seller : "{Mission}""
 	85D7CDCE43BCEEB6EC352D845D4009FB = "{Person} : payer pour être promu est injuste."
