@@ -1,8 +1,8 @@
-63 entries
+65 entries
 1 namespaces
-61 values
+62 values
 
-Namespace PatchNotes (63 keys)
+Namespace PatchNotes (65 keys)
 	Update_30_Header = "1.0 MEGJELENÉS"
 	Update_30_ShortTitle = "1.0 MEGJELENÉS"
 	Update_20.1_ShortTitle = "NAGYOBB, JOBB, BOSCO"
@@ -298,6 +298,91 @@ EGYÉB DOLGOK
 - Ki lett javítva egy hiba, hogy a játékosok előre mozogva beragadnak miközben a vásárolt tartalmak felugró ablakok megjelennek
 - Ki lett javítva egy hiba, hogy az egér mutató a képernyő közepére kényszerül amikor a Küldetés Teljesítő képernyőn megjelenik a "Folytatás" gomb
 "
+	Update_34.5 = "<Italic>MEGJEGYZÉS: Ez a kísérleti verzió különbözik a korábbiaktól és lehetséges, hogy nem megy át azonnal a nyilvános kiadásba. A 35. frissítés közeledtével, ha nem tudjuk a következő napokban a kívánt stabilitási szintre hozni a modtámogatást, lehet, hogy el kell halasztanunk a frissítés megjelenése utánra. Reméljük, hogy ez nem lesz probléma.</>
+
+Üdv, Bányászok!
+
+Ez az! Eljött az idő. Elérkezett a modtámogatás.
+
+Ami eleinte egy egyszerű mentési rendszernek indult, teljes értékű modtámogatássá vált. Az elmúlt hónapokat azzal töltöttük, hogy ezeket a funkciókat a modközösséggel közösen fejlesztettük és nagyszerű volt látni, hogy mindez megvalósulni látszik. Izgatottan várjuk, hogy lehetőséged lesz kipróbálni az összes furcsa/szórakoztató/király/zavaros modot a játékhoz. Sok mindent szeretnénk elmondani nektek arról, hogy mi van ebben a kiadásban, úgyhogy olvassatok tovább.
+
+Szeretettel,
+A Ghost Ship legénysége
+
+
+--- FEJLESZTŐI JEGYZETEK ---
+
+MOD MENÜ
+----------------------------
+A játékon belül az ESC menüben található vadonatúj mod menü segítségével érhetsz el minden felhasználók által készített tartalmat. Minden mod megosztása és telepítése a mod.io-n keresztül történik. A platformon minden megtalálható, amire számíthatsz. Hozzászólásokat írhatsz, ill. értékelheted és feliratkozhatsz a kedvenc modjaidra.
+
+Ez a menü ablakot nyit a DRG modok csodálatos világa felé. Ahogy böngészel és kipróbálod a modokat, valószínűleg megismerkedsz a három jóváhagyási kategóriával, amelyek meghatározzák, hogy a modok hogyan működnek együtt a mentett játékoddal és a kiszolgáló-kliens beállításokkal:
+
+ELLENŐRZÖTT MODOK
+Használhatsz ellenőrzött modokat a normál mentési játékoddal együtt (az alapjátékhoz). Ezek a modok akkor is aktívak maradnak, ha olyan házigazdához csatlakozol, aki nem rendelkezik ezekkel a modokkal. A többi játékosnak nem kell letöltenie ezeket a modokat ahhoz, hogy csatlakozhasson hozzád. Lényegében nincsenek korlátozások a mentések vagy a kiszolgáló-kliens beállítások tekintetében. 
+Ez a kategória némileg exkluzív lesz, és csak a kiválasztott modokra korlátozódik. Ilyenek például az életminőséget segítő modok (QoL, vagy „Quality of Life”), amelyek nem befolyásolják a játékmenetet, a hang- vagy vizuális modok, amelyek javítják a hozzáférhetőséget, és a játékbeli grafikák lefordított változatai.
+
+ELFOGADOTT MODOK
+A (karakterfejlődéshez) jóváhagyott modokat a normál mentésed mellett is használhatod, ami azt jelenti, hogy a modok használata közben is szerezhetsz TP-t és nyersanyagokat a fejlődésed során. Ha olyan házigazdához csatlakozol, aki nem ugyanazokat a jóváhagyott modokkal rendelkezik, mint Te, akkor ezek a modok le lesznek tiltva arra a játékra. Hasonlóképpen, ha Te vagy a házigazda, akkor a többi játékosnak automatikusan letöltődnek az aktív jóváhagyott modjaid, amikor megpróbálnak csatlakozni a játékodhoz.
+Ilyenek például a megjelenési tárgyak, a hangeffektek, a nehezebb vagy alternatív játékmódok, megváltoztatott fegyverek, valamint az olyan modok, amelyek mérsékelten változtatják meg a játékmenet elemeit, de a normál játékkal összhangban tartják.
+
+SZABADSTÍLUSÚ MODOK
+A szabadstílusú modok („sandbox”) lesz az alapértelmezett kategória a mod.io-ra feltöltött modok számára, mielőtt még lehetőségünk lenne jóváhagyási kategóriát rendelni hozzá. Szabadon használhatsz bármilyen ilyen modot egy modolt játékmentéssel. Ez azt jelenti, hogy nem használhatod a normál mentésedet, amikor ezekkel a modokkal játszol. Ha engedélyezve vannak a szabadstílusú modok, akkor csak az ilyen típusú modokkal rendelkező szerverekhez tudsz csatlakozni. 
+Az ebbe a kategóriába tartozó modok például a küldetések jutalmait megváltoztató modok, valamint a játékbeli tárgyakat feloldó modok.
+
+
+JÁTÉKMENTÉS PROFILOK A MODOKHOZ
+----------------------------
+A mentési játékprofilok a 34. frissítésben kerültek bevezetésre, de használatuk valójában a szabad stílusú modok kategóriájába tartozik. A játékmentési profilokkal külön mentéseket kezelhetsz, így a fő és a modolt játékod különbözni fog. Mostantól nem kell aggódnod a fő mentésedre gyakorolt hatások miatt, amikor beveted magad a király, őrült, ötletes szabad stílusú modokba.
+
+
+MODSZŰRŐK A SZERVERLISTÁHOZ
+----------------------------
+Mostantól vannak szűrők a szerverlistán, ahol kiválaszthatod, hogy megjelenítsd vagy elrejtsd azokat a szervereket, amelyeken jóváhagyott vagy szabad stílusú modok futnak, így jobban kézben tarthatod a szerverlistádat.
+A modtámogatás részeként teljesen egyértelművé akartuk tenni, hogy egy játék modokat használ. Ha egy olyan házigazdához csatlakozol, akinél olyan jóváhagyott modok futnak amelyek nincsenek telepítve, a játék gondoskodik arról, hogy telepítse azokat, mielőtt csatlakozol hozzá. Hasonlóképpen, ha olyan jóváhagyott modok vannak engedélyezve Nálad, amelyek a házigazdának nincsenek meg, a játék letiltja őket arra a játékra, mielőtt csatlakozol.
+
+
+MODKÉSZÍTÉSI ESZKÖZÖK
+----------------------------
+Elsősorban a modkészítők számára készült. Ez lehetővé teszi, hogy a modkészítés során jobban hozzá lehessen férni a DRG bizonyos működéseihez és funkcióihoz. Ha érdekel a DRG modok készítése, a Discord modközösség neked való hely.
+
+
+[KÖZÖSSÉGI KÉRÉS] FORDÍTÁSI VERZIÓ
+----------------------------
+Ez már egy ideje élesben működik. Ha közösségi fordító vagy, mostantól hozzáférhetsz egy naponta frissülő Steam-es verzióhoz, megy tartalmazza a Crowdin-on jóváhagyott legújabb fordításokat. Többé nem kell várni a frissítésekre, hogy láthasd a munkádat a játékban. A játékmentésed szinkronizálódik a fordítói és a rendes verzió között.
+
+Ha érdekel a DRG közösségi fordítása, a Discord-on található egy közösségi fordítócsatorna, ahol egy aktív közösség működik.
+
+
+EGYÉB DOLGOK
+----------------------------
+- Új mod menü fül az Esc menüben
+- A karakterek kaptak egy új kiáltást a bökő inda megölésekor
+- Új, „-disablemodding”-parancs az indítási opciókban a modok letiltására, ha gyakran lefagy a játék
+- A játékmentés mostantól megosztódik a nyilvános és a fordítási verzió között
+- [KÖZÖSSÉGI KÉRÉS] A kirúgáskor felugró szöveg kapott sortörést, hogy a fordítások miatt hosszabb szövegek is elférjenek
+- [KÖZÖSSÉGI KÉRÉS] Az „információs oldal mutatása indításkor” szöveg kapott sortörést, hogy fordítások miatt a hosszabb szövegek is elférjenek túllógások nélkül
+- [KÖZÖSSÉGI KÉRÉS] Az emlékcsarnok nagy képernyőjének alcíme kapott sortörést, hogy fordítások miatt a hosszabb szövegek is elférjenek
+- A dobáskor kiadott hangok kaptak feliratot, hogy ne csak egy üres szövegdoboz jelenjen meg
+- Az egyik védelmi kiáltás kapott feliratot, hogy ne csak egy üres szövegdoboz jelenjen meg
+- A köhögő és morgó hangok kaptak feliratot, hogy ne csak egy üres szövegdoboz jelenjen meg
+- A vágta által keltett hang kapott feliratot, hogy ne csak egy üres szövegdoboz jelenjen meg
+- A Lángoló Szerelem reakciói kaptak feliratot, hogy ne csak egy üres szövegdoboz jelenjen meg
+- A Bélcsavaró reakciói kaptak feliratot, hogy ne csak egy üres szövegdoboz jelenjen meg
+- A Maktera Párlat reakciói kaptak feliratot, hogy ne csak egy üres szövegdoboz jelenjen meg
+- Az „Eszközmesterség jutalom” felugró ablak mostantól honosítható
+- A „Liquid Morkite Well” a lézermutatón mostantól honosítható
+- A mélymerülés leírása a terminálban mostantól honosítható
+- A mentés visszaállításkor felugró ablak nem minden szövege volt honosítható, de ez javítva lett
+- Kijavítottunk egy hibát, miszerint egyes játékmentések között különbség van a haladások között, amikor nem is
+- A rettenthetetlen gubó ikonja ki lett cserélve egy színes változatra a lézermutatón
+- A rettenthetetlen gubó leírása ki lett javítva a lézermutatón
+- A mentési művelet küldetéseken a lézermutatón a következetlen leírások ki lettek javítva
+- Ki lett javítva egy hiba, mely miatt a „Sikertelen Küldetés” szöveg bizonyos nyelveken rácsúszik más felhasználói felület elemekre a küldetést lezáró képen
+- Az oktatóprogram szövege egyértelműsítve lett, hogy hogyan lehet újrajátszani
+- Javítva lett egy rettenthetetlen páncéljának széttörésekor okozott játék lefagyás
+- Ki lett javítva egy hiba, miszerint nem tudtál csatlakozni egy játékhoz miután már csatlakoztál volna egyhez sikertelenül, mert valaki veled egyszerre csatlakozott hozzá, de ő gyorsabban bejutott és emiatt a játék megtelt
+- Rengeteg helyesírási-, nyelvtani-, fölösleges karakterekkel kapcsolatos-, és leírásokkal kapcsolatos hiba lett kijavítva a játék angol verziójában. Ezeket megtekintheted az angol nyelvű fejlesztői jegyzetekben"
 	Update_32 = "Sziasztok kemény legények!
 
 Itt az ideje az első nagyobb megjelenés utáni frissítésnek. A főfogás két új küldetés: kíséret és helyszíni finomítás. Mind a két küldetés lényege a nehézgépekkel való munka, és ezeknek a védelme és karbantartása a keményen dolgozó törpök által. Mellékfogásként sok új megjelenési tárgy, fegyverek kiegyensúlyozása, a megbízási tábla újraalakítása, és sok sok más lett tálalva. Jó étvágyat!
@@ -644,6 +729,7 @@ Sok szeretettel,
 	Update_13_ShortTitle = "KISEBB VÁLTOZÁSOK"
 	Update_34_Shorttitle = "ELVÁRÁSOK A MAGUNK MOD-JÁN"
 	Update_15_ShortTitle = "MUTÁCIÓ VESZÉLY!"
+	Update_34.5_Header = "Modtámogatás"
 	Update_34.5_ShortTitle = "Modtámogatás"
 	Update_33_Shorttitle = "ÚJ TÁVLATOK"
 	Update_21.5_ShortTitle = "EGY ÉVE ORBITÁLIS PÁLYÁN"

@@ -1,8 +1,8 @@
-83 entries
+89 entries
 1 namespaces
-81 values
+85 values
 
-Namespace PatchNotes (83 keys)
+Namespace PatchNotes (89 keys)
 	Update_30_Header = "LANÇAMENTO DA 1.0"
 	Update_30_ShortTitle = "LANÇAMENTO DA 1.0"
 	Update_23 = "Certo, Mineradores! Juntem-se e fechem a matraca!
@@ -424,6 +424,96 @@ CORREÇÕES E MELHORIAS
 - Correção da permanência do som borbulhante dos Gêiseres de Lava e de Ar após serem destruídos.
 - Animação de chute adicionada a personagens na visão em terceira pessoa. Chutar barris nunca foi tão realista!
 - Novas mensagens do Controle da Missão para todas as tarefas de armas e de promoções.
+"
+	Update_9 = "Olá Mineradores!
+Deep Rock Galactic foi lançado aos mares há uma semana. Terminamos de celebrar o lançamento incrível (foi demais!) e agora vamos trabalhar duro para as novas atualizações. Dentro do jogo, colocamos um botãozinho de feedback, e muitíssimo obrigado aos milhares de vocês que já fizeram uso dele. É uma ajuda e tanto. Abaixo, vocês podem ler mais sobre a atualização.
+
+--- Buffs no Escavador ---
+O Escavador é provavelmente a classe mais especial do Deep Rock Galactic, e ficamos tristes de ver nossa icônica perfuratriz ter tão pouca utilidade em comparação às outras classes. Então, ajustamos tanto o Lança-Chamas quanto as Brocas. Nas notas de atualização abaixo, vocês podem ver exatamente os atributos modificados, o que poderá lhe dar algumas dicas sobre como usar o Escavador da melhor maneira.
+
+--- Pagamento em Missão Falha e Expulsão ---
+Dois problemas apareceram logo de início: insatisfação com a forma que tratamos uma situação de Missão Falha, em relação ao pagamento, e o fato de que os jogadores poderiam ser expulsos da equipe a qualquer momento. Realizamos o primeiro passo para resolver esses obstáculos, como mostrado abaixo:
+
+Primeiro, antes a regra era que, se você falhasse a missão, NÃO haveria pagamento algum. Agora, ao falhar uma missão, isso será compensado com 25% dos minerais guardados na Molly no momento em que a missão acabou. 
+
+Segundo, ser expulso de uma equipe irá resultar em Missão Falha, e você receberá uma compensação com base no que foi colocado na Molly desde o momento em que você entrou naquela sessão. 
+
+Não é mais possível entrar ou ser expulso de uma equipe a partir do momento em que a Cápsula de Transporte for chamada, e a contagem final começar. Isto é um só um teste por enquanto, e vamos monitorar o resultado — é algo fácil de se arrumar, então poderemos voltar atrás se for preciso.
+
+Além disso, é extremamente importante entender como funciona a Missão Concluída. Você poderia pensar que a recompensa é dividida entre os sobreviventes. Mas não. Calculamos o total e então cada jogador na sessão ganha aquela mesma recompensa, não importa o tamanho da equipe. Também, cada jogador sobrevivente significa um Bônus de Sobrevivente a mais, que também foi aumentado. “Nenhum anão fica para trás” deve ser o espírito aqui — quanto mais jogadores vivos, maior é o bônus que todos terão!
+
+
+Nós decidimos não implementar a expulsão por votos nesta atualização, apesar do pedido de alguns. É bastante trabalhoso, e não estamos de todo convencidos que este é o caminho a ser seguido. Dito isso, há bons argumentos a favor e contra essa decisão, e vamos continuar monitorando a situação. O mesmo vai para o botão de votos na Molly. 
+
+--- Bosco ---
+Em mais detalhes nas notas abaixo, Bosco recebeu um grande buff, e sua habilidade de matar Sanguessugas deveria ter sido melhorada. Colocamos "deveria” já que esse problema precisará de mais trabalho para ser eliminado, mas pelo menos será uma experiência equilibrada.
+
+--- Cartas Colecionáveis ---
+Isto é um pouco constrangedor. Percebemos que era preciso publicar manualmente as Cartas Colecionáveis quando se começava um novo jogo na Steam. Ops. A boa notícia é que agora elas foram implementadas e estão prontas para serem coletadas!
+
+
+--- Roteiro ---
+Durante a semana, tivemos uma grande reunião sobre feedbacks aqui na Ghost Ship. Juntamos todas as avaliações de vocês, jogadores, assim como a avaliação dos desenvolvedores e dos nossos parceiros. Tem TANTAS coisas legais que queremos e vamos fazer para expandir o Deep Rock Galactic. Por agora, a gente precisa escolher quais delas entrarão no jogo, e em qual ordem; e planejamos revelar, ao longo das próximas semanas, um roteiro simples e bem completo para os próximos meses. 
+
+--- Notas de Atualização ---
+
+Fim de Missão
+- Bônus de Sobrevivente foi dobrado — de 75 para 150 créditos — para cada jogador vivo
+- Missão Falha agora dará uma compensação de 25% de todos os minerais coletados
+
+Sessões de co-op
+- Ser expulso agora resulta em Missão Falha, com compensação baseada na contribuição
+- Adicionamos um novo sistema e detalhes sobre expulsar e ser expulso
+- Não é mais possível entrar em uma sessão após a Cápsula de Transporte ser chamada
+- Não é mais possível expulsar alguém de uma sessão após a Cápsula de Transporte ser chamada
+- Mudamos o texto no Mapa de Missões com relação a sessões públicas/privadas
+- Reescrevemos o filtro da Lista de Servidores para "Mostrar abertos" e "Mostrar servidores com senha"
+- Opção de Servidor Privado no menu
+- Adicionamos um indicador na visão da equipe de que um jogador está entrando 
+
+Modo de um jogador
+- Agora o Bosco deverá te salvar das Sanguessugas de forma mais consistente
+- Agora o Bosco também poderá brincar com os holofotes. Ele faz "tchan" e aí você consegue enxergar bem mais do que antes :)
+- Agora o Bosco terá redução de fogo amigo de 0.2 em vez de 1
+- Bosco dá um dano 100% maior (dobrou de 3 para 6)
+- Agora o Bosco ficará 250% mais rápido quando você pedir algo para ele. Também aumentamos a aceleração dele de 300 para 550
+
+Classes balanceadas: melhoria nas ferramentas do Escavador
+- Capacidade de Combustível do Lança-Chamas foi de 160 para 270 unidades, e cada reservatório carrega 90 unidades, em vez de 80. Significa que o lança-chamas agora pode ser recarregado completamente três vezes, em vez de duas, com mais combustível em cada reservatório.
+- Alcance do Lança-Chamas subiu de 8,5m para 10m
+- Brocas Elétricas: combustível subiu de 30 para 35
+- Ao perfurar, o jogador caminha 10% mais rápido que antes
+- Dano das brocas: velocidade de ataque DOBRADA, mas o dano de cada golpe abaixou de 10 hp para 8 hp. (para compensar a velocidade dobrada)
+- Upgrade do dano das brocas: 5 hp para 4 hp (para compensar a velocidade dobrada)
+
+Tela de Introdução
+- Adicionamos as notas de atualização (este texto) à Introdução
+- Texto e botão para o grupo da Steam não aparecerão mais se você já tiver resgatado suas recompensas
+
+Sons, efeitos e animações
+- Animações passivas de Pistola e Revólver (também ativadas ao recarregar com munição cheia)
+- Novos sons do Cuspidor e da Larva
+- Voltamos a fumaça do lança-chamas para o preto... Estava branca, e foi um erro... Pois ela tá incrível mais uma vez!
+
+Cavernas
+- Mais formatos adicionados ao gerador aleatório.
+- Mais aleatoriedade nos antigos formatos.
+- Novo perigo de cenário: teia grudenta. Não caia nela!
+
+Localização
+- Adicionamos seleção de línguas à tela de Introdução
+- Croata, finlandês, italiano e japonês adicionados
+- Todas as línguas atualizadas (como sempre, as novidades não traduzidas aparecerão em inglês)
+- Atualizamos os créditos dos tradutores da comunidade
+- Adicionamos caracteres faltando no polonês.
+- Alguns botões com texto não mostravam corretamente depois de se trocar a língua.  
+
+Ajustes diversos
+- Itens cosméticos às vezes não eram mostrados corretamente nos anões, nos terminais.
+- A tecla "5" agora está livre para atalhos especiais
+- Consertamos um crash ao entrar exatamente quando a partida termina. 
+- Você não pode mais editar o texto das Dicas na tela de carregamento! 
+- Maptool não atualizando corretamente quando o terreno muda
 "
 	Update_30 = "Olá, Mineradores!
 É fantástico poder finalmente dar as boas-vindas a todos vocês para a versão 1.0 de Deep Rock Galactic! 
@@ -1549,6 +1639,209 @@ DIVERSOS
 - O Controle de Missão agora anuncia a recalibração de gravidade.
 - O jogador anfitrião agora salta a mesma altura que os hóspedes (era menor antes).
 "
+	Update_34.5 = "Olá Mineradores,
+
+É isso! Finalmente está acontencendo - o Suporte para mods chegou!
+
+O que começou como um simples sistema de perfil de Salvamento se tornou um suporte para mods totalmente independente. Passamos últimos meses revisando estes recursos com a comunidade dos mods, e tem sido ótimo ver essa atualização se tornar realidade. Estamos animados, pois vocês terão a chance de testar todos os mods bizarros/engraçados/incríveis/complexos que estão disponíveis. Temos muito o que contar a vocês sobre essa novidade, então bora lá:
+
+Com amor,
+Equipe da Ghost Ship
+
+--- NOTAS DE ATUALIZAÇÃO ---
+
+MENU DE MODS
+----------------------------
+Você pode acessar todos os mods de dentro do jogo através do inédito Menu de Mods. É onde você pode facilmente ativar ou desativar todos os seus mods instalados daqui pra frente.
+
+Mencionamos antes que usamos o Mod.io como plataforma de hospedagem de mods. A página do Mod.io da DRG pode ser acessada de dentro do jogo, e você só precisa fazer isso ao se inscrever ou se desinscrever de algum mod. O jogo se certificará de de instalar/desinstalar estes mods. E você pode ativar e desativar mods de dentro do Menu de Mods e organizar os seus mods instalados por nome, categoria de aprovação, e se eles estão ligados ou não.
+
+Ao vasculhar os mods, você vai logo se acostumar com nossas três categorias de aprovação: Verificados, Aprovados, e Sandbox. Fizemos descrições detalhadas no nosso último post na Steam e nas nossas orientações do Mod.io. Mas aqui está a explicação de alto nível das categorias:
+
+Mods Verificados (para o jogo base) são mods de qualidade de vida, que não impactam a jogabilidade ou são mods de áudio e/ou vídeo que incrementam na acessibilidade, e versões localizadas de gráficos dentro do jogo. Mods dos tipos: Cosméticos, Visual, e Áudio são automaticamente incluídos à categoria Verificados se eles só alterarem arquivos de cosméticos ou áudio. Isso é detectado automaticamente pelo jogo.
+
+Mods Aprovados (para a progressão) são modos de jogo desafiantes ou alternativos, mudanças aos atributos das armas, e mods que alteram um pouco elementos de jogabilidade e ainda mantêm a progressão alinhada ao jogo regular.
+
+Mods Sandbox são quaisquer mudanças nas recompensas ou pagamentos, e mods que diretamente desbloqueiam itens no jogo.
+
+Tá na hora de finalmente fazer aquela missão Nível 6 com uma roupa de banho e um martelinho de brinquedo no lugar da picareta. Boa mineração!
+
+
+TAGS E INFORMAÇÕES DE SERVIDORES
+----------------------------
+Agora é possível ver claramente quais servidores estão rodando mods e quais não estão — sem necessidade do host informar isso no título. Você também pode ver antes de entrar quais mods o host instalou.
+Há também filtros na Lista de Servidores que permitem mostrar ou esconder servidores com mods Aprovados ou Sandbox - significa que você terá um controle bem melhor da sua lista.
+Não precisa se preocupar mais com mods indesejáveis ao entrar em uma partida. Chega de surpresas e de reverter o salvamento quando você ganha acidentalmente um milhão de EXP em um jogo com mods. Nessa atualização, os mods serão seguros, divertidos, e transparentes.
+
+ATIVAÇÃO/DESATIVAÇÃO DE MODS SIMPLIFICADA AO ENTRAR
+----------------------------
+Mods Verificados permitem jogar e se unir a outros como no jogo normal, enquanto que os Aprovados e Sanbox têm restrições. Mods Aprovados necessitam que todos numa missão tenham esses mods. Mods Sandbox também, e eles precisam que você esteja em um Salvamento Sandbox (possível agora com os Perfis de Salvamento).
+    Mas deixa quieto, você não precisa lembrar de tudo isso. O jogo cuida de desligar seus mods Aprovados ao entrar em uma partida que não tenha esses mods. E se você é um host com mods Aprovados ou Sandbox ligados, então o jogo se certificará de que outros jogadores tenham esses mesmos mods também, se eles quiserem entrar no seu jogo e ele vai até mesmo desligar esses mods para os jogadores, quando eles saírem. Como dito acima, eles podem ver quais mods estão ligados antes de entrar no seu jogo.
+    O Sandbox é um tanto diferente. Você terá que desligar seus mods Sandbox e voltar ao seu salvamento principal para ver partidas sem Sandbox na lista de servidores.
+
+
+BLUEPRINT SPAWNING NATIVO
+----------------------------
+Isto é principalmente para criadores de mods. Permite qualquer um que crie mods melhor acesso a recursos e funções no DRG. Se você está interessado em criar mods para o DRG, já há uma comunidade vibrante sobre o assunto. Você sente falta de uns óculos-de-sol nas sanguessugas? Ou que Bosco ficaria bem de cartola? Ou talvez queira fazer dublagens para o Controle de Missão em outra língua? Pois está na hora de fazer esses mods pro DRG.
+
+
+PEDIDO DA COMUNIDADE
+----------------------------
+- Ramo de teste de traduções: isso tem sido discutido há algum tempo. Se você é um tradutor da comunidade então agora você pode acessar um ramo na Steam com versões novas toda noite incluindo as traduções mais recentes do Crowdin. Então não precisa esperar uma atualização para ver seu trabalho no jogo. Caso esteja interessado em fazer traduções pro DRG, tem um canal de tradutores da comunidade no nosso servidor Discord com um pessoal muito ativo.
+
+
+DIVERSOS.
+----------------------------
+- Adicionamos uma nova aba no menu ESC do Suporte para Mods
+- Adicionamos um novo grito ao se avistar uma Esfaqueadora
+- Adicionamos suporte para um argumento de linha de comando "-disablemodding" que pode ser adicionado às opções de launcher da Steam para desligar mods se um crash for encontrado
+- Adicionamos suporte para um Salvamento compartilhado entre o ramo real e o ramo de tradução
+- [PEDIDO DA COMUNIDADE] Adicionamos ajuste automático ao texto de recompensa na mensagem "Você foi expulso" para traduções mais longas
+- [PEDIDO DA COMUNIDADE] Adicionamos ajuste automático ao texto "Mostrar Tela de Informações ao iniciar" para traduções mais longas sem interferir com elementos da interface
+- [PEDIDO DA COMUNIDADE] Adicionamos ajuste automático ao subtítulo na tela da Parede Memorial para traduções mais longas
+- Adicionamos legendas ao som de quando se joga alguma coisa, para consertar legendas em branco
+- Adicionamos legendas para um alerta de defesa, para consertar legendas em branco
+- Adicionamos legendas aos sons de tosse e de grunhidos, para consertar legendas em branco
+- Adicionamos legendas aos sons de corrida, para consertar legendas em branco
+- Adicionamos legendas às reações à Burning Love, para consertar legendas em branco
+- Adicionamos legendas às reações à Gut Wrecker, para consertar legendas em branco
+- Adicionamos legendas às reações à Mactera Brew, para consertar legendas em branco
+- Adicionamos localizabilidade a pop-ups de Maestria Desbloqueada
+- Adicionamos localizabilidade a Poço de Morkita Líquida no Indicador Laser
+- Adicionamos localizabilidade a Instruções da Escavação Profunda no Terminal de Escavação Profunda
+- Adicionamos localizabilidade a strings faltando na overlay de Restaurar Salvamento
+- Consertamos erros nas legendas ao transferir coordenadas de Equipamento Perdido ao Escâner de Terreno
+- Consertamos um erro nas frases do bioma Pântanos Fúngicos
+- Consertamos erros e capitalização incorreta nas legendas de quando a Cápsula de Transporte é chamada
+- Consertamos o pop-up "outro salvamento tem mais progresso", que aparecia mesmo quando outro salvamento NÃO tinha mais progresso
+- Consertamos erros em todas as legendas de melhorias do Bosco, vantagens ou equipamento
+- Consertamos um erro nas legendas ao esperar a saída da Cápsula de Transporte
+- Consertamos erros nas legendas ao acordar na cabine e na Ala Médica    
+- Consertamos um erro nas legendas ao minerar    
+- Consertamos erros nas legendas ao usar a tirolesa
+- Consertamos um espaço a mais nas legendas quando a Cápsula de Reabastecimento chega
+- Consertamos erros e espaços a mais nas legendas ao dar um tapa no leprechaun na Estação Espacial
+- Consertamos erros e espaços a mais nas legendas ao dar um tapa num dado
+- Consertamos capitalização inconsistente da Torreta nas legendas
+- Consertamos um erro no diálogo do Controle de Missão quando as Células de Combustível são conectadas à Cápsula de Transporte
+- Consertamos espaços a mais nas legendas quando Doretta precisa ser reparada
+- Consertamos erros, capitalização inconsistente e espaços a mais nas legendas da missão de Refinaria
+- Consertamos erros nas legendas quando Doretta está sob ataque    
+- Consertamos erros nas legendas ao apertar o botão de gravidade na Estação Espacial    
+- Consertamos erros nas legendas ao pegar um sobrecarregador de picareta
+- Consertamos erros nas legendas ao colocar o Gerador de Escudo do Atirador
+- Consertamos um erro nas legendas ao usar um Ataque Poderoso
+- Consertamos erros nas legendas ao fazer carinho
+- Consertamos erros em todas as legendas de gritos de ativação de vantagem    
+- Consertamos erros na legenda quando o jogador é pego por uma Sanguessuga
+- Consertamos erros nas várias legendas quando o jogador está sem combustível, munição ou granada
+- Consertamos um erro na introdução do Controle de Missão à missão de Ponto de Extração
+- Consertamos um erro quando o Controle de Missão anuncia que a Cápsula de Transporte chegou, em missões de Ponto de Extração
+- Consertamos espaços a mais nas legendas quando a M.U.L.A. retorna à área de aterrisagem
+- Consertamos erros, capitalização inconsistente e espaços a mais nas legendas de todo o diálogo do Evento de Máquina
+- Consertamos um espaço a mais nas legendas ao forjar overclocks
+- Consertamos capitalização inconsistente em legendas ao forjar
+- Consertamos um erro quando um jogador é pego por um Agarrador
+- Consertamos uma ortografia inconsistente do Inseto-Presente em legendas, descrições de vantagens, marcos e no Manual do Minerador    
+- Consertamos um espaço a mais nas legendas ao disparar um sinalizador
+- Consertamos um espaço a mais nas legendas ao interagir com a Jukebox
+- Consertamos erros nas legendas ao depositar na M.U.L.A.
+- Consertamos erros nas legendas ao ativar os Sentidos Aguçados
+- Consertamos um erro nas legendas ao minerar Açúcar Vermelho
+- Consertamos um erro nas legendas ao deslizar sobre tubos
+- Consertamos um erro nas legendas ao usar o Gancho do Batedor
+- Consertamos um erro nas legendas quando o escudo do Atirador é recarregado
+- Consertamos erros, capitalização inconsistente e espaços a mais nas legendas de todos os alertas de granada
+- Consertamos erros nas legendas quando o jogador recebe fogo amigo
+- Consertamos erros, capitalização inconsistente e espaços a mais nas legendas de todo o diálogo do Controle de Missão em Serviços de Escolta
+- Consertamos a descrição do casulo de Encoraçado no Indicador Laser
+- Consertamos descrições inconsistentes de itens de Missões de Resgate no Indicador Laser
+- Substituímos o ícone do casulo de Encouraçado no Indicador Laser pela variante colorida
+- Consertamos um erro nas legendas do alerta de Encouraçado do Indicador Laser
+- Consertamos um bug que fazia o texto "Missão Falha" interferir com outros elementos de interface na tela de Missão Completa em algumas línguas
+- Consertamos um erro em um pop-ip que alerta o jogador de uma possível sobrescrição de um Salvamento existente
+- Consertamos erros, capitalização inconsistente, e espaços a mais em todas as legendas de alertas do Indicador Laser
+- Consertamos erros e capitalização inconsistente em todas as legendas de gritos de alerta
+- Consertamos erros em todas as legendas de reação à pistola
+- Consertamos erros e capitalização inconsistente nas legendas de diálogos diversos em missões
+- Consertamos erros e capitalização inconsistente nas legendas do diálogo do Comércio de Minerais
+- Consertamos vários erros específicos reportados pela comunidade no Jira
+- Consertamos erros em todas as legendas do Tutorial
+- Consertamos erros em legendas de reação ao usar a pistola
+- Consertamos erros em legendas de vários diálogos genéricos
+- Consertamos vários erros e capitalização inconsistente em todas as legendas de diálogo do Controle de Missão de Escavação Profunda
+- Consertamos um erro nas legendas de diálogo do Controle de Missão ao se coletar todos os Aquarqs
+- Consertamos erros e espaços a mais nas legendas ao reagir ao ambiente
+- Consertamos erros nas legendas ao reagir a moscas
+- Consertamos erros nas legendas quando se está procurando novos equipamentos na Loja    
+- Consertamos erros nas legendas de sons de tosse
+- Consertamos erros nas legendas de diálogos específicos de cada personagem
+- Consertamos erros em todas as legendas de diálogo de Reservatório de Combustível
+- Consertamos um erro nas legendas ao pedir para Bosco lançar foguetes
+- Consertamos um espaço a mais nas legendas ao pedir para Bosco minerar
+- Consertamos um erro ao pedir para Bosco iluminar
+- Consertamos um erro nas legendas ao pedir para Bosco pegar algo
+- Consertamos um erro nas legendas quando se carrega algo pesado    
+- Consertamos vários erros ao pedir cerveja
+- Consertamos erros e capitalização em todas as legendas relacionadas ao bar
+- Consertamos outro erro nas legendas ao consumir uma Blacklock Lager
+- Consertamos um erro nas legendas ao consumir uma Blacklock Lager
+- Consertamos um erro nas legendas ao reagir positivamente a uma cerveja
+- Consertamos capitalização inconsistente em mais alguns diálogos do Controle de Missão
+- Melhoramos o fraseamento da dica de tutorial que descreve como refazer o Nível de Tutorial
+- Consertamos um erro na dica de tutorial que descreve como refazer o Nível de Tutorial
+- Consertamos um erro nas dicas da tela de carregamento
+- Consertamos a nomenclatura inconsistente da Cápsula de Reabastecimento em alertas de chat, dicas, interface, e no Indicador Laser
+- Consertamos capitalização inconsistente no diálogo do Controle de Missão para tarefas e promoções
+- Consertamos capitalização inconsistente no diálogo do Controle de Missão na Estação Espacial
+- Consertamos capitalização inconsistente no diálogo do Controle de Missão na Missão de Ponto de Extração
+- Consertamos capitalização inconsistente em alertas de Cápsulas de Reabastecimento    
+- Consertamos capitalização inconsistente no diálogo de tutorial do Controle de Missão
+- Consertamos capitalização inconsistente em alertas de hordas do Controle de Missão    
+- Consertamos mais casos de capitalização inconsistente no diálogo do Controle de Missão
+- Consertamos erros e inconsistências no diálogo do Controle de Missão em Missões de Eliminação
+- Consertamos capitalização inconsistente no diálogo do Controle de Missão when all Alien Eggs are collected
+- Consertamos erros e inconsistências no diálogo do Controle de Missão quando um objetivo é completado
+- Consertamos capitalização inconsistente no diálogo do Controle de Missão quando a M.U.L.A. embarca    
+- Consertamos um erro na introdução do Controle de Missão à Expedição de Mineração
+- Consertamos capitalização inconsistente no diálogo do Controle de Missão na Seleção de Missão
+- Consertamos capitalização inconsistente no diálogo do Controle de Missão na Missão de Resgate
+- Consertamos um erro no alerta de chat quando a M.U.L.A. pode ser chamada de volta à Cápsula de Transporte
+- Consertamos um erro nas legendas ao jogar bolas de neve
+- Consertamos um espaço a mais no Menu de Salvamentos
+- Consertamos um erro na tela dos Escavadores de Terra no Terminal do Sindicato dos Mineradores
+- Consertamos muitos casos de descrições de recursos inconsistentes no Indicador Laser
+- Consertamos um erro na descrição do Dystrum no Indicador Laser
+- Consertamos erros na descrição da Magnita no Indicador Laser
+- Consertamos um erro na descrição da Holomita no Indicador Laser
+- Consertamos muitos casos de capitalização inconsistente de todas as manchetes
+- Consertamos muitos casos de espaços a mais no final de manchetes mostradas em terminais na Estação Espacial
+- Consertamos um erro na introdução do Controle de Missão a Missões de Resgate
+- Consertamos outro erro quando o Controle de Missão anuncia que todas as mini M.U.L.A.s foram consertadas
+- Consertamos um erro quando o Controle de Missão anuncia que todas as mini M.U.L.A.s foram consertadas
+- Consertamos outro erro em uma das frases do bioma Núcleo de Magma
+- Consertamos um erro nas legendas ao matar um Anjo da Caverna inocente (como você se atreve!)    
+- Consertamos um erro nas legendas ao marcar um Carregador de Núcleos com o Indicador Laser
+- Consertamos erros no Menu de Personalização de Controle
+- Consertamos erros nas Opções de Controle
+- Consertamos um erro na Seleção de Missão
+- Consertamos um erro ao marcar um Ingrediente de Fermentação com o Indicador Laser
+- Consertamos um erro em uma das frases do bioma Núcleo de Magma
+- Consertamos um erro na introdução do Controle de Missão ao segundo estágio de uma Escação Profunda    
+- Consertamos um erro nas legendas ao colocar uma Carga Explosiva    
+- Consertamos um erro na entrada do Cuspidor de Teias do Bestiário do Manual do Minerador
+- Consertamos um erro na entrada dos Gêmeos Encouraçados do Bestiário do Manual do Minerador
+- Consertamos um erro na descrição do overclock Válvulas de Alimentação Compactas do Lança-chamas CRSPR
+- Consertamos um erro nas manchetes mostradas em alguns terminais na Estação Espacial
+- Consertamos um erro nas legendas ao marcar um Guarda-Colmeia Encouraçado com o Indicador Laser
+- Consertamos vários erros nas legendas ao reagir ao dano por espinhos
+- Consertamos vários erros nas legendas ao depositar na M.U.L.A.
+- Consertamos um erro no menu de Opções de Interface
+- Consertamos um erro na descrição do bioma Ramo Oco
+- Consertamos erros em gritos de Túneis de Invasores
+- Consertamos um erro na descrição do upgrade Inibidor de Inércia Desativado do Deepcore 40mm PGL
+- Consertamos um crash que acontecia de vez em quando ao destruir a armadura de um Encouraçado
+- Consertamos um problema que impedia você de entrar em partidas, porque alguém pedia para entrar ao mesmo tempo que você, e se conseguia entrar mais rápido, deixando a sala lotada"
 	Update_28 = "Olá Mineradores,
 Estão se sentindo vantajosos? Ótimo, porque a ATUALIZAÇÃO 28 veio para satisfazê-los com uma importante melhoria de todo o nosso Sistema de Vantagens; a primeira parte do redesign da Estação Espacial; assim como uma adição muito legal à personalização das suas armas de fogo. 
 
@@ -1622,6 +1915,247 @@ AJUSTES DIVERSOS
 - Consertamos um bug que fazia a granada ficar na mão do jogador se ele fosse agarrado enquanto atirava uma granada
 - HUD personalizável: os ícones das Vantagens no HUD agora podem ou não aparecer juntos da barra de vida
 - Adicionamos um seletor de Equipamento à Loja de Acessórios
+"
+	Update_29 = "Olá, Mineradores!
+É hora de outra atualização, pois estamos quase prontos para um lançamento completo! O principal objetivo desta atualização foi melhorar a primeira experiência dos novos Barbaverdes, mas também temos muitas surpresas para jogadores veteranos, como Pinturas novas para Armaduras e um novíssimo Manual do Minerador, entre outras!
+
+Saudações,
+Equipe Ghost Ship
+
+--- NOTAS DE ATUALIZAÇÃO ---
+
+PERSONALIZAÇÃO DA PICARETA
+----------------------------
+Todo minerador precisa de uma picareta, mas elas não precisam ter a mesma aparência! Procure e desbloqueie partes novas para personalizar cada uma das seis seções diferentes de sua picareta, sem mencionar um punhado de Pinturas novas também. Minere essas rochas com estilo!
+
+
+ENCONTRO COM A MOCHILA PERDIDA
+----------------------------
+Ao ver equipamentos perdidos em volta da caverna, tente encontrar um capacete cintilante. Use-o para baixar a localização da mochila perdida do anão, rastreando-a com seu Escâner de Terreno. Ela sempre terá partes de picareta e minerais preciosos. 
+
+
+REVISÃO DA CÁPSULA DE FUGA
+----------------------------
+Vamos ser sinceros… a Cápsula de Fuga precisava de um remodelamento há algum tempo. Isso já feito. Também remodelamos os Dados de Pelúcia!
+
+
+NOVOS GRITOS DE ANÃO
+----------------------------
+BISMOR, BISMOR, BISMOR! Adição de uma boa quantidade de gritos novos, bem como alguns gritos notórios de Ponteiro Laser que faltavam!
+
+
+EXTERIOR DA ESTAÇÃO ESPACIAL
+----------------------------
+Você sabia que o Compartimento de Lançamento é apenas uma fração pequena da infraestrutura da Estação Espacial?
+
+
+MANUAL DO MINERADOR
+----------------------------
+Missões, Recursos de Criação, Tipos de Dano, Modificações de Armas… Há tantos sistemas no DRG! Pode ser muito exaustivo num primeiro momento. Coletamos o máximo de informações que pudemos e criamos uma tonelada de novos infográficos para fazer um guia. Esperamos que isso o ajude durante as primeiras horas do jogo. Pode até haver alguns detalhes que os mineradores veteranos desconheçam.
+
+Temos a intenção de continuar a expansão do Manual do Minerador com novas entradas e capítulos nas futuras atualizações.
+
+
+TUTORIAL MELHORADO
+----------------------------
+Minerar é bem mais divertido quando você conhece as noções básicas. Agora existe um Tutorial novo e mais sucinto com instruções e tarefas claras. Vamos deixar os Barbaverdes em forma o quanto antes. A Gerência quer ver os minérios entrando a todo vapor!
+
+
+REVISÃO DO MENU DE FUGA 
+----------------------------
+Ao incluir o Manual do Minerador, resolvemos refazer completamente o Menu de Fuga. A aba principal é o Estado, no qual pode ver todas as informações sobre sua Missão, Equipamento e Equipe atuais. Muitos dos itens conectam diretamente ao Manual do Minerador. Portanto, você pode aprender mais sobre a Mutação de Aviso da Missão atual com apenas um clique.
+
+
+ÍCONES DE COSMÉTICOS
+----------------------------
+Todos os itens de cosméticos, tanto da Loja como da Forja, possuem pré-visualizações de ícones próprios! Eles são perfeitos para ordenamento rápido e para evitar “adivinhar o resultado da forja”, mas, o mais importante, eles são bonitos.
+
+
+PINTURAS DE ARMADURA [COMMUNITY REQUEST]
+----------------------------
+Todos os Conjuntos de Armaduras receberam a mesma divisão entre Estruturas e Pinturas que as armas tiveram recentemente. Várias Pinturas de Armaduras novas podem ser descobertas nos Encontros com as Mochilas Perdidas, e mais estão a caminho. 
+
+
+BALANCEAMENTO DE ARMAS
+----------------------------
+CANHÃO AUTOMÁTICO PESADO "THUNDERHEAD"
+- Uma porcentagem do bônus de alcance em área do OC Bombardeiro de Saturação passou para a Arma Base e para a Modificação Munição de Estilhaço.
+- Uma porcentagem do bônus de dano em área do OC Bombardeiro de Saturação passou para a Arma Base.
+- Adição de um bônus de precisão ao OC Grande Berta.
+- Remoção da penalidade de cadência de tiro inicial do OC Grande Berta. Agora, apenas a cadência de tiro máxima é afetada.
+- Redução da penalidade de dano direto do OC Ogiva Neurotóxica.
+- Aumento leve do bônus de RD da Resistência a Dano da Modificação Cadência de Tiro Máxima.
+
+AUTO 210 "WARTHOG”
+- Uma porcentagem do bônus de dano da Modificação Projéteis Maiores passou para a Arma Base.
+- Aumento da cadência base de tiro.
+- Redução do bônus da cadência de tiro da Modificação Ajustes de Minerador.
+- Aumento do bônus da Modificação Mecanismo de Alimentação Sobrecarregado.
+- Remoção da Modificação Atordoamento Melhorado e aumento da duração base de um atordoamento de ponto fraco.
+- Correção da exibição da chance de atordoamento para ser mais clara que a chance é calculada para cada bala que atingir o alvo.
+- O OC Miniprojéteis não pode mais atordoar alvos.
+- Correção do desalinhamento da mira.
+- Correção do OC Sobrecarga de Ciclo não afetar a propagação da arma como planejado.
+- Redução da penalidade de propagação do OC Sobrecarga de Ciclo.
+
+SUBMETRALHADORA VOLTAICA "STUBBY"
+- Redução do recuo, principalmente o horizontal, logo, é mais fácil contrabalancear manualmente.
+- Redução grande da propagação máxima de tiro.
+- Aumento da precisão base.
+- Aumento do dano base.
+- Todos os tipos de dano base viraram um só.
+- Aumento da chance base de eletrocussão.
+
+Ajustes nas Modificações
+- Substituição da Modificação Cano Flutuante pela Modificação Redução de Recuo.
+- Melhoria do bônus da Modificação Capacitadores Melhorados.
+- Remoção da Modificação Capacitadores Maiores.
+- A Modificação Balas Condutoras passou para o Nível 4.
+- Remoção da Modificação Munição Sobrecarregada, e adição de uma porcentagem de seu bônus à Arma Base.
+
+PISTOLA DE RAJADA BRT7
+- Aumento do dano base.
+- Redução da munição base.
+- Redução do valor base da quebra de armadura.
+- Redução do recuo base.
+- Redução da propagação máxima.
+- Aumento do tamanho base do pente.
+
+Ajustes nas Modificações
+- Aumento do bônus de dano da Modificação Munição de Alta Velocidade.
+- Remoção da Modificação Dano de Explosão.
+- Aumento da duração do atordoamento da Modificação Explosão Atordoante.
+- Trocou-se a posição das Modificações Cano Flutuante e Segurança Desabilitada.
+- Aumento do bônus da Modificação Ejetor de Fogo Rápido.
+
+Ajustes no Overclock
+- Aumento do bônus de dano do OC Munição Experimental para combinar com os novos números de dano de arma e de munição.
+
+CANHÃO CRIOGÊNICO
+- Redução do tempo base de carregamento.
+- Aumento do tempo do disparo.
+- Aumento do alcance base efetivo.
+- Aumento da velocidade em que o spray chega ao seu alcance efetivo.
+- Aumento do poder base congelante.
+- Aumento do dano base.
+- Aumento do tamanho base da câmara de pressão.
+- Redução do atraso base da despressurização.
+- Correção da exibição dos valores trocados do dano da arma e do poder congelante.
+
+Ajustes nas Mecânicas de Congelamento
+- O Filhote Mactera congela um pouco mais rápido.
+- Os inimigos movem-se mais devagar à medida que esfriam.
+
+Ajustes nas Modificações
+- As modificações Câmara de Pressão Maior e Pressão Aumentada da Câmara foram combinadas.
+- Melhoria do valor da Modificação Bomba de 2º Estágio e renomeação para Giro Acelerado da Turbina.
+- Aumento do valor da Modificação Verificação de Integridade Ignorada para que agora remova completamente o atraso de repressurização.
+- Aumento do valor da Turbina de Ejeção com Overclock.
+- A Modificação Bomba Rápida de 1º Estágio foi renomeada para Câmara de Pressão de Preenchimento Rápido.
+- Redução do valor da Modificação Solução Melhorada e renomeação para Solução de Super-resfriamenteo.
+- A Modificação Alto Teor de Água foi renomeada para Solução Sólida.
+- Aumento do poder da Modificação Esplendor Gelado.
+
+Ajustes no Overclock
+- Adição de um bônus de taxa de fluxo ao OC Fluxo.
+- Aumento do dano do OC Lança de Gelo. Ele agora inflige o mesmo dano, não dependendo mais da pressão.
+- Aumento do custo de munição do OC Lança de Gelo. Agora ele sempre consome a mesma quantidade, e você sempre pode dispará-lo desde que tenha munição e que a arma não esteja se repressurizando.
+- Ajuste no custo de munição e de dano do OC Lança de Gelo.
+- Aumento do bônus de dano e redução da penalidade de queda de pressão no OC Tempestade de Gelo.
+- Remoção do bônus de cadência de tiro do OC Tempestade de Gelo.
+- Adição de penalidade de munição ao OC Tempestade de Gelo.
+- Aumento do poder congelante e do raio do OC Bola de Neve, assim como a Lança de Gelo, o dano agora é constante.
+- Redução do custo de munição do OC Bola de Neve, assim como a Lança de Gelo, o custo permanece constante.
+- Aumento da penalidade de munição do OC Bola de Neve.
+
+ABRE-FENDAS
+- Aumento da largura base do feixe de plasma.
+- Aumento do dano base.
+- Mudança da exibição do dano nas informações para um valor de DPS.
+- Redução da velocidade linear.
+- Aumento do tempo de vida da linha de plasma.
+- Redução da cadência de tiro.
+- Aumento do tamanho base do carregador.
+- Aumento da "caixa de acerto" (hitbox) do feixe de plasma para ser mais tolerante com disparos precipitados.
+
+Ajustes nas Modificações
+- Aumento dos valores da Modificação Coesão de Nó Enfraquecida.
+- Aumento do valor da Modificação Geração de Poder Prolongado.
+- Remoção de uma das Modificações de dano e aumento do valor da remanescente.
+- Adição de uma Modificação para aumentar a duração do atordoamento.
+- Remoção de uma das Modificações de tamanho do carregador.
+- Remoção de uma das Modificações de Cilindro de Munição Expandido e aumento do valor da remanescente.
+- Melhoria do efeito da Modificação Posicionamento Rápido. Agora ela afeta tanto a velocidade de posicionamento quanto seu atraso.
+- Mudança da linha bipartida para uma linha tripartida que abrange uma área maior acima e abaixo do disparo inicial.
+- As Modificações Feixe Único e Explosão de Despedida foram combinadas para que ao tentar disparar um novo feixe de laser enquanto existir outro, o feixe antigo detonará, e você não disparará um novo de sua arma. Redução do dano da explosão, mas agora ela deixa um campo de plasma residual que continua infligindo dano aos inimigos ao longo do tempo.
+- Adição da Modificação Rastro de Plasma que deixa um rastro de plasma residual infligindo dano ao longo do tempo.
+- Reorganização de muitas Modificações.
+- ATENÇÃO: Quem possuía as Modificações removidas terá os Minerais e Créditos reembolsados.
+
+Ajustes no Overclock
+- O Pião (Yaw Man) tornou-se um OC Instável e agora é chamado de Morte Giratória. O feixe gira enquanto se move lentamente para frente, infligindo um grande dano ao longo do tempo na área percorrida.
+- O Controle de Rotação não girará o feixe se você clicar para disparar, apenas se segurar ao disparar. Soltando o botão de tiro após o projétil começar a girar também interrompe a rotação.
+- O Devolver ao Remetente não possui mais penalidade de dano.
+- O Inferno agora incendeia a maior parte dos inimigos em um disparo e não mais reduz sua cadência de tiro.
+- O Crossover de Alta Tensão é um OC Estável e não mais possui penalidade de dano.
+
+LANÇA-GRANADAS DEEPCORE 40 MM
+- Melhoria da reação da Modificação Gatilho de Proximidade e correção da descrição que citava um bônus de dano baseado em uma mecânica de tempo que não estava sendo usada.
+
+MINIGUN TEMPESTADE DE CHUMBO
+- Melhoria do quão rápido o OC Inferno Escaldante incendeia os alvos.
+- O OC Tempestade de Chumbo agora remove a habilidade atordoante da Minigun e possui uma menor.
+- Redução leve do bônus de dano no OC Tempestade de Chumbo.
+
+OUTROS AJUSTES DE ARMAS
+- O efeito de Plasma Persistente sempre eliminará Invasores que o atravessem. Isso afeta tanto o CPE quanto o Abre-Fendas.
+- Redução do raio de alcance da Lata de Feromônio e do número de inimigos que um alvo afetado por feromônios pode atrair.
+
+
+DIVERSOS
+----------------------------
+- Adição de uma nova animação de morte em primeira pessoa.
+- Adição de um novo ataque ao Opressor Glifídio.
+- Adição de novas animações dos equipamentos ao Terminal de Equipamento.
+- Adição de um novo visual ao Terminal de Acessórios, que foi renomeado para A Loja.
+- Adição de um novo visual ao Terminal de Comércio de Minerais.
+- Adição de bloqueadores de caminho abaixo das plataformas da Perfuratriz no Ponto de Extração para impedir inimigos de chegarem lá.
+- Revisão das Dicas de Tutorial.
+- Armas que infligem dano de fogo agora podem incendiar nuvens de gás.
+- A vantagem Botas Flutuantes agora emite partículas que queimarão criaturas azaradas o suficiente para estarem logo abaixo de você quando ativá-la.
+- A Arma de Gancho foi renomeada para Gancho.
+- O Lançador de Tirolesas foi renomeado para Lançadora de Tirolesa.
+- As Cápsulas de Reabastecimento agora precisam cair a uma certa distância antes de começarem a infligir dano ao aterrissarem.
+- Melhoria de várias animações de corrida.
+- Melhoria das conquistas de promoção para torná-las retroativas quando entrar na Estação Espacial com um anão promovido. Não precisa promover novamente!
+- Melhoria do som da vantagem Corrida.
+- Melhoria da lógica da vantagem Nasci Pronto ao ser ativado por jogadores clientes.
+- Melhoria da lógica de surgimento de Eventos de Máquina para impedir o desaparecimento de Carregadores de Núcleo.
+- Correção de diversos erros relacionados ao campo de visão, incluindo o do Zhukov NUK17.
+- Correção do erro na conquista referente às Metas.
+- Correção do erro no efeito sonoro do Machado de Impacto apenas ser tocado para o jogador anfitrião.
+- Correção do erro que fazia jogadores clientes não se verem congelados quando estavam congelados.
+- Correção do erro que às vezes causava sons de passos duplos em primeira pessoa.
+- Correção do erro que impedia certos efeitos de estado de serem exibidos corretamente nos Insetos-espólios.
+- Correção do erro que fazia o Escâner de Terreno ficar travado na tela.
+- Correção do erro que impedia a execução da animação de cumprimento na terceira pessoa ao correr.
+- Correção do erro que fazia Coletores de Silicato andarem nas paredes.
+- Correção do erro que fazia a contagem da Vontade de Ferro ser exibida antes da hora.
+- Correção do erro que fazia a luz da modificação Gatilho de Proximidade para o Lança-Granadas DeepCore 40 mm permanecer por um tempo após o projétil ser destruído.
+- Correção do erro que impedia Sentidos Aguçados de funcionar após você ser agarrado por um inimigo.
+- Correção do erro em que projéteis podiam empurrar o jogador por um breve momento. Isso era facilmente perceptível ao olhar para baixo e atirar.
+- Correção do erro que impedia as barras de vida do inimigo indicarem corretamente acertos de pontos fracos para jogadores clientes.
+- Correção do erro que fazia as Torretas LMG com Modificação Sistema Olho de Falcão atirar sem parar em inimigos marcados que já estavam abatidos.
+- Correção do erro que fazia algumas armas se deslocarem ao cumprimentar com armas específicas.
+- Correção do erro que causava o menu de Seleção de Ícone de Equipamento permanecer aberto depois de fechar o Terminal.
+- Correção do erro que impedia o funcionamento correto dos visuais do Bosco em missões.
+- Correção do erro que permitia dois jogadores domesticarem o mesmo Glifídio, algumas vezes, removendo sua textura.
+- Correção do erro da conquista Marco Tecnológico para que não ative antes da hora ao possuir todos os itens aprimorados completamente com exceção da armadura.
+- Correção do erro ao usar ambas as modificações Pontas de Broca Endurecidas e Motor Sobrecarregado nas Brocas Elétricas Reforçadas.
+- Correção do erro que fazia o reservatório do Lança-chamas CRSPR mudar de cor ao recarregar com alguma Estrutura de Arma.
+- Correção do erro com Gêiseres de Ar que fazia os jogadores cliente tremerem ao serem empurrados por eles.
+- Correção do erro que fazia o Bosco atacar de forma insensata a Cápsula de Fuga caso você a marcasse com o Ponteiro Laser. Bosco bobo.
+- Correção do erro que fazia com que os Filhotes Mactera parecessem em posição de ataque ao fugirem.
 "
 	Update_32 = "E aí, Casca-grossa!
 
@@ -1932,6 +2466,478 @@ CONSERTOS
  - queda framerate fixo ao apontar o ponteiro laser em túneis glifos e minerais incorporados.
  - Inimigos não devem mais continuar fazendo sons depois que estiverem mortos. Faz sentido, realmente...
  - Mactera Spawn e Grabber não deve mais ficar preso fora do Navmesh depois de correr.
+"
+	Update_34 = "Olá, Mineradores!
+Estamos de volta com uma atualização modesta! O trabalho continua em bom ritmo para cumprir as metas de longo prazo incluídas na próxima Atualização 35, mas queremos amenizar um pouco o longo tempo de espera com a Atualização 34. Adicionamos a possibilidade de Avisos duplos em missões, mais dois novíssimos Avisos, um montão de ajustes de armas e muito mais para te manter ocupado. Chegou a hora de voltar às profundezas de Hoxxes e encarar novos perigos!
+
+Com os melhores cumprimentos,
+Equipe Ghost Ship
+
+--- NOTAS DE ATUALIZAÇÃO ---
+
+AVISOS DUPLOS — DIVERSÃO EM DOBRO
+----------------------------
+A Gerência designou um comitê de inovação que tentou responder a esta pergunta: ‘Quais propostas novas e únicas podemos trazer para aumentar o lucro da empresa?’ Depois de muitas sessões de brainstorming, workshops e encontros informais, eles finalmente encontraram a resposta: missões com dois avisos em vez de um!
+
+Reúna uma equipe de colegas mineradores e experimente este desafio extremo. Prove que você é o minerador mais destemido e que você tira de letra missões comuns de Avisos Únicos. Rock and Stone!
+Atenção: as missões com avisos duplos foram consideradas tão desafiadoras que não estarão nas Escavações Profundas nem nas Tarefas.
+
+AVISOS NOVOS
+----------------------------
+Novos perigos foram descobertos nas cavernas! 
+
+AMEAÇA DE NÍVEL ELITE
+As missões com esse Aviso terão inimigos de elite. Eles são mais fortes, rápidos e bem mais perigosos que suas versões já conhecidas e adoradas. 
+
+ENXAMOCALIPSE
+Um tsunami de invasores o espera nas minas. Traga bastante pesticida e munição! 
+
+
+MAPEAMENTO DE CONTROLE
+----------------------------
+Está frustrado com os mapeamentos atuais do controle? Sente que seu desempenho na mineração poderia ser aprimorado se apenas pudesse designar as ações para botões diferentes? Você quer uma melhor experiência de controle? Temos excelentes notícias para você! Com a nova opção de vincular ações em seu controle, você finalmente pode ter aquela configuração única que é a sua cara.
+
+
+RASTREAMENTO MELHORADO DE BALA
+----------------------------
+A forma como tratamos os tiros em relação ao uso de dados da rede foi otimizada de maneira notável. O resultado deve ser uma resposta mais instantânea ao disparar projéteis. E esses agora usam bem menos largura de banda!
+
+
+PERFIS DE JOGO SALVO
+----------------------------
+Agora você tem a opção de gerenciar diferentes perfis de jogo salvo caso esteja jogando com modificações (ou por qualquer outra razão). Assim, você pode ter um jogo separado apenas para zoar. Este recurso foi originalmente pensado como parte de uma grande resposta ao suporte de modificação, mas decidimos atrasá-la e lançá-la separadamente desta atualização. Planejaremos uma solução mais abrangente e aprimorada para permitir modificações no jogo principal. Revelaremos mais detalhes à medida que o projeto avança. Fiquem ligados!
+
+
+AJUSTES DE ARMAS
+----------------------------
+Os rapazes da P&D estiveram trabalhando arduamente para melhorar o equilíbrio das armas, dos overclocks e das modificações. Aqui estão as mudanças:
+
+Pistola de Rajada BRT7
+- Aumento do dano da arma base.
+- Uma porcentagem do bônus da modificação Segurança Desabilitada passou para a arma base.
+- Redução leve do bônus da modificação Segurança Desabilitada.
+- Redução da penalidade de munição do OC Munição Experimental.
+- Mudança da penalidade de dano do OC Microflechas de porcentagem para valor fixo.
+
+OC Miniminas Elétricas BRT7
+- Aumento considerável da duração da eletrocussão.
+- Redução da penalidade de dano.
+- Aumento da penalidade do carregador.
+- Aumento do tempo de vida da minimina.
+
+Revólver Pesado “Bulldog”
+- Uma porcentagem do bônus de dano da modificação Munição de Calibre Aumentado passou para a arma base 5.
+- Uma porcentagem do bônus de dano da modificação Munição de Alta Velocidade passou para a arma base 5.
+- Uma porcentagem do bônus da modificação Balas de Ponta Oca passou para a arma base 0,15.
+- Aumento grande da chance de ativação do OC Acerto em Cadeia.
+- Redução considerável da penalidade de dano do OC Balas Voláteis.
+- Redução do bônus de munição do OC Hexadisparo.
+- Redução do bônus de cadência de tiro do OC Hexadisparo.
+- Aumento do bônus máximo possível de dano do OC Pólvora Caseira.
+- Redução do dano mínimo possível do OC Pólvora Caseira.
+- Mudança da classificação do OC Pólvora Caseira de Regular para Estável.
+- Redução leve da penalidade de munição do OC Calibre Grande.
+
+M1000 Clássica
+- Aumento do dano base da arma.
+- Redução do bônus base de dano de ponto fraco.
+- Redução do bônus da modificação Balas de Ponta Oca.
+- Uma porcentagem do bônus da modificação Bobinas de Carregamento Rápido passou para a arma base.
+- A modificação Balas Endurecidas foi movida do Nível 4 para o Nível 2.
+- Aumento do alcance e do poder da modificação Medo Focado.
+- Mudança do bônus de munição do OC Pentes Minúsculos para um bônus de porcentagem do tamanho do pente.
+- Redução leve das penalidades de munição e de velocidade de carregamento do OC Câmara de Super-resfriamento.
+- Mudança da penalidade de dano do OC Hipster de um valor em porcentagem para um valor fixo para permitir um equipamento de alto dano atingir certos limites e aumentar levemente o bônus de munição.
+- Ajuste da mira para ajudar com os disparos precisos e próximos sem mirar.
+
+Deepcore GK2
+- Redução da penalidade de dano do OC Recarga Eletrizante e aumento considerável da duração do efeito de eletrocussão.
+- Redução da penalidade de recuo do OC Mecanismo de Disparo com Overclock.
+- Aumento leve da munição base.
+
+Carregador de Plasma Experimental
+- Reordenação de algumas modificações para fornecer escolhas mais interessantes.
+- A modificação Onda de Choque Reativa foi movida para o Nível 4.
+- A modificação Raio do Plasma Expandido foi movida para o Nível 4.
+- A modificação Escudo de Calor foi movida para o Nível 2.
+- Melhoria leve da recuperação do recuo (a pedido da comunidade, você sabe de quem estamos falando).
+- Redução substancial do calor gerado ao atirar projéteis carregados da arma base.
+- Redução leve da velocidade base de carregamento.
+- Organizamos a lista dos atributos de arma no terminal de equipamento.
+- Adição de um bônus de dano, e aumento da penalidade no raio de efeito do Pesadelo Voador.
+- O OC Duto Térmico agora impõe penalidade ao calor gerado por tiro carregado em vez de por tiros normais.
+- Redução da penalidade da munição do tiro carregado do OC Sobrecarga, e mudança do valor de porcentagem para um fixo.
+- Redução da penalidade de dano do OC Plasma Persistente, aumento do dano infligido pelo campo de plasma e adição de um efeito leve de lentidão ao campo.
+
+Abre-Fendas
+- Aumento do bônus de velocidade da modificação Ejetor de Cartucho Aprimorado.
+- Aumento do dano infligido pelo campo de plasma da modificação Adeus Explosivo, e adição de um efeito de lentidão a qualquer inimigo atingido pelo campo.
+- Remoção da penalidade de munição do OC Inferno.
+- Redução da penalidade de dano do OC Morte Giratória.
+
+Submetralhadora Voltaica "Stubby"
+- Redução leve do recuo base.
+
+OC Arco "Stubby" de Torreta
+- Aumento da distância máxima permitida entre as torretas para o arco se conectar.
+- Aumento do dano do arco.
+- Aumento do efeito de lentidão do arco.
+- Aumento da duração do arco.
+- Aumento da área efetiva de eletrocussão de uma torreta carregada eletricamente.
+- O Arco de Torreta agora inflige um dano bem menor de Fogo Amigo (FA) e não causa mais lentidão aos jogadores.
+
+OC Descarga "Stubby" EM
+- Aumento do dano da descarga.
+- Aumento do alcance do dano mínimo.
+- Redução considerável do dano de fogo amigo.
+- Redução da penalidade de dano.
+- Mudança da penalidade da chance de eletrocussão para a penalidade do tamanho menor do carregador.
+
+Subata 120
+- Aumento do bônus de propagação por tiro da modificação Compensador de Recuo.
+- Redução da penalidade de Cadência de Tiro do OC Dardos Tranquilizantes.
+- Aumento da chance de ativação do OC Acerto em Cadeia.
+
+Zhukov NUK17
+- Adição de um bônus de dano de ponto fraco à arma base.
+- Uma certa quantia do bônus de munição da modificação Cilindro de Munição Expandido de Nível 4 foi movida para a arma base.
+- Redução leve da propagação base.
+- Aumento da redução de propagação da modificação Melhor Equilíbrio de Peso.
+- Mudança da penalidade de dano do OC Cartuchos Personalizados para uma penalidade de Cadência de Tiro (CdT).
+- Aumento da chance de criar uma minimina criogênica com o OC Miniminas Criogênicas, e redução leve do sistema de partículas. Isso deve ajudar tanto no desempenho quanto na visibilidade
+
+Escopeta de Cano Serrado
+- Melhoria da modificação Atordoar de Nível 3 para aumentar ainda mais a chance de atordoar e sua duração.
+- Correção dos atributos não exibirem a chance de atordoar como um valor “por bala”.
+- Redução da penalidade do OC Balas Moldadas, e aumento do bônus de precisão.
+
+Canhão Criogênico
+- Aumento leve do bônus da modificação Bomba Melhorada.
+- O OC Resfriador Perfeitamente Ajustado virou estável, portanto, adquiriu penalidades leves de Tempo de Recarga e de Recuperação de Pressão. Além disso, ele foi renomeado para “Refrigerador Calibrado”.
+- O OC Tempestade de Gelo agora tem um bônus extra de dano contra alvos congelados, mas tem uma penalidade levemente maior na munição.
+
+Lança-chamas CRSPR
+- Aumento da chance da modificação “Queima!” causar medo.
+- Uma porcentagem do bônus de dano da modificação Combustível Não Filtrado passou para a arma base.
+- Adição de um bônus de munição e de uma penalidade leve na recarga do OC Válvulas Compactas de Alimentação.
+- Aumento dos bônus de dano e de CdT do OC Derretedor de Faces, substituição da penalidade de munição pela penalidade de alcance e da penalidade de velocidade de movimento pela penalidade de capacidade de tanque.
+
+Lança-Granadas DeepCore 40 mm
+- Aumento do alcance em que o dano mínimo começa e redução considerável da queda do dano máximo.
+- Aumento do bônus de dano da modificação Composto AE.
+- Redução do bônus de munição da modificação Cilindro de Munição Expandido de Nível 2.
+- A modificação Granadas de Alta Velocidade foi movida do Nível 2 ao 3.
+- Adição de um pequeno bônus de alcance da explosão à modificação Gatilho de Proximidade.
+- Aumento da penalidade do dano do OC Composto RJ250, e adição de um bônus de velocidade alta de recarga e de um grande bônus de porcentagem de munição.
+- Aumento do bônus de munição do OC Projéteis Compactos.
+
+Minigun Energizada "Tempestade de Chumbo”
+- Redução do efeito refrigerador da modificação Frio como a Sepultura.
+- A modificação Escape Agressivo agora reduz consideravelmente o tempo que leva para se recuperar de um superaquecimento.
+- Uma porcentagem do bônus da modificação Estabilidade Melhorada da Plataforma passou para a arma base.
+- A modificação Refrigeração Magnética agora também reduz consideravelmente o atraso antes do resfriamento começar.
+- Correção do erro em que não acontecia o pequeno atraso entre atirar e resfriar.
+- Redução da chance base de atordoamento.
+- Adição de um bônus de chance de atordoamento e aumento da duração do efeito da modificação Duração de Atordoamento que foi renomeada para “Atordoamento Melhorado”.
+- Redução do tempo base de rebobinar, e aumento do bônus da modificação Rolamentos Magnéticos. Além disso, essa modificação agora afeta quanto tempo a arma se mantém precisa como planejado.
+- Aumento considerável da chance de ricochetear e ampliação leve da distância máxima do ricochete para o OC Inferno de Balas.
+- O OC Tempestade de Chumbo não impede mais o atordoamento, ele apenas reduz sua viabilidade para que a modificação Atordoamento Melhorado possa realmente funcionar.
+
+Canhão Automático "Thunderhead"
+- Redução do bônus de dano da modificação Loop de Realimentação.
+- Aumento do bônus de CdT da modificação Sistema de Gás Melhorado.
+- Uma porcentagem do bônus da modificação Montagem Rápida de Cano passou para a arma base.
+- Aumento da penalidade de dano direto, e redução leve do bônus de raio efetivo do OC Bombardeiro de Saturação.
+- O OC Ogiva Neurotóxica teve redução leve das penalidades de dano direto e de dano em área, aumento do raio efetivo e aumento da chance de aplicar efeito tóxico.
+- Substituição do bônus de velocidade de recarregamento por “velocidade do aumento da cadência de tiro” no OC Mobilidade de Combate.
+
+Espingarda Auto 210 "Warthog"
+- Redução do bônus da modificação Carregador de Alta Capacidade.
+- Aumento bem leve do bônus da modificação Cilindro de Munição Expandido.
+
+Modificação do Chicote da Torreta "Warthog"
+- Redução do custo de munição ao ativar o efeito.
+- Aumento da velocidade do projétil.
+- Aumento do dano.
+- Aumento do raio do dano.
+
+- Redução bem leve do bônus de munição do OC Miniprojéteis.
+- Redução do bônus de munição do OC Pentes Leves.
+
+Granada AE do Escavador
+- Aumento do dano.
+- Redução do dano mínimo.
+- Expansão pequena da área de dano máximo.
+- Aumento do número de granadas.
+
+
+DIVERSOS
+----------------------------
+- Correção dos erros fatais do tipo "Pathfinder".
+- Correção do erro fatal ao ingressar num jogo.
+- Correção do Terminal de Promoção não exibir sempre o personagem selecionado.
+- Correção do problema do terminal do Bosco não fechar corretamente ao usar o atalho do controle.
+- Correção da Cápsula de Fuga aterrissar bem próximo dos Eventos de Máquina e impedir o término da missão.
+- Correção de ser incapaz de desbloquear Vantagens ao pressionar E.
+- Correção do erro em que você podia cancelar o processo de ingressar, mesmo que originalmente não pudesse.
+- Correção de alguns túneis não se conectarem devidamente à próxima caverna.
+- Correção do reservatório escoltado de óleo se deslocar ao início da missão quando um jogador cliente com má conexão de rede o pegava.
+- Correção do erro que você podia conseguir itens extras de objetivo secundário com avisos específicos (Falha no Escudo).
+- Tentativa de corrigir sementes grudentas em 0,0,0.
+- Tentativa de corrigir o problema de entrada tardia relacionado ao Bosco carregando gemas.
+- Toneladas de ajustes menores da IU nas fontes, no espaçamento e no estilo.
+- Ajustes na malha da Estação Espacial.
+- Ajustes na mixagem sonora do Guarda-roupa.
+- Melhoria no posicionamento dos poços nas Missões de Refinamento. Menos chance de errar ao colocar um poço.
+- Redução do aumento exagerado de requisitos de reabastecimento proporcional ao número de jogadores em Missões de Escolta.
+- Aumento do DPS médio do fogo e agora ele é um pouco mais constante.
+- Redução leve do quão rápido um jogador pode mudar de direção em cima da tirolesa.
+- Aumento do ângulo base da tirolesa e do bônus da modificação Articulação de Conexão Melhorada.
+- As granadas do Lança-Granadas e os projéteis do Canhão de Plataformas agora acompanham a velocidade do personagem, facilitando o uso ao cair ou ao mover com grande velocidade.
+- Os inimigos terrestres que podem disparar projéteis serão mais propícios a alvejar alvos em tirolesas.
+- A grama agora se move quando os anões a atravessam.
+- O DX12 está ativado por padrão. Se tiver problemas ao rodar o DX12, você ainda pode mudá-lo para o DX11.
+- Simplificação de uma grande quantidade de strings para tradução.
+- Correção dos problemas da IU no menu de pedidos do bar, e adição da IU Descongelar ao HUD quando congelado pela cerveja Wormhole Special.
+- Os minerais extraídos por explosões agora recebem um momento proporcional à força aplicada a eles para que não apenas caiam verticalmente.
+- Fique por dentro das novidades com a novíssima barra de agregador de notícias adicionada ao Comércio de Minerais.
+- A Barra de Vida do Steeve agora também exibe o nome do jogador do Mestre das Feras.
+"
+	Update_34_Xbox = "Olá, Mineradores!
+Estamos de volta com uma atualização modesta! O trabalho continua em bom ritmo para cumprir as metas de longo prazo incluídas na próxima Atualização 35, mas queremos amenizar um pouco o longo tempo de espera com a Atualização 34. Adicionamos a possibilidade de Avisos duplos em missões, mais dois novíssimos Avisos, um montão de ajustes de armas e muito mais para te manter ocupado. Chegou a hora de voltar às profundezas de Hoxxes e encarar novos perigos!
+
+Com os melhores cumprimentos,
+Equipe Ghost Ship
+
+--- NOTAS DE ATUALIZAÇÃO ---
+
+AVISOS DUPLOS — DIVERSÃO EM DOBRO
+----------------------------
+A Gerência designou um comitê de inovação que tentou responder a esta pergunta: ‘Quais propostas novas e únicas podemos trazer para aumentar o lucro da empresa?’ Depois de muitas sessões de brainstorming, workshops e encontros informais, eles finalmente encontraram a resposta: missões com dois avisos em vez de um!
+
+Reúna uma equipe de colegas mineradores e experimente este desafio extremo. Prove que você é o minerador mais destemido e que você tira de letra missões comuns de Avisos Únicos. Rock and Stone!
+Atenção: as missões com avisos duplos foram consideradas tão desafiadoras que não estarão nas Escavações Profundas nem nas Tarefas.
+
+AVISOS NOVOS
+----------------------------
+Novos perigos foram descobertos nas cavernas! 
+
+AMEAÇA DE NÍVEL ELITE
+As missões com esse Aviso terão inimigos de elite. Eles são mais fortes, rápidos e bem mais perigosos que suas versões já conhecidas e adoradas. 
+
+ENXAMOCALIPSE
+Um tsunami de invasores o espera nas minas. Traga bastante pesticida e munição! 
+
+
+MAPEAMENTO DE CONTROLE
+----------------------------
+Está frustrado com os mapeamentos atuais do controle? Sente que seu desempenho na mineração poderia ser aprimorado se apenas pudesse designar as ações para botões diferentes? Você quer uma melhor experiência de controle? Temos excelentes notícias para você! Com a nova opção de vincular ações em seu controle, você finalmente pode ter aquela configuração única que é a sua cara.
+
+
+RASTREAMENTO MELHORADO DE BALA
+----------------------------
+A forma como tratamos os tiros em relação ao uso de dados da rede foi otimizada de maneira notável. O resultado deve ser uma resposta mais instantânea ao disparar projéteis. E esses agora usam bem menos largura de banda!
+
+
+PERFIS DE JOGO SALVO
+----------------------------
+Agora você tem a opção de gerenciar diferentes perfis de jogo salvo caso esteja jogando com modificações (ou por qualquer outra razão). Assim, você pode ter um jogo separado apenas para zoar. Este recurso foi originalmente pensado como parte de uma grande resposta ao suporte de modificação, mas decidimos atrasá-la e lançá-la separadamente desta atualização. Planejaremos uma solução mais abrangente e aprimorada para permitir modificações no jogo principal. Revelaremos mais detalhes à medida que o projeto avança. Fiquem ligados!
+
+
+AJUSTES DE ARMAS
+----------------------------
+Os rapazes da P&D estiveram trabalhando arduamente para melhorar o equilíbrio das armas, dos overclocks e das modificações. Aqui estão as mudanças:
+
+Pistola de Rajada BRT7
+- Aumento do dano da arma base.
+- Uma porcentagem do bônus da modificação Segurança Desabilitada passou para a arma base.
+- Redução leve do bônus da modificação Segurança Desabilitada.
+- Redução da penalidade de munição do OC Munição Experimental.
+- Mudança da penalidade de dano do OC Microflechas de porcentagem para valor fixo.
+
+OC Miniminas Elétricas BRT7
+- Aumento considerável da duração da eletrocussão.
+- Redução da penalidade de dano.
+- Aumento da penalidade do carregador.
+- Aumento do tempo de vida da minimina.
+
+Revólver Pesado “Bulldog”
+- Uma porcentagem do bônus de dano da modificação Munição de Calibre Aumentado passou para a arma base 5.
+- Uma porcentagem do bônus de dano da modificação Munição de Alta Velocidade passou para a arma base 5.
+- Uma porcentagem do bônus da modificação Balas de Ponta Oca passou para a arma base 0,15.
+- Aumento grande da chance de ativação do OC Acerto em Cadeia.
+- Redução considerável da penalidade de dano do OC Balas Voláteis.
+- Redução do bônus de munição do OC Hexadisparo.
+- Redução do bônus de cadência de tiro do OC Hexadisparo.
+- Aumento do bônus máximo possível de dano do OC Pólvora Caseira.
+- Redução do dano mínimo possível do OC Pólvora Caseira.
+- Mudança da classificação do OC Pólvora Caseira de Regular para Estável.
+- Redução leve da penalidade de munição do OC Calibre Grande.
+
+M1000 Clássica
+- Aumento do dano base da arma.
+- Redução do bônus base de dano de ponto fraco.
+- Redução do bônus da modificação Balas de Ponta Oca.
+- Uma porcentagem do bônus da modificação Bobinas de Carregamento Rápido passou para a arma base.
+- A modificação Balas Endurecidas foi movida do Nível 4 para o Nível 2.
+- Aumento do alcance e do poder da modificação Medo Focado.
+- Mudança do bônus de munição do OC Pentes Minúsculos para um bônus de porcentagem do tamanho do pente.
+- Redução leve das penalidades de munição e de velocidade de carregamento do OC Câmara de Super-resfriamento.
+- Mudança da penalidade de dano do OC Hipster de um valor em porcentagem para um valor fixo para permitir um equipamento de alto dano atingir certos limites e aumentar levemente o bônus de munição.
+- Ajuste da mira para ajudar com os disparos precisos e próximos sem mirar.
+
+Deepcore GK2
+- Redução da penalidade de dano do OC Recarga Eletrizante e aumento considerável da duração do efeito de eletrocussão.
+- Redução da penalidade de recuo do OC Mecanismo de Disparo com Overclock.
+- Aumento leve da munição base.
+
+Carregador de Plasma Experimental
+- Reordenação de algumas modificações para fornecer escolhas mais interessantes.
+- A modificação Onda de Choque Reativa foi movida para o Nível 4.
+- A modificação Raio do Plasma Expandido foi movida para o Nível 4.
+- A modificação Escudo de Calor foi movida para o Nível 2.
+- Melhoria leve da recuperação do recuo (a pedido da comunidade, você sabe de quem estamos falando).
+- Redução substancial do calor gerado ao atirar projéteis carregados da arma base.
+- Redução leve da velocidade base de carregamento.
+- Organizamos a lista dos atributos de arma no terminal de equipamento.
+- Adição de um bônus de dano, e aumento da penalidade no raio de efeito do Pesadelo Voador.
+- O OC Duto Térmico agora impõe penalidade ao calor gerado por tiro carregado em vez de por tiros normais.
+- Redução da penalidade da munição do tiro carregado do OC Sobrecarga, e mudança do valor de porcentagem para um fixo.
+- Redução da penalidade de dano do OC Plasma Persistente, aumento do dano infligido pelo campo de plasma e adição de um efeito leve de lentidão ao campo.
+
+Abre-Fendas
+- Aumento do bônus de velocidade da modificação Ejetor de Cartucho Aprimorado.
+- Aumento do dano infligido pelo campo de plasma da modificação Adeus Explosivo, e adição de um efeito de lentidão a qualquer inimigo atingido pelo campo.
+- Remoção da penalidade de munição do OC Inferno.
+- Redução da penalidade de dano do OC Morte Giratória.
+
+Submetralhadora Voltaica "Stubby"
+- Redução leve do recuo base.
+
+OC Arco "Stubby" de Torreta
+- Aumento da distância máxima permitida entre as torretas para o arco se conectar.
+- Aumento do dano do arco.
+- Aumento do efeito de lentidão do arco.
+- Aumento da duração do arco.
+- Aumento da área efetiva de eletrocussão de uma torreta carregada eletricamente.
+- O Arco de Torreta agora inflige um dano bem menor de Fogo Amigo (FA) e não causa mais lentidão aos jogadores.
+
+OC Descarga "Stubby" EM
+- Aumento do dano da descarga.
+- Aumento do alcance do dano mínimo.
+- Redução considerável do dano de fogo amigo.
+- Redução da penalidade de dano.
+- Mudança da penalidade da chance de eletrocussão para a penalidade do tamanho menor do carregador.
+
+Subata 120
+- Aumento do bônus de propagação por tiro da modificação Compensador de Recuo.
+- Redução da penalidade de Cadência de Tiro do OC Dardos Tranquilizantes.
+- Aumento da chance de ativação do OC Acerto em Cadeia.
+
+Zhukov NUK17
+- Adição de um bônus de dano de ponto fraco à arma base.
+- Uma certa quantia do bônus de munição da modificação Cilindro de Munição Expandido de Nível 4 foi movida para a arma base.
+- Redução leve da propagação base.
+- Aumento da redução de propagação da modificação Melhor Equilíbrio de Peso.
+- Mudança da penalidade de dano do OC Cartuchos Personalizados para uma penalidade de Cadência de Tiro (CdT).
+- Aumento da chance de criar uma minimina criogênica com o OC Miniminas Criogênicas, e redução leve do sistema de partículas. Isso deve ajudar tanto no desempenho quanto na visibilidade
+
+Escopeta de Cano Serrado
+- Melhoria da modificação Atordoar de Nível 3 para aumentar ainda mais a chance de atordoar e sua duração.
+- Correção dos atributos não exibirem a chance de atordoar como um valor “por bala”.
+- Redução da penalidade do OC Balas Moldadas, e aumento do bônus de precisão.
+
+Canhão Criogênico
+- Aumento leve do bônus da modificação Bomba Melhorada.
+- O OC Resfriador Perfeitamente Ajustado virou estável, portanto, adquiriu penalidades leves de Tempo de Recarga e de Recuperação de Pressão. Além disso, ele foi renomeado para “Refrigerador Calibrado”.
+- O OC Tempestade de Gelo agora tem um bônus extra de dano contra alvos congelados, mas tem uma penalidade levemente maior na munição.
+
+Lança-chamas CRSPR
+- Aumento da chance da modificação “Queima!” causar medo.
+- Uma porcentagem do bônus de dano da modificação Combustível Não Filtrado passou para a arma base.
+- Adição de um bônus de munição e de uma penalidade leve na recarga do OC Válvulas Compactas de Alimentação.
+- Aumento dos bônus de dano e de CdT do OC Derretedor de Faces, substituição da penalidade de munição pela penalidade de alcance e da penalidade de velocidade de movimento pela penalidade de capacidade de tanque.
+
+Lança-Granadas DeepCore 40 mm
+- Aumento do alcance em que o dano mínimo começa e redução considerável da queda do dano máximo.
+- Aumento do bônus de dano da modificação Composto AE.
+- Redução do bônus de munição da modificação Cilindro de Munição Expandido de Nível 2.
+- A modificação Granadas de Alta Velocidade foi movida do Nível 2 ao 3.
+- Adição de um pequeno bônus de alcance da explosão à modificação Gatilho de Proximidade.
+- Aumento da penalidade do dano do OC Composto RJ250, e adição de um bônus de velocidade alta de recarga e de um grande bônus de porcentagem de munição.
+- Aumento do bônus de munição do OC Projéteis Compactos.
+
+Minigun Energizada "Tempestade de Chumbo”
+- Redução do efeito refrigerador da modificação Frio como a Sepultura.
+- A modificação Escape Agressivo agora reduz consideravelmente o tempo que leva para se recuperar de um superaquecimento.
+- Uma porcentagem do bônus da modificação Estabilidade Melhorada da Plataforma passou para a arma base.
+- A modificação Refrigeração Magnética agora também reduz consideravelmente o atraso antes do resfriamento começar.
+- Correção do erro em que não acontecia o pequeno atraso entre atirar e resfriar.
+- Redução da chance base de atordoamento.
+- Adição de um bônus de chance de atordoamento e aumento da duração do efeito da modificação Duração de Atordoamento que foi renomeada para “Atordoamento Melhorado”.
+- Redução do tempo base de rebobinar, e aumento do bônus da modificação Rolamentos Magnéticos. Além disso, essa modificação agora afeta quanto tempo a arma se mantém precisa como planejado.
+- Aumento considerável da chance de ricochetear e ampliação leve da distância máxima do ricochete para o OC Inferno de Balas.
+- O OC Tempestade de Chumbo não impede mais o atordoamento, ele apenas reduz sua viabilidade para que a modificação Atordoamento Melhorado possa realmente funcionar.
+
+Canhão Automático "Thunderhead"
+- Redução do bônus de dano da modificação Loop de Realimentação.
+- Aumento do bônus de CdT da modificação Sistema de Gás Melhorado.
+- Uma porcentagem do bônus da modificação Montagem Rápida de Cano passou para a arma base.
+- Aumento da penalidade de dano direto, e redução leve do bônus de raio efetivo do OC Bombardeiro de Saturação.
+- O OC Ogiva Neurotóxica teve redução leve das penalidades de dano direto e de dano em área, aumento do raio efetivo e aumento da chance de aplicar efeito tóxico.
+- Substituição do bônus de velocidade de recarregamento por “velocidade do aumento da cadência de tiro” no OC Mobilidade de Combate.
+
+Espingarda Auto 210 "Warthog"
+- Redução do bônus da modificação Carregador de Alta Capacidade.
+- Aumento bem leve do bônus da modificação Cilindro de Munição Expandido.
+
+Modificação do Chicote da Torreta "Warthog"
+- Redução do custo de munição ao ativar o efeito.
+- Aumento da velocidade do projétil.
+- Aumento do dano.
+- Aumento do raio do dano.
+
+- Redução bem leve do bônus de munição do OC Miniprojéteis.
+- Redução do bônus de munição do OC Pentes Leves.
+
+Granada AE do Escavador
+- Aumento do dano.
+- Redução do dano mínimo.
+- Expansão pequena da área de dano máximo.
+- Aumento do número de granadas.
+
+
+DIVERSOS
+----------------------------
+- Correção dos erros fatais do tipo "Pathfinder".
+- Correção do erro fatal ao ingressar num jogo.
+- Correção do Terminal de Promoção não exibir sempre o personagem selecionado.
+- Correção do problema do terminal do Bosco não fechar corretamente ao usar o atalho do controle.
+- Correção da Cápsula de Fuga aterrissar bem próximo dos Eventos de Máquina e impedir o término da missão.
+- Correção de ser incapaz de desbloquear Vantagens ao pressionar E.
+- Correção do erro em que você podia cancelar o processo de ingressar, mesmo que originalmente não pudesse.
+- Correção de alguns túneis não se conectarem devidamente à próxima caverna.
+- Correção do reservatório escoltado de óleo se deslocar ao início da missão quando um jogador cliente com má conexão de rede o pegava.
+- Correção do erro que você podia conseguir itens extras de objetivo secundário com avisos específicos (Falha no Escudo).
+- Tentativa de corrigir sementes grudentas em 0,0,0.
+- Tentativa de corrigir o problema de entrada tardia relacionado ao Bosco carregando gemas.
+- Toneladas de ajustes menores da IU nas fontes, no espaçamento e no estilo.
+- Ajustes na malha da Estação Espacial.
+- Ajustes na mixagem sonora do Guarda-roupa.
+- Melhoria no posicionamento dos poços nas Missões de Refinamento. Menos chance de errar ao colocar um poço.
+- Redução do aumento exagerado de requisitos de reabastecimento proporcional ao número de jogadores em Missões de Escolta.
+- Aumento do DPS médio do fogo e agora ele é um pouco mais constante.
+- Redução leve do quão rápido um jogador pode mudar de direção em cima da tirolesa.
+- Aumento do ângulo base da tirolesa e do bônus da modificação Articulação de Conexão Melhorada.
+- As granadas do Lança-Granadas e os projéteis do Canhão de Plataformas agora acompanham a velocidade do personagem, facilitando o uso ao cair ou ao mover com grande velocidade.
+- Os inimigos terrestres que podem disparar projéteis serão mais propícios a alvejar alvos em tirolesas.
+- A grama agora se move quando os anões a atravessam.
+- O DX12 está ativado por padrão. Se tiver problemas ao rodar o DX12, você ainda pode mudá-lo para o DX11.
+- Simplificação de uma grande quantidade de strings para tradução.
+- Correção dos problemas da IU no menu de pedidos do bar, e adição da IU Descongelar ao HUD quando congelado pela cerveja Wormhole Special.
+- Os minerais extraídos por explosões agora recebem um momento proporcional à força aplicada a eles para que não apenas caiam verticalmente.
+- Fique por dentro das novidades com a novíssima barra de agregador de notícias adicionada ao Comércio de Minerais.
+- A Barra de Vida do Steeve agora também exibe o nome do jogador do Mestre das Feras.
 "
 	Update_12 = "Olá Mineradores!
 
@@ -2917,10 +3923,11 @@ MISC.
 	Update_13_ShortTitle = "PEQUENAS MUDANÇAS NA VIDA"
 	Update_34_Shorttitle = "EXPECTATIVAS MODESTAS"
 	Update_15_ShortTitle = "AVISO DE MUTAÇÃO!"
+	Update_34.5_Header = "Suporte para mods"
 	Update_34.5_ShortTitle = "Suporte para mods"
 	Update_33_Shorttitle = "NOVAS FRONTEIRAS"
 	Update_21.5_ShortTitle = "UM ANO EM ÓRBITA"
-	Update_32_Shorttitle = "VALENTÕES TRABALHANDO"
+	Update_32_Shorttitle = "VALENTÕES AO TRABALHO"
 	Update_29_ShortTitle = "O FIM DO COMEÇO"
 	Upadte_31_ShortTitle = "TÍTULO"
 	Update_10_ShortTitle = "VISÃO EM TÚNEL?"
@@ -3355,7 +4362,7 @@ CORREÇÕES E MELHORIAS
 	Update_28_Header = "ATUALIZAÇÃO 28: SENTINDO-SE HABILIDOSO"
 	Update_29_Header = "ATUALIZAÇÃO 29: O FIM DO COMEÇO"
 	Update_31_Header = "ATUALIZAÇÃO 31: O QUE FOI DEIXADO PRA TRÁS"
-	Update_32_Header = "ATUALIZAÇÃO 32: VALENTÕES TRABALHANDO"
+	Update_32_Header = "ATUALIZAÇÃO 32: VALENTÕES AO TRABALHO"
 	Update_33_Header = "ATUALIZAÇÃO 33: NOVAS FRONTEIRAS"
 	Update_33 = "ATUALIZAÇÃO 33: NOVAS FRONTEIRAS
 

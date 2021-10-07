@@ -1,8 +1,8 @@
-88 entries
+91 entries
 1 namespaces
-86 values
+88 values
 
-Namespace PatchNotes (88 keys)
+Namespace PatchNotes (91 keys)
 	Update_30_Header = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_30_ShortTitle = "LANZAMIENTO DE VERSIÓN 1.0"
 	Update_23 = "De acuerdo, mineros, ¡venid aquí y cerrad el pico unos minutos!
@@ -1630,6 +1630,203 @@ MISC.
 - Ahora, Control de Misión te anunciará cuando se esté realizando un recalibrado de la gravedad.
 - El anfitrión ahora saltará a la misma altura que el resto de jugadores (anteriormente, esta altura era menor).
 "
+	Update_34.5 = "Saludos, mineros,
+
+¡Por fin! Por fin lo hemos hecho: ¡hemos añadido el soporte para mods!
+
+Lo que empezó como un simple concepto para un sistema de perfiles con partidas guardadas individuales se ha convertido, finalmente, en una nueva y compleja característica para jugar con mods personalizados. Hemos trabajado en ello los últimos meses, iterando el sistema junto con nuestra comunidad de mods, y ha sido espectacular ver cómo esta idea ha ido creciendo más y más. Pues bien, nos complace deciros que pronto tendréis la oportunidad algunos de los mods más raros, divertidos, increíbles y alocados que os podáis imaginar. Tenemos mucho que contaros sobre ello en esta versión, así que pasemos directamente a hablar de ello.
+
+Os queremos,
+El equipo de Ghost Ship
+
+--- NOTAS DE LA VERSIÓN ---
+
+MENÚ DE MODS
+----------------------------
+Podrás acceder a todos los mods directamente desde el juego usando nuestro nuevo menú de mods. El menú de mods es donde podrás activar/desactivar todos los mods que hayas instalado.
+
+Hace un tiempo mencionamos que usamos la plataforma de mods Mod.io. Podrás acceder a ella fácilmente desde DRG, y solo necesitarás hacerlo cuando te suscribas/borres cualquier mod. El juego se encargará de instalar o desinstalar los mods según haga falta. Además, podrás activarlos y desactivarlos con facilidad desde el menú de mods, además de organizarlos por nombre, categoría de aprobación y estado de activación.
+
+Al buscar mods, te familiarizarás rápidamente con nuestras tres categorías: verificado, aprobado y Sandbox. Hemos creado descripciones detalladas de los tres en nuestro último post en Steam y en nuestras guías de mod.io. Pero aquí tenéis una descripción general de cada una:
+
+Mods verificados: son aquellos mods de mejora que no afectan a la jugabilidad o al sonido, mods visuales que mejoran la accesibilidad al juego, y aquellos que incluyen versiones traducidas de gráficos del juego. Los mods del tipo "Cosmético", "Visual" y "Sonido" entran automáticamente en la categorías de "Verificados", pero solo si modifican archivos de decoraciones o sonido. Esta clasificación es detectada automáticamente por el juego.
+
+Mods aprobados: son aquellos mods que crean modos de juego más complejos o alternativos, que generan cambios en las estadísticas de las armas o que crean cambios moderados en la jugabilidad general del juego pero manteniendo los elementos de progresión normales.
+
+Los mods tipo "sandbox" son aquellos que cambian los premios o los pagos tras una misión, además de mods que desbloquean directamente objetos del juego.
+
+¿Qué es lo que os podréis encontrar al aplicar alguno de estos mods? Pues imaginad a vuestro enano intentando superar una misión de riesgo 6 en traje de baño y con un martillo de juguete en lugar de un pico... ¿Veis por dónde vamos? Jejeje. ¡Disfrutad de los nuevos retos de minería con el sistema de mods!
+
+
+ETIQUETAS DE SERVIDOR E INFORMACIÓN
+----------------------------
+Podrás clasificar claramente qué servidores tienen mods y cuáles no. No hace falta que revises la información del título aportada por su anfitrión. También podrás qué mods ha instalado dicho anfitrión antes de unirte a su servidor.
+También se han implementado filtros en la lista de servidores que te permitirán mostrar u ocultar los servidores de cada categoría (aprobados, sandbox...), con lo que tendrás un mayor control de tu lista de servidores.
+Ya no tendrás que preocuparte por unirte a alguien con mods instalados por accidente. Ni por ganar un millón de EXP repentinamente por unirte a una partida con mods, y tener que revertir a una partida guardada anterior. Con esta actualización, la inclusión de mods debería ser una alternativa segura, divertida y transparente.
+
+MEJORA DE ACTIVACIÓN/DESACTIVACIÓN DE MODS AL UNIRSE
+----------------------------
+Aunque los mods verificados te permiten jugar al juego y unirte a otros de manera normal, los mods tipo "sandbox" y aprobados tienen restricciones. Los mods aprobados requieren que todos los participantes de la misión tengan los mods necesarios instalados. Los mods tipo "sandbox" también tienen ese requisito, y además necesitarás estar en una ranura de guardado con mods para poder jugarlos (algo que ahora podrás configurar en los perfiles de guardado del juego).
+    Pero no te preocupes, no tendrás que acordarte de todo. El juego se encargará de desactivar tus mods aprobados cuando te unas a un anfitrión que no tiene dichos mods instalados. Y si tú eres el anfitrión y tienes mods aprobados o de tipo "sandbox", entonces el juego se encargará de que los otros jugadores que se unan también los tengan si ellos mismos escogen unirse a tu partida, desactivándolos cuando la abandonen. Como ya hemos comentado, todos verán los mods que tienes antes de unirse a tu partida.
+    Con el tipo "sandbox", las cosas cambian un poco. En el caso de estos mods, tendrás que desactivarlos y cambiar tu tipo de guardado al de tu partida principal para poder volver a ver a los anfitriones de tipo "no sandbox" en la lista de servidores.
+
+
+GENERACIÓN DE PLANOS NATIVOS
+----------------------------
+Esta opción se ha creado principalmente para modders. Permite a cualquiera que quiera modificar el juego acceder con mayor facilidad a ciertas opciones y funcionalidades de DRG. Si te interesa crear mods para DRG, ya hay una comunidad considerable trabajando en ello. ¿Eres de los que piensa que a las sanguijuelas les hace falta llevar gafas de sol? ¿O que a BOSCO le quedaría bien un sombrero de copa? ¿Puede que quieras ver a Control de Misión explicarte las misiones en otro idioma? ¡Entonces ponte a trabajar en el mod de DRG que te permita hacerlo!
+
+
+PETICIONES DE LA COMUNIDAD
+----------------------------
+- Modo de pruebas para traducciones: esta opción ya lleva un tiempo en funcionamiento. Si eres un traductor de la comunidad, entonces podrás acceder al modo de pruebas en Steam, donde se cargan las traducciones más actuales desde la plataforma Crowdin para su comprobación. De esta manera, no tendrás que esperar a que se lance la versión para ver el aspecto de tus traducciones en el juego. Si te interesa ayudar con la traducción de DRG, existe un canal de la comunidad de traductores en nuestro grupo de Discord, que actualmente tiene un grupo de usuarios muy activo.
+
+
+OTROS CAMBIOS
+----------------------------
+- Se ha añadido una nueva pestaña en el menú de ESC para el soporte de mods
+- Se ha añadido una nueva línea al matar a una zarza apuñaladora
+- Se ha creado compatibilidad para el argumento de un comando "-disablemodding", que se puede añadir a las opciones de ejecución de Steam para desactivar los mods en caso de un error fatal
+- Se ha creado compatibilidad para una ranura de guardado compartida conectando las partidas con versiones en vivo y para el modo de pruebas
+- [PETICIÓN DE LA COMUNIDAD] Se ha añadido una caja de texto a la pantalla emergente de "Has sido expulsado", permitiendo mayor longitud de las frases
+- [PETICIÓN DE LA COMUNIDAD] Se ha añadido una caja de texto a la pantalla de "Mostrar información al inicio", permitiendo mayor longitud de la frase sin solapar con elementos de la IU
+- [PETICIÓN DE LA COMUNIDAD] Se ha añadido una caja de texto al subencabezado de la pared conmemorativa, permitiendo mayor longitud de las frases
+- Se han añadido subtítulos para los sonidos emitidos al lanzar algo, corrigiendo un error que generaba subtítulos en blanco
+- Se han añadido subtítulos a una frase usada al defenderse, corrigiendo un error que generaba subtítulos en blanco
+- Se han añadido subtítulos cuando los enanos tosen y gruñen, corrigiendo un error que generaba subtítulos en blanco
+- Se han añadido subtítulos a los movimientos de carga, corrigiendo un error que generaba subtítulos en blanco
+- Se han añadido subtítulos a las reacciones ante la Burning Love, corrigiendo un error que generaba subtítulos en blanco
+- Se han añadido subtítulos a las reacciones ante la Gut Wrecker, corrigiendo un error que generaba subtítulos en blanco
+- Se han añadido subtítulos a las reacciones ante la Mactera Brew, corrigiendo un error que generaba subtítulos en blanco
+- Se ha añadido compatibilidad para la localización de los desbloqueos de dominios
+- Se ha añadido compatibilidad para la localización de los pozos de morkita líquida al apuntarlos con el puntero láser
+- Se ha añadido compatibilidad para la localización de las instrucciones de las misiones profundas en la terminal de Misiones profundas
+- Se ha añadido compatibilidad para la localización de las líneas aún no incluidas para traducción en la plantilla de restauración de partidas
+- Se han corregido varios errores en subtítulos asociados a la transferencia de coordenadas de cargamentos perdidos en el escáner de terrenos
+- Se ha corregido un error ortográfico en las citas de las Ciénagas Fúngicas
+- Se han corregido varios errores ortográficos y errores del uso de mayúsculas en los subtítulos al solicitar una cápsula de transporte
+- Se ha corregido un error asociado a la ventana emergente de "Otra partida guardada tiene más progreso", que aparecía incluso si no existía otra partida con mayor progreso
+- Se han corregido varios errores en todos los subtítulos asociados a las mejoras de Bosco, de aptitudes o de equipo
+- Se ha corregido un error ortográfico en los subtítulos que aparecen al esperar al lanzamiento de la cápsula de transporte
+- Se han corregido varios errores ortográficos de las líneas que aparecen al despertar en el camarote o en la enfermería
+- Se ha corregido un error ortográfico en los subtítulos que aparecen al cavar
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al usar la tirolina
+- Se ha corregido un error de exceso de espacio en los subtítulos cuando una cápsula de reabastecimiento aterriza
+- Se han corregido varios errores ortográficos y se ha eliminado el exceso de espacio en los subtítulos al golpear al leprechaun en la Plataforma Espacial
+- Se han corregido varios errores ortográficos y se ha eliminado el exceso de espacio en los subtítulos al golpear los dados
+- Se ha corregido el uso inconsistente de las mayúsculas en los subtítulos asociados al uso de torretas
+- Se ha corregido un error ortográfico en el diálogo de Control de Misión cuando las celdas de combustibles se conectan a la cápsula de transporte
+- Se ha eliminado el exceso de espacio en los subtítulos asociados a la necesidad de reparación de Doretta
+- Se han corregido varios errores ortográficos, el uso inconsistente de mayúsculas y se ha eliminado el exce de espacio en todos los subtítulos de las misiones de refinería
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen cuando Doretta está siendo atacada
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al pulsar el botón de gravedad en la Plataforma Espacial
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al recoger un sobrealimentador de picos
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al emplear un generador de escudos con el artillero
+- Se ha corregido un error ortográfico en los subtítulos que aparecen al usar un Ataque Poderoso
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al usar mascotas
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen por los gritos al activar una aptitud
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al ser atrapado por una sanguijuela
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen cuando un jugador se queda sin combustible, munición o granadas
+- Se ha corregido un error ortográfico en la introducción que hace Control de Misión sobre las misiones de Punto de Extracción
+- Se ha corregido un error ortográfico en el anuncio de Control de Misión sobre la llegada de una cápsula de transporte en las misiones de Punto de Extracción
+- Se ha eliminado el exceso de espacio en los subtítulos cuando el M.U.L.A. está regresando a la zona de aterrizaje
+- Se han corregido varios errores ortográficos, el uso incorrecto de mayúsculas y se ha eliminado el exceso de espacio en los subtítulos de todos los diálogos de los Eventos de Máquina
+- Se ha eliminado el exceso de espacio en los subtítulos que aparecen al forjar pirateos
+- Se ha corregido el uso incorrecto de mayúsculas en los subtítulos asociados a la forja
+- Se ha corregido un error ortográfico asociado a ser capturado por un cazador mactera
+- Se ha corregido la escritura inconsistente de "Lootbug" en todos los subtítulos, descripciones, logros y el Manual del Minero (no afecta a la versión en español, en la cual se han corregido errores puntuales de uso incorrecto de mayúsculas)
+- Se ha eliminado el exceso de espacio en los subtítulos asociados a disparar la pistola de bengalas
+- Se ha eliminado el exceso de espacio en los subtítulos al interactuar con el tocadiscos
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al descargar recursos en el M.U.L.A.
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al activar la aptitud "Sentidos agudizados"
+- Se ha corregido un error ortográfico en los subtítulos asociados al picar azúcar rojo
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al deslizarse por tuberías
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al usar el gancho del explorador
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen cuando el escudo del artillero está recargado
+- Se han corregido varios errores ortográficos, errores de uso incorrecto de mayúsculas y se ha eliminado el exceso de espacio en los subtítulos de todos los avisos asociados a granadas
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al recibir fuego aliado
+- Se han corregido varios errores ortográficos, errores de uso incorrecto de mayúsculas y se ha eliminado el exceso de espacio en los subtítulos de todos los diálogos de Control de Misión asociados a las misiones de Tareas de Escolta
+- Se ha corregido un error de descripción del capullo de acorazado al apuntarlo con el puntero láser
+- Se han corregido varias descripciones inconsistentes de los objetos de las Operaciones de Rescate al apuntarlos con el puntero láser
+- Se ha sustituido el icono del capullo de acorazado en el puntero laser por una variante coloreada
+- Se ha corregido un error ortográfico en los subtítulos asociados a apuntar a un acorazado con el puntero láser
+- Se ha corregido un error que hacía que el texto de "Misión fallida" se solapara con otros elementos de IU en la pantalla de misión completada para ciertos idiomas
+- Se ha corregido un error ortográfico en la pantalla emergente que avisa a los jugadores de que podrían estar sobrescribiendo otra partida en una ranura de guardado
+- Se han corregido varios errores ortográficos, errores de uso incorrecto de mayúsculas y se ha eliminado el exceso de espacio en los subtítulos asociados a todos los diálogos al apuntar con un puntero láser
+- Se han corregido varios errores ortográficos y errores de uso incorrecto de mayúsculas en todos los subtítulos asociados a matar a cualquier criatura
+- Se han corregido varios errores ortográficos asociados a los subtítulos de hacer malabares con un arma
+- Se han corregido varios errores ortográficos y errores de uso incorrecto de mayúsculas en los subtítulos de diálogos variados durante una misión
+- Se han corregido varios errores ortográficos y errores de uso incorrecto de mayúsculas en los subtítulos de diálogos al comerciar con minerales
+- Se han corregido varios errores ortográficos comunicados por la comunidad a través de Jira
+- Se han corregido varios errores ortográficos en los subtítulos del tutorial
+- Se han corregido varios errores ortográficos en los subtítulos de varios diálogos genéricos
+- Se han corregido varios errores ortográficos y errores de uso incorrecto de mayúsculas en todos los subtítulos asociados a los diálogos de Control de Misión sobre misiones profundas
+- Se ha corregido un error ortográfico en los subtítulos empleados en el diálogo de Control de Misión cuando se consiguen todos los aquarqs
+- Se han corregido varios errores ortográficos y errores de uso incorrecto de mayúsculas en los subtítulos al reaccionar al medio ambiente
+- Se han corregido varios errores ortográficos en los subtítulos al reaccionar a la presencia de mosquitos
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al buscar equipo nuevo en la tienda
+- Se han corregido varios errores ortográficos en los subtítulos asociados a ruidos por tos
+- Se han corregido varios errores ortográficos en los subtítulos para diálogos específicos de ciertos personajes
+- Se han corregido varios errores ortográficos en los subtítulos de diálogos sobre tanques de combustible
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al ordenar a Bosco que lance sus cohetes
+- Se ha eliminado el exceso de espacio en los subtítulos que aparecen al ordenar a Bosco que excave
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al ordenar a Bosco que ilumine una zona
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al ordenar a Bosco que transporte algo
+- Se ha corregido un error ortográfico en los subtítulos que aparecen al transportar un objeto pesado
+- Se han corregido varios errores ortográficos al pedir cervezas
+- Se han corregido varios errores ortográficos y errores de uso incorrecto de mayúsculas en todos los subtítulos asociados con el bar
+- Se han corregido varios errores ortográficos en los subtítulos al consumir una Blacklock Lager
+- Se han corregido varios errores ortográficos en los subtítulos al reaccionar de forma positiva tras beber una cerveza
+- Se han eliminado errores de uso incorrecto de mayúsculas en más diálogos de Control de Misión
+- Se ha mejorado la redacción de los consejos del tutorial que detallan cómo volver a jugarlo
+- Se ha corregido un error ortográfico en el consejo del tutorial que describe cómo volver a jugarlo
+- Se ha corregido un error ortográfico en los consejos de las pantallas de carga
+- Se ha corregido un problema de nomenclatura inconsistente de la cápsula de reabastecimiento en diferentes alertas de chat, consejos del tutorial, IU y el puntero láser
+- Se ha eliminado el uso incorrecto de mayúsculas en diálogos de Control de Misión acerca de encargos y ascensos
+- Se ha eliminado el uso incorrecto de mayúsculas en diálogos de Control de Misión en la Plataforma Espacial
+- Se ha eliminado el uso incorrecto de mayúsculas en diálogos de Control de Misión en misiones de Punto de Extracción
+- Se ha eliminado el uso inconsistente de mayúsculas en las alertas sobre cápsulas de abastecimiento
+- Se ha eliminado el uso inconsistente de mayúsculas en diálogos de Control de Misión sobre el tutorial
+- Se ha eliminado el uso inconsistente de mayúsculas en las alertas de Control de Misión sobre la llegada de hordas
+- Se ha eliminado el uso inconsistente de mayúsculas en otra gran variedad de líneas de texto de Control de Misión
+- Se han corregido varios errores ortográficos e inconsistencias en los diálogos de Control de Misión en misiones de Eliminación
+- Se ha eliminado el uso inconsistente de mayúsculas en los diálogos de Control de Misión cuando se consiguen todos los huevos alienígenas
+- Se han corregido varios errores ortográficos e inconsistencias en los diálogos de Control de Misión cuando se completa un objetivo
+- Se ha eliminado el uso incorrecto de mayúsculas en los diálogos de Control de Misión cuando el M.U.L.A. atraca en la cápsula de transporte
+- Se ha corregido un error ortográfico en la introducción de Control de Misión a las Expediciones Mineras
+- Se ha eliminado el uso incorrecto de mayúsculas en los diálogos de Control de Misión en la selección de misiones
+- Se ha eliminado el uso incorrecto de mayúsculas en los diálogos de Control de Misión en Operaciones de Rescate
+- Se ha corregido un error ortográfico en la alerta de chat que aparece cuando el M.U.L.A. puede iniciar el regreso a la cápsula de transporte
+- Se ha corregido un error ortográfico en los subtítulos que aparecen al lanzar bolas de nieve
+- Se ha eliminado el exceso de espacio en el menú de partidas guardadas
+- Se ha corregido un error ortográfico en la pantalla de los Cavapolvos, en la terminal de la Unión de Mineros
+- Se han corregido varios errores de descripción de recursos al apuntarlos con el puntero láser
+- Se ha corregido un error ortográfico en la descripción del dystrum al apuntarlo con el puntero láser
+- Se han corregido varios errores ortográficos en la descripción de la magnita al apuntarla con el puntero láser
+- Se ha corregido un error ortográfico en la descripción de la holomita al apuntarla con el puntero láser
+- Se han corregido varios errores de uso incorrecto de mayúsculas en los títulos de las noticias
+- Se han eliminado varios excesos de espacio al final de los textos de las noticias emitidas en ciertas terminales de la Plataforma Espacial
+- Se ha corregido un error ortográfico en la introducción de Control de Misión a las Operaciones de Rescate
+- Se ha corregido un error ortográfico en el anuncio de Control de Misión cuando todos los mini-M.U.L.A. están reparados
+- Se han corregido varios errores ortográficos en diversas citas sobre el Núcleo de Magma
+- Se ha corregido un error ortográfico en los subtítulos que aparecen cuando matas a un ángel de las cuevas (¡cómo te atreves...!)
+- Se ha corregido un error ortográfico en los subtítulos que aparecen cuando marcas un cargador de núcleos con el puntero láser
+- Se han corregido varios errores ortográficos en el menú de personalización de controles
+- Se han corregido varios errores ortográficos en las opciones para controles
+- Se ha corregido un error ortográfico en la pantalla de selección de misiones
+- Se ha corregido un error ortográfico al marcar un ingrediente de elaboración de bebidas con el puntero láser
+- Se ha corregido un error ortográfico en la introducción de Control de Misión a la segunda etapa de una misión profunda
+- Se ha corregido un error ortográfico en los subtítulos que aparecen al colocar una carga de morral
+- Se ha corregido un error ortográfico en la entrada del escupidor de telarañas en el bestiario del Manual del Minero
+- Se ha corregido un error ortográfico en la entrada de los gemelos acorazados en el bestiario del Manual del Minero
+- Se ha corregido un error ortográfico en la descripción del pirateo "Válvulas de alimentación compactas" para el lanzallamas CRSPR
+- Se ha corregido un error ortográfico en los subtítulos que aparecen al marcar al guardián de la colmena con el puntero láser
+- Se han corregido varios errores ortográficos en los subtítulos que aparecen al reaccionar al daño causado por las espinas
+- Se ha corregido un error ortográfico en la IU del menú de opciones
+-Se ha corregido un error ortográfico en la descripción del bioma "Hondonada Enramada"
+- Se han corregido varios errores ortográficos asociados con los gritos al ver túneles de invasores
+- Se ha corregido un error ortográfico en la descripción de la mejora "Inhibidor de inercia deshabilitado" para el lanzagranadas Deepcore 40mm
+- Se ha reparado un error fatal que a veces tenía lugar cuando se destruía el blindaje de un acorazado
+- Se ha corregido un error por el que un jugador no podía unirse a una partida si se había unido a una recientemente y había sido expulsado porque otro jugador que entraba a la misma vez consiguió conectar a la partida antes, llenando el servidor"
 	Update_28 = "Hola, mineros,
 ¿Os sentís aptos? Perfecto, porque en la VERSIÓN 28 vamos a satisfaceros con un gran cambio a nuestro sistema de aptitudes, la primera parte de nuestro rediseño de la Plataforma Espacial y una gran novedad en la manera en la que podrás personalizar la apariencia de tus armas. 
 
@@ -3732,6 +3929,8 @@ MISC.
 	Update_13_ShortTitle = "CAMBIOS MENORES DE SALUD"
 	Update_34_Shorttitle = "MODESTAS EXPECTATIVAS"
 	Update_15_ShortTitle = "¡ALERTA POR MUTACIÓN!"
+	Update_34.5_Header = "Soporte para mods"
+	Update_34.5_ShortTitle = "Soporte para mods"
 	Update_33_Shorttitle = "NUEVAS FRONTERAS"
 	Update_17_ShortTitle = "¡OKTOBERFEST!"
 	Update_21.5_ShortTitle = "UN AÑO EN ÓRBITA"

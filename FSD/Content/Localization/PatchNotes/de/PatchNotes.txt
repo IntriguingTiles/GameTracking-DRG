@@ -1,8 +1,8 @@
-83 entries
+85 entries
 1 namespaces
-80 values
+82 values
 
-Namespace PatchNotes (83 keys)
+Namespace PatchNotes (85 keys)
 	Update_30_Header = "Start der Version 1.0"
 	Update_30_ShortTitle = "Start der Version 1.0"
 	Update_23 = "Also gut, Minenarbeiter - versammelt euch und haltet die Klappe!
@@ -1619,6 +1619,212 @@ SONSTIGES
 - Das Kontrollzentrum kündigt jetzt die Neukalibrierung der Gravitation an.
 - Der Gastgeber (Host) erreicht jetzt die selbe Höhe wie die anderen Spieler im Team (Client), wenn er springt (zuvor war sie niedriger).
 "
+	Update_34.5 = "Hallo Minenarbeiter,
+
+Hier ist es! Endlich kommt es. Die Modding-Unterstützung ist hier.
+
+Was als einfaches Save-Game-Profilsystem begann, wurde zu einer vollwertigen Modding-Unterstützung. Wir haben die letzten Monate damit verbracht, zusammen mit der Modding-Community an diesen Funktionen zu feilen, und es war großartig zu sehen, wie sie sich entwickelt haben. Wir freuen uns, dass ihr die Möglichkeit haben werdet, all die verrückten/spaßigen/attraktiven/rätselhaften Mods auszuprobieren, die zur Auswahl stehen. Wir haben euch viel zu erzählen, was in dieser Version enthalten ist, also lasst uns endlich anfangen:
+
+Mit Liebe,
+Die Ghost Ship Crew
+
+
+--- PATCH NOTES ---
+
+MODDING-MENÜ
+----------------------------
+Über das brandneue Modding-Menü kannst du auf alle Mods innerhalb des Spiels zugreifen. Im Modding-Menü kannst du alle installierten Mods ganz einfach aktivieren und deaktivieren.
+
+Wir haben bereits erwähnt, dass wir Mod.io als Mod-Hosting-Plattform nutzen. Du kannst die DRG mod.io Seite einfach aus dem Spiel heraus aufrufen, und du musst dies nur tun, wenn du Mods abonnierst oder abbestellst. Das Spiel wird dafür sorgen, dass diese Mods installiert/deinstalliert werden. Außerdem kannst du Mods ganz einfach über das Modding-Menü aktivieren und deaktivieren und die installierten Mods nach Name, Genehmigungskategorie und ob sie aktiviert sind oder nicht, sortieren.
+
+Beim Durchsuchen von Mods wirst du schnell mit unseren drei Genehmigungskategorien vertraut werden: Freigegeben, Erweitert und Sandbox. Wir haben diese in unserem letzten Steam-Post und in unseren mod.io-Richtlinien ausführlich beschrieben. Aber hier ist die grobe Aufschlüsselung jeder Kategorie:
+
+Freigegebene (für das Basisspiel) Mods sind QoL-Mods, die keinen Einfluss auf das Spielgeschehen oder den Ton haben, sondern visuelle Mods, die die Zugänglichkeit verbessern, und lokalisierte Versionen von Grafiken im Spiel verändern. Mods mit den Typen: Kosmetik, Visuell und Audio werden automatisch in die Kategorie "Verifiziert" eingeordnet, wenn sie nur kosmetische oder Audiodateien verändern. Dies wird automatisch im Spiel erkannt. 
+
+Erweiternde Mods sind herausfordernde oder alternative Spielmodi, Änderungen an Waffenwerten und Mods, die Gameplay-Elemente moderat verändern, während dein Fortschritt im Einklang mit dem regulären Spiel erhalten bleibt.
+
+Sandbox-Mods sind alle Mods, die Belohnungen oder Missionsauszahlungen verändern, sowie Mods, die direkt Gegenstände im Spiel freischalten.
+
+Es ist endlich an der Zeit, die Haz 6-Mission im Badeanzug und mit deinem Quietschehammer anstelle deiner Spitzhacke zu erledigen. Viel Spaß beim Bergbau!
+
+
+SERVER-MARKIERUNG UND INFOS
+----------------------------
+Du kannst jetzt deutlich sehen, auf welchen Servern Mods installiert sind und auf welchen nicht - du musst dich nicht mehr darauf verlassen, dass der Host dies im Titel angibt. Du kannst auch deutlich sehen, welche Mods ein Host vor dem Beitritt installiert hat.
+In der Serverliste gibt es außerdem Filter, mit denen du Server mit erweiternde oder Sandbox-Mods ein- oder ausblenden kannst - so hast du eine viel bessere Kontrolle über deine Serverliste.
+Du musst dir keine Sorgen mehr machen, dass du versehentlich modifizierten Servern beitrittst. Keine Überraschungen mehr und kein Zurückkehren zu einem früheren Spielstand, wenn du versehentlich eine Million XP von einem modifizierten Spiel erhalten hast. Mit diesem Update wird das Modding sicher, spaßig und transparent.
+
+RATIONALISIERTE MOD-AKTIVIERUNG/DEAKTIVIERUNG BEIM BEITRITT
+----------------------------
+Während du mit freigegeben Mods das Spiel wie gewohnt spielen und dich anderen anschließen kannst, sind Sandbox- und erweiternde Mods mit Einschränkungen verbunden. Bei erweiternden Mods muss jeder in einer Mission diese Mods installiert haben. Bei Sandbox-Mods ist dies ebenfalls der Fall und du musst dich in einem Sandbox-Spielstands-Profil befinden (was jetzt durch Spielstands-Profile möglich ist).
+    Aber keine Sorge, du musst dir das alles nicht merken. Das Spiel kümmert sich darum, deine erweiternden Mods zu deaktivieren, wenn du einem Host beitrittst, bei dem diese Mods nicht installiert sind. Und wenn du ein Host bist, auf dem erweiternde oder Sandbox-Mods installiert sind, stellt das Spiel sicher, dass andere Spieler/innen dieselben Mods installiert haben, wenn sie deinem Spiel beitreten, und es deaktiviert diese Mods sogar für sie, wenn sie es verlassen. Wie bereits erwähnt, können sie sehen, welche Mods du installiert hast, bevor sie dir beitreten.
+    Bei der Sandbox ist es ein bisschen anders. Hier musst du deine Sandbox-Mods deaktivieren und zu deinem Hauptspeicher zurückwechseln, um Nicht-Sandbox-Hosts in der Serverliste zu sehen.
+
+
+NATIVES ERZEUGEN VON BLAUPAUSEN
+----------------------------
+Diese Funktion ist in erster Linie für Modder gedacht. Sie ermöglicht jedem, der das Spiel moddet, einen besseren Zugang zu bestimmten Features und Funktionalitäten in DRG. Wenn du daran interessiert bist, Mods für DRG zu erstellen, gibt es bereits eine lebendige Modding-Community. Hast du das Gefühl, dass den Höhlenegeln eine Sonnenbrille fehlt? Oder dass BOSCO einen Hut gebrauchen könnte? Oder möchtest du die Texte für das Kontrollzentrum in einer anderen Sprache vertonen? Dann ist es an der Zeit, dich an die Arbeit für einen DRG-Mod zu machen.
+
+
+COMMUNITY-VORSCHLAG
+----------------------------
+- Übersetzungstestzweig: Dieser ist bereits seit einiger Zeit live. Wenn du ein Community-Übersetzer bist, kannst du jetzt auf einen Steam-Zweig mit einem nächtlichen Build zugreifen, der die neuesten Übersetzungen von Crowdin enthält. Ihr müsst also nicht mehr auf eine Veröffentlichung warten, um eure Arbeit im Spiel zu sehen. Wenn du daran interessiert bist, Übersetzungen für DRG zu machen, gibt es einen Community-Übersetzer-Channel auf Discord mit einer sehr aktiven Community.
+
+
+VERSCH.
+----------------------------
+- Im ESC-Menü wurde eine neue Registerkarte für Modding-Unterstützung hinzugefügt
+- Es wurde ein neuer Stechranken-Tötungs-Ruf für Zwerge hinzugefügt
+- Unterstützung für ein "-disablemodding"-Befehlszeilenargument hinzugefügt, das zu den Steam-Startoptionen hinzugefügt werden kann, um Mods zu deaktivieren, wenn es zu Abstürzen kommt
+- Unterstützung für einen gemeinsamen Spielstand zwischen dem Live-Zweig und dem Übersetzungs-Zweig hinzugefügt
+- [COMMUNITY-VORSCHLAG] Der Belohnungstext im "Du wurdest gekickt"-Popup kann nun umbrochen werden, um längere Übersetzungen zu ermöglichen
+- [COMMUNITY-VORSCHLAG] Der Text "Infobildschirm beim Start anzeigen" kann nun umbrochen werden, um längere Übersetzungen ohne überlappende UI-Elemente zu ermöglichen
+- [COMMUNITY-VORSCHLAG] Der Text der Unterüberschrift auf dem Bildschirm der Gedenkhalle kann nun umbrochen werden, um längere Übersetzungen zu ermöglichen.
+- Dem Geräusch, das beim Werfen entsteht, wurden Untertitel hinzugefügt, um ein Problem mit leeren Untertiteln zu beheben
+- Es wurden Untertitel zu einem Verteidigungsaufruf hinzugefügt, um ein Problem mit leeren Untertiteln zu beheben
+- Untertitel für Husten- und Grunzgeräusche hinzugefügt, um ein Problem mit leeren Untertiteln zu beheben
+- Untertitel für Geräusche beim Sprint hinzugefügt, um ein Problem mit leeren Untertiteln zu beheben
+- Untertitel zu den Reaktionen des Getränks Burning Love hinzugefügt, um ein Problem mit leeren Untertiteln zu beheben
+- Untertitel zu den Reaktionen des Getränks Gut Wrecker hinzugefügt, um ein Problem mit leeren Untertiteln zu beheben
+- Untertitel zu den Reaktionen des Getränks Mactera Brew hinzugefügt, um ein Problem mit leeren Untertiteln zu beheben
+- Lokalisierbarkeit der Pop-ups zum Freischalten von Meisterschaft hinzugefügt
+- Lokalisierbarkeit der Flüssigmorkit-Quelle auf dem Laserpointer hinzugefügt
+- Die Deep-Dive-Anweisungen im Deep-Dive-Terminal können nun lokalisiert werden
+- Fehlende Zeichenfolgen auf dem Overlay "Wiederherstellen" können nun lokalisiert werden
+- Tippfehler in den Untertiteln behoben, wenn die Koordinaten der verlorenen Ausrüstung an den Geländescanner übertragen werden
+- Tippfehler in den Angaben für das Biom Pilzmoor behoben
+- Tippfehler und falsche Großschreibung in den Untertiteln behoben, wenn die Transportkapsel gerufen wird
+- Behebung des Popups "Ein anderer Spielstand hat mehr Fortschritt", auch wenn ein anderer Spielstand NICHT mehr Fortschritt hat
+- Tippfehler in allen Untertiteln behoben, die sich auf das Aufrüsten von Bosco, Perks oder Ausrüstung beziehen
+- Tippfehler in den Untertiteln beim Warten auf die Abfahrt in der Transportkapsel behoben
+- Tippfehler in den Untertiteln beim Aufwachen in der Kabine und in der Krankenstation behoben 
+- Tippfehler in den Untertiteln beim abbauen behoben 
+- Tippfehler in den Untertiteln bei der Benutzung der Seilbahn behoben
+- Behebung eines überflüssigen Leerzeichens in den Untertiteln, wenn eine Versorgungskapsel angekommen ist
+- Tippfehler und überflüssige Leerzeichen in den Untertiteln beim Schlagen des Kobolds am Weltraum-Rigg behoben
+- Tippfehler und überflüssige Leerzeichen in den Untertiteln beim Schlagen von Würfeln behoben
+- Inkonsistente Großschreibung des Geschützturms in den Untertiteln behoben
+- Tippfehler im Dialog der Missionskontrolle behoben, wenn die Brennstoffzelle an die Transportkapsel angeschlossen ist
+- Überzählige Leerzeichen in den Untertiteln behoben, wenn Doretta repariert werden muss
+- Tippfehler, inkonsistente Großschreibung und überflüssige Leerzeichen in allen Untertiteln der Raffinerie-Mission behoben
+- Tippfehler in den Untertiteln behoben, wenn Doretta angegriffen wird 
+- Tippfehler in den Untertiteln beim Drücken der Schwerkrafttaste in der Raumstation behoben 
+- Tippfehler in den Untertiteln beim Aufnehmen einer Spitzhacken-Überladung des Schmetterschlag-Verteilers behoben
+- Tippfehler in den Untertiteln beim Platzieren des Schilds des Schützen behoben
+- Tippfehler in den Untertiteln beim Schmetterschlag behoben
+- Tippfehler in den Untertiteln beim Streicheln behoben
+- Tippfehler in den Untertiteln für alle Perk-Aktivierungsrufe behoben 
+- Tippfehler im Untertitel behoben, wenn der Spieler von einem Höhlenegel erwischt wird
+- Tippfehler in den verschiedenen Untertiteln behoben, wenn der Spieler keinen Treibstoff, keine Munition oder keine Granaten mehr hat
+- Ein Tippfehler in der Einführung des Kontrollzentrums in die Mission "Punktextraktion" wurde behoben
+- Ein Tippfehler in der Ankündigung der Ankunft der Transportkapsel durch das Kontrollzentrums in der Punktextraktions-Mission wurde behoben
+- Überzählige Leerzeichen in den Untertiteln bei der Rückkehr des M.U.L.E.s zur Landezone behoben
+- Tippfehler, inkonsistente Groß- und Kleinschreibung und überflüssige Leerzeichen in den Untertiteln aller Maschinenereignis-Dialoge behoben
+- Ein überflüssiges Leerzeichen in den Untertiteln beim Schmieden von Übertaktungen wurde behoben
+- Unstimmige Großschreibung in den Untertiteln beim Schmieden behoben
+- Ein Tippfehler wurde behoben, wenn der Spieler von einem Mactera-Grabscher erwischt wird
+- Die inkonsistente Schreibweise des Wortes "Beutelarve" in Untertiteln, Perk-Beschreibungen, Meilensteinen und im Hoxxes Handbuch wurde behoben. 
+- Ein überflüssiges Leerzeichen in den Untertiteln beim Abfeuern der Leuchtpistole wurde behoben
+- Ein überflüssiges Leerzeichen in den Untertiteln bei der Interaktion mit der Jukebox wurde behoben
+- Tippfehler in den Untertiteln beim Ablegen im M.U.L.E. behoben
+- Tippfehler in den Untertiteln behoben, wenn das Perk "Geschärfte Sinne" aktiviert ist
+- Tippfehler in den Untertiteln beim Abbau von Rotem Zucker behoben
+- Tippfehler in den Untertiteln beim surfen von Rohren behoben
+- Ein Tippfehler in den Untertiteln bei der Verwendung des Enterhakens des Spähers wurde behoben
+- Ein Tippfehler in den Untertiteln wurde behoben, wenn der Schild des Schützen aufgeladen wird
+- Tippfehler, inkonsistente Großschreibung und überflüssige Leerzeichen in den Untertiteln aller Granatenwarnungen behoben
+- Tippfehler in den Untertiteln behoben, wenn der Spieler unter Beschuss gerät
+- Tippfehler, inkonsistente Groß- und Kleinschreibung und überflüssige Leerzeichen in den Untertiteln aller Dialoge im Missionstyp Begleitauftrag behoben
+- Die Beschreibung des Dreadnought-Kokons auf dem Laserpointer wurde korrigiert
+- Unstimmige Beschreibungen für Gegenstände der Bergungsexpedition auf dem Laserpointer wurden korrigiert.
+- Das Dreadnought-Kokon-Symbol auf dem Laserpointer wurde durch die farbige Variante ersetzt
+- Ein Tippfehler in den Untertiteln des Dreadnought-Laserpointers wurde behoben
+- Ein Fehler wurde behoben, der dazu führte, dass sich der Text "Mission fehlgeschlagen" in bestimmten Sprachen mit anderen UI-Elementen auf dem Bildschirm "Mission abgeschlossen" überlappte
+- Es wurde ein Tippfehler in einer Pop-up-Meldung behoben, die den Spieler vor dem möglichen Überschreiben eines bestehenden Speicherplatzes warnt
+- Tippfehler, inkonsistente Großschreibung und überflüssige Leerzeichen in den Untertiteln aller Laserpointer-Dialoge behoben
+- Tippfehler und inkonsistente Großschreibung in den Untertiteln für alle Tötungs-Rufe behoben
+- Tippfehler in den Untertiteln für alle Waffen-Reaktionen behoben
+- Tippfehler und inkonsistente Großschreibung in den Untertiteln diverser Dialoge während der Missionen behoben
+- Tippfehler und inkonsistente Großschreibung in den Untertiteln des Dialogs zum Mineralienhandel behoben
+- Verschiedene Tippfehler behoben, die von der Community auf Jira gemeldet wurden
+- Tippfehler in allen Untertiteln des Tutorial-Levels behoben
+- Tippfehler in den Untertiteln für die Reaktionen beim Waffenschießen behoben
+- Tippfehler in den Untertiteln für verschiedene generische Dialoge behoben
+- Verschiedene Tippfehler und inkonsistente Großschreibung in allen Untertiteln für den Dialog des Kontrollzentrums in Tiefenexpedition behoben
+- Ein Tippfehler in den Untertiteln für den Dialog des Kontrollzentrums wurde behoben, wenn alle Aquarqs eingesammelt werden
+- Tippfehler und überflüssige Leerzeichen in den Untertiteln behoben, wenn auf die Umgebung reagiert wird
+- Tippfehler in den Untertiteln behoben, wenn auf Fliegen reagiert wird
+- Tippfehler in den Untertiteln beim Durchsuchen des Ladens nach neuen Ausrüstungsgegenständen behoben 
+- Tippfehler in den Untertiteln für Hustengeräusche behoben
+- Tippfehler in den Untertiteln für charakterspezifische Dialoge behoben
+- Tippfehler in allen Untertiteln für Treibstoffkanister-Dialog behoben
+- Ein Tippfehler in den Untertiteln wurde behoben, wenn Bosco befohlen wurde, seine Raketen abzufeuern
+- Ein überflüssiges Leerzeichen in den Untertiteln behoben, wenn Bosco befohlen wird abzubauen
+- Tippfehler behoben, wenn Bosco befohlen wird Licht zu machen
+- Ein Tippfehler in den Untertiteln wurde behoben, wenn Bosco befohlen wird, etwas zu holen
+- Ein Tippfehler in den Untertiteln wurde behoben, wenn Bosco einen schweren Gegenstand trägt 
+- Verschiedene Tippfehler bei der Bestellung von Bier behoben
+- Tippfehler und Großschreibung in allen barbezogenen Untertiteln behoben
+- Einen weiteren Tippfehler in den Untertiteln behoben, wenn du ein Blacklock Lager trinkst
+- Tippfehler in den Untertiteln beim Trinken eines Blacklock Lagers behoben
+- Ein Tippfehler in den Untertiteln wurde behoben, wenn du positiv auf ein Bier reagierst
+- Inkonsistente Großschreibung in mehreren Dialogen des Kontrollzentrums behoben
+- Tippfehler im Tutorial-Hinweis behoben, der beschreibt, wie man die Tutorial-Mission wiederholt
+- Die Formulierung des Tutorial-Hinweises, der beschreibt, wie man das Tutorial-Level erneut spielt, wurde verbessert
+- Ein Tippfehler in den Hinweisen auf dem Ladebildschirm wurde behoben
+- Inkonsistente Benennung der Versorgungskapsel in Chat-Benachrichtigungen, Tutorial-Hinweisen, der Benutzeroberfläche und dem Laserpointer behoben
+- Inkonsistente Großschreibung im Dialog des Kontrollzentrums für Aufgaben und Beförderungen behoben
+- Inkonsistente Großschreibung im Dialog des Kontrollzentrums auf dem Raumstation behoben
+- Inkonsistente Großschreibung im Dialog des Kontrollzentrumsbei Punktextraktionsmissionen behoben
+- Inkonsistente Großschreibung in Warnungen über eingehende Versorgungsabwürfe behoben
+- Inkonsistente Großschreibung im Dialog der Missionskontrolle während des Tutorials behoben
+- Inkonsistente Großschreibung in Wellenwarnungen des Kontrollzentrums behoben 
+- Weitere Fälle von inkonsistenter Großschreibung im Dialog des Kontrollzentrums behoben
+- Tippfehler und Ungereimtheiten im Dialog des Kontrollzentrums in Eliminierungsmissionen behoben
+- Inkonsistente Großschreibung im Dialog des Kontrollzentrums behoben, wenn alle Alien-Eier eingesammelt wurden
+- Tippfehler und Ungereimtheiten im Dialog des Kontrollzentrums behoben, wenn ein Ziel erreicht wurde
+- Inkonsistente Großschreibung im Dialog des Kontrollzentrums behoben, wenn die M.U.L.E. angedockt hat 
+- Es wurde ein Tippfehler in der Einführung des Kontrollzentrums in den Missionstyp Bergbauexpedition behoben
+- Inkonsistente Großschreibung im Dialog des Kontrollzentrums für die Missionsauswahl behoben
+- Unstimmige Großschreibung im Dialog des Kontrollzentrums bei Bergungseinsätzen behoben
+- Tippfehler in der Chat-Warnung behoben, wenn das M.U.L.E. zur Transportkapsel zurückgerufen werden kann
+- Ein Tippfehler in den Untertiteln beim Werfen von Schneebällen wurde behoben
+- Ein überflüssiges Leerzeichen im Menü "Speichern" wurde behoben
+- Ein Tippfehler auf dem Bildschirm "Erdbrecher" im Unionsterminal wurde behoben.
+- Mehrere Fälle von inkonsistenten Ressourcenbeschreibungen auf dem Laserpointer behoben
+- Ein Tippfehler in der Beschreibung von Dystrum auf dem Laserpointer wurde behoben.
+- Tippfehler in der Beschreibung von Magnit auf dem Laserpointer behoben
+- Tippfehler in der Beschreibung von Hollomit auf dem Laserpointer behoben
+- Mehrere Fälle von inkonsistenter Großschreibung aller Nachrichtenüberschriften wurden behoben
+- Mehrere Fälle von überflüssigen Leerzeichen am Ende von Schlagzeilen, die auf bestimmten Terminals in der Raumstation gesendet wurden, wurden behoben
+- Tippfehler in der Einführung des Kontrollzentrums in den Missionstyp Bergungsexpeditionen behoben
+- Ein Tippfehler in der Ankündigung des Kontrollzentrums, dass alle Mini-M.U.L.E.s repariert werden, wurde behoben
+- Ein weiterer Tippfehler in der Ankündigung des Kontrollzentrums, dass alle Mini-M.U.L.E.s repariert werden, wurde behoben
+- Einen weiteren Tippfehler in einem der Zitate für das Magmakern-Biom behoben
+- Ein Tippfehler in den Untertiteln beim Töten eines unschuldigen Höhlenegel-Mobula wurde behoben (wie kannst du es wagen!) 
+- Ein Tippfehler in den Untertiteln beim Markieren eines Kernladesockel mit dem Laserpointer wurde behoben
+- Tippfehler im Menü zur Anpassung der Steuerung behoben
+- Tippfehler in den Optionen für die Steuerung behoben
+- Tippfehler in der Missionsauswahl behoben
+- Tippfehler bei der Markierung einer Brauzutat mit dem Laserpointer behoben
+- Tippfehler in einem der Zitate für das Magmakern-Biom behoben
+- Tippfehler in der Einleitung des Kontrollzentrums in die zweiten Stufe einer Tiefenexpedition behoben
+- Ein Tippfehler in den Untertiteln beim Platzieren einer Sprengladung wurde behoben 
+- Tippfehler im Eintrag "Netzspucker" im Bestiarium des Hoxxes Handbuch behoben
+- Tippfehler in den Schlagzeilen, die auf bestimmten Terminals in der Weltraumstation angezeigt werden, behoben
+- Tippfehler im Eintrag Dreadnought-Glyphid des Hoxxes Handbuch behoben
+- Ein Tippfehler in den Schlagzeilen bestimmter Terminals in der Raumstation wurde behoben.
+- Ein Tippfehler in der Beschreibung der Übertaktung "Kompakte Speiseventile" für den CRSPR Flammenwerfer wurde behoben
+- Es wurde ein Tippfehler in den Nachrichtenüberschriften behoben, die auf bestimmten Terminals in der Raumstation angezeigt wurden.
+- Es wurde ein Tippfehler in den Untertiteln behoben, wenn ein Schwarmhüter-Dreadnought mit dem Laserpointer markiert wurde
+- Mehrere Tippfehler in den Untertiteln bei der Reaktion auf Schaden durch Stacheln behoben
+- Mehrere Tippfehler in den Untertiteln beim Ablegen im M.U.L.E. behoben
+- Tippfehler im Menü "UI-Optionen" behoben
+- Tippfehler in der Biombeschreibung vom Tiefendickicht behoben
+- Tippfehler in den Schreien eines Schwärmer-Tunnels behoben
+- Tippfehler in der Beschreibung der Modifikation "Trägheitshemmer" für den Deepcore 40mm PGL behoben
+- Es wurde ein Absturz behoben, der manchmal auftrat, wenn die Panzerung eines Dreadnoughts zerstört wurde
+- Es wurde ein Problem behoben, bei dem man nicht in ein Spiel einsteigen konnte, wenn man gerade einem Spiel beigetreten war und scheiterte, weil jemand dem Spiel zur gleichen Zeit wie man selbst beitrat und schneller einstieg, so dass der Server voll war"
 	Update_28 = "Hallo Minenarbeiter,
 Alles Perky? Gut, denn UPDATE 28 ist hier, um euren Hunger mit einer saftigen Verbesserung zum Perksystem und dem ersten Teil der neuen Raumstation zu stillen. Außerdem bekommt ihr eine neue Methode, den Look eurer Waffen anzuassen, wie ihr wollt.
 
@@ -3713,6 +3919,7 @@ DIVERSES
 	Update_13_ShortTitle = "KLEINE LEBENSANPASSUNGEN"
 	Update_34_Shorttitle = "GEMÄßIGTE ERWARTUNGEN"
 	Update_15_ShortTitle = "MUTATIONSWARNUNG!"
+	Update_34.5_Header = "Mod-Unterstützung"
 	Update_33_Shorttitle = "NEUE WELTEN"
 	Update_21.5_ShortTitle = "EIN JAHR IM ORBIT"
 	Update_32_Shorttitle = "LEDERNACKEN BEI DER ARBEIT"

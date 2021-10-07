@@ -1,8 +1,8 @@
-86 entries
+90 entries
 1 namespaces
-83 values
+85 values
 
-Namespace PatchNotes (86 keys)
+Namespace PatchNotes (90 keys)
 	Update_30_Header = "SORTIE DE LA 1.0"
 	Update_30_ShortTitle = "SORTIE DE LA 1.0"
 	Update_23 = "Très bien, mineurs - rassemblez-vous et fermez-la!
@@ -1555,6 +1555,66 @@ DIVERS\\
 - Le centre de contrôle annonce maintenant le recalibrage de la gravité.
 - Le joueur hôte saute maintenant à la même hauteur que les clients (le saut était plus faible auparavant).
 "
+	Update_34.5 = "Salutations mineurs,
+
+Ça y est ! Ça arrive enfin - le modding support est là !
+
+Ce qui avait commencé avec un simple système de profils sauvegardés a tourné en un mod support complètement développé. Nous avons passé ces derniers mois à améliorer ce système avec la communauté des moddeurs, et ça a été un plaisir de voir cette update atteindre son plein potentiel. Nous sommes excités que vous ayez l'opportunité de pouvoir essayer tous les mods bizarres/drôles/incroyable/déroutants qui sont disponibles. Il y a beaucoup que nous voulons vous dire à propos de cette update alors allons-y :
+
+Avec toute notre amitié,
+L'équipage de Ghost Ship
+
+--- NOTES DE MISE À JOUR ---
+
+MENU DE MODDING
+----------------------------
+Vous avez accès à tous les mods depuis le jeu via le tout nouveau menu de modding. Le menu de modding est l'endroit où vous pouvez facilement activer et désactiver tous les mods que vous aurez installé.
+
+Nous avons déjà mentionné que nous utilisons Mod.io en tant que plateforme pour héberger les mods. Vous pouvez facilement accédez à la page DRG de Mod.io depuis le jeu et vous avez seulement besoin d'y accédez pour vous abonner ou désabonner aux mods. Le jeu installera/désinstallera les mods de lui-même. Et vous pouvez facilement activer et désactiver les mods depuis le menu de modding et les trier par nom, catégorie d'approbation, et ce qu'ils soient actifs ou non.
+
+Lorsque vous recherchez des mods, vous deviendrez vite familiers avec nos 3 catégories d'approbation : Vérifié, Approuvé, et Sandbox. Nous avons fait une description détaillée de ces catégories dans notre dernier post Steam et dans nos lignes directrices sur Mod.io. Mais voici tout de même le résumé de ces catégories :
+
+Les mods "Vérifié" (pour le jeu de base) sont les mods qui n'affectent pas le gameplay, qui sont davantage à propos de l'audio ou du visuel, des mods qui améliore l'accessibilité ou des versions localisées des graphiques en jeu. Les mods de type : Cosmétiques, visuel et audio sont automatiquement placés par défaut dans la catégorie "Vérifié" s'ils n'affectent que les fichiers cosmétiques ou audio du jeu. Ceci est automatiquement détecté par le jeu.
+
+Les mods "Approuvé" (pour la progression) sont les mods qui offrent un défi ou un nouveau mode de jeu, qui changent les stats des armes, et les mods qui altèrent des éléments de gameplay tout en retenant un système de progression dans l'esprit du jeu de base.
+
+Les mods "Sandbox" sont tous les mods qui changent les récompenses de fin de missions, et les mods qui débloquent directement certains items en jeu.
+
+Il est finalement temps de faire cette mission en Danger 6 dans un maillot de bain avec un marteau-jouet qui couine à la place d'une pioche. Amusez-vous bien !
+
+
+TAGS DES SERVEURS ET INFO
+----------------------------
+Vous pouvez dorénavant voir clairement quels sont les serveurs qui utilisent des mods et ceux qui n'en ont pas. Plus besoin d'espérer que l'hôte ait placé ces informations dans le nom de sa partie. Vous pouvez également voir la liste des mods installés par l'hôte avant de rejoindre.
+Il y a également de nouveaux filtres dans la liste des serveurs qui vous permet de choisir si vous voulez voir ou cacher les serveurs qui utilisent des mods "Approuvé" ou "Sandbox" - ce qui veut dire que vous avez un bien plus grand contrôle sur votre liste de serveurs.
+Vous n'avez plus besoin de vous inquiétez de rejoindre par erreur une partie moddée. Plus de mauvaises surprises et plus besoin de devoir recharger une sauvegarde précédente que vous recevez par accident un million de crédits à cause d'un mod. Avec cette update, le modding devrait être drôle, transparent, et sécurisé.
+
+ACTIVATION/DÉSACTIVATION DES MODS EN REJOIGNANT
+----------------------------
+Alors que les mods "Vérifié" vous permettent de jouer au jeu et de rejoindre les autres joueurs comme de rien, les mods "Sandbox" et "Approuvé" viennent avec quelques restrictions. Les mods "Approuvés" nécessitent que tout le monde dans la mission ait ces mods d'installés. Les mods "Sandbox" partagent la même restriction et nécessitent en plus que vous soyez sur une sauvegarde "Sandbox" (ce qui est maintenant possible via le menu des sauvegardes).
+    Mais pas d'inquiétudes, vous n'avez pas à vous rappeler de tout cela. Le jeu s'occupe de désactiver vos mods "Approuvé" lorsque vous rejoignez un hôte qui ne possède pas ces mods. Et si vous êtes l'hôte avec des mods "Approuvé" ou "Sandbox" installés, alors le jeu fera en sorte que tous les joueurs vous rejoignant aient les mêmes mods d'installés et il ira même jusqu'à désactiver ces mods pour eux, lorsqu'ils quitteront votre partie. Et comme mentionné précédemment, ils pourront voir quels sont vos mods installés avant de vous rejoindre.
+    Le mode Sandbox est un peu différent. Vous devrez désactiver tous vos mods "Sandbox" ET changer pour une autre sauvegarde qui n'est pas "Sandbox" pour voir la liste des joueurs non-Sandbox dans la liste des serveurs.
+
+
+NATIVE BLUEPRINT SPAWNING
+----------------------------
+Cette fonctionnalité est premièrement pour les moddeurs. Elle permet à quiconque qui modde le jeu d'avoir un meilleur accès à certaines features et fonctionnalités dans DRG. Si vous êtes intéressés dans la création de mods pour DRG, il y a déjà une communauté dynamique. Vous pouvez que les sangsues cavernicoles sont plus cools avec des lunettes de soleil ? Ou que Bosco pourrait bien avoir besoin d'un haut-de-forme ? Ou peut être voulez-vous que la voix du centre de contrôle soit traduite dans une autre langue ? Dans ce cas il est temps pour vous de bosser sur votre mod pour DRG.
+
+
+REQUÊTE DE LA COMMUNAUTÉ
+----------------------------
+Branche de test de la traduction : Ceci est en fait déjà an ligne depuis un petit moment. Si vous êtes un traducteur de la communauté, alors vous pouvez accéder à la branche steam avec une mise à jour quotidienne incluant les traductions depuis Crowdin. Plus besoin d'avoir à attendre la prochaine mise à jour pour voir votre travail en jeu. Si vous êtes intéressés dans l'idée de donner un coup de pouce à DRG ou êtes intéressés dans l'idée de traduire le jeu, il y a un channel de traducteurs de la communauté sur Discord avec une communauté très active.
+
+
+DIVERS
+----------------------------
+- Ajout d'un nouvel onglet dans le menu ECHAP pour le modding support
+- Ajout d'un nouveau cri de douleur pour la ronce faucheuse
+- Ajout d'une commande "-disablemodding" qui peut être utilisé dans les options de lancement Steam pour désactiver les mods dans le cas où ces derniers causeraient des crashs
+- Ajout d'un système de partage des sauvegardes entre la branche Live et la branche de traduction
+- [REQUÊTE DE LA COMMUNAUTÉ] Amélioration des fenêtres pop-up pour permettre de plus longues traductions, ajout de sous-titres pour certains effets, et correction de BEAUCOUP de fautes et inconsistances dans le jeu.
+- Correction d'un crash qui pouvait avoir lieu lorsque l'armure du cuirassé était détruite.
+- Correction d'un problème où vous ne pouviez pas rejoindre une autre partie si vous aviez tenté et échoué de rejoindre une partie parce que quelqu'un avait rejoint en même temps que vous et avait chargé plus vite que vous, rendant ainsi la partie pleine"
 	Update_28 = "Bonjour mineurs,
 Vous vous sentez compétents ? Bien, parce que la mise à jour 28 est là pour vous fournir une refonte copieuse de notre système de compétences au complet, la première partie de la reconception de la plate-forme spatiale, ainsi qu'une nouvelle, et très cool, façon de personnaliser l'apparence de vos armes. 
 
@@ -2182,6 +2242,472 @@ CORRECTIFS
 - Plus de baisse de FPS en utilisant le pointeur laser sur un tunnel glyphide ou un minéral encastré.
 - Les ennemis resteront silencieux après leur mort. Ce qui semble logique…
 - Les chasseurs et attrapeurs macteras ne seront plus bloqués en-dehors du Navmesh après un dash.
+"
+	Update_34 = "Bonjour Mineurs !
+Nous sommes de retour avec une mise à jour modeste pour vous ! Le travail sur les objectifs à long terme inclus dans la mise à jour 35 avance bien, mais avec la mise à jour 34, nous avons voulu réduire légèrement votre attente. Nous avons de nouveaux ennemis élite, la possibilité d'obtenir deux avertissements sur une seule mission, deux nouveaux avertissements à ajouter aux autres, une pléthore de modifications d'armes, et plus encore pour vous occuper !
+Il est temps de se replonger dans les profondeurs de Hoxxes et faire face aux nouveaux dangers !
+
+Avec toute notre affection,
+L'équipe Ghost Ship
+
+--- NOTES DE MISE À JOUR ---
+
+DOUBLE AVERTISSEMENTS - DEUX FOIS PLUS DE PLAISIR
+----------------------------
+Un comité de recherche dépêché par la direction a essayé de répondre à la question suivante: 'Quelles initiatives originales et intéressantes pourrions-nous introduire pour augmenter les profits de l'entreprise ?' Après beaucoup de sessions de création, de concepts et de maquettes, celui-ci a trouvé la réponse: Des missions avec deux avertissements au lieu d'un !
+
+Rassemblez une équipe de mineurs, et essayez-vous à ces défis extrêmes. Prouvez que vous êtes les plus durs parmi les durs, et que vous avalez des missions à simple avertissement pour le petit-déjeuner. Rock and Stone !
+NB: Les missions avec double avertissement sont considérées si éprouvantes qu'elles sont exclues des plongées abyssales et des affectations.
+
+NOUVEAUX AVERTISSEMENTS
+----------------------------
+De nouveaux dangers ont été découverts dans les cavernes ! 
+
+MENACE ÉLITE
+Les missions affichant cet avertissement provoquera obligatoirement des rencontes avec les ennemis élite.
+
+VERMINAGGEDON
+Un raz de marée de vermines vous attend dans les cavernes. Emportez un maximum de balles et de pesticide !
+
+
+CONFIGURATION DES MANETTES
+----------------------------
+Êtes-vous frustré par les commandes actuelles à la manette ? Ressentez-vous que vos performances de minage pourrait être améliorées si vos actions pouvaient être configurées différemment ? Voulez-vous une meilleure expérience avec votre manette ? Nous avons des bonnes nouvelles pour vous ! Avec la nouvelle option pour reconfigurer les actions sur votre manette, vous pourrez finalement obtenir la combinaison unique qui vous siéra le mieux.
+
+
+BALISTIQUE AMÉLIORÉE
+----------------------------
+La gestion des tirs a été remarquablement optimisée en terme de mise en réseau. Le résultat devrait se manifester par une réponse plus instantanée lors d'un coup de feu. Les projectiles utilisent également moins de bande passante !
+
+
+PROFILS DE SAUVEGARDE
+----------------------------
+Vous avez désormais l'option de gérer plusieurs profils de sauvegarde si vous jouez avec des mods (ou pour tout autre raison de votre convenance), vous permettant d'avoir une sauvegarde séparée pour vous amuser différemment.
+Cette fonctionnalité était originalement planifiée comme une partie du support de mod plus complet pour cette mise à jour, mais nous avons décidé de le repousser et de le sortir séparément plus tard. Nous travaillons sur une meilleure solution, plus compréhensible, qui permettra de jouer avec certains mods sur la sauvegarde principale. Nous en dévoilerons plus au fur et à mesure de l'avancement du projet, restez à l'écoute !
+
+
+MODIFICATIONS D'ARMES
+----------------------------
+Les gars de la R&D ont travaillé durement pour améliorer l'équilibrage des armes, overclocks, et modifications d'armes du jeu. Voici la liste des changements:
+
+Pistolet à rafales BRT7
+- Amélioration des dégâts de l'arme de base
+- Déplacement d'une partie du bonus du mod "Sécurité désactivée" dans l'arme de base
+- Réduction légère du bonus du mod "Sécurité désactivée"
+- Réduction de la pénalité de munition sur l'overclock "Cartouches expérimentales"
+- Modification de la pénalité de dégâts de l'overclock "Micro fléchettes" d'un pourcentage à une valeur fixe
+
+Overclock "Mini-éléctro-mines" du BRT7
+- Augmentation significative de la durée d’électrocution
+- Réduction de la pénalité de dégâts
+- Augmentation de la pénalité de chargeur
+- Augmentation de la durée de vie de la mini-mine
+
+Revolver lourd "Bulldog"
+- Déplacement d'une partie du bonus de dégâts du mod "Calibre des munitions augmenté" dans l'arme de base
+- Déplacement d'une partie du bonus de dégâts du mod "Munitions à haute vélocité" dans l'arme de base
+- Déplacement d'une partie du bonus de dégâts de points faible du mod "Cartouches à tête creuse" dans l'arme de base
+- Augmentation significative du déclenchement de l'overclock "Réaction en chaîne"
+- Réduction significative de la pénalité de dégâts de l'overclock "Balles volatiles"
+- Réduction du bonus de munitions de l'overclock "Six coups"
+- Augmentation du bonus de dégâts potentiel de "Poudre artisanale"
+- Augmentation du malus de dégâts potentiel de "Poudre artisanale"
+- Changement de la classification de l'overclock "Poudre artisanale", d'overclock propre à équilibré
+- Légère réduction de la pénalité de munitions de l'overclock "Balles éléphantesques"
+
+M1000 Classique
+- Augmentation des dégâts de base de l'arme
+- Réduction du bonus de dégâts sur point faible de base
+- Réduction du bonus de dégâts sur point faible du mod "Balles à tête creuse"
+- Déplacement d'une partie du bonus du mod "Bobines à chargement rapide" dans l'arme de base
+- Déplacement du mod "Munitions renforcées" du T4 au T2
+- Amélioration de la portée et de la puissance du mod "Précision terrifiante"
+- Modification du bonus de munitions de l'overclock "Chargeurs minimaux" pour une augmentation de chargeur basée sur un pourcentage
+- Légère réduction des pénalités de munitions et de vitesse de charge de l'overclock "Chambre de refroidissement améliorée"
+- Modification de la pénalité de dégâts de l'overclock "Hipster" d'un pourcentage à une valeur fixe, pour permettre d'atteindre des seuils critiques de dégâts, ainsi qu'une légère amélioration du bonus de munitions
+- Modification du viseur pour aider avec les tirs chargés ou à la hanche
+
+Deepcore GK2
+- Réduction de la pénalité de dégâts et augmentation significative de la durée d’électrocution de l'overclock "Rechargement électrisant"
+- Réduction de la pénalité de recul sur l'overclock "Mécanisme de tir overclocké"
+- Légère amélioration des munitions de base
+
+Chargeur plasma expérimental
+- Réarrangement de certains mods pour fournir plus de choix intéressants
+- Déplacement du mod "Onde de choc réactive" en T4
+- Déplacement du mod "Explosion de plasma étendue" en T4
+- Déplacement du mod "Bouclier Thermique" en T2
+- Amélioration très légère de la récupération du recul (requête communautaire, vous vous reconnaîtrez)
+- Réduction légère de la vitesse de charge de base
+- Ajout d'un pourcentage de dégâts bonus et augmentation de la pénalité de rayon d'effet sur le mod "Cauchemar volant"
+- L'overclock "Conducteur thermique" pénalise désormais la chaleur générée par les tirs chargés et non plus normaux
+- Réduction de la pénalité de consommation de munitions par tir chargé de l'overclock "Superchargeur", et modification de celui-ci d'un pourcentage à une valeur fixe
+- Réduction de la pénalité de dégâts de l'overclock "Plasma persistant", augmentation des dégâts infligés par le champ de plasma, et ajout d'un léger effet de ralentissement à ce champ
+
+Découpeur laser
+- Augmentation du bonus de temps de rechargement du mode "Éjecteur amélioré"
+- Augmentation des dégâts infligés par le champ de plasma du mode "Au-revoir explosif" et ajout d'un léger effet de ralentissement aux ennemis pris dans le champ
+- Suppression de la pénalité de munitions de l'overclock "Inferno"
+- Réduction de la pénalité de dégâts de l'overclock "Mort tournoyante"
+
+SMG voltaïque "Stubby"
+- Réduction légère du recul de base
+
+Overclock "Arc électrique de tourelle"
+- Augmentation de la distance maximale autorisée entre les tourelles pour la formation d'un arc
+- Augmentation des dégâts de l'arc
+- Augmentation du ralentissement de l'arc
+- Augmentation de la durée de l'arc
+- Augmentation de la zone d’électrocution par la tourelle
+- L’électrocution générée par les tourelles infligent désormais significativement moins de dégâts alliés, et ne ralentissent plus les joueurs
+
+Overclock "Décharge EM de tourelle"
+- Augmentation des dégâts de la décharge
+- Amélioration de la portée avant laquelle les dégâts commencent à réduire
+- Réduction significative des dégâts de tir allié
+- Réduction de la pénalité de dégâts de l'overclock
+- Modification de la pénalité de pourcentage d’électrocution pour une pénalité légère de taille de chargeur
+
+Subata 120
+- Augmentation du bonus du recul par tir de l'arme de base
+- Réduction de la pénalité de cadence de tir de l'overclock "Balles tranquillisantes"
+- Augmentation de la probabilité de déclenchement de l'overclock "Réaction en chaîne"
+
+Zhukov NUK17
+- Ajout d'un bonus de dégâts sur point faible dans l'arme de base
+- Déplacement d'une partie du bonus de munitions du mod "Sacs de munitions agrandis" du T4 dans l'arme de base
+- Réduction légère de la dispersion de base
+- Augmentation du bonus de réduction de recul du mod "Équilibre amélioré"
+- Modification de la pénalité de dégâts de l'overclock "Chargeur customisés" pour une pénalité de cadence de tir
+- Augmentation de la probabilité de créer une mini-cryo-mine avec l'overclock du même nom, et réduction des particules, qui devrait aider à améliorer les performances et la visibilité
+
+Fusil à canon scié trafiqué
+- Amélioration de la probabilité et de la durée d'étourdissement du mod d'étourdissement du T3
+- Correction de l'affichage des statistiques d'étourdissement par une valeur "par plomb"
+- Réduction de la pénalité de plombs de l'overclock "Cartouches façonnées", ainsi qu'une augmentation du bonus de précision.
+
+Cryo Canon
+- Amélioration légère du bonus fourni par le mod "Pompe améliorée"
+- Modification de la classification de l'overclock "Refroidisseur parfaitement calibré" d'un overclock propre à un équilibré, modification du nom de l'overclock en "Refroidisseur calibré" et ajout d'une pénalité de repressurisation ainsi qu'une pénalité légère de temps de chargement
+- Ajout d'un bonus de dégâts contre les cibles gelées sur l'overclock "Tempête de glace", ainsi qu'une augmentation de la pénalité de munitions
+
+Lance-flammes CRSPR
+- Amélioration de la probabilité de peur du mod "Ça brûle !"
+- Déplacement d'une partie du bonus de dégâts du mod "Carburant non filtré" dans l'arme de base
+- Ajout d'un bonus de munitions et d'une pénalité légère de temps de rechargement sur l'overclock "Valves d'alimentation compactes"
+- Augmentation des bonus de dégâts et de flux de l'overclock "Fondeur de visage", modification de la pénalité de munitions par une pénalité de portée et modification de la pénalité de vitesse de déplacement par une pénalité de capacité de réservoir
+
+LGP 40mm Deepcore
+- Augmentation de la portée avant réduction des dégâts, et augmentation significative des dégâts minimaux
+- Augmentation du bonus de dégâts du mod "Mélange HE"
+- Réduction du bonus de munitions du mod "Sacs de munitions agrandis" du T2
+- Déplacement du mod "Grenades à haute vélocité" du T2 au T3
+- Ajout d'un léger bonus de rayon d'explosion au mod "Déclencheur de proximité"
+- Augmentation de la pénalité de dégâts de l'overclock "Mélange RJ250" et ajout d'un bonus élevé de temps de rechargement, ainsi qu'un bonus de munitions élevé
+- Augmentation du bonus de munitions de l'overclock "Munitions compactes"
+
+Minigun alimenté "Lead Storm"
+- Réduction de l'effet de refroidissement du mod "Froid comme la mort"
+- Le mod "Ventilation agressive" réduit maintenant considérablement le temps de récupération lié à une surchauffe
+- Déplacement d'une partie du bonus du mod "Amélioration de la stabilité de la plateforme" dans l'arme de base
+- Le mod "Réfrigération magnétique" réduit maintenant considérablement le délai avant refroidissement
+- Correction d'un bug qui empêchait un petit délai entre l'arrêt du tir et le refroidissement de se jouer
+- Réduction de la probabilité d'étourdissement de base de l'arme
+- Ajout d'un bonus de probabilité d'étourdissement et amélioration du bonus de la durée d'étourdissement du mod d'étourdissement, renommé en "Étourdissement amélioré"
+- Réduction du temps d'arrêt de la rotation et augmentation du bonus du mod "Réfrigération magnétique", correction d'un bug lié au mod qui n'affectait pas la durée pendant laquelle l'arme reste précise
+- Augmentation significative de la chance de ricochet et augmentation de la distance maximale du ricochet de l'overclock Tempête de Balles
+- L'overclock "Tempête de plomb" ne désactive plus l'étourdissement désormais, mais réduit significativement sa viabilité, permettant désormais d'être affecté par le mod "Étourdissement amélioré"
+
+Canon automatique lourd "Thunderhead"
+- Réduction du bonus de dégâts du mod "Boucle de rétroaction"
+- Augmentation du bonus de cadence de tir du mod "Système de gaz amélioré"
+- Déplacement d'une partie du bonus du mod "Ensemble de canons allégés" dans l'arme de base
+- Augmentation de la pénalité de dégâts direct et réduction légère du bonus de rayon de dégâts de zone de l'overclock "Tapis de Bombes"
+- Réduction légère des pénalités de dégâts direct et de zone, augmentation de la zone d'effet et de la probabilité d'empoisonnement de l'overclock "Charge de neurotoxines"
+- Modification du bonus de temps de rechargement de l'overclock "Mobilité de combat" par un bonus d'accélération de cadence de tir
+
+Auto 210 "Warthog"
+- Réduction du bonus du mod "Chargeur haute capacité"
+- Amélioration très légère du bonus de munitions du mod "Sacs de munitions agrandis"
+- Réduction très légère du bonus de munitions de l'overclock "Mini cartouches"
+- Réduction du bonus de munitions sur l'overclock "Chargeurs allégés"
+
+Mod "Coup de fouet"
+- Réduction du coût en munitions nécessaire à l'activation
+- Augmentation de la vitesse du projectile
+- Augmentation des dégâts
+- Augmentation du rayon de dégâts
+
+Grenade HE du foreur
+- Augmentation des dégâts
+- Augmentation des dégâts minimaux
+- Augmentation légère du rayon de dégâts maximums
+
+
+DIVERS
+----------------------------
+- Correction des crashs reliés au pathfinding
+- Correction des crashs lorsque vous rejoignez une partie
+- Correction d'un bug lié au terminal de promotion, qui n'affichait pas toujours le personnage sélectionné
+- Correction d'un bug lié au terminal de Bosco qui ne se fermait pas correctement en utilisant le raccourci de la manette
+- Correction de la capsule qui pouvait atterrir trop près des défis mécaniques, empêchant la complétion d'une mission
+- Correction d'un bug empêchant de débloquer des compétences en appuyant sur E
+- Correction d'un bug qui permettait l'annulation de rejoindre une partie, même si c'était impossible
+- Correction d'un bug lié à la génération des tunnels qui pouvaient ne pas se connecter correctement à la caverne suivante
+- Correction d'un bug qui téléportait le bidon de Doretta au début de la mission si un client avec un mauvais ping le transportait
+- Correction d'un bug qui permettait d'obtenir plus d'objets liés à l'objectif secondaire avec certains avertissements (Dysfonction du bouclier)
+- Essai de correction des grelots puants en 0,0,0
+- Essai de correction d'un bug lié à Bosco transportant des gemmes et à la connexion tardive d'un joueur
+- Pléthore de changements mineurs de l'interface utilisateur concernant les polices, le style, et l'espacement
+- Modifications de textures de la plateforme spatiale
+- Modification des effets sonores de la garde-Robe
+- Amélioration des placements des puits de morkite en Raffinerie. Probabilité amoindrie d'un placement erroné d'un puits
+- Réduction de l'échelonnage de quantité de schiste requise pour réapprovisionner le drilldozer selon le nombre de joueurs
+- Augmentation du DPS moyen des DoT de feu et amélioration de la fiabilité de celui-ci
+- Ralentissement léger de la vitesse à laquelle un joueur change de sens sur la tyrolienne
+- Augmentation de l'angle de base de la tyrolienne et du mod "Joint de liaison amélioré"
+- Les projectiles du LGP et du lance-plateformes bénéficient maintenant de la vélocité du joueur, simplifiant leur utilisation pendant la chute ou à de grandes vitesses
+- Les ennemis au sol pouvant attaquer à distance viseront maintenant plus souvent les joueurs sur les tyroliennes
+- L'herbe bouge quand les nains la traverse
+- DX12 est autorisé par défaut. Si vous rencontrez des problèmes avec DX12, vous pouvez toujours le changer pour DX11
+- Simplification de la traduction de nombreuses "strings"
+- Correction de bugs liés à l'interface utilisateur dans le menu du bar, ajout de l'interface dégeler au HUD lorsque le joueur est gelé par une Wormhole Special
+- Les minéraux minés par une explosion seront maintenant affecté par une force proportionnelle à la distance entre celui-ci et le centre de l'explosion/r
+- Restez à l'affût des nouvelles avec le tout nouveau dispenser d'information ajouté au terminal de commerce des minéraux
+- La barre de vie de Steeve affiche désormais le nom du joueur l'ayant apprivoisé
+"
+	Update_34_Xbox = "Bonjour Mineurs !
+Nous sommes de retour avec une mise à jour modeste pour vous ! Le travail sur les objectifs à long terme inclus dans la mise à jour 35 avance bien, mais avec la mise à jour 34, nous avons voulu réduire légèrement votre attente. Nous avons de nouveaux ennemis élite, la possibilité d'obtenir deux avertissements sur une seule mission, deux nouveaux avertissements à ajouter aux autres, une pléthore de modifications d'armes, et plus encore pour vous occuper !
+Il est temps de se replonger dans les profondeurs de Hoxxes et faire face aux nouveaux dangers !
+
+Avec toute notre affection,
+L'équipe Ghost Ship
+
+--- NOTES DE MISE À JOUR ---
+
+DOUBLE AVERTISSEMENTS - DEUX FOIS PLUS DE PLAISIR
+----------------------------
+Un comité de recherche dépêché par la direction a essayé de répondre à la question suivante: 'Quelles initiatives originales et intéressantes pourrions-nous introduire pour augmenter les profits de l'entreprise ?' Après beaucoup de sessions de création, de concepts et de maquettes, celui-ci a trouvé la réponse: Des missions avec deux avertissements au lieu d'un !
+
+Rassemblez une équipe de mineurs, et essayez-vous à ces défis extrêmes. Prouvez que vous êtes les plus durs parmi les durs, et que vous avalez des missions à simple avertissement pour le petit-déjeuner. Rock and Stone !
+NB: Les missions avec double avertissement sont considérées si éprouvantes qu'elles sont exclues des plongées abyssales et des affectations.
+
+NOUVEAUX AVERTISSEMENTS
+----------------------------
+De nouveaux dangers ont été découverts dans les cavernes ! 
+
+MENACE ÉLITE
+Les missions affichant cet avertissement provoquera obligatoirement des rencontes avec les ennemis élite.
+
+VERMINAGGEDON
+Un raz de marée de vermines vous attend dans les cavernes. Emportez un maximum de balles et de pesticide !
+
+
+CONFIGURATION DES MANETTES
+----------------------------
+Êtes-vous frustré par les commandes actuelles à la manette ? Ressentez-vous que vos performances de minage pourrait être améliorées si vos actions pouvaient être configurées différemment ? Voulez-vous une meilleure expérience avec votre manette ? Nous avons des bonnes nouvelles pour vous ! Avec la nouvelle option pour reconfigurer les actions sur votre manette, vous pourrez finalement obtenir la combinaison unique qui vous siéra le mieux.
+
+
+BALISTIQUE AMÉLIORÉE
+----------------------------
+La gestion des tirs a été remarquablement optimisée en terme de mise en réseau. Le résultat devrait se manifester par une réponse plus instantanée lors d'un coup de feu. Les projectiles utilisent également moins de bande passante !
+
+
+PROFILS DE SAUVEGARDE
+----------------------------
+Vous avez désormais l'option de gérer plusieurs profils de sauvegarde si vous jouez avec des mods (ou pour tout autre raison de votre convenance), vous permettant d'avoir une sauvegarde séparée pour vous amuser différemment.
+Cette fonctionnalité était originalement planifiée comme une partie du support de mod plus complet pour cette mise à jour, mais nous avons décidé de le repousser et de le sortir séparément plus tard. Nous travaillons sur une meilleure solution, plus compréhensible, qui permettra de jouer avec certains mods sur la sauvegarde principale. Nous en dévoilerons plus au fur et à mesure de l'avancement du projet, restez à l'écoute !
+
+
+MODIFICATIONS D'ARMES
+----------------------------
+Les gars de la R&D ont travaillé durement pour améliorer l'équilibrage des armes, overclocks, et modifications d'armes du jeu. Voici la liste des changements:
+
+Pistolet à rafales BRT7
+- Amélioration des dégâts de l'arme de base
+- Déplacement d'une partie du bonus du mod "Sécurité désactivée" dans l'arme de base
+- Réduction légère du bonus du mod "Sécurité désactivée"
+- Réduction de la pénalité de munition sur l'overclock "Cartouches expérimentales"
+- Modification de la pénalité de dégâts de l'overclock "Micro fléchettes" d'un pourcentage à une valeur fixe
+
+Overclock "Mini-éléctro-mines" du BRT7
+- Augmentation significative de la durée d’électrocution
+- Réduction de la pénalité de dégâts
+- Augmentation de la pénalité de chargeur
+- Augmentation de la durée de vie de la mini-mine
+
+Revolver lourd "Bulldog"
+- Déplacement d'une partie du bonus de dégâts du mod "Calibre des munitions augmenté" dans l'arme de base
+- Déplacement d'une partie du bonus de dégâts du mod "Munitions à haute vélocité" dans l'arme de base
+- Déplacement d'une partie du bonus de dégâts de points faible du mod "Cartouches à tête creuse" dans l'arme de base
+- Augmentation significative du déclenchement de l'overclock "Réaction en chaîne"
+- Réduction significative de la pénalité de dégâts de l'overclock "Balles volatiles"
+- Réduction du bonus de munitions de l'overclock "Six coups"
+- Augmentation du bonus de dégâts potentiel de "Poudre artisanale"
+- Augmentation du malus de dégâts potentiel de "Poudre artisanale"
+- Changement de la classification de l'overclock "Poudre artisanale", d'overclock propre à équilibré
+- Légère réduction de la pénalité de munitions de l'overclock "Balles éléphantesques"
+
+M1000 Classique
+- Augmentation des dégâts de base de l'arme
+- Réduction du bonus de dégâts sur point faible de base
+- Réduction du bonus de dégâts sur point faible du mod "Balles à tête creuse"
+- Déplacement d'une partie du bonus du mod "Bobines à chargement rapide" dans l'arme de base
+- Déplacement du mod "Munitions renforcées" du T4 au T2
+- Amélioration de la portée et de la puissance du mod "Précision terrifiante"
+- Modification du bonus de munitions de l'overclock "Chargeurs minimaux" pour une augmentation de chargeur basée sur un pourcentage
+- Légère réduction des pénalités de munitions et de vitesse de charge de l'overclock "Chambre de refroidissement améliorée"
+- Modification de la pénalité de dégâts de l'overclock "Hipster" d'un pourcentage à une valeur fixe, pour permettre d'atteindre des seuils critiques de dégâts, ainsi qu'une légère amélioration du bonus de munitions
+- Modification du viseur pour aider avec les tirs chargés ou à la hanche
+
+Deepcore GK2
+- Réduction de la pénalité de dégâts et augmentation significative de la durée d’électrocution de l'overclock "Rechargement électrisant"
+- Réduction de la pénalité de recul sur l'overclock "Mécanisme de tir overclocké"
+- Légère amélioration des munitions de base
+
+Chargeur plasma expérimental
+- Réarrangement de certains mods pour fournir plus de choix intéressants
+- Déplacement du mod "Onde de choc réactive" en T4
+- Déplacement du mod "Explosion de plasma étendue" en T4
+- Déplacement du mod "Bouclier Thermique" en T2
+- Amélioration très légère de la récupération du recul (requête communautaire, vous vous reconnaîtrez)
+- Réduction légère de la vitesse de charge de base
+- Ajout d'un pourcentage de dégâts bonus et augmentation de la pénalité de rayon d'effet sur le mod "Cauchemar volant"
+- L'overclock "Conducteur thermique" pénalise désormais la chaleur générée par les tirs chargés et non plus normaux
+- Réduction de la pénalité de consommation de munitions par tir chargé de l'overclock "Superchargeur", et modification de celui-ci d'un pourcentage à une valeur fixe
+- Réduction de la pénalité de dégâts de l'overclock "Plasma persistant", augmentation des dégâts infligés par le champ de plasma, et ajout d'un léger effet de ralentissement à ce champ
+
+Découpeur laser
+- Augmentation du bonus de temps de rechargement du mode "Éjecteur amélioré"
+- Augmentation des dégâts infligés par le champ de plasma du mode "Au-revoir explosif" et ajout d'un léger effet de ralentissement aux ennemis pris dans le champ
+- Suppression de la pénalité de munitions de l'overclock "Inferno"
+- Réduction de la pénalité de dégâts de l'overclock "Mort tournoyante"
+
+SMG voltaïque "Stubby"
+- Réduction légère du recul de base
+
+Overclock "Arc électrique de tourelle"
+- Augmentation de la distance maximale autorisée entre les tourelles pour la formation d'un arc
+- Augmentation des dégâts de l'arc
+- Augmentation du ralentissement de l'arc
+- Augmentation de la durée de l'arc
+- Augmentation de la zone d’électrocution par la tourelle
+- L’électrocution générée par les tourelles infligent désormais significativement moins de dégâts alliés, et ne ralentissent plus les joueurs
+
+Overclock "Décharge EM de tourelle"
+- Augmentation des dégâts de la décharge
+- Amélioration de la portée avant laquelle les dégâts commencent à réduire
+- Réduction significative des dégâts de tir allié
+- Réduction de la pénalité de dégâts de l'overclock
+- Modification de la pénalité de pourcentage d’électrocution pour une pénalité légère de taille de chargeur
+
+Subata 120
+- Augmentation du bonus du recul par tir de l'arme de base
+- Réduction de la pénalité de cadence de tir de l'overclock "Balles tranquillisantes"
+- Augmentation de la probabilité de déclenchement de l'overclock "Réaction en chaîne"
+
+Zhukov NUK17
+- Ajout d'un bonus de dégâts sur point faible dans l'arme de base
+- Déplacement d'une partie du bonus de munitions du mod "Sacs de munitions agrandis" du T4 dans l'arme de base
+- Réduction légère de la dispersion de base
+- Augmentation du bonus de réduction de recul du mod "Équilibre amélioré"
+- Modification de la pénalité de dégâts de l'overclock "Chargeur customisés" pour une pénalité de cadence de tir
+- Augmentation de la probabilité de créer une mini-cryo-mine avec l'overclock du même nom, et réduction des particules, qui devrait aider à améliorer les performances et la visibilité
+
+Fusil à canon scié trafiqué
+- Amélioration de la probabilité et de la durée d'étourdissement du mod d'étourdissement du T3
+- Correction de l'affichage des statistiques d'étourdissement par une valeur "par plomb"
+- Réduction de la pénalité de plombs de l'overclock "Cartouches façonnées", ainsi qu'une augmentation du bonus de précision.
+
+Cryo Canon
+- Amélioration légère du bonus fourni par le mod "Pompe améliorée"
+- Modification de la classification de l'overclock "Refroidisseur parfaitement calibré" d'un overclock propre à un équilibré, modification du nom de l'overclock en "Refroidisseur calibré" et ajout d'une pénalité de repressurisation ainsi qu'une pénalité légère de temps de chargement
+- Ajout d'un bonus de dégâts contre les cibles gelées sur l'overclock "Tempête de glace", ainsi qu'une augmentation de la pénalité de munitions
+
+Lance-flammes CRSPR
+- Amélioration de la probabilité de peur du mod "Ça brûle !"
+- Déplacement d'une partie du bonus de dégâts du mod "Carburant non filtré" dans l'arme de base
+- Ajout d'un bonus de munitions et d'une pénalité légère de temps de rechargement sur l'overclock "Valves d'alimentation compactes"
+- Augmentation des bonus de dégâts et de flux de l'overclock "Fondeur de visage", modification de la pénalité de munitions par une pénalité de portée et modification de la pénalité de vitesse de déplacement par une pénalité de capacité de réservoir
+
+LGP 40mm Deepcore
+- Augmentation de la portée avant réduction des dégâts, et augmentation significative des dégâts minimaux
+- Augmentation du bonus de dégâts du mod "Mélange HE"
+- Réduction du bonus de munitions du mod "Sacs de munitions agrandis" du T2
+- Déplacement du mod "Grenades à haute vélocité" du T2 au T3
+- Ajout d'un léger bonus de rayon d'explosion au mod "Déclencheur de proximité"
+- Augmentation de la pénalité de dégâts de l'overclock "Mélange RJ250" et ajout d'un bonus élevé de temps de rechargement, ainsi qu'un bonus de munitions élevé
+- Augmentation du bonus de munitions de l'overclock "Munitions compactes"
+
+Minigun alimenté "Lead Storm"
+- Réduction de l'effet de refroidissement du mod "Froid comme la mort"
+- Le mod "Ventilation agressive" réduit maintenant considérablement le temps de récupération lié à une surchauffe
+- Déplacement d'une partie du bonus du mod "Amélioration de la stabilité de la plateforme" dans l'arme de base
+- Le mod "Réfrigération magnétique" réduit maintenant considérablement le délai avant refroidissement
+- Correction d'un bug qui empêchait un petit délai entre l'arrêt du tir et le refroidissement de se jouer
+- Réduction de la probabilité d'étourdissement de base de l'arme
+- Ajout d'un bonus de probabilité d'étourdissement et amélioration du bonus de la durée d'étourdissement du mod d'étourdissement, renommé en "Étourdissement amélioré"
+- Réduction du temps d'arrêt de la rotation et augmentation du bonus du mod "Réfrigération magnétique", correction d'un bug lié au mod qui n'affectait pas la durée pendant laquelle l'arme reste précise
+- Augmentation significative de la chance de ricochet et augmentation de la distance maximale du ricochet de l'overclock Tempête de Balles
+- L'overclock "Tempête de plomb" ne désactive plus l'étourdissement désormais, mais réduit significativement sa viabilité, permettant désormais d'être affecté par le mod "Étourdissement amélioré"
+
+Canon automatique lourd "Thunderhead"
+- Réduction du bonus de dégâts du mod "Boucle de rétroaction"
+- Augmentation du bonus de cadence de tir du mod "Système de gaz amélioré"
+- Déplacement d'une partie du bonus du mod "Ensemble de canons allégés" dans l'arme de base
+- Augmentation de la pénalité de dégâts direct et réduction légère du bonus de rayon de dégâts de zone de l'overclock "Tapis de Bombes"
+- Réduction légère des pénalités de dégâts direct et de zone, augmentation de la zone d'effet et de la probabilité d'empoisonnement de l'overclock "Charge de neurotoxines"
+- Modification du bonus de temps de rechargement de l'overclock "Mobilité de combat" par un bonus d'accélération de cadence de tir
+
+Auto 210 "Warthog"
+- Réduction du bonus du mod "Chargeur haute capacité"
+- Amélioration très légère du bonus de munitions du mod "Sacs de munitions agrandis"
+- Réduction très légère du bonus de munitions de l'overclock "Mini cartouches"
+- Réduction du bonus de munitions sur l'overclock "Chargeurs allégés"
+
+Mod "Coup de fouet"
+- Réduction du coût en munitions nécessaire à l'activation
+- Augmentation de la vitesse du projectile
+- Augmentation des dégâts
+- Augmentation du rayon de dégâts
+
+Grenade HE du foreur
+- Augmentation des dégâts
+- Augmentation des dégâts minimaux
+- Augmentation légère du rayon de dégâts maximums
+
+
+DIVERS
+----------------------------
+- Correction des crashs reliés au pathfinding
+- Correction des crashs lorsque vous rejoignez une partie
+- Correction d'un bug lié au terminal de promotion, qui n'affichait pas toujours le personnage sélectionné
+- Correction d'un bug lié au terminal de Bosco qui ne se fermait pas correctement en utilisant le raccourci de la manette
+- Correction de la capsule qui pouvait atterrir trop près des défis mécaniques, empêchant la complétion d'une mission
+- Correction d'un bug empêchant de débloquer des compétences en appuyant sur E
+- Correction d'un bug qui permettait l'annulation de rejoindre une partie, même si c'était impossible
+- Correction d'un bug lié à la génération des tunnels qui pouvaient ne pas se connecter correctement à la caverne suivante
+- Correction d'un bug qui téléportait le bidon de Doretta au début de la mission si un client avec un mauvais ping le transportait
+- Correction d'un bug qui permettait d'obtenir plus d'objets liés à l'objectif secondaire avec certains avertissements (Dysfonction du bouclier)
+- Essai de correction des grelots puants en 0,0,0
+- Essai de correction d'un bug lié à Bosco transportant des gemmes et à la connexion tardive d'un joueur
+- Pléthore de changements mineurs de l'interface utilisateur concernant les polices, le style, et l'espacement
+- Modifications de textures de la plateforme spatiale
+- Modification des effets sonores de la garde-Robe
+- Amélioration des placements des puits de morkite en Raffinerie. Probabilité amoindrie d'un placement erroné d'un puits
+- Réduction de l'échelonnage de quantité de schiste requise pour réapprovisionner le drilldozer selon le nombre de joueurs
+- Augmentation du DPS moyen des DoT de feu et amélioration de la fiabilité de celui-ci
+- Ralentissement léger de la vitesse à laquelle un joueur change de sens sur la tyrolienne
+- Augmentation de l'angle de base de la tyrolienne et du mod "Joint de liaison amélioré"
+- Les projectiles du LGP et du lance-plateformes bénéficient maintenant de la vélocité du joueur, simplifiant leur utilisation pendant la chute ou à de grandes vitesses
+- Les ennemis au sol pouvant attaquer à distance viseront maintenant plus souvent les joueurs sur les tyroliennes
+- L'herbe bouge quand les nains la traverse
+- DX12 est autorisé par défaut. Si vous rencontrez des problèmes avec DX12, vous pouvez toujours le changer pour DX11
+- Simplification de la traduction de nombreuses "strings"
+- Correction de bugs liés à l'interface utilisateur dans le menu du bar, ajout de l'interface dégeler au HUD lorsque le joueur est gelé par une Wormhole Special
+- Les minéraux minés par une explosion seront maintenant affecté par une force proportionnelle à la distance entre celui-ci et le centre de l'explosion/r
+- Restez à l'affût des nouvelles avec le tout nouveau dispenser d'information ajouté au terminal de commerce des minéraux
+- La barre de vie de Steeve affiche désormais le nom du joueur l'ayant apprivoisé
 "
 	Update_12 = "Salut les Mineurs!
 
@@ -3174,6 +3700,7 @@ DIVERS
 	Update_13_ShortTitle = "PETITS CHANGEMENTS"
 	Update_34_Shorttitle = "MODESTES ATTENTES"
 	Update_15_ShortTitle = "DANGER DE MUTATION !"
+	Update_34.5_Header = "Modding support"
 	Update_34.5_ShortTitle = "Modding support"
 	Update_33_Shorttitle = "NOUVELLES FRONTIÈRES"
 	Update_17_ShortTitle = "OKTOBERFEST !"

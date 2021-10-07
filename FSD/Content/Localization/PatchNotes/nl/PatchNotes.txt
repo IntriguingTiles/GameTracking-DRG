@@ -1,8 +1,8 @@
-81 entries
+83 entries
 1 namespaces
-78 values
+80 values
 
-Namespace PatchNotes (81 keys)
+Namespace PatchNotes (83 keys)
 	Update_30_Header = "1.0 LANCEREER"
 	Update_30_ShortTitle = "1.0 LANCEREER"
 	Update_23 = "Goed, mijnwerkers - verzamel "ronde en stop op!
@@ -1608,6 +1608,211 @@ MISC.
 - Mission Control kondigt nu zwaartekracht heralibratie aan.
 - De hosting speler springt nu op dezelfde hoogte als de cliënten (was eerder lager).
 "
+	Update_34.5 = "Hallo mijnwerkers.
+
+Dit is het dan. Het gaat eindelijk gebeuren - Modding ondersteuning is hier!
+
+Wat begon als een simpel Save Game profiel systeem veranderde in een volwaardige modding ondersteuning. We hebben de afgelopen maanden samen met de modding-gemeenschap aan deze functies gewerkt, en het was geweldig om te zien hoe deze update zijn vruchten afwerpt. We zijn verheugd dat jullie de kans krijgen om alle rare/leuke/grappige/puzzelende mods uit te proberen. We hebben jullie veel te vertellen over deze release, dus laten we er meteen induiken:
+
+Met liefde,
+The Ghost Ship Crew
+
+--- PATCH NOTES ---
+
+MODDING MENU
+----------------------------
+Je hebt toegang tot alle mods vanuit het spel via het gloednieuwe Modding Menu. Het Modding Menu is de plek waar je al je geïnstalleerde mods gemakkelijk kunt in- en uitschakelen.
+
+We hebben al eerder vermeld dat we Mod.io gebruiken als een mod hosting platform. Je kunt de DRG mod.io pagina makkelijk openen vanuit het spel, en je hoeft dit alleen te doen wanneer je je aan- of afmeldt voor mods. Het spel zal er dan voor zorgen dat die mods geïnstalleerd/gedeïnstalleerd worden. En je kunt gemakkelijk mods activeren en deactiveren vanuit het modding-menu en de mods die je hebt geïnstalleerd sorteren op naam, goedkeuringscategorie en of ze zijn ingeschakeld of niet.
+
+Als je door mods bladert, zul je snel vertrouwd raken met onze drie goedkeuringscategorieën: Geverifieerd, Goedgekeurd en Sandbox. We hebben deze uitgebreid beschreven in onze laatste Steam post en onze mod.io richtlijnen. Maar hier is een overzicht van elke categorie:
+
+Geverifieerde (voor Base Game) mods zijn QoL mods die geen invloed hebben op de gameplay of audio, visuele mods die de toegankelijkheid verbeteren, en gelokaliseerde versies van in-game graphics. Mods met de types: Cosmetics, Visual, en Audio vallen automatisch in de Verified Category als ze alleen cosmetische of audio bestanden wijzigen. Dit wordt automatisch gedetecteerd in het spel.
+
+Goedgekeurde (voor progressie) mods zijn uitdagende of alternatieve spelmodi, wijzigingen in wapenstatistieken, en mods die de gameplay-elementen matig wijzigen terwijl de progressie nog steeds overeenkomt met die van het gewone spel.
+
+Sandbox mods zijn alle mods die beloningen of missie-uitbetalingen veranderen, en mods die direct items in het spel vrijspelen.
+
+Het is eindelijk tijd om die Haz 6 missie in een badpak te doen met je piepende speelgoedhamer in plaats van je houweel. Veel plezier met mijnen!
+
+
+SERVER TAGGING EN INFO
+----------------------------
+Je kunt nu duidelijk zien op welke servers mods draaien en op welke niet. Je hoeft niet meer te vertrouwen op de host om dit in de titel te zetten. Je kunt ook duidelijk zien welke mods een host heeft geïnstalleerd voordat je lid werd.
+Er zijn ook filters in de serverlijst waarmee u kunt kiezen of je servers met goedgekeurde of Sandbox-mods wilt tonen of verbergen - dit betekent dat je veel meer controle hebt over uw serverlijst.
+Je hoeft je geen zorgen meer te maken dat je per ongeluk bij gemodde hosts komt. Geen verrassingen meer en het terugzetten naar een vorige save wanneer je per ongeluk een miljoen XP hebt gekregen van een gemoded spel. Met deze update moet modden veilig, leuk en transparant zijn.
+
+VERBETERDE MOD ACTIVATIE/DEACTIVATIE BIJ AANSLUITEN
+----------------------------
+Met geverifieerde mods kun je het spel spelen en met anderen meedoen zoals je gewend bent, maar met Sandbox en Goedgekeurde mods zijn er beperkingen. Goedgekeurde mods vereisen dat iedereen in een missie deze mods geïnstalleerd heeft. Sandbox mods doen dat ook en vereisen dat je in een Sandbox Save Game zit (nu mogelijk gemaakt door Save Game Profielen).
+    Maar maak je geen zorgen, je hoeft dat allemaal niet te onthouden. Het spel zorgt ervoor dat je Goedgekeurde mods uitgeschakeld worden als je bij een host komt die deze mods niet geïnstalleerd heeft. En als je een host bent met Goedgekeurde of Sandbox mods geïnstalleerd, dan zal het spel ervoor zorgen dat andere spelers diezelfde mods geïnstalleerd hebben als ze ervoor kiezen zich bij jouw spel aan te sluiten en het zal zelfs die mods voor hen uitschakelen, als ze vertrekken. Zoals hierboven vermeld, kunnen ze zien welke mods je gebruikt voor ze bij je komen.
+    Sandbox is een beetje anders. Hier moet je je Sandbox-mods uitschakelen en teruggaan naar je hoofd save om niet-Sandbox hosts te zien in de serverlijst.
+
+
+NATIVE BLAUWDRUK SPAWNEN
+----------------------------
+Deze functie is in de eerste plaats voor modders. Het geeft iedereen die het spel aanpast betere toegang tot bepaalde functies en mogelijkheden in DRG. Als je geïnteresseerd bent in het bouwen van mods voor DRG, er is al een levendige modding gemeenschap. Heb je het gevoel dat de grot bloedzuigers een zonnebril missen? Of dat BOSCO een tophat kan gebruiken? Of misschien wil je de voice lines voor mission control in een andere taal doen? Dan is het tijd om aan de slag te gaan met die DRG mod.
+
+
+VERZOEK VAN DE GEMEENSCHAP
+----------------------------
+- Vertaling test branch: Dit is eigenlijk al een tijdje live. Als je een vertaler uit de gemeenschap bent, heb je nu toegang tot een steam branch met een nachtelijke build met de nieuwste vertalingen van Crowdin. Dus je hoeft niet te wachten op een release om je werk in-game te zien. Als je geïnteresseerd bent in het leveren van vertalingen voor de gemeenschap of DRG, is er een vertalerskanaal op onze Discord met een zeer actieve gemeenschap.
+
+
+MISC.
+----------------------------
+- Een nieuw tabblad toegevoegd in het ESC-menu voor Modding Support
+- Een nieuwe Stekende liaan killcry callout toegevoegd.
+- Ondersteuning toegevoegd voor een "-disablemodding" command regel argument dat kan worden toegevoegd aan de Steam launch opties om mods uit te schakelen als je crashes tegenkomt.
+- Ondersteuning toegevoegd voor een gedeeld opslagspel tussen de live tak en de vertaaltak
+- [VERZOEK VAN DE GEMEENSCHAP] Wikkelbaarheid toegevoegd aan beloningstekst op de "Je bent gekickt" popup om langere vertalingen mogelijk te maken.
+- [VERZOEK VAN DE GEMEENSCHAP] Wikkelbaarheid toegevoegd aan 'Toon infoscherm bij opstarten' tekst om langere vertalingen mogelijk te maken zonder overlappende UI-elementen.
+- [VERZOEK VAN DE GEMEENSCHAP] Wikkelbaarheid toegevoegd aan subkoptekst op het Herdenkingshal scherm om langere vertalingen mogelijk te maken.
+- Ondertitels toegevoegd aan het geluid dat wordt gemaakt bij het gooien om een probleem met blanco ondertitels op te lossen
+- Ondertitels toegevoegd aan een verdedigingsoproep om een probleem met blanco ondertitels op te lossen
+- Ondertitels toegevoegd aan hoest- en gromgeluiden om een probleem met blanco ondertitels op te lossen.
+- Ondertitels toegevoegd aan zwaaiende geluiden om een probleem met blanco ondertitels op te lossen
+- Ondertitels toegevoegd aan de Burning Love reacties om een probleem met blanco ondertitels op te lossen
+- Ondertitels toegevoegd aan de Gut Wrecker reacties om een probleem met blanco ondertitels op te lossen.
+- Ondertitels toegevoegd aan de Mactera Brew reacties om een probleem met blanco ondertitels op te lossen.
+- Lokaliseerbaarheid toegevoegd aan Mastery Unlock pop-ups
+- Lokaliseerbaarheid toegevoegd aan Liquid morkiet bron op de Laser Aanwijzer
+- Lokaliseerbaarheid toegevoegd aan de Diepe Duik Instructies in de Diepe Duik Terminal
+- Lokaliseerbaarheid toegevoegd aan ontbrekende strings op de Herstel Save overlay
+- Typefouten in de ondertitels hersteld bij het overbrengen van de coördinaten van Verloren uitrusting naar de Terreinscanner
+- Typefouten in de aanhalingstekens voor de Schimmel Moerassen biome opgelost
+- Typefouten en onjuist hoofdlettergebruik in de ondertiteling bij het oproepen van de transport capsule verholpen
+- Een andere save heeft meer voortgang popup, ook al heeft een andere save NIET meer voortgang gefixt
+- Typefouten verbeterd in alle ondertitels die te maken hebben met het upgraden van Bosco, vaardigheden of uitrusting.
+- Typefout in de ondertiteling bij het wachten op vertrek in de transport capsule opgelost
+- Typefouten in de ondertiteling bij het ontwaken in de cabine en in de Medbay opgelost
+- Typefouten in de ondertiteling bij het mijnen opgelost
+- Typefouten in de ondertiteling bij het gebruik van de zipline opgelost
+- Overtollige spaties in de ondertitels bij de aankomst van een bevoorradingscapsule opgelost.
+- Typefouten en spaties in de ondertiteling bij het slaan van de kabouter bij het ruimtevaartuig zijn verholpen.
+- Typefouten en overbodige spaties in de ondertiteling bij het meppen met dobbelstenen opgelost
+- Onlogisch hoofdlettergebruik van het Sentry Gun in de ondertitels opgelost
+- Typefout verbeterd in de dialoog van Missie Controle wanneer de brandstofcellen zijn aangesloten op de transport capsule.
+- Overtollige spaties in de ondertitels hersteld wanneer Doretta gerepareerd moet worden
+- Typefouten, inconsistent hoofdlettergebruik en overbodige spaties in alle ondertitels in de Raffinaderij-missie verholpen
+- Typefouten in de ondertiteling bij een aanval op Doretta opgelost
+- Typefouten in de ondertiteling bij het indrukken van de zwaartekrachtknop op het Ruimteschip opgelost 
+- Typefouten in de ondertiteling bij het oppakken van een pikhouweel overcharger opgelost
+- Typefouten in de ondertiteling bij het plaatsen van het Schuttersschild Generator opgelost
+- Typfouten in de ondertiteling bij power aanvallen opgelost.
+- Typefouten in de ondertitels bij het aaien verholpen
+- Typefouten in de ondertiteling bij alle vaardigheden activatie kreten opgelost.
+- Typefouten in de ondertiteling hersteld wanneer de speler wordt gevangen door een grot bloedzuiger.
+- Typefouten in de verschillende ondertitels hersteld wanneer de speler geen brandstof, munitie of granaten meer heeft.
+- Typefout verbeterd in de inleiding van de Punt Extractie-missie door Missie Controle.
+- Tikfout verbeterd in de aankondiging door Missie Controle van de aankomst van de transport capsule in de Punt Extractie-missie.
+- Overtollige spaties in de ondertitels hersteld wanneer de M.U.L.E. terugkeert naar de landingszone.
+- Typefouten, inconsistent hoofdlettergebruik en overbodige spaties in de ondertitels van alle Machine Event-dialogen opgelost
+- overtollige spaties in de ondertitels bij het smeden van overkloks verholpen
+- inconsistent hoofdlettergebruik in de ondertiteling bij het smeden verholpen
+- Typefout verbeterd wanneer de speler wordt gevangen door een Mactera Grijper
+- inconsistente spelling van de Lootbug in ondertitels, perkbeschrijvingen, mijlpalen en het Mijnwerkershandboek opgelost
+- Overtollige spaties in de ondertitels bij het afvuren van het Vuurpijlgeweer opgelost
+- Een overbodige spatie in de ondertiteling bij interactie met de Jukebox is verholpen.
+- Typefouten in de ondertiteling bij het storten in de M.U.L.E. opgelost
+- Typefouten in de ondertiteling bij het activeren van Heightened Senses opgelost
+- Typefout in de ondertiteling bij het delven van Rode Suiker opgelost
+- typfout in de ondertiteling bij het rijden op pijpleidingen opgelost
+- Typfout in de ondertiteling bij het gebruik van de grijphaak van de verkenner verholpen.
+- Typfouten in de ondertitels bij het herladen van het schild van de Schutter opgelost.
+- Typefouten, inconsistent hoofdlettergebruik en overbodige spaties in de ondertitels van alle granaatwaarschuwingen verholpen
+- Typefouten in de ondertiteling hersteld wanneer de speler vriendschappelijk wordt beschoten
+- Typefouten, inconsistent hoofdlettergebruik en spaties in de ondertitels van alle Escort Duty Missie Controle-dialogen zijn hersteld.
+- Beschrijving van de Dreadnought-cocon op de laseraanwijzer verbeterd
+- inconsistente beschrijvingen voor bergingsmissie-items op de laseraanwijzer hersteld
+- Het coconicoon van de Dreadnought op de laseraanwijzer is vervangen door de gekleurde variant.
+- typfout in de ondertiteling van de Dreadnought Laser Aanwijzer callout hersteld
+- Fout verholpen waardoor de tekst van Missie mislukt in bepaalde talen overlap had met andere UI-elementen op het scherm Missie voltooid.
+- Typefout verbeterd in een pop-up bericht dat de speler waarschuwt voor het mogelijk overschrijven van een bestaand Opslagpunt.
+- Typefouten, inconsistent hoofdlettergebruik en te veel spaties in de ondertitels van alle Laser Aanwijzer callout dialogen opgelost.
+- Typefouten en inconsistent hoofdlettergebruik in de ondertiteling van alle killcry-oproepdialogen opgelost
+- Typefouten en inconsistent hoofdlettergebruik in de ondertitels van alle schietdialogen opgelost
+- Typefouten en inconsequent hoofdlettergebruik in de ondertiteling van diverse dialogen tijdens missies zijn hersteld.
+- Typefouten en inconsistent hoofdlettergebruik in de ondertitels van de dialoog over de mineralenhandel opgelost
+- Diverse typefouten opgelost die door de gemeenschap op Jira zijn gemeld
+- Typefouten in alle ondertitels in de Tutorial missie gefixt
+- Typefouten in ondertitels voor reacties op het wapengevecht opgelost
+- Typefouten in ondertitels voor diverse algemene dialogen verholpen
+- Diverse typefouten en inconsistent hoofdlettergebruik in alle ondertitels voor de Missie Controle-dialoog in Diepe Duiken verbeterd.
+- Typfouten verbeterd in de ondertiteling van de Missie Controle-dialoog wanneer alle Aquarqs zijn verzameld.
+- Typefouten en overtollige spaties in de ondertiteling bij het reageren op de omgeving verholpen
+- Typefouten in de ondertiteling bij het reageren op vliegen opgelost
+- Typefouten in de ondertiteling bij het zoeken naar nieuwe uitrusting in De Winkel opgelost
+- Typefouten in de ondertiteling bij hoestgeluiden verholpen
+- Typefouten in de ondertiteling bij karakter-specifieke dialogen opgelost
+- Typefouten verbeterd in alle ondertitels voor de dialoog over de brandstofcannister.
+- Typfouten in de ondertiteling hersteld bij het bevel aan Bosco om zijn raketten af te vuren.
+- Een overtollig spatieteken in de ondertiteling bij de opdracht aan Bosco om te mijnen is gefixt.
+- Typfout verbeterd bij het geven van de opdracht aan Bosco om te verlichten.
+- Typfout in de ondertitels hersteld bij het geven van de opdracht aan Bosco om iets te halen.
+- Fout verbeterd in de ondertiteling bij het dragen van een zwaar voorwerp
+- Verschillende typefouten verbeterd bij het bestellen van bier.
+- Typefouten en hoofdlettergebruik in alle ondertitels met betrekking tot de bar zijn verbeterd.
+- Weer een typfout in de ondertiteling bij het drinken van een Blacklock Lager opgelost.
+- Typfouten in de ondertiteling bij het nuttigen van een Blacklock Lager opgelost
+- Een typfout in de ondertiteling bij het positief reageren op een biertje is verbeterd.
+- inconsistent hoofdlettergebruik in meer Mission Control-dialogen opgelost
+- De formulering van de tutorial hint die beschrijft hoe de tutorial opnieuw gespeeld kan worden, is verbeterd.
+- Typfout verbeterd in de hint voor de tutorial die beschrijft hoe de Tutorial-missie opnieuw gespeeld kan worden.
+- Typefout in de aanwijzingen voor het laadscherm verholpen
+- inconsistente naamgeving van de bevoorradingscapsule in chatwaarschuwingen, zelfstudie hints, UI, en de laser aanwijzer opgelost
+- inconsequent hoofdlettergebruik in Missie Controle dialoog voor opdrachten en promoties opgelost
+- inconsequent hoofdlettergebruik in Missie Controle-dialoog op het Ruimtevaartuig opgelost
+- inconsequent hoofdlettergebruik in Missie Controle dialoog in Punt Extractie Missie verholpen
+- inconsequent hoofdlettergebruik in inkomende bevoorradingsdropwaarschuwingen verholpen
+- inconsequent hoofdlettergebruik in Missie Controle tutorial dialoog opgelost
+- inconsequent hoofdlettergebruik in golfwaarschuwingen van Missie Controle opgelost
+- Meer gevallen van inconsistent hoofdlettergebruik in Missie Controle-dialoog opgelost.
+- Typefouten en inconsistenties in de dialoog van Missie Controle in eliminatiemissies verholpen
+- inconsequent hoofdlettergebruik in dialoog van Missie Controle opgelost wanneer alle buitenaardse eieren zijn verzameld
+- Typefouten en inconsistenties in de dialoog van Missie Controle bij het voltooien van een doel verbeterd
+- inconsistent hoofdlettergebruik in de dialoog van Missie Controlel wanneer de M.U.L.E. is aangemeerd, verholpen
+- Typfout in de inleiding van Missie Controle over de Mijnexpeditie hersteld
+- inconsequent hoofdlettergebruik in het dialoogvenster van Missie Controle voor Missie Selectie hersteld
+- inconsequent hoofdlettergebruik in het dialoogvenster van Missie Controle bij Bergingsmissie opgelost
+- Typfout verbeterd in het chat-bericht wanneer de M.U.L.E. kan worden teruggeroepen naar de transport capsule.
+- Typefout in de ondertiteling bij het gooien van sneeuwballen verholpen
+- Een overbodige spatie in het menu Saves is verholpen.
+- Typefout verbeterd in het Zand Gravers-scherm van de Mijnwerkers Unie Terminal
+- Verschillende inconsistente beschrijvingen van grondstoffen op de Laser Aanwijzer zijn opgelost.
+- Typefout verbeterd in de beschrijving van Dystrum op de Laser Aanwijzer
+- Typefouten verbeterd in de beschrijving van Magniet op de Laser Aanwijzer
+- Typefout verbeterd in de beschrijving van Hollomiet in de Laser Aanwijzer
+- Verschillende gevallen van inconsistent hoofdlettergebruik van alle nieuwskoppen opgelost.
+- Verschillende overtollige spaties aan het eind van nieuwskoppen op bepaalde terminals in het Ruimtestation opgelost.
+- Typfout verbeterd in de inleiding van Missie Controle over bergingsmissies.
+- Typefout verbeterd in de aankondiging van Missie Controle dat alle mini M.U.L.E.'s zijn gerepareerd.
+- Typefout verbeterd in de aankondiging van Missie Contro dat alle mini M.U.L.E.'s gerepareerd worden.
+- Een typfout in een van de citaten voor de Magma Kern biome opgelost.
+- Een typfout in de ondertiteling bij het doden van een onschuldige Grotengel (hoe durf je!) is hersteld.
+- Typefout in de ondertiteling bij het markeren van een Kernnfuser met de Laser Aanwijzer opgelost
+- Typefouten in het menu voor de besturingsaanpassing zijn hersteld.
+- Typefouten in de besturingsopties opgelost.
+- Typefout verbeterd in de Missie Selectie
+- Typefout verbeterd bij het markeren van een brouwingrediënt met de laserpointer.
+- Typefout verbeterd in een van de aanhalingstekens voor de Magma Kern biome.
+- Typefout verbeterd in de inleiding van Missie Controle bij de tweede fase van een Diepe Duik
+- Typefout verbeterd in de ondertiteling bij het plaatsen van een springlading.
+- Typefout verbeterd in het item Webspuwer in het Mijnwerkershandboek Bestiarium
+- Typefout verbeterd in de nieuwskoppen die op bepaalde terminals in het Ruimtetuig worden getoond.
+- Typefout verbeterd in de vermelding Glyphid Dreadnought Tweeling in het Mijnwerkershandboek Bestiarium.
+- Typefout in de nieuwskoppen van bepaalde terminals in het Ruimtestation opgelost
+- Typefout verbeterd in de beschrijving van de overklok van de Compacte Voederkleppen voor de CRSPR Vlammenwerper.
+- Typefout in de nieuwskoppen van bepaalde terminals in het Ruimtestation opgelost
+- Typefout verbeterd in de ondertiteling bij het markeren van een Dreadnought zwermwachter met de laser aanwijzer.
+- Verscheidene typefouten in de ondertiteling bij het reageren op schade door doornen verholpen
+- Verscheidene typfouten in de ondertiteling bij het storten in de M.U.L.E. hersteld.
+- Een typefout in het menu UI-opties opgelost.
+- Typefout in de biome beschrijving van Boom der Leegte verholpen
+- Typefouten in Zwermer Tunnel shouts opgelost
+- Typefout verbeterd in de beschrijving van de Inertia Inhibitor upgrade voor de Deepcore 40mm PGL
+- Crash verholpen die soms kon optreden wanneer het pantser van de Dreadnought werd vernietigd.
+- Probleem verholpen waarbij je niet aan een spel kon deelnemen, als je net aan een spel had deelgenomen en dat mislukte omdat iemand op hetzelfde moment als jij aan het spel deelnam en er sneller bij was waardoor de server vol was"
 	Update_28 = "Hallo mijnwerkers.
 Voel je je Perky? Goed, want UPDATE 28 is hier om jullie tevreden te stellen met een grondige revisie van ons hele vaardigheid systeem, het eerste deel van het Ruimtestation herontwerp, evenals een zeer coole nieuwe toevoeging aan de manier waarop je het uiterlijk van je vuurwapens kunt aanpassen. 
 
@@ -3979,6 +4184,7 @@ MISC.
 	Update_13_ShortTitle = "MINDERE LEVENS VERANDERINGEN"
 	Update_34_Shorttitle = "BESCHEIDEN VERWACHTINGEN"
 	Update_15_ShortTitle = "MUTATIE WAARSCHUWING!"
+	Update_34.5_Header = "Modding Ondersteuning"
 	Update_33_Shorttitle = "NIEUWE GRENZEN"
 	Update_21.5_ShortTitle = "EEN JAAR IN OMLOOP"
 	Update_32_Shorttitle = "RUIGNEKKEN AAN HET WERK"
