@@ -1,8 +1,8 @@
-11985 entries
+11984 entries
 44 namespaces
-9778 values
+9777 values
 
-Namespace Global (11078 keys)
+Namespace Global (11076 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 Обычно проблема связана с:
 - Отсутствует интернет-соединение
@@ -2749,7 +2749,6 @@ The Ghost Ship Crew"
 	E1EAF02846B9641CCEF665A0C2D67DC1 = "Грязь! Где-то здесь должна быть грязь...!"
 	688E17E74AAF94913634D59AF561C5F3 = "Грязи"
 	5C2CE082461D6D9FB80439A55C0A8B32 = "Отключить главный эквалайзер"
-	FDFE1DF34DCEB3EFF8CE239272CF36E8 = "Отключено"
 	59F89B954BC27E80DA2F0CB6C585248E = "Выключенный инерционный ингибитор"
 	CB5D96AD4AE9AE2706333B97CF298A61 = "Выключенный ингибитор инерции"
 	3203D4FF4273B34F23E33FA8BD421BDD = "Отключённый предохранитель"
@@ -5946,7 +5945,6 @@ Ghost Ship Crew"
 	6DBDCDF1447469C9E2D2B2AD7843C8BB = "Загрузить"
 	C378A6D140F76CE8CF5C7285EAA25544 = "Загрузить"
 	75022E8843555DDC0D7459A9B8A3D75F = "Загрузить игру"
-	B2F1420E4090E05C25ADCABF928AD893 = "Загрузить стандартное сохранение"
 	7FC9FDC6437E8C50B95D4185946C8C3D = "Загруженности"
 	C9258B324B4E2508F186AFBC917A469E = "Загруженности"
 	6564A7DC419EB8FA511A8687187C7B44 = "Плотнозаряженные снаряды"
@@ -11579,7 +11577,7 @@ Namespace Missions (4 keys)
 	AC8C82C9467F1B6CF71EE79570922140 = "Переработка на месте"
 	94AE1E06446023F5707A4F9F6127CAD2 = "Защитите Бурдозер"
 
-Namespace Modding (21 keys)
+Namespace Modding (22 keys)
 	MaxActiveMods = "Максимум 25 модов может быть включено при создании многопользовательской игры. Одиночные сессии не затронуты."
 	ApprovedForProgression_FilterText = "Разрешить допущенные"
 	ApprovedForSandbox_FilterText = "Разрешить моды Песочницы"
@@ -11594,6 +11592,7 @@ Namespace Modding (21 keys)
 -----------
 Можно присоединиться без сохранения для "песочницы"."
 	Join_Blocked_Header = "ЗАБЛОКИРОВАНО"
+	Join_EnableDisableMods_Tooltip = "Нажимая, вы соглашаетесь скачать и установить недостающие моды и отключить моды, не используемые хостом."
 	Join_Mods_Installed_Header = "УСТАНОВЛЕННЫЕ МОДЫ"
 	Join_NoSandbox_Installed_Header = "МОДЫ ДЛЯ "ПЕСОЧНИЦЫ" НЕ УСТАНОВЛЕНЫ"
 	Vanilla_FilterText = "Без модов"

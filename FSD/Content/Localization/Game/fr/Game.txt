@@ -1,8 +1,8 @@
-11590 entries
+11588 entries
 44 namespaces
-9525 values
+9524 values
 
-Namespace Global (10753 keys)
+Namespace Global (10751 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 De manière générale, le problème est lié à :
 - Une connexion Internet défaillante
@@ -2655,7 +2655,6 @@ La direction"
 	E1EAF02846B9641CCEF665A0C2D67DC1 = "Terre ! Il doit y avoir de la terre quelque part...!"
 	688E17E74AAF94913634D59AF561C5F3 = "poussiéreuse"
 	5C2CE082461D6D9FB80439A55C0A8B32 = "Désactiver Master EQ"
-	FDFE1DF34DCEB3EFF8CE239272CF36E8 = "Désactivé"
 	59F89B954BC27E80DA2F0CB6C585248E = "Inhibiteur d'inertie désactivé"
 	CB5D96AD4AE9AE2706333B97CF298A61 = "Inhibiteur d'inertie désactivé"
 	3203D4FF4273B34F23E33FA8BD421BDD = "Sécurité désactivée"
@@ -5775,7 +5774,6 @@ DIDACTICIEL"
 	6DBDCDF1447469C9E2D2B2AD7843C8BB = "Charge"
 	C378A6D140F76CE8CF5C7285EAA25544 = "Charger"
 	75022E8843555DDC0D7459A9B8A3D75F = "Charger partie"
-	B2F1420E4090E05C25ADCABF928AD893 = "Charger une sauvegarde normale"
 	7FC9FDC6437E8C50B95D4185946C8C3D = "chargée"
 	C9258B324B4E2508F186AFBC917A469E = "remplie"
 	6564A7DC419EB8FA511A8687187C7B44 = "Munitions chargées"
@@ -7330,7 +7328,7 @@ La Direction"
 	6E2498AC4235E3F2C1AE23A03AEE1A24 = "La mousse de plastobéton durcit en une forme plus large"
 	F8882B7E4F9149C1C5DFC9A9CC1B0FBD = "de plastic"
 	6753271543813D2B8F994580731499DA = "Topographie"
-	37FE5FEC42C1060262CCA9AE46927CFD = "Plateforme de l'ingénieur"
+	37FE5FEC42C1060262CCA9AE46927CFD = "Adaptation aux systèmes"
 	CBC6DBC6403953AEE7E1BDA73779C53F = "Lance plateforme"
 	DAB59FEA4CF64BC2969BCD8F067282CB = "Lance plateforme"
 	A957D1E941D159E02872718F95D6CB3C = "Plateforme créée !"
@@ -11265,7 +11263,7 @@ Ces serveurs utilisent des mods qui altèrent significativement l’expérience 
 -----------
 Ne peuvent être rejoints qu'avec une sauvegarde moddée."
 	ApprovedForProgression_Name = "Approuvé"
-	ApprovedForProgression_ToolTip = "Progression accordée.
+	ApprovedForProgression_ToolTip = ""Approuvés" pour la progression.
 Ces serveurs utilisent des mods qui n'altèrent pas votre progression normale.
 -----------
 Peuvent être rejoints sans une sauvegarde moddée."
@@ -11277,7 +11275,7 @@ Peuvent être rejoints sans une sauvegarde moddée."
 	FilterBox_Header = "Mods du serveur"
 	Vanilla_ToolTip = "Serveurs sans aucun mods installé. Gouttez à la recette originale."
 	Join_Disable_ApprovedMods = "Vous vous apprêtez à rejoindre un serveur qui n'a pas activé de mods. Tous les mods de catégorie "Approuvé" seront désactivée en le rejoignant."
-	Join_Disable_SandboxMods = "La partie que vous êtes sur le point de rejoindre n'a pas activé les mods sandbox. Tous vous mods sandbox seront désactivés en la rejoignant. Et vous devrez utiliser une sauvegarde non-moddée."
+	Join_Disable_SandboxMods = "La partie que vous êtes sur le point de rejoindre n'a pas activé les mods sandbox. Tous vos mods sandbox seront désactivés en la rejoignant. Et vous devrez utiliser une sauvegarde non-moddée."
 	Join_Blocked_HiddenMods = "Cette partie utilise un ou plusieurs mods privés. Vous ne pouvez pas rejoindre une partie utilisant des mods privés si vous ne les avez pas installés.
 
 Vous devez contacter l'hôte, pour qu'il puisse vous donner l'accès aux mods."
@@ -11292,7 +11290,7 @@ Les causes probables sont :
 Essayez de relancer le jeu."
 	FullyApproved_Name = "Vérifié"
 	FullyApproved_ToolTip = "Vérifié pour le jeu de base. 
-Serveurs qui utilisent des mods visuels ou audio sur le client hôte qui ne changent rien pour les autres joueurs.
+Serveurs qui utilisent des mods visuels ou audio qui n'affectent que l'hôte.
 -----------
 Peuvent être rejoints sans une sauvegarde moddée."
 	Join_Blocked_Body = "Vous ne pouvez pas rejoindre un server non-moddé avec une sauvegarde moddée.

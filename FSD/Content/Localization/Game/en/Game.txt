@@ -1,8 +1,8 @@
-12339 entries
+12345 entries
 44 namespaces
-9918 values
+9923 values
 
-Namespace Global (11425 keys)
+Namespace Global (11431 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "
 Usually the issue is due to:
 - No internet connection
@@ -1162,6 +1162,9 @@ But now, we need you more than ever! We need to make the world aware about the l
 	38DC434948EAD1A675E5A99554B19C69 = "Audio"
 	6D76CA494E3FCD51CEFC1B8C2E117AD6 = "Audio input source"
 	EC8E71D043359309C4E9EA8FBC6E459E = "Audio output source"
+	89E0657E4F858B03C743FA8A2F027E8B = "Audio/Visual/Cosmetic mods have unknown status, until installed and enabled.
+-----------
+Can become either Verified or Sandbox."
 	040098254388FF556125F3BEA0691F99 = "Author"
 	39B26B4F4EDE4FB0D90C42AC3279C05D = "Authorized Miner"
 	524245084B7C09D52D8F16BECF647964 = "Authorized Miner"
@@ -1875,6 +1878,7 @@ But now, we need you more than ever! We need to make the world aware about the l
 	87390FCE47E04447F7B12C8528452619 = "Cannot convert already sandboxed save."
 	230512CF4318F8E425CC2E83EA7A6878 = "Cannot convert when max saveslots have been reached."
 	0661620C41131C2778F01299AFE883C8 = "Cannot enable, bacause a dependency is disabled or removed."
+	A80265A64443D12DA410E3B39E1EE1FC = "Cannot load a regular save, while mods are installed in Content/Paks."
 	8AD4D3A9402CA60134EA7DB2AB2F4724 = "Cannot restore a non-sandbox save, onto sandbox save."
 	EE30D3894D7564008D726BBE5214ABE8 = "Cannot restore a sandbox save, onto non-sandbox save."
 	947C1CF1444386AED72599B2C8446A65 = "Cap"
@@ -2598,6 +2602,7 @@ Management"
 	6D2FFD9D4F9C4C629375AC864017CF30 = "DETONATOR! Get back, mates! It's gonna blow!"
 	B3E9EF9E4079771AB1B3CF8955B46734 = "DID YOU KNOW"
 	CB0BC3604776CE825AF4C58D936430BD = "DIFFICULTY"
+	3CA6779E456E8DBCBB3E0B9C07C11A20 = "DISABLING MODS"
 	0D08A52249A921274DBFB3901186CF82 = "DISTANCE"
 	96485D0A40BE46D7101C4EB631B3D594 = "DISTANCE"
 	D79FE1A44C28EC9BB8E42AAA0FB426AF = "DIver's Bell"
@@ -2917,7 +2922,6 @@ Management"
 	E1EAF02846B9641CCEF665A0C2D67DC1 = "Dirt! Gotta be some dirt around here...!"
 	688E17E74AAF94913634D59AF561C5F3 = "Dirty"
 	5C2CE082461D6D9FB80439A55C0A8B32 = "Disable Master EQ"
-	FDFE1DF34DCEB3EFF8CE239272CF36E8 = "Disabled"
 	59F89B954BC27E80DA2F0CB6C585248E = "Disabled Inertia Inhibitor"
 	CB5D96AD4AE9AE2706333B97CF298A61 = "Disabled Inertia Inhibitor"
 	3203D4FF4273B34F23E33FA8BD421BDD = "Disabled Safety"
@@ -6143,7 +6147,7 @@ TUTORIAL"
 	6DBDCDF1447469C9E2D2B2AD7843C8BB = "Load"
 	C378A6D140F76CE8CF5C7285EAA25544 = "Load"
 	75022E8843555DDC0D7459A9B8A3D75F = "Load Game"
-	B2F1420E4090E05C25ADCABF928AD893 = "Load vanilla save"
+	B2F1420E4090E05C25ADCABF928AD893 = "Load regular save"
 	7FC9FDC6437E8C50B95D4185946C8C3D = "Loaded"
 	C9258B324B4E2508F186AFBC917A469E = "Loaded"
 	6564A7DC419EB8FA511A8687187C7B44 = "Loaded Rounds"
@@ -6998,6 +7002,7 @@ On the other hand, area of effect weapons or those based on streams of cold or f
 	9A701E084E08F61657F94C9210B9696D = "No Head Lights"
 	A3DFA6A64D28672BED9E29B1223D7D76 = "No Information Available"
 	403DF8E7448733E7088D74B4B9630A09 = "No Mission Selected"
+	F6C8AEC64644F1B4557ED5999CBC8A19 = "No Mods Installed"
 	8E36640D49ADDA960E6A9D9D5F50CBCB = "No Success Yet! Worker's Union Negotiating {Percent} Higher Payouts For {Person}"
 	15FC31394B4E4500337E12846825AF35 = "No active Gold Membership"
 	07B135B6401386AA77C2A88D564BA68D = "No aim penalty while moving"
@@ -8805,6 +8810,7 @@ MISSION"
 	7E3F812F4A95EEBF9CDC10B6341F3F68 = "Show 'em some pain, Bosco!"
 	075479CB45BF3835DE1846A51811C954 = "Show FPS Counter"
 	566802114721F4EE497EF2B3718D166A = "Show Network Stats"
+	7FE6E82F4160C06EC21126A8C0FF2C62 = "Show Only Modded Servers"
 	111A1C90407F4147BA6D738E7FE73989 = "Show UI Animations"
 	C4292C7540A90C07387975BA879E2900 = "Show all statistics"
 	E5E221554B198BC54A6F9482530A80E1 = "Show as {value} or as {float_value} or as {percent} or as {percent_zerobased} or as {minutes}"
@@ -10382,6 +10388,7 @@ k.okkim, mikhail1770, Bob Caenen (ketchupandstuff) and many more..."
 	1CCE93164BD93498123304A5E8C9BE39 = "Unindentified Object"
 	BDBE27A34F437BC3E227DC9004C8D661 = "Union Chapter available at Miner Community Terminal!"
 	C249CB1F4E6EB5D6321F079F49850445 = "Unique Materials"
+	42E686B14BDD803147C4B99B3218EC41 = "Unknown"
 	4C56E7EF4CDB0281E9F9BFAD100A496D = "Unknown"
 	C48EE67048C0235A52DC57A5077BCE4B = "Unknown"
 	2B977B2B4C7DA9295728618ABC09CFEE = "Unknown Horror"
@@ -10670,6 +10677,7 @@ Do remember that this is a pre-release build - you will encounter bugs and stabi
 	1250903C4E86DD8F56D13EA26D1FC5B3 = "Warning: Will disable all sandbox mods."
 	F0DE8CC24899CD20B47F32B88633A42A = "Warning: You already have a Save Slot with the name: {savename} Pressing Yes will OVERWRITE that Save Slot. This action can NOT be undone."
 	01F74C6149AD72D906058FA35A669FA8 = "Warning: You are about to access the Account Picker. Changing the active user will change your save game and could result in data loss. Are you sure you want to proceed?"
+	DE235A8B48D70E83069552A26162415F = "Warning: You do not have any sandbox mods installed. Are you sure you want to keep running your sandbox save?"
 	45BC46004B66AA4029A6CA9825BE7209 = "Warnings"
 	9D72481740FE1CF7A28B738EFABE182F = "Warrior's"
 	3280E6FE427956642C1A8F897859BD9F = "Wasteland"

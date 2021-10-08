@@ -1,8 +1,8 @@
-89 entries
+90 entries
 1 namespaces
-85 values
+86 values
 
-Namespace PatchNotes (89 keys)
+Namespace PatchNotes (90 keys)
 	Update_30_Header = "LANCIO DELLA 1.0"
 	Update_30_ShortTitle = "LANCIO DELLA 1.0"
 	Update_23 = "Va bene, minatori: radunatevi intorno e state zitti!
@@ -1622,6 +1622,211 @@ ALTRI
 - Il controllo missione ora annuncia la ricalibrazione della gravità.
 - Il giocatore che sta ospitando la partita ora salta alla stessa altezza degli ospiti (prima era più bassa).
 "
+	Update_34.5 = "Salve Minatori,
+
+Ci siamo! Sta finalmente accadendo. Il supporto al modding è qui!
+
+Quello che è iniziato come un semplice sistema di Salvataggio di Gioco su profilo, si è trasformato in un supporto al modding completamente sviluppato. Abbiamo trascorso gli ultimi mesi lavorando insieme alla community di modding su queste funzionalità ed è stato magnifico vedere l’aggiornamento venire alla luce. Siamo emozionati di farvi avere l’opportunità di provare tutte le più strambe, divertenti, fantastiche ed enigmatiche mod a schermo presenti nel gioco. Abbiamo molto da dirvi su ciò che è presente in questa pubblicazione, quindi entriamo subito nel dettaglio:
+
+Con affetto,
+La Crew di Ghost Ship
+
+--- NOTE DELLA PATCH  ---
+
+MENÙ MODDING
+----------------------------
+Puoi accedere a tutte le mod all’interno del gioco attraverso il nuovo menù di Modding. In questo menù puoi attivare e disabilitare facilmente tutte le tue mod installate andando avanti.
+
+Come abbiamo menzionato in precedenza, come piattaforma di hosting per mod usiamo Mod.io. Puoi accedere facilmente alla pagina di DGR mod.io all’interno del gioco. Avrai bisogno di farlo solamente quando ti iscrivi o disiscrivi a una mod. Il gioco si assicurerà di installare/disinstallare quelle mod. Puoi inoltre attivare e disattivare facilmente le mod dal menù di modding e classificare le mod installate per nome, categoria approvata e in base all’essere attive o meno.
+
+Navigando tra le mod diventerai pratico nel riconoscere le nostre tre categorie di approvazione: Verificate, Approvate e Sandbox. Nel nostro ultimo post su Steam, oltre a trovare una descrizione dettagliata delle categorie, troverai delle linee guida su mod.io. Ecco qui una analisi dettagliata di ogni singola categoria:
+
+Mod Verificate (per il Gioco Base), sono mod QoL che non influenzano il gameplay o l’audio, mod visive che migliorano l’accessibilità e versioni localizzate di grafiche in gioco. Mod estetiche, visive e audio, verranno automaticamente assegnate alla categoria Verificate se le stesse modificano solo file estetici o audio. Tutto questo viene automaticamente rilevato in gioco.
+
+Mod Approvate (per i Progressi) sono mod che offrono modalità di gioco alternative e stimolanti, apportano modifiche alle statistiche delle armi e alterano lievemente elementi di gameplay rimanendo però in linea con i progressi del gioco classico.
+
+Mod Sandbox sono qualsiasi tipologia di mod che modificano ricompense o premi di missioni e che sbloccano direttamente oggetti in gioco.
+
+È arrivato finalmente il momento di fare quella missione Haz 6 in costume da bagno col tuo martello giocattolo al posto del piccone. Buona estrazione!
+
+
+SERVER TAGGING E INFO
+----------------------------
+Ora puoi vedere in modo chiaro quali server hanno mod attive e quali no, non dovrai più aspettare che sia l’host a specificarlo nel titolo. Inoltre puoi verificare quali mod un host ha installato prima di entrare nella sua partita.
+Puoi trovare anche dei filtri nella Lista Server che ti permettono di scegliere se mostrare o nascondere i server che hanno mod approvate o Sandbox. Questo significa che ora hai una gestione maggiore della tua lista server.
+Non dovrai più preoccuparti di unirti per sbaglio a ospiti con mod, niente più sorprese e non dovrai ritornare a salvataggi precedenti quando ottieni involontariamente un milione di XP da una partita con mod. Con questo aggiornamento, il modding sarà sicuro, divertente e trasparente.
+
+SEMPLIFICAZIONE DELL’ATTIVAZIONE/DISATTIVAZIONE DI MOD AL MOMENTO DI UNIRSI
+----------------------------
+Se le Mod Verificate danno la possibilità di giocare una partita e unirti agli altri come faresti solitamente, le Sandbox e mod Approvate hanno delle restrizioni. Le mod Approvate richiedono che tutti i giocatori in una missione abbiano quelle stesse mod installate. Le mod Sandbox anche, ma devi giocare in un Salvataggio di Gioco Sandbox (ora reso possibile attraverso i Profili di Salvataggio di Gioco).
+    Ma non preoccuparti, non dovrai ricordarti di tutto ciò. Il gioco si preoccupa di disabilitare le tue Mod Approvate quando ti unisci a un host che non ha quelle mod installate. Se sei tu invece l’host con Mod Approvate o Sandbox installate, il gioco si assicurerà che gli altri giocatori abbiano le mod installate se decidono di unirsi alla tua partita. Inoltre il gioco disabiliterà le mod per loro quando abbandoneranno la partita. Come menzionato sopra, i giocatori possono controllare che mod possiedi prima di unirsi a te.
+    Con Sandbox è un po’ diverso. In questo caso dovrai disabilitare le tue mod Sandbox e ritornare al tuo salvataggio principale per visualizzare gli host senza Sandbox nella lista server.
+
+
+GENERATORE NATIVO DI BLUEPRINT
+----------------------------
+Questa funzionalità è principalmente per i modders. Permette a tutti i modders di avere un accesso migliore ad alcune caratteristiche e funzionalità in DRG. Se sei interessato a creare mod per DRG esiste già una community attiva di modding. Ritieni che alle sanguisughe di grotta manchino gli occhiali? O che quel BOSCO starebbe bene con un cappello a cilindro? O forse vuoi realizzare il doppiaggio della sala di controllo in un’altra lingua? Se sì, è ora di mettersi al lavoro su quella mod DRG.
+
+
+RICHIESTE DELLA COMMUNITY
+----------------------------
+- Sezione di traduzione: è attivo da un po’ in realtà. Se siete una community di traduttori ora potete accedere a una sezione di steam con una build automatizzata che include le nuove traduzioni da Crowdin. Quindi non dovete più aspettare per una pubblicazione per vedere il vostro lavoro nel gioco. Se siete interessati a provvedere a una traduzione di DRG, è presente un canale di traduttori nel nostro canale Discord con una community molto attiva.
+
+
+VARIE
+----------------------------
+- Aggiunta nuova sezione nel menù ESC per il Supporto al Modding
+- Aggiunto nuovo grido di uccisione della Liana Infilzatrice
+- Aggiunto supporto per la riga di comando “-disattivamod” che può essere aggiunta alle opzioni dell’avvio di Steam per disattivare mod se trovi dei crash
+- Aggiunto supporto per il Salvataggio di Gioco condiviso tra la sezione live e quella di traduzione
+- [RICHIESTA DALLA COMMUNITY] Aggiunta adattabilità alla cornice del messaggio pop-up "Sei stato buttato fuori" per contenere traduzioni più lunghe
+- [RICHIESTA DALLA COMMUNITY] Aggiunta adattabilità alla cornice del messaggio "Mostra informazioni all'avvio" per contenere traduzioni più lunghe senza il sovrapporsi di elementi UI
+- [RICHIESTA DALLA COMMUNITY] Aggiunta adattabilità alla cornice del messaggio dello schermo del Memorial Wall per contenere traduzioni più lunghe
+- Aggiunti sottotitoli al rumore causato quando si tira per correggere un problema di sottotitoli vuoti
+- Aggiunti sottotitoli del ping di difesa per correggere un problema di sottotitoli vuoti
+- Aggiunti sottotitoli a versi di tosse e grugniti per correggere un problema di sottotitoli vuoti
+- Aggiunti sottotitoli a rumori di scatto per correggere un problema di sottotitoli vuoti
+- Aggiunti sottotitoli alla reazione di Amore Bruciante per correggere un problema di sottotitoli vuoti
+- Aggiunti sottotitoli alla reazione di Spacca Gola per correggere un problema di sottotitoli vuoti
+- Aggiunti sottotitoli alla reazione di Birra Mactera per correggere un problema di sottotitoli vuoti
+- Aggiunta localizzazione ai pop-up di Mastery Sbloccata
+- Aggiunta localizzazione alla Fonte Liquida di Morkite sul Puntatore Laser
+- Aggiunta localizzazione alle istruzioni per Immersione Profonda nel Terminale Immersione Profonda
+- Aggiunta localizzazione alle stringhe mancanti all'overlay di Ripristina Salvataggio
+- Corretti errori di battitura nei sottotitoli mentre si trasferiscono le coordinate di Equipaggiamento Smarrito allo Scanner per Terreno
+- Corretto errore di battitura nelle citazioni del Bioma Pantano Fungino
+- Corretti errori di battitura e maiuscole sbagliate nei sottotitoli quando viene chiamata la Capsula da Sbarco
+- Corretto pop-up di un salvataggio ha più progressi, anche quando il salvataggio non ha più progressi
+- Corretti errori di battitura in tutti i sottotitoli relativi al miglioramento di Bosco, abilità o equipaggiamento
+- Corretto errore di battitura nei sottotitoli quando si aspetta la partenza nella Capsula da Sbarco
+- Corretti errori di battitura nei sottotitoli quando ci si sveglia nella cabina e nell'Infermeria
+- Corretto errore di battitura nei sottotitoli quando si estrae
+- Corretti errori di battitura nei sottotitoli quando si usa la teleferica
+- Corretto uno spazio in eccesso nei sottotitoli quando una Capsula Rifornimenti arriva
+- Corretti errori di battitura e spazi in eccesso nei sottotitoli quando si schiaffeggia il Leprecauno nella Stazione Spaziale
+- Corretti errori di battitura e spazi in eccesso nei sottotitoli quando si schiaffeggiano i dadi
+- Corrette maiuscole discordanti nei sottotitoli della Torretta Automatica
+- Corretto errore di battitura nel dialogo di Controllo Missione quando le Celle Carburante sono connesse alla Capsula da Sbarco
+- Corretti spazi in eccesso nei sottotitoli quando Doretta richiede una riparazione
+- Corretti errori di battitura, lettere maiuscole discordanti e spazi in eccesso in tutti i sottotitoli della missione Raffineria
+- Corretti errori di battitura nei sottotitoli quando Doretta è sotto attacco
+- Corretti errori di battitura nei sottotitoli quando si preme il pulsante gravitazionale nella Stazione Spaziale
+- Corretti errori di battitura nei sottotitoli quando si raccoglie un piccone overcaricato
+- Corretti errori di battitura nei sottotitoli quando si posiziona il Generatore di Scudi dell'Artigliere
+- Corretto errore di battitura nei sottotitoli quando si esegue un attacco potenziato
+- Corretti errori di battitura nei sottotitoli quando si esegue l'azione di accarezzare
+- Corretti errori di battitura nei sottotitoli di tutte le grida quando si attiva un'abilità
+- Corretti errori di battitura nei sottotitoli quando il giocatore viene catturato da una Sanguisuga di Caverna
+- Corretti errori di battitura nei vari sottotitoli quando il giocatore finisce carburante, munizioni o granate
+- Corretto errore di battitura nell'introduzione di Controllo Missione per la missione Punto d'Estrazione
+- Corretto errore di battitura nell'annuncio di Controllo Missione per l'arrivo della Capsula da Sbarco nella missione Punto di Estrazione
+- Corretti spazi in eccesso nei sottotitoli quando il M.U.L.E sta rientrando nella zona di atterraggio
+- Corretti errori di battitura, lettere maiuscole discordanti e spazi in eccesso nei sottotitoli di tutti i dialoghi dell'Evento Macchine
+- Corretto spazio in eccesso nei sottotitoli quando si overclocka alla forgia
+- Corrette maiuscole discordanti nei sottotitoli quando si usa la forgia
+- Corretto errore di battitura quando il giocatore viene catturato dall'Arraffone Mactera
+- Corretto spelling discordante dell'Insetto Bottino nei sottotitoli, descrizioni abilità, pietre miliari e nel Manuale del Minatore
+- Corretto spazio in eccesso nei sottotitoli quando si spara con il Fucile Sparabengala
+- Corretto spazio in eccesso nei sottotitoli quando si interagisce con il Jukebox
+- Corretti errori di battitura nei sottotitoli quando si deposita nel M.U.L.E.
+- Corretti errori di battitura nei sottotitoli quando Sensi Amplificati viene attivata
+- Corretto errore di battitura nei sottotitoli quando si estrae Zucchero Rosso
+- Corretto errore di battitura nei sottotitoli quando si percorrono le tubature
+- Corretto errore di battitura nei sottotitoli quando si usa il Rampino dello Scout
+- Corretto errore di battitura nei sottotitoli quando lo scudo dell'Artigliere viene ricaricato
+- Corretti errori di battitura, lettere maiuscole discordanti e spazi in eccesso nei sottotitoli di tutti gli avvisi di granata
+- Corretti errori di battitura nei sottotitoli quando il giocatore subisce fuoco amico
+- Corretti errori di battitura, lettere maiuscole discordanti e spazi in eccesso nei sottotitoli di tutti i dialoghi di Controllo Missione nelle Missioni di Scorta
+- Corretta descrizione del bozzolo del Corazzato sul Puntatore Laser
+- Corretta descrizione discordante per gli item della Missione di Recupero sul Puntatore Laser
+- Sostituita icona del bozzolo del Corazzato sul Puntatore Laser con la variante colorata
+- Corretto errore di battitura nei sottotitoli del ping del Corazzato sul Puntatore Laser
+- Corretto bug che causava in alcune lingue il sovrapporsi del messaggio Missione Fallita con altri elementi della UI sullo schermo Missione Completata
+- Corretto errore di battitura nel messaggio pop-up che avverte che il giocatore potrebbe sovrascrivere uno Slot Salvataggio già esistente
+- Corretti errori di battitura, lettere maiuscole discordanti e spazi in eccesso nei sottotitoli di tutti i ping del Puntatore Laser
+- Corretti errori di battitura e lettere maiuscole discordanti nei sottotitoli di tutti i ping per le grida di morte
+- Corretti errori di battitura nei sottotitoli
+- Corretti errori di battitura e lettere maiuscole discordanti in diversi dialoghi presenti nelle missioni
+- Corretti errori di battitura e lettere maiuscole discordanti nei sottotitoli dei diaologhi del Commercio Minerale
+- Corretti diversi errori di battitura segnalati dalla community su Jira
+- Corretti errori di battitura in tutti i sottotitoli nel Livello Tutorial
+- Corretti errori di battitura nei sottotitoli di tutte le reazioni alle armi
+- Corretti errori di battitura nei sottotitoli in diversi dialoghi generici
+- Corretti diversi errori di battitura e lettere maiuscole discordanti in tutti i sottotitoli dei dialoghi di Controllo Missione in Immersioni Profonde
+- Corretto errore di battitura nei sottotitoli dei dialoghi di Controllo Missione quando vengono raccolti tutti gli Aquarqs
+- Corretti errori di battitura e spazi in eccesso nei sottotitoli quando si reagisce all'ambiente
+- Corretti errori di battitura nei sottotitoli quando si reagisce alle mosche
+- Corretti errori di battitura nei sottotitoli quando si naviga nello Shop per un nuovo equipaggiamento
+- Corretti errori di battitura nei sottotitoli dei versi di tosse
+- Corretti errori di battitura nei sottotitoli dei dialoghi di personaggi specifici
+- Corretti errori di battitura in tutti i sottotitoli del dialogo Contenitore di Benzina
+- Corretto errore di battitura nei sottotitoli quando si ordina a Bosco di far fuoco con i suoi razzi
+- Corretto spazio in eccesso nei sottotitoli quando si ordina a Bosco di estrarre
+- Corretto errore di battitura quando si ordina a Bosco di illuminare
+- Corretto errore di battitura nei sottotitoli quando si ordina a Bosco di prendere qualcosa
+- Corretto errore di battitura nei sottotitoli quando si trasporta un oggetto pesante
+- Corretti vari errori di battitura nei sottotitoli quando si ordina una birra
+- Corretti errori di battitura e lettere maiuscole in tutti i sottotitoli legati al bar
+- Corretto un altro errore di battitura nei sottotitoli quando si beve una Lager Blacklock
+- Corretto errore di battitura nei sottotitoli quando si beve una Lager Blacklock
+- Corretto errore di battitura nei sottotitoli quando si reagisce positivamente a una birra
+- Corrette maiuscole discordanti nei dialoghi di Controllo Missione
+- Migliorato il sistema di suggerimenti che descrive come rigiocare il Livello Tutorial
+- Corretto errore di battitura nei suggerimenti del tutorial che descrivono come rigiocare la Missione Tutorial
+- Corretto errore di battitura nella schermata di caricamento dei suggerimenti
+- Corretto nome discordante della Capsula Rifornimento negli avvisi in chat, suggerimenti del tutorial, UI e nel Puntatore Laser
+- Corrette maiuscole discordanti nei dialoghi di Controllo Missione per incarichi e promozioni
+- Corrette maiuscole discordanti nei dialoghi di Controllo Missione sulla Nave Spaziale
+- Corrette maiuscole discordanti nei dialoghi di Controllo Missione nella missione Punto d'Estrazione
+- Corrette maiuscole discordanti negli avvisi Capsula Rifornimenti in arrivo
+- Corrette maiuscole discordanti nei dialoghi di Controllo Missione nel tutorial
+- Corrette maiuscole discordanti negli avvisi di Controllo Missione
+- Corretti ulteriori casi di maiuscole discordanti nei dialoghi di Controllo Missione
+- Corretti errori di battitura e incongruenze nei dialoghi di Controllo Missione nelle Missioni Eliminazione
+- Corrette maiuscole discordanti nei dialoghi di Controllo Missione quando vengono raccolte tutte le Uova Aliene
+- Corretti errori di battitura e incongruenze nei dialoghi di Controllo Missione quando un obiettivo viene completato
+- Corrette maiuscole discordanti nei dialoghi di Controllo Missione quando il M.U.L.E attracca
+- Corretto errore di battitura nell'introduzione di Controllo Missione per la Spedizione Mineraria
+- Corrette maiuscole discordanti nei dialoghi di Controllo Missione per la Selezione Missione
+- Corrette maiuscole discordanti nei dialoghi di Controllo Missione in Missione di Salvataggio
+- Corretto errore di battitura nell'avviso in chat quando il M.U.L.E. può essere richiamato alla Capsula da Sbarco
+- Corretto errore di battitura nei sottotitoli quando si lanciano palle di neve
+- Corretto spazio in eccesso nel Menù di Salvataggio
+- Corretto errore di battitura sullo schermo degli Scavatori di Sporcizia nel Terminale Unione dei Minatori
+- Corretti diversi casi di incongruenze nelle descrizioni delle risorse sul Puntatore Laser
+- Corretto errore di battitura nella descrizione del Dystrum sul Puntatore Laser
+- Corretti errori di battitura nella descrizione della Magnite sul Puntatore Laser
+- Corretto errore di battitura nella descrizione dell'Hollomite sul Puntatore Laser
+- Corretti diversi casi di maiuscole discordanti di tutti i titoli delle news
+- Corretti diversi casi di spazi in eccesso alla fine dei titoli delle news trasmesse su alcuni terminali nella Stazione Spaziale
+- Corretto errore di battitura nell'introduzione di Controllo Missione per la Missione di Recupero
+- Corretto un altro errore di battitura nell'annuncio di Controllo Missione quando tutti i mini M.U.L.E. vengono riparati
+- Corretto errore di battitura nell'annuncio di Controllo Missioni quando tutti i mini M.U.L.E. vengono riparati
+- Corretto un altro errore di battitura in una delle citazioni per il Bioma del Nucleo Magmatico
+- Corretto errore di battitura nei sottotitoli quando si uccide un Angelo di Caverna innocente (come osi!)
+- Corretto errore di battitura nei sottotitoli quando si segna un Fondo Nucleo col Puntatore Laser
+- Corretti errori di battitura nel Comando Menù di Personalizzazione
+- Corretti errori di battitura nelle Opzioni Comandi
+- Corretto errore di battitura nella Selezione Missioni
+- Corretto errore di battitura quando si segna un Ingrediente per la Produzione con il Puntatore Laser
+- Corretto errore di battitura in una delle citazioni per il Bioma del Nucleo Magmatico
+- Corretto errore di battitura nell'introduzione di Controllo Missione per il secondo livello di una Immersione Profonda
+- Corretto errore di battitura nei sottotitoli quando si posiziona una Carica Satchel
+- Corretto errore di battitura nella voce dello Sputa Ragnatela nel Bestiario del Manuale del Minatore
+- Corretto errore di battitura nei titoli delle news presenti su alcuni terminali nella Stazione Spaziale
+- Corretto errore di battitura nella voce Gemelli Corazzati Glyphid nel Bestiario del Manuale del Minatore
+- Corretto errore di battitura nei titoli delle news presenti su alcuni terminati nella Stazione Spaziale
+- Corretto errore di battitura nella descrizione del Compact Feed Valves overclock per il CRSPR Lanciafiamme
+- Corretto errore di battitura nei titoli delle news presenti su alcuni terminali nella Stazione Spaziale
+- Corretto errore di battitura quando si segna un Corazzato Guardia Alveare con il Puntatore Laser
+- Corretti diversi errori di battitura nei sottotitoli quando si reagisce al danno causato da spine
+- Corretti diversi errori di battitura nei sottotitoli quando si deposita nel M.U.L.E.
+- Corretto errore di battitura nel Menù Opzioni della UI
+- Corretto errore di battitura nella descrizione del bioma Ramo Cavo
+- Corretti errori di battitura nelle urla del Tunnel di Assalitori
+- Corretto errore di battitura nella descrizione dell'upgrade Inibitore Inertia Disattivato per il DeepCore 40mm PGL
+- Corretto un crash che potrebbe capitare quando l'armatura del Corazzato viene distrutta
+- Corretto un problema riguardante il non potersi unire alle partite perchè quando tu hai cercato di unirti un'altra persona si è unita nello stesso momento, rendendo il server pieno"
 	Update_28 = "Ciao Minatori,
 Vi sentite abili? Bene, perché l'AGGIORNAMENTO 28 è qui per soddisfarvi con una bella revisione al nostro intero Sistema delle Abilità, la prima parte di riprogettazione della Stazione Spaziale, per non parlare di una nuova fantastica aggiunta al modo in cui potete personalizzare l'aspetto delle vostre armi da fuoco. 
 

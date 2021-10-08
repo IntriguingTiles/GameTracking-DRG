@@ -1,8 +1,8 @@
-11758 entries
+11761 entries
 43 namespaces
-9692 values
+9694 values
 
-Namespace Global (10868 keys)
+Namespace Global (10871 keys)
 	B67D88D244614D1A10D3D1902E9A1278 = "Usein syy on joko:
 - Viallinen internet-yhteys
 - Palomuurisi estää pelin"
@@ -1671,6 +1671,7 @@ Valitse <bold>laserosoitin</> painamalla <UseLaserPointer/>. Osoita kohdetta ja 
 	18822DA94D2524B2E905FB8EC95EFE4C = "Modeja ei voi aktivoida/deaktivoida pelin aikana."
 	87390FCE47E04447F7B12C8528452619 = "Ei voi muuntaa hiekkalaatikkotallennusta."
 	230512CF4318F8E425CC2E83EA7A6878 = "Ei voi muuntaa, maksimimäärä tallennustiloja saavutettu."
+	0661620C41131C2778F01299AFE883C8 = "Ei voida aktivoida, sillä tämä modi on riippuvainen toisesta modista, joka on joko poistettu käytöstä tai poistettu."
 	8AD4D3A9402CA60134EA7DB2AB2F4724 = "Modaamatonta tallennusta ei voida muuttaa hiekkalaatikkotallennukseksi."
 	EE30D3894D7564008D726BBE5214ABE8 = "Hiekkalaatikkotallennusta ei voida palauttaa takaisin modaamattomaaksi tallennukseksi."
 	947C1CF1444386AED72599B2C8446A65 = "Myssy"
@@ -2696,7 +2697,6 @@ Työnjohto"
 	E1EAF02846B9641CCEF665A0C2D67DC1 = "Maa-ainesta! Missäs sitä on...!"
 	688E17E74AAF94913634D59AF561C5F3 = "Likainen"
 	5C2CE082461D6D9FB80439A55C0A8B32 = "Poista Master EQ käytöstä"
-	FDFE1DF34DCEB3EFF8CE239272CF36E8 = "Poistettu käytöstä"
 	59F89B954BC27E80DA2F0CB6C585248E = "sammutettu inertiakompensaattori"
 	CB5D96AD4AE9AE2706333B97CF298A61 = "hillitetty inertiakompensaattori"
 	3203D4FF4273B34F23E33FA8BD421BDD = "Käytöstä poistettu turvallisuus"
@@ -9862,6 +9862,7 @@ Haluatko varmasti aktivoida sen?"
 	1726A8CA46E2344BC3CAB4A7FCAED5C7 = "Temppu"
 	24585C1D46FFD281571C26B603FEFA97 = "Karkki vai kepponen"
 	F755BEC64BFEA695F0C953A464B38668 = "Karkki vai kepponen!"
+	19105CCE4FC722B94C20159584B20160 = "Kammota Hoxxesin kammotukset takaisin kallion ja kivien koloihin näillä KARMISTUTTAVILLA kamoilla! "
 	D8C3C5CE441A8D550DAA7BB27B0ABDD2 = "Tihkuva lataus"
 	03E6DCBF4EFF2F19BB08068D40943794 = "Sormivarmistus, senkin pillipiipari!"
 	DC4D296640D9AA783BD7E680AE35B9C0 = "Liipaisinsormea kutittaa taas."
@@ -10651,6 +10652,7 @@ Ghost Ship -miehistö"
 	9A4F872347904FB2FDA7E7BAED3F387D = "Villiintynyt kasvu, purutupakan tuoksu ja raskaan koneiston louskunta taustalla. Tässä on parta duunarikääpiölle."
 	31586BCC4DE947F927E57A8ABFDF09BF = "Korpi"
 	746263A545E6E0D02C2DB4A5DF590FD7 = "Tämä peruuttaa liittymisen."
+	C3C497BB461BBA423745D38476F57575 = "Tämä peruuttaa liittymisen."
 	4CA17BB84F6D9D127955D09D62726F8D = "Muuntaa tämän tallennuksen modatuksi tallennukseksi. Varoitus: tämä teko on PERUUTTAMATON. "
 	06BD239548684F2C085D3183AC4C769D = "Luo kopion tästä tallennuksesta, ja muuntaa sen modatuksi tallennukseksi."
 	24F4A449412D12338B12E59A0EB3E346 = "Tämä tallennus poistetaan. Varoitus: tämä teko on PERUUTTAMATON. "
@@ -11176,6 +11178,7 @@ Voit nyt varustaa <highlight2>kaksi</> aktiivista taitoa. Valitse viisaasti!"
 	A1607E904D5B781D34E567A7A992DB56 = "{count} X Toissijaiset tavoitteet"
 	E513135B44D1C7802BFBFE94ABEADE12 = "{current} tallennustilaa käytetty, max {total}"
 	8ADE66EB42B49CA3E18C5FB1AE889565 = "{modname} EI ole pakattu uusimmalle pelin versiolle."
+	CAF000444649669F45F545B000FC603E = "{modname} on pakattu uusimmalle pelin versiolle."
 	4432A1B649946560A378BD859844C006 = "{name} Lisenssi"
 	491492894CA5FA85D8169BA6C0C4B1C4 = "{percentage} %"
 	80463AF642CB1C760D8385A84B5000A5 = "{percentage} %"
