@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 3329237041517562211 / 10/25/2021 15:20:22
-Total number of files  : 117
-Total number of chunks : 2342
-Total bytes on disk    : 2249983076
-Total bytes compressed : 1952524736
+Manifest ID / date     : 3539877583567112904 / 10/26/2021 08:35:17
+Total number of files  : 118
+Total number of chunks : 2482
+Total bytes on disk    : 2418731915
+Total bytes compressed : 2110703024
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -87,15 +87,23 @@ Total bytes compressed : 1952524736
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64
         117760      1 26FC0FA7D47AC99C99465A7A5176B3DE49BB14D9     0 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Oculus
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Oculus/OVRPlugin
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64
+       2466232      3 CDAFBE449A188953369718D552892335185905C1     0 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Ogg
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Ogg/Win64
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015
          49152      1 654144E0DDEDC26B0B3BE8E6562784ABAD1B471F     0 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/OpenVR
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17
+             0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64
+        597792      1 339510AD8C488148681179607E99990C4A4633BB     0 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX3
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX3/Win64
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015
        1219072      2 4C5F8CEA43222CEE0ED49D26B7B213DBA4FE52D8     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.dll
-       2009600      2 97D22C4E7BED5F5B9C9587C2EDBD4A4AD2311CF5     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Destructible_x64.dll
        3329536      4 9A0561D5C208847441B0E6E4199977FB70AC5F90     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.dll
        1043968      1 6579CAEFEC3C565F9003961D18DB9A712910B329     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.dll
         265728      1 0599104ECB935AAD9A7926DDB6CD9FFD02FB75EE     0 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.dll
@@ -133,12 +141,12 @@ Total bytes compressed : 1952524736
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content/Paks
-      21387592     22 D25E5BB14F99C18D3AE587381A66B38F25C23D35     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
+      21387592     22 D2C902E164DFBAC0BD458982516E251625756337     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
              0      0 0000000000000000000000000000000000000000    64 FSD
         517632      1 830FE0DAD6958D5FA39E20ACE4BFFC581A79BB3C     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      81406976     78 DD2E0FD0EF79981A5A653C34E484DF87A0670781     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+      82341376     79 A91E6B056B73BDEC4B969B55D7071BF43B74F8C6     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
        4327248      5 031766199999581C94CE46188777D3FBDA9E31D7     0 FSD/Binaries/Win64/dbgeng.dll
        1369936      2 EC3A7FD5861447D615968C51E507CD376A48BD6B     0 FSD/Binaries/Win64/dbghelp.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
@@ -162,20 +170,24 @@ Total bytes compressed : 1952524736
       23800867     23 FFEBCBFD6DEFFF1C7A57F684A2626420E2A67AC5     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SaltPits_New.mp4
       25906254     25 F9D9627C3B1C996F0A8DDF433368E89398C781CB     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SandblastedCorridors_3_BrightnessUp_adjustcolor.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-    1419272187   1473 467EDD80965E57C0FEC63B1611BF2A49546F8EF8     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+    1586032181   1610 54E52ED5E44CDD229F724A25839C21A66B3AB978     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
+             0      0 0000000000000000000000000000000000000000    64 FSD/Platforms
+             0      0 0000000000000000000000000000000000000000    64 FSD/Platforms/Win64
+             0      0 0000000000000000000000000000000000000000    64 FSD/Platforms/Win64/Plugins
+             0      0 0000000000000000000000000000000000000000    64 FSD/Platforms/Win64/Plugins/RunTime
+             0      0 0000000000000000000000000000000000000000    64 FSD/Platforms/Win64/Plugins/RunTime/DiscordSDK
+             0      0 0000000000000000000000000000000000000000    64 FSD/Platforms/Win64/Plugins/RunTime/DiscordSDK/Source
+             0      0 0000000000000000000000000000000000000000    64 FSD/Platforms/Win64/Plugins/RunTime/DiscordSDK/Source/DiscordSDK
+             0      0 0000000000000000000000000000000000000000    64 FSD/Platforms/Win64/Plugins/RunTime/DiscordSDK/Source/DiscordSDK/ThirdParty
+             0      0 0000000000000000000000000000000000000000    64 FSD/Platforms/Win64/Plugins/RunTime/DiscordSDK/Source/DiscordSDK/ThirdParty/Win64
+       3891512      4 E5D8120A8A8583FE7E3177AE7D8FE797C002F263     0 FSD/Platforms/Win64/Plugins/RunTime/DiscordSDK/Source/DiscordSDK/ThirdParty/Win64/discord_game_sdk.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK/Source
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK/Source/DiscordSDK
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK/Source/DiscordSDK/ThirdParty
-             0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/DiscordSDK/Source/DiscordSDK/ThirdParty/Win64
-       3891512      4 E5D8120A8A8583FE7E3177AE7D8FE797C002F263     0 FSD/Plugins/DiscordSDK/Source/DiscordSDK/ThirdParty/Win64/discord_game_sdk.dll
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia/FSDAnsel
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia/FSDAnsel/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia/FSDAnsel/Binaries/ThirdParty
         662368      1 EB41BE9DEA3D3B62B6BF06CD7CC900ACF2D21154     0 FSD/Plugins/Nvidia/FSDAnsel/Binaries/ThirdParty/AnselSDK64.dll
-          1216      1 EC028B32F8545C348B4EF12E4A3E085DDDF450D7     0 Manifest_DebugFiles_Win64.txt
-          9618      1 9202765271EDD6433A3F31C0648FEE1D7976720B     0 Manifest_NonUFSFiles_Win64.txt
+          1117      1 A7935212C4FED15FA460DDC5F0829BBA4383E6A2     0 Manifest_DebugFiles_Win64.txt
+          9738      1 CA924DF3661A4E86D564D6309CE48787F7688EB2     0 Manifest_NonUFSFiles_Win64.txt

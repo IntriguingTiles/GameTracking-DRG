@@ -242,40 +242,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Runtime/ApexDestruction/ApexDestruction.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Apex Destruction",
-				"Description": "APEX implementation of destruction",
-				"Category": "Physics",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "ApexDestruction",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"BlacklistPlatforms": [
-							"HoloLens"
-						]
-					},
-					{
-						"Name": "ApexDestructionEditor",
-						"Type": "UncookedOnly",
-						"LoadingPhase": "PreDefault"
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../FSD/Plugins/GoogleAnalytics/GoogleAnalytics.uplugin",
 			"Descriptor": 
 			{
@@ -686,6 +652,161 @@
 			}
 		},
 		{
+			"File": "../../../FSD/Plugins/Modio/Modio.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "2.0",
+				"FriendlyName": "mod.io",
+				"Description": "Powerful Mod API",
+				"Category": "Other",
+				"CreatedBy": "mod.io",
+				"CreatedByURL": "https://mod.io",
+				"DocsURL": "",
+				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1ab22ed2961a4cc19b9151bd072df998",
+				"SupportURL": "http://discord.mod.io",
+				"EngineVersion": "4.25.0",
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Installed": true,
+				"SupportedTargetPlatforms": [
+					"Win64"
+				],
+				"Modules": [
+					{
+						"Name": "Modio",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../FSD/Plugins/Marketplace/Linter/Linter.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1",
+				"FriendlyName": "Linter",
+				"Description": "",
+				"Category": "Other",
+				"CreatedBy": "Michael Allar",
+				"CreatedByURL": "https://gamemak.in",
+				"DocsURL": "http://discord.gamemak.in",
+				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ca0639af6339476da86fa3bcf15de8ec",
+				"SupportURL": "http://discord.gamemak.in",
+				"EngineVersion": "4.25.0",
+				"CanContainContent": true,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "Linter",
+						"Type": "Editor",
+						"LoadingPhase": "PreDefault",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Mac",
+							"Linux"
+						],
+						"BlacklistTargets": [
+							"Server",
+							"Client"
+						]
+					},
+					{
+						"Name": "GamemakinLinter",
+						"Type": "Editor",
+						"LoadingPhase": "PreDefault",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Mac",
+							"Linux"
+						],
+						"BlacklistTargets": [
+							"Server",
+							"Client"
+						]
+					},
+					{
+						"Name": "MarketplaceLinter",
+						"Type": "Editor",
+						"LoadingPhase": "PreDefault",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Mac",
+							"Linux"
+						],
+						"BlacklistTargets": [
+							"Server",
+							"Client"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../FSD/Plugins/PS5_Mock/PS5_Mock.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "PS5_Mock",
+				"Description": "Mocks PS5 features so certain features don't break when not compiling with PS5 SDK",
+				"Category": "Other",
+				"CreatedBy": "Tobias",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "PS5_Mock",
+						"Type": "Runtime",
+						"LoadingPhase": "PostDefault"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../FSD/Plugins/FSDRawInput/FSDRawInput.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "FSD Windows RawInput",
+				"Description": "RawInput provides an interface to receive input from  Flight Sticks, Steering Wheels, and other non-XInput supported devices in Windows.",
+				"Category": "Input Devices",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "FSDRawInput",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../FSD/Plugins/DiscordSDK/DiscordSDK.uplugin",
 			"Descriptor": 
 			{
@@ -706,12 +827,7 @@
 					{
 						"Name": "DiscordSDK",
 						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Linux",
-							"Mac"
-						]
+						"LoadingPhase": "PreDefault"
 					}
 				],
 				"Plugins": [
@@ -726,6 +842,32 @@
 					{
 						"Name": "OnlineSubsystemSteam",
 						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Editor/DataValidation/DataValidation.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Data Validation",
+				"Description": "Editor UI and utilities for running data validation",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "DataValidation",
+						"Type": "Editor",
+						"LoadingPhase": "PreDefault"
 					}
 				]
 			}
@@ -758,29 +900,26 @@
 			}
 		},
 		{
-			"File": "../../../FSD/Plugins/Modio/Modio.uplugin",
+			"File": "../../../FSD/Plugins/FSDEditorTools/FSDReferenceViewer/FSDReferenceViewer.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
 				"Version": 1,
-				"VersionName": "2.0",
-				"FriendlyName": "mod.io",
-				"Description": "Powerful Mod API",
-				"Category": "Other",
-				"CreatedBy": "mod.io",
-				"CreatedByURL": "https://mod.io",
+				"VersionName": "1.0",
+				"FriendlyName": "FSDReferenceViewer",
+				"Description": "",
+				"Category": "FSDEditor",
+				"CreatedBy": "Tobias",
+				"CreatedByURL": "",
 				"DocsURL": "",
-				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1ab22ed2961a4cc19b9151bd072df998",
-				"SupportURL": "http://discord.mod.io",
-				"EngineVersion": "4.25.0",
+				"MarketplaceURL": "",
+				"SupportURL": "",
 				"CanContainContent": true,
-				"IsBetaVersion": true,
-				"Installed": true,
 				"Modules": [
 					{
-						"Name": "Modio",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
+						"Name": "FSDReferenceViewer",
+						"Type": "Editor",
+						"LoadingPhase": "PostEngineInit"
 					}
 				]
 			}
@@ -867,6 +1006,42 @@
 						"Name": "PluginBrowser",
 						"Type": "Editor",
 						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../FSD/Platforms/Win64/Plugins/RunTime/DiscordSDK/DiscordSDK_Win64.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 0,
+				"VersionName": "",
+				"FriendlyName": "",
+				"Description": "",
+				"Category": "",
+				"CreatedBy": "",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": false,
+				"SupportedTargetPlatforms": [
+					"Win32",
+					"Win64"
+				],
+				"Plugins": [
+					{
+						"Name": "OnlineSubsystem",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystemUtils",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystemSteam",
+						"Enabled": true
 					}
 				]
 			}
@@ -1837,301 +2012,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/MagicLeap/MagicLeapPassableWorld/MagicLeapPassableWorld.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Magic Leap Passable World",
-				"Description": "Shared world experiences on XR devices supported by Magic Leap.",
-				"Category": "Augmented Reality",
-				"CreatedBy": "Magic Leap, Inc.",
-				"CreatedByURL": "http://magicleap.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"SupportedTargetPlatforms": [
-					"Lumin",
-					"Mac",
-					"Win64"
-				],
-				"Modules": [
-					{
-						"Name": "MagicLeapARPin",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "MagicLeapSharedWorld",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/MagicLeap/MagicLeap/MagicLeap.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Magic Leap",
-				"Description": "Support for the Magic Leap Head Mounted Display.",
-				"Category": "Augmented Reality",
-				"CreatedBy": "Magic Leap, Inc.",
-				"CreatedByURL": "http://magicleap.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"SupportedTargetPlatforms": [
-					"Lumin",
-					"Mac",
-					"Win64"
-				],
-				"Modules": [
-					{
-						"Name": "MagicLeap",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapAR",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapARPinImpl",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapAudio",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapAudioCapture",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapController",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapEyeTracker",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapHandTracking",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapHelperOpenGL",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapHelperVulkan",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapIdentity",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapImageTracker",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapPlanes",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapPrivileges",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapSecureStorage",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapHandMeshing",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "MLSDK",
-						"Enabled": true
-					},
-					{
-						"Name": "MagicLeapPassableWorld",
-						"Enabled": true
-					},
-					{
-						"Name": "MagicLeapLightEstimation",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/MagicLeap/MLSDK/MLSDK.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "MLSDK",
-				"Description": "Native C-API support for Magic Leap.",
-				"Category": "Lumin",
-				"CreatedBy": "Magic Leap, Inc.",
-				"CreatedByURL": "http://magicleap.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/MagicLeap/MagicLeapLightEstimation/MagicLeapLightEstimation.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Magic Leap Light Estimatation",
-				"Description": "Support for the Magic Leap Light Tracking API.",
-				"Category": "Lumin",
-				"CreatedBy": "Magic Leap, Inc.",
-				"CreatedByURL": "http://magicleap.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": false,
-				"SupportedTargetPlatforms": [
-					"Lumin",
-					"Win64",
-					"Mac"
-				],
-				"Modules": [
-					{
-						"Name": "MagicLeapLightEstimation",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "MLSDK",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin",
 			"Descriptor": 
 			{
@@ -2921,6 +2801,76 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Runtime/Oculus/OculusVR/OculusVR.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.44.0",
+				"FriendlyName": "Oculus VR",
+				"Description": "Support for Oculus headsets and controllers",
+				"Category": "Virtual Reality",
+				"CreatedBy": "Oculus",
+				"CreatedByURL": "https://www.oculus.com/",
+				"DocsURL": "https://developer.oculus.com/documentation/unreal/latest/concepts/unreal-engine/",
+				"MarketplaceURL": "",
+				"SupportURL": "https://forums.oculusvr.com/developer/categories/unreal",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"SupportedTargetPlatforms": [
+					"Win32",
+					"Win64",
+					"Android"
+				],
+				"Modules": [
+					{
+						"Name": "OculusHMD",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Android"
+						]
+					},
+					{
+						"Name": "OculusInput",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Android"
+						]
+					},
+					{
+						"Name": "OculusMR",
+						"Type": "Runtime",
+						"LoadingPhase": "PostEngineInit",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Android"
+						]
+					},
+					{
+						"Name": "OculusEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "ProceduralMeshComponent",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Runtime/RuntimePhysXCooking/RuntimePhysXCooking.uplugin",
 			"Descriptor": 
 			{
@@ -2969,6 +2919,78 @@
 						"Name": "SoundFields",
 						"Type": "Runtime",
 						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "SteamVR",
+				"Description": "Support for the SteamVR API",
+				"Category": "Virtual Reality",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"SupportedTargetPlatforms": [
+					"Win32",
+					"Win64",
+					"Linux"
+				],
+				"Modules": [
+					{
+						"Name": "SteamVR",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Linux"
+						]
+					},
+					{
+						"Name": "SteamVRInput",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Linux"
+						]
+					},
+					{
+						"Name": "SteamVRInputDevice",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Linux"
+						]
+					},
+					{
+						"Name": "SteamVREditor",
+						"Type": "Editor",
+						"LoadingPhase": "PostEngineInit",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Linux"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "ProceduralMeshComponent",
+						"Enabled": true
 					}
 				]
 			}
