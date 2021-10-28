@@ -19,7 +19,8 @@
 				"CoreUObject",
 				"AIModule",
 				"Slate",
-				"SlateCore"
+				"SlateCore",
+				"DiscordSDK"
 			]
 		},
 		{
@@ -116,10 +117,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false
-		},
-		{
 			"Name": "ArchVisCharacter",
 			"Enabled": false
 		},
@@ -169,10 +166,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d070c3fab7b74c08bab3a89c9cbf4490"
 		},
 		{
-			"Name": "ApexDestruction",
-			"Enabled": true
-		},
-		{
 			"Name": "AndroidPermission",
 			"Enabled": false
 		},
@@ -186,10 +179,6 @@
 		},
 		{
 			"Name": "KDevelopSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "OculusVR",
 			"Enabled": false
 		},
 		{
@@ -239,6 +228,59 @@
 		},
 		{
 			"Name": "ScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "MagicLeapMedia",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin"
+			]
+		},
+		{
+			"Name": "MagicLeap",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Mac",
+				"Win64"
+			]
+		},
+		{
+			"Name": "MagicLeapPassableWorld",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Mac",
+				"Win64"
+			]
+		},
+		{
+			"Name": "MLSDK",
+			"Enabled": false
+		},
+		{
+			"Name": "Modio",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1ab22ed2961a4cc19b9151bd072df998",
+			"WhitelistPlatforms": [
+				"Win64"
+			],
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "Linter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ca0639af6339476da86fa3bcf15de8ec"
+		},
+		{
+			"Name": "PS5_Mock",
+			"Enabled": true
+		},
+		{
+			"Name": "FSDRawInput",
 			"Enabled": true
 		}
 	]
