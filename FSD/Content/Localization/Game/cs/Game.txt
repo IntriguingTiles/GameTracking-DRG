@@ -1,8 +1,8 @@
-7224 entries
+7226 entries
 33 namespaces
-5977 values
+5979 values
 
-Namespace Global (6778 keys)
+Namespace Global (6781 keys)
 	1FDA61D648F87E331CA7489375A84335 = "
 Varování: Vypne všechny vaše sandbox módy."
 	A2B0C5B2490433FB57B3008A2A36ECB9 = "        restart        "
@@ -3590,6 +3590,7 @@ TUTORIÁL"
 	167BDCA94542F62B52AAF2A28F30B876 = "Vysyp to!"
 	10AD5DAA4846E3A637649FB9B98FC0EE = "Pojďme opravit to potrubí!"
 	906154244EB1EDE97A747B8B33A3E41B = "Letím na to!"
+	03C2049946AF25F305687893DF41F96E = "Následujme mulu. -má namířeno k výsadkovému modulu!"
 	9B48C3AC4B446C0909066D80A1F2048D = "Zapomenem že se tahle mise stala a začněme jinou!"
 	0D8EAE8F408758C7D6713CAEDF932259 = "Vraťme se do práce!"
 	0C3024B647484EE771A250B5CC1FF83A = "Barmane, dej nám Důlní Krysy, ať se pořádně vožerem!"
@@ -4030,6 +4031,7 @@ něco o prázdných matricích a nabíječi matric"
 	0F5DEE5E4760C31F00CA03B68EBA6C1C = "Čas strávený v misích"
 	87ED4E2C4334C3C6D6D835BE1FEFF8C0 = "Mise splněna. Ředitel mluví o bonusu."
 	6817C0064C5566961361409692CF4F60 = "Mise splněna. Dobrá práce, týme."
+	009AEC2C4D9A417BE69EF4B6376CBCC6 = "Mise je vybrána - výsadkový modul je nastartován. Nastupovat, týme!"
 	470547694BE786FA2F45049F27CD82A7 = "Mise vybrána a zamířena. Čas nalodit se do Drop Podu."
 	0664EDEF406B5BF10A5D6AA8D196ED2A = "Mise vybrána. Váš kočár čeká, pánové. Pohyb."
 	387FB2484DFA5766DA90E6A725E0F0BB = "Mise"
@@ -4205,6 +4207,7 @@ něco o prázdných matricích a nabíječi matric"
 	AA69BDB240F49DEC063C258BC3D23A7A = "Právě vyšlo nové kosmetické DLC!"
 	2539F70A449C24824AEC1F9D8CFFDA58 = "V terminálu hornické komunity je dostupná nová odměna!"
 	0F0FCBA34EB97CA1D0C4F0BB30E6F8F9 = "Další Denní Nabídka"
+	0082EC764D6530478ACF61ACD4C86A07 = "Další odměna"
 	BAC61B4E47D79CF780A15EA41F65AD74 = "Další kolo je na mě!"
 	BF5D4A09462C925CF7C2F59AD63A8017 = "Příště jeďme někam kde je pěkně..."
 	4D640D894D9D0D1BD6EA2AA7C1490877 = "Příště se držte toho zatraceného plánu!"
@@ -7104,17 +7107,8 @@ Namespace Missions (2 keys)
 	0BFE0DE04F6F7554A68740AD8DC2B9D1 = "Úkoly splněny, nyní můžete skrze MULU zavolat výsadkový modul."
 	AC8C82C9467F1B6CF71EE79570922140 = "Lokální rafinace"
 
-Namespace Modding (3 keys)
+Namespace Modding (2 keys)
 	MaxActiveMods = "Při zakládání hry pro více hráčů je maximální počet modů 25. Sólo hry nejsou omezeny."
-	JoiningFail_Body = "Bohužel se něco pokazilo a nemůžete se připojit do hry.
-
-Některé z běžných příčin:
-- Špatné internetové připojení
-- Stránka mod.io nefunguje
-- Služby Steam nefungují
-- Vypnuli jste podporu modů pomocí nastavení při spuštění.
-
-Zkuste restartovat hru. "
 	JoiningFail_Header = "Chystáte se připojit do hry s mody."
 
 Namespace MutatorDescriptions (18 keys)
