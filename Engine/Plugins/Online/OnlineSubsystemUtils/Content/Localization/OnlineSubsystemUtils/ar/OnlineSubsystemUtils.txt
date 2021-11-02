@@ -1,0 +1,28 @@
+3 namespaces
+20 values
+
+Namespace EPartyReservationResult (10 keys)
+	Accepted = "مقبول"
+	InvalidReservation = "طلب حجز خاطئ"
+	DuplicateReservation = "تم اكتشاف حجز مكرر"
+	FullGame = "اللعبة كاملة"
+	ReservationNotFound = "لا يوجد حجز"
+	NoResponse = "لا توجد استجابة"
+	DeniedResponse = "لا يقبل الاتصالات"
+	ContainsExistingPlayers = "أفراد الاتصال الجماعي في المباراة بالفعل"
+	BannedResponse = "تم حظر اللاعب"
+	GeneralError = "خطأ غير معروف"
+
+Namespace K2Node (3 keys)
+	FlushLeaderboards = "مسح لوحات الصدارة"
+	K2Node_LeaderboardFlush_Tooltip = "يقوم بمسح لوحات الصدارة لإحدى الجلسات"
+	LeaderboardFlushCategory = "متصل|لوحة الصدارة"
+
+Namespace NetworkErrors (7 keys)
+	GenericBeaconConnectionFailed = "فشل الاتصال بالمنارة."
+	BeaconSpawnFailureError = "فشل الانضمام؛ لا يمكن تجديد المنارة."
+	BeaconSpawnClientWorldPackageNameError = "فشل الانضمام؛ جارٍ الخروج من ClientWorldPackageName."
+	BeaconSpawnExistingActorError = "فشل الانضمام؛ جارٍ الخروج من القائم بالتصرف بشأن المنارة."
+	BeaconSpawnNetGUIDAckError2 = "فشل الانضمام؛ لا يوجد قائم بالتصرف لدى NetGUIDAck."
+	BeaconSpawnNetGUIDAckError1 = "فشل الانضمام؛ لا يوجد كائن مضيف لدى NetGUIDAck."
+	BeaconSpawnUnexpectedError = "فشل الانضمام؛ رسالة تحكم غير متوقعة."
