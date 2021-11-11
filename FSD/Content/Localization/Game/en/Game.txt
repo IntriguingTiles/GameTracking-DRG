@@ -1,8 +1,8 @@
-13862 entries
+13865 entries
 49 namespaces
-11199 values
+11202 values
 
-Namespace Global (12884 keys)
+Namespace Global (12887 keys)
 	B3F8734C4E8B3CD1EEFCF0BD4CF257D9 = "
 BUILDING: "
 	AFF47950477E391DB079CC9E74F2B0D4 = "
@@ -3901,7 +3901,7 @@ This will unbind  '{ActionName}'"
 	769BD2E049E7070E1670F2BA245C1737 = "Face"
 	DF02EC8941C9C0BF6DE36CA75225500C = "Face Melter"
 	6FBFE5D64B35660D02887AA538473145 = "Facility Generator"
-	06F082AF48DDD502B51524AD292B2047 = "Facility Turret Foot"
+	06F082AF48DDD502B51524AD292B2047 = "Facility Turret Base"
 	BC96875A4252AB6E95D7B2A7341446F2 = "Fact: Cave Leeches are not as afraid of you as you are of them."
 	8F7BDD2D4C55CBDB1B128FB9532AB6A5 = "Failed to Join Server"
 	FAB52F0E4F03CAA4BEAD089D2337E961 = "Failed to Join Server"
@@ -9568,6 +9568,7 @@ MISSION"
 	DB97BA8F48F2D4F6272286924F59002D = "Salt Formations"
 	3E794CE343D955C99A798D94FCC69F14 = "Salt Pits"
 	936157E4482219D6BC45FE8898B9572C = "Salt Pits Missions Completed"
+	09AB631F4312E1BBAC2939BD25DAEE84 = "Salute"
 	8A72EE6044DC0FDADE7085A1C67B0625 = "Salute"
 	8BC5E4024C1F140941755090E50DE0EF = "Salute"
 	71BB3FD34003F9E5896BA283834539AD = "Salvage Operation"
@@ -10522,6 +10523,7 @@ MISSION"
 	66436EFA43ED32446887EA939B69AA2E = "Switch to GUNNER"
 	E091F6694391B81BFFADFD8135DE6658 = "Switch to SCOUT"
 	679A42A9498FC32808218091A5F67ECD = "Søren Lundgaard"
+	B52A0AAA487E5585C43B96855B2134C0 = "T - Teleport to Point"
 	DB6F3E7F4A842CA15ABE64A9833AA272 = "T'is the Spooky Season!"
 	61668E2B4AE4FBDE1C1094862D55F46B = "T'was the Night before Yuletide, and all through the Mine..."
 	9FAE1BA246784FFFCAE077BB06D7EAB1 = "TAA (Experimental)"
@@ -12643,6 +12645,7 @@ Management"
 	D8BC90E341B3418BEF1CF09129996ADF = "Xenofungus"
 	44BADFF442B362A3BD1C18994AEC04C4 = "Xynarch Charge-Sucker"
 	25C9563D48D659916A1C1999E0593F99 = "Y - Set spline point at drone location"
+	F88A7ED842353CF2A181F19C4D41057B = "Y - Toggle Camera Shake"
 	FCE2E8EF4215BC3BBCCECFA8F0B93DBD = "YATZEE!"
 	711206EB412C72C18F3DE896C4F4286D = "YEAH! The Caretaker is down!"
 	BD3EB4F04593E09B794661ABA1B53E9D = "YEEAASST CONE!"
@@ -13051,7 +13054,6 @@ You can now equip <highlight2>two</> active perks. Choose wisely!"
 	54763469445633F515851987363411AA = "[MapTool]"
 	EFB6796C44FBB6920A5BA98BC6E717F7 = "[MenuAction1] Refresh"
 	61E6BEB7400B280E47AFD699200DBB61 = "[MenuAction1] SELECT"
-	DEA8624A43D1507A15C6B0BF9F321C0B = "[MenuAction1] SELECT"
 	36F88F104AC7C9B71D13EDB8ABB64A83 = "[MenuBack]"
 	397D308F407E610896A6FCB45CC92B84 = "[MenuBack]"
 	101C9E2F4E61D897957A6F8AB9BD2AF9 = "[MenuBack] Cancel"
@@ -13077,6 +13079,7 @@ You can now equip <highlight2>two</> active perks. Choose wisely!"
 	E2BC3A244E507365EE106F802D5F0584 = "[PrevItemMenu]"
 	C5B0B9C14585FA0E97452690288EAD4A = "[RejectInvite] No"
 	AF1246A44BB5BB19955982A4C7F64989 = "[Salute]"
+	C965F1724BE4FBDEB30BF19142D34CA0 = "[SelectCharacter] Select"
 	6CE632FB4CA26727717D80A9E0D5B2FB = "[SelectCharacter] Switch to Character"
 	AF30D96944D109CA061825B083DE6AFC = "[SelectCharacter] Switch to Character"
 	0C9D05624C7758CB6E943DA6DFD78C26 = "[SelectNextCharMenu]"
@@ -14216,13 +14219,6 @@ ATTENTION! Once started, this Assignment cannot be aborted! And once the 3 Years
 
 - Regards, 
 Management"
-	Prestige_Assignment_Description_ScaleBrigade = "Congratulation, Miners!
-You have steadily been climbing the ranks and proven yourself an important asset to the company! Management is rewarding you with access to a SPECIAL PRESTIGE ASSIGNMENT, where you get the chance to obtain the SCALE BRIGADE armor set.
-
-Congratulations on your progression!
-
-- Regards, 
-Management"
 	Continue = "Continue"
 	SludgePump_Name = "Corrosive Sludge Pump"
 	CryoCannon_Name = "Cryo Cannon"
@@ -14320,6 +14316,14 @@ Management"
 	Prestige_Assignment_description_ArmorHunt = "You have steadily been climbing the ranks and proven yourself an important asset to the company! Management is rewarding you with access to a SPECIAL PRESTIGE ASSIGNMENT, where you get the chance to obtain a unique ARMOR PAINTJOB and HELMET.
 
 Congratulations on your progression!
+
+- Regards, 
+Management"
+	Prestige_Assignment_Description_ScaleBrigade = "You have steadily been climbing the ranks and proven yourself an important asset to the company! Management is rewarding you with access to a SPECIAL PRESTIGE ASSIGNMENT, where you get the chance to obtain the SCALE BRIGADE armor set.
+
+ATTENTION! Once started, this Assignment cannot be aborted!
+
+Congratulations on your progression! 
 
 - Regards, 
 Management"

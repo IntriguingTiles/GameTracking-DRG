@@ -7932,7 +7932,7 @@ SCRIPS
 	6B5B41CA4F09D9D92BAF04AC083B330B = "ANNONCE : Les unités MULEs sont des machines, pas des animaux de compagnie ! Les appeler "Molly" ne changera en rien leur logique de programmation."
 	57F5AFF2491C3C0E0E5C82BDF3ED0CC0 = "ANNONCE : Les unités MULEs sont des machines, pas des animaux de compagnie ! Les appeler "Molly" ne changera en rien leur logique de programmation."
 	746551A1442BB60C70887389306CBE97 = "ANNONCE : Les unités MULEs sont des machines, pas des animaux de compagnie ! Les appeler "Molly" ne changera en rien leur logique de programmation."
-	6F044BB848EBDA1BC56FFDB90965B4FA = "ANNONCE : Le stand de tir est actuellement fermé pour maintenance. La direction rappelle qu'il est STRICTEMENT interdit de s'entraîner au maniement des armes dans les zones qui ne sont pas prévues à cet effet."
+	6F044BB848EBDA1BC56FFDB90965B4FA = "ANNONCE : Le stand de tir est fermé pour maintenance. La direction demandent aux employés de ne pas s'entraîner au maniement des armes dans les zones qui ne sont pas prévues à cet effet."
 	E82365B2495912F596DA23ABD0815AC7 = "ANNONCE : Si vous souhaitez personnaliser ou améliorer votre équipement, rendez-vous dans vos quartiers personnels et accédez au terminal de sélection de la classe."
 	09926EE44B057C628C8A9F9DD2518ADC = "ACHETER"
 	75AEE9034DCA596364116A8C5F01C1FA = "ACHETER UN ARTICLE"
@@ -12374,7 +12374,6 @@ En tuer un avec un tir direct le fera exploser !"
 	EC489D3A46921A1C402CAC995189A9B2 = "[Jump] Retirer"
 	433BBF6C47837D1D867AD7B699BD8B51 = "[ARME VERROUILLÉE]"
 	EFB6796C44FBB6920A5BA98BC6E717F7 = "[MenuAction1] Actualiser"
-	DEA8624A43D1507A15C6B0BF9F321C0B = "[MenuAction1] SÉLECTIONNER"
 	101C9E2F4E61D897957A6F8AB9BD2AF9 = "[MenuBack] Annuler"
 	587CEBE449AAC16C2D2E12B31FBDD9CC = "[MenuBack] Fermer"
 	1E7B80914DE439CF1B6448A38DB13FFA = "[MenuButton] Donner une accolade"
@@ -12388,6 +12387,7 @@ En tuer un avec un tir direct le fera exploser !"
 	AAB1A51042B3FB89C6E45788168483AB = "[OkMenu] Liste Serveurs"
 	F62952864AC9BD5C00DDEA94DDF7A682 = "[OpenSavesMenu] Rafraichir"
 	C5B0B9C14585FA0E97452690288EAD4A = "[RejectInvite] Non"
+	C965F1724BE4FBDEB30BF19142D34CA0 = "[SelectCharacter] SÉLECTIONNER"
 	6CE632FB4CA26727717D80A9E0D5B2FB = "[SelectCharacter] Changer de classe"
 	AF30D96944D109CA061825B083DE6AFC = "[SelectCharacter] Changer de classe"
 	06E048274A1D923344CD769B08CF1558 = "[Use] Annuler"
@@ -13353,13 +13353,6 @@ ATTENTION ! Une fois commencée cette affectation ne peut pas être interrompue 
 
 - Amité,
 La direction"
-	Prestige_Assignment_Description_ScaleBrigade = "Félicitations, mineur !
-Vous avez progressivement gravis les échelons et vous vous êtes révélé un atout important pour l'entreprise ! La direction vous en remercie avec un accès à une AFFECTATION SPÉCIALE DE PRESTIGE, pendant laquelle vous pourrez obtenir un L'ARMURE BRIGADE DRACONIQUE.
-
-Félicitation pour votre avancement !
-
-Cordialement,
-La direction"
 	Continue = "Continuer"
 	SludgePump_Name = "Pompe à résidus caustiques"
 	CryoCannon_Name = "Cryo canon"
@@ -13450,6 +13443,13 @@ Félicitation pour votre avancement !
 Cordialement,
 La direction"
 	Prestige_Assignment_description_ArmorHunt = "Vous avez progressivement gravis les échelons et vous vous êtes révélé un atout important pour l'entreprise ! La direction vous en remercie avec un accès à une AFFECTATION SPÉCIALE DE PRESTIGE, pendant laquelle vous pourrez obtenir une PEINTURE D'ARMURE et un CASQUE exclusifs.
+
+Félicitation pour votre avancement !
+
+Cordialement,
+La direction"
+	Prestige_Assignment_Description_ScaleBrigade = "Félicitations, mineur !
+Vous avez progressivement gravis les échelons et vous vous êtes révélé un atout important pour l'entreprise ! La direction vous en remercie avec un accès à une AFFECTATION SPÉCIALE DE PRESTIGE, pendant laquelle vous pourrez obtenir un L'ARMURE DE LA BRIGADE DRACONIQUE.
 
 Félicitation pour votre avancement !
 
