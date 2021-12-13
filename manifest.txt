@@ -1,10 +1,10 @@
 Content Manifest for Depot 548431
 
-Manifest ID / date     : 1796248975975739693 / 12/09/2021 09:30:28
+Manifest ID / date     : 8561144527311588012 / 12/13/2021 10:00:53
 Total number of files  : 131
-Total number of chunks : 2747
-Total bytes on disk    : 2714760811
-Total bytes compressed : 2354797888
+Total number of chunks : 2749
+Total bytes on disk    : 2716957803
+Total bytes compressed : 2355451392
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 Engine
@@ -135,7 +135,7 @@ Total bytes compressed : 2354797888
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64
         847440      1 F0103C77E4E3FB5640A6D01A79644A8CFC5E4EED     0 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll
              0      0 0000000000000000000000000000000000000000    64 Engine/Binaries/Win64
-      18208768     18 7BFB0E146CF2EA2C9882F917DFA1E1972C78AA37     0 Engine/Binaries/Win64/CrashReportClient.exe
+      18208768     18 DD46C505CF0434A0AFD12FD2F8DE120E59F8887F     0 Engine/Binaries/Win64/CrashReportClient.exe
        3693568      4 C2051E1573CCAA942FB4FF043386C989DF2DBF7E     0 Engine/Binaries/Win64/UnrealCEFSubProcess.exe
              0      0 0000000000000000000000000000000000000000    64 Engine/Content
              0      0 0000000000000000000000000000000000000000    64 Engine/Content/SlateDebug
@@ -152,10 +152,10 @@ Total bytes compressed : 2354797888
              0      0 0000000000000000000000000000000000000000    64 Engine/Programs/CrashReportClient/Content/Paks
       21387590     21 415FC80E3969FBA9C6E1F8F745E3FA1C5A669276     0 Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak
              0      0 0000000000000000000000000000000000000000    64 FSD
-        518656      1 86639D01CC2712AD163A6F31C79CC03D6FC72C86     0 FSD.exe
+        518656      1 DA5BB8D4FAC9284D6749C633EBB24ED1EC4E7D1A     0 FSD.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Binaries/Win64
-      83824128     81 63C3F89EC0DD82383D7C19B013EEEA0D8AC6F30C     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
+      86021120     83 6E378F5F5C0750569B600B2C9C36F45A49DA88D1     0 FSD/Binaries/Win64/FSD-Win64-Shipping.exe
              0      0 0000000000000000000000000000000000000000    64 FSD/Content
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Movies
       32848087     32 FB66544BCCE6B5011982D0C590ADF4F603346572     0 FSD/Content/Movies/CharacterSelectionVignet_Driller_01_540.mp4
@@ -184,7 +184,7 @@ Total bytes compressed : 2354797888
       23800867     23 FFEBCBFD6DEFFF1C7A57F684A2626420E2A67AC5     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SaltPits_New.mp4
       25906254     25 F9D9627C3B1C996F0A8DDF433368E89398C781CB     0 FSD/Content/Movies/DeepDives_Biomes/Bioms_Videos_SandblastedCorridors_3_BrightnessUp_adjustcolor.mp4
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Paks
-    1569610415   1572 2C7990663928D4A3174F5C5E72B70EDF2FACE6A7     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
+    1569610415   1572 7739E04213CE45DC7490010FF1466D22C031DBB7     0 FSD/Content/Paks/FSD-WindowsNoEditor.pak
              0      0 0000000000000000000000000000000000000000    64 FSD/Content/Splash
         360056      1 6C6BA3759C3C5D398926BAC0A656C43391B6F013     0 FSD/Content/Splash/Splash.bmp
              0      0 0000000000000000000000000000000000000000    64 FSD/Platforms
@@ -203,5 +203,5 @@ Total bytes compressed : 2354797888
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia/FSDAnsel/Binaries
              0      0 0000000000000000000000000000000000000000    64 FSD/Plugins/Nvidia/FSDAnsel/Binaries/ThirdParty
         662368      1 EB41BE9DEA3D3B62B6BF06CD7CC900ACF2D21154     0 FSD/Plugins/Nvidia/FSDAnsel/Binaries/ThirdParty/AnselSDK64.dll
-           979      1 8388514F8F16B2256D4506BBD8257684CA02275A     0 Manifest_DebugFiles_Win64.txt
-         10284      1 D6A864FAFC8C141CBF75CDB851488835384EAA04     0 Manifest_NonUFSFiles_Win64.txt
+           979      1 BBE50BFAB201CA74FD2F16A20866E2D26CD77715     0 Manifest_DebugFiles_Win64.txt
+         10284      1 73B098357C7457585253AF6F71C0DC9F0F7637AF     0 Manifest_NonUFSFiles_Win64.txt
